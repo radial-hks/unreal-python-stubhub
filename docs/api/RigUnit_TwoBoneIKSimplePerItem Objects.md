@@ -1,0 +1,433 @@
+## RigUnit_TwoBoneIKSimplePerItem Objects
+
+```python
+class RigUnit_TwoBoneIKSimplePerItem(RigUnit_HighlevelBaseMutable)
+```
+
+Solves the two bone IK given two bones.
+Note: This node operates in world space!
+
+**C++ Source:**
+
+- **Plugin**: ControlRig
+- **Module**: ControlRig
+- **File**: RigUnit_TwoBoneIKSimple.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``debug_settings`` (RigUnit_TwoBoneIKSimple_DebugSettings):  [Read-Write] The settings for debug drawing
+- ``effector`` (Transform):  [Read-Write] The transform of the effector
+- ``effector_item`` (RigElementKey):  [Read-Write] The name of the effector item (if exists)
+- ``enable_stretch`` (bool):  [Read-Write] If set to true the stretch feature of the solver will be enabled
+- ``execute_context`` (ControlRigExecuteContext):  [Read-Write] * This property is used to chain multiple mutable units together
+- ``item_a`` (RigElementKey):  [Read-Write] The name of first item
+- ``item_a_length`` (float):  [Read-Write] The length of the first item.
+  If set to 0.0 it will be determined by the hierarchy
+- ``item_b`` (RigElementKey):  [Read-Write] The name of second item
+- ``item_b_length`` (float):  [Read-Write] The length of the second item.
+  If set to 0.0 it will be determined by the hierarchy
+- ``pole_vector`` (Vector):  [Read-Write] The polevector to use for the IK solver
+  This can be a location or direction.
+- ``pole_vector_kind`` (ControlRigVectorKind):  [Read-Write] The kind of pole vector this is representing - can be a direction or a location
+- ``pole_vector_space`` (RigElementKey):  [Read-Write] The space in which the pole vector is expressed
+- ``primary_axis`` (Vector):  [Read-Write] The major axis being aligned - along the item
+- ``propagate_to_children`` (bool):  [Read-Only] If set to true all of the global transforms of the children
+  of this bone will be recalculated based on their local transforms.
+  Note: This is computationally more expensive than turning it off.
+- ``secondary_axis`` (Vector):  [Read-Write] The minor axis being aligned - towards the polevector
+- ``secondary_axis_weight`` (float):  [Read-Write] Determines how much the secondary axis roll is being applied
+- ``stretch_maximum_ratio`` (float):  [Read-Write] The maximum allowed stretch ratio
+- ``stretch_start_ratio`` (float):  [Read-Write] The ratio where the stretch starts
+- ``weight`` (float):  [Read-Write] The weight of the solver - how much the IK should be applied.
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.__init__"></a>
+
+#### __init__
+
+```python
+def __init__(
+    execute_context: ControlRigExecuteContext = [],
+    item_a: RigElementKey = [RigElementType.NONE, "None"],
+    item_b: RigElementKey = [RigElementType.NONE, "None"],
+    effector_item: RigElementKey = [RigElementType.NONE, "None"],
+    effector: Transform = [[0.000000, 0.000000, 0.000000],
+                           [-0.000000, 0.000000, 0.000000],
+                           [1.000000, 1.000000, 1.000000]],
+    primary_axis: Vector = [0.000000, 0.000000, 0.000000],
+    secondary_axis: Vector = [0.000000, 0.000000, 0.000000],
+    secondary_axis_weight: float = 0.000000,
+    pole_vector: Vector = [0.000000, 0.000000, 0.000000],
+    pole_vector_kind: ControlRigVectorKind = ControlRigVectorKind.DIRECTION,
+    pole_vector_space: RigElementKey = [RigElementType.NONE, "None"],
+    enable_stretch: bool = False,
+    stretch_start_ratio: float = 0.000000,
+    stretch_maximum_ratio: float = 0.000000,
+    weight: float = 0.000000,
+    item_a_length: float = 0.000000,
+    item_b_length: float = 0.000000,
+    propagate_to_children: bool = False,
+    debug_settings: RigUnit_TwoBoneIKSimple_DebugSettings = [
+        False, 10.000000,
+        [[0.000000, 0.000000, 0.000000], [-0.000000, 0.000000, 0.000000],
+         [1.000000, 1.000000, 1.000000]]
+    ]
+) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.item_a"></a>
+
+#### item_a
+
+```python
+@property
+def item_a() -> RigElementKey
+```
+
+(RigElementKey):  [Read-Write] The name of first item
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.item_a"></a>
+
+#### item_a
+
+```python
+@item_a.setter
+def item_a(value: RigElementKey) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.item_b"></a>
+
+#### item_b
+
+```python
+@property
+def item_b() -> RigElementKey
+```
+
+(RigElementKey):  [Read-Write] The name of second item
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.item_b"></a>
+
+#### item_b
+
+```python
+@item_b.setter
+def item_b(value: RigElementKey) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.effector_item"></a>
+
+#### effector_item
+
+```python
+@property
+def effector_item() -> RigElementKey
+```
+
+(RigElementKey):  [Read-Write] The name of the effector item (if exists)
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.effector_item"></a>
+
+#### effector_item
+
+```python
+@effector_item.setter
+def effector_item(value: RigElementKey) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.effector"></a>
+
+#### effector
+
+```python
+@property
+def effector() -> Transform
+```
+
+(Transform):  [Read-Write] The transform of the effector
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.effector"></a>
+
+#### effector
+
+```python
+@effector.setter
+def effector(value: Transform) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.primary_axis"></a>
+
+#### primary_axis
+
+```python
+@property
+def primary_axis() -> Vector
+```
+
+(Vector):  [Read-Write] The major axis being aligned - along the item
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.primary_axis"></a>
+
+#### primary_axis
+
+```python
+@primary_axis.setter
+def primary_axis(value: Vector) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.secondary_axis"></a>
+
+#### secondary_axis
+
+```python
+@property
+def secondary_axis() -> Vector
+```
+
+(Vector):  [Read-Write] The minor axis being aligned - towards the polevector
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.secondary_axis"></a>
+
+#### secondary_axis
+
+```python
+@secondary_axis.setter
+def secondary_axis(value: Vector) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.secondary_axis_weight"></a>
+
+#### secondary_axis_weight
+
+```python
+@property
+def secondary_axis_weight() -> float
+```
+
+(float):  [Read-Write] Determines how much the secondary axis roll is being applied
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.secondary_axis_weight"></a>
+
+#### secondary_axis_weight
+
+```python
+@secondary_axis_weight.setter
+def secondary_axis_weight(value: float) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.pole_vector"></a>
+
+#### pole_vector
+
+```python
+@property
+def pole_vector() -> Vector
+```
+
+(Vector):  [Read-Write] The polevector to use for the IK solver
+This can be a location or direction.
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.pole_vector"></a>
+
+#### pole_vector
+
+```python
+@pole_vector.setter
+def pole_vector(value: Vector) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.pole_vector_kind"></a>
+
+#### pole_vector_kind
+
+```python
+@property
+def pole_vector_kind() -> ControlRigVectorKind
+```
+
+(ControlRigVectorKind):  [Read-Write] The kind of pole vector this is representing - can be a direction or a location
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.pole_vector_kind"></a>
+
+#### pole_vector_kind
+
+```python
+@pole_vector_kind.setter
+def pole_vector_kind(value: ControlRigVectorKind) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.pole_vector_space"></a>
+
+#### pole_vector_space
+
+```python
+@property
+def pole_vector_space() -> RigElementKey
+```
+
+(RigElementKey):  [Read-Write] The space in which the pole vector is expressed
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.pole_vector_space"></a>
+
+#### pole_vector_space
+
+```python
+@pole_vector_space.setter
+def pole_vector_space(value: RigElementKey) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.enable_stretch"></a>
+
+#### enable_stretch
+
+```python
+@property
+def enable_stretch() -> bool
+```
+
+(bool):  [Read-Write] If set to true the stretch feature of the solver will be enabled
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.enable_stretch"></a>
+
+#### enable_stretch
+
+```python
+@enable_stretch.setter
+def enable_stretch(value: bool) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.stretch_start_ratio"></a>
+
+#### stretch_start_ratio
+
+```python
+@property
+def stretch_start_ratio() -> float
+```
+
+(float):  [Read-Write] The ratio where the stretch starts
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.stretch_start_ratio"></a>
+
+#### stretch_start_ratio
+
+```python
+@stretch_start_ratio.setter
+def stretch_start_ratio(value: float) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.stretch_maximum_ratio"></a>
+
+#### stretch_maximum_ratio
+
+```python
+@property
+def stretch_maximum_ratio() -> float
+```
+
+(float):  [Read-Write] The maximum allowed stretch ratio
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.stretch_maximum_ratio"></a>
+
+#### stretch_maximum_ratio
+
+```python
+@stretch_maximum_ratio.setter
+def stretch_maximum_ratio(value: float) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.weight"></a>
+
+#### weight
+
+```python
+@property
+def weight() -> float
+```
+
+(float):  [Read-Write] The weight of the solver - how much the IK should be applied.
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.weight"></a>
+
+#### weight
+
+```python
+@weight.setter
+def weight(value: float) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.item_a_length"></a>
+
+#### item_a_length
+
+```python
+@property
+def item_a_length() -> float
+```
+
+(float):  [Read-Write] The length of the first item.
+If set to 0.0 it will be determined by the hierarchy
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.item_a_length"></a>
+
+#### item_a_length
+
+```python
+@item_a_length.setter
+def item_a_length(value: float) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.item_b_length"></a>
+
+#### item_b_length
+
+```python
+@property
+def item_b_length() -> float
+```
+
+(float):  [Read-Write] The length of the second item.
+If set to 0.0 it will be determined by the hierarchy
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.item_b_length"></a>
+
+#### item_b_length
+
+```python
+@item_b_length.setter
+def item_b_length(value: float) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.propagate_to_children"></a>
+
+#### propagate_to_children
+
+```python
+@property
+def propagate_to_children() -> bool
+```
+
+(bool):  [Read-Only] If set to true all of the global transforms of the children
+of this bone will be recalculated based on their local transforms.
+Note: This is computationally more expensive than turning it off.
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.debug_settings"></a>
+
+#### debug_settings
+
+```python
+@property
+def debug_settings() -> RigUnit_TwoBoneIKSimple_DebugSettings
+```
+
+(RigUnit_TwoBoneIKSimple_DebugSettings):  [Read-Write] The settings for debug drawing
+
+<a id="unreal.RigUnit_TwoBoneIKSimplePerItem.debug_settings"></a>
+
+#### debug_settings
+
+```python
+@debug_settings.setter
+def debug_settings(value: RigUnit_TwoBoneIKSimple_DebugSettings) -> None
+```
+
+<a id="unreal.RigUnit_TwoBoneIKSimpleVectors"></a>

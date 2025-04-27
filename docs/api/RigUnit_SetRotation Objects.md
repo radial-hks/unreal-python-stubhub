@@ -1,0 +1,183 @@
+## RigUnit_SetRotation Objects
+
+```python
+class RigUnit_SetRotation(RigUnitMutable)
+```
+
+SetRotation is used to set a single rotation on hierarchy.
+
+**C++ Source:**
+
+- **Plugin**: ControlRig
+- **Module**: ControlRig
+- **File**: RigUnit_SetTransform.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``execute_context`` (ControlRigExecuteContext):  [Read-Write] * This property is used to chain multiple mutable units together
+- ``initial`` (bool):  [Read-Write] Defines if the transform should be set as current (false) or initial (true).
+  Initial transforms for bones and other elements in the hierarchy represent the reference pose's value.
+- ``item`` (RigElementKey):  [Read-Write] The item to set the rotation for
+- ``propagate_to_children`` (bool):  [Read-Write] If set to true children of affected items in the hierarchy
+  will follow the transform change - otherwise only the parent will move.
+- ``space`` (RigVMTransformSpace):  [Read-Write] Defines if the rotation should be set in local or global space
+- ``value`` (Quat):  [Read-Write] The new rotation of the given item
+- ``weight`` (float):  [Read-Write] Defines how much the change will be applied
+
+<a id="unreal.RigUnit_SetRotation.__init__"></a>
+
+#### __init__
+
+```python
+def __init__(execute_context: ControlRigExecuteContext = [],
+             item: RigElementKey = [RigElementType.NONE, "None"],
+             space: RigVMTransformSpace = RigVMTransformSpace.LOCAL_SPACE,
+             initial: bool = False,
+             value: Quat = [0.000000, 0.000000, 0.000000, 1.000000],
+             weight: float = 0.000000,
+             propagate_to_children: bool = False) -> None
+```
+
+<a id="unreal.RigUnit_SetRotation.item"></a>
+
+#### item
+
+```python
+@property
+def item() -> RigElementKey
+```
+
+(RigElementKey):  [Read-Write] The item to set the rotation for
+
+<a id="unreal.RigUnit_SetRotation.item"></a>
+
+#### item
+
+```python
+@item.setter
+def item(value: RigElementKey) -> None
+```
+
+<a id="unreal.RigUnit_SetRotation.space"></a>
+
+#### space
+
+```python
+@property
+def space() -> RigVMTransformSpace
+```
+
+(RigVMTransformSpace):  [Read-Write] Defines if the rotation should be set in local or global space
+
+<a id="unreal.RigUnit_SetRotation.space"></a>
+
+#### space
+
+```python
+@space.setter
+def space(value: RigVMTransformSpace) -> None
+```
+
+<a id="unreal.RigUnit_SetRotation.initial"></a>
+
+#### initial
+
+```python
+@property
+def initial() -> bool
+```
+
+(bool):  [Read-Write] Defines if the transform should be set as current (false) or initial (true).
+Initial transforms for bones and other elements in the hierarchy represent the reference pose's value.
+
+<a id="unreal.RigUnit_SetRotation.initial"></a>
+
+#### initial
+
+```python
+@initial.setter
+def initial(value: bool) -> None
+```
+
+<a id="unreal.RigUnit_SetRotation.value"></a>
+
+#### value
+
+```python
+@property
+def value() -> Quat
+```
+
+(Quat):  [Read-Write] The new rotation of the given item
+
+<a id="unreal.RigUnit_SetRotation.value"></a>
+
+#### value
+
+```python
+@value.setter
+def value(value: Quat) -> None
+```
+
+<a id="unreal.RigUnit_SetRotation.rotation"></a>
+
+#### rotation
+
+```python
+@property
+def rotation() -> Quat
+```
+
+deprecated: 'rotation' was renamed to 'value'.
+
+<a id="unreal.RigUnit_SetRotation.rotation"></a>
+
+#### rotation
+
+```python
+@rotation.setter
+def rotation(value: Quat) -> None
+```
+
+<a id="unreal.RigUnit_SetRotation.weight"></a>
+
+#### weight
+
+```python
+@property
+def weight() -> float
+```
+
+(float):  [Read-Write] Defines how much the change will be applied
+
+<a id="unreal.RigUnit_SetRotation.weight"></a>
+
+#### weight
+
+```python
+@weight.setter
+def weight(value: float) -> None
+```
+
+<a id="unreal.RigUnit_SetRotation.propagate_to_children"></a>
+
+#### propagate_to_children
+
+```python
+@property
+def propagate_to_children() -> bool
+```
+
+(bool):  [Read-Write] If set to true children of affected items in the hierarchy
+will follow the transform change - otherwise only the parent will move.
+
+<a id="unreal.RigUnit_SetRotation.propagate_to_children"></a>
+
+#### propagate_to_children
+
+```python
+@propagate_to_children.setter
+def propagate_to_children(value: bool) -> None
+```
+
+<a id="unreal.RigUnit_SetScale"></a>

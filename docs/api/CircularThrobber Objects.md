@@ -1,0 +1,180 @@
+## CircularThrobber Objects
+
+```python
+class CircularThrobber(Widget)
+```
+
+A throbber widget that orients images in a spinning circle.
+
+* No Children
+* Spinner Progress
+
+**C++ Source:**
+
+- **Module**: UMG
+- **File**: CircularThrobber.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``accessible_behavior`` (SlateAccessibleBehavior):  [Read-Write] Whether or not the widget is accessible, and how to describe it. If set to custom, additional customization options will appear.
+- ``accessible_summary_behavior`` (SlateAccessibleBehavior):  [Read-Write] How to describe this widget when it's being presented through a summary of a parent widget. If set to custom, additional customization options will appear.
+- ``accessible_summary_text`` (Text):  [Read-Write] When AccessibleSummaryBehavior is set to Custom, this is the text that will be used to describe the widget.
+- ``accessible_text`` (Text):  [Read-Write] When AccessibleBehavior is set to Custom, this is the text that will be used to describe the widget.
+- ``can_children_be_accessible`` (bool):  [Read-Write] Whether or not children of this widget can appear as distinct accessible widgets.
+- ``clipping`` (WidgetClipping):  [Read-Write] Controls how the clipping behavior of this widget.  Normally content that overflows the
+  bounds of the widget continues rendering.  Enabling clipping prevents that overflowing content
+  from being seen.
+
+  NOTE: Elements in different clipping spaces can not be batched together, and so there is a
+  performance cost to clipping.  Do not enable clipping unless a panel actually needs to prevent
+  content from showing up outside its bounds.
+- ``cursor`` (MouseCursor):  [Read-Write] The cursor to show when the mouse is over the widget
+- ``enable_radius`` (bool):  [Read-Write]
+- ``flow_direction_preference`` (FlowDirectionPreference):  [Read-Write] Allows you to set a new flow direction
+- ``image`` (SlateBrush):  [Read-Write] The throbber image.
+- ``is_enabled`` (bool):  [Read-Write] Sets whether this widget can be modified interactively by the user
+- ``is_volatile`` (bool):  [Read-Write] If true prevents the widget or its child's geometry or layout information from being cached.  If this widget
+  changes every frame, but you want it to still be in an invalidation panel you should make it as volatile
+  instead of invalidating it every frame, which would prevent the invalidation panel from actually
+  ever caching anything.
+- ``navigation`` (WidgetNavigation):  [Read-Write] The navigation object for this widget is optionally created if the user has configured custom
+  navigation rules for this widget in the widget designer.  Those rules determine how navigation transitions
+  can occur between widgets.
+- ``number_of_pieces`` (int32):  [Read-Write] How many pieces there are
+- ``override_accessible_defaults`` (bool):  [Read-Write] Override all of the default accessibility behavior and text for this widget.
+- ``override_cursor`` (bool):  [Read-Write]
+- ``period`` (float):  [Read-Write] The amount of time for a full circle (in seconds)
+- ``pixel_snapping`` (WidgetPixelSnapping):  [Read-Write] If the widget will draw snapped to the nearest pixel.  Improves clarity but might cause visibile stepping in animation
+- ``radius`` (float):  [Read-Write] The radius of the circle. If the throbber is a child of Canvas Panel, the 'Size to Content' option must be enabled in order to set Radius.
+- ``render_opacity`` (float):  [Read-Write] The opacity of the widget
+- ``render_transform`` (WidgetTransform):  [Read-Write] The render transform of the widget allows for arbitrary 2D transforms to be applied to the widget.
+- ``render_transform_pivot`` (Vector2D):  [Read-Write] The render transform pivot controls the location about which transforms are applied.
+  This value is a normalized coordinate about which things like rotations will occur.
+- ``slot`` (PanelSlot):  [Read-Write] The parent slot of the UWidget.  Allows us to easily inline edit the layout controlling this widget.
+- ``tool_tip_text`` (Text):  [Read-Write] Tooltip text to show when the user hovers over the widget with the mouse
+- ``tool_tip_widget`` (Widget):  [Read-Only] Tooltip widget to show when the user hovers over the widget with the mouse
+- ``visibility`` (SlateVisibility):  [Read-Write] The visibility of the widget
+
+<a id="unreal.CircularThrobber.number_of_pieces"></a>
+
+#### number_of_pieces
+
+```python
+@property
+def number_of_pieces() -> int
+```
+
+(int32):  [Read-Write] How many pieces there are
+
+<a id="unreal.CircularThrobber.number_of_pieces"></a>
+
+#### number_of_pieces
+
+```python
+@number_of_pieces.setter
+def number_of_pieces(value: int) -> None
+```
+
+<a id="unreal.CircularThrobber.period"></a>
+
+#### period
+
+```python
+@property
+def period() -> float
+```
+
+(float):  [Read-Write] The amount of time for a full circle (in seconds)
+
+<a id="unreal.CircularThrobber.period"></a>
+
+#### period
+
+```python
+@period.setter
+def period(value: float) -> None
+```
+
+<a id="unreal.CircularThrobber.radius"></a>
+
+#### radius
+
+```python
+@property
+def radius() -> float
+```
+
+(float):  [Read-Write] The radius of the circle. If the throbber is a child of Canvas Panel, the 'Size to Content' option must be enabled in order to set Radius.
+
+<a id="unreal.CircularThrobber.radius"></a>
+
+#### radius
+
+```python
+@radius.setter
+def radius(value: float) -> None
+```
+
+<a id="unreal.CircularThrobber.image"></a>
+
+#### image
+
+```python
+@property
+def image() -> SlateBrush
+```
+
+(SlateBrush):  [Read-Write] The throbber image.
+
+<a id="unreal.CircularThrobber.image"></a>
+
+#### image
+
+```python
+@image.setter
+def image(value: SlateBrush) -> None
+```
+
+<a id="unreal.CircularThrobber.set_radius"></a>
+
+#### set_radius
+
+```python
+def set_radius(radius: float) -> None
+```
+
+x.set_radius(radius) -> None
+Sets the radius of the circle.
+
+Args:
+    radius (float):
+
+<a id="unreal.CircularThrobber.set_period"></a>
+
+#### set_period
+
+```python
+def set_period(period: float) -> None
+```
+
+x.set_period(period) -> None
+Sets the amount of time for a full circle (in seconds).
+
+Args:
+    period (float):
+
+<a id="unreal.CircularThrobber.set_number_of_pieces"></a>
+
+#### set_number_of_pieces
+
+```python
+def set_number_of_pieces(number_of_pieces: int) -> None
+```
+
+x.set_number_of_pieces(number_of_pieces) -> None
+Sets how many pieces there are.
+
+Args:
+    number_of_pieces (int32):
+
+<a id="unreal.ComboBox"></a>

@@ -1,0 +1,47 @@
+## CSVImportFactory Objects
+
+```python
+class CSVImportFactory(Factory)
+```
+
+CSVImport Factory
+
+**C++ Source:**
+
+- **Module**: UnrealEd
+- **File**: CSVImportFactory.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``asset_import_task`` (AssetImportTask):  [Read-Write] Task for importing file via script interfaces
+- ``automated_import_data`` (AutomatedAssetImportData):  [Read-Write] Data for how to import files via the automated command line importing interface
+- ``automated_import_settings`` (CSVImportSettings):  [Read-Write]
+- ``context_class`` (type(Class)):  [Read-Write] Class of the context object used to help create the object.
+- ``create_new`` (bool):  [Read-Write] The default value to return from CanCreateNew()
+- ``edit_after_new`` (bool):  [Read-Write] true if the associated editor should be opened after creating a new object.
+- ``editor_import`` (bool):  [Read-Write] true if the factory imports objects from files.
+- ``formats`` (Array[str]):  [Read-Write] List of formats supported by the factory. Each entry is of the form "ext;Description" where ext is the file extension.
+- ``supported_class`` (type(Class)):  [Read-Write] The class manufactured by this factory.
+- ``text`` (bool):  [Read-Write] true if the factory imports objects from text.
+
+<a id="unreal.CSVImportFactory.automated_import_settings"></a>
+
+#### automated_import_settings
+
+```python
+@property
+def automated_import_settings() -> CSVImportSettings
+```
+
+(CSVImportSettings):  [Read-Write]
+
+<a id="unreal.CSVImportFactory.automated_import_settings"></a>
+
+#### automated_import_settings
+
+```python
+@automated_import_settings.setter
+def automated_import_settings(value: CSVImportSettings) -> None
+```
+
+<a id="unreal.CurveFactory"></a>

@@ -1,0 +1,937 @@
+## WaterBodyComponent Objects
+
+```python
+class WaterBodyComponent(PrimitiveComponent)
+```
+
+Water Body Component
+
+**C++ Source:**
+
+- **Plugin**: Water
+- **Module**: Water
+- **File**: WaterBodyComponent.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``absolute_location`` (bool):  [Read-Write] If RelativeLocation should be considered relative to the world, rather than the parent
+- ``absolute_rotation`` (bool):  [Read-Write] If RelativeRotation should be considered relative to the world, rather than the parent
+- ``absolute_scale`` (bool):  [Read-Write] If RelativeScale3D should be considered relative to the world, rather than the parent
+- ``affect_distance_field_lighting`` (bool):  [Read-Write] Controls whether the primitive should affect dynamic distance field lighting methods.  This flag is only used if CastShadow is true. *
+- ``affect_dynamic_indirect_lighting`` (bool):  [Read-Write] Controls whether the primitive should influence indirect lighting.
+- ``affect_indirect_lighting_while_hidden`` (bool):  [Read-Write] Controls whether the primitive should affect indirect lighting when hidden. This flag is only used if bAffectDynamicIndirectLighting is true.
+- ``affects_landscape`` (bool):  [Read-Write] If enabled, landscape will be deformed based on this water body placed on top of it and landscape height will be considered when determining water depth at runtime
+- ``allow_cull_distance_volume`` (bool):  [Read-Write] Whether to accept cull distance volumes to modify cached cull distance.
+- ``always_create_physics_state`` (bool):  [Read-Write] Indicates if we'd like to create physics state all the time (for collision and simulation).
+  If you set this to false, it still will create physics state if collision or simulation activated.
+  This can help performance if you'd like to avoid overhead of creating physics state when triggers
+- ``always_generate_water_mesh_tiles`` (bool):  [Read-Write] When this is set to true, the water mesh will always generate tiles for this water body.
+  For example, this can be useful to generate water tiles even when the water material is invalid, for the case where "empty" water tiles are actually desirable.
+- ``apply_impulse_on_damage`` (bool):  [Read-Write] True for damage to this component to apply physics impulse, false to opt out of these impulses.
+- ``asset_user_data`` (Array[AssetUserData]):  [Read-Write] Array of user data stored with the component
+- ``asset_user_data_editor_only`` (Array[AssetUserData]):  [Read-Write] Array of user data stored with the component
+- ``auto_activate`` (bool):  [Read-Write] Whether the component is activated at creation or must be explicitly activated.
+- ``baked_shallow_water_sim`` (BakedShallowWaterSimulationComponent):  [Read-Only] Baked simulation data for this water body, owned by a UShallowWaterRiverComponent
+- ``body_instance`` (BodyInstance):  [Read-Write] Physics scene information for this component, holds a single rigid body with multiple shapes.
+- ``bounds_scale`` (float):  [Read-Write] Scales the bounds of the object.
+  This is useful when using World Position Offset to animate the vertices of the object outside of its bounds.
+  Warning: Increasing the bounds of an object will reduce performance and shadow quality!
+  Currently only used by StaticMeshComponent and SkeletalMeshComponent.
+- ``cached_max_draw_distance`` (float):  [Read-Only] The distance to cull this primitive at.
+  A CachedMaxDrawDistance of 0 indicates that the primitive should not be culled by distance.
+- ``can_character_step_up_on`` (CanBeCharacterBase):  [Read-Write] Determine whether a Character can step up onto this component.
+  This controls whether they can try to step up on it when they bump in to it, not whether they can walk on it after landing on it.
+  see: FWalkableSlopeOverride
+- ``can_ever_affect_navigation`` (bool):  [Read-Write] Whether this component can potentially influence navigation
+- ``cast_cinematic_shadow`` (bool):  [Read-Write] Whether this component should cast shadows from lights that have bCastShadowsFromCinematicObjectsOnly enabled.
+  This is useful for characters in a cinematic with special cinematic lights, where the cost of shadowmap rendering of the environment is undesired.
+- ``cast_contact_shadow`` (bool):  [Read-Write] Whether the object should cast contact shadows.
+  This flag is only used if CastShadow is true.
+- ``cast_dynamic_shadow`` (bool):  [Read-Write] Controls whether the primitive should cast shadows in the case of non precomputed shadowing.  This flag is only used if CastShadow is true. *
+- ``cast_far_shadow`` (bool):  [Read-Write] When enabled, the component will be rendering into the far shadow cascades (only for directional lights).
+- ``cast_hidden_shadow`` (bool):  [Read-Write] If true, the primitive will cast shadows even if bHidden is true.
+  Controls whether the primitive should cast shadows when hidden.
+  This flag is only used if CastShadow is true.
+- ``cast_inset_shadow`` (bool):  [Read-Write] Whether this component should create a per-object shadow that gives higher effective shadow resolution.
+  Useful for cinematic character shadowing. Assumed to be enabled if bSelfShadowOnly is enabled.
+- ``cast_shadow`` (bool):  [Read-Write] Controls whether the primitive component should cast a shadow or not.
+- ``cast_shadow_as_two_sided`` (bool):  [Read-Write] Whether this primitive should cast dynamic shadows as if it were a two sided material.
+- ``cast_static_shadow`` (bool):  [Read-Write] Whether the object should cast a static shadow from shadow casting lights.  This flag is only used if CastShadow is true.
+- ``cast_volumetric_translucent_shadow`` (bool):  [Read-Write] Whether the object should cast a volumetric translucent shadow.
+  Volumetric translucent shadows are useful for primitives with smoothly changing opacity like particles representing a volume,
+  But have artifacts when used on highly opaque surfaces.
+- ``collision_height_offset`` (float):  [Read-Write] The distance above the surface of the water where collision checks should still occur. Useful if the post process effect is not activating under really high waves.
+- ``component_tags`` (Array[Name]):  [Read-Write] Array of tags that can be used for grouping and categorizing. Can also be accessed from scripting.
+- ``consider_for_actor_placement_when_hidden`` (bool):  [Read-Write] If true, this component will be considered for placement when dragging and placing items in the editor even if it is not visible, such as in the case of hidden collision meshes
+- ``curve_settings`` (WaterCurveSettings):  [Read-Write]
+- ``custom_depth_stencil_value`` (int32):  [Read-Write] Optionally write this 0-255 value to the stencil buffer in CustomDepth pass (Requires project setting or r.CustomDepth == 3)
+- ``custom_depth_stencil_write_mask`` (RendererStencilMask):  [Read-Write] Mask used for stencil buffer writes.
+- ``custom_primitive_data`` (CustomPrimitiveData):  [Read-Write] Optional user defined default values for the custom primitive data of this primitive
+- ``detail_mode`` (DetailMode):  [Read-Write] If detail mode is >= system detail mode, primitive won't be rendered.
+- ``editable_when_inherited`` (bool):  [Read-Write] True if this component can be modified when it was inherited from a parent actor class
+- ``emissive_light_source`` (bool):  [Read-Write] Whether the primitive will be used as an emissive light source.
+- ``enable_auto_lod_generation`` (bool):  [Read-Write] Whether to include this component in HLODs or not.
+- ``exclude_for_specific_hlod_levels`` (Array[int32]):  [Read-Write]
+  deprecated: WARNING: This property has been deprecated, use the SetExcludedFromHLODLevel/IsExcludedFromHLODLevel functions instead
+- ``exclude_from_hlod_levels`` (uint8):  [Read-Write] Which specific HLOD levels this component should be excluded from
+- ``exclude_from_light_attachment_group`` (bool):  [Read-Write] If set, then it overrides any bLightAttachmentsAsGroup set in a parent.
+- ``fill_collision_underneath_for_navmesh`` (bool):  [Read-Write] If set, navmesh will not be generated under the surface of the geometry
+- ``first_person_primitive_type`` (FirstPersonPrimitiveType):  [Read-Write] If this is set to FirstPerson, the camera FirstPersonFieldOfView and FirstPersonScale parameters will be used on this component. These parameters can be used to render the component with a different field of view and a smaller depth range such that clipping with the scene can be avoided. This is useful for rendering first person view geometry.
+- ``fixed_water_depth`` (double):  [Read-Write] If the Water Material assigned to this component has Fixed Depth enabled, this is the depth that is passed.
+- ``force_mip_streaming`` (bool):  [Read-Write] If true, forces mips for textures used by this component to be resident when this component's level is loaded.
+- ``generate_overlap_events`` (bool):  [Read-Write]
+- ``hidden_in_game`` (bool):  [Read-Write] Whether to hide the primitive in game, if the primitive is Visible.
+- ``hidden_in_scene_capture`` (bool):  [Read-Write] When true, will not be captured by Scene Capture
+- ``hlod_batching_policy`` (HLODBatchingPolicy):  [Read-Write] Determines how the geometry of a component will be incorporated in proxy (simplified) HLODs.
+- ``holdout`` (bool):  [Read-Write] If this is True, this primitive will render black with an alpha of 0, but all secondary effects (shadows, reflections, indirect lighting) remain. This feature requires activating the project setting(s) "Alpha Output", and "Support Primitive Alpha Holdout" if using the deferred renderer.
+- ``ignore_radial_force`` (bool):  [Read-Write] Will ignore radial forces applied to this component.
+- ``ignore_radial_impulse`` (bool):  [Read-Write] Will ignore radial impulses applied to this component.
+- ``indirect_lighting_cache_quality`` (IndirectLightingCacheQuality):  [Read-Write] Quality of indirect lighting for Movable primitives.  This has a large effect on Indirect Lighting Cache update time.
+- ``is_editor_only`` (bool):  [Read-Write] If true, the component will be excluded from non-editor builds
+- ``layer_weightmap_settings`` (Map[Name, WaterBodyWeightmapSettings]):  [Read-Write]
+- ``ld_max_draw_distance`` (float):  [Read-Write] Max draw distance exposed to LDs. The real max draw distance is the min (disregarding 0) of this and volumes affecting this object.
+- ``light_attachments_as_group`` (bool):  [Read-Write] Whether to light this component and any attachments as a group.  This only has effect on the root component of an attachment tree.
+  When enabled, attached component shadowing settings like bCastInsetShadow, bCastVolumetricTranslucentShadow, etc, will be ignored.
+  This is useful for improving performance when multiple movable components are attached together.
+- ``lighting_channels`` (LightingChannels):  [Read-Write] Channels that this component should be in.  Lights with matching channels will affect the component.
+  These channels only apply to opaque materials, direct lighting, and dynamic lighting and shadowing.
+  Lighting channels are only supported on translucent materials using forward shading (i.e. when not using the translucency lighting volume).
+- ``lightmap_type`` (LightmapType):  [Read-Write]
+- ``max_wave_height_offset`` (float):  [Read-Write] Offset added to the automatically calculated max wave height bounds. Use this in case the automatically calculated max height bounds don't match your waves. This can happen if the water surface is manually altered through World Position Offset or other means.
+- ``min_draw_distance`` (float):  [Read-Write] The minimum distance at which the primitive should be rendered,
+  measured in world space units from the center of the primitive's bounding sphere to the camera position.
+- ``mobility`` (ComponentMobility):  [Read-Write] How often this component is allowed to move, used to make various optimizations. Only safe to set in constructor.
+- ``multi_body_overlap`` (bool):  [Read-Write] If true, this component will generate individual overlaps for each overlapping physics body if it is a multi-body component. When false, this component will
+  generate only one overlap, regardless of how many physics bodies it has and how many of them are overlapping another component/body. This flag has no
+  influence on single body components.
+- ``never_distance_cull`` (bool):  [Read-Write] When enabled this object will not be culled by distance. This is ignored if a child of a HLOD.
+- ``on_begin_cursor_over`` (ComponentBeginCursorOverSignature):  [Read-Write] Event called when the mouse cursor is moved over this component and mouse over events are enabled in the player controller
+- ``on_clicked`` (ComponentOnClickedSignature):  [Read-Write] Event called when the left mouse button is clicked while the mouse is over this component and click events are enabled in the player controller
+- ``on_component_activated`` (ActorComponentActivatedSignature):  [Read-Write] Called when the component has been activated, with parameter indicating if it was from a reset
+- ``on_component_begin_overlap`` (ComponentBeginOverlapSignature):  [Read-Write] Event called when something starts to overlaps this component, for example a player walking into a trigger.
+  For events when objects have a blocking collision, for example a player hitting a wall, see 'Hit' events.
+  note: Both this component and the other one must have GetGenerateOverlapEvents() set to true to generate overlap events.
+  note: When receiving an overlap from another object's movement, the directions of 'Hit.Normal' and 'Hit.ImpactNormal' will be adjusted to indicate force from the other object against this object.
+- ``on_component_deactivated`` (ActorComponentDeactivateSignature):  [Read-Write] Called when the component has been deactivated
+- ``on_component_end_overlap`` (ComponentEndOverlapSignature):  [Read-Write] Event called when something stops overlapping this component
+  note: Both this component and the other one must have GetGenerateOverlapEvents() set to true to generate overlap events.
+- ``on_component_hit`` (ComponentHitSignature):  [Read-Write] Event called when a component hits (or is hit by) something solid. This could happen due to things like Character movement, using Set Location with 'sweep' enabled, or physics simulation.
+  For events when objects overlap (e.g. walking into a trigger) see the 'Overlap' event.
+  note: For collisions during physics simulation to generate hit events, 'Simulation Generates Hit Events' must be enabled for this component.
+  note: When receiving a hit from another object's movement, the directions of 'Hit.Normal' and 'Hit.ImpactNormal' will be adjusted to indicate force from the other object against this object.
+  note: NormalImpulse will be filled in for physics-simulating bodies, but will be zero for swept-component blocking collisions.
+- ``on_component_physics_state_changed`` (ComponentPhysicsStateChanged):  [Read-Write] Event called when physics state is created or destroyed for this component
+- ``on_component_sleep`` (ComponentSleepSignature):  [Read-Write] Event called when the underlying physics objects is put to sleep
+- ``on_component_wake`` (ComponentWakeSignature):  [Read-Write] Event called when the underlying physics objects is woken up
+- ``on_end_cursor_over`` (ComponentEndCursorOverSignature):  [Read-Write] Event called when the mouse cursor is moved off this component and mouse over events are enabled in the player controller
+- ``on_input_touch_begin`` (ComponentOnInputTouchBeginSignature):  [Read-Write] Event called when a touch input is received over this component when touch events are enabled in the player controller
+- ``on_input_touch_end`` (ComponentOnInputTouchEndSignature):  [Read-Write] Event called when a touch input is released over this component when touch events are enabled in the player controller
+- ``on_input_touch_enter`` (ComponentBeginTouchOverSignature):  [Read-Write] Event called when a finger is moved over this component when touch over events are enabled in the player controller
+- ``on_input_touch_leave`` (ComponentEndTouchOverSignature):  [Read-Write] Event called when a finger is moved off this component when touch over events are enabled in the player controller
+- ``on_released`` (ComponentOnReleasedSignature):  [Read-Write] Event called when the left mouse button is released while the mouse is over this component click events are enabled in the player controller
+- ``only_owner_see`` (bool):  [Read-Write] If this is True, this component will only be visible when the view actor is the component's owner, directly or indirectly.
+- ``overlap_material_priority`` (int32):  [Read-Write] Higher number is higher priority. If two water bodies overlap and they don't have a transition material specified, this will be used to determine which water body to use the material from. Valid range is -8192 to 8191
+- ``owner_no_see`` (bool):  [Read-Write] If this is True, this component won't be visible when the view actor is the component's owner, directly or indirectly.
+- ``owning_water_zone`` (WaterZone):  [Read-Only]
+- ``physical_material`` (PhysicalMaterial):  [Read-Write]
+- ``physics_volume_changed_delegate`` (PhysicsVolumeChanged):  [Read-Write] Delegate that will be called when PhysicsVolume has been changed *
+- ``primary_component_tick`` (ActorComponentTickFunction):  [Read-Write] Main tick function for the Component
+- ``ray_tracing_group_culling_priority`` (RayTracingGroupCullingPriority):  [Read-Write] Defines how quickly it should be culled. For example buildings should have a low priority, but small dressing should have a high priority.
+- ``ray_tracing_group_id`` (int32):  [Read-Write] Defines run-time groups of components. For example allows to assemble multiple parts of a building at runtime.
+  -1 means that component doesn't belong to any group.
+- ``receive_mobile_csm_shadows`` (bool):  [Read-Write] Mobile only:
+  If disabled this component will not receive CSM shadows. (Components that do not receive CSM may have reduced shading cost)
+- ``receives_decals`` (bool):  [Read-Write] Whether the primitive receives decals.
+- ``relative_location`` (Vector):  [Read-Write] Location of the component relative to its parent
+- ``relative_rotation`` (Rotator):  [Read-Write] Rotation of the component relative to its parent
+- ``relative_scale3d`` (Vector):  [Read-Write] Non-uniform scaling of the component relative to its parent.
+  Note that scaling is always applied in local space (no shearing etc)
+- ``render_custom_depth`` (bool):  [Read-Write] If true, this component will be rendered in the CustomDepth pass (usually used for outlines)
+- ``render_in_depth_pass`` (bool):  [Read-Write] If true, this component will be rendered in the depth pass even if it's not rendered in the main pass
+- ``render_in_main_pass`` (bool):  [Read-Write] If true, this component will be rendered in the main pass (z prepass, basepass, transparency)
+- ``replicate_physics_to_autonomous_proxy`` (bool):  [Read-Write] True if physics should be replicated to autonomous proxies. This should be true for
+                server-authoritative simulations, and false for client authoritative simulations.
+- ``replicate_using_registered_sub_object_list`` (bool):  [Read-Write] When true the replication system will only replicate the registered subobjects list
+  When false the replication system will instead call the virtual ReplicateSubObjects() function where the subobjects need to be manually replicated.
+- ``replicates`` (bool):  [Read-Write] Is this component currently replicating? Should the network code consider it for replication? Owning Actor must be replicating first!
+- ``return_material_on_move`` (bool):  [Read-Write] If true, component sweeps will return the material in their hit result.
+  see: MoveComponent(), FHitResult
+- ``runtime_virtual_textures`` (Array[RuntimeVirtualTexture]):  [Read-Write] Array of runtime virtual textures into which we draw the mesh for this actor.
+  The material also needs to be set up to output to a virtual texture.
+- ``self_shadow_only`` (bool):  [Read-Write] When enabled, the component will only cast a shadow on itself and not other components in the world.
+  This is especially useful for first person weapons, and forces bCastInsetShadow to be enabled.
+- ``shadow_cache_invalidation_behavior`` (ShadowCacheInvalidationBehavior):  [Read-Write] Control shadow invalidation behavior, in particular with respect to Virtual Shadow Maps and material effects like World Position Offset.
+- ``shape_dilation`` (float):  [Read-Write]
+- ``should_update_physics_volume`` (bool):  [Read-Write] Whether or not the cached PhysicsVolume this component overlaps should be updated when the component is moved.
+  see: GetPhysicsVolume()
+- ``single_sample_shadow_from_stationary_lights`` (bool):  [Read-Write] Whether the whole component should be shadowed as one from stationary lights, which makes shadow receiving much cheaper.
+  When enabled shadowing data comes from the volume lighting samples precomputed by Lightmass, which are very sparse.
+  This is currently only used on stationary directional lights.
+- ``static_mesh_settings`` (WaterBodyStaticMeshSettings):  [Read-Write]
+- ``static_when_not_moveable`` (bool):  [Read-Write] When false, the underlying physics body will contain all sim data (mass, inertia tensor, etc) even if mobility is not set to Moveable
+- ``target_wave_mask_depth`` (float):  [Read-Write] Water depth at which waves start being attenuated.
+- ``trace_complex_on_move`` (bool):  [Read-Write] If true, component sweeps with this component should trace against complex collision during movement (for example, each triangle of a mesh).
+  If false, collision will be resolved against simple collision bounds instead.
+  see: MoveComponent()
+- ``translucency_sort_distance_offset`` (float):  [Read-Write] Modified sort distance offset for translucent objects in world units.
+  A positive number will move the sort distance further and a negative number will move the distance closer.
+
+  Ignored if the object is not translucent.
+  Warning: Adjusting this value will prevent the renderer from correctly sorting based on distance.  Only modify this value if you are certain it will not cause visual artifacts.
+- ``translucency_sort_priority`` (int32):  [Read-Write] Translucent objects with a lower sort priority draw behind objects with a higher priority.
+  Translucent objects with the same priority are rendered from back-to-front based on their bounds origin.
+  This setting is also used to sort objects being drawn into a runtime virtual texture.
+
+  Ignored if the object is not translucent.  The default priority is zero.
+  Warning: This should never be set to a non-default value unless you know what you are doing, as it will prevent the renderer from sorting correctly.
+  It is especially problematic on dynamic gameplay effects.
+- ``treat_as_background_for_occlusion`` (bool):  [Read-Write] Treat this primitive as part of the background for occlusion purposes. This can be used as an optimization to reduce the cost of rendering skyboxes, large ground planes that are part of the vista, etc.
+- ``underwater_post_process_material`` (MaterialInterface):  [Read-Write] Post process material to apply when the camera goes underwater (only available when bGenerateCollisions is true because collisions are needed to detect if it's under water).
+- ``underwater_post_process_mid`` (MaterialInstanceDynamic):  [Read-Only]
+- ``underwater_post_process_settings`` (UnderwaterPostProcessSettings):  [Read-Write] Post process settings to apply when the camera goes underwater (only available when bGenerateCollisions is true because collisions are needed to detect if it's under water).
+        Note: Underwater post process material is setup using UnderwaterPostProcessMaterial.
+- ``use_as_occluder`` (bool):  [Read-Write] Whether to render the primitive in the depth only pass.
+  This should generally be true for all objects, and let the renderer make decisions about whether to render objects in the depth only pass.
+  todo: if any rendering features rely on a complete depth only pass, this variable needs to go away.
+- ``use_attach_parent_bound`` (bool):  [Read-Write] If true, this component uses its parents bounds when attached.
+  This can be a significant optimization with many components attached together.
+- ``use_baked_sim_for_queries_and_physics`` (bool):  [Read-Write] Override to disable use of the baked shallow water simulation for collisons and other uses
+- ``virtual_texture_cull_mips`` (int8):  [Read-Write] Number of lower mips in the runtime virtual texture to skip for rendering this primitive.
+  Larger values reduce the effective draw distance in the runtime virtual texture.
+  This culling method doesn't take into account primitive size or virtual texture size.
+- ``virtual_texture_lod_bias`` (int8):  [Read-Write] Bias to the LOD selected for rendering to runtime virtual textures.
+- ``virtual_texture_min_coverage`` (int8):  [Read-Write] Set the minimum pixel coverage before culling from the runtime virtual texture.
+  Larger values reduce the effective draw distance in the runtime virtual texture.
+- ``virtual_texture_render_pass_type`` (RuntimeVirtualTextureMainPassType):  [Read-Write] Controls if this component draws in the main pass as well as in the virtual texture.
+- ``visible`` (bool):  [Read-Write] Whether to completely draw the primitive; if false, the primitive is not drawn, does not cast a shadow.
+- ``visible_in_ray_tracing`` (bool):  [Read-Write] If true, this component will be visible in ray tracing effects. Turning this off will remove it from ray traced reflections, shadows, etc.
+- ``visible_in_real_time_sky_captures`` (bool):  [Read-Write] If true, this component will be visible in real-time sky light reflection captures.
+- ``visible_in_reflection_captures`` (bool):  [Read-Write] If true, this component will be visible in reflection captures.
+- ``visible_in_scene_capture_only`` (bool):  [Read-Write] When true, will only be visible in Scene Capture
+- ``water_body_exclusion_volumes`` (Array[WaterBodyExclusionVolume]):  [Read-Write]
+- ``water_body_index`` (int32):  [Read-Only] Unique Id for accessing (wave, ... ) data in GPU buffers
+- ``water_body_islands`` (Array[WaterBodyIsland]):  [Read-Write] Islands in this water body
+- ``water_heightmap_settings`` (WaterBodyHeightmapSettings):  [Read-Write]
+- ``water_hlod_material`` (MaterialInterface):  [Read-Write]
+- ``water_info_material`` (MaterialInterface):  [Read-Write]
+- ``water_info_mid`` (MaterialInstanceDynamic):  [Read-Only]
+- ``water_material`` (MaterialInterface):  [Read-Write]
+- ``water_mesh_override`` (StaticMesh):  [Read-Write]
+- ``water_mid`` (MaterialInstanceDynamic):  [Read-Only]
+- ``water_nav_area_class`` (type(Class)):  [Read-Write] The navigation area class that will be generated on nav mesh
+- ``water_static_mesh_material`` (MaterialInterface):  [Read-Write]
+- ``water_static_mesh_mid`` (MaterialInstanceDynamic):  [Read-Only]
+- ``water_zone_override`` (WaterZone):  [Read-Write]
+
+<a id="unreal.WaterBodyComponent.target_wave_mask_depth"></a>
+
+#### target_wave_mask_depth
+
+```python
+@property
+def target_wave_mask_depth() -> float
+```
+
+(float):  [Read-Write] Water depth at which waves start being attenuated.
+
+<a id="unreal.WaterBodyComponent.target_wave_mask_depth"></a>
+
+#### target_wave_mask_depth
+
+```python
+@target_wave_mask_depth.setter
+def target_wave_mask_depth(value: float) -> None
+```
+
+<a id="unreal.WaterBodyComponent.underwater_post_process_settings"></a>
+
+#### underwater_post_process_settings
+
+```python
+@property
+def underwater_post_process_settings() -> UnderwaterPostProcessSettings
+```
+
+(UnderwaterPostProcessSettings):  [Read-Write] Post process settings to apply when the camera goes underwater (only available when bGenerateCollisions is true because collisions are needed to detect if it's under water).
+      Note: Underwater post process material is setup using UnderwaterPostProcessMaterial.
+
+<a id="unreal.WaterBodyComponent.underwater_post_process_settings"></a>
+
+#### underwater_post_process_settings
+
+```python
+@underwater_post_process_settings.setter
+def underwater_post_process_settings(
+        value: UnderwaterPostProcessSettings) -> None
+```
+
+<a id="unreal.WaterBodyComponent.curve_settings"></a>
+
+#### curve_settings
+
+```python
+@property
+def curve_settings() -> WaterCurveSettings
+```
+
+(WaterCurveSettings):  [Read-Write]
+
+<a id="unreal.WaterBodyComponent.curve_settings"></a>
+
+#### curve_settings
+
+```python
+@curve_settings.setter
+def curve_settings(value: WaterCurveSettings) -> None
+```
+
+<a id="unreal.WaterBodyComponent.water_material"></a>
+
+#### water_material
+
+```python
+@property
+def water_material() -> MaterialInterface
+```
+
+(MaterialInterface):  [Read-Only]
+
+<a id="unreal.WaterBodyComponent.water_hlod_material"></a>
+
+#### water_hlod_material
+
+```python
+@property
+def water_hlod_material() -> MaterialInterface
+```
+
+(MaterialInterface):  [Read-Only]
+
+<a id="unreal.WaterBodyComponent.water_static_mesh_material"></a>
+
+#### water_static_mesh_material
+
+```python
+@property
+def water_static_mesh_material() -> MaterialInterface
+```
+
+(MaterialInterface):  [Read-Only]
+
+<a id="unreal.WaterBodyComponent.underwater_post_process_material"></a>
+
+#### underwater_post_process_material
+
+```python
+@property
+def underwater_post_process_material() -> MaterialInterface
+```
+
+(MaterialInterface):  [Read-Only] Post process material to apply when the camera goes underwater (only available when bGenerateCollisions is true because collisions are needed to detect if it's under water).
+
+<a id="unreal.WaterBodyComponent.water_info_material"></a>
+
+#### water_info_material
+
+```python
+@property
+def water_info_material() -> MaterialInterface
+```
+
+(MaterialInterface):  [Read-Only]
+
+<a id="unreal.WaterBodyComponent.water_heightmap_settings"></a>
+
+#### water_heightmap_settings
+
+```python
+@property
+def water_heightmap_settings() -> WaterBodyHeightmapSettings
+```
+
+(WaterBodyHeightmapSettings):  [Read-Write]
+
+<a id="unreal.WaterBodyComponent.water_heightmap_settings"></a>
+
+#### water_heightmap_settings
+
+```python
+@water_heightmap_settings.setter
+def water_heightmap_settings(value: WaterBodyHeightmapSettings) -> None
+```
+
+<a id="unreal.WaterBodyComponent.layer_weightmap_settings"></a>
+
+#### layer_weightmap_settings
+
+```python
+@property
+def layer_weightmap_settings() -> Map[Name, WaterBodyWeightmapSettings]
+```
+
+(Map[Name, WaterBodyWeightmapSettings]):  [Read-Write]
+
+<a id="unreal.WaterBodyComponent.layer_weightmap_settings"></a>
+
+#### layer_weightmap_settings
+
+```python
+@layer_weightmap_settings.setter
+def layer_weightmap_settings(
+        value: Map[Name, WaterBodyWeightmapSettings]) -> None
+```
+
+<a id="unreal.WaterBodyComponent.shape_dilation"></a>
+
+#### shape_dilation
+
+```python
+@property
+def shape_dilation() -> float
+```
+
+(float):  [Read-Write]
+
+<a id="unreal.WaterBodyComponent.shape_dilation"></a>
+
+#### shape_dilation
+
+```python
+@shape_dilation.setter
+def shape_dilation(value: float) -> None
+```
+
+<a id="unreal.WaterBodyComponent.collision_height_offset"></a>
+
+#### collision_height_offset
+
+```python
+@property
+def collision_height_offset() -> float
+```
+
+(float):  [Read-Write] The distance above the surface of the water where collision checks should still occur. Useful if the post process effect is not activating under really high waves.
+
+<a id="unreal.WaterBodyComponent.collision_height_offset"></a>
+
+#### collision_height_offset
+
+```python
+@collision_height_offset.setter
+def collision_height_offset(value: float) -> None
+```
+
+<a id="unreal.WaterBodyComponent.affects_landscape"></a>
+
+#### affects_landscape
+
+```python
+@property
+def affects_landscape() -> bool
+```
+
+(bool):  [Read-Write] If enabled, landscape will be deformed based on this water body placed on top of it and landscape height will be considered when determining water depth at runtime
+
+<a id="unreal.WaterBodyComponent.affects_landscape"></a>
+
+#### affects_landscape
+
+```python
+@affects_landscape.setter
+def affects_landscape(value: bool) -> None
+```
+
+<a id="unreal.WaterBodyComponent.water_body_index"></a>
+
+#### water_body_index
+
+```python
+@property
+def water_body_index() -> int
+```
+
+(int32):  [Read-Only] Unique Id for accessing (wave, ... ) data in GPU buffers
+
+<a id="unreal.WaterBodyComponent.water_mesh_override"></a>
+
+#### water_mesh_override
+
+```python
+@property
+def water_mesh_override() -> StaticMesh
+```
+
+(StaticMesh):  [Read-Write]
+
+<a id="unreal.WaterBodyComponent.water_mesh_override"></a>
+
+#### water_mesh_override
+
+```python
+@water_mesh_override.setter
+def water_mesh_override(value: StaticMesh) -> None
+```
+
+<a id="unreal.WaterBodyComponent.always_generate_water_mesh_tiles"></a>
+
+#### always_generate_water_mesh_tiles
+
+```python
+@property
+def always_generate_water_mesh_tiles() -> bool
+```
+
+(bool):  [Read-Only] When this is set to true, the water mesh will always generate tiles for this water body.
+For example, this can be useful to generate water tiles even when the water material is invalid, for the case where "empty" water tiles are actually desirable.
+
+<a id="unreal.WaterBodyComponent.overlap_material_priority"></a>
+
+#### overlap_material_priority
+
+```python
+@property
+def overlap_material_priority() -> int
+```
+
+(int32):  [Read-Only] Higher number is higher priority. If two water bodies overlap and they don't have a transition material specified, this will be used to determine which water body to use the material from. Valid range is -8192 to 8191
+
+<a id="unreal.WaterBodyComponent.water_zone_override"></a>
+
+#### water_zone_override
+
+```python
+@property
+def water_zone_override() -> WaterZone
+```
+
+(WaterZone):  [Read-Only]
+
+<a id="unreal.WaterBodyComponent.water_nav_area_class"></a>
+
+#### water_nav_area_class
+
+```python
+@property
+def water_nav_area_class() -> Class
+```
+
+(type(Class)):  [Read-Write] The navigation area class that will be generated on nav mesh
+
+<a id="unreal.WaterBodyComponent.water_nav_area_class"></a>
+
+#### water_nav_area_class
+
+```python
+@water_nav_area_class.setter
+def water_nav_area_class(value: Class) -> None
+```
+
+<a id="unreal.WaterBodyComponent.set_water_zone_override"></a>
+
+#### set_water_zone_override
+
+```python
+def set_water_zone_override(water_zone_override: WaterZone) -> None
+```
+
+x.set_water_zone_override(water_zone_override) -> None
+Override the default behavior of water bodies finding their water zone based on bounds and set a specific water zone to which this water body should register.
+
+Args:
+    water_zone_override (WaterZone):
+
+<a id="unreal.WaterBodyComponent.set_water_static_mesh_material"></a>
+
+#### set_water_static_mesh_material
+
+```python
+def set_water_static_mesh_material(material: MaterialInterface) -> None
+```
+
+x.set_water_static_mesh_material(material) -> None
+Sets water static mesh material
+
+Args:
+    material (MaterialInterface):
+
+<a id="unreal.WaterBodyComponent.set_water_material"></a>
+
+#### set_water_material
+
+```python
+def set_water_material(material: MaterialInterface) -> None
+```
+
+x.set_water_material(material) -> None
+Sets water material
+
+Args:
+    material (MaterialInterface):
+
+<a id="unreal.WaterBodyComponent.set_water_body_static_mesh_enabled"></a>
+
+#### set_water_body_static_mesh_enabled
+
+```python
+def set_water_body_static_mesh_enabled(enabled: bool) -> None
+```
+
+x.set_water_body_static_mesh_enabled(enabled) -> None
+Set Water Body Static Mesh Enabled
+
+Args:
+    enabled (bool):
+
+<a id="unreal.WaterBodyComponent.set_water_and_under_water_post_process_material"></a>
+
+#### set_water_and_under_water_post_process_material
+
+```python
+def set_water_and_under_water_post_process_material(
+        water_material: MaterialInterface,
+        under_water_post_process_material: MaterialInterface) -> None
+```
+
+x.set_water_and_under_water_post_process_material(water_material, under_water_post_process_material) -> None
+Set Water and Under Water Post Process Material
+
+Args:
+    water_material (MaterialInterface): 
+    under_water_post_process_material (MaterialInterface):
+
+<a id="unreal.WaterBodyComponent.set_underwater_post_process_material"></a>
+
+#### set_underwater_post_process_material
+
+```python
+def set_underwater_post_process_material(material: MaterialInterface) -> None
+```
+
+x.set_underwater_post_process_material(material) -> None
+Sets under water post process material
+
+Args:
+    material (MaterialInterface):
+
+<a id="unreal.WaterBodyComponent.on_water_body_changed"></a>
+
+#### on_water_body_changed
+
+```python
+def on_water_body_changed(shape_or_position_changed: bool,
+                          weightmap_settings_changed: bool = False,
+                          user_triggered_changed: bool = False) -> None
+```
+
+x.on_water_body_changed(shape_or_position_changed, weightmap_settings_changed=False, user_triggered_changed=False) -> None
+On Water Body Changed
+
+Args:
+    shape_or_position_changed (bool): 
+    weightmap_settings_changed (bool): 
+    user_triggered_changed (bool):
+
+<a id="unreal.WaterBodyComponent.get_water_waves"></a>
+
+#### get_water_waves
+
+```python
+def get_water_waves() -> WaterWavesBase
+```
+
+x.get_water_waves() -> WaterWavesBase
+Get Water Waves
+
+Returns:
+    WaterWavesBase:
+
+<a id="unreal.WaterBodyComponent.get_water_velocity_at_spline_input_key"></a>
+
+#### get_water_velocity_at_spline_input_key
+
+```python
+def get_water_velocity_at_spline_input_key(key: float) -> float
+```
+
+x.get_water_velocity_at_spline_input_key(key) -> float
+* Spline queries specific to metadata type
+
+Args:
+    key (float): 
+
+Returns:
+    float:
+
+<a id="unreal.WaterBodyComponent.get_water_surface_info_at_location"></a>
+
+#### get_water_surface_info_at_location
+
+```python
+def get_water_surface_info_at_location(
+        location: Vector,
+        include_depth: bool = False) -> Tuple[Vector, Vector, Vector, float]
+```
+
+x.get_water_surface_info_at_location(location, include_depth=False) -> (out_water_surface_location=Vector, out_water_surface_normal=Vector, out_water_velocity=Vector, out_water_depth=float)
+Get Water Surface Info at Location
+
+Args:
+    location (Vector): 
+    include_depth (bool): 
+
+Returns:
+    tuple: 
+
+    out_water_surface_location (Vector): 
+
+    out_water_surface_normal (Vector): 
+
+    out_water_velocity (Vector): 
+
+    out_water_depth (float):
+
+<a id="unreal.WaterBodyComponent.get_water_static_mesh_material_instance"></a>
+
+#### get_water_static_mesh_material_instance
+
+```python
+def get_water_static_mesh_material_instance() -> MaterialInstanceDynamic
+```
+
+x.get_water_static_mesh_material_instance() -> MaterialInstanceDynamic
+Returns water static mesh MID
+
+Returns:
+    MaterialInstanceDynamic:
+
+<a id="unreal.WaterBodyComponent.get_water_spline"></a>
+
+#### get_water_spline
+
+```python
+def get_water_spline() -> WaterSplineComponent
+```
+
+x.get_water_spline() -> WaterSplineComponent
+Returns water spline component
+
+Returns:
+    WaterSplineComponent:
+
+<a id="unreal.WaterBodyComponent.get_water_material_instance"></a>
+
+#### get_water_material_instance
+
+```python
+def get_water_material_instance() -> MaterialInstanceDynamic
+```
+
+x.get_water_material_instance() -> MaterialInstanceDynamic
+Returns water MID
+
+Returns:
+    MaterialInstanceDynamic:
+
+<a id="unreal.WaterBodyComponent.get_water_material"></a>
+
+#### get_water_material
+
+```python
+def get_water_material() -> MaterialInterface
+```
+
+x.get_water_material() -> MaterialInterface
+Returns water material
+
+Returns:
+    MaterialInterface:
+
+<a id="unreal.WaterBodyComponent.get_water_lod_material_instance"></a>
+
+#### get_water_lod_material_instance
+
+```python
+def get_water_lod_material_instance() -> MaterialInstanceDynamic
+```
+
+x.get_water_lod_material_instance() -> MaterialInstanceDynamic
+Get Water LODMaterial Instance
+
+Returns:
+    MaterialInstanceDynamic:
+
+<a id="unreal.WaterBodyComponent.get_water_info_material_instance"></a>
+
+#### get_water_info_material_instance
+
+```python
+def get_water_info_material_instance() -> MaterialInstanceDynamic
+```
+
+x.get_water_info_material_instance() -> MaterialInstanceDynamic
+Returns water info MID
+
+Returns:
+    MaterialInstanceDynamic:
+
+<a id="unreal.WaterBodyComponent.get_water_body_actor"></a>
+
+#### get_water_body_actor
+
+```python
+def get_water_body_actor() -> WaterBody
+```
+
+x.get_water_body_actor() -> WaterBody
+Returns the WaterBodyActor who owns this component
+
+Returns:
+    WaterBody:
+
+<a id="unreal.WaterBodyComponent.get_underwater_post_process_material_instance"></a>
+
+#### get_underwater_post_process_material_instance
+
+```python
+def get_underwater_post_process_material_instance() -> MaterialInstanceDynamic
+```
+
+x.get_underwater_post_process_material_instance() -> MaterialInstanceDynamic
+Returns under water post process MID
+
+Returns:
+    MaterialInstanceDynamic:
+
+<a id="unreal.WaterBodyComponent.get_standard_renderable_components"></a>
+
+#### get_standard_renderable_components
+
+```python
+def get_standard_renderable_components() -> Array[PrimitiveComponent]
+```
+
+x.get_standard_renderable_components() -> Array[PrimitiveComponent]
+Retrieves the list of primitive components that this water body uses when not being rendered by the water mesh (e.g. the static mesh component used when WaterMeshOverride is specified)
+
+Returns:
+    Array[PrimitiveComponent]:
+
+<a id="unreal.WaterBodyComponent.get_river_to_ocean_transition_material_instance"></a>
+
+#### get_river_to_ocean_transition_material_instance
+
+```python
+def get_river_to_ocean_transition_material_instance(
+) -> MaterialInstanceDynamic
+```
+
+x.get_river_to_ocean_transition_material_instance() -> MaterialInstanceDynamic
+Returns River to ocean transition material instance (For internal use. Please use AWaterBodyRiver instead.)
+
+Returns:
+    MaterialInstanceDynamic:
+
+<a id="unreal.WaterBodyComponent.get_river_to_ocean_transition_material"></a>
+
+#### get_river_to_ocean_transition_material
+
+```python
+def get_river_to_ocean_transition_material() -> MaterialInterface
+```
+
+x.get_river_to_ocean_transition_material() -> MaterialInterface
+Returns river to ocean transition water material
+
+Returns:
+    MaterialInterface:
+
+<a id="unreal.WaterBodyComponent.get_river_to_lake_transition_material_instance"></a>
+
+#### get_river_to_lake_transition_material_instance
+
+```python
+def get_river_to_lake_transition_material_instance(
+) -> MaterialInstanceDynamic
+```
+
+x.get_river_to_lake_transition_material_instance() -> MaterialInstanceDynamic
+Returns River to lake transition material instance (For internal use. Please use AWaterBodyRiver instead.)
+
+Returns:
+    MaterialInstanceDynamic:
+
+<a id="unreal.WaterBodyComponent.get_river_to_lake_transition_material"></a>
+
+#### get_river_to_lake_transition_material
+
+```python
+def get_river_to_lake_transition_material() -> MaterialInterface
+```
+
+x.get_river_to_lake_transition_material() -> MaterialInterface
+Returns river to lake transition water material
+
+Returns:
+    MaterialInterface:
+
+<a id="unreal.WaterBodyComponent.get_max_wave_height"></a>
+
+#### get_max_wave_height
+
+```python
+def get_max_wave_height() -> float
+```
+
+x.get_max_wave_height() -> float
+Returns the max height that this water body's waves can hit. Can be called regardless of whether the water body supports waves or not
+
+Returns:
+    float:
+
+<a id="unreal.WaterBodyComponent.get_islands"></a>
+
+#### get_islands
+
+```python
+def get_islands() -> Array[WaterBodyIsland]
+```
+
+x.get_islands() -> Array[WaterBodyIsland]
+Gets the islands that influence this water body
+
+Returns:
+    Array[WaterBodyIsland]:
+
+<a id="unreal.WaterBodyComponent.get_exclusion_volumes"></a>
+
+#### get_exclusion_volumes
+
+```python
+def get_exclusion_volumes() -> Array[WaterBodyExclusionVolume]
+```
+
+x.get_exclusion_volumes() -> Array[WaterBodyExclusionVolume]
+Gets the exclusion volume that influence this water body
+
+Returns:
+    Array[WaterBodyExclusionVolume]:
+
+<a id="unreal.WaterBodyComponent.get_collision_components"></a>
+
+#### get_collision_components
+
+```python
+def get_collision_components(
+        only_enabled_components: bool = True) -> Array[PrimitiveComponent]
+```
+
+x.get_collision_components(only_enabled_components=True) -> Array[PrimitiveComponent]
+Returns body's collision components
+
+Args:
+    only_enabled_components (bool): 
+
+Returns:
+    Array[PrimitiveComponent]:
+
+<a id="unreal.WaterBodyCustom"></a>

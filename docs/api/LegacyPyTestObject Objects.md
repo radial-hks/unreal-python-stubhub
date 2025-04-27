@@ -1,0 +1,37 @@
+## LegacyPyTestObject Objects
+
+```python
+class LegacyPyTestObject(PyTestObject)
+```
+
+Object to test deprecation of Python wrapped types.
+
+**C++ Source:**
+
+- **Plugin**: PythonScriptPlugin
+- **Module**: PythonScriptPlugin
+- **File**: PyTest.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``bool`` (bool):  [Read-Write]
+- ``bool_defaults_only`` (bool):  [Read-Write]
+- ``bool_instance_only`` (bool):  [Read-Write]
+- ``child_struct`` (PyTestChildStruct):  [Read-Write]
+- ``delegate`` (PyTestDelegate):  [Read-Write]
+- ``enum`` (PyTestEnum):  [Read-Write]
+- ``field_path`` (FieldPath):  [Read-Write]
+- ``float`` (float):  [Read-Write]
+- ``int`` (int32):  [Read-Write]
+- ``multicast_delegate`` (PyTestMulticastDelegate):  [Read-Write]
+- ``name`` (Name):  [Read-Write]
+- ``string`` (str):  [Read-Write]
+- ``string_array`` (Array[str]):  [Read-Write]
+- ``string_int_map`` (Map[str, int32]):  [Read-Write]
+- ``string_set`` (Set[str]):  [Read-Write]
+- ``struct`` (PyTestStruct):  [Read-Write]
+- ``struct_array`` (Array[PyTestStruct]):  [Read-Write]
+- ``struct_field_path`` (FieldPath):  [Read-Write]
+- ``text`` (Text):  [Read-Write]
+
+<a id="unreal.PyTestObjectLibrary"></a>

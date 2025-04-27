@@ -1,0 +1,67 @@
+## ColorInputDeviceCurveProperty Objects
+
+```python
+class ColorInputDeviceCurveProperty(InputDeviceProperty)
+```
+
+A property that can be used to change the color of an input device's light over time with a curve
+
+NOTE: This property has platform specific implementations and may behave differently per platform.
+See the docs for more details on each platform.
+
+**C++ Source:**
+
+- **Module**: Engine
+- **File**: InputDeviceProperties.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``color_data`` (DeviceColorCurveData):  [Read-Write] Default color data that will be used by default. Device Specific overrides will be used when the current input device matches
+- ``device_override_data`` (Map[Name, DeviceColorCurveData]):  [Read-Write] A map of device specific color data. If no overrides are specified, the Default hardware data will be used
+- ``property_duration`` (float):  [Read-Only] The duration that this device property should last. Override this if your property has any dynamic curves
+  to be the max time range.
+
+  A duration of 0 means that the device property will be treated as a "One Shot" effect, being applied once
+  before being removed by the Input Device Subsystem.
+
+<a id="unreal.ColorInputDeviceCurveProperty.color_data"></a>
+
+#### color_data
+
+```python
+@property
+def color_data() -> DeviceColorCurveData
+```
+
+(DeviceColorCurveData):  [Read-Write] Default color data that will be used by default. Device Specific overrides will be used when the current input device matches
+
+<a id="unreal.ColorInputDeviceCurveProperty.color_data"></a>
+
+#### color_data
+
+```python
+@color_data.setter
+def color_data(value: DeviceColorCurveData) -> None
+```
+
+<a id="unreal.ColorInputDeviceCurveProperty.device_override_data"></a>
+
+#### device_override_data
+
+```python
+@property
+def device_override_data() -> Map[Name, DeviceColorCurveData]
+```
+
+(Map[Name, DeviceColorCurveData]):  [Read-Write] A map of device specific color data. If no overrides are specified, the Default hardware data will be used
+
+<a id="unreal.ColorInputDeviceCurveProperty.device_override_data"></a>
+
+#### device_override_data
+
+```python
+@device_override_data.setter
+def device_override_data(value: Map[Name, DeviceColorCurveData]) -> None
+```
+
+<a id="unreal.InputDeviceTriggerEffect"></a>

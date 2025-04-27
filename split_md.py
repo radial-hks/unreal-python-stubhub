@@ -12,7 +12,7 @@ def split_markdown_by_h2(input_path, output_dir):
         content = f.read()
     
     # 使用正则按二级标题分割，同时保留标题
-    parts = re.split(r'(## .+)', content)
+    parts = re.split(r'(\n[#]{2}\s.+)', content)
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

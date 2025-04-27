@@ -1,0 +1,29 @@
+## GeometryCacheTrackStreamable Objects
+
+```python
+class GeometryCacheTrackStreamable(GeometryCacheTrack)
+```
+
+Derived GeometryCacheTrack class, used for Transform animation.
+
+\note FGeometryCacheTrackStreamableRenderResource keeps a reference to the track.
+Be sure to keep the implementation of this class valid so it properly releases
+the render resoruce before making any changes to this object that may affect the render thread.
+
+**C++ Source:**
+
+- **Plugin**: GeometryCache
+- **Module**: GeometryCache
+- **File**: GeometryCacheTrackStreamable.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``codec`` (GeometryCacheCodecBase):  [Read-Only] Codec for this track
+- ``duration`` (float):  [Read-Only] The duration of this track's animation. This is an open ended interval [0..Duration[.
+  If the animation is looping this is also the length of the loop.
+
+  Note: This is set by the importer possibly based on user preferences. There may be less actual frames available.
+  E.g. the animation has data for the first 2 seconds, but duration is set to 5, so it will loop every 5 seconds
+  with the last three seconds showing a static scene.
+
+<a id="unreal.GeometryCacheTrack_TransformAnimation"></a>
