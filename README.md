@@ -1,5 +1,7 @@
 # Unreal Python StubHub
 
+[![中文文档](https://img.shields.io/badge/docs-中文版-yellow)](README_ZH.md)
+
 This project aims to use the `pydoc-markdown` tool to convert Python code (primarily Unreal Engine Python API stubs) in the `UnrealPythonAPI` directory into Markdown format documentation.
 
 ## Project Goals
