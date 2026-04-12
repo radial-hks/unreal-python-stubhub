@@ -13,7 +13,7 @@ Kismet Internationalization Library
 
 <a id="unreal.InternationalizationLibrary.set_current_locale"></a>
 
-#### set_current_locale
+#### set\_current\_locale
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.set_current_language_and_locale"></a>
 
-#### set_current_language_and_locale
+#### set\_current\_language\_and\_locale
 
 ```python
 @classmethod
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.set_current_language"></a>
 
-#### set_current_language
+#### set\_current\_language
 
 ```python
 @classmethod
@@ -78,7 +78,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.set_current_culture"></a>
 
-#### set_current_culture
+#### set\_current\_culture
 
 ```python
 @classmethod
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.set_current_asset_group_culture"></a>
 
-#### set_current_asset_group_culture
+#### set\_current\_asset\_group\_culture
 
 ```python
 @classmethod
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.is_culture_right_to_left"></a>
 
-#### is_culture_right_to_left
+#### is\_culture\_right\_to\_left
 
 ```python
 @classmethod
@@ -141,7 +141,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.get_suitable_culture"></a>
 
-#### get_suitable_culture
+#### get\_suitable\_culture
 
 ```python
 @classmethod
@@ -166,7 +166,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.get_native_culture"></a>
 
-#### get_native_culture
+#### get\_native\_culture
 
 ```python
 @classmethod
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.get_localized_cultures"></a>
 
-#### get_localized_cultures
+#### get\_localized\_cultures
 
 ```python
 @classmethod
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.get_current_locale"></a>
 
-#### get_current_locale
+#### get\_current\_locale
 
 ```python
 @classmethod
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.get_current_language"></a>
 
-#### get_current_language
+#### get\_current\_language
 
 ```python
 @classmethod
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.get_current_culture"></a>
 
-#### get_current_culture
+#### get\_current\_culture
 
 ```python
 @classmethod
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.get_current_asset_group_culture"></a>
 
-#### get_current_asset_group_culture
+#### get\_current\_asset\_group\_culture
 
 ```python
 @classmethod
@@ -283,7 +283,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.get_culture_display_name"></a>
 
-#### get_culture_display_name
+#### get\_culture\_display\_name
 
 ```python
 @classmethod
@@ -302,7 +302,7 @@ Returns:
 
 <a id="unreal.InternationalizationLibrary.clear_current_asset_group_culture"></a>
 
-#### clear_current_asset_group_culture
+#### clear\_current\_asset\_group\_culture
 
 ```python
 @classmethod

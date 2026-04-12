@@ -32,7 +32,7 @@ Use UNavigationSystemV1.DescribeFilterFlags() to setup user friendly names of fl
 
 <a id="unreal.NavigationFilterFlags.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

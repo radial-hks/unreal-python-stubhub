@@ -14,7 +14,7 @@ This type deals with the composition of multiple data sources, which provide inf
 
 <a id="unreal.ContentBrowserDataSubsystem.get_items_under_path"></a>
 
-#### get_items_under_path
+#### get\_items\_under\_path
 
 ```python
 def get_items_under_path(
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.ContentBrowserDataSubsystem.get_items_at_path"></a>
 
-#### get_items_at_path
+#### get\_items\_at\_path
 
 ```python
 def get_items_at_path(
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.ContentBrowserDataSubsystem.get_item_at_path"></a>
 
-#### get_item_at_path
+#### get\_item\_at\_path
 
 ```python
 def get_item_at_path(
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.ContentBrowserDataSubsystem.get_available_data_sources"></a>
 
-#### get_available_data_sources
+#### get\_available\_data\_sources
 
 ```python
 def get_available_data_sources() -> Array[Name]
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.ContentBrowserDataSubsystem.get_active_data_sources"></a>
 
-#### get_active_data_sources
+#### get\_active\_data\_sources
 
 ```python
 def get_active_data_sources() -> Array[Name]
@@ -103,7 +103,7 @@ Returns:
 
 <a id="unreal.ContentBrowserDataSubsystem.deactivate_data_source"></a>
 
-#### deactivate_data_source
+#### deactivate\_data\_source
 
 ```python
 def deactivate_data_source(name: Name) -> bool
@@ -120,7 +120,7 @@ Returns:
 
 <a id="unreal.ContentBrowserDataSubsystem.deactivate_all_data_sources"></a>
 
-#### deactivate_all_data_sources
+#### deactivate\_all\_data\_sources
 
 ```python
 def deactivate_all_data_sources() -> None
@@ -131,7 +131,7 @@ Deactivate all active data sources.
 
 <a id="unreal.ContentBrowserDataSubsystem.activate_data_source"></a>
 
-#### activate_data_source
+#### activate\_data\_source
 
 ```python
 def activate_data_source(name: Name) -> bool
@@ -148,7 +148,7 @@ Returns:
 
 <a id="unreal.ContentBrowserDataSubsystem.activate_all_data_sources"></a>
 
-#### activate_all_data_sources
+#### activate\_all\_data\_sources
 
 ```python
 def activate_all_data_sources() -> None

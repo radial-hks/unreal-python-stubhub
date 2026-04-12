@@ -27,7 +27,7 @@ We assign these to UStaticMeshes or USkeletalMeshes generated from USD
 
 <a id="unreal.UsdMeshAssetUserData.material_slot_to_prim_paths"></a>
 
-#### material_slot_to_prim_paths
+#### material\_slot\_to\_prim\_paths
 
 ```python
 @property
@@ -40,7 +40,7 @@ assignment. It can contain multiple prims in case we combine material slots and/
 
 <a id="unreal.UsdMeshAssetUserData.material_slot_to_prim_paths"></a>
 
-#### material_slot_to_prim_paths
+#### material\_slot\_to\_prim\_paths
 
 ```python
 @material_slot_to_prim_paths.setter
@@ -49,7 +49,7 @@ def material_slot_to_prim_paths(value: Map[int, UsdPrimPathList]) -> None
 
 <a id="unreal.UsdMeshAssetUserData.primvar_to_uv_index"></a>
 
-#### primvar_to_uv_index
+#### primvar\_to\_uv\_index
 
 ```python
 @property
@@ -60,7 +60,7 @@ def primvar_to_uv_index() -> Map[str, int]
 
 <a id="unreal.UsdMeshAssetUserData.primvar_to_uv_index"></a>
 
-#### primvar_to_uv_index
+#### primvar\_to\_uv\_index
 
 ```python
 @primvar_to_uv_index.setter

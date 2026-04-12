@@ -28,7 +28,7 @@ A representation of a font in Slate.
 
 <a id="unreal.SlateFontInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(font_object: Object = None,
@@ -48,7 +48,7 @@ def __init__(font_object: Object = None,
 
 <a id="unreal.SlateFontInfo.font_object"></a>
 
-#### font_object
+#### font\_object
 
 ```python
 @property
@@ -59,7 +59,7 @@ def font_object() -> Object
 
 <a id="unreal.SlateFontInfo.font_object"></a>
 
-#### font_object
+#### font\_object
 
 ```python
 @font_object.setter
@@ -68,7 +68,7 @@ def font_object(value: Object) -> None
 
 <a id="unreal.SlateFontInfo.font_material"></a>
 
-#### font_material
+#### font\_material
 
 ```python
 @property
@@ -79,7 +79,7 @@ def font_material() -> Object
 
 <a id="unreal.SlateFontInfo.font_material"></a>
 
-#### font_material
+#### font\_material
 
 ```python
 @font_material.setter
@@ -88,7 +88,7 @@ def font_material(value: Object) -> None
 
 <a id="unreal.SlateFontInfo.outline_settings"></a>
 
-#### outline_settings
+#### outline\_settings
 
 ```python
 @property
@@ -99,7 +99,7 @@ def outline_settings() -> FontOutlineSettings
 
 <a id="unreal.SlateFontInfo.outline_settings"></a>
 
-#### outline_settings
+#### outline\_settings
 
 ```python
 @outline_settings.setter
@@ -108,7 +108,7 @@ def outline_settings(value: FontOutlineSettings) -> None
 
 <a id="unreal.SlateFontInfo.typeface_font_name"></a>
 
-#### typeface_font_name
+#### typeface\_font\_name
 
 ```python
 @property
@@ -119,7 +119,7 @@ def typeface_font_name() -> Name
 
 <a id="unreal.SlateFontInfo.typeface_font_name"></a>
 
-#### typeface_font_name
+#### typeface\_font\_name
 
 ```python
 @typeface_font_name.setter
@@ -150,7 +150,7 @@ def size(value: float) -> None
 
 <a id="unreal.SlateFontInfo.letter_spacing"></a>
 
-#### letter_spacing
+#### letter\_spacing
 
 ```python
 @property
@@ -161,7 +161,7 @@ def letter_spacing() -> int
 
 <a id="unreal.SlateFontInfo.letter_spacing"></a>
 
-#### letter_spacing
+#### letter\_spacing
 
 ```python
 @letter_spacing.setter
@@ -170,7 +170,7 @@ def letter_spacing(value: int) -> None
 
 <a id="unreal.SlateFontInfo.skew_amount"></a>
 
-#### skew_amount
+#### skew\_amount
 
 ```python
 @property
@@ -181,7 +181,7 @@ def skew_amount() -> float
 
 <a id="unreal.SlateFontInfo.skew_amount"></a>
 
-#### skew_amount
+#### skew\_amount
 
 ```python
 @skew_amount.setter
@@ -190,7 +190,7 @@ def skew_amount(value: float) -> None
 
 <a id="unreal.SlateFontInfo.force_monospaced"></a>
 
-#### force_monospaced
+#### force\_monospaced
 
 ```python
 @property
@@ -201,7 +201,7 @@ def force_monospaced() -> bool
 
 <a id="unreal.SlateFontInfo.force_monospaced"></a>
 
-#### force_monospaced
+#### force\_monospaced
 
 ```python
 @force_monospaced.setter
@@ -210,7 +210,7 @@ def force_monospaced(value: bool) -> None
 
 <a id="unreal.SlateFontInfo.material_is_stencil"></a>
 
-#### material_is_stencil
+#### material\_is\_stencil
 
 ```python
 @property
@@ -221,7 +221,7 @@ def material_is_stencil() -> bool
 
 <a id="unreal.SlateFontInfo.material_is_stencil"></a>
 
-#### material_is_stencil
+#### material\_is\_stencil
 
 ```python
 @material_is_stencil.setter
@@ -230,7 +230,7 @@ def material_is_stencil(value: bool) -> None
 
 <a id="unreal.SlateFontInfo.monospaced_width"></a>
 
-#### monospaced_width
+#### monospaced\_width
 
 ```python
 @property
@@ -241,7 +241,7 @@ def monospaced_width() -> float
 
 <a id="unreal.SlateFontInfo.monospaced_width"></a>
 
-#### monospaced_width
+#### monospaced\_width
 
 ```python
 @monospaced_width.setter

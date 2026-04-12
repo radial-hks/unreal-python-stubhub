@@ -143,7 +143,7 @@ see: https://docs.unrealengine.com/en-US/Engine/Actors/FogEffects/SkyAtmosphere/
 
 <a id="unreal.SkyAtmosphere.sky_atmosphere_component"></a>
 
-#### sky_atmosphere_component
+#### sky\_atmosphere\_component
 
 ```python
 @property

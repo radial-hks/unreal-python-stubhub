@@ -71,7 +71,7 @@ def direction(value: Vector) -> None
 
 <a id="unreal.UniformVector.set_uniform_vector"></a>
 
-#### set_uniform_vector
+#### set\_uniform\_vector
 
 ```python
 def set_uniform_vector(magnitude: float = 1.000000,

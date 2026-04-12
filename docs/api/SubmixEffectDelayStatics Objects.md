@@ -14,7 +14,7 @@ Submix Effect Delay Statics
 
 <a id="unreal.SubmixEffectDelayStatics.set_maximum_delay_length"></a>
 
-#### set_maximum_delay_length
+#### set\_maximum\_delay\_length
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.SubmixEffectDelayStatics.set_interpolation_time"></a>
 
-#### set_interpolation_time
+#### set\_interpolation\_time
 
 ```python
 @classmethod
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.SubmixEffectDelayStatics.set_delay_length"></a>
 
-#### set_delay_length
+#### set\_delay\_length
 
 ```python
 @classmethod

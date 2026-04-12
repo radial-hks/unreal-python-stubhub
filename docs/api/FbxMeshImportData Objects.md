@@ -30,7 +30,7 @@ Import data and options used when importing any mesh from FBX
 
 <a id="unreal.FbxMeshImportData.transform_vertex_to_absolute"></a>
 
-#### transform_vertex_to_absolute
+#### transform\_vertex\_to\_absolute
 
 ```python
 @property
@@ -41,7 +41,7 @@ def transform_vertex_to_absolute() -> bool
 
 <a id="unreal.FbxMeshImportData.transform_vertex_to_absolute"></a>
 
-#### transform_vertex_to_absolute
+#### transform\_vertex\_to\_absolute
 
 ```python
 @transform_vertex_to_absolute.setter
@@ -50,7 +50,7 @@ def transform_vertex_to_absolute(value: bool) -> None
 
 <a id="unreal.FbxMeshImportData.bake_pivot_in_vertex"></a>
 
-#### bake_pivot_in_vertex
+#### bake\_pivot\_in\_vertex
 
 ```python
 @property
@@ -61,7 +61,7 @@ def bake_pivot_in_vertex() -> bool
 
 <a id="unreal.FbxMeshImportData.bake_pivot_in_vertex"></a>
 
-#### bake_pivot_in_vertex
+#### bake\_pivot\_in\_vertex
 
 ```python
 @bake_pivot_in_vertex.setter
@@ -70,7 +70,7 @@ def bake_pivot_in_vertex(value: bool) -> None
 
 <a id="unreal.FbxMeshImportData.import_mesh_lo_ds"></a>
 
-#### import_mesh_lo_ds
+#### import\_mesh\_lo\_ds
 
 ```python
 @property
@@ -81,7 +81,7 @@ def import_mesh_lo_ds() -> bool
 
 <a id="unreal.FbxMeshImportData.import_mesh_lo_ds"></a>
 
-#### import_mesh_lo_ds
+#### import\_mesh\_lo\_ds
 
 ```python
 @import_mesh_lo_ds.setter
@@ -90,7 +90,7 @@ def import_mesh_lo_ds(value: bool) -> None
 
 <a id="unreal.FbxMeshImportData.normal_import_method"></a>
 
-#### normal_import_method
+#### normal\_import\_method
 
 ```python
 @property
@@ -101,7 +101,7 @@ def normal_import_method() -> FBXNormalImportMethod
 
 <a id="unreal.FbxMeshImportData.normal_import_method"></a>
 
-#### normal_import_method
+#### normal\_import\_method
 
 ```python
 @normal_import_method.setter
@@ -110,7 +110,7 @@ def normal_import_method(value: FBXNormalImportMethod) -> None
 
 <a id="unreal.FbxMeshImportData.normal_generation_method"></a>
 
-#### normal_generation_method
+#### normal\_generation\_method
 
 ```python
 @property
@@ -121,7 +121,7 @@ def normal_generation_method() -> FBXNormalGenerationMethod
 
 <a id="unreal.FbxMeshImportData.normal_generation_method"></a>
 
-#### normal_generation_method
+#### normal\_generation\_method
 
 ```python
 @normal_generation_method.setter
@@ -130,7 +130,7 @@ def normal_generation_method(value: FBXNormalGenerationMethod) -> None
 
 <a id="unreal.FbxMeshImportData.compute_weighted_normals"></a>
 
-#### compute_weighted_normals
+#### compute\_weighted\_normals
 
 ```python
 @property
@@ -141,7 +141,7 @@ def compute_weighted_normals() -> bool
 
 <a id="unreal.FbxMeshImportData.compute_weighted_normals"></a>
 
-#### compute_weighted_normals
+#### compute\_weighted\_normals
 
 ```python
 @compute_weighted_normals.setter
@@ -150,7 +150,7 @@ def compute_weighted_normals(value: bool) -> None
 
 <a id="unreal.FbxMeshImportData.reorder_material_to_fbx_order"></a>
 
-#### reorder_material_to_fbx_order
+#### reorder\_material\_to\_fbx\_order
 
 ```python
 @property
@@ -161,7 +161,7 @@ def reorder_material_to_fbx_order() -> bool
 
 <a id="unreal.FbxMeshImportData.reorder_material_to_fbx_order"></a>
 
-#### reorder_material_to_fbx_order
+#### reorder\_material\_to\_fbx\_order
 
 ```python
 @reorder_material_to_fbx_order.setter

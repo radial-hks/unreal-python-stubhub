@@ -19,7 +19,7 @@ The world size for each texcoord mapping. Used by the texture streaming.
 
 <a id="unreal.MeshUVChannelInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

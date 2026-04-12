@@ -143,7 +143,7 @@ Niagara Actor
 
 <a id="unreal.NiagaraActor.niagara_component"></a>
 
-#### niagara_component
+#### niagara\_component
 
 ```python
 @property
@@ -154,7 +154,7 @@ def niagara_component() -> NiagaraComponent
 
 <a id="unreal.NiagaraActor.set_destroy_on_system_finish"></a>
 
-#### set_destroy_on_system_finish
+#### set\_destroy\_on\_system\_finish
 
 ```python
 def set_destroy_on_system_finish(
@@ -169,7 +169,7 @@ Args:
 
 <a id="unreal.NiagaraActor.get_destroy_on_system_finish"></a>
 
-#### get_destroy_on_system_finish
+#### get\_destroy\_on\_system\_finish
 
 ```python
 def get_destroy_on_system_finish() -> bool

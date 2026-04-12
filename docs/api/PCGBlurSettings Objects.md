@@ -40,7 +40,7 @@ Select an attribute on a point data and blur it using the values from neighbors 
 
 <a id="unreal.PCGBlurSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -51,7 +51,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGBlurSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter
@@ -60,7 +60,7 @@ def input_source(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGBlurSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @property
@@ -71,7 +71,7 @@ def output_target() -> PCGAttributePropertyOutputSelector
 
 <a id="unreal.PCGBlurSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @output_target.setter
@@ -80,7 +80,7 @@ def output_target(value: PCGAttributePropertyOutputSelector) -> None
 
 <a id="unreal.PCGBlurSettings.num_iterations"></a>
 
-#### num_iterations
+#### num\_iterations
 
 ```python
 @property
@@ -91,7 +91,7 @@ def num_iterations() -> int
 
 <a id="unreal.PCGBlurSettings.num_iterations"></a>
 
-#### num_iterations
+#### num\_iterations
 
 ```python
 @num_iterations.setter
@@ -100,7 +100,7 @@ def num_iterations(value: int) -> None
 
 <a id="unreal.PCGBlurSettings.search_distance"></a>
 
-#### search_distance
+#### search\_distance
 
 ```python
 @property
@@ -111,7 +111,7 @@ def search_distance() -> float
 
 <a id="unreal.PCGBlurSettings.search_distance"></a>
 
-#### search_distance
+#### search\_distance
 
 ```python
 @search_distance.setter
@@ -120,7 +120,7 @@ def search_distance(value: float) -> None
 
 <a id="unreal.PCGBlurSettings.blur_mode"></a>
 
-#### blur_mode
+#### blur\_mode
 
 ```python
 @property
@@ -131,7 +131,7 @@ def blur_mode() -> PCGBlurElementMode
 
 <a id="unreal.PCGBlurSettings.blur_mode"></a>
 
-#### blur_mode
+#### blur\_mode
 
 ```python
 @blur_mode.setter
@@ -140,7 +140,7 @@ def blur_mode(value: PCGBlurElementMode) -> None
 
 <a id="unreal.PCGBlurSettings.use_custom_standard_deviation"></a>
 
-#### use_custom_standard_deviation
+#### use\_custom\_standard\_deviation
 
 ```python
 @property
@@ -151,7 +151,7 @@ def use_custom_standard_deviation() -> bool
 
 <a id="unreal.PCGBlurSettings.use_custom_standard_deviation"></a>
 
-#### use_custom_standard_deviation
+#### use\_custom\_standard\_deviation
 
 ```python
 @use_custom_standard_deviation.setter
@@ -160,7 +160,7 @@ def use_custom_standard_deviation(value: bool) -> None
 
 <a id="unreal.PCGBlurSettings.custom_standard_deviation"></a>
 
-#### custom_standard_deviation
+#### custom\_standard\_deviation
 
 ```python
 @property
@@ -171,7 +171,7 @@ def custom_standard_deviation() -> float
 
 <a id="unreal.PCGBlurSettings.custom_standard_deviation"></a>
 
-#### custom_standard_deviation
+#### custom\_standard\_deviation
 
 ```python
 @custom_standard_deviation.setter

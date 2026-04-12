@@ -8,7 +8,7 @@ deprecated: 'CameraShakeStopParams' was renamed to 'CameraShakePatternStopParams
 
 <a id="unreal.CameraShakeStopParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(immediately: bool = False) -> None

@@ -21,7 +21,7 @@ are only relevant to editors in C++.
 
 <a id="unreal.IKRigController.set_solver_enabled"></a>
 
-#### set_solver_enabled
+#### set\_solver\_enabled
 
 ```python
 def set_solver_enabled(solver_index: int, is_enabled: bool) -> bool
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_skeletal_mesh"></a>
 
-#### set_skeletal_mesh
+#### set\_skeletal\_mesh
 
 ```python
 def set_skeletal_mesh(skeletal_mesh: SkeletalMesh) -> bool
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_root_bone"></a>
 
-#### set_root_bone
+#### set\_root\_bone
 
 ```python
 def set_root_bone(root_bone_name: Name, solver_index: int) -> bool
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_retarget_root"></a>
 
-#### set_retarget_root
+#### set\_retarget\_root
 
 ```python
 def set_retarget_root(root_bone_name: Name) -> bool
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_retarget_chain_start_bone"></a>
 
-#### set_retarget_chain_start_bone
+#### set\_retarget\_chain\_start\_bone
 
 ```python
 def set_retarget_chain_start_bone(chain_name: Name,
@@ -111,7 +111,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_retarget_chain_goal"></a>
 
-#### set_retarget_chain_goal
+#### set\_retarget\_chain\_goal
 
 ```python
 def set_retarget_chain_goal(chain_name: Name, goal_name: Name) -> bool
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_retarget_chain_end_bone"></a>
 
-#### set_retarget_chain_end_bone
+#### set\_retarget\_chain\_end\_bone
 
 ```python
 def set_retarget_chain_end_bone(chain_name: Name, end_bone_name: Name) -> bool
@@ -147,7 +147,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_goal_bone"></a>
 
-#### set_goal_bone
+#### set\_goal\_bone
 
 ```python
 def set_goal_bone(goal_name: Name, new_bone_name: Name) -> bool
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_end_bone"></a>
 
-#### set_end_bone
+#### set\_end\_bone
 
 ```python
 def set_end_bone(end_bone_name: Name, solver_index: int) -> bool
@@ -183,7 +183,7 @@ Returns:
 
 <a id="unreal.IKRigController.set_bone_excluded"></a>
 
-#### set_bone_excluded
+#### set\_bone\_excluded
 
 ```python
 def set_bone_excluded(bone_name: Name, exclude: bool) -> bool
@@ -201,7 +201,7 @@ Returns:
 
 <a id="unreal.IKRigController.rename_retarget_chain"></a>
 
-#### rename_retarget_chain
+#### rename\_retarget\_chain
 
 ```python
 def rename_retarget_chain(chain_name: Name, new_chain_name: Name) -> Name
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.IKRigController.rename_goal"></a>
 
-#### rename_goal
+#### rename\_goal
 
 ```python
 def rename_goal(old_name: Name, potential_new_name: Name) -> Name
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.IKRigController.remove_solver"></a>
 
-#### remove_solver
+#### remove\_solver
 
 ```python
 def remove_solver(solver_index: int) -> bool
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.IKRigController.remove_retarget_chain"></a>
 
-#### remove_retarget_chain
+#### remove\_retarget\_chain
 
 ```python
 def remove_retarget_chain(chain_name: Name) -> bool
@@ -271,7 +271,7 @@ Returns:
 
 <a id="unreal.IKRigController.remove_goal"></a>
 
-#### remove_goal
+#### remove\_goal
 
 ```python
 def remove_goal(goal_name: Name) -> bool
@@ -288,7 +288,7 @@ Returns:
 
 <a id="unreal.IKRigController.remove_bone_setting"></a>
 
-#### remove_bone_setting
+#### remove\_bone\_setting
 
 ```python
 def remove_bone_setting(bone_name: Name, solver_index: int) -> bool
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.IKRigController.move_solver_in_stack"></a>
 
-#### move_solver_in_stack
+#### move\_solver\_in\_stack
 
 ```python
 def move_solver_in_stack(solver_to_move_index: int,
@@ -325,7 +325,7 @@ Returns:
 
 <a id="unreal.IKRigController.is_skeletal_mesh_compatible"></a>
 
-#### is_skeletal_mesh_compatible
+#### is\_skeletal\_mesh\_compatible
 
 ```python
 def is_skeletal_mesh_compatible(skeletal_mesh_to_check: SkeletalMesh) -> bool
@@ -342,7 +342,7 @@ Returns:
 
 <a id="unreal.IKRigController.is_goal_connected_to_solver"></a>
 
-#### is_goal_connected_to_solver
+#### is\_goal\_connected\_to\_solver
 
 ```python
 def is_goal_connected_to_solver(goal_name: Name, solver_index: int) -> bool
@@ -360,7 +360,7 @@ Returns:
 
 <a id="unreal.IKRigController.is_goal_connected_to_any_solver"></a>
 
-#### is_goal_connected_to_any_solver
+#### is\_goal\_connected\_to\_any\_solver
 
 ```python
 def is_goal_connected_to_any_solver(goal_name: Name) -> bool
@@ -377,7 +377,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_solver_enabled"></a>
 
-#### get_solver_enabled
+#### get\_solver\_enabled
 
 ```python
 def get_solver_enabled(solver_index: int) -> bool
@@ -394,7 +394,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_solver_at_index"></a>
 
-#### get_solver_at_index
+#### get\_solver\_at\_index
 
 ```python
 def get_solver_at_index(index: int) -> IKRigSolver
@@ -411,7 +411,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_skeletal_mesh"></a>
 
-#### get_skeletal_mesh
+#### get\_skeletal\_mesh
 
 ```python
 def get_skeletal_mesh() -> SkeletalMesh
@@ -425,7 +425,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_root_bone"></a>
 
-#### get_root_bone
+#### get\_root\_bone
 
 ```python
 def get_root_bone(solver_index: int) -> Name
@@ -442,7 +442,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_retarget_root"></a>
 
-#### get_retarget_root
+#### get\_retarget\_root
 
 ```python
 def get_retarget_root() -> Name
@@ -456,7 +456,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_retarget_chain_start_bone"></a>
 
-#### get_retarget_chain_start_bone
+#### get\_retarget\_chain\_start\_bone
 
 ```python
 def get_retarget_chain_start_bone(chain_name: Name) -> Name
@@ -473,7 +473,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_retarget_chains"></a>
 
-#### get_retarget_chains
+#### get\_retarget\_chains
 
 ```python
 def get_retarget_chains() -> Array[BoneChain]
@@ -487,7 +487,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_retarget_chain_goal"></a>
 
-#### get_retarget_chain_goal
+#### get\_retarget\_chain\_goal
 
 ```python
 def get_retarget_chain_goal(chain_name: Name) -> Name
@@ -504,7 +504,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_retarget_chain_end_bone"></a>
 
-#### get_retarget_chain_end_bone
+#### get\_retarget\_chain\_end\_bone
 
 ```python
 def get_retarget_chain_end_bone(chain_name: Name) -> Name
@@ -521,7 +521,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_ref_pose_transform_of_bone"></a>
 
-#### get_ref_pose_transform_of_bone
+#### get\_ref\_pose\_transform\_of\_bone
 
 ```python
 def get_ref_pose_transform_of_bone(bone_name: Name) -> Transform
@@ -538,7 +538,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_num_solvers"></a>
 
-#### get_num_solvers
+#### get\_num\_solvers
 
 ```python
 def get_num_solvers() -> int
@@ -552,7 +552,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_index_of_solver"></a>
 
-#### get_index_of_solver
+#### get\_index\_of\_solver
 
 ```python
 def get_index_of_solver(solver: IKRigSolver) -> int
@@ -569,7 +569,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_goal_settings_for_solver"></a>
 
-#### get_goal_settings_for_solver
+#### get\_goal\_settings\_for\_solver
 
 ```python
 def get_goal_settings_for_solver(goal_name: Name, solver_index: int) -> Object
@@ -588,7 +588,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_goal_name_for_bone"></a>
 
-#### get_goal_name_for_bone
+#### get\_goal\_name\_for\_bone
 
 ```python
 def get_goal_name_for_bone(bone_name: Name) -> Name
@@ -605,7 +605,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_goal"></a>
 
-#### get_goal
+#### get\_goal
 
 ```python
 def get_goal(goal_name: Name) -> IKRigEffectorGoal
@@ -622,7 +622,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_end_bone"></a>
 
-#### get_end_bone
+#### get\_end\_bone
 
 ```python
 def get_end_bone(solver_index: int) -> Name
@@ -639,7 +639,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_controller"></a>
 
-#### get_controller
+#### get\_controller
 
 ```python
 @classmethod
@@ -657,7 +657,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_bone_settings"></a>
 
-#### get_bone_settings
+#### get\_bone\_settings
 
 ```python
 def get_bone_settings(bone_name: Name, solver_index: int) -> Object
@@ -675,7 +675,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_bone_for_goal"></a>
 
-#### get_bone_for_goal
+#### get\_bone\_for\_goal
 
 ```python
 def get_bone_for_goal(goal_name: Name) -> Name
@@ -692,7 +692,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_bone_excluded"></a>
 
-#### get_bone_excluded
+#### get\_bone\_excluded
 
 ```python
 def get_bone_excluded(bone_name: Name) -> bool
@@ -709,7 +709,7 @@ Returns:
 
 <a id="unreal.IKRigController.get_all_goals"></a>
 
-#### get_all_goals
+#### get\_all\_goals
 
 ```python
 def get_all_goals() -> Array[IKRigEffectorGoal]
@@ -723,7 +723,7 @@ Returns:
 
 <a id="unreal.IKRigController.disconnect_goal_from_solver"></a>
 
-#### disconnect_goal_from_solver
+#### disconnect\_goal\_from\_solver
 
 ```python
 def disconnect_goal_from_solver(goal_to_remove: Name,
@@ -742,7 +742,7 @@ Returns:
 
 <a id="unreal.IKRigController.connect_goal_to_solver"></a>
 
-#### connect_goal_to_solver
+#### connect\_goal\_to\_solver
 
 ```python
 def connect_goal_to_solver(goal_name: Name, solver_index: int) -> bool
@@ -760,7 +760,7 @@ Returns:
 
 <a id="unreal.IKRigController.apply_auto_generated_retarget_definition"></a>
 
-#### apply_auto_generated_retarget_definition
+#### apply\_auto\_generated\_retarget\_definition
 
 ```python
 def apply_auto_generated_retarget_definition() -> bool
@@ -775,7 +775,7 @@ Returns:
 
 <a id="unreal.IKRigController.apply_auto_fbik"></a>
 
-#### apply_auto_fbik
+#### apply\_auto\_fbik
 
 ```python
 def apply_auto_fbik() -> bool
@@ -790,7 +790,7 @@ Returns:
 
 <a id="unreal.IKRigController.add_solver"></a>
 
-#### add_solver
+#### add\_solver
 
 ```python
 def add_solver(solver_class: Class) -> int
@@ -807,7 +807,7 @@ Returns:
 
 <a id="unreal.IKRigController.add_retarget_chain"></a>
 
-#### add_retarget_chain
+#### add\_retarget\_chain
 
 ```python
 def add_retarget_chain(chain_name: Name, start_bone_name: Name,
@@ -829,7 +829,7 @@ Returns:
 
 <a id="unreal.IKRigController.add_new_goal"></a>
 
-#### add_new_goal
+#### add\_new\_goal
 
 ```python
 def add_new_goal(goal_name: Name, bone_name: Name) -> Name
@@ -847,7 +847,7 @@ Returns:
 
 <a id="unreal.IKRigController.add_bone_setting"></a>
 
-#### add_bone_setting
+#### add\_bone\_setting
 
 ```python
 def add_bone_setting(bone_name: Name, solver_index: int) -> bool

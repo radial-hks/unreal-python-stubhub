@@ -23,7 +23,7 @@ Media Player Track Options
 
 <a id="unreal.MediaPlayerTrackOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(audio: int = 0,

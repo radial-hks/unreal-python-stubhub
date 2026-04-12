@@ -13,7 +13,7 @@ Interchange Mesh Utilities
 
 <a id="unreal.InterchangeMeshUtilities.scripted_import_morph_target"></a>
 
-#### scripted_import_morph_target
+#### scripted\_import\_morph\_target
 
 ```python
 def scripted_import_morph_target(skeletal_mesh: SkeletalMesh, lod_index: int,

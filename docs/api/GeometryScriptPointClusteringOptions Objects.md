@@ -22,7 +22,7 @@ Geometry Script Point Clustering Options
 
 <a id="unreal.GeometryScriptPointClusteringOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptPointClusteringOptions.initial_cluster_centers"></a>
 
-#### initial_cluster_centers
+#### initial\_cluster\_centers
 
 ```python
 @property
@@ -47,7 +47,7 @@ def initial_cluster_centers() -> Array[Vector]
 
 <a id="unreal.GeometryScriptPointClusteringOptions.initial_cluster_centers"></a>
 
-#### initial_cluster_centers
+#### initial\_cluster\_centers
 
 ```python
 @initial_cluster_centers.setter
@@ -56,7 +56,7 @@ def initial_cluster_centers(value: Array[Vector]) -> None
 
 <a id="unreal.GeometryScriptPointClusteringOptions.target_num_clusters"></a>
 
-#### target_num_clusters
+#### target\_num\_clusters
 
 ```python
 @property
@@ -67,7 +67,7 @@ def target_num_clusters() -> int
 
 <a id="unreal.GeometryScriptPointClusteringOptions.target_num_clusters"></a>
 
-#### target_num_clusters
+#### target\_num\_clusters
 
 ```python
 @target_num_clusters.setter
@@ -76,7 +76,7 @@ def target_num_clusters(value: int) -> None
 
 <a id="unreal.GeometryScriptPointClusteringOptions.initialize_method"></a>
 
-#### initialize_method
+#### initialize\_method
 
 ```python
 @property
@@ -87,7 +87,7 @@ def initialize_method() -> GeometryScriptInitKMeansMethod
 
 <a id="unreal.GeometryScriptPointClusteringOptions.initialize_method"></a>
 
-#### initialize_method
+#### initialize\_method
 
 ```python
 @initialize_method.setter
@@ -96,7 +96,7 @@ def initialize_method(value: GeometryScriptInitKMeansMethod) -> None
 
 <a id="unreal.GeometryScriptPointClusteringOptions.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @property
@@ -107,7 +107,7 @@ def random_seed() -> int
 
 <a id="unreal.GeometryScriptPointClusteringOptions.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @random_seed.setter
@@ -116,7 +116,7 @@ def random_seed(value: int) -> None
 
 <a id="unreal.GeometryScriptPointClusteringOptions.max_iterations"></a>
 
-#### max_iterations
+#### max\_iterations
 
 ```python
 @property
@@ -127,7 +127,7 @@ def max_iterations() -> int
 
 <a id="unreal.GeometryScriptPointClusteringOptions.max_iterations"></a>
 
-#### max_iterations
+#### max\_iterations
 
 ```python
 @max_iterations.setter

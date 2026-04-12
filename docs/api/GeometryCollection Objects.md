@@ -94,7 +94,7 @@ UObject wrapper for the FGeometryCollection
 
 <a id="unreal.GeometryCollection.damage_model"></a>
 
-#### damage_model
+#### damage\_model
 
 ```python
 @property
@@ -105,7 +105,7 @@ def damage_model() -> DamageModelTypeEnum
 
 <a id="unreal.GeometryCollection.damage_model"></a>
 
-#### damage_model
+#### damage\_model
 
 ```python
 @damage_model.setter
@@ -114,7 +114,7 @@ def damage_model(value: DamageModelTypeEnum) -> None
 
 <a id="unreal.GeometryCollection.use_material_damage_modifiers"></a>
 
-#### use_material_damage_modifiers
+#### use\_material\_damage\_modifiers
 
 ```python
 @property
@@ -125,7 +125,7 @@ def use_material_damage_modifiers() -> bool
 
 <a id="unreal.GeometryCollection.use_material_damage_modifiers"></a>
 
-#### use_material_damage_modifiers
+#### use\_material\_damage\_modifiers
 
 ```python
 @use_material_damage_modifiers.setter
@@ -134,7 +134,7 @@ def use_material_damage_modifiers(value: bool) -> None
 
 <a id="unreal.GeometryCollection.geometry_source"></a>
 
-#### geometry_source
+#### geometry\_source
 
 ```python
 @property
@@ -145,7 +145,7 @@ def geometry_source() -> Array[GeometryCollectionSource]
 
 <a id="unreal.GeometryCollection.geometry_source"></a>
 
-#### geometry_source
+#### geometry\_source
 
 ```python
 @geometry_source.setter
@@ -154,7 +154,7 @@ def geometry_source(value: Array[GeometryCollectionSource]) -> None
 
 <a id="unreal.GeometryCollection.strip_on_cook"></a>
 
-#### strip_on_cook
+#### strip\_on\_cook
 
 ```python
 @property
@@ -165,7 +165,7 @@ def strip_on_cook() -> bool
 
 <a id="unreal.GeometryCollection.strip_on_cook"></a>
 
-#### strip_on_cook
+#### strip\_on\_cook
 
 ```python
 @strip_on_cook.setter
@@ -174,7 +174,7 @@ def strip_on_cook(value: bool) -> None
 
 <a id="unreal.GeometryCollection.strip_render_data_on_cook"></a>
 
-#### strip_render_data_on_cook
+#### strip\_render\_data\_on\_cook
 
 ```python
 @property
@@ -186,7 +186,7 @@ This may be used if the cooked build uses a custom renderer such as the ISMPool 
 
 <a id="unreal.GeometryCollection.strip_render_data_on_cook"></a>
 
-#### strip_render_data_on_cook
+#### strip\_render\_data\_on\_cook
 
 ```python
 @strip_render_data_on_cook.setter
@@ -195,7 +195,7 @@ def strip_render_data_on_cook(value: bool) -> None
 
 <a id="unreal.GeometryCollection.custom_renderer_type"></a>
 
-#### custom_renderer_type
+#### custom\_renderer\_type
 
 ```python
 @property
@@ -206,7 +206,7 @@ def custom_renderer_type() -> Class
 
 <a id="unreal.GeometryCollection.custom_renderer_type"></a>
 
-#### custom_renderer_type
+#### custom\_renderer\_type
 
 ```python
 @custom_renderer_type.setter
@@ -215,7 +215,7 @@ def custom_renderer_type(value: Class) -> None
 
 <a id="unreal.GeometryCollection.root_proxy_data"></a>
 
-#### root_proxy_data
+#### root\_proxy\_data
 
 ```python
 @property
@@ -226,7 +226,7 @@ def root_proxy_data() -> GeometryCollectionProxyMeshData
 
 <a id="unreal.GeometryCollection.root_proxy_data"></a>
 
-#### root_proxy_data
+#### root\_proxy\_data
 
 ```python
 @root_proxy_data.setter
@@ -235,7 +235,7 @@ def root_proxy_data(value: GeometryCollectionProxyMeshData) -> None
 
 <a id="unreal.GeometryCollection.enable_nanite"></a>
 
-#### enable_nanite
+#### enable\_nanite
 
 ```python
 @property
@@ -246,7 +246,7 @@ def enable_nanite() -> bool
 
 <a id="unreal.GeometryCollection.enable_nanite"></a>
 
-#### enable_nanite
+#### enable\_nanite
 
 ```python
 @enable_nanite.setter
@@ -255,7 +255,7 @@ def enable_nanite(value: bool) -> None
 
 <a id="unreal.GeometryCollection.convert_vertex_colors_to_srgb"></a>
 
-#### convert_vertex_colors_to_srgb
+#### convert\_vertex\_colors\_to\_srgb
 
 ```python
 @property
@@ -266,7 +266,7 @@ def convert_vertex_colors_to_srgb() -> bool
 
 <a id="unreal.GeometryCollection.convert_vertex_colors_to_srgb"></a>
 
-#### convert_vertex_colors_to_srgb
+#### convert\_vertex\_colors\_to\_srgb
 
 ```python
 @convert_vertex_colors_to_srgb.setter
@@ -275,7 +275,7 @@ def convert_vertex_colors_to_srgb(value: bool) -> None
 
 <a id="unreal.GeometryCollection.collision_type"></a>
 
-#### collision_type
+#### collision\_type
 
 ```python
 @property
@@ -287,7 +287,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.collision_type"></a>
 
-#### collision_type
+#### collision\_type
 
 ```python
 @collision_type.setter
@@ -296,7 +296,7 @@ def collision_type(value: CollisionTypeEnum) -> None
 
 <a id="unreal.GeometryCollection.implicit_type"></a>
 
-#### implicit_type
+#### implicit\_type
 
 ```python
 @property
@@ -308,7 +308,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.implicit_type"></a>
 
-#### implicit_type
+#### implicit\_type
 
 ```python
 @implicit_type.setter
@@ -317,7 +317,7 @@ def implicit_type(value: ImplicitTypeEnum) -> None
 
 <a id="unreal.GeometryCollection.min_level_set_resolution"></a>
 
-#### min_level_set_resolution
+#### min\_level\_set\_resolution
 
 ```python
 @property
@@ -329,7 +329,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.min_level_set_resolution"></a>
 
-#### min_level_set_resolution
+#### min\_level\_set\_resolution
 
 ```python
 @min_level_set_resolution.setter
@@ -338,7 +338,7 @@ def min_level_set_resolution(value: int) -> None
 
 <a id="unreal.GeometryCollection.max_level_set_resolution"></a>
 
-#### max_level_set_resolution
+#### max\_level\_set\_resolution
 
 ```python
 @property
@@ -350,7 +350,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.max_level_set_resolution"></a>
 
-#### max_level_set_resolution
+#### max\_level\_set\_resolution
 
 ```python
 @max_level_set_resolution.setter
@@ -359,7 +359,7 @@ def max_level_set_resolution(value: int) -> None
 
 <a id="unreal.GeometryCollection.min_cluster_level_set_resolution"></a>
 
-#### min_cluster_level_set_resolution
+#### min\_cluster\_level\_set\_resolution
 
 ```python
 @property
@@ -371,7 +371,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.min_cluster_level_set_resolution"></a>
 
-#### min_cluster_level_set_resolution
+#### min\_cluster\_level\_set\_resolution
 
 ```python
 @min_cluster_level_set_resolution.setter
@@ -380,7 +380,7 @@ def min_cluster_level_set_resolution(value: int) -> None
 
 <a id="unreal.GeometryCollection.max_cluster_level_set_resolution"></a>
 
-#### max_cluster_level_set_resolution
+#### max\_cluster\_level\_set\_resolution
 
 ```python
 @property
@@ -392,7 +392,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.max_cluster_level_set_resolution"></a>
 
-#### max_cluster_level_set_resolution
+#### max\_cluster\_level\_set\_resolution
 
 ```python
 @max_cluster_level_set_resolution.setter
@@ -401,7 +401,7 @@ def max_cluster_level_set_resolution(value: int) -> None
 
 <a id="unreal.GeometryCollection.collision_object_reduction_percentage"></a>
 
-#### collision_object_reduction_percentage
+#### collision\_object\_reduction\_percentage
 
 ```python
 @property
@@ -413,7 +413,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.collision_object_reduction_percentage"></a>
 
-#### collision_object_reduction_percentage
+#### collision\_object\_reduction\_percentage
 
 ```python
 @collision_object_reduction_percentage.setter
@@ -422,7 +422,7 @@ def collision_object_reduction_percentage(value: float) -> None
 
 <a id="unreal.GeometryCollection.root_proxy"></a>
 
-#### root_proxy
+#### root\_proxy
 
 ```python
 @property
@@ -434,7 +434,7 @@ deprecated: This property is deprecated. Use RootProxyData instead.
 
 <a id="unreal.GeometryCollection.root_proxy"></a>
 
-#### root_proxy
+#### root\_proxy
 
 ```python
 @root_proxy.setter
@@ -443,7 +443,7 @@ def root_proxy(value: SoftObjectPath) -> None
 
 <a id="unreal.GeometryCollection.physics_material"></a>
 
-#### physics_material
+#### physics\_material
 
 ```python
 @property
@@ -454,7 +454,7 @@ def physics_material() -> PhysicalMaterial
 
 <a id="unreal.GeometryCollection.density_from_physics_material"></a>
 
-#### density_from_physics_material
+#### density\_from\_physics\_material
 
 ```python
 @property
@@ -465,7 +465,7 @@ def density_from_physics_material() -> bool
 
 <a id="unreal.GeometryCollection.density_from_physics_material"></a>
 
-#### density_from_physics_material
+#### density\_from\_physics\_material
 
 ```python
 @density_from_physics_material.setter
@@ -474,7 +474,7 @@ def density_from_physics_material(value: bool) -> None
 
 <a id="unreal.GeometryCollection.mass_as_density"></a>
 
-#### mass_as_density
+#### mass\_as\_density
 
 ```python
 @property
@@ -485,7 +485,7 @@ def mass_as_density() -> bool
 
 <a id="unreal.GeometryCollection.mass_as_density"></a>
 
-#### mass_as_density
+#### mass\_as\_density
 
 ```python
 @mass_as_density.setter
@@ -514,7 +514,7 @@ def mass(value: float) -> None
 
 <a id="unreal.GeometryCollection.minimum_mass_clamp"></a>
 
-#### minimum_mass_clamp
+#### minimum\_mass\_clamp
 
 ```python
 @property
@@ -525,7 +525,7 @@ def minimum_mass_clamp() -> float
 
 <a id="unreal.GeometryCollection.import_collision_from_source"></a>
 
-#### import_collision_from_source
+#### import\_collision\_from\_source
 
 ```python
 @property
@@ -536,7 +536,7 @@ def import_collision_from_source() -> bool
 
 <a id="unreal.GeometryCollection.import_collision_from_source"></a>
 
-#### import_collision_from_source
+#### import\_collision\_from\_source
 
 ```python
 @import_collision_from_source.setter
@@ -545,7 +545,7 @@ def import_collision_from_source(value: bool) -> None
 
 <a id="unreal.GeometryCollection.optimize_convexes"></a>
 
-#### optimize_convexes
+#### optimize\_convexes
 
 ```python
 @property
@@ -558,7 +558,7 @@ Enable p.Chaos.Convex.SimplifyUnion cvar to be able to use it (experimental)
 
 <a id="unreal.GeometryCollection.optimize_convexes"></a>
 
-#### optimize_convexes
+#### optimize\_convexes
 
 ```python
 @optimize_convexes.setter
@@ -567,7 +567,7 @@ def optimize_convexes(value: bool) -> None
 
 <a id="unreal.GeometryCollection.collision_particles_fraction"></a>
 
-#### collision_particles_fraction
+#### collision\_particles\_fraction
 
 ```python
 @property
@@ -579,7 +579,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.collision_particles_fraction"></a>
 
-#### collision_particles_fraction
+#### collision\_particles\_fraction
 
 ```python
 @collision_particles_fraction.setter
@@ -588,7 +588,7 @@ def collision_particles_fraction(value: float) -> None
 
 <a id="unreal.GeometryCollection.maximum_collision_particles"></a>
 
-#### maximum_collision_particles
+#### maximum\_collision\_particles
 
 ```python
 @property
@@ -600,7 +600,7 @@ deprecated: This property is deprecated. Use the default SizeSpecificData instea
 
 <a id="unreal.GeometryCollection.maximum_collision_particles"></a>
 
-#### maximum_collision_particles
+#### maximum\_collision\_particles
 
 ```python
 @maximum_collision_particles.setter
@@ -609,7 +609,7 @@ def maximum_collision_particles(value: int) -> None
 
 <a id="unreal.GeometryCollection.scale_on_removal"></a>
 
-#### scale_on_removal
+#### scale\_on\_removal
 
 ```python
 @property
@@ -620,7 +620,7 @@ def scale_on_removal() -> bool
 
 <a id="unreal.GeometryCollection.scale_on_removal"></a>
 
-#### scale_on_removal
+#### scale\_on\_removal
 
 ```python
 @scale_on_removal.setter
@@ -629,7 +629,7 @@ def scale_on_removal(value: bool) -> None
 
 <a id="unreal.GeometryCollection.remove_on_max_sleep"></a>
 
-#### remove_on_max_sleep
+#### remove\_on\_max\_sleep
 
 ```python
 @property
@@ -640,7 +640,7 @@ def remove_on_max_sleep() -> bool
 
 <a id="unreal.GeometryCollection.maximum_sleep_time"></a>
 
-#### maximum_sleep_time
+#### maximum\_sleep\_time
 
 ```python
 @property
@@ -651,7 +651,7 @@ def maximum_sleep_time() -> Vector2D
 
 <a id="unreal.GeometryCollection.removal_duration"></a>
 
-#### removal_duration
+#### removal\_duration
 
 ```python
 @property
@@ -662,7 +662,7 @@ def removal_duration() -> Vector2D
 
 <a id="unreal.GeometryCollection.slow_moving_as_sleeping"></a>
 
-#### slow_moving_as_sleeping
+#### slow\_moving\_as\_sleeping
 
 ```python
 @property
@@ -673,7 +673,7 @@ def slow_moving_as_sleeping() -> bool
 
 <a id="unreal.GeometryCollection.slow_moving_velocity_threshold"></a>
 
-#### slow_moving_velocity_threshold
+#### slow\_moving\_velocity\_threshold
 
 ```python
 @property
@@ -684,7 +684,7 @@ def slow_moving_velocity_threshold() -> float
 
 <a id="unreal.GeometryCollection.enable_remove_pieces_on_fracture"></a>
 
-#### enable_remove_pieces_on_fracture
+#### enable\_remove\_pieces\_on\_fracture
 
 ```python
 @property
@@ -696,7 +696,7 @@ deprecated: Use remove on break feature instead ( Fracture editor tools ).
 
 <a id="unreal.GeometryCollection.enable_remove_pieces_on_fracture"></a>
 
-#### enable_remove_pieces_on_fracture
+#### enable\_remove\_pieces\_on\_fracture
 
 ```python
 @enable_remove_pieces_on_fracture.setter
@@ -705,7 +705,7 @@ def enable_remove_pieces_on_fracture(value: bool) -> None
 
 <a id="unreal.GeometryCollection.remove_on_fracture_materials"></a>
 
-#### remove_on_fracture_materials
+#### remove\_on\_fracture\_materials
 
 ```python
 @property
@@ -717,7 +717,7 @@ deprecated: Use remove on break feature instead ( Fracture editor tools ).
 
 <a id="unreal.GeometryCollection.remove_on_fracture_materials"></a>
 
-#### remove_on_fracture_materials
+#### remove\_on\_fracture\_materials
 
 ```python
 @remove_on_fracture_materials.setter
@@ -726,7 +726,7 @@ def remove_on_fracture_materials(value: Array[MaterialInterface]) -> None
 
 <a id="unreal.GeometryCollection.asset_import_data"></a>
 
-#### asset_import_data
+#### asset\_import\_data
 
 ```python
 @property
@@ -737,7 +737,7 @@ def asset_import_data() -> AssetImportData
 
 <a id="unreal.GeometryCollection.asset_import_data"></a>
 
-#### asset_import_data
+#### asset\_import\_data
 
 ```python
 @asset_import_data.setter
@@ -746,7 +746,7 @@ def asset_import_data(value: AssetImportData) -> None
 
 <a id="unreal.GeometryCollection.dataflow_asset"></a>
 
-#### dataflow_asset
+#### dataflow\_asset
 
 ```python
 @property
@@ -757,7 +757,7 @@ def dataflow_asset() -> Dataflow
 
 <a id="unreal.GeometryCollection.dataflow_asset"></a>
 
-#### dataflow_asset
+#### dataflow\_asset
 
 ```python
 @dataflow_asset.setter
@@ -786,7 +786,7 @@ def overrides(value: Map[str, str]) -> None
 
 <a id="unreal.GeometryCollection.set_enable_nanite"></a>
 
-#### set_enable_nanite
+#### set\_enable\_nanite
 
 ```python
 def set_enable_nanite(value: bool) -> None
@@ -800,7 +800,7 @@ Args:
 
 <a id="unreal.GeometryCollection.set_convert_vertex_colors_to_srgb"></a>
 
-#### set_convert_vertex_colors_to_srgb
+#### set\_convert\_vertex\_colors\_to\_srgb
 
 ```python
 def set_convert_vertex_colors_to_srgb(value: bool) -> None
@@ -814,7 +814,7 @@ Args:
 
 <a id="unreal.GeometryCollection.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -831,7 +831,7 @@ Returns:
 
 <a id="unreal.GeometryCollection.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -848,7 +848,7 @@ Returns:
 
 <a id="unreal.GeometryCollection.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

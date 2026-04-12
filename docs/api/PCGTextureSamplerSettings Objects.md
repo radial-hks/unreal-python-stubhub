@@ -74,7 +74,7 @@ def transform(value: Transform) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.use_absolute_transform"></a>
 
-#### use_absolute_transform
+#### use\_absolute\_transform
 
 ```python
 @property
@@ -85,7 +85,7 @@ def use_absolute_transform() -> bool
 
 <a id="unreal.PCGTextureSamplerSettings.use_absolute_transform"></a>
 
-#### use_absolute_transform
+#### use\_absolute\_transform
 
 ```python
 @use_absolute_transform.setter
@@ -94,7 +94,7 @@ def use_absolute_transform(value: bool) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.texture_array_index"></a>
 
-#### texture_array_index
+#### texture\_array\_index
 
 ```python
 @property
@@ -105,7 +105,7 @@ def texture_array_index() -> int
 
 <a id="unreal.PCGTextureSamplerSettings.texture_array_index"></a>
 
-#### texture_array_index
+#### texture\_array\_index
 
 ```python
 @texture_array_index.setter
@@ -114,7 +114,7 @@ def texture_array_index(value: int) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -126,7 +126,7 @@ deprecated: Property 'DensityFunction' is deprecated.
 
 <a id="unreal.PCGTextureSamplerSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter
@@ -135,7 +135,7 @@ def density_function(value: PCGTextureDensityFunction) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.use_density_source_channel"></a>
 
-#### use_density_source_channel
+#### use\_density\_source\_channel
 
 ```python
 @property
@@ -146,7 +146,7 @@ def use_density_source_channel() -> bool
 
 <a id="unreal.PCGTextureSamplerSettings.use_density_source_channel"></a>
 
-#### use_density_source_channel
+#### use\_density\_source\_channel
 
 ```python
 @use_density_source_channel.setter
@@ -155,7 +155,7 @@ def use_density_source_channel(value: bool) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.color_channel"></a>
 
-#### color_channel
+#### color\_channel
 
 ```python
 @property
@@ -166,7 +166,7 @@ def color_channel() -> PCGTextureColorChannel
 
 <a id="unreal.PCGTextureSamplerSettings.color_channel"></a>
 
-#### color_channel
+#### color\_channel
 
 ```python
 @color_channel.setter
@@ -195,7 +195,7 @@ def filter(value: PCGTextureFilter) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.texel_size"></a>
 
-#### texel_size
+#### texel\_size
 
 ```python
 @property
@@ -206,7 +206,7 @@ def texel_size() -> float
 
 <a id="unreal.PCGTextureSamplerSettings.texel_size"></a>
 
-#### texel_size
+#### texel\_size
 
 ```python
 @texel_size.setter
@@ -215,7 +215,7 @@ def texel_size(value: float) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.use_advanced_tiling"></a>
 
-#### use_advanced_tiling
+#### use\_advanced\_tiling
 
 ```python
 @property
@@ -226,7 +226,7 @@ def use_advanced_tiling() -> bool
 
 <a id="unreal.PCGTextureSamplerSettings.use_advanced_tiling"></a>
 
-#### use_advanced_tiling
+#### use\_advanced\_tiling
 
 ```python
 @use_advanced_tiling.setter
@@ -255,7 +255,7 @@ def tiling(value: Vector2D) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.center_offset"></a>
 
-#### center_offset
+#### center\_offset
 
 ```python
 @property
@@ -266,7 +266,7 @@ def center_offset() -> Vector2D
 
 <a id="unreal.PCGTextureSamplerSettings.center_offset"></a>
 
-#### center_offset
+#### center\_offset
 
 ```python
 @center_offset.setter
@@ -295,7 +295,7 @@ def rotation(value: float) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.use_tile_bounds"></a>
 
-#### use_tile_bounds
+#### use\_tile\_bounds
 
 ```python
 @property
@@ -306,7 +306,7 @@ def use_tile_bounds() -> bool
 
 <a id="unreal.PCGTextureSamplerSettings.use_tile_bounds"></a>
 
-#### use_tile_bounds
+#### use\_tile\_bounds
 
 ```python
 @use_tile_bounds.setter
@@ -315,7 +315,7 @@ def use_tile_bounds(value: bool) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.tile_bounds_min"></a>
 
-#### tile_bounds_min
+#### tile\_bounds\_min
 
 ```python
 @property
@@ -326,7 +326,7 @@ def tile_bounds_min() -> Vector2D
 
 <a id="unreal.PCGTextureSamplerSettings.tile_bounds_min"></a>
 
-#### tile_bounds_min
+#### tile\_bounds\_min
 
 ```python
 @tile_bounds_min.setter
@@ -335,7 +335,7 @@ def tile_bounds_min(value: Vector2D) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.tile_bounds_max"></a>
 
-#### tile_bounds_max
+#### tile\_bounds\_max
 
 ```python
 @property
@@ -346,7 +346,7 @@ def tile_bounds_max() -> Vector2D
 
 <a id="unreal.PCGTextureSamplerSettings.tile_bounds_max"></a>
 
-#### tile_bounds_max
+#### tile\_bounds\_max
 
 ```python
 @tile_bounds_max.setter
@@ -355,7 +355,7 @@ def tile_bounds_max(value: Vector2D) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.force_editor_only_cpu_sampling"></a>
 
-#### force_editor_only_cpu_sampling
+#### force\_editor\_only\_cpu\_sampling
 
 ```python
 @property
@@ -368,7 +368,7 @@ this flag to force a duplicate of the texture with the correct settings for CPU 
 
 <a id="unreal.PCGTextureSamplerSettings.force_editor_only_cpu_sampling"></a>
 
-#### force_editor_only_cpu_sampling
+#### force\_editor\_only\_cpu\_sampling
 
 ```python
 @force_editor_only_cpu_sampling.setter
@@ -377,7 +377,7 @@ def force_editor_only_cpu_sampling(value: bool) -> None
 
 <a id="unreal.PCGTextureSamplerSettings.synchronous_load"></a>
 
-#### synchronous_load
+#### synchronous\_load
 
 ```python
 @property
@@ -388,7 +388,7 @@ def synchronous_load() -> bool
 
 <a id="unreal.PCGTextureSamplerSettings.synchronous_load"></a>
 
-#### synchronous_load
+#### synchronous\_load
 
 ```python
 @synchronous_load.setter

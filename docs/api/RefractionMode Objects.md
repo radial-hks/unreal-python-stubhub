@@ -13,7 +13,7 @@ Determines how the refraction offset should be computed for the material.
 
 <a id="unreal.RefractionMode.RM_INDEX_OF_REFRACTION"></a>
 
-#### RM_INDEX_OF_REFRACTION
+#### RM\_INDEX\_OF\_REFRACTION
 
 0: By default, when the root node refraction pin is unplugged, relies on the material IOR evaluated from F0.
 Refraction is computed based on the camera vector entering a medium whose index of refraction is defined by the Refraction material input.
@@ -22,7 +22,7 @@ This is a physical model of refraction but causes reading outside the scene colo
 
 <a id="unreal.RefractionMode.RM_PIXEL_NORMAL_OFFSET"></a>
 
-#### RM_PIXEL_NORMAL_OFFSET
+#### RM\_PIXEL\_NORMAL\_OFFSET
 
 1: By default, when the root node refraction pin is unplugged, no refraction will appear.
 The refraction offset into Scene Color is computed based on the difference between the per-pixel normal and the per-vertex normal.
@@ -32,14 +32,14 @@ This is a non-physical model of refraction but is useful on large refractive sur
 
 <a id="unreal.RefractionMode.RM_2D_OFFSET"></a>
 
-#### RM_2D_OFFSET
+#### RM\_2D\_OFFSET
 
 2: By default, when the root node refraction pin is unplugged, no refraction will appear.
 Explicit 2D screen offset. This offset is independent of screen resolution and aspect ratio. The user is in charge of any strength and fading.
 
 <a id="unreal.RefractionMode.RM_NONE"></a>
 
-#### RM_NONE
+#### RM\_NONE
 
 3: Refraction is disabled.
 

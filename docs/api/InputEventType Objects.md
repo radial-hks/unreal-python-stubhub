@@ -13,31 +13,31 @@ EInputEvent
 
 <a id="unreal.InputEventType.IE_PRESSED"></a>
 
-#### IE_PRESSED
+#### IE\_PRESSED
 
 0
 
 <a id="unreal.InputEventType.IE_RELEASED"></a>
 
-#### IE_RELEASED
+#### IE\_RELEASED
 
 1
 
 <a id="unreal.InputEventType.IE_REPEAT"></a>
 
-#### IE_REPEAT
+#### IE\_REPEAT
 
 2
 
 <a id="unreal.InputEventType.IE_DOUBLE_CLICK"></a>
 
-#### IE_DOUBLE_CLICK
+#### IE\_DOUBLE\_CLICK
 
 3
 
 <a id="unreal.InputEventType.IE_AXIS"></a>
 
-#### IE_AXIS
+#### IE\_AXIS
 
 4
 

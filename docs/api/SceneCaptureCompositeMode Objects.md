@@ -13,19 +13,19 @@ Specifies how scene captures are composited into render buffers
 
 <a id="unreal.SceneCaptureCompositeMode.SCCM_OVERWRITE"></a>
 
-#### SCCM_OVERWRITE
+#### SCCM\_OVERWRITE
 
 0
 
 <a id="unreal.SceneCaptureCompositeMode.SCCM_ADDITIVE"></a>
 
-#### SCCM_ADDITIVE
+#### SCCM\_ADDITIVE
 
 1
 
 <a id="unreal.SceneCaptureCompositeMode.SCCM_COMPOSITE"></a>
 
-#### SCCM_COMPOSITE
+#### SCCM\_COMPOSITE
 
 2
 

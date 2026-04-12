@@ -19,7 +19,7 @@ Rig Element
 
 <a id="unreal.RigElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None", index: int = 0) -> None

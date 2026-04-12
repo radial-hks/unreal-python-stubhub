@@ -13,10 +13,10 @@ World Partition HLODDestruction Tag
 
 <a id="unreal.WorldPartitionHLODDestructionTag.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.StreamingSourceShape"></a>
+<a id="unreal.WorldPartitionStreamingQuerySource"></a>

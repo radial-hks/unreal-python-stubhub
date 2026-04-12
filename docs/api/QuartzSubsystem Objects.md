@@ -13,7 +13,7 @@ Quartz Subsystem
 
 <a id="unreal.QuartzSubsystem.set_quartz_subsystem_tickable_when_paused"></a>
 
-#### set_quartz_subsystem_tickable_when_paused
+#### set\_quartz\_subsystem\_tickable\_when\_paused
 
 ```python
 def set_quartz_subsystem_tickable_when_paused(
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.QuartzSubsystem.is_quartz_enabled"></a>
 
-#### is_quartz_enabled
+#### is\_quartz\_enabled
 
 ```python
 def is_quartz_enabled() -> bool
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.is_clock_running"></a>
 
-#### is_clock_running
+#### is\_clock\_running
 
 ```python
 def is_clock_running(world_context_object: Object, clock_name: Name) -> bool
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_round_trip_min_latency"></a>
 
-#### get_round_trip_min_latency
+#### get\_round\_trip\_min\_latency
 
 ```python
 def get_round_trip_min_latency(world_context_object: Object) -> float
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_round_trip_max_latency"></a>
 
-#### get_round_trip_max_latency
+#### get\_round\_trip\_max\_latency
 
 ```python
 def get_round_trip_max_latency(world_context_object: Object) -> float
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_round_trip_average_latency"></a>
 
-#### get_round_trip_average_latency
+#### get\_round\_trip\_average\_latency
 
 ```python
 def get_round_trip_average_latency(world_context_object: Object) -> float
@@ -111,7 +111,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_handle_for_clock"></a>
 
-#### get_handle_for_clock
+#### get\_handle\_for\_clock
 
 ```python
 def get_handle_for_clock(world_context_object: Object,
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_game_thread_to_audio_render_thread_min_latency"></a>
 
-#### get_game_thread_to_audio_render_thread_min_latency
+#### get\_game\_thread\_to\_audio\_render\_thread\_min\_latency
 
 ```python
 def get_game_thread_to_audio_render_thread_min_latency(
@@ -148,7 +148,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_game_thread_to_audio_render_thread_max_latency"></a>
 
-#### get_game_thread_to_audio_render_thread_max_latency
+#### get\_game\_thread\_to\_audio\_render\_thread\_max\_latency
 
 ```python
 def get_game_thread_to_audio_render_thread_max_latency(
@@ -166,7 +166,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_game_thread_to_audio_render_thread_average_latency"></a>
 
-#### get_game_thread_to_audio_render_thread_average_latency
+#### get\_game\_thread\_to\_audio\_render\_thread\_average\_latency
 
 ```python
 def get_game_thread_to_audio_render_thread_average_latency(
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_estimated_clock_run_time"></a>
 
-#### get_estimated_clock_run_time
+#### get\_estimated\_clock\_run\_time
 
 ```python
 def get_estimated_clock_run_time(world_context_object: Object,
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_duration_of_quantization_type_in_seconds"></a>
 
-#### get_duration_of_quantization_type_in_seconds
+#### get\_duration\_of\_quantization\_type\_in\_seconds
 
 ```python
 def get_duration_of_quantization_type_in_seconds(
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_current_clock_timestamp"></a>
 
-#### get_current_clock_timestamp
+#### get\_current\_clock\_timestamp
 
 ```python
 def get_current_clock_timestamp(world_context_object: Object,
@@ -246,7 +246,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_audio_render_thread_to_game_thread_min_latency"></a>
 
-#### get_audio_render_thread_to_game_thread_min_latency
+#### get\_audio\_render\_thread\_to\_game\_thread\_min\_latency
 
 ```python
 def get_audio_render_thread_to_game_thread_min_latency() -> float
@@ -260,7 +260,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_audio_render_thread_to_game_thread_max_latency"></a>
 
-#### get_audio_render_thread_to_game_thread_max_latency
+#### get\_audio\_render\_thread\_to\_game\_thread\_max\_latency
 
 ```python
 def get_audio_render_thread_to_game_thread_max_latency() -> float
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.get_audio_render_thread_to_game_thread_average_latency"></a>
 
-#### get_audio_render_thread_to_game_thread_average_latency
+#### get\_audio\_render\_thread\_to\_game\_thread\_average\_latency
 
 ```python
 def get_audio_render_thread_to_game_thread_average_latency() -> float
@@ -288,7 +288,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.does_clock_exist"></a>
 
-#### does_clock_exist
+#### does\_clock\_exist
 
 ```python
 def does_clock_exist(world_context_object: Object, clock_name: Name) -> bool
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.delete_clock_by_name"></a>
 
-#### delete_clock_by_name
+#### delete\_clock\_by\_name
 
 ```python
 def delete_clock_by_name(world_context_object: Object,
@@ -322,7 +322,7 @@ Args:
 
 <a id="unreal.QuartzSubsystem.delete_clock_by_handle"></a>
 
-#### delete_clock_by_handle
+#### delete\_clock\_by\_handle
 
 ```python
 def delete_clock_by_handle(
@@ -344,7 +344,7 @@ Returns:
 
 <a id="unreal.QuartzSubsystem.create_new_clock"></a>
 
-#### create_new_clock
+#### create\_new\_clock
 
 ```python
 def create_new_clock(

@@ -28,7 +28,7 @@ struct with all the settings we want in UNeuralProfile, separate to make it ease
 
 <a id="unreal.NeuralProfileStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(input_format: NeuralProfileFormat = NeuralProfileFormat.TYPE32,
@@ -43,7 +43,7 @@ def __init__(input_format: NeuralProfileFormat = NeuralProfileFormat.TYPE32,
 
 <a id="unreal.NeuralProfileStruct.input_format"></a>
 
-#### input_format
+#### input\_format
 
 ```python
 @property
@@ -55,7 +55,7 @@ will be applied for this conversion.
 
 <a id="unreal.NeuralProfileStruct.output_format"></a>
 
-#### output_format
+#### output\_format
 
 ```python
 @property
@@ -67,7 +67,7 @@ be applied automatically.
 
 <a id="unreal.NeuralProfileStruct.runtime_type"></a>
 
-#### runtime_type
+#### runtime\_type
 
 ```python
 @property
@@ -78,7 +78,7 @@ def runtime_type() -> NeuralProfileRuntimeType
 
 <a id="unreal.NeuralProfileStruct.nne_model_data"></a>
 
-#### nne_model_data
+#### nne\_model\_data
 
 ```python
 @property
@@ -89,7 +89,7 @@ def nne_model_data() -> Object
 
 <a id="unreal.NeuralProfileStruct.input_dimension"></a>
 
-#### input_dimension
+#### input\_dimension
 
 ```python
 @property
@@ -100,7 +100,7 @@ def input_dimension() -> IntVector4
 
 <a id="unreal.NeuralProfileStruct.output_dimension"></a>
 
-#### output_dimension
+#### output\_dimension
 
 ```python
 @property
@@ -111,7 +111,7 @@ def output_dimension() -> IntVector4
 
 <a id="unreal.NeuralProfileStruct.batch_size_override"></a>
 
-#### batch_size_override
+#### batch\_size\_override
 
 ```python
 @property

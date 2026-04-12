@@ -20,7 +20,7 @@ Controls how cull proxies should be handled for a system.
 
 <a id="unreal.NiagaraCullProxyMode.INSTANCED_RENDERED"></a>
 
-#### INSTANCED_RENDERED
+#### INSTANCED\_RENDERED
 
 1: A single simulation is used but rendered in place of all culled systems. This saves on simulation cost but can still incur significant render thread cost.
 

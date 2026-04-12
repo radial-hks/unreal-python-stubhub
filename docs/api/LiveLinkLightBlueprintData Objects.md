@@ -18,7 +18,7 @@ Facility structure to handle light data in blueprint
 
 <a id="unreal.LiveLinkLightBlueprintData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -37,7 +37,7 @@ def __init__(
 
 <a id="unreal.LiveLinkLightBlueprintData.static_data"></a>
 
-#### static_data
+#### static\_data
 
 ```python
 @property
@@ -48,7 +48,7 @@ def static_data() -> LiveLinkLightStaticData
 
 <a id="unreal.LiveLinkLightBlueprintData.static_data"></a>
 
-#### static_data
+#### static\_data
 
 ```python
 @static_data.setter
@@ -57,7 +57,7 @@ def static_data(value: LiveLinkLightStaticData) -> None
 
 <a id="unreal.LiveLinkLightBlueprintData.frame_data"></a>
 
-#### frame_data
+#### frame\_data
 
 ```python
 @property
@@ -68,7 +68,7 @@ def frame_data() -> LiveLinkLightFrameData
 
 <a id="unreal.LiveLinkLightBlueprintData.frame_data"></a>
 
-#### frame_data
+#### frame\_data
 
 ```python
 @frame_data.setter

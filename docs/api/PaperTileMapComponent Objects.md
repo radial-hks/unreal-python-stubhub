@@ -216,7 +216,7 @@ see: UPrimitiveComponent, UPaperTileMap
 
 <a id="unreal.PaperTileMapComponent.tile_map"></a>
 
-#### tile_map
+#### tile\_map
 
 ```python
 @property
@@ -227,7 +227,7 @@ def tile_map() -> PaperTileMap
 
 <a id="unreal.PaperTileMapComponent.set_tile_map_color"></a>
 
-#### set_tile_map_color
+#### set\_tile\_map\_color
 
 ```python
 def set_tile_map_color(new_color: LinearColor) -> None
@@ -241,7 +241,7 @@ Args:
 
 <a id="unreal.PaperTileMapComponent.set_tile_map"></a>
 
-#### set_tile_map
+#### set\_tile\_map
 
 ```python
 def set_tile_map(new_tile_map: PaperTileMap) -> bool
@@ -258,7 +258,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.set_tile"></a>
 
-#### set_tile
+#### set\_tile
 
 ```python
 def set_tile(x: int,
@@ -279,7 +279,7 @@ Args:
 
 <a id="unreal.PaperTileMapComponent.set_layer_color"></a>
 
-#### set_layer_color
+#### set\_layer\_color
 
 ```python
 def set_layer_color(new_color: LinearColor, layer: int = 0) -> None
@@ -295,7 +295,7 @@ Args:
 
 <a id="unreal.PaperTileMapComponent.set_layer_collision"></a>
 
-#### set_layer_collision
+#### set\_layer\_collision
 
 ```python
 def set_layer_collision(layer: int = 0,
@@ -322,7 +322,7 @@ Args:
 
 <a id="unreal.PaperTileMapComponent.set_default_collision_thickness"></a>
 
-#### set_default_collision_thickness
+#### set\_default\_collision\_thickness
 
 ```python
 def set_default_collision_thickness(thickness: float,
@@ -339,7 +339,7 @@ Args:
 
 <a id="unreal.PaperTileMapComponent.resize_map"></a>
 
-#### resize_map
+#### resize\_map
 
 ```python
 def resize_map(new_width_in_tiles: int, new_height_in_tiles: int) -> None
@@ -354,7 +354,7 @@ Args:
 
 <a id="unreal.PaperTileMapComponent.rebuild_collision"></a>
 
-#### rebuild_collision
+#### rebuild\_collision
 
 ```python
 def rebuild_collision() -> None
@@ -365,7 +365,7 @@ Rebuilds collision for the tile map
 
 <a id="unreal.PaperTileMapComponent.owns_tile_map"></a>
 
-#### owns_tile_map
+#### owns\_tile\_map
 
 ```python
 def owns_tile_map() -> bool
@@ -379,7 +379,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.make_tile_map_editable"></a>
 
-#### make_tile_map_editable
+#### make\_tile\_map\_editable
 
 ```python
 def make_tile_map_editable() -> None
@@ -391,7 +391,7 @@ if the tile map is an asset reference, it is cloned to make a unique instance.
 
 <a id="unreal.PaperTileMapComponent.get_tile_polygon"></a>
 
-#### get_tile_polygon
+#### get\_tile\_polygon
 
 ```python
 def get_tile_polygon(tile_x: int,
@@ -416,7 +416,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.get_tile_map_color"></a>
 
-#### get_tile_map_color
+#### get\_tile\_map\_color
 
 ```python
 def get_tile_map_color() -> LinearColor
@@ -430,7 +430,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.get_tile_corner_position"></a>
 
-#### get_tile_corner_position
+#### get\_tile\_corner\_position
 
 ```python
 def get_tile_corner_position(tile_x: int,
@@ -453,7 +453,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.get_tile_center_position"></a>
 
-#### get_tile_center_position
+#### get\_tile\_center\_position
 
 ```python
 def get_tile_center_position(tile_x: int,
@@ -476,7 +476,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.get_tile"></a>
 
-#### get_tile
+#### get\_tile
 
 ```python
 def get_tile(x: int, y: int, layer: int = 0) -> PaperTileInfo
@@ -495,7 +495,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.get_map_size"></a>
 
-#### get_map_size
+#### get\_map\_size
 
 ```python
 def get_map_size() -> Tuple[int, int, int]
@@ -515,7 +515,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.get_layer_color"></a>
 
-#### get_layer_color
+#### get\_layer\_color
 
 ```python
 def get_layer_color(layer: int = 0) -> LinearColor
@@ -532,7 +532,7 @@ Returns:
 
 <a id="unreal.PaperTileMapComponent.create_new_tile_map"></a>
 
-#### create_new_tile_map
+#### create\_new\_tile\_map
 
 ```python
 def create_new_tile_map(map_width: int = 4,
@@ -556,7 +556,7 @@ Args:
 
 <a id="unreal.PaperTileMapComponent.add_new_layer"></a>
 
-#### add_new_layer
+#### add\_new\_layer
 
 ```python
 def add_new_layer() -> PaperTileLayer

@@ -18,7 +18,7 @@ Compute Kernel Definition Set
 
 <a id="unreal.ComputeKernelDefinitionSet.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

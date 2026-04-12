@@ -19,7 +19,7 @@ Create a new asset deriving from this class to use / modify settings.
 
 <a id="unreal.SlatePostBufferBlur.gaussian_blur_strength"></a>
 
-#### gaussian_blur_strength
+#### gaussian\_blur\_strength
 
 ```python
 @property
@@ -30,7 +30,7 @@ def gaussian_blur_strength() -> float
 
 <a id="unreal.SlatePostBufferBlur.gaussian_blur_strength"></a>
 
-#### gaussian_blur_strength
+#### gaussian\_blur\_strength
 
 ```python
 @gaussian_blur_strength.setter

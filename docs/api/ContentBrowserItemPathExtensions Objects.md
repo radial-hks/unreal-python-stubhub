@@ -13,7 +13,7 @@ Content Browser Item Path Extensions
 
 <a id="unreal.ContentBrowserItemPathExtensions.set_path"></a>
 
-#### set_path
+#### set\_path
 
 ```python
 @classmethod
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItemPathExtensions.get_virtual_path"></a>
 
-#### get_virtual_path
+#### get\_virtual\_path
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItemPathExtensions.get_internal_path"></a>
 
-#### get_internal_path
+#### get\_internal\_path
 
 ```python
 @classmethod

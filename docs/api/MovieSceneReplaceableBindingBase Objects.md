@@ -21,7 +21,7 @@ mechanism to bind an actor at runtime.
 
 <a id="unreal.MovieSceneReplaceableBindingBase.preview_spawnable"></a>
 
-#### preview_spawnable
+#### preview\_spawnable
 
 ```python
 @property

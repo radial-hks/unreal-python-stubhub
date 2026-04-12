@@ -14,7 +14,7 @@ It also contains Guid to help identify it, given that we can't directly compare 
 
 <a id="unreal.SceneViewExtensionIsActiveFunctor.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

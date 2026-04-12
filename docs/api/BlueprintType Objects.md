@@ -13,37 +13,37 @@ Enumerates types of blueprints.
 
 <a id="unreal.BlueprintType.BPTYPE_NORMAL"></a>
 
-#### BPTYPE_NORMAL
+#### BPTYPE\_NORMAL
 
 0: Normal blueprint.
 
 <a id="unreal.BlueprintType.BPTYPE_CONST"></a>
 
-#### BPTYPE_CONST
+#### BPTYPE\_CONST
 
 1: Blueprint that is const during execution (no state graph and methods cannot modify member variables).
 
 <a id="unreal.BlueprintType.BPTYPE_MACRO_LIBRARY"></a>
 
-#### BPTYPE_MACRO_LIBRARY
+#### BPTYPE\_MACRO\_LIBRARY
 
 2: Blueprint that serves as a container for macros to be used in other blueprints.
 
 <a id="unreal.BlueprintType.BPTYPE_INTERFACE"></a>
 
-#### BPTYPE_INTERFACE
+#### BPTYPE\_INTERFACE
 
 3: Blueprint that serves as an interface to be implemented by other blueprints.
 
 <a id="unreal.BlueprintType.BPTYPE_LEVEL_SCRIPT"></a>
 
-#### BPTYPE_LEVEL_SCRIPT
+#### BPTYPE\_LEVEL\_SCRIPT
 
 4: Blueprint that handles level scripting.
 
 <a id="unreal.BlueprintType.BPTYPE_FUNCTION_LIBRARY"></a>
 
-#### BPTYPE_FUNCTION_LIBRARY
+#### BPTYPE\_FUNCTION\_LIBRARY
 
 5: Blueprint that serves as a container for functions to be used in other blueprints.
 

@@ -22,7 +22,7 @@ PCGDynamic Mesh Data
 
 <a id="unreal.PCGDynamicMeshData.dynamic_mesh"></a>
 
-#### dynamic_mesh
+#### dynamic\_mesh
 
 ```python
 @property
@@ -44,7 +44,7 @@ def materials() -> Array[MaterialInterface]
 
 <a id="unreal.PCGDynamicMeshData.set_materials"></a>
 
-#### set_materials
+#### set\_materials
 
 ```python
 def set_materials(materials: Array[MaterialInterface]) -> None
@@ -58,7 +58,7 @@ Args:
 
 <a id="unreal.PCGDynamicMeshData.k2_initialize"></a>
 
-#### k2_initialize
+#### k2\_initialize
 
 ```python
 def k2_initialize(mesh: DynamicMesh,

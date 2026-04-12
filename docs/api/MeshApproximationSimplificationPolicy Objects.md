@@ -13,19 +13,19 @@ EMesh Approximation Simplification Policy
 
 <a id="unreal.MeshApproximationSimplificationPolicy.FIXED_TRIANGLE_COUNT"></a>
 
-#### FIXED_TRIANGLE_COUNT
+#### FIXED\_TRIANGLE\_COUNT
 
 0
 
 <a id="unreal.MeshApproximationSimplificationPolicy.TRIANGLES_PER_AREA"></a>
 
-#### TRIANGLES_PER_AREA
+#### TRIANGLES\_PER\_AREA
 
 1
 
 <a id="unreal.MeshApproximationSimplificationPolicy.GEOMETRIC_TOLERANCE"></a>
 
-#### GEOMETRIC_TOLERANCE
+#### GEOMETRIC\_TOLERANCE
 
 2
 

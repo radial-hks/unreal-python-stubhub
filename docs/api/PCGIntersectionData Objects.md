@@ -23,7 +23,7 @@ Generic intersection class that delays operations as long as possible.
 
 <a id="unreal.PCGIntersectionData.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -34,7 +34,7 @@ def density_function() -> PCGIntersectionDensityFunction
 
 <a id="unreal.PCGIntersectionData.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter

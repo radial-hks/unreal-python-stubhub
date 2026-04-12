@@ -34,7 +34,7 @@ Returns the current loop iteration index of the "nearest" subgraph in the execut
 
 <a id="unreal.PCGGetLoopIndexSettings.warn_if_called_outside_of_loop"></a>
 
-#### warn_if_called_outside_of_loop
+#### warn\_if\_called\_outside\_of\_loop
 
 ```python
 @property
@@ -45,7 +45,7 @@ def warn_if_called_outside_of_loop() -> bool
 
 <a id="unreal.PCGGetLoopIndexSettings.warn_if_called_outside_of_loop"></a>
 
-#### warn_if_called_outside_of_loop
+#### warn\_if\_called\_outside\_of\_loop
 
 ```python
 @warn_if_called_outside_of_loop.setter

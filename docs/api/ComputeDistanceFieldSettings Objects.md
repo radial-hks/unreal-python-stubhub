@@ -24,7 +24,7 @@ Settings for computing distance fields
 
 <a id="unreal.ComputeDistanceFieldSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(compute_mode: DistanceFieldComputeMode = DistanceFieldComputeMode.
@@ -38,7 +38,7 @@ def __init__(compute_mode: DistanceFieldComputeMode = DistanceFieldComputeMode.
 
 <a id="unreal.ComputeDistanceFieldSettings.compute_mode"></a>
 
-#### compute_mode
+#### compute\_mode
 
 ```python
 @property
@@ -51,7 +51,7 @@ In narrow band mode, values outside the band will have a large magnitude with th
 
 <a id="unreal.ComputeDistanceFieldSettings.compute_mode"></a>
 
-#### compute_mode
+#### compute\_mode
 
 ```python
 @compute_mode.setter
@@ -60,7 +60,7 @@ def compute_mode(value: DistanceFieldComputeMode) -> None
 
 <a id="unreal.ComputeDistanceFieldSettings.narrow_band_width"></a>
 
-#### narrow_band_width
+#### narrow\_band\_width
 
 ```python
 @property
@@ -71,7 +71,7 @@ def narrow_band_width() -> float
 
 <a id="unreal.ComputeDistanceFieldSettings.narrow_band_width"></a>
 
-#### narrow_band_width
+#### narrow\_band\_width
 
 ```python
 @narrow_band_width.setter
@@ -80,7 +80,7 @@ def narrow_band_width(value: float) -> None
 
 <a id="unreal.ComputeDistanceFieldSettings.narrow_band_units"></a>
 
-#### narrow_band_units
+#### narrow\_band\_units
 
 ```python
 @property
@@ -91,7 +91,7 @@ def narrow_band_units() -> DistanceFieldUnits
 
 <a id="unreal.ComputeDistanceFieldSettings.narrow_band_units"></a>
 
-#### narrow_band_units
+#### narrow\_band\_units
 
 ```python
 @narrow_band_units.setter
@@ -100,7 +100,7 @@ def narrow_band_units(value: DistanceFieldUnits) -> None
 
 <a id="unreal.ComputeDistanceFieldSettings.voxels_per_dimensions"></a>
 
-#### voxels_per_dimensions
+#### voxels\_per\_dimensions
 
 ```python
 @property
@@ -111,7 +111,7 @@ def voxels_per_dimensions() -> IntVector
 
 <a id="unreal.ComputeDistanceFieldSettings.voxels_per_dimensions"></a>
 
-#### voxels_per_dimensions
+#### voxels\_per\_dimensions
 
 ```python
 @voxels_per_dimensions.setter
@@ -120,7 +120,7 @@ def voxels_per_dimensions(value: IntVector) -> None
 
 <a id="unreal.ComputeDistanceFieldSettings.require_power2"></a>
 
-#### require_power2
+#### require\_power2
 
 ```python
 @property
@@ -131,7 +131,7 @@ def require_power2() -> bool
 
 <a id="unreal.ComputeDistanceFieldSettings.require_power2"></a>
 
-#### require_power2
+#### require\_power2
 
 ```python
 @require_power2.setter

@@ -56,13 +56,13 @@ ERig Control Type
 
 <a id="unreal.RigControlType.EULER_TRANSFORM"></a>
 
-#### EULER_TRANSFORM
+#### EULER\_TRANSFORM
 
 9
 
 <a id="unreal.RigControlType.SCALE_FLOAT"></a>
 
-#### SCALE_FLOAT
+#### SCALE\_FLOAT
 
 10
 

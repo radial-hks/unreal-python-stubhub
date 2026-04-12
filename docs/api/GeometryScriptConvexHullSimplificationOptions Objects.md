@@ -22,7 +22,7 @@ Geometry Script Convex Hull Simplification Options
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.simplification_method"></a>
 
-#### simplification_method
+#### simplification\_method
 
 ```python
 @property
@@ -47,7 +47,7 @@ def simplification_method() -> GeometryScriptConvexHullSimplifyMethod
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.simplification_method"></a>
 
-#### simplification_method
+#### simplification\_method
 
 ```python
 @simplification_method.setter
@@ -57,7 +57,7 @@ def simplification_method(
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.simplification_distance_threshold"></a>
 
-#### simplification_distance_threshold
+#### simplification\_distance\_threshold
 
 ```python
 @property
@@ -68,7 +68,7 @@ def simplification_distance_threshold() -> float
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.simplification_distance_threshold"></a>
 
-#### simplification_distance_threshold
+#### simplification\_distance\_threshold
 
 ```python
 @simplification_distance_threshold.setter
@@ -77,7 +77,7 @@ def simplification_distance_threshold(value: float) -> None
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.simplification_angle_threshold"></a>
 
-#### simplification_angle_threshold
+#### simplification\_angle\_threshold
 
 ```python
 @property
@@ -88,7 +88,7 @@ def simplification_angle_threshold() -> float
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.simplification_angle_threshold"></a>
 
-#### simplification_angle_threshold
+#### simplification\_angle\_threshold
 
 ```python
 @simplification_angle_threshold.setter
@@ -97,7 +97,7 @@ def simplification_angle_threshold(value: float) -> None
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.min_target_face_count"></a>
 
-#### min_target_face_count
+#### min\_target\_face\_count
 
 ```python
 @property
@@ -109,7 +109,7 @@ Note that for the MeshQSlim method all faces are triangles, while the AngleToler
 
 <a id="unreal.GeometryScriptConvexHullSimplificationOptions.min_target_face_count"></a>
 
-#### min_target_face_count
+#### min\_target\_face\_count
 
 ```python
 @min_target_face_count.setter

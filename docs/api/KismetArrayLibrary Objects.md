@@ -13,7 +13,7 @@ Kismet Array Library
 
 <a id="unreal.KismetArrayLibrary.sort_string_array"></a>
 
-#### sort_string_array
+#### sort\_string\_array
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.KismetArrayLibrary.sort_name_array"></a>
 
-#### sort_name_array
+#### sort\_name\_array
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.KismetArrayLibrary.sort_int_array"></a>
 
-#### sort_int_array
+#### sort\_int\_array
 
 ```python
 @classmethod
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.KismetArrayLibrary.sort_int64_array"></a>
 
-#### sort_int64_array
+#### sort\_int64\_array
 
 ```python
 @classmethod
@@ -119,7 +119,7 @@ Returns:
 
 <a id="unreal.KismetArrayLibrary.sort_float_array"></a>
 
-#### sort_float_array
+#### sort\_float\_array
 
 ```python
 @classmethod
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.KismetArrayLibrary.sort_byte_array"></a>
 
-#### sort_byte_array
+#### sort\_byte\_array
 
 ```python
 @classmethod
@@ -171,7 +171,7 @@ Returns:
 
 <a id="unreal.KismetArrayLibrary.filter_array"></a>
 
-#### filter_array
+#### filter\_array
 
 ```python
 @classmethod

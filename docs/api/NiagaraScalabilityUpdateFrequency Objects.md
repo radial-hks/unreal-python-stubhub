@@ -14,7 +14,7 @@ Controls how often should we update scalability states for these effects.
 
 <a id="unreal.NiagaraScalabilityUpdateFrequency.SPAWN_ONLY"></a>
 
-#### SPAWN_ONLY
+#### SPAWN\_ONLY
 
 0: Scalability will be checked only on spawn.
 

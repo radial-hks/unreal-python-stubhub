@@ -38,7 +38,7 @@ Level Streaming Dynamic
 
 <a id="unreal.LevelStreamingDynamic.load_level_instance_by_soft_object_ptr"></a>
 
-#### load_level_instance_by_soft_object_ptr
+#### load\_level\_instance\_by\_soft\_object\_ptr
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.LevelStreamingDynamic.load_level_instance"></a>
 
-#### load_level_instance
+#### load\_level\_instance
 
 ```python
 @classmethod

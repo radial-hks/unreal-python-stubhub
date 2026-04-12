@@ -19,7 +19,7 @@ Ray Tracing Shadows type.
 
 <a id="unreal.CastRayTracedShadow.USE_PROJECT_SETTING"></a>
 
-#### USE_PROJECT_SETTING
+#### USE\_PROJECT\_SETTING
 
 1: Ray traced shadows follow Cast Ray Traced Shadows project setting
 

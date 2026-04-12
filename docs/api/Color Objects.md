@@ -21,7 +21,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Color.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(b: int = 0, g: int = 0, r: int = 0, a: int = 0) -> None

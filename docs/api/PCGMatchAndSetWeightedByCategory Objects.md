@@ -21,7 +21,7 @@ PCGMatch and Set Weighted by Category
 
 <a id="unreal.PCGMatchAndSetWeightedByCategory.category_attribute"></a>
 
-#### category_attribute
+#### category\_attribute
 
 ```python
 @property
@@ -32,7 +32,7 @@ def category_attribute() -> Name
 
 <a id="unreal.PCGMatchAndSetWeightedByCategory.category_attribute"></a>
 
-#### category_attribute
+#### category\_attribute
 
 ```python
 @category_attribute.setter
@@ -41,7 +41,7 @@ def category_attribute(value: Name) -> None
 
 <a id="unreal.PCGMatchAndSetWeightedByCategory.category_type"></a>
 
-#### category_type
+#### category\_type
 
 ```python
 @property
@@ -52,7 +52,7 @@ def category_type() -> PCGMetadataTypes
 
 <a id="unreal.PCGMatchAndSetWeightedByCategory.category_type"></a>
 
-#### category_type
+#### category\_type
 
 ```python
 @category_type.setter
@@ -82,7 +82,7 @@ def categories(
 
 <a id="unreal.PCGMatchAndSetWeightedByCategory.should_mutate_seed"></a>
 
-#### should_mutate_seed
+#### should\_mutate\_seed
 
 ```python
 @property
@@ -93,7 +93,7 @@ def should_mutate_seed() -> bool
 
 <a id="unreal.PCGMatchAndSetWeightedByCategory.should_mutate_seed"></a>
 
-#### should_mutate_seed
+#### should\_mutate\_seed
 
 ```python
 @should_mutate_seed.setter

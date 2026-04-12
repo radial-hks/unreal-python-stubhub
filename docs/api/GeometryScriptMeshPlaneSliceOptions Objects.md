@@ -22,7 +22,7 @@ Geometry Script Mesh Plane Slice Options
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(fill_holes: bool = False,
@@ -34,7 +34,7 @@ def __init__(fill_holes: bool = False,
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.fill_holes"></a>
 
-#### fill_holes
+#### fill\_holes
 
 ```python
 @property
@@ -45,7 +45,7 @@ def fill_holes() -> bool
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.fill_holes"></a>
 
-#### fill_holes
+#### fill\_holes
 
 ```python
 @fill_holes.setter
@@ -54,7 +54,7 @@ def fill_holes(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.hole_fill_material_id"></a>
 
-#### hole_fill_material_id
+#### hole\_fill\_material\_id
 
 ```python
 @property
@@ -65,7 +65,7 @@ def hole_fill_material_id() -> int
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.hole_fill_material_id"></a>
 
-#### hole_fill_material_id
+#### hole\_fill\_material\_id
 
 ```python
 @hole_fill_material_id.setter
@@ -74,7 +74,7 @@ def hole_fill_material_id(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.fill_spans"></a>
 
-#### fill_spans
+#### fill\_spans
 
 ```python
 @property
@@ -85,7 +85,7 @@ def fill_spans() -> bool
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.fill_spans"></a>
 
-#### fill_spans
+#### fill\_spans
 
 ```python
 @fill_spans.setter
@@ -94,7 +94,7 @@ def fill_spans(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.gap_width"></a>
 
-#### gap_width
+#### gap\_width
 
 ```python
 @property
@@ -105,7 +105,7 @@ def gap_width() -> float
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.gap_width"></a>
 
-#### gap_width
+#### gap\_width
 
 ```python
 @gap_width.setter
@@ -114,7 +114,7 @@ def gap_width(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.uv_world_dimension"></a>
 
-#### uv_world_dimension
+#### uv\_world\_dimension
 
 ```python
 @property
@@ -125,7 +125,7 @@ def uv_world_dimension() -> float
 
 <a id="unreal.GeometryScriptMeshPlaneSliceOptions.uv_world_dimension"></a>
 
-#### uv_world_dimension
+#### uv\_world\_dimension
 
 ```python
 @uv_world_dimension.setter

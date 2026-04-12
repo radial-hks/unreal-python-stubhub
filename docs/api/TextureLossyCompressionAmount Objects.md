@@ -13,44 +13,44 @@ ETexture Lossy Compression Amount
 
 <a id="unreal.TextureLossyCompressionAmount.TLCA_DEFAULT"></a>
 
-#### TLCA_DEFAULT
+#### TLCA\_DEFAULT
 
 0
 
 <a id="unreal.TextureLossyCompressionAmount.TLCA_NONE"></a>
 
-#### TLCA_NONE
+#### TLCA\_NONE
 
 1
 
 <a id="unreal.TextureLossyCompressionAmount.TLCA_LOWEST"></a>
 
-#### TLCA_LOWEST
+#### TLCA\_LOWEST
 
 2
 
 <a id="unreal.TextureLossyCompressionAmount.TLCA_LOW"></a>
 
-#### TLCA_LOW
+#### TLCA\_LOW
 
 3
 
 <a id="unreal.TextureLossyCompressionAmount.TLCA_MEDIUM"></a>
 
-#### TLCA_MEDIUM
+#### TLCA\_MEDIUM
 
 4
 
 <a id="unreal.TextureLossyCompressionAmount.TLCA_HIGH"></a>
 
-#### TLCA_HIGH
+#### TLCA\_HIGH
 
 5
 
 <a id="unreal.TextureLossyCompressionAmount.TLCA_HIGHEST"></a>
 
-#### TLCA_HIGHEST
+#### TLCA\_HIGHEST
 
 6
 
-<a id="unreal.TextureCompressionQuality"></a>
+<a id="unreal.TextureMipGenSettings"></a>

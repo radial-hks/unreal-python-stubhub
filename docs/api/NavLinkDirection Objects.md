@@ -13,19 +13,19 @@ ENav Link Direction
 
 <a id="unreal.NavLinkDirection.BOTH_WAYS"></a>
 
-#### BOTH_WAYS
+#### BOTH\_WAYS
 
 0
 
 <a id="unreal.NavLinkDirection.LEFT_TO_RIGHT"></a>
 
-#### LEFT_TO_RIGHT
+#### LEFT\_TO\_RIGHT
 
 1
 
 <a id="unreal.NavLinkDirection.RIGHT_TO_LEFT"></a>
 
-#### RIGHT_TO_LEFT
+#### RIGHT\_TO\_LEFT
 
 2
 

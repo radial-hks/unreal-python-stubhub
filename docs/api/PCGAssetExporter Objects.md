@@ -14,7 +14,7 @@ Base class for asset exporters. Can be extended either natively or through bluep
 
 <a id="unreal.PCGAssetExporter.bp_get_asset_type"></a>
 
-#### bp_get_asset_type
+#### bp\_get\_asset\_type
 
 ```python
 def bp_get_asset_type() -> Class
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.PCGAssetExporter.bp_export_to_asset"></a>
 
-#### bp_export_to_asset
+#### bp\_export\_to\_asset
 
 ```python
 def bp_export_to_asset(asset: PCGDataAsset) -> bool

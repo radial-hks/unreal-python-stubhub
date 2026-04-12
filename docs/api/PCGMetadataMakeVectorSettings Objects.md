@@ -42,7 +42,7 @@ PCGMetadata Make Vector Settings
 
 <a id="unreal.PCGMetadataMakeVectorSettings.input_source1"></a>
 
-#### input_source1
+#### input\_source1
 
 ```python
 @property
@@ -53,7 +53,7 @@ def input_source1() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMakeVectorSettings.input_source1"></a>
 
-#### input_source1
+#### input\_source1
 
 ```python
 @input_source1.setter
@@ -62,7 +62,7 @@ def input_source1(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataMakeVectorSettings.input_source2"></a>
 
-#### input_source2
+#### input\_source2
 
 ```python
 @property
@@ -73,7 +73,7 @@ def input_source2() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMakeVectorSettings.input_source2"></a>
 
-#### input_source2
+#### input\_source2
 
 ```python
 @input_source2.setter
@@ -82,7 +82,7 @@ def input_source2(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataMakeVectorSettings.input_source3"></a>
 
-#### input_source3
+#### input\_source3
 
 ```python
 @property
@@ -93,7 +93,7 @@ def input_source3() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMakeVectorSettings.input_source3"></a>
 
-#### input_source3
+#### input\_source3
 
 ```python
 @input_source3.setter
@@ -102,7 +102,7 @@ def input_source3(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataMakeVectorSettings.input_source4"></a>
 
-#### input_source4
+#### input\_source4
 
 ```python
 @property
@@ -113,7 +113,7 @@ def input_source4() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMakeVectorSettings.input_source4"></a>
 
-#### input_source4
+#### input\_source4
 
 ```python
 @input_source4.setter
@@ -122,7 +122,7 @@ def input_source4(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataMakeVectorSettings.output_type"></a>
 
-#### output_type
+#### output\_type
 
 ```python
 @property
@@ -133,7 +133,7 @@ def output_type() -> PCGMetadataTypes
 
 <a id="unreal.PCGMetadataMakeVectorSettings.output_type"></a>
 
-#### output_type
+#### output\_type
 
 ```python
 @output_type.setter
@@ -142,7 +142,7 @@ def output_type(value: PCGMetadataTypes) -> None
 
 <a id="unreal.PCGMetadataMakeVectorSettings.make_vector3_op"></a>
 
-#### make_vector3_op
+#### make\_vector3\_op
 
 ```python
 @property
@@ -153,7 +153,7 @@ def make_vector3_op() -> PCGMetadataMakeVector3
 
 <a id="unreal.PCGMetadataMakeVectorSettings.make_vector3_op"></a>
 
-#### make_vector3_op
+#### make\_vector3\_op
 
 ```python
 @make_vector3_op.setter
@@ -162,7 +162,7 @@ def make_vector3_op(value: PCGMetadataMakeVector3) -> None
 
 <a id="unreal.PCGMetadataMakeVectorSettings.make_vector4_op"></a>
 
-#### make_vector4_op
+#### make\_vector4\_op
 
 ```python
 @property
@@ -173,7 +173,7 @@ def make_vector4_op() -> PCGMetadataMakeVector4
 
 <a id="unreal.PCGMetadataMakeVectorSettings.make_vector4_op"></a>
 
-#### make_vector4_op
+#### make\_vector4\_op
 
 ```python
 @make_vector4_op.setter

@@ -18,7 +18,7 @@ todo: mesheditor script: BP doesn't have name spaces, so we might need a more sp
 
 <a id="unreal.ElementID.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(id_value: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(id_value: int = 0) -> None
 
 <a id="unreal.ElementID.id_value"></a>
 
-#### id_value
+#### id\_value
 
 ```python
 @property

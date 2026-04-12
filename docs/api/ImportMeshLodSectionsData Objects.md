@@ -13,7 +13,7 @@ Action to add nodes to the graph based on selected objects
 
 <a id="unreal.ImportMeshLodSectionsData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

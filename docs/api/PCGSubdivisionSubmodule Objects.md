@@ -21,7 +21,7 @@ PCGSubdivision Submodule
 
 <a id="unreal.PCGSubdivisionSubmodule.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -94,7 +94,7 @@ def scalable(value: bool) -> None
 
 <a id="unreal.PCGSubdivisionSubmodule.debug_color"></a>
 
-#### debug_color
+#### debug\_color
 
 ```python
 @property
@@ -105,7 +105,7 @@ def debug_color() -> Vector4
 
 <a id="unreal.PCGSubdivisionSubmodule.debug_color"></a>
 
-#### debug_color
+#### debug\_color
 
 ```python
 @debug_color.setter

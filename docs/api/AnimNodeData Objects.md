@@ -13,7 +13,7 @@ Any constant/folded class data an anim node can be accessed via this struct
 
 <a id="unreal.AnimNodeData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

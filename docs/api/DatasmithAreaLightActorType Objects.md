@@ -26,7 +26,7 @@ EDatasmith Area Light Actor Type
 
 <a id="unreal.DatasmithAreaLightActorType.IES_DEPRECATED"></a>
 
-#### IES_DEPRECATED
+#### IES\_DEPRECATED
 
 2
 

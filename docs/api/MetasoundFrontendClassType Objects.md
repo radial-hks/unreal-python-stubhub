@@ -50,19 +50,19 @@ EMetasound Frontend Class Type
 
 <a id="unreal.MetasoundFrontendClassType.VARIABLE_DEFERRED_ACCESSOR"></a>
 
-#### VARIABLE_DEFERRED_ACCESSOR
+#### VARIABLE\_DEFERRED\_ACCESSOR
 
 6: The MetaSound class accesses variables.
 
 <a id="unreal.MetasoundFrontendClassType.VARIABLE_ACCESSOR"></a>
 
-#### VARIABLE_ACCESSOR
+#### VARIABLE\_ACCESSOR
 
 7: The MetaSound class accesses variables.
 
 <a id="unreal.MetasoundFrontendClassType.VARIABLE_MUTATOR"></a>
 
-#### VARIABLE_MUTATOR
+#### VARIABLE\_MUTATOR
 
 8: The MetaSound class mutates variables.
 
@@ -73,4 +73,4 @@ EMetasound Frontend Class Type
 9: The MetaSound class is defined only by the Frontend, and associatively
 performs a functional operation within the given document in a registration/cook step.
 
-<a id="unreal.AutoMapChainType"></a>
+<a id="unreal.AesWorldTerrainPrecisionMode"></a>

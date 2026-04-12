@@ -20,7 +20,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Input/index.html
 
 <a id="unreal.InputAxisKeyMapping.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(axis_name: Name = "None",
@@ -30,7 +30,7 @@ def __init__(axis_name: Name = "None",
 
 <a id="unreal.InputAxisKeyMapping.axis_name"></a>
 
-#### axis_name
+#### axis\_name
 
 ```python
 @property
@@ -41,7 +41,7 @@ def axis_name() -> Name
 
 <a id="unreal.InputAxisKeyMapping.axis_name"></a>
 
-#### axis_name
+#### axis\_name
 
 ```python
 @axis_name.setter

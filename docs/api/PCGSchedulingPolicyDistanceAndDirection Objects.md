@@ -24,7 +24,7 @@ Distance and Direction are calculated with respect to the Generation Source.
 
 <a id="unreal.PCGSchedulingPolicyDistanceAndDirection.use_distance"></a>
 
-#### use_distance
+#### use\_distance
 
 ```python
 @property
@@ -35,7 +35,7 @@ def use_distance() -> bool
 
 <a id="unreal.PCGSchedulingPolicyDistanceAndDirection.use_distance"></a>
 
-#### use_distance
+#### use\_distance
 
 ```python
 @use_distance.setter
@@ -44,7 +44,7 @@ def use_distance(value: bool) -> None
 
 <a id="unreal.PCGSchedulingPolicyDistanceAndDirection.distance_weight"></a>
 
-#### distance_weight
+#### distance\_weight
 
 ```python
 @property
@@ -55,7 +55,7 @@ def distance_weight() -> float
 
 <a id="unreal.PCGSchedulingPolicyDistanceAndDirection.distance_weight"></a>
 
-#### distance_weight
+#### distance\_weight
 
 ```python
 @distance_weight.setter
@@ -64,7 +64,7 @@ def distance_weight(value: float) -> None
 
 <a id="unreal.PCGSchedulingPolicyDistanceAndDirection.use_direction"></a>
 
-#### use_direction
+#### use\_direction
 
 ```python
 @property
@@ -75,7 +75,7 @@ def use_direction() -> bool
 
 <a id="unreal.PCGSchedulingPolicyDistanceAndDirection.use_direction"></a>
 
-#### use_direction
+#### use\_direction
 
 ```python
 @use_direction.setter
@@ -84,7 +84,7 @@ def use_direction(value: bool) -> None
 
 <a id="unreal.PCGSchedulingPolicyDistanceAndDirection.direction_weight"></a>
 
-#### direction_weight
+#### direction\_weight
 
 ```python
 @property
@@ -95,7 +95,7 @@ def direction_weight() -> float
 
 <a id="unreal.PCGSchedulingPolicyDistanceAndDirection.direction_weight"></a>
 
-#### direction_weight
+#### direction\_weight
 
 ```python
 @direction_weight.setter

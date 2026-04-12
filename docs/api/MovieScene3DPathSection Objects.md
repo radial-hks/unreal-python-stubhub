@@ -32,7 +32,7 @@ A 3D Path section
 
 <a id="unreal.MovieScene3DPathSection.front_axis_enum"></a>
 
-#### front_axis_enum
+#### front\_axis\_enum
 
 ```python
 @property
@@ -43,7 +43,7 @@ def front_axis_enum() -> MovieScene3DPathSection_Axis
 
 <a id="unreal.MovieScene3DPathSection.front_axis_enum"></a>
 
-#### front_axis_enum
+#### front\_axis\_enum
 
 ```python
 @front_axis_enum.setter
@@ -52,7 +52,7 @@ def front_axis_enum(value: MovieScene3DPathSection_Axis) -> None
 
 <a id="unreal.MovieScene3DPathSection.up_axis_enum"></a>
 
-#### up_axis_enum
+#### up\_axis\_enum
 
 ```python
 @property
@@ -63,7 +63,7 @@ def up_axis_enum() -> MovieScene3DPathSection_Axis
 
 <a id="unreal.MovieScene3DPathSection.up_axis_enum"></a>
 
-#### up_axis_enum
+#### up\_axis\_enum
 
 ```python
 @up_axis_enum.setter
@@ -112,7 +112,7 @@ def reverse(value: bool) -> None
 
 <a id="unreal.MovieScene3DPathSection.force_upright"></a>
 
-#### force_upright
+#### force\_upright
 
 ```python
 @property
@@ -123,7 +123,7 @@ def force_upright() -> bool
 
 <a id="unreal.MovieScene3DPathSection.force_upright"></a>
 
-#### force_upright
+#### force\_upright
 
 ```python
 @force_upright.setter

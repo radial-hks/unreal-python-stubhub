@@ -8,7 +8,7 @@ Type used to define constant values from Python
 
 <a id="unreal.ValueDef.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(val: object, meta: Optional[Dict[str, str]]) -> None

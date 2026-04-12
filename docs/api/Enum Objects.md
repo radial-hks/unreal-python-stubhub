@@ -13,7 +13,7 @@ Enum
 
 <a id="unreal.Enum.get_enum_path_name"></a>
 
-#### get_enum_path_name
+#### get\_enum\_path\_name
 
 ```python
 def get_enum_path_name() -> TopLevelAssetPath

@@ -14,19 +14,19 @@ EGenerate Static Mesh LODSimple Collision Geometry Type
 
 <a id="unreal.GenerateStaticMeshLODSimpleCollisionGeometryType.ALIGNED_BOXES"></a>
 
-#### ALIGNED_BOXES
+#### ALIGNED\_BOXES
 
 0
 
 <a id="unreal.GenerateStaticMeshLODSimpleCollisionGeometryType.ORIENTED_BOXES"></a>
 
-#### ORIENTED_BOXES
+#### ORIENTED\_BOXES
 
 1
 
 <a id="unreal.GenerateStaticMeshLODSimpleCollisionGeometryType.MINIMAL_SPHERES"></a>
 
-#### MINIMAL_SPHERES
+#### MINIMAL\_SPHERES
 
 2
 
@@ -38,19 +38,19 @@ EGenerate Static Mesh LODSimple Collision Geometry Type
 
 <a id="unreal.GenerateStaticMeshLODSimpleCollisionGeometryType.CONVEX_HULLS"></a>
 
-#### CONVEX_HULLS
+#### CONVEX\_HULLS
 
 4
 
 <a id="unreal.GenerateStaticMeshLODSimpleCollisionGeometryType.SWEPT_HULLS"></a>
 
-#### SWEPT_HULLS
+#### SWEPT\_HULLS
 
 5
 
 <a id="unreal.GenerateStaticMeshLODSimpleCollisionGeometryType.MIN_VOLUME"></a>
 
-#### MIN_VOLUME
+#### MIN\_VOLUME
 
 6
 

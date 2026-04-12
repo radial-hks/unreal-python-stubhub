@@ -13,7 +13,7 @@ Tool Menu Entry Extensions
 
 <a id="unreal.ToolMenuEntryExtensions.set_tool_tip"></a>
 
-#### set_tool_tip
+#### set\_tool\_tip
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryExtensions.set_string_command"></a>
 
-#### set_string_command
+#### set\_string\_command
 
 ```python
 @classmethod
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryExtensions.set_label"></a>
 
-#### set_label
+#### set\_label
 
 ```python
 @classmethod
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryExtensions.set_icon"></a>
 
-#### set_icon
+#### set\_icon
 
 ```python
 @classmethod
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryExtensions.init_menu_entry"></a>
 
-#### init_menu_entry
+#### init\_menu\_entry
 
 ```python
 @classmethod
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryExtensions.get_tool_tip"></a>
 
-#### get_tool_tip
+#### get\_tool\_tip
 
 ```python
 @classmethod
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryExtensions.get_label"></a>
 
-#### get_label
+#### get\_label
 
 ```python
 @classmethod

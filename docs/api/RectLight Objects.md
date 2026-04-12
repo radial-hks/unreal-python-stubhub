@@ -144,7 +144,7 @@ Rect Light
 
 <a id="unreal.RectLight.rect_light_component"></a>
 
-#### rect_light_component
+#### rect\_light\_component
 
 ```python
 @property

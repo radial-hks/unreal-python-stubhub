@@ -34,7 +34,7 @@ Game Maps Settings
 
 <a id="unreal.GameMapsSettings.set_skip_assigning_gamepad_to_player1"></a>
 
-#### set_skip_assigning_gamepad_to_player1
+#### set\_skip\_assigning\_gamepad\_to\_player1
 
 ```python
 def set_skip_assigning_gamepad_to_player1(
@@ -50,7 +50,7 @@ Args:
 
 <a id="unreal.GameMapsSettings.get_skip_assigning_gamepad_to_player1"></a>
 
-#### get_skip_assigning_gamepad_to_player1
+#### get\_skip\_assigning\_gamepad\_to\_player1
 
 ```python
 def get_skip_assigning_gamepad_to_player1() -> bool
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.GameMapsSettings.get_game_maps_settings"></a>
 
-#### get_game_maps_settings
+#### get\_game\_maps\_settings
 
 ```python
 @classmethod

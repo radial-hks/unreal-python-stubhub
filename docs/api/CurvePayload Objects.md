@@ -17,7 +17,7 @@ Curve Payload
 
 <a id="unreal.CurvePayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(identifier: AnimationCurveIdentifier = []) -> None

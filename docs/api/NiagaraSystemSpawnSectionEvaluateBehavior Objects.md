@@ -14,7 +14,7 @@ Defines options for system life cycle for when the section is evaluating from th
 
 <a id="unreal.NiagaraSystemSpawnSectionEvaluateBehavior.ACTIVATE_IF_INACTIVE"></a>
 
-#### ACTIVATE_IF_INACTIVE
+#### ACTIVATE\_IF\_INACTIVE
 
 0: The system's component will be activated on any frame where it is inactive.  This is useful for continuous emitters, especially if the sequencer will start in the middle of the section.
 

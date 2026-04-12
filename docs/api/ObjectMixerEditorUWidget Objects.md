@@ -52,7 +52,7 @@ Only useful in the editor. It is not compatible at runtime.
 
 <a id="unreal.ObjectMixerEditorUWidget.object_mixer_widget_user_config"></a>
 
-#### object_mixer_widget_user_config
+#### object\_mixer\_widget\_user\_config
 
 ```python
 @property
@@ -63,7 +63,7 @@ def object_mixer_widget_user_config() -> ObjectMixerWidgetUserConfig
 
 <a id="unreal.ObjectMixerEditorUWidget.object_mixer_widget_user_config"></a>
 
-#### object_mixer_widget_user_config
+#### object\_mixer\_widget\_user\_config
 
 ```python
 @object_mixer_widget_user_config.setter

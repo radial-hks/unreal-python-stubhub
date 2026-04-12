@@ -32,7 +32,7 @@ within Unreal Editor without ever needing to write a line of code.
 
 <a id="unreal.Blueprint.set_blueprint_variable_instance_editable"></a>
 
-#### set_blueprint_variable_instance_editable
+#### set\_blueprint\_variable\_instance\_editable
 
 ```python
 def set_blueprint_variable_instance_editable(variable_name: Name,
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.Blueprint.set_blueprint_variable_expose_to_cinematics"></a>
 
-#### set_blueprint_variable_expose_to_cinematics
+#### set\_blueprint\_variable\_expose\_to\_cinematics
 
 ```python
 def set_blueprint_variable_expose_to_cinematics(
@@ -64,7 +64,7 @@ Args:
 
 <a id="unreal.Blueprint.set_blueprint_variable_expose_on_spawn"></a>
 
-#### set_blueprint_variable_expose_on_spawn
+#### set\_blueprint\_variable\_expose\_on\_spawn
 
 ```python
 def set_blueprint_variable_expose_on_spawn(variable_name: Name,
@@ -80,7 +80,7 @@ Args:
 
 <a id="unreal.Blueprint.generated_class"></a>
 
-#### generated_class
+#### generated\_class
 
 ```python
 def generated_class() -> Class

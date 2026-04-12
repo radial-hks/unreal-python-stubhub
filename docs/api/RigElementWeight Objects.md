@@ -20,7 +20,7 @@ Rig Element Weight
 
 <a id="unreal.RigElementWeight.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(location: float = 0.000000,

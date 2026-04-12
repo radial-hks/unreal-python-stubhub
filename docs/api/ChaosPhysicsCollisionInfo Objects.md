@@ -27,7 +27,7 @@ Chaos Physics Collision Info
 
 <a id="unreal.ChaosPhysicsCollisionInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component: PrimitiveComponent = None,
@@ -65,7 +65,7 @@ def component(value: PrimitiveComponent) -> None
 
 <a id="unreal.ChaosPhysicsCollisionInfo.other_component"></a>
 
-#### other_component
+#### other\_component
 
 ```python
 @property
@@ -76,7 +76,7 @@ def other_component() -> PrimitiveComponent
 
 <a id="unreal.ChaosPhysicsCollisionInfo.other_component"></a>
 
-#### other_component
+#### other\_component
 
 ```python
 @other_component.setter
@@ -125,7 +125,7 @@ def normal(value: Vector) -> None
 
 <a id="unreal.ChaosPhysicsCollisionInfo.accumulated_impulse"></a>
 
-#### accumulated_impulse
+#### accumulated\_impulse
 
 ```python
 @property
@@ -136,7 +136,7 @@ def accumulated_impulse() -> Vector
 
 <a id="unreal.ChaosPhysicsCollisionInfo.accumulated_impulse"></a>
 
-#### accumulated_impulse
+#### accumulated\_impulse
 
 ```python
 @accumulated_impulse.setter
@@ -165,7 +165,7 @@ def velocity(value: Vector) -> None
 
 <a id="unreal.ChaosPhysicsCollisionInfo.other_velocity"></a>
 
-#### other_velocity
+#### other\_velocity
 
 ```python
 @property
@@ -176,7 +176,7 @@ def other_velocity() -> Vector
 
 <a id="unreal.ChaosPhysicsCollisionInfo.other_velocity"></a>
 
-#### other_velocity
+#### other\_velocity
 
 ```python
 @other_velocity.setter
@@ -185,7 +185,7 @@ def other_velocity(value: Vector) -> None
 
 <a id="unreal.ChaosPhysicsCollisionInfo.angular_velocity"></a>
 
-#### angular_velocity
+#### angular\_velocity
 
 ```python
 @property
@@ -196,7 +196,7 @@ def angular_velocity() -> Vector
 
 <a id="unreal.ChaosPhysicsCollisionInfo.angular_velocity"></a>
 
-#### angular_velocity
+#### angular\_velocity
 
 ```python
 @angular_velocity.setter
@@ -205,7 +205,7 @@ def angular_velocity(value: Vector) -> None
 
 <a id="unreal.ChaosPhysicsCollisionInfo.other_angular_velocity"></a>
 
-#### other_angular_velocity
+#### other\_angular\_velocity
 
 ```python
 @property
@@ -216,7 +216,7 @@ def other_angular_velocity() -> Vector
 
 <a id="unreal.ChaosPhysicsCollisionInfo.other_angular_velocity"></a>
 
-#### other_angular_velocity
+#### other\_angular\_velocity
 
 ```python
 @other_angular_velocity.setter
@@ -245,7 +245,7 @@ def mass(value: float) -> None
 
 <a id="unreal.ChaosPhysicsCollisionInfo.other_mass"></a>
 
-#### other_mass
+#### other\_mass
 
 ```python
 @property
@@ -256,7 +256,7 @@ def other_mass() -> float
 
 <a id="unreal.ChaosPhysicsCollisionInfo.other_mass"></a>
 
-#### other_mass
+#### other\_mass
 
 ```python
 @other_mass.setter

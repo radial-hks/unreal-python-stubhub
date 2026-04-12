@@ -27,7 +27,7 @@ See the docs for more details on each platform.
 
 <a id="unreal.ColorInputDeviceProperty.color_data"></a>
 
-#### color_data
+#### color\_data
 
 ```python
 @property
@@ -38,7 +38,7 @@ def color_data() -> DeviceColorData
 
 <a id="unreal.ColorInputDeviceProperty.color_data"></a>
 
-#### color_data
+#### color\_data
 
 ```python
 @color_data.setter
@@ -47,7 +47,7 @@ def color_data(value: DeviceColorData) -> None
 
 <a id="unreal.ColorInputDeviceProperty.device_override_data"></a>
 
-#### device_override_data
+#### device\_override\_data
 
 ```python
 @property
@@ -58,7 +58,7 @@ def device_override_data() -> Map[Name, DeviceColorData]
 
 <a id="unreal.ColorInputDeviceProperty.device_override_data"></a>
 
-#### device_override_data
+#### device\_override\_data
 
 ```python
 @device_override_data.setter

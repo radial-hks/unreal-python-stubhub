@@ -26,19 +26,19 @@ deprecated: 'ScriptingCollisionShapeType' was renamed to 'ScriptCollisionShapeTy
 
 <a id="unreal.ScriptingCollisionShapeType.NDOP10_X"></a>
 
-#### NDOP10_X
+#### NDOP10\_X
 
 3
 
 <a id="unreal.ScriptingCollisionShapeType.NDOP10_Y"></a>
 
-#### NDOP10_Y
+#### NDOP10\_Y
 
 4
 
 <a id="unreal.ScriptingCollisionShapeType.NDOP10_Z"></a>
 
-#### NDOP10_Z
+#### NDOP10\_Z
 
 5
 

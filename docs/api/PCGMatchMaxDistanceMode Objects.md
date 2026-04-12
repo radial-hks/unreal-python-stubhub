@@ -14,19 +14,19 @@ EPCGMatch Max Distance Mode
 
 <a id="unreal.PCGMatchMaxDistanceMode.NO_MAX_DISTANCE"></a>
 
-#### NO_MAX_DISTANCE
+#### NO\_MAX\_DISTANCE
 
 0
 
 <a id="unreal.PCGMatchMaxDistanceMode.USE_CONSTANT_MAX_DISTANCE"></a>
 
-#### USE_CONSTANT_MAX_DISTANCE
+#### USE\_CONSTANT\_MAX\_DISTANCE
 
 1
 
 <a id="unreal.PCGMatchMaxDistanceMode.ATTRIBUTE_MAX_DISTANCE"></a>
 
-#### ATTRIBUTE_MAX_DISTANCE
+#### ATTRIBUTE\_MAX\_DISTANCE
 
 2
 

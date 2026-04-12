@@ -19,7 +19,7 @@ Niagara Data Interface Array
 
 <a id="unreal.NiagaraDataInterfaceArray.gpu_sync_mode"></a>
 
-#### gpu_sync_mode
+#### gpu\_sync\_mode
 
 ```python
 @property
@@ -30,7 +30,7 @@ def gpu_sync_mode() -> NiagaraGpuSyncMode
 
 <a id="unreal.NiagaraDataInterfaceArray.max_elements"></a>
 
-#### max_elements
+#### max\_elements
 
 ```python
 @property

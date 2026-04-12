@@ -13,7 +13,7 @@ Kismet Text Library
 
 <a id="unreal.TextLibrary.text_trim_trailing"></a>
 
-#### text_trim_trailing
+#### text\_trim\_trailing
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_trim_preceding_and_trailing"></a>
 
-#### text_trim_preceding_and_trailing
+#### text\_trim\_preceding\_and\_trailing
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_trim_preceding"></a>
 
-#### text_trim_preceding
+#### text\_trim\_preceding
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_to_upper"></a>
 
-#### text_to_upper
+#### text\_to\_upper
 
 ```python
 @classmethod
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_to_lower"></a>
 
-#### text_to_lower
+#### text\_to\_lower
 
 ```python
 @classmethod
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_is_transient"></a>
 
-#### text_is_transient
+#### text\_is\_transient
 
 ```python
 @classmethod
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_is_from_string_table"></a>
 
-#### text_is_from_string_table
+#### text\_is\_from\_string\_table
 
 ```python
 @classmethod
@@ -141,7 +141,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_is_empty"></a>
 
-#### text_is_empty
+#### text\_is\_empty
 
 ```python
 @classmethod
@@ -159,7 +159,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_is_culture_invariant"></a>
 
-#### text_is_culture_invariant
+#### text\_is\_culture\_invariant
 
 ```python
 @classmethod
@@ -177,7 +177,7 @@ Returns:
 
 <a id="unreal.TextLibrary.text_from_string_table"></a>
 
-#### text_from_string_table
+#### text\_from\_string\_table
 
 ```python
 @classmethod
@@ -197,7 +197,7 @@ Returns:
 
 <a id="unreal.TextLibrary.string_table_id_and_key_from_text"></a>
 
-#### string_table_id_and_key_from_text
+#### string\_table\_id\_and\_key\_from\_text
 
 ```python
 @classmethod
@@ -220,7 +220,7 @@ Returns:
 
 <a id="unreal.TextLibrary.polyglot_data_to_text"></a>
 
-#### polyglot_data_to_text
+#### polyglot\_data\_to\_text
 
 ```python
 @classmethod
@@ -238,7 +238,7 @@ Returns:
 
 <a id="unreal.TextLibrary.not_equal_text_text"></a>
 
-#### not_equal_text_text
+#### not\_equal\_text\_text
 
 ```python
 @classmethod
@@ -257,7 +257,7 @@ Returns:
 
 <a id="unreal.TextLibrary.not_equal_ignore_case_text_text"></a>
 
-#### not_equal_ignore_case_text_text
+#### not\_equal\_ignore\_case\_text\_text
 
 ```python
 @classmethod
@@ -276,7 +276,7 @@ Returns:
 
 <a id="unreal.TextLibrary.make_invariant_text"></a>
 
-#### make_invariant_text
+#### make\_invariant\_text
 
 ```python
 @classmethod
@@ -294,7 +294,7 @@ Returns:
 
 <a id="unreal.TextLibrary.is_polyglot_data_valid"></a>
 
-#### is_polyglot_data_valid
+#### is\_polyglot\_data\_valid
 
 ```python
 @classmethod
@@ -317,7 +317,7 @@ Returns:
 
 <a id="unreal.TextLibrary.get_text_source_string"></a>
 
-#### get_text_source_string
+#### get\_text\_source\_string
 
 ```python
 @classmethod
@@ -336,7 +336,7 @@ Returns:
 
 <a id="unreal.TextLibrary.get_text_id"></a>
 
-#### get_text_id
+#### get\_text\_id
 
 ```python
 @classmethod
@@ -358,7 +358,7 @@ Returns:
 
 <a id="unreal.TextLibrary.get_empty_text"></a>
 
-#### get_empty_text
+#### get\_empty\_text
 
 ```python
 @classmethod
@@ -373,7 +373,7 @@ Returns:
 
 <a id="unreal.TextLibrary.find_text_in_live_table_advanced"></a>
 
-#### find_text_in_live_table_advanced
+#### find\_text\_in\_live\_table\_advanced
 
 ```python
 @classmethod
@@ -403,7 +403,7 @@ Returns:
 
 <a id="unreal.TextLibrary.equal_equal_text_text"></a>
 
-#### equal_equal_text_text
+#### equal\_equal\_text\_text
 
 ```python
 @classmethod
@@ -422,7 +422,7 @@ Returns:
 
 <a id="unreal.TextLibrary.equal_equal_ignore_case_text_text"></a>
 
-#### equal_equal_ignore_case_text_text
+#### equal\_equal\_ignore\_case\_text\_text
 
 ```python
 @classmethod
@@ -441,7 +441,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_vector_to_text"></a>
 
-#### conv_vector_to_text
+#### conv\_vector\_to\_text
 
 ```python
 @classmethod
@@ -459,7 +459,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_vector2d_to_text"></a>
 
-#### conv_vector2d_to_text
+#### conv\_vector2d\_to\_text
 
 ```python
 @classmethod
@@ -477,7 +477,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_transform_to_text"></a>
 
-#### conv_transform_to_text
+#### conv\_transform\_to\_text
 
 ```python
 @classmethod
@@ -495,7 +495,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_text_to_string"></a>
 
-#### conv_text_to_string
+#### conv\_text\_to\_string
 
 ```python
 @classmethod
@@ -513,7 +513,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_string_to_text"></a>
 
-#### conv_string_to_text
+#### conv\_string\_to\_text
 
 ```python
 @classmethod
@@ -531,7 +531,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_rotator_to_text"></a>
 
-#### conv_rotator_to_text
+#### conv\_rotator\_to\_text
 
 ```python
 @classmethod
@@ -549,7 +549,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_object_to_text"></a>
 
-#### conv_object_to_text
+#### conv\_object\_to\_text
 
 ```python
 @classmethod
@@ -567,7 +567,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_name_to_text"></a>
 
-#### conv_name_to_text
+#### conv\_name\_to\_text
 
 ```python
 @classmethod
@@ -585,7 +585,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_int_to_text"></a>
 
-#### conv_int_to_text
+#### conv\_int\_to\_text
 
 ```python
 @classmethod
@@ -612,7 +612,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_int64_to_text"></a>
 
-#### conv_int64_to_text
+#### conv\_int64\_to\_text
 
 ```python
 @classmethod
@@ -639,7 +639,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_double_to_text"></a>
 
-#### conv_double_to_text
+#### conv\_double\_to\_text
 
 ```python
 @classmethod
@@ -672,7 +672,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_float_to_text"></a>
 
-#### conv_float_to_text
+#### conv\_float\_to\_text
 
 ```python
 @classmethod
@@ -691,7 +691,7 @@ deprecated: 'conv_float_to_text' was renamed to 'conv_double_to_text'.
 
 <a id="unreal.TextLibrary.conv_color_to_text"></a>
 
-#### conv_color_to_text
+#### conv\_color\_to\_text
 
 ```python
 @classmethod
@@ -709,7 +709,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_byte_to_text"></a>
 
-#### conv_byte_to_text
+#### conv\_byte\_to\_text
 
 ```python
 @classmethod
@@ -727,7 +727,7 @@ Returns:
 
 <a id="unreal.TextLibrary.conv_bool_to_text"></a>
 
-#### conv_bool_to_text
+#### conv\_bool\_to\_text
 
 ```python
 @classmethod
@@ -745,7 +745,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_time_zone_time_date_time"></a>
 
-#### as_time_zone_time_date_time
+#### as\_time\_zone\_time\_date\_time
 
 ```python
 @classmethod
@@ -769,7 +769,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_time_zone_date_time_date_time"></a>
 
-#### as_time_zone_date_time_date_time
+#### as\_time\_zone\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -795,7 +795,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_time_zone_date_date_time"></a>
 
-#### as_time_zone_date_date_time
+#### as\_time\_zone\_date\_date\_time
 
 ```python
 @classmethod
@@ -819,7 +819,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_timespan_timespan"></a>
 
-#### as_timespan_timespan
+#### as\_timespan\_timespan
 
 ```python
 @classmethod
@@ -837,7 +837,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_time_date_time"></a>
 
-#### as_time_date_time
+#### as\_time\_date\_time
 
 ```python
 @classmethod
@@ -859,7 +859,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_percent_float"></a>
 
-#### as_percent_float
+#### as\_percent\_float
 
 ```python
 @classmethod
@@ -892,7 +892,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_memory"></a>
 
-#### as_memory
+#### as\_memory
 
 ```python
 @classmethod
@@ -923,7 +923,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_date_time_date_time"></a>
 
-#### as_date_time_date_time
+#### as\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -947,7 +947,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_date_date_time"></a>
 
-#### as_date_date_time
+#### as\_date\_date\_time
 
 ```python
 @classmethod
@@ -969,7 +969,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_currency_base"></a>
 
-#### as_currency_base
+#### as\_currency\_base
 
 ```python
 @classmethod
@@ -991,7 +991,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_currency_integer"></a>
 
-#### as_currency_integer
+#### as\_currency\_integer
 
 ```python
 @classmethod
@@ -1026,7 +1026,7 @@ Returns:
 
 <a id="unreal.TextLibrary.as_currency_float"></a>
 
-#### as_currency_float
+#### as\_currency\_float
 
 ```python
 @classmethod

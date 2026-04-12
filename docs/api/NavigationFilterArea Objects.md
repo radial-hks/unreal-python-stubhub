@@ -22,7 +22,7 @@ Navigation Filter Area
 
 <a id="unreal.NavigationFilterArea.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

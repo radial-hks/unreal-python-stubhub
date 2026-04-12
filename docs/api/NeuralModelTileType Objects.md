@@ -13,26 +13,26 @@ ENeural Model Tile Type
 
 <a id="unreal.NeuralModelTileType.ONE_BY_ONE"></a>
 
-#### ONE_BY_ONE
+#### ONE\_BY\_ONE
 
 0: The NNE model is loaded and used as it is. No dimension augmentation. E.g.,
 if the input texture has different dimensions, it will be scaled down before application
 
 <a id="unreal.NeuralModelTileType.TWO_BY_TWO"></a>
 
-#### TWO_BY_TWO
+#### TWO\_BY\_TWO
 
 1
 
 <a id="unreal.NeuralModelTileType.FOUR_BY_FOUR"></a>
 
-#### FOUR_BY_FOUR
+#### FOUR\_BY\_FOUR
 
 2
 
 <a id="unreal.NeuralModelTileType.EIGHT_BY_EIGHT"></a>
 
-#### EIGHT_BY_EIGHT
+#### EIGHT\_BY\_EIGHT
 
 3
 

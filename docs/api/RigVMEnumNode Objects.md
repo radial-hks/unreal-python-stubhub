@@ -14,7 +14,7 @@ The Enum Node represents a constant enum value for use within the graph.
 
 <a id="unreal.RigVMEnumNode.get_enum"></a>
 
-#### get_enum
+#### get\_enum
 
 ```python
 def get_enum() -> Enum
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.RigVMEnumNode.get_cpp_type_object"></a>
 
-#### get_cpp_type_object
+#### get\_cpp\_type\_object
 
 ```python
 def get_cpp_type_object() -> Object
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.RigVMEnumNode.get_cpp_type"></a>
 
-#### get_cpp_type
+#### get\_cpp\_type
 
 ```python
 def get_cpp_type() -> str

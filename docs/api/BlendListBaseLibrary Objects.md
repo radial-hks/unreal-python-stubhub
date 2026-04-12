@@ -13,7 +13,7 @@ Exposes operations to be performed on anim state machine node contexts
 
 <a id="unreal.BlendListBaseLibrary.reset_node"></a>
 
-#### reset_node
+#### reset\_node
 
 ```python
 @classmethod
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.BlendListBaseLibrary.convert_to_blend_list_base"></a>
 
-#### convert_to_blend_list_base
+#### convert\_to\_blend\_list\_base
 
 ```python
 @classmethod

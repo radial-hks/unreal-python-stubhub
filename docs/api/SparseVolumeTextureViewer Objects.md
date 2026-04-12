@@ -142,7 +142,7 @@ A placeable actor that represents a participating media material around a planet
 
 <a id="unreal.SparseVolumeTextureViewer.sparse_volume_texture_viewer_component"></a>
 
-#### sparse_volume_texture_viewer_component
+#### sparse\_volume\_texture\_viewer\_component
 
 ```python
 @property

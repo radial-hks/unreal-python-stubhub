@@ -29,7 +29,7 @@ def settings() -> SourceEffectEQSettings
 
 <a id="unreal.SourceEffectEQPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectEQSettings) -> None

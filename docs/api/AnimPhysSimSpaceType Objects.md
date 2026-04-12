@@ -31,13 +31,13 @@ Anim Phys Sim Space Type
 
 <a id="unreal.AnimPhysSimSpaceType.ROOT_RELATIVE"></a>
 
-#### ROOT_RELATIVE
+#### ROOT\_RELATIVE
 
 3: Sim origin is the location/orientation of the root bone.
 
 <a id="unreal.AnimPhysSimSpaceType.BONE_RELATIVE"></a>
 
-#### BONE_RELATIVE
+#### BONE\_RELATIVE
 
 4: Sim origin is the location/orientation of the bone specified in RelativeSpaceBone
 

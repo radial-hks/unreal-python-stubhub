@@ -30,7 +30,7 @@ The core ActorComponent for interfacing with the GameplayAbilities System
 
 <a id="unreal.GameplayTasksComponent.on_claimed_resources_change"></a>
 
-#### on_claimed_resources_change
+#### on\_claimed\_resources\_change
 
 ```python
 @property
@@ -41,7 +41,7 @@ def on_claimed_resources_change() -> OnClaimedResourcesChangeSignature
 
 <a id="unreal.GameplayTasksComponent.on_claimed_resources_change"></a>
 
-#### on_claimed_resources_change
+#### on\_claimed\_resources\_change
 
 ```python
 @on_claimed_resources_change.setter
@@ -51,7 +51,7 @@ def on_claimed_resources_change(
 
 <a id="unreal.GameplayTasksComponent.run_gameplay_task"></a>
 
-#### run_gameplay_task
+#### run\_gameplay\_task
 
 ```python
 @classmethod

@@ -13,7 +13,7 @@ A custom binding. Allows users to define their own binding resolution types, inc
 
 <a id="unreal.MovieSceneCustomBinding.get_base_engine_priority"></a>
 
-#### get_base_engine_priority
+#### get\_base\_engine\_priority
 
 ```python
 @classmethod
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.MovieSceneCustomBinding.get_base_custom_priority"></a>
 
-#### get_base_custom_priority
+#### get\_base\_custom\_priority
 
 ```python
 @classmethod

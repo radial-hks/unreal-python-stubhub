@@ -31,7 +31,7 @@ Sound Cue Factory New
 
 <a id="unreal.SoundCueFactoryNew.initial_sound_wave"></a>
 
-#### initial_sound_wave
+#### initial\_sound\_wave
 
 ```python
 @property
@@ -43,7 +43,7 @@ deprecated: Use Array InitialSoundWaves instead.
 
 <a id="unreal.SoundCueFactoryNew.initial_sound_wave"></a>
 
-#### initial_sound_wave
+#### initial\_sound\_wave
 
 ```python
 @initial_sound_wave.setter
@@ -52,7 +52,7 @@ def initial_sound_wave(value: SoundWave) -> None
 
 <a id="unreal.SoundCueFactoryNew.initial_dialogue_wave"></a>
 
-#### initial_dialogue_wave
+#### initial\_dialogue\_wave
 
 ```python
 @property
@@ -64,7 +64,7 @@ deprecated: Use Array InitialDialogueWaves instead.
 
 <a id="unreal.SoundCueFactoryNew.initial_dialogue_wave"></a>
 
-#### initial_dialogue_wave
+#### initial\_dialogue\_wave
 
 ```python
 @initial_dialogue_wave.setter

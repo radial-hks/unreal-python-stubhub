@@ -24,7 +24,7 @@ Network Physics Settings Default Replication
 
 <a id="unreal.NetworkPhysicsSettingsDefaultReplication.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

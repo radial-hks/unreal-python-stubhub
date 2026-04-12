@@ -19,7 +19,7 @@ A perlin noise shaker for a single number.
 
 <a id="unreal.PerlinNoiseShaker.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(amplitude: float = 0.000000, frequency: float = 0.000000) -> None

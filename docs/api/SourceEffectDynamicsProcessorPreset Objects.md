@@ -29,7 +29,7 @@ def settings() -> SourceEffectDynamicsProcessorSettings
 
 <a id="unreal.SourceEffectDynamicsProcessorPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectDynamicsProcessorSettings) -> None

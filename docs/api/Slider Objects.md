@@ -89,7 +89,7 @@ def value(value: float) -> None
 
 <a id="unreal.Slider.min_value"></a>
 
-#### min_value
+#### min\_value
 
 ```python
 @property
@@ -100,7 +100,7 @@ def min_value() -> float
 
 <a id="unreal.Slider.min_value"></a>
 
-#### min_value
+#### min\_value
 
 ```python
 @min_value.setter
@@ -109,7 +109,7 @@ def min_value(value: float) -> None
 
 <a id="unreal.Slider.max_value"></a>
 
-#### max_value
+#### max\_value
 
 ```python
 @property
@@ -120,7 +120,7 @@ def max_value() -> float
 
 <a id="unreal.Slider.max_value"></a>
 
-#### max_value
+#### max\_value
 
 ```python
 @max_value.setter
@@ -129,7 +129,7 @@ def max_value(value: float) -> None
 
 <a id="unreal.Slider.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -140,7 +140,7 @@ def widget_style() -> SliderStyle
 
 <a id="unreal.Slider.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -169,7 +169,7 @@ def orientation(value: Orientation) -> None
 
 <a id="unreal.Slider.slider_bar_color"></a>
 
-#### slider_bar_color
+#### slider\_bar\_color
 
 ```python
 @property
@@ -180,7 +180,7 @@ def slider_bar_color() -> LinearColor
 
 <a id="unreal.Slider.slider_bar_color"></a>
 
-#### slider_bar_color
+#### slider\_bar\_color
 
 ```python
 @slider_bar_color.setter
@@ -189,7 +189,7 @@ def slider_bar_color(value: LinearColor) -> None
 
 <a id="unreal.Slider.slider_handle_color"></a>
 
-#### slider_handle_color
+#### slider\_handle\_color
 
 ```python
 @property
@@ -200,7 +200,7 @@ def slider_handle_color() -> LinearColor
 
 <a id="unreal.Slider.slider_handle_color"></a>
 
-#### slider_handle_color
+#### slider\_handle\_color
 
 ```python
 @slider_handle_color.setter
@@ -209,7 +209,7 @@ def slider_handle_color(value: LinearColor) -> None
 
 <a id="unreal.Slider.indent_handle"></a>
 
-#### indent_handle
+#### indent\_handle
 
 ```python
 @property
@@ -220,7 +220,7 @@ def indent_handle() -> bool
 
 <a id="unreal.Slider.indent_handle"></a>
 
-#### indent_handle
+#### indent\_handle
 
 ```python
 @indent_handle.setter
@@ -249,7 +249,7 @@ def locked(value: bool) -> None
 
 <a id="unreal.Slider.mouse_uses_step"></a>
 
-#### mouse_uses_step
+#### mouse\_uses\_step
 
 ```python
 @property
@@ -260,7 +260,7 @@ def mouse_uses_step() -> bool
 
 <a id="unreal.Slider.requires_controller_lock"></a>
 
-#### requires_controller_lock
+#### requires\_controller\_lock
 
 ```python
 @property
@@ -271,7 +271,7 @@ def requires_controller_lock() -> bool
 
 <a id="unreal.Slider.step_size"></a>
 
-#### step_size
+#### step\_size
 
 ```python
 @property
@@ -282,7 +282,7 @@ def step_size() -> float
 
 <a id="unreal.Slider.step_size"></a>
 
-#### step_size
+#### step\_size
 
 ```python
 @step_size.setter
@@ -291,7 +291,7 @@ def step_size(value: float) -> None
 
 <a id="unreal.Slider.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @property
@@ -302,7 +302,7 @@ def is_focusable() -> bool
 
 <a id="unreal.Slider.on_mouse_capture_begin"></a>
 
-#### on_mouse_capture_begin
+#### on\_mouse\_capture\_begin
 
 ```python
 @property
@@ -313,7 +313,7 @@ def on_mouse_capture_begin() -> OnMouseCaptureBeginEvent
 
 <a id="unreal.Slider.on_mouse_capture_begin"></a>
 
-#### on_mouse_capture_begin
+#### on\_mouse\_capture\_begin
 
 ```python
 @on_mouse_capture_begin.setter
@@ -322,7 +322,7 @@ def on_mouse_capture_begin(value: OnMouseCaptureBeginEvent) -> None
 
 <a id="unreal.Slider.on_mouse_capture_end"></a>
 
-#### on_mouse_capture_end
+#### on\_mouse\_capture\_end
 
 ```python
 @property
@@ -333,7 +333,7 @@ def on_mouse_capture_end() -> OnMouseCaptureEndEvent
 
 <a id="unreal.Slider.on_mouse_capture_end"></a>
 
-#### on_mouse_capture_end
+#### on\_mouse\_capture\_end
 
 ```python
 @on_mouse_capture_end.setter
@@ -342,7 +342,7 @@ def on_mouse_capture_end(value: OnMouseCaptureEndEvent) -> None
 
 <a id="unreal.Slider.on_controller_capture_begin"></a>
 
-#### on_controller_capture_begin
+#### on\_controller\_capture\_begin
 
 ```python
 @property
@@ -353,7 +353,7 @@ def on_controller_capture_begin() -> OnControllerCaptureBeginEvent
 
 <a id="unreal.Slider.on_controller_capture_begin"></a>
 
-#### on_controller_capture_begin
+#### on\_controller\_capture\_begin
 
 ```python
 @on_controller_capture_begin.setter
@@ -362,7 +362,7 @@ def on_controller_capture_begin(value: OnControllerCaptureBeginEvent) -> None
 
 <a id="unreal.Slider.on_controller_capture_end"></a>
 
-#### on_controller_capture_end
+#### on\_controller\_capture\_end
 
 ```python
 @property
@@ -373,7 +373,7 @@ def on_controller_capture_end() -> OnControllerCaptureEndEvent
 
 <a id="unreal.Slider.on_controller_capture_end"></a>
 
-#### on_controller_capture_end
+#### on\_controller\_capture\_end
 
 ```python
 @on_controller_capture_end.setter
@@ -382,7 +382,7 @@ def on_controller_capture_end(value: OnControllerCaptureEndEvent) -> None
 
 <a id="unreal.Slider.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @property
@@ -393,7 +393,7 @@ def on_value_changed() -> OnFloatValueChangedEvent
 
 <a id="unreal.Slider.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @on_value_changed.setter
@@ -402,7 +402,7 @@ def on_value_changed(value: OnFloatValueChangedEvent) -> None
 
 <a id="unreal.Slider.set_value"></a>
 
-#### set_value
+#### set\_value
 
 ```python
 def set_value(value: float) -> None
@@ -416,7 +416,7 @@ Args:
 
 <a id="unreal.Slider.set_step_size"></a>
 
-#### set_step_size
+#### set\_step\_size
 
 ```python
 def set_step_size(value: float) -> None
@@ -430,7 +430,7 @@ Args:
 
 <a id="unreal.Slider.set_slider_handle_color"></a>
 
-#### set_slider_handle_color
+#### set\_slider\_handle\_color
 
 ```python
 def set_slider_handle_color(value: LinearColor) -> None
@@ -444,7 +444,7 @@ Args:
 
 <a id="unreal.Slider.set_slider_bar_color"></a>
 
-#### set_slider_bar_color
+#### set\_slider\_bar\_color
 
 ```python
 def set_slider_bar_color(value: LinearColor) -> None
@@ -458,7 +458,7 @@ Args:
 
 <a id="unreal.Slider.set_min_value"></a>
 
-#### set_min_value
+#### set\_min\_value
 
 ```python
 def set_min_value(value: float) -> None
@@ -472,7 +472,7 @@ Args:
 
 <a id="unreal.Slider.set_max_value"></a>
 
-#### set_max_value
+#### set\_max\_value
 
 ```python
 def set_max_value(value: float) -> None
@@ -486,7 +486,7 @@ Args:
 
 <a id="unreal.Slider.set_locked"></a>
 
-#### set_locked
+#### set\_locked
 
 ```python
 def set_locked(value: bool) -> None
@@ -500,7 +500,7 @@ Args:
 
 <a id="unreal.Slider.set_indent_handle"></a>
 
-#### set_indent_handle
+#### set\_indent\_handle
 
 ```python
 def set_indent_handle(value: bool) -> None
@@ -514,7 +514,7 @@ Args:
 
 <a id="unreal.Slider.get_value"></a>
 
-#### get_value
+#### get\_value
 
 ```python
 def get_value() -> float
@@ -528,7 +528,7 @@ Returns:
 
 <a id="unreal.Slider.get_normalized_value"></a>
 
-#### get_normalized_value
+#### get\_normalized\_value
 
 ```python
 def get_normalized_value() -> float

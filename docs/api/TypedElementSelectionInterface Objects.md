@@ -13,7 +13,7 @@ Typed Element Selection Interface
 
 <a id="unreal.TypedElementSelectionInterface.select_element"></a>
 
-#### select_element
+#### select\_element
 
 ```python
 def select_element(element_handle: ScriptTypedElementHandle,
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionInterface.is_element_selected"></a>
 
-#### is_element_selected
+#### is\_element\_selected
 
 ```python
 def is_element_selected(
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionInterface.get_selection_element"></a>
 
-#### get_selection_element
+#### get\_selection\_element
 
 ```python
 def get_selection_element(
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionInterface.deselect_element"></a>
 
-#### deselect_element
+#### deselect\_element
 
 ```python
 def deselect_element(element_handle: ScriptTypedElementHandle,
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionInterface.can_select_element"></a>
 
-#### can_select_element
+#### can\_select\_element
 
 ```python
 def can_select_element(
@@ -120,7 +120,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionInterface.can_deselect_element"></a>
 
-#### can_deselect_element
+#### can\_deselect\_element
 
 ```python
 def can_deselect_element(
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionInterface.allow_selection_modifiers"></a>
 
-#### allow_selection_modifiers
+#### allow\_selection\_modifiers
 
 ```python
 def allow_selection_modifiers(element_handle: ScriptTypedElementHandle,

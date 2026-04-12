@@ -20,7 +20,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Box.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min: Vector = [0.000000, 0.000000, 0.000000],
@@ -69,7 +69,7 @@ def max(value: Vector) -> None
 
 <a id="unreal.Box.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @property
@@ -80,7 +80,7 @@ def is_valid() -> bool
 
 <a id="unreal.Box.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @is_valid.setter
@@ -89,7 +89,7 @@ def is_valid(value: bool) -> None
 
 <a id="unreal.Box.random_point_in_box_extents"></a>
 
-#### random_point_in_box_extents
+#### random\_point\_in\_box\_extents
 
 ```python
 def random_point_in_box_extents() -> Vector
@@ -103,7 +103,7 @@ Returns:
 
 <a id="unreal.Box.test_point_inside_box"></a>
 
-#### test_point_inside_box
+#### test\_point\_inside\_box
 
 ```python
 def test_point_inside_box(point: Vector,
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.Box.test_box_sphere_intersection"></a>
 
-#### test_box_sphere_intersection
+#### test\_box\_sphere\_intersection
 
 ```python
 def test_box_sphere_intersection(sphere_center: Vector,
@@ -141,7 +141,7 @@ Returns:
 
 <a id="unreal.Box.test_box_box_intersection"></a>
 
-#### test_box_box_intersection
+#### test\_box\_box\_intersection
 
 ```python
 def test_box_box_intersection(box2: Box) -> bool
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.Box.get_transformed_box"></a>
 
-#### get_transformed_box
+#### get\_transformed\_box
 
 ```python
 def get_transformed_box(transform: Transform) -> Box
@@ -175,7 +175,7 @@ Returns:
 
 <a id="unreal.Box.get_expanded_box"></a>
 
-#### get_expanded_box
+#### get\_expanded\_box
 
 ```python
 def get_expanded_box(expand_by: Vector) -> Box
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.Box.get_box_volume_area"></a>
 
-#### get_box_volume_area
+#### get\_box\_volume\_area
 
 ```python
 def get_box_volume_area() -> Tuple[float, float]
@@ -211,7 +211,7 @@ Returns:
 
 <a id="unreal.Box.get_box_point_distance"></a>
 
-#### get_box_point_distance
+#### get\_box\_point\_distance
 
 ```python
 def get_box_point_distance(point: Vector) -> float
@@ -228,7 +228,7 @@ Returns:
 
 <a id="unreal.Box.get_box_face_center"></a>
 
-#### get_box_face_center
+#### get\_box\_face\_center
 
 ```python
 def get_box_face_center(face_index: int) -> Tuple[Vector, Vector]
@@ -248,7 +248,7 @@ Returns:
 
 <a id="unreal.Box.get_box_corner"></a>
 
-#### get_box_corner
+#### get\_box\_corner
 
 ```python
 def get_box_corner(corner_index: int) -> Vector
@@ -267,7 +267,7 @@ Returns:
 
 <a id="unreal.Box.get_box_center_size"></a>
 
-#### get_box_center_size
+#### get\_box\_center\_size
 
 ```python
 def get_box_center_size() -> Tuple[Vector, Vector]
@@ -285,7 +285,7 @@ Returns:
 
 <a id="unreal.Box.get_box_box_distance"></a>
 
-#### get_box_box_distance
+#### get\_box\_box\_distance
 
 ```python
 def get_box_box_distance(box2: Box) -> float
@@ -302,7 +302,7 @@ Returns:
 
 <a id="unreal.Box.find_closest_point_on_box"></a>
 
-#### find_closest_point_on_box
+#### find\_closest\_point\_on\_box
 
 ```python
 def find_closest_point_on_box(point: Vector) -> Tuple[Vector, bool]
@@ -322,7 +322,7 @@ Returns:
 
 <a id="unreal.Box.find_box_box_intersection"></a>
 
-#### find_box_box_intersection
+#### find\_box\_box\_intersection
 
 ```python
 def find_box_box_intersection(box2: Box) -> Tuple[Box, bool]

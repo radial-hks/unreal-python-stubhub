@@ -23,7 +23,7 @@ Stereo Layer Shape Equirect
 
 <a id="unreal.StereoLayerShapeEquirect.left_uv_rect"></a>
 
-#### left_uv_rect
+#### left\_uv\_rect
 
 ```python
 @property
@@ -34,7 +34,7 @@ def left_uv_rect() -> Box2D
 
 <a id="unreal.StereoLayerShapeEquirect.right_uv_rect"></a>
 
-#### right_uv_rect
+#### right\_uv\_rect
 
 ```python
 @property
@@ -45,7 +45,7 @@ def right_uv_rect() -> Box2D
 
 <a id="unreal.StereoLayerShapeEquirect.left_scale"></a>
 
-#### left_scale
+#### left\_scale
 
 ```python
 @property
@@ -56,7 +56,7 @@ def left_scale() -> Vector2D
 
 <a id="unreal.StereoLayerShapeEquirect.right_scale"></a>
 
-#### right_scale
+#### right\_scale
 
 ```python
 @property
@@ -67,7 +67,7 @@ def right_scale() -> Vector2D
 
 <a id="unreal.StereoLayerShapeEquirect.left_bias"></a>
 
-#### left_bias
+#### left\_bias
 
 ```python
 @property
@@ -78,7 +78,7 @@ def left_bias() -> Vector2D
 
 <a id="unreal.StereoLayerShapeEquirect.right_bias"></a>
 
-#### right_bias
+#### right\_bias
 
 ```python
 @property
@@ -100,7 +100,7 @@ def radius() -> float
 
 <a id="unreal.StereoLayerShapeEquirect.set_equirect_props"></a>
 
-#### set_equirect_props
+#### set\_equirect\_props
 
 ```python
 def set_equirect_props(scale_biases: EquirectProps) -> None

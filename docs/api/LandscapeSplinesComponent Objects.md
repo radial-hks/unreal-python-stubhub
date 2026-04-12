@@ -190,7 +190,7 @@ ULandscapeSplinesComponent
 
 <a id="unreal.LandscapeSplinesComponent.get_spline_mesh_components"></a>
 
-#### get_spline_mesh_components
+#### get\_spline\_mesh\_components
 
 ```python
 def get_spline_mesh_components() -> Array[SplineMeshComponent]

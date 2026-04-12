@@ -29,7 +29,7 @@ PBIKSolver Settings
 
 <a id="unreal.PBIKSolverSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(iterations: int = 0,
@@ -68,7 +68,7 @@ def iterations(value: int) -> None
 
 <a id="unreal.PBIKSolverSettings.sub_iterations"></a>
 
-#### sub_iterations
+#### sub\_iterations
 
 ```python
 @property
@@ -79,7 +79,7 @@ def sub_iterations() -> int
 
 <a id="unreal.PBIKSolverSettings.sub_iterations"></a>
 
-#### sub_iterations
+#### sub\_iterations
 
 ```python
 @sub_iterations.setter
@@ -88,7 +88,7 @@ def sub_iterations(value: int) -> None
 
 <a id="unreal.PBIKSolverSettings.mass_multiplier"></a>
 
-#### mass_multiplier
+#### mass\_multiplier
 
 ```python
 @property
@@ -99,7 +99,7 @@ def mass_multiplier() -> float
 
 <a id="unreal.PBIKSolverSettings.mass_multiplier"></a>
 
-#### mass_multiplier
+#### mass\_multiplier
 
 ```python
 @mass_multiplier.setter
@@ -108,7 +108,7 @@ def mass_multiplier(value: float) -> None
 
 <a id="unreal.PBIKSolverSettings.allow_stretch"></a>
 
-#### allow_stretch
+#### allow\_stretch
 
 ```python
 @property
@@ -119,7 +119,7 @@ def allow_stretch() -> bool
 
 <a id="unreal.PBIKSolverSettings.allow_stretch"></a>
 
-#### allow_stretch
+#### allow\_stretch
 
 ```python
 @allow_stretch.setter
@@ -128,7 +128,7 @@ def allow_stretch(value: bool) -> None
 
 <a id="unreal.PBIKSolverSettings.root_behavior"></a>
 
-#### root_behavior
+#### root\_behavior
 
 ```python
 @property
@@ -142,7 +142,7 @@ Free: treats the root bone like any other and allows it to move freely or accord
 
 <a id="unreal.PBIKSolverSettings.root_behavior"></a>
 
-#### root_behavior
+#### root\_behavior
 
 ```python
 @root_behavior.setter
@@ -151,7 +151,7 @@ def root_behavior(value: PBIKRootBehavior) -> None
 
 <a id="unreal.PBIKSolverSettings.pre_pull_root_settings"></a>
 
-#### pre_pull_root_settings
+#### pre\_pull\_root\_settings
 
 ```python
 @property
@@ -162,7 +162,7 @@ def pre_pull_root_settings() -> RootPrePullSettings
 
 <a id="unreal.PBIKSolverSettings.pre_pull_root_settings"></a>
 
-#### pre_pull_root_settings
+#### pre\_pull\_root\_settings
 
 ```python
 @pre_pull_root_settings.setter
@@ -171,7 +171,7 @@ def pre_pull_root_settings(value: RootPrePullSettings) -> None
 
 <a id="unreal.PBIKSolverSettings.global_pull_chain_alpha"></a>
 
-#### global_pull_chain_alpha
+#### global\_pull\_chain\_alpha
 
 ```python
 @property
@@ -182,7 +182,7 @@ def global_pull_chain_alpha() -> float
 
 <a id="unreal.PBIKSolverSettings.global_pull_chain_alpha"></a>
 
-#### global_pull_chain_alpha
+#### global\_pull\_chain\_alpha
 
 ```python
 @global_pull_chain_alpha.setter
@@ -191,7 +191,7 @@ def global_pull_chain_alpha(value: float) -> None
 
 <a id="unreal.PBIKSolverSettings.max_angle"></a>
 
-#### max_angle
+#### max\_angle
 
 ```python
 @property
@@ -202,7 +202,7 @@ def max_angle() -> float
 
 <a id="unreal.PBIKSolverSettings.max_angle"></a>
 
-#### max_angle
+#### max\_angle
 
 ```python
 @max_angle.setter
@@ -211,7 +211,7 @@ def max_angle(value: float) -> None
 
 <a id="unreal.PBIKSolverSettings.over_relaxation"></a>
 
-#### over_relaxation
+#### over\_relaxation
 
 ```python
 @property
@@ -222,7 +222,7 @@ def over_relaxation() -> float
 
 <a id="unreal.PBIKSolverSettings.over_relaxation"></a>
 
-#### over_relaxation
+#### over\_relaxation
 
 ```python
 @over_relaxation.setter

@@ -18,7 +18,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.RandomStream.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(initial_seed: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(initial_seed: int = 0) -> None
 
 <a id="unreal.RandomStream.initial_seed"></a>
 
-#### initial_seed
+#### initial\_seed
 
 ```python
 @property
@@ -37,7 +37,7 @@ def initial_seed() -> int
 
 <a id="unreal.RandomStream.initial_seed"></a>
 
-#### initial_seed
+#### initial\_seed
 
 ```python
 @initial_seed.setter
@@ -46,7 +46,7 @@ def initial_seed(value: int) -> None
 
 <a id="unreal.RandomStream.set_seed"></a>
 
-#### set_seed
+#### set\_seed
 
 ```python
 def set_seed(new_seed: int) -> None
@@ -60,7 +60,7 @@ Args:
 
 <a id="unreal.RandomStream.generate_new_seed"></a>
 
-#### generate_new_seed
+#### generate\_new\_seed
 
 ```python
 def generate_new_seed() -> None
@@ -82,7 +82,7 @@ Reset a random stream
 
 <a id="unreal.RandomStream.random_unit_vector_in_elliptical_cone_in_radians"></a>
 
-#### random_unit_vector_in_elliptical_cone_in_radians
+#### random\_unit\_vector\_in\_elliptical\_cone\_in\_radians
 
 ```python
 def random_unit_vector_in_elliptical_cone_in_radians(
@@ -104,7 +104,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_unit_vector_in_elliptical_cone_in_degrees"></a>
 
-#### random_unit_vector_in_elliptical_cone_in_degrees
+#### random\_unit\_vector\_in\_elliptical\_cone\_in\_degrees
 
 ```python
 def random_unit_vector_in_elliptical_cone_in_degrees(
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_unit_vector_in_cone_in_radians"></a>
 
-#### random_unit_vector_in_cone_in_radians
+#### random\_unit\_vector\_in\_cone\_in\_radians
 
 ```python
 def random_unit_vector_in_cone_in_radians(
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_unit_vector_in_cone_in_degrees"></a>
 
-#### random_unit_vector_in_cone_in_degrees
+#### random\_unit\_vector\_in\_cone\_in\_degrees
 
 ```python
 def random_unit_vector_in_cone_in_degrees(
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_unit_vector"></a>
 
-#### random_unit_vector
+#### random\_unit\_vector
 
 ```python
 def random_unit_vector() -> Vector
@@ -178,7 +178,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_rotator"></a>
 
-#### random_rotator
+#### random\_rotator
 
 ```python
 def random_rotator(roll: bool) -> Rotator
@@ -195,7 +195,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_point_in_box"></a>
 
-#### random_point_in_box
+#### random\_point\_in\_box
 
 ```python
 def random_point_in_box(box: Box) -> Vector
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_point_in_bounded_box"></a>
 
-#### random_point_in_bounded_box
+#### random\_point\_in\_bounded\_box
 
 ```python
 def random_point_in_bounded_box(center: Vector, half_size: Vector) -> Vector
@@ -230,7 +230,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_int_in_range"></a>
 
-#### random_int_in_range
+#### random\_int\_in\_range
 
 ```python
 def random_int_in_range(min: int, max: int) -> int
@@ -248,7 +248,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_int"></a>
 
-#### random_int
+#### random\_int
 
 ```python
 def random_int(max: int) -> int
@@ -265,7 +265,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_float_in_range"></a>
 
-#### random_float_in_range
+#### random\_float\_in\_range
 
 ```python
 def random_float_in_range(min: float, max: float) -> float
@@ -283,7 +283,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_float"></a>
 
-#### random_float
+#### random\_float
 
 ```python
 def random_float() -> float
@@ -297,7 +297,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_bool_with_weight"></a>
 
-#### random_bool_with_weight
+#### random\_bool\_with\_weight
 
 ```python
 def random_bool_with_weight(weight: float = 0.500000) -> bool
@@ -315,7 +315,7 @@ Returns:
 
 <a id="unreal.RandomStream.random_bool"></a>
 
-#### random_bool
+#### random\_bool
 
 ```python
 def random_bool() -> bool

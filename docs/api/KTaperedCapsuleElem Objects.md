@@ -31,7 +31,7 @@ Capsule shape used for collision. Z axis is capsule axis. Has a start and end ra
 
 <a id="unreal.KTaperedCapsuleElem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

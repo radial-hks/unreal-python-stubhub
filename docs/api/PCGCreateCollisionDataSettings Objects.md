@@ -37,7 +37,7 @@ PCGCreate Collision Data Settings
 
 <a id="unreal.PCGCreateCollisionDataSettings.collision_attribute"></a>
 
-#### collision_attribute
+#### collision\_attribute
 
 ```python
 @property
@@ -48,7 +48,7 @@ def collision_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGCreateCollisionDataSettings.collision_attribute"></a>
 
-#### collision_attribute
+#### collision\_attribute
 
 ```python
 @collision_attribute.setter
@@ -57,7 +57,7 @@ def collision_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGCreateCollisionDataSettings.collision_query_flag"></a>
 
-#### collision_query_flag
+#### collision\_query\_flag
 
 ```python
 @property
@@ -68,7 +68,7 @@ def collision_query_flag() -> PCGCollisionQueryFlag
 
 <a id="unreal.PCGCreateCollisionDataSettings.collision_query_flag"></a>
 
-#### collision_query_flag
+#### collision\_query\_flag
 
 ```python
 @collision_query_flag.setter
@@ -77,7 +77,7 @@ def collision_query_flag(value: PCGCollisionQueryFlag) -> None
 
 <a id="unreal.PCGCreateCollisionDataSettings.warn_if_attribute_could_not_be_used"></a>
 
-#### warn_if_attribute_could_not_be_used
+#### warn\_if\_attribute\_could\_not\_be\_used
 
 ```python
 @property
@@ -88,7 +88,7 @@ def warn_if_attribute_could_not_be_used() -> bool
 
 <a id="unreal.PCGCreateCollisionDataSettings.warn_if_attribute_could_not_be_used"></a>
 
-#### warn_if_attribute_could_not_be_used
+#### warn\_if\_attribute\_could\_not\_be\_used
 
 ```python
 @warn_if_attribute_could_not_be_used.setter
@@ -97,7 +97,7 @@ def warn_if_attribute_could_not_be_used(value: bool) -> None
 
 <a id="unreal.PCGCreateCollisionDataSettings.synchronous_load"></a>
 
-#### synchronous_load
+#### synchronous\_load
 
 ```python
 @property
@@ -108,7 +108,7 @@ def synchronous_load() -> bool
 
 <a id="unreal.PCGCreateCollisionDataSettings.synchronous_load"></a>
 
-#### synchronous_load
+#### synchronous\_load
 
 ```python
 @synchronous_load.setter

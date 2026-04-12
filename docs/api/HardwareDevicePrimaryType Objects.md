@@ -20,7 +20,7 @@ Each hardware device can only be one primary type.
 
 <a id="unreal.HardwareDevicePrimaryType.KEYBOARD_AND_MOUSE"></a>
 
-#### KEYBOARD_AND_MOUSE
+#### KEYBOARD\_AND\_MOUSE
 
 1
 
@@ -38,19 +38,19 @@ Each hardware device can only be one primary type.
 
 <a id="unreal.HardwareDevicePrimaryType.MOTION_TRACKING"></a>
 
-#### MOTION_TRACKING
+#### MOTION\_TRACKING
 
 4
 
 <a id="unreal.HardwareDevicePrimaryType.RACING_WHEEL"></a>
 
-#### RACING_WHEEL
+#### RACING\_WHEEL
 
 5
 
 <a id="unreal.HardwareDevicePrimaryType.FLIGHT_STICK"></a>
 
-#### FLIGHT_STICK
+#### FLIGHT\_STICK
 
 6
 
@@ -68,25 +68,25 @@ Each hardware device can only be one primary type.
 
 <a id="unreal.HardwareDevicePrimaryType.CUSTOM_TYPE_A"></a>
 
-#### CUSTOM_TYPE_A
+#### CUSTOM\_TYPE\_A
 
 9: Some custom devices that can be used for your game specific hardware if desired
 
 <a id="unreal.HardwareDevicePrimaryType.CUSTOM_TYPE_B"></a>
 
-#### CUSTOM_TYPE_B
+#### CUSTOM\_TYPE\_B
 
 10
 
 <a id="unreal.HardwareDevicePrimaryType.CUSTOM_TYPE_C"></a>
 
-#### CUSTOM_TYPE_C
+#### CUSTOM\_TYPE\_C
 
 11
 
 <a id="unreal.HardwareDevicePrimaryType.CUSTOM_TYPE_D"></a>
 
-#### CUSTOM_TYPE_D
+#### CUSTOM\_TYPE\_D
 
 12
 

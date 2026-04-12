@@ -143,7 +143,7 @@ GeometryCache actor, serves as a place-able actor for GeometryCache objects
 
 <a id="unreal.GeometryCacheActor.geometry_cache_component"></a>
 
-#### geometry_cache_component
+#### geometry\_cache\_component
 
 ```python
 @property
@@ -154,7 +154,7 @@ def geometry_cache_component() -> GeometryCacheComponent
 
 <a id="unreal.GeometryCacheActor.get_geometry_cache_component"></a>
 
-#### get_geometry_cache_component
+#### get\_geometry\_cache\_component
 
 ```python
 def get_geometry_cache_component() -> GeometryCacheComponent

@@ -22,7 +22,7 @@ Rig Reference Element
 
 <a id="unreal.RigReferenceElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: RigElementKey = [RigElementType.NONE, "None"],

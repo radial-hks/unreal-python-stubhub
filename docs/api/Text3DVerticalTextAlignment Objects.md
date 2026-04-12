@@ -14,7 +14,7 @@ EText 3DVertical Text Alignment
 
 <a id="unreal.Text3DVerticalTextAlignment.FIRST_LINE"></a>
 
-#### FIRST_LINE
+#### FIRST\_LINE
 
 0
 
@@ -36,4 +36,4 @@ EText 3DVertical Text Alignment
 
 3
 
-<a id="unreal.AvaGradientDirection"></a>
+<a id="unreal.Text3DMaxWidthHandling"></a>

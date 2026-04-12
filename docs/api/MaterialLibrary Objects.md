@@ -13,7 +13,7 @@ Kismet Material Library
 
 <a id="unreal.MaterialLibrary.set_vector_parameter_value"></a>
 
-#### set_vector_parameter_value
+#### set\_vector\_parameter\_value
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Args:
 
 <a id="unreal.MaterialLibrary.set_scalar_parameter_value"></a>
 
-#### set_scalar_parameter_value
+#### set\_scalar\_parameter\_value
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ Args:
 
 <a id="unreal.MaterialLibrary.get_vector_parameter_value"></a>
 
-#### get_vector_parameter_value
+#### get\_vector\_parameter\_value
 
 ```python
 @classmethod
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.MaterialLibrary.get_scalar_parameter_value"></a>
 
-#### get_scalar_parameter_value
+#### get\_scalar\_parameter\_value
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.MaterialLibrary.create_dynamic_material_instance"></a>
 
-#### create_dynamic_material_instance
+#### create\_dynamic\_material\_instance
 
 ```python
 @classmethod
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.MaterialLibrary.create_material_instance_dynamic"></a>
 
-#### create_material_instance_dynamic
+#### create\_material\_instance\_dynamic
 
 ```python
 @classmethod

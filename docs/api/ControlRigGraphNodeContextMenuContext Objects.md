@@ -20,7 +20,7 @@ Control Rig Graph Node Context Menu Context
 
 <a id="unreal.ControlRigGraphNodeContextMenuContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(graph: RigVMGraph = None,

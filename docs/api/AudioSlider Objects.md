@@ -65,7 +65,7 @@ An audio slider widget with customizable curves.
 
 <a id="unreal.AudioSlider.lin_to_output_curve"></a>
 
-#### lin_to_output_curve
+#### lin\_to\_output\_curve
 
 ```python
 @property
@@ -76,7 +76,7 @@ def lin_to_output_curve() -> CurveFloat
 
 <a id="unreal.AudioSlider.lin_to_output_curve"></a>
 
-#### lin_to_output_curve
+#### lin\_to\_output\_curve
 
 ```python
 @lin_to_output_curve.setter
@@ -85,7 +85,7 @@ def lin_to_output_curve(value: CurveFloat) -> None
 
 <a id="unreal.AudioSlider.output_to_lin_curve"></a>
 
-#### output_to_lin_curve
+#### output\_to\_lin\_curve
 
 ```python
 @property
@@ -96,7 +96,7 @@ def output_to_lin_curve() -> CurveFloat
 
 <a id="unreal.AudioSlider.output_to_lin_curve"></a>
 
-#### output_to_lin_curve
+#### output\_to\_lin\_curve
 
 ```python
 @output_to_lin_curve.setter

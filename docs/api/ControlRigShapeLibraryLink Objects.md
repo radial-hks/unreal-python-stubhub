@@ -19,7 +19,7 @@ Namespaced user data which provides access to a linked shape library
 
 <a id="unreal.ControlRigShapeLibraryLink.shape_library"></a>
 
-#### shape_library
+#### shape\_library
 
 ```python
 @property
@@ -30,7 +30,7 @@ def shape_library() -> ControlRigShapeLibrary
 
 <a id="unreal.ControlRigShapeLibraryLink.shape_library"></a>
 
-#### shape_library
+#### shape\_library
 
 ```python
 @shape_library.setter

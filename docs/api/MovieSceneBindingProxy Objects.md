@@ -20,7 +20,7 @@ managing multiple bindings with their corresponding sequences is necessary.
 
 <a id="unreal.MovieSceneBindingProxy.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(binding_id: Guid = [],
@@ -29,7 +29,7 @@ def __init__(binding_id: Guid = [],
 
 <a id="unreal.MovieSceneBindingProxy.binding_id"></a>
 
-#### binding_id
+#### binding\_id
 
 ```python
 @property
@@ -51,7 +51,7 @@ def sequence() -> MovieSceneSequence
 
 <a id="unreal.MovieSceneBindingProxy.set_spawnable_binding_id"></a>
 
-#### set_spawnable_binding_id
+#### set\_spawnable\_binding\_id
 
 ```python
 def set_spawnable_binding_id(
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingProxy.set_sorting_order"></a>
 
-#### set_sorting_order
+#### set\_sorting\_order
 
 ```python
 def set_sorting_order(sorting_order: int) -> None
@@ -80,7 +80,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingProxy.set_parent"></a>
 
-#### set_parent
+#### set\_parent
 
 ```python
 def set_parent(parent_binding: MovieSceneBindingProxy) -> None
@@ -94,7 +94,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingProxy.set_name"></a>
 
-#### set_name
+#### set\_name
 
 ```python
 def set_name(name: str) -> None
@@ -108,7 +108,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingProxy.set_display_name"></a>
 
-#### set_display_name
+#### set\_display\_name
 
 ```python
 def set_display_name(display_name: Text) -> None
@@ -122,7 +122,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingProxy.remove_track"></a>
 
-#### remove_track
+#### remove\_track
 
 ```python
 def remove_track(track_to_remove: MovieSceneTrack) -> None
@@ -147,7 +147,7 @@ Remove the specified binding
 
 <a id="unreal.MovieSceneBindingProxy.move_binding_contents"></a>
 
-#### move_binding_contents
+#### move\_binding\_contents
 
 ```python
 def move_binding_contents(
@@ -162,7 +162,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingProxy.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_tracks"></a>
 
-#### get_tracks
+#### get\_tracks
 
 ```python
 def get_tracks() -> Array[MovieSceneTrack]
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_sorting_order"></a>
 
-#### get_sorting_order
+#### get\_sorting\_order
 
 ```python
 def get_sorting_order() -> int
@@ -204,7 +204,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_possessed_object_class"></a>
 
-#### get_possessed_object_class
+#### get\_possessed\_object\_class
 
 ```python
 def get_possessed_object_class() -> Class
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_parent"></a>
 
-#### get_parent
+#### get\_parent
 
 ```python
 def get_parent() -> MovieSceneBindingProxy
@@ -232,7 +232,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_object_template"></a>
 
-#### get_object_template
+#### get\_object\_template
 
 ```python
 def get_object_template() -> Object
@@ -246,7 +246,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_name"></a>
 
-#### get_name
+#### get\_name
 
 ```python
 def get_name() -> str
@@ -260,7 +260,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_id"></a>
 
-#### get_id
+#### get\_id
 
 ```python
 def get_id() -> Guid
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 def get_display_name() -> Text
@@ -288,7 +288,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.get_child_possessables"></a>
 
-#### get_child_possessables
+#### get\_child\_possessables
 
 ```python
 def get_child_possessables() -> Array[MovieSceneBindingProxy]
@@ -302,7 +302,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.find_tracks_by_type"></a>
 
-#### find_tracks_by_type
+#### find\_tracks\_by\_type
 
 ```python
 def find_tracks_by_type(track_type: Class) -> Array[MovieSceneTrack]
@@ -319,7 +319,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.find_tracks_by_exact_type"></a>
 
-#### find_tracks_by_exact_type
+#### find\_tracks\_by\_exact\_type
 
 ```python
 def find_tracks_by_exact_type(track_type: Class) -> Array[MovieSceneTrack]
@@ -336,7 +336,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingProxy.add_track"></a>
 
-#### add_track
+#### add\_track
 
 ```python
 def add_track(track_type: Class) -> MovieSceneTrack

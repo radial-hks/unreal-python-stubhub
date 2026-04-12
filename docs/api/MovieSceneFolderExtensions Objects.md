@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto UMovieSceneFolde
 
 <a id="unreal.MovieSceneFolderExtensions.set_folder_name"></a>
 
-#### set_folder_name
+#### set\_folder\_name
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.set_folder_color"></a>
 
-#### set_folder_color
+#### set\_folder\_color
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.remove_child_track"></a>
 
-#### remove_child_track
+#### remove\_child\_track
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.remove_child_object_binding"></a>
 
-#### remove_child_object_binding
+#### remove\_child\_object\_binding
 
 ```python
 @classmethod
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.remove_child_folder"></a>
 
-#### remove_child_folder
+#### remove\_child\_folder
 
 ```python
 @classmethod
@@ -114,7 +114,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.get_folder_name"></a>
 
-#### get_folder_name
+#### get\_folder\_name
 
 ```python
 @classmethod
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.get_folder_color"></a>
 
-#### get_folder_color
+#### get\_folder\_color
 
 ```python
 @classmethod
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.get_child_tracks"></a>
 
-#### get_child_tracks
+#### get\_child\_tracks
 
 ```python
 @classmethod
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.get_child_object_bindings"></a>
 
-#### get_child_object_bindings
+#### get\_child\_object\_bindings
 
 ```python
 @classmethod
@@ -187,7 +187,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.get_child_folders"></a>
 
-#### get_child_folders
+#### get\_child\_folders
 
 ```python
 @classmethod
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.add_child_track"></a>
 
-#### add_child_track
+#### add\_child\_track
 
 ```python
 @classmethod
@@ -226,7 +226,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.add_child_object_binding"></a>
 
-#### add_child_object_binding
+#### add\_child\_object\_binding
 
 ```python
 @classmethod
@@ -246,7 +246,7 @@ Returns:
 
 <a id="unreal.MovieSceneFolderExtensions.add_child_folder"></a>
 
-#### add_child_folder
+#### add\_child\_folder
 
 ```python
 @classmethod

@@ -15,7 +15,7 @@ or to ask them to make simple Yes/No/Retry/Cancel type decisions.
 
 <a id="unreal.EditorDialog.show_suppressable_warning_dialog"></a>
 
-#### show_suppressable_warning_dialog
+#### show\_suppressable\_warning\_dialog
 
 ```python
 @classmethod
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.EditorDialog.show_objects_details_view"></a>
 
-#### show_objects_details_view
+#### show\_objects\_details\_view
 
 ```python
 @classmethod
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.EditorDialog.show_object_details_view"></a>
 
-#### show_object_details_view
+#### show\_object\_details\_view
 
 ```python
 @classmethod
@@ -96,7 +96,7 @@ Returns:
 
 <a id="unreal.EditorDialog.show_message"></a>
 
-#### show_message
+#### show\_message
 
 ```python
 @classmethod

@@ -20,7 +20,7 @@ Meta-data is retrieved through ULevelSequence::FindMetaData<ULevelSequenceMetaDa
 
 <a id="unreal.MovieSceneMetaData.set_notes"></a>
 
-#### set_notes
+#### set\_notes
 
 ```python
 def set_notes(notes: str) -> None
@@ -34,7 +34,7 @@ Args:
 
 <a id="unreal.MovieSceneMetaData.set_created"></a>
 
-#### set_created
+#### set\_created
 
 ```python
 def set_created(created: DateTime) -> None
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.MovieSceneMetaData.set_author"></a>
 
-#### set_author
+#### set\_author
 
 ```python
 def set_author(author: str) -> None
@@ -62,7 +62,7 @@ Args:
 
 <a id="unreal.MovieSceneMetaData.get_notes"></a>
 
-#### get_notes
+#### get\_notes
 
 ```python
 def get_notes() -> str
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.MovieSceneMetaData.get_created"></a>
 
-#### get_created
+#### get\_created
 
 ```python
 def get_created() -> DateTime
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.MovieSceneMetaData.get_author"></a>
 
-#### get_author
+#### get\_author
 
 ```python
 def get_author() -> str

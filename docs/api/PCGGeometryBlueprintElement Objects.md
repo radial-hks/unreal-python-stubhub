@@ -41,7 +41,7 @@ removes all the boilerplate when in a simple input->output case.
 
 <a id="unreal.PCGGeometryBlueprintElement.process_dynamic_mesh"></a>
 
-#### process_dynamic_mesh
+#### process\_dynamic\_mesh
 
 ```python
 def process_dynamic_mesh(dyn_mesh: DynamicMesh) -> Array[str]
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.PCGGeometryBlueprintElement.copy_or_steal_input_data"></a>
 
-#### copy_or_steal_input_data
+#### copy\_or\_steal\_input\_data
 
 ```python
 def copy_or_steal_input_data(tagged_data: PCGTaggedData) -> PCGDynamicMeshData

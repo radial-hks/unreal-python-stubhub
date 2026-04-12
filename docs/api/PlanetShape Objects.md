@@ -14,14 +14,14 @@ EPlanet Shape
 
 <a id="unreal.PlanetShape.FLAT_PLANET"></a>
 
-#### FLAT_PLANET
+#### FLAT\_PLANET
 
 0: The world geometry coordinates are expressed in a projected space such as a Mercator projection.
 In this mode, Planet curvature is not considered and you might face errors related to projection on large environments
 
 <a id="unreal.PlanetShape.ROUND_PLANET"></a>
 
-#### ROUND_PLANET
+#### ROUND\_PLANET
 
 1: The world geometry coordinates are expressed in a planet wide Cartesian frame,
 placed on a specific location or at earth, or at the planet center.

@@ -38,7 +38,7 @@ Chosen/Discarded entries will be in the same order than they appear in the input
 
 <a id="unreal.PCGRandomChoiceSettings.fixed_mode"></a>
 
-#### fixed_mode
+#### fixed\_mode
 
 ```python
 @property
@@ -49,7 +49,7 @@ def fixed_mode() -> bool
 
 <a id="unreal.PCGRandomChoiceSettings.fixed_mode"></a>
 
-#### fixed_mode
+#### fixed\_mode
 
 ```python
 @fixed_mode.setter
@@ -58,7 +58,7 @@ def fixed_mode(value: bool) -> None
 
 <a id="unreal.PCGRandomChoiceSettings.fixed_number"></a>
 
-#### fixed_number
+#### fixed\_number
 
 ```python
 @property
@@ -69,7 +69,7 @@ def fixed_number() -> int
 
 <a id="unreal.PCGRandomChoiceSettings.fixed_number"></a>
 
-#### fixed_number
+#### fixed\_number
 
 ```python
 @fixed_number.setter
@@ -98,7 +98,7 @@ def ratio(value: float) -> None
 
 <a id="unreal.PCGRandomChoiceSettings.output_discarded_entries"></a>
 
-#### output_discarded_entries
+#### output\_discarded\_entries
 
 ```python
 @property
@@ -109,7 +109,7 @@ def output_discarded_entries() -> bool
 
 <a id="unreal.PCGRandomChoiceSettings.output_discarded_entries"></a>
 
-#### output_discarded_entries
+#### output\_discarded\_entries
 
 ```python
 @output_discarded_entries.setter
@@ -118,7 +118,7 @@ def output_discarded_entries(value: bool) -> None
 
 <a id="unreal.PCGRandomChoiceSettings.b_output_discarded_points"></a>
 
-#### b_output_discarded_points
+#### b\_output\_discarded\_points
 
 ```python
 @property
@@ -129,7 +129,7 @@ deprecated: 'b_output_discarded_points' was renamed to 'output_discarded_entries
 
 <a id="unreal.PCGRandomChoiceSettings.b_output_discarded_points"></a>
 
-#### b_output_discarded_points
+#### b\_output\_discarded\_points
 
 ```python
 @b_output_discarded_points.setter

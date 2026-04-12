@@ -32,7 +32,7 @@ XRMotion Controller Data
 
 <a id="unreal.XRMotionControllerData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(valid: bool = False,
@@ -66,7 +66,7 @@ def valid() -> bool
 
 <a id="unreal.XRMotionControllerData.device_name"></a>
 
-#### device_name
+#### device\_name
 
 ```python
 @property
@@ -77,7 +77,7 @@ def device_name() -> Name
 
 <a id="unreal.XRMotionControllerData.application_instance_id"></a>
 
-#### application_instance_id
+#### application\_instance\_id
 
 ```python
 @property
@@ -88,7 +88,7 @@ def application_instance_id() -> Guid
 
 <a id="unreal.XRMotionControllerData.device_visual_type"></a>
 
-#### device_visual_type
+#### device\_visual\_type
 
 ```python
 @property
@@ -99,7 +99,7 @@ def device_visual_type() -> XRVisualType
 
 <a id="unreal.XRMotionControllerData.hand_index"></a>
 
-#### hand_index
+#### hand\_index
 
 ```python
 @property
@@ -110,7 +110,7 @@ def hand_index() -> ControllerHand
 
 <a id="unreal.XRMotionControllerData.tracking_status"></a>
 
-#### tracking_status
+#### tracking\_status
 
 ```python
 @property
@@ -121,7 +121,7 @@ def tracking_status() -> TrackingStatus
 
 <a id="unreal.XRMotionControllerData.grip_position"></a>
 
-#### grip_position
+#### grip\_position
 
 ```python
 @property
@@ -132,7 +132,7 @@ def grip_position() -> Vector
 
 <a id="unreal.XRMotionControllerData.grip_rotation"></a>
 
-#### grip_rotation
+#### grip\_rotation
 
 ```python
 @property
@@ -143,7 +143,7 @@ def grip_rotation() -> Quat
 
 <a id="unreal.XRMotionControllerData.aim_position"></a>
 
-#### aim_position
+#### aim\_position
 
 ```python
 @property
@@ -154,7 +154,7 @@ def aim_position() -> Vector
 
 <a id="unreal.XRMotionControllerData.aim_rotation"></a>
 
-#### aim_rotation
+#### aim\_rotation
 
 ```python
 @property
@@ -165,7 +165,7 @@ def aim_rotation() -> Quat
 
 <a id="unreal.XRMotionControllerData.palm_position"></a>
 
-#### palm_position
+#### palm\_position
 
 ```python
 @property
@@ -176,7 +176,7 @@ def palm_position() -> Vector
 
 <a id="unreal.XRMotionControllerData.palm_rotation"></a>
 
-#### palm_rotation
+#### palm\_rotation
 
 ```python
 @property
@@ -187,7 +187,7 @@ def palm_rotation() -> Quat
 
 <a id="unreal.XRMotionControllerData.hand_key_positions"></a>
 
-#### hand_key_positions
+#### hand\_key\_positions
 
 ```python
 @property
@@ -198,7 +198,7 @@ def hand_key_positions() -> Array[Vector]
 
 <a id="unreal.XRMotionControllerData.hand_key_rotations"></a>
 
-#### hand_key_rotations
+#### hand\_key\_rotations
 
 ```python
 @property
@@ -209,7 +209,7 @@ def hand_key_rotations() -> Array[Quat]
 
 <a id="unreal.XRMotionControllerData.hand_key_radii"></a>
 
-#### hand_key_radii
+#### hand\_key\_radii
 
 ```python
 @property
@@ -220,7 +220,7 @@ def hand_key_radii() -> Array[float]
 
 <a id="unreal.XRMotionControllerData.is_grasped"></a>
 
-#### is_grasped
+#### is\_grasped
 
 ```python
 @property

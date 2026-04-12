@@ -13,7 +13,7 @@ Foliage Statistics
 
 <a id="unreal.FoliageStatistics.foliage_overlapping_sphere_count"></a>
 
-#### foliage_overlapping_sphere_count
+#### foliage\_overlapping\_sphere\_count
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.FoliageStatistics.foliage_overlapping_box_transforms"></a>
 
-#### foliage_overlapping_box_transforms
+#### foliage\_overlapping\_box\_transforms
 
 ```python
 @classmethod
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.FoliageStatistics.foliage_overlapping_box_count"></a>
 
-#### foliage_overlapping_box_count
+#### foliage\_overlapping\_box\_count
 
 ```python
 @classmethod

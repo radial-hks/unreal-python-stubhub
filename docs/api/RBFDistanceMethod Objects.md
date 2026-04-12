@@ -25,19 +25,19 @@ Method for determining distance from input to targets
 
 <a id="unreal.RBFDistanceMethod.SWING_ANGLE"></a>
 
-#### SWING_ANGLE
+#### SWING\_ANGLE
 
 2: Treat inputs as quaternion, and find distance between rotated TwistAxis direction
 
 <a id="unreal.RBFDistanceMethod.TWIST_ANGLE"></a>
 
-#### TWIST_ANGLE
+#### TWIST\_ANGLE
 
 3: Treat inputs as quaternion, and find distance between rotations around the TwistAxis direction
 
 <a id="unreal.RBFDistanceMethod.DEFAULT_METHOD"></a>
 
-#### DEFAULT_METHOD
+#### DEFAULT\_METHOD
 
 4: Uses the setting of the parent container
 

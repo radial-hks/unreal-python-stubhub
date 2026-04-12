@@ -52,7 +52,7 @@ def sound(value: SoundBase) -> None
 
 <a id="unreal.MovieSceneAudioSection.set_suppress_subtitles"></a>
 
-#### set_suppress_subtitles
+#### set\_suppress\_subtitles
 
 ```python
 def set_suppress_subtitles(suppress_subtitles: bool) -> None
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.MovieSceneAudioSection.set_start_offset"></a>
 
-#### set_start_offset
+#### set\_start\_offset
 
 ```python
 def set_start_offset(start_offset: FrameNumber) -> None
@@ -80,7 +80,7 @@ Args:
 
 <a id="unreal.MovieSceneAudioSection.set_sound"></a>
 
-#### set_sound
+#### set\_sound
 
 ```python
 def set_sound(sound: SoundBase) -> None
@@ -94,7 +94,7 @@ Args:
 
 <a id="unreal.MovieSceneAudioSection.set_override_attenuation"></a>
 
-#### set_override_attenuation
+#### set\_override\_attenuation
 
 ```python
 def set_override_attenuation(override_attenuation: bool) -> None
@@ -108,7 +108,7 @@ Args:
 
 <a id="unreal.MovieSceneAudioSection.set_looping"></a>
 
-#### set_looping
+#### set\_looping
 
 ```python
 def set_looping(looping: bool) -> None
@@ -122,7 +122,7 @@ Args:
 
 <a id="unreal.MovieSceneAudioSection.set_attenuation_settings"></a>
 
-#### set_attenuation_settings
+#### set\_attenuation\_settings
 
 ```python
 def set_attenuation_settings(attenuation_settings: SoundAttenuation) -> None
@@ -136,7 +136,7 @@ Args:
 
 <a id="unreal.MovieSceneAudioSection.get_suppress_subtitles"></a>
 
-#### get_suppress_subtitles
+#### get\_suppress\_subtitles
 
 ```python
 def get_suppress_subtitles() -> bool
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.MovieSceneAudioSection.get_start_offset"></a>
 
-#### get_start_offset
+#### get\_start\_offset
 
 ```python
 def get_start_offset() -> FrameNumber
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.MovieSceneAudioSection.get_sound"></a>
 
-#### get_sound
+#### get\_sound
 
 ```python
 def get_sound() -> SoundBase
@@ -178,7 +178,7 @@ Returns:
 
 <a id="unreal.MovieSceneAudioSection.get_override_attenuation"></a>
 
-#### get_override_attenuation
+#### get\_override\_attenuation
 
 ```python
 def get_override_attenuation() -> bool
@@ -192,7 +192,7 @@ Returns:
 
 <a id="unreal.MovieSceneAudioSection.get_looping"></a>
 
-#### get_looping
+#### get\_looping
 
 ```python
 def get_looping() -> bool
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.MovieSceneAudioSection.get_attenuation_settings"></a>
 
-#### get_attenuation_settings
+#### get\_attenuation\_settings
 
 ```python
 def get_attenuation_settings() -> SoundAttenuation

@@ -35,7 +35,7 @@ Filters an input collection based on data type.
 
 <a id="unreal.PCGFilterByTypeSettings.target_type"></a>
 
-#### target_type
+#### target\_type
 
 ```python
 @property
@@ -46,7 +46,7 @@ def target_type() -> PCGDataType
 
 <a id="unreal.PCGFilterByTypeSettings.target_type"></a>
 
-#### target_type
+#### target\_type
 
 ```python
 @target_type.setter
@@ -55,7 +55,7 @@ def target_type(value: PCGDataType) -> None
 
 <a id="unreal.PCGFilterByTypeSettings.show_outside_filter"></a>
 
-#### show_outside_filter
+#### show\_outside\_filter
 
 ```python
 @property
@@ -66,7 +66,7 @@ def show_outside_filter() -> bool
 
 <a id="unreal.PCGFilterByTypeSettings.show_outside_filter"></a>
 
-#### show_outside_filter
+#### show\_outside\_filter
 
 ```python
 @show_outside_filter.setter

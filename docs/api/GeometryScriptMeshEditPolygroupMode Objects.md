@@ -14,19 +14,19 @@ EGeometry Script Mesh Edit Polygroup Mode
 
 <a id="unreal.GeometryScriptMeshEditPolygroupMode.PRESERVE_EXISTING"></a>
 
-#### PRESERVE_EXISTING
+#### PRESERVE\_EXISTING
 
 0
 
 <a id="unreal.GeometryScriptMeshEditPolygroupMode.AUTO_GENERATE_NEW"></a>
 
-#### AUTO_GENERATE_NEW
+#### AUTO\_GENERATE\_NEW
 
 1
 
 <a id="unreal.GeometryScriptMeshEditPolygroupMode.SET_CONSTANT"></a>
 
-#### SET_CONSTANT
+#### SET\_CONSTANT
 
 2
 

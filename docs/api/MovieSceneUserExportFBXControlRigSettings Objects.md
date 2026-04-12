@@ -23,7 +23,7 @@ Movie Scene User Export FBXControl Rig Settings
 
 <a id="unreal.MovieSceneUserExportFBXControlRigSettings.fbx_export_compatibility"></a>
 
-#### fbx_export_compatibility
+#### fbx\_export\_compatibility
 
 ```python
 @property
@@ -34,7 +34,7 @@ def fbx_export_compatibility() -> FbxExportCompatibility
 
 <a id="unreal.MovieSceneUserExportFBXControlRigSettings.fbx_export_compatibility"></a>
 
-#### fbx_export_compatibility
+#### fbx\_export\_compatibility
 
 ```python
 @fbx_export_compatibility.setter
@@ -63,7 +63,7 @@ def ascii(value: bool) -> None
 
 <a id="unreal.MovieSceneUserExportFBXControlRigSettings.export_local_time"></a>
 
-#### export_local_time
+#### export\_local\_time
 
 ```python
 @property
@@ -74,7 +74,7 @@ def export_local_time() -> bool
 
 <a id="unreal.MovieSceneUserExportFBXControlRigSettings.export_local_time"></a>
 
-#### export_local_time
+#### export\_local\_time
 
 ```python
 @export_local_time.setter
@@ -83,7 +83,7 @@ def export_local_time(value: bool) -> None
 
 <a id="unreal.MovieSceneUserExportFBXControlRigSettings.load_control_mappings_from_preset"></a>
 
-#### load_control_mappings_from_preset
+#### load\_control\_mappings\_from\_preset
 
 ```python
 def load_control_mappings_from_preset(meta_human_preset: bool) -> None

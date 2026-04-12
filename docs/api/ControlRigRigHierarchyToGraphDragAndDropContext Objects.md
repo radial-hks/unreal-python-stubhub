@@ -18,7 +18,7 @@ Control Rig Rig Hierarchy to Graph Drag and Drop Context
 
 <a id="unreal.ControlRigRigHierarchyToGraphDragAndDropContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(dragged_element_keys: Array[RigElementKey] = []) -> None
@@ -26,7 +26,7 @@ def __init__(dragged_element_keys: Array[RigElementKey] = []) -> None
 
 <a id="unreal.ControlRigRigHierarchyToGraphDragAndDropContext.dragged_element_keys"></a>
 
-#### dragged_element_keys
+#### dragged\_element\_keys
 
 ```python
 @property

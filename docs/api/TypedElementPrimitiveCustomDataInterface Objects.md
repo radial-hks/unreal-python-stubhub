@@ -13,7 +13,7 @@ Typed Element Primitive Custom Data Interface
 
 <a id="unreal.TypedElementPrimitiveCustomDataInterface.set_custom_data_value"></a>
 
-#### set_custom_data_value
+#### set\_custom\_data\_value
 
 ```python
 def set_custom_data_value(element_handle: ScriptTypedElementHandle,
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.TypedElementPrimitiveCustomDataInterface.set_custom_data"></a>
 
-#### set_custom_data
+#### set\_custom\_data
 
 ```python
 def set_custom_data(element_handle: ScriptTypedElementHandle,

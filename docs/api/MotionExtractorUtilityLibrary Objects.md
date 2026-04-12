@@ -14,7 +14,7 @@ Motion Extractor Utility Library
 
 <a id="unreal.MotionExtractorUtilityLibrary.get_stopped_ranges_from_root_motion"></a>
 
-#### get_stopped_ranges_from_root_motion
+#### get\_stopped\_ranges\_from\_root\_motion
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.MotionExtractorUtilityLibrary.get_moving_ranges_from_root_motion"></a>
 
-#### get_moving_ranges_from_root_motion
+#### get\_moving\_ranges\_from\_root\_motion
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.MotionExtractorUtilityLibrary.get_desired_value"></a>
 
-#### get_desired_value
+#### get\_desired\_value
 
 ```python
 @classmethod
@@ -87,7 +87,7 @@ Returns:
 
 <a id="unreal.MotionExtractorUtilityLibrary.generate_curve_name"></a>
 
-#### generate_curve_name
+#### generate\_curve\_name
 
 ```python
 @classmethod

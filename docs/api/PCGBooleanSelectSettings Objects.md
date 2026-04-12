@@ -34,7 +34,7 @@ Selects data from either input pin, based on a boolean condition.
 
 <a id="unreal.PCGBooleanSelectSettings.use_input_b"></a>
 
-#### use_input_b
+#### use\_input\_b
 
 ```python
 @property
@@ -45,7 +45,7 @@ def use_input_b() -> bool
 
 <a id="unreal.PCGBooleanSelectSettings.use_input_b"></a>
 
-#### use_input_b
+#### use\_input\_b
 
 ```python
 @use_input_b.setter

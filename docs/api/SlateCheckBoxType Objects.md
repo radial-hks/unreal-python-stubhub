@@ -13,13 +13,13 @@ Type of check box
 
 <a id="unreal.SlateCheckBoxType.CHECK_BOX"></a>
 
-#### CHECK_BOX
+#### CHECK\_BOX
 
 0: Traditional check box with check button and label (or other content)
 
 <a id="unreal.SlateCheckBoxType.TOGGLE_BUTTON"></a>
 
-#### TOGGLE_BUTTON
+#### TOGGLE\_BUTTON
 
 1: Toggle button.  You provide button content (such as an image), and the user can press to toggle it.
 

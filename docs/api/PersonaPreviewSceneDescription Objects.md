@@ -22,7 +22,7 @@ Persona Preview Scene Description
 
 <a id="unreal.PersonaPreviewSceneDescription.preview_controller"></a>
 
-#### preview_controller
+#### preview\_controller
 
 ```python
 @property

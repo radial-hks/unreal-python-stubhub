@@ -46,7 +46,7 @@ PCGTransform Points Settings
 
 <a id="unreal.PCGTransformPointsSettings.apply_to_attribute"></a>
 
-#### apply_to_attribute
+#### apply\_to\_attribute
 
 ```python
 @property
@@ -57,7 +57,7 @@ def apply_to_attribute() -> bool
 
 <a id="unreal.PCGTransformPointsSettings.apply_to_attribute"></a>
 
-#### apply_to_attribute
+#### apply\_to\_attribute
 
 ```python
 @apply_to_attribute.setter
@@ -66,7 +66,7 @@ def apply_to_attribute(value: bool) -> None
 
 <a id="unreal.PCGTransformPointsSettings.attribute_name"></a>
 
-#### attribute_name
+#### attribute\_name
 
 ```python
 @property
@@ -77,7 +77,7 @@ def attribute_name() -> Name
 
 <a id="unreal.PCGTransformPointsSettings.attribute_name"></a>
 
-#### attribute_name
+#### attribute\_name
 
 ```python
 @attribute_name.setter
@@ -86,7 +86,7 @@ def attribute_name(value: Name) -> None
 
 <a id="unreal.PCGTransformPointsSettings.offset_min"></a>
 
-#### offset_min
+#### offset\_min
 
 ```python
 @property
@@ -97,7 +97,7 @@ def offset_min() -> Vector
 
 <a id="unreal.PCGTransformPointsSettings.offset_min"></a>
 
-#### offset_min
+#### offset\_min
 
 ```python
 @offset_min.setter
@@ -106,7 +106,7 @@ def offset_min(value: Vector) -> None
 
 <a id="unreal.PCGTransformPointsSettings.offset_max"></a>
 
-#### offset_max
+#### offset\_max
 
 ```python
 @property
@@ -117,7 +117,7 @@ def offset_max() -> Vector
 
 <a id="unreal.PCGTransformPointsSettings.offset_max"></a>
 
-#### offset_max
+#### offset\_max
 
 ```python
 @offset_max.setter
@@ -126,7 +126,7 @@ def offset_max(value: Vector) -> None
 
 <a id="unreal.PCGTransformPointsSettings.absolute_offset"></a>
 
-#### absolute_offset
+#### absolute\_offset
 
 ```python
 @property
@@ -137,7 +137,7 @@ def absolute_offset() -> bool
 
 <a id="unreal.PCGTransformPointsSettings.absolute_offset"></a>
 
-#### absolute_offset
+#### absolute\_offset
 
 ```python
 @absolute_offset.setter
@@ -146,7 +146,7 @@ def absolute_offset(value: bool) -> None
 
 <a id="unreal.PCGTransformPointsSettings.rotation_min"></a>
 
-#### rotation_min
+#### rotation\_min
 
 ```python
 @property
@@ -157,7 +157,7 @@ def rotation_min() -> Rotator
 
 <a id="unreal.PCGTransformPointsSettings.rotation_min"></a>
 
-#### rotation_min
+#### rotation\_min
 
 ```python
 @rotation_min.setter
@@ -166,7 +166,7 @@ def rotation_min(value: Rotator) -> None
 
 <a id="unreal.PCGTransformPointsSettings.rotation_max"></a>
 
-#### rotation_max
+#### rotation\_max
 
 ```python
 @property
@@ -177,7 +177,7 @@ def rotation_max() -> Rotator
 
 <a id="unreal.PCGTransformPointsSettings.rotation_max"></a>
 
-#### rotation_max
+#### rotation\_max
 
 ```python
 @rotation_max.setter
@@ -186,7 +186,7 @@ def rotation_max(value: Rotator) -> None
 
 <a id="unreal.PCGTransformPointsSettings.absolute_rotation"></a>
 
-#### absolute_rotation
+#### absolute\_rotation
 
 ```python
 @property
@@ -197,7 +197,7 @@ def absolute_rotation() -> bool
 
 <a id="unreal.PCGTransformPointsSettings.absolute_rotation"></a>
 
-#### absolute_rotation
+#### absolute\_rotation
 
 ```python
 @absolute_rotation.setter
@@ -206,7 +206,7 @@ def absolute_rotation(value: bool) -> None
 
 <a id="unreal.PCGTransformPointsSettings.scale_min"></a>
 
-#### scale_min
+#### scale\_min
 
 ```python
 @property
@@ -217,7 +217,7 @@ def scale_min() -> Vector
 
 <a id="unreal.PCGTransformPointsSettings.scale_min"></a>
 
-#### scale_min
+#### scale\_min
 
 ```python
 @scale_min.setter
@@ -226,7 +226,7 @@ def scale_min(value: Vector) -> None
 
 <a id="unreal.PCGTransformPointsSettings.scale_max"></a>
 
-#### scale_max
+#### scale\_max
 
 ```python
 @property
@@ -237,7 +237,7 @@ def scale_max() -> Vector
 
 <a id="unreal.PCGTransformPointsSettings.scale_max"></a>
 
-#### scale_max
+#### scale\_max
 
 ```python
 @scale_max.setter
@@ -246,7 +246,7 @@ def scale_max(value: Vector) -> None
 
 <a id="unreal.PCGTransformPointsSettings.absolute_scale"></a>
 
-#### absolute_scale
+#### absolute\_scale
 
 ```python
 @property
@@ -257,7 +257,7 @@ def absolute_scale() -> bool
 
 <a id="unreal.PCGTransformPointsSettings.absolute_scale"></a>
 
-#### absolute_scale
+#### absolute\_scale
 
 ```python
 @absolute_scale.setter
@@ -266,7 +266,7 @@ def absolute_scale(value: bool) -> None
 
 <a id="unreal.PCGTransformPointsSettings.uniform_scale"></a>
 
-#### uniform_scale
+#### uniform\_scale
 
 ```python
 @property
@@ -277,7 +277,7 @@ def uniform_scale() -> bool
 
 <a id="unreal.PCGTransformPointsSettings.uniform_scale"></a>
 
-#### uniform_scale
+#### uniform\_scale
 
 ```python
 @uniform_scale.setter
@@ -286,7 +286,7 @@ def uniform_scale(value: bool) -> None
 
 <a id="unreal.PCGTransformPointsSettings.recompute_seed"></a>
 
-#### recompute_seed
+#### recompute\_seed
 
 ```python
 @property
@@ -297,7 +297,7 @@ def recompute_seed() -> bool
 
 <a id="unreal.PCGTransformPointsSettings.recompute_seed"></a>
 
-#### recompute_seed
+#### recompute\_seed
 
 ```python
 @recompute_seed.setter

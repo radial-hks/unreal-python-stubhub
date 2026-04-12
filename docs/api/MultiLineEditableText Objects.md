@@ -90,7 +90,7 @@ def text(value: Text) -> None
 
 <a id="unreal.MultiLineEditableText.hint_text"></a>
 
-#### hint_text
+#### hint\_text
 
 ```python
 @property
@@ -101,7 +101,7 @@ def hint_text() -> Text
 
 <a id="unreal.MultiLineEditableText.hint_text"></a>
 
-#### hint_text
+#### hint\_text
 
 ```python
 @hint_text.setter
@@ -110,7 +110,7 @@ def hint_text(value: Text) -> None
 
 <a id="unreal.MultiLineEditableText.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -121,7 +121,7 @@ def widget_style() -> TextBlockStyle
 
 <a id="unreal.MultiLineEditableText.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -130,7 +130,7 @@ def widget_style(value: TextBlockStyle) -> None
 
 <a id="unreal.MultiLineEditableText.is_read_only"></a>
 
-#### is_read_only
+#### is\_read\_only
 
 ```python
 @property
@@ -141,7 +141,7 @@ def is_read_only() -> bool
 
 <a id="unreal.MultiLineEditableText.is_read_only"></a>
 
-#### is_read_only
+#### is\_read\_only
 
 ```python
 @is_read_only.setter
@@ -150,7 +150,7 @@ def is_read_only(value: bool) -> None
 
 <a id="unreal.MultiLineEditableText.select_all_text_when_focused"></a>
 
-#### select_all_text_when_focused
+#### select\_all\_text\_when\_focused
 
 ```python
 @property
@@ -161,7 +161,7 @@ def select_all_text_when_focused() -> bool
 
 <a id="unreal.MultiLineEditableText.select_all_text_when_focused"></a>
 
-#### select_all_text_when_focused
+#### select\_all\_text\_when\_focused
 
 ```python
 @select_all_text_when_focused.setter
@@ -170,7 +170,7 @@ def select_all_text_when_focused(value: bool) -> None
 
 <a id="unreal.MultiLineEditableText.revert_text_on_escape"></a>
 
-#### revert_text_on_escape
+#### revert\_text\_on\_escape
 
 ```python
 @property
@@ -181,7 +181,7 @@ def revert_text_on_escape() -> bool
 
 <a id="unreal.MultiLineEditableText.revert_text_on_escape"></a>
 
-#### revert_text_on_escape
+#### revert\_text\_on\_escape
 
 ```python
 @revert_text_on_escape.setter
@@ -190,7 +190,7 @@ def revert_text_on_escape(value: bool) -> None
 
 <a id="unreal.MultiLineEditableText.clear_keyboard_focus_on_commit"></a>
 
-#### clear_keyboard_focus_on_commit
+#### clear\_keyboard\_focus\_on\_commit
 
 ```python
 @property
@@ -201,7 +201,7 @@ def clear_keyboard_focus_on_commit() -> bool
 
 <a id="unreal.MultiLineEditableText.clear_keyboard_focus_on_commit"></a>
 
-#### clear_keyboard_focus_on_commit
+#### clear\_keyboard\_focus\_on\_commit
 
 ```python
 @clear_keyboard_focus_on_commit.setter
@@ -210,7 +210,7 @@ def clear_keyboard_focus_on_commit(value: bool) -> None
 
 <a id="unreal.MultiLineEditableText.on_text_changed"></a>
 
-#### on_text_changed
+#### on\_text\_changed
 
 ```python
 @property
@@ -221,7 +221,7 @@ def on_text_changed() -> OnMultiLineEditableTextChangedEvent
 
 <a id="unreal.MultiLineEditableText.on_text_changed"></a>
 
-#### on_text_changed
+#### on\_text\_changed
 
 ```python
 @on_text_changed.setter
@@ -230,7 +230,7 @@ def on_text_changed(value: OnMultiLineEditableTextChangedEvent) -> None
 
 <a id="unreal.MultiLineEditableText.on_text_committed"></a>
 
-#### on_text_committed
+#### on\_text\_committed
 
 ```python
 @property
@@ -241,7 +241,7 @@ def on_text_committed() -> OnMultiLineEditableTextCommittedEvent
 
 <a id="unreal.MultiLineEditableText.on_text_committed"></a>
 
-#### on_text_committed
+#### on\_text\_committed
 
 ```python
 @on_text_committed.setter
@@ -250,7 +250,7 @@ def on_text_committed(value: OnMultiLineEditableTextCommittedEvent) -> None
 
 <a id="unreal.MultiLineEditableText.set_text"></a>
 
-#### set_text
+#### set\_text
 
 ```python
 def set_text(text: Text) -> None
@@ -264,7 +264,7 @@ Args:
 
 <a id="unreal.MultiLineEditableText.set_is_read_only"></a>
 
-#### set_is_read_only
+#### set\_is\_read\_only
 
 ```python
 def set_is_read_only(read_only: bool) -> None
@@ -278,7 +278,7 @@ Args:
 
 <a id="unreal.MultiLineEditableText.set_hint_text"></a>
 
-#### set_hint_text
+#### set\_hint\_text
 
 ```python
 def set_hint_text(hint_text: Text) -> None
@@ -292,7 +292,7 @@ Args:
 
 <a id="unreal.MultiLineEditableText.set_font_outline_material"></a>
 
-#### set_font_outline_material
+#### set\_font\_outline\_material
 
 ```python
 def set_font_outline_material(material: MaterialInterface) -> None
@@ -306,7 +306,7 @@ Args:
 
 <a id="unreal.MultiLineEditableText.set_font_material"></a>
 
-#### set_font_material
+#### set\_font\_material
 
 ```python
 def set_font_material(material: MaterialInterface) -> None
@@ -320,7 +320,7 @@ Args:
 
 <a id="unreal.MultiLineEditableText.set_font"></a>
 
-#### set_font
+#### set\_font
 
 ```python
 def set_font(font_info: SlateFontInfo) -> None
@@ -334,7 +334,7 @@ Args:
 
 <a id="unreal.MultiLineEditableText.get_text"></a>
 
-#### get_text
+#### get\_text
 
 ```python
 def get_text() -> Text
@@ -348,7 +348,7 @@ Returns:
 
 <a id="unreal.MultiLineEditableText.get_hint_text"></a>
 
-#### get_hint_text
+#### get\_hint\_text
 
 ```python
 def get_hint_text() -> Text
@@ -362,7 +362,7 @@ Returns:
 
 <a id="unreal.MultiLineEditableText.get_font"></a>
 
-#### get_font
+#### get\_font
 
 ```python
 def get_font() -> SlateFontInfo

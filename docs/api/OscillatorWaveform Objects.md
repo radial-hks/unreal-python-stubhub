@@ -14,13 +14,13 @@ Types of waveforms that can be used for camera shake oscillators
 
 <a id="unreal.OscillatorWaveform.SINE_WAVE"></a>
 
-#### SINE_WAVE
+#### SINE\_WAVE
 
 0: A sinusoidal wave
 
 <a id="unreal.OscillatorWaveform.PERLIN_NOISE"></a>
 
-#### PERLIN_NOISE
+#### PERLIN\_NOISE
 
 1: Perlin noise
 

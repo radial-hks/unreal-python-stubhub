@@ -24,7 +24,7 @@ Represents the appearance of an SAudioSpectrumPlot
 
 <a id="unreal.AudioSpectrumPlotStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -57,7 +57,7 @@ def __init__(
 
 <a id="unreal.AudioSpectrumPlotStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @property
@@ -68,7 +68,7 @@ def background_color() -> SlateColor
 
 <a id="unreal.AudioSpectrumPlotStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @background_color.setter
@@ -77,7 +77,7 @@ def background_color(value: SlateColor) -> None
 
 <a id="unreal.AudioSpectrumPlotStyle.grid_color"></a>
 
-#### grid_color
+#### grid\_color
 
 ```python
 @property
@@ -88,7 +88,7 @@ def grid_color() -> SlateColor
 
 <a id="unreal.AudioSpectrumPlotStyle.grid_color"></a>
 
-#### grid_color
+#### grid\_color
 
 ```python
 @grid_color.setter
@@ -97,7 +97,7 @@ def grid_color(value: SlateColor) -> None
 
 <a id="unreal.AudioSpectrumPlotStyle.axis_label_color"></a>
 
-#### axis_label_color
+#### axis\_label\_color
 
 ```python
 @property
@@ -108,7 +108,7 @@ def axis_label_color() -> SlateColor
 
 <a id="unreal.AudioSpectrumPlotStyle.axis_label_color"></a>
 
-#### axis_label_color
+#### axis\_label\_color
 
 ```python
 @axis_label_color.setter
@@ -117,7 +117,7 @@ def axis_label_color(value: SlateColor) -> None
 
 <a id="unreal.AudioSpectrumPlotStyle.axis_label_font"></a>
 
-#### axis_label_font
+#### axis\_label\_font
 
 ```python
 @property
@@ -128,7 +128,7 @@ def axis_label_font() -> SlateFontInfo
 
 <a id="unreal.AudioSpectrumPlotStyle.axis_label_font"></a>
 
-#### axis_label_font
+#### axis\_label\_font
 
 ```python
 @axis_label_font.setter
@@ -137,7 +137,7 @@ def axis_label_font(value: SlateFontInfo) -> None
 
 <a id="unreal.AudioSpectrumPlotStyle.spectrum_color"></a>
 
-#### spectrum_color
+#### spectrum\_color
 
 ```python
 @property
@@ -148,7 +148,7 @@ def spectrum_color() -> SlateColor
 
 <a id="unreal.AudioSpectrumPlotStyle.spectrum_color"></a>
 
-#### spectrum_color
+#### spectrum\_color
 
 ```python
 @spectrum_color.setter
@@ -157,7 +157,7 @@ def spectrum_color(value: SlateColor) -> None
 
 <a id="unreal.AudioSpectrumPlotStyle.crosshair_color"></a>
 
-#### crosshair_color
+#### crosshair\_color
 
 ```python
 @property
@@ -168,7 +168,7 @@ def crosshair_color() -> SlateColor
 
 <a id="unreal.AudioSpectrumPlotStyle.crosshair_color"></a>
 
-#### crosshair_color
+#### crosshair\_color
 
 ```python
 @crosshair_color.setter
@@ -177,7 +177,7 @@ def crosshair_color(value: SlateColor) -> None
 
 <a id="unreal.AudioSpectrumPlotStyle.crosshair_label_font"></a>
 
-#### crosshair_label_font
+#### crosshair\_label\_font
 
 ```python
 @property
@@ -188,7 +188,7 @@ def crosshair_label_font() -> SlateFontInfo
 
 <a id="unreal.AudioSpectrumPlotStyle.crosshair_label_font"></a>
 
-#### crosshair_label_font
+#### crosshair\_label\_font
 
 ```python
 @crosshair_label_font.setter

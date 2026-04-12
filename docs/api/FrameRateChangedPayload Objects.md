@@ -17,7 +17,7 @@ Frame Rate Changed Payload
 
 <a id="unreal.FrameRateChangedPayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(previous_frame_rate: FrameRate = [60000, 1]) -> None
@@ -25,7 +25,7 @@ def __init__(previous_frame_rate: FrameRate = [60000, 1]) -> None
 
 <a id="unreal.FrameRateChangedPayload.previous_frame_rate"></a>
 
-#### previous_frame_rate
+#### previous\_frame\_rate
 
 ```python
 @property

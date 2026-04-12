@@ -23,7 +23,7 @@ Usd Asset User Data
 
 <a id="unreal.UsdAssetUserData.prim_paths"></a>
 
-#### prim_paths
+#### prim\_paths
 
 ```python
 @property
@@ -34,7 +34,7 @@ def prim_paths() -> Array[str]
 
 <a id="unreal.UsdAssetUserData.prim_paths"></a>
 
-#### prim_paths
+#### prim\_paths
 
 ```python
 @prim_paths.setter
@@ -43,7 +43,7 @@ def prim_paths(value: Array[str]) -> None
 
 <a id="unreal.UsdAssetUserData.stage_identifier_to_metadata"></a>
 
-#### stage_identifier_to_metadata
+#### stage\_identifier\_to\_metadata
 
 ```python
 @property
@@ -57,7 +57,7 @@ bits of metadata
 
 <a id="unreal.UsdAssetUserData.stage_identifier_to_metadata"></a>
 
-#### stage_identifier_to_metadata
+#### stage\_identifier\_to\_metadata
 
 ```python
 @stage_identifier_to_metadata.setter
@@ -67,7 +67,7 @@ def stage_identifier_to_metadata(
 
 <a id="unreal.UsdAssetUserData.original_hash"></a>
 
-#### original_hash
+#### original\_hash
 
 ```python
 @property

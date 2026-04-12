@@ -27,7 +27,7 @@ PCGPin Properties
 
 <a id="unreal.PCGPinProperties.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -80,7 +80,7 @@ def usage(value: PCGPinUsage) -> None
 
 <a id="unreal.PCGPinProperties.allowed_types"></a>
 
-#### allowed_types
+#### allowed\_types
 
 ```python
 @property
@@ -91,7 +91,7 @@ def allowed_types() -> PCGDataType
 
 <a id="unreal.PCGPinProperties.allowed_types"></a>
 
-#### allowed_types
+#### allowed\_types
 
 ```python
 @allowed_types.setter
@@ -100,7 +100,7 @@ def allowed_types(value: PCGDataType) -> None
 
 <a id="unreal.PCGPinProperties.allow_multiple_data"></a>
 
-#### allow_multiple_data
+#### allow\_multiple\_data
 
 ```python
 @property
@@ -111,7 +111,7 @@ def allow_multiple_data() -> bool
 
 <a id="unreal.PCGPinProperties.allow_multiple_data"></a>
 
-#### allow_multiple_data
+#### allow\_multiple\_data
 
 ```python
 @allow_multiple_data.setter
@@ -120,7 +120,7 @@ def allow_multiple_data(value: bool) -> None
 
 <a id="unreal.PCGPinProperties.pin_status"></a>
 
-#### pin_status
+#### pin\_status
 
 ```python
 @property
@@ -131,7 +131,7 @@ def pin_status() -> PCGPinStatus
 
 <a id="unreal.PCGPinProperties.pin_status"></a>
 
-#### pin_status
+#### pin\_status
 
 ```python
 @pin_status.setter
@@ -140,7 +140,7 @@ def pin_status(value: PCGPinStatus) -> None
 
 <a id="unreal.PCGPinProperties.invisible_pin"></a>
 
-#### invisible_pin
+#### invisible\_pin
 
 ```python
 @property
@@ -151,7 +151,7 @@ def invisible_pin() -> bool
 
 <a id="unreal.PCGPinProperties.invisible_pin"></a>
 
-#### invisible_pin
+#### invisible\_pin
 
 ```python
 @invisible_pin.setter
@@ -160,7 +160,7 @@ def invisible_pin(value: bool) -> None
 
 <a id="unreal.PCGPinProperties.advanced_pin"></a>
 
-#### advanced_pin
+#### advanced\_pin
 
 ```python
 @property
@@ -172,7 +172,7 @@ deprecated: Use IsAdvancedPin function or PinStatus property.
 
 <a id="unreal.PCGPinProperties.advanced_pin"></a>
 
-#### advanced_pin
+#### advanced\_pin
 
 ```python
 @advanced_pin.setter
@@ -181,7 +181,7 @@ def advanced_pin(value: bool) -> None
 
 <a id="unreal.PCGPinProperties.allow_multiple_connections"></a>
 
-#### allow_multiple_connections
+#### allow\_multiple\_connections
 
 ```python
 @property
@@ -192,7 +192,7 @@ def allow_multiple_connections() -> bool
 
 <a id="unreal.PCGPinProperties.allow_multiple_connections"></a>
 
-#### allow_multiple_connections
+#### allow\_multiple\_connections
 
 ```python
 @allow_multiple_connections.setter
@@ -201,7 +201,7 @@ def allow_multiple_connections(value: bool) -> None
 
 <a id="unreal.PCGPinProperties.set_required_pin"></a>
 
-#### set_required_pin
+#### set\_required\_pin
 
 ```python
 def set_required_pin() -> None
@@ -212,7 +212,7 @@ Set Required Pin
 
 <a id="unreal.PCGPinProperties.set_normal_pin"></a>
 
-#### set_normal_pin
+#### set\_normal\_pin
 
 ```python
 def set_normal_pin() -> None
@@ -223,7 +223,7 @@ Set Normal Pin
 
 <a id="unreal.PCGPinProperties.set_allow_multiple_connections"></a>
 
-#### set_allow_multiple_connections
+#### set\_allow\_multiple\_connections
 
 ```python
 def set_allow_multiple_connections(allow_multiple_connections: bool) -> None
@@ -237,7 +237,7 @@ Args:
 
 <a id="unreal.PCGPinProperties.set_advanced_pin"></a>
 
-#### set_advanced_pin
+#### set\_advanced\_pin
 
 ```python
 def set_advanced_pin() -> None
@@ -248,7 +248,7 @@ Set Advanced Pin
 
 <a id="unreal.PCGPinProperties.is_required_pin"></a>
 
-#### is_required_pin
+#### is\_required\_pin
 
 ```python
 def is_required_pin() -> bool
@@ -262,7 +262,7 @@ Returns:
 
 <a id="unreal.PCGPinProperties.is_normal_pin"></a>
 
-#### is_normal_pin
+#### is\_normal\_pin
 
 ```python
 def is_normal_pin() -> bool
@@ -276,7 +276,7 @@ Returns:
 
 <a id="unreal.PCGPinProperties.is_advanced_pin"></a>
 
-#### is_advanced_pin
+#### is\_advanced\_pin
 
 ```python
 def is_advanced_pin() -> bool
@@ -290,7 +290,7 @@ Returns:
 
 <a id="unreal.PCGPinProperties.allows_multiple_connections"></a>
 
-#### allows_multiple_connections
+#### allows\_multiple\_connections
 
 ```python
 def allows_multiple_connections() -> bool

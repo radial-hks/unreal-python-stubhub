@@ -13,62 +13,62 @@ Exposed enum to parallel RHI's EStencilMask and show up in the editor. Has a pai
 
 <a id="unreal.RendererStencilMask.ERSM_DEFAULT"></a>
 
-#### ERSM_DEFAULT
+#### ERSM\_DEFAULT
 
 0
 
 <a id="unreal.RendererStencilMask.ERSM_255"></a>
 
-#### ERSM_255
+#### ERSM\_255
 
 1
 
 <a id="unreal.RendererStencilMask.ERSM_1"></a>
 
-#### ERSM_1
+#### ERSM\_1
 
 2
 
 <a id="unreal.RendererStencilMask.ERSM_2"></a>
 
-#### ERSM_2
+#### ERSM\_2
 
 3
 
 <a id="unreal.RendererStencilMask.ERSM_4"></a>
 
-#### ERSM_4
+#### ERSM\_4
 
 4
 
 <a id="unreal.RendererStencilMask.ERSM_8"></a>
 
-#### ERSM_8
+#### ERSM\_8
 
 5
 
 <a id="unreal.RendererStencilMask.ERSM_16"></a>
 
-#### ERSM_16
+#### ERSM\_16
 
 6
 
 <a id="unreal.RendererStencilMask.ERSM_32"></a>
 
-#### ERSM_32
+#### ERSM\_32
 
 7
 
 <a id="unreal.RendererStencilMask.ERSM_64"></a>
 
-#### ERSM_64
+#### ERSM\_64
 
 8
 
 <a id="unreal.RendererStencilMask.ERSM_128"></a>
 
-#### ERSM_128
+#### ERSM\_128
 
 9
 
-<a id="unreal.RuntimeVirtualTextureMainPassType"></a>
+<a id="unreal.TexturePowerOfTwoSetting"></a>

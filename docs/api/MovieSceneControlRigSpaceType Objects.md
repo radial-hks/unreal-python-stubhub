@@ -26,7 +26,7 @@ EMovie Scene Control Rig Space Type
 
 <a id="unreal.MovieSceneControlRigSpaceType.CONTROL_RIG"></a>
 
-#### CONTROL_RIG
+#### CONTROL\_RIG
 
 2
 

@@ -17,7 +17,7 @@ Morph Target Imported Source File Info
 
 <a id="unreal.MorphTargetImportedSourceFileInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

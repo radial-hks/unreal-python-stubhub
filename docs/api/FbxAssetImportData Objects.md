@@ -23,7 +23,7 @@ Base class for import data and options used when importing any asset from FBX
 
 <a id="unreal.FbxAssetImportData.import_translation"></a>
 
-#### import_translation
+#### import\_translation
 
 ```python
 @property
@@ -34,7 +34,7 @@ def import_translation() -> Vector
 
 <a id="unreal.FbxAssetImportData.import_translation"></a>
 
-#### import_translation
+#### import\_translation
 
 ```python
 @import_translation.setter
@@ -43,7 +43,7 @@ def import_translation(value: Vector) -> None
 
 <a id="unreal.FbxAssetImportData.import_rotation"></a>
 
-#### import_rotation
+#### import\_rotation
 
 ```python
 @property
@@ -54,7 +54,7 @@ def import_rotation() -> Rotator
 
 <a id="unreal.FbxAssetImportData.import_rotation"></a>
 
-#### import_rotation
+#### import\_rotation
 
 ```python
 @import_rotation.setter
@@ -63,7 +63,7 @@ def import_rotation(value: Rotator) -> None
 
 <a id="unreal.FbxAssetImportData.import_uniform_scale"></a>
 
-#### import_uniform_scale
+#### import\_uniform\_scale
 
 ```python
 @property
@@ -74,7 +74,7 @@ def import_uniform_scale() -> float
 
 <a id="unreal.FbxAssetImportData.import_uniform_scale"></a>
 
-#### import_uniform_scale
+#### import\_uniform\_scale
 
 ```python
 @import_uniform_scale.setter
@@ -83,7 +83,7 @@ def import_uniform_scale(value: float) -> None
 
 <a id="unreal.FbxAssetImportData.convert_scene"></a>
 
-#### convert_scene
+#### convert\_scene
 
 ```python
 @property
@@ -94,7 +94,7 @@ def convert_scene() -> bool
 
 <a id="unreal.FbxAssetImportData.convert_scene"></a>
 
-#### convert_scene
+#### convert\_scene
 
 ```python
 @convert_scene.setter
@@ -103,7 +103,7 @@ def convert_scene(value: bool) -> None
 
 <a id="unreal.FbxAssetImportData.force_front_x_axis"></a>
 
-#### force_front_x_axis
+#### force\_front\_x\_axis
 
 ```python
 @property
@@ -114,7 +114,7 @@ def force_front_x_axis() -> bool
 
 <a id="unreal.FbxAssetImportData.force_front_x_axis"></a>
 
-#### force_front_x_axis
+#### force\_front\_x\_axis
 
 ```python
 @force_front_x_axis.setter
@@ -123,7 +123,7 @@ def force_front_x_axis(value: bool) -> None
 
 <a id="unreal.FbxAssetImportData.convert_scene_unit"></a>
 
-#### convert_scene_unit
+#### convert\_scene\_unit
 
 ```python
 @property
@@ -134,7 +134,7 @@ def convert_scene_unit() -> bool
 
 <a id="unreal.FbxAssetImportData.convert_scene_unit"></a>
 
-#### convert_scene_unit
+#### convert\_scene\_unit
 
 ```python
 @convert_scene_unit.setter

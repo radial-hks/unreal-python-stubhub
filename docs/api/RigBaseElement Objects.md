@@ -22,7 +22,7 @@ Rig Base Element
 
 <a id="unreal.RigBaseElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: RigElementKey = [RigElementType.NONE, "None"],
@@ -56,7 +56,7 @@ def index() -> int
 
 <a id="unreal.RigBaseElement.sub_index"></a>
 
-#### sub_index
+#### sub\_index
 
 ```python
 @property
@@ -67,7 +67,7 @@ def sub_index() -> int
 
 <a id="unreal.RigBaseElement.created_at_instruction_index"></a>
 
-#### created_at_instruction_index
+#### created\_at\_instruction\_index
 
 ```python
 @property

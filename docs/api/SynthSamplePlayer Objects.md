@@ -70,7 +70,7 @@ Synth Sample Player
 
 <a id="unreal.SynthSamplePlayer.sound_wave"></a>
 
-#### sound_wave
+#### sound\_wave
 
 ```python
 @property
@@ -81,7 +81,7 @@ def sound_wave() -> SoundWave
 
 <a id="unreal.SynthSamplePlayer.sound_wave"></a>
 
-#### sound_wave
+#### sound\_wave
 
 ```python
 @sound_wave.setter
@@ -90,7 +90,7 @@ def sound_wave(value: SoundWave) -> None
 
 <a id="unreal.SynthSamplePlayer.on_sample_loaded"></a>
 
-#### on_sample_loaded
+#### on\_sample\_loaded
 
 ```python
 @property
@@ -101,7 +101,7 @@ def on_sample_loaded() -> OnSampleLoaded
 
 <a id="unreal.SynthSamplePlayer.on_sample_loaded"></a>
 
-#### on_sample_loaded
+#### on\_sample\_loaded
 
 ```python
 @on_sample_loaded.setter
@@ -110,7 +110,7 @@ def on_sample_loaded(value: OnSampleLoaded) -> None
 
 <a id="unreal.SynthSamplePlayer.on_sample_playback_progress"></a>
 
-#### on_sample_playback_progress
+#### on\_sample\_playback\_progress
 
 ```python
 @property
@@ -121,7 +121,7 @@ def on_sample_playback_progress() -> OnSamplePlaybackProgress
 
 <a id="unreal.SynthSamplePlayer.on_sample_playback_progress"></a>
 
-#### on_sample_playback_progress
+#### on\_sample\_playback\_progress
 
 ```python
 @on_sample_playback_progress.setter
@@ -130,7 +130,7 @@ def on_sample_playback_progress(value: OnSamplePlaybackProgress) -> None
 
 <a id="unreal.SynthSamplePlayer.set_sound_wave"></a>
 
-#### set_sound_wave
+#### set\_sound\_wave
 
 ```python
 def set_sound_wave(sound_wave: SoundWave) -> None
@@ -144,7 +144,7 @@ Args:
 
 <a id="unreal.SynthSamplePlayer.set_scrub_time_width"></a>
 
-#### set_scrub_time_width
+#### set\_scrub\_time\_width
 
 ```python
 def set_scrub_time_width(scrub_time_width_sec: float) -> None
@@ -158,7 +158,7 @@ Args:
 
 <a id="unreal.SynthSamplePlayer.set_scrub_mode"></a>
 
-#### set_scrub_mode
+#### set\_scrub\_mode
 
 ```python
 def set_scrub_mode(scrub_mode: bool) -> None
@@ -172,7 +172,7 @@ Args:
 
 <a id="unreal.SynthSamplePlayer.set_pitch"></a>
 
-#### set_pitch
+#### set\_pitch
 
 ```python
 def set_pitch(pitch: float, time_sec: float) -> None
@@ -187,7 +187,7 @@ Args:
 
 <a id="unreal.SynthSamplePlayer.seek_to_time"></a>
 
-#### seek_to_time
+#### seek\_to\_time
 
 ```python
 def seek_to_time(time_sec: float,
@@ -205,7 +205,7 @@ Args:
 
 <a id="unreal.SynthSamplePlayer.is_loaded"></a>
 
-#### is_loaded
+#### is\_loaded
 
 ```python
 def is_loaded() -> bool
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.SynthSamplePlayer.get_sample_duration"></a>
 
-#### get_sample_duration
+#### get\_sample\_duration
 
 ```python
 def get_sample_duration() -> float
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.SynthSamplePlayer.get_current_playback_progress_time"></a>
 
-#### get_current_playback_progress_time
+#### get\_current\_playback\_progress\_time
 
 ```python
 def get_current_playback_progress_time() -> float
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.SynthSamplePlayer.get_current_playback_progress_percent"></a>
 
-#### get_current_playback_progress_percent
+#### get\_current\_playback\_progress\_percent
 
 ```python
 def get_current_playback_progress_percent() -> float

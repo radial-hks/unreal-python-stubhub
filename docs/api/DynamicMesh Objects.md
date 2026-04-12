@@ -18,7 +18,7 @@ UDynamicMesh is a UObject container for a FDynamicMesh3.
 
 <a id="unreal.DynamicMesh.mesh_modified_bp_event"></a>
 
-#### mesh_modified_bp_event
+#### mesh\_modified\_bp\_event
 
 ```python
 @property
@@ -29,7 +29,7 @@ def mesh_modified_bp_event() -> OnDynamicMeshModifiedBP
 
 <a id="unreal.DynamicMesh.mesh_modified_bp_event"></a>
 
-#### mesh_modified_bp_event
+#### mesh\_modified\_bp\_event
 
 ```python
 @mesh_modified_bp_event.setter
@@ -38,7 +38,7 @@ def mesh_modified_bp_event(value: OnDynamicMeshModifiedBP) -> None
 
 <a id="unreal.DynamicMesh.reset_to_cube"></a>
 
-#### reset_to_cube
+#### reset\_to\_cube
 
 ```python
 def reset_to_cube() -> DynamicMesh
@@ -68,7 +68,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.is_empty"></a>
 
-#### is_empty
+#### is\_empty
 
 ```python
 def is_empty() -> bool
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_count"></a>
 
-#### get_triangle_count
+#### get\_triangle\_count
 
 ```python
 def get_triangle_count() -> int
@@ -96,7 +96,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_mesh_swept_hull"></a>
 
-#### compute_mesh_swept_hull
+#### compute\_mesh\_swept\_hull
 
 ```python
 def compute_mesh_swept_hull(
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_mesh_convex_hull"></a>
 
-#### compute_mesh_convex_hull
+#### compute\_mesh\_convex\_hull
 
 ```python
 def compute_mesh_convex_hull(
@@ -155,7 +155,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_mesh_convex_decomposition"></a>
 
-#### compute_mesh_convex_decomposition
+#### compute\_mesh\_convex\_decomposition
 
 ```python
 def compute_mesh_convex_decomposition(
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_vertex_position"></a>
 
-#### set_vertex_position
+#### set\_vertex\_position
 
 ```python
 def set_vertex_position(
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_all_mesh_vertex_positions"></a>
 
-#### set_all_mesh_vertex_positions
+#### set\_all\_mesh\_vertex\_positions
 
 ```python
 def set_all_mesh_vertex_positions(
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.discard_mesh_attributes"></a>
 
-#### discard_mesh_attributes
+#### discard\_mesh\_attributes
 
 ```python
 def discard_mesh_attributes(
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.delete_vertices_from_mesh"></a>
 
-#### delete_vertices_from_mesh
+#### delete\_vertices\_from\_mesh
 
 ```python
 def delete_vertices_from_mesh(
@@ -270,7 +270,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.delete_vertex_from_mesh"></a>
 
-#### delete_vertex_from_mesh
+#### delete\_vertex\_from\_mesh
 
 ```python
 def delete_vertex_from_mesh(
@@ -293,7 +293,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.delete_triangles_from_mesh"></a>
 
-#### delete_triangles_from_mesh
+#### delete\_triangles\_from\_mesh
 
 ```python
 def delete_triangles_from_mesh(
@@ -316,7 +316,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.delete_triangle_from_mesh"></a>
 
-#### delete_triangle_from_mesh
+#### delete\_triangle\_from\_mesh
 
 ```python
 def delete_triangle_from_mesh(
@@ -339,7 +339,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.delete_selected_triangles_from_mesh"></a>
 
-#### delete_selected_triangles_from_mesh
+#### delete\_selected\_triangles\_from\_mesh
 
 ```python
 def delete_selected_triangles_from_mesh(
@@ -362,7 +362,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_mesh_with_materials"></a>
 
-#### append_mesh_with_materials
+#### append\_mesh\_with\_materials
 
 ```python
 def append_mesh_with_materials(
@@ -400,7 +400,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_mesh_transformed_with_materials"></a>
 
-#### append_mesh_transformed_with_materials
+#### append\_mesh\_transformed\_with\_materials
 
 ```python
 def append_mesh_transformed_with_materials(
@@ -442,7 +442,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_mesh_transformed"></a>
 
-#### append_mesh_transformed
+#### append\_mesh\_transformed
 
 ```python
 def append_mesh_transformed(
@@ -474,7 +474,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_mesh_repeated_with_materials"></a>
 
-#### append_mesh_repeated_with_materials
+#### append\_mesh\_repeated\_with\_materials
 
 ```python
 def append_mesh_repeated_with_materials(
@@ -516,7 +516,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_mesh_repeated"></a>
 
-#### append_mesh_repeated
+#### append\_mesh\_repeated
 
 ```python
 def append_mesh_repeated(
@@ -548,7 +548,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_mesh"></a>
 
-#### append_mesh
+#### append\_mesh
 
 ```python
 def append_mesh(append_mesh: DynamicMesh,
@@ -575,7 +575,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_buffers_to_mesh"></a>
 
-#### append_buffers_to_mesh
+#### append\_buffers\_to\_mesh
 
 ```python
 def append_buffers_to_mesh(
@@ -602,7 +602,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.add_vertices_to_mesh"></a>
 
-#### add_vertices_to_mesh
+#### add\_vertices\_to\_mesh
 
 ```python
 def add_vertices_to_mesh(
@@ -625,7 +625,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.add_vertex_to_mesh"></a>
 
-#### add_vertex_to_mesh
+#### add\_vertex\_to\_mesh
 
 ```python
 def add_vertex_to_mesh(
@@ -647,7 +647,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.add_triangle_to_mesh"></a>
 
-#### add_triangle_to_mesh
+#### add\_triangle\_to\_mesh
 
 ```python
 def add_triangle_to_mesh(
@@ -673,7 +673,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.add_triangles_to_mesh"></a>
 
-#### add_triangles_to_mesh
+#### add\_triangles\_to\_mesh
 
 ```python
 def add_triangles_to_mesh(
@@ -700,7 +700,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.transfer_bone_weights_from_mesh"></a>
 
-#### transfer_bone_weights_from_mesh
+#### transfer\_bone\_weights\_from\_mesh
 
 ```python
 def transfer_bone_weights_from_mesh(
@@ -729,7 +729,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_vertex_bone_weights"></a>
 
-#### set_vertex_bone_weights
+#### set\_vertex\_bone\_weights
 
 ```python
 def set_vertex_bone_weights(
@@ -755,7 +755,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_all_vertex_bone_weights"></a>
 
-#### set_all_vertex_bone_weights
+#### set\_all\_vertex\_bone\_weights
 
 ```python
 def set_all_vertex_bone_weights(
@@ -777,7 +777,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.prune_bone_weights"></a>
 
-#### prune_bone_weights
+#### prune\_bone\_weights
 
 ```python
 def prune_bone_weights(bones_to_prune: Array[Name],
@@ -805,7 +805,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.mesh_has_bone_weights"></a>
 
-#### mesh_has_bone_weights
+#### mesh\_has\_bone\_weights
 
 ```python
 def mesh_has_bone_weights(
@@ -826,7 +826,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.mesh_create_bone_weights"></a>
 
-#### mesh_create_bone_weights
+#### mesh\_create\_bone\_weights
 
 ```python
 def mesh_create_bone_weights(
@@ -850,7 +850,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.mesh_copy_bone_weights"></a>
 
-#### mesh_copy_bone_weights
+#### mesh\_copy\_bone\_weights
 
 ```python
 def mesh_copy_bone_weights(
@@ -875,7 +875,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_vertex_bone_weights"></a>
 
-#### get_vertex_bone_weights
+#### get\_vertex\_bone\_weights
 
 ```python
 def get_vertex_bone_weights(
@@ -900,7 +900,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_root_bone_name"></a>
 
-#### get_root_bone_name
+#### get\_root\_bone\_name
 
 ```python
 def get_root_bone_name(
@@ -920,7 +920,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_max_bone_weight_index"></a>
 
-#### get_max_bone_weight_index
+#### get\_max\_bone\_weight\_index
 
 ```python
 def get_max_bone_weight_index(
@@ -943,7 +943,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_largest_vertex_bone_weight"></a>
 
-#### get_largest_vertex_bone_weight
+#### get\_largest\_vertex\_bone\_weight
 
 ```python
 def get_largest_vertex_bone_weight(
@@ -968,7 +968,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_bone_info"></a>
 
-#### get_bone_info
+#### get\_bone\_info
 
 ```python
 def get_bone_info(
@@ -993,7 +993,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_bone_index"></a>
 
-#### get_bone_index
+#### get\_bone\_index
 
 ```python
 def get_bone_index(
@@ -1017,7 +1017,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_bone_children"></a>
 
-#### get_bone_children
+#### get\_bone\_children
 
 ```python
 def get_bone_children(
@@ -1044,7 +1044,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_bones_info"></a>
 
-#### get_all_bones_info
+#### get\_all\_bones\_info
 
 ```python
 def get_all_bones_info(
@@ -1065,7 +1065,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.discard_bones_from_mesh"></a>
 
-#### discard_bones_from_mesh
+#### discard\_bones\_from\_mesh
 
 ```python
 def discard_bones_from_mesh(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -1082,7 +1082,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.copy_bones_from_mesh"></a>
 
-#### copy_bones_from_mesh
+#### copy\_bones\_from\_mesh
 
 ```python
 def copy_bones_from_mesh(target_mesh: DynamicMesh,
@@ -1105,7 +1105,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_smooth_bone_weights"></a>
 
-#### compute_smooth_bone_weights
+#### compute\_smooth\_bone\_weights
 
 ```python
 def compute_smooth_bone_weights(
@@ -1129,7 +1129,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_self_union"></a>
 
-#### apply_mesh_self_union
+#### apply\_mesh\_self\_union
 
 ```python
 def apply_mesh_self_union(options: GeometryScriptMeshSelfUnionOptions,
@@ -1148,7 +1148,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_plane_slice"></a>
 
-#### apply_mesh_plane_slice
+#### apply\_mesh\_plane\_slice
 
 ```python
 def apply_mesh_plane_slice(cut_frame: Transform,
@@ -1169,7 +1169,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_plane_cut"></a>
 
-#### apply_mesh_plane_cut
+#### apply\_mesh\_plane\_cut
 
 ```python
 def apply_mesh_plane_cut(cut_frame: Transform,
@@ -1190,7 +1190,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_mirror"></a>
 
-#### apply_mesh_mirror
+#### apply\_mesh\_mirror
 
 ```python
 def apply_mesh_mirror(mirror_frame: Transform,
@@ -1211,7 +1211,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_boolean"></a>
 
-#### apply_mesh_boolean
+#### apply\_mesh\_boolean
 
 ```python
 def apply_mesh_boolean(target_transform: Transform,
@@ -1238,7 +1238,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.measure_distances_between_meshes"></a>
 
-#### measure_distances_between_meshes
+#### measure\_distances\_between\_meshes
 
 ```python
 def measure_distances_between_meshes(
@@ -1269,7 +1269,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.is_same_mesh_as"></a>
 
-#### is_same_mesh_as
+#### is\_same\_mesh\_as
 
 ```python
 def is_same_mesh_as(
@@ -1296,7 +1296,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.is_intersecting_mesh"></a>
 
-#### is_intersecting_mesh
+#### is\_intersecting\_mesh
 
 ```python
 def is_intersecting_mesh(
@@ -1322,7 +1322,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.split_mesh_by_polygroups"></a>
 
-#### split_mesh_by_polygroups
+#### split\_mesh\_by\_polygroups
 
 ```python
 def split_mesh_by_polygroups(
@@ -1350,7 +1350,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.split_mesh_by_material_i_ds"></a>
 
-#### split_mesh_by_material_i_ds
+#### split\_mesh\_by\_material\_i\_ds
 
 ```python
 def split_mesh_by_material_i_ds(
@@ -1376,7 +1376,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.split_mesh_by_components"></a>
 
-#### split_mesh_by_components
+#### split\_mesh\_by\_components
 
 ```python
 def split_mesh_by_components(
@@ -1400,7 +1400,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_sub_mesh_from_mesh"></a>
 
-#### get_sub_mesh_from_mesh
+#### get\_sub\_mesh\_from\_mesh
 
 ```python
 def get_sub_mesh_from_mesh(
@@ -1427,7 +1427,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.copy_mesh_to_mesh"></a>
 
-#### copy_mesh_to_mesh
+#### copy\_mesh\_to\_mesh
 
 ```python
 def copy_mesh_to_mesh(
@@ -1452,7 +1452,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.copy_mesh_selection_to_mesh"></a>
 
-#### copy_mesh_selection_to_mesh
+#### copy\_mesh\_selection\_to\_mesh
 
 ```python
 def copy_mesh_selection_to_mesh(
@@ -1483,7 +1483,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_twist_warp_to_mesh"></a>
 
-#### apply_twist_warp_to_mesh
+#### apply\_twist\_warp\_to\_mesh
 
 ```python
 def apply_twist_warp_to_mesh(options: GeometryScriptTwistWarpOptions,
@@ -1509,7 +1509,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_perlin_noise_to_mesh"></a>
 
-#### apply_perlin_noise_to_mesh
+#### apply\_perlin\_noise\_to\_mesh
 
 ```python
 def apply_perlin_noise_to_mesh(
@@ -1531,7 +1531,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_math_warp_to_mesh"></a>
 
-#### apply_math_warp_to_mesh
+#### apply\_math\_warp\_to\_mesh
 
 ```python
 def apply_math_warp_to_mesh(warp_orientation: Transform,
@@ -1555,7 +1555,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_iterative_smoothing_to_mesh"></a>
 
-#### apply_iterative_smoothing_to_mesh
+#### apply\_iterative\_smoothing\_to\_mesh
 
 ```python
 def apply_iterative_smoothing_to_mesh(
@@ -1577,7 +1577,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_flare_warp_to_mesh"></a>
 
-#### apply_flare_warp_to_mesh
+#### apply\_flare\_warp\_to\_mesh
 
 ```python
 def apply_flare_warp_to_mesh(options: GeometryScriptFlareWarpOptions,
@@ -1606,7 +1606,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_displace_from_texture_map"></a>
 
-#### apply_displace_from_texture_map
+#### apply\_displace\_from\_texture\_map
 
 ```python
 def apply_displace_from_texture_map(
@@ -1632,7 +1632,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_displace_from_per_vertex_vectors"></a>
 
-#### apply_displace_from_per_vertex_vectors
+#### apply\_displace\_from\_per\_vertex\_vectors
 
 ```python
 def apply_displace_from_per_vertex_vectors(
@@ -1657,7 +1657,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_bend_warp_to_mesh"></a>
 
-#### apply_bend_warp_to_mesh
+#### apply\_bend\_warp\_to\_mesh
 
 ```python
 def apply_bend_warp_to_mesh(options: GeometryScriptBendWarpOptions,
@@ -1683,7 +1683,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_shortest_vertex_path"></a>
 
-#### get_shortest_vertex_path
+#### get\_shortest\_vertex\_path
 
 ```python
 def get_shortest_vertex_path(
@@ -1711,7 +1711,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_shortest_surface_path"></a>
 
-#### get_shortest_surface_path
+#### get\_shortest\_surface\_path
 
 ```python
 def get_shortest_surface_path(
@@ -1743,7 +1743,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.create_surface_path"></a>
 
-#### create_surface_path
+#### create\_surface\_path
 
 ```python
 def create_surface_path(
@@ -1775,7 +1775,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_triangle_material_id"></a>
 
-#### set_triangle_material_id
+#### set\_triangle\_material\_id
 
 ```python
 def set_triangle_material_id(
@@ -1800,7 +1800,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_polygroup_material_id"></a>
 
-#### set_polygroup_material_id
+#### set\_polygroup\_material\_id
 
 ```python
 def set_polygroup_material_id(
@@ -1828,7 +1828,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_material_id_on_triangles"></a>
 
-#### set_material_id_on_triangles
+#### set\_material\_id\_on\_triangles
 
 ```python
 def set_material_id_on_triangles(
@@ -1852,7 +1852,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_material_id_for_mesh_selection"></a>
 
-#### set_material_id_for_mesh_selection
+#### set\_material\_id\_for\_mesh\_selection
 
 ```python
 def set_material_id_for_mesh_selection(
@@ -1876,7 +1876,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_all_triangle_material_i_ds"></a>
 
-#### set_all_triangle_material_i_ds
+#### set\_all\_triangle\_material\_i\_ds
 
 ```python
 def set_all_triangle_material_i_ds(
@@ -1898,7 +1898,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.remap_to_new_material_i_ds_by_material"></a>
 
-#### remap_to_new_material_i_ds_by_material
+#### remap\_to\_new\_material\_i\_ds\_by\_material
 
 ```python
 def remap_to_new_material_i_ds_by_material(
@@ -1927,7 +1927,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.remap_material_i_ds"></a>
 
-#### remap_material_i_ds
+#### remap\_material\_i\_ds
 
 ```python
 def remap_material_i_ds(from_material_id: int,
@@ -1948,7 +1948,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.remap_and_combine_materials"></a>
 
-#### remap_and_combine_materials
+#### remap\_and\_combine\_materials
 
 ```python
 def remap_and_combine_materials(
@@ -1982,7 +1982,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangles_by_material_id"></a>
 
-#### get_triangles_by_material_id
+#### get\_triangles\_by\_material\_id
 
 ```python
 def get_triangles_by_material_id(
@@ -2005,7 +2005,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_material_id"></a>
 
-#### get_triangle_material_id
+#### get\_triangle\_material\_id
 
 ```python
 def get_triangle_material_id(triangle_id: int) -> Tuple[int, bool]
@@ -2025,7 +2025,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_max_material_id"></a>
 
-#### get_max_material_id
+#### get\_max\_material\_id
 
 ```python
 def get_max_material_id() -> Tuple[int, bool]
@@ -2041,7 +2041,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_material_i_ds_of_triangles"></a>
 
-#### get_material_i_ds_of_triangles
+#### get\_material\_i\_ds\_of\_triangles
 
 ```python
 def get_material_i_ds_of_triangles(
@@ -2066,7 +2066,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_triangle_material_i_ds"></a>
 
-#### get_all_triangle_material_i_ds
+#### get\_all\_triangle\_material\_i\_ds
 
 ```python
 def get_all_triangle_material_i_ds(
@@ -2087,7 +2087,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.enable_material_i_ds"></a>
 
-#### enable_material_i_ds
+#### enable\_material\_i\_ds
 
 ```python
 def enable_material_i_ds(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -2105,7 +2105,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.delete_triangles_by_material_id"></a>
 
-#### delete_triangles_by_material_id
+#### delete\_triangles\_by\_material\_id
 
 ```python
 def delete_triangles_by_material_id(
@@ -2129,7 +2129,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compact_material_i_ds"></a>
 
-#### compact_material_i_ds
+#### compact\_material\_i\_ds
 
 ```python
 def compact_material_i_ds(
@@ -2155,7 +2155,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.clear_material_i_ds"></a>
 
-#### clear_material_i_ds
+#### clear\_material\_i\_ds
 
 ```python
 def clear_material_i_ds(clear_value: int = 0,
@@ -2175,7 +2175,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_shell"></a>
 
-#### apply_mesh_shell
+#### apply\_mesh\_shell
 
 ```python
 def apply_mesh_shell(options: GeometryScriptMeshOffsetOptions,
@@ -2195,7 +2195,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_polygroup_bevel"></a>
 
-#### apply_mesh_polygroup_bevel
+#### apply\_mesh\_polygroup\_bevel
 
 ```python
 def apply_mesh_polygroup_bevel(
@@ -2215,7 +2215,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_offset_faces"></a>
 
-#### apply_mesh_offset_faces
+#### apply\_mesh\_offset\_faces
 
 ```python
 def apply_mesh_offset_faces(options: GeometryScriptMeshOffsetFacesOptions,
@@ -2237,7 +2237,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_offset"></a>
 
-#### apply_mesh_offset
+#### apply\_mesh\_offset
 
 ```python
 def apply_mesh_offset(options: GeometryScriptMeshOffsetOptions,
@@ -2257,7 +2257,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_linear_extrude_faces"></a>
 
-#### apply_mesh_linear_extrude_faces
+#### apply\_mesh\_linear\_extrude\_faces
 
 ```python
 def apply_mesh_linear_extrude_faces(
@@ -2280,7 +2280,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_inset_outset_faces"></a>
 
-#### apply_mesh_inset_outset_faces
+#### apply\_mesh\_inset\_outset\_faces
 
 ```python
 def apply_mesh_inset_outset_faces(
@@ -2302,7 +2302,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_extrude_compatibility_5p0"></a>
 
-#### apply_mesh_extrude_compatibility_5p0
+#### apply\_mesh\_extrude\_compatibility\_5p0
 
 ```python
 def apply_mesh_extrude_compatibility_5p0(
@@ -2329,7 +2329,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_extrude"></a>
 
-#### apply_mesh_extrude
+#### apply\_mesh\_extrude
 
 ```python
 def apply_mesh_extrude(options: GeometryScriptMeshExtrudeOptions,
@@ -2340,7 +2340,7 @@ deprecated: 'apply_mesh_extrude' was renamed to 'apply_mesh_extrude_compatibilit
 
 <a id="unreal.DynamicMesh.apply_mesh_duplicate_faces"></a>
 
-#### apply_mesh_duplicate_faces
+#### apply\_mesh\_duplicate\_faces
 
 ```python
 def apply_mesh_duplicate_faces(
@@ -2367,7 +2367,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_disconnect_faces_along_edges"></a>
 
-#### apply_mesh_disconnect_faces_along_edges
+#### apply\_mesh\_disconnect\_faces\_along\_edges
 
 ```python
 def apply_mesh_disconnect_faces_along_edges(
@@ -2388,7 +2388,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_disconnect_faces"></a>
 
-#### apply_mesh_disconnect_faces
+#### apply\_mesh\_disconnect\_faces
 
 ```python
 def apply_mesh_disconnect_faces(
@@ -2411,7 +2411,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_bevel_selection"></a>
 
-#### apply_mesh_bevel_selection
+#### apply\_mesh\_bevel\_selection
 
 ```python
 def apply_mesh_bevel_selection(
@@ -2435,7 +2435,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_bevel_edge_selection"></a>
 
-#### apply_mesh_bevel_edge_selection
+#### apply\_mesh\_bevel\_edge\_selection
 
 ```python
 def apply_mesh_bevel_edge_selection(
@@ -2457,7 +2457,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.update_vertex_normal"></a>
 
-#### update_vertex_normal
+#### update\_vertex\_normal
 
 ```python
 def update_vertex_normal(
@@ -2498,7 +2498,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_split_normals_along_selected_edges"></a>
 
-#### set_split_normals_along_selected_edges
+#### set\_split\_normals\_along\_selected\_edges
 
 ```python
 def set_split_normals_along_selected_edges(
@@ -2528,7 +2528,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_per_vertex_normals"></a>
 
-#### set_per_vertex_normals
+#### set\_per\_vertex\_normals
 
 ```python
 def set_per_vertex_normals(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -2546,7 +2546,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_per_face_normals"></a>
 
-#### set_per_face_normals
+#### set\_per\_face\_normals
 
 ```python
 def set_per_face_normals(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -2564,7 +2564,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_triangle_normals"></a>
 
-#### set_mesh_triangle_normals
+#### set\_mesh\_triangle\_normals
 
 ```python
 def set_mesh_triangle_normals(
@@ -2590,7 +2590,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_per_vertex_tangents"></a>
 
-#### set_mesh_per_vertex_tangents
+#### set\_mesh\_per\_vertex\_tangents
 
 ```python
 def set_mesh_per_vertex_tangents(
@@ -2613,7 +2613,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_per_vertex_normals"></a>
 
-#### set_mesh_per_vertex_normals
+#### set\_mesh\_per\_vertex\_normals
 
 ```python
 def set_mesh_per_vertex_normals(
@@ -2633,7 +2633,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.recompute_normals_for_mesh_selection"></a>
 
-#### recompute_normals_for_mesh_selection
+#### recompute\_normals\_for\_mesh\_selection
 
 ```python
 def recompute_normals_for_mesh_selection(
@@ -2659,7 +2659,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 def recompute_normals(calculate_options: GeometryScriptCalculateNormalsOptions,
@@ -2682,7 +2682,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_per_vertex_tangents"></a>
 
-#### get_mesh_per_vertex_tangents
+#### get\_mesh\_per\_vertex\_tangents
 
 ```python
 def get_mesh_per_vertex_tangents(
@@ -2712,7 +2712,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_per_vertex_normals"></a>
 
-#### get_mesh_per_vertex_normals
+#### get\_mesh\_per\_vertex\_normals
 
 ```python
 def get_mesh_per_vertex_normals(
@@ -2739,7 +2739,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_has_tangents"></a>
 
-#### get_mesh_has_tangents
+#### get\_mesh\_has\_tangents
 
 ```python
 def get_mesh_has_tangents(
@@ -2759,7 +2759,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.flip_normals"></a>
 
-#### flip_normals
+#### flip\_normals
 
 ```python
 def flip_normals(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -2776,7 +2776,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.discard_tangents"></a>
 
-#### discard_tangents
+#### discard\_tangents
 
 ```python
 def discard_tangents(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -2793,7 +2793,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_tangents"></a>
 
-#### compute_tangents
+#### compute\_tangents
 
 ```python
 def compute_tangents(options: GeometryScriptTangentsOptions,
@@ -2813,7 +2813,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_split_normals"></a>
 
-#### compute_split_normals
+#### compute\_split\_normals
 
 ```python
 def compute_split_normals(
@@ -2837,7 +2837,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.auto_repair_normals"></a>
 
-#### auto_repair_normals
+#### auto\_repair\_normals
 
 ```python
 def auto_repair_normals(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -2858,7 +2858,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_polygroup_for_mesh_selection"></a>
 
-#### set_polygroup_for_mesh_selection
+#### set\_polygroup\_for\_mesh\_selection
 
 ```python
 def set_polygroup_for_mesh_selection(
@@ -2886,7 +2886,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_num_extended_polygroup_layers"></a>
 
-#### set_num_extended_polygroup_layers
+#### set\_num\_extended\_polygroup\_layers
 
 ```python
 def set_num_extended_polygroup_layers(num_layers: int,
@@ -2906,7 +2906,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangles_in_polygroup"></a>
 
-#### get_triangles_in_polygroup
+#### get\_triangles\_in\_polygroup
 
 ```python
 def get_triangles_in_polygroup(
@@ -2930,7 +2930,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_polygroup_id"></a>
 
-#### get_triangle_polygroup_id
+#### get\_triangle\_polygroup\_id
 
 ```python
 def get_triangle_polygroup_id(group_layer: GeometryScriptGroupLayer,
@@ -2952,7 +2952,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_polygroup_i_ds_in_mesh"></a>
 
-#### get_polygroup_i_ds_in_mesh
+#### get\_polygroup\_i\_ds\_in\_mesh
 
 ```python
 def get_polygroup_i_ds_in_mesh(
@@ -2975,7 +2975,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_triangle_polygroup_i_ds"></a>
 
-#### get_all_triangle_polygroup_i_ds
+#### get\_all\_triangle\_polygroup\_i\_ds
 
 ```python
 def get_all_triangle_polygroup_i_ds(
@@ -2999,7 +2999,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.enable_polygroups"></a>
 
-#### enable_polygroups
+#### enable\_polygroups
 
 ```python
 def enable_polygroups(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -3016,7 +3016,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.delete_triangles_in_polygroup"></a>
 
-#### delete_triangles_in_polygroup
+#### delete\_triangles\_in\_polygroup
 
 ```python
 def delete_triangles_in_polygroup(
@@ -3042,7 +3042,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.copy_polygroups_layer"></a>
 
-#### copy_polygroups_layer
+#### copy\_polygroups\_layer
 
 ```python
 def copy_polygroups_layer(from_group_layer: GeometryScriptGroupLayer,
@@ -3064,7 +3064,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_uv_islands_to_polygroups"></a>
 
-#### convert_uv_islands_to_polygroups
+#### convert\_uv\_islands\_to\_polygroups
 
 ```python
 def convert_uv_islands_to_polygroups(
@@ -3087,7 +3087,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_components_to_polygroups"></a>
 
-#### convert_components_to_polygroups
+#### convert\_components\_to\_polygroups
 
 ```python
 def convert_components_to_polygroups(
@@ -3108,7 +3108,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_polygroups_from_polygon_detection"></a>
 
-#### compute_polygroups_from_polygon_detection
+#### compute\_polygroups\_from\_polygon\_detection
 
 ```python
 def compute_polygroups_from_polygon_detection(
@@ -3138,7 +3138,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_polygroups_from_angle_threshold"></a>
 
-#### compute_polygroups_from_angle_threshold
+#### compute\_polygroups\_from\_angle\_threshold
 
 ```python
 def compute_polygroups_from_angle_threshold(
@@ -3163,7 +3163,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.clear_polygroups"></a>
 
-#### clear_polygroups
+#### clear\_polygroups
 
 ```python
 def clear_polygroups(group_layer: GeometryScriptGroupLayer,
@@ -3185,7 +3185,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_voronoi_diagram2d"></a>
 
-#### append_voronoi_diagram2d
+#### append\_voronoi\_diagram2d
 
 ```python
 def append_voronoi_diagram2d(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3210,7 +3210,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_triangulated_polygon3d"></a>
 
-#### append_triangulated_polygon3d
+#### append\_triangulated\_polygon3d
 
 ```python
 def append_triangulated_polygon3d(
@@ -3236,7 +3236,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_triangulated_polygon"></a>
 
-#### append_triangulated_polygon
+#### append\_triangulated\_polygon
 
 ```python
 def append_triangulated_polygon(
@@ -3264,7 +3264,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_torus"></a>
 
-#### append_torus
+#### append\_torus
 
 ```python
 def append_torus(
@@ -3299,7 +3299,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_sweep_polyline"></a>
 
-#### append_sweep_polyline
+#### append\_sweep\_polyline
 
 ```python
 def append_sweep_polyline(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3340,7 +3340,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_sweep_polygon"></a>
 
-#### append_sweep_polygon
+#### append\_sweep\_polygon
 
 ```python
 def append_sweep_polygon(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3379,7 +3379,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_spiral_revolve_polygon"></a>
 
-#### append_spiral_revolve_polygon
+#### append\_spiral\_revolve\_polygon
 
 ```python
 def append_spiral_revolve_polygon(
@@ -3411,7 +3411,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_sphere_lat_long_with_collision"></a>
 
-#### append_sphere_lat_long_with_collision
+#### append\_sphere\_lat\_long\_with\_collision
 
 ```python
 def append_sphere_lat_long_with_collision(
@@ -3447,7 +3447,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_sphere_lat_long"></a>
 
-#### append_sphere_lat_long
+#### append\_sphere\_lat\_long
 
 ```python
 def append_sphere_lat_long(
@@ -3479,7 +3479,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_sphere_box_with_collision"></a>
 
-#### append_sphere_box_with_collision
+#### append\_sphere\_box\_with\_collision
 
 ```python
 def append_sphere_box_with_collision(
@@ -3517,7 +3517,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_sphere_box"></a>
 
-#### append_sphere_box
+#### append\_sphere\_box
 
 ```python
 def append_sphere_box(
@@ -3551,7 +3551,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_simple_swept_polygon"></a>
 
-#### append_simple_swept_polygon
+#### append\_simple\_swept\_polygon
 
 ```python
 def append_simple_swept_polygon(
@@ -3589,7 +3589,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_simple_extrude_polygon"></a>
 
-#### append_simple_extrude_polygon
+#### append\_simple\_extrude\_polygon
 
 ```python
 def append_simple_extrude_polygon(
@@ -3623,7 +3623,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_round_rectangle_xy"></a>
 
-#### append_round_rectangle_xy
+#### append\_round\_rectangle\_xy
 
 ```python
 def append_round_rectangle_xy(
@@ -3657,7 +3657,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_round_rectangle_compatibility_5_0"></a>
 
-#### append_round_rectangle_compatibility_5_0
+#### append\_round\_rectangle\_compatibility\_5\_0
 
 ```python
 def append_round_rectangle_compatibility_5_0(
@@ -3693,7 +3693,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_round_rectangle"></a>
 
-#### append_round_rectangle
+#### append\_round\_rectangle
 
 ```python
 def append_round_rectangle(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3711,7 +3711,7 @@ deprecated: 'append_round_rectangle' was renamed to 'append_round_rectangle_comp
 
 <a id="unreal.DynamicMesh.append_revolve_polygon"></a>
 
-#### append_revolve_polygon
+#### append\_revolve\_polygon
 
 ```python
 def append_revolve_polygon(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3742,7 +3742,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_revolve_path"></a>
 
-#### append_revolve_path
+#### append\_revolve\_path
 
 ```python
 def append_revolve_path(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3771,7 +3771,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_rectangle_xy"></a>
 
-#### append_rectangle_xy
+#### append\_rectangle\_xy
 
 ```python
 def append_rectangle_xy(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3800,7 +3800,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_rectangle_compatibility_5_0"></a>
 
-#### append_rectangle_compatibility_5_0
+#### append\_rectangle\_compatibility\_5\_0
 
 ```python
 def append_rectangle_compatibility_5_0(
@@ -3832,7 +3832,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_rectangle"></a>
 
-#### append_rectangle
+#### append\_rectangle
 
 ```python
 def append_rectangle(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3848,7 +3848,7 @@ deprecated: 'append_rectangle' was renamed to 'append_rectangle_compatibility_5_
 
 <a id="unreal.DynamicMesh.append_linear_stairs"></a>
 
-#### append_linear_stairs
+#### append\_linear\_stairs
 
 ```python
 def append_linear_stairs(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3879,7 +3879,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_disc"></a>
 
-#### append_disc
+#### append\_disc
 
 ```python
 def append_disc(primitive_options: GeometryScriptPrimitiveOptions,
@@ -3912,7 +3912,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_delaunay_triangulation2d"></a>
 
-#### append_delaunay_triangulation2d
+#### append\_delaunay\_triangulation2d
 
 ```python
 def append_delaunay_triangulation2d(
@@ -3949,7 +3949,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_cylinder"></a>
 
-#### append_cylinder
+#### append\_cylinder
 
 ```python
 def append_cylinder(
@@ -3984,7 +3984,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_curved_stairs"></a>
 
-#### append_curved_stairs
+#### append\_curved\_stairs
 
 ```python
 def append_curved_stairs(primitive_options: GeometryScriptPrimitiveOptions,
@@ -4017,7 +4017,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_cone"></a>
 
-#### append_cone
+#### append\_cone
 
 ```python
 def append_cone(
@@ -4054,7 +4054,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_capsule_with_collision"></a>
 
-#### append_capsule_with_collision
+#### append\_capsule\_with\_collision
 
 ```python
 def append_capsule_with_collision(
@@ -4094,7 +4094,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_capsule"></a>
 
-#### append_capsule
+#### append\_capsule
 
 ```python
 def append_capsule(
@@ -4129,7 +4129,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_box_with_collision"></a>
 
-#### append_box_with_collision
+#### append\_box\_with\_collision
 
 ```python
 def append_box_with_collision(
@@ -4170,7 +4170,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_box"></a>
 
-#### append_box
+#### append\_box
 
 ```python
 def append_box(
@@ -4207,7 +4207,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_bounding_box_with_collision"></a>
 
-#### append_bounding_box_with_collision
+#### append\_bounding\_box\_with\_collision
 
 ```python
 def append_bounding_box_with_collision(
@@ -4241,7 +4241,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.append_bounding_box"></a>
 
-#### append_bounding_box
+#### append\_bounding\_box
 
 ```python
 def append_bounding_box(primitive_options: GeometryScriptPrimitiveOptions,
@@ -4270,7 +4270,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.is_valid_vertex_id"></a>
 
-#### is_valid_vertex_id
+#### is\_valid\_vertex\_id
 
 ```python
 def is_valid_vertex_id(vertex_id: int) -> bool
@@ -4287,7 +4287,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.is_valid_triangle_id"></a>
 
-#### is_valid_triangle_id
+#### is\_valid\_triangle\_id
 
 ```python
 def is_valid_triangle_id(triangle_id: int) -> bool
@@ -4304,7 +4304,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_vertex_position"></a>
 
-#### get_vertex_position
+#### get\_vertex\_position
 
 ```python
 def get_vertex_position(vertex_id: int) -> Tuple[Vector, bool]
@@ -4323,7 +4323,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_vertex_count"></a>
 
-#### get_vertex_count
+#### get\_vertex\_count
 
 ```python
 def get_vertex_count() -> int
@@ -4337,7 +4337,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_vertex_connected_vertices"></a>
 
-#### get_vertex_connected_vertices
+#### get\_vertex\_connected\_vertices
 
 ```python
 def get_vertex_connected_vertices(
@@ -4357,7 +4357,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_vertex_connected_triangles"></a>
 
-#### get_vertex_connected_triangles
+#### get\_vertex\_connected\_triangles
 
 ```python
 def get_vertex_connected_triangles(
@@ -4377,7 +4377,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_uv_set_bounding_box"></a>
 
-#### get_uv_set_bounding_box
+#### get\_uv\_set\_bounding\_box
 
 ```python
 def get_uv_set_bounding_box(uv_set_index: int) -> Tuple[Box2D, bool, bool]
@@ -4398,7 +4398,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_vertex_colors"></a>
 
-#### get_triangle_vertex_colors
+#### get\_triangle\_vertex\_colors
 
 ```python
 def get_triangle_vertex_colors(
@@ -4426,7 +4426,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_u_vs"></a>
 
-#### get_triangle_u_vs
+#### get\_triangle\_u\_vs
 
 ```python
 def get_triangle_u_vs(
@@ -4455,7 +4455,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_positions"></a>
 
-#### get_triangle_positions
+#### get\_triangle\_positions
 
 ```python
 def get_triangle_positions(
@@ -4482,7 +4482,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_normal_tangents"></a>
 
-#### get_triangle_normal_tangents
+#### get\_triangle\_normal\_tangents
 
 ```python
 def get_triangle_normal_tangents(
@@ -4511,7 +4511,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_normals"></a>
 
-#### get_triangle_normals
+#### get\_triangle\_normals
 
 ```python
 def get_triangle_normals(
@@ -4538,7 +4538,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_indices"></a>
 
-#### get_triangle_indices
+#### get\_triangle\_indices
 
 ```python
 def get_triangle_indices(triangle_id: int) -> Tuple[IntVector, bool]
@@ -4557,7 +4557,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_triangle_face_normal"></a>
 
-#### get_triangle_face_normal
+#### get\_triangle\_face\_normal
 
 ```python
 def get_triangle_face_normal(triangle_id: int) -> Tuple[Vector, bool]
@@ -4576,7 +4576,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_num_vertex_i_ds"></a>
 
-#### get_num_vertex_i_ds
+#### get\_num\_vertex\_i\_ds
 
 ```python
 def get_num_vertex_i_ds() -> int
@@ -4590,7 +4590,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_num_uv_sets"></a>
 
-#### get_num_uv_sets
+#### get\_num\_uv\_sets
 
 ```python
 def get_num_uv_sets() -> int
@@ -4604,7 +4604,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_num_uv_islands"></a>
 
-#### get_num_uv_islands
+#### get\_num\_uv\_islands
 
 ```python
 def get_num_uv_islands(uv_channel: int) -> Tuple[int, bool]
@@ -4623,7 +4623,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_num_triangle_i_ds"></a>
 
-#### get_num_triangle_i_ds
+#### get\_num\_triangle\_i\_ds
 
 ```python
 def get_num_triangle_i_ds() -> int
@@ -4637,7 +4637,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_num_open_border_loops"></a>
 
-#### get_num_open_border_loops
+#### get\_num\_open\_border\_loops
 
 ```python
 def get_num_open_border_loops() -> Tuple[int, bool]
@@ -4653,7 +4653,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_num_open_border_edges"></a>
 
-#### get_num_open_border_edges
+#### get\_num\_open\_border\_edges
 
 ```python
 def get_num_open_border_edges() -> int
@@ -4667,7 +4667,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_num_extended_polygroup_layers"></a>
 
-#### get_num_extended_polygroup_layers
+#### get\_num\_extended\_polygroup\_layers
 
 ```python
 def get_num_extended_polygroup_layers() -> int
@@ -4681,7 +4681,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_num_connected_components"></a>
 
-#### get_num_connected_components
+#### get\_num\_connected\_components
 
 ```python
 def get_num_connected_components() -> int
@@ -4695,7 +4695,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_volume_area_center"></a>
 
-#### get_mesh_volume_area_center
+#### get\_mesh\_volume\_area\_center
 
 ```python
 def get_mesh_volume_area_center() -> Tuple[float, float, Vector]
@@ -4715,7 +4715,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_volume_area"></a>
 
-#### get_mesh_volume_area
+#### get\_mesh\_volume\_area
 
 ```python
 def get_mesh_volume_area() -> Tuple[float, float]
@@ -4733,7 +4733,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_uv_area"></a>
 
-#### get_mesh_uv_area
+#### get\_mesh\_uv\_area
 
 ```python
 def get_mesh_uv_area(uv_channel: int) -> Tuple[float, bool]
@@ -4752,7 +4752,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_info_string"></a>
 
-#### get_mesh_info_string
+#### get\_mesh\_info\_string
 
 ```python
 def get_mesh_info_string() -> str
@@ -4766,7 +4766,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_has_attribute_set"></a>
 
-#### get_mesh_has_attribute_set
+#### get\_mesh\_has\_attribute\_set
 
 ```python
 def get_mesh_has_attribute_set() -> bool
@@ -4780,7 +4780,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_bounding_box"></a>
 
-#### get_mesh_bounding_box
+#### get\_mesh\_bounding\_box
 
 ```python
 def get_mesh_bounding_box() -> Box
@@ -4794,7 +4794,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_is_dense_mesh"></a>
 
-#### get_is_dense_mesh
+#### get\_is\_dense\_mesh
 
 ```python
 def get_is_dense_mesh() -> bool
@@ -4809,7 +4809,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_is_closed_mesh"></a>
 
-#### get_is_closed_mesh
+#### get\_is\_closed\_mesh
 
 ```python
 def get_is_closed_mesh() -> bool
@@ -4823,7 +4823,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_interpolated_triangle_vertex_color"></a>
 
-#### get_interpolated_triangle_vertex_color
+#### get\_interpolated\_triangle\_vertex\_color
 
 ```python
 def get_interpolated_triangle_vertex_color(
@@ -4849,7 +4849,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_interpolated_triangle_uv"></a>
 
-#### get_interpolated_triangle_uv
+#### get\_interpolated\_triangle\_uv
 
 ```python
 def get_interpolated_triangle_uv(
@@ -4875,7 +4875,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_interpolated_triangle_position"></a>
 
-#### get_interpolated_triangle_position
+#### get\_interpolated\_triangle\_position
 
 ```python
 def get_interpolated_triangle_position(
@@ -4900,7 +4900,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_interpolated_triangle_normal_tangents"></a>
 
-#### get_interpolated_triangle_normal_tangents
+#### get\_interpolated\_triangle\_normal\_tangents
 
 ```python
 def get_interpolated_triangle_normal_tangents(
@@ -4928,7 +4928,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_interpolated_triangle_normal"></a>
 
-#### get_interpolated_triangle_normal
+#### get\_interpolated\_triangle\_normal
 
 ```python
 def get_interpolated_triangle_normal(
@@ -4953,7 +4953,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_has_vertex_id_gaps"></a>
 
-#### get_has_vertex_id_gaps
+#### get\_has\_vertex\_id\_gaps
 
 ```python
 def get_has_vertex_id_gaps() -> bool
@@ -4967,7 +4967,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_has_vertex_colors"></a>
 
-#### get_has_vertex_colors
+#### get\_has\_vertex\_colors
 
 ```python
 def get_has_vertex_colors() -> bool
@@ -4981,7 +4981,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_has_triangle_normals"></a>
 
-#### get_has_triangle_normals
+#### get\_has\_triangle\_normals
 
 ```python
 def get_has_triangle_normals() -> bool
@@ -4995,7 +4995,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_has_triangle_id_gaps"></a>
 
-#### get_has_triangle_id_gaps
+#### get\_has\_triangle\_id\_gaps
 
 ```python
 def get_has_triangle_id_gaps() -> bool
@@ -5009,7 +5009,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_has_polygroups"></a>
 
-#### get_has_polygroups
+#### get\_has\_polygroups
 
 ```python
 def get_has_polygroups() -> bool
@@ -5023,7 +5023,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_has_material_i_ds"></a>
 
-#### get_has_material_i_ds
+#### get\_has\_material\_i\_ds
 
 ```python
 def get_has_material_i_ds() -> bool
@@ -5037,7 +5037,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_vertex_positions_at_edges"></a>
 
-#### get_all_vertex_positions_at_edges
+#### get\_all\_vertex\_positions\_at\_edges
 
 ```python
 def get_all_vertex_positions_at_edges(
@@ -5060,7 +5060,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_vertex_positions"></a>
 
-#### get_all_vertex_positions
+#### get\_all\_vertex\_positions
 
 ```python
 def get_all_vertex_positions(
@@ -5082,7 +5082,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_vertex_i_ds"></a>
 
-#### get_all_vertex_i_ds
+#### get\_all\_vertex\_i\_ds
 
 ```python
 def get_all_vertex_i_ds() -> Tuple[DynamicMesh, GeometryScriptIndexList, bool]
@@ -5100,7 +5100,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_uv_seam_edges"></a>
 
-#### get_all_uv_seam_edges
+#### get\_all\_uv\_seam\_edges
 
 ```python
 def get_all_uv_seam_edges(
@@ -5123,7 +5123,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_triangle_indices"></a>
 
-#### get_all_triangle_indices
+#### get\_all\_triangle\_indices
 
 ```python
 def get_all_triangle_indices(
@@ -5147,7 +5147,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_triangle_i_ds"></a>
 
-#### get_all_triangle_i_ds
+#### get\_all\_triangle\_i\_ds
 
 ```python
 def get_all_triangle_i_ds(
@@ -5166,7 +5166,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_all_split_u_vs_at_vertex"></a>
 
-#### get_all_split_u_vs_at_vertex
+#### get\_all\_split\_u\_vs\_at\_vertex
 
 ```python
 def get_all_split_u_vs_at_vertex(
@@ -5193,7 +5193,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_triangle_barycentric_coords"></a>
 
-#### compute_triangle_barycentric_coords
+#### compute\_triangle\_barycentric\_coords
 
 ```python
 def compute_triangle_barycentric_coords(
@@ -5227,7 +5227,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_uniform_remesh"></a>
 
-#### apply_uniform_remesh
+#### apply\_uniform\_remesh
 
 ```python
 def apply_uniform_remesh(remesh_options: GeometryScriptRemeshOptions,
@@ -5249,7 +5249,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.weld_mesh_edges"></a>
 
-#### weld_mesh_edges
+#### weld\_mesh\_edges
 
 ```python
 def weld_mesh_edges(weld_options: GeometryScriptWeldEdgesOptions,
@@ -5268,7 +5268,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.split_mesh_bowties"></a>
 
-#### split_mesh_bowties
+#### split\_mesh\_bowties
 
 ```python
 def split_mesh_bowties(mesh_bowties: bool = True,
@@ -5290,7 +5290,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.snap_mesh_open_boundaries"></a>
 
-#### snap_mesh_open_boundaries
+#### snap\_mesh\_open\_boundaries
 
 ```python
 def snap_mesh_open_boundaries(
@@ -5311,7 +5311,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.resolve_mesh_t_junctions"></a>
 
-#### resolve_mesh_t_junctions
+#### resolve\_mesh\_t\_junctions
 
 ```python
 def resolve_mesh_t_junctions(
@@ -5331,7 +5331,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.repair_mesh_degenerate_geometry"></a>
 
-#### repair_mesh_degenerate_geometry
+#### repair\_mesh\_degenerate\_geometry
 
 ```python
 def repair_mesh_degenerate_geometry(
@@ -5351,7 +5351,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.remove_unused_vertices"></a>
 
-#### remove_unused_vertices
+#### remove\_unused\_vertices
 
 ```python
 def remove_unused_vertices(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -5368,7 +5368,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.remove_small_components"></a>
 
-#### remove_small_components
+#### remove\_small\_components
 
 ```python
 def remove_small_components(options: GeometryScriptRemoveSmallComponentOptions,
@@ -5387,7 +5387,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.remove_hidden_triangles"></a>
 
-#### remove_hidden_triangles
+#### remove\_hidden\_triangles
 
 ```python
 def remove_hidden_triangles(
@@ -5408,7 +5408,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.fill_all_mesh_holes"></a>
 
-#### fill_all_mesh_holes
+#### fill\_all\_mesh\_holes
 
 ```python
 def fill_all_mesh_holes(
@@ -5432,7 +5432,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compact_mesh"></a>
 
-#### compact_mesh
+#### compact\_mesh
 
 ```python
 def compact_mesh(debug: GeometryScriptDebug = None) -> DynamicMesh
@@ -5449,7 +5449,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_vertex_weighted_point_sampling"></a>
 
-#### compute_vertex_weighted_point_sampling
+#### compute\_vertex\_weighted\_point\_sampling
 
 ```python
 def compute_vertex_weighted_point_sampling(
@@ -5483,7 +5483,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_point_sampling"></a>
 
-#### compute_point_sampling
+#### compute\_point\_sampling
 
 ```python
 def compute_point_sampling(
@@ -5510,7 +5510,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_non_uniform_point_sampling"></a>
 
-#### compute_non_uniform_point_sampling
+#### compute\_non\_uniform\_point\_sampling
 
 ```python
 def compute_non_uniform_point_sampling(
@@ -5542,7 +5542,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_selection_boundary_edges"></a>
 
-#### select_selection_boundary_edges
+#### select\_selection\_boundary\_edges
 
 ```python
 def select_selection_boundary_edges(
@@ -5565,7 +5565,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_sharp_edges"></a>
 
-#### select_mesh_sharp_edges
+#### select\_mesh\_sharp\_edges
 
 ```python
 def select_mesh_sharp_edges(
@@ -5586,7 +5586,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_elements_with_plane"></a>
 
-#### select_mesh_elements_with_plane
+#### select\_mesh\_elements\_with\_plane
 
 ```python
 def select_mesh_elements_with_plane(
@@ -5617,7 +5617,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_elements_in_sphere"></a>
 
-#### select_mesh_elements_in_sphere
+#### select\_mesh\_elements\_in\_sphere
 
 ```python
 def select_mesh_elements_in_sphere(
@@ -5648,7 +5648,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_elements_inside_mesh"></a>
 
-#### select_mesh_elements_inside_mesh
+#### select\_mesh\_elements\_inside\_mesh
 
 ```python
 def select_mesh_elements_inside_mesh(
@@ -5684,7 +5684,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_elements_in_box"></a>
 
-#### select_mesh_elements_in_box
+#### select\_mesh\_elements\_in\_box
 
 ```python
 def select_mesh_elements_in_box(
@@ -5713,7 +5713,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_elements_by_polygroup"></a>
 
-#### select_mesh_elements_by_polygroup
+#### select\_mesh\_elements\_by\_polygroup
 
 ```python
 def select_mesh_elements_by_polygroup(
@@ -5739,7 +5739,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_elements_by_normal_angle"></a>
 
-#### select_mesh_elements_by_normal_angle
+#### select\_mesh\_elements\_by\_normal\_angle
 
 ```python
 def select_mesh_elements_by_normal_angle(
@@ -5772,7 +5772,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_elements_by_material_id"></a>
 
-#### select_mesh_elements_by_material_id
+#### select\_mesh\_elements\_by\_material\_id
 
 ```python
 def select_mesh_elements_by_material_id(
@@ -5796,7 +5796,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_boundary_edges"></a>
 
-#### select_mesh_boundary_edges
+#### select\_mesh\_boundary\_edges
 
 ```python
 def select_mesh_boundary_edges(
@@ -5813,7 +5813,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.invert_mesh_selection"></a>
 
-#### invert_mesh_selection
+#### invert\_mesh\_selection
 
 ```python
 def invert_mesh_selection(
@@ -5836,7 +5836,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_unique_selection_info"></a>
 
-#### get_mesh_unique_selection_info
+#### get\_mesh\_unique\_selection\_info
 
 ```python
 def get_mesh_unique_selection_info(
@@ -5859,7 +5859,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.expand_mesh_selection_to_connected"></a>
 
-#### expand_mesh_selection_to_connected
+#### expand\_mesh\_selection\_to\_connected
 
 ```python
 def expand_mesh_selection_to_connected(
@@ -5884,7 +5884,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.expand_contract_mesh_selection"></a>
 
-#### expand_contract_mesh_selection
+#### expand\_contract\_mesh\_selection
 
 ```python
 def expand_contract_mesh_selection(
@@ -5914,7 +5914,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.create_select_all_mesh_selection"></a>
 
-#### create_select_all_mesh_selection
+#### create\_select\_all\_mesh\_selection
 
 ```python
 def create_select_all_mesh_selection(
@@ -5936,7 +5936,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_mesh_selection_to_index_list"></a>
 
-#### convert_mesh_selection_to_index_list
+#### convert\_mesh\_selection\_to\_index\_list
 
 ```python
 def convert_mesh_selection_to_index_list(
@@ -5961,7 +5961,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_mesh_selection_to_index_array"></a>
 
-#### convert_mesh_selection_to_index_array
+#### convert\_mesh\_selection\_to\_index\_array
 
 ```python
 def convert_mesh_selection_to_index_array(
@@ -5984,7 +5984,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_mesh_selection"></a>
 
-#### convert_mesh_selection
+#### convert\_mesh\_selection
 
 ```python
 def convert_mesh_selection(
@@ -6017,7 +6017,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_index_set_to_mesh_selection"></a>
 
-#### convert_index_set_to_mesh_selection
+#### convert\_index\_set\_to\_mesh\_selection
 
 ```python
 def convert_index_set_to_mesh_selection(
@@ -6039,7 +6039,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_index_list_to_mesh_selection"></a>
 
-#### convert_index_list_to_mesh_selection
+#### convert\_index\_list\_to\_mesh\_selection
 
 ```python
 def convert_index_list_to_mesh_selection(
@@ -6063,7 +6063,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_index_array_to_mesh_selection"></a>
 
-#### convert_index_array_to_mesh_selection
+#### convert\_index\_array\_to\_mesh\_selection
 
 ```python
 def convert_index_array_to_mesh_selection(
@@ -6085,7 +6085,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_selection_bounding_box"></a>
 
-#### get_mesh_selection_bounding_box
+#### get\_mesh\_selection\_bounding\_box
 
 ```python
 def get_mesh_selection_bounding_box(
@@ -6109,7 +6109,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_selection_boundary_loops"></a>
 
-#### get_mesh_selection_boundary_loops
+#### get\_mesh\_selection\_boundary\_loops
 
 ```python
 def get_mesh_selection_boundary_loops(
@@ -6140,7 +6140,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_simplify_to_vertex_count"></a>
 
-#### apply_simplify_to_vertex_count
+#### apply\_simplify\_to\_vertex\_count
 
 ```python
 def apply_simplify_to_vertex_count(
@@ -6162,7 +6162,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_simplify_to_triangle_count"></a>
 
-#### apply_simplify_to_triangle_count
+#### apply\_simplify\_to\_triangle\_count
 
 ```python
 def apply_simplify_to_triangle_count(
@@ -6184,7 +6184,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_simplify_to_tolerance"></a>
 
-#### apply_simplify_to_tolerance
+#### apply\_simplify\_to\_tolerance
 
 ```python
 def apply_simplify_to_tolerance(
@@ -6207,7 +6207,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_simplify_to_polygroup_topology"></a>
 
-#### apply_simplify_to_polygroup_topology
+#### apply\_simplify\_to\_polygroup\_topology
 
 ```python
 def apply_simplify_to_polygroup_topology(
@@ -6230,7 +6230,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_simplify_to_planar"></a>
 
-#### apply_simplify_to_planar
+#### apply\_simplify\_to\_planar
 
 ```python
 def apply_simplify_to_planar(options: GeometryScriptPlanarSimplifyOptions,
@@ -6250,7 +6250,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.select_mesh_elements_in_box_with_bvh"></a>
 
-#### select_mesh_elements_in_box_with_bvh
+#### select\_mesh\_elements\_in\_box\_with\_bvh
 
 ```python
 def select_mesh_elements_in_box_with_bvh(
@@ -6286,7 +6286,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.rebuild_bvh_for_mesh"></a>
 
-#### rebuild_bvh_for_mesh
+#### rebuild\_bvh\_for\_mesh
 
 ```python
 def rebuild_bvh_for_mesh(
@@ -6311,7 +6311,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.is_point_inside_mesh"></a>
 
-#### is_point_inside_mesh
+#### is\_point\_inside\_mesh
 
 ```python
 def is_point_inside_mesh(
@@ -6340,7 +6340,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.is_bvh_valid_for_mesh"></a>
 
-#### is_bvh_valid_for_mesh
+#### is\_bvh\_valid\_for\_mesh
 
 ```python
 def is_bvh_valid_for_mesh(
@@ -6362,7 +6362,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.find_nearest_ray_intersection_with_mesh"></a>
 
-#### find_nearest_ray_intersection_with_mesh
+#### find\_nearest\_ray\_intersection\_with\_mesh
 
 ```python
 def find_nearest_ray_intersection_with_mesh(
@@ -6396,7 +6396,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.find_nearest_point_on_mesh"></a>
 
-#### find_nearest_point_on_mesh
+#### find\_nearest\_point\_on\_mesh
 
 ```python
 def find_nearest_point_on_mesh(
@@ -6426,7 +6426,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.build_bvh_for_mesh"></a>
 
-#### build_bvh_for_mesh
+#### build\_bvh\_for\_mesh
 
 ```python
 def build_bvh_for_mesh(
@@ -6447,7 +6447,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_uniform_tessellation"></a>
 
-#### apply_uniform_tessellation
+#### apply\_uniform\_tessellation
 
 ```python
 def apply_uniform_tessellation(
@@ -6467,7 +6467,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_selective_tessellation"></a>
 
-#### apply_selective_tessellation
+#### apply\_selective\_tessellation
 
 ```python
 def apply_selective_tessellation(
@@ -6496,7 +6496,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_pn_tessellation"></a>
 
-#### apply_pn_tessellation
+#### apply\_pn\_tessellation
 
 ```python
 def apply_pn_tessellation(options: GeometryScriptPNTessellateOptions,
@@ -6517,7 +6517,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.translate_pivot_to_location"></a>
 
-#### translate_pivot_to_location
+#### translate\_pivot\_to\_location
 
 ```python
 def translate_pivot_to_location(
@@ -6538,7 +6538,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.translate_mesh_selection"></a>
 
-#### translate_mesh_selection
+#### translate\_mesh\_selection
 
 ```python
 def translate_mesh_selection(selection: GeometryScriptMeshSelection,
@@ -6559,7 +6559,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.translate_mesh"></a>
 
-#### translate_mesh
+#### translate\_mesh
 
 ```python
 def translate_mesh(translation: Vector,
@@ -6578,7 +6578,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.transform_mesh_selection"></a>
 
-#### transform_mesh_selection
+#### transform\_mesh\_selection
 
 ```python
 def transform_mesh_selection(selection: GeometryScriptMeshSelection,
@@ -6599,7 +6599,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.transform_mesh"></a>
 
-#### transform_mesh
+#### transform\_mesh
 
 ```python
 def transform_mesh(transform: Transform,
@@ -6620,7 +6620,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.scale_mesh_selection"></a>
 
-#### scale_mesh_selection
+#### scale\_mesh\_selection
 
 ```python
 def scale_mesh_selection(selection: GeometryScriptMeshSelection,
@@ -6643,7 +6643,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.scale_mesh"></a>
 
-#### scale_mesh
+#### scale\_mesh
 
 ```python
 def scale_mesh(scale: Vector = [1.000000, 1.000000, 1.000000],
@@ -6666,7 +6666,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.rotate_mesh_selection"></a>
 
-#### rotate_mesh_selection
+#### rotate\_mesh\_selection
 
 ```python
 def rotate_mesh_selection(selection: GeometryScriptMeshSelection,
@@ -6691,7 +6691,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.rotate_mesh"></a>
 
-#### rotate_mesh
+#### rotate\_mesh
 
 ```python
 def rotate_mesh(rotation: Rotator,
@@ -6712,7 +6712,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.translate_mesh_u_vs"></a>
 
-#### translate_mesh_u_vs
+#### translate\_mesh\_u\_vs
 
 ```python
 def translate_mesh_u_vs(uv_set_index: int,
@@ -6736,7 +6736,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_uv_seams_along_selected_edges"></a>
 
-#### set_uv_seams_along_selected_edges
+#### set\_uv\_seams\_along\_selected\_edges
 
 ```python
 def set_uv_seams_along_selected_edges(
@@ -6762,7 +6762,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_num_uv_sets"></a>
 
-#### set_num_uv_sets
+#### set\_num\_uv\_sets
 
 ```python
 def set_num_uv_sets(num_uv_sets: int,
@@ -6781,7 +6781,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_u_vs_from_planar_projection"></a>
 
-#### set_mesh_u_vs_from_planar_projection
+#### set\_mesh\_u\_vs\_from\_planar\_projection
 
 ```python
 def set_mesh_u_vs_from_planar_projection(
@@ -6805,7 +6805,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_u_vs_from_cylinder_projection"></a>
 
-#### set_mesh_u_vs_from_cylinder_projection
+#### set\_mesh\_u\_vs\_from\_cylinder\_projection
 
 ```python
 def set_mesh_u_vs_from_cylinder_projection(
@@ -6831,7 +6831,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_u_vs_from_box_projection"></a>
 
-#### set_mesh_u_vs_from_box_projection
+#### set\_mesh\_u\_vs\_from\_box\_projection
 
 ```python
 def set_mesh_u_vs_from_box_projection(
@@ -6857,7 +6857,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_uv_element_position"></a>
 
-#### set_mesh_uv_element_position
+#### set\_mesh\_uv\_element\_position
 
 ```python
 def set_mesh_uv_element_position(
@@ -6884,7 +6884,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_triangle_u_vs"></a>
 
-#### set_mesh_triangle_u_vs
+#### set\_mesh\_triangle\_u\_vs
 
 ```python
 def set_mesh_triangle_u_vs(
@@ -6912,7 +6912,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_triangle_uv_element_i_ds"></a>
 
-#### set_mesh_triangle_uv_element_i_ds
+#### set\_mesh\_triangle\_uv\_element\_i\_ds
 
 ```python
 def set_mesh_triangle_uv_element_i_ds(
@@ -6943,7 +6943,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.scale_mesh_u_vs"></a>
 
-#### scale_mesh_u_vs
+#### scale\_mesh\_u\_vs
 
 ```python
 def scale_mesh_u_vs(uv_set_index: int,
@@ -6969,7 +6969,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.rotate_mesh_u_vs"></a>
 
-#### rotate_mesh_u_vs
+#### rotate\_mesh\_u\_vs
 
 ```python
 def rotate_mesh_u_vs(uv_set_index: int,
@@ -6995,7 +6995,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.repack_mesh_u_vs"></a>
 
-#### repack_mesh_u_vs
+#### repack\_mesh\_u\_vs
 
 ```python
 def repack_mesh_u_vs(uv_set_index: int,
@@ -7016,7 +7016,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.recompute_mesh_u_vs"></a>
 
-#### recompute_mesh_u_vs
+#### recompute\_mesh\_u\_vs
 
 ```python
 def recompute_mesh_u_vs(uv_set_index: int,
@@ -7040,7 +7040,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.layout_mesh_u_vs"></a>
 
-#### layout_mesh_u_vs
+#### layout\_mesh\_u\_vs
 
 ```python
 def layout_mesh_u_vs(uv_set_index: int,
@@ -7063,7 +7063,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_uv_size_info"></a>
 
-#### get_mesh_uv_size_info
+#### get\_mesh\_uv\_size\_info
 
 ```python
 def get_mesh_uv_size_info(
@@ -7100,7 +7100,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_uv_element_position"></a>
 
-#### get_mesh_uv_element_position
+#### get\_mesh\_uv\_element\_position
 
 ```python
 def get_mesh_uv_element_position(
@@ -7125,7 +7125,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_triangle_uv_element_i_ds"></a>
 
-#### get_mesh_triangle_uv_element_i_ds
+#### get\_mesh\_triangle\_uv\_element\_i\_ds
 
 ```python
 def get_mesh_triangle_uv_element_i_ds(
@@ -7150,7 +7150,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_per_vertex_u_vs"></a>
 
-#### get_mesh_per_vertex_u_vs
+#### get\_mesh\_per\_vertex\_u\_vs
 
 ```python
 def get_mesh_per_vertex_u_vs(
@@ -7181,7 +7181,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.copy_uv_set"></a>
 
-#### copy_uv_set
+#### copy\_uv\_set
 
 ```python
 def copy_uv_set(from_uv_set: int,
@@ -7202,7 +7202,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.copy_mesh_uv_layer_to_mesh"></a>
 
-#### copy_mesh_uv_layer_to_mesh
+#### copy\_mesh\_uv\_layer\_to\_mesh
 
 ```python
 def copy_mesh_uv_layer_to_mesh(
@@ -7240,7 +7240,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.copy_mesh_to_mesh_uv_layer"></a>
 
-#### copy_mesh_to_mesh_uv_layer
+#### copy\_mesh\_to\_mesh\_uv\_layer
 
 ```python
 def copy_mesh_to_mesh_uv_layer(
@@ -7278,7 +7278,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.compute_mesh_local_uv_param"></a>
 
-#### compute_mesh_local_uv_param
+#### compute\_mesh\_local\_uv\_param
 
 ```python
 def compute_mesh_local_uv_param(
@@ -7315,7 +7315,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.auto_generate_x_atlas_mesh_u_vs"></a>
 
-#### auto_generate_x_atlas_mesh_u_vs
+#### auto\_generate\_x\_atlas\_mesh\_u\_vs
 
 ```python
 def auto_generate_x_atlas_mesh_u_vs(
@@ -7337,7 +7337,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.auto_generate_patch_builder_mesh_u_vs"></a>
 
-#### auto_generate_patch_builder_mesh_u_vs
+#### auto\_generate\_patch\_builder\_mesh\_u\_vs
 
 ```python
 def auto_generate_patch_builder_mesh_u_vs(
@@ -7359,7 +7359,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_texel_density_uv_scaling"></a>
 
-#### apply_texel_density_uv_scaling
+#### apply\_texel\_density\_uv\_scaling
 
 ```python
 def apply_texel_density_uv_scaling(
@@ -7384,7 +7384,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.add_uv_element_to_mesh"></a>
 
-#### add_uv_element_to_mesh
+#### add\_uv\_element\_to\_mesh
 
 ```python
 def add_uv_element_to_mesh(
@@ -7411,7 +7411,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_selection_vertex_color"></a>
 
-#### set_mesh_selection_vertex_color
+#### set\_mesh\_selection\_vertex\_color
 
 ```python
 def set_mesh_selection_vertex_color(
@@ -7439,7 +7439,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_per_vertex_colors"></a>
 
-#### set_mesh_per_vertex_colors
+#### set\_mesh\_per\_vertex\_colors
 
 ```python
 def set_mesh_per_vertex_colors(
@@ -7459,7 +7459,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.set_mesh_constant_vertex_color"></a>
 
-#### set_mesh_constant_vertex_color
+#### set\_mesh\_constant\_vertex\_color
 
 ```python
 def set_mesh_constant_vertex_color(
@@ -7483,7 +7483,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.get_mesh_per_vertex_colors"></a>
 
-#### get_mesh_per_vertex_colors
+#### get\_mesh\_per\_vertex\_colors
 
 ```python
 def get_mesh_per_vertex_colors(
@@ -7510,7 +7510,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_mesh_vertex_colors_srgb_to_linear"></a>
 
-#### convert_mesh_vertex_colors_srgb_to_linear
+#### convert\_mesh\_vertex\_colors\_srgb\_to\_linear
 
 ```python
 def convert_mesh_vertex_colors_srgb_to_linear(
@@ -7529,7 +7529,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.convert_mesh_vertex_colors_linear_to_srgb"></a>
 
-#### convert_mesh_vertex_colors_linear_to_srgb
+#### convert\_mesh\_vertex\_colors\_linear\_to\_srgb
 
 ```python
 def convert_mesh_vertex_colors_linear_to_srgb(
@@ -7548,7 +7548,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.blur_mesh_vertex_colors"></a>
 
-#### blur_mesh_vertex_colors
+#### blur\_mesh\_vertex\_colors
 
 ```python
 def blur_mesh_vertex_colors(
@@ -7579,7 +7579,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_solidify"></a>
 
-#### apply_mesh_solidify
+#### apply\_mesh\_solidify
 
 ```python
 def apply_mesh_solidify(options: GeometryScriptSolidifyOptions,
@@ -7598,7 +7598,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_mesh_morphology"></a>
 
-#### apply_mesh_morphology
+#### apply\_mesh\_morphology
 
 ```python
 def apply_mesh_morphology(options: GeometryScriptMorphologyOptions,
@@ -7617,7 +7617,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_triangle_loop_sub_d"></a>
 
-#### apply_triangle_loop_sub_d
+#### apply\_triangle\_loop\_sub\_d
 
 ```python
 def apply_triangle_loop_sub_d(subdivisions: int,
@@ -7637,7 +7637,7 @@ Returns:
 
 <a id="unreal.DynamicMesh.apply_polygroup_catmull_clark_sub_d"></a>
 
-#### apply_polygroup_catmull_clark_sub_d
+#### apply\_polygroup\_catmull\_clark\_sub\_d
 
 ```python
 def apply_polygroup_catmull_clark_sub_d(

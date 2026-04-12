@@ -146,7 +146,7 @@ Landscape Blueprint Brush Base
 
 <a id="unreal.LandscapeBlueprintBrushBase.update_on_property_change"></a>
 
-#### update_on_property_change
+#### update\_on\_property\_change
 
 ```python
 @property
@@ -157,7 +157,7 @@ def update_on_property_change() -> bool
 
 <a id="unreal.LandscapeBlueprintBrushBase.update_on_property_change"></a>
 
-#### update_on_property_change
+#### update\_on\_property\_change
 
 ```python
 @update_on_property_change.setter
@@ -166,7 +166,7 @@ def update_on_property_change(value: bool) -> None
 
 <a id="unreal.LandscapeBlueprintBrushBase.affect_heightmap"></a>
 
-#### affect_heightmap
+#### affect\_heightmap
 
 ```python
 @property
@@ -177,7 +177,7 @@ def affect_heightmap() -> bool
 
 <a id="unreal.LandscapeBlueprintBrushBase.affect_heightmap"></a>
 
-#### affect_heightmap
+#### affect\_heightmap
 
 ```python
 @affect_heightmap.setter
@@ -186,7 +186,7 @@ def affect_heightmap(value: bool) -> None
 
 <a id="unreal.LandscapeBlueprintBrushBase.affect_weightmap"></a>
 
-#### affect_weightmap
+#### affect\_weightmap
 
 ```python
 @property
@@ -197,7 +197,7 @@ def affect_weightmap() -> bool
 
 <a id="unreal.LandscapeBlueprintBrushBase.affect_weightmap"></a>
 
-#### affect_weightmap
+#### affect\_weightmap
 
 ```python
 @affect_weightmap.setter
@@ -206,7 +206,7 @@ def affect_weightmap(value: bool) -> None
 
 <a id="unreal.LandscapeBlueprintBrushBase.affect_visibility_layer"></a>
 
-#### affect_visibility_layer
+#### affect\_visibility\_layer
 
 ```python
 @property
@@ -217,7 +217,7 @@ def affect_visibility_layer() -> bool
 
 <a id="unreal.LandscapeBlueprintBrushBase.affect_visibility_layer"></a>
 
-#### affect_visibility_layer
+#### affect\_visibility\_layer
 
 ```python
 @affect_visibility_layer.setter
@@ -226,7 +226,7 @@ def affect_visibility_layer(value: bool) -> None
 
 <a id="unreal.LandscapeBlueprintBrushBase.affected_weightmap_layers"></a>
 
-#### affected_weightmap_layers
+#### affected\_weightmap\_layers
 
 ```python
 @property
@@ -237,7 +237,7 @@ def affected_weightmap_layers() -> Array[Name]
 
 <a id="unreal.LandscapeBlueprintBrushBase.affected_weightmap_layers"></a>
 
-#### affected_weightmap_layers
+#### affected\_weightmap\_layers
 
 ```python
 @affected_weightmap_layers.setter
@@ -246,7 +246,7 @@ def affected_weightmap_layers(value: Array[Name]) -> None
 
 <a id="unreal.LandscapeBlueprintBrushBase.request_landscape_update"></a>
 
-#### request_landscape_update
+#### request\_landscape\_update
 
 ```python
 def request_landscape_update(user_triggered: bool = False) -> None
@@ -260,7 +260,7 @@ Args:
 
 <a id="unreal.LandscapeBlueprintBrushBase.render_layer"></a>
 
-#### render_layer
+#### render\_layer
 
 ```python
 def render_layer(
@@ -316,7 +316,7 @@ Args:
 
 <a id="unreal.LandscapeBlueprintBrushBase.get_blueprint_render_dependencies"></a>
 
-#### get_blueprint_render_dependencies
+#### get\_blueprint\_render\_dependencies
 
 ```python
 def get_blueprint_render_dependencies() -> Array[Object]

@@ -19,7 +19,7 @@ Usd Stage Options
 
 <a id="unreal.UsdStageOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(meters_per_unit: float = 0.000000,
@@ -28,7 +28,7 @@ def __init__(meters_per_unit: float = 0.000000,
 
 <a id="unreal.UsdStageOptions.meters_per_unit"></a>
 
-#### meters_per_unit
+#### meters\_per\_unit
 
 ```python
 @property
@@ -39,7 +39,7 @@ def meters_per_unit() -> float
 
 <a id="unreal.UsdStageOptions.meters_per_unit"></a>
 
-#### meters_per_unit
+#### meters\_per\_unit
 
 ```python
 @meters_per_unit.setter
@@ -48,7 +48,7 @@ def meters_per_unit(value: float) -> None
 
 <a id="unreal.UsdStageOptions.up_axis"></a>
 
-#### up_axis
+#### up\_axis
 
 ```python
 @property
@@ -59,7 +59,7 @@ def up_axis() -> UsdUpAxis
 
 <a id="unreal.UsdStageOptions.up_axis"></a>
 
-#### up_axis
+#### up\_axis
 
 ```python
 @up_axis.setter

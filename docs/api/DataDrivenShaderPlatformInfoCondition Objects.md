@@ -13,13 +13,13 @@ EData Driven Shader Platform Info Condition
 
 <a id="unreal.DataDrivenShaderPlatformInfoCondition.COND_TRUE"></a>
 
-#### COND_TRUE
+#### COND\_TRUE
 
 0
 
 <a id="unreal.DataDrivenShaderPlatformInfoCondition.COND_FALSE"></a>
 
-#### COND_FALSE
+#### COND\_FALSE
 
 1
 

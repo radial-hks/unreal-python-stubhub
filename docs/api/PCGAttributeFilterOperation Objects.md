@@ -14,13 +14,13 @@ EPCGAttribute Filter Operation
 
 <a id="unreal.PCGAttributeFilterOperation.KEEP_SELECTED_ATTRIBUTES"></a>
 
-#### KEEP_SELECTED_ATTRIBUTES
+#### KEEP\_SELECTED\_ATTRIBUTES
 
 0
 
 <a id="unreal.PCGAttributeFilterOperation.DELETE_SELECTED_ATTRIBUTES"></a>
 
-#### DELETE_SELECTED_ATTRIBUTES
+#### DELETE\_SELECTED\_ATTRIBUTES
 
 1
 

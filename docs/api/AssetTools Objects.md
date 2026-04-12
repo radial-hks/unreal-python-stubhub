@@ -13,7 +13,7 @@ Asset Tools
 
 <a id="unreal.AssetTools.rename_referencing_soft_object_paths"></a>
 
-#### rename_referencing_soft_object_paths
+#### rename\_referencing\_soft\_object\_paths
 
 ```python
 def rename_referencing_soft_object_paths(
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.AssetTools.rename_assets_with_dialog"></a>
 
-#### rename_assets_with_dialog
+#### rename\_assets\_with\_dialog
 
 ```python
 def rename_assets_with_dialog(
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.AssetTools.rename_assets"></a>
 
-#### rename_assets
+#### rename\_assets
 
 ```python
 def rename_assets(assets_and_names: Array[AssetRenameData]) -> bool
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.AssetTools.open_editor_for_assets"></a>
 
-#### open_editor_for_assets
+#### open\_editor\_for\_assets
 
 ```python
 def open_editor_for_assets(assets: Array[Object]) -> None
@@ -82,7 +82,7 @@ Args:
 
 <a id="unreal.AssetTools.migrate_packages"></a>
 
-#### migrate_packages
+#### migrate\_packages
 
 ```python
 def migrate_packages(
@@ -104,7 +104,7 @@ Args:
 
 <a id="unreal.AssetTools.import_asset_tasks"></a>
 
-#### import_asset_tasks
+#### import\_asset\_tasks
 
 ```python
 def import_asset_tasks(import_tasks: Array[AssetImportTask]) -> None
@@ -118,7 +118,7 @@ Args:
 
 <a id="unreal.AssetTools.import_assets_with_dialog"></a>
 
-#### import_assets_with_dialog
+#### import\_assets\_with\_dialog
 
 ```python
 def import_assets_with_dialog(destination_path: str) -> Array[Object]
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.AssetTools.import_assets_automated"></a>
 
-#### import_assets_automated
+#### import\_assets\_automated
 
 ```python
 def import_assets_automated(
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.AssetTools.find_soft_references_to_object"></a>
 
-#### find_soft_references_to_object
+#### find\_soft\_references\_to\_object
 
 ```python
 def find_soft_references_to_object(
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.AssetTools.export_assets_with_dialog"></a>
 
-#### export_assets_with_dialog
+#### export\_assets\_with\_dialog
 
 ```python
 def export_assets_with_dialog(assets_to_export: Array[str],
@@ -189,7 +189,7 @@ Args:
 
 <a id="unreal.AssetTools.export_assets"></a>
 
-#### export_assets
+#### export\_assets
 
 ```python
 def export_assets(assets_to_export: Array[str], export_path: str) -> None
@@ -204,7 +204,7 @@ Args:
 
 <a id="unreal.AssetTools.duplicate_asset_with_dialog_and_title"></a>
 
-#### duplicate_asset_with_dialog_and_title
+#### duplicate\_asset\_with\_dialog\_and\_title
 
 ```python
 def duplicate_asset_with_dialog_and_title(asset_name: str, package_path: str,
@@ -228,7 +228,7 @@ Returns:
 
 <a id="unreal.AssetTools.duplicate_asset_with_dialog"></a>
 
-#### duplicate_asset_with_dialog
+#### duplicate\_asset\_with\_dialog
 
 ```python
 def duplicate_asset_with_dialog(asset_name: str, package_path: str,
@@ -248,7 +248,7 @@ Returns:
 
 <a id="unreal.AssetTools.duplicate_asset"></a>
 
-#### duplicate_asset
+#### duplicate\_asset
 
 ```python
 def duplicate_asset(asset_name: str, package_path: str,
@@ -268,7 +268,7 @@ Returns:
 
 <a id="unreal.AssetTools.diff_assets"></a>
 
-#### diff_assets
+#### diff\_assets
 
 ```python
 def diff_assets(old_asset: Object, new_asset: Object,
@@ -287,7 +287,7 @@ Args:
 
 <a id="unreal.AssetTools.diff_against_depot"></a>
 
-#### diff_against_depot
+#### diff\_against\_depot
 
 ```python
 def diff_against_depot(object: Object, package_path: str,
@@ -304,7 +304,7 @@ Args:
 
 <a id="unreal.AssetTools.create_unique_asset_name"></a>
 
-#### create_unique_asset_name
+#### create\_unique\_asset\_name
 
 ```python
 def create_unique_asset_name(base_package_name: str,
@@ -327,7 +327,7 @@ Returns:
 
 <a id="unreal.AssetTools.create_asset_with_dialog"></a>
 
-#### create_asset_with_dialog
+#### create\_asset\_with\_dialog
 
 ```python
 def create_asset_with_dialog(asset_name: str,
@@ -354,7 +354,7 @@ Returns:
 
 <a id="unreal.AssetTools.create_asset"></a>
 
-#### create_asset
+#### create\_asset
 
 ```python
 def create_asset(asset_name: str,
@@ -379,7 +379,7 @@ Returns:
 
 <a id="unreal.AssetTools.begin_advanced_copy_packages"></a>
 
-#### begin_advanced_copy_packages
+#### begin\_advanced\_copy\_packages
 
 ```python
 def begin_advanced_copy_packages(

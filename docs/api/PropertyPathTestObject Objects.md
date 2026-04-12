@@ -128,7 +128,7 @@ def struct(value: PropertyPathTestStruct) -> None
 
 <a id="unreal.PropertyPathTestObject.struct_ref"></a>
 
-#### struct_ref
+#### struct\_ref
 
 ```python
 @property
@@ -139,7 +139,7 @@ def struct_ref() -> PropertyPathTestStruct
 
 <a id="unreal.PropertyPathTestObject.struct_ref"></a>
 
-#### struct_ref
+#### struct\_ref
 
 ```python
 @struct_ref.setter
@@ -148,7 +148,7 @@ def struct_ref(value: PropertyPathTestStruct) -> None
 
 <a id="unreal.PropertyPathTestObject.struct_const_ref"></a>
 
-#### struct_const_ref
+#### struct\_const\_ref
 
 ```python
 @property
@@ -159,7 +159,7 @@ def struct_const_ref() -> PropertyPathTestStruct
 
 <a id="unreal.PropertyPathTestObject.struct_const_ref"></a>
 
-#### struct_const_ref
+#### struct\_const\_ref
 
 ```python
 @struct_const_ref.setter
@@ -168,7 +168,7 @@ def struct_const_ref(value: PropertyPathTestStruct) -> None
 
 <a id="unreal.PropertyPathTestObject.inner_object"></a>
 
-#### inner_object
+#### inner\_object
 
 ```python
 @property

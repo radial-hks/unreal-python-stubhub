@@ -14,7 +14,7 @@ Selective Tessellate options
 
 <a id="unreal.SelectiveTessellatePatternType.CONCENTRIC_RINGS"></a>
 
-#### CONCENTRIC_RINGS
+#### CONCENTRIC\_RINGS
 
 0
 

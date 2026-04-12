@@ -58,7 +58,7 @@ def pins(value: Array[PCGPinProperties]) -> None
 
 <a id="unreal.PCGSaveDataAssetSettings.custom_data_collection_exporter_class"></a>
 
-#### custom_data_collection_exporter_class
+#### custom\_data\_collection\_exporter\_class
 
 ```python
 @property
@@ -69,7 +69,7 @@ def custom_data_collection_exporter_class() -> Class
 
 <a id="unreal.PCGSaveDataAssetSettings.custom_data_collection_exporter_class"></a>
 
-#### custom_data_collection_exporter_class
+#### custom\_data\_collection\_exporter\_class
 
 ```python
 @custom_data_collection_exporter_class.setter
@@ -98,7 +98,7 @@ def params(value: PCGAssetExporterParameters) -> None
 
 <a id="unreal.PCGSaveDataAssetSettings.asset_description"></a>
 
-#### asset_description
+#### asset\_description
 
 ```python
 @property
@@ -109,7 +109,7 @@ def asset_description() -> str
 
 <a id="unreal.PCGSaveDataAssetSettings.asset_description"></a>
 
-#### asset_description
+#### asset\_description
 
 ```python
 @asset_description.setter
@@ -118,7 +118,7 @@ def asset_description(value: str) -> None
 
 <a id="unreal.PCGSaveDataAssetSettings.asset_color"></a>
 
-#### asset_color
+#### asset\_color
 
 ```python
 @property
@@ -129,7 +129,7 @@ def asset_color() -> LinearColor
 
 <a id="unreal.PCGSaveDataAssetSettings.asset_color"></a>
 
-#### asset_color
+#### asset\_color
 
 ```python
 @asset_color.setter

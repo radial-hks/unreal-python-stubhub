@@ -14,7 +14,7 @@ Blueprint-facing interface to a FMetasoundGenerator on a UAudioComponent.
 
 <a id="unreal.MetasoundGeneratorHandle.watch_output"></a>
 
-#### watch_output
+#### watch\_output
 
 ```python
 def watch_output(output_name: Name,
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.MetasoundGeneratorHandle.update_watchers"></a>
 
-#### update_watchers
+#### update\_watchers
 
 ```python
 def update_watchers() -> None
@@ -48,7 +48,7 @@ Update Watchers
 
 <a id="unreal.MetasoundGeneratorHandle.get_cpu_core_utilization"></a>
 
-#### get_cpu_core_utilization
+#### get\_cpu\_core\_utilization
 
 ```python
 def get_cpu_core_utilization() -> float
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.MetasoundGeneratorHandle.enable_runtime_render_timing"></a>
 
-#### enable_runtime_render_timing
+#### enable\_runtime\_render\_timing
 
 ```python
 def enable_runtime_render_timing(enable: bool) -> None
@@ -80,7 +80,7 @@ Args:
 
 <a id="unreal.MetasoundGeneratorHandle.create_meta_sound_generator_handle"></a>
 
-#### create_meta_sound_generator_handle
+#### create\_meta\_sound\_generator\_handle
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.MetasoundGeneratorHandle.apply_parameter_pack"></a>
 
-#### apply_parameter_pack
+#### apply\_parameter\_pack
 
 ```python
 def apply_parameter_pack(pack: MetasoundParameterPack) -> bool

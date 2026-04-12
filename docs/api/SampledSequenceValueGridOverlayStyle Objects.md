@@ -23,7 +23,7 @@ Represents the appearance of a Sampled Sequence Value Grid Overlay
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(grid_color: SlateColor = [[
@@ -46,7 +46,7 @@ def __init__(grid_color: SlateColor = [[
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.grid_color"></a>
 
-#### grid_color
+#### grid\_color
 
 ```python
 @property
@@ -57,7 +57,7 @@ def grid_color() -> SlateColor
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.grid_color"></a>
 
-#### grid_color
+#### grid\_color
 
 ```python
 @grid_color.setter
@@ -66,7 +66,7 @@ def grid_color(value: SlateColor) -> None
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.grid_thickness"></a>
 
-#### grid_thickness
+#### grid\_thickness
 
 ```python
 @property
@@ -77,7 +77,7 @@ def grid_thickness() -> float
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.grid_thickness"></a>
 
-#### grid_thickness
+#### grid\_thickness
 
 ```python
 @grid_thickness.setter
@@ -86,7 +86,7 @@ def grid_thickness(value: float) -> None
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.label_text_color"></a>
 
-#### label_text_color
+#### label\_text\_color
 
 ```python
 @property
@@ -97,7 +97,7 @@ def label_text_color() -> SlateColor
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.label_text_color"></a>
 
-#### label_text_color
+#### label\_text\_color
 
 ```python
 @label_text_color.setter
@@ -106,7 +106,7 @@ def label_text_color(value: SlateColor) -> None
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.label_text_font"></a>
 
-#### label_text_font
+#### label\_text\_font
 
 ```python
 @property
@@ -117,7 +117,7 @@ def label_text_font() -> SlateFontInfo
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.label_text_font"></a>
 
-#### label_text_font
+#### label\_text\_font
 
 ```python
 @label_text_font.setter
@@ -126,7 +126,7 @@ def label_text_font(value: SlateFontInfo) -> None
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.desired_width"></a>
 
-#### desired_width
+#### desired\_width
 
 ```python
 @property
@@ -137,7 +137,7 @@ def desired_width() -> float
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.desired_width"></a>
 
-#### desired_width
+#### desired\_width
 
 ```python
 @desired_width.setter
@@ -146,7 +146,7 @@ def desired_width(value: float) -> None
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.desired_height"></a>
 
-#### desired_height
+#### desired\_height
 
 ```python
 @property
@@ -157,7 +157,7 @@ def desired_height() -> float
 
 <a id="unreal.SampledSequenceValueGridOverlayStyle.desired_height"></a>
 
-#### desired_height
+#### desired\_height
 
 ```python
 @desired_height.setter

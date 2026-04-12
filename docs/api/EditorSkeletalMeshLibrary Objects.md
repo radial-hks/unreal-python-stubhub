@@ -15,7 +15,7 @@ The editor should not be in play in editor mode.
 
 <a id="unreal.EditorSkeletalMeshLibrary.strip_lod_geometry"></a>
 
-#### strip_lod_geometry
+#### strip\_lod\_geometry
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.set_lod_build_settings"></a>
 
-#### set_lod_build_settings
+#### set\_lod\_build\_settings
 
 ```python
 @classmethod
@@ -57,7 +57,7 @@ Args:
 
 <a id="unreal.EditorSkeletalMeshLibrary.rename_socket"></a>
 
-#### rename_socket
+#### rename\_socket
 
 ```python
 @classmethod
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.remove_lo_ds"></a>
 
-#### remove_lo_ds
+#### remove\_lo\_ds
 
 ```python
 @classmethod
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.reimport_all_custom_lo_ds"></a>
 
-#### reimport_all_custom_lo_ds
+#### reimport\_all\_custom\_lo\_ds
 
 ```python
 @classmethod
@@ -119,7 +119,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.regenerate_lod"></a>
 
-#### regenerate_lod
+#### regenerate\_lod
 
 ```python
 @classmethod
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.import_lod"></a>
 
-#### import_lod
+#### import\_lod
 
 ```python
 @classmethod
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.get_num_verts"></a>
 
-#### get_num_verts
+#### get\_num\_verts
 
 ```python
 @classmethod
@@ -187,7 +187,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.get_lod_count"></a>
 
-#### get_lod_count
+#### get\_lod\_count
 
 ```python
 @classmethod
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.get_lod_build_settings"></a>
 
-#### get_lod_build_settings
+#### get\_lod\_build\_settings
 
 ```python
 @classmethod
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.EditorSkeletalMeshLibrary.create_physics_asset"></a>
 
-#### create_physics_asset
+#### create\_physics\_asset
 
 ```python
 @classmethod

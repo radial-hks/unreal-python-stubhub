@@ -26,7 +26,7 @@ which hold metadata and a transform, and this is the basic currency of the PCG f
 
 <a id="unreal.PCGSpatialData.target_actor"></a>
 
-#### target_actor
+#### target\_actor
 
 ```python
 @property
@@ -37,7 +37,7 @@ def target_actor() -> Actor
 
 <a id="unreal.PCGSpatialData.target_actor"></a>
 
-#### target_actor
+#### target\_actor
 
 ```python
 @target_actor.setter
@@ -46,7 +46,7 @@ def target_actor(value: Actor) -> None
 
 <a id="unreal.PCGSpatialData.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @property
@@ -57,7 +57,7 @@ def keep_zero_density_points() -> bool
 
 <a id="unreal.PCGSpatialData.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @keep_zero_density_points.setter
@@ -66,7 +66,7 @@ def keep_zero_density_points(value: bool) -> None
 
 <a id="unreal.PCGSpatialData.to_point_data_with_context"></a>
 
-#### to_point_data_with_context
+#### to\_point\_data\_with\_context
 
 ```python
 def to_point_data_with_context(
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.to_point_data"></a>
 
-#### to_point_data
+#### to\_point\_data
 
 ```python
 def to_point_data() -> PCGPointData
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.mutable_metadata"></a>
 
-#### mutable_metadata
+#### mutable\_metadata
 
 ```python
 def mutable_metadata() -> PCGMetadata
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.k2_union_with"></a>
 
-#### k2_union_with
+#### k2\_union\_with
 
 ```python
 def k2_union_with(other: PCGSpatialData) -> PCGUnionData
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.union_with"></a>
 
-#### union_with
+#### union\_with
 
 ```python
 def union_with(other: PCGSpatialData) -> PCGUnionData
@@ -142,7 +142,7 @@ deprecated: 'union_with' was renamed to 'k2_union_with'.
 
 <a id="unreal.PCGSpatialData.k2_subtract"></a>
 
-#### k2_subtract
+#### k2\_subtract
 
 ```python
 def k2_subtract(other: PCGSpatialData) -> PCGDifferenceData
@@ -169,7 +169,7 @@ deprecated: 'subtract' was renamed to 'k2_subtract'.
 
 <a id="unreal.PCGSpatialData.k2_sample_point"></a>
 
-#### k2_sample_point
+#### k2\_sample\_point
 
 ```python
 def k2_sample_point(transform: Transform, bounds: Box,
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.sample_point"></a>
 
-#### sample_point
+#### sample\_point
 
 ```python
 def sample_point(transform: Transform, bounds: Box,
@@ -202,7 +202,7 @@ deprecated: 'sample_point' was renamed to 'k2_sample_point'.
 
 <a id="unreal.PCGSpatialData.k2_project_point"></a>
 
-#### k2_project_point
+#### k2\_project\_point
 
 ```python
 def k2_project_point(transform: Transform, bounds: Box,
@@ -226,7 +226,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.project_point"></a>
 
-#### project_point
+#### project\_point
 
 ```python
 def project_point(transform: Transform, bounds: Box,
@@ -238,7 +238,7 @@ deprecated: 'project_point' was renamed to 'k2_project_point'.
 
 <a id="unreal.PCGSpatialData.k2_project_on"></a>
 
-#### k2_project_on
+#### k2\_project\_on
 
 ```python
 def k2_project_on(
@@ -263,7 +263,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.project_on"></a>
 
-#### project_on
+#### project\_on
 
 ```python
 def project_on(
@@ -280,7 +280,7 @@ deprecated: 'project_on' was renamed to 'k2_project_on'.
 
 <a id="unreal.PCGSpatialData.k2_intersect_with"></a>
 
-#### k2_intersect_with
+#### k2\_intersect\_with
 
 ```python
 def k2_intersect_with(other: PCGSpatialData) -> PCGIntersectionData
@@ -297,7 +297,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.intersect_with"></a>
 
-#### intersect_with
+#### intersect\_with
 
 ```python
 def intersect_with(other: PCGSpatialData) -> PCGIntersectionData
@@ -307,7 +307,7 @@ deprecated: 'intersect_with' was renamed to 'k2_intersect_with'.
 
 <a id="unreal.PCGSpatialData.initialize_from_data"></a>
 
-#### initialize_from_data
+#### initialize\_from\_data
 
 ```python
 def initialize_from_data(source: PCGSpatialData,
@@ -327,7 +327,7 @@ Args:
 
 <a id="unreal.PCGSpatialData.has_non_trivial_transform"></a>
 
-#### has_non_trivial_transform
+#### has\_non\_trivial\_transform
 
 ```python
 def has_non_trivial_transform() -> bool
@@ -341,7 +341,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.get_strict_bounds"></a>
 
-#### get_strict_bounds
+#### get\_strict\_bounds
 
 ```python
 def get_strict_bounds() -> Box
@@ -355,7 +355,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.get_normal"></a>
 
-#### get_normal
+#### get\_normal
 
 ```python
 def get_normal() -> Vector
@@ -369,7 +369,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.get_dimension"></a>
 
-#### get_dimension
+#### get\_dimension
 
 ```python
 def get_dimension() -> int
@@ -383,7 +383,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.get_density_at_position"></a>
 
-#### get_density_at_position
+#### get\_density\_at\_position
 
 ```python
 def get_density_at_position(position: Vector) -> float
@@ -400,7 +400,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.get_bounds"></a>
 
-#### get_bounds
+#### get\_bounds
 
 ```python
 def get_bounds() -> Box
@@ -414,7 +414,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.create_empty_metadata"></a>
 
-#### create_empty_metadata
+#### create\_empty\_metadata
 
 ```python
 def create_empty_metadata() -> PCGMetadata
@@ -429,7 +429,7 @@ Returns:
 
 <a id="unreal.PCGSpatialData.const_metadata"></a>
 
-#### const_metadata
+#### const\_metadata
 
 ```python
 def const_metadata() -> PCGMetadata

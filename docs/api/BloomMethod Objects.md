@@ -13,13 +13,13 @@ EBloom Method
 
 <a id="unreal.BloomMethod.BM_SOG"></a>
 
-#### BM_SOG
+#### BM\_SOG
 
 0: Sum of Gaussian formulation
 
 <a id="unreal.BloomMethod.BM_FFT"></a>
 
-#### BM_FFT
+#### BM\_FFT
 
 1: Fast Fourier Transform Image based convolution, intended for cinematics (too expensive for games)
 

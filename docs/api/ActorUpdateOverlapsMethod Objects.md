@@ -13,25 +13,25 @@ Chooses a method for actors to update overlap state (objects it is touching) on 
 
 <a id="unreal.ActorUpdateOverlapsMethod.USE_CONFIG_DEFAULT"></a>
 
-#### USE_CONFIG_DEFAULT
+#### USE\_CONFIG\_DEFAULT
 
 0: Use the default value specified by the native class or config value.
 
 <a id="unreal.ActorUpdateOverlapsMethod.ALWAYS_UPDATE"></a>
 
-#### ALWAYS_UPDATE
+#### ALWAYS\_UPDATE
 
 1: Always update overlap state on initialization.
 
 <a id="unreal.ActorUpdateOverlapsMethod.ONLY_UPDATE_MOVABLE"></a>
 
-#### ONLY_UPDATE_MOVABLE
+#### ONLY\_UPDATE\_MOVABLE
 
 2: Only update if root component has Movable mobility.
 
 <a id="unreal.ActorUpdateOverlapsMethod.NEVER_UPDATE"></a>
 
-#### NEVER_UPDATE
+#### NEVER\_UPDATE
 
 3: Never update overlap state on initialization.
 

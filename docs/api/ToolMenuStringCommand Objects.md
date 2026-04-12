@@ -19,7 +19,7 @@ Tool Menu String Command
 
 <a id="unreal.ToolMenuStringCommand.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -50,7 +50,7 @@ def type(value: ToolMenuStringCommandType) -> None
 
 <a id="unreal.ToolMenuStringCommand.custom_type"></a>
 
-#### custom_type
+#### custom\_type
 
 ```python
 @property
@@ -61,7 +61,7 @@ def custom_type() -> Name
 
 <a id="unreal.ToolMenuStringCommand.custom_type"></a>
 
-#### custom_type
+#### custom\_type
 
 ```python
 @custom_type.setter

@@ -143,7 +143,7 @@ ie. point X in the direction you want the thrust in.
 
 <a id="unreal.PhysicsThruster.thruster_component"></a>
 
-#### thruster_component
+#### thruster\_component
 
 ```python
 @property

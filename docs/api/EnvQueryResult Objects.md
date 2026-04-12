@@ -19,7 +19,7 @@ Env Query Result
 
 <a id="unreal.EnvQueryResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(item_type: Class = None,
@@ -29,7 +29,7 @@ def __init__(item_type: Class = None,
 
 <a id="unreal.EnvQueryResult.item_type"></a>
 
-#### item_type
+#### item\_type
 
 ```python
 @property
@@ -40,7 +40,7 @@ def item_type() -> Class
 
 <a id="unreal.EnvQueryResult.option_index"></a>
 
-#### option_index
+#### option\_index
 
 ```python
 @property
@@ -51,7 +51,7 @@ def option_index() -> int
 
 <a id="unreal.EnvQueryResult.query_id"></a>
 
-#### query_id
+#### query\_id
 
 ```python
 @property

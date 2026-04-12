@@ -33,7 +33,7 @@ Component used to copy the bounds of another Actor.
 
 <a id="unreal.BoundsCopyComponent.set_transform_to_bounds"></a>
 
-#### set_transform_to_bounds
+#### set\_transform\_to\_bounds
 
 ```python
 def set_transform_to_bounds() -> None
@@ -44,7 +44,7 @@ Set this component transform to include the BoundsSourceActor bounds
 
 <a id="unreal.BoundsCopyComponent.set_rotation"></a>
 
-#### set_rotation
+#### set\_rotation
 
 ```python
 def set_rotation() -> None

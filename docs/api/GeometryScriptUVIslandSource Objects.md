@@ -14,13 +14,13 @@ EGeometry Script UVIsland Source
 
 <a id="unreal.GeometryScriptUVIslandSource.POLY_GROUPS"></a>
 
-#### POLY_GROUPS
+#### POLY\_GROUPS
 
 0
 
 <a id="unreal.GeometryScriptUVIslandSource.UV_ISLANDS"></a>
 
-#### UV_ISLANDS
+#### UV\_ISLANDS
 
 1
 

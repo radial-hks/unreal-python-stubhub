@@ -8,7 +8,7 @@ deprecated: 'SubmixEffectReverbFastSettings' was renamed to 'SubmixEffectReverbS
 
 <a id="unreal.SubmixEffectReverbFastSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bypass_early_reflections: bool = False,

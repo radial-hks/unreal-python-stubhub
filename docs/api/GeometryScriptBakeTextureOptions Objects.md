@@ -26,7 +26,7 @@ Geometry Script Bake Texture Options
 
 <a id="unreal.GeometryScriptBakeTextureOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -66,7 +66,7 @@ def resolution(value: GeometryScriptBakeResolution) -> None
 
 <a id="unreal.GeometryScriptBakeTextureOptions.bit_depth"></a>
 
-#### bit_depth
+#### bit\_depth
 
 ```python
 @property
@@ -77,7 +77,7 @@ def bit_depth() -> GeometryScriptBakeBitDepth
 
 <a id="unreal.GeometryScriptBakeTextureOptions.bit_depth"></a>
 
-#### bit_depth
+#### bit\_depth
 
 ```python
 @bit_depth.setter
@@ -86,7 +86,7 @@ def bit_depth(value: GeometryScriptBakeBitDepth) -> None
 
 <a id="unreal.GeometryScriptBakeTextureOptions.samples_per_pixel"></a>
 
-#### samples_per_pixel
+#### samples\_per\_pixel
 
 ```python
 @property
@@ -97,7 +97,7 @@ def samples_per_pixel() -> GeometryScriptBakeSamplesPerPixel
 
 <a id="unreal.GeometryScriptBakeTextureOptions.samples_per_pixel"></a>
 
-#### samples_per_pixel
+#### samples\_per\_pixel
 
 ```python
 @samples_per_pixel.setter
@@ -106,7 +106,7 @@ def samples_per_pixel(value: GeometryScriptBakeSamplesPerPixel) -> None
 
 <a id="unreal.GeometryScriptBakeTextureOptions.sample_filter_mask"></a>
 
-#### sample_filter_mask
+#### sample\_filter\_mask
 
 ```python
 @property
@@ -117,7 +117,7 @@ def sample_filter_mask() -> Texture2D
 
 <a id="unreal.GeometryScriptBakeTextureOptions.sample_filter_mask"></a>
 
-#### sample_filter_mask
+#### sample\_filter\_mask
 
 ```python
 @sample_filter_mask.setter
@@ -126,7 +126,7 @@ def sample_filter_mask(value: Texture2D) -> None
 
 <a id="unreal.GeometryScriptBakeTextureOptions.filtering_type"></a>
 
-#### filtering_type
+#### filtering\_type
 
 ```python
 @property
@@ -137,7 +137,7 @@ def filtering_type() -> GeometryScriptBakeFilteringType
 
 <a id="unreal.GeometryScriptBakeTextureOptions.filtering_type"></a>
 
-#### filtering_type
+#### filtering\_type
 
 ```python
 @filtering_type.setter
@@ -146,7 +146,7 @@ def filtering_type(value: GeometryScriptBakeFilteringType) -> None
 
 <a id="unreal.GeometryScriptBakeTextureOptions.projection_distance"></a>
 
-#### projection_distance
+#### projection\_distance
 
 ```python
 @property
@@ -158,7 +158,7 @@ This is only relevant if a separate source mesh is provided.
 
 <a id="unreal.GeometryScriptBakeTextureOptions.projection_distance"></a>
 
-#### projection_distance
+#### projection\_distance
 
 ```python
 @projection_distance.setter
@@ -167,7 +167,7 @@ def projection_distance(value: float) -> None
 
 <a id="unreal.GeometryScriptBakeTextureOptions.projection_in_world_space"></a>
 
-#### projection_in_world_space
+#### projection\_in\_world\_space
 
 ```python
 @property
@@ -179,7 +179,7 @@ This is only relevant if a separate source mesh is provided.
 
 <a id="unreal.GeometryScriptBakeTextureOptions.projection_in_world_space"></a>
 
-#### projection_in_world_space
+#### projection\_in\_world\_space
 
 ```python
 @projection_in_world_space.setter

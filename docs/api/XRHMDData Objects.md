@@ -22,7 +22,7 @@ XRHMDData
 
 <a id="unreal.XRHMDData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -47,7 +47,7 @@ def valid() -> bool
 
 <a id="unreal.XRHMDData.device_name"></a>
 
-#### device_name
+#### device\_name
 
 ```python
 @property
@@ -58,7 +58,7 @@ def device_name() -> Name
 
 <a id="unreal.XRHMDData.application_instance_id"></a>
 
-#### application_instance_id
+#### application\_instance\_id
 
 ```python
 @property
@@ -69,7 +69,7 @@ def application_instance_id() -> Guid
 
 <a id="unreal.XRHMDData.tracking_status"></a>
 
-#### tracking_status
+#### tracking\_status
 
 ```python
 @property

@@ -20,13 +20,13 @@ EPCGPoint Neighborhood Density Mode
 
 <a id="unreal.PCGPointNeighborhoodDensityMode.SET_NORMALIZED_DISTANCE_TO_DENSITY"></a>
 
-#### SET_NORMALIZED_DISTANCE_TO_DENSITY
+#### SET\_NORMALIZED\_DISTANCE\_TO\_DENSITY
 
 1
 
 <a id="unreal.PCGPointNeighborhoodDensityMode.SET_AVERAGE_DENSITY"></a>
 
-#### SET_AVERAGE_DENSITY
+#### SET\_AVERAGE\_DENSITY
 
 2
 

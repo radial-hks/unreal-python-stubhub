@@ -8,7 +8,7 @@ deprecated: 'CRFourPointBezier' was renamed to 'RigVMFourPointBezier'.
 
 <a id="unreal.CRFourPointBezier.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -23,7 +23,7 @@ class StateTreeConditionBlueprintBase(StateTreeNodeBlueprintBase)
 
 <a id="unreal.StateTreeConditionBlueprintBase.receive_test_condition"></a>
 
-#### receive_test_condition
+#### receive\_test\_condition
 
 ```python
 def receive_test_condition() -> bool

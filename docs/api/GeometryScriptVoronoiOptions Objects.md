@@ -21,7 +21,7 @@ Geometry Script Voronoi Options
 
 <a id="unreal.GeometryScriptVoronoiOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bounds_expand: float = 0.000000,
@@ -33,7 +33,7 @@ def __init__(bounds_expand: float = 0.000000,
 
 <a id="unreal.GeometryScriptVoronoiOptions.bounds_expand"></a>
 
-#### bounds_expand
+#### bounds\_expand
 
 ```python
 @property
@@ -44,7 +44,7 @@ def bounds_expand() -> float
 
 <a id="unreal.GeometryScriptVoronoiOptions.bounds_expand"></a>
 
-#### bounds_expand
+#### bounds\_expand
 
 ```python
 @bounds_expand.setter
@@ -73,7 +73,7 @@ def bounds(value: Box) -> None
 
 <a id="unreal.GeometryScriptVoronoiOptions.create_cells"></a>
 
-#### create_cells
+#### create\_cells
 
 ```python
 @property
@@ -84,7 +84,7 @@ def create_cells() -> Array[int]
 
 <a id="unreal.GeometryScriptVoronoiOptions.create_cells"></a>
 
-#### create_cells
+#### create\_cells
 
 ```python
 @create_cells.setter
@@ -93,7 +93,7 @@ def create_cells(value: Array[int]) -> None
 
 <a id="unreal.GeometryScriptVoronoiOptions.include_boundary"></a>
 
-#### include_boundary
+#### include\_boundary
 
 ```python
 @property
@@ -104,7 +104,7 @@ def include_boundary() -> bool
 
 <a id="unreal.GeometryScriptVoronoiOptions.include_boundary"></a>
 
-#### include_boundary
+#### include\_boundary
 
 ```python
 @include_boundary.setter

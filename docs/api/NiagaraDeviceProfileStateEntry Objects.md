@@ -20,7 +20,7 @@ Niagara Device Profile State Entry
 
 <a id="unreal.NiagaraDeviceProfileStateEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

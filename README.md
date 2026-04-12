@@ -32,6 +32,38 @@ use unreal python to create a script that retrieves the world outliner directory
 
 Through this approach, developers can quickly obtain code implementations that follow best practices, significantly improving Unreal Engine Python development efficiency.
 
+## Quick Start
+
+```bash
+# 1. Clone the project
+git clone https://github.com/radial-hks/unreal-python-stubhub.git
+cd unreal-python-stubhub
+
+# 2. Install dependencies (uv recommended)
+uv sync
+
+# 3. Generate documentation
+uv run python main.py
+uv run python split_md.py
+
+# 4. View the generated documentation
+ls docs/api/
+```
+
+## Project Architecture
+
+```
+UnrealPythonAPI/unreal/    # Python API type stubs (input)
+        ↓
+    main.py                # Parses stubs via pydoc-markdown, generates Markdown
+        ↓
+    split_md.py            # Splits large Markdown files by class
+        ↓
+    docs/api/              # 2000+ individual Markdown documents (output)
+        ↓
+    Context7 MCP Server    # Used by AI code generation tools for retrieval
+```
+
 ## Project Rules
 
 To ensure the project runs smoothly and generates high-quality documentation, please follow these rules:
@@ -56,12 +88,14 @@ To ensure the project runs smoothly and generates high-quality documentation, pl
 ### 4. Dependency Management
 
 - **Core Dependency**: The project's core dependency is `pydoc-markdown`, defined in `pyproject.toml`.
-- **Environment**: Using a virtual environment (like `.venv`) is recommended for managing project dependencies.
+- **Environment**: [uv](https://docs.astral.sh/uv/) is recommended for managing project dependencies and virtual environments.
   ```bash
+  # Recommended: using uv
+  uv sync
+
+  # Or: using traditional venv + pip
   python -m venv .venv
-  source .venv/bin/activate  # Linux/macOS
-  # or
-  .venv\Scripts\activate  # Windows
+  source .venv/bin/activate  # Linux/macOS (Windows: .venv\Scripts\activate)
   pip install -e .
   ```
 

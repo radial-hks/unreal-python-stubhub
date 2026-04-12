@@ -14,19 +14,19 @@ ENDIScene Capture 2DSource Mode
 
 <a id="unreal.NDISceneCapture2DSourceMode.USER_PARAMETER_THEN_ATTACH_PARENT"></a>
 
-#### USER_PARAMETER_THEN_ATTACH_PARENT
+#### USER\_PARAMETER\_THEN\_ATTACH\_PARENT
 
 0: Check the user parameter then the attach parent to find the scene capture component.
 
 <a id="unreal.NDISceneCapture2DSourceMode.USER_PARAMETER_ONLY"></a>
 
-#### USER_PARAMETER_ONLY
+#### USER\_PARAMETER\_ONLY
 
 1: Only check the user parameter to find the scene capture component.
 
 <a id="unreal.NDISceneCapture2DSourceMode.ATTACH_PARENT_ONLY"></a>
 
-#### ATTACH_PARENT_ONLY
+#### ATTACH\_PARENT\_ONLY
 
 2: Only look at the attach parent to find the scene capture component.
 

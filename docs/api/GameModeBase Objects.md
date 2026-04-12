@@ -169,7 +169,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Framework/GameMode/index.
 
 <a id="unreal.GameModeBase.options_string"></a>
 
-#### options_string
+#### options\_string
 
 ```python
 @property
@@ -180,7 +180,7 @@ def options_string() -> str
 
 <a id="unreal.GameModeBase.game_session_class"></a>
 
-#### game_session_class
+#### game\_session\_class
 
 ```python
 @property
@@ -191,7 +191,7 @@ def game_session_class() -> Class
 
 <a id="unreal.GameModeBase.game_session_class"></a>
 
-#### game_session_class
+#### game\_session\_class
 
 ```python
 @game_session_class.setter
@@ -200,7 +200,7 @@ def game_session_class(value: Class) -> None
 
 <a id="unreal.GameModeBase.game_state_class"></a>
 
-#### game_state_class
+#### game\_state\_class
 
 ```python
 @property
@@ -211,7 +211,7 @@ def game_state_class() -> Class
 
 <a id="unreal.GameModeBase.player_controller_class"></a>
 
-#### player_controller_class
+#### player\_controller\_class
 
 ```python
 @property
@@ -222,7 +222,7 @@ def player_controller_class() -> Class
 
 <a id="unreal.GameModeBase.player_state_class"></a>
 
-#### player_state_class
+#### player\_state\_class
 
 ```python
 @property
@@ -233,7 +233,7 @@ def player_state_class() -> Class
 
 <a id="unreal.GameModeBase.hud_class"></a>
 
-#### hud_class
+#### hud\_class
 
 ```python
 @property
@@ -244,7 +244,7 @@ def hud_class() -> Class
 
 <a id="unreal.GameModeBase.hud_class"></a>
 
-#### hud_class
+#### hud\_class
 
 ```python
 @hud_class.setter
@@ -253,7 +253,7 @@ def hud_class(value: Class) -> None
 
 <a id="unreal.GameModeBase.default_pawn_class"></a>
 
-#### default_pawn_class
+#### default\_pawn\_class
 
 ```python
 @property
@@ -264,7 +264,7 @@ def default_pawn_class() -> Class
 
 <a id="unreal.GameModeBase.default_pawn_class"></a>
 
-#### default_pawn_class
+#### default\_pawn\_class
 
 ```python
 @default_pawn_class.setter
@@ -273,7 +273,7 @@ def default_pawn_class(value: Class) -> None
 
 <a id="unreal.GameModeBase.spectator_class"></a>
 
-#### spectator_class
+#### spectator\_class
 
 ```python
 @property
@@ -284,7 +284,7 @@ def spectator_class() -> Class
 
 <a id="unreal.GameModeBase.replay_spectator_player_controller_class"></a>
 
-#### replay_spectator_player_controller_class
+#### replay\_spectator\_player\_controller\_class
 
 ```python
 @property
@@ -295,7 +295,7 @@ def replay_spectator_player_controller_class() -> Class
 
 <a id="unreal.GameModeBase.server_stat_replicator_class"></a>
 
-#### server_stat_replicator_class
+#### server\_stat\_replicator\_class
 
 ```python
 @property
@@ -306,7 +306,7 @@ def server_stat_replicator_class() -> Class
 
 <a id="unreal.GameModeBase.use_seamless_travel"></a>
 
-#### use_seamless_travel
+#### use\_seamless\_travel
 
 ```python
 @property
@@ -317,7 +317,7 @@ def use_seamless_travel() -> bool
 
 <a id="unreal.GameModeBase.use_seamless_travel"></a>
 
-#### use_seamless_travel
+#### use\_seamless\_travel
 
 ```python
 @use_seamless_travel.setter
@@ -326,7 +326,7 @@ def use_seamless_travel(value: bool) -> None
 
 <a id="unreal.GameModeBase.start_players_as_spectators"></a>
 
-#### start_players_as_spectators
+#### start\_players\_as\_spectators
 
 ```python
 @property
@@ -357,7 +357,7 @@ def pauseable(value: bool) -> None
 
 <a id="unreal.GameModeBase.game_net_driver_replication_system"></a>
 
-#### game_net_driver_replication_system
+#### game\_net\_driver\_replication\_system
 
 ```python
 @property
@@ -370,7 +370,7 @@ Useful when migrating from one repsystem to another and a game mode does not ful
 
 <a id="unreal.GameModeBase.game_net_driver_replication_system"></a>
 
-#### game_net_driver_replication_system
+#### game\_net\_driver\_replication\_system
 
 ```python
 @game_net_driver_replication_system.setter
@@ -379,7 +379,7 @@ def game_net_driver_replication_system(value: ReplicationSystem) -> None
 
 <a id="unreal.GameModeBase.start_play"></a>
 
-#### start_play
+#### start\_play
 
 ```python
 def start_play() -> None
@@ -390,7 +390,7 @@ Transitions to calls BeginPlay on actors.
 
 <a id="unreal.GameModeBase.spawn_default_pawn_for"></a>
 
-#### spawn_default_pawn_for
+#### spawn\_default\_pawn\_for
 
 ```python
 def spawn_default_pawn_for(new_player: Controller, start_spot: Actor) -> Pawn
@@ -408,7 +408,7 @@ Returns:
 
 <a id="unreal.GameModeBase.spawn_default_pawn_at_transform"></a>
 
-#### spawn_default_pawn_at_transform
+#### spawn\_default\_pawn\_at\_transform
 
 ```python
 def spawn_default_pawn_at_transform(new_player: Controller,
@@ -427,7 +427,7 @@ Returns:
 
 <a id="unreal.GameModeBase.should_reset"></a>
 
-#### should_reset
+#### should\_reset
 
 ```python
 def should_reset(actor_to_reset: Actor) -> bool
@@ -445,7 +445,7 @@ Returns:
 
 <a id="unreal.GameModeBase.return_to_main_menu_host"></a>
 
-#### return_to_main_menu_host
+#### return\_to\_main\_menu\_host
 
 ```python
 def return_to_main_menu_host() -> None
@@ -456,7 +456,7 @@ Return to main menu, and disconnect any players
 
 <a id="unreal.GameModeBase.restart_player_at_transform"></a>
 
-#### restart_player_at_transform
+#### restart\_player\_at\_transform
 
 ```python
 def restart_player_at_transform(new_player: Controller,
@@ -472,7 +472,7 @@ Args:
 
 <a id="unreal.GameModeBase.restart_player_at_player_start"></a>
 
-#### restart_player_at_player_start
+#### restart\_player\_at\_player\_start
 
 ```python
 def restart_player_at_player_start(new_player: Controller,
@@ -488,7 +488,7 @@ Args:
 
 <a id="unreal.GameModeBase.restart_player"></a>
 
-#### restart_player
+#### restart\_player
 
 ```python
 def restart_player(new_player: Controller) -> None
@@ -502,7 +502,7 @@ Args:
 
 <a id="unreal.GameModeBase.reset_level"></a>
 
-#### reset_level
+#### reset\_level
 
 ```python
 def reset_level() -> None
@@ -514,7 +514,7 @@ Default implementation calls Reset() on all actors except GameMode and Controlle
 
 <a id="unreal.GameModeBase.player_can_restart"></a>
 
-#### player_can_restart
+#### player\_can\_restart
 
 ```python
 def player_can_restart(player: PlayerController) -> bool
@@ -531,7 +531,7 @@ Returns:
 
 <a id="unreal.GameModeBase.must_spectate"></a>
 
-#### must_spectate
+#### must\_spectate
 
 ```python
 def must_spectate(new_player_controller: PlayerController) -> bool
@@ -548,7 +548,7 @@ Returns:
 
 <a id="unreal.GameModeBase.on_post_login"></a>
 
-#### on_post_login
+#### on\_post\_login
 
 ```python
 def on_post_login(new_player: PlayerController) -> None
@@ -562,7 +562,7 @@ Args:
 
 <a id="unreal.GameModeBase.on_swap_player_controllers"></a>
 
-#### on_swap_player_controllers
+#### on\_swap\_player\_controllers
 
 ```python
 def on_swap_player_controllers(old_pc: PlayerController,
@@ -578,7 +578,7 @@ Args:
 
 <a id="unreal.GameModeBase.on_restart_player"></a>
 
-#### on_restart_player
+#### on\_restart\_player
 
 ```python
 def on_restart_player(new_player: Controller) -> None
@@ -592,7 +592,7 @@ Args:
 
 <a id="unreal.GameModeBase.on_logout"></a>
 
-#### on_logout
+#### on\_logout
 
 ```python
 def on_logout(exiting_controller: Controller) -> None
@@ -606,7 +606,7 @@ Args:
 
 <a id="unreal.GameModeBase.on_change_name"></a>
 
-#### on_change_name
+#### on\_change\_name
 
 ```python
 def on_change_name(other: Controller, new_name: str,
@@ -623,7 +623,7 @@ Args:
 
 <a id="unreal.GameModeBase.k2_find_player_start"></a>
 
-#### k2_find_player_start
+#### k2\_find\_player\_start
 
 ```python
 def k2_find_player_start(player: Controller, incoming_name: str = "") -> Actor
@@ -642,7 +642,7 @@ Returns:
 
 <a id="unreal.GameModeBase.init_start_spot"></a>
 
-#### init_start_spot
+#### init\_start\_spot
 
 ```python
 def init_start_spot(start_spot: Actor, new_player: Controller) -> None
@@ -657,7 +657,7 @@ Args:
 
 <a id="unreal.GameModeBase.initialize_hud_for_player"></a>
 
-#### initialize_hud_for_player
+#### initialize\_hud\_for\_player
 
 ```python
 def initialize_hud_for_player(new_player: PlayerController) -> None
@@ -671,7 +671,7 @@ Args:
 
 <a id="unreal.GameModeBase.has_match_started"></a>
 
-#### has_match_started
+#### has\_match\_started
 
 ```python
 def has_match_started() -> bool
@@ -685,7 +685,7 @@ Returns:
 
 <a id="unreal.GameModeBase.has_match_ended"></a>
 
-#### has_match_ended
+#### has\_match\_ended
 
 ```python
 def has_match_ended() -> bool
@@ -699,7 +699,7 @@ Returns:
 
 <a id="unreal.GameModeBase.handle_starting_new_player"></a>
 
-#### handle_starting_new_player
+#### handle\_starting\_new\_player
 
 ```python
 def handle_starting_new_player(new_player: PlayerController) -> None
@@ -713,7 +713,7 @@ Args:
 
 <a id="unreal.GameModeBase.get_num_spectators"></a>
 
-#### get_num_spectators
+#### get\_num\_spectators
 
 ```python
 def get_num_spectators() -> int
@@ -727,7 +727,7 @@ Returns:
 
 <a id="unreal.GameModeBase.get_num_players"></a>
 
-#### get_num_players
+#### get\_num\_players
 
 ```python
 def get_num_players() -> int
@@ -741,7 +741,7 @@ Returns:
 
 <a id="unreal.GameModeBase.get_default_pawn_class_for_controller"></a>
 
-#### get_default_pawn_class_for_controller
+#### get\_default\_pawn\_class\_for\_controller
 
 ```python
 def get_default_pawn_class_for_controller(controller: Controller) -> Class
@@ -758,7 +758,7 @@ Returns:
 
 <a id="unreal.GameModeBase.find_player_start"></a>
 
-#### find_player_start
+#### find\_player\_start
 
 ```python
 def find_player_start(player: Controller, incoming_name: str) -> Actor
@@ -777,7 +777,7 @@ Returns:
 
 <a id="unreal.GameModeBase.choose_player_start"></a>
 
-#### choose_player_start
+#### choose\_player\_start
 
 ```python
 def choose_player_start(player: Controller) -> Actor
@@ -795,7 +795,7 @@ Returns:
 
 <a id="unreal.GameModeBase.change_name"></a>
 
-#### change_name
+#### change\_name
 
 ```python
 def change_name(controller: Controller, new_name: str,
@@ -812,7 +812,7 @@ Args:
 
 <a id="unreal.GameModeBase.can_spectate"></a>
 
-#### can_spectate
+#### can\_spectate
 
 ```python
 def can_spectate(viewer: PlayerController, view_target: PlayerState) -> bool

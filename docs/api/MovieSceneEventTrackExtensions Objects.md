@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto UMovieSceneEvent
 
 <a id="unreal.MovieSceneEventTrackExtensions.get_bound_object_property_class"></a>
 
-#### get_bound_object_property_class
+#### get\_bound\_object\_property\_class
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.MovieSceneEventTrackExtensions.add_event_trigger_section"></a>
 
-#### add_event_trigger_section
+#### add\_event\_trigger\_section
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.MovieSceneEventTrackExtensions.add_event_repeater_section"></a>
 
-#### add_event_repeater_section
+#### add\_event\_repeater\_section
 
 ```python
 @classmethod

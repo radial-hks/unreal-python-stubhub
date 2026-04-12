@@ -13,7 +13,7 @@ Damage subclass that handles damage with a single impact location and source dir
 
 <a id="unreal.PointDamageEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

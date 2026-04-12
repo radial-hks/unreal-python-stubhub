@@ -14,19 +14,19 @@ Geometry import type
 
 <a id="unreal.ImportGeometryType.IGT_3D"></a>
 
-#### IGT_3D
+#### IGT\_3D
 
 0
 
 <a id="unreal.ImportGeometryType.IGT_BILLBOARDS"></a>
 
-#### IGT_BILLBOARDS
+#### IGT\_BILLBOARDS
 
 1
 
 <a id="unreal.ImportGeometryType.IGT_BOTH"></a>
 
-#### IGT_BOTH
+#### IGT\_BOTH
 
 2
 

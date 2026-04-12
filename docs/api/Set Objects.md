@@ -8,7 +8,7 @@ Type for all Unreal exposed set instances
 
 <a id="unreal.Set.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: type) -> None
@@ -16,7 +16,7 @@ def __init__(type: type) -> None
 
 <a id="unreal.Set.__class_getitem__"></a>
 
-#### __class_getitem__
+#### \_\_class\_getitem\_\_
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ cast(cls, type: Type[_ElemType], obj: object) -> Set[_ElemType] -- cast the give
 
 <a id="unreal.Set.__copy__"></a>
 
-#### __copy__
+#### \_\_copy\_\_
 
 ```python
 def __copy__() -> Set[_ElemType]
@@ -118,7 +118,7 @@ difference(self, *iterable: Iterable[_ElemType]) -> Set[_ElemType] -- return the
 
 <a id="unreal.Set.difference_update"></a>
 
-#### difference_update
+#### difference\_update
 
 ```python
 def difference_update(*iterables: Iterable[_ElemType]) -> None
@@ -138,7 +138,7 @@ intersection(self, *iterables: Iterable[_ElemType]) -> Set[_ElemType] -- return 
 
 <a id="unreal.Set.intersection_update"></a>
 
-#### intersection_update
+#### intersection\_update
 
 ```python
 def intersection_update(*iterables: Iterable[_ElemType]) -> None
@@ -148,7 +148,7 @@ intersection_update(self, *iterables: Iterable[_ElemType]) -> None -- make this 
 
 <a id="unreal.Set.symmetric_difference"></a>
 
-#### symmetric_difference
+#### symmetric\_difference
 
 ```python
 def symmetric_difference(other: Iterable[_ElemType]) -> Set[_ElemType]
@@ -158,7 +158,7 @@ symmetric_difference(self, other: Iterable[_ElemType]) -> Set[_ElemType] -- retu
 
 <a id="unreal.Set.symmetric_difference_update"></a>
 
-#### symmetric_difference_update
+#### symmetric\_difference\_update
 
 ```python
 def symmetric_difference_update(other: Iterable[_ElemType]) -> None

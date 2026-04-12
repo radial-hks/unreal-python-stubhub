@@ -24,7 +24,7 @@ Geometry Script Remove Hidden Triangles Options
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -61,7 +61,7 @@ def method(value: GeometryScriptRemoveHiddenTrianglesMethod) -> None
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.samples_per_triangle"></a>
 
-#### samples_per_triangle
+#### samples\_per\_triangle
 
 ```python
 @property
@@ -72,7 +72,7 @@ def samples_per_triangle() -> int
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.samples_per_triangle"></a>
 
-#### samples_per_triangle
+#### samples\_per\_triangle
 
 ```python
 @samples_per_triangle.setter
@@ -81,7 +81,7 @@ def samples_per_triangle(value: int) -> None
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.shrink_selection"></a>
 
-#### shrink_selection
+#### shrink\_selection
 
 ```python
 @property
@@ -92,7 +92,7 @@ def shrink_selection() -> int
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.shrink_selection"></a>
 
-#### shrink_selection
+#### shrink\_selection
 
 ```python
 @shrink_selection.setter
@@ -101,7 +101,7 @@ def shrink_selection(value: int) -> None
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.winding_iso_value"></a>
 
-#### winding_iso_value
+#### winding\_iso\_value
 
 ```python
 @property
@@ -112,7 +112,7 @@ def winding_iso_value() -> float
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.winding_iso_value"></a>
 
-#### winding_iso_value
+#### winding\_iso\_value
 
 ```python
 @winding_iso_value.setter
@@ -121,7 +121,7 @@ def winding_iso_value(value: float) -> None
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.rays_per_sample"></a>
 
-#### rays_per_sample
+#### rays\_per\_sample
 
 ```python
 @property
@@ -132,7 +132,7 @@ def rays_per_sample() -> int
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.rays_per_sample"></a>
 
-#### rays_per_sample
+#### rays\_per\_sample
 
 ```python
 @rays_per_sample.setter
@@ -141,7 +141,7 @@ def rays_per_sample(value: int) -> None
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.normal_offset"></a>
 
-#### normal_offset
+#### normal\_offset
 
 ```python
 @property
@@ -152,7 +152,7 @@ def normal_offset() -> float
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.normal_offset"></a>
 
-#### normal_offset
+#### normal\_offset
 
 ```python
 @normal_offset.setter
@@ -161,7 +161,7 @@ def normal_offset(value: float) -> None
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.compact_result"></a>
 
-#### compact_result
+#### compact\_result
 
 ```python
 @property
@@ -172,7 +172,7 @@ def compact_result() -> bool
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesOptions.compact_result"></a>
 
-#### compact_result
+#### compact\_result
 
 ```python
 @compact_result.setter

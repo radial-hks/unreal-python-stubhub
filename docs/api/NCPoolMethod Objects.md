@@ -20,7 +20,7 @@ ENCPool Method
 
 <a id="unreal.NCPoolMethod.AUTO_RELEASE"></a>
 
-#### AUTO_RELEASE
+#### AUTO\_RELEASE
 
 1: The component is allocated from the pool and will be automatically released back to it.
 User need not handle this any more that other NCs but interaction with the NC after the tick it's spawned in are unsafe.
@@ -28,7 +28,7 @@ This method is useful for one-shot fx that you don't need to keep a reference to
 
 <a id="unreal.NCPoolMethod.MANUAL_RELEASE"></a>
 
-#### MANUAL_RELEASE
+#### MANUAL\_RELEASE
 
 2: NC is allocated from the pool but will NOT be automatically released back to it. User has ownership of the NC and must call ReleaseToPool when finished with it otherwise the NC will leak.
 Interaction with the NC after it has been released are unsafe.

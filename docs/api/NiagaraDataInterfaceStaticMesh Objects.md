@@ -32,7 +32,7 @@ Data Interface allowing sampling of static meshes.
 
 <a id="unreal.NiagaraDataInterfaceStaticMesh.set_niagara_static_mesh_di_instance_index"></a>
 
-#### set_niagara_static_mesh_di_instance_index
+#### set\_niagara\_static\_mesh\_di\_instance\_index
 
 ```python
 @classmethod

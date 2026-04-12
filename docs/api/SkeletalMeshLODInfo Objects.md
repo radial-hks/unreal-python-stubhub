@@ -40,7 +40,7 @@ Struct containing information for a particular LOD level, such as materials and 
 
 <a id="unreal.SkeletalMeshLODInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

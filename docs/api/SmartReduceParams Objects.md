@@ -18,7 +18,7 @@ Smart Reduce Params
 
 <a id="unreal.SmartReduceParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tolerance_percentage: float = 0.000000,
@@ -27,7 +27,7 @@ def __init__(tolerance_percentage: float = 0.000000,
 
 <a id="unreal.SmartReduceParams.tolerance_percentage"></a>
 
-#### tolerance_percentage
+#### tolerance\_percentage
 
 ```python
 @property
@@ -38,7 +38,7 @@ def tolerance_percentage() -> float
 
 <a id="unreal.SmartReduceParams.tolerance_percentage"></a>
 
-#### tolerance_percentage
+#### tolerance\_percentage
 
 ```python
 @tolerance_percentage.setter
@@ -47,7 +47,7 @@ def tolerance_percentage(value: float) -> None
 
 <a id="unreal.SmartReduceParams.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @property
@@ -58,7 +58,7 @@ def sample_rate() -> FrameRate
 
 <a id="unreal.SmartReduceParams.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @sample_rate.setter

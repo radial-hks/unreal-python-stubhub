@@ -20,7 +20,7 @@ This will include multiple values of different meanings, but we use an enum to f
 
 <a id="unreal.DeterminismLevel.NO_DETERMINISM"></a>
 
-#### NO_DETERMINISM
+#### NO\_DETERMINISM
 
 0
 
@@ -32,19 +32,19 @@ This will include multiple values of different meanings, but we use an enum to f
 
 <a id="unreal.DeterminismLevel.ORDER_ORTHOGONAL"></a>
 
-#### ORDER_ORTHOGONAL
+#### ORDER\_ORTHOGONAL
 
 2
 
 <a id="unreal.DeterminismLevel.ORDER_CONSISTENT"></a>
 
-#### ORDER_CONSISTENT
+#### ORDER\_CONSISTENT
 
 3
 
 <a id="unreal.DeterminismLevel.ORDER_INDEPENDENT"></a>
 
-#### ORDER_INDEPENDENT
+#### ORDER\_INDEPENDENT
 
 4
 
@@ -54,4 +54,4 @@ This will include multiple values of different meanings, but we use an enum to f
 
 4
 
-<a id="unreal.AvaShapeUVMode"></a>
+<a id="unreal.OrientAxis"></a>

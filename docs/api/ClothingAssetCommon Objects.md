@@ -27,7 +27,7 @@ own implementation of \c UClothLODDataBase.
 
 <a id="unreal.ClothingAssetCommon.cloth_configs"></a>
 
-#### cloth_configs
+#### cloth\_configs
 
 ```python
 @property
@@ -39,7 +39,7 @@ Use GetClothConfig() to retrieve the correct parameters/config type for the desi
 
 <a id="unreal.ClothingAssetCommon.custom_data"></a>
 
-#### custom_data
+#### custom\_data
 
 ```python
 @property
@@ -51,7 +51,7 @@ deprecated: This property is obsolete.
 
 <a id="unreal.ClothingAssetCommon.custom_data"></a>
 
-#### custom_data
+#### custom\_data
 
 ```python
 @custom_data.setter

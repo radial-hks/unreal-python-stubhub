@@ -12,4 +12,4 @@ StateTree asset. Contains the StateTree definition in both editor and runtime (b
 - **Module**: StateTreeModule
 - **File**: StateTree.h
 
-<a id="unreal.ActorModifierCoreBase"></a>
+<a id="unreal.StateTreeComponent"></a>

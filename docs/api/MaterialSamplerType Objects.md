@@ -13,103 +13,103 @@ Describes how textures are sampled for materials
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_COLOR"></a>
 
-#### SAMPLERTYPE_COLOR
+#### SAMPLERTYPE\_COLOR
 
 0
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_GRAYSCALE"></a>
 
-#### SAMPLERTYPE_GRAYSCALE
+#### SAMPLERTYPE\_GRAYSCALE
 
 1
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_ALPHA"></a>
 
-#### SAMPLERTYPE_ALPHA
+#### SAMPLERTYPE\_ALPHA
 
 2
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_NORMAL"></a>
 
-#### SAMPLERTYPE_NORMAL
+#### SAMPLERTYPE\_NORMAL
 
 3
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_MASKS"></a>
 
-#### SAMPLERTYPE_MASKS
+#### SAMPLERTYPE\_MASKS
 
 4
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_DISTANCE_FIELD_FONT"></a>
 
-#### SAMPLERTYPE_DISTANCE_FIELD_FONT
+#### SAMPLERTYPE\_DISTANCE\_FIELD\_FONT
 
 5
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_LINEAR_COLOR"></a>
 
-#### SAMPLERTYPE_LINEAR_COLOR
+#### SAMPLERTYPE\_LINEAR\_COLOR
 
 6
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_LINEAR_GRAYSCALE"></a>
 
-#### SAMPLERTYPE_LINEAR_GRAYSCALE
+#### SAMPLERTYPE\_LINEAR\_GRAYSCALE
 
 7
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_DATA"></a>
 
-#### SAMPLERTYPE_DATA
+#### SAMPLERTYPE\_DATA
 
 8
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_EXTERNAL"></a>
 
-#### SAMPLERTYPE_EXTERNAL
+#### SAMPLERTYPE\_EXTERNAL
 
 9
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_VIRTUAL_COLOR"></a>
 
-#### SAMPLERTYPE_VIRTUAL_COLOR
+#### SAMPLERTYPE\_VIRTUAL\_COLOR
 
 10
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_VIRTUAL_GRAYSCALE"></a>
 
-#### SAMPLERTYPE_VIRTUAL_GRAYSCALE
+#### SAMPLERTYPE\_VIRTUAL\_GRAYSCALE
 
 11
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_VIRTUAL_ALPHA"></a>
 
-#### SAMPLERTYPE_VIRTUAL_ALPHA
+#### SAMPLERTYPE\_VIRTUAL\_ALPHA
 
 12
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_VIRTUAL_NORMAL"></a>
 
-#### SAMPLERTYPE_VIRTUAL_NORMAL
+#### SAMPLERTYPE\_VIRTUAL\_NORMAL
 
 13
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_VIRTUAL_MASKS"></a>
 
-#### SAMPLERTYPE_VIRTUAL_MASKS
+#### SAMPLERTYPE\_VIRTUAL\_MASKS
 
 14
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_VIRTUAL_LINEAR_COLOR"></a>
 
-#### SAMPLERTYPE_VIRTUAL_LINEAR_COLOR
+#### SAMPLERTYPE\_VIRTUAL\_LINEAR\_COLOR
 
 15: No DistanceFiledFont Virtual
 
 <a id="unreal.MaterialSamplerType.SAMPLERTYPE_VIRTUAL_LINEAR_GRAYSCALE"></a>
 
-#### SAMPLERTYPE_VIRTUAL_LINEAR_GRAYSCALE
+#### SAMPLERTYPE\_VIRTUAL\_LINEAR\_GRAYSCALE
 
 16
 

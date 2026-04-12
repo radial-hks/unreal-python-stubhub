@@ -13,7 +13,7 @@ Exposes operations to be performed on a blend space anim node.
 
 <a id="unreal.BlendSpaceLibrary.snap_to_position"></a>
 
-#### snap_to_position
+#### snap\_to\_position
 
 ```python
 @classmethod
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.BlendSpaceLibrary.get_position"></a>
 
-#### get_position
+#### get\_position
 
 ```python
 @classmethod
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.BlendSpaceLibrary.get_filtered_position"></a>
 
-#### get_filtered_position
+#### get\_filtered\_position
 
 ```python
 @classmethod
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.BlendSpaceLibrary.convert_to_blend_space_pure"></a>
 
-#### convert_to_blend_space_pure
+#### convert\_to\_blend\_space\_pure
 
 ```python
 @classmethod
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.BlendSpaceLibrary.convert_to_blend_space"></a>
 
-#### convert_to_blend_space
+#### convert\_to\_blend\_space
 
 ```python
 @classmethod

@@ -14,31 +14,31 @@ ECompare Operation Enum
 
 <a id="unreal.CompareOperationEnum.DATAFLOW_COMPARE_EQUAL"></a>
 
-#### DATAFLOW_COMPARE_EQUAL
+#### DATAFLOW\_COMPARE\_EQUAL
 
 0
 
 <a id="unreal.CompareOperationEnum.DATAFLOW_COMPARE_SMALLER"></a>
 
-#### DATAFLOW_COMPARE_SMALLER
+#### DATAFLOW\_COMPARE\_SMALLER
 
 1
 
 <a id="unreal.CompareOperationEnum.DATAFLOW_COMPARE_SMALLER_OR_EQUAL"></a>
 
-#### DATAFLOW_COMPARE_SMALLER_OR_EQUAL
+#### DATAFLOW\_COMPARE\_SMALLER\_OR\_EQUAL
 
 2
 
 <a id="unreal.CompareOperationEnum.DATAFLOW_COMPARE_GREATER"></a>
 
-#### DATAFLOW_COMPARE_GREATER
+#### DATAFLOW\_COMPARE\_GREATER
 
 3
 
 <a id="unreal.CompareOperationEnum.DATAFLOW_COMPARE_GREATER_OR_EQUAL"></a>
 
-#### DATAFLOW_COMPARE_GREATER_OR_EQUAL
+#### DATAFLOW\_COMPARE\_GREATER\_OR\_EQUAL
 
 4
 

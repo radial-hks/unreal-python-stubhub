@@ -28,7 +28,7 @@ in which case the children will be visited until a leaf state is found, which wi
 
 <a id="unreal.StateTreeTransitionResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -45,7 +45,7 @@ def __init__(
 
 <a id="unreal.StateTreeTransitionResult.next_active_frames"></a>
 
-#### next_active_frames
+#### next\_active\_frames
 
 ```python
 @property
@@ -56,7 +56,7 @@ def next_active_frames() -> Array[StateTreeExecutionFrame]
 
 <a id="unreal.StateTreeTransitionResult.current_run_status"></a>
 
-#### current_run_status
+#### current\_run\_status
 
 ```python
 @property
@@ -67,7 +67,7 @@ def current_run_status() -> StateTreeRunStatus
 
 <a id="unreal.StateTreeTransitionResult.source_state"></a>
 
-#### source_state
+#### source\_state
 
 ```python
 @property
@@ -78,7 +78,7 @@ def source_state() -> StateTreeStateHandle
 
 <a id="unreal.StateTreeTransitionResult.target_state"></a>
 
-#### target_state
+#### target\_state
 
 ```python
 @property
@@ -89,7 +89,7 @@ def target_state() -> StateTreeStateHandle
 
 <a id="unreal.StateTreeTransitionResult.current_state"></a>
 
-#### current_state
+#### current\_state
 
 ```python
 @property
@@ -100,7 +100,7 @@ def current_state() -> StateTreeStateHandle
 
 <a id="unreal.StateTreeTransitionResult.change_type"></a>
 
-#### change_type
+#### change\_type
 
 ```python
 @property
@@ -122,7 +122,7 @@ def priority() -> StateTreeTransitionPriority
 
 <a id="unreal.StateTreeTransitionResult.source_state_tree"></a>
 
-#### source_state_tree
+#### source\_state\_tree
 
 ```python
 @property
@@ -133,7 +133,7 @@ def source_state_tree() -> StateTree
 
 <a id="unreal.StateTreeTransitionResult.source_root_state"></a>
 
-#### source_root_state
+#### source\_root\_state
 
 ```python
 @property

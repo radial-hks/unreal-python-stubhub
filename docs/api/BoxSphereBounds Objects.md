@@ -20,7 +20,7 @@ note: The full C++ class is located here : Engine\Source\Runtime\Core\Public\Mat
 
 <a id="unreal.BoxSphereBounds.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(origin: Vector = [0.000000, 0.000000, 0.000000],
@@ -50,7 +50,7 @@ def origin(value: Vector) -> None
 
 <a id="unreal.BoxSphereBounds.box_extent"></a>
 
-#### box_extent
+#### box\_extent
 
 ```python
 @property
@@ -61,7 +61,7 @@ def box_extent() -> Vector
 
 <a id="unreal.BoxSphereBounds.box_extent"></a>
 
-#### box_extent
+#### box\_extent
 
 ```python
 @box_extent.setter
@@ -70,7 +70,7 @@ def box_extent(value: Vector) -> None
 
 <a id="unreal.BoxSphereBounds.sphere_radius"></a>
 
-#### sphere_radius
+#### sphere\_radius
 
 ```python
 @property
@@ -81,7 +81,7 @@ def sphere_radius() -> float
 
 <a id="unreal.BoxSphereBounds.sphere_radius"></a>
 
-#### sphere_radius
+#### sphere\_radius
 
 ```python
 @sphere_radius.setter

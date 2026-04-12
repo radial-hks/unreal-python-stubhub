@@ -14,7 +14,7 @@ Can be used to do blueprint facilitator per role
 
 <a id="unreal.LiveLinkBaseBlueprintData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

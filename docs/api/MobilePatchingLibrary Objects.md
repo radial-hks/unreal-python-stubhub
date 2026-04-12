@@ -14,7 +14,7 @@ Mobile Patching Library
 
 <a id="unreal.MobilePatchingLibrary.request_content"></a>
 
-#### request_content
+#### request\_content
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Args:
 
 <a id="unreal.MobilePatchingLibrary.has_active_wi_fi_connection"></a>
 
-#### has_active_wi_fi_connection
+#### has\_active\_wi\_fi\_connection
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.MobilePatchingLibrary.get_supported_platform_names"></a>
 
-#### get_supported_platform_names
+#### get\_supported\_platform\_names
 
 ```python
 @classmethod
@@ -68,7 +68,7 @@ Returns:
 
 <a id="unreal.MobilePatchingLibrary.get_installed_content"></a>
 
-#### get_installed_content
+#### get\_installed\_content
 
 ```python
 @classmethod
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.MobilePatchingLibrary.get_active_device_profile_name"></a>
 
-#### get_active_device_profile_name
+#### get\_active\_device\_profile\_name
 
 ```python
 @classmethod
@@ -101,4 +101,4 @@ Get the name of currently selected device profile name
 Returns:
     str:
 
-<a id="unreal.MVVMBlueprintViewExtension"></a>
+<a id="unreal.AudioImpulseResponseFactory"></a>

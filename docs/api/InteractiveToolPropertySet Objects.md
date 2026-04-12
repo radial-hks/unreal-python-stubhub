@@ -18,4 +18,4 @@ You can override UInteractiveTool::OnPropertyModified() to act on these notifica
 - **Module**: InteractiveToolsFramework
 - **File**: InteractiveTool.h
 
-<a id="unreal.BakeMultiTexture2DProperties"></a>
+<a id="unreal.LidarToolActionsNormals"></a>

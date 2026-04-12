@@ -25,13 +25,13 @@ EFlow Direction Preference
 
 <a id="unreal.FlowDirectionPreference.LEFT_TO_RIGHT"></a>
 
-#### LEFT_TO_RIGHT
+#### LEFT\_TO\_RIGHT
 
 2: Forces a Left to Right layout flow.
 
 <a id="unreal.FlowDirectionPreference.RIGHT_TO_LEFT"></a>
 
-#### RIGHT_TO_LEFT
+#### RIGHT\_TO\_LEFT
 
 3: Forces a Right to Left layout flow.
 

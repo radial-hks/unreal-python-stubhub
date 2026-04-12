@@ -17,7 +17,7 @@ referenced function (RigVMFunctionNode).
 
 <a id="unreal.RigVMLibraryNode.get_matching_variants"></a>
 
-#### get_matching_variants
+#### get\_matching\_variants
 
 ```python
 def get_matching_variants() -> Array[RigVMVariantRef]
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.RigVMLibraryNode.get_library"></a>
 
-#### get_library
+#### get\_library
 
 ```python
 def get_library() -> RigVMFunctionLibrary
@@ -45,7 +45,7 @@ Returns:
 
 <a id="unreal.RigVMLibraryNode.get_function_variant"></a>
 
-#### get_function_variant
+#### get\_function\_variant
 
 ```python
 def get_function_variant() -> RigVMVariant
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.RigVMLibraryNode.get_contained_graph"></a>
 
-#### get_contained_graph
+#### get\_contained\_graph
 
 ```python
 def get_contained_graph() -> RigVMGraph

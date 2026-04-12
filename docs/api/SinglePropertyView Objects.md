@@ -53,7 +53,7 @@ The single property view allows you to display the value of an object's property
 
 <a id="unreal.SinglePropertyView.set_property_name"></a>
 
-#### set_property_name
+#### set\_property\_name
 
 ```python
 def set_property_name(new_property_name: Name) -> None
@@ -67,7 +67,7 @@ Args:
 
 <a id="unreal.SinglePropertyView.set_name_override"></a>
 
-#### set_name_override
+#### set\_name\_override
 
 ```python
 def set_name_override(new_property_name: Text) -> None
@@ -81,7 +81,7 @@ Args:
 
 <a id="unreal.SinglePropertyView.get_property_name"></a>
 
-#### get_property_name
+#### get\_property\_name
 
 ```python
 def get_property_name() -> Name
@@ -95,7 +95,7 @@ Returns:
 
 <a id="unreal.SinglePropertyView.get_name_override"></a>
 
-#### get_name_override
+#### get\_name\_override
 
 ```python
 def get_name_override() -> Text

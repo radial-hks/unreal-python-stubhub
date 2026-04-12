@@ -18,7 +18,7 @@ Optimus Node Graph
 
 <a id="unreal.OptimusNodeGraph.graph_type"></a>
 
-#### graph_type
+#### graph\_type
 
 ```python
 @property
@@ -29,7 +29,7 @@ def graph_type() -> OptimusNodeGraphType
 
 <a id="unreal.OptimusNodeGraph.rename_graph_direct"></a>
 
-#### rename_graph_direct
+#### rename\_graph\_direct
 
 ```python
 def rename_graph_direct(graph: OptimusNodeGraph, new_name: str) -> bool
@@ -47,7 +47,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.rename_graph"></a>
 
-#### rename_graph
+#### rename\_graph
 
 ```python
 def rename_graph(graph: OptimusNodeGraph, new_name: str) -> bool
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.remove_nodes"></a>
 
-#### remove_nodes
+#### remove\_nodes
 
 ```python
 def remove_nodes(nodes: Array[OptimusNode]) -> bool
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.remove_node"></a>
 
-#### remove_node
+#### remove\_node
 
 ```python
 def remove_node(node: OptimusNode) -> bool
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.remove_link"></a>
 
-#### remove_link
+#### remove\_link
 
 ```python
 def remove_link(node_output_pin: OptimusNodePin,
@@ -119,7 +119,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.remove_all_links"></a>
 
-#### remove_all_links
+#### remove\_all\_links
 
 ```python
 def remove_all_links(node_pin: OptimusNodePin) -> bool
@@ -137,7 +137,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.move_graph_direct"></a>
 
-#### move_graph_direct
+#### move\_graph\_direct
 
 ```python
 def move_graph_direct(graph: OptimusNodeGraph, insert_before: int) -> bool
@@ -155,7 +155,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.is_sub_graph_reference"></a>
 
-#### is_sub_graph_reference
+#### is\_sub\_graph\_reference
 
 ```python
 def is_sub_graph_reference(node: OptimusNode) -> bool
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.is_kernel_function"></a>
 
-#### is_kernel_function
+#### is\_kernel\_function
 
 ```python
 def is_kernel_function(node: OptimusNode) -> bool
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.is_function_reference"></a>
 
-#### is_function_reference
+#### is\_function\_reference
 
 ```python
 def is_function_reference(node: OptimusNode) -> bool
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.is_function_graph"></a>
 
-#### is_function_graph
+#### is\_function\_graph
 
 ```python
 def is_function_graph() -> bool
@@ -223,7 +223,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.is_execution_graph"></a>
 
-#### is_execution_graph
+#### is\_execution\_graph
 
 ```python
 def is_execution_graph() -> bool
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.is_custom_kernel"></a>
 
-#### is_custom_kernel
+#### is\_custom\_kernel
 
 ```python
 def is_custom_kernel(node: OptimusNode) -> bool
@@ -255,7 +255,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.get_graph_type"></a>
 
-#### get_graph_type
+#### get\_graph\_type
 
 ```python
 def get_graph_type() -> OptimusNodeGraphType
@@ -269,7 +269,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.get_graphs"></a>
 
-#### get_graphs
+#### get\_graphs
 
 ```python
 def get_graphs() -> Array[OptimusNodeGraph]
@@ -283,7 +283,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.get_graph_index"></a>
 
-#### get_graph_index
+#### get\_graph\_index
 
 ```python
 def get_graph_index() -> int
@@ -297,7 +297,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.expand_collapsed_nodes"></a>
 
-#### expand_collapsed_nodes
+#### expand\_collapsed\_nodes
 
 ```python
 def expand_collapsed_nodes(
@@ -317,7 +317,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.duplicate_nodes"></a>
 
-#### duplicate_nodes
+#### duplicate\_nodes
 
 ```python
 def duplicate_nodes(nodes: Array[OptimusNode], position: Vector2D) -> bool
@@ -336,7 +336,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.duplicate_node"></a>
 
-#### duplicate_node
+#### duplicate\_node
 
 ```python
 def duplicate_node(node: OptimusNode, position: Vector2D) -> OptimusNode
@@ -354,7 +354,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.convert_to_sub_graph"></a>
 
-#### convert_to_sub_graph
+#### convert\_to\_sub\_graph
 
 ```python
 def convert_to_sub_graph(function_node: OptimusNode) -> bool
@@ -371,7 +371,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.convert_to_function"></a>
 
-#### convert_to_function
+#### convert\_to\_function
 
 ```python
 def convert_to_function(sub_graph_node: OptimusNode) -> bool
@@ -388,7 +388,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.convert_function_to_custom_kernel"></a>
 
-#### convert_function_to_custom_kernel
+#### convert\_function\_to\_custom\_kernel
 
 ```python
 def convert_function_to_custom_kernel(
@@ -407,7 +407,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.convert_custom_kernel_to_function"></a>
 
-#### convert_custom_kernel_to_function
+#### convert\_custom\_kernel\_to\_function
 
 ```python
 def convert_custom_kernel_to_function(
@@ -426,7 +426,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.collapse_nodes_to_sub_graph"></a>
 
-#### collapse_nodes_to_sub_graph
+#### collapse\_nodes\_to\_sub\_graph
 
 ```python
 def collapse_nodes_to_sub_graph(nodes: Array[OptimusNode]) -> OptimusNode
@@ -444,7 +444,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.collapse_nodes_to_function"></a>
 
-#### collapse_nodes_to_function
+#### collapse\_nodes\_to\_function
 
 ```python
 def collapse_nodes_to_function(nodes: Array[OptimusNode]) -> OptimusNode
@@ -463,7 +463,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_variable_get_node"></a>
 
-#### add_variable_get_node
+#### add\_variable\_get\_node
 
 ```python
 def add_variable_get_node(variable_desc: OptimusVariableDescription,
@@ -482,7 +482,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_value_node"></a>
 
-#### add_value_node
+#### add\_value\_node
 
 ```python
 def add_value_node(data_type_ref: OptimusDataTypeRef,
@@ -501,7 +501,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_resource_set_node"></a>
 
-#### add_resource_set_node
+#### add\_resource\_set\_node
 
 ```python
 def add_resource_set_node(resource_desc: OptimusResourceDescription,
@@ -520,7 +520,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_resource_node"></a>
 
-#### add_resource_node
+#### add\_resource\_node
 
 ```python
 def add_resource_node(resource_desc: OptimusResourceDescription,
@@ -539,7 +539,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_resource_get_node"></a>
 
-#### add_resource_get_node
+#### add\_resource\_get\_node
 
 ```python
 def add_resource_get_node(resource_desc: OptimusResourceDescription,
@@ -558,7 +558,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_node"></a>
 
-#### add_node
+#### add\_node
 
 ```python
 def add_node(node_class: Class, position: Vector2D) -> OptimusNode
@@ -576,7 +576,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_loop_terminal_nodes"></a>
 
-#### add_loop_terminal_nodes
+#### add\_loop\_terminal\_nodes
 
 ```python
 def add_loop_terminal_nodes(position: Vector2D) -> Array[OptimusNode]
@@ -593,7 +593,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_link"></a>
 
-#### add_link
+#### add\_link
 
 ```python
 def add_link(node_output_pin: OptimusNodePin,
@@ -612,7 +612,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_function_reference_node"></a>
 
-#### add_function_reference_node
+#### add\_function\_reference\_node
 
 ```python
 def add_function_reference_node(function_graph: OptimusFunctionNodeGraph,
@@ -631,7 +631,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_data_interface_node"></a>
 
-#### add_data_interface_node
+#### add\_data\_interface\_node
 
 ```python
 def add_data_interface_node(data_interface_class: Class,
@@ -650,7 +650,7 @@ Returns:
 
 <a id="unreal.OptimusNodeGraph.add_component_binding_get_node"></a>
 
-#### add_component_binding_get_node
+#### add\_component\_binding\_get\_node
 
 ```python
 def add_component_binding_get_node(

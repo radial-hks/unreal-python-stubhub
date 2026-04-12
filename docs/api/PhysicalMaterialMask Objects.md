@@ -21,7 +21,7 @@ Physical material masks are used to map multiple physical materials to a single 
 
 <a id="unreal.PhysicalMaterialMask.mask_texture"></a>
 
-#### mask_texture
+#### mask\_texture
 
 ```python
 @property
@@ -32,7 +32,7 @@ def mask_texture() -> Texture
 
 <a id="unreal.PhysicalMaterialMask.uv_channel_index"></a>
 
-#### uv_channel_index
+#### uv\_channel\_index
 
 ```python
 @property
@@ -43,7 +43,7 @@ def uv_channel_index() -> int
 
 <a id="unreal.PhysicalMaterialMask.uv_channel_index"></a>
 
-#### uv_channel_index
+#### uv\_channel\_index
 
 ```python
 @uv_channel_index.setter
@@ -52,7 +52,7 @@ def uv_channel_index(value: int) -> None
 
 <a id="unreal.PhysicalMaterialMask.address_x"></a>
 
-#### address_x
+#### address\_x
 
 ```python
 @property
@@ -63,7 +63,7 @@ def address_x() -> TextureAddress
 
 <a id="unreal.PhysicalMaterialMask.address_x"></a>
 
-#### address_x
+#### address\_x
 
 ```python
 @address_x.setter
@@ -72,7 +72,7 @@ def address_x(value: TextureAddress) -> None
 
 <a id="unreal.PhysicalMaterialMask.address_y"></a>
 
-#### address_y
+#### address\_y
 
 ```python
 @property
@@ -83,7 +83,7 @@ def address_y() -> TextureAddress
 
 <a id="unreal.PhysicalMaterialMask.address_y"></a>
 
-#### address_y
+#### address\_y
 
 ```python
 @address_y.setter

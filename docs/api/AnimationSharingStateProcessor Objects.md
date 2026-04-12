@@ -18,7 +18,7 @@ Animation Sharing State Processor
 
 <a id="unreal.AnimationSharingStateProcessor.process_actor_state"></a>
 
-#### process_actor_state
+#### process\_actor\_state
 
 ```python
 def process_actor_state(actor: Actor, current_state: int,
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.AnimationSharingStateProcessor.get_animation_state_enum"></a>
 
-#### get_animation_state_enum
+#### get\_animation\_state\_enum
 
 ```python
 def get_animation_state_enum() -> Enum

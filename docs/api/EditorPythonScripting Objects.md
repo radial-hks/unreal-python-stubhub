@@ -14,7 +14,7 @@ Utility class for Python scripting functionality.
 
 <a id="unreal.EditorPythonScripting.set_keep_python_script_alive"></a>
 
-#### set_keep_python_script_alive
+#### set\_keep\_python\_script\_alive
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.EditorPythonScripting.get_keep_python_script_alive"></a>
 
-#### get_keep_python_script_alive
+#### get\_keep\_python\_script\_alive
 
 ```python
 @classmethod

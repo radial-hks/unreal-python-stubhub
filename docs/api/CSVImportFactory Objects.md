@@ -26,7 +26,7 @@ CSVImport Factory
 
 <a id="unreal.CSVImportFactory.automated_import_settings"></a>
 
-#### automated_import_settings
+#### automated\_import\_settings
 
 ```python
 @property
@@ -37,7 +37,7 @@ def automated_import_settings() -> CSVImportSettings
 
 <a id="unreal.CSVImportFactory.automated_import_settings"></a>
 
-#### automated_import_settings
+#### automated\_import\_settings
 
 ```python
 @automated_import_settings.setter

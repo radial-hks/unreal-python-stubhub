@@ -69,7 +69,7 @@ def camera(value: CameraAsset) -> None
 
 <a id="unreal.GameplayCameraComponent.auto_activate_for_player"></a>
 
-#### auto_activate_for_player
+#### auto\_activate\_for\_player
 
 ```python
 @property
@@ -81,7 +81,7 @@ This is equivalent to calling ActivateCamera on BeginPlay.
 
 <a id="unreal.GameplayCameraComponent.auto_activate_for_player"></a>
 
-#### auto_activate_for_player
+#### auto\_activate\_for\_player
 
 ```python
 @auto_activate_for_player.setter
@@ -90,7 +90,7 @@ def auto_activate_for_player(value: AutoReceiveInput) -> None
 
 <a id="unreal.GameplayCameraComponent.set_initial_pose"></a>
 
-#### set_initial_pose
+#### set\_initial\_pose
 
 ```python
 def set_initial_pose(camera_pose: BlueprintCameraPose) -> None
@@ -104,7 +104,7 @@ Args:
 
 <a id="unreal.GameplayCameraComponent.get_initial_variable_table"></a>
 
-#### get_initial_variable_table
+#### get\_initial\_variable\_table
 
 ```python
 def get_initial_variable_table() -> BlueprintCameraVariableTable
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.GameplayCameraComponent.get_initial_pose"></a>
 
-#### get_initial_pose
+#### get\_initial\_pose
 
 ```python
 def get_initial_pose() -> BlueprintCameraPose
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.GameplayCameraComponent.deactivate_camera"></a>
 
-#### deactivate_camera
+#### deactivate\_camera
 
 ```python
 def deactivate_camera() -> None
@@ -143,7 +143,7 @@ Deactivates the camera for the last player it was activated for.
 
 <a id="unreal.GameplayCameraComponent.activate_camera_for_player_index"></a>
 
-#### activate_camera_for_player_index
+#### activate\_camera\_for\_player\_index
 
 ```python
 def activate_camera_for_player_index(player_index: int) -> None
@@ -157,7 +157,7 @@ Args:
 
 <a id="unreal.GameplayCameraComponent.activate_camera_for_player_controller"></a>
 
-#### activate_camera_for_player_controller
+#### activate\_camera\_for\_player\_controller
 
 ```python
 def activate_camera_for_player_controller(

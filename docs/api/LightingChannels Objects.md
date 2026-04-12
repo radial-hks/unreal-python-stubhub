@@ -19,7 +19,7 @@ Specifies which lighting channels are relevant
 
 <a id="unreal.LightingChannels.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(channel0: bool = False,

@@ -13,7 +13,7 @@ Wrapping type around instance pointer to be returned per value in Blueprints
 
 <a id="unreal.ConstraintInstanceAccessor.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

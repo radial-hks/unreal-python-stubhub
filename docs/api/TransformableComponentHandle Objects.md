@@ -30,7 +30,7 @@ def component() -> SceneComponent
 
 <a id="unreal.TransformableComponentHandle.socket_name"></a>
 
-#### socket_name
+#### socket\_name
 
 ```python
 @property

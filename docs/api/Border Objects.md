@@ -69,7 +69,7 @@ to surround it with a background image and adjustable padding.
 
 <a id="unreal.Border.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @property
@@ -80,7 +80,7 @@ def horizontal_alignment() -> HorizontalAlignment
 
 <a id="unreal.Border.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @horizontal_alignment.setter
@@ -89,7 +89,7 @@ def horizontal_alignment(value: HorizontalAlignment) -> None
 
 <a id="unreal.Border.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @property
@@ -100,7 +100,7 @@ def vertical_alignment() -> VerticalAlignment
 
 <a id="unreal.Border.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @vertical_alignment.setter
@@ -109,7 +109,7 @@ def vertical_alignment(value: VerticalAlignment) -> None
 
 <a id="unreal.Border.show_effect_when_disabled"></a>
 
-#### show_effect_when_disabled
+#### show\_effect\_when\_disabled
 
 ```python
 @property
@@ -120,7 +120,7 @@ def show_effect_when_disabled() -> bool
 
 <a id="unreal.Border.show_effect_when_disabled"></a>
 
-#### show_effect_when_disabled
+#### show\_effect\_when\_disabled
 
 ```python
 @show_effect_when_disabled.setter
@@ -129,7 +129,7 @@ def show_effect_when_disabled(value: bool) -> None
 
 <a id="unreal.Border.content_color_and_opacity"></a>
 
-#### content_color_and_opacity
+#### content\_color\_and\_opacity
 
 ```python
 @property
@@ -140,7 +140,7 @@ def content_color_and_opacity() -> LinearColor
 
 <a id="unreal.Border.content_color_and_opacity"></a>
 
-#### content_color_and_opacity
+#### content\_color\_and\_opacity
 
 ```python
 @content_color_and_opacity.setter
@@ -180,7 +180,7 @@ def background() -> SlateBrush
 
 <a id="unreal.Border.brush_color"></a>
 
-#### brush_color
+#### brush\_color
 
 ```python
 @property
@@ -191,7 +191,7 @@ def brush_color() -> LinearColor
 
 <a id="unreal.Border.brush_color"></a>
 
-#### brush_color
+#### brush\_color
 
 ```python
 @brush_color.setter
@@ -200,7 +200,7 @@ def brush_color(value: LinearColor) -> None
 
 <a id="unreal.Border.desired_size_scale"></a>
 
-#### desired_size_scale
+#### desired\_size\_scale
 
 ```python
 @property
@@ -214,7 +214,7 @@ then changing this value will have no effect.
 
 <a id="unreal.Border.desired_size_scale"></a>
 
-#### desired_size_scale
+#### desired\_size\_scale
 
 ```python
 @desired_size_scale.setter
@@ -223,7 +223,7 @@ def desired_size_scale(value: Vector2D) -> None
 
 <a id="unreal.Border.set_vertical_alignment"></a>
 
-#### set_vertical_alignment
+#### set\_vertical\_alignment
 
 ```python
 def set_vertical_alignment(vertical_alignment: VerticalAlignment) -> None
@@ -237,7 +237,7 @@ Args:
 
 <a id="unreal.Border.set_show_effect_when_disabled"></a>
 
-#### set_show_effect_when_disabled
+#### set\_show\_effect\_when\_disabled
 
 ```python
 def set_show_effect_when_disabled(show_effect_when_disabled: bool) -> None
@@ -251,7 +251,7 @@ Args:
 
 <a id="unreal.Border.set_padding"></a>
 
-#### set_padding
+#### set\_padding
 
 ```python
 def set_padding(padding: Margin) -> None
@@ -265,7 +265,7 @@ Args:
 
 <a id="unreal.Border.set_horizontal_alignment"></a>
 
-#### set_horizontal_alignment
+#### set\_horizontal\_alignment
 
 ```python
 def set_horizontal_alignment(
@@ -280,7 +280,7 @@ Args:
 
 <a id="unreal.Border.set_desired_size_scale"></a>
 
-#### set_desired_size_scale
+#### set\_desired\_size\_scale
 
 ```python
 def set_desired_size_scale(scale: Vector2D) -> None
@@ -294,7 +294,7 @@ Args:
 
 <a id="unreal.Border.set_content_color_and_opacity"></a>
 
-#### set_content_color_and_opacity
+#### set\_content\_color\_and\_opacity
 
 ```python
 def set_content_color_and_opacity(
@@ -309,7 +309,7 @@ Args:
 
 <a id="unreal.Border.set_brush_from_texture"></a>
 
-#### set_brush_from_texture
+#### set\_brush\_from\_texture
 
 ```python
 def set_brush_from_texture(texture: Texture2D) -> None
@@ -323,7 +323,7 @@ Args:
 
 <a id="unreal.Border.set_brush_from_material"></a>
 
-#### set_brush_from_material
+#### set\_brush\_from\_material
 
 ```python
 def set_brush_from_material(material: MaterialInterface) -> None
@@ -337,7 +337,7 @@ Args:
 
 <a id="unreal.Border.set_brush_from_asset"></a>
 
-#### set_brush_from_asset
+#### set\_brush\_from\_asset
 
 ```python
 def set_brush_from_asset(asset: SlateBrushAsset) -> None
@@ -351,7 +351,7 @@ Args:
 
 <a id="unreal.Border.set_brush_color"></a>
 
-#### set_brush_color
+#### set\_brush\_color
 
 ```python
 def set_brush_color(brush_color: LinearColor) -> None
@@ -365,7 +365,7 @@ Args:
 
 <a id="unreal.Border.set_brush"></a>
 
-#### set_brush
+#### set\_brush
 
 ```python
 def set_brush(brush: SlateBrush) -> None
@@ -379,7 +379,7 @@ Args:
 
 <a id="unreal.Border.get_dynamic_material"></a>
 
-#### get_dynamic_material
+#### get\_dynamic\_material
 
 ```python
 def get_dynamic_material() -> MaterialInstanceDynamic

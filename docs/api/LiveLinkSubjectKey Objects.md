@@ -18,7 +18,7 @@ Structure that identifies an individual subject
 
 <a id="unreal.LiveLinkSubjectKey.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(source: Guid = [],
@@ -38,7 +38,7 @@ def source() -> Guid
 
 <a id="unreal.LiveLinkSubjectKey.subject_name"></a>
 
-#### subject_name
+#### subject\_name
 
 ```python
 @property

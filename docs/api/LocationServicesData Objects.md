@@ -23,7 +23,7 @@ Struct to hold relevant location data retrieved from the mobile implementation's
 
 <a id="unreal.LocationServicesData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(timestamp: float = 0.000000,
@@ -96,7 +96,7 @@ def latitude(value: float) -> None
 
 <a id="unreal.LocationServicesData.horizontal_accuracy"></a>
 
-#### horizontal_accuracy
+#### horizontal\_accuracy
 
 ```python
 @property
@@ -107,7 +107,7 @@ def horizontal_accuracy() -> float
 
 <a id="unreal.LocationServicesData.horizontal_accuracy"></a>
 
-#### horizontal_accuracy
+#### horizontal\_accuracy
 
 ```python
 @horizontal_accuracy.setter
@@ -116,7 +116,7 @@ def horizontal_accuracy(value: float) -> None
 
 <a id="unreal.LocationServicesData.vertical_accuracy"></a>
 
-#### vertical_accuracy
+#### vertical\_accuracy
 
 ```python
 @property
@@ -127,7 +127,7 @@ def vertical_accuracy() -> float
 
 <a id="unreal.LocationServicesData.vertical_accuracy"></a>
 
-#### vertical_accuracy
+#### vertical\_accuracy
 
 ```python
 @vertical_accuracy.setter

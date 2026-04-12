@@ -27,7 +27,7 @@ Common set of settings that are uses as submix sends.
 
 <a id="unreal.SoundSubmixSendInfoBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(send_level_control_method:
@@ -44,7 +44,7 @@ def __init__(send_level_control_method:
 
 <a id="unreal.SoundSubmixSendInfoBase.send_level_control_method"></a>
 
-#### send_level_control_method
+#### send\_level\_control\_method
 
 ```python
 @property
@@ -57,7 +57,7 @@ Custom Curve: Use the float curve to map Send Level to distance (0.0-1.0 on curv
 
 <a id="unreal.SoundSubmixSendInfoBase.send_level_control_method"></a>
 
-#### send_level_control_method
+#### send\_level\_control\_method
 
 ```python
 @send_level_control_method.setter
@@ -66,7 +66,7 @@ def send_level_control_method(value: SendLevelControlMethod) -> None
 
 <a id="unreal.SoundSubmixSendInfoBase.sound_submix"></a>
 
-#### sound_submix
+#### sound\_submix
 
 ```python
 @property
@@ -77,7 +77,7 @@ def sound_submix() -> SoundSubmixBase
 
 <a id="unreal.SoundSubmixSendInfoBase.sound_submix"></a>
 
-#### sound_submix
+#### sound\_submix
 
 ```python
 @sound_submix.setter
@@ -86,7 +86,7 @@ def sound_submix(value: SoundSubmixBase) -> None
 
 <a id="unreal.SoundSubmixSendInfoBase.send_level"></a>
 
-#### send_level
+#### send\_level
 
 ```python
 @property
@@ -97,7 +97,7 @@ def send_level() -> float
 
 <a id="unreal.SoundSubmixSendInfoBase.send_level"></a>
 
-#### send_level
+#### send\_level
 
 ```python
 @send_level.setter
@@ -106,7 +106,7 @@ def send_level(value: float) -> None
 
 <a id="unreal.SoundSubmixSendInfoBase.disable_manual_send_clamp"></a>
 
-#### disable_manual_send_clamp
+#### disable\_manual\_send\_clamp
 
 ```python
 @property
@@ -117,7 +117,7 @@ def disable_manual_send_clamp() -> bool
 
 <a id="unreal.SoundSubmixSendInfoBase.disable_manual_send_clamp"></a>
 
-#### disable_manual_send_clamp
+#### disable\_manual\_send\_clamp
 
 ```python
 @disable_manual_send_clamp.setter
@@ -126,7 +126,7 @@ def disable_manual_send_clamp(value: bool) -> None
 
 <a id="unreal.SoundSubmixSendInfoBase.min_send_level"></a>
 
-#### min_send_level
+#### min\_send\_level
 
 ```python
 @property
@@ -137,7 +137,7 @@ def min_send_level() -> float
 
 <a id="unreal.SoundSubmixSendInfoBase.min_send_level"></a>
 
-#### min_send_level
+#### min\_send\_level
 
 ```python
 @min_send_level.setter
@@ -146,7 +146,7 @@ def min_send_level(value: float) -> None
 
 <a id="unreal.SoundSubmixSendInfoBase.max_send_level"></a>
 
-#### max_send_level
+#### max\_send\_level
 
 ```python
 @property
@@ -157,7 +157,7 @@ def max_send_level() -> float
 
 <a id="unreal.SoundSubmixSendInfoBase.max_send_level"></a>
 
-#### max_send_level
+#### max\_send\_level
 
 ```python
 @max_send_level.setter
@@ -166,7 +166,7 @@ def max_send_level(value: float) -> None
 
 <a id="unreal.SoundSubmixSendInfoBase.min_send_distance"></a>
 
-#### min_send_distance
+#### min\_send\_distance
 
 ```python
 @property
@@ -177,7 +177,7 @@ def min_send_distance() -> float
 
 <a id="unreal.SoundSubmixSendInfoBase.min_send_distance"></a>
 
-#### min_send_distance
+#### min\_send\_distance
 
 ```python
 @min_send_distance.setter
@@ -186,7 +186,7 @@ def min_send_distance(value: float) -> None
 
 <a id="unreal.SoundSubmixSendInfoBase.max_send_distance"></a>
 
-#### max_send_distance
+#### max\_send\_distance
 
 ```python
 @property
@@ -197,7 +197,7 @@ def max_send_distance() -> float
 
 <a id="unreal.SoundSubmixSendInfoBase.max_send_distance"></a>
 
-#### max_send_distance
+#### max\_send\_distance
 
 ```python
 @max_send_distance.setter
@@ -206,7 +206,7 @@ def max_send_distance(value: float) -> None
 
 <a id="unreal.SoundSubmixSendInfoBase.custom_send_level_curve"></a>
 
-#### custom_send_level_curve
+#### custom\_send\_level\_curve
 
 ```python
 @property
@@ -217,7 +217,7 @@ def custom_send_level_curve() -> RuntimeFloatCurve
 
 <a id="unreal.SoundSubmixSendInfoBase.custom_send_level_curve"></a>
 
-#### custom_send_level_curve
+#### custom\_send\_level\_curve
 
 ```python
 @custom_send_level_curve.setter

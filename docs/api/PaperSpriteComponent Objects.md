@@ -201,7 +201,7 @@ see: UPrimitiveComponent, UPaperSprite
 
 <a id="unreal.PaperSpriteComponent.source_sprite"></a>
 
-#### source_sprite
+#### source\_sprite
 
 ```python
 @property
@@ -212,7 +212,7 @@ def source_sprite() -> PaperSprite
 
 <a id="unreal.PaperSpriteComponent.sprite_color"></a>
 
-#### sprite_color
+#### sprite\_color
 
 ```python
 @property
@@ -223,7 +223,7 @@ def sprite_color() -> LinearColor
 
 <a id="unreal.PaperSpriteComponent.set_sprite_color"></a>
 
-#### set_sprite_color
+#### set\_sprite\_color
 
 ```python
 def set_sprite_color(new_color: LinearColor) -> None
@@ -237,7 +237,7 @@ Args:
 
 <a id="unreal.PaperSpriteComponent.set_sprite"></a>
 
-#### set_sprite
+#### set\_sprite
 
 ```python
 def set_sprite(new_sprite: PaperSprite) -> bool
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.PaperSpriteComponent.get_sprite"></a>
 
-#### get_sprite
+#### get\_sprite
 
 ```python
 def get_sprite() -> PaperSprite

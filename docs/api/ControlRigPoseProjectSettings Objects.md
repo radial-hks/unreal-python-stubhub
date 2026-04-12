@@ -18,7 +18,7 @@ Control Rig Pose Project Settings
 
 <a id="unreal.ControlRigPoseProjectSettings.root_save_dirs"></a>
 
-#### root_save_dirs
+#### root\_save\_dirs
 
 ```python
 @property
@@ -29,7 +29,7 @@ def root_save_dirs() -> Array[DirectoryPath]
 
 <a id="unreal.ControlRigPoseProjectSettings.root_save_dirs"></a>
 
-#### root_save_dirs
+#### root\_save\_dirs
 
 ```python
 @root_save_dirs.setter

@@ -14,13 +14,13 @@ ESource Effect Motion Filter Topology
 
 <a id="unreal.SourceEffectMotionFilterTopology.SERIAL_MODE"></a>
 
-#### SERIAL_MODE
+#### SERIAL\_MODE
 
 0
 
 <a id="unreal.SourceEffectMotionFilterTopology.PARALLEL_MODE"></a>
 
-#### PARALLEL_MODE
+#### PARALLEL\_MODE
 
 1
 

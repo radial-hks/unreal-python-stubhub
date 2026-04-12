@@ -20,7 +20,7 @@ Structure defining rules for what to do with assets, this is defined per type an
 
 <a id="unreal.PrimaryAssetRules.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

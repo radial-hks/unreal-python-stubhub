@@ -24,7 +24,7 @@ Rig VMStatistics
 
 <a id="unreal.RigVMStatistics.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bytes_for_cdo: int = 0,
@@ -38,7 +38,7 @@ def __init__(bytes_for_cdo: int = 0,
 
 <a id="unreal.RigVMStatistics.bytes_for_cdo"></a>
 
-#### bytes_for_cdo
+#### bytes\_for\_cdo
 
 ```python
 @property
@@ -49,7 +49,7 @@ def bytes_for_cdo() -> int
 
 <a id="unreal.RigVMStatistics.bytes_per_instance"></a>
 
-#### bytes_per_instance
+#### bytes\_per\_instance
 
 ```python
 @property
@@ -60,7 +60,7 @@ def bytes_per_instance() -> int
 
 <a id="unreal.RigVMStatistics.literal_memory"></a>
 
-#### literal_memory
+#### literal\_memory
 
 ```python
 @property
@@ -71,7 +71,7 @@ def literal_memory() -> RigVMMemoryStatistics
 
 <a id="unreal.RigVMStatistics.work_memory"></a>
 
-#### work_memory
+#### work\_memory
 
 ```python
 @property
@@ -82,7 +82,7 @@ def work_memory() -> RigVMMemoryStatistics
 
 <a id="unreal.RigVMStatistics.debug_memory"></a>
 
-#### debug_memory
+#### debug\_memory
 
 ```python
 @property
@@ -93,7 +93,7 @@ def debug_memory() -> RigVMMemoryStatistics
 
 <a id="unreal.RigVMStatistics.bytes_for_caching"></a>
 
-#### bytes_for_caching
+#### bytes\_for\_caching
 
 ```python
 @property
@@ -104,7 +104,7 @@ def bytes_for_caching() -> int
 
 <a id="unreal.RigVMStatistics.byte_code"></a>
 
-#### byte_code
+#### byte\_code
 
 ```python
 @property

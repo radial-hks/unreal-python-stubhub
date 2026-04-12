@@ -28,7 +28,7 @@ int64 and uint64 are not supported in this variant due to loss of precision (dou
 
 <a id="unreal.MovieSceneNumericVariant.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -18,7 +18,7 @@ Per Quality Level Int
 
 <a id="unreal.PerQualityLevelInt.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(default: int = 0) -> None

@@ -49,7 +49,7 @@ def parameters(value: MovieSceneSectionParameters) -> None
 
 <a id="unreal.MovieSceneSubSection.set_sequence"></a>
 
-#### set_sequence
+#### set\_sequence
 
 ```python
 def set_sequence(sequence: MovieSceneSequence) -> None
@@ -64,7 +64,7 @@ Args:
 
 <a id="unreal.MovieSceneSubSection.get_sequence"></a>
 
-#### get_sequence
+#### get\_sequence
 
 ```python
 def get_sequence() -> MovieSceneSequence
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.MovieSceneSubSection.get_parent_sequence_frame"></a>
 
-#### get_parent_sequence_frame
+#### get\_parent\_sequence\_frame
 
 ```python
 def get_parent_sequence_frame(frame: int,

@@ -13,13 +13,13 @@ Controls how occlusion from Distance Field Ambient Occlusion is combined with Sc
 
 <a id="unreal.OcclusionCombineMode.OCM_MINIMUM"></a>
 
-#### OCM_MINIMUM
+#### OCM\_MINIMUM
 
 0: Take the minimum occlusion value.  This is effective for avoiding over-occlusion from multiple methods, but can result in indoors looking too flat.
 
 <a id="unreal.OcclusionCombineMode.OCM_MULTIPLY"></a>
 
-#### OCM_MULTIPLY
+#### OCM\_MULTIPLY
 
 1: Multiply together occlusion values from Distance Field Ambient Occlusion and Screen Space Ambient Occlusion.
 This gives a good sense of depth everywhere, but can cause over-occlusion.

@@ -24,7 +24,7 @@ This managed resource class is used to tie multiple components in the same resou
 
 <a id="unreal.PCGManagedComponentList.generated_components"></a>
 
-#### generated_components
+#### generated\_components
 
 ```python
 @property
@@ -35,7 +35,7 @@ def generated_components() -> Array[ActorComponent]
 
 <a id="unreal.PCGManagedComponentList.generated_components"></a>
 
-#### generated_components
+#### generated\_components
 
 ```python
 @generated_components.setter

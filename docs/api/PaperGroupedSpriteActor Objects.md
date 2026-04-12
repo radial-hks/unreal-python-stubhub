@@ -146,7 +146,7 @@ it is just a thin wrapper around a UPaperGroupedSpriteComponent.
 
 <a id="unreal.PaperGroupedSpriteActor.render_component"></a>
 
-#### render_component
+#### render\_component
 
 ```python
 @property

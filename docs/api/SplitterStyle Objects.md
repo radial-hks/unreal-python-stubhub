@@ -18,7 +18,7 @@ Represents the appearance of an SSplitter
 
 <a id="unreal.SplitterStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -47,7 +47,7 @@ def __init__(
 
 <a id="unreal.SplitterStyle.handle_normal_brush"></a>
 
-#### handle_normal_brush
+#### handle\_normal\_brush
 
 ```python
 @property
@@ -58,7 +58,7 @@ def handle_normal_brush() -> SlateBrush
 
 <a id="unreal.SplitterStyle.handle_normal_brush"></a>
 
-#### handle_normal_brush
+#### handle\_normal\_brush
 
 ```python
 @handle_normal_brush.setter
@@ -67,7 +67,7 @@ def handle_normal_brush(value: SlateBrush) -> None
 
 <a id="unreal.SplitterStyle.handle_highlight_brush"></a>
 
-#### handle_highlight_brush
+#### handle\_highlight\_brush
 
 ```python
 @property
@@ -78,7 +78,7 @@ def handle_highlight_brush() -> SlateBrush
 
 <a id="unreal.SplitterStyle.handle_highlight_brush"></a>
 
-#### handle_highlight_brush
+#### handle\_highlight\_brush
 
 ```python
 @handle_highlight_brush.setter

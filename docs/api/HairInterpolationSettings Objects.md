@@ -28,7 +28,7 @@ Hair Interpolation Settings
 
 <a id="unreal.HairInterpolationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(guide_type: GroomGuideType = GroomGuideType.IMPORTED,
@@ -45,7 +45,7 @@ def __init__(guide_type: GroomGuideType = GroomGuideType.IMPORTED,
 
 <a id="unreal.HairInterpolationSettings.guide_type"></a>
 
-#### guide_type
+#### guide\_type
 
 ```python
 @property
@@ -59,7 +59,7 @@ def guide_type() -> GroomGuideType
 
 <a id="unreal.HairInterpolationSettings.guide_type"></a>
 
-#### guide_type
+#### guide\_type
 
 ```python
 @guide_type.setter
@@ -68,7 +68,7 @@ def guide_type(value: GroomGuideType) -> None
 
 <a id="unreal.HairInterpolationSettings.hair_to_guide_density"></a>
 
-#### hair_to_guide_density
+#### hair\_to\_guide\_density
 
 ```python
 @property
@@ -79,7 +79,7 @@ def hair_to_guide_density() -> float
 
 <a id="unreal.HairInterpolationSettings.hair_to_guide_density"></a>
 
-#### hair_to_guide_density
+#### hair\_to\_guide\_density
 
 ```python
 @hair_to_guide_density.setter
@@ -88,7 +88,7 @@ def hair_to_guide_density(value: float) -> None
 
 <a id="unreal.HairInterpolationSettings.rigged_guide_num_curves"></a>
 
-#### rigged_guide_num_curves
+#### rigged\_guide\_num\_curves
 
 ```python
 @property
@@ -99,7 +99,7 @@ def rigged_guide_num_curves() -> int
 
 <a id="unreal.HairInterpolationSettings.rigged_guide_num_points"></a>
 
-#### rigged_guide_num_points
+#### rigged\_guide\_num\_points
 
 ```python
 @property
@@ -110,7 +110,7 @@ def rigged_guide_num_points() -> int
 
 <a id="unreal.HairInterpolationSettings.interpolation_quality"></a>
 
-#### interpolation_quality
+#### interpolation\_quality
 
 ```python
 @property
@@ -121,7 +121,7 @@ def interpolation_quality() -> HairInterpolationQuality
 
 <a id="unreal.HairInterpolationSettings.interpolation_quality"></a>
 
-#### interpolation_quality
+#### interpolation\_quality
 
 ```python
 @interpolation_quality.setter
@@ -130,7 +130,7 @@ def interpolation_quality(value: HairInterpolationQuality) -> None
 
 <a id="unreal.HairInterpolationSettings.interpolation_distance"></a>
 
-#### interpolation_distance
+#### interpolation\_distance
 
 ```python
 @property
@@ -141,7 +141,7 @@ def interpolation_distance() -> HairInterpolationWeight
 
 <a id="unreal.HairInterpolationSettings.interpolation_distance"></a>
 
-#### interpolation_distance
+#### interpolation\_distance
 
 ```python
 @interpolation_distance.setter
@@ -150,7 +150,7 @@ def interpolation_distance(value: HairInterpolationWeight) -> None
 
 <a id="unreal.HairInterpolationSettings.randomize_guide"></a>
 
-#### randomize_guide
+#### randomize\_guide
 
 ```python
 @property
@@ -161,7 +161,7 @@ def randomize_guide() -> bool
 
 <a id="unreal.HairInterpolationSettings.randomize_guide"></a>
 
-#### randomize_guide
+#### randomize\_guide
 
 ```python
 @randomize_guide.setter
@@ -170,7 +170,7 @@ def randomize_guide(value: bool) -> None
 
 <a id="unreal.HairInterpolationSettings.use_unique_guide"></a>
 
-#### use_unique_guide
+#### use\_unique\_guide
 
 ```python
 @property
@@ -181,7 +181,7 @@ def use_unique_guide() -> bool
 
 <a id="unreal.HairInterpolationSettings.use_unique_guide"></a>
 
-#### use_unique_guide
+#### use\_unique\_guide
 
 ```python
 @use_unique_guide.setter

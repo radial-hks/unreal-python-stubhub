@@ -200,7 +200,7 @@ in DefaultPawn.cpp for the camera controls.
 
 <a id="unreal.DebugCameraController.speed_scale"></a>
 
-#### speed_scale
+#### speed\_scale
 
 ```python
 @property
@@ -211,7 +211,7 @@ def speed_scale() -> float
 
 <a id="unreal.DebugCameraController.initial_max_speed"></a>
 
-#### initial_max_speed
+#### initial\_max\_speed
 
 ```python
 @property
@@ -222,7 +222,7 @@ def initial_max_speed() -> float
 
 <a id="unreal.DebugCameraController.initial_accel"></a>
 
-#### initial_accel
+#### initial\_accel
 
 ```python
 @property
@@ -233,7 +233,7 @@ def initial_accel() -> float
 
 <a id="unreal.DebugCameraController.initial_decel"></a>
 
-#### initial_decel
+#### initial\_decel
 
 ```python
 @property
@@ -244,7 +244,7 @@ def initial_decel() -> float
 
 <a id="unreal.DebugCameraController.toggle_display"></a>
 
-#### toggle_display
+#### toggle\_display
 
 ```python
 def toggle_display() -> None
@@ -255,7 +255,7 @@ Toggles the display of debug info and input commands for the Debug Camera.
 
 <a id="unreal.DebugCameraController.set_pawn_movement_speed_scale"></a>
 
-#### set_pawn_movement_speed_scale
+#### set\_pawn\_movement\_speed\_scale
 
 ```python
 def set_pawn_movement_speed_scale(new_speed_scale: float) -> None
@@ -269,7 +269,7 @@ Args:
 
 <a id="unreal.DebugCameraController.receive_on_deactivate"></a>
 
-#### receive_on_deactivate
+#### receive\_on\_deactivate
 
 ```python
 def receive_on_deactivate(restored_pc: PlayerController) -> None
@@ -283,7 +283,7 @@ Args:
 
 <a id="unreal.DebugCameraController.receive_on_actor_selected"></a>
 
-#### receive_on_actor_selected
+#### receive\_on\_actor\_selected
 
 ```python
 def receive_on_actor_selected(new_selected_actor: Actor,
@@ -305,7 +305,7 @@ Args:
 
 <a id="unreal.DebugCameraController.receive_on_activate"></a>
 
-#### receive_on_activate
+#### receive\_on\_activate
 
 ```python
 def receive_on_activate(original_pc: PlayerController) -> None
@@ -319,7 +319,7 @@ Args:
 
 <a id="unreal.DebugCameraController.get_selected_actor"></a>
 
-#### get_selected_actor
+#### get\_selected\_actor
 
 ```python
 def get_selected_actor() -> Actor

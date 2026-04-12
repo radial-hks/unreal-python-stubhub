@@ -13,7 +13,7 @@ Audio Parameter Controller Interface
 
 <a id="unreal.AudioParameterControllerInterface.set_trigger_parameter"></a>
 
-#### set_trigger_parameter
+#### set\_trigger\_parameter
 
 ```python
 def set_trigger_parameter(name: Name) -> None
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_string_parameter"></a>
 
-#### set_string_parameter
+#### set\_string\_parameter
 
 ```python
 def set_string_parameter(name: Name, value: str) -> None
@@ -45,7 +45,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_string_array_parameter"></a>
 
-#### set_string_array_parameter
+#### set\_string\_array\_parameter
 
 ```python
 def set_string_array_parameter(name: Name, value: Array[str]) -> None
@@ -60,7 +60,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_parameters_blueprint"></a>
 
-#### set_parameters_blueprint
+#### set\_parameters\_blueprint
 
 ```python
 def set_parameters_blueprint(parameters: Array[AudioParameter]) -> None
@@ -74,7 +74,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_object_parameter"></a>
 
-#### set_object_parameter
+#### set\_object\_parameter
 
 ```python
 def set_object_parameter(name: Name, value: Object) -> None
@@ -89,7 +89,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_object_array_parameter"></a>
 
-#### set_object_array_parameter
+#### set\_object\_array\_parameter
 
 ```python
 def set_object_array_parameter(name: Name, value: Array[Object]) -> None
@@ -104,7 +104,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_int_parameter"></a>
 
-#### set_int_parameter
+#### set\_int\_parameter
 
 ```python
 def set_int_parameter(name: Name, int: int) -> None
@@ -119,7 +119,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_int_array_parameter"></a>
 
-#### set_int_array_parameter
+#### set\_int\_array\_parameter
 
 ```python
 def set_int_array_parameter(name: Name, value: Array[int]) -> None
@@ -134,7 +134,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_float_parameter"></a>
 
-#### set_float_parameter
+#### set\_float\_parameter
 
 ```python
 def set_float_parameter(name: Name, float: float) -> None
@@ -149,7 +149,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_float_array_parameter"></a>
 
-#### set_float_array_parameter
+#### set\_float\_array\_parameter
 
 ```python
 def set_float_array_parameter(name: Name, value: Array[float]) -> None
@@ -164,7 +164,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_bool_parameter"></a>
 
-#### set_bool_parameter
+#### set\_bool\_parameter
 
 ```python
 def set_bool_parameter(name: Name, bool: bool) -> None
@@ -179,7 +179,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.set_bool_array_parameter"></a>
 
-#### set_bool_array_parameter
+#### set\_bool\_array\_parameter
 
 ```python
 def set_bool_array_parameter(name: Name, value: Array[bool]) -> None
@@ -194,7 +194,7 @@ Args:
 
 <a id="unreal.AudioParameterControllerInterface.reset_parameters"></a>
 
-#### reset_parameters
+#### reset\_parameters
 
 ```python
 def reset_parameters() -> None

@@ -61,7 +61,7 @@ def hierarchy() -> RigHierarchy
 
 <a id="unreal.ControlRigBlueprint.modular_rig_model"></a>
 
-#### modular_rig_model
+#### modular\_rig\_model
 
 ```python
 @property
@@ -72,7 +72,7 @@ def modular_rig_model() -> ModularRigModel
 
 <a id="unreal.ControlRigBlueprint.turn_into_standalone_rig"></a>
 
-#### turn_into_standalone_rig
+#### turn\_into\_standalone\_rig
 
 ```python
 def turn_into_standalone_rig() -> bool
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.turn_into_control_rig_module"></a>
 
-#### turn_into_control_rig_module
+#### turn\_into\_control\_rig\_module
 
 ```python
 def turn_into_control_rig_module() -> bool
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.set_preview_mesh"></a>
 
-#### set_preview_mesh
+#### set\_preview\_mesh
 
 ```python
 def set_preview_mesh(preview_mesh: SkeletalMesh,
@@ -116,7 +116,7 @@ Args:
 
 <a id="unreal.ControlRigBlueprint.recompile_modular_rig"></a>
 
-#### recompile_modular_rig
+#### recompile\_modular\_rig
 
 ```python
 def recompile_modular_rig() -> None
@@ -127,7 +127,7 @@ Recompile Modular Rig
 
 <a id="unreal.ControlRigBlueprint.is_control_rig_module"></a>
 
-#### is_control_rig_module
+#### is\_control\_rig\_module
 
 ```python
 def is_control_rig_module() -> bool
@@ -141,7 +141,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.get_rig_module_icon"></a>
 
-#### get_rig_module_icon
+#### get\_rig\_module\_icon
 
 ```python
 def get_rig_module_icon() -> Texture2D
@@ -155,7 +155,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.get_preview_mesh"></a>
 
-#### get_preview_mesh
+#### get\_preview\_mesh
 
 ```python
 def get_preview_mesh() -> SkeletalMesh
@@ -169,7 +169,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.get_modular_rig_controller"></a>
 
-#### get_modular_rig_controller
+#### get\_modular\_rig\_controller
 
 ```python
 def get_modular_rig_controller() -> ModularRigController
@@ -183,7 +183,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.get_hierarchy_controller"></a>
 
-#### get_hierarchy_controller
+#### get\_hierarchy\_controller
 
 ```python
 def get_hierarchy_controller() -> RigHierarchyController
@@ -197,7 +197,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.get_debugged_control_rig"></a>
 
-#### get_debugged_control_rig
+#### get\_debugged\_control\_rig
 
 ```python
 def get_debugged_control_rig() -> ControlRig
@@ -211,7 +211,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.get_currently_open_rig_blueprints"></a>
 
-#### get_currently_open_rig_blueprints
+#### get\_currently\_open\_rig\_blueprints
 
 ```python
 @classmethod
@@ -226,7 +226,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.get_control_rig_class"></a>
 
-#### get_control_rig_class
+#### get\_control\_rig\_class
 
 ```python
 def get_control_rig_class() -> Class
@@ -240,7 +240,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.find_references_to_module"></a>
 
-#### find_references_to_module
+#### find\_references\_to\_module
 
 ```python
 def find_references_to_module() -> Array[ModuleReferenceData]
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.create_control_rig"></a>
 
-#### create_control_rig
+#### create\_control\_rig
 
 ```python
 def create_control_rig() -> ControlRig
@@ -268,7 +268,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.convert_hierarchy_elements_to_spawner_nodes"></a>
 
-#### convert_hierarchy_elements_to_spawner_nodes
+#### convert\_hierarchy\_elements\_to\_spawner\_nodes
 
 ```python
 def convert_hierarchy_elements_to_spawner_nodes(
@@ -290,7 +290,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprint.can_turn_into_standalone_rig"></a>
 
-#### can_turn_into_standalone_rig
+#### can\_turn\_into\_standalone\_rig
 
 ```python
 def can_turn_into_standalone_rig() -> bool
@@ -302,4 +302,4 @@ Can Turn Into Standalone Rig Blueprint
 Returns:
     bool:
 
-<a id="unreal.ComputeDataProvider"></a>
+<a id="unreal.AnimSequencerController"></a>

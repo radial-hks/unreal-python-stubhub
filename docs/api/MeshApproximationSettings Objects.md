@@ -58,7 +58,7 @@ Mesh Approximation Settings
 
 <a id="unreal.MeshApproximationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -129,7 +129,7 @@ def __init__(
 
 <a id="unreal.MeshApproximationSettings.output_type"></a>
 
-#### output_type
+#### output\_type
 
 ```python
 @property
@@ -140,7 +140,7 @@ def output_type() -> MeshApproximationType
 
 <a id="unreal.MeshApproximationSettings.output_type"></a>
 
-#### output_type
+#### output\_type
 
 ```python
 @output_type.setter
@@ -149,7 +149,7 @@ def output_type(value: MeshApproximationType) -> None
 
 <a id="unreal.MeshApproximationSettings.approximation_accuracy"></a>
 
-#### approximation_accuracy
+#### approximation\_accuracy
 
 ```python
 @property
@@ -160,7 +160,7 @@ def approximation_accuracy() -> float
 
 <a id="unreal.MeshApproximationSettings.approximation_accuracy"></a>
 
-#### approximation_accuracy
+#### approximation\_accuracy
 
 ```python
 @approximation_accuracy.setter
@@ -169,7 +169,7 @@ def approximation_accuracy(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.clamp_voxel_dimension"></a>
 
-#### clamp_voxel_dimension
+#### clamp\_voxel\_dimension
 
 ```python
 @property
@@ -180,7 +180,7 @@ def clamp_voxel_dimension() -> int
 
 <a id="unreal.MeshApproximationSettings.clamp_voxel_dimension"></a>
 
-#### clamp_voxel_dimension
+#### clamp\_voxel\_dimension
 
 ```python
 @clamp_voxel_dimension.setter
@@ -189,7 +189,7 @@ def clamp_voxel_dimension(value: int) -> None
 
 <a id="unreal.MeshApproximationSettings.attempt_auto_thickening"></a>
 
-#### attempt_auto_thickening
+#### attempt\_auto\_thickening
 
 ```python
 @property
@@ -200,7 +200,7 @@ def attempt_auto_thickening() -> bool
 
 <a id="unreal.MeshApproximationSettings.attempt_auto_thickening"></a>
 
-#### attempt_auto_thickening
+#### attempt\_auto\_thickening
 
 ```python
 @attempt_auto_thickening.setter
@@ -209,7 +209,7 @@ def attempt_auto_thickening(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.target_min_thickness_multiplier"></a>
 
-#### target_min_thickness_multiplier
+#### target\_min\_thickness\_multiplier
 
 ```python
 @property
@@ -220,7 +220,7 @@ def target_min_thickness_multiplier() -> float
 
 <a id="unreal.MeshApproximationSettings.target_min_thickness_multiplier"></a>
 
-#### target_min_thickness_multiplier
+#### target\_min\_thickness\_multiplier
 
 ```python
 @target_min_thickness_multiplier.setter
@@ -229,7 +229,7 @@ def target_min_thickness_multiplier(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.ignore_tiny_parts"></a>
 
-#### ignore_tiny_parts
+#### ignore\_tiny\_parts
 
 ```python
 @property
@@ -240,7 +240,7 @@ def ignore_tiny_parts() -> bool
 
 <a id="unreal.MeshApproximationSettings.ignore_tiny_parts"></a>
 
-#### ignore_tiny_parts
+#### ignore\_tiny\_parts
 
 ```python
 @ignore_tiny_parts.setter
@@ -249,7 +249,7 @@ def ignore_tiny_parts(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.tiny_part_size_multiplier"></a>
 
-#### tiny_part_size_multiplier
+#### tiny\_part\_size\_multiplier
 
 ```python
 @property
@@ -260,7 +260,7 @@ def tiny_part_size_multiplier() -> float
 
 <a id="unreal.MeshApproximationSettings.tiny_part_size_multiplier"></a>
 
-#### tiny_part_size_multiplier
+#### tiny\_part\_size\_multiplier
 
 ```python
 @tiny_part_size_multiplier.setter
@@ -269,7 +269,7 @@ def tiny_part_size_multiplier(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.base_capping"></a>
 
-#### base_capping
+#### base\_capping
 
 ```python
 @property
@@ -280,7 +280,7 @@ def base_capping() -> MeshApproximationBaseCappingType
 
 <a id="unreal.MeshApproximationSettings.base_capping"></a>
 
-#### base_capping
+#### base\_capping
 
 ```python
 @base_capping.setter
@@ -289,7 +289,7 @@ def base_capping(value: MeshApproximationBaseCappingType) -> None
 
 <a id="unreal.MeshApproximationSettings.winding_threshold"></a>
 
-#### winding_threshold
+#### winding\_threshold
 
 ```python
 @property
@@ -300,7 +300,7 @@ def winding_threshold() -> float
 
 <a id="unreal.MeshApproximationSettings.winding_threshold"></a>
 
-#### winding_threshold
+#### winding\_threshold
 
 ```python
 @winding_threshold.setter
@@ -309,7 +309,7 @@ def winding_threshold(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.fill_gaps"></a>
 
-#### fill_gaps
+#### fill\_gaps
 
 ```python
 @property
@@ -320,7 +320,7 @@ def fill_gaps() -> bool
 
 <a id="unreal.MeshApproximationSettings.fill_gaps"></a>
 
-#### fill_gaps
+#### fill\_gaps
 
 ```python
 @fill_gaps.setter
@@ -329,7 +329,7 @@ def fill_gaps(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.gap_distance"></a>
 
-#### gap_distance
+#### gap\_distance
 
 ```python
 @property
@@ -340,7 +340,7 @@ def gap_distance() -> float
 
 <a id="unreal.MeshApproximationSettings.gap_distance"></a>
 
-#### gap_distance
+#### gap\_distance
 
 ```python
 @gap_distance.setter
@@ -349,7 +349,7 @@ def gap_distance(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.occlusion_method"></a>
 
-#### occlusion_method
+#### occlusion\_method
 
 ```python
 @property
@@ -360,7 +360,7 @@ def occlusion_method() -> OccludedGeometryFilteringPolicy
 
 <a id="unreal.MeshApproximationSettings.occlusion_method"></a>
 
-#### occlusion_method
+#### occlusion\_method
 
 ```python
 @occlusion_method.setter
@@ -369,7 +369,7 @@ def occlusion_method(value: OccludedGeometryFilteringPolicy) -> None
 
 <a id="unreal.MeshApproximationSettings.occlude_from_bottom"></a>
 
-#### occlude_from_bottom
+#### occlude\_from\_bottom
 
 ```python
 @property
@@ -380,7 +380,7 @@ def occlude_from_bottom() -> bool
 
 <a id="unreal.MeshApproximationSettings.occlude_from_bottom"></a>
 
-#### occlude_from_bottom
+#### occlude\_from\_bottom
 
 ```python
 @occlude_from_bottom.setter
@@ -389,7 +389,7 @@ def occlude_from_bottom(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.simplify_method"></a>
 
-#### simplify_method
+#### simplify\_method
 
 ```python
 @property
@@ -400,7 +400,7 @@ def simplify_method() -> MeshApproximationSimplificationPolicy
 
 <a id="unreal.MeshApproximationSettings.simplify_method"></a>
 
-#### simplify_method
+#### simplify\_method
 
 ```python
 @simplify_method.setter
@@ -409,7 +409,7 @@ def simplify_method(value: MeshApproximationSimplificationPolicy) -> None
 
 <a id="unreal.MeshApproximationSettings.target_tri_count"></a>
 
-#### target_tri_count
+#### target\_tri\_count
 
 ```python
 @property
@@ -420,7 +420,7 @@ def target_tri_count() -> int
 
 <a id="unreal.MeshApproximationSettings.target_tri_count"></a>
 
-#### target_tri_count
+#### target\_tri\_count
 
 ```python
 @target_tri_count.setter
@@ -429,7 +429,7 @@ def target_tri_count(value: int) -> None
 
 <a id="unreal.MeshApproximationSettings.triangles_per_m"></a>
 
-#### triangles_per_m
+#### triangles\_per\_m
 
 ```python
 @property
@@ -440,7 +440,7 @@ def triangles_per_m() -> float
 
 <a id="unreal.MeshApproximationSettings.triangles_per_m"></a>
 
-#### triangles_per_m
+#### triangles\_per\_m
 
 ```python
 @triangles_per_m.setter
@@ -449,7 +449,7 @@ def triangles_per_m(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.geometric_deviation"></a>
 
-#### geometric_deviation
+#### geometric\_deviation
 
 ```python
 @property
@@ -460,7 +460,7 @@ def geometric_deviation() -> float
 
 <a id="unreal.MeshApproximationSettings.geometric_deviation"></a>
 
-#### geometric_deviation
+#### geometric\_deviation
 
 ```python
 @geometric_deviation.setter
@@ -469,7 +469,7 @@ def geometric_deviation(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.ground_clipping"></a>
 
-#### ground_clipping
+#### ground\_clipping
 
 ```python
 @property
@@ -480,7 +480,7 @@ def ground_clipping() -> MeshApproximationGroundPlaneClippingPolicy
 
 <a id="unreal.MeshApproximationSettings.ground_clipping"></a>
 
-#### ground_clipping
+#### ground\_clipping
 
 ```python
 @ground_clipping.setter
@@ -489,7 +489,7 @@ def ground_clipping(value: MeshApproximationGroundPlaneClippingPolicy) -> None
 
 <a id="unreal.MeshApproximationSettings.ground_clipping_z_height"></a>
 
-#### ground_clipping_z_height
+#### ground\_clipping\_z\_height
 
 ```python
 @property
@@ -500,7 +500,7 @@ def ground_clipping_z_height() -> float
 
 <a id="unreal.MeshApproximationSettings.ground_clipping_z_height"></a>
 
-#### ground_clipping_z_height
+#### ground\_clipping\_z\_height
 
 ```python
 @ground_clipping_z_height.setter
@@ -509,7 +509,7 @@ def ground_clipping_z_height(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.estimate_hard_normals"></a>
 
-#### estimate_hard_normals
+#### estimate\_hard\_normals
 
 ```python
 @property
@@ -520,7 +520,7 @@ def estimate_hard_normals() -> bool
 
 <a id="unreal.MeshApproximationSettings.estimate_hard_normals"></a>
 
-#### estimate_hard_normals
+#### estimate\_hard\_normals
 
 ```python
 @estimate_hard_normals.setter
@@ -529,7 +529,7 @@ def estimate_hard_normals(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.hard_normal_angle"></a>
 
-#### hard_normal_angle
+#### hard\_normal\_angle
 
 ```python
 @property
@@ -540,7 +540,7 @@ def hard_normal_angle() -> float
 
 <a id="unreal.MeshApproximationSettings.hard_normal_angle"></a>
 
-#### hard_normal_angle
+#### hard\_normal\_angle
 
 ```python
 @hard_normal_angle.setter
@@ -549,7 +549,7 @@ def hard_normal_angle(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.uv_generation_method"></a>
 
-#### uv_generation_method
+#### uv\_generation\_method
 
 ```python
 @property
@@ -560,7 +560,7 @@ def uv_generation_method() -> MeshApproximationUVGenerationPolicy
 
 <a id="unreal.MeshApproximationSettings.uv_generation_method"></a>
 
-#### uv_generation_method
+#### uv\_generation\_method
 
 ```python
 @uv_generation_method.setter
@@ -569,7 +569,7 @@ def uv_generation_method(value: MeshApproximationUVGenerationPolicy) -> None
 
 <a id="unreal.MeshApproximationSettings.initial_patch_count"></a>
 
-#### initial_patch_count
+#### initial\_patch\_count
 
 ```python
 @property
@@ -580,7 +580,7 @@ def initial_patch_count() -> int
 
 <a id="unreal.MeshApproximationSettings.initial_patch_count"></a>
 
-#### initial_patch_count
+#### initial\_patch\_count
 
 ```python
 @initial_patch_count.setter
@@ -589,7 +589,7 @@ def initial_patch_count(value: int) -> None
 
 <a id="unreal.MeshApproximationSettings.curvature_alignment"></a>
 
-#### curvature_alignment
+#### curvature\_alignment
 
 ```python
 @property
@@ -600,7 +600,7 @@ def curvature_alignment() -> float
 
 <a id="unreal.MeshApproximationSettings.curvature_alignment"></a>
 
-#### curvature_alignment
+#### curvature\_alignment
 
 ```python
 @curvature_alignment.setter
@@ -609,7 +609,7 @@ def curvature_alignment(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.merging_threshold"></a>
 
-#### merging_threshold
+#### merging\_threshold
 
 ```python
 @property
@@ -620,7 +620,7 @@ def merging_threshold() -> float
 
 <a id="unreal.MeshApproximationSettings.merging_threshold"></a>
 
-#### merging_threshold
+#### merging\_threshold
 
 ```python
 @merging_threshold.setter
@@ -629,7 +629,7 @@ def merging_threshold(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.max_angle_deviation"></a>
 
-#### max_angle_deviation
+#### max\_angle\_deviation
 
 ```python
 @property
@@ -640,7 +640,7 @@ def max_angle_deviation() -> float
 
 <a id="unreal.MeshApproximationSettings.max_angle_deviation"></a>
 
-#### max_angle_deviation
+#### max\_angle\_deviation
 
 ```python
 @max_angle_deviation.setter
@@ -649,7 +649,7 @@ def max_angle_deviation(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.generate_nanite_enabled_mesh"></a>
 
-#### generate_nanite_enabled_mesh
+#### generate\_nanite\_enabled\_mesh
 
 ```python
 @property
@@ -660,7 +660,7 @@ def generate_nanite_enabled_mesh() -> bool
 
 <a id="unreal.MeshApproximationSettings.generate_nanite_enabled_mesh"></a>
 
-#### generate_nanite_enabled_mesh
+#### generate\_nanite\_enabled\_mesh
 
 ```python
 @generate_nanite_enabled_mesh.setter
@@ -669,7 +669,7 @@ def generate_nanite_enabled_mesh(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.nanite_fallback_target"></a>
 
-#### nanite_fallback_target
+#### nanite\_fallback\_target
 
 ```python
 @property
@@ -680,7 +680,7 @@ def nanite_fallback_target() -> NaniteFallbackTarget
 
 <a id="unreal.MeshApproximationSettings.nanite_fallback_target"></a>
 
-#### nanite_fallback_target
+#### nanite\_fallback\_target
 
 ```python
 @nanite_fallback_target.setter
@@ -689,7 +689,7 @@ def nanite_fallback_target(value: NaniteFallbackTarget) -> None
 
 <a id="unreal.MeshApproximationSettings.nanite_fallback_percent_triangles"></a>
 
-#### nanite_fallback_percent_triangles
+#### nanite\_fallback\_percent\_triangles
 
 ```python
 @property
@@ -700,7 +700,7 @@ def nanite_fallback_percent_triangles() -> float
 
 <a id="unreal.MeshApproximationSettings.nanite_fallback_percent_triangles"></a>
 
-#### nanite_fallback_percent_triangles
+#### nanite\_fallback\_percent\_triangles
 
 ```python
 @nanite_fallback_percent_triangles.setter
@@ -709,7 +709,7 @@ def nanite_fallback_percent_triangles(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.nanite_fallback_relative_error"></a>
 
-#### nanite_fallback_relative_error
+#### nanite\_fallback\_relative\_error
 
 ```python
 @property
@@ -720,7 +720,7 @@ def nanite_fallback_relative_error() -> float
 
 <a id="unreal.MeshApproximationSettings.nanite_fallback_relative_error"></a>
 
-#### nanite_fallback_relative_error
+#### nanite\_fallback\_relative\_error
 
 ```python
 @nanite_fallback_relative_error.setter
@@ -729,7 +729,7 @@ def nanite_fallback_relative_error(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.support_ray_tracing"></a>
 
-#### support_ray_tracing
+#### support\_ray\_tracing
 
 ```python
 @property
@@ -740,7 +740,7 @@ def support_ray_tracing() -> bool
 
 <a id="unreal.MeshApproximationSettings.support_ray_tracing"></a>
 
-#### support_ray_tracing
+#### support\_ray\_tracing
 
 ```python
 @support_ray_tracing.setter
@@ -749,7 +749,7 @@ def support_ray_tracing(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.allow_distance_field"></a>
 
-#### allow_distance_field
+#### allow\_distance\_field
 
 ```python
 @property
@@ -760,7 +760,7 @@ def allow_distance_field() -> bool
 
 <a id="unreal.MeshApproximationSettings.allow_distance_field"></a>
 
-#### allow_distance_field
+#### allow\_distance\_field
 
 ```python
 @allow_distance_field.setter
@@ -769,7 +769,7 @@ def allow_distance_field(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.multi_sampling_aa"></a>
 
-#### multi_sampling_aa
+#### multi\_sampling\_aa
 
 ```python
 @property
@@ -780,7 +780,7 @@ def multi_sampling_aa() -> int
 
 <a id="unreal.MeshApproximationSettings.multi_sampling_aa"></a>
 
-#### multi_sampling_aa
+#### multi\_sampling\_aa
 
 ```python
 @multi_sampling_aa.setter
@@ -789,7 +789,7 @@ def multi_sampling_aa(value: int) -> None
 
 <a id="unreal.MeshApproximationSettings.render_capture_resolution"></a>
 
-#### render_capture_resolution
+#### render\_capture\_resolution
 
 ```python
 @property
@@ -800,7 +800,7 @@ def render_capture_resolution() -> int
 
 <a id="unreal.MeshApproximationSettings.render_capture_resolution"></a>
 
-#### render_capture_resolution
+#### render\_capture\_resolution
 
 ```python
 @render_capture_resolution.setter
@@ -809,7 +809,7 @@ def render_capture_resolution(value: int) -> None
 
 <a id="unreal.MeshApproximationSettings.material_settings"></a>
 
-#### material_settings
+#### material\_settings
 
 ```python
 @property
@@ -820,7 +820,7 @@ def material_settings() -> MaterialProxySettings
 
 <a id="unreal.MeshApproximationSettings.material_settings"></a>
 
-#### material_settings
+#### material\_settings
 
 ```python
 @material_settings.setter
@@ -829,7 +829,7 @@ def material_settings(value: MaterialProxySettings) -> None
 
 <a id="unreal.MeshApproximationSettings.capture_field_of_view"></a>
 
-#### capture_field_of_view
+#### capture\_field\_of\_view
 
 ```python
 @property
@@ -840,7 +840,7 @@ def capture_field_of_view() -> float
 
 <a id="unreal.MeshApproximationSettings.capture_field_of_view"></a>
 
-#### capture_field_of_view
+#### capture\_field\_of\_view
 
 ```python
 @capture_field_of_view.setter
@@ -849,7 +849,7 @@ def capture_field_of_view(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.near_plane_dist"></a>
 
-#### near_plane_dist
+#### near\_plane\_dist
 
 ```python
 @property
@@ -860,7 +860,7 @@ def near_plane_dist() -> float
 
 <a id="unreal.MeshApproximationSettings.near_plane_dist"></a>
 
-#### near_plane_dist
+#### near\_plane\_dist
 
 ```python
 @near_plane_dist.setter
@@ -869,7 +869,7 @@ def near_plane_dist(value: float) -> None
 
 <a id="unreal.MeshApproximationSettings.use_render_lod_meshes"></a>
 
-#### use_render_lod_meshes
+#### use\_render\_lod\_meshes
 
 ```python
 @property
@@ -880,7 +880,7 @@ def use_render_lod_meshes() -> bool
 
 <a id="unreal.MeshApproximationSettings.use_render_lod_meshes"></a>
 
-#### use_render_lod_meshes
+#### use\_render\_lod\_meshes
 
 ```python
 @use_render_lod_meshes.setter
@@ -889,7 +889,7 @@ def use_render_lod_meshes(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.enable_simplify_pre_pass"></a>
 
-#### enable_simplify_pre_pass
+#### enable\_simplify\_pre\_pass
 
 ```python
 @property
@@ -900,7 +900,7 @@ def enable_simplify_pre_pass() -> bool
 
 <a id="unreal.MeshApproximationSettings.enable_simplify_pre_pass"></a>
 
-#### enable_simplify_pre_pass
+#### enable\_simplify\_pre\_pass
 
 ```python
 @enable_simplify_pre_pass.setter
@@ -909,7 +909,7 @@ def enable_simplify_pre_pass(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.enable_parallel_baking"></a>
 
-#### enable_parallel_baking
+#### enable\_parallel\_baking
 
 ```python
 @property
@@ -920,7 +920,7 @@ def enable_parallel_baking() -> bool
 
 <a id="unreal.MeshApproximationSettings.enable_parallel_baking"></a>
 
-#### enable_parallel_baking
+#### enable\_parallel\_baking
 
 ```python
 @enable_parallel_baking.setter
@@ -929,7 +929,7 @@ def enable_parallel_baking(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.print_debug_messages"></a>
 
-#### print_debug_messages
+#### print\_debug\_messages
 
 ```python
 @property
@@ -940,7 +940,7 @@ def print_debug_messages() -> bool
 
 <a id="unreal.MeshApproximationSettings.print_debug_messages"></a>
 
-#### print_debug_messages
+#### print\_debug\_messages
 
 ```python
 @print_debug_messages.setter
@@ -949,7 +949,7 @@ def print_debug_messages(value: bool) -> None
 
 <a id="unreal.MeshApproximationSettings.emit_full_debug_mesh"></a>
 
-#### emit_full_debug_mesh
+#### emit\_full\_debug\_mesh
 
 ```python
 @property
@@ -960,7 +960,7 @@ def emit_full_debug_mesh() -> bool
 
 <a id="unreal.MeshApproximationSettings.emit_full_debug_mesh"></a>
 
-#### emit_full_debug_mesh
+#### emit\_full\_debug\_mesh
 
 ```python
 @emit_full_debug_mesh.setter

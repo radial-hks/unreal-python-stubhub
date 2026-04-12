@@ -14,7 +14,7 @@ It is passed to event handlers dealing with navigation.
 
 <a id="unreal.NavigationEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -14,7 +14,7 @@ Rig Control Modified Context
 
 <a id="unreal.RigControlModifiedContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

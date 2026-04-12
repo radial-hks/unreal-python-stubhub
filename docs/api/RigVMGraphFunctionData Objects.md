@@ -14,7 +14,7 @@ Rig VMGraph Function Data
 
 <a id="unreal.RigVMGraphFunctionData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

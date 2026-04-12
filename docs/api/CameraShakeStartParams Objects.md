@@ -8,7 +8,7 @@ deprecated: 'CameraShakeStartParams' was renamed to 'CameraShakePatternStartPara
 
 <a id="unreal.CameraShakeStartParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(is_restarting: bool = False,

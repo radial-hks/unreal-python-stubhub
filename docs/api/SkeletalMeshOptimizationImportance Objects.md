@@ -13,37 +13,37 @@ Enum specifying the importance of properties when simplifying skeletal meshes.
 
 <a id="unreal.SkeletalMeshOptimizationImportance.SMOI_OFF"></a>
 
-#### SMOI_OFF
+#### SMOI\_OFF
 
 0
 
 <a id="unreal.SkeletalMeshOptimizationImportance.SMOI_LOWEST"></a>
 
-#### SMOI_LOWEST
+#### SMOI\_LOWEST
 
 1
 
 <a id="unreal.SkeletalMeshOptimizationImportance.SMOI_LOW"></a>
 
-#### SMOI_LOW
+#### SMOI\_LOW
 
 2
 
 <a id="unreal.SkeletalMeshOptimizationImportance.SMOI_NORMAL"></a>
 
-#### SMOI_NORMAL
+#### SMOI\_NORMAL
 
 3
 
 <a id="unreal.SkeletalMeshOptimizationImportance.SMOI_HIGH"></a>
 
-#### SMOI_HIGH
+#### SMOI\_HIGH
 
 4
 
 <a id="unreal.SkeletalMeshOptimizationImportance.SMOI_HIGHEST"></a>
 
-#### SMOI_HIGHEST
+#### SMOI\_HIGHEST
 
 5
 

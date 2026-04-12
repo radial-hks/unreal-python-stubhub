@@ -20,19 +20,19 @@ EGLTFMaterial Property Group
 
 <a id="unreal.GLTFMaterialPropertyGroup.BASE_COLOR_OPACITY"></a>
 
-#### BASE_COLOR_OPACITY
+#### BASE\_COLOR\_OPACITY
 
 1
 
 <a id="unreal.GLTFMaterialPropertyGroup.METALLIC_ROUGHNESS"></a>
 
-#### METALLIC_ROUGHNESS
+#### METALLIC\_ROUGHNESS
 
 2
 
 <a id="unreal.GLTFMaterialPropertyGroup.EMISSIVE_COLOR"></a>
 
-#### EMISSIVE_COLOR
+#### EMISSIVE\_COLOR
 
 3
 
@@ -44,19 +44,19 @@ EGLTFMaterial Property Group
 
 <a id="unreal.GLTFMaterialPropertyGroup.AMBIENT_OCCLUSION"></a>
 
-#### AMBIENT_OCCLUSION
+#### AMBIENT\_OCCLUSION
 
 5
 
 <a id="unreal.GLTFMaterialPropertyGroup.CLEAR_COAT_ROUGHNESS"></a>
 
-#### CLEAR_COAT_ROUGHNESS
+#### CLEAR\_COAT\_ROUGHNESS
 
 6
 
 <a id="unreal.GLTFMaterialPropertyGroup.CLEAR_COAT_BOTTOM_NORMAL"></a>
 
-#### CLEAR_COAT_BOTTOM_NORMAL
+#### CLEAR\_COAT\_BOTTOM\_NORMAL
 
 7
 

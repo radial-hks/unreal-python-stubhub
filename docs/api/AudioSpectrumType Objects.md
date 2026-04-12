@@ -13,13 +13,13 @@ EAudio Spectrum Type
 
 <a id="unreal.AudioSpectrumType.MAGNITUDE_SPECTRUM"></a>
 
-#### MAGNITUDE_SPECTRUM
+#### MAGNITUDE\_SPECTRUM
 
 0: Spectrum frequency values are equal to magnitude of frequency.
 
 <a id="unreal.AudioSpectrumType.POWER_SPECTRUM"></a>
 
-#### POWER_SPECTRUM
+#### POWER\_SPECTRUM
 
 1: Spectrum frequency values are equal to magnitude squared.
 

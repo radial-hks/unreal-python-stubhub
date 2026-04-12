@@ -17,7 +17,7 @@ Anim State Alias Node
 
 <a id="unreal.AnimStateAliasNode.global_alias"></a>
 
-#### global_alias
+#### global\_alias
 
 ```python
 @property
@@ -28,7 +28,7 @@ def global_alias() -> bool
 
 <a id="unreal.AnimStateAliasNode.global_alias"></a>
 
-#### global_alias
+#### global\_alias
 
 ```python
 @global_alias.setter

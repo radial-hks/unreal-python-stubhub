@@ -18,7 +18,7 @@ Displacement Scaling
 
 <a id="unreal.DisplacementScaling.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(magnitude: float = 0.000000, center: float = 0.000000) -> None

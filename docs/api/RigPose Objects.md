@@ -14,7 +14,7 @@ Rig Pose
 
 <a id="unreal.RigPose.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

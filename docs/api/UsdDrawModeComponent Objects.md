@@ -203,7 +203,7 @@ applied.
 
 <a id="unreal.UsdDrawModeComponent.bounds_min"></a>
 
-#### bounds_min
+#### bounds\_min
 
 ```python
 @property
@@ -214,7 +214,7 @@ def bounds_min() -> Vector
 
 <a id="unreal.UsdDrawModeComponent.bounds_min"></a>
 
-#### bounds_min
+#### bounds\_min
 
 ```python
 @bounds_min.setter
@@ -223,7 +223,7 @@ def bounds_min(value: Vector) -> None
 
 <a id="unreal.UsdDrawModeComponent.bounds_max"></a>
 
-#### bounds_max
+#### bounds\_max
 
 ```python
 @property
@@ -234,7 +234,7 @@ def bounds_max() -> Vector
 
 <a id="unreal.UsdDrawModeComponent.bounds_max"></a>
 
-#### bounds_max
+#### bounds\_max
 
 ```python
 @bounds_max.setter
@@ -243,7 +243,7 @@ def bounds_max(value: Vector) -> None
 
 <a id="unreal.UsdDrawModeComponent.draw_mode"></a>
 
-#### draw_mode
+#### draw\_mode
 
 ```python
 @property
@@ -254,7 +254,7 @@ def draw_mode() -> UsdDrawMode
 
 <a id="unreal.UsdDrawModeComponent.draw_mode"></a>
 
-#### draw_mode
+#### draw\_mode
 
 ```python
 @draw_mode.setter
@@ -263,7 +263,7 @@ def draw_mode(value: UsdDrawMode) -> None
 
 <a id="unreal.UsdDrawModeComponent.bounds_color"></a>
 
-#### bounds_color
+#### bounds\_color
 
 ```python
 @property
@@ -274,7 +274,7 @@ def bounds_color() -> LinearColor
 
 <a id="unreal.UsdDrawModeComponent.bounds_color"></a>
 
-#### bounds_color
+#### bounds\_color
 
 ```python
 @bounds_color.setter
@@ -283,7 +283,7 @@ def bounds_color(value: LinearColor) -> None
 
 <a id="unreal.UsdDrawModeComponent.card_geometry"></a>
 
-#### card_geometry
+#### card\_geometry
 
 ```python
 @property
@@ -294,7 +294,7 @@ def card_geometry() -> UsdModelCardGeometry
 
 <a id="unreal.UsdDrawModeComponent.card_geometry"></a>
 
-#### card_geometry
+#### card\_geometry
 
 ```python
 @card_geometry.setter
@@ -303,7 +303,7 @@ def card_geometry(value: UsdModelCardGeometry) -> None
 
 <a id="unreal.UsdDrawModeComponent.card_texture_x_pos"></a>
 
-#### card_texture_x_pos
+#### card\_texture\_x\_pos
 
 ```python
 @property
@@ -314,7 +314,7 @@ def card_texture_x_pos() -> Texture2D
 
 <a id="unreal.UsdDrawModeComponent.card_texture_x_pos"></a>
 
-#### card_texture_x_pos
+#### card\_texture\_x\_pos
 
 ```python
 @card_texture_x_pos.setter
@@ -323,7 +323,7 @@ def card_texture_x_pos(value: Texture2D) -> None
 
 <a id="unreal.UsdDrawModeComponent.card_texture_y_pos"></a>
 
-#### card_texture_y_pos
+#### card\_texture\_y\_pos
 
 ```python
 @property
@@ -334,7 +334,7 @@ def card_texture_y_pos() -> Texture2D
 
 <a id="unreal.UsdDrawModeComponent.card_texture_y_pos"></a>
 
-#### card_texture_y_pos
+#### card\_texture\_y\_pos
 
 ```python
 @card_texture_y_pos.setter
@@ -343,7 +343,7 @@ def card_texture_y_pos(value: Texture2D) -> None
 
 <a id="unreal.UsdDrawModeComponent.card_texture_z_pos"></a>
 
-#### card_texture_z_pos
+#### card\_texture\_z\_pos
 
 ```python
 @property
@@ -354,7 +354,7 @@ def card_texture_z_pos() -> Texture2D
 
 <a id="unreal.UsdDrawModeComponent.card_texture_z_pos"></a>
 
-#### card_texture_z_pos
+#### card\_texture\_z\_pos
 
 ```python
 @card_texture_z_pos.setter
@@ -363,7 +363,7 @@ def card_texture_z_pos(value: Texture2D) -> None
 
 <a id="unreal.UsdDrawModeComponent.card_texture_x_neg"></a>
 
-#### card_texture_x_neg
+#### card\_texture\_x\_neg
 
 ```python
 @property
@@ -374,7 +374,7 @@ def card_texture_x_neg() -> Texture2D
 
 <a id="unreal.UsdDrawModeComponent.card_texture_x_neg"></a>
 
-#### card_texture_x_neg
+#### card\_texture\_x\_neg
 
 ```python
 @card_texture_x_neg.setter
@@ -383,7 +383,7 @@ def card_texture_x_neg(value: Texture2D) -> None
 
 <a id="unreal.UsdDrawModeComponent.card_texture_y_neg"></a>
 
-#### card_texture_y_neg
+#### card\_texture\_y\_neg
 
 ```python
 @property
@@ -394,7 +394,7 @@ def card_texture_y_neg() -> Texture2D
 
 <a id="unreal.UsdDrawModeComponent.card_texture_y_neg"></a>
 
-#### card_texture_y_neg
+#### card\_texture\_y\_neg
 
 ```python
 @card_texture_y_neg.setter
@@ -403,7 +403,7 @@ def card_texture_y_neg(value: Texture2D) -> None
 
 <a id="unreal.UsdDrawModeComponent.card_texture_z_neg"></a>
 
-#### card_texture_z_neg
+#### card\_texture\_z\_neg
 
 ```python
 @property
@@ -414,7 +414,7 @@ def card_texture_z_neg() -> Texture2D
 
 <a id="unreal.UsdDrawModeComponent.card_texture_z_neg"></a>
 
-#### card_texture_z_neg
+#### card\_texture\_z\_neg
 
 ```python
 @card_texture_z_neg.setter
@@ -423,7 +423,7 @@ def card_texture_z_neg(value: Texture2D) -> None
 
 <a id="unreal.UsdDrawModeComponent.set_texture_for_face"></a>
 
-#### set_texture_for_face
+#### set\_texture\_for\_face
 
 ```python
 def set_texture_for_face(face: UsdModelCardFace, texture: Texture2D) -> None
@@ -438,7 +438,7 @@ Args:
 
 <a id="unreal.UsdDrawModeComponent.get_texture_for_face"></a>
 
-#### get_texture_for_face
+#### get\_texture\_for\_face
 
 ```python
 def get_texture_for_face(face: UsdModelCardFace) -> Texture2D

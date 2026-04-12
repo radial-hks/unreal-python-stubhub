@@ -19,13 +19,13 @@ EMaterial Attribute Blend
 
 <a id="unreal.MaterialAttributeBlend.USE_A"></a>
 
-#### USE_A
+#### USE\_A
 
 1
 
 <a id="unreal.MaterialAttributeBlend.USE_B"></a>
 
-#### USE_B
+#### USE\_B
 
 2
 

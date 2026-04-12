@@ -22,7 +22,7 @@ Merge Static Mesh Actors Options
 
 <a id="unreal.MergeStaticMeshActorsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -54,7 +54,7 @@ def __init__(
 
 <a id="unreal.MergeStaticMeshActorsOptions.spawn_merged_actor"></a>
 
-#### spawn_merged_actor
+#### spawn\_merged\_actor
 
 ```python
 @property
@@ -65,7 +65,7 @@ def spawn_merged_actor() -> bool
 
 <a id="unreal.MergeStaticMeshActorsOptions.spawn_merged_actor"></a>
 
-#### spawn_merged_actor
+#### spawn\_merged\_actor
 
 ```python
 @spawn_merged_actor.setter
@@ -74,7 +74,7 @@ def spawn_merged_actor(value: bool) -> None
 
 <a id="unreal.MergeStaticMeshActorsOptions.base_package_name"></a>
 
-#### base_package_name
+#### base\_package\_name
 
 ```python
 @property
@@ -85,7 +85,7 @@ def base_package_name() -> str
 
 <a id="unreal.MergeStaticMeshActorsOptions.base_package_name"></a>
 
-#### base_package_name
+#### base\_package\_name
 
 ```python
 @base_package_name.setter
@@ -94,7 +94,7 @@ def base_package_name(value: str) -> None
 
 <a id="unreal.MergeStaticMeshActorsOptions.mesh_merging_settings"></a>
 
-#### mesh_merging_settings
+#### mesh\_merging\_settings
 
 ```python
 @property
@@ -105,7 +105,7 @@ def mesh_merging_settings() -> MeshMergingSettings
 
 <a id="unreal.MergeStaticMeshActorsOptions.mesh_merging_settings"></a>
 
-#### mesh_merging_settings
+#### mesh\_merging\_settings
 
 ```python
 @mesh_merging_settings.setter

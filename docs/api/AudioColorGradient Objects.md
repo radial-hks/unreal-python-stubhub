@@ -14,13 +14,13 @@ EAudio Color Gradient
 
 <a id="unreal.AudioColorGradient.BLACK_TO_WHITE"></a>
 
-#### BLACK_TO_WHITE
+#### BLACK\_TO\_WHITE
 
 0
 
 <a id="unreal.AudioColorGradient.WHITE_TO_BLACK"></a>
 
-#### WHITE_TO_BLACK
+#### WHITE\_TO\_BLACK
 
 1
 

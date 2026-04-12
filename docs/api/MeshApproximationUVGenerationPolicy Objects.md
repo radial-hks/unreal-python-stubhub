@@ -13,19 +13,19 @@ EMesh Approximation UVGeneration Policy
 
 <a id="unreal.MeshApproximationUVGenerationPolicy.PREFER_UV_ATLAS"></a>
 
-#### PREFER_UV_ATLAS
+#### PREFER\_UV\_ATLAS
 
 0
 
 <a id="unreal.MeshApproximationUVGenerationPolicy.PREFER_X_ATLAS"></a>
 
-#### PREFER_X_ATLAS
+#### PREFER\_X\_ATLAS
 
 1
 
 <a id="unreal.MeshApproximationUVGenerationPolicy.PREFER_PATCH_BUILDER"></a>
 
-#### PREFER_PATCH_BUILDER
+#### PREFER\_PATCH\_BUILDER
 
 2
 

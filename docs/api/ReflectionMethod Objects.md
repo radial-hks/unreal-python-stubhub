@@ -25,7 +25,7 @@ Note: Must match r.ReflectionMethod, this is used in URendererSettings
 
 <a id="unreal.ReflectionMethod.SCREEN_SPACE"></a>
 
-#### SCREEN_SPACE
+#### SCREEN\_SPACE
 
 2: Standalone Screen Space Reflections.  Low cost, but limited by screen space information.
 

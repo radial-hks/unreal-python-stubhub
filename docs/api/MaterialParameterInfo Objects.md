@@ -19,7 +19,7 @@ Material Parameter Info
 
 <a id="unreal.MaterialParameterInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

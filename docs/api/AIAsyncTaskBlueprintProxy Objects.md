@@ -18,7 +18,7 @@ AIAsync Task Blueprint Proxy
 
 <a id="unreal.AIAsyncTaskBlueprintProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -29,7 +29,7 @@ def on_success() -> OAISimpleDelegate
 
 <a id="unreal.AIAsyncTaskBlueprintProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -38,7 +38,7 @@ def on_success(value: OAISimpleDelegate) -> None
 
 <a id="unreal.AIAsyncTaskBlueprintProxy.on_fail"></a>
 
-#### on_fail
+#### on\_fail
 
 ```python
 @property
@@ -49,7 +49,7 @@ def on_fail() -> OAISimpleDelegate
 
 <a id="unreal.AIAsyncTaskBlueprintProxy.on_fail"></a>
 
-#### on_fail
+#### on\_fail
 
 ```python
 @on_fail.setter

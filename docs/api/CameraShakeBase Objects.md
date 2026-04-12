@@ -23,7 +23,7 @@ a completely different asset.
 
 <a id="unreal.CameraShakeBase.shake_scale"></a>
 
-#### shake_scale
+#### shake\_scale
 
 ```python
 @property
@@ -34,7 +34,7 @@ def shake_scale() -> float
 
 <a id="unreal.CameraShakeBase.shake_scale"></a>
 
-#### shake_scale
+#### shake\_scale
 
 ```python
 @shake_scale.setter
@@ -43,7 +43,7 @@ def shake_scale(value: float) -> None
 
 <a id="unreal.CameraShakeBase.set_root_shake_pattern"></a>
 
-#### set_root_shake_pattern
+#### set\_root\_shake\_pattern
 
 ```python
 def set_root_shake_pattern(pattern: CameraShakePattern) -> None
@@ -57,7 +57,7 @@ Args:
 
 <a id="unreal.CameraShakeBase.get_root_shake_pattern"></a>
 
-#### get_root_shake_pattern
+#### get\_root\_shake\_pattern
 
 ```python
 def get_root_shake_pattern() -> CameraShakePattern

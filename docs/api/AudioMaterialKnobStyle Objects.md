@@ -32,7 +32,7 @@ Represents the appearance of an Audio Material Knob
 
 <a id="unreal.AudioMaterialKnobStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -82,7 +82,7 @@ def __init__(
 
 <a id="unreal.AudioMaterialKnobStyle.knob_main_color"></a>
 
-#### knob_main_color
+#### knob\_main\_color
 
 ```python
 @property
@@ -93,7 +93,7 @@ def knob_main_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_main_color"></a>
 
-#### knob_main_color
+#### knob\_main\_color
 
 ```python
 @knob_main_color.setter
@@ -102,7 +102,7 @@ def knob_main_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_accent_color"></a>
 
-#### knob_accent_color
+#### knob\_accent\_color
 
 ```python
 @property
@@ -113,7 +113,7 @@ def knob_accent_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_accent_color"></a>
 
-#### knob_accent_color
+#### knob\_accent\_color
 
 ```python
 @knob_accent_color.setter
@@ -122,7 +122,7 @@ def knob_accent_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_shadow_color"></a>
 
-#### knob_shadow_color
+#### knob\_shadow\_color
 
 ```python
 @property
@@ -133,7 +133,7 @@ def knob_shadow_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_shadow_color"></a>
 
-#### knob_shadow_color
+#### knob\_shadow\_color
 
 ```python
 @knob_shadow_color.setter
@@ -142,7 +142,7 @@ def knob_shadow_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_smooth_bevel_color"></a>
 
-#### knob_smooth_bevel_color
+#### knob\_smooth\_bevel\_color
 
 ```python
 @property
@@ -153,7 +153,7 @@ def knob_smooth_bevel_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_smooth_bevel_color"></a>
 
-#### knob_smooth_bevel_color
+#### knob\_smooth\_bevel\_color
 
 ```python
 @knob_smooth_bevel_color.setter
@@ -162,7 +162,7 @@ def knob_smooth_bevel_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_indicator_dot_color"></a>
 
-#### knob_indicator_dot_color
+#### knob\_indicator\_dot\_color
 
 ```python
 @property
@@ -173,7 +173,7 @@ def knob_indicator_dot_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_indicator_dot_color"></a>
 
-#### knob_indicator_dot_color
+#### knob\_indicator\_dot\_color
 
 ```python
 @knob_indicator_dot_color.setter
@@ -182,7 +182,7 @@ def knob_indicator_dot_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_edge_fill_color"></a>
 
-#### knob_edge_fill_color
+#### knob\_edge\_fill\_color
 
 ```python
 @property
@@ -193,7 +193,7 @@ def knob_edge_fill_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_edge_fill_color"></a>
 
-#### knob_edge_fill_color
+#### knob\_edge\_fill\_color
 
 ```python
 @knob_edge_fill_color.setter
@@ -202,7 +202,7 @@ def knob_edge_fill_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_color"></a>
 
-#### knob_bar_color
+#### knob\_bar\_color
 
 ```python
 @property
@@ -213,7 +213,7 @@ def knob_bar_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_color"></a>
 
-#### knob_bar_color
+#### knob\_bar\_color
 
 ```python
 @knob_bar_color.setter
@@ -222,7 +222,7 @@ def knob_bar_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_shadow_color"></a>
 
-#### knob_bar_shadow_color
+#### knob\_bar\_shadow\_color
 
 ```python
 @property
@@ -233,7 +233,7 @@ def knob_bar_shadow_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_shadow_color"></a>
 
-#### knob_bar_shadow_color
+#### knob\_bar\_shadow\_color
 
 ```python
 @knob_bar_shadow_color.setter
@@ -242,7 +242,7 @@ def knob_bar_shadow_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_fill_min_color"></a>
 
-#### knob_bar_fill_min_color
+#### knob\_bar\_fill\_min\_color
 
 ```python
 @property
@@ -253,7 +253,7 @@ def knob_bar_fill_min_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_fill_min_color"></a>
 
-#### knob_bar_fill_min_color
+#### knob\_bar\_fill\_min\_color
 
 ```python
 @knob_bar_fill_min_color.setter
@@ -262,7 +262,7 @@ def knob_bar_fill_min_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_fill_mid_color"></a>
 
-#### knob_bar_fill_mid_color
+#### knob\_bar\_fill\_mid\_color
 
 ```python
 @property
@@ -273,7 +273,7 @@ def knob_bar_fill_mid_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_fill_mid_color"></a>
 
-#### knob_bar_fill_mid_color
+#### knob\_bar\_fill\_mid\_color
 
 ```python
 @knob_bar_fill_mid_color.setter
@@ -282,7 +282,7 @@ def knob_bar_fill_mid_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_fill_max_color"></a>
 
-#### knob_bar_fill_max_color
+#### knob\_bar\_fill\_max\_color
 
 ```python
 @property
@@ -293,7 +293,7 @@ def knob_bar_fill_max_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_fill_max_color"></a>
 
-#### knob_bar_fill_max_color
+#### knob\_bar\_fill\_max\_color
 
 ```python
 @knob_bar_fill_max_color.setter
@@ -302,7 +302,7 @@ def knob_bar_fill_max_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_fill_tint_color"></a>
 
-#### knob_bar_fill_tint_color
+#### knob\_bar\_fill\_tint\_color
 
 ```python
 @property
@@ -313,7 +313,7 @@ def knob_bar_fill_tint_color() -> LinearColor
 
 <a id="unreal.AudioMaterialKnobStyle.knob_bar_fill_tint_color"></a>
 
-#### knob_bar_fill_tint_color
+#### knob\_bar\_fill\_tint\_color
 
 ```python
 @knob_bar_fill_tint_color.setter
@@ -322,7 +322,7 @@ def knob_bar_fill_tint_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialKnobStyle.text_box_style"></a>
 
-#### text_box_style
+#### text\_box\_style
 
 ```python
 @property
@@ -333,7 +333,7 @@ def text_box_style() -> AudioTextBoxStyle
 
 <a id="unreal.AudioMaterialKnobStyle.text_box_style"></a>
 
-#### text_box_style
+#### text\_box\_style
 
 ```python
 @text_box_style.setter

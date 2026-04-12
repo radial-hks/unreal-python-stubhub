@@ -29,7 +29,7 @@ functionality.  They should never be stateful.
 
 <a id="unreal.DamageType.caused_by_world"></a>
 
-#### caused_by_world
+#### caused\_by\_world
 
 ```python
 @property
@@ -40,7 +40,7 @@ def caused_by_world() -> bool
 
 <a id="unreal.DamageType.scale_momentum_by_mass"></a>
 
-#### scale_momentum_by_mass
+#### scale\_momentum\_by\_mass
 
 ```python
 @property
@@ -51,7 +51,7 @@ def scale_momentum_by_mass() -> bool
 
 <a id="unreal.DamageType.radial_damage_vel_change"></a>
 
-#### radial_damage_vel_change
+#### radial\_damage\_vel\_change
 
 ```python
 @property
@@ -62,7 +62,7 @@ def radial_damage_vel_change() -> bool
 
 <a id="unreal.DamageType.damage_impulse"></a>
 
-#### damage_impulse
+#### damage\_impulse
 
 ```python
 @property
@@ -73,7 +73,7 @@ def damage_impulse() -> float
 
 <a id="unreal.DamageType.destructible_impulse"></a>
 
-#### destructible_impulse
+#### destructible\_impulse
 
 ```python
 @property
@@ -84,7 +84,7 @@ def destructible_impulse() -> float
 
 <a id="unreal.DamageType.destructible_damage_spread_scale"></a>
 
-#### destructible_damage_spread_scale
+#### destructible\_damage\_spread\_scale
 
 ```python
 @property
@@ -95,7 +95,7 @@ def destructible_damage_spread_scale() -> float
 
 <a id="unreal.DamageType.damage_falloff"></a>
 
-#### damage_falloff
+#### damage\_falloff
 
 ```python
 @property

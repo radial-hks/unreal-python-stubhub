@@ -57,7 +57,7 @@ by placing this widget after UI you would like to be processed / sampled is draw
 
 <a id="unreal.PostBufferUpdate.perform_default_post_buffer_update"></a>
 
-#### perform_default_post_buffer_update
+#### perform\_default\_post\_buffer\_update
 
 ```python
 @property
@@ -69,7 +69,7 @@ If any PostBufferUpdate widget has this set as false, be default scene copy / pr
 
 <a id="unreal.PostBufferUpdate.perform_default_post_buffer_update"></a>
 
-#### perform_default_post_buffer_update
+#### perform\_default\_post\_buffer\_update
 
 ```python
 @perform_default_post_buffer_update.setter

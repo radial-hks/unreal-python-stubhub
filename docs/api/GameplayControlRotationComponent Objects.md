@@ -38,7 +38,7 @@ by the player themselves.
 
 <a id="unreal.GameplayControlRotationComponent.auto_activate_for_player"></a>
 
-#### auto_activate_for_player
+#### auto\_activate\_for\_player
 
 ```python
 @property
@@ -50,7 +50,7 @@ This is equivalent to calling ActivateControlRotationManagement on BeginPlay.
 
 <a id="unreal.GameplayControlRotationComponent.auto_activate_for_player"></a>
 
-#### auto_activate_for_player
+#### auto\_activate\_for\_player
 
 ```python
 @auto_activate_for_player.setter
@@ -59,7 +59,7 @@ def auto_activate_for_player(value: AutoReceiveInput) -> None
 
 <a id="unreal.GameplayControlRotationComponent.deactivate_control_rotation_management"></a>
 
-#### deactivate_control_rotation_management
+#### deactivate\_control\_rotation\_management
 
 ```python
 def deactivate_control_rotation_management() -> None
@@ -70,7 +70,7 @@ Deactivates management of a player controller's control rotation.
 
 <a id="unreal.GameplayControlRotationComponent.activate_control_rotation_management_for_player_index"></a>
 
-#### activate_control_rotation_management_for_player_index
+#### activate\_control\_rotation\_management\_for\_player\_index
 
 ```python
 def activate_control_rotation_management_for_player_index(
@@ -86,7 +86,7 @@ Args:
 
 <a id="unreal.GameplayControlRotationComponent.activate_control_rotation_management_for_player_controller"></a>
 
-#### activate_control_rotation_management_for_player_controller
+#### activate\_control\_rotation\_management\_for\_player\_controller
 
 ```python
 def activate_control_rotation_management_for_player_controller(

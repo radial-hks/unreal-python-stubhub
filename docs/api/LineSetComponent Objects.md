@@ -195,7 +195,7 @@ Line Set Component
 
 <a id="unreal.LineSetComponent.set_line_material"></a>
 
-#### set_line_material
+#### set\_line\_material
 
 ```python
 def set_line_material(line_material: MaterialInterface) -> None
@@ -220,7 +220,7 @@ Clear the line set
 
 <a id="unreal.LineSetComponent.add_lines"></a>
 
-#### add_lines
+#### add\_lines
 
 ```python
 def add_lines(start: Array[Vector],

@@ -22,7 +22,7 @@ Groom Hair Group Preview
 
 <a id="unreal.GroomHairGroupPreview.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(group_name: Name = "None",
@@ -34,7 +34,7 @@ def __init__(group_name: Name = "None",
 
 <a id="unreal.GroomHairGroupPreview.group_name"></a>
 
-#### group_name
+#### group\_name
 
 ```python
 @property
@@ -45,7 +45,7 @@ def group_name() -> Name
 
 <a id="unreal.GroomHairGroupPreview.group_id"></a>
 
-#### group_id
+#### group\_id
 
 ```python
 @property
@@ -56,7 +56,7 @@ def group_id() -> int
 
 <a id="unreal.GroomHairGroupPreview.curve_count"></a>
 
-#### curve_count
+#### curve\_count
 
 ```python
 @property
@@ -67,7 +67,7 @@ def curve_count() -> int
 
 <a id="unreal.GroomHairGroupPreview.guide_count"></a>
 
-#### guide_count
+#### guide\_count
 
 ```python
 @property
@@ -78,7 +78,7 @@ def guide_count() -> int
 
 <a id="unreal.GroomHairGroupPreview.interpolation_settings"></a>
 
-#### interpolation_settings
+#### interpolation\_settings
 
 ```python
 @property
@@ -89,7 +89,7 @@ def interpolation_settings() -> HairGroupsInterpolation
 
 <a id="unreal.GroomHairGroupPreview.interpolation_settings"></a>
 
-#### interpolation_settings
+#### interpolation\_settings
 
 ```python
 @interpolation_settings.setter

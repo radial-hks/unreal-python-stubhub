@@ -52,7 +52,7 @@ def params(value: MovieSceneSkeletalAnimationParams) -> None
 
 <a id="unreal.MovieSceneSkeletalAnimationSection.start_location_offset"></a>
 
-#### start_location_offset
+#### start\_location\_offset
 
 ```python
 @property
@@ -63,7 +63,7 @@ def start_location_offset() -> Vector
 
 <a id="unreal.MovieSceneSkeletalAnimationSection.start_location_offset"></a>
 
-#### start_location_offset
+#### start\_location\_offset
 
 ```python
 @start_location_offset.setter
@@ -72,7 +72,7 @@ def start_location_offset(value: Vector) -> None
 
 <a id="unreal.MovieSceneSkeletalAnimationSection.start_rotation_offset"></a>
 
-#### start_rotation_offset
+#### start\_rotation\_offset
 
 ```python
 @property
@@ -83,7 +83,7 @@ def start_rotation_offset() -> Rotator
 
 <a id="unreal.MovieSceneSkeletalAnimationSection.start_rotation_offset"></a>
 
-#### start_rotation_offset
+#### start\_rotation\_offset
 
 ```python
 @start_rotation_offset.setter
@@ -92,7 +92,7 @@ def start_rotation_offset(value: Rotator) -> None
 
 <a id="unreal.MovieSceneSkeletalAnimationSection.matched_location_offset"></a>
 
-#### matched_location_offset
+#### matched\_location\_offset
 
 ```python
 @property
@@ -103,7 +103,7 @@ def matched_location_offset() -> Vector
 
 <a id="unreal.MovieSceneSkeletalAnimationSection.matched_rotation_offset"></a>
 
-#### matched_rotation_offset
+#### matched\_rotation\_offset
 
 ```python
 @property
@@ -114,7 +114,7 @@ def matched_rotation_offset() -> Rotator
 
 <a id="unreal.MovieSceneSkeletalAnimationSection.show_skeleton"></a>
 
-#### show_skeleton
+#### show\_skeleton
 
 ```python
 @property
@@ -125,7 +125,7 @@ def show_skeleton() -> bool
 
 <a id="unreal.MovieSceneSkeletalAnimationSection.show_skeleton"></a>
 
-#### show_skeleton
+#### show\_skeleton
 
 ```python
 @show_skeleton.setter

@@ -34,7 +34,7 @@ Struct to allow testing of the various UStruct features that are exposed to Pyth
 
 <a id="unreal.PyTestStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bool: bool = False,
@@ -194,7 +194,7 @@ def text(value: Text) -> None
 
 <a id="unreal.PyTestStruct.field_path"></a>
 
-#### field_path
+#### field\_path
 
 ```python
 @property
@@ -205,7 +205,7 @@ def field_path() -> FieldPath
 
 <a id="unreal.PyTestStruct.field_path"></a>
 
-#### field_path
+#### field\_path
 
 ```python
 @field_path.setter
@@ -214,7 +214,7 @@ def field_path(value: FieldPath) -> None
 
 <a id="unreal.PyTestStruct.struct_field_path"></a>
 
-#### struct_field_path
+#### struct\_field\_path
 
 ```python
 @property
@@ -225,7 +225,7 @@ def struct_field_path() -> FieldPath
 
 <a id="unreal.PyTestStruct.struct_field_path"></a>
 
-#### struct_field_path
+#### struct\_field\_path
 
 ```python
 @struct_field_path.setter
@@ -234,7 +234,7 @@ def struct_field_path(value: FieldPath) -> None
 
 <a id="unreal.PyTestStruct.string_array"></a>
 
-#### string_array
+#### string\_array
 
 ```python
 @property
@@ -245,7 +245,7 @@ def string_array() -> Array[str]
 
 <a id="unreal.PyTestStruct.string_array"></a>
 
-#### string_array
+#### string\_array
 
 ```python
 @string_array.setter
@@ -254,7 +254,7 @@ def string_array(value: Array[str]) -> None
 
 <a id="unreal.PyTestStruct.string_set"></a>
 
-#### string_set
+#### string\_set
 
 ```python
 @property
@@ -265,7 +265,7 @@ def string_set() -> Set[str]
 
 <a id="unreal.PyTestStruct.string_set"></a>
 
-#### string_set
+#### string\_set
 
 ```python
 @string_set.setter
@@ -274,7 +274,7 @@ def string_set(value: Set[str]) -> None
 
 <a id="unreal.PyTestStruct.string_int_map"></a>
 
-#### string_int_map
+#### string\_int\_map
 
 ```python
 @property
@@ -285,7 +285,7 @@ def string_int_map() -> Map[str, int]
 
 <a id="unreal.PyTestStruct.string_int_map"></a>
 
-#### string_int_map
+#### string\_int\_map
 
 ```python
 @string_int_map.setter
@@ -294,7 +294,7 @@ def string_int_map(value: Map[str, int]) -> None
 
 <a id="unreal.PyTestStruct.legacy_int"></a>
 
-#### legacy_int
+#### legacy\_int
 
 ```python
 @property
@@ -306,7 +306,7 @@ deprecated: LegacyInt is deprecated. Please use Int instead.
 
 <a id="unreal.PyTestStruct.legacy_int"></a>
 
-#### legacy_int
+#### legacy\_int
 
 ```python
 @legacy_int.setter
@@ -315,7 +315,7 @@ def legacy_int(value: int) -> None
 
 <a id="unreal.PyTestStruct.bool_mutable"></a>
 
-#### bool_mutable
+#### bool\_mutable
 
 ```python
 @property
@@ -326,7 +326,7 @@ def bool_mutable() -> bool
 
 <a id="unreal.PyTestStruct.set_bool_mutable_via_ref"></a>
 
-#### set_bool_mutable_via_ref
+#### set\_bool\_mutable\_via\_ref
 
 ```python
 def set_bool_mutable_via_ref() -> None
@@ -337,7 +337,7 @@ Set Bool Mutable Via Ref
 
 <a id="unreal.PyTestStruct.set_bool_mutable"></a>
 
-#### set_bool_mutable
+#### set\_bool\_mutable
 
 ```python
 def set_bool_mutable() -> None
@@ -348,7 +348,7 @@ Set Bool Mutable
 
 <a id="unreal.PyTestStruct.legacy_is_bool_set"></a>
 
-#### legacy_is_bool_set
+#### legacy\_is\_bool\_set
 
 ```python
 def legacy_is_bool_set() -> bool
@@ -363,7 +363,7 @@ Returns:
 
 <a id="unreal.PyTestStruct.is_bool_set"></a>
 
-#### is_bool_set
+#### is\_bool\_set
 
 ```python
 def is_bool_set() -> bool
@@ -377,7 +377,7 @@ Returns:
 
 <a id="unreal.PyTestStruct.is_bool_set_old"></a>
 
-#### is_bool_set_old
+#### is\_bool\_set\_old
 
 ```python
 def is_bool_set_old() -> bool
@@ -387,7 +387,7 @@ deprecated: 'is_bool_set_old' was renamed to 'is_bool_set'.
 
 <a id="unreal.PyTestStruct.clear_bool_mutable_via_ref"></a>
 
-#### clear_bool_mutable_via_ref
+#### clear\_bool\_mutable\_via\_ref
 
 ```python
 def clear_bool_mutable_via_ref() -> None
@@ -398,7 +398,7 @@ Clear Bool Mutable Via Ref
 
 <a id="unreal.PyTestStruct.clear_bool_mutable"></a>
 
-#### clear_bool_mutable
+#### clear\_bool\_mutable
 
 ```python
 def clear_bool_mutable() -> None
@@ -409,7 +409,7 @@ Clear Bool Mutable
 
 <a id="unreal.PyTestStruct.add_str"></a>
 
-#### add_str
+#### add\_str
 
 ```python
 def add_str(value: str) -> None
@@ -426,7 +426,7 @@ Returns:
 
 <a id="unreal.PyTestStruct.add_int"></a>
 
-#### add_int
+#### add\_int
 
 ```python
 def add_int(value: int) -> None
@@ -443,7 +443,7 @@ Returns:
 
 <a id="unreal.PyTestStruct.add_float"></a>
 
-#### add_float
+#### add\_float
 
 ```python
 def add_float(value: float) -> None
@@ -460,7 +460,7 @@ Returns:
 
 <a id="unreal.PyTestStruct.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: PyTestStruct) -> None
@@ -474,7 +474,7 @@ def __add__(other: PyTestStruct) -> None
 
 <a id="unreal.PyTestStruct.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: PyTestStruct) -> None
@@ -488,7 +488,7 @@ def __iadd__(other: PyTestStruct) -> None
 
 <a id="unreal.PyTestStruct.CONSTANT_VALUE"></a>
 
-#### CONSTANT_VALUE
+#### CONSTANT\_VALUE
 
 (int32): Get Constant Value
 

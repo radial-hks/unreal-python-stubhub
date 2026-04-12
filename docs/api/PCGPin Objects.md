@@ -53,7 +53,7 @@ def properties() -> PCGPinProperties
 
 <a id="unreal.PCGPin.set_tooltip"></a>
 
-#### set_tooltip
+#### set\_tooltip
 
 ```python
 def set_tooltip(tooltip: Text) -> None
@@ -67,7 +67,7 @@ Args:
 
 <a id="unreal.PCGPin.is_output_pin"></a>
 
-#### is_output_pin
+#### is\_output\_pin
 
 ```python
 def is_output_pin() -> bool
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.PCGPin.is_connected"></a>
 
-#### is_connected
+#### is\_connected
 
 ```python
 def is_connected() -> bool
@@ -95,7 +95,7 @@ Returns:
 
 <a id="unreal.PCGPin.get_tooltip"></a>
 
-#### get_tooltip
+#### get\_tooltip
 
 ```python
 def get_tooltip() -> Text

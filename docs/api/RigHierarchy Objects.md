@@ -18,7 +18,7 @@ Rig Hierarchy
 
 <a id="unreal.RigHierarchy.modified_event"></a>
 
-#### modified_event
+#### modified\_event
 
 ```python
 @property
@@ -29,7 +29,7 @@ def modified_event() -> RigHierarchyModifiedDynamicEvent
 
 <a id="unreal.RigHierarchy.unset_curve_value_by_index"></a>
 
-#### unset_curve_value_by_index
+#### unset\_curve\_value\_by\_index
 
 ```python
 def unset_curve_value_by_index(element_index: int,
@@ -45,7 +45,7 @@ Args:
 
 <a id="unreal.RigHierarchy.unset_curve_value"></a>
 
-#### unset_curve_value
+#### unset\_curve\_value
 
 ```python
 def unset_curve_value(key: RigElementKey, setup_undo: bool = False) -> None
@@ -60,7 +60,7 @@ Args:
 
 <a id="unreal.RigHierarchy.switch_to_world_space"></a>
 
-#### switch_to_world_space
+#### switch\_to\_world\_space
 
 ```python
 def switch_to_world_space(child: RigElementKey,
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.switch_to_parent"></a>
 
-#### switch_to_parent
+#### switch\_to\_parent
 
 ```python
 def switch_to_parent(child: RigElementKey,
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.switch_to_default_parent"></a>
 
-#### switch_to_default_parent
+#### switch\_to\_default\_parent
 
 ```python
 def switch_to_default_parent(child: RigElementKey,
@@ -128,7 +128,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.sort_keys"></a>
 
-#### sort_keys
+#### sort\_keys
 
 ```python
 def sort_keys(keys: Array[RigElementKey]) -> Array[RigElementKey]
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_vector_metadata"></a>
 
-#### set_vector_metadata
+#### set\_vector\_metadata
 
 ```python
 def set_vector_metadata(item: RigElementKey, metadata_name: Name,
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_vector_array_metadata"></a>
 
-#### set_vector_array_metadata
+#### set\_vector\_array\_metadata
 
 ```python
 def set_vector_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_transform_metadata"></a>
 
-#### set_transform_metadata
+#### set\_transform\_metadata
 
 ```python
 def set_transform_metadata(item: RigElementKey, metadata_name: Name,
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_transform_array_metadata"></a>
 
-#### set_transform_array_metadata
+#### set\_transform\_array\_metadata
 
 ```python
 def set_transform_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -225,7 +225,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_tag"></a>
 
-#### set_tag
+#### set\_tag
 
 ```python
 def set_tag(item: RigElementKey, tag: Name) -> bool
@@ -244,7 +244,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_rotator_metadata"></a>
 
-#### set_rotator_metadata
+#### set\_rotator\_metadata
 
 ```python
 def set_rotator_metadata(item: RigElementKey, metadata_name: Name,
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_rotator_array_metadata"></a>
 
-#### set_rotator_array_metadata
+#### set\_rotator\_array\_metadata
 
 ```python
 def set_rotator_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_rig_element_key_metadata"></a>
 
-#### set_rig_element_key_metadata
+#### set\_rig\_element\_key\_metadata
 
 ```python
 def set_rig_element_key_metadata(item: RigElementKey, metadata_name: Name,
@@ -304,7 +304,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_rig_element_key_array_metadata"></a>
 
-#### set_rig_element_key_array_metadata
+#### set\_rig\_element\_key\_array\_metadata
 
 ```python
 def set_rig_element_key_array_metadata(item: RigElementKey,
@@ -325,7 +325,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_quat_metadata"></a>
 
-#### set_quat_metadata
+#### set\_quat\_metadata
 
 ```python
 def set_quat_metadata(item: RigElementKey, metadata_name: Name,
@@ -345,7 +345,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_quat_array_metadata"></a>
 
-#### set_quat_array_metadata
+#### set\_quat\_array\_metadata
 
 ```python
 def set_quat_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -365,7 +365,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_pose"></a>
 
-#### set_pose
+#### set\_pose
 
 ```python
 def set_pose(pose: RigPose) -> None
@@ -379,7 +379,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_parent_weight_array"></a>
 
-#### set_parent_weight_array
+#### set\_parent\_weight\_array
 
 ```python
 def set_parent_weight_array(child: RigElementKey,
@@ -402,7 +402,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_parent_weight"></a>
 
-#### set_parent_weight
+#### set\_parent\_weight
 
 ```python
 def set_parent_weight(child: RigElementKey,
@@ -427,7 +427,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_name_metadata"></a>
 
-#### set_name_metadata
+#### set\_name\_metadata
 
 ```python
 def set_name_metadata(item: RigElementKey, metadata_name: Name,
@@ -447,7 +447,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_name_array_metadata"></a>
 
-#### set_name_array_metadata
+#### set\_name\_array\_metadata
 
 ```python
 def set_name_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -467,7 +467,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_local_transform_by_index"></a>
 
-#### set_local_transform_by_index
+#### set\_local\_transform\_by\_index
 
 ```python
 def set_local_transform_by_index(element_index: int,
@@ -491,7 +491,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_local_transform"></a>
 
-#### set_local_transform
+#### set\_local\_transform
 
 ```python
 def set_local_transform(key: RigElementKey,
@@ -515,7 +515,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_linear_color_metadata"></a>
 
-#### set_linear_color_metadata
+#### set\_linear\_color\_metadata
 
 ```python
 def set_linear_color_metadata(item: RigElementKey, metadata_name: Name,
@@ -535,7 +535,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_linear_color_array_metadata"></a>
 
-#### set_linear_color_array_metadata
+#### set\_linear\_color\_array\_metadata
 
 ```python
 def set_linear_color_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -555,7 +555,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_int32_metadata"></a>
 
-#### set_int32_metadata
+#### set\_int32\_metadata
 
 ```python
 def set_int32_metadata(item: RigElementKey, metadata_name: Name,
@@ -575,7 +575,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_int32_array_metadata"></a>
 
-#### set_int32_array_metadata
+#### set\_int32\_array\_metadata
 
 ```python
 def set_int32_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -595,7 +595,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_global_transform_by_index"></a>
 
-#### set_global_transform_by_index
+#### set\_global\_transform\_by\_index
 
 ```python
 def set_global_transform_by_index(element_index: int,
@@ -619,7 +619,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_global_transform"></a>
 
-#### set_global_transform
+#### set\_global\_transform
 
 ```python
 def set_global_transform(key: RigElementKey,
@@ -643,7 +643,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_float_metadata"></a>
 
-#### set_float_metadata
+#### set\_float\_metadata
 
 ```python
 def set_float_metadata(item: RigElementKey, metadata_name: Name,
@@ -663,7 +663,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_float_array_metadata"></a>
 
-#### set_float_array_metadata
+#### set\_float\_array\_metadata
 
 ```python
 def set_float_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -683,7 +683,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_curve_value_by_index"></a>
 
-#### set_curve_value_by_index
+#### set\_curve\_value\_by\_index
 
 ```python
 def set_curve_value_by_index(element_index: int,
@@ -701,7 +701,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_curve_value"></a>
 
-#### set_curve_value
+#### set\_curve\_value
 
 ```python
 def set_curve_value(key: RigElementKey,
@@ -719,7 +719,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_visibility_by_index"></a>
 
-#### set_control_visibility_by_index
+#### set\_control\_visibility\_by\_index
 
 ```python
 def set_control_visibility_by_index(element_index: int,
@@ -735,7 +735,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_visibility"></a>
 
-#### set_control_visibility
+#### set\_control\_visibility
 
 ```python
 def set_control_visibility(key: RigElementKey, visibility: bool) -> None
@@ -750,7 +750,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_value_by_index"></a>
 
-#### set_control_value_by_index
+#### set\_control\_value\_by\_index
 
 ```python
 def set_control_value_by_index(
@@ -773,7 +773,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_value"></a>
 
-#### set_control_value
+#### set\_control\_value
 
 ```python
 def set_control_value(
@@ -796,7 +796,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_shape_transform_by_index"></a>
 
-#### set_control_shape_transform_by_index
+#### set\_control\_shape\_transform\_by\_index
 
 ```python
 def set_control_shape_transform_by_index(element_index: int,
@@ -816,7 +816,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_shape_transform"></a>
 
-#### set_control_shape_transform
+#### set\_control\_shape\_transform
 
 ```python
 def set_control_shape_transform(key: RigElementKey,
@@ -836,7 +836,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_settings_by_index"></a>
 
-#### set_control_settings_by_index
+#### set\_control\_settings\_by\_index
 
 ```python
 def set_control_settings_by_index(element_index: int,
@@ -858,7 +858,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_settings"></a>
 
-#### set_control_settings
+#### set\_control\_settings
 
 ```python
 def set_control_settings(key: RigElementKey,
@@ -880,7 +880,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_preferred_rotator_by_index"></a>
 
-#### set_control_preferred_rotator_by_index
+#### set\_control\_preferred\_rotator\_by\_index
 
 ```python
 def set_control_preferred_rotator_by_index(
@@ -901,7 +901,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_preferred_rotator"></a>
 
-#### set_control_preferred_rotator
+#### set\_control\_preferred\_rotator
 
 ```python
 def set_control_preferred_rotator(key: RigElementKey,
@@ -921,7 +921,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_preferred_rotation_order_by_index"></a>
 
-#### set_control_preferred_rotation_order_by_index
+#### set\_control\_preferred\_rotation\_order\_by\_index
 
 ```python
 def set_control_preferred_rotation_order_by_index(
@@ -937,7 +937,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_preferred_rotation_order"></a>
 
-#### set_control_preferred_rotation_order
+#### set\_control\_preferred\_rotation\_order
 
 ```python
 def set_control_preferred_rotation_order(
@@ -953,7 +953,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_preferred_euler_angles_by_index"></a>
 
-#### set_control_preferred_euler_angles_by_index
+#### set\_control\_preferred\_euler\_angles\_by\_index
 
 ```python
 def set_control_preferred_euler_angles_by_index(
@@ -976,7 +976,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_preferred_euler_angles"></a>
 
-#### set_control_preferred_euler_angles
+#### set\_control\_preferred\_euler\_angles
 
 ```python
 def set_control_preferred_euler_angles(key: RigElementKey,
@@ -998,7 +998,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_offset_transform_by_index"></a>
 
-#### set_control_offset_transform_by_index
+#### set\_control\_offset\_transform\_by\_index
 
 ```python
 def set_control_offset_transform_by_index(
@@ -1023,7 +1023,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_control_offset_transform"></a>
 
-#### set_control_offset_transform
+#### set\_control\_offset\_transform
 
 ```python
 def set_control_offset_transform(key: RigElementKey,
@@ -1047,7 +1047,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_connector_settings_by_index"></a>
 
-#### set_connector_settings_by_index
+#### set\_connector\_settings\_by\_index
 
 ```python
 def set_connector_settings_by_index(
@@ -1070,7 +1070,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_connector_settings"></a>
 
-#### set_connector_settings
+#### set\_connector\_settings
 
 ```python
 def set_connector_settings(key: RigElementKey,
@@ -1092,7 +1092,7 @@ Args:
 
 <a id="unreal.RigHierarchy.set_bool_metadata"></a>
 
-#### set_bool_metadata
+#### set\_bool\_metadata
 
 ```python
 def set_bool_metadata(item: RigElementKey, metadata_name: Name,
@@ -1112,7 +1112,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.set_bool_array_metadata"></a>
 
-#### set_bool_array_metadata
+#### set\_bool\_array\_metadata
 
 ```python
 def set_bool_array_metadata(item: RigElementKey, metadata_name: Name,
@@ -1132,7 +1132,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.send_auto_key_event"></a>
 
-#### send_auto_key_event
+#### send\_auto\_key\_event
 
 ```python
 def send_auto_key_event(element: RigElementKey,
@@ -1150,7 +1150,7 @@ Args:
 
 <a id="unreal.RigHierarchy.restore_sockets_from_states"></a>
 
-#### restore_sockets_from_states
+#### restore\_sockets\_from\_states
 
 ```python
 def restore_sockets_from_states(
@@ -1170,7 +1170,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.restore_connectors_from_states"></a>
 
-#### restore_connectors_from_states
+#### restore\_connectors\_from\_states
 
 ```python
 def restore_connectors_from_states(
@@ -1190,7 +1190,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.reset_to_default"></a>
 
-#### reset_to_default
+#### reset\_to\_default
 
 ```python
 def reset_to_default() -> None
@@ -1202,7 +1202,7 @@ hierarchy on the default object.
 
 <a id="unreal.RigHierarchy.reset_pose_to_initial"></a>
 
-#### reset_pose_to_initial
+#### reset\_pose\_to\_initial
 
 ```python
 def reset_pose_to_initial(type_filter: RigElementType) -> None
@@ -1216,7 +1216,7 @@ Args:
 
 <a id="unreal.RigHierarchy.reset_curve_values"></a>
 
-#### reset_curve_values
+#### reset\_curve\_values
 
 ```python
 def reset_curve_values() -> None
@@ -1238,7 +1238,7 @@ Clears the whole hierarchy and removes all elements.
 
 <a id="unreal.RigHierarchy.remove_metadata"></a>
 
-#### remove_metadata
+#### remove\_metadata
 
 ```python
 def remove_metadata(item: RigElementKey, metadata_name: Name) -> bool
@@ -1256,7 +1256,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.remove_all_metadata"></a>
 
-#### remove_all_metadata
+#### remove\_all\_metadata
 
 ```python
 def remove_all_metadata(item: RigElementKey) -> bool
@@ -1287,7 +1287,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_vector2d"></a>
 
-#### make_control_value_from_vector2d
+#### make\_control\_value\_from\_vector2d
 
 ```python
 @classmethod
@@ -1305,7 +1305,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_vector"></a>
 
-#### make_control_value_from_vector
+#### make\_control\_value\_from\_vector
 
 ```python
 @classmethod
@@ -1323,7 +1323,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_transform_no_scale"></a>
 
-#### make_control_value_from_transform_no_scale
+#### make\_control\_value\_from\_transform\_no\_scale
 
 ```python
 @classmethod
@@ -1342,7 +1342,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_transform"></a>
 
-#### make_control_value_from_transform
+#### make\_control\_value\_from\_transform
 
 ```python
 @classmethod
@@ -1361,7 +1361,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_rotator"></a>
 
-#### make_control_value_from_rotator
+#### make\_control\_value\_from\_rotator
 
 ```python
 @classmethod
@@ -1379,7 +1379,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_int"></a>
 
-#### make_control_value_from_int
+#### make\_control\_value\_from\_int
 
 ```python
 @classmethod
@@ -1397,7 +1397,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_float"></a>
 
-#### make_control_value_from_float
+#### make\_control\_value\_from\_float
 
 ```python
 @classmethod
@@ -1415,7 +1415,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_euler_transform"></a>
 
-#### make_control_value_from_euler_transform
+#### make\_control\_value\_from\_euler\_transform
 
 ```python
 @classmethod
@@ -1434,7 +1434,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.make_control_value_from_bool"></a>
 
-#### make_control_value_from_bool
+#### make\_control\_value\_from\_bool
 
 ```python
 @classmethod
@@ -1452,7 +1452,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.is_valid_index"></a>
 
-#### is_valid_index
+#### is\_valid\_index
 
 ```python
 def is_valid_index(element_index: int) -> bool
@@ -1469,7 +1469,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.is_selected_by_index"></a>
 
-#### is_selected_by_index
+#### is\_selected\_by\_index
 
 ```python
 def is_selected_by_index(index: int) -> bool
@@ -1486,7 +1486,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.is_selected"></a>
 
-#### is_selected
+#### is\_selected
 
 ```python
 def is_selected(key: RigElementKey) -> bool
@@ -1503,7 +1503,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.is_procedural"></a>
 
-#### is_procedural
+#### is\_procedural
 
 ```python
 def is_procedural(key: RigElementKey) -> bool
@@ -1520,7 +1520,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.is_parented_to"></a>
 
-#### is_parented_to
+#### is\_parented\_to
 
 ```python
 def is_parented_to(child: RigElementKey, parent: RigElementKey) -> bool
@@ -1538,7 +1538,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.is_curve_value_set_by_index"></a>
 
-#### is_curve_value_set_by_index
+#### is\_curve\_value\_set\_by\_index
 
 ```python
 def is_curve_value_set_by_index(element_index: int) -> bool
@@ -1555,7 +1555,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.is_curve_value_set"></a>
 
-#### is_curve_value_set
+#### is\_curve\_value\_set
 
 ```python
 def is_curve_value_set(key: RigElementKey) -> bool
@@ -1572,7 +1572,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.is_controller_available"></a>
 
-#### is_controller_available
+#### is\_controller\_available
 
 ```python
 def is_controller_available() -> bool
@@ -1588,7 +1588,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.has_tag"></a>
 
-#### has_tag
+#### has\_tag
 
 ```python
 def has_tag(item: RigElementKey, tag: Name) -> bool
@@ -1607,7 +1607,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_vector_metadata"></a>
 
-#### get_vector_metadata
+#### get\_vector\_metadata
 
 ```python
 def get_vector_metadata(item: RigElementKey, metadata_name: Name,
@@ -1627,7 +1627,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_vector_from_control_value"></a>
 
-#### get_vector_from_control_value
+#### get\_vector\_from\_control\_value
 
 ```python
 @classmethod
@@ -1645,7 +1645,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_vector_array_metadata"></a>
 
-#### get_vector_array_metadata
+#### get\_vector\_array\_metadata
 
 ```python
 def get_vector_array_metadata(item: RigElementKey,
@@ -1664,7 +1664,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_vector2d_from_control_value"></a>
 
-#### get_vector2d_from_control_value
+#### get\_vector2d\_from\_control\_value
 
 ```python
 @classmethod
@@ -1682,7 +1682,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_transform_no_scale_from_control_value"></a>
 
-#### get_transform_no_scale_from_control_value
+#### get\_transform\_no\_scale\_from\_control\_value
 
 ```python
 @classmethod
@@ -1701,7 +1701,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_transform_metadata"></a>
 
-#### get_transform_metadata
+#### get\_transform\_metadata
 
 ```python
 def get_transform_metadata(item: RigElementKey, metadata_name: Name,
@@ -1721,7 +1721,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_transform_from_control_value"></a>
 
-#### get_transform_from_control_value
+#### get\_transform\_from\_control\_value
 
 ```python
 @classmethod
@@ -1739,7 +1739,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_transform_array_metadata"></a>
 
-#### get_transform_array_metadata
+#### get\_transform\_array\_metadata
 
 ```python
 def get_transform_array_metadata(item: RigElementKey,
@@ -1758,7 +1758,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_tags"></a>
 
-#### get_tags
+#### get\_tags
 
 ```python
 def get_tags(item: RigElementKey) -> Array[Name]
@@ -1776,7 +1776,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_socket_states"></a>
 
-#### get_socket_states
+#### get\_socket\_states
 
 ```python
 def get_socket_states() -> Array[RigSocketState]
@@ -1790,7 +1790,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_sockets"></a>
 
-#### get_sockets
+#### get\_sockets
 
 ```python
 def get_sockets(traverse: bool = True) -> Array[RigElementKey]
@@ -1807,7 +1807,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_selected_keys"></a>
 
-#### get_selected_keys
+#### get\_selected\_keys
 
 ```python
 def get_selected_keys(
@@ -1827,7 +1827,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_rule_manager"></a>
 
-#### get_rule_manager
+#### get\_rule\_manager
 
 ```python
 def get_rule_manager(create_if_needed: bool = True) -> ModularRigRuleManager
@@ -1846,7 +1846,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_rotator_metadata"></a>
 
-#### get_rotator_metadata
+#### get\_rotator\_metadata
 
 ```python
 def get_rotator_metadata(item: RigElementKey, metadata_name: Name,
@@ -1866,7 +1866,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_rotator_from_control_value"></a>
 
-#### get_rotator_from_control_value
+#### get\_rotator\_from\_control\_value
 
 ```python
 @classmethod
@@ -1884,7 +1884,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_rotator_array_metadata"></a>
 
-#### get_rotator_array_metadata
+#### get\_rotator\_array\_metadata
 
 ```python
 def get_rotator_array_metadata(item: RigElementKey,
@@ -1903,7 +1903,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_root_elements"></a>
 
-#### get_root_elements
+#### get\_root\_elements
 
 ```python
 def get_root_elements() -> Array[RigElementKey]
@@ -1917,7 +1917,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_rig_element_key_metadata"></a>
 
-#### get_rig_element_key_metadata
+#### get\_rig\_element\_key\_metadata
 
 ```python
 def get_rig_element_key_metadata(
@@ -1938,7 +1938,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_rig_element_key_array_metadata"></a>
 
-#### get_rig_element_key_array_metadata
+#### get\_rig\_element\_key\_array\_metadata
 
 ```python
 def get_rig_element_key_array_metadata(
@@ -1957,7 +1957,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_references"></a>
 
-#### get_references
+#### get\_references
 
 ```python
 def get_references(traverse: bool = True) -> Array[RigElementKey]
@@ -1974,7 +1974,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_quat_metadata"></a>
 
-#### get_quat_metadata
+#### get\_quat\_metadata
 
 ```python
 def get_quat_metadata(item: RigElementKey, metadata_name: Name,
@@ -1994,7 +1994,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_quat_array_metadata"></a>
 
-#### get_quat_array_metadata
+#### get\_quat\_array\_metadata
 
 ```python
 def get_quat_array_metadata(item: RigElementKey,
@@ -2013,7 +2013,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_previous_parent"></a>
 
-#### get_previous_parent
+#### get\_previous\_parent
 
 ```python
 def get_previous_parent(key: RigElementKey) -> RigElementKey
@@ -2030,7 +2030,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_previous_name"></a>
 
-#### get_previous_name
+#### get\_previous\_name
 
 ```python
 def get_previous_name(key: RigElementKey) -> Name
@@ -2047,7 +2047,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_pose"></a>
 
-#### get_pose
+#### get\_pose
 
 ```python
 def get_pose(initial: bool = False,
@@ -2066,7 +2066,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_physics_keys"></a>
 
-#### get_physics_keys
+#### get\_physics\_keys
 
 ```python
 def get_physics_keys(traverse: bool = True) -> Array[RigElementKey]
@@ -2083,7 +2083,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_parent_weight_array"></a>
 
-#### get_parent_weight_array
+#### get\_parent\_weight\_array
 
 ```python
 def get_parent_weight_array(child: RigElementKey,
@@ -2102,7 +2102,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_parent_weight"></a>
 
-#### get_parent_weight
+#### get\_parent\_weight
 
 ```python
 def get_parent_weight(child: RigElementKey,
@@ -2123,7 +2123,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_parent_transform_by_index"></a>
 
-#### get_parent_transform_by_index
+#### get\_parent\_transform\_by\_index
 
 ```python
 def get_parent_transform_by_index(element_index: int,
@@ -2143,7 +2143,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_parent_transform"></a>
 
-#### get_parent_transform
+#### get\_parent\_transform
 
 ```python
 def get_parent_transform(key: RigElementKey,
@@ -2163,7 +2163,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_parents"></a>
 
-#### get_parents
+#### get\_parents
 
 ```python
 def get_parents(key: RigElementKey,
@@ -2182,7 +2182,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_number_of_parents"></a>
 
-#### get_number_of_parents
+#### get\_number\_of\_parents
 
 ```python
 def get_number_of_parents(key: RigElementKey) -> int
@@ -2199,7 +2199,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_nulls"></a>
 
-#### get_nulls
+#### get\_nulls
 
 ```python
 def get_nulls(traverse: bool = True) -> Array[RigElementKey]
@@ -2216,7 +2216,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_name_space_f_name"></a>
 
-#### get_name_space_f_name
+#### get\_name\_space\_f\_name
 
 ```python
 def get_name_space_f_name(item: RigElementKey) -> Name
@@ -2233,7 +2233,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_name_space"></a>
 
-#### get_name_space
+#### get\_name\_space
 
 ```python
 def get_name_space(item: RigElementKey) -> str
@@ -2250,7 +2250,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_name_metadata"></a>
 
-#### get_name_metadata
+#### get\_name\_metadata
 
 ```python
 def get_name_metadata(item: RigElementKey, metadata_name: Name,
@@ -2270,7 +2270,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_name_array_metadata"></a>
 
-#### get_name_array_metadata
+#### get\_name\_array\_metadata
 
 ```python
 def get_name_array_metadata(item: RigElementKey,
@@ -2289,7 +2289,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_module_path_f_name"></a>
 
-#### get_module_path_f_name
+#### get\_module\_path\_f\_name
 
 ```python
 def get_module_path_f_name(item: RigElementKey) -> Name
@@ -2306,7 +2306,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_module_path"></a>
 
-#### get_module_path
+#### get\_module\_path
 
 ```python
 def get_module_path(item: RigElementKey) -> str
@@ -2323,7 +2323,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_metadata_type"></a>
 
-#### get_metadata_type
+#### get\_metadata\_type
 
 ```python
 def get_metadata_type(item: RigElementKey,
@@ -2342,7 +2342,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_metadata_names"></a>
 
-#### get_metadata_names
+#### get\_metadata\_names
 
 ```python
 def get_metadata_names(item: RigElementKey) -> Array[Name]
@@ -2359,7 +2359,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_local_transform_by_index"></a>
 
-#### get_local_transform_by_index
+#### get\_local\_transform\_by\_index
 
 ```python
 def get_local_transform_by_index(element_index: int,
@@ -2379,7 +2379,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_local_transform"></a>
 
-#### get_local_transform
+#### get\_local\_transform
 
 ```python
 def get_local_transform(key: RigElementKey,
@@ -2399,7 +2399,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_local_index"></a>
 
-#### get_local_index
+#### get\_local\_index
 
 ```python
 def get_local_index(key: RigElementKey) -> int
@@ -2416,7 +2416,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_local_control_shape_transform_by_index"></a>
 
-#### get_local_control_shape_transform_by_index
+#### get\_local\_control\_shape\_transform\_by\_index
 
 ```python
 def get_local_control_shape_transform_by_index(element_index: int,
@@ -2436,7 +2436,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_local_control_shape_transform"></a>
 
-#### get_local_control_shape_transform
+#### get\_local\_control\_shape\_transform
 
 ```python
 def get_local_control_shape_transform(key: RigElementKey,
@@ -2455,7 +2455,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_linear_color_metadata"></a>
 
-#### get_linear_color_metadata
+#### get\_linear\_color\_metadata
 
 ```python
 def get_linear_color_metadata(item: RigElementKey, metadata_name: Name,
@@ -2475,7 +2475,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_linear_color_array_metadata"></a>
 
-#### get_linear_color_array_metadata
+#### get\_linear\_color\_array\_metadata
 
 ```python
 def get_linear_color_array_metadata(item: RigElementKey,
@@ -2494,7 +2494,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_keys"></a>
 
-#### get_keys
+#### get\_keys
 
 ```python
 def get_keys(element_indices: Array[int]) -> Array[RigElementKey]
@@ -2511,7 +2511,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_key"></a>
 
-#### get_key
+#### get\_key
 
 ```python
 def get_key(element_index: int) -> RigElementKey
@@ -2528,7 +2528,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_int_from_control_value"></a>
 
-#### get_int_from_control_value
+#### get\_int\_from\_control\_value
 
 ```python
 @classmethod
@@ -2546,7 +2546,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_int32_metadata"></a>
 
-#### get_int32_metadata
+#### get\_int32\_metadata
 
 ```python
 def get_int32_metadata(item: RigElementKey, metadata_name: Name,
@@ -2566,7 +2566,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_int32_array_metadata"></a>
 
-#### get_int32_array_metadata
+#### get\_int32\_array\_metadata
 
 ```python
 def get_int32_array_metadata(item: RigElementKey,
@@ -2585,7 +2585,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_index"></a>
 
-#### get_index
+#### get\_index
 
 ```python
 def get_index(key: RigElementKey) -> int
@@ -2602,7 +2602,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_global_transform_by_index"></a>
 
-#### get_global_transform_by_index
+#### get\_global\_transform\_by\_index
 
 ```python
 def get_global_transform_by_index(element_index: int,
@@ -2622,7 +2622,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_global_transform"></a>
 
-#### get_global_transform
+#### get\_global\_transform
 
 ```python
 def get_global_transform(key: RigElementKey,
@@ -2642,7 +2642,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_global_control_shape_transform_by_index"></a>
 
-#### get_global_control_shape_transform_by_index
+#### get\_global\_control\_shape\_transform\_by\_index
 
 ```python
 def get_global_control_shape_transform_by_index(element_index: int,
@@ -2662,7 +2662,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_global_control_shape_transform"></a>
 
-#### get_global_control_shape_transform
+#### get\_global\_control\_shape\_transform
 
 ```python
 def get_global_control_shape_transform(key: RigElementKey,
@@ -2681,7 +2681,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_global_control_offset_transform_by_index"></a>
 
-#### get_global_control_offset_transform_by_index
+#### get\_global\_control\_offset\_transform\_by\_index
 
 ```python
 def get_global_control_offset_transform_by_index(element_index: int,
@@ -2701,7 +2701,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_global_control_offset_transform"></a>
 
-#### get_global_control_offset_transform
+#### get\_global\_control\_offset\_transform
 
 ```python
 def get_global_control_offset_transform(key: RigElementKey,
@@ -2720,7 +2720,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_float_metadata"></a>
 
-#### get_float_metadata
+#### get\_float\_metadata
 
 ```python
 def get_float_metadata(item: RigElementKey, metadata_name: Name,
@@ -2740,7 +2740,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_float_from_control_value"></a>
 
-#### get_float_from_control_value
+#### get\_float\_from\_control\_value
 
 ```python
 @classmethod
@@ -2758,7 +2758,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_float_array_metadata"></a>
 
-#### get_float_array_metadata
+#### get\_float\_array\_metadata
 
 ```python
 def get_float_array_metadata(item: RigElementKey,
@@ -2777,7 +2777,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_first_parent"></a>
 
-#### get_first_parent
+#### get\_first\_parent
 
 ```python
 def get_first_parent(key: RigElementKey) -> RigElementKey
@@ -2794,7 +2794,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_euler_transform_from_control_value"></a>
 
-#### get_euler_transform_from_control_value
+#### get\_euler\_transform\_from\_control\_value
 
 ```python
 @classmethod
@@ -2813,7 +2813,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_default_parent"></a>
 
-#### get_default_parent
+#### get\_default\_parent
 
 ```python
 def get_default_parent(key: RigElementKey) -> RigElementKey
@@ -2830,7 +2830,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_curve_value_by_index"></a>
 
-#### get_curve_value_by_index
+#### get\_curve\_value\_by\_index
 
 ```python
 def get_curve_value_by_index(element_index: int) -> float
@@ -2847,7 +2847,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_curve_value"></a>
 
-#### get_curve_value
+#### get\_curve\_value
 
 ```python
 def get_curve_value(key: RigElementKey) -> float
@@ -2864,7 +2864,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_curves"></a>
 
-#### get_curves
+#### get\_curves
 
 ```python
 def get_curves() -> Array[RigElementKey]
@@ -2878,7 +2878,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_control_value_by_index"></a>
 
-#### get_control_value_by_index
+#### get\_control\_value\_by\_index
 
 ```python
 def get_control_value_by_index(
@@ -2899,7 +2899,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_control_value"></a>
 
-#### get_control_value
+#### get\_control\_value
 
 ```python
 def get_control_value(
@@ -2920,7 +2920,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_control_preferred_rotator_by_index"></a>
 
-#### get_control_preferred_rotator_by_index
+#### get\_control\_preferred\_rotator\_by\_index
 
 ```python
 def get_control_preferred_rotator_by_index(element_index: int,
@@ -2939,7 +2939,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_control_preferred_rotator"></a>
 
-#### get_control_preferred_rotator
+#### get\_control\_preferred\_rotator
 
 ```python
 def get_control_preferred_rotator(key: RigElementKey,
@@ -2958,7 +2958,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_control_preferred_euler_rotation_order_by_index"></a>
 
-#### get_control_preferred_euler_rotation_order_by_index
+#### get\_control\_preferred\_euler\_rotation\_order\_by\_index
 
 ```python
 def get_control_preferred_euler_rotation_order_by_index(
@@ -2977,7 +2977,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_control_preferred_euler_rotation_order"></a>
 
-#### get_control_preferred_euler_rotation_order
+#### get\_control\_preferred\_euler\_rotation\_order
 
 ```python
 def get_control_preferred_euler_rotation_order(key: RigElementKey,
@@ -2997,7 +2997,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_control_preferred_euler_angles_by_index"></a>
 
-#### get_control_preferred_euler_angles_by_index
+#### get\_control\_preferred\_euler\_angles\_by\_index
 
 ```python
 def get_control_preferred_euler_angles_by_index(
@@ -3019,7 +3019,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_control_preferred_euler_angles"></a>
 
-#### get_control_preferred_euler_angles
+#### get\_control\_preferred\_euler\_angles
 
 ```python
 def get_control_preferred_euler_angles(key: RigElementKey,
@@ -3040,7 +3040,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_controller"></a>
 
-#### get_controller
+#### get\_controller
 
 ```python
 def get_controller(create_if_needed: bool = True) -> RigHierarchyController
@@ -3060,7 +3060,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_controls"></a>
 
-#### get_controls
+#### get\_controls
 
 ```python
 def get_controls(traverse: bool = True) -> Array[RigElementKey]
@@ -3077,7 +3077,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_connector_states"></a>
 
-#### get_connector_states
+#### get\_connector\_states
 
 ```python
 def get_connector_states() -> Array[RigConnectorState]
@@ -3091,7 +3091,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_connectors"></a>
 
-#### get_connectors
+#### get\_connectors
 
 ```python
 def get_connectors(traverse: bool = True) -> Array[RigElementKey]
@@ -3108,7 +3108,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_children"></a>
 
-#### get_children
+#### get\_children
 
 ```python
 def get_children(key: RigElementKey,
@@ -3127,7 +3127,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_bool_metadata"></a>
 
-#### get_bool_metadata
+#### get\_bool\_metadata
 
 ```python
 def get_bool_metadata(item: RigElementKey, metadata_name: Name,
@@ -3147,7 +3147,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_bool_array_metadata"></a>
 
-#### get_bool_array_metadata
+#### get\_bool\_array\_metadata
 
 ```python
 def get_bool_array_metadata(item: RigElementKey,
@@ -3166,7 +3166,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_bones"></a>
 
-#### get_bones
+#### get\_bones
 
 ```python
 def get_bones(traverse: bool = True) -> Array[RigElementKey]
@@ -3183,7 +3183,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.get_all_keys"></a>
 
-#### get_all_keys
+#### get\_all\_keys
 
 ```python
 def get_all_keys(traverse: bool = True) -> Array[RigElementKey]
@@ -3200,7 +3200,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.find_null"></a>
 
-#### find_null
+#### find\_null
 
 ```python
 def find_null(key: RigElementKey) -> RigNullElement
@@ -3217,7 +3217,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.find_control"></a>
 
-#### find_control
+#### find\_control
 
 ```python
 def find_control(key: RigElementKey) -> RigControlElement
@@ -3234,7 +3234,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.find_bone"></a>
 
-#### find_bone
+#### find\_bone
 
 ```python
 def find_bone(key: RigElementKey) -> RigBoneElement
@@ -3251,7 +3251,7 @@ Returns:
 
 <a id="unreal.RigHierarchy.copy_pose"></a>
 
-#### copy_pose
+#### copy\_pose
 
 ```python
 def copy_pose(hierarchy: RigHierarchy,
@@ -3273,7 +3273,7 @@ Args:
 
 <a id="unreal.RigHierarchy.copy_hierarchy"></a>
 
-#### copy_hierarchy
+#### copy\_hierarchy
 
 ```python
 def copy_hierarchy(hierarchy: RigHierarchy) -> None

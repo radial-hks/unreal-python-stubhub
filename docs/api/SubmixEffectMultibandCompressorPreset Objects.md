@@ -38,7 +38,7 @@ def settings(value: SubmixEffectMultibandCompressorSettings) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectMultibandCompressorSettings) -> None
@@ -52,7 +52,7 @@ Args:
 
 <a id="unreal.SubmixEffectMultibandCompressorPreset.set_external_submix"></a>
 
-#### set_external_submix
+#### set\_external\_submix
 
 ```python
 def set_external_submix(submix: SoundSubmix) -> None
@@ -67,7 +67,7 @@ Args:
 
 <a id="unreal.SubmixEffectMultibandCompressorPreset.set_audio_bus"></a>
 
-#### set_audio_bus
+#### set\_audio\_bus
 
 ```python
 def set_audio_bus(audio_bus: AudioBus) -> None
@@ -82,7 +82,7 @@ Args:
 
 <a id="unreal.SubmixEffectMultibandCompressorPreset.reset_key"></a>
 
-#### reset_key
+#### reset\_key
 
 ```python
 def reset_key() -> None

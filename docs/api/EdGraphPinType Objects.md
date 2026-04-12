@@ -13,7 +13,7 @@ Struct used to define the type of information carried on this pin
 
 <a id="unreal.EdGraphPinType.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

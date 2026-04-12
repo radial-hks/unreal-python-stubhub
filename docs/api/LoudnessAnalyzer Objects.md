@@ -47,7 +47,7 @@ def settings(value: LoudnessSettings) -> None
 
 <a id="unreal.LoudnessAnalyzer.on_overall_loudness_results"></a>
 
-#### on_overall_loudness_results
+#### on\_overall\_loudness\_results
 
 ```python
 @property
@@ -58,7 +58,7 @@ def on_overall_loudness_results() -> OnOverallLoudnessResults
 
 <a id="unreal.LoudnessAnalyzer.on_overall_loudness_results"></a>
 
-#### on_overall_loudness_results
+#### on\_overall\_loudness\_results
 
 ```python
 @on_overall_loudness_results.setter
@@ -67,7 +67,7 @@ def on_overall_loudness_results(value: OnOverallLoudnessResults) -> None
 
 <a id="unreal.LoudnessAnalyzer.on_per_channel_loudness_results"></a>
 
-#### on_per_channel_loudness_results
+#### on\_per\_channel\_loudness\_results
 
 ```python
 @property
@@ -78,7 +78,7 @@ def on_per_channel_loudness_results() -> OnPerChannelLoudnessResults
 
 <a id="unreal.LoudnessAnalyzer.on_per_channel_loudness_results"></a>
 
-#### on_per_channel_loudness_results
+#### on\_per\_channel\_loudness\_results
 
 ```python
 @on_per_channel_loudness_results.setter
@@ -88,7 +88,7 @@ def on_per_channel_loudness_results(
 
 <a id="unreal.LoudnessAnalyzer.on_latest_overall_loudness_results"></a>
 
-#### on_latest_overall_loudness_results
+#### on\_latest\_overall\_loudness\_results
 
 ```python
 @property
@@ -99,7 +99,7 @@ def on_latest_overall_loudness_results() -> OnLatestOverallLoudnessResults
 
 <a id="unreal.LoudnessAnalyzer.on_latest_overall_loudness_results"></a>
 
-#### on_latest_overall_loudness_results
+#### on\_latest\_overall\_loudness\_results
 
 ```python
 @on_latest_overall_loudness_results.setter
@@ -109,7 +109,7 @@ def on_latest_overall_loudness_results(
 
 <a id="unreal.LoudnessAnalyzer.on_latest_per_channel_loudness_results"></a>
 
-#### on_latest_per_channel_loudness_results
+#### on\_latest\_per\_channel\_loudness\_results
 
 ```python
 @property
@@ -121,7 +121,7 @@ def on_latest_per_channel_loudness_results(
 
 <a id="unreal.LoudnessAnalyzer.on_latest_per_channel_loudness_results"></a>
 
-#### on_latest_per_channel_loudness_results
+#### on\_latest\_per\_channel\_loudness\_results
 
 ```python
 @on_latest_per_channel_loudness_results.setter

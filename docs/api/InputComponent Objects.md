@@ -34,7 +34,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Input/index.html
 
 <a id="unreal.InputComponent.was_controller_key_just_released"></a>
 
-#### was_controller_key_just_released
+#### was\_controller\_key\_just\_released
 
 ```python
 def was_controller_key_just_released(key: Key) -> bool
@@ -52,7 +52,7 @@ Returns:
 
 <a id="unreal.InputComponent.was_controller_key_just_pressed"></a>
 
-#### was_controller_key_just_pressed
+#### was\_controller\_key\_just\_pressed
 
 ```python
 def was_controller_key_just_pressed(key: Key) -> bool
@@ -70,7 +70,7 @@ Returns:
 
 <a id="unreal.InputComponent.is_controller_key_down"></a>
 
-#### is_controller_key_down
+#### is\_controller\_key\_down
 
 ```python
 def is_controller_key_down(key: Key) -> bool
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.InputComponent.get_touch_state"></a>
 
-#### get_touch_state
+#### get\_touch\_state
 
 ```python
 def get_touch_state(finger_index: int) -> Tuple[float, float, bool]
@@ -112,7 +112,7 @@ Returns:
 
 <a id="unreal.InputComponent.get_controller_vector_key_state"></a>
 
-#### get_controller_vector_key_state
+#### get\_controller\_vector\_key\_state
 
 ```python
 def get_controller_vector_key_state(key: Key) -> Vector
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.InputComponent.get_controller_mouse_delta"></a>
 
-#### get_controller_mouse_delta
+#### get\_controller\_mouse\_delta
 
 ```python
 def get_controller_mouse_delta() -> Tuple[float, float]
@@ -149,7 +149,7 @@ Returns:
 
 <a id="unreal.InputComponent.get_controller_key_time_down"></a>
 
-#### get_controller_key_time_down
+#### get\_controller\_key\_time\_down
 
 ```python
 def get_controller_key_time_down(key: Key) -> float
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.InputComponent.get_controller_analog_stick_state"></a>
 
-#### get_controller_analog_stick_state
+#### get\_controller\_analog\_stick\_state
 
 ```python
 def get_controller_analog_stick_state(
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.InputComponent.get_controller_analog_key_state"></a>
 
-#### get_controller_analog_key_state
+#### get\_controller\_analog\_key\_state
 
 ```python
 def get_controller_analog_key_state(key: Key) -> float

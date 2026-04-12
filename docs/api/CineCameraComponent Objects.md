@@ -110,7 +110,7 @@ def filmback(value: CameraFilmbackSettings) -> None
 
 <a id="unreal.CineCameraComponent.lens_settings"></a>
 
-#### lens_settings
+#### lens\_settings
 
 ```python
 @property
@@ -121,7 +121,7 @@ def lens_settings() -> CameraLensSettings
 
 <a id="unreal.CineCameraComponent.lens_settings"></a>
 
-#### lens_settings
+#### lens\_settings
 
 ```python
 @lens_settings.setter
@@ -130,7 +130,7 @@ def lens_settings(value: CameraLensSettings) -> None
 
 <a id="unreal.CineCameraComponent.focus_settings"></a>
 
-#### focus_settings
+#### focus\_settings
 
 ```python
 @property
@@ -141,7 +141,7 @@ def focus_settings() -> CameraFocusSettings
 
 <a id="unreal.CineCameraComponent.focus_settings"></a>
 
-#### focus_settings
+#### focus\_settings
 
 ```python
 @focus_settings.setter
@@ -150,7 +150,7 @@ def focus_settings(value: CameraFocusSettings) -> None
 
 <a id="unreal.CineCameraComponent.crop_settings"></a>
 
-#### crop_settings
+#### crop\_settings
 
 ```python
 @property
@@ -161,7 +161,7 @@ def crop_settings() -> PlateCropSettings
 
 <a id="unreal.CineCameraComponent.crop_settings"></a>
 
-#### crop_settings
+#### crop\_settings
 
 ```python
 @crop_settings.setter
@@ -170,7 +170,7 @@ def crop_settings(value: PlateCropSettings) -> None
 
 <a id="unreal.CineCameraComponent.current_focal_length"></a>
 
-#### current_focal_length
+#### current\_focal\_length
 
 ```python
 @property
@@ -181,7 +181,7 @@ def current_focal_length() -> float
 
 <a id="unreal.CineCameraComponent.current_focal_length"></a>
 
-#### current_focal_length
+#### current\_focal\_length
 
 ```python
 @current_focal_length.setter
@@ -190,7 +190,7 @@ def current_focal_length(value: float) -> None
 
 <a id="unreal.CineCameraComponent.current_aperture"></a>
 
-#### current_aperture
+#### current\_aperture
 
 ```python
 @property
@@ -201,7 +201,7 @@ def current_aperture() -> float
 
 <a id="unreal.CineCameraComponent.current_aperture"></a>
 
-#### current_aperture
+#### current\_aperture
 
 ```python
 @current_aperture.setter
@@ -210,7 +210,7 @@ def current_aperture(value: float) -> None
 
 <a id="unreal.CineCameraComponent.current_focus_distance"></a>
 
-#### current_focus_distance
+#### current\_focus\_distance
 
 ```python
 @property
@@ -221,7 +221,7 @@ def current_focus_distance() -> float
 
 <a id="unreal.CineCameraComponent.override_custom_near_clipping_plane"></a>
 
-#### override_custom_near_clipping_plane
+#### override\_custom\_near\_clipping\_plane
 
 ```python
 @property
@@ -232,7 +232,7 @@ def override_custom_near_clipping_plane() -> bool
 
 <a id="unreal.CineCameraComponent.override_custom_near_clipping_plane"></a>
 
-#### override_custom_near_clipping_plane
+#### override\_custom\_near\_clipping\_plane
 
 ```python
 @override_custom_near_clipping_plane.setter
@@ -241,7 +241,7 @@ def override_custom_near_clipping_plane(value: bool) -> None
 
 <a id="unreal.CineCameraComponent.custom_near_clipping_plane"></a>
 
-#### custom_near_clipping_plane
+#### custom\_near\_clipping\_plane
 
 ```python
 @property
@@ -252,7 +252,7 @@ def custom_near_clipping_plane() -> float
 
 <a id="unreal.CineCameraComponent.custom_near_clipping_plane"></a>
 
-#### custom_near_clipping_plane
+#### custom\_near\_clipping\_plane
 
 ```python
 @custom_near_clipping_plane.setter
@@ -261,7 +261,7 @@ def custom_near_clipping_plane(value: float) -> None
 
 <a id="unreal.CineCameraComponent.set_lens_preset_by_name"></a>
 
-#### set_lens_preset_by_name
+#### set\_lens\_preset\_by\_name
 
 ```python
 def set_lens_preset_by_name(preset_name: str) -> None
@@ -275,7 +275,7 @@ Args:
 
 <a id="unreal.CineCameraComponent.set_filmback_preset_by_name"></a>
 
-#### set_filmback_preset_by_name
+#### set\_filmback\_preset\_by\_name
 
 ```python
 def set_filmback_preset_by_name(preset_name: str) -> None
@@ -289,7 +289,7 @@ Args:
 
 <a id="unreal.CineCameraComponent.set_crop_preset_by_name"></a>
 
-#### set_crop_preset_by_name
+#### set\_crop\_preset\_by\_name
 
 ```python
 def set_crop_preset_by_name(preset_name: str) -> None
@@ -303,7 +303,7 @@ Args:
 
 <a id="unreal.CineCameraComponent.get_vertical_projection_offset"></a>
 
-#### get_vertical_projection_offset
+#### get\_vertical\_projection\_offset
 
 ```python
 def get_vertical_projection_offset() -> float
@@ -317,7 +317,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_vertical_field_of_view"></a>
 
-#### get_vertical_field_of_view
+#### get\_vertical\_field\_of\_view
 
 ```python
 def get_vertical_field_of_view() -> float
@@ -331,7 +331,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_lens_presets_copy"></a>
 
-#### get_lens_presets_copy
+#### get\_lens\_presets\_copy
 
 ```python
 @classmethod
@@ -346,7 +346,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_lens_preset_name"></a>
 
-#### get_lens_preset_name
+#### get\_lens\_preset\_name
 
 ```python
 def get_lens_preset_name() -> str
@@ -360,7 +360,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_horizontal_projection_offset"></a>
 
-#### get_horizontal_projection_offset
+#### get\_horizontal\_projection\_offset
 
 ```python
 def get_horizontal_projection_offset() -> float
@@ -374,7 +374,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_horizontal_field_of_view"></a>
 
-#### get_horizontal_field_of_view
+#### get\_horizontal\_field\_of\_view
 
 ```python
 def get_horizontal_field_of_view() -> float
@@ -388,7 +388,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_filmback_presets_copy"></a>
 
-#### get_filmback_presets_copy
+#### get\_filmback\_presets\_copy
 
 ```python
 @classmethod
@@ -403,7 +403,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_filmback_preset_name"></a>
 
-#### get_filmback_preset_name
+#### get\_filmback\_preset\_name
 
 ```python
 def get_filmback_preset_name() -> str
@@ -417,7 +417,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_default_filmback_preset_name"></a>
 
-#### get_default_filmback_preset_name
+#### get\_default\_filmback\_preset\_name
 
 ```python
 def get_default_filmback_preset_name() -> str
@@ -431,7 +431,7 @@ Returns:
 
 <a id="unreal.CineCameraComponent.get_crop_preset_name"></a>
 
-#### get_crop_preset_name
+#### get\_crop\_preset\_name
 
 ```python
 def get_crop_preset_name() -> str

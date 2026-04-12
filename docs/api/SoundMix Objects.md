@@ -24,7 +24,7 @@ Sound Mix
 
 <a id="unreal.SoundMix.sound_class_effects"></a>
 
-#### sound_class_effects
+#### sound\_class\_effects
 
 ```python
 @property

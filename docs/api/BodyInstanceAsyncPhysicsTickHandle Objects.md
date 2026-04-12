@@ -13,7 +13,7 @@ Body Instance Async Physics Tick Handle
 
 <a id="unreal.BodyInstanceAsyncPhysicsTickHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

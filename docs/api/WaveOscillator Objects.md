@@ -20,7 +20,7 @@ A wave oscillator for a single number.
 
 <a id="unreal.WaveOscillator.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -73,7 +73,7 @@ def frequency(value: float) -> None
 
 <a id="unreal.WaveOscillator.initial_offset_type"></a>
 
-#### initial_offset_type
+#### initial\_offset\_type
 
 ```python
 @property
@@ -84,7 +84,7 @@ def initial_offset_type() -> InitialWaveOscillatorOffsetType
 
 <a id="unreal.WaveOscillator.initial_offset_type"></a>
 
-#### initial_offset_type
+#### initial\_offset\_type
 
 ```python
 @initial_offset_type.setter

@@ -16,7 +16,7 @@ to provide a wide range of different transformations such as looping, clamping a
 
 <a id="unreal.MovieSceneTimeWarpVariant.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(fixed_play_rate: float = 0.000000) -> None
@@ -24,7 +24,7 @@ def __init__(fixed_play_rate: float = 0.000000) -> None
 
 <a id="unreal.MovieSceneTimeWarpVariant.to_fixed_play_rate"></a>
 
-#### to_fixed_play_rate
+#### to\_fixed\_play\_rate
 
 ```python
 def to_fixed_play_rate() -> float
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.MovieSceneTimeWarpVariant.set_fixed_play_rate"></a>
 
-#### set_fixed_play_rate
+#### set\_fixed\_play\_rate
 
 ```python
 def set_fixed_play_rate(fixed_play_rate: float) -> None

@@ -19,7 +19,7 @@ Represents the appearance of an SAudioVectorscopePanelWidget
 
 <a id="unreal.AudioVectorscopePanelStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -54,7 +54,7 @@ def __init__(
 
 <a id="unreal.AudioVectorscopePanelStyle.value_grid_style"></a>
 
-#### value_grid_style
+#### value\_grid\_style
 
 ```python
 @property
@@ -65,7 +65,7 @@ def value_grid_style() -> SampledSequenceValueGridOverlayStyle
 
 <a id="unreal.AudioVectorscopePanelStyle.value_grid_style"></a>
 
-#### value_grid_style
+#### value\_grid\_style
 
 ```python
 @value_grid_style.setter
@@ -74,7 +74,7 @@ def value_grid_style(value: SampledSequenceValueGridOverlayStyle) -> None
 
 <a id="unreal.AudioVectorscopePanelStyle.vector_viewer_style"></a>
 
-#### vector_viewer_style
+#### vector\_viewer\_style
 
 ```python
 @property
@@ -85,7 +85,7 @@ def vector_viewer_style() -> SampledSequenceVectorViewerStyle
 
 <a id="unreal.AudioVectorscopePanelStyle.vector_viewer_style"></a>
 
-#### vector_viewer_style
+#### vector\_viewer\_style
 
 ```python
 @vector_viewer_style.setter

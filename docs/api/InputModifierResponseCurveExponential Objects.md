@@ -19,7 +19,7 @@ Apply a simple exponential response curve to input values, per axis
 
 <a id="unreal.InputModifierResponseCurveExponential.curve_exponent"></a>
 
-#### curve_exponent
+#### curve\_exponent
 
 ```python
 @property
@@ -30,7 +30,7 @@ def curve_exponent() -> Vector
 
 <a id="unreal.InputModifierResponseCurveExponential.curve_exponent"></a>
 
-#### curve_exponent
+#### curve\_exponent
 
 ```python
 @curve_exponent.setter

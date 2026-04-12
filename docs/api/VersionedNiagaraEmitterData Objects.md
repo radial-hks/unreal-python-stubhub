@@ -42,7 +42,7 @@ Struct containing all of the data that can be different between different emitte
 
 <a id="unreal.VersionedNiagaraEmitterData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -62,7 +62,7 @@ def __init__(
 
 <a id="unreal.VersionedNiagaraEmitterData.local_space"></a>
 
-#### local_space
+#### local\_space
 
 ```python
 @property
@@ -73,7 +73,7 @@ def local_space() -> bool
 
 <a id="unreal.VersionedNiagaraEmitterData.local_space"></a>
 
-#### local_space
+#### local\_space
 
 ```python
 @local_space.setter
@@ -102,7 +102,7 @@ def determinism(value: bool) -> None
 
 <a id="unreal.VersionedNiagaraEmitterData.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @property
@@ -113,7 +113,7 @@ def random_seed() -> int
 
 <a id="unreal.VersionedNiagaraEmitterData.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @random_seed.setter
@@ -122,7 +122,7 @@ def random_seed(value: int) -> None
 
 <a id="unreal.VersionedNiagaraEmitterData.interpolated_spawning"></a>
 
-#### interpolated_spawning
+#### interpolated\_spawning
 
 ```python
 @property
@@ -133,7 +133,7 @@ def interpolated_spawning() -> bool
 
 <a id="unreal.VersionedNiagaraEmitterData.interpolated_spawning"></a>
 
-#### interpolated_spawning
+#### interpolated\_spawning
 
 ```python
 @interpolated_spawning.setter
@@ -142,7 +142,7 @@ def interpolated_spawning(value: bool) -> None
 
 <a id="unreal.VersionedNiagaraEmitterData.sim_target"></a>
 
-#### sim_target
+#### sim\_target
 
 ```python
 @property
@@ -153,7 +153,7 @@ def sim_target() -> NiagaraSimTarget
 
 <a id="unreal.VersionedNiagaraEmitterData.sim_target"></a>
 
-#### sim_target
+#### sim\_target
 
 ```python
 @sim_target.setter
@@ -162,7 +162,7 @@ def sim_target(value: NiagaraSimTarget) -> None
 
 <a id="unreal.VersionedNiagaraEmitterData.fixed_bounds"></a>
 
-#### fixed_bounds
+#### fixed\_bounds
 
 ```python
 @property
@@ -174,7 +174,7 @@ Note: If this is greyed out it means fixed bounds are enabled in the System Prop
 
 <a id="unreal.VersionedNiagaraEmitterData.fixed_bounds"></a>
 
-#### fixed_bounds
+#### fixed\_bounds
 
 ```python
 @fixed_bounds.setter
@@ -183,7 +183,7 @@ def fixed_bounds(value: Box) -> None
 
 <a id="unreal.VersionedNiagaraEmitterData.requires_persistent_i_ds"></a>
 
-#### requires_persistent_i_ds
+#### requires\_persistent\_i\_ds
 
 ```python
 @property
@@ -194,7 +194,7 @@ def requires_persistent_i_ds() -> bool
 
 <a id="unreal.VersionedNiagaraEmitterData.requires_persistent_i_ds"></a>
 
-#### requires_persistent_i_ds
+#### requires\_persistent\_i\_ds
 
 ```python
 @requires_persistent_i_ds.setter
@@ -203,7 +203,7 @@ def requires_persistent_i_ds(value: bool) -> None
 
 <a id="unreal.VersionedNiagaraEmitterData.max_gpu_particles_spawn_per_frame"></a>
 
-#### max_gpu_particles_spawn_per_frame
+#### max\_gpu\_particles\_spawn\_per\_frame
 
 ```python
 @property
@@ -214,7 +214,7 @@ def max_gpu_particles_spawn_per_frame() -> int
 
 <a id="unreal.VersionedNiagaraEmitterData.max_gpu_particles_spawn_per_frame"></a>
 
-#### max_gpu_particles_spawn_per_frame
+#### max\_gpu\_particles\_spawn\_per\_frame
 
 ```python
 @max_gpu_particles_spawn_per_frame.setter
@@ -223,7 +223,7 @@ def max_gpu_particles_spawn_per_frame(value: int) -> None
 
 <a id="unreal.VersionedNiagaraEmitterData.allocation_mode"></a>
 
-#### allocation_mode
+#### allocation\_mode
 
 ```python
 @property
@@ -236,7 +236,7 @@ This setting controls if the allocation size should be automatically determined 
 
 <a id="unreal.VersionedNiagaraEmitterData.allocation_mode"></a>
 
-#### allocation_mode
+#### allocation\_mode
 
 ```python
 @allocation_mode.setter

@@ -13,19 +13,19 @@ EFBXNormal Import Method
 
 <a id="unreal.FBXNormalImportMethod.FBXNIM_COMPUTE_NORMALS"></a>
 
-#### FBXNIM_COMPUTE_NORMALS
+#### FBXNIM\_COMPUTE\_NORMALS
 
 0
 
 <a id="unreal.FBXNormalImportMethod.FBXNIM_IMPORT_NORMALS"></a>
 
-#### FBXNIM_IMPORT_NORMALS
+#### FBXNIM\_IMPORT\_NORMALS
 
 1
 
 <a id="unreal.FBXNormalImportMethod.FBXNIM_IMPORT_NORMALS_AND_TANGENTS"></a>
 
-#### FBXNIM_IMPORT_NORMALS_AND_TANGENTS
+#### FBXNIM\_IMPORT\_NORMALS\_AND\_TANGENTS
 
 2
 

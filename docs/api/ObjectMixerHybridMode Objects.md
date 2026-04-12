@@ -14,19 +14,19 @@ EObject Mixer Hybrid Mode
 
 <a id="unreal.ObjectMixerHybridMode.HYBRID_ACTOR"></a>
 
-#### HYBRID_ACTOR
+#### HYBRID\_ACTOR
 
 0: Makes hybrid rows and selects the actor in the Scene Outliner when an actor with a single matching component is selected.
 
 <a id="unreal.ObjectMixerHybridMode.HYBRID_COMPONENT"></a>
 
-#### HYBRID_COMPONENT
+#### HYBRID\_COMPONENT
 
 1: Makes hybrid rows and selects the component in the Scene Outliner when an actor with a single matching component is selected.
 
 <a id="unreal.ObjectMixerHybridMode.HYBRID_NONE"></a>
 
-#### HYBRID_NONE
+#### HYBRID\_NONE
 
 2: Does not make hybrid rows when an actor with a single matching component is selected. Actor and component rows will be split.
 

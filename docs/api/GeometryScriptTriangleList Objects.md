@@ -14,7 +14,7 @@ Geometry Script Triangle List
 
 <a id="unreal.GeometryScriptTriangleList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptTriangleList.get_triangle_list_length"></a>
 
-#### get_triangle_list_length
+#### get\_triangle\_list\_length
 
 ```python
 def get_triangle_list_length() -> int
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.GeometryScriptTriangleList.get_triangle_list_last_triangle"></a>
 
-#### get_triangle_list_last_triangle
+#### get\_triangle\_list\_last\_triangle
 
 ```python
 def get_triangle_list_last_triangle() -> int
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.GeometryScriptTriangleList.get_triangle_list_item"></a>
 
-#### get_triangle_list_item
+#### get\_triangle\_list\_item
 
 ```python
 def get_triangle_list_item(triangle: int) -> Tuple[IntVector, bool]
@@ -71,7 +71,7 @@ Returns:
 
 <a id="unreal.GeometryScriptTriangleList.convert_triangle_list_to_array"></a>
 
-#### convert_triangle_list_to_array
+#### convert\_triangle\_list\_to\_array
 
 ```python
 def convert_triangle_list_to_array() -> Array[IntVector]

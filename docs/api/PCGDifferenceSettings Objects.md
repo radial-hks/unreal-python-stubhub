@@ -40,7 +40,7 @@ PCGDifference Settings
 
 <a id="unreal.PCGDifferenceSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -51,7 +51,7 @@ def density_function() -> PCGDifferenceDensityFunction
 
 <a id="unreal.PCGDifferenceSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter
@@ -83,7 +83,7 @@ def mode(value: PCGDifferenceMode) -> None
 
 <a id="unreal.PCGDifferenceSettings.diff_metadata"></a>
 
-#### diff_metadata
+#### diff\_metadata
 
 ```python
 @property
@@ -94,7 +94,7 @@ def diff_metadata() -> bool
 
 <a id="unreal.PCGDifferenceSettings.diff_metadata"></a>
 
-#### diff_metadata
+#### diff\_metadata
 
 ```python
 @diff_metadata.setter
@@ -103,7 +103,7 @@ def diff_metadata(value: bool) -> None
 
 <a id="unreal.PCGDifferenceSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @property
@@ -114,7 +114,7 @@ def keep_zero_density_points() -> bool
 
 <a id="unreal.PCGDifferenceSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @keep_zero_density_points.setter

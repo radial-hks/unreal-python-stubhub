@@ -19,13 +19,13 @@ Whether to teleport physics body or not
 
 <a id="unreal.TeleportType.TELEPORT_PHYSICS"></a>
 
-#### TELEPORT_PHYSICS
+#### TELEPORT\_PHYSICS
 
 1: Teleport physics body so that velocity remains the same and no collision occurs
 
 <a id="unreal.TeleportType.RESET_PHYSICS"></a>
 
-#### RESET_PHYSICS
+#### RESET\_PHYSICS
 
 2: Teleport physics body and reset physics state completely
 

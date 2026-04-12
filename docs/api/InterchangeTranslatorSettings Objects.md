@@ -13,7 +13,7 @@ Base class for translator settings, the UInterchangeAssetImportData will store t
 
 <a id="unreal.InterchangeTranslatorSettings.save_settings"></a>
 
-#### save_settings
+#### save\_settings
 
 ```python
 def save_settings() -> None
@@ -24,7 +24,7 @@ Save Settings
 
 <a id="unreal.InterchangeTranslatorSettings.load_settings"></a>
 
-#### load_settings
+#### load\_settings
 
 ```python
 def load_settings() -> None

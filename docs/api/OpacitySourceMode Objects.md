@@ -13,31 +13,31 @@ EOpacity Source Mode
 
 <a id="unreal.OpacitySourceMode.OSM_ALPHA"></a>
 
-#### OSM_ALPHA
+#### OSM\_ALPHA
 
 0
 
 <a id="unreal.OpacitySourceMode.OSM_COLOR_BRIGHTNESS"></a>
 
-#### OSM_COLOR_BRIGHTNESS
+#### OSM\_COLOR\_BRIGHTNESS
 
 1
 
 <a id="unreal.OpacitySourceMode.OSM_RED_CHANNEL"></a>
 
-#### OSM_RED_CHANNEL
+#### OSM\_RED\_CHANNEL
 
 2
 
 <a id="unreal.OpacitySourceMode.OSM_GREEN_CHANNEL"></a>
 
-#### OSM_GREEN_CHANNEL
+#### OSM\_GREEN\_CHANNEL
 
 3
 
 <a id="unreal.OpacitySourceMode.OSM_BLUE_CHANNEL"></a>
 
-#### OSM_BLUE_CHANNEL
+#### OSM\_BLUE\_CHANNEL
 
 4
 

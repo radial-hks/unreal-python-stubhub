@@ -22,7 +22,7 @@ Blending options for animation graphs in Linked Animation Blueprints.
 
 <a id="unreal.AnimGraphBlendOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

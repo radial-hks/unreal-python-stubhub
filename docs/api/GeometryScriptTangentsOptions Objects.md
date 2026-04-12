@@ -19,7 +19,7 @@ Geometry Script Tangents Options
 
 <a id="unreal.GeometryScriptTangentsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: GeometryScriptTangentTypes = GeometryScriptTangentTypes.
@@ -49,7 +49,7 @@ def type(value: GeometryScriptTangentTypes) -> None
 
 <a id="unreal.GeometryScriptTangentsOptions.uv_layer"></a>
 
-#### uv_layer
+#### uv\_layer
 
 ```python
 @property
@@ -60,7 +60,7 @@ def uv_layer() -> int
 
 <a id="unreal.GeometryScriptTangentsOptions.uv_layer"></a>
 
-#### uv_layer
+#### uv\_layer
 
 ```python
 @uv_layer.setter

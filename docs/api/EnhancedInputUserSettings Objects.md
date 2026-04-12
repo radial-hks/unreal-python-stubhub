@@ -30,7 +30,7 @@ Enhanced Input Project Settings.
 
 <a id="unreal.EnhancedInputUserSettings.on_settings_changed"></a>
 
-#### on_settings_changed
+#### on\_settings\_changed
 
 ```python
 @property
@@ -41,7 +41,7 @@ def on_settings_changed() -> EnhancedInputUserSettingsChanged
 
 <a id="unreal.EnhancedInputUserSettings.on_settings_changed"></a>
 
-#### on_settings_changed
+#### on\_settings\_changed
 
 ```python
 @on_settings_changed.setter
@@ -50,7 +50,7 @@ def on_settings_changed(value: EnhancedInputUserSettingsChanged) -> None
 
 <a id="unreal.EnhancedInputUserSettings.on_settings_applied"></a>
 
-#### on_settings_applied
+#### on\_settings\_applied
 
 ```python
 @property
@@ -61,7 +61,7 @@ def on_settings_applied() -> EnhancedInputUserSettingsApplied
 
 <a id="unreal.EnhancedInputUserSettings.on_settings_applied"></a>
 
-#### on_settings_applied
+#### on\_settings\_applied
 
 ```python
 @on_settings_applied.setter
@@ -70,7 +70,7 @@ def on_settings_applied(value: EnhancedInputUserSettingsApplied) -> None
 
 <a id="unreal.EnhancedInputUserSettings.unregister_input_mapping_contexts"></a>
 
-#### unregister_input_mapping_contexts
+#### unregister\_input\_mapping\_contexts
 
 ```python
 def unregister_input_mapping_contexts(
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.unregister_input_mapping_context"></a>
 
-#### unregister_input_mapping_context
+#### unregister\_input\_mapping\_context
 
 ```python
 def unregister_input_mapping_context(imc: InputMappingContext) -> bool
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.un_map_player_key"></a>
 
-#### un_map_player_key
+#### un\_map\_player\_key
 
 ```python
 def un_map_player_key(args: MapPlayerKeyArgs) -> GameplayTagContainer
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.set_key_profile"></a>
 
-#### set_key_profile
+#### set\_key\_profile
 
 ```python
 def set_key_profile(profile_id: GameplayTag) -> bool
@@ -141,7 +141,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.save_settings"></a>
 
-#### save_settings
+#### save\_settings
 
 ```python
 def save_settings() -> None
@@ -153,7 +153,7 @@ but if you need to integrate it into an advanced save system you should Serializ
 
 <a id="unreal.EnhancedInputUserSettings.reset_key_profile_to_default"></a>
 
-#### reset_key_profile_to_default
+#### reset\_key\_profile\_to\_default
 
 ```python
 def reset_key_profile_to_default(
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.reset_all_player_keys_in_row"></a>
 
-#### reset_all_player_keys_in_row
+#### reset\_all\_player\_keys\_in\_row
 
 ```python
 def reset_all_player_keys_in_row(
@@ -194,7 +194,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.register_input_mapping_contexts"></a>
 
-#### register_input_mapping_contexts
+#### register\_input\_mapping\_contexts
 
 ```python
 def register_input_mapping_contexts(
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.register_input_mapping_context"></a>
 
-#### register_input_mapping_context
+#### register\_input\_mapping\_context
 
 ```python
 def register_input_mapping_context(imc: InputMappingContext) -> bool
@@ -230,7 +230,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.map_player_key"></a>
 
-#### map_player_key
+#### map\_player\_key
 
 ```python
 def map_player_key(args: MapPlayerKeyArgs) -> GameplayTagContainer
@@ -249,7 +249,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.is_mapping_context_registered"></a>
 
-#### is_mapping_context_registered
+#### is\_mapping\_context\_registered
 
 ```python
 def is_mapping_context_registered(imc: InputMappingContext) -> bool
@@ -266,7 +266,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.get_key_profile_with_identifier"></a>
 
-#### get_key_profile_with_identifier
+#### get\_key\_profile\_with\_identifier
 
 ```python
 def get_key_profile_with_identifier(
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.get_current_key_profile_identifier"></a>
 
-#### get_current_key_profile_identifier
+#### get\_current\_key\_profile\_identifier
 
 ```python
 def get_current_key_profile_identifier() -> GameplayTag
@@ -298,7 +298,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.get_current_key_profile"></a>
 
-#### get_current_key_profile
+#### get\_current\_key\_profile
 
 ```python
 def get_current_key_profile() -> EnhancedPlayerMappableKeyProfile
@@ -312,7 +312,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.find_mappings_in_row"></a>
 
-#### find_mappings_in_row
+#### find\_mappings\_in\_row
 
 ```python
 def find_mappings_in_row(mapping_name: Name) -> Set[PlayerKeyMapping]
@@ -329,7 +329,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.create_new_key_profile"></a>
 
-#### create_new_key_profile
+#### create\_new\_key\_profile
 
 ```python
 def create_new_key_profile(
@@ -348,7 +348,7 @@ Returns:
 
 <a id="unreal.EnhancedInputUserSettings.async_save_settings"></a>
 
-#### async_save_settings
+#### async\_save\_settings
 
 ```python
 def async_save_settings() -> None
@@ -362,7 +362,7 @@ OnAsyncSaveComplete will be called upon save completion.
 
 <a id="unreal.EnhancedInputUserSettings.apply_settings"></a>
 
-#### apply_settings
+#### apply\_settings
 
 ```python
 def apply_settings() -> None

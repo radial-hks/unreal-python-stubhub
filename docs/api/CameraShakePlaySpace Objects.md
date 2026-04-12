@@ -13,7 +13,7 @@ ECamera Shake Play Space
 
 <a id="unreal.CameraShakePlaySpace.CAMERA_LOCAL"></a>
 
-#### CAMERA_LOCAL
+#### CAMERA\_LOCAL
 
 0: This anim is applied in camera space.
 
@@ -25,7 +25,7 @@ ECamera Shake Play Space
 
 <a id="unreal.CameraShakePlaySpace.USER_DEFINED"></a>
 
-#### USER_DEFINED
+#### USER\_DEFINED
 
 2: This anim is applied in a user-specified space (defined by UserPlaySpaceMatrix).
 

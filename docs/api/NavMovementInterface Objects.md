@@ -13,7 +13,7 @@ Nav Movement Interface
 
 <a id="unreal.NavMovementInterface.stop_movement_keep_pathing"></a>
 
-#### stop_movement_keep_pathing
+#### stop\_movement\_keep\_pathing
 
 ```python
 def stop_movement_keep_pathing() -> None
@@ -24,7 +24,7 @@ Stops movement immediately (reset velocity) but keeps following current path
 
 <a id="unreal.NavMovementInterface.stop_active_movement"></a>
 
-#### stop_active_movement
+#### stop\_active\_movement
 
 ```python
 def stop_active_movement() -> None
@@ -35,7 +35,7 @@ Stops applying further movement (usually zeros acceleration).
 
 <a id="unreal.NavMovementInterface.request_path_move"></a>
 
-#### request_path_move
+#### request\_path\_move
 
 ```python
 def request_path_move(move_input: Vector) -> None
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.NavMovementInterface.request_direct_move"></a>
 
-#### request_direct_move
+#### request\_direct\_move
 
 ```python
 def request_direct_move(move_velocity: Vector, force_max_speed: bool) -> None
@@ -64,7 +64,7 @@ Args:
 
 <a id="unreal.NavMovementInterface.is_swimming"></a>
 
-#### is_swimming
+#### is\_swimming
 
 ```python
 def is_swimming() -> bool
@@ -78,7 +78,7 @@ Returns:
 
 <a id="unreal.NavMovementInterface.is_moving_on_ground"></a>
 
-#### is_moving_on_ground
+#### is\_moving\_on\_ground
 
 ```python
 def is_moving_on_ground() -> bool
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.NavMovementInterface.is_flying"></a>
 
-#### is_flying
+#### is\_flying
 
 ```python
 def is_flying() -> bool
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.NavMovementInterface.is_falling"></a>
 
-#### is_falling
+#### is\_falling
 
 ```python
 def is_falling() -> bool
@@ -120,7 +120,7 @@ Returns:
 
 <a id="unreal.NavMovementInterface.is_crouching"></a>
 
-#### is_crouching
+#### is\_crouching
 
 ```python
 def is_crouching() -> bool
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.NavMovementInterface.get_velocity_for_nav_movement"></a>
 
-#### get_velocity_for_nav_movement
+#### get\_velocity\_for\_nav\_movement
 
 ```python
 def get_velocity_for_nav_movement() -> Vector
@@ -148,7 +148,7 @@ Returns:
 
 <a id="unreal.NavMovementInterface.get_max_speed_for_nav_movement"></a>
 
-#### get_max_speed_for_nav_movement
+#### get\_max\_speed\_for\_nav\_movement
 
 ```python
 def get_max_speed_for_nav_movement() -> float

@@ -14,38 +14,38 @@ EUsd Model Card Face
 
 <a id="unreal.UsdModelCardFace.X_POS"></a>
 
-#### X_POS
+#### X\_POS
 
 1
 
 <a id="unreal.UsdModelCardFace.Y_POS"></a>
 
-#### Y_POS
+#### Y\_POS
 
 2
 
 <a id="unreal.UsdModelCardFace.Z_POS"></a>
 
-#### Z_POS
+#### Z\_POS
 
 4
 
 <a id="unreal.UsdModelCardFace.X_NEG"></a>
 
-#### X_NEG
+#### X\_NEG
 
 8
 
 <a id="unreal.UsdModelCardFace.Y_NEG"></a>
 
-#### Y_NEG
+#### Y\_NEG
 
 16
 
 <a id="unreal.UsdModelCardFace.Z_NEG"></a>
 
-#### Z_NEG
+#### Z\_NEG
 
 32
 
-<a id="unreal.MaterialXLuminanceMode"></a>
+<a id="unreal.RigVMOpCode"></a>

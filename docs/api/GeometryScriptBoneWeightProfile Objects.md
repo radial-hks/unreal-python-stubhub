@@ -18,7 +18,7 @@ Geometry Script Bone Weight Profile
 
 <a id="unreal.GeometryScriptBoneWeightProfile.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(profile_name: Name = "None") -> None
@@ -26,7 +26,7 @@ def __init__(profile_name: Name = "None") -> None
 
 <a id="unreal.GeometryScriptBoneWeightProfile.profile_name"></a>
 
-#### profile_name
+#### profile\_name
 
 ```python
 @property
@@ -37,7 +37,7 @@ def profile_name() -> Name
 
 <a id="unreal.GeometryScriptBoneWeightProfile.profile_name"></a>
 
-#### profile_name
+#### profile\_name
 
 ```python
 @profile_name.setter

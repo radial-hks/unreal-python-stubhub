@@ -18,7 +18,7 @@ XRDevice Id
 
 <a id="unreal.XRDeviceId.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(system_name: Name = "None", device_id: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(system_name: Name = "None", device_id: int = 0) -> None
 
 <a id="unreal.XRDeviceId.system_name"></a>
 
-#### system_name
+#### system\_name
 
 ```python
 @property
@@ -37,7 +37,7 @@ def system_name() -> Name
 
 <a id="unreal.XRDeviceId.device_id"></a>
 
-#### device_id
+#### device\_id
 
 ```python
 @property

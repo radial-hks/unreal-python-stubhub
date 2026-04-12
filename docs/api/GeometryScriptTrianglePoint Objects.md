@@ -21,7 +21,7 @@ Geometry Script Triangle Point
 
 <a id="unreal.GeometryScriptTrianglePoint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(valid: bool = False,
@@ -52,7 +52,7 @@ def valid(value: bool) -> None
 
 <a id="unreal.GeometryScriptTrianglePoint.triangle_id"></a>
 
-#### triangle_id
+#### triangle\_id
 
 ```python
 @property
@@ -63,7 +63,7 @@ def triangle_id() -> int
 
 <a id="unreal.GeometryScriptTrianglePoint.triangle_id"></a>
 
-#### triangle_id
+#### triangle\_id
 
 ```python
 @triangle_id.setter
@@ -92,7 +92,7 @@ def position(value: Vector) -> None
 
 <a id="unreal.GeometryScriptTrianglePoint.bary_coords"></a>
 
-#### bary_coords
+#### bary\_coords
 
 ```python
 @property
@@ -103,7 +103,7 @@ def bary_coords() -> Vector
 
 <a id="unreal.GeometryScriptTrianglePoint.bary_coords"></a>
 
-#### bary_coords
+#### bary\_coords
 
 ```python
 @bary_coords.setter

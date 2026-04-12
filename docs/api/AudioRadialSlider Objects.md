@@ -65,7 +65,7 @@ An audio radial slider widget.
 
 <a id="unreal.AudioRadialSlider.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @property
@@ -76,7 +76,7 @@ def on_value_changed() -> OnAudioRadialSliderValueChangedEvent
 
 <a id="unreal.AudioRadialSlider.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @on_value_changed.setter
@@ -85,7 +85,7 @@ def on_value_changed(value: OnAudioRadialSliderValueChangedEvent) -> None
 
 <a id="unreal.AudioRadialSlider.set_widget_layout"></a>
 
-#### set_widget_layout
+#### set\_widget\_layout
 
 ```python
 def set_widget_layout(layout: AudioRadialSliderLayout) -> None
@@ -99,7 +99,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_value_text_read_only"></a>
 
-#### set_value_text_read_only
+#### set\_value\_text\_read\_only
 
 ```python
 def set_value_text_read_only(is_read_only: bool) -> None
@@ -113,7 +113,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_units_text_read_only"></a>
 
-#### set_units_text_read_only
+#### set\_units\_text\_read\_only
 
 ```python
 def set_units_text_read_only(is_read_only: bool) -> None
@@ -127,7 +127,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_units_text"></a>
 
-#### set_units_text
+#### set\_units\_text
 
 ```python
 def set_units_text(units: Text) -> None
@@ -141,7 +141,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_text_label_background_color"></a>
 
-#### set_text_label_background_color
+#### set\_text\_label\_background\_color
 
 ```python
 def set_text_label_background_color(color: SlateColor) -> None
@@ -155,7 +155,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_slider_thickness"></a>
 
-#### set_slider_thickness
+#### set\_slider\_thickness
 
 ```python
 def set_slider_thickness(thickness: float) -> None
@@ -169,7 +169,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_slider_progress_color"></a>
 
-#### set_slider_progress_color
+#### set\_slider\_progress\_color
 
 ```python
 def set_slider_progress_color(value: LinearColor) -> None
@@ -183,7 +183,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_slider_bar_color"></a>
 
-#### set_slider_bar_color
+#### set\_slider\_bar\_color
 
 ```python
 def set_slider_bar_color(value: LinearColor) -> None
@@ -197,7 +197,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_show_units_text"></a>
 
-#### set_show_units_text
+#### set\_show\_units\_text
 
 ```python
 def set_show_units_text(show_units_text: bool) -> None
@@ -211,7 +211,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_show_label_only_on_hover"></a>
 
-#### set_show_label_only_on_hover
+#### set\_show\_label\_only\_on\_hover
 
 ```python
 def set_show_label_only_on_hover(show_label_only_on_hover: bool) -> None
@@ -225,7 +225,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_output_range"></a>
 
-#### set_output_range
+#### set\_output\_range
 
 ```python
 def set_output_range(output_range: Vector2D) -> None
@@ -239,7 +239,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_hand_start_end_ratio"></a>
 
-#### set_hand_start_end_ratio
+#### set\_hand\_start\_end\_ratio
 
 ```python
 def set_hand_start_end_ratio(hand_start_end_ratio: Vector2D) -> None
@@ -253,7 +253,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.set_center_background_color"></a>
 
-#### set_center_background_color
+#### set\_center\_background\_color
 
 ```python
 def set_center_background_color(value: LinearColor) -> None
@@ -267,7 +267,7 @@ Args:
 
 <a id="unreal.AudioRadialSlider.get_slider_value"></a>
 
-#### get_slider_value
+#### get\_slider\_value
 
 ```python
 def get_slider_value(output_value: float) -> float
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.AudioRadialSlider.get_output_value"></a>
 
-#### get_output_value
+#### get\_output\_value
 
 ```python
 def get_output_value(slider_value: float) -> float

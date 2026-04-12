@@ -19,7 +19,7 @@ Struct describing a Color, its display name and a unique identifier to get an in
 
 <a id="unreal.StateTreeEditorColor.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

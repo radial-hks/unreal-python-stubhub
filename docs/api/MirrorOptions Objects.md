@@ -22,7 +22,7 @@ FMirrorOptions
 
 <a id="unreal.MirrorOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mirror_axis: AxisType = AxisType.NONE,
@@ -34,7 +34,7 @@ def __init__(mirror_axis: AxisType = AxisType.NONE,
 
 <a id="unreal.MirrorOptions.mirror_axis"></a>
 
-#### mirror_axis
+#### mirror\_axis
 
 ```python
 @property
@@ -45,7 +45,7 @@ def mirror_axis() -> AxisType
 
 <a id="unreal.MirrorOptions.mirror_axis"></a>
 
-#### mirror_axis
+#### mirror\_axis
 
 ```python
 @mirror_axis.setter
@@ -54,7 +54,7 @@ def mirror_axis(value: AxisType) -> None
 
 <a id="unreal.MirrorOptions.mirror_rotation"></a>
 
-#### mirror_rotation
+#### mirror\_rotation
 
 ```python
 @property
@@ -65,7 +65,7 @@ def mirror_rotation() -> bool
 
 <a id="unreal.MirrorOptions.mirror_rotation"></a>
 
-#### mirror_rotation
+#### mirror\_rotation
 
 ```python
 @mirror_rotation.setter
@@ -74,7 +74,7 @@ def mirror_rotation(value: bool) -> None
 
 <a id="unreal.MirrorOptions.left_string"></a>
 
-#### left_string
+#### left\_string
 
 ```python
 @property
@@ -85,7 +85,7 @@ def left_string() -> str
 
 <a id="unreal.MirrorOptions.left_string"></a>
 
-#### left_string
+#### left\_string
 
 ```python
 @left_string.setter
@@ -94,7 +94,7 @@ def left_string(value: str) -> None
 
 <a id="unreal.MirrorOptions.right_string"></a>
 
-#### right_string
+#### right\_string
 
 ```python
 @property
@@ -105,7 +105,7 @@ def right_string() -> str
 
 <a id="unreal.MirrorOptions.right_string"></a>
 
-#### right_string
+#### right\_string
 
 ```python
 @right_string.setter
@@ -114,7 +114,7 @@ def right_string(value: str) -> None
 
 <a id="unreal.MirrorOptions.mirror_children"></a>
 
-#### mirror_children
+#### mirror\_children
 
 ```python
 @property
@@ -125,7 +125,7 @@ def mirror_children() -> bool
 
 <a id="unreal.MirrorOptions.mirror_children"></a>
 
-#### mirror_children
+#### mirror\_children
 
 ```python
 @mirror_children.setter

@@ -18,7 +18,7 @@ Wrapper around result of quick binding for event track in sequencer.
 
 <a id="unreal.SequencerQuickBindingResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(payload_names: Array[str] = []) -> None
@@ -26,7 +26,7 @@ def __init__(payload_names: Array[str] = []) -> None
 
 <a id="unreal.SequencerQuickBindingResult.payload_names"></a>
 
-#### payload_names
+#### payload\_names
 
 ```python
 @property

@@ -24,7 +24,7 @@ Metadata added to a prim to indicate it was exported from a particular Unreal as
 
 <a id="unreal.UsdUnrealAssetInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: str = "",
@@ -98,7 +98,7 @@ def version(value: str) -> None
 
 <a id="unreal.UsdUnrealAssetInfo.unreal_content_path"></a>
 
-#### unreal_content_path
+#### unreal\_content\_path
 
 ```python
 @property
@@ -109,7 +109,7 @@ def unreal_content_path() -> str
 
 <a id="unreal.UsdUnrealAssetInfo.unreal_content_path"></a>
 
-#### unreal_content_path
+#### unreal\_content\_path
 
 ```python
 @unreal_content_path.setter
@@ -118,7 +118,7 @@ def unreal_content_path(value: str) -> None
 
 <a id="unreal.UsdUnrealAssetInfo.unreal_asset_type"></a>
 
-#### unreal_asset_type
+#### unreal\_asset\_type
 
 ```python
 @property
@@ -129,7 +129,7 @@ def unreal_asset_type() -> str
 
 <a id="unreal.UsdUnrealAssetInfo.unreal_asset_type"></a>
 
-#### unreal_asset_type
+#### unreal\_asset\_type
 
 ```python
 @unreal_asset_type.setter
@@ -138,7 +138,7 @@ def unreal_asset_type(value: str) -> None
 
 <a id="unreal.UsdUnrealAssetInfo.unreal_export_time"></a>
 
-#### unreal_export_time
+#### unreal\_export\_time
 
 ```python
 @property
@@ -149,7 +149,7 @@ def unreal_export_time() -> str
 
 <a id="unreal.UsdUnrealAssetInfo.unreal_export_time"></a>
 
-#### unreal_export_time
+#### unreal\_export\_time
 
 ```python
 @unreal_export_time.setter
@@ -158,7 +158,7 @@ def unreal_export_time(value: str) -> None
 
 <a id="unreal.UsdUnrealAssetInfo.unreal_engine_version"></a>
 
-#### unreal_engine_version
+#### unreal\_engine\_version
 
 ```python
 @property
@@ -169,7 +169,7 @@ def unreal_engine_version() -> str
 
 <a id="unreal.UsdUnrealAssetInfo.unreal_engine_version"></a>
 
-#### unreal_engine_version
+#### unreal\_engine\_version
 
 ```python
 @unreal_engine_version.setter

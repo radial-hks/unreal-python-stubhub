@@ -18,7 +18,7 @@ Android Permission Callback Proxy
 
 <a id="unreal.AndroidPermissionCallbackProxy.on_permissions_granted_dynamic_delegate"></a>
 
-#### on_permissions_granted_dynamic_delegate
+#### on\_permissions\_granted\_dynamic\_delegate
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_permissions_granted_dynamic_delegate(
 
 <a id="unreal.AndroidPermissionCallbackProxy.on_permissions_granted_dynamic_delegate"></a>
 
-#### on_permissions_granted_dynamic_delegate
+#### on\_permissions\_granted\_dynamic\_delegate
 
 ```python
 @on_permissions_granted_dynamic_delegate.setter

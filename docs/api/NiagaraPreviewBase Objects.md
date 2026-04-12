@@ -142,7 +142,7 @@ Base actor for preview actors used in UNiagaraPreviewAxis.
 
 <a id="unreal.NiagaraPreviewBase.set_system"></a>
 
-#### set_system
+#### set\_system
 
 ```python
 def set_system(system: NiagaraSystem) -> None
@@ -156,7 +156,7 @@ Args:
 
 <a id="unreal.NiagaraPreviewBase.set_label_text"></a>
 
-#### set_label_text
+#### set\_label\_text
 
 ```python
 def set_label_text(x_axis_text: Text, y_axis_text: Text) -> None

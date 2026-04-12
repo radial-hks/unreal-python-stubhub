@@ -19,7 +19,7 @@ Geometry Script Polygroup Simplify Options
 
 <a id="unreal.GeometryScriptPolygroupSimplifyOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(angle_threshold: float = 0.000000,
@@ -28,7 +28,7 @@ def __init__(angle_threshold: float = 0.000000,
 
 <a id="unreal.GeometryScriptPolygroupSimplifyOptions.angle_threshold"></a>
 
-#### angle_threshold
+#### angle\_threshold
 
 ```python
 @property
@@ -39,7 +39,7 @@ def angle_threshold() -> float
 
 <a id="unreal.GeometryScriptPolygroupSimplifyOptions.angle_threshold"></a>
 
-#### angle_threshold
+#### angle\_threshold
 
 ```python
 @angle_threshold.setter
@@ -48,7 +48,7 @@ def angle_threshold(value: float) -> None
 
 <a id="unreal.GeometryScriptPolygroupSimplifyOptions.auto_compact"></a>
 
-#### auto_compact
+#### auto\_compact
 
 ```python
 @property
@@ -59,7 +59,7 @@ def auto_compact() -> bool
 
 <a id="unreal.GeometryScriptPolygroupSimplifyOptions.auto_compact"></a>
 
-#### auto_compact
+#### auto\_compact
 
 ```python
 @auto_compact.setter

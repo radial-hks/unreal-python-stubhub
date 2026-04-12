@@ -13,7 +13,7 @@ Structure that represents the name of physical surfaces.
 
 <a id="unreal.PhysicalSurfaceName.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

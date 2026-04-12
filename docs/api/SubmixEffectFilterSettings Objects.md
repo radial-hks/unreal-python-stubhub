@@ -22,7 +22,7 @@ UStruct used to define user-exposed params for use with your effect.
 
 <a id="unreal.SubmixEffectFilterSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(filter_type: SubmixFilterType = SubmixFilterType.LOW_PASS,
@@ -34,7 +34,7 @@ def __init__(filter_type: SubmixFilterType = SubmixFilterType.LOW_PASS,
 
 <a id="unreal.SubmixEffectFilterSettings.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @property
@@ -45,7 +45,7 @@ def filter_type() -> SubmixFilterType
 
 <a id="unreal.SubmixEffectFilterSettings.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @filter_type.setter
@@ -54,7 +54,7 @@ def filter_type(value: SubmixFilterType) -> None
 
 <a id="unreal.SubmixEffectFilterSettings.filter_algorithm"></a>
 
-#### filter_algorithm
+#### filter\_algorithm
 
 ```python
 @property
@@ -65,7 +65,7 @@ def filter_algorithm() -> SubmixFilterAlgorithm
 
 <a id="unreal.SubmixEffectFilterSettings.filter_algorithm"></a>
 
-#### filter_algorithm
+#### filter\_algorithm
 
 ```python
 @filter_algorithm.setter
@@ -74,7 +74,7 @@ def filter_algorithm(value: SubmixFilterAlgorithm) -> None
 
 <a id="unreal.SubmixEffectFilterSettings.filter_frequency"></a>
 
-#### filter_frequency
+#### filter\_frequency
 
 ```python
 @property
@@ -85,7 +85,7 @@ def filter_frequency() -> float
 
 <a id="unreal.SubmixEffectFilterSettings.filter_frequency"></a>
 
-#### filter_frequency
+#### filter\_frequency
 
 ```python
 @filter_frequency.setter
@@ -94,7 +94,7 @@ def filter_frequency(value: float) -> None
 
 <a id="unreal.SubmixEffectFilterSettings.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @property
@@ -105,7 +105,7 @@ def filter_q() -> float
 
 <a id="unreal.SubmixEffectFilterSettings.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @filter_q.setter

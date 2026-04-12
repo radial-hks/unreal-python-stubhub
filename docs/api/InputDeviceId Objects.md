@@ -21,7 +21,7 @@ Opaque struct for the FInputDeviceId struct defined in CoreMiscDefines.h
 
 <a id="unreal.InputDeviceId.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -29,7 +29,7 @@ def __init__() -> None
 
 <a id="unreal.InputDeviceId.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 def not_equal(b: InputDeviceId) -> bool
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.InputDeviceId.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -75,7 +75,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.InputDeviceId.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool

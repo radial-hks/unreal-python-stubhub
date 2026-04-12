@@ -19,19 +19,19 @@ ENav Path Event
 
 <a id="unreal.NavPathEvent.NEW_PATH"></a>
 
-#### NEW_PATH
+#### NEW\_PATH
 
 1
 
 <a id="unreal.NavPathEvent.UPDATED_DUE_TO_GOAL_MOVED"></a>
 
-#### UPDATED_DUE_TO_GOAL_MOVED
+#### UPDATED\_DUE\_TO\_GOAL\_MOVED
 
 2
 
 <a id="unreal.NavPathEvent.UPDATED_DUE_TO_NAVIGATION_CHANGED"></a>
 
-#### UPDATED_DUE_TO_NAVIGATION_CHANGED
+#### UPDATED\_DUE\_TO\_NAVIGATION\_CHANGED
 
 3
 
@@ -43,13 +43,13 @@ ENav Path Event
 
 <a id="unreal.NavPathEvent.RE_PATH_FAILED"></a>
 
-#### RE_PATH_FAILED
+#### RE\_PATH\_FAILED
 
 5
 
 <a id="unreal.NavPathEvent.META_PATH_UPDATE"></a>
 
-#### META_PATH_UPDATE
+#### META\_PATH\_UPDATE
 
 6
 

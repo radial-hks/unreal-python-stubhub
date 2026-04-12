@@ -20,7 +20,7 @@ struct with all the settings we want in USpecularProfile, separate to make it ea
 
 <a id="unreal.SpecularProfileStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(format: SpecularProfileFormat = SpecularProfileFormat.

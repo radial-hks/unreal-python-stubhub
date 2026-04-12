@@ -27,7 +27,7 @@ See the docs for more details on each platform.
 
 <a id="unreal.InputDeviceTriggerResistanceProperty.trigger_data"></a>
 
-#### trigger_data
+#### trigger\_data
 
 ```python
 @property
@@ -38,7 +38,7 @@ def trigger_data() -> DeviceTriggerTriggerResistanceData
 
 <a id="unreal.InputDeviceTriggerResistanceProperty.trigger_data"></a>
 
-#### trigger_data
+#### trigger\_data
 
 ```python
 @trigger_data.setter
@@ -47,7 +47,7 @@ def trigger_data(value: DeviceTriggerTriggerResistanceData) -> None
 
 <a id="unreal.InputDeviceTriggerResistanceProperty.device_override_data"></a>
 
-#### device_override_data
+#### device\_override\_data
 
 ```python
 @property
@@ -58,7 +58,7 @@ def device_override_data() -> Map[Name, DeviceTriggerTriggerResistanceData]
 
 <a id="unreal.InputDeviceTriggerResistanceProperty.device_override_data"></a>
 
-#### device_override_data
+#### device\_override\_data
 
 ```python
 @device_override_data.setter

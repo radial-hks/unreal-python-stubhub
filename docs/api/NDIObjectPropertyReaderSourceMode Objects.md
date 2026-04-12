@@ -20,13 +20,13 @@ ENDIObject Property Reader Source Mode
 
 <a id="unreal.NDIObjectPropertyReaderSourceMode.ATTACH_PARENT_ACTOR"></a>
 
-#### ATTACH_PARENT_ACTOR
+#### ATTACH\_PARENT\_ACTOR
 
 1: Source object is found use the attached parent actor.
 
 <a id="unreal.NDIObjectPropertyReaderSourceMode.BINDING_THEN_ATTACH_PARENT_ACTOR"></a>
 
-#### BINDING_THEN_ATTACH_PARENT_ACTOR
+#### BINDING\_THEN\_ATTACH\_PARENT\_ACTOR
 
 2: Source object is found in the order of object binding, source actor, then attached parent actor.
 

@@ -31,19 +31,19 @@ Types of Collision Construct that are generated *
 
 <a id="unreal.ScriptCollisionShapeType.NDOP10_X"></a>
 
-#### NDOP10_X
+#### NDOP10\_X
 
 3
 
 <a id="unreal.ScriptCollisionShapeType.NDOP10_Y"></a>
 
-#### NDOP10_Y
+#### NDOP10\_Y
 
 4
 
 <a id="unreal.ScriptCollisionShapeType.NDOP10_Z"></a>
 
-#### NDOP10_Z
+#### NDOP10\_Z
 
 5
 

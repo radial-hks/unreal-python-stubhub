@@ -24,7 +24,7 @@ Platform audio output device info, in a Blueprint-readable format
 
 <a id="unreal.AudioOutputDeviceInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -52,7 +52,7 @@ def name() -> str
 
 <a id="unreal.AudioOutputDeviceInfo.device_id"></a>
 
-#### device_id
+#### device\_id
 
 ```python
 @property
@@ -63,7 +63,7 @@ def device_id() -> str
 
 <a id="unreal.AudioOutputDeviceInfo.num_channels"></a>
 
-#### num_channels
+#### num\_channels
 
 ```python
 @property
@@ -74,7 +74,7 @@ def num_channels() -> int
 
 <a id="unreal.AudioOutputDeviceInfo.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @property
@@ -96,7 +96,7 @@ def format() -> AudioMixerStreamDataFormatType
 
 <a id="unreal.AudioOutputDeviceInfo.output_channel_array"></a>
 
-#### output_channel_array
+#### output\_channel\_array
 
 ```python
 @property
@@ -107,7 +107,7 @@ def output_channel_array() -> Array[AudioMixerChannelType]
 
 <a id="unreal.AudioOutputDeviceInfo.is_system_default"></a>
 
-#### is_system_default
+#### is\_system\_default
 
 ```python
 @property
@@ -118,7 +118,7 @@ def is_system_default() -> bool
 
 <a id="unreal.AudioOutputDeviceInfo.is_current_device"></a>
 
-#### is_current_device
+#### is\_current\_device
 
 ```python
 @property

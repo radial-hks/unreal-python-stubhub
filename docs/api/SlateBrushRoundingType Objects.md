@@ -13,13 +13,13 @@ Enumerates rounding options
 
 <a id="unreal.SlateBrushRoundingType.FIXED_RADIUS"></a>
 
-#### FIXED_RADIUS
+#### FIXED\_RADIUS
 
 0: Use the specified Radius *
 
 <a id="unreal.SlateBrushRoundingType.HALF_HEIGHT_RADIUS"></a>
 
-#### HALF_HEIGHT_RADIUS
+#### HALF\_HEIGHT\_RADIUS
 
 1: The rounding radius should be half the height such that it always looks perfectly round *
 

@@ -23,7 +23,7 @@ Abc Sampling Settings
 
 <a id="unreal.AbcSamplingSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -37,7 +37,7 @@ def __init__(
 
 <a id="unreal.AbcSamplingSettings.sampling_type"></a>
 
-#### sampling_type
+#### sampling\_type
 
 ```python
 @property
@@ -48,7 +48,7 @@ def sampling_type() -> AlembicSamplingType
 
 <a id="unreal.AbcSamplingSettings.sampling_type"></a>
 
-#### sampling_type
+#### sampling\_type
 
 ```python
 @sampling_type.setter
@@ -57,7 +57,7 @@ def sampling_type(value: AlembicSamplingType) -> None
 
 <a id="unreal.AbcSamplingSettings.frame_steps"></a>
 
-#### frame_steps
+#### frame\_steps
 
 ```python
 @property
@@ -68,7 +68,7 @@ def frame_steps() -> int
 
 <a id="unreal.AbcSamplingSettings.frame_steps"></a>
 
-#### frame_steps
+#### frame\_steps
 
 ```python
 @frame_steps.setter
@@ -77,7 +77,7 @@ def frame_steps(value: int) -> None
 
 <a id="unreal.AbcSamplingSettings.time_steps"></a>
 
-#### time_steps
+#### time\_steps
 
 ```python
 @property
@@ -88,7 +88,7 @@ def time_steps() -> float
 
 <a id="unreal.AbcSamplingSettings.time_steps"></a>
 
-#### time_steps
+#### time\_steps
 
 ```python
 @time_steps.setter
@@ -97,7 +97,7 @@ def time_steps(value: float) -> None
 
 <a id="unreal.AbcSamplingSettings.frame_start"></a>
 
-#### frame_start
+#### frame\_start
 
 ```python
 @property
@@ -108,7 +108,7 @@ def frame_start() -> int
 
 <a id="unreal.AbcSamplingSettings.frame_start"></a>
 
-#### frame_start
+#### frame\_start
 
 ```python
 @frame_start.setter
@@ -117,7 +117,7 @@ def frame_start(value: int) -> None
 
 <a id="unreal.AbcSamplingSettings.frame_end"></a>
 
-#### frame_end
+#### frame\_end
 
 ```python
 @property
@@ -128,7 +128,7 @@ def frame_end() -> int
 
 <a id="unreal.AbcSamplingSettings.frame_end"></a>
 
-#### frame_end
+#### frame\_end
 
 ```python
 @frame_end.setter
@@ -137,7 +137,7 @@ def frame_end(value: int) -> None
 
 <a id="unreal.AbcSamplingSettings.skip_empty"></a>
 
-#### skip_empty
+#### skip\_empty
 
 ```python
 @property
@@ -148,7 +148,7 @@ def skip_empty() -> bool
 
 <a id="unreal.AbcSamplingSettings.skip_empty"></a>
 
-#### skip_empty
+#### skip\_empty
 
 ```python
 @skip_empty.setter

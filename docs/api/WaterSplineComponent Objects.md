@@ -212,7 +212,7 @@ Water Spline Component
 
 <a id="unreal.WaterSplineComponent.k2_synchronize_and_broadcast_data_change"></a>
 
-#### k2_synchronize_and_broadcast_data_change
+#### k2\_synchronize\_and\_broadcast\_data\_change
 
 ```python
 def k2_synchronize_and_broadcast_data_change() -> None

@@ -19,7 +19,7 @@ Montage blend settings. Can be used to overwrite default Montage settings on Pla
 
 <a id="unreal.MontageBlendSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(blend_profile: BlendProfile = None,
@@ -29,7 +29,7 @@ def __init__(blend_profile: BlendProfile = None,
 
 <a id="unreal.MontageBlendSettings.blend_profile"></a>
 
-#### blend_profile
+#### blend\_profile
 
 ```python
 @property
@@ -40,7 +40,7 @@ def blend_profile() -> BlendProfile
 
 <a id="unreal.MontageBlendSettings.blend_profile"></a>
 
-#### blend_profile
+#### blend\_profile
 
 ```python
 @blend_profile.setter
@@ -69,7 +69,7 @@ def blend(value: AlphaBlendArgs) -> None
 
 <a id="unreal.MontageBlendSettings.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @property
@@ -80,7 +80,7 @@ def blend_mode() -> MontageBlendMode
 
 <a id="unreal.MontageBlendSettings.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @blend_mode.setter

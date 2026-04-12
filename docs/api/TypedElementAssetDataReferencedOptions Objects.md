@@ -17,7 +17,7 @@ Typed Element Asset Data Referenced Options
 
 <a id="unreal.TypedElementAssetDataReferencedOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(only_top_level_asset: bool = False) -> None
@@ -25,7 +25,7 @@ def __init__(only_top_level_asset: bool = False) -> None
 
 <a id="unreal.TypedElementAssetDataReferencedOptions.only_top_level_asset"></a>
 
-#### only_top_level_asset
+#### only\_top\_level\_asset
 
 ```python
 @property
@@ -36,7 +36,7 @@ def only_top_level_asset() -> bool
 
 <a id="unreal.TypedElementAssetDataReferencedOptions.only_top_level_asset"></a>
 
-#### only_top_level_asset
+#### only\_top\_level\_asset
 
 ```python
 @only_top_level_asset.setter

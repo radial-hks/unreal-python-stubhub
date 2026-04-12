@@ -20,7 +20,7 @@ EPCGUnion Density Function
 
 <a id="unreal.PCGUnionDensityFunction.CLAMPED_ADDITION"></a>
 
-#### CLAMPED_ADDITION
+#### CLAMPED\_ADDITION
 
 1
 

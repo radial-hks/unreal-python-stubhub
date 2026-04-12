@@ -13,10 +13,10 @@ TODO:: this can encapsulate globally defined fields as well (like with native de
 
 <a id="unreal.MemberReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.MVVMBlueprintFieldPath"></a>
+<a id="unreal.AnimNode_RefPose"></a>

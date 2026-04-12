@@ -13,19 +13,19 @@ EAnim Curve Type
 
 <a id="unreal.AnimCurveType.ATTRIBUTE_CURVE"></a>
 
-#### ATTRIBUTE_CURVE
+#### ATTRIBUTE\_CURVE
 
 0
 
 <a id="unreal.AnimCurveType.MATERIAL_CURVE"></a>
 
-#### MATERIAL_CURVE
+#### MATERIAL\_CURVE
 
 1
 
 <a id="unreal.AnimCurveType.MORPH_TARGET_CURVE"></a>
 
-#### MORPH_TARGET_CURVE
+#### MORPH\_TARGET\_CURVE
 
 2
 

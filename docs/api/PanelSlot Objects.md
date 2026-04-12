@@ -13,7 +13,7 @@ The base class for all Slots in UMG.
 
 <a id="unreal.PanelSlot.get_content"></a>
 
-#### get_content
+#### get\_content
 
 ```python
 def get_content() -> Widget

@@ -77,7 +77,7 @@ def operator(value: PCGStringMatchingOperator) -> None
 
 <a id="unreal.PCGDeleteTagsSettings.selected_tags"></a>
 
-#### selected_tags
+#### selected\_tags
 
 ```python
 @property
@@ -88,7 +88,7 @@ def selected_tags() -> str
 
 <a id="unreal.PCGDeleteTagsSettings.selected_tags"></a>
 
-#### selected_tags
+#### selected\_tags
 
 ```python
 @selected_tags.setter

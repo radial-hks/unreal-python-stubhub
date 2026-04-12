@@ -14,7 +14,7 @@ Class to represent an animation on the transform of a camera, light, or scene no
 
 <a id="unreal.InterchangeTransformAnimationTrackNode.set_custom_used_channels"></a>
 
-#### set_custom_used_channels
+#### set\_custom\_used\_channels
 
 ```python
 def set_custom_used_channels(attribute_value: int) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeTransformAnimationTrackNode.get_custom_used_channels"></a>
 
-#### get_custom_used_channels
+#### get\_custom\_used\_channels
 
 ```python
 def get_custom_used_channels() -> Optional[int]

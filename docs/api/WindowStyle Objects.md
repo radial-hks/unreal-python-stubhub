@@ -33,7 +33,7 @@ Represents the appearance of an SWindow
 
 <a id="unreal.WindowStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -367,7 +367,7 @@ def __init__(
 
 <a id="unreal.WindowStyle.minimize_button_style"></a>
 
-#### minimize_button_style
+#### minimize\_button\_style
 
 ```python
 @property
@@ -378,7 +378,7 @@ def minimize_button_style() -> ButtonStyle
 
 <a id="unreal.WindowStyle.minimize_button_style"></a>
 
-#### minimize_button_style
+#### minimize\_button\_style
 
 ```python
 @minimize_button_style.setter
@@ -387,7 +387,7 @@ def minimize_button_style(value: ButtonStyle) -> None
 
 <a id="unreal.WindowStyle.maximize_button_style"></a>
 
-#### maximize_button_style
+#### maximize\_button\_style
 
 ```python
 @property
@@ -398,7 +398,7 @@ def maximize_button_style() -> ButtonStyle
 
 <a id="unreal.WindowStyle.maximize_button_style"></a>
 
-#### maximize_button_style
+#### maximize\_button\_style
 
 ```python
 @maximize_button_style.setter
@@ -407,7 +407,7 @@ def maximize_button_style(value: ButtonStyle) -> None
 
 <a id="unreal.WindowStyle.restore_button_style"></a>
 
-#### restore_button_style
+#### restore\_button\_style
 
 ```python
 @property
@@ -418,7 +418,7 @@ def restore_button_style() -> ButtonStyle
 
 <a id="unreal.WindowStyle.restore_button_style"></a>
 
-#### restore_button_style
+#### restore\_button\_style
 
 ```python
 @restore_button_style.setter
@@ -427,7 +427,7 @@ def restore_button_style(value: ButtonStyle) -> None
 
 <a id="unreal.WindowStyle.close_button_style"></a>
 
-#### close_button_style
+#### close\_button\_style
 
 ```python
 @property
@@ -438,7 +438,7 @@ def close_button_style() -> ButtonStyle
 
 <a id="unreal.WindowStyle.close_button_style"></a>
 
-#### close_button_style
+#### close\_button\_style
 
 ```python
 @close_button_style.setter
@@ -447,7 +447,7 @@ def close_button_style(value: ButtonStyle) -> None
 
 <a id="unreal.WindowStyle.title_text_style"></a>
 
-#### title_text_style
+#### title\_text\_style
 
 ```python
 @property
@@ -458,7 +458,7 @@ def title_text_style() -> TextBlockStyle
 
 <a id="unreal.WindowStyle.title_text_style"></a>
 
-#### title_text_style
+#### title\_text\_style
 
 ```python
 @title_text_style.setter
@@ -467,7 +467,7 @@ def title_text_style(value: TextBlockStyle) -> None
 
 <a id="unreal.WindowStyle.active_title_brush"></a>
 
-#### active_title_brush
+#### active\_title\_brush
 
 ```python
 @property
@@ -478,7 +478,7 @@ def active_title_brush() -> SlateBrush
 
 <a id="unreal.WindowStyle.active_title_brush"></a>
 
-#### active_title_brush
+#### active\_title\_brush
 
 ```python
 @active_title_brush.setter
@@ -487,7 +487,7 @@ def active_title_brush(value: SlateBrush) -> None
 
 <a id="unreal.WindowStyle.inactive_title_brush"></a>
 
-#### inactive_title_brush
+#### inactive\_title\_brush
 
 ```python
 @property
@@ -498,7 +498,7 @@ def inactive_title_brush() -> SlateBrush
 
 <a id="unreal.WindowStyle.inactive_title_brush"></a>
 
-#### inactive_title_brush
+#### inactive\_title\_brush
 
 ```python
 @inactive_title_brush.setter
@@ -507,7 +507,7 @@ def inactive_title_brush(value: SlateBrush) -> None
 
 <a id="unreal.WindowStyle.flash_title_brush"></a>
 
-#### flash_title_brush
+#### flash\_title\_brush
 
 ```python
 @property
@@ -518,7 +518,7 @@ def flash_title_brush() -> SlateBrush
 
 <a id="unreal.WindowStyle.flash_title_brush"></a>
 
-#### flash_title_brush
+#### flash\_title\_brush
 
 ```python
 @flash_title_brush.setter
@@ -527,7 +527,7 @@ def flash_title_brush(value: SlateBrush) -> None
 
 <a id="unreal.WindowStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @property
@@ -538,7 +538,7 @@ def background_color() -> SlateColor
 
 <a id="unreal.WindowStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @background_color.setter
@@ -547,7 +547,7 @@ def background_color(value: SlateColor) -> None
 
 <a id="unreal.WindowStyle.outline_brush"></a>
 
-#### outline_brush
+#### outline\_brush
 
 ```python
 @property
@@ -558,7 +558,7 @@ def outline_brush() -> SlateBrush
 
 <a id="unreal.WindowStyle.outline_brush"></a>
 
-#### outline_brush
+#### outline\_brush
 
 ```python
 @outline_brush.setter
@@ -567,7 +567,7 @@ def outline_brush(value: SlateBrush) -> None
 
 <a id="unreal.WindowStyle.outline_color"></a>
 
-#### outline_color
+#### outline\_color
 
 ```python
 @property
@@ -578,7 +578,7 @@ def outline_color() -> SlateColor
 
 <a id="unreal.WindowStyle.outline_color"></a>
 
-#### outline_color
+#### outline\_color
 
 ```python
 @outline_color.setter
@@ -587,7 +587,7 @@ def outline_color(value: SlateColor) -> None
 
 <a id="unreal.WindowStyle.border_brush"></a>
 
-#### border_brush
+#### border\_brush
 
 ```python
 @property
@@ -598,7 +598,7 @@ def border_brush() -> SlateBrush
 
 <a id="unreal.WindowStyle.border_brush"></a>
 
-#### border_brush
+#### border\_brush
 
 ```python
 @border_brush.setter
@@ -607,7 +607,7 @@ def border_brush(value: SlateBrush) -> None
 
 <a id="unreal.WindowStyle.border_color"></a>
 
-#### border_color
+#### border\_color
 
 ```python
 @property
@@ -618,7 +618,7 @@ def border_color() -> SlateColor
 
 <a id="unreal.WindowStyle.border_color"></a>
 
-#### border_color
+#### border\_color
 
 ```python
 @border_color.setter
@@ -627,7 +627,7 @@ def border_color(value: SlateColor) -> None
 
 <a id="unreal.WindowStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @property
@@ -638,7 +638,7 @@ def background_brush() -> SlateBrush
 
 <a id="unreal.WindowStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @background_brush.setter
@@ -647,7 +647,7 @@ def background_brush(value: SlateBrush) -> None
 
 <a id="unreal.WindowStyle.child_background_brush"></a>
 
-#### child_background_brush
+#### child\_background\_brush
 
 ```python
 @property
@@ -658,7 +658,7 @@ def child_background_brush() -> SlateBrush
 
 <a id="unreal.WindowStyle.child_background_brush"></a>
 
-#### child_background_brush
+#### child\_background\_brush
 
 ```python
 @child_background_brush.setter
@@ -667,7 +667,7 @@ def child_background_brush(value: SlateBrush) -> None
 
 <a id="unreal.WindowStyle.window_corner_radius"></a>
 
-#### window_corner_radius
+#### window\_corner\_radius
 
 ```python
 @property
@@ -678,7 +678,7 @@ def window_corner_radius() -> int
 
 <a id="unreal.WindowStyle.window_corner_radius"></a>
 
-#### window_corner_radius
+#### window\_corner\_radius
 
 ```python
 @window_corner_radius.setter
@@ -687,7 +687,7 @@ def window_corner_radius(value: int) -> None
 
 <a id="unreal.WindowStyle.border_padding"></a>
 
-#### border_padding
+#### border\_padding
 
 ```python
 @property
@@ -698,7 +698,7 @@ def border_padding() -> Margin
 
 <a id="unreal.WindowStyle.border_padding"></a>
 
-#### border_padding
+#### border\_padding
 
 ```python
 @border_padding.setter

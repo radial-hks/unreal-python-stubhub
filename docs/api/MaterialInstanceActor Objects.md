@@ -142,7 +142,7 @@ Material Instance Actor
 
 <a id="unreal.MaterialInstanceActor.target_actors"></a>
 
-#### target_actors
+#### target\_actors
 
 ```python
 @property
@@ -153,7 +153,7 @@ def target_actors() -> Array[Actor]
 
 <a id="unreal.MaterialInstanceActor.target_actors"></a>
 
-#### target_actors
+#### target\_actors
 
 ```python
 @target_actors.setter

@@ -17,7 +17,7 @@ Sequencer Outliner Scripting Object
 
 <a id="unreal.SequencerOutlinerScriptingObject.on_selection_changed"></a>
 
-#### on_selection_changed
+#### on\_selection\_changed
 
 ```python
 @property
@@ -28,7 +28,7 @@ def on_selection_changed() -> SequencerOutlinerSelectionChanged
 
 <a id="unreal.SequencerOutlinerScriptingObject.on_selection_changed"></a>
 
-#### on_selection_changed
+#### on\_selection\_changed
 
 ```python
 @on_selection_changed.setter
@@ -37,7 +37,7 @@ def on_selection_changed(value: SequencerOutlinerSelectionChanged) -> None
 
 <a id="unreal.SequencerOutlinerScriptingObject.set_selection"></a>
 
-#### set_selection
+#### set\_selection
 
 ```python
 def set_selection(selection: Array[SequencerViewModelScriptingStruct]) -> None
@@ -51,7 +51,7 @@ Args:
 
 <a id="unreal.SequencerOutlinerScriptingObject.get_selection"></a>
 
-#### get_selection
+#### get\_selection
 
 ```python
 def get_selection() -> Array[SequencerViewModelScriptingStruct]
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.SequencerOutlinerScriptingObject.get_root_node"></a>
 
-#### get_root_node
+#### get\_root\_node
 
 ```python
 def get_root_node() -> SequencerViewModelScriptingStruct
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.SequencerOutlinerScriptingObject.get_children"></a>
 
-#### get_children
+#### get\_children
 
 ```python
 def get_children(

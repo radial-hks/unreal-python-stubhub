@@ -19,7 +19,7 @@ The set with it's section
 
 <a id="unreal.AnimLayerSectionItem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(anim_layer_set: AnimLayerSelectionSet = [None, {}],
@@ -28,7 +28,7 @@ def __init__(anim_layer_set: AnimLayerSelectionSet = [None, {}],
 
 <a id="unreal.AnimLayerSectionItem.anim_layer_set"></a>
 
-#### anim_layer_set
+#### anim\_layer\_set
 
 ```python
 @property
@@ -39,7 +39,7 @@ def anim_layer_set() -> AnimLayerSelectionSet
 
 <a id="unreal.AnimLayerSectionItem.anim_layer_set"></a>
 
-#### anim_layer_set
+#### anim\_layer\_set
 
 ```python
 @anim_layer_set.setter

@@ -23,7 +23,7 @@ Geometry Script Bone Info
 
 <a id="unreal.GeometryScriptBoneInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -81,7 +81,7 @@ def name(value: Name) -> None
 
 <a id="unreal.GeometryScriptBoneInfo.parent_index"></a>
 
-#### parent_index
+#### parent\_index
 
 ```python
 @property
@@ -92,7 +92,7 @@ def parent_index() -> int
 
 <a id="unreal.GeometryScriptBoneInfo.parent_index"></a>
 
-#### parent_index
+#### parent\_index
 
 ```python
 @parent_index.setter
@@ -101,7 +101,7 @@ def parent_index(value: int) -> None
 
 <a id="unreal.GeometryScriptBoneInfo.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @property
@@ -112,7 +112,7 @@ def local_transform() -> Transform
 
 <a id="unreal.GeometryScriptBoneInfo.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @local_transform.setter
@@ -121,7 +121,7 @@ def local_transform(value: Transform) -> None
 
 <a id="unreal.GeometryScriptBoneInfo.world_transform"></a>
 
-#### world_transform
+#### world\_transform
 
 ```python
 @property
@@ -132,7 +132,7 @@ def world_transform() -> Transform
 
 <a id="unreal.GeometryScriptBoneInfo.world_transform"></a>
 
-#### world_transform
+#### world\_transform
 
 ```python
 @world_transform.setter

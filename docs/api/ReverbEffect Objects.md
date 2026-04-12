@@ -29,7 +29,7 @@ Reverb Effect
 
 <a id="unreal.ReverbEffect.bypass_early_reflections"></a>
 
-#### bypass_early_reflections
+#### bypass\_early\_reflections
 
 ```python
 @property
@@ -40,7 +40,7 @@ def bypass_early_reflections() -> bool
 
 <a id="unreal.ReverbEffect.bypass_early_reflections"></a>
 
-#### bypass_early_reflections
+#### bypass\_early\_reflections
 
 ```python
 @bypass_early_reflections.setter
@@ -49,7 +49,7 @@ def bypass_early_reflections(value: bool) -> None
 
 <a id="unreal.ReverbEffect.bypass_late_reflections"></a>
 
-#### bypass_late_reflections
+#### bypass\_late\_reflections
 
 ```python
 @property
@@ -60,7 +60,7 @@ def bypass_late_reflections() -> bool
 
 <a id="unreal.ReverbEffect.bypass_late_reflections"></a>
 
-#### bypass_late_reflections
+#### bypass\_late\_reflections
 
 ```python
 @bypass_late_reflections.setter

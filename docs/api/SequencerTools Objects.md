@@ -15,7 +15,7 @@ gets wrapped by UObjects that have an easier API to work with. This UObject prov
 
 <a id="unreal.SequencerTools.render_movie"></a>
 
-#### render_movie
+#### render\_movie
 
 ```python
 @classmethod
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.SequencerTools.link_anim_sequence"></a>
 
-#### link_anim_sequence
+#### link\_anim\_sequence
 
 ```python
 @classmethod
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.SequencerTools.is_rendering_movie"></a>
 
-#### is_rendering_movie
+#### is\_rendering\_movie
 
 ```python
 @classmethod
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.SequencerTools.is_event_endpoint_valid"></a>
 
-#### is_event_endpoint_valid
+#### is\_event\_endpoint\_valid
 
 ```python
 @classmethod
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.SequencerTools.import_level_sequence_fbx"></a>
 
-#### import_level_sequence_fbx
+#### import\_level\_sequence\_fbx
 
 ```python
 @classmethod
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.SequencerTools.import_fbx_to_control_rig"></a>
 
-#### import_fbx_to_control_rig
+#### import\_fbx\_to\_control\_rig
 
 ```python
 @classmethod
@@ -171,7 +171,7 @@ Returns:
 
 <a id="unreal.SequencerTools.get_object_bindings"></a>
 
-#### get_object_bindings
+#### get\_object\_bindings
 
 ```python
 @classmethod
@@ -195,7 +195,7 @@ Returns:
 
 <a id="unreal.SequencerTools.get_level_sequence_link_from_anim_sequence"></a>
 
-#### get_level_sequence_link_from_anim_sequence
+#### get\_level\_sequence\_link\_from\_anim\_sequence
 
 ```python
 @classmethod
@@ -217,7 +217,7 @@ Returns:
 
 <a id="unreal.SequencerTools.get_bound_objects"></a>
 
-#### get_bound_objects
+#### get\_bound\_objects
 
 ```python
 @classmethod
@@ -242,7 +242,7 @@ Returns:
 
 <a id="unreal.SequencerTools.get_anim_sequence_link_from_level_sequence"></a>
 
-#### get_anim_sequence_link_from_level_sequence
+#### get\_anim\_sequence\_link\_from\_level\_sequence
 
 ```python
 @classmethod
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.SequencerTools.export_level_sequence_fbx"></a>
 
-#### export_level_sequence_fbx
+#### export\_level\_sequence\_fbx
 
 ```python
 @classmethod
@@ -282,7 +282,7 @@ Returns:
 
 <a id="unreal.SequencerTools.export_fbx_from_control_rig"></a>
 
-#### export_fbx_from_control_rig
+#### export\_fbx\_from\_control\_rig
 
 ```python
 @classmethod
@@ -305,7 +305,7 @@ Returns:
 
 <a id="unreal.SequencerTools.export_anim_sequence"></a>
 
-#### export_anim_sequence
+#### export\_anim\_sequence
 
 ```python
 @classmethod
@@ -341,7 +341,7 @@ Returns:
 
 <a id="unreal.SequencerTools.create_quick_binding"></a>
 
-#### create_quick_binding
+#### create\_quick\_binding
 
 ```python
 @classmethod
@@ -364,7 +364,7 @@ Returns:
 
 <a id="unreal.SequencerTools.create_event"></a>
 
-#### create_event
+#### create\_event
 
 ```python
 @classmethod
@@ -391,7 +391,7 @@ Returns:
 
 <a id="unreal.SequencerTools.clear_linked_anim_sequences"></a>
 
-#### clear_linked_anim_sequences
+#### clear\_linked\_anim\_sequences
 
 ```python
 @classmethod
@@ -409,7 +409,7 @@ Args:
 
 <a id="unreal.SequencerTools.cancel_movie_render"></a>
 
-#### cancel_movie_render
+#### cancel\_movie\_render
 
 ```python
 @classmethod

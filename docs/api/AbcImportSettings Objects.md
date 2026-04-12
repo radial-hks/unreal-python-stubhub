@@ -25,7 +25,7 @@ Class that contains all options for importing an alembic file
 
 <a id="unreal.AbcImportSettings.import_type"></a>
 
-#### import_type
+#### import\_type
 
 ```python
 @property
@@ -36,7 +36,7 @@ def import_type() -> AlembicImportType
 
 <a id="unreal.AbcImportSettings.import_type"></a>
 
-#### import_type
+#### import\_type
 
 ```python
 @import_type.setter
@@ -45,7 +45,7 @@ def import_type(value: AlembicImportType) -> None
 
 <a id="unreal.AbcImportSettings.sampling_settings"></a>
 
-#### sampling_settings
+#### sampling\_settings
 
 ```python
 @property
@@ -56,7 +56,7 @@ def sampling_settings() -> AbcSamplingSettings
 
 <a id="unreal.AbcImportSettings.sampling_settings"></a>
 
-#### sampling_settings
+#### sampling\_settings
 
 ```python
 @sampling_settings.setter
@@ -65,7 +65,7 @@ def sampling_settings(value: AbcSamplingSettings) -> None
 
 <a id="unreal.AbcImportSettings.normal_generation_settings"></a>
 
-#### normal_generation_settings
+#### normal\_generation\_settings
 
 ```python
 @property
@@ -76,7 +76,7 @@ def normal_generation_settings() -> AbcNormalGenerationSettings
 
 <a id="unreal.AbcImportSettings.normal_generation_settings"></a>
 
-#### normal_generation_settings
+#### normal\_generation\_settings
 
 ```python
 @normal_generation_settings.setter
@@ -85,7 +85,7 @@ def normal_generation_settings(value: AbcNormalGenerationSettings) -> None
 
 <a id="unreal.AbcImportSettings.material_settings"></a>
 
-#### material_settings
+#### material\_settings
 
 ```python
 @property
@@ -96,7 +96,7 @@ def material_settings() -> AbcMaterialSettings
 
 <a id="unreal.AbcImportSettings.material_settings"></a>
 
-#### material_settings
+#### material\_settings
 
 ```python
 @material_settings.setter
@@ -105,7 +105,7 @@ def material_settings(value: AbcMaterialSettings) -> None
 
 <a id="unreal.AbcImportSettings.compression_settings"></a>
 
-#### compression_settings
+#### compression\_settings
 
 ```python
 @property
@@ -116,7 +116,7 @@ def compression_settings() -> AbcCompressionSettings
 
 <a id="unreal.AbcImportSettings.compression_settings"></a>
 
-#### compression_settings
+#### compression\_settings
 
 ```python
 @compression_settings.setter
@@ -125,7 +125,7 @@ def compression_settings(value: AbcCompressionSettings) -> None
 
 <a id="unreal.AbcImportSettings.static_mesh_settings"></a>
 
-#### static_mesh_settings
+#### static\_mesh\_settings
 
 ```python
 @property
@@ -136,7 +136,7 @@ def static_mesh_settings() -> AbcStaticMeshSettings
 
 <a id="unreal.AbcImportSettings.static_mesh_settings"></a>
 
-#### static_mesh_settings
+#### static\_mesh\_settings
 
 ```python
 @static_mesh_settings.setter
@@ -145,7 +145,7 @@ def static_mesh_settings(value: AbcStaticMeshSettings) -> None
 
 <a id="unreal.AbcImportSettings.geometry_cache_settings"></a>
 
-#### geometry_cache_settings
+#### geometry\_cache\_settings
 
 ```python
 @property
@@ -156,7 +156,7 @@ def geometry_cache_settings() -> AbcGeometryCacheSettings
 
 <a id="unreal.AbcImportSettings.geometry_cache_settings"></a>
 
-#### geometry_cache_settings
+#### geometry\_cache\_settings
 
 ```python
 @geometry_cache_settings.setter
@@ -165,7 +165,7 @@ def geometry_cache_settings(value: AbcGeometryCacheSettings) -> None
 
 <a id="unreal.AbcImportSettings.conversion_settings"></a>
 
-#### conversion_settings
+#### conversion\_settings
 
 ```python
 @property
@@ -176,7 +176,7 @@ def conversion_settings() -> AbcConversionSettings
 
 <a id="unreal.AbcImportSettings.conversion_settings"></a>
 
-#### conversion_settings
+#### conversion\_settings
 
 ```python
 @conversion_settings.setter

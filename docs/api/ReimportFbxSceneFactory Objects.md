@@ -28,7 +28,7 @@ Reimport Fbx Scene Factory
 
 <a id="unreal.ReimportFbxSceneFactory.script_reimport_helper"></a>
 
-#### script_reimport_helper
+#### script\_reimport\_helper
 
 ```python
 def script_reimport_helper(obj: Object) -> None

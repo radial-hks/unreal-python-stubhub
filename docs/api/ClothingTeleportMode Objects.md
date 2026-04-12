@@ -25,13 +25,13 @@ EClothing Teleport Mode
 
 <a id="unreal.ClothingTeleportMode.TELEPORT_AND_RESET"></a>
 
-#### TELEPORT_AND_RESET
+#### TELEPORT\_AND\_RESET
 
 2: Teleport the simulation, causing no intertial effects and reset the sim mesh shape
 
 <a id="unreal.ClothingTeleportMode.HARD_RESET"></a>
 
-#### HARD_RESET
+#### HARD\_RESET
 
 3: Hard reset the simulation by refreshing the cloth config
 

@@ -26,7 +26,7 @@ Rather than having BP tick functions that push data into Niagara this data inter
 
 <a id="unreal.NiagaraDataInterfaceUObjectPropertyReader.set_u_object_reader_property_remap"></a>
 
-#### set_u_object_reader_property_remap
+#### set\_u\_object\_reader\_property\_remap
 
 ```python
 @classmethod

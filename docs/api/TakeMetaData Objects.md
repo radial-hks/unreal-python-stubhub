@@ -26,7 +26,7 @@ Unlock this take if it is read-only, allowing it to be modified once again
 
 <a id="unreal.TakeMetaData.set_timestamp"></a>
 
-#### set_timestamp
+#### set\_timestamp
 
 ```python
 def set_timestamp(timestamp: DateTime) -> None
@@ -41,7 +41,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_timecode_out"></a>
 
-#### set_timecode_out
+#### set\_timecode\_out
 
 ```python
 def set_timecode_out(timecode_out: Timecode) -> None
@@ -56,7 +56,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_timecode_in"></a>
 
-#### set_timecode_in
+#### set\_timecode\_in
 
 ```python
 def set_timecode_in(timecode_in: Timecode) -> None
@@ -71,7 +71,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_take_number"></a>
 
-#### set_take_number
+#### set\_take\_number
 
 ```python
 def set_take_number(take_number: int, emit_changed: bool = True) -> None
@@ -87,7 +87,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_slate"></a>
 
-#### set_slate
+#### set\_slate
 
 ```python
 def set_slate(slate: str, emit_changed: bool = True) -> None
@@ -103,7 +103,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_preset_origin"></a>
 
-#### set_preset_origin
+#### set\_preset\_origin
 
 ```python
 def set_preset_origin(preset_origin: TakePreset) -> None
@@ -118,7 +118,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_level_origin"></a>
 
-#### set_level_origin
+#### set\_level\_origin
 
 ```python
 def set_level_origin(level_origin: Level) -> None
@@ -132,7 +132,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_frame_rate_from_timecode"></a>
 
-#### set_frame_rate_from_timecode
+#### set\_frame\_rate\_from\_timecode
 
 ```python
 def set_frame_rate_from_timecode(from_timecode: bool) -> None
@@ -146,7 +146,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_frame_rate"></a>
 
-#### set_frame_rate
+#### set\_frame\_rate
 
 ```python
 def set_frame_rate(frame_rate: FrameRate) -> None
@@ -161,7 +161,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_duration"></a>
 
-#### set_duration
+#### set\_duration
 
 ```python
 def set_duration(duration: FrameTime) -> None
@@ -176,7 +176,7 @@ Args:
 
 <a id="unreal.TakeMetaData.set_description"></a>
 
-#### set_description
+#### set\_description
 
 ```python
 def set_description(description: str) -> None
@@ -217,7 +217,7 @@ Lock this take, causing it to become read-only
 
 <a id="unreal.TakeMetaData.is_locked"></a>
 
-#### is_locked
+#### is\_locked
 
 ```python
 def is_locked() -> bool
@@ -231,7 +231,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_timestamp"></a>
 
-#### get_timestamp
+#### get\_timestamp
 
 ```python
 def get_timestamp() -> DateTime
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_timecode_out"></a>
 
-#### get_timecode_out
+#### get\_timecode\_out
 
 ```python
 def get_timecode_out() -> Timecode
@@ -259,7 +259,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_timecode_in"></a>
 
-#### get_timecode_in
+#### get\_timecode\_in
 
 ```python
 def get_timecode_in() -> Timecode
@@ -273,7 +273,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_take_number"></a>
 
-#### get_take_number
+#### get\_take\_number
 
 ```python
 def get_take_number() -> int
@@ -287,7 +287,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_slate"></a>
 
-#### get_slate
+#### get\_slate
 
 ```python
 def get_slate() -> str
@@ -301,7 +301,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_preset_origin"></a>
 
-#### get_preset_origin
+#### get\_preset\_origin
 
 ```python
 def get_preset_origin() -> TakePreset
@@ -315,7 +315,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_level_path"></a>
 
-#### get_level_path
+#### get\_level\_path
 
 ```python
 def get_level_path() -> str
@@ -329,7 +329,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_level_origin"></a>
 
-#### get_level_origin
+#### get\_level\_origin
 
 ```python
 def get_level_origin() -> Level
@@ -343,7 +343,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_frame_rate_from_timecode"></a>
 
-#### get_frame_rate_from_timecode
+#### get\_frame\_rate\_from\_timecode
 
 ```python
 def get_frame_rate_from_timecode() -> bool
@@ -357,7 +357,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_frame_rate"></a>
 
-#### get_frame_rate
+#### get\_frame\_rate
 
 ```python
 def get_frame_rate() -> FrameRate
@@ -371,7 +371,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_duration"></a>
 
-#### get_duration
+#### get\_duration
 
 ```python
 def get_duration() -> FrameTime
@@ -385,7 +385,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.get_description"></a>
 
-#### get_description
+#### get\_description
 
 ```python
 def get_description() -> str
@@ -399,7 +399,7 @@ Returns:
 
 <a id="unreal.TakeMetaData.generate_asset_path"></a>
 
-#### generate_asset_path
+#### generate\_asset\_path
 
 ```python
 def generate_asset_path(path_format_string: str) -> str

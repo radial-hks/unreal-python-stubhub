@@ -18,7 +18,7 @@ As the Cheat Manager is not instanced in shipping builds, it is for debugging pu
 
 <a id="unreal.CheatManager.debug_camera_controller_class"></a>
 
-#### debug_camera_controller_class
+#### debug\_camera\_controller\_class
 
 ```python
 @property
@@ -65,7 +65,7 @@ Args:
 
 <a id="unreal.CheatManager.receive_init_cheat_manager"></a>
 
-#### receive_init_cheat_manager
+#### receive\_init\_cheat\_manager
 
 ```python
 def receive_init_cheat_manager() -> None
@@ -76,7 +76,7 @@ BP implementable event for when CheatManager is created to allow any needed init
 
 <a id="unreal.CheatManager.receive_end_play"></a>
 
-#### receive_end_play
+#### receive\_end\_play
 
 ```python
 def receive_end_play() -> None
@@ -87,7 +87,7 @@ This is the End Play event for the CheatManager
 
 <a id="unreal.CheatManager.players_only"></a>
 
-#### players_only
+#### players\_only
 
 ```python
 def players_only() -> None
@@ -120,7 +120,7 @@ Pawn no longer collides with the world, and can fly
 
 <a id="unreal.CheatManager.get_player_controller"></a>
 
-#### get_player_controller
+#### get\_player\_controller
 
 ```python
 def get_player_controller() -> PlayerController
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.CheatManager.freeze_frame"></a>
 
-#### freeze_frame
+#### freeze\_frame
 
 ```python
 def freeze_frame(delay: float) -> None
@@ -159,7 +159,7 @@ Pawn can fly.
 
 <a id="unreal.CheatManager.enable_debug_camera"></a>
 
-#### enable_debug_camera
+#### enable\_debug\_camera
 
 ```python
 def enable_debug_camera() -> None
@@ -170,7 +170,7 @@ Switch controller to debug camera without locking gameplay and with locking loca
 
 <a id="unreal.CheatManager.disable_debug_camera"></a>
 
-#### disable_debug_camera
+#### disable\_debug\_camera
 
 ```python
 def disable_debug_camera() -> None
@@ -181,7 +181,7 @@ Switch controller from debug camera back to normal controller
 
 <a id="unreal.CheatManager.destroy_target"></a>
 
-#### destroy_target
+#### destroy\_target
 
 ```python
 def destroy_target() -> None
@@ -192,7 +192,7 @@ Destroy the actor you're looking at.
 
 <a id="unreal.CheatManager.damage_target"></a>
 
-#### damage_target
+#### damage\_target
 
 ```python
 def damage_target(damage_amount: float) -> None
@@ -206,7 +206,7 @@ Args:
 
 <a id="unreal.CheatManager.change_size"></a>
 
-#### change_size
+#### change\_size
 
 ```python
 def change_size(f: float) -> None

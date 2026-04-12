@@ -20,7 +20,7 @@ Trace Query Test Results Inner
 
 <a id="unreal.TraceQueryTestResultsInner.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -53,7 +53,7 @@ def __init__(
 
 <a id="unreal.TraceQueryTestResultsInner.line_results"></a>
 
-#### line_results
+#### line\_results
 
 ```python
 @property
@@ -64,7 +64,7 @@ def line_results() -> TraceQueryTestResultsInnerMost
 
 <a id="unreal.TraceQueryTestResultsInner.line_results"></a>
 
-#### line_results
+#### line\_results
 
 ```python
 @line_results.setter
@@ -73,7 +73,7 @@ def line_results(value: TraceQueryTestResultsInnerMost) -> None
 
 <a id="unreal.TraceQueryTestResultsInner.sphere_results"></a>
 
-#### sphere_results
+#### sphere\_results
 
 ```python
 @property
@@ -84,7 +84,7 @@ def sphere_results() -> TraceQueryTestResultsInnerMost
 
 <a id="unreal.TraceQueryTestResultsInner.sphere_results"></a>
 
-#### sphere_results
+#### sphere\_results
 
 ```python
 @sphere_results.setter
@@ -93,7 +93,7 @@ def sphere_results(value: TraceQueryTestResultsInnerMost) -> None
 
 <a id="unreal.TraceQueryTestResultsInner.capsule_results"></a>
 
-#### capsule_results
+#### capsule\_results
 
 ```python
 @property
@@ -104,7 +104,7 @@ def capsule_results() -> TraceQueryTestResultsInnerMost
 
 <a id="unreal.TraceQueryTestResultsInner.capsule_results"></a>
 
-#### capsule_results
+#### capsule\_results
 
 ```python
 @capsule_results.setter
@@ -113,7 +113,7 @@ def capsule_results(value: TraceQueryTestResultsInnerMost) -> None
 
 <a id="unreal.TraceQueryTestResultsInner.box_results"></a>
 
-#### box_results
+#### box\_results
 
 ```python
 @property
@@ -124,7 +124,7 @@ def box_results() -> TraceQueryTestResultsInnerMost
 
 <a id="unreal.TraceQueryTestResultsInner.box_results"></a>
 
-#### box_results
+#### box\_results
 
 ```python
 @box_results.setter

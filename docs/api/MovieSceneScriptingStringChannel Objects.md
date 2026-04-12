@@ -18,7 +18,7 @@ Movie Scene Scripting String Channel
 
 <a id="unreal.MovieSceneScriptingStringChannel.set_default"></a>
 
-#### set_default
+#### set\_default
 
 ```python
 def set_default(default_value: str) -> None
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingStringChannel.remove_key"></a>
 
-#### remove_key
+#### remove\_key
 
 ```python
 def remove_key(key: MovieSceneScriptingKey) -> None
@@ -47,7 +47,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingStringChannel.remove_default"></a>
 
-#### remove_default
+#### remove\_default
 
 ```python
 def remove_default() -> None
@@ -58,7 +58,7 @@ Remove this channel's default value causing the channel to have no effect where 
 
 <a id="unreal.MovieSceneScriptingStringChannel.has_default"></a>
 
-#### has_default
+#### has\_default
 
 ```python
 def has_default() -> bool
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingStringChannel.get_keys_by_index"></a>
 
-#### get_keys_by_index
+#### get\_keys\_by\_index
 
 ```python
 def get_keys_by_index(indices: Array[int]) -> Array[MovieSceneScriptingKey]
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingStringChannel.get_keys"></a>
 
-#### get_keys
+#### get\_keys
 
 ```python
 def get_keys() -> Array[MovieSceneScriptingKey]
@@ -104,7 +104,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingStringChannel.get_default"></a>
 
-#### get_default
+#### get\_default
 
 ```python
 def get_default() -> str
@@ -119,7 +119,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingStringChannel.add_key"></a>
 
-#### add_key
+#### add\_key
 
 ```python
 def add_key(

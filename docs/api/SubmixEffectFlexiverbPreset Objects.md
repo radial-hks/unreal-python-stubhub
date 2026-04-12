@@ -38,7 +38,7 @@ def settings(value: SubmixEffectFlexiverbSettings) -> None
 
 <a id="unreal.SubmixEffectFlexiverbPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectFlexiverbSettings) -> None

@@ -21,7 +21,7 @@ Layer Blend Input
 
 <a id="unreal.LayerBlendInput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

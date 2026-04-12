@@ -13,7 +13,7 @@ Per Bone Blend Weights
 
 <a id="unreal.PerBoneBlendWeights.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

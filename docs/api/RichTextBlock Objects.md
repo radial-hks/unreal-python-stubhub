@@ -88,7 +88,7 @@ def text(value: Text) -> None
 
 <a id="unreal.RichTextBlock.text_style_set"></a>
 
-#### text_style_set
+#### text\_style\_set
 
 ```python
 @property
@@ -99,7 +99,7 @@ def text_style_set() -> DataTable
 
 <a id="unreal.RichTextBlock.text_style_set"></a>
 
-#### text_style_set
+#### text\_style\_set
 
 ```python
 @text_style_set.setter
@@ -108,7 +108,7 @@ def text_style_set(value: DataTable) -> None
 
 <a id="unreal.RichTextBlock.default_text_style_override"></a>
 
-#### default_text_style_override
+#### default\_text\_style\_override
 
 ```python
 @property
@@ -119,7 +119,7 @@ def default_text_style_override() -> TextBlockStyle
 
 <a id="unreal.RichTextBlock.default_text_style_override"></a>
 
-#### default_text_style_override
+#### default\_text\_style\_override
 
 ```python
 @default_text_style_override.setter
@@ -128,7 +128,7 @@ def default_text_style_override(value: TextBlockStyle) -> None
 
 <a id="unreal.RichTextBlock.min_desired_width"></a>
 
-#### min_desired_width
+#### min\_desired\_width
 
 ```python
 @property
@@ -139,7 +139,7 @@ def min_desired_width() -> float
 
 <a id="unreal.RichTextBlock.min_desired_width"></a>
 
-#### min_desired_width
+#### min\_desired\_width
 
 ```python
 @min_desired_width.setter
@@ -148,7 +148,7 @@ def min_desired_width(value: float) -> None
 
 <a id="unreal.RichTextBlock.text_transform_policy"></a>
 
-#### text_transform_policy
+#### text\_transform\_policy
 
 ```python
 @property
@@ -159,7 +159,7 @@ def text_transform_policy() -> TextTransformPolicy
 
 <a id="unreal.RichTextBlock.text_transform_policy"></a>
 
-#### text_transform_policy
+#### text\_transform\_policy
 
 ```python
 @text_transform_policy.setter
@@ -168,7 +168,7 @@ def text_transform_policy(value: TextTransformPolicy) -> None
 
 <a id="unreal.RichTextBlock.text_overflow_policy"></a>
 
-#### text_overflow_policy
+#### text\_overflow\_policy
 
 ```python
 @property
@@ -179,7 +179,7 @@ def text_overflow_policy() -> TextOverflowPolicy
 
 <a id="unreal.RichTextBlock.text_overflow_policy"></a>
 
-#### text_overflow_policy
+#### text\_overflow\_policy
 
 ```python
 @text_overflow_policy.setter
@@ -188,7 +188,7 @@ def text_overflow_policy(value: TextOverflowPolicy) -> None
 
 <a id="unreal.RichTextBlock.set_text_transform_policy"></a>
 
-#### set_text_transform_policy
+#### set\_text\_transform\_policy
 
 ```python
 def set_text_transform_policy(transform_policy: TextTransformPolicy) -> None
@@ -202,7 +202,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_text_style_set"></a>
 
-#### set_text_style_set
+#### set\_text\_style\_set
 
 ```python
 def set_text_style_set(new_text_style_set: DataTable) -> None
@@ -216,7 +216,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_text_overflow_policy"></a>
 
-#### set_text_overflow_policy
+#### set\_text\_overflow\_policy
 
 ```python
 def set_text_overflow_policy(overflow_policy: TextOverflowPolicy) -> None
@@ -230,7 +230,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_text"></a>
 
-#### set_text
+#### set\_text
 
 ```python
 def set_text(text: Text) -> None
@@ -245,7 +245,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_min_desired_width"></a>
 
-#### set_min_desired_width
+#### set\_min\_desired\_width
 
 ```python
 def set_min_desired_width(min_desired_width: float) -> None
@@ -259,7 +259,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_default_text_style"></a>
 
-#### set_default_text_style
+#### set\_default\_text\_style
 
 ```python
 def set_default_text_style(default_text_style: TextBlockStyle) -> None
@@ -273,7 +273,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_default_strike_brush"></a>
 
-#### set_default_strike_brush
+#### set\_default\_strike\_brush
 
 ```python
 def set_default_strike_brush(strike_brush: SlateBrush) -> None
@@ -287,7 +287,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_default_shadow_offset"></a>
 
-#### set_default_shadow_offset
+#### set\_default\_shadow\_offset
 
 ```python
 def set_default_shadow_offset(shadow_offset: Vector2D) -> None
@@ -301,7 +301,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_default_shadow_color_and_opacity"></a>
 
-#### set_default_shadow_color_and_opacity
+#### set\_default\_shadow\_color\_and\_opacity
 
 ```python
 def set_default_shadow_color_and_opacity(
@@ -317,7 +317,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_default_material"></a>
 
-#### set_default_material
+#### set\_default\_material
 
 ```python
 def set_default_material(material: MaterialInterface) -> None
@@ -331,7 +331,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_default_font"></a>
 
-#### set_default_font
+#### set\_default\_font
 
 ```python
 def set_default_font(font_info: SlateFontInfo) -> None
@@ -345,7 +345,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_default_color_and_opacity"></a>
 
-#### set_default_color_and_opacity
+#### set\_default\_color\_and\_opacity
 
 ```python
 def set_default_color_and_opacity(color_and_opacity: SlateColor) -> None
@@ -359,7 +359,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_decorators"></a>
 
-#### set_decorators
+#### set\_decorators
 
 ```python
 def set_decorators(decorator_classes: Array[Class]) -> None
@@ -373,7 +373,7 @@ Args:
 
 <a id="unreal.RichTextBlock.set_auto_wrap_text"></a>
 
-#### set_auto_wrap_text
+#### set\_auto\_wrap\_text
 
 ```python
 def set_auto_wrap_text(auto_text_wrap: bool) -> None
@@ -387,7 +387,7 @@ Args:
 
 <a id="unreal.RichTextBlock.refresh_text_layout"></a>
 
-#### refresh_text_layout
+#### refresh\_text\_layout
 
 ```python
 def refresh_text_layout() -> None
@@ -398,7 +398,7 @@ Causes the text to reflow it's layout and re-evaluate any decorators
 
 <a id="unreal.RichTextBlock.get_text_style_set"></a>
 
-#### get_text_style_set
+#### get\_text\_style\_set
 
 ```python
 def get_text_style_set() -> DataTable
@@ -412,7 +412,7 @@ Returns:
 
 <a id="unreal.RichTextBlock.get_text"></a>
 
-#### get_text
+#### get\_text
 
 ```python
 def get_text() -> Text
@@ -426,7 +426,7 @@ Returns:
 
 <a id="unreal.RichTextBlock.get_default_dynamic_material"></a>
 
-#### get_default_dynamic_material
+#### get\_default\_dynamic\_material
 
 ```python
 def get_default_dynamic_material() -> MaterialInstanceDynamic
@@ -441,7 +441,7 @@ Returns:
 
 <a id="unreal.RichTextBlock.get_decorator_by_class"></a>
 
-#### get_decorator_by_class
+#### get\_decorator\_by\_class
 
 ```python
 def get_decorator_by_class(decorator_class: Class) -> RichTextBlockDecorator
@@ -458,7 +458,7 @@ Returns:
 
 <a id="unreal.RichTextBlock.clear_all_default_style_overrides"></a>
 
-#### clear_all_default_style_overrides
+#### clear\_all\_default\_style\_overrides
 
 ```python
 def clear_all_default_style_overrides() -> None

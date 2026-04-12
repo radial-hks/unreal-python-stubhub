@@ -33,7 +33,7 @@ Example usage:
 
 <a id="unreal.ViewportStatsSubsystem.remove_display_delegate"></a>
 
-#### remove_display_delegate
+#### remove\_display\_delegate
 
 ```python
 def remove_display_delegate(index_to_remove: int) -> None
@@ -47,7 +47,7 @@ Args:
 
 <a id="unreal.ViewportStatsSubsystem.add_timed_display"></a>
 
-#### add_timed_display
+#### add\_timed\_display
 
 ```python
 def add_timed_display(text: Text,
@@ -69,7 +69,7 @@ Args:
 
 <a id="unreal.ViewportStatsSubsystem.add_display_delegate"></a>
 
-#### add_display_delegate
+#### add\_display\_delegate
 
 ```python
 def add_display_delegate(delegate: ViewportDisplayCallback) -> int

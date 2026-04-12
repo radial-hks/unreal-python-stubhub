@@ -21,7 +21,7 @@ UStruct used to define user-exposed params for use with your effect.
 
 <a id="unreal.SubmixEffectTapDelaySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(maximum_delay_length: float = 0.000000,
@@ -31,7 +31,7 @@ def __init__(maximum_delay_length: float = 0.000000,
 
 <a id="unreal.SubmixEffectTapDelaySettings.maximum_delay_length"></a>
 
-#### maximum_delay_length
+#### maximum\_delay\_length
 
 ```python
 @property
@@ -42,7 +42,7 @@ def maximum_delay_length() -> float
 
 <a id="unreal.SubmixEffectTapDelaySettings.maximum_delay_length"></a>
 
-#### maximum_delay_length
+#### maximum\_delay\_length
 
 ```python
 @maximum_delay_length.setter
@@ -51,7 +51,7 @@ def maximum_delay_length(value: float) -> None
 
 <a id="unreal.SubmixEffectTapDelaySettings.interpolation_time"></a>
 
-#### interpolation_time
+#### interpolation\_time
 
 ```python
 @property
@@ -62,7 +62,7 @@ def interpolation_time() -> float
 
 <a id="unreal.SubmixEffectTapDelaySettings.interpolation_time"></a>
 
-#### interpolation_time
+#### interpolation\_time
 
 ```python
 @interpolation_time.setter

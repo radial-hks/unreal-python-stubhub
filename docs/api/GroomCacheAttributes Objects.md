@@ -38,26 +38,26 @@ Attributes in groom that can be animated
 
 <a id="unreal.GroomCacheAttributes.POSITION_WIDTH"></a>
 
-#### POSITION_WIDTH
+#### POSITION\_WIDTH
 
 3: For display names
 
 <a id="unreal.GroomCacheAttributes.POSITION_COLOR"></a>
 
-#### POSITION_COLOR
+#### POSITION\_COLOR
 
 5
 
 <a id="unreal.GroomCacheAttributes.WIDTH_COLOR"></a>
 
-#### WIDTH_COLOR
+#### WIDTH\_COLOR
 
 5
 
 <a id="unreal.GroomCacheAttributes.POSITION_WIDTH_COLOR"></a>
 
-#### POSITION_WIDTH_COLOR
+#### POSITION\_WIDTH\_COLOR
 
 7
 
-<a id="unreal.RigVMDrawSettings"></a>
+<a id="unreal.CesiumPropertyComponentType_DEPRECATED"></a>

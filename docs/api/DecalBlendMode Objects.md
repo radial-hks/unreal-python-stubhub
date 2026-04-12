@@ -13,85 +13,85 @@ Defines how the GBuffer channels are getting manipulated by a decal material pas
 
 <a id="unreal.DecalBlendMode.DBM_TRANSLUCENT"></a>
 
-#### DBM_TRANSLUCENT
+#### DBM\_TRANSLUCENT
 
 0: Blend full material, updating the GBuffer, does not work for baked lighting.
 
 <a id="unreal.DecalBlendMode.DBM_STAIN"></a>
 
-#### DBM_STAIN
+#### DBM\_STAIN
 
 1: Modulate BaseColor, blend rest, updating the GBuffer, does not work for baked lighting. Does not work in DBuffer mode (approximated as Translucent).
 
 <a id="unreal.DecalBlendMode.DBM_NORMAL"></a>
 
-#### DBM_NORMAL
+#### DBM\_NORMAL
 
 2: Only blend normal, updating the GBuffer, does not work for baked lighting.
 
 <a id="unreal.DecalBlendMode.DBM_EMISSIVE"></a>
 
-#### DBM_EMISSIVE
+#### DBM\_EMISSIVE
 
 3: Additive emissive only.
 
 <a id="unreal.DecalBlendMode.DBM_D_BUFFER_COLOR_NORMAL_ROUGHNESS"></a>
 
-#### DBM_D_BUFFER_COLOR_NORMAL_ROUGHNESS
+#### DBM\_D\_BUFFER\_COLOR\_NORMAL\_ROUGHNESS
 
 4: Put into DBuffer to work for baked lighting as well (becomes DBM_TranslucentNormal if normal is not hooked up).
 
 <a id="unreal.DecalBlendMode.DBM_D_BUFFER_COLOR"></a>
 
-#### DBM_D_BUFFER_COLOR
+#### DBM\_D\_BUFFER\_COLOR
 
 5: Put into DBuffer to work for baked lighting as well.
 
 <a id="unreal.DecalBlendMode.DBM_D_BUFFER_COLOR_NORMAL"></a>
 
-#### DBM_D_BUFFER_COLOR_NORMAL
+#### DBM\_D\_BUFFER\_COLOR\_NORMAL
 
 6: Put into DBuffer to work for baked lighting as well (becomes DBM_DBuffer_Color if normal is not hooked up).
 
 <a id="unreal.DecalBlendMode.DBM_D_BUFFER_COLOR_ROUGHNESS"></a>
 
-#### DBM_D_BUFFER_COLOR_ROUGHNESS
+#### DBM\_D\_BUFFER\_COLOR\_ROUGHNESS
 
 7: Put into DBuffer to work for baked lighting as well.
 
 <a id="unreal.DecalBlendMode.DBM_D_BUFFER_NORMAL"></a>
 
-#### DBM_D_BUFFER_NORMAL
+#### DBM\_D\_BUFFER\_NORMAL
 
 8: Put into DBuffer to work for baked lighting as well.
 
 <a id="unreal.DecalBlendMode.DBM_D_BUFFER_NORMAL_ROUGHNESS"></a>
 
-#### DBM_D_BUFFER_NORMAL_ROUGHNESS
+#### DBM\_D\_BUFFER\_NORMAL\_ROUGHNESS
 
 9: Put into DBuffer to work for baked lighting as well (becomes DBM_DBuffer_Roughness if normal is not hooked up).
 
 <a id="unreal.DecalBlendMode.DBM_D_BUFFER_ROUGHNESS"></a>
 
-#### DBM_D_BUFFER_ROUGHNESS
+#### DBM\_D\_BUFFER\_ROUGHNESS
 
 10: Put into DBuffer to work for baked lighting as well.
 
 <a id="unreal.DecalBlendMode.DBM_VOLUMETRIC_DISTANCE_FUNCTION"></a>
 
-#### DBM_VOLUMETRIC_DISTANCE_FUNCTION
+#### DBM\_VOLUMETRIC\_DISTANCE\_FUNCTION
 
 14: Output signed distance in Opacity depending on LightVector. Note: Can be costly, no shadow casting but receiving, no per pixel normal yet, no quality settings yet
 
 <a id="unreal.DecalBlendMode.DBM_ALPHA_COMPOSITE"></a>
 
-#### DBM_ALPHA_COMPOSITE
+#### DBM\_ALPHA\_COMPOSITE
 
 15: Blend with existing scene color. Decal color is already pre-multiplied by alpha.
 
 <a id="unreal.DecalBlendMode.DBM_AMBIENT_OCCLUSION"></a>
 
-#### DBM_AMBIENT_OCCLUSION
+#### DBM\_AMBIENT\_OCCLUSION
 
 16: Ambient occlusion.
 

@@ -13,7 +13,7 @@ Event used by AActor::TakeDamage and related functions
 
 <a id="unreal.DamageEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

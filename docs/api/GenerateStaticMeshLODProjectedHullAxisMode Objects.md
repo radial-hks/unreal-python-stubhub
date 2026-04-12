@@ -32,14 +32,14 @@ EGenerate Static Mesh LODProjected Hull Axis Mode
 
 <a id="unreal.GenerateStaticMeshLODProjectedHullAxisMode.SMALLEST_BOX_DIMENSION"></a>
 
-#### SMALLEST_BOX_DIMENSION
+#### SMALLEST\_BOX\_DIMENSION
 
 3
 
 <a id="unreal.GenerateStaticMeshLODProjectedHullAxisMode.SMALLEST_VOLUME"></a>
 
-#### SMALLEST_VOLUME
+#### SMALLEST\_VOLUME
 
 4
 
-<a id="unreal.LiveLinkSourceMode"></a>
+<a id="unreal.MassRepresentationType"></a>

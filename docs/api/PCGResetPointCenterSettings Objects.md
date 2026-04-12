@@ -34,7 +34,7 @@ Modify the position of a point within its bounds, while keeping its bounds the s
 
 <a id="unreal.PCGResetPointCenterSettings.point_center_location"></a>
 
-#### point_center_location
+#### point\_center\_location
 
 ```python
 @property
@@ -45,7 +45,7 @@ def point_center_location() -> Vector
 
 <a id="unreal.PCGResetPointCenterSettings.point_center_location"></a>
 
-#### point_center_location
+#### point\_center\_location
 
 ```python
 @point_center_location.setter

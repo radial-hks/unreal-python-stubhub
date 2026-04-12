@@ -20,4 +20,4 @@ Anim Sharing Instance
 - ``state_processor`` (AnimationSharingStateProcessor):  [Read-Write] (Blueprint)class instance used for determining the state enum value for each registered actor
 - ``used_animation_sequences`` (Array[AnimSequence]):  [Read-Only]
 
-<a id="unreal.CameraRigProxyAsset"></a>
+<a id="unreal.RigVMActionStack"></a>

@@ -15,13 +15,13 @@ Should we use the specified color? If not, then which color from the style shoul
 
 <a id="unreal.SlateColorStylingMode.USE_COLOR_SPECIFIED"></a>
 
-#### USE_COLOR_SPECIFIED
+#### USE\_COLOR\_SPECIFIED
 
 0: Color value is stored in this Slate color.
 
 <a id="unreal.SlateColorStylingMode.USE_COLOR_FOREGROUND"></a>
 
-#### USE_COLOR_FOREGROUND
+#### USE\_COLOR\_FOREGROUND
 
 2: Use the widget's foreground color.
 

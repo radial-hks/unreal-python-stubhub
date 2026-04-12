@@ -20,7 +20,7 @@ Lidar Point Cloud Trace Hit
 
 <a id="unreal.LidarPointCloudTraceHit.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(actor: LidarPointCloudActor = None,

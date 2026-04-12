@@ -19,7 +19,7 @@ Contains what is necessary to uniquely identify a material on a component, wheth
 
 <a id="unreal.ComponentMaterialInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -31,7 +31,7 @@ def __init__(
 
 <a id="unreal.ComponentMaterialInfo.material_slot_name"></a>
 
-#### material_slot_name
+#### material\_slot\_name
 
 ```python
 @property
@@ -42,7 +42,7 @@ def material_slot_name() -> Name
 
 <a id="unreal.ComponentMaterialInfo.material_slot_name"></a>
 
-#### material_slot_name
+#### material\_slot\_name
 
 ```python
 @material_slot_name.setter
@@ -51,7 +51,7 @@ def material_slot_name(value: Name) -> None
 
 <a id="unreal.ComponentMaterialInfo.material_slot_index"></a>
 
-#### material_slot_index
+#### material\_slot\_index
 
 ```python
 @property
@@ -62,7 +62,7 @@ def material_slot_index() -> int
 
 <a id="unreal.ComponentMaterialInfo.material_slot_index"></a>
 
-#### material_slot_index
+#### material\_slot\_index
 
 ```python
 @material_slot_index.setter
@@ -71,7 +71,7 @@ def material_slot_index(value: int) -> None
 
 <a id="unreal.ComponentMaterialInfo.material_type"></a>
 
-#### material_type
+#### material\_type
 
 ```python
 @property
@@ -82,7 +82,7 @@ def material_type() -> ComponentMaterialType
 
 <a id="unreal.ComponentMaterialInfo.material_type"></a>
 
-#### material_type
+#### material\_type
 
 ```python
 @material_type.setter

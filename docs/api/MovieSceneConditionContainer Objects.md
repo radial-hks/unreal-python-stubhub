@@ -17,7 +17,7 @@ class MovieSceneConditionContainer(StructBase)
 
 <a id="unreal.MovieSceneConditionContainer.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(condition: MovieSceneCondition = None) -> None

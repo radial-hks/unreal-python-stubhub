@@ -192,7 +192,7 @@ ShapeComponents generate geometry that is used for collision detection but are n
 
 <a id="unreal.PrimitiveComponent.min_draw_distance"></a>
 
-#### min_draw_distance
+#### min\_draw\_distance
 
 ```python
 @property
@@ -204,7 +204,7 @@ measured in world space units from the center of the primitive's bounding sphere
 
 <a id="unreal.PrimitiveComponent.ld_max_draw_distance"></a>
 
-#### ld_max_draw_distance
+#### ld\_max\_draw\_distance
 
 ```python
 @property
@@ -215,7 +215,7 @@ def ld_max_draw_distance() -> float
 
 <a id="unreal.PrimitiveComponent.cached_max_draw_distance"></a>
 
-#### cached_max_draw_distance
+#### cached\_max\_draw\_distance
 
 ```python
 @property
@@ -227,7 +227,7 @@ A CachedMaxDrawDistance of 0 indicates that the primitive should not be culled b
 
 <a id="unreal.PrimitiveComponent.indirect_lighting_cache_quality"></a>
 
-#### indirect_lighting_cache_quality
+#### indirect\_lighting\_cache\_quality
 
 ```python
 @property
@@ -238,7 +238,7 @@ def indirect_lighting_cache_quality() -> IndirectLightingCacheQuality
 
 <a id="unreal.PrimitiveComponent.lightmap_type"></a>
 
-#### lightmap_type
+#### lightmap\_type
 
 ```python
 @property
@@ -249,7 +249,7 @@ def lightmap_type() -> LightmapType
 
 <a id="unreal.PrimitiveComponent.hlod_batching_policy"></a>
 
-#### hlod_batching_policy
+#### hlod\_batching\_policy
 
 ```python
 @property
@@ -260,7 +260,7 @@ def hlod_batching_policy() -> HLODBatchingPolicy
 
 <a id="unreal.PrimitiveComponent.hlod_batching_policy"></a>
 
-#### hlod_batching_policy
+#### hlod\_batching\_policy
 
 ```python
 @hlod_batching_policy.setter
@@ -269,7 +269,7 @@ def hlod_batching_policy(value: HLODBatchingPolicy) -> None
 
 <a id="unreal.PrimitiveComponent.shadow_cache_invalidation_behavior"></a>
 
-#### shadow_cache_invalidation_behavior
+#### shadow\_cache\_invalidation\_behavior
 
 ```python
 @property
@@ -280,7 +280,7 @@ def shadow_cache_invalidation_behavior() -> ShadowCacheInvalidationBehavior
 
 <a id="unreal.PrimitiveComponent.enable_auto_lod_generation"></a>
 
-#### enable_auto_lod_generation
+#### enable\_auto\_lod\_generation
 
 ```python
 @property
@@ -291,7 +291,7 @@ def enable_auto_lod_generation() -> bool
 
 <a id="unreal.PrimitiveComponent.enable_auto_lod_generation"></a>
 
-#### enable_auto_lod_generation
+#### enable\_auto\_lod\_generation
 
 ```python
 @enable_auto_lod_generation.setter
@@ -300,7 +300,7 @@ def enable_auto_lod_generation(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.never_distance_cull"></a>
 
-#### never_distance_cull
+#### never\_distance\_cull
 
 ```python
 @property
@@ -311,7 +311,7 @@ def never_distance_cull() -> bool
 
 <a id="unreal.PrimitiveComponent.always_create_physics_state"></a>
 
-#### always_create_physics_state
+#### always\_create\_physics\_state
 
 ```python
 @property
@@ -324,7 +324,7 @@ This can help performance if you'd like to avoid overhead of creating physics st
 
 <a id="unreal.PrimitiveComponent.generate_overlap_events"></a>
 
-#### generate_overlap_events
+#### generate\_overlap\_events
 
 ```python
 @property
@@ -335,7 +335,7 @@ def generate_overlap_events() -> bool
 
 <a id="unreal.PrimitiveComponent.generate_overlap_events"></a>
 
-#### generate_overlap_events
+#### generate\_overlap\_events
 
 ```python
 @generate_overlap_events.setter
@@ -344,7 +344,7 @@ def generate_overlap_events(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.multi_body_overlap"></a>
 
-#### multi_body_overlap
+#### multi\_body\_overlap
 
 ```python
 @property
@@ -357,7 +357,7 @@ influence on single body components.
 
 <a id="unreal.PrimitiveComponent.multi_body_overlap"></a>
 
-#### multi_body_overlap
+#### multi\_body\_overlap
 
 ```python
 @multi_body_overlap.setter
@@ -366,7 +366,7 @@ def multi_body_overlap(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.trace_complex_on_move"></a>
 
-#### trace_complex_on_move
+#### trace\_complex\_on\_move
 
 ```python
 @property
@@ -379,7 +379,7 @@ see: MoveComponent()
 
 <a id="unreal.PrimitiveComponent.trace_complex_on_move"></a>
 
-#### trace_complex_on_move
+#### trace\_complex\_on\_move
 
 ```python
 @trace_complex_on_move.setter
@@ -388,7 +388,7 @@ def trace_complex_on_move(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.return_material_on_move"></a>
 
-#### return_material_on_move
+#### return\_material\_on\_move
 
 ```python
 @property
@@ -400,7 +400,7 @@ see: MoveComponent(), FHitResult
 
 <a id="unreal.PrimitiveComponent.return_material_on_move"></a>
 
-#### return_material_on_move
+#### return\_material\_on\_move
 
 ```python
 @return_material_on_move.setter
@@ -409,7 +409,7 @@ def return_material_on_move(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.allow_cull_distance_volume"></a>
 
-#### allow_cull_distance_volume
+#### allow\_cull\_distance\_volume
 
 ```python
 @property
@@ -420,7 +420,7 @@ def allow_cull_distance_volume() -> bool
 
 <a id="unreal.PrimitiveComponent.visible_in_reflection_captures"></a>
 
-#### visible_in_reflection_captures
+#### visible\_in\_reflection\_captures
 
 ```python
 @property
@@ -431,7 +431,7 @@ def visible_in_reflection_captures() -> bool
 
 <a id="unreal.PrimitiveComponent.visible_in_real_time_sky_captures"></a>
 
-#### visible_in_real_time_sky_captures
+#### visible\_in\_real\_time\_sky\_captures
 
 ```python
 @property
@@ -442,7 +442,7 @@ def visible_in_real_time_sky_captures() -> bool
 
 <a id="unreal.PrimitiveComponent.visible_in_ray_tracing"></a>
 
-#### visible_in_ray_tracing
+#### visible\_in\_ray\_tracing
 
 ```python
 @property
@@ -453,7 +453,7 @@ def visible_in_ray_tracing() -> bool
 
 <a id="unreal.PrimitiveComponent.render_in_main_pass"></a>
 
-#### render_in_main_pass
+#### render\_in\_main\_pass
 
 ```python
 @property
@@ -464,7 +464,7 @@ def render_in_main_pass() -> bool
 
 <a id="unreal.PrimitiveComponent.render_in_depth_pass"></a>
 
-#### render_in_depth_pass
+#### render\_in\_depth\_pass
 
 ```python
 @property
@@ -475,7 +475,7 @@ def render_in_depth_pass() -> bool
 
 <a id="unreal.PrimitiveComponent.receives_decals"></a>
 
-#### receives_decals
+#### receives\_decals
 
 ```python
 @property
@@ -497,7 +497,7 @@ def holdout() -> bool
 
 <a id="unreal.PrimitiveComponent.owner_no_see"></a>
 
-#### owner_no_see
+#### owner\_no\_see
 
 ```python
 @property
@@ -508,7 +508,7 @@ def owner_no_see() -> bool
 
 <a id="unreal.PrimitiveComponent.only_owner_see"></a>
 
-#### only_owner_see
+#### only\_owner\_see
 
 ```python
 @property
@@ -519,7 +519,7 @@ def only_owner_see() -> bool
 
 <a id="unreal.PrimitiveComponent.treat_as_background_for_occlusion"></a>
 
-#### treat_as_background_for_occlusion
+#### treat\_as\_background\_for\_occlusion
 
 ```python
 @property
@@ -530,7 +530,7 @@ def treat_as_background_for_occlusion() -> bool
 
 <a id="unreal.PrimitiveComponent.use_as_occluder"></a>
 
-#### use_as_occluder
+#### use\_as\_occluder
 
 ```python
 @property
@@ -543,7 +543,7 @@ todo: if any rendering features rely on a complete depth only pass, this variabl
 
 <a id="unreal.PrimitiveComponent.force_mip_streaming"></a>
 
-#### force_mip_streaming
+#### force\_mip\_streaming
 
 ```python
 @property
@@ -554,7 +554,7 @@ def force_mip_streaming() -> bool
 
 <a id="unreal.PrimitiveComponent.cast_shadow"></a>
 
-#### cast_shadow
+#### cast\_shadow
 
 ```python
 @property
@@ -565,7 +565,7 @@ def cast_shadow() -> bool
 
 <a id="unreal.PrimitiveComponent.emissive_light_source"></a>
 
-#### emissive_light_source
+#### emissive\_light\_source
 
 ```python
 @property
@@ -576,7 +576,7 @@ def emissive_light_source() -> bool
 
 <a id="unreal.PrimitiveComponent.affect_dynamic_indirect_lighting"></a>
 
-#### affect_dynamic_indirect_lighting
+#### affect\_dynamic\_indirect\_lighting
 
 ```python
 @property
@@ -587,7 +587,7 @@ def affect_dynamic_indirect_lighting() -> bool
 
 <a id="unreal.PrimitiveComponent.affect_indirect_lighting_while_hidden"></a>
 
-#### affect_indirect_lighting_while_hidden
+#### affect\_indirect\_lighting\_while\_hidden
 
 ```python
 @property
@@ -598,7 +598,7 @@ def affect_indirect_lighting_while_hidden() -> bool
 
 <a id="unreal.PrimitiveComponent.affect_distance_field_lighting"></a>
 
-#### affect_distance_field_lighting
+#### affect\_distance\_field\_lighting
 
 ```python
 @property
@@ -609,7 +609,7 @@ def affect_distance_field_lighting() -> bool
 
 <a id="unreal.PrimitiveComponent.cast_dynamic_shadow"></a>
 
-#### cast_dynamic_shadow
+#### cast\_dynamic\_shadow
 
 ```python
 @property
@@ -620,7 +620,7 @@ def cast_dynamic_shadow() -> bool
 
 <a id="unreal.PrimitiveComponent.cast_static_shadow"></a>
 
-#### cast_static_shadow
+#### cast\_static\_shadow
 
 ```python
 @property
@@ -631,7 +631,7 @@ def cast_static_shadow() -> bool
 
 <a id="unreal.PrimitiveComponent.cast_volumetric_translucent_shadow"></a>
 
-#### cast_volumetric_translucent_shadow
+#### cast\_volumetric\_translucent\_shadow
 
 ```python
 @property
@@ -644,7 +644,7 @@ But have artifacts when used on highly opaque surfaces.
 
 <a id="unreal.PrimitiveComponent.cast_contact_shadow"></a>
 
-#### cast_contact_shadow
+#### cast\_contact\_shadow
 
 ```python
 @property
@@ -656,7 +656,7 @@ This flag is only used if CastShadow is true.
 
 <a id="unreal.PrimitiveComponent.self_shadow_only"></a>
 
-#### self_shadow_only
+#### self\_shadow\_only
 
 ```python
 @property
@@ -668,7 +668,7 @@ This is especially useful for first person weapons, and forces bCastInsetShadow 
 
 <a id="unreal.PrimitiveComponent.cast_far_shadow"></a>
 
-#### cast_far_shadow
+#### cast\_far\_shadow
 
 ```python
 @property
@@ -679,7 +679,7 @@ def cast_far_shadow() -> bool
 
 <a id="unreal.PrimitiveComponent.cast_inset_shadow"></a>
 
-#### cast_inset_shadow
+#### cast\_inset\_shadow
 
 ```python
 @property
@@ -691,7 +691,7 @@ Useful for cinematic character shadowing. Assumed to be enabled if bSelfShadowOn
 
 <a id="unreal.PrimitiveComponent.cast_cinematic_shadow"></a>
 
-#### cast_cinematic_shadow
+#### cast\_cinematic\_shadow
 
 ```python
 @property
@@ -703,7 +703,7 @@ This is useful for characters in a cinematic with special cinematic lights, wher
 
 <a id="unreal.PrimitiveComponent.cast_hidden_shadow"></a>
 
-#### cast_hidden_shadow
+#### cast\_hidden\_shadow
 
 ```python
 @property
@@ -716,7 +716,7 @@ This flag is only used if CastShadow is true.
 
 <a id="unreal.PrimitiveComponent.cast_shadow_as_two_sided"></a>
 
-#### cast_shadow_as_two_sided
+#### cast\_shadow\_as\_two\_sided
 
 ```python
 @property
@@ -727,7 +727,7 @@ def cast_shadow_as_two_sided() -> bool
 
 <a id="unreal.PrimitiveComponent.light_attachments_as_group"></a>
 
-#### light_attachments_as_group
+#### light\_attachments\_as\_group
 
 ```python
 @property
@@ -740,7 +740,7 @@ This is useful for improving performance when multiple movable components are at
 
 <a id="unreal.PrimitiveComponent.exclude_from_light_attachment_group"></a>
 
-#### exclude_from_light_attachment_group
+#### exclude\_from\_light\_attachment\_group
 
 ```python
 @property
@@ -751,7 +751,7 @@ def exclude_from_light_attachment_group() -> bool
 
 <a id="unreal.PrimitiveComponent.receive_mobile_csm_shadows"></a>
 
-#### receive_mobile_csm_shadows
+#### receive\_mobile\_csm\_shadows
 
 ```python
 @property
@@ -763,7 +763,7 @@ If disabled this component will not receive CSM shadows. (Components that do not
 
 <a id="unreal.PrimitiveComponent.single_sample_shadow_from_stationary_lights"></a>
 
-#### single_sample_shadow_from_stationary_lights
+#### single\_sample\_shadow\_from\_stationary\_lights
 
 ```python
 @property
@@ -776,7 +776,7 @@ This is currently only used on stationary directional lights.
 
 <a id="unreal.PrimitiveComponent.ignore_radial_impulse"></a>
 
-#### ignore_radial_impulse
+#### ignore\_radial\_impulse
 
 ```python
 @property
@@ -787,7 +787,7 @@ def ignore_radial_impulse() -> bool
 
 <a id="unreal.PrimitiveComponent.ignore_radial_impulse"></a>
 
-#### ignore_radial_impulse
+#### ignore\_radial\_impulse
 
 ```python
 @ignore_radial_impulse.setter
@@ -796,7 +796,7 @@ def ignore_radial_impulse(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.ignore_radial_force"></a>
 
-#### ignore_radial_force
+#### ignore\_radial\_force
 
 ```python
 @property
@@ -807,7 +807,7 @@ def ignore_radial_force() -> bool
 
 <a id="unreal.PrimitiveComponent.ignore_radial_force"></a>
 
-#### ignore_radial_force
+#### ignore\_radial\_force
 
 ```python
 @ignore_radial_force.setter
@@ -816,7 +816,7 @@ def ignore_radial_force(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.apply_impulse_on_damage"></a>
 
-#### apply_impulse_on_damage
+#### apply\_impulse\_on\_damage
 
 ```python
 @property
@@ -827,7 +827,7 @@ def apply_impulse_on_damage() -> bool
 
 <a id="unreal.PrimitiveComponent.apply_impulse_on_damage"></a>
 
-#### apply_impulse_on_damage
+#### apply\_impulse\_on\_damage
 
 ```python
 @apply_impulse_on_damage.setter
@@ -836,7 +836,7 @@ def apply_impulse_on_damage(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.replicate_physics_to_autonomous_proxy"></a>
 
-#### replicate_physics_to_autonomous_proxy
+#### replicate\_physics\_to\_autonomous\_proxy
 
 ```python
 @property
@@ -848,7 +848,7 @@ def replicate_physics_to_autonomous_proxy() -> bool
 
 <a id="unreal.PrimitiveComponent.replicate_physics_to_autonomous_proxy"></a>
 
-#### replicate_physics_to_autonomous_proxy
+#### replicate\_physics\_to\_autonomous\_proxy
 
 ```python
 @replicate_physics_to_autonomous_proxy.setter
@@ -857,7 +857,7 @@ def replicate_physics_to_autonomous_proxy(value: bool) -> None
 
 <a id="unreal.PrimitiveComponent.render_custom_depth"></a>
 
-#### render_custom_depth
+#### render\_custom\_depth
 
 ```python
 @property
@@ -868,7 +868,7 @@ def render_custom_depth() -> bool
 
 <a id="unreal.PrimitiveComponent.visible_in_scene_capture_only"></a>
 
-#### visible_in_scene_capture_only
+#### visible\_in\_scene\_capture\_only
 
 ```python
 @property
@@ -879,7 +879,7 @@ def visible_in_scene_capture_only() -> bool
 
 <a id="unreal.PrimitiveComponent.hidden_in_scene_capture"></a>
 
-#### hidden_in_scene_capture
+#### hidden\_in\_scene\_capture
 
 ```python
 @property
@@ -890,7 +890,7 @@ def hidden_in_scene_capture() -> bool
 
 <a id="unreal.PrimitiveComponent.first_person_primitive_type"></a>
 
-#### first_person_primitive_type
+#### first\_person\_primitive\_type
 
 ```python
 @property
@@ -901,7 +901,7 @@ def first_person_primitive_type() -> FirstPersonPrimitiveType
 
 <a id="unreal.PrimitiveComponent.static_when_not_moveable"></a>
 
-#### static_when_not_moveable
+#### static\_when\_not\_moveable
 
 ```python
 @property
@@ -912,7 +912,7 @@ def static_when_not_moveable() -> bool
 
 <a id="unreal.PrimitiveComponent.exclude_for_specific_hlod_levels"></a>
 
-#### exclude_for_specific_hlod_levels
+#### exclude\_for\_specific\_hlod\_levels
 
 ```python
 @property
@@ -924,7 +924,7 @@ deprecated: WARNING: This property has been deprecated, use the SetExcludedFromH
 
 <a id="unreal.PrimitiveComponent.exclude_for_specific_hlod_levels"></a>
 
-#### exclude_for_specific_hlod_levels
+#### exclude\_for\_specific\_hlod\_levels
 
 ```python
 @exclude_for_specific_hlod_levels.setter
@@ -933,7 +933,7 @@ def exclude_for_specific_hlod_levels(value: Array[int]) -> None
 
 <a id="unreal.PrimitiveComponent.can_character_step_up_on"></a>
 
-#### can_character_step_up_on
+#### can\_character\_step\_up\_on
 
 ```python
 @property
@@ -946,7 +946,7 @@ see: FWalkableSlopeOverride
 
 <a id="unreal.PrimitiveComponent.can_character_step_up_on"></a>
 
-#### can_character_step_up_on
+#### can\_character\_step\_up\_on
 
 ```python
 @can_character_step_up_on.setter
@@ -955,7 +955,7 @@ def can_character_step_up_on(value: CanBeCharacterBase) -> None
 
 <a id="unreal.PrimitiveComponent.can_be_character_base"></a>
 
-#### can_be_character_base
+#### can\_be\_character\_base
 
 ```python
 @property
@@ -966,7 +966,7 @@ deprecated: 'can_be_character_base' was renamed to 'can_character_step_up_on'.
 
 <a id="unreal.PrimitiveComponent.can_be_character_base"></a>
 
-#### can_be_character_base
+#### can\_be\_character\_base
 
 ```python
 @can_be_character_base.setter
@@ -975,7 +975,7 @@ def can_be_character_base(value: CanBeCharacterBase) -> None
 
 <a id="unreal.PrimitiveComponent.lighting_channels"></a>
 
-#### lighting_channels
+#### lighting\_channels
 
 ```python
 @property
@@ -988,7 +988,7 @@ Lighting channels are only supported on translucent materials using forward shad
 
 <a id="unreal.PrimitiveComponent.ray_tracing_group_culling_priority"></a>
 
-#### ray_tracing_group_culling_priority
+#### ray\_tracing\_group\_culling\_priority
 
 ```python
 @property
@@ -999,7 +999,7 @@ def ray_tracing_group_culling_priority() -> RayTracingGroupCullingPriority
 
 <a id="unreal.PrimitiveComponent.custom_depth_stencil_write_mask"></a>
 
-#### custom_depth_stencil_write_mask
+#### custom\_depth\_stencil\_write\_mask
 
 ```python
 @property
@@ -1010,7 +1010,7 @@ def custom_depth_stencil_write_mask() -> RendererStencilMask
 
 <a id="unreal.PrimitiveComponent.ray_tracing_group_id"></a>
 
-#### ray_tracing_group_id
+#### ray\_tracing\_group\_id
 
 ```python
 @property
@@ -1022,7 +1022,7 @@ def ray_tracing_group_id() -> int
 
 <a id="unreal.PrimitiveComponent.custom_depth_stencil_value"></a>
 
-#### custom_depth_stencil_value
+#### custom\_depth\_stencil\_value
 
 ```python
 @property
@@ -1033,7 +1033,7 @@ def custom_depth_stencil_value() -> int
 
 <a id="unreal.PrimitiveComponent.translucency_sort_priority"></a>
 
-#### translucency_sort_priority
+#### translucency\_sort\_priority
 
 ```python
 @property
@@ -1050,7 +1050,7 @@ It is especially problematic on dynamic gameplay effects.
 
 <a id="unreal.PrimitiveComponent.translucency_sort_distance_offset"></a>
 
-#### translucency_sort_distance_offset
+#### translucency\_sort\_distance\_offset
 
 ```python
 @property
@@ -1065,7 +1065,7 @@ Warning: Adjusting this value will prevent the renderer from correctly sorting b
 
 <a id="unreal.PrimitiveComponent.runtime_virtual_textures"></a>
 
-#### runtime_virtual_textures
+#### runtime\_virtual\_textures
 
 ```python
 @property
@@ -1077,7 +1077,7 @@ The material also needs to be set up to output to a virtual texture.
 
 <a id="unreal.PrimitiveComponent.runtime_virtual_textures"></a>
 
-#### runtime_virtual_textures
+#### runtime\_virtual\_textures
 
 ```python
 @runtime_virtual_textures.setter
@@ -1086,7 +1086,7 @@ def runtime_virtual_textures(value: Array[RuntimeVirtualTexture]) -> None
 
 <a id="unreal.PrimitiveComponent.virtual_texture_render_pass_type"></a>
 
-#### virtual_texture_render_pass_type
+#### virtual\_texture\_render\_pass\_type
 
 ```python
 @property
@@ -1097,7 +1097,7 @@ def virtual_texture_render_pass_type() -> RuntimeVirtualTextureMainPassType
 
 <a id="unreal.PrimitiveComponent.virtual_texture_render_pass_type"></a>
 
-#### virtual_texture_render_pass_type
+#### virtual\_texture\_render\_pass\_type
 
 ```python
 @virtual_texture_render_pass_type.setter
@@ -1107,7 +1107,7 @@ def virtual_texture_render_pass_type(
 
 <a id="unreal.PrimitiveComponent.body_instance"></a>
 
-#### body_instance
+#### body\_instance
 
 ```python
 @property
@@ -1118,7 +1118,7 @@ def body_instance() -> BodyInstance
 
 <a id="unreal.PrimitiveComponent.on_component_hit"></a>
 
-#### on_component_hit
+#### on\_component\_hit
 
 ```python
 @property
@@ -1133,7 +1133,7 @@ note: NormalImpulse will be filled in for physics-simulating bodies, but will be
 
 <a id="unreal.PrimitiveComponent.on_component_hit"></a>
 
-#### on_component_hit
+#### on\_component\_hit
 
 ```python
 @on_component_hit.setter
@@ -1142,7 +1142,7 @@ def on_component_hit(value: ComponentHitSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_component_begin_overlap"></a>
 
-#### on_component_begin_overlap
+#### on\_component\_begin\_overlap
 
 ```python
 @property
@@ -1156,7 +1156,7 @@ note: When receiving an overlap from another object's movement, the directions o
 
 <a id="unreal.PrimitiveComponent.on_component_begin_overlap"></a>
 
-#### on_component_begin_overlap
+#### on\_component\_begin\_overlap
 
 ```python
 @on_component_begin_overlap.setter
@@ -1165,7 +1165,7 @@ def on_component_begin_overlap(value: ComponentBeginOverlapSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_component_end_overlap"></a>
 
-#### on_component_end_overlap
+#### on\_component\_end\_overlap
 
 ```python
 @property
@@ -1177,7 +1177,7 @@ note: Both this component and the other one must have GetGenerateOverlapEvents()
 
 <a id="unreal.PrimitiveComponent.on_component_end_overlap"></a>
 
-#### on_component_end_overlap
+#### on\_component\_end\_overlap
 
 ```python
 @on_component_end_overlap.setter
@@ -1186,7 +1186,7 @@ def on_component_end_overlap(value: ComponentEndOverlapSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_component_wake"></a>
 
-#### on_component_wake
+#### on\_component\_wake
 
 ```python
 @property
@@ -1197,7 +1197,7 @@ def on_component_wake() -> ComponentWakeSignature
 
 <a id="unreal.PrimitiveComponent.on_component_wake"></a>
 
-#### on_component_wake
+#### on\_component\_wake
 
 ```python
 @on_component_wake.setter
@@ -1206,7 +1206,7 @@ def on_component_wake(value: ComponentWakeSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_component_sleep"></a>
 
-#### on_component_sleep
+#### on\_component\_sleep
 
 ```python
 @property
@@ -1217,7 +1217,7 @@ def on_component_sleep() -> ComponentSleepSignature
 
 <a id="unreal.PrimitiveComponent.on_component_sleep"></a>
 
-#### on_component_sleep
+#### on\_component\_sleep
 
 ```python
 @on_component_sleep.setter
@@ -1226,7 +1226,7 @@ def on_component_sleep(value: ComponentSleepSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_component_physics_state_changed"></a>
 
-#### on_component_physics_state_changed
+#### on\_component\_physics\_state\_changed
 
 ```python
 @property
@@ -1237,7 +1237,7 @@ def on_component_physics_state_changed() -> ComponentPhysicsStateChanged
 
 <a id="unreal.PrimitiveComponent.on_component_physics_state_changed"></a>
 
-#### on_component_physics_state_changed
+#### on\_component\_physics\_state\_changed
 
 ```python
 @on_component_physics_state_changed.setter
@@ -1247,7 +1247,7 @@ def on_component_physics_state_changed(
 
 <a id="unreal.PrimitiveComponent.on_begin_cursor_over"></a>
 
-#### on_begin_cursor_over
+#### on\_begin\_cursor\_over
 
 ```python
 @property
@@ -1258,7 +1258,7 @@ def on_begin_cursor_over() -> ComponentBeginCursorOverSignature
 
 <a id="unreal.PrimitiveComponent.on_begin_cursor_over"></a>
 
-#### on_begin_cursor_over
+#### on\_begin\_cursor\_over
 
 ```python
 @on_begin_cursor_over.setter
@@ -1267,7 +1267,7 @@ def on_begin_cursor_over(value: ComponentBeginCursorOverSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_end_cursor_over"></a>
 
-#### on_end_cursor_over
+#### on\_end\_cursor\_over
 
 ```python
 @property
@@ -1278,7 +1278,7 @@ def on_end_cursor_over() -> ComponentEndCursorOverSignature
 
 <a id="unreal.PrimitiveComponent.on_end_cursor_over"></a>
 
-#### on_end_cursor_over
+#### on\_end\_cursor\_over
 
 ```python
 @on_end_cursor_over.setter
@@ -1287,7 +1287,7 @@ def on_end_cursor_over(value: ComponentEndCursorOverSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_clicked"></a>
 
-#### on_clicked
+#### on\_clicked
 
 ```python
 @property
@@ -1298,7 +1298,7 @@ def on_clicked() -> ComponentOnClickedSignature
 
 <a id="unreal.PrimitiveComponent.on_clicked"></a>
 
-#### on_clicked
+#### on\_clicked
 
 ```python
 @on_clicked.setter
@@ -1307,7 +1307,7 @@ def on_clicked(value: ComponentOnClickedSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_released"></a>
 
-#### on_released
+#### on\_released
 
 ```python
 @property
@@ -1318,7 +1318,7 @@ def on_released() -> ComponentOnReleasedSignature
 
 <a id="unreal.PrimitiveComponent.on_released"></a>
 
-#### on_released
+#### on\_released
 
 ```python
 @on_released.setter
@@ -1327,7 +1327,7 @@ def on_released(value: ComponentOnReleasedSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_input_touch_begin"></a>
 
-#### on_input_touch_begin
+#### on\_input\_touch\_begin
 
 ```python
 @property
@@ -1338,7 +1338,7 @@ def on_input_touch_begin() -> ComponentOnInputTouchBeginSignature
 
 <a id="unreal.PrimitiveComponent.on_input_touch_begin"></a>
 
-#### on_input_touch_begin
+#### on\_input\_touch\_begin
 
 ```python
 @on_input_touch_begin.setter
@@ -1347,7 +1347,7 @@ def on_input_touch_begin(value: ComponentOnInputTouchBeginSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_input_touch_end"></a>
 
-#### on_input_touch_end
+#### on\_input\_touch\_end
 
 ```python
 @property
@@ -1358,7 +1358,7 @@ def on_input_touch_end() -> ComponentOnInputTouchEndSignature
 
 <a id="unreal.PrimitiveComponent.on_input_touch_end"></a>
 
-#### on_input_touch_end
+#### on\_input\_touch\_end
 
 ```python
 @on_input_touch_end.setter
@@ -1367,7 +1367,7 @@ def on_input_touch_end(value: ComponentOnInputTouchEndSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_input_touch_enter"></a>
 
-#### on_input_touch_enter
+#### on\_input\_touch\_enter
 
 ```python
 @property
@@ -1378,7 +1378,7 @@ def on_input_touch_enter() -> ComponentBeginTouchOverSignature
 
 <a id="unreal.PrimitiveComponent.on_input_touch_enter"></a>
 
-#### on_input_touch_enter
+#### on\_input\_touch\_enter
 
 ```python
 @on_input_touch_enter.setter
@@ -1387,7 +1387,7 @@ def on_input_touch_enter(value: ComponentBeginTouchOverSignature) -> None
 
 <a id="unreal.PrimitiveComponent.on_input_touch_leave"></a>
 
-#### on_input_touch_leave
+#### on\_input\_touch\_leave
 
 ```python
 @property
@@ -1398,7 +1398,7 @@ def on_input_touch_leave() -> ComponentEndTouchOverSignature
 
 <a id="unreal.PrimitiveComponent.on_input_touch_leave"></a>
 
-#### on_input_touch_leave
+#### on\_input\_touch\_leave
 
 ```python
 @on_input_touch_leave.setter
@@ -1407,7 +1407,7 @@ def on_input_touch_leave(value: ComponentEndTouchOverSignature) -> None
 
 <a id="unreal.PrimitiveComponent.was_recently_rendered"></a>
 
-#### was_recently_rendered
+#### was\_recently\_rendered
 
 ```python
 def was_recently_rendered(tolerance: float = 0.200000) -> bool
@@ -1425,7 +1425,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.wake_rigid_body"></a>
 
-#### wake_rigid_body
+#### wake\_rigid\_body
 
 ```python
 def wake_rigid_body(bone_name: Name = "None") -> None
@@ -1439,7 +1439,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.wake_all_rigid_bodies"></a>
 
-#### wake_all_rigid_bodies
+#### wake\_all\_rigid\_bodies
 
 ```python
 def wake_all_rigid_bodies() -> None
@@ -1450,7 +1450,7 @@ Ensure simulation is running for all bodies in this component.
 
 <a id="unreal.PrimitiveComponent.set_walkable_slope_override"></a>
 
-#### set_walkable_slope_override
+#### set\_walkable\_slope\_override
 
 ```python
 def set_walkable_slope_override(new_override: WalkableSlopeOverride) -> None
@@ -1464,7 +1464,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_visible_in_scene_capture_only"></a>
 
-#### set_visible_in_scene_capture_only
+#### set\_visible\_in\_scene\_capture\_only
 
 ```python
 def set_visible_in_scene_capture_only(value: bool) -> None
@@ -1478,7 +1478,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_visible_in_ray_tracing"></a>
 
-#### set_visible_in_ray_tracing
+#### set\_visible\_in\_ray\_tracing
 
 ```python
 def set_visible_in_ray_tracing(new_visible_in_ray_tracing: bool) -> None
@@ -1492,7 +1492,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_vector_parameter_for_default_custom_primitive_data"></a>
 
-#### set_vector_parameter_for_default_custom_primitive_data
+#### set\_vector\_parameter\_for\_default\_custom\_primitive\_data
 
 ```python
 def set_vector_parameter_for_default_custom_primitive_data(
@@ -1508,7 +1508,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_vector_parameter_for_custom_primitive_data"></a>
 
-#### set_vector_parameter_for_custom_primitive_data
+#### set\_vector\_parameter\_for\_custom\_primitive\_data
 
 ```python
 def set_vector_parameter_for_custom_primitive_data(parameter_name: Name,
@@ -1524,7 +1524,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_use_macd"></a>
 
-#### set_use_macd
+#### set\_use\_macd
 
 ```python
 def set_use_macd(use_macd: bool, bone_name: Name = "None") -> None
@@ -1539,7 +1539,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_use_ccd"></a>
 
-#### set_use_ccd
+#### set\_use\_ccd
 
 ```python
 def set_use_ccd(use_ccd: bool, bone_name: Name = "None") -> None
@@ -1554,7 +1554,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_update_kinematic_from_simulation"></a>
 
-#### set_update_kinematic_from_simulation
+#### set\_update\_kinematic\_from\_simulation
 
 ```python
 def set_update_kinematic_from_simulation(
@@ -1569,7 +1569,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_translucent_sort_priority"></a>
 
-#### set_translucent_sort_priority
+#### set\_translucent\_sort\_priority
 
 ```python
 def set_translucent_sort_priority(new_translucent_sort_priority: int) -> None
@@ -1583,7 +1583,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_translucency_sort_distance_offset"></a>
 
-#### set_translucency_sort_distance_offset
+#### set\_translucency\_sort\_distance\_offset
 
 ```python
 def set_translucency_sort_distance_offset(
@@ -1598,7 +1598,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_static_when_not_moveable"></a>
 
-#### set_static_when_not_moveable
+#### set\_static\_when\_not\_moveable
 
 ```python
 def set_static_when_not_moveable(static_when_not_moveable: bool) -> None
@@ -1612,7 +1612,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_single_sample_shadow_from_stationary_lights"></a>
 
-#### set_single_sample_shadow_from_stationary_lights
+#### set\_single\_sample\_shadow\_from\_stationary\_lights
 
 ```python
 def set_single_sample_shadow_from_stationary_lights(
@@ -1627,7 +1627,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_simulate_physics"></a>
 
-#### set_simulate_physics
+#### set\_simulate\_physics
 
 ```python
 def set_simulate_physics(simulate: bool) -> None
@@ -1648,7 +1648,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_scalar_parameter_for_default_custom_primitive_data"></a>
 
-#### set_scalar_parameter_for_default_custom_primitive_data
+#### set\_scalar\_parameter\_for\_default\_custom\_primitive\_data
 
 ```python
 def set_scalar_parameter_for_default_custom_primitive_data(
@@ -1664,7 +1664,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_scalar_parameter_for_custom_primitive_data"></a>
 
-#### set_scalar_parameter_for_custom_primitive_data
+#### set\_scalar\_parameter\_for\_custom\_primitive\_data
 
 ```python
 def set_scalar_parameter_for_custom_primitive_data(parameter_name: Name,
@@ -1680,7 +1680,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_render_in_main_pass"></a>
 
-#### set_render_in_main_pass
+#### set\_render\_in\_main\_pass
 
 ```python
 def set_render_in_main_pass(value: bool) -> None
@@ -1694,7 +1694,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_render_in_depth_pass"></a>
 
-#### set_render_in_depth_pass
+#### set\_render\_in\_depth\_pass
 
 ```python
 def set_render_in_depth_pass(value: bool) -> None
@@ -1708,7 +1708,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_render_custom_depth"></a>
 
-#### set_render_custom_depth
+#### set\_render\_custom\_depth
 
 ```python
 def set_render_custom_depth(value: bool) -> None
@@ -1722,7 +1722,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_receives_decals"></a>
 
-#### set_receives_decals
+#### set\_receives\_decals
 
 ```python
 def set_receives_decals(new_receives_decals: bool) -> None
@@ -1736,7 +1736,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_phys_material_override"></a>
 
-#### set_phys_material_override
+#### set\_phys\_material\_override
 
 ```python
 def set_phys_material_override(new_phys_material: PhysicalMaterial) -> None
@@ -1752,7 +1752,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_physics_max_angular_velocity_in_radians"></a>
 
-#### set_physics_max_angular_velocity_in_radians
+#### set\_physics\_max\_angular\_velocity\_in\_radians
 
 ```python
 def set_physics_max_angular_velocity_in_radians(
@@ -1771,7 +1771,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_physics_max_angular_velocity_in_degrees"></a>
 
-#### set_physics_max_angular_velocity_in_degrees
+#### set\_physics\_max\_angular\_velocity\_in\_degrees
 
 ```python
 def set_physics_max_angular_velocity_in_degrees(
@@ -1790,7 +1790,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_physics_linear_velocity"></a>
 
-#### set_physics_linear_velocity
+#### set\_physics\_linear\_velocity
 
 ```python
 def set_physics_linear_velocity(new_vel: Vector,
@@ -1809,7 +1809,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_rb_linear_velocity"></a>
 
-#### set_rb_linear_velocity
+#### set\_rb\_linear\_velocity
 
 ```python
 def set_rb_linear_velocity(new_vel: Vector,
@@ -1821,7 +1821,7 @@ deprecated: 'set_rb_linear_velocity' was renamed to 'set_physics_linear_velocity
 
 <a id="unreal.PrimitiveComponent.set_physics_angular_velocity_in_radians"></a>
 
-#### set_physics_angular_velocity_in_radians
+#### set\_physics\_angular\_velocity\_in\_radians
 
 ```python
 def set_physics_angular_velocity_in_radians(new_ang_vel: Vector,
@@ -1840,7 +1840,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_physics_angular_velocity_in_degrees"></a>
 
-#### set_physics_angular_velocity_in_degrees
+#### set\_physics\_angular\_velocity\_in\_degrees
 
 ```python
 def set_physics_angular_velocity_in_degrees(new_ang_vel: Vector,
@@ -1859,7 +1859,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_owner_no_see"></a>
 
-#### set_owner_no_see
+#### set\_owner\_no\_see
 
 ```python
 def set_owner_no_see(new_owner_no_see: bool) -> None
@@ -1873,7 +1873,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_only_owner_see"></a>
 
-#### set_only_owner_see
+#### set\_only\_owner\_see
 
 ```python
 def set_only_owner_see(new_only_owner_see: bool) -> None
@@ -1887,7 +1887,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_notify_rigid_body_collision"></a>
 
-#### set_notify_rigid_body_collision
+#### set\_notify\_rigid\_body\_collision
 
 ```python
 def set_notify_rigid_body_collision(
@@ -1902,7 +1902,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_max_depenetration_velocity"></a>
 
-#### set_max_depenetration_velocity
+#### set\_max\_depenetration\_velocity
 
 ```python
 def set_max_depenetration_velocity(
@@ -1922,7 +1922,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_material_by_name"></a>
 
-#### set_material_by_name
+#### set\_material\_by\_name
 
 ```python
 def set_material_by_name(material_slot_name: Name,
@@ -1938,7 +1938,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_material"></a>
 
-#### set_material
+#### set\_material
 
 ```python
 def set_material(element_index: int, material: MaterialInterface) -> None
@@ -1953,7 +1953,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_mass_scale"></a>
 
-#### set_mass_scale
+#### set\_mass\_scale
 
 ```python
 def set_mass_scale(bone_name: Name = "None",
@@ -1969,7 +1969,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_mass_override_in_kg"></a>
 
-#### set_mass_override_in_kg
+#### set\_mass\_override\_in\_kg
 
 ```python
 def set_mass_override_in_kg(bone_name: Name = "None",
@@ -1989,7 +1989,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_linear_damping"></a>
 
-#### set_linear_damping
+#### set\_linear\_damping
 
 ```python
 def set_linear_damping(damping: float) -> None
@@ -2003,7 +2003,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_lighting_channels"></a>
 
-#### set_lighting_channels
+#### set\_lighting\_channels
 
 ```python
 def set_lighting_channels(channel0: bool, channel1: bool,
@@ -2020,7 +2020,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_light_attachments_as_group"></a>
 
-#### set_light_attachments_as_group
+#### set\_light\_attachments\_as\_group
 
 ```python
 def set_light_attachments_as_group(light_attachments_as_group: bool) -> None
@@ -2034,7 +2034,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_ignore_bounds_for_editor_focus"></a>
 
-#### set_ignore_bounds_for_editor_focus
+#### set\_ignore\_bounds\_for\_editor\_focus
 
 ```python
 def set_ignore_bounds_for_editor_focus(ignore: bool) -> None
@@ -2048,7 +2048,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_holdout"></a>
 
-#### set_holdout
+#### set\_holdout
 
 ```python
 def set_holdout(new_holdout: bool) -> None
@@ -2062,7 +2062,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_hidden_in_scene_capture"></a>
 
-#### set_hidden_in_scene_capture
+#### set\_hidden\_in\_scene\_capture
 
 ```python
 def set_hidden_in_scene_capture(value: bool) -> None
@@ -2076,7 +2076,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_first_person_primitive_type"></a>
 
-#### set_first_person_primitive_type
+#### set\_first\_person\_primitive\_type
 
 ```python
 def set_first_person_primitive_type(value: FirstPersonPrimitiveType) -> None
@@ -2090,7 +2090,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_exclude_from_light_attachment_group"></a>
 
-#### set_exclude_from_light_attachment_group
+#### set\_exclude\_from\_light\_attachment\_group
 
 ```python
 def set_exclude_from_light_attachment_group(
@@ -2105,7 +2105,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_excluded_from_hlod_level"></a>
 
-#### set_excluded_from_hlod_level
+#### set\_excluded\_from\_hlod\_level
 
 ```python
 def set_excluded_from_hlod_level(hlod_level: HLODLevelExclusion,
@@ -2121,7 +2121,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_enable_gravity"></a>
 
-#### set_enable_gravity
+#### set\_enable\_gravity
 
 ```python
 def set_enable_gravity(gravity_enabled: bool) -> None
@@ -2135,7 +2135,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_emissive_light_source"></a>
 
-#### set_emissive_light_source
+#### set\_emissive\_light\_source
 
 ```python
 def set_emissive_light_source(new_emissive_light_source: bool) -> None
@@ -2149,7 +2149,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_default_custom_primitive_data_vector4"></a>
 
-#### set_default_custom_primitive_data_vector4
+#### set\_default\_custom\_primitive\_data\_vector4
 
 ```python
 def set_default_custom_primitive_data_vector4(data_index: int,
@@ -2165,7 +2165,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_default_custom_primitive_data_vector3"></a>
 
-#### set_default_custom_primitive_data_vector3
+#### set\_default\_custom\_primitive\_data\_vector3
 
 ```python
 def set_default_custom_primitive_data_vector3(data_index: int,
@@ -2181,7 +2181,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_default_custom_primitive_data_vector2"></a>
 
-#### set_default_custom_primitive_data_vector2
+#### set\_default\_custom\_primitive\_data\_vector2
 
 ```python
 def set_default_custom_primitive_data_vector2(data_index: int,
@@ -2197,7 +2197,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_default_custom_primitive_data_float"></a>
 
-#### set_default_custom_primitive_data_float
+#### set\_default\_custom\_primitive\_data\_float
 
 ```python
 def set_default_custom_primitive_data_float(data_index: int,
@@ -2213,7 +2213,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_custom_primitive_data_vector4"></a>
 
-#### set_custom_primitive_data_vector4
+#### set\_custom\_primitive\_data\_vector4
 
 ```python
 def set_custom_primitive_data_vector4(data_index: int, value: Vector4) -> None
@@ -2228,7 +2228,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_custom_primitive_data_vector3"></a>
 
-#### set_custom_primitive_data_vector3
+#### set\_custom\_primitive\_data\_vector3
 
 ```python
 def set_custom_primitive_data_vector3(data_index: int, value: Vector) -> None
@@ -2243,7 +2243,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_custom_primitive_data_vector2"></a>
 
-#### set_custom_primitive_data_vector2
+#### set\_custom\_primitive\_data\_vector2
 
 ```python
 def set_custom_primitive_data_vector2(data_index: int,
@@ -2259,7 +2259,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_custom_primitive_data_float"></a>
 
-#### set_custom_primitive_data_float
+#### set\_custom\_primitive\_data\_float
 
 ```python
 def set_custom_primitive_data_float(data_index: int, value: float) -> None
@@ -2274,7 +2274,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_custom_depth_stencil_write_mask"></a>
 
-#### set_custom_depth_stencil_write_mask
+#### set\_custom\_depth\_stencil\_write\_mask
 
 ```python
 def set_custom_depth_stencil_write_mask(
@@ -2289,7 +2289,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_custom_depth_stencil_value"></a>
 
-#### set_custom_depth_stencil_value
+#### set\_custom\_depth\_stencil\_value
 
 ```python
 def set_custom_depth_stencil_value(value: int) -> None
@@ -2303,7 +2303,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_cull_distance"></a>
 
-#### set_cull_distance
+#### set\_cull\_distance
 
 ```python
 def set_cull_distance(new_cull_distance: float) -> None
@@ -2317,7 +2317,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_constraint_mode"></a>
 
-#### set_constraint_mode
+#### set\_constraint\_mode
 
 ```python
 def set_constraint_mode(constraint_mode: DOFMode) -> None
@@ -2331,7 +2331,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_collision_response_to_channel"></a>
 
-#### set_collision_response_to_channel
+#### set\_collision\_response\_to\_channel
 
 ```python
 def set_collision_response_to_channel(
@@ -2348,7 +2348,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_collision_response_to_all_channels"></a>
 
-#### set_collision_response_to_all_channels
+#### set\_collision\_response\_to\_all\_channels
 
 ```python
 def set_collision_response_to_all_channels(
@@ -2363,7 +2363,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_collision_profile_name"></a>
 
-#### set_collision_profile_name
+#### set\_collision\_profile\_name
 
 ```python
 def set_collision_profile_name(collision_profile_name: Name,
@@ -2381,7 +2381,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_collision_object_type"></a>
 
-#### set_collision_object_type
+#### set\_collision\_object\_type
 
 ```python
 def set_collision_object_type(channel: CollisionChannel) -> None
@@ -2395,7 +2395,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_movement_channel"></a>
 
-#### set_movement_channel
+#### set\_movement\_channel
 
 ```python
 def set_movement_channel(channel: CollisionChannel) -> None
@@ -2405,7 +2405,7 @@ deprecated: 'set_movement_channel' was renamed to 'set_collision_object_type'.
 
 <a id="unreal.PrimitiveComponent.set_collision_enabled"></a>
 
-#### set_collision_enabled
+#### set\_collision\_enabled
 
 ```python
 def set_collision_enabled(new_type: CollisionEnabled) -> None
@@ -2419,7 +2419,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_center_of_mass"></a>
 
-#### set_center_of_mass
+#### set\_center\_of\_mass
 
 ```python
 def set_center_of_mass(center_of_mass_offset: Vector,
@@ -2436,7 +2436,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_cast_shadow"></a>
 
-#### set_cast_shadow
+#### set\_cast\_shadow
 
 ```python
 def set_cast_shadow(new_cast_shadow: bool) -> None
@@ -2450,7 +2450,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_cast_inset_shadow"></a>
 
-#### set_cast_inset_shadow
+#### set\_cast\_inset\_shadow
 
 ```python
 def set_cast_inset_shadow(cast_inset_shadow: bool) -> None
@@ -2464,7 +2464,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_cast_hidden_shadow"></a>
 
-#### set_cast_hidden_shadow
+#### set\_cast\_hidden\_shadow
 
 ```python
 def set_cast_hidden_shadow(new_cast_hidden_shadow: bool) -> None
@@ -2478,7 +2478,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_cast_contact_shadow"></a>
 
-#### set_cast_contact_shadow
+#### set\_cast\_contact\_shadow
 
 ```python
 def set_cast_contact_shadow(cast_contact_shadow: bool) -> None
@@ -2492,7 +2492,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_bounds_scale"></a>
 
-#### set_bounds_scale
+#### set\_bounds\_scale
 
 ```python
 def set_bounds_scale(new_bounds_scale: float = 1.000000) -> None
@@ -2506,7 +2506,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_angular_damping"></a>
 
-#### set_angular_damping
+#### set\_angular\_damping
 
 ```python
 def set_angular_damping(damping: float) -> None
@@ -2520,7 +2520,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_all_use_macd"></a>
 
-#### set_all_use_macd
+#### set\_all\_use\_macd
 
 ```python
 def set_all_use_macd(use_macd: bool) -> None
@@ -2534,7 +2534,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_all_use_ccd"></a>
 
-#### set_all_use_ccd
+#### set\_all\_use\_ccd
 
 ```python
 def set_all_use_ccd(use_ccd: bool) -> None
@@ -2548,7 +2548,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_all_physics_linear_velocity"></a>
 
-#### set_all_physics_linear_velocity
+#### set\_all\_physics\_linear\_velocity
 
 ```python
 def set_all_physics_linear_velocity(new_vel: Vector,
@@ -2564,7 +2564,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_all_rb_linear_velocity"></a>
 
-#### set_all_rb_linear_velocity
+#### set\_all\_rb\_linear\_velocity
 
 ```python
 def set_all_rb_linear_velocity(new_vel: Vector,
@@ -2575,7 +2575,7 @@ deprecated: 'set_all_rb_linear_velocity' was renamed to 'set_all_physics_linear_
 
 <a id="unreal.PrimitiveComponent.set_all_physics_angular_velocity_in_radians"></a>
 
-#### set_all_physics_angular_velocity_in_radians
+#### set\_all\_physics\_angular\_velocity\_in\_radians
 
 ```python
 def set_all_physics_angular_velocity_in_radians(new_ang_vel: Vector,
@@ -2592,7 +2592,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_all_physics_angular_velocity_in_degrees"></a>
 
-#### set_all_physics_angular_velocity_in_degrees
+#### set\_all\_physics\_angular\_velocity\_in\_degrees
 
 ```python
 def set_all_physics_angular_velocity_in_degrees(new_ang_vel: Vector,
@@ -2609,7 +2609,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_all_mass_scale"></a>
 
-#### set_all_mass_scale
+#### set\_all\_mass\_scale
 
 ```python
 def set_all_mass_scale(mass_scale: float = 1.000000) -> None
@@ -2623,7 +2623,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_affect_indirect_lighting_while_hidden"></a>
 
-#### set_affect_indirect_lighting_while_hidden
+#### set\_affect\_indirect\_lighting\_while\_hidden
 
 ```python
 def set_affect_indirect_lighting_while_hidden(
@@ -2638,7 +2638,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_affect_dynamic_indirect_lighting"></a>
 
-#### set_affect_dynamic_indirect_lighting
+#### set\_affect\_dynamic\_indirect\_lighting
 
 ```python
 def set_affect_dynamic_indirect_lighting(
@@ -2653,7 +2653,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.set_affect_distance_field_lighting"></a>
 
-#### set_affect_distance_field_lighting
+#### set\_affect\_distance\_field\_lighting
 
 ```python
 def set_affect_distance_field_lighting(
@@ -2668,7 +2668,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.scale_by_moment_of_inertia"></a>
 
-#### scale_by_moment_of_inertia
+#### scale\_by\_moment\_of\_inertia
 
 ```python
 def scale_by_moment_of_inertia(input_vector: Vector,
@@ -2687,7 +2687,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.put_rigid_body_to_sleep"></a>
 
-#### put_rigid_body_to_sleep
+#### put\_rigid\_body\_to\_sleep
 
 ```python
 def put_rigid_body_to_sleep(bone_name: Name = "None") -> None
@@ -2701,7 +2701,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.sphere_trace_component"></a>
 
-#### sphere_trace_component
+#### sphere\_trace\_component
 
 ```python
 def sphere_trace_component(
@@ -2738,7 +2738,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.sphere_overlap_component"></a>
 
-#### sphere_overlap_component
+#### sphere\_overlap\_component
 
 ```python
 def sphere_overlap_component(
@@ -2773,7 +2773,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.line_trace_component"></a>
 
-#### line_trace_component
+#### line\_trace\_component
 
 ```python
 def line_trace_component(
@@ -2808,7 +2808,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_query_collision_enabled"></a>
 
-#### is_query_collision_enabled
+#### is\_query\_collision\_enabled
 
 ```python
 def is_query_collision_enabled() -> bool
@@ -2822,7 +2822,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_physics_collision_enabled"></a>
 
-#### is_physics_collision_enabled
+#### is\_physics\_collision\_enabled
 
 ```python
 def is_physics_collision_enabled() -> bool
@@ -2836,7 +2836,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_collision_enabled"></a>
 
-#### is_collision_enabled
+#### is\_collision\_enabled
 
 ```python
 def is_collision_enabled() -> bool
@@ -2850,7 +2850,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.box_overlap_component"></a>
 
-#### box_overlap_component
+#### box\_overlap\_component
 
 ```python
 def box_overlap_component(
@@ -2885,7 +2885,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_overlapping_component"></a>
 
-#### is_overlapping_component
+#### is\_overlapping\_component
 
 ```python
 def is_overlapping_component(other_comp: PrimitiveComponent) -> bool
@@ -2902,7 +2902,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_overlapping_actor"></a>
 
-#### is_overlapping_actor
+#### is\_overlapping\_actor
 
 ```python
 def is_overlapping_actor(other: Actor) -> bool
@@ -2919,7 +2919,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_material_slot_name_valid"></a>
 
-#### is_material_slot_name_valid
+#### is\_material\_slot\_name\_valid
 
 ```python
 def is_material_slot_name_valid(material_slot_name: Name) -> bool
@@ -2936,7 +2936,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_gravity_enabled"></a>
 
-#### is_gravity_enabled
+#### is\_gravity\_enabled
 
 ```python
 def is_gravity_enabled() -> bool
@@ -2950,7 +2950,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_excluded_from_hlod_level"></a>
 
-#### is_excluded_from_hlod_level
+#### is\_excluded\_from\_hlod\_level
 
 ```python
 def is_excluded_from_hlod_level(hlod_level: HLODLevelExclusion) -> bool
@@ -2967,7 +2967,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.is_any_rigid_body_awake"></a>
 
-#### is_any_rigid_body_awake
+#### is\_any\_rigid\_body\_awake
 
 ```python
 def is_any_rigid_body_awake() -> bool
@@ -2981,7 +2981,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.invalidate_lumen_surface_cache"></a>
 
-#### invalidate_lumen_surface_cache
+#### invalidate\_lumen\_surface\_cache
 
 ```python
 def invalidate_lumen_surface_cache() -> None
@@ -2992,7 +2992,7 @@ Invalidates Lumen surface cache and forces it to be refreshed. Useful to make ma
 
 <a id="unreal.PrimitiveComponent.ignore_component_when_moving"></a>
 
-#### ignore_component_when_moving
+#### ignore\_component\_when\_moving
 
 ```python
 def ignore_component_when_moving(component: PrimitiveComponent,
@@ -3010,7 +3010,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.ignore_actor_when_moving"></a>
 
-#### ignore_actor_when_moving
+#### ignore\_actor\_when\_moving
 
 ```python
 def ignore_actor_when_moving(actor: Actor, should_ignore: bool) -> None
@@ -3027,7 +3027,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.get_walkable_slope_override"></a>
 
-#### get_walkable_slope_override
+#### get\_walkable\_slope\_override
 
 ```python
 def get_walkable_slope_override() -> WalkableSlopeOverride
@@ -3041,7 +3041,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_update_kinematic_from_simulation"></a>
 
-#### get_update_kinematic_from_simulation
+#### get\_update\_kinematic\_from\_simulation
 
 ```python
 def get_update_kinematic_from_simulation() -> bool
@@ -3055,7 +3055,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_static_when_not_moveable"></a>
 
-#### get_static_when_not_moveable
+#### get\_static\_when\_not\_moveable
 
 ```python
 def get_static_when_not_moveable() -> bool
@@ -3069,7 +3069,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_physics_linear_velocity_at_point"></a>
 
-#### get_physics_linear_velocity_at_point
+#### get\_physics\_linear\_velocity\_at\_point
 
 ```python
 def get_physics_linear_velocity_at_point(point: Vector,
@@ -3088,7 +3088,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_physics_linear_velocity"></a>
 
-#### get_physics_linear_velocity
+#### get\_physics\_linear\_velocity
 
 ```python
 def get_physics_linear_velocity(bone_name: Name = "None") -> Vector
@@ -3105,7 +3105,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_rb_linear_velocity"></a>
 
-#### get_rb_linear_velocity
+#### get\_rb\_linear\_velocity
 
 ```python
 def get_rb_linear_velocity(bone_name: Name = "None") -> Vector
@@ -3115,7 +3115,7 @@ deprecated: 'get_rb_linear_velocity' was renamed to 'get_physics_linear_velocity
 
 <a id="unreal.PrimitiveComponent.get_physics_angular_velocity_in_radians"></a>
 
-#### get_physics_angular_velocity_in_radians
+#### get\_physics\_angular\_velocity\_in\_radians
 
 ```python
 def get_physics_angular_velocity_in_radians(
@@ -3133,7 +3133,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_physics_angular_velocity_in_degrees"></a>
 
-#### get_physics_angular_velocity_in_degrees
+#### get\_physics\_angular\_velocity\_in\_degrees
 
 ```python
 def get_physics_angular_velocity_in_degrees(
@@ -3151,7 +3151,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_overlapping_components"></a>
 
-#### get_overlapping_components
+#### get\_overlapping\_components
 
 ```python
 def get_overlapping_components() -> Array[PrimitiveComponent]
@@ -3167,7 +3167,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_touching_components"></a>
 
-#### get_touching_components
+#### get\_touching\_components
 
 ```python
 def get_touching_components() -> Array[PrimitiveComponent]
@@ -3177,7 +3177,7 @@ deprecated: 'get_touching_components' was renamed to 'get_overlapping_components
 
 <a id="unreal.PrimitiveComponent.get_overlapping_actors"></a>
 
-#### get_overlapping_actors
+#### get\_overlapping\_actors
 
 ```python
 def get_overlapping_actors(class_filter: Class = None) -> Array[Actor]
@@ -3196,7 +3196,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_touching_actors"></a>
 
-#### get_touching_actors
+#### get\_touching\_actors
 
 ```python
 def get_touching_actors(class_filter: Class = None) -> Array[Actor]
@@ -3206,7 +3206,7 @@ deprecated: 'get_touching_actors' was renamed to 'get_overlapping_actors'.
 
 <a id="unreal.PrimitiveComponent.get_num_materials"></a>
 
-#### get_num_materials
+#### get\_num\_materials
 
 ```python
 def get_num_materials() -> int
@@ -3220,7 +3220,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_max_depenetration_velocity"></a>
 
-#### get_max_depenetration_velocity
+#### get\_max\_depenetration\_velocity
 
 ```python
 def get_max_depenetration_velocity(bone_name: Name = "None") -> float
@@ -3240,7 +3240,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_material_slot_names"></a>
 
-#### get_material_slot_names
+#### get\_material\_slot\_names
 
 ```python
 def get_material_slot_names() -> Array[Name]
@@ -3254,7 +3254,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_material_index"></a>
 
-#### get_material_index
+#### get\_material\_index
 
 ```python
 def get_material_index(material_slot_name: Name) -> int
@@ -3271,7 +3271,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_material_from_collision_face_index"></a>
 
-#### get_material_from_collision_face_index
+#### get\_material\_from\_collision\_face\_index
 
 ```python
 def get_material_from_collision_face_index(
@@ -3291,7 +3291,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_material_by_name"></a>
 
-#### get_material_by_name
+#### get\_material\_by\_name
 
 ```python
 def get_material_by_name(material_slot_name: Name) -> MaterialInterface
@@ -3308,7 +3308,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_material"></a>
 
-#### get_material
+#### get\_material
 
 ```python
 def get_material(element_index: int) -> MaterialInterface
@@ -3325,7 +3325,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_mass_scale"></a>
 
-#### get_mass_scale
+#### get\_mass\_scale
 
 ```python
 def get_mass_scale(bone_name: Name = "None") -> float
@@ -3342,7 +3342,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_mass"></a>
 
-#### get_mass
+#### get\_mass
 
 ```python
 def get_mass() -> float
@@ -3356,7 +3356,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_linear_damping"></a>
 
-#### get_linear_damping
+#### get\_linear\_damping
 
 ```python
 def get_linear_damping() -> float
@@ -3370,7 +3370,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_inertia_tensor"></a>
 
-#### get_inertia_tensor
+#### get\_inertia\_tensor
 
 ```python
 def get_inertia_tensor(bone_name: Name = "None") -> Vector
@@ -3387,7 +3387,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_ignore_bounds_for_editor_focus"></a>
 
-#### get_ignore_bounds_for_editor_focus
+#### get\_ignore\_bounds\_for\_editor\_focus
 
 ```python
 def get_ignore_bounds_for_editor_focus() -> bool
@@ -3402,7 +3402,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_editor_material"></a>
 
-#### get_editor_material
+#### get\_editor\_material
 
 ```python
 def get_editor_material(element_index: int) -> MaterialInterface
@@ -3419,7 +3419,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_custom_primitive_data_index_for_vector_parameter"></a>
 
-#### get_custom_primitive_data_index_for_vector_parameter
+#### get\_custom\_primitive\_data\_index\_for\_vector\_parameter
 
 ```python
 def get_custom_primitive_data_index_for_vector_parameter(
@@ -3437,7 +3437,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_custom_primitive_data_index_for_scalar_parameter"></a>
 
-#### get_custom_primitive_data_index_for_scalar_parameter
+#### get\_custom\_primitive\_data\_index\_for\_scalar\_parameter
 
 ```python
 def get_custom_primitive_data_index_for_scalar_parameter(
@@ -3455,7 +3455,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_collision_response_to_channel"></a>
 
-#### get_collision_response_to_channel
+#### get\_collision\_response\_to\_channel
 
 ```python
 def get_collision_response_to_channel(
@@ -3473,7 +3473,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_collision_profile_name"></a>
 
-#### get_collision_profile_name
+#### get\_collision\_profile\_name
 
 ```python
 def get_collision_profile_name() -> Name
@@ -3487,7 +3487,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_collision_object_type"></a>
 
-#### get_collision_object_type
+#### get\_collision\_object\_type
 
 ```python
 def get_collision_object_type() -> CollisionChannel
@@ -3501,7 +3501,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_collision_enabled"></a>
 
-#### get_collision_enabled
+#### get\_collision\_enabled
 
 ```python
 def get_collision_enabled() -> CollisionEnabled
@@ -3515,7 +3515,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_closest_point_on_collision"></a>
 
-#### get_closest_point_on_collision
+#### get\_closest\_point\_on\_collision
 
 ```python
 def get_closest_point_on_collision(point: Vector,
@@ -3538,7 +3538,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_center_of_mass"></a>
 
-#### get_center_of_mass
+#### get\_center\_of\_mass
 
 ```python
 def get_center_of_mass(bone_name: Name = "None") -> Vector
@@ -3556,7 +3556,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_body_instance_async_physics_tick_handle"></a>
 
-#### get_body_instance_async_physics_tick_handle
+#### get\_body\_instance\_async\_physics\_tick\_handle
 
 ```python
 def get_body_instance_async_physics_tick_handle(
@@ -3578,7 +3578,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_angular_damping"></a>
 
-#### get_angular_damping
+#### get\_angular\_damping
 
 ```python
 def get_angular_damping() -> float
@@ -3592,7 +3592,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.create_dynamic_material_instance"></a>
 
-#### create_dynamic_material_instance
+#### create\_dynamic\_material\_instance
 
 ```python
 def create_dynamic_material_instance(
@@ -3614,7 +3614,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.create_and_set_material_instance_dynamic_from_material"></a>
 
-#### create_and_set_material_instance_dynamic_from_material
+#### create\_and\_set\_material\_instance\_dynamic\_from\_material
 
 ```python
 def create_and_set_material_instance_dynamic_from_material(
@@ -3635,7 +3635,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.create_and_set_material_instance_dynamic"></a>
 
-#### create_and_set_material_instance_dynamic
+#### create\_and\_set\_material\_instance\_dynamic
 
 ```python
 def create_and_set_material_instance_dynamic(
@@ -3654,7 +3654,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.copy_array_of_move_ignore_components"></a>
 
-#### copy_array_of_move_ignore_components
+#### copy\_array\_of\_move\_ignore\_components
 
 ```python
 def copy_array_of_move_ignore_components() -> Array[PrimitiveComponent]
@@ -3668,7 +3668,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.copy_array_of_move_ignore_actors"></a>
 
-#### copy_array_of_move_ignore_actors
+#### copy\_array\_of\_move\_ignore\_actors
 
 ```python
 def copy_array_of_move_ignore_actors() -> Array[Actor]
@@ -3682,7 +3682,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.get_move_ignore_actors"></a>
 
-#### get_move_ignore_actors
+#### get\_move\_ignore\_actors
 
 ```python
 def get_move_ignore_actors() -> Array[Actor]
@@ -3692,7 +3692,7 @@ deprecated: 'get_move_ignore_actors' was renamed to 'copy_array_of_move_ignore_a
 
 <a id="unreal.PrimitiveComponent.clear_move_ignore_components"></a>
 
-#### clear_move_ignore_components
+#### clear\_move\_ignore\_components
 
 ```python
 def clear_move_ignore_components() -> None
@@ -3703,7 +3703,7 @@ Clear the list of components we ignore when moving.
 
 <a id="unreal.PrimitiveComponent.clear_move_ignore_actors"></a>
 
-#### clear_move_ignore_actors
+#### clear\_move\_ignore\_actors
 
 ```python
 def clear_move_ignore_actors() -> None
@@ -3714,7 +3714,7 @@ Clear the list of actors we ignore when moving.
 
 <a id="unreal.PrimitiveComponent.can_character_step_up"></a>
 
-#### can_character_step_up
+#### can\_character\_step\_up
 
 ```python
 def can_character_step_up(pawn: Pawn) -> bool
@@ -3733,7 +3733,7 @@ Returns:
 
 <a id="unreal.PrimitiveComponent.add_velocity_change_impulse_at_location"></a>
 
-#### add_velocity_change_impulse_at_location
+#### add\_velocity\_change\_impulse\_at\_location
 
 ```python
 def add_velocity_change_impulse_at_location(impulse: Vector,
@@ -3751,7 +3751,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_torque_in_radians"></a>
 
-#### add_torque_in_radians
+#### add\_torque\_in\_radians
 
 ```python
 def add_torque_in_radians(torque: Vector,
@@ -3769,7 +3769,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_torque_in_degrees"></a>
 
-#### add_torque_in_degrees
+#### add\_torque\_in\_degrees
 
 ```python
 def add_torque_in_degrees(torque: Vector,
@@ -3787,7 +3787,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_radial_impulse"></a>
 
-#### add_radial_impulse
+#### add\_radial\_impulse
 
 ```python
 def add_radial_impulse(origin: Vector,
@@ -3809,7 +3809,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_radial_force"></a>
 
-#### add_radial_force
+#### add\_radial\_force
 
 ```python
 def add_radial_force(origin: Vector,
@@ -3831,7 +3831,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_impulse_at_location"></a>
 
-#### add_impulse_at_location
+#### add\_impulse\_at\_location
 
 ```python
 def add_impulse_at_location(impulse: Vector,
@@ -3849,7 +3849,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_impulse_at_position"></a>
 
-#### add_impulse_at_position
+#### add\_impulse\_at\_position
 
 ```python
 def add_impulse_at_position(impulse: Vector,
@@ -3861,7 +3861,7 @@ deprecated: 'add_impulse_at_position' was renamed to 'add_impulse_at_location'.
 
 <a id="unreal.PrimitiveComponent.add_impulse"></a>
 
-#### add_impulse
+#### add\_impulse
 
 ```python
 def add_impulse(impulse: Vector,
@@ -3879,7 +3879,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_force_at_location_local"></a>
 
-#### add_force_at_location_local
+#### add\_force\_at\_location\_local
 
 ```python
 def add_force_at_location_local(force: Vector,
@@ -3898,7 +3898,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_force_at_location"></a>
 
-#### add_force_at_location
+#### add\_force\_at\_location
 
 ```python
 def add_force_at_location(force: Vector,
@@ -3917,7 +3917,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_force_at_position"></a>
 
-#### add_force_at_position
+#### add\_force\_at\_position
 
 ```python
 def add_force_at_position(force: Vector,
@@ -3929,7 +3929,7 @@ deprecated: 'add_force_at_position' was renamed to 'add_force_at_location'.
 
 <a id="unreal.PrimitiveComponent.add_force"></a>
 
-#### add_force
+#### add\_force
 
 ```python
 def add_force(force: Vector,
@@ -3948,7 +3948,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_angular_impulse_in_radians"></a>
 
-#### add_angular_impulse_in_radians
+#### add\_angular\_impulse\_in\_radians
 
 ```python
 def add_angular_impulse_in_radians(impulse: Vector,
@@ -3966,7 +3966,7 @@ Args:
 
 <a id="unreal.PrimitiveComponent.add_angular_impulse_in_degrees"></a>
 
-#### add_angular_impulse_in_degrees
+#### add\_angular\_impulse\_in\_degrees
 
 ```python
 def add_angular_impulse_in_degrees(impulse: Vector,

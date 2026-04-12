@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto FSequencerScript
 
 <a id="unreal.SequencerScriptingRangeExtensions.set_start_seconds"></a>
 
-#### set_start_seconds
+#### set\_start\_seconds
 
 ```python
 @classmethod
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.set_start_frame"></a>
 
-#### set_start_frame
+#### set\_start\_frame
 
 ```python
 @classmethod
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.set_end_seconds"></a>
 
-#### set_end_seconds
+#### set\_end\_seconds
 
 ```python
 @classmethod
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.set_end_frame"></a>
 
-#### set_end_frame
+#### set\_end\_frame
 
 ```python
 @classmethod
@@ -102,7 +102,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.remove_start"></a>
 
-#### remove_start
+#### remove\_start
 
 ```python
 @classmethod
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.remove_end"></a>
 
-#### remove_end
+#### remove\_end
 
 ```python
 @classmethod
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.has_start"></a>
 
-#### has_start
+#### has\_start
 
 ```python
 @classmethod
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.has_end"></a>
 
-#### has_end
+#### has\_end
 
 ```python
 @classmethod
@@ -179,7 +179,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.get_start_seconds"></a>
 
-#### get_start_seconds
+#### get\_start\_seconds
 
 ```python
 @classmethod
@@ -197,7 +197,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.get_start_frame"></a>
 
-#### get_start_frame
+#### get\_start\_frame
 
 ```python
 @classmethod
@@ -215,7 +215,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.get_end_seconds"></a>
 
-#### get_end_seconds
+#### get\_end\_seconds
 
 ```python
 @classmethod
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRangeExtensions.get_end_frame"></a>
 
-#### get_end_frame
+#### get\_end\_frame
 
 ```python
 @classmethod

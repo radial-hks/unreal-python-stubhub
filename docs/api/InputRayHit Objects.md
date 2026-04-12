@@ -24,7 +24,7 @@ class InputRayHit(StructBase)
 
 <a id="unreal.InputRayHit.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(hit: bool = False,
@@ -57,7 +57,7 @@ def hit(value: bool) -> None
 
 <a id="unreal.InputRayHit.hit_depth"></a>
 
-#### hit_depth
+#### hit\_depth
 
 ```python
 @property
@@ -68,7 +68,7 @@ def hit_depth() -> float
 
 <a id="unreal.InputRayHit.hit_depth"></a>
 
-#### hit_depth
+#### hit\_depth
 
 ```python
 @hit_depth.setter
@@ -77,7 +77,7 @@ def hit_depth(value: float) -> None
 
 <a id="unreal.InputRayHit.hit_normal"></a>
 
-#### hit_normal
+#### hit\_normal
 
 ```python
 @property
@@ -88,7 +88,7 @@ def hit_normal() -> Vector
 
 <a id="unreal.InputRayHit.hit_normal"></a>
 
-#### hit_normal
+#### hit\_normal
 
 ```python
 @hit_normal.setter
@@ -97,7 +97,7 @@ def hit_normal(value: Vector) -> None
 
 <a id="unreal.InputRayHit.has_hit_normal"></a>
 
-#### has_hit_normal
+#### has\_hit\_normal
 
 ```python
 @property
@@ -108,7 +108,7 @@ def has_hit_normal() -> bool
 
 <a id="unreal.InputRayHit.has_hit_normal"></a>
 
-#### has_hit_normal
+#### has\_hit\_normal
 
 ```python
 @has_hit_normal.setter
@@ -117,7 +117,7 @@ def has_hit_normal(value: bool) -> None
 
 <a id="unreal.InputRayHit.hit_identifier"></a>
 
-#### hit_identifier
+#### hit\_identifier
 
 ```python
 @property
@@ -128,7 +128,7 @@ def hit_identifier() -> int
 
 <a id="unreal.InputRayHit.hit_identifier"></a>
 
-#### hit_identifier
+#### hit\_identifier
 
 ```python
 @hit_identifier.setter
@@ -137,7 +137,7 @@ def hit_identifier(value: int) -> None
 
 <a id="unreal.InputRayHit.hit_object"></a>
 
-#### hit_object
+#### hit\_object
 
 ```python
 @property
@@ -149,7 +149,7 @@ HitOwner and HitObject should be set to the same pointer if the HitOwner derives
 
 <a id="unreal.InputRayHit.hit_object"></a>
 
-#### hit_object
+#### hit\_object
 
 ```python
 @hit_object.setter

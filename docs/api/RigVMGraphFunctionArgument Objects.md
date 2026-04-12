@@ -25,7 +25,7 @@ Rig VMGraph Function Argument
 
 <a id="unreal.RigVMGraphFunctionArgument.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -51,7 +51,7 @@ def name() -> Name
 
 <a id="unreal.RigVMGraphFunctionArgument.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property
@@ -62,7 +62,7 @@ def display_name() -> Name
 
 <a id="unreal.RigVMGraphFunctionArgument.cpp_type"></a>
 
-#### cpp_type
+#### cpp\_type
 
 ```python
 @property
@@ -73,7 +73,7 @@ def cpp_type() -> Name
 
 <a id="unreal.RigVMGraphFunctionArgument.cpp_type_object"></a>
 
-#### cpp_type_object
+#### cpp\_type\_object
 
 ```python
 @property
@@ -84,7 +84,7 @@ def cpp_type_object() -> Object
 
 <a id="unreal.RigVMGraphFunctionArgument.is_array"></a>
 
-#### is_array
+#### is\_array
 
 ```python
 @property
@@ -106,7 +106,7 @@ def direction() -> RigVMPinDirection
 
 <a id="unreal.RigVMGraphFunctionArgument.default_value"></a>
 
-#### default_value
+#### default\_value
 
 ```python
 @property
@@ -117,7 +117,7 @@ def default_value() -> str
 
 <a id="unreal.RigVMGraphFunctionArgument.is_const"></a>
 
-#### is_const
+#### is\_const
 
 ```python
 @property

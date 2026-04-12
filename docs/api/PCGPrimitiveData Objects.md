@@ -22,7 +22,7 @@ PCGPrimitive Data
 
 <a id="unreal.PCGPrimitiveData.voxel_size"></a>
 
-#### voxel_size
+#### voxel\_size
 
 ```python
 @property
@@ -33,7 +33,7 @@ def voxel_size() -> Vector
 
 <a id="unreal.PCGPrimitiveData.voxel_size"></a>
 
-#### voxel_size
+#### voxel\_size
 
 ```python
 @voxel_size.setter

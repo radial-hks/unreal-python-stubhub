@@ -13,7 +13,7 @@ Blueprint Platform Library
 
 <a id="unreal.PlatformLibrary.set_allowed_device_orientation"></a>
 
-#### set_allowed_device_orientation
+#### set\_allowed\_device\_orientation
 
 ```python
 @classmethod
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.PlatformLibrary.schedule_local_notification_from_now"></a>
 
-#### schedule_local_notification_from_now
+#### schedule\_local\_notification\_from\_now
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.PlatformLibrary.schedule_local_notification_badge_from_now"></a>
 
-#### schedule_local_notification_badge_from_now
+#### schedule\_local\_notification\_badge\_from\_now
 
 ```python
 @classmethod
@@ -70,7 +70,7 @@ Args:
 
 <a id="unreal.PlatformLibrary.schedule_local_notification_badge_at_time"></a>
 
-#### schedule_local_notification_badge_at_time
+#### schedule\_local\_notification\_badge\_at\_time
 
 ```python
 @classmethod
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.PlatformLibrary.schedule_local_notification_at_time"></a>
 
-#### schedule_local_notification_at_time
+#### schedule\_local\_notification\_at\_time
 
 ```python
 @classmethod
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.PlatformLibrary.get_launch_notification"></a>
 
-#### get_launch_notification
+#### get\_launch\_notification
 
 ```python
 @classmethod
@@ -139,7 +139,7 @@ Returns:
 
 <a id="unreal.PlatformLibrary.get_device_orientation"></a>
 
-#### get_device_orientation
+#### get\_device\_orientation
 
 ```python
 @classmethod
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.PlatformLibrary.get_allowed_device_orientation"></a>
 
-#### get_allowed_device_orientation
+#### get\_allowed\_device\_orientation
 
 ```python
 @classmethod
@@ -172,7 +172,7 @@ Returns:
 
 <a id="unreal.PlatformLibrary.clear_all_local_notifications"></a>
 
-#### clear_all_local_notifications
+#### clear\_all\_local\_notifications
 
 ```python
 @classmethod
@@ -184,7 +184,7 @@ Clear all pending local notifications. Typically this will be done before schedu
 
 <a id="unreal.PlatformLibrary.cancel_local_notification_by_id"></a>
 
-#### cancel_local_notification_by_id
+#### cancel\_local\_notification\_by\_id
 
 ```python
 @classmethod
@@ -199,7 +199,7 @@ Args:
 
 <a id="unreal.PlatformLibrary.cancel_local_notification"></a>
 
-#### cancel_local_notification
+#### cancel\_local\_notification
 
 ```python
 @classmethod

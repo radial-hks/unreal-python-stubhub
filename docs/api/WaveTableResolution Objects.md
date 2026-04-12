@@ -14,61 +14,61 @@ namespace WaveTable
 
 <a id="unreal.WaveTableResolution.RES_8"></a>
 
-#### RES_8
+#### RES\_8
 
 3
 
 <a id="unreal.WaveTableResolution.RES_16"></a>
 
-#### RES_16
+#### RES\_16
 
 4
 
 <a id="unreal.WaveTableResolution.RES_32"></a>
 
-#### RES_32
+#### RES\_32
 
 5
 
 <a id="unreal.WaveTableResolution.RES_64"></a>
 
-#### RES_64
+#### RES\_64
 
 6
 
 <a id="unreal.WaveTableResolution.RES_128"></a>
 
-#### RES_128
+#### RES\_128
 
 7
 
 <a id="unreal.WaveTableResolution.RES_256"></a>
 
-#### RES_256
+#### RES\_256
 
 8
 
 <a id="unreal.WaveTableResolution.RES_512"></a>
 
-#### RES_512
+#### RES\_512
 
 9
 
 <a id="unreal.WaveTableResolution.RES_1024"></a>
 
-#### RES_1024
+#### RES\_1024
 
 10
 
 <a id="unreal.WaveTableResolution.RES_2048"></a>
 
-#### RES_2048
+#### RES\_2048
 
 11
 
 <a id="unreal.WaveTableResolution.RES_4096"></a>
 
-#### RES_4096
+#### RES\_4096
 
 12
 

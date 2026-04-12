@@ -21,7 +21,7 @@ Represents the appearance of a trigger threshold line
 
 <a id="unreal.SampledSequenceVectorViewerStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(background_color: SlateColor = [[
@@ -46,7 +46,7 @@ def __init__(background_color: SlateColor = [[
 
 <a id="unreal.SampledSequenceVectorViewerStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @property
@@ -57,7 +57,7 @@ def background_color() -> SlateColor
 
 <a id="unreal.SampledSequenceVectorViewerStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @background_color.setter
@@ -66,7 +66,7 @@ def background_color(value: SlateColor) -> None
 
 <a id="unreal.SampledSequenceVectorViewerStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @property
@@ -77,7 +77,7 @@ def background_brush() -> SlateBrush
 
 <a id="unreal.SampledSequenceVectorViewerStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @background_brush.setter
@@ -86,7 +86,7 @@ def background_brush(value: SlateBrush) -> None
 
 <a id="unreal.SampledSequenceVectorViewerStyle.line_color"></a>
 
-#### line_color
+#### line\_color
 
 ```python
 @property
@@ -97,7 +97,7 @@ def line_color() -> LinearColor
 
 <a id="unreal.SampledSequenceVectorViewerStyle.line_color"></a>
 
-#### line_color
+#### line\_color
 
 ```python
 @line_color.setter
@@ -106,7 +106,7 @@ def line_color(value: LinearColor) -> None
 
 <a id="unreal.SampledSequenceVectorViewerStyle.line_thickness"></a>
 
-#### line_thickness
+#### line\_thickness
 
 ```python
 @property
@@ -117,7 +117,7 @@ def line_thickness() -> float
 
 <a id="unreal.SampledSequenceVectorViewerStyle.line_thickness"></a>
 
-#### line_thickness
+#### line\_thickness
 
 ```python
 @line_thickness.setter

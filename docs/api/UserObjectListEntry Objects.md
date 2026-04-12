@@ -13,7 +13,7 @@ User Object List Entry
 
 <a id="unreal.UserObjectListEntry.on_list_item_object_set"></a>
 
-#### on_list_item_object_set
+#### on\_list\_item\_object\_set
 
 ```python
 def on_list_item_object_set(list_item_object: Object) -> None

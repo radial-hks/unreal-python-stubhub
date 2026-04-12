@@ -39,7 +39,7 @@ def settings(value: SubmixEffectDelaySettings) -> None
 
 <a id="unreal.SubmixEffectDelayPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectDelaySettings) -> None
@@ -54,7 +54,7 @@ Args:
 
 <a id="unreal.SubmixEffectDelayPreset.set_interpolation_time"></a>
 
-#### set_interpolation_time
+#### set\_interpolation\_time
 
 ```python
 def set_interpolation_time(time: float) -> None
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.SubmixEffectDelayPreset.set_delay"></a>
 
-#### set_delay
+#### set\_delay
 
 ```python
 def set_delay(length: float) -> None
@@ -82,7 +82,7 @@ Args:
 
 <a id="unreal.SubmixEffectDelayPreset.set_default_settings"></a>
 
-#### set_default_settings
+#### set\_default\_settings
 
 ```python
 def set_default_settings(settings: SubmixEffectDelaySettings) -> None
@@ -97,7 +97,7 @@ Args:
 
 <a id="unreal.SubmixEffectDelayPreset.get_max_delay_in_milliseconds"></a>
 
-#### get_max_delay_in_milliseconds
+#### get\_max\_delay\_in\_milliseconds
 
 ```python
 def get_max_delay_in_milliseconds() -> float

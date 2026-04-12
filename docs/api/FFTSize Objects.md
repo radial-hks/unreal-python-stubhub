@@ -13,7 +13,7 @@ EFFTSize
 
 <a id="unreal.FFTSize.DEFAULT_SIZE"></a>
 
-#### DEFAULT_SIZE
+#### DEFAULT\_SIZE
 
 0: 512
 
@@ -43,7 +43,7 @@ EFFTSize
 
 <a id="unreal.FFTSize.VERY_LARGE"></a>
 
-#### VERY_LARGE
+#### VERY\_LARGE
 
 5: 2048
 

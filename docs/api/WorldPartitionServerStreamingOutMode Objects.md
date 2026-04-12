@@ -13,7 +13,7 @@ EWorld Partition Server Streaming Out Mode
 
 <a id="unreal.WorldPartitionServerStreamingOutMode.PROJECT_DEFAULT"></a>
 
-#### PROJECT_DEFAULT
+#### PROJECT\_DEFAULT
 
 0: Use project default (wp.Runtime.EnableServerStreamingOut)
 

@@ -35,7 +35,7 @@ Creates a new Attribute Set.
 
 <a id="unreal.PCGCreateAttributeSetSettings.attribute_types"></a>
 
-#### attribute_types
+#### attribute\_types
 
 ```python
 @property
@@ -46,7 +46,7 @@ def attribute_types() -> PCGMetadataTypesConstantStruct
 
 <a id="unreal.PCGCreateAttributeSetSettings.attribute_types"></a>
 
-#### attribute_types
+#### attribute\_types
 
 ```python
 @attribute_types.setter
@@ -55,7 +55,7 @@ def attribute_types(value: PCGMetadataTypesConstantStruct) -> None
 
 <a id="unreal.PCGCreateAttributeSetSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @property
@@ -66,7 +66,7 @@ def output_target() -> PCGAttributePropertyOutputNoSourceSelector
 
 <a id="unreal.PCGCreateAttributeSetSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @output_target.setter

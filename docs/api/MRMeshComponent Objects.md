@@ -195,7 +195,7 @@ MRMesh Component
 
 <a id="unreal.MRMeshComponent.set_wireframe_material"></a>
 
-#### set_wireframe_material
+#### set\_wireframe\_material
 
 ```python
 def set_wireframe_material(material: MaterialInterface) -> None
@@ -209,7 +209,7 @@ Args:
 
 <a id="unreal.MRMeshComponent.set_wireframe_color"></a>
 
-#### set_wireframe_color
+#### set\_wireframe\_color
 
 ```python
 def set_wireframe_color(color: LinearColor) -> None
@@ -223,7 +223,7 @@ Args:
 
 <a id="unreal.MRMeshComponent.set_use_wireframe"></a>
 
-#### set_use_wireframe
+#### set\_use\_wireframe
 
 ```python
 def set_use_wireframe(use_wireframe: bool) -> None
@@ -237,7 +237,7 @@ Args:
 
 <a id="unreal.MRMeshComponent.set_enable_mesh_occlusion"></a>
 
-#### set_enable_mesh_occlusion
+#### set\_enable\_mesh\_occlusion
 
 ```python
 def set_enable_mesh_occlusion(enable: bool) -> None
@@ -251,7 +251,7 @@ Args:
 
 <a id="unreal.MRMeshComponent.request_nav_mesh_update"></a>
 
-#### request_nav_mesh_update
+#### request\_nav\_mesh\_update
 
 ```python
 def request_nav_mesh_update() -> None
@@ -262,7 +262,7 @@ Generate nav mesh if collision data has changed since the last nav mesh generati
 
 <a id="unreal.MRMeshComponent.is_connected"></a>
 
-#### is_connected
+#### is\_connected
 
 ```python
 def is_connected() -> bool
@@ -276,7 +276,7 @@ Returns:
 
 <a id="unreal.MRMeshComponent.get_wireframe_color"></a>
 
-#### get_wireframe_color
+#### get\_wireframe\_color
 
 ```python
 def get_wireframe_color() -> LinearColor
@@ -290,7 +290,7 @@ Returns:
 
 <a id="unreal.MRMeshComponent.get_use_wireframe"></a>
 
-#### get_use_wireframe
+#### get\_use\_wireframe
 
 ```python
 def get_use_wireframe() -> bool
@@ -304,7 +304,7 @@ Returns:
 
 <a id="unreal.MRMeshComponent.get_enable_mesh_occlusion"></a>
 
-#### get_enable_mesh_occlusion
+#### get\_enable\_mesh\_occlusion
 
 ```python
 def get_enable_mesh_occlusion() -> bool
@@ -318,7 +318,7 @@ Returns:
 
 <a id="unreal.MRMeshComponent.force_nav_mesh_update"></a>
 
-#### force_nav_mesh_update
+#### force\_nav\_mesh\_update
 
 ```python
 def force_nav_mesh_update() -> None

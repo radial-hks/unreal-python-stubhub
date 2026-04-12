@@ -14,13 +14,13 @@ EPCGTag Filter Operation
 
 <a id="unreal.PCGTagFilterOperation.KEEP_ONLY_SELECTED_TAGS"></a>
 
-#### KEEP_ONLY_SELECTED_TAGS
+#### KEEP\_ONLY\_SELECTED\_TAGS
 
 0
 
 <a id="unreal.PCGTagFilterOperation.DELETE_SELECTED_TAGS"></a>
 
-#### DELETE_SELECTED_TAGS
+#### DELETE\_SELECTED\_TAGS
 
 1
 

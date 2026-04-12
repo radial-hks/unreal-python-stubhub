@@ -18,7 +18,7 @@ UStruct version of settings struct used to initialized a clock
 
 <a id="unreal.QuartzClockSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(time_signature: QuartzTimeSignature = [
@@ -29,7 +29,7 @@ def __init__(time_signature: QuartzTimeSignature = [
 
 <a id="unreal.QuartzClockSettings.time_signature"></a>
 
-#### time_signature
+#### time\_signature
 
 ```python
 @property
@@ -40,7 +40,7 @@ def time_signature() -> QuartzTimeSignature
 
 <a id="unreal.QuartzClockSettings.time_signature"></a>
 
-#### time_signature
+#### time\_signature
 
 ```python
 @time_signature.setter
@@ -49,7 +49,7 @@ def time_signature(value: QuartzTimeSignature) -> None
 
 <a id="unreal.QuartzClockSettings.ignore_level_change"></a>
 
-#### ignore_level_change
+#### ignore\_level\_change
 
 ```python
 @property
@@ -60,7 +60,7 @@ def ignore_level_change() -> bool
 
 <a id="unreal.QuartzClockSettings.ignore_level_change"></a>
 
-#### ignore_level_change
+#### ignore\_level\_change
 
 ```python
 @ignore_level_change.setter

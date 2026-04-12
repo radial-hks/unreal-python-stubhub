@@ -35,7 +35,7 @@ PCGSubgraph Settings
 
 <a id="unreal.PCGSubgraphSettings.subgraph_instance"></a>
 
-#### subgraph_instance
+#### subgraph\_instance
 
 ```python
 @property
@@ -46,7 +46,7 @@ def subgraph_instance() -> PCGGraphInstance
 
 <a id="unreal.PCGSubgraphSettings.subgraph_override"></a>
 
-#### subgraph_override
+#### subgraph\_override
 
 ```python
 @property

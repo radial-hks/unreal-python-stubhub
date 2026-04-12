@@ -13,7 +13,7 @@ Raw Anim Sequence Track Extensions
 
 <a id="unreal.RawAnimSequenceTrackExtensions.get_scale_keys"></a>
 
-#### get_scale_keys
+#### get\_scale\_keys
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.RawAnimSequenceTrackExtensions.get_rotational_keys"></a>
 
-#### get_rotational_keys
+#### get\_rotational\_keys
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.RawAnimSequenceTrackExtensions.get_positional_keys"></a>
 
-#### get_positional_keys
+#### get\_positional\_keys
 
 ```python
 @classmethod

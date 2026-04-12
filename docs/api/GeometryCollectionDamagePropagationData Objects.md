@@ -19,7 +19,7 @@ Geometry Collection Damage Propagation Data
 
 <a id="unreal.GeometryCollectionDamagePropagationData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enabled: bool = False,
@@ -49,7 +49,7 @@ def enabled(value: bool) -> None
 
 <a id="unreal.GeometryCollectionDamagePropagationData.break_damage_propagation_factor"></a>
 
-#### break_damage_propagation_factor
+#### break\_damage\_propagation\_factor
 
 ```python
 @property
@@ -60,7 +60,7 @@ def break_damage_propagation_factor() -> float
 
 <a id="unreal.GeometryCollectionDamagePropagationData.break_damage_propagation_factor"></a>
 
-#### break_damage_propagation_factor
+#### break\_damage\_propagation\_factor
 
 ```python
 @break_damage_propagation_factor.setter
@@ -69,7 +69,7 @@ def break_damage_propagation_factor(value: float) -> None
 
 <a id="unreal.GeometryCollectionDamagePropagationData.shock_damage_propagation_factor"></a>
 
-#### shock_damage_propagation_factor
+#### shock\_damage\_propagation\_factor
 
 ```python
 @property
@@ -80,7 +80,7 @@ def shock_damage_propagation_factor() -> float
 
 <a id="unreal.GeometryCollectionDamagePropagationData.shock_damage_propagation_factor"></a>
 
-#### shock_damage_propagation_factor
+#### shock\_damage\_propagation\_factor
 
 ```python
 @shock_damage_propagation_factor.setter

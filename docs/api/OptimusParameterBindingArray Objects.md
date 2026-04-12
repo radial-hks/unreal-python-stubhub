@@ -18,7 +18,7 @@ Optimus Parameter Binding Array
 
 <a id="unreal.OptimusParameterBindingArray.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

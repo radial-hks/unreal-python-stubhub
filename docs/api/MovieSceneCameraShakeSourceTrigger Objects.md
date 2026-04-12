@@ -20,7 +20,7 @@ Movie Scene Camera Shake Source Trigger
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -33,7 +33,7 @@ def __init__(
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.shake_class"></a>
 
-#### shake_class
+#### shake\_class
 
 ```python
 @property
@@ -44,7 +44,7 @@ def shake_class() -> Class
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.shake_class"></a>
 
-#### shake_class
+#### shake\_class
 
 ```python
 @shake_class.setter
@@ -53,7 +53,7 @@ def shake_class(value: Class) -> None
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.play_scale"></a>
 
-#### play_scale
+#### play\_scale
 
 ```python
 @property
@@ -64,7 +64,7 @@ def play_scale() -> float
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.play_scale"></a>
 
-#### play_scale
+#### play\_scale
 
 ```python
 @play_scale.setter
@@ -73,7 +73,7 @@ def play_scale(value: float) -> None
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.play_space"></a>
 
-#### play_space
+#### play\_space
 
 ```python
 @property
@@ -84,7 +84,7 @@ def play_space() -> CameraShakePlaySpace
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.play_space"></a>
 
-#### play_space
+#### play\_space
 
 ```python
 @play_space.setter
@@ -93,7 +93,7 @@ def play_space(value: CameraShakePlaySpace) -> None
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.user_defined_play_space"></a>
 
-#### user_defined_play_space
+#### user\_defined\_play\_space
 
 ```python
 @property
@@ -104,7 +104,7 @@ def user_defined_play_space() -> Rotator
 
 <a id="unreal.MovieSceneCameraShakeSourceTrigger.user_defined_play_space"></a>
 
-#### user_defined_play_space
+#### user\_defined\_play\_space
 
 ```python
 @user_defined_play_space.setter

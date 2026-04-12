@@ -26,7 +26,7 @@ ELidar Point Cloud Coloration Mode
 
 <a id="unreal.LidarPointCloudColorationMode.DATA_WITH_CLASSIFICATION_ALPHA"></a>
 
-#### DATA_WITH_CLASSIFICATION_ALPHA
+#### DATA\_WITH\_CLASSIFICATION\_ALPHA
 
 2: Uses imported RGB / Intensity data combined with Alpha mask from Classification Colors
 

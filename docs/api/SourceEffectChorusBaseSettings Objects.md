@@ -23,7 +23,7 @@ Source Effect Chorus Base Settings
 
 <a id="unreal.SourceEffectChorusBaseSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(depth: float = 0.000000,
@@ -96,7 +96,7 @@ def feedback(value: float) -> None
 
 <a id="unreal.SourceEffectChorusBaseSettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @property
@@ -107,7 +107,7 @@ def wet_level() -> float
 
 <a id="unreal.SourceEffectChorusBaseSettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @wet_level.setter
@@ -116,7 +116,7 @@ def wet_level(value: float) -> None
 
 <a id="unreal.SourceEffectChorusBaseSettings.dry_level"></a>
 
-#### dry_level
+#### dry\_level
 
 ```python
 @property
@@ -127,7 +127,7 @@ def dry_level() -> float
 
 <a id="unreal.SourceEffectChorusBaseSettings.dry_level"></a>
 
-#### dry_level
+#### dry\_level
 
 ```python
 @dry_level.setter

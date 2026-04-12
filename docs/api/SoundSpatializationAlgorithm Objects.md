@@ -13,13 +13,13 @@ ESound Spatialization Algorithm
 
 <a id="unreal.SoundSpatializationAlgorithm.SPATIALIZATION_DEFAULT"></a>
 
-#### SPATIALIZATION_DEFAULT
+#### SPATIALIZATION\_DEFAULT
 
 0: Standard panning method for spatialization (linear or equal power method defined in project settings)
 
 <a id="unreal.SoundSpatializationAlgorithm.SPATIALIZATION_HRTF"></a>
 
-#### SPATIALIZATION_HRTF
+#### SPATIALIZATION\_HRTF
 
 1: Binaural spatialization method if available (requires headphones, enabled by plugins)
 

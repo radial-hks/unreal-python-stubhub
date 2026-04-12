@@ -13,13 +13,13 @@ EController Analog Stick
 
 <a id="unreal.ControllerAnalogStick.CAS_LEFT_STICK"></a>
 
-#### CAS_LEFT_STICK
+#### CAS\_LEFT\_STICK
 
 0
 
 <a id="unreal.ControllerAnalogStick.CAS_RIGHT_STICK"></a>
 
-#### CAS_RIGHT_STICK
+#### CAS\_RIGHT\_STICK
 
 1
 

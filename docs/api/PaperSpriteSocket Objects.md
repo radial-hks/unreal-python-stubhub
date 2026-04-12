@@ -19,7 +19,7 @@ TODO:: Should have some nice UI and enforce unique names, etc...
 
 <a id="unreal.PaperSpriteSocket.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(local_transform: Transform = [[0.000000, 0.000000, 0.000000],
@@ -30,7 +30,7 @@ def __init__(local_transform: Transform = [[0.000000, 0.000000, 0.000000],
 
 <a id="unreal.PaperSpriteSocket.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @property
@@ -41,7 +41,7 @@ def local_transform() -> Transform
 
 <a id="unreal.PaperSpriteSocket.socket_name"></a>
 
-#### socket_name
+#### socket\_name
 
 ```python
 @property

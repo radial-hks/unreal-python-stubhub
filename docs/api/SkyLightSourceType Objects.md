@@ -13,13 +13,13 @@ ESky Light Source Type
 
 <a id="unreal.SkyLightSourceType.SLS_CAPTURED_SCENE"></a>
 
-#### SLS_CAPTURED_SCENE
+#### SLS\_CAPTURED\_SCENE
 
 0: Construct the sky light from the captured scene, anything further than SkyDistanceThreshold from the sky light position will be included.
 
 <a id="unreal.SkyLightSourceType.SLS_SPECIFIED_CUBEMAP"></a>
 
-#### SLS_SPECIFIED_CUBEMAP
+#### SLS\_SPECIFIED\_CUBEMAP
 
 1: Construct the sky light from the specified cubemap.
 

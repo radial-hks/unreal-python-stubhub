@@ -125,7 +125,7 @@ def graph(value: MetasoundEditorGraphBase) -> None
 
 <a id="unreal.MetaSoundSource.output_format"></a>
 
-#### output_format
+#### output\_format
 
 ```python
 @property
@@ -136,7 +136,7 @@ def output_format() -> MetaSoundOutputAudioFormat
 
 <a id="unreal.MetaSoundSource.quality_setting"></a>
 
-#### quality_setting
+#### quality\_setting
 
 ```python
 @property
@@ -147,7 +147,7 @@ def quality_setting() -> Name
 
 <a id="unreal.MetaSoundSource.quality_setting"></a>
 
-#### quality_setting
+#### quality\_setting
 
 ```python
 @quality_setting.setter
@@ -156,7 +156,7 @@ def quality_setting(value: Name) -> None
 
 <a id="unreal.MetaSoundSource.block_rate_override"></a>
 
-#### block_rate_override
+#### block\_rate\_override
 
 ```python
 @property
@@ -167,7 +167,7 @@ def block_rate_override() -> PerPlatformFloat
 
 <a id="unreal.MetaSoundSource.sample_rate_override"></a>
 
-#### sample_rate_override
+#### sample\_rate\_override
 
 ```python
 @property

@@ -25,7 +25,7 @@ Frame snapshot information for a level sequence
 
 <a id="unreal.LevelSequencePlayerSnapshot.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(root_name: str = "",
@@ -42,7 +42,7 @@ def __init__(root_name: str = "",
 
 <a id="unreal.LevelSequencePlayerSnapshot.root_name"></a>
 
-#### root_name
+#### root\_name
 
 ```python
 @property
@@ -53,7 +53,7 @@ def root_name() -> str
 
 <a id="unreal.LevelSequencePlayerSnapshot.root_time"></a>
 
-#### root_time
+#### root\_time
 
 ```python
 @property
@@ -64,7 +64,7 @@ def root_time() -> QualifiedTime
 
 <a id="unreal.LevelSequencePlayerSnapshot.source_time"></a>
 
-#### source_time
+#### source\_time
 
 ```python
 @property
@@ -75,7 +75,7 @@ def source_time() -> QualifiedTime
 
 <a id="unreal.LevelSequencePlayerSnapshot.current_shot_name"></a>
 
-#### current_shot_name
+#### current\_shot\_name
 
 ```python
 @property
@@ -86,7 +86,7 @@ def current_shot_name() -> str
 
 <a id="unreal.LevelSequencePlayerSnapshot.current_shot_local_time"></a>
 
-#### current_shot_local_time
+#### current\_shot\_local\_time
 
 ```python
 @property
@@ -97,7 +97,7 @@ def current_shot_local_time() -> QualifiedTime
 
 <a id="unreal.LevelSequencePlayerSnapshot.current_shot_source_time"></a>
 
-#### current_shot_source_time
+#### current\_shot\_source\_time
 
 ```python
 @property
@@ -108,7 +108,7 @@ def current_shot_source_time() -> QualifiedTime
 
 <a id="unreal.LevelSequencePlayerSnapshot.source_timecode"></a>
 
-#### source_timecode
+#### source\_timecode
 
 ```python
 @property
@@ -119,7 +119,7 @@ def source_timecode() -> str
 
 <a id="unreal.LevelSequencePlayerSnapshot.camera_component"></a>
 
-#### camera_component
+#### camera\_component
 
 ```python
 @property
@@ -130,7 +130,7 @@ def camera_component() -> CameraComponent
 
 <a id="unreal.LevelSequencePlayerSnapshot.active_shot"></a>
 
-#### active_shot
+#### active\_shot
 
 ```python
 @property

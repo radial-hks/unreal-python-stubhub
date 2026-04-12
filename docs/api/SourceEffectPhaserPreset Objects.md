@@ -38,7 +38,7 @@ def settings(value: SourceEffectPhaserSettings) -> None
 
 <a id="unreal.SourceEffectPhaserPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectPhaserSettings) -> None

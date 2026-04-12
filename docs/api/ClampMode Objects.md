@@ -13,19 +13,19 @@ EClamp Mode
 
 <a id="unreal.ClampMode.CMODE_CLAMP"></a>
 
-#### CMODE_CLAMP
+#### CMODE\_CLAMP
 
 0
 
 <a id="unreal.ClampMode.CMODE_CLAMP_MIN"></a>
 
-#### CMODE_CLAMP_MIN
+#### CMODE\_CLAMP\_MIN
 
 1
 
 <a id="unreal.ClampMode.CMODE_CLAMP_MAX"></a>
 
-#### CMODE_CLAMP_MAX
+#### CMODE\_CLAMP\_MAX
 
 2
 

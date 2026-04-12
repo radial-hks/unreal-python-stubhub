@@ -22,7 +22,7 @@ Sequence Length Changed Payload
 
 <a id="unreal.SequenceLengthChangedPayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(previous_length: float = 0.000000,
@@ -35,7 +35,7 @@ def __init__(previous_length: float = 0.000000,
 
 <a id="unreal.SequenceLengthChangedPayload.previous_length"></a>
 
-#### previous_length
+#### previous\_length
 
 ```python
 @property
@@ -68,7 +68,7 @@ def t1() -> float
 
 <a id="unreal.SequenceLengthChangedPayload.previous_number_of_frames"></a>
 
-#### previous_number_of_frames
+#### previous\_number\_of\_frames
 
 ```python
 @property

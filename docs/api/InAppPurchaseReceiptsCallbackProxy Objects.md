@@ -19,7 +19,7 @@ In App Purchase Receipts Callback Proxy
 
 <a id="unreal.InAppPurchaseReceiptsCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_success() -> OnlineProxyInAppReceiptsResult
 
 <a id="unreal.InAppPurchaseReceiptsCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -39,7 +39,7 @@ def on_success(value: OnlineProxyInAppReceiptsResult) -> None
 
 <a id="unreal.InAppPurchaseReceiptsCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_failure() -> OnlineProxyInAppReceiptsResult
 
 <a id="unreal.InAppPurchaseReceiptsCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @on_failure.setter
@@ -59,7 +59,7 @@ def on_failure(value: OnlineProxyInAppReceiptsResult) -> None
 
 <a id="unreal.InAppPurchaseReceiptsCallbackProxy.create_proxy_object_for_in_app_purchase_restore_owned_products"></a>
 
-#### create_proxy_object_for_in_app_purchase_restore_owned_products
+#### create\_proxy\_object\_for\_in\_app\_purchase\_restore\_owned\_products
 
 ```python
 @classmethod
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.InAppPurchaseReceiptsCallbackProxy.create_proxy_object_for_in_app_purchase_query_owned_products"></a>
 
-#### create_proxy_object_for_in_app_purchase_query_owned_products
+#### create\_proxy\_object\_for\_in\_app\_purchase\_query\_owned\_products
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.InAppPurchaseReceiptsCallbackProxy.create_proxy_object_for_in_app_purchase_get_known_receipts"></a>
 
-#### create_proxy_object_for_in_app_purchase_get_known_receipts
+#### create\_proxy\_object\_for\_in\_app\_purchase\_get\_known\_receipts
 
 ```python
 @classmethod

@@ -19,7 +19,7 @@ ESubmix Effect Dynamics Key Source
 
 <a id="unreal.SubmixEffectDynamicsKeySource.AUDIO_BUS"></a>
 
-#### AUDIO_BUS
+#### AUDIO\_BUS
 
 1: Uses audio bus as key
 

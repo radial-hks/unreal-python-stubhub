@@ -57,7 +57,7 @@ def operation(value: PCGCopyAttributesOperation) -> None
 
 <a id="unreal.PCGCopyAttributesSettings.copy_all_attributes"></a>
 
-#### copy_all_attributes
+#### copy\_all\_attributes
 
 ```python
 @property
@@ -68,7 +68,7 @@ def copy_all_attributes() -> bool
 
 <a id="unreal.PCGCopyAttributesSettings.copy_all_attributes"></a>
 
-#### copy_all_attributes
+#### copy\_all\_attributes
 
 ```python
 @copy_all_attributes.setter
@@ -77,7 +77,7 @@ def copy_all_attributes(value: bool) -> None
 
 <a id="unreal.PCGCopyAttributesSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -88,7 +88,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGCopyAttributesSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter
@@ -97,7 +97,7 @@ def input_source(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGCopyAttributesSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @property
@@ -108,7 +108,7 @@ def output_target() -> PCGAttributePropertyOutputSelector
 
 <a id="unreal.PCGCopyAttributesSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @output_target.setter

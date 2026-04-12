@@ -142,7 +142,7 @@ Text Render Actor
 
 <a id="unreal.TextRenderActor.text_render"></a>
 
-#### text_render
+#### text\_render
 
 ```python
 @property

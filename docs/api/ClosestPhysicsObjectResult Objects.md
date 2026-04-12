@@ -13,7 +13,7 @@ Closest Physics Object Result
 
 <a id="unreal.ClosestPhysicsObjectResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

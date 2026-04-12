@@ -38,7 +38,7 @@ Default animation settings.
 
 <a id="unreal.AnimationSettings.raise_max_error_to_existing"></a>
 
-#### raise_max_error_to_existing
+#### raise\_max\_error\_to\_existing
 
 ```python
 @property
@@ -50,7 +50,7 @@ deprecated: No longer used.
 
 <a id="unreal.AnimationSettings.raise_max_error_to_existing"></a>
 
-#### raise_max_error_to_existing
+#### raise\_max\_error\_to\_existing
 
 ```python
 @raise_max_error_to_existing.setter
@@ -59,7 +59,7 @@ def raise_max_error_to_existing(value: bool) -> None
 
 <a id="unreal.AnimationSettings.get_bone_custom_attribute_names_to_import"></a>
 
-#### get_bone_custom_attribute_names_to_import
+#### get\_bone\_custom\_attribute\_names\_to\_import
 
 ```python
 def get_bone_custom_attribute_names_to_import() -> Array[str]

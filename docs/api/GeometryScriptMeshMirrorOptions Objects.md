@@ -20,7 +20,7 @@ Geometry Script Mesh Mirror Options
 
 <a id="unreal.GeometryScriptMeshMirrorOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(apply_plane_cut: bool = False,
@@ -30,7 +30,7 @@ def __init__(apply_plane_cut: bool = False,
 
 <a id="unreal.GeometryScriptMeshMirrorOptions.apply_plane_cut"></a>
 
-#### apply_plane_cut
+#### apply\_plane\_cut
 
 ```python
 @property
@@ -41,7 +41,7 @@ def apply_plane_cut() -> bool
 
 <a id="unreal.GeometryScriptMeshMirrorOptions.apply_plane_cut"></a>
 
-#### apply_plane_cut
+#### apply\_plane\_cut
 
 ```python
 @apply_plane_cut.setter
@@ -50,7 +50,7 @@ def apply_plane_cut(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshMirrorOptions.flip_cut_side"></a>
 
-#### flip_cut_side
+#### flip\_cut\_side
 
 ```python
 @property
@@ -61,7 +61,7 @@ def flip_cut_side() -> bool
 
 <a id="unreal.GeometryScriptMeshMirrorOptions.flip_cut_side"></a>
 
-#### flip_cut_side
+#### flip\_cut\_side
 
 ```python
 @flip_cut_side.setter
@@ -70,7 +70,7 @@ def flip_cut_side(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshMirrorOptions.weld_along_plane"></a>
 
-#### weld_along_plane
+#### weld\_along\_plane
 
 ```python
 @property
@@ -81,7 +81,7 @@ def weld_along_plane() -> bool
 
 <a id="unreal.GeometryScriptMeshMirrorOptions.weld_along_plane"></a>
 
-#### weld_along_plane
+#### weld\_along\_plane
 
 ```python
 @weld_along_plane.setter

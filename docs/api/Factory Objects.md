@@ -26,7 +26,7 @@ An object responsible for creating and importing new objects.
 
 <a id="unreal.Factory.create_new"></a>
 
-#### create_new
+#### create\_new
 
 ```python
 @property
@@ -37,7 +37,7 @@ def create_new() -> bool
 
 <a id="unreal.Factory.create_new"></a>
 
-#### create_new
+#### create\_new
 
 ```python
 @create_new.setter
@@ -46,7 +46,7 @@ def create_new(value: bool) -> None
 
 <a id="unreal.Factory.supported_class"></a>
 
-#### supported_class
+#### supported\_class
 
 ```python
 @property
@@ -57,7 +57,7 @@ def supported_class() -> Class
 
 <a id="unreal.Factory.supported_class"></a>
 
-#### supported_class
+#### supported\_class
 
 ```python
 @supported_class.setter
@@ -66,7 +66,7 @@ def supported_class(value: Class) -> None
 
 <a id="unreal.Factory.context_class"></a>
 
-#### context_class
+#### context\_class
 
 ```python
 @property
@@ -77,7 +77,7 @@ def context_class() -> Class
 
 <a id="unreal.Factory.context_class"></a>
 
-#### context_class
+#### context\_class
 
 ```python
 @context_class.setter
@@ -106,7 +106,7 @@ def formats(value: Array[str]) -> None
 
 <a id="unreal.Factory.edit_after_new"></a>
 
-#### edit_after_new
+#### edit\_after\_new
 
 ```python
 @property
@@ -117,7 +117,7 @@ def edit_after_new() -> bool
 
 <a id="unreal.Factory.edit_after_new"></a>
 
-#### edit_after_new
+#### edit\_after\_new
 
 ```python
 @edit_after_new.setter
@@ -126,7 +126,7 @@ def edit_after_new(value: bool) -> None
 
 <a id="unreal.Factory.editor_import"></a>
 
-#### editor_import
+#### editor\_import
 
 ```python
 @property
@@ -137,7 +137,7 @@ def editor_import() -> bool
 
 <a id="unreal.Factory.editor_import"></a>
 
-#### editor_import
+#### editor\_import
 
 ```python
 @editor_import.setter
@@ -166,7 +166,7 @@ def text(value: bool) -> None
 
 <a id="unreal.Factory.automated_import_data"></a>
 
-#### automated_import_data
+#### automated\_import\_data
 
 ```python
 @property
@@ -177,7 +177,7 @@ def automated_import_data() -> AutomatedAssetImportData
 
 <a id="unreal.Factory.automated_import_data"></a>
 
-#### automated_import_data
+#### automated\_import\_data
 
 ```python
 @automated_import_data.setter
@@ -186,7 +186,7 @@ def automated_import_data(value: AutomatedAssetImportData) -> None
 
 <a id="unreal.Factory.asset_import_task"></a>
 
-#### asset_import_task
+#### asset\_import\_task
 
 ```python
 @property
@@ -197,7 +197,7 @@ def asset_import_task() -> AssetImportTask
 
 <a id="unreal.Factory.asset_import_task"></a>
 
-#### asset_import_task
+#### asset\_import\_task
 
 ```python
 @asset_import_task.setter
@@ -206,7 +206,7 @@ def asset_import_task(value: AssetImportTask) -> None
 
 <a id="unreal.Factory.script_factory_create_file"></a>
 
-#### script_factory_create_file
+#### script\_factory\_create\_file
 
 ```python
 def script_factory_create_file(task: AssetImportTask) -> bool
@@ -223,7 +223,7 @@ Returns:
 
 <a id="unreal.Factory.script_factory_can_import"></a>
 
-#### script_factory_can_import
+#### script\_factory\_can\_import
 
 ```python
 def script_factory_can_import(filename: str) -> bool

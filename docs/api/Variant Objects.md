@@ -14,7 +14,7 @@ Variant
 
 <a id="unreal.Variant.switch_on"></a>
 
-#### switch_on
+#### switch\_on
 
 ```python
 def switch_on() -> None
@@ -25,7 +25,7 @@ Switch On
 
 <a id="unreal.Variant.set_thumbnail_from_texture"></a>
 
-#### set_thumbnail_from_texture
+#### set\_thumbnail\_from\_texture
 
 ```python
 def set_thumbnail_from_texture(new_thumbnail: Texture2D) -> None
@@ -39,7 +39,7 @@ Args:
 
 <a id="unreal.Variant.set_thumbnail_from_file"></a>
 
-#### set_thumbnail_from_file
+#### set\_thumbnail\_from\_file
 
 ```python
 def set_thumbnail_from_file(file_path: str) -> None
@@ -53,7 +53,7 @@ Args:
 
 <a id="unreal.Variant.set_thumbnail_from_editor_viewport"></a>
 
-#### set_thumbnail_from_editor_viewport
+#### set\_thumbnail\_from\_editor\_viewport
 
 ```python
 def set_thumbnail_from_editor_viewport() -> None
@@ -64,7 +64,7 @@ Sets the thumbnail from the active editor viewport. Doesn't do anything if the E
 
 <a id="unreal.Variant.set_thumbnail_from_camera"></a>
 
-#### set_thumbnail_from_camera
+#### set\_thumbnail\_from\_camera
 
 ```python
 def set_thumbnail_from_camera(world_context_object: Object,
@@ -86,7 +86,7 @@ Args:
 
 <a id="unreal.Variant.set_display_text"></a>
 
-#### set_display_text
+#### set\_display\_text
 
 ```python
 def set_display_text(new_display_text: Text) -> None
@@ -100,7 +100,7 @@ Args:
 
 <a id="unreal.Variant.is_active"></a>
 
-#### is_active
+#### is\_active
 
 ```python
 def is_active() -> bool
@@ -114,7 +114,7 @@ Returns:
 
 <a id="unreal.Variant.get_thumbnail"></a>
 
-#### get_thumbnail
+#### get\_thumbnail
 
 ```python
 def get_thumbnail() -> Texture2D
@@ -128,7 +128,7 @@ Returns:
 
 <a id="unreal.Variant.get_parent"></a>
 
-#### get_parent
+#### get\_parent
 
 ```python
 def get_parent() -> VariantSet
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.Variant.get_num_dependencies"></a>
 
-#### get_num_dependencies
+#### get\_num\_dependencies
 
 ```python
 def get_num_dependencies() -> int
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.Variant.get_num_actors"></a>
 
-#### get_num_actors
+#### get\_num\_actors
 
 ```python
 def get_num_actors() -> int
@@ -170,7 +170,7 @@ Returns:
 
 <a id="unreal.Variant.get_display_text"></a>
 
-#### get_display_text
+#### get\_display\_text
 
 ```python
 def get_display_text() -> Text
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.Variant.get_dependents"></a>
 
-#### get_dependents
+#### get\_dependents
 
 ```python
 def get_dependents(level_variant_sets: LevelVariantSets,
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.Variant.get_dependency"></a>
 
-#### get_dependency
+#### get\_dependency
 
 ```python
 def get_dependency(index: int) -> VariantDependency
@@ -220,7 +220,7 @@ Returns:
 
 <a id="unreal.Variant.get_actor"></a>
 
-#### get_actor
+#### get\_actor
 
 ```python
 def get_actor(actor_index: int) -> Actor
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.Variant.set_dependency"></a>
 
-#### set_dependency
+#### set\_dependency
 
 ```python
 def set_dependency(index: int,
@@ -258,7 +258,7 @@ Returns:
 
 <a id="unreal.Variant.remove_captured_property_by_name"></a>
 
-#### remove_captured_property_by_name
+#### remove\_captured\_property\_by\_name
 
 ```python
 def remove_captured_property_by_name(actor: Actor, property_path: str) -> None
@@ -273,7 +273,7 @@ Args:
 
 <a id="unreal.Variant.remove_captured_property"></a>
 
-#### remove_captured_property
+#### remove\_captured\_property
 
 ```python
 def remove_captured_property(actor: Actor, property_: PropertyValue) -> None
@@ -288,7 +288,7 @@ Args:
 
 <a id="unreal.Variant.remove_actor_binding_by_name"></a>
 
-#### remove_actor_binding_by_name
+#### remove\_actor\_binding\_by\_name
 
 ```python
 def remove_actor_binding_by_name(actor_name: str) -> None
@@ -302,7 +302,7 @@ Args:
 
 <a id="unreal.Variant.remove_actor_binding"></a>
 
-#### remove_actor_binding
+#### remove\_actor\_binding
 
 ```python
 def remove_actor_binding(actor: Actor) -> None
@@ -316,7 +316,7 @@ Args:
 
 <a id="unreal.Variant.get_captured_properties"></a>
 
-#### get_captured_properties
+#### get\_captured\_properties
 
 ```python
 def get_captured_properties(actor: Actor) -> Array[PropertyValue]
@@ -333,7 +333,7 @@ Returns:
 
 <a id="unreal.Variant.delete_dependency"></a>
 
-#### delete_dependency
+#### delete\_dependency
 
 ```python
 def delete_dependency(index: int) -> None
@@ -347,7 +347,7 @@ Args:
 
 <a id="unreal.Variant.capture_property"></a>
 
-#### capture_property
+#### capture\_property
 
 ```python
 def capture_property(actor: Actor, property_path: str) -> PropertyValue
@@ -366,7 +366,7 @@ Returns:
 
 <a id="unreal.Variant.add_dependency"></a>
 
-#### add_dependency
+#### add\_dependency
 
 ```python
 def add_dependency(
@@ -386,7 +386,7 @@ Returns:
 
 <a id="unreal.Variant.add_actor_binding"></a>
 
-#### add_actor_binding
+#### add\_actor\_binding
 
 ```python
 def add_actor_binding(actor: Actor) -> None

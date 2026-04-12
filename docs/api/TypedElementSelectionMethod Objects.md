@@ -25,7 +25,7 @@ ETyped Element Selection Method
 
 <a id="unreal.TypedElementSelectionMethod.FROM_SECONDARY"></a>
 
-#### FROM_SECONDARY
+#### FROM\_SECONDARY
 
 2: The "secondary" element is choosing to pass back up the chain (eg. an ISM was selected, but we want to traverse back to the parent element)
 

@@ -21,7 +21,7 @@ Represents the appearance of a Waveform Viewer Overlay style
 
 <a id="unreal.PlayheadOverlayStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(playhead_color: SlateColor = [[
@@ -34,7 +34,7 @@ def __init__(playhead_color: SlateColor = [[
 
 <a id="unreal.PlayheadOverlayStyle.playhead_color"></a>
 
-#### playhead_color
+#### playhead\_color
 
 ```python
 @property
@@ -45,7 +45,7 @@ def playhead_color() -> SlateColor
 
 <a id="unreal.PlayheadOverlayStyle.playhead_color"></a>
 
-#### playhead_color
+#### playhead\_color
 
 ```python
 @playhead_color.setter
@@ -54,7 +54,7 @@ def playhead_color(value: SlateColor) -> None
 
 <a id="unreal.PlayheadOverlayStyle.playhead_width"></a>
 
-#### playhead_width
+#### playhead\_width
 
 ```python
 @property
@@ -65,7 +65,7 @@ def playhead_width() -> float
 
 <a id="unreal.PlayheadOverlayStyle.playhead_width"></a>
 
-#### playhead_width
+#### playhead\_width
 
 ```python
 @playhead_width.setter
@@ -74,7 +74,7 @@ def playhead_width(value: float) -> None
 
 <a id="unreal.PlayheadOverlayStyle.desired_width"></a>
 
-#### desired_width
+#### desired\_width
 
 ```python
 @property
@@ -85,7 +85,7 @@ def desired_width() -> float
 
 <a id="unreal.PlayheadOverlayStyle.desired_width"></a>
 
-#### desired_width
+#### desired\_width
 
 ```python
 @desired_width.setter
@@ -94,7 +94,7 @@ def desired_width(value: float) -> None
 
 <a id="unreal.PlayheadOverlayStyle.desired_height"></a>
 
-#### desired_height
+#### desired\_height
 
 ```python
 @property
@@ -105,7 +105,7 @@ def desired_height() -> float
 
 <a id="unreal.PlayheadOverlayStyle.desired_height"></a>
 
-#### desired_height
+#### desired\_height
 
 ```python
 @desired_height.setter

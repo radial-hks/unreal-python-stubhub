@@ -14,13 +14,13 @@ ELidar Clipping Volume Mode
 
 <a id="unreal.LidarClippingVolumeMode.CLIP_INSIDE"></a>
 
-#### CLIP_INSIDE
+#### CLIP\_INSIDE
 
 0: This will clip all points inside the volume
 
 <a id="unreal.LidarClippingVolumeMode.CLIP_OUTSIDE"></a>
 
-#### CLIP_OUTSIDE
+#### CLIP\_OUTSIDE
 
 1: This will clip all points outside of the volume
 

@@ -19,7 +19,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Vector2D.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: float = 0.000000, y: float = 0.000000) -> None
@@ -67,7 +67,7 @@ def y(value: float) -> None
 
 <a id="unreal.Vector2D.length_squared"></a>
 
-#### length_squared
+#### length\_squared
 
 ```python
 def length_squared() -> float
@@ -95,7 +95,7 @@ Returns:
 
 <a id="unreal.Vector2D.interp_to_constant"></a>
 
-#### interp_to_constant
+#### interp\_to\_constant
 
 ```python
 def interp_to_constant(target: Vector2D, delta_time: float,
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.Vector2D.interp_to"></a>
 
-#### interp_to
+#### interp\_to
 
 ```python
 def interp_to(target: Vector2D, delta_time: float,
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.Vector2D.to_sign"></a>
 
-#### to_sign
+#### to\_sign
 
 ```python
 def to_sign() -> Vector2D
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.Vector2D.to_rounded"></a>
 
-#### to_rounded
+#### to\_rounded
 
 ```python
 def to_rounded() -> Vector2D
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.Vector2D.to_direction_and_length"></a>
 
-#### to_direction_and_length
+#### to\_direction\_and\_length
 
 ```python
 def to_direction_and_length() -> Tuple[Vector2D, float]
@@ -199,7 +199,7 @@ Returns:
 
 <a id="unreal.Vector2D.subtract_float"></a>
 
-#### subtract_float
+#### subtract\_float
 
 ```python
 def subtract_float(b: float) -> Vector2D
@@ -216,7 +216,7 @@ Returns:
 
 <a id="unreal.Vector2D.spherical_to_unit_cartesian"></a>
 
-#### spherical_to_unit_cartesian
+#### spherical\_to\_unit\_cartesian
 
 ```python
 def spherical_to_unit_cartesian() -> Vector
@@ -245,7 +245,7 @@ Args:
 
 <a id="unreal.Vector2D.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 def not_equal(b: Vector2D) -> bool
@@ -262,7 +262,7 @@ Returns:
 
 <a id="unreal.Vector2D.is_not_near_equal"></a>
 
-#### is_not_near_equal
+#### is\_not\_near\_equal
 
 ```python
 def is_not_near_equal(b: Vector2D, error_tolerance: float = 0.000100) -> bool
@@ -313,7 +313,7 @@ Args:
 
 <a id="unreal.Vector2D.normal_unsafe"></a>
 
-#### normal_unsafe
+#### normal\_unsafe
 
 ```python
 def normal_unsafe() -> Vector2D
@@ -358,7 +358,7 @@ Returns:
 
 <a id="unreal.Vector2D.multiply_float"></a>
 
-#### multiply_float
+#### multiply\_float
 
 ```python
 def multiply_float(b: float) -> Vector2D
@@ -375,7 +375,7 @@ Returns:
 
 <a id="unreal.Vector2D.is_zero"></a>
 
-#### is_zero
+#### is\_zero
 
 ```python
 def is_zero() -> bool
@@ -389,7 +389,7 @@ Returns:
 
 <a id="unreal.Vector2D.is_nearly_zero"></a>
 
-#### is_nearly_zero
+#### is\_nearly\_zero
 
 ```python
 def is_nearly_zero(tolerance: float = 0.000100) -> bool
@@ -406,7 +406,7 @@ Returns:
 
 <a id="unreal.Vector2D.get_rotated"></a>
 
-#### get_rotated
+#### get\_rotated
 
 ```python
 def get_rotated(angle_deg: float) -> Vector2D
@@ -423,7 +423,7 @@ Returns:
 
 <a id="unreal.Vector2D.get_min"></a>
 
-#### get_min
+#### get\_min
 
 ```python
 def get_min() -> float
@@ -437,7 +437,7 @@ Returns:
 
 <a id="unreal.Vector2D.get_max"></a>
 
-#### get_max
+#### get\_max
 
 ```python
 def get_max() -> float
@@ -451,7 +451,7 @@ Returns:
 
 <a id="unreal.Vector2D.get_abs_max"></a>
 
-#### get_abs_max
+#### get\_abs\_max
 
 ```python
 def get_abs_max() -> float
@@ -465,7 +465,7 @@ Returns:
 
 <a id="unreal.Vector2D.get_abs"></a>
 
-#### get_abs
+#### get\_abs
 
 ```python
 def get_abs() -> Vector2D
@@ -496,7 +496,7 @@ Returns:
 
 <a id="unreal.Vector2D.is_near_equal"></a>
 
-#### is_near_equal
+#### is\_near\_equal
 
 ```python
 def is_near_equal(b: Vector2D, error_tolerance: float = 0.000100) -> bool
@@ -548,7 +548,7 @@ Returns:
 
 <a id="unreal.Vector2D.divide_float"></a>
 
-#### divide_float
+#### divide\_float
 
 ```python
 def divide_float(b: float = 1.000000) -> Vector2D
@@ -565,7 +565,7 @@ Returns:
 
 <a id="unreal.Vector2D.distance_squared"></a>
 
-#### distance_squared
+#### distance\_squared
 
 ```python
 def distance_squared(v2: Vector2D) -> float
@@ -633,7 +633,7 @@ Returns:
 
 <a id="unreal.Vector2D.int_point"></a>
 
-#### int_point
+#### int\_point
 
 ```python
 def int_point() -> IntPoint
@@ -647,7 +647,7 @@ Returns:
 
 <a id="unreal.Vector2D.clamped_axes"></a>
 
-#### clamped_axes
+#### clamped\_axes
 
 ```python
 def clamped_axes(min_axis_val: float, max_axis_val: float) -> Vector2D
@@ -682,7 +682,7 @@ Returns:
 
 <a id="unreal.Vector2D.add_float"></a>
 
-#### add_float
+#### add\_float
 
 ```python
 def add_float(b: float) -> Vector2D
@@ -699,7 +699,7 @@ Returns:
 
 <a id="unreal.Vector2D.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -711,7 +711,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.Vector2D.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool
@@ -723,7 +723,7 @@ def __ne__(other: object) -> bool
 
 <a id="unreal.Vector2D.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: Vector2D) -> None
@@ -736,7 +736,7 @@ def __add__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: Vector2D) -> None
@@ -749,7 +749,7 @@ def __iadd__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__sub__"></a>
 
-#### __sub__
+#### \_\_sub\_\_
 
 ```python
 def __sub__(other: Vector2D) -> None
@@ -762,7 +762,7 @@ def __sub__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__isub__"></a>
 
-#### __isub__
+#### \_\_isub\_\_
 
 ```python
 def __isub__(other: Vector2D) -> None
@@ -775,7 +775,7 @@ def __isub__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: Vector2D) -> None
@@ -788,7 +788,7 @@ def __mul__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: Vector2D) -> None
@@ -801,7 +801,7 @@ def __imul__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__truediv__"></a>
 
-#### __truediv__
+#### \_\_truediv\_\_
 
 ```python
 def __truediv__(other: Vector2D) -> None
@@ -814,7 +814,7 @@ def __truediv__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__or__"></a>
 
-#### __or__
+#### \_\_or\_\_
 
 ```python
 def __or__(other: Vector2D) -> None
@@ -826,7 +826,7 @@ def __or__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__xor__"></a>
 
-#### __xor__
+#### \_\_xor\_\_
 
 ```python
 def __xor__(other: Vector2D) -> None
@@ -838,7 +838,7 @@ def __xor__(other: Vector2D) -> None
 
 <a id="unreal.Vector2D.__neg__"></a>
 
-#### __neg__
+#### \_\_neg\_\_
 
 ```python
 def __neg__() -> None
@@ -854,7 +854,7 @@ Gets a negated copy of the vector.
 
 <a id="unreal.Vector2D.UNIT45_DEG"></a>
 
-#### UNIT45_DEG
+#### UNIT45\_DEG
 
 (Vector2D): 2D unit vector constant along the 45 degree angle or symmetrical positive axes (sqrt(.5),sqrt(.5)) or (.707,.707). https://en.wikipedia.org/wiki/Unit_vector
 

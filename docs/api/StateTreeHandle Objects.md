@@ -8,7 +8,7 @@ deprecated: 'StateTreeHandle' was renamed to 'StateTreeStateHandle'.
 
 <a id="unreal.StateTreeHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

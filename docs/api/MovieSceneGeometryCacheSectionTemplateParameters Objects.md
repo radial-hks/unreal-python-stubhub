@@ -24,7 +24,7 @@ Movie Scene Geometry Cache Section Template Parameters
 
 <a id="unreal.MovieSceneGeometryCacheSectionTemplateParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(geometry_cache_asset: GeometryCache = None,
@@ -35,4 +35,4 @@ def __init__(geometry_cache_asset: GeometryCache = None,
              reverse: bool = False) -> None
 ```
 
-<a id="unreal.Ellipsoid"></a>
+<a id="unreal.DynamicMeshChangeContainer"></a>

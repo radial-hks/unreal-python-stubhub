@@ -27,7 +27,7 @@ Resonance Audio Spatialization Source Settings
 
 <a id="unreal.ResonanceAudioSpatializationSourceSettings.set_sound_source_spread"></a>
 
-#### set_sound_source_spread
+#### set\_sound\_source\_spread
 
 ```python
 def set_sound_source_spread(spread: float) -> None
@@ -41,7 +41,7 @@ Args:
 
 <a id="unreal.ResonanceAudioSpatializationSourceSettings.set_sound_source_directivity"></a>
 
-#### set_sound_source_directivity
+#### set\_sound\_source\_directivity
 
 ```python
 def set_sound_source_directivity(pattern: float, sharpness: float) -> None
@@ -54,4 +54,4 @@ Args:
     pattern (float): 
     sharpness (float):
 
-<a id="unreal.StateTreeEditorData"></a>
+<a id="unreal.AbilityTask_PerformTargeting"></a>

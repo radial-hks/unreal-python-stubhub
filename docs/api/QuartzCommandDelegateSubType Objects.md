@@ -13,31 +13,31 @@ An enumeration for specifying different TYPES of delegates
 
 <a id="unreal.QuartzCommandDelegateSubType.COMMAND_ON_FAILED_TO_QUEUE"></a>
 
-#### COMMAND_ON_FAILED_TO_QUEUE
+#### COMMAND\_ON\_FAILED\_TO\_QUEUE
 
 0: The command will not execute (i.e. Clock doesn't exist or PlayQuantized failed concurrency)
 
 <a id="unreal.QuartzCommandDelegateSubType.COMMAND_ON_QUEUED"></a>
 
-#### COMMAND_ON_QUEUED
+#### COMMAND\_ON\_QUEUED
 
 1: The command has been passed to the Audio Render Thread
 
 <a id="unreal.QuartzCommandDelegateSubType.COMMAND_ON_CANCELED"></a>
 
-#### COMMAND_ON_CANCELED
+#### COMMAND\_ON\_CANCELED
 
 2: The command was stopped before it could execute
 
 <a id="unreal.QuartzCommandDelegateSubType.COMMAND_ON_ABOUT_TO_START"></a>
 
-#### COMMAND_ON_ABOUT_TO_START
+#### COMMAND\_ON\_ABOUT\_TO\_START
 
 3: execute off this to be in sync w/ sound starting
 
 <a id="unreal.QuartzCommandDelegateSubType.COMMAND_ON_STARTED"></a>
 
-#### COMMAND_ON_STARTED
+#### COMMAND\_ON\_STARTED
 
 4: the command was just executed on the Audio Render Thrtead
 

@@ -14,19 +14,19 @@ EFix Tiny Geo Use Bone Selection
 
 <a id="unreal.FixTinyGeoUseBoneSelection.NO_EFFECT"></a>
 
-#### NO_EFFECT
+#### NO\_EFFECT
 
 0
 
 <a id="unreal.FixTinyGeoUseBoneSelection.ALSO_MERGE_SELECTED"></a>
 
-#### ALSO_MERGE_SELECTED
+#### ALSO\_MERGE\_SELECTED
 
 1
 
 <a id="unreal.FixTinyGeoUseBoneSelection.ONLY_MERGE_SELECTED"></a>
 
-#### ONLY_MERGE_SELECTED
+#### ONLY\_MERGE\_SELECTED
 
 2
 

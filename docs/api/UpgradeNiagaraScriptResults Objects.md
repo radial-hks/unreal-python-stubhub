@@ -20,7 +20,7 @@ Wrapper class for passing results back from the version upgrade python script.
 
 <a id="unreal.UpgradeNiagaraScriptResults.cancelled_by_python_error"></a>
 
-#### cancelled_by_python_error
+#### cancelled\_by\_python\_error
 
 ```python
 @property
@@ -31,7 +31,7 @@ def cancelled_by_python_error() -> bool
 
 <a id="unreal.UpgradeNiagaraScriptResults.cancelled_by_python_error"></a>
 
-#### cancelled_by_python_error
+#### cancelled\_by\_python\_error
 
 ```python
 @cancelled_by_python_error.setter
@@ -40,7 +40,7 @@ def cancelled_by_python_error(value: bool) -> None
 
 <a id="unreal.UpgradeNiagaraScriptResults.old_inputs"></a>
 
-#### old_inputs
+#### old\_inputs
 
 ```python
 @property
@@ -51,7 +51,7 @@ def old_inputs() -> Array[NiagaraPythonScriptModuleInput]
 
 <a id="unreal.UpgradeNiagaraScriptResults.old_inputs"></a>
 
-#### old_inputs
+#### old\_inputs
 
 ```python
 @old_inputs.setter
@@ -60,7 +60,7 @@ def old_inputs(value: Array[NiagaraPythonScriptModuleInput]) -> None
 
 <a id="unreal.UpgradeNiagaraScriptResults.new_inputs"></a>
 
-#### new_inputs
+#### new\_inputs
 
 ```python
 @property
@@ -71,7 +71,7 @@ def new_inputs() -> Array[NiagaraPythonScriptModuleInput]
 
 <a id="unreal.UpgradeNiagaraScriptResults.new_inputs"></a>
 
-#### new_inputs
+#### new\_inputs
 
 ```python
 @new_inputs.setter
@@ -80,7 +80,7 @@ def new_inputs(value: Array[NiagaraPythonScriptModuleInput]) -> None
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_vec4_input"></a>
 
-#### set_vec4_input
+#### set\_vec4\_input
 
 ```python
 def set_vec4_input(input_name: str, value: Vector4) -> None
@@ -95,7 +95,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_vec3_input"></a>
 
-#### set_vec3_input
+#### set\_vec3\_input
 
 ```python
 def set_vec3_input(input_name: str, value: Vector) -> None
@@ -110,7 +110,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_vec2_input"></a>
 
-#### set_vec2_input
+#### set\_vec2\_input
 
 ```python
 def set_vec2_input(input_name: str, value: Vector2D) -> None
@@ -125,7 +125,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_quat_input"></a>
 
-#### set_quat_input
+#### set\_quat\_input
 
 ```python
 def set_quat_input(input_name: str, value: Quat) -> None
@@ -140,7 +140,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_new_input"></a>
 
-#### set_new_input
+#### set\_new\_input
 
 ```python
 def set_new_input(input_name: str,
@@ -156,7 +156,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_linked_input"></a>
 
-#### set_linked_input
+#### set\_linked\_input
 
 ```python
 def set_linked_input(input_name: str, value: str) -> None
@@ -171,7 +171,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_int_input"></a>
 
-#### set_int_input
+#### set\_int\_input
 
 ```python
 def set_int_input(input_name: str, value: int) -> None
@@ -186,7 +186,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_float_input"></a>
 
-#### set_float_input
+#### set\_float\_input
 
 ```python
 def set_float_input(input_name: str, value: float) -> None
@@ -201,7 +201,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_enum_input"></a>
 
-#### set_enum_input
+#### set\_enum\_input
 
 ```python
 def set_enum_input(input_name: str, value: str) -> None
@@ -216,7 +216,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_color_input"></a>
 
-#### set_color_input
+#### set\_color\_input
 
 ```python
 def set_color_input(input_name: str, value: LinearColor) -> None
@@ -231,7 +231,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.set_bool_input"></a>
 
-#### set_bool_input
+#### set\_bool\_input
 
 ```python
 def set_bool_input(input_name: str, value: bool) -> None
@@ -246,7 +246,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.reset_to_default"></a>
 
-#### reset_to_default
+#### reset\_to\_default
 
 ```python
 def reset_to_default(input_name: str) -> None
@@ -260,7 +260,7 @@ Args:
 
 <a id="unreal.UpgradeNiagaraScriptResults.get_old_input"></a>
 
-#### get_old_input
+#### get\_old\_input
 
 ```python
 def get_old_input(input_name: str) -> NiagaraPythonScriptModuleInput

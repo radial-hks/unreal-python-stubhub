@@ -14,25 +14,25 @@ Type of Conversion to apply to a FGeometryScriptMeshSelection
 
 <a id="unreal.GeometryScriptMeshSelectionConversionType.NO_CONVERSION"></a>
 
-#### NO_CONVERSION
+#### NO\_CONVERSION
 
 0
 
 <a id="unreal.GeometryScriptMeshSelectionConversionType.TO_VERTICES"></a>
 
-#### TO_VERTICES
+#### TO\_VERTICES
 
 1
 
 <a id="unreal.GeometryScriptMeshSelectionConversionType.TO_TRIANGLES"></a>
 
-#### TO_TRIANGLES
+#### TO\_TRIANGLES
 
 2
 
 <a id="unreal.GeometryScriptMeshSelectionConversionType.TO_POLYGROUPS"></a>
 
-#### TO_POLYGROUPS
+#### TO\_POLYGROUPS
 
 3
 

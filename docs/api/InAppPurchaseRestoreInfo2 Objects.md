@@ -20,7 +20,7 @@ Micro-transaction purchase information
 
 <a id="unreal.InAppPurchaseRestoreInfo2.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(item_name: str = "",
@@ -30,7 +30,7 @@ def __init__(item_name: str = "",
 
 <a id="unreal.InAppPurchaseRestoreInfo2.item_name"></a>
 
-#### item_name
+#### item\_name
 
 ```python
 @property
@@ -41,7 +41,7 @@ def item_name() -> str
 
 <a id="unreal.InAppPurchaseRestoreInfo2.item_id"></a>
 
-#### item_id
+#### item\_id
 
 ```python
 @property
@@ -52,7 +52,7 @@ def item_id() -> str
 
 <a id="unreal.InAppPurchaseRestoreInfo2.validation_info"></a>
 
-#### validation_info
+#### validation\_info
 
 ```python
 @property

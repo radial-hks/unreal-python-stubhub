@@ -26,7 +26,7 @@ Brush Data Tree
 
 <a id="unreal.BrushDataTree.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -44,7 +44,7 @@ def __init__(
 
 <a id="unreal.BrushDataTree.current_level"></a>
 
-#### current_level
+#### current\_level
 
 ```python
 @property
@@ -55,7 +55,7 @@ def current_level() -> int
 
 <a id="unreal.BrushDataTree.current_level"></a>
 
-#### current_level
+#### current\_level
 
 ```python
 @current_level.setter
@@ -64,7 +64,7 @@ def current_level(value: int) -> None
 
 <a id="unreal.BrushDataTree.parent_index"></a>
 
-#### parent_index
+#### parent\_index
 
 ```python
 @property
@@ -75,7 +75,7 @@ def parent_index() -> int
 
 <a id="unreal.BrushDataTree.parent_index"></a>
 
-#### parent_index
+#### parent\_index
 
 ```python
 @parent_index.setter
@@ -84,7 +84,7 @@ def parent_index(value: int) -> None
 
 <a id="unreal.BrushDataTree.brush_actors"></a>
 
-#### brush_actors
+#### brush\_actors
 
 ```python
 @property
@@ -95,7 +95,7 @@ def brush_actors() -> Array[LandmassActor]
 
 <a id="unreal.BrushDataTree.brush_actors"></a>
 
-#### brush_actors
+#### brush\_actors
 
 ```python
 @brush_actors.setter
@@ -104,7 +104,7 @@ def brush_actors(value: Array[LandmassActor]) -> None
 
 <a id="unreal.BrushDataTree.index_x0y0"></a>
 
-#### index_x0y0
+#### index\_x0y0
 
 ```python
 @property
@@ -115,7 +115,7 @@ def index_x0y0() -> int
 
 <a id="unreal.BrushDataTree.index_x0y0"></a>
 
-#### index_x0y0
+#### index\_x0y0
 
 ```python
 @index_x0y0.setter
@@ -124,7 +124,7 @@ def index_x0y0(value: int) -> None
 
 <a id="unreal.BrushDataTree.index_x1y0"></a>
 
-#### index_x1y0
+#### index\_x1y0
 
 ```python
 @property
@@ -135,7 +135,7 @@ def index_x1y0() -> int
 
 <a id="unreal.BrushDataTree.index_x1y0"></a>
 
-#### index_x1y0
+#### index\_x1y0
 
 ```python
 @index_x1y0.setter
@@ -144,7 +144,7 @@ def index_x1y0(value: int) -> None
 
 <a id="unreal.BrushDataTree.index_x0y1"></a>
 
-#### index_x0y1
+#### index\_x0y1
 
 ```python
 @property
@@ -155,7 +155,7 @@ def index_x0y1() -> int
 
 <a id="unreal.BrushDataTree.index_x0y1"></a>
 
-#### index_x0y1
+#### index\_x0y1
 
 ```python
 @index_x0y1.setter
@@ -164,7 +164,7 @@ def index_x0y1(value: int) -> None
 
 <a id="unreal.BrushDataTree.index_x1y1"></a>
 
-#### index_x1y1
+#### index\_x1y1
 
 ```python
 @property
@@ -175,7 +175,7 @@ def index_x1y1() -> int
 
 <a id="unreal.BrushDataTree.index_x1y1"></a>
 
-#### index_x1y1
+#### index\_x1y1
 
 ```python
 @index_x1y1.setter
@@ -184,7 +184,7 @@ def index_x1y1(value: int) -> None
 
 <a id="unreal.BrushDataTree.child_data_count"></a>
 
-#### child_data_count
+#### child\_data\_count
 
 ```python
 @property
@@ -195,7 +195,7 @@ def child_data_count() -> int
 
 <a id="unreal.BrushDataTree.child_data_count"></a>
 
-#### child_data_count
+#### child\_data\_count
 
 ```python
 @child_data_count.setter
@@ -204,7 +204,7 @@ def child_data_count(value: int) -> None
 
 <a id="unreal.BrushDataTree.node_extents"></a>
 
-#### node_extents
+#### node\_extents
 
 ```python
 @property
@@ -215,7 +215,7 @@ def node_extents() -> Vector4
 
 <a id="unreal.BrushDataTree.node_extents"></a>
 
-#### node_extents
+#### node\_extents
 
 ```python
 @node_extents.setter

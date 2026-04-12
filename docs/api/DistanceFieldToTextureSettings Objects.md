@@ -19,7 +19,7 @@ Distance Field to Texture Settings
 
 <a id="unreal.DistanceFieldToTextureSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(scale: float = 0.000000, offset: float = 0.000000) -> None

@@ -14,10 +14,10 @@ On Controller Map Updated Delegate  Delegate Signature
 
 <a id="unreal.OnControllerMapUpdatedDelegate.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None
 ```
 
-<a id="unreal.FlipbookFinishedPlaySignature"></a>
+<a id="unreal.OnTakeRecorderCancelled"></a>

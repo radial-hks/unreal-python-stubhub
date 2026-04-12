@@ -18,7 +18,7 @@ Curve Flags Changed Payload
 
 <a id="unreal.CurveFlagsChangedPayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(identifier: AnimationCurveIdentifier = [],
@@ -27,7 +27,7 @@ def __init__(identifier: AnimationCurveIdentifier = [],
 
 <a id="unreal.CurveFlagsChangedPayload.old_flags"></a>
 
-#### old_flags
+#### old\_flags
 
 ```python
 @property

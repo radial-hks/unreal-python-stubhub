@@ -24,7 +24,7 @@ Per-object settings for Lightmass
 
 <a id="unreal.LightmassPrimitiveSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -22,7 +22,7 @@ Geometry Collection Auto Instance Mesh
 
 <a id="unreal.GeometryCollectionAutoInstanceMesh.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mesh: StaticMesh = None,
@@ -31,7 +31,7 @@ def __init__(mesh: StaticMesh = None,
 
 <a id="unreal.GeometryCollectionAutoInstanceMesh.static_mesh"></a>
 
-#### static_mesh
+#### static\_mesh
 
 ```python
 @property
@@ -43,7 +43,7 @@ deprecated: Use Mesh instead.
 
 <a id="unreal.GeometryCollectionAutoInstanceMesh.static_mesh"></a>
 
-#### static_mesh
+#### static\_mesh
 
 ```python
 @static_mesh.setter

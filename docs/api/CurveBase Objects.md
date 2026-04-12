@@ -17,7 +17,7 @@ Defines a curve of interpolated points to evaluate over a given range
 
 <a id="unreal.CurveBase.get_value_range"></a>
 
-#### get_value_range
+#### get\_value\_range
 
 ```python
 def get_value_range() -> Tuple[float, float]
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.CurveBase.get_time_range"></a>
 
-#### get_time_range
+#### get\_time\_range
 
 ```python
 def get_time_range() -> Tuple[float, float]

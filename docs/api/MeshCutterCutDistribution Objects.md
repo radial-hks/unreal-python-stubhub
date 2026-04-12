@@ -14,13 +14,13 @@ EMesh Cutter Cut Distribution
 
 <a id="unreal.MeshCutterCutDistribution.SINGLE_CUT"></a>
 
-#### SINGLE_CUT
+#### SINGLE\_CUT
 
 0: Cut only once, at the cutting mesh's current location in the level
 
 <a id="unreal.MeshCutterCutDistribution.UNIFORM_RANDOM"></a>
 
-#### UNIFORM_RANDOM
+#### UNIFORM\_RANDOM
 
 1: Scatter the cutting mesh in a uniform random distribution around the geometry bounding box
 

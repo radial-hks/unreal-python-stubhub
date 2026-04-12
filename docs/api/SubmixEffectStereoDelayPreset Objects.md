@@ -39,7 +39,7 @@ def settings(value: SubmixEffectStereoDelaySettings) -> None
 
 <a id="unreal.SubmixEffectStereoDelayPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectStereoDelaySettings) -> None

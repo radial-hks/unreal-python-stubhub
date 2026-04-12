@@ -67,13 +67,13 @@ Property bag property type, loosely based on BluePrint pin types.
 
 <a id="unreal.PropertyBagPropertyType.U_INT32"></a>
 
-#### U_INT32
+#### U\_INT32
 
 16
 
 <a id="unreal.PropertyBagPropertyType.U_INT64"></a>
 
-#### U_INT64
+#### U\_INT64
 
 17: Type not fully supported at UI, will work with restrictions to type editing
 

@@ -15,7 +15,7 @@ Interchange Texture Light Profile Factory Node
 
 <a id="unreal.InterchangeTextureLightProfileFactoryNode.set_custom_texture_multiplier"></a>
 
-#### set_custom_texture_multiplier
+#### set\_custom\_texture\_multiplier
 
 ```python
 def set_custom_texture_multiplier(attribute_value: float,
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.InterchangeTextureLightProfileFactoryNode.set_custom_brightness"></a>
 
-#### set_custom_brightness
+#### set\_custom\_brightness
 
 ```python
 def set_custom_brightness(attribute_value: float,
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.InterchangeTextureLightProfileFactoryNode.get_custom_texture_multiplier"></a>
 
-#### get_custom_texture_multiplier
+#### get\_custom\_texture\_multiplier
 
 ```python
 def get_custom_texture_multiplier() -> Optional[float]
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.InterchangeTextureLightProfileFactoryNode.get_custom_brightness"></a>
 
-#### get_custom_brightness
+#### get\_custom\_brightness
 
 ```python
 def get_custom_brightness() -> Optional[float]

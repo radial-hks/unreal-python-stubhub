@@ -13,7 +13,7 @@ Blueprint Editor Tool Menu Context
 
 <a id="unreal.BlueprintEditorToolMenuContext.get_blueprint_obj"></a>
 
-#### get_blueprint_obj
+#### get\_blueprint\_obj
 
 ```python
 def get_blueprint_obj() -> Blueprint

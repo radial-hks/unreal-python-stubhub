@@ -20,7 +20,7 @@ note: Fields are private to match the C++ declaration in the header above.
 
 <a id="unreal.Int32Range.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -30,7 +30,7 @@ def __init__(
 
 <a id="unreal.Int32Range.lower_bound"></a>
 
-#### lower_bound
+#### lower\_bound
 
 ```python
 @property
@@ -41,7 +41,7 @@ def lower_bound() -> Int32RangeBound
 
 <a id="unreal.Int32Range.lower_bound"></a>
 
-#### lower_bound
+#### lower\_bound
 
 ```python
 @lower_bound.setter
@@ -50,7 +50,7 @@ def lower_bound(value: Int32RangeBound) -> None
 
 <a id="unreal.Int32Range.upper_bound"></a>
 
-#### upper_bound
+#### upper\_bound
 
 ```python
 @property
@@ -61,7 +61,7 @@ def upper_bound() -> Int32RangeBound
 
 <a id="unreal.Int32Range.upper_bound"></a>
 
-#### upper_bound
+#### upper\_bound
 
 ```python
 @upper_bound.setter

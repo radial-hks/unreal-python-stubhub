@@ -35,7 +35,7 @@ def friction() -> float
 
 <a id="unreal.ChaosPhysicalMaterial.static_friction"></a>
 
-#### static_friction
+#### static\_friction
 
 ```python
 @property
@@ -57,7 +57,7 @@ def restitution() -> float
 
 <a id="unreal.ChaosPhysicalMaterial.linear_ether_drag"></a>
 
-#### linear_ether_drag
+#### linear\_ether\_drag
 
 ```python
 @property
@@ -68,7 +68,7 @@ def linear_ether_drag() -> float
 
 <a id="unreal.ChaosPhysicalMaterial.angular_ether_drag"></a>
 
-#### angular_ether_drag
+#### angular\_ether\_drag
 
 ```python
 @property
@@ -79,7 +79,7 @@ def angular_ether_drag() -> float
 
 <a id="unreal.ChaosPhysicalMaterial.sleeping_linear_velocity_threshold"></a>
 
-#### sleeping_linear_velocity_threshold
+#### sleeping\_linear\_velocity\_threshold
 
 ```python
 @property
@@ -90,7 +90,7 @@ def sleeping_linear_velocity_threshold() -> float
 
 <a id="unreal.ChaosPhysicalMaterial.sleeping_angular_velocity_threshold"></a>
 
-#### sleeping_angular_velocity_threshold
+#### sleeping\_angular\_velocity\_threshold
 
 ```python
 @property

@@ -20,7 +20,7 @@ EPCGDifference Density Function
 
 <a id="unreal.PCGDifferenceDensityFunction.CLAMPED_SUBSTRACTION"></a>
 
-#### CLAMPED_SUBSTRACTION
+#### CLAMPED\_SUBSTRACTION
 
 1
 

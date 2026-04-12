@@ -22,7 +22,7 @@ which is shared via the asset cache: Both prims will store their metadata here.
 
 <a id="unreal.UsdCombinedPrimMetadata.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(prim_path_to_metadata: Map[str, UsdPrimMetadata] = {}) -> None
@@ -30,7 +30,7 @@ def __init__(prim_path_to_metadata: Map[str, UsdPrimMetadata] = {}) -> None
 
 <a id="unreal.UsdCombinedPrimMetadata.prim_path_to_metadata"></a>
 
-#### prim_path_to_metadata
+#### prim\_path\_to\_metadata
 
 ```python
 @property
@@ -41,7 +41,7 @@ def prim_path_to_metadata() -> Map[str, UsdPrimMetadata]
 
 <a id="unreal.UsdCombinedPrimMetadata.prim_path_to_metadata"></a>
 
-#### prim_path_to_metadata
+#### prim\_path\_to\_metadata
 
 ```python
 @prim_path_to_metadata.setter

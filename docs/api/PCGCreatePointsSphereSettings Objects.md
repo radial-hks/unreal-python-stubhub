@@ -53,7 +53,7 @@ Generate a grid of points along the surface of a sphere.
 
 <a id="unreal.PCGCreatePointsSphereSettings.sphere_generation"></a>
 
-#### sphere_generation
+#### sphere\_generation
 
 ```python
 @property
@@ -64,7 +64,7 @@ def sphere_generation() -> PCGSphereGeneration
 
 <a id="unreal.PCGCreatePointsSphereSettings.sphere_generation"></a>
 
-#### sphere_generation
+#### sphere\_generation
 
 ```python
 @sphere_generation.setter
@@ -73,7 +73,7 @@ def sphere_generation(value: PCGSphereGeneration) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.coordinate_space"></a>
 
-#### coordinate_space
+#### coordinate\_space
 
 ```python
 @property
@@ -84,7 +84,7 @@ def coordinate_space() -> PCGCoordinateSpace
 
 <a id="unreal.PCGCreatePointsSphereSettings.coordinate_space"></a>
 
-#### coordinate_space
+#### coordinate\_space
 
 ```python
 @coordinate_space.setter
@@ -93,7 +93,7 @@ def coordinate_space(value: PCGCoordinateSpace) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.point_orientation"></a>
 
-#### point_orientation
+#### point\_orientation
 
 ```python
 @property
@@ -104,7 +104,7 @@ def point_orientation() -> PCGSpherePointOrientation
 
 <a id="unreal.PCGCreatePointsSphereSettings.point_orientation"></a>
 
-#### point_orientation
+#### point\_orientation
 
 ```python
 @point_orientation.setter
@@ -153,7 +153,7 @@ def radius(value: float) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.geodesic_subdivisions"></a>
 
-#### geodesic_subdivisions
+#### geodesic\_subdivisions
 
 ```python
 @property
@@ -164,7 +164,7 @@ def geodesic_subdivisions() -> int
 
 <a id="unreal.PCGCreatePointsSphereSettings.geodesic_subdivisions"></a>
 
-#### geodesic_subdivisions
+#### geodesic\_subdivisions
 
 ```python
 @geodesic_subdivisions.setter
@@ -213,7 +213,7 @@ def phi(value: float) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.latitudinal_segments"></a>
 
-#### latitudinal_segments
+#### latitudinal\_segments
 
 ```python
 @property
@@ -224,7 +224,7 @@ def latitudinal_segments() -> int
 
 <a id="unreal.PCGCreatePointsSphereSettings.latitudinal_segments"></a>
 
-#### latitudinal_segments
+#### latitudinal\_segments
 
 ```python
 @latitudinal_segments.setter
@@ -233,7 +233,7 @@ def latitudinal_segments(value: int) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.longitudinal_segments"></a>
 
-#### longitudinal_segments
+#### longitudinal\_segments
 
 ```python
 @property
@@ -244,7 +244,7 @@ def longitudinal_segments() -> int
 
 <a id="unreal.PCGCreatePointsSphereSettings.longitudinal_segments"></a>
 
-#### longitudinal_segments
+#### longitudinal\_segments
 
 ```python
 @longitudinal_segments.setter
@@ -253,7 +253,7 @@ def longitudinal_segments(value: int) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.sample_count"></a>
 
-#### sample_count
+#### sample\_count
 
 ```python
 @property
@@ -264,7 +264,7 @@ def sample_count() -> int
 
 <a id="unreal.PCGCreatePointsSphereSettings.sample_count"></a>
 
-#### sample_count
+#### sample\_count
 
 ```python
 @sample_count.setter
@@ -273,7 +273,7 @@ def sample_count(value: int) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.poisson_distance"></a>
 
-#### poisson_distance
+#### poisson\_distance
 
 ```python
 @property
@@ -284,7 +284,7 @@ def poisson_distance() -> float
 
 <a id="unreal.PCGCreatePointsSphereSettings.poisson_distance"></a>
 
-#### poisson_distance
+#### poisson\_distance
 
 ```python
 @poisson_distance.setter
@@ -293,7 +293,7 @@ def poisson_distance(value: float) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.poisson_max_attempts"></a>
 
-#### poisson_max_attempts
+#### poisson\_max\_attempts
 
 ```python
 @property
@@ -304,7 +304,7 @@ def poisson_max_attempts() -> int
 
 <a id="unreal.PCGCreatePointsSphereSettings.poisson_max_attempts"></a>
 
-#### poisson_max_attempts
+#### poisson\_max\_attempts
 
 ```python
 @poisson_max_attempts.setter
@@ -313,7 +313,7 @@ def poisson_max_attempts(value: int) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.latitudinal_start_angle"></a>
 
-#### latitudinal_start_angle
+#### latitudinal\_start\_angle
 
 ```python
 @property
@@ -324,7 +324,7 @@ def latitudinal_start_angle() -> float
 
 <a id="unreal.PCGCreatePointsSphereSettings.latitudinal_start_angle"></a>
 
-#### latitudinal_start_angle
+#### latitudinal\_start\_angle
 
 ```python
 @latitudinal_start_angle.setter
@@ -333,7 +333,7 @@ def latitudinal_start_angle(value: float) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.latitudinal_end_angle"></a>
 
-#### latitudinal_end_angle
+#### latitudinal\_end\_angle
 
 ```python
 @property
@@ -344,7 +344,7 @@ def latitudinal_end_angle() -> float
 
 <a id="unreal.PCGCreatePointsSphereSettings.latitudinal_end_angle"></a>
 
-#### latitudinal_end_angle
+#### latitudinal\_end\_angle
 
 ```python
 @latitudinal_end_angle.setter
@@ -353,7 +353,7 @@ def latitudinal_end_angle(value: float) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.longitudinal_start_angle"></a>
 
-#### longitudinal_start_angle
+#### longitudinal\_start\_angle
 
 ```python
 @property
@@ -364,7 +364,7 @@ def longitudinal_start_angle() -> float
 
 <a id="unreal.PCGCreatePointsSphereSettings.longitudinal_start_angle"></a>
 
-#### longitudinal_start_angle
+#### longitudinal\_start\_angle
 
 ```python
 @longitudinal_start_angle.setter
@@ -373,7 +373,7 @@ def longitudinal_start_angle(value: float) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.longitudinal_end_angle"></a>
 
-#### longitudinal_end_angle
+#### longitudinal\_end\_angle
 
 ```python
 @property
@@ -384,7 +384,7 @@ def longitudinal_end_angle() -> float
 
 <a id="unreal.PCGCreatePointsSphereSettings.longitudinal_end_angle"></a>
 
-#### longitudinal_end_angle
+#### longitudinal\_end\_angle
 
 ```python
 @longitudinal_end_angle.setter
@@ -413,7 +413,7 @@ def jitter(value: float) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @property
@@ -424,7 +424,7 @@ def point_steepness() -> float
 
 <a id="unreal.PCGCreatePointsSphereSettings.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @point_steepness.setter
@@ -433,7 +433,7 @@ def point_steepness(value: float) -> None
 
 <a id="unreal.PCGCreatePointsSphereSettings.cull_points_outside_volume"></a>
 
-#### cull_points_outside_volume
+#### cull\_points\_outside\_volume
 
 ```python
 @property
@@ -444,7 +444,7 @@ def cull_points_outside_volume() -> bool
 
 <a id="unreal.PCGCreatePointsSphereSettings.cull_points_outside_volume"></a>
 
-#### cull_points_outside_volume
+#### cull\_points\_outside\_volume
 
 ```python
 @cull_points_outside_volume.setter

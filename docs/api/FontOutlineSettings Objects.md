@@ -23,7 +23,7 @@ Settings for applying an outline to a font
 
 <a id="unreal.FontOutlineSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -38,7 +38,7 @@ def __init__(
 
 <a id="unreal.FontOutlineSettings.outline_size"></a>
 
-#### outline_size
+#### outline\_size
 
 ```python
 @property
@@ -49,7 +49,7 @@ def outline_size() -> int
 
 <a id="unreal.FontOutlineSettings.outline_size"></a>
 
-#### outline_size
+#### outline\_size
 
 ```python
 @outline_size.setter
@@ -58,7 +58,7 @@ def outline_size(value: int) -> None
 
 <a id="unreal.FontOutlineSettings.mitered_corners"></a>
 
-#### mitered_corners
+#### mitered\_corners
 
 ```python
 @property
@@ -69,7 +69,7 @@ def mitered_corners() -> bool
 
 <a id="unreal.FontOutlineSettings.mitered_corners"></a>
 
-#### mitered_corners
+#### mitered\_corners
 
 ```python
 @mitered_corners.setter
@@ -78,7 +78,7 @@ def mitered_corners(value: bool) -> None
 
 <a id="unreal.FontOutlineSettings.separate_fill_alpha"></a>
 
-#### separate_fill_alpha
+#### separate\_fill\_alpha
 
 ```python
 @property
@@ -90,7 +90,7 @@ The trade off when enabling this is slightly worse quality for completely opaque
 
 <a id="unreal.FontOutlineSettings.separate_fill_alpha"></a>
 
-#### separate_fill_alpha
+#### separate\_fill\_alpha
 
 ```python
 @separate_fill_alpha.setter
@@ -99,7 +99,7 @@ def separate_fill_alpha(value: bool) -> None
 
 <a id="unreal.FontOutlineSettings.apply_outline_to_drop_shadows"></a>
 
-#### apply_outline_to_drop_shadows
+#### apply\_outline\_to\_drop\_shadows
 
 ```python
 @property
@@ -110,7 +110,7 @@ def apply_outline_to_drop_shadows() -> bool
 
 <a id="unreal.FontOutlineSettings.apply_outline_to_drop_shadows"></a>
 
-#### apply_outline_to_drop_shadows
+#### apply\_outline\_to\_drop\_shadows
 
 ```python
 @apply_outline_to_drop_shadows.setter
@@ -119,7 +119,7 @@ def apply_outline_to_drop_shadows(value: bool) -> None
 
 <a id="unreal.FontOutlineSettings.outline_material"></a>
 
-#### outline_material
+#### outline\_material
 
 ```python
 @property
@@ -130,7 +130,7 @@ def outline_material() -> Object
 
 <a id="unreal.FontOutlineSettings.outline_material"></a>
 
-#### outline_material
+#### outline\_material
 
 ```python
 @outline_material.setter
@@ -139,7 +139,7 @@ def outline_material(value: Object) -> None
 
 <a id="unreal.FontOutlineSettings.outline_color"></a>
 
-#### outline_color
+#### outline\_color
 
 ```python
 @property
@@ -150,7 +150,7 @@ def outline_color() -> LinearColor
 
 <a id="unreal.FontOutlineSettings.outline_color"></a>
 
-#### outline_color
+#### outline\_color
 
 ```python
 @outline_color.setter

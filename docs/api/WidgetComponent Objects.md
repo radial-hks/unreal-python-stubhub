@@ -240,7 +240,7 @@ OpacityFromTexture [Scalar]
 
 <a id="unreal.WidgetComponent.set_window_visibility"></a>
 
-#### set_window_visibility
+#### set\_window\_visibility
 
 ```python
 def set_window_visibility(visibility: WindowVisibility) -> None
@@ -254,7 +254,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_window_focusable"></a>
 
-#### set_window_focusable
+#### set\_window\_focusable
 
 ```python
 def set_window_focusable(window_focusable: bool) -> None
@@ -269,7 +269,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_widget_space"></a>
 
-#### set_widget_space
+#### set\_widget\_space
 
 ```python
 def set_widget_space(new_space: WidgetSpace) -> None
@@ -283,7 +283,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_widget"></a>
 
-#### set_widget
+#### set\_widget
 
 ```python
 def set_widget(widget: UserWidget) -> None
@@ -298,7 +298,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_two_sided"></a>
 
-#### set_two_sided
+#### set\_two\_sided
 
 ```python
 def set_two_sided(want_two_sided: bool) -> None
@@ -312,7 +312,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_tint_color_and_opacity"></a>
 
-#### set_tint_color_and_opacity
+#### set\_tint\_color\_and\_opacity
 
 ```python
 def set_tint_color_and_opacity(
@@ -327,7 +327,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_tick_when_offscreen"></a>
 
-#### set_tick_when_offscreen
+#### set\_tick\_when\_offscreen
 
 ```python
 def set_tick_when_offscreen(want_tick_when_offscreen: bool) -> None
@@ -341,7 +341,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_tick_mode"></a>
 
-#### set_tick_mode
+#### set\_tick\_mode
 
 ```python
 def set_tick_mode(tick_mode: TickMode) -> None
@@ -355,7 +355,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_redraw_time"></a>
 
-#### set_redraw_time
+#### set\_redraw\_time
 
 ```python
 def set_redraw_time(redraw_time: float) -> None
@@ -369,7 +369,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_pivot"></a>
 
-#### set_pivot
+#### set\_pivot
 
 ```python
 def set_pivot(pivot: Vector2D) -> None
@@ -383,7 +383,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_owner_player"></a>
 
-#### set_owner_player
+#### set\_owner\_player
 
 ```python
 def set_owner_player(local_player: LocalPlayer) -> None
@@ -399,7 +399,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_manually_redraw"></a>
 
-#### set_manually_redraw
+#### set\_manually\_redraw
 
 ```python
 def set_manually_redraw(use_manual_redraw: bool) -> None
@@ -414,7 +414,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_geometry_mode"></a>
 
-#### set_geometry_mode
+#### set\_geometry\_mode
 
 ```python
 def set_geometry_mode(geometry_mode: WidgetGeometryMode) -> None
@@ -428,7 +428,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_draw_size"></a>
 
-#### set_draw_size
+#### set\_draw\_size
 
 ```python
 def set_draw_size(size: Vector2D) -> None
@@ -442,7 +442,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_draw_at_desired_size"></a>
 
-#### set_draw_at_desired_size
+#### set\_draw\_at\_desired\_size
 
 ```python
 def set_draw_at_desired_size(draw_at_desired_size: bool) -> None
@@ -456,7 +456,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_cylinder_arc_angle"></a>
 
-#### set_cylinder_arc_angle
+#### set\_cylinder\_arc\_angle
 
 ```python
 def set_cylinder_arc_angle(cylinder_arc_angle: float) -> None
@@ -470,7 +470,7 @@ Args:
 
 <a id="unreal.WidgetComponent.set_background_color"></a>
 
-#### set_background_color
+#### set\_background\_color
 
 ```python
 def set_background_color(new_background_color: LinearColor) -> None
@@ -484,7 +484,7 @@ Args:
 
 <a id="unreal.WidgetComponent.request_render_update"></a>
 
-#### request_render_update
+#### request\_render\_update
 
 ```python
 def request_render_update() -> None
@@ -495,7 +495,7 @@ Requests that the widget have it's render target updated, if TickMode is disable
 
 <a id="unreal.WidgetComponent.request_redraw"></a>
 
-#### request_redraw
+#### request\_redraw
 
 ```python
 def request_redraw() -> None
@@ -507,7 +507,7 @@ deprecated: Use RequestRenderUpdate instead
 
 <a id="unreal.WidgetComponent.is_widget_visible"></a>
 
-#### is_widget_visible
+#### is\_widget\_visible
 
 ```python
 def is_widget_visible() -> bool
@@ -521,7 +521,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_window_visiblility"></a>
 
-#### get_window_visiblility
+#### get\_window\_visiblility
 
 ```python
 def get_window_visiblility() -> WindowVisibility
@@ -535,7 +535,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_window_focusable"></a>
 
-#### get_window_focusable
+#### get\_window\_focusable
 
 ```python
 def get_window_focusable() -> bool
@@ -550,7 +550,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_widget_space"></a>
 
-#### get_widget_space
+#### get\_widget\_space
 
 ```python
 def get_widget_space() -> WidgetSpace
@@ -564,7 +564,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_widget"></a>
 
-#### get_widget
+#### get\_widget
 
 ```python
 def get_widget() -> UserWidget
@@ -578,7 +578,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_user_widget_object"></a>
 
-#### get_user_widget_object
+#### get\_user\_widget\_object
 
 ```python
 def get_user_widget_object() -> UserWidget
@@ -592,7 +592,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_two_sided"></a>
 
-#### get_two_sided
+#### get\_two\_sided
 
 ```python
 def get_two_sided() -> bool
@@ -606,7 +606,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_tick_when_offscreen"></a>
 
-#### get_tick_when_offscreen
+#### get\_tick\_when\_offscreen
 
 ```python
 def get_tick_when_offscreen() -> bool
@@ -620,7 +620,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_render_target"></a>
 
-#### get_render_target
+#### get\_render\_target
 
 ```python
 def get_render_target() -> TextureRenderTarget2D
@@ -634,7 +634,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_redraw_time"></a>
 
-#### get_redraw_time
+#### get\_redraw\_time
 
 ```python
 def get_redraw_time() -> float
@@ -648,7 +648,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_pivot"></a>
 
-#### get_pivot
+#### get\_pivot
 
 ```python
 def get_pivot() -> Vector2D
@@ -662,7 +662,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_owner_player"></a>
 
-#### get_owner_player
+#### get\_owner\_player
 
 ```python
 def get_owner_player() -> LocalPlayer
@@ -676,7 +676,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_material_instance"></a>
 
-#### get_material_instance
+#### get\_material\_instance
 
 ```python
 def get_material_instance() -> MaterialInstanceDynamic
@@ -690,7 +690,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_manually_redraw"></a>
 
-#### get_manually_redraw
+#### get\_manually\_redraw
 
 ```python
 def get_manually_redraw() -> bool
@@ -705,7 +705,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_geometry_mode"></a>
 
-#### get_geometry_mode
+#### get\_geometry\_mode
 
 ```python
 def get_geometry_mode() -> WidgetGeometryMode
@@ -721,7 +721,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_draw_size"></a>
 
-#### get_draw_size
+#### get\_draw\_size
 
 ```python
 def get_draw_size() -> Vector2D
@@ -735,7 +735,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_draw_at_desired_size"></a>
 
-#### get_draw_at_desired_size
+#### get\_draw\_at\_desired\_size
 
 ```python
 def get_draw_at_desired_size() -> bool
@@ -749,7 +749,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_cylinder_arc_angle"></a>
 
-#### get_cylinder_arc_angle
+#### get\_cylinder\_arc\_angle
 
 ```python
 def get_cylinder_arc_angle() -> float
@@ -763,7 +763,7 @@ Returns:
 
 <a id="unreal.WidgetComponent.get_current_draw_size"></a>
 
-#### get_current_draw_size
+#### get\_current\_draw\_size
 
 ```python
 def get_current_draw_size() -> Vector2D

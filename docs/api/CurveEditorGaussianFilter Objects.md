@@ -17,7 +17,7 @@ Curve Editor Gaussian Filter
 
 <a id="unreal.CurveEditorGaussianFilter.gaussian_params"></a>
 
-#### gaussian_params
+#### gaussian\_params
 
 ```python
 @property
@@ -28,7 +28,7 @@ def gaussian_params() -> GaussianParams
 
 <a id="unreal.CurveEditorGaussianFilter.gaussian_params"></a>
 
-#### gaussian_params
+#### gaussian\_params
 
 ```python
 @gaussian_params.setter

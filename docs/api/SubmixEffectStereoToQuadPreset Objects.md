@@ -38,7 +38,7 @@ def settings(value: SubmixEffectStereoToQuadSettings) -> None
 
 <a id="unreal.SubmixEffectStereoToQuadPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectStereoToQuadSettings) -> None

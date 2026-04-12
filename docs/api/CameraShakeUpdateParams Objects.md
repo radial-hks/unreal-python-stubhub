@@ -8,7 +8,7 @@ deprecated: 'CameraShakeUpdateParams' was renamed to 'CameraShakePatternUpdatePa
 
 <a id="unreal.CameraShakeUpdateParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

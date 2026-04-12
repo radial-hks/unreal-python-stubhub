@@ -22,7 +22,7 @@ Geometry Script Mesh Plane Cut Options
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(fill_holes: bool = False,
@@ -34,7 +34,7 @@ def __init__(fill_holes: bool = False,
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.fill_holes"></a>
 
-#### fill_holes
+#### fill\_holes
 
 ```python
 @property
@@ -45,7 +45,7 @@ def fill_holes() -> bool
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.fill_holes"></a>
 
-#### fill_holes
+#### fill\_holes
 
 ```python
 @fill_holes.setter
@@ -54,7 +54,7 @@ def fill_holes(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.hole_fill_material_id"></a>
 
-#### hole_fill_material_id
+#### hole\_fill\_material\_id
 
 ```python
 @property
@@ -65,7 +65,7 @@ def hole_fill_material_id() -> int
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.hole_fill_material_id"></a>
 
-#### hole_fill_material_id
+#### hole\_fill\_material\_id
 
 ```python
 @hole_fill_material_id.setter
@@ -74,7 +74,7 @@ def hole_fill_material_id(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.fill_spans"></a>
 
-#### fill_spans
+#### fill\_spans
 
 ```python
 @property
@@ -85,7 +85,7 @@ def fill_spans() -> bool
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.fill_spans"></a>
 
-#### fill_spans
+#### fill\_spans
 
 ```python
 @fill_spans.setter
@@ -94,7 +94,7 @@ def fill_spans(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.flip_cut_side"></a>
 
-#### flip_cut_side
+#### flip\_cut\_side
 
 ```python
 @property
@@ -105,7 +105,7 @@ def flip_cut_side() -> bool
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.flip_cut_side"></a>
 
-#### flip_cut_side
+#### flip\_cut\_side
 
 ```python
 @flip_cut_side.setter
@@ -114,7 +114,7 @@ def flip_cut_side(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.uv_world_dimension"></a>
 
-#### uv_world_dimension
+#### uv\_world\_dimension
 
 ```python
 @property
@@ -125,7 +125,7 @@ def uv_world_dimension() -> float
 
 <a id="unreal.GeometryScriptMeshPlaneCutOptions.uv_world_dimension"></a>
 
-#### uv_world_dimension
+#### uv\_world\_dimension
 
 ```python
 @uv_world_dimension.setter

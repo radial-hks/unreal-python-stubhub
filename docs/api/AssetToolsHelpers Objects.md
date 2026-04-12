@@ -13,7 +13,7 @@ Asset Tools Helpers
 
 <a id="unreal.AssetToolsHelpers.get_asset_tools"></a>
 
-#### get_asset_tools
+#### get\_asset\_tools
 
 ```python
 @classmethod

@@ -18,7 +18,7 @@ Groom Cache Import Options
 
 <a id="unreal.GroomCacheImportOptions.import_settings"></a>
 
-#### import_settings
+#### import\_settings
 
 ```python
 @property
@@ -29,7 +29,7 @@ def import_settings() -> GroomCacheImportSettings
 
 <a id="unreal.GroomCacheImportOptions.import_settings"></a>
 
-#### import_settings
+#### import\_settings
 
 ```python
 @import_settings.setter

@@ -147,7 +147,7 @@ Procedural Foliage Volume
 
 <a id="unreal.ProceduralFoliageVolume.procedural_component"></a>
 
-#### procedural_component
+#### procedural\_component
 
 ```python
 @property

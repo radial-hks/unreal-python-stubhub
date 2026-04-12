@@ -17,7 +17,7 @@ Structure for file paths that are displayed in the editor with a picker UI.
 
 <a id="unreal.FilePath.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(file_path: str = "") -> None
@@ -25,7 +25,7 @@ def __init__(file_path: str = "") -> None
 
 <a id="unreal.FilePath.file_path"></a>
 
-#### file_path
+#### file\_path
 
 ```python
 @property
@@ -36,7 +36,7 @@ def file_path() -> str
 
 <a id="unreal.FilePath.file_path"></a>
 
-#### file_path
+#### file\_path
 
 ```python
 @file_path.setter

@@ -23,7 +23,7 @@ Brush Effect Displacement
 
 <a id="unreal.BrushEffectDisplacement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(displacement_height: float = 0.000000,
@@ -36,7 +36,7 @@ def __init__(displacement_height: float = 0.000000,
 
 <a id="unreal.BrushEffectDisplacement.displacement_height"></a>
 
-#### displacement_height
+#### displacement\_height
 
 ```python
 @property
@@ -47,7 +47,7 @@ def displacement_height() -> float
 
 <a id="unreal.BrushEffectDisplacement.displacement_height"></a>
 
-#### displacement_height
+#### displacement\_height
 
 ```python
 @displacement_height.setter
@@ -56,7 +56,7 @@ def displacement_height(value: float) -> None
 
 <a id="unreal.BrushEffectDisplacement.displacement_tiling"></a>
 
-#### displacement_tiling
+#### displacement\_tiling
 
 ```python
 @property
@@ -67,7 +67,7 @@ def displacement_tiling() -> float
 
 <a id="unreal.BrushEffectDisplacement.displacement_tiling"></a>
 
-#### displacement_tiling
+#### displacement\_tiling
 
 ```python
 @displacement_tiling.setter
@@ -136,7 +136,7 @@ def channel(value: LinearColor) -> None
 
 <a id="unreal.BrushEffectDisplacement.weightmap_influence"></a>
 
-#### weightmap_influence
+#### weightmap\_influence
 
 ```python
 @property
@@ -147,7 +147,7 @@ def weightmap_influence() -> float
 
 <a id="unreal.BrushEffectDisplacement.weightmap_influence"></a>
 
-#### weightmap_influence
+#### weightmap\_influence
 
 ```python
 @weightmap_influence.setter

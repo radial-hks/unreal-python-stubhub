@@ -18,7 +18,7 @@ Event Payload
 
 <a id="unreal.EventPayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(event_name: Name = "None",
@@ -27,7 +27,7 @@ def __init__(event_name: Name = "None",
 
 <a id="unreal.EventPayload.event_name"></a>
 
-#### event_name
+#### event\_name
 
 ```python
 @property
@@ -38,7 +38,7 @@ def event_name() -> Name
 
 <a id="unreal.EventPayload.event_name"></a>
 
-#### event_name
+#### event\_name
 
 ```python
 @event_name.setter

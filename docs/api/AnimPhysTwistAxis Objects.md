@@ -13,19 +13,19 @@ Enum for picking current angular twist axis
 
 <a id="unreal.AnimPhysTwistAxis.AXIS_X"></a>
 
-#### AXIS_X
+#### AXIS\_X
 
 0
 
 <a id="unreal.AnimPhysTwistAxis.AXIS_Y"></a>
 
-#### AXIS_Y
+#### AXIS\_Y
 
 1
 
 <a id="unreal.AnimPhysTwistAxis.AXIS_Z"></a>
 
-#### AXIS_Z
+#### AXIS\_Z
 
 2
 

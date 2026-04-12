@@ -59,7 +59,7 @@ Though it may be useful to normalize while editing.
 
 <a id="unreal.SkinWeightModifier.set_vertex_weights"></a>
 
-#### set_vertex_weights
+#### set\_vertex\_weights
 
 ```python
 def set_vertex_weights(vertex_id: int,
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.set_skeletal_mesh"></a>
 
-#### set_skeletal_mesh
+#### set\_skeletal\_mesh
 
 ```python
 def set_skeletal_mesh(mesh: SkeletalMesh) -> bool
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.prune_vertex_weights"></a>
 
-#### prune_vertex_weights
+#### prune\_vertex\_weights
 
 ```python
 def prune_vertex_weights(vertex_id: int, weight_threshold: float) -> bool
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.prune_all_weights"></a>
 
-#### prune_all_weights
+#### prune\_all\_weights
 
 ```python
 def prune_all_weights(weight_threshold: float) -> bool
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.normalize_vertex_weights"></a>
 
-#### normalize_vertex_weights
+#### normalize\_vertex\_weights
 
 ```python
 def normalize_vertex_weights(vertex_id: int) -> bool
@@ -151,7 +151,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.normalize_all_weights"></a>
 
-#### normalize_all_weights
+#### normalize\_all\_weights
 
 ```python
 def normalize_all_weights() -> bool
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.get_vertex_weights"></a>
 
-#### get_vertex_weights
+#### get\_vertex\_weights
 
 ```python
 def get_vertex_weights(vertex_id: int) -> Map[Name, float]
@@ -182,7 +182,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.get_skeletal_mesh"></a>
 
-#### get_skeletal_mesh
+#### get\_skeletal\_mesh
 
 ```python
 def get_skeletal_mesh() -> SkeletalMesh
@@ -196,7 +196,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.get_num_vertices"></a>
 
-#### get_num_vertices
+#### get\_num\_vertices
 
 ```python
 def get_num_vertices() -> int
@@ -210,7 +210,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.get_all_bone_names"></a>
 
-#### get_all_bone_names
+#### get\_all\_bone\_names
 
 ```python
 def get_all_bone_names() -> Array[Name]
@@ -224,7 +224,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.enforce_max_influences"></a>
 
-#### enforce_max_influences
+#### enforce\_max\_influences
 
 ```python
 def enforce_max_influences(max_influences: int = -1) -> bool
@@ -242,7 +242,7 @@ Returns:
 
 <a id="unreal.SkinWeightModifier.commit_weights_to_skeletal_mesh"></a>
 
-#### commit_weights_to_skeletal_mesh
+#### commit\_weights\_to\_skeletal\_mesh
 
 ```python
 def commit_weights_to_skeletal_mesh() -> bool
@@ -255,4 +255,4 @@ The skeletal mesh asset will be dirtied, but it is up to the user to save the as
 Returns:
     bool: true if weights were applied to a skeletal mesh, false otherwise
 
-<a id="unreal.PropertyAnimatorCoreBase"></a>
+<a id="unreal.EditorConfigBase"></a>

@@ -20,7 +20,7 @@ Rig VMNode Layout
 
 <a id="unreal.RigVMNodeLayout.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(categories: Array[RigVMPinCategory] = [],
@@ -41,7 +41,7 @@ def categories() -> Array[RigVMPinCategory]
 
 <a id="unreal.RigVMNodeLayout.pin_index_in_category"></a>
 
-#### pin_index_in_category
+#### pin\_index\_in\_category
 
 ```python
 @property
@@ -52,7 +52,7 @@ def pin_index_in_category() -> Map[str, int]
 
 <a id="unreal.RigVMNodeLayout.display_names"></a>
 
-#### display_names
+#### display\_names
 
 ```python
 @property

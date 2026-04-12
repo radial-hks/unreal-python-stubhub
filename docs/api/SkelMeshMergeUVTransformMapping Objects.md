@@ -17,7 +17,7 @@ Info to map all the sections about how to transform their UVs
 
 <a id="unreal.SkelMeshMergeUVTransformMapping.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -27,7 +27,7 @@ def __init__(
 
 <a id="unreal.SkelMeshMergeUVTransformMapping.uv_transforms_per_mesh"></a>
 
-#### uv_transforms_per_mesh
+#### uv\_transforms\_per\_mesh
 
 ```python
 @property
@@ -38,7 +38,7 @@ def uv_transforms_per_mesh() -> Array[SkelMeshMergeMeshUVTransforms]
 
 <a id="unreal.SkelMeshMergeUVTransformMapping.uv_transforms_per_mesh"></a>
 
-#### uv_transforms_per_mesh
+#### uv\_transforms\_per\_mesh
 
 ```python
 @uv_transforms_per_mesh.setter

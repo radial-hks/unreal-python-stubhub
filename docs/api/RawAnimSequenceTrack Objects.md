@@ -15,7 +15,7 @@ reduced to 1 key that is constant over the entire sequence.
 
 <a id="unreal.RawAnimSequenceTrack.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -23,7 +23,7 @@ def __init__() -> None
 
 <a id="unreal.RawAnimSequenceTrack.get_scale_keys"></a>
 
-#### get_scale_keys
+#### get\_scale\_keys
 
 ```python
 def get_scale_keys() -> Array[Vector]
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.RawAnimSequenceTrack.get_rotational_keys"></a>
 
-#### get_rotational_keys
+#### get\_rotational\_keys
 
 ```python
 def get_rotational_keys() -> Array[Quat]
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.RawAnimSequenceTrack.get_positional_keys"></a>
 
-#### get_positional_keys
+#### get\_positional\_keys
 
 ```python
 def get_positional_keys() -> Array[Vector]

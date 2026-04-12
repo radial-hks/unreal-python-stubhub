@@ -13,13 +13,13 @@ ESubmix Send Stage
 
 <a id="unreal.SubmixSendStage.POST_DISTANCE_ATTENUATION"></a>
 
-#### POST_DISTANCE_ATTENUATION
+#### POST\_DISTANCE\_ATTENUATION
 
 0: Whether to do the send pre distance attenuation
 
 <a id="unreal.SubmixSendStage.PRE_DISTANCE_ATTENUATION"></a>
 
-#### PRE_DISTANCE_ATTENUATION
+#### PRE\_DISTANCE\_ATTENUATION
 
 1: Whether to do the send post distance attenuation
 

@@ -14,7 +14,7 @@ Interchange Point Light Node
 
 <a id="unreal.InterchangePointLightNode.set_custom_use_inverse_squared_falloff"></a>
 
-#### set_custom_use_inverse_squared_falloff
+#### set\_custom\_use\_inverse\_squared\_falloff
 
 ```python
 def set_custom_use_inverse_squared_falloff(attribute_value: bool) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangePointLightNode.set_custom_light_falloff_exponent"></a>
 
-#### set_custom_light_falloff_exponent
+#### set\_custom\_light\_falloff\_exponent
 
 ```python
 def set_custom_light_falloff_exponent(attribute_value: float) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangePointLightNode.get_custom_use_inverse_squared_falloff"></a>
 
-#### get_custom_use_inverse_squared_falloff
+#### get\_custom\_use\_inverse\_squared\_falloff
 
 ```python
 def get_custom_use_inverse_squared_falloff() -> Optional[bool]
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.InterchangePointLightNode.get_custom_light_falloff_exponent"></a>
 
-#### get_custom_light_falloff_exponent
+#### get\_custom\_light\_falloff\_exponent
 
 ```python
 def get_custom_light_falloff_exponent() -> Optional[float]

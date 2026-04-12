@@ -24,7 +24,7 @@ UTickableTranslationConstraint
 
 <a id="unreal.TickableTranslationConstraint.offset_translation"></a>
 
-#### offset_translation
+#### offset\_translation
 
 ```python
 @property
@@ -35,7 +35,7 @@ def offset_translation() -> Vector
 
 <a id="unreal.TickableTranslationConstraint.offset_translation"></a>
 
-#### offset_translation
+#### offset\_translation
 
 ```python
 @offset_translation.setter
@@ -44,7 +44,7 @@ def offset_translation(value: Vector) -> None
 
 <a id="unreal.TickableTranslationConstraint.axis_filter"></a>
 
-#### axis_filter
+#### axis\_filter
 
 ```python
 @property
@@ -55,7 +55,7 @@ def axis_filter() -> FilterOptionPerAxis
 
 <a id="unreal.TickableTranslationConstraint.axis_filter"></a>
 
-#### axis_filter
+#### axis\_filter
 
 ```python
 @axis_filter.setter

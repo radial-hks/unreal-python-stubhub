@@ -21,7 +21,7 @@ Contains the common options that should be exposed for the underlying Slate widg
 
 <a id="unreal.ShapedTextOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.ShapedTextOptions.text_shaping_method"></a>
 
-#### text_shaping_method
+#### text\_shaping\_method
 
 ```python
 @property
@@ -43,7 +43,7 @@ def text_shaping_method() -> TextShapingMethod
 
 <a id="unreal.ShapedTextOptions.text_flow_direction"></a>
 
-#### text_flow_direction
+#### text\_flow\_direction
 
 ```python
 @property

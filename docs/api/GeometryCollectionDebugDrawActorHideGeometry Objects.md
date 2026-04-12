@@ -14,31 +14,31 @@ EGeometryCollectionDebugDrawActorHideGeometry
 
 <a id="unreal.GeometryCollectionDebugDrawActorHideGeometry.HIDE_NONE"></a>
 
-#### HIDE_NONE
+#### HIDE\_NONE
 
 0: Do not hide any geometry.
 
 <a id="unreal.GeometryCollectionDebugDrawActorHideGeometry.HIDE_WITH_COLLISION"></a>
 
-#### HIDE_WITH_COLLISION
+#### HIDE\_WITH\_COLLISION
 
 1: Hide the geometry associated with rigid bodies that are selected for collision volume visualization.
 
 <a id="unreal.GeometryCollectionDebugDrawActorHideGeometry.HIDE_SELECTED"></a>
 
-#### HIDE_SELECTED
+#### HIDE\_SELECTED
 
 2: Hide the geometry associated with the selected rigid bodies.
 
 <a id="unreal.GeometryCollectionDebugDrawActorHideGeometry.HIDE_WHOLE_COLLECTION"></a>
 
-#### HIDE_WHOLE_COLLECTION
+#### HIDE\_WHOLE\_COLLECTION
 
 3: Hide the entire geometry collection associated with the selected rigid bodies.
 
 <a id="unreal.GeometryCollectionDebugDrawActorHideGeometry.HIDE_ALL"></a>
 
-#### HIDE_ALL
+#### HIDE\_ALL
 
 4: Hide all geometry collections.
 

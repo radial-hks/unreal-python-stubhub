@@ -156,7 +156,7 @@ WaterBodyExclusionVolume allows players not enter surface swimming when touching
 
 <a id="unreal.WaterBodyExclusionVolume.water_bodies"></a>
 
-#### water_bodies
+#### water\_bodies
 
 ```python
 @property
@@ -167,7 +167,7 @@ def water_bodies() -> Array[WaterBody]
 
 <a id="unreal.WaterBodyExclusionVolume.water_body_to_ignore"></a>
 
-#### water_body_to_ignore
+#### water\_body\_to\_ignore
 
 ```python
 @property
@@ -179,7 +179,7 @@ deprecated: Property 'WaterBodyToIgnore' is deprecated.
 
 <a id="unreal.WaterBodyExclusionVolume.water_body_to_ignore"></a>
 
-#### water_body_to_ignore
+#### water\_body\_to\_ignore
 
 ```python
 @water_body_to_ignore.setter

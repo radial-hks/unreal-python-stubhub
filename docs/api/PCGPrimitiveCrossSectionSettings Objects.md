@@ -42,7 +42,7 @@ Creates spline cross-sections of one more primitives based on vertex features.
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.slice_direction"></a>
 
-#### slice_direction
+#### slice\_direction
 
 ```python
 @property
@@ -53,7 +53,7 @@ def slice_direction() -> Vector
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.slice_direction"></a>
 
-#### slice_direction
+#### slice\_direction
 
 ```python
 @slice_direction.setter
@@ -62,7 +62,7 @@ def slice_direction(value: Vector) -> None
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.extrusion_vector_attribute"></a>
 
-#### extrusion_vector_attribute
+#### extrusion\_vector\_attribute
 
 ```python
 @property
@@ -73,7 +73,7 @@ def extrusion_vector_attribute() -> PCGAttributePropertyOutputSelector
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.extrusion_vector_attribute"></a>
 
-#### extrusion_vector_attribute
+#### extrusion\_vector\_attribute
 
 ```python
 @extrusion_vector_attribute.setter
@@ -83,7 +83,7 @@ def extrusion_vector_attribute(
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.minimum_coplanar_vertices"></a>
 
-#### minimum_coplanar_vertices
+#### minimum\_coplanar\_vertices
 
 ```python
 @property
@@ -94,7 +94,7 @@ def minimum_coplanar_vertices() -> int
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.minimum_coplanar_vertices"></a>
 
-#### minimum_coplanar_vertices
+#### minimum\_coplanar\_vertices
 
 ```python
 @minimum_coplanar_vertices.setter
@@ -103,7 +103,7 @@ def minimum_coplanar_vertices(value: int) -> None
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.max_mesh_vertex_count"></a>
 
-#### max_mesh_vertex_count
+#### max\_mesh\_vertex\_count
 
 ```python
 @property
@@ -114,7 +114,7 @@ def max_mesh_vertex_count() -> int
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.max_mesh_vertex_count"></a>
 
-#### max_mesh_vertex_count
+#### max\_mesh\_vertex\_count
 
 ```python
 @max_mesh_vertex_count.setter
@@ -123,7 +123,7 @@ def max_mesh_vertex_count(value: int) -> None
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.enable_tier_merging"></a>
 
-#### enable_tier_merging
+#### enable\_tier\_merging
 
 ```python
 @property
@@ -134,7 +134,7 @@ def enable_tier_merging() -> bool
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.enable_tier_merging"></a>
 
-#### enable_tier_merging
+#### enable\_tier\_merging
 
 ```python
 @enable_tier_merging.setter
@@ -143,7 +143,7 @@ def enable_tier_merging(value: bool) -> None
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.tier_merging_threshold"></a>
 
-#### tier_merging_threshold
+#### tier\_merging\_threshold
 
 ```python
 @property
@@ -154,7 +154,7 @@ def tier_merging_threshold() -> float
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.tier_merging_threshold"></a>
 
-#### tier_merging_threshold
+#### tier\_merging\_threshold
 
 ```python
 @tier_merging_threshold.setter
@@ -163,7 +163,7 @@ def tier_merging_threshold(value: float) -> None
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.enable_min_area_culling"></a>
 
-#### enable_min_area_culling
+#### enable\_min\_area\_culling
 
 ```python
 @property
@@ -174,7 +174,7 @@ def enable_min_area_culling() -> bool
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.enable_min_area_culling"></a>
 
-#### enable_min_area_culling
+#### enable\_min\_area\_culling
 
 ```python
 @enable_min_area_culling.setter
@@ -183,7 +183,7 @@ def enable_min_area_culling(value: bool) -> None
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.min_area_culling_threshold"></a>
 
-#### min_area_culling_threshold
+#### min\_area\_culling\_threshold
 
 ```python
 @property
@@ -194,7 +194,7 @@ def min_area_culling_threshold() -> float
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.min_area_culling_threshold"></a>
 
-#### min_area_culling_threshold
+#### min\_area\_culling\_threshold
 
 ```python
 @min_area_culling_threshold.setter
@@ -203,7 +203,7 @@ def min_area_culling_threshold(value: float) -> None
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.remove_redundant_sections"></a>
 
-#### remove_redundant_sections
+#### remove\_redundant\_sections
 
 ```python
 @property
@@ -214,7 +214,7 @@ def remove_redundant_sections() -> bool
 
 <a id="unreal.PCGPrimitiveCrossSectionSettings.remove_redundant_sections"></a>
 
-#### remove_redundant_sections
+#### remove\_redundant\_sections
 
 ```python
 @remove_redundant_sections.setter

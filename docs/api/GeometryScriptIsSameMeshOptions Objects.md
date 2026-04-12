@@ -25,7 +25,7 @@ Geometry Script Is Same Mesh Options
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(check_connectivity: bool = False,
@@ -40,7 +40,7 @@ def __init__(check_connectivity: bool = False,
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_connectivity"></a>
 
-#### check_connectivity
+#### check\_connectivity
 
 ```python
 @property
@@ -51,7 +51,7 @@ def check_connectivity() -> bool
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_connectivity"></a>
 
-#### check_connectivity
+#### check\_connectivity
 
 ```python
 @check_connectivity.setter
@@ -60,7 +60,7 @@ def check_connectivity(value: bool) -> None
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_edge_i_ds"></a>
 
-#### check_edge_i_ds
+#### check\_edge\_i\_ds
 
 ```python
 @property
@@ -71,7 +71,7 @@ def check_edge_i_ds() -> bool
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_edge_i_ds"></a>
 
-#### check_edge_i_ds
+#### check\_edge\_i\_ds
 
 ```python
 @check_edge_i_ds.setter
@@ -80,7 +80,7 @@ def check_edge_i_ds(value: bool) -> None
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_normals"></a>
 
-#### check_normals
+#### check\_normals
 
 ```python
 @property
@@ -91,7 +91,7 @@ def check_normals() -> bool
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_normals"></a>
 
-#### check_normals
+#### check\_normals
 
 ```python
 @check_normals.setter
@@ -100,7 +100,7 @@ def check_normals(value: bool) -> None
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_colors"></a>
 
-#### check_colors
+#### check\_colors
 
 ```python
 @property
@@ -111,7 +111,7 @@ def check_colors() -> bool
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_colors"></a>
 
-#### check_colors
+#### check\_colors
 
 ```python
 @check_colors.setter
@@ -120,7 +120,7 @@ def check_colors(value: bool) -> None
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_u_vs"></a>
 
-#### check_u_vs
+#### check\_u\_vs
 
 ```python
 @property
@@ -131,7 +131,7 @@ def check_u_vs() -> bool
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_u_vs"></a>
 
-#### check_u_vs
+#### check\_u\_vs
 
 ```python
 @check_u_vs.setter
@@ -140,7 +140,7 @@ def check_u_vs(value: bool) -> None
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_groups"></a>
 
-#### check_groups
+#### check\_groups
 
 ```python
 @property
@@ -151,7 +151,7 @@ def check_groups() -> bool
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_groups"></a>
 
-#### check_groups
+#### check\_groups
 
 ```python
 @check_groups.setter
@@ -160,7 +160,7 @@ def check_groups(value: bool) -> None
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_attributes"></a>
 
-#### check_attributes
+#### check\_attributes
 
 ```python
 @property
@@ -171,7 +171,7 @@ def check_attributes() -> bool
 
 <a id="unreal.GeometryScriptIsSameMeshOptions.check_attributes"></a>
 
-#### check_attributes
+#### check\_attributes
 
 ```python
 @check_attributes.setter

@@ -14,19 +14,19 @@ EUsd Save Dialog Behavior
 
 <a id="unreal.UsdSaveDialogBehavior.NEVER_SAVE"></a>
 
-#### NEVER_SAVE
+#### NEVER\_SAVE
 
 0
 
 <a id="unreal.UsdSaveDialogBehavior.ALWAYS_SAVE"></a>
 
-#### ALWAYS_SAVE
+#### ALWAYS\_SAVE
 
 1
 
 <a id="unreal.UsdSaveDialogBehavior.SHOW_PROMPT"></a>
 
-#### SHOW_PROMPT
+#### SHOW\_PROMPT
 
 2
 

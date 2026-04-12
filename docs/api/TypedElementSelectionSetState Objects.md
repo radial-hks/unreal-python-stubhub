@@ -13,7 +13,7 @@ Typed Element Selection Set State
 
 <a id="unreal.TypedElementSelectionSetState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

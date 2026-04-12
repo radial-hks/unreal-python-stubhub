@@ -20,7 +20,7 @@ ENiagara Sim Cache Section Stretch Mode
 
 <a id="unreal.NiagaraSimCacheSectionStretchMode.TIME_DILATE"></a>
 
-#### TIME_DILATE
+#### TIME\_DILATE
 
 1: When the cache section is stretched in the track it will dilate the input time so the cached data is stretched once over the full section
 

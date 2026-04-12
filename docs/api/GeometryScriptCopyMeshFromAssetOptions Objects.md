@@ -21,7 +21,7 @@ Geometry Script Copy Mesh from Asset Options
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(apply_build_settings: bool = False,
@@ -32,7 +32,7 @@ def __init__(apply_build_settings: bool = False,
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.apply_build_settings"></a>
 
-#### apply_build_settings
+#### apply\_build\_settings
 
 ```python
 @property
@@ -43,7 +43,7 @@ def apply_build_settings() -> bool
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.apply_build_settings"></a>
 
-#### apply_build_settings
+#### apply\_build\_settings
 
 ```python
 @apply_build_settings.setter
@@ -52,7 +52,7 @@ def apply_build_settings(value: bool) -> None
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.request_tangents"></a>
 
-#### request_tangents
+#### request\_tangents
 
 ```python
 @property
@@ -63,7 +63,7 @@ def request_tangents() -> bool
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.request_tangents"></a>
 
-#### request_tangents
+#### request\_tangents
 
 ```python
 @request_tangents.setter
@@ -72,7 +72,7 @@ def request_tangents(value: bool) -> None
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.ignore_remove_degenerates"></a>
 
-#### ignore_remove_degenerates
+#### ignore\_remove\_degenerates
 
 ```python
 @property
@@ -83,7 +83,7 @@ def ignore_remove_degenerates() -> bool
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.ignore_remove_degenerates"></a>
 
-#### ignore_remove_degenerates
+#### ignore\_remove\_degenerates
 
 ```python
 @ignore_remove_degenerates.setter
@@ -92,7 +92,7 @@ def ignore_remove_degenerates(value: bool) -> None
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.use_build_scale"></a>
 
-#### use_build_scale
+#### use\_build\_scale
 
 ```python
 @property
@@ -103,7 +103,7 @@ def use_build_scale() -> bool
 
 <a id="unreal.GeometryScriptCopyMeshFromAssetOptions.use_build_scale"></a>
 
-#### use_build_scale
+#### use\_build\_scale
 
 ```python
 @use_build_scale.setter

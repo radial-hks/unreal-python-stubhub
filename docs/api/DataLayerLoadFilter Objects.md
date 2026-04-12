@@ -19,13 +19,13 @@ EData Layer Load Filter
 
 <a id="unreal.DataLayerLoadFilter.CLIENT_ONLY"></a>
 
-#### CLIENT_ONLY
+#### CLIENT\_ONLY
 
 1: Data Layer is only considered by the client.
 
 <a id="unreal.DataLayerLoadFilter.SERVER_ONLY"></a>
 
-#### SERVER_ONLY
+#### SERVER\_ONLY
 
 2: Data layer is only considered by the server.
 

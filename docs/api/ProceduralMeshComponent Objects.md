@@ -199,7 +199,7 @@ Beware! This feature is experimental and may be substantially changed in future 
 
 <a id="unreal.ProceduralMeshComponent.use_complex_as_simple_collision"></a>
 
-#### use_complex_as_simple_collision
+#### use\_complex\_as\_simple\_collision
 
 ```python
 @property
@@ -211,7 +211,7 @@ Should be set to false if this component is going to be given simple collision a
 
 <a id="unreal.ProceduralMeshComponent.use_async_cooking"></a>
 
-#### use_async_cooking
+#### use\_async\_cooking
 
 ```python
 @property
@@ -222,7 +222,7 @@ def use_async_cooking() -> bool
 
 <a id="unreal.ProceduralMeshComponent.update_mesh_section_linear_color"></a>
 
-#### update_mesh_section_linear_color
+#### update\_mesh\_section\_linear\_color
 
 ```python
 def update_mesh_section_linear_color(section_index: int,
@@ -254,7 +254,7 @@ Args:
 
 <a id="unreal.ProceduralMeshComponent.update_mesh_section"></a>
 
-#### update_mesh_section
+#### update\_mesh\_section
 
 ```python
 def update_mesh_section(section_index: int, vertices: Array[Vector],
@@ -278,7 +278,7 @@ Args:
 
 <a id="unreal.ProceduralMeshComponent.set_mesh_section_visible"></a>
 
-#### set_mesh_section_visible
+#### set\_mesh\_section\_visible
 
 ```python
 def set_mesh_section_visible(section_index: int, new_visibility: bool) -> None
@@ -293,7 +293,7 @@ Args:
 
 <a id="unreal.ProceduralMeshComponent.is_mesh_section_visible"></a>
 
-#### is_mesh_section_visible
+#### is\_mesh\_section\_visible
 
 ```python
 def is_mesh_section_visible(section_index: int) -> bool
@@ -310,7 +310,7 @@ Returns:
 
 <a id="unreal.ProceduralMeshComponent.get_num_sections"></a>
 
-#### get_num_sections
+#### get\_num\_sections
 
 ```python
 def get_num_sections() -> int
@@ -324,7 +324,7 @@ Returns:
 
 <a id="unreal.ProceduralMeshComponent.create_mesh_section_linear_color"></a>
 
-#### create_mesh_section_linear_color
+#### create\_mesh\_section\_linear\_color
 
 ```python
 def create_mesh_section_linear_color(section_index: int,
@@ -360,7 +360,7 @@ Args:
 
 <a id="unreal.ProceduralMeshComponent.create_mesh_section"></a>
 
-#### create_mesh_section
+#### create\_mesh\_section
 
 ```python
 def create_mesh_section(section_index: int, vertices: Array[Vector],
@@ -387,7 +387,7 @@ Args:
 
 <a id="unreal.ProceduralMeshComponent.clear_mesh_section"></a>
 
-#### clear_mesh_section
+#### clear\_mesh\_section
 
 ```python
 def clear_mesh_section(section_index: int) -> None
@@ -401,7 +401,7 @@ Args:
 
 <a id="unreal.ProceduralMeshComponent.clear_collision_convex_meshes"></a>
 
-#### clear_collision_convex_meshes
+#### clear\_collision\_convex\_meshes
 
 ```python
 def clear_collision_convex_meshes() -> None
@@ -412,7 +412,7 @@ Remove collision meshes from this component
 
 <a id="unreal.ProceduralMeshComponent.clear_all_mesh_sections"></a>
 
-#### clear_all_mesh_sections
+#### clear\_all\_mesh\_sections
 
 ```python
 def clear_all_mesh_sections() -> None
@@ -423,7 +423,7 @@ Clear all mesh sections and reset to empty state
 
 <a id="unreal.ProceduralMeshComponent.add_collision_convex_mesh"></a>
 
-#### add_collision_convex_mesh
+#### add\_collision\_convex\_mesh
 
 ```python
 def add_collision_convex_mesh(convex_verts: Array[Vector]) -> None
@@ -435,4 +435,4 @@ Add simple collision convex to this component
 Args:
     convex_verts (Array[Vector]):
 
-<a id="unreal.SharedMemoryMediaCapture"></a>
+<a id="unreal.glTFRuntimeAnimationCurve"></a>

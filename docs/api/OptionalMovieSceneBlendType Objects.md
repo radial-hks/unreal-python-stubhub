@@ -18,7 +18,7 @@ Optional blend type structure
 
 <a id="unreal.OptionalMovieSceneBlendType.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(blend_type: MovieSceneBlendType = 0,
@@ -27,7 +27,7 @@ def __init__(blend_type: MovieSceneBlendType = 0,
 
 <a id="unreal.OptionalMovieSceneBlendType.blend_type"></a>
 
-#### blend_type
+#### blend\_type
 
 ```python
 @property
@@ -38,7 +38,7 @@ def blend_type() -> MovieSceneBlendType
 
 <a id="unreal.OptionalMovieSceneBlendType.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @property

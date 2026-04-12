@@ -14,19 +14,19 @@ EGeometry Script Offset Faces Type
 
 <a id="unreal.GeometryScriptOffsetFacesType.VERTEX_NORMAL"></a>
 
-#### VERTEX_NORMAL
+#### VERTEX\_NORMAL
 
 0
 
 <a id="unreal.GeometryScriptOffsetFacesType.FACE_NORMAL"></a>
 
-#### FACE_NORMAL
+#### FACE\_NORMAL
 
 1
 
 <a id="unreal.GeometryScriptOffsetFacesType.PARALLEL_FACE_OFFSET"></a>
 
-#### PARALLEL_FACE_OFFSET
+#### PARALLEL\_FACE\_OFFSET
 
 2
 

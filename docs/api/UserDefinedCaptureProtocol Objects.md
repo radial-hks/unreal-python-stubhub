@@ -28,7 +28,7 @@ def world() -> World
 
 <a id="unreal.UserDefinedCaptureProtocol.stop_capturing_final_pixels"></a>
 
-#### stop_capturing_final_pixels
+#### stop\_capturing\_final\_pixels
 
 ```python
 def stop_capturing_final_pixels() -> None
@@ -39,7 +39,7 @@ Instruct this protocol to stop capturing LDR final pixels
 
 <a id="unreal.UserDefinedCaptureProtocol.start_capturing_final_pixels"></a>
 
-#### start_capturing_final_pixels
+#### start\_capturing\_final\_pixels
 
 ```python
 def start_capturing_final_pixels(stream_id: CapturedPixelsID) -> None
@@ -53,7 +53,7 @@ Args:
 
 <a id="unreal.UserDefinedCaptureProtocol.resolve_buffer"></a>
 
-#### resolve_buffer
+#### resolve\_buffer
 
 ```python
 def resolve_buffer(buffer: Texture, buffer_id: CapturedPixelsID) -> None
@@ -70,7 +70,7 @@ Args:
 
 <a id="unreal.UserDefinedCaptureProtocol.on_warm_up"></a>
 
-#### on_warm_up
+#### on\_warm\_up
 
 ```python
 def on_warm_up() -> None
@@ -81,7 +81,7 @@ Called when the capture process is warming up. Protocols may transition from eit
 
 <a id="unreal.UserDefinedCaptureProtocol.on_tick"></a>
 
-#### on_tick
+#### on\_tick
 
 ```python
 def on_tick() -> None
@@ -92,7 +92,7 @@ Called after the capture process itself is ticked, after the frame is set up for
 
 <a id="unreal.UserDefinedCaptureProtocol.on_start_capture"></a>
 
-#### on_start_capture
+#### on\_start\_capture
 
 ```python
 def on_start_capture() -> None
@@ -103,7 +103,7 @@ Called when this protocol should start capturing frames
 
 <a id="unreal.UserDefinedCaptureProtocol.on_setup"></a>
 
-#### on_setup
+#### on\_setup
 
 ```python
 def on_setup() -> bool
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.UserDefinedCaptureProtocol.on_pre_tick"></a>
 
-#### on_pre_tick
+#### on\_pre\_tick
 
 ```python
 def on_pre_tick() -> None
@@ -129,7 +129,7 @@ Useful for any pre-frame set up or resetting the previous frame's state
 
 <a id="unreal.UserDefinedCaptureProtocol.on_pixels_received"></a>
 
-#### on_pixels_received
+#### on\_pixels\_received
 
 ```python
 def on_pixels_received(pixels: CapturedPixels, id: CapturedPixelsID,
@@ -146,7 +146,7 @@ Args:
 
 <a id="unreal.UserDefinedCaptureProtocol.on_pause_capture"></a>
 
-#### on_pause_capture
+#### on\_pause\_capture
 
 ```python
 def on_pause_capture() -> None
@@ -157,7 +157,7 @@ Called when this protocol should temporarily stop capturing frames
 
 <a id="unreal.UserDefinedCaptureProtocol.on_finalize"></a>
 
-#### on_finalize
+#### on\_finalize
 
 ```python
 def on_finalize() -> None
@@ -168,7 +168,7 @@ Called to complete finalization of this protocol
 
 <a id="unreal.UserDefinedCaptureProtocol.on_capture_frame"></a>
 
-#### on_capture_frame
+#### on\_capture\_frame
 
 ```python
 def on_capture_frame() -> None
@@ -179,7 +179,7 @@ Called when this protocol should capture the current frame
 
 <a id="unreal.UserDefinedCaptureProtocol.on_can_finalize"></a>
 
-#### on_can_finalize
+#### on\_can\_finalize
 
 ```python
 def on_can_finalize() -> bool
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.UserDefinedCaptureProtocol.on_begin_finalize"></a>
 
-#### on_begin_finalize
+#### on\_begin\_finalize
 
 ```python
 def on_begin_finalize() -> None
@@ -204,7 +204,7 @@ Called when this protocol is going to be shut down - should not capture any more
 
 <a id="unreal.UserDefinedCaptureProtocol.get_current_frame_metrics"></a>
 
-#### get_current_frame_metrics
+#### get\_current\_frame\_metrics
 
 ```python
 def get_current_frame_metrics() -> FrameMetrics
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.UserDefinedCaptureProtocol.generate_filename"></a>
 
-#### generate_filename
+#### generate\_filename
 
 ```python
 def generate_filename(frame_metrics: FrameMetrics) -> str

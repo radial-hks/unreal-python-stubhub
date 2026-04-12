@@ -13,7 +13,7 @@ Class
 
 <a id="unreal.Class.get_class_path_name"></a>
 
-#### get_class_path_name
+#### get\_class\_path\_name
 
 ```python
 def get_class_path_name() -> TopLevelAssetPath

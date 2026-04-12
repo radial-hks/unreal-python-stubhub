@@ -14,7 +14,7 @@ Geo Referencing Editor BPLibrary
 
 <a id="unreal.GeoReferencingEditorBPLibrary.line_trace_viewport"></a>
 
-#### line_trace_viewport
+#### line\_trace\_viewport
 
 ```python
 @classmethod
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.GeoReferencingEditorBPLibrary.line_trace"></a>
 
-#### line_trace
+#### line\_trace
 
 ```python
 @classmethod
@@ -70,7 +70,7 @@ Returns:
 
 <a id="unreal.GeoReferencingEditorBPLibrary.get_viewport_cursor_location"></a>
 
-#### get_viewport_cursor_location
+#### get\_viewport\_cursor\_location
 
 ```python
 @classmethod
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.GeoReferencingEditorBPLibrary.get_viewport_cursor_information"></a>
 
-#### get_viewport_cursor_information
+#### get\_viewport\_cursor\_information
 
 ```python
 @classmethod

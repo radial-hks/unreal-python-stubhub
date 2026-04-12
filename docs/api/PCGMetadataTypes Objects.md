@@ -92,13 +92,13 @@ EPCGMetadata Types
 
 <a id="unreal.PCGMetadataTypes.SOFT_OBJECT_PATH"></a>
 
-#### SOFT_OBJECT_PATH
+#### SOFT\_OBJECT\_PATH
 
 13
 
 <a id="unreal.PCGMetadataTypes.SOFT_CLASS_PATH"></a>
 
-#### SOFT_CLASS_PATH
+#### SOFT\_CLASS\_PATH
 
 14
 

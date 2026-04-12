@@ -94,7 +94,7 @@ def volume() -> float
 
 <a id="unreal.SynthComponentToneGenerator.distance_attenuation_curve"></a>
 
-#### distance_attenuation_curve
+#### distance\_attenuation\_curve
 
 ```python
 @property
@@ -105,7 +105,7 @@ def distance_attenuation_curve() -> RuntimeFloatCurve
 
 <a id="unreal.SynthComponentToneGenerator.distance_attenuation_curve"></a>
 
-#### distance_attenuation_curve
+#### distance\_attenuation\_curve
 
 ```python
 @distance_attenuation_curve.setter
@@ -114,7 +114,7 @@ def distance_attenuation_curve(value: RuntimeFloatCurve) -> None
 
 <a id="unreal.SynthComponentToneGenerator.distance_range"></a>
 
-#### distance_range
+#### distance\_range
 
 ```python
 @property
@@ -125,7 +125,7 @@ def distance_range() -> Vector2D
 
 <a id="unreal.SynthComponentToneGenerator.distance_range"></a>
 
-#### distance_range
+#### distance\_range
 
 ```python
 @distance_range.setter
@@ -134,7 +134,7 @@ def distance_range(value: Vector2D) -> None
 
 <a id="unreal.SynthComponentToneGenerator.attenuation_db_at_max_range"></a>
 
-#### attenuation_db_at_max_range
+#### attenuation\_db\_at\_max\_range
 
 ```python
 @property
@@ -145,7 +145,7 @@ def attenuation_db_at_max_range() -> float
 
 <a id="unreal.SynthComponentToneGenerator.attenuation_db_at_max_range"></a>
 
-#### attenuation_db_at_max_range
+#### attenuation\_db\_at\_max\_range
 
 ```python
 @attenuation_db_at_max_range.setter
@@ -154,7 +154,7 @@ def attenuation_db_at_max_range(value: float) -> None
 
 <a id="unreal.SynthComponentToneGenerator.set_volume"></a>
 
-#### set_volume
+#### set\_volume
 
 ```python
 def set_volume(volume: float) -> None
@@ -168,7 +168,7 @@ Args:
 
 <a id="unreal.SynthComponentToneGenerator.set_frequency"></a>
 
-#### set_frequency
+#### set\_frequency
 
 ```python
 def set_frequency(frequency: float) -> None

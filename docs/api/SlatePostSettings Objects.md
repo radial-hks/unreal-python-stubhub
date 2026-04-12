@@ -19,7 +19,7 @@ Notably if enabled & blur by default. To be updated with additional effects & to
 
 <a id="unreal.SlatePostSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enabled: bool = False,
@@ -48,7 +48,7 @@ def enabled(value: bool) -> None
 
 <a id="unreal.SlatePostSettings.post_processor_class"></a>
 
-#### post_processor_class
+#### post\_processor\_class
 
 ```python
 @property
@@ -59,7 +59,7 @@ def post_processor_class() -> Class
 
 <a id="unreal.SlatePostSettings.post_processor_class"></a>
 
-#### post_processor_class
+#### post\_processor\_class
 
 ```python
 @post_processor_class.setter

@@ -151,7 +151,7 @@ see: UBlueprint
 
 <a id="unreal.LevelScriptActor.world_origin_location_changed"></a>
 
-#### world_origin_location_changed
+#### world\_origin\_location\_changed
 
 ```python
 def world_origin_location_changed(old_origin_location: IntVector,
@@ -167,7 +167,7 @@ Args:
 
 <a id="unreal.LevelScriptActor.set_cinematic_mode"></a>
 
-#### set_cinematic_mode
+#### set\_cinematic\_mode
 
 ```python
 def set_cinematic_mode(cinematic_mode: bool,
@@ -189,7 +189,7 @@ Args:
 
 <a id="unreal.LevelScriptActor.remote_event"></a>
 
-#### remote_event
+#### remote\_event
 
 ```python
 def remote_event(event_name: Name) -> bool
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.LevelScriptActor.level_reset"></a>
 
-#### level_reset
+#### level\_reset
 
 ```python
 def level_reset() -> None

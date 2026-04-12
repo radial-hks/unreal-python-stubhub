@@ -13,20 +13,20 @@ Method to normalize weights
 
 <a id="unreal.RBFNormalizeMethod.ONLY_NORMALIZE_ABOVE_ONE"></a>
 
-#### ONLY_NORMALIZE_ABOVE_ONE
+#### ONLY\_NORMALIZE\_ABOVE\_ONE
 
 0: Only normalize above one
 
 <a id="unreal.RBFNormalizeMethod.ALWAYS_NORMALIZE"></a>
 
-#### ALWAYS_NORMALIZE
+#### ALWAYS\_NORMALIZE
 
 1: Always normalize.
 Zero distribution weights stay zero.
 
 <a id="unreal.RBFNormalizeMethod.NORMALIZE_WITHIN_MEDIAN"></a>
 
-#### NORMALIZE_WITHIN_MEDIAN
+#### NORMALIZE\_WITHIN\_MEDIAN
 
 2: Normalize only within reference median. The median
 is a cone with a minimum and maximum angle within
@@ -36,7 +36,7 @@ the volume in which normalization is always required.
 
 <a id="unreal.RBFNormalizeMethod.NO_NORMALIZATION"></a>
 
-#### NO_NORMALIZATION
+#### NO\_NORMALIZATION
 
 3: Don't normalize at all. This should only be used with
 the interpolative method, if it is known that all input

@@ -62,7 +62,7 @@ see: AStaticMeshActor, UStaticMeshComponent
 
 <a id="unreal.StaticMesh.static_materials"></a>
 
-#### static_materials
+#### static\_materials
 
 ```python
 @property
@@ -73,7 +73,7 @@ def static_materials() -> Array[StaticMaterial]
 
 <a id="unreal.StaticMesh.static_materials"></a>
 
-#### static_materials
+#### static\_materials
 
 ```python
 @static_materials.setter
@@ -82,7 +82,7 @@ def static_materials(value: Array[StaticMaterial]) -> None
 
 <a id="unreal.StaticMesh.static_mesh_paint_support"></a>
 
-#### static_mesh_paint_support
+#### static\_mesh\_paint\_support
 
 ```python
 @property
@@ -93,7 +93,7 @@ def static_mesh_paint_support() -> StaticMeshPaintSupport
 
 <a id="unreal.StaticMesh.static_mesh_paint_support"></a>
 
-#### static_mesh_paint_support
+#### static\_mesh\_paint\_support
 
 ```python
 @static_mesh_paint_support.setter
@@ -102,7 +102,7 @@ def static_mesh_paint_support(value: StaticMeshPaintSupport) -> None
 
 <a id="unreal.StaticMesh.lod_for_collision"></a>
 
-#### lod_for_collision
+#### lod\_for\_collision
 
 ```python
 @property
@@ -115,7 +115,7 @@ Collision representation does not change based on distance to camera.
 
 <a id="unreal.StaticMesh.lod_for_collision"></a>
 
-#### lod_for_collision
+#### lod\_for\_collision
 
 ```python
 @lod_for_collision.setter
@@ -124,7 +124,7 @@ def lod_for_collision(value: int) -> None
 
 <a id="unreal.StaticMesh.set_num_source_models"></a>
 
-#### set_num_source_models
+#### set\_num\_source\_models
 
 ```python
 def set_num_source_models(num: int) -> None
@@ -138,7 +138,7 @@ Args:
 
 <a id="unreal.StaticMesh.set_min_lod_for_quality_levels"></a>
 
-#### set_min_lod_for_quality_levels
+#### set\_min\_lod\_for\_quality\_levels
 
 ```python
 def set_min_lod_for_quality_levels(quality_level_minimum_lo_ds: Map[
@@ -155,7 +155,7 @@ Args:
 
 <a id="unreal.StaticMesh.set_minimum_lod_for_platforms"></a>
 
-#### set_minimum_lod_for_platforms
+#### set\_minimum\_lod\_for\_platforms
 
 ```python
 def set_minimum_lod_for_platforms(
@@ -170,7 +170,7 @@ Args:
 
 <a id="unreal.StaticMesh.set_minimum_lod_for_platform"></a>
 
-#### set_minimum_lod_for_platform
+#### set\_minimum\_lod\_for\_platform
 
 ```python
 def set_minimum_lod_for_platform(platform_name: Name, min_lod: int) -> None
@@ -185,7 +185,7 @@ Args:
 
 <a id="unreal.StaticMesh.set_material"></a>
 
-#### set_material
+#### set\_material
 
 ```python
 def set_material(material_index: int, new_material: MaterialInterface) -> None
@@ -200,7 +200,7 @@ Args:
 
 <a id="unreal.StaticMesh.remove_socket"></a>
 
-#### remove_socket
+#### remove\_socket
 
 ```python
 def remove_socket(socket: StaticMeshSocket) -> None
@@ -214,7 +214,7 @@ Args:
 
 <a id="unreal.StaticMesh.is_lod_screen_size_auto_computed"></a>
 
-#### is_lod_screen_size_auto_computed
+#### is\_lod\_screen\_size\_auto\_computed
 
 ```python
 def is_lod_screen_size_auto_computed() -> bool
@@ -228,7 +228,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_static_mesh_description"></a>
 
-#### get_static_mesh_description
+#### get\_static\_mesh\_description
 
 ```python
 def get_static_mesh_description(lod_index: int) -> StaticMeshDescription
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_sockets_by_tag"></a>
 
-#### get_sockets_by_tag
+#### get\_sockets\_by\_tag
 
 ```python
 def get_sockets_by_tag(socket_tag: str) -> Array[StaticMeshSocket]
@@ -262,7 +262,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_num_triangles"></a>
 
-#### get_num_triangles
+#### get\_num\_triangles
 
 ```python
 def get_num_triangles(lod_index: int) -> int
@@ -279,7 +279,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_num_sections"></a>
 
-#### get_num_sections
+#### get\_num\_sections
 
 ```python
 def get_num_sections(lod: int) -> int
@@ -296,7 +296,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_num_lods"></a>
 
-#### get_num_lods
+#### get\_num\_lods
 
 ```python
 def get_num_lods() -> int
@@ -310,7 +310,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_min_lod_for_quality_levels"></a>
 
-#### get_min_lod_for_quality_levels
+#### get\_min\_lod\_for\_quality\_levels
 
 ```python
 def get_min_lod_for_quality_levels() -> Tuple[Map[PerQualityLevels, int], int]
@@ -328,7 +328,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_minimum_lod_for_quality_levels"></a>
 
-#### get_minimum_lod_for_quality_levels
+#### get\_minimum\_lod\_for\_quality\_levels
 
 ```python
 def get_minimum_lod_for_quality_levels() -> Map[Name, int]
@@ -344,7 +344,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_minimum_lod_for_quality_level"></a>
 
-#### get_minimum_lod_for_quality_level
+#### get\_minimum\_lod\_for\_quality\_level
 
 ```python
 def get_minimum_lod_for_quality_level(quality_level: Name) -> int
@@ -361,7 +361,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_minimum_lod_for_platforms"></a>
 
-#### get_minimum_lod_for_platforms
+#### get\_minimum\_lod\_for\_platforms
 
 ```python
 def get_minimum_lod_for_platforms() -> Map[Name, int]
@@ -377,7 +377,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_minimum_lod_for_platform"></a>
 
-#### get_minimum_lod_for_platform
+#### get\_minimum\_lod\_for\_platform
 
 ```python
 def get_minimum_lod_for_platform(platform_name: Name) -> int
@@ -394,7 +394,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_material_index"></a>
 
-#### get_material_index
+#### get\_material\_index
 
 ```python
 def get_material_index(material_slot_name: Name) -> int
@@ -411,7 +411,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_material"></a>
 
-#### get_material
+#### get\_material
 
 ```python
 def get_material(material_index: int) -> MaterialInterface
@@ -428,7 +428,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_bounds"></a>
 
-#### get_bounds
+#### get\_bounds
 
 ```python
 def get_bounds() -> BoxSphereBounds
@@ -442,7 +442,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_bounding_box"></a>
 
-#### get_bounding_box
+#### get\_bounding\_box
 
 ```python
 def get_bounding_box() -> Box
@@ -456,7 +456,7 @@ Returns:
 
 <a id="unreal.StaticMesh.find_socket"></a>
 
-#### find_socket
+#### find\_socket
 
 ```python
 def find_socket(socket_name: Name) -> StaticMeshSocket
@@ -474,7 +474,7 @@ Returns:
 
 <a id="unreal.StaticMesh.create_static_mesh_description"></a>
 
-#### create_static_mesh_description
+#### create\_static\_mesh\_description
 
 ```python
 @classmethod
@@ -494,7 +494,7 @@ Returns:
 
 <a id="unreal.StaticMesh.build_from_static_mesh_descriptions"></a>
 
-#### build_from_static_mesh_descriptions
+#### build\_from\_static\_mesh\_descriptions
 
 ```python
 def build_from_static_mesh_descriptions(
@@ -513,7 +513,7 @@ Args:
 
 <a id="unreal.StaticMesh.add_socket"></a>
 
-#### add_socket
+#### add\_socket
 
 ```python
 def add_socket(socket: StaticMeshSocket) -> None
@@ -527,7 +527,7 @@ Args:
 
 <a id="unreal.StaticMesh.add_material"></a>
 
-#### add_material
+#### add\_material
 
 ```python
 def add_material(material: MaterialInterface) -> Name
@@ -544,7 +544,7 @@ Returns:
 
 <a id="unreal.StaticMesh.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -561,7 +561,7 @@ Returns:
 
 <a id="unreal.StaticMesh.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -578,7 +578,7 @@ Returns:
 
 <a id="unreal.StaticMesh.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

@@ -39,7 +39,7 @@ too slow or don't have enough storage to play the original high-res media.
 
 <a id="unreal.ImgMediaSource.frame_rate_override"></a>
 
-#### frame_rate_override
+#### frame\_rate\_override
 
 ```python
 @property
@@ -50,7 +50,7 @@ def frame_rate_override() -> FrameRate
 
 <a id="unreal.ImgMediaSource.frame_rate_override"></a>
 
-#### frame_rate_override
+#### frame\_rate\_override
 
 ```python
 @frame_rate_override.setter
@@ -59,7 +59,7 @@ def frame_rate_override(value: FrameRate) -> None
 
 <a id="unreal.ImgMediaSource.proxy_override"></a>
 
-#### proxy_override
+#### proxy\_override
 
 ```python
 @property
@@ -70,7 +70,7 @@ def proxy_override() -> str
 
 <a id="unreal.ImgMediaSource.proxy_override"></a>
 
-#### proxy_override
+#### proxy\_override
 
 ```python
 @proxy_override.setter
@@ -79,7 +79,7 @@ def proxy_override(value: str) -> None
 
 <a id="unreal.ImgMediaSource.fill_gaps_in_sequence"></a>
 
-#### fill_gaps_in_sequence
+#### fill\_gaps\_in\_sequence
 
 ```python
 @property
@@ -90,7 +90,7 @@ def fill_gaps_in_sequence() -> bool
 
 <a id="unreal.ImgMediaSource.fill_gaps_in_sequence"></a>
 
-#### fill_gaps_in_sequence
+#### fill\_gaps\_in\_sequence
 
 ```python
 @fill_gaps_in_sequence.setter
@@ -99,7 +99,7 @@ def fill_gaps_in_sequence(value: bool) -> None
 
 <a id="unreal.ImgMediaSource.start_timecode"></a>
 
-#### start_timecode
+#### start\_timecode
 
 ```python
 @property
@@ -110,7 +110,7 @@ def start_timecode() -> Timecode
 
 <a id="unreal.ImgMediaSource.sequence_path"></a>
 
-#### sequence_path
+#### sequence\_path
 
 ```python
 @property
@@ -124,7 +124,7 @@ def sequence_path() -> DirectoryPath
 
 <a id="unreal.ImgMediaSource.set_tokenized_sequence_path"></a>
 
-#### set_tokenized_sequence_path
+#### set\_tokenized\_sequence\_path
 
 ```python
 def set_tokenized_sequence_path(path: str) -> None
@@ -139,7 +139,7 @@ Args:
 
 <a id="unreal.ImgMediaSource.set_sequence_path"></a>
 
-#### set_sequence_path
+#### set\_sequence\_path
 
 ```python
 def set_sequence_path(path: str) -> None
@@ -154,7 +154,7 @@ Args:
 
 <a id="unreal.ImgMediaSource.remove_target_object"></a>
 
-#### remove_target_object
+#### remove\_target\_object
 
 ```python
 def remove_target_object(actor: Actor) -> None
@@ -168,7 +168,7 @@ Args:
 
 <a id="unreal.ImgMediaSource.get_sequence_path"></a>
 
-#### get_sequence_path
+#### get\_sequence\_path
 
 ```python
 def get_sequence_path() -> str
@@ -183,7 +183,7 @@ Returns:
 
 <a id="unreal.ImgMediaSource.get_proxies"></a>
 
-#### get_proxies
+#### get\_proxies
 
 ```python
 def get_proxies() -> Array[str]
@@ -200,7 +200,7 @@ Returns:
 
 <a id="unreal.ImgMediaSource.add_target_object"></a>
 
-#### add_target_object
+#### add\_target\_object
 
 ```python
 def add_target_object(actor: Actor) -> None

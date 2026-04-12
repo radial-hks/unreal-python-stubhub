@@ -24,7 +24,7 @@ UTickableRotationConstraint
 
 <a id="unreal.TickableRotationConstraint.offset_rotation"></a>
 
-#### offset_rotation
+#### offset\_rotation
 
 ```python
 @property
@@ -35,7 +35,7 @@ def offset_rotation() -> Quat
 
 <a id="unreal.TickableRotationConstraint.offset_rotation"></a>
 
-#### offset_rotation
+#### offset\_rotation
 
 ```python
 @offset_rotation.setter
@@ -44,7 +44,7 @@ def offset_rotation(value: Quat) -> None
 
 <a id="unreal.TickableRotationConstraint.axis_filter"></a>
 
-#### axis_filter
+#### axis\_filter
 
 ```python
 @property
@@ -55,7 +55,7 @@ def axis_filter() -> FilterOptionPerAxis
 
 <a id="unreal.TickableRotationConstraint.axis_filter"></a>
 
-#### axis_filter
+#### axis\_filter
 
 ```python
 @axis_filter.setter

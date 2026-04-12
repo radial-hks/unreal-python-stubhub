@@ -24,7 +24,7 @@ Collision Chaos Event Body Info
 
 <a id="unreal.CollisionChaosEventBodyInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(velocity: Vector = [0.000000, 0.000000, 0.000000],
@@ -50,7 +50,7 @@ def velocity() -> Vector
 
 <a id="unreal.CollisionChaosEventBodyInfo.delta_velocity"></a>
 
-#### delta_velocity
+#### delta\_velocity
 
 ```python
 @property
@@ -61,7 +61,7 @@ def delta_velocity() -> Vector
 
 <a id="unreal.CollisionChaosEventBodyInfo.angular_velocity"></a>
 
-#### angular_velocity
+#### angular\_velocity
 
 ```python
 @property
@@ -83,7 +83,7 @@ def mass() -> float
 
 <a id="unreal.CollisionChaosEventBodyInfo.phys_material"></a>
 
-#### phys_material
+#### phys\_material
 
 ```python
 @property
@@ -105,7 +105,7 @@ def component() -> PrimitiveComponent
 
 <a id="unreal.CollisionChaosEventBodyInfo.body_index"></a>
 
-#### body_index
+#### body\_index
 
 ```python
 @property
@@ -116,7 +116,7 @@ def body_index() -> int
 
 <a id="unreal.CollisionChaosEventBodyInfo.bone_name"></a>
 
-#### bone_name
+#### bone\_name
 
 ```python
 @property

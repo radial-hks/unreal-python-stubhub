@@ -19,7 +19,7 @@ Fully describes the name and type of a parameter a shader exposes.
 
 <a id="unreal.ShaderParamTypeDefinition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

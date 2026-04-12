@@ -158,7 +158,7 @@ The component class for each water body type can be defined in the Editor Settin
 
 <a id="unreal.WaterBody.spline_comp"></a>
 
-#### spline_comp
+#### spline\_comp
 
 ```python
 @property
@@ -169,7 +169,7 @@ def spline_comp() -> WaterSplineComponent
 
 <a id="unreal.WaterBody.water_body_component"></a>
 
-#### water_body_component
+#### water\_body\_component
 
 ```python
 @property
@@ -180,7 +180,7 @@ def water_body_component() -> WaterBodyComponent
 
 <a id="unreal.WaterBody.water_body_index"></a>
 
-#### water_body_index
+#### water\_body\_index
 
 ```python
 @property
@@ -191,7 +191,7 @@ def water_body_index() -> int
 
 <a id="unreal.WaterBody.water_waves"></a>
 
-#### water_waves
+#### water\_waves
 
 ```python
 @property
@@ -202,7 +202,7 @@ def water_waves() -> WaterWavesBase
 
 <a id="unreal.WaterBody.set_water_waves"></a>
 
-#### set_water_waves
+#### set\_water\_waves
 
 ```python
 def set_water_waves(water_waves: WaterWavesBase) -> None
@@ -216,7 +216,7 @@ Args:
 
 <a id="unreal.WaterBody.set_water_material"></a>
 
-#### set_water_material
+#### set\_water\_material
 
 ```python
 def set_water_material(material: MaterialInterface) -> None
@@ -231,7 +231,7 @@ Args:
 
 <a id="unreal.WaterBody.on_water_body_changed"></a>
 
-#### on_water_body_changed
+#### on\_water\_body\_changed
 
 ```python
 def on_water_body_changed(shape_or_position_changed: bool,
@@ -248,7 +248,7 @@ Args:
 
 <a id="unreal.WaterBody.get_water_velocity_vector_at_spline_input_key"></a>
 
-#### get_water_velocity_vector_at_spline_input_key
+#### get\_water\_velocity\_vector\_at\_spline\_input\_key
 
 ```python
 def get_water_velocity_vector_at_spline_input_key(key: float) -> Vector
@@ -266,7 +266,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_water_velocity_at_spline_input_key"></a>
 
-#### get_water_velocity_at_spline_input_key
+#### get\_water\_velocity\_at\_spline\_input\_key
 
 ```python
 def get_water_velocity_at_spline_input_key(key: float) -> float
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_water_spline"></a>
 
-#### get_water_spline
+#### get\_water\_spline
 
 ```python
 def get_water_spline() -> WaterSplineComponent
@@ -298,7 +298,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_water_material_instance"></a>
 
-#### get_water_material_instance
+#### get\_water\_material\_instance
 
 ```python
 def get_water_material_instance() -> MaterialInstanceDynamic
@@ -313,7 +313,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_water_body_type"></a>
 
-#### get_water_body_type
+#### get\_water\_body\_type
 
 ```python
 def get_water_body_type() -> WaterBodyType
@@ -327,7 +327,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_water_body_component"></a>
 
-#### get_water_body_component
+#### get\_water\_body\_component
 
 ```python
 def get_water_body_component() -> WaterBodyComponent
@@ -341,7 +341,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_river_to_ocean_transition_material_instance"></a>
 
-#### get_river_to_ocean_transition_material_instance
+#### get\_river\_to\_ocean\_transition\_material\_instance
 
 ```python
 def get_river_to_ocean_transition_material_instance(
@@ -357,7 +357,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_river_to_lake_transition_material_instance"></a>
 
-#### get_river_to_lake_transition_material_instance
+#### get\_river\_to\_lake\_transition\_material\_instance
 
 ```python
 def get_river_to_lake_transition_material_instance(
@@ -373,7 +373,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_islands"></a>
 
-#### get_islands
+#### get\_islands
 
 ```python
 def get_islands() -> Array[WaterBodyIsland]
@@ -388,7 +388,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_exclusion_volumes"></a>
 
-#### get_exclusion_volumes
+#### get\_exclusion\_volumes
 
 ```python
 def get_exclusion_volumes() -> Array[WaterBodyExclusionVolume]
@@ -403,7 +403,7 @@ Returns:
 
 <a id="unreal.WaterBody.get_audio_intensity_at_spline_input_key"></a>
 
-#### get_audio_intensity_at_spline_input_key
+#### get\_audio\_intensity\_at\_spline\_input\_key
 
 ```python
 def get_audio_intensity_at_spline_input_key(key: float) -> float

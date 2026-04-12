@@ -18,7 +18,7 @@ Component Sync
 
 <a id="unreal.ComponentSync.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -47,7 +47,7 @@ def name(value: Name) -> None
 
 <a id="unreal.ComponentSync.sync_option"></a>
 
-#### sync_option
+#### sync\_option
 
 ```python
 @property
@@ -58,7 +58,7 @@ def sync_option() -> SyncOption
 
 <a id="unreal.ComponentSync.sync_option"></a>
 
-#### sync_option
+#### sync\_option
 
 ```python
 @sync_option.setter

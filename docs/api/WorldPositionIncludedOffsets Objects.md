@@ -13,25 +13,25 @@ Specifies which shader generated offsets should included in the world position (
 
 <a id="unreal.WorldPositionIncludedOffsets.WPT_DEFAULT"></a>
 
-#### WPT_DEFAULT
+#### WPT\_DEFAULT
 
 0: Absolute world position with all material shader offsets applied
 
 <a id="unreal.WorldPositionIncludedOffsets.WPT_EXCLUDE_ALL_SHADER_OFFSETS"></a>
 
-#### WPT_EXCLUDE_ALL_SHADER_OFFSETS
+#### WPT\_EXCLUDE\_ALL\_SHADER\_OFFSETS
 
 1: Absolute world position with no material shader offsets applied
 
 <a id="unreal.WorldPositionIncludedOffsets.WPT_CAMERA_RELATIVE"></a>
 
-#### WPT_CAMERA_RELATIVE
+#### WPT\_CAMERA\_RELATIVE
 
 2: Camera relative world position with all material shader offsets applied
 
 <a id="unreal.WorldPositionIncludedOffsets.WPT_CAMERA_RELATIVE_NO_OFFSETS"></a>
 
-#### WPT_CAMERA_RELATIVE_NO_OFFSETS
+#### WPT\_CAMERA\_RELATIVE\_NO\_OFFSETS
 
 3: Camera relative world position with no material shader offsets applied
 

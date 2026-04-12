@@ -13,19 +13,19 @@ ENav Cost Display
 
 <a id="unreal.NavCostDisplay.TOTAL_COST"></a>
 
-#### TOTAL_COST
+#### TOTAL\_COST
 
 0
 
 <a id="unreal.NavCostDisplay.HEURISTIC_ONLY"></a>
 
-#### HEURISTIC_ONLY
+#### HEURISTIC\_ONLY
 
 1
 
 <a id="unreal.NavCostDisplay.REAL_COST_ONLY"></a>
 
-#### REAL_COST_ONLY
+#### REAL\_COST\_ONLY
 
 2
 

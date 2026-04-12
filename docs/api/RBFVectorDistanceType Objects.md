@@ -27,7 +27,7 @@ Function to use for computing distance between the input and target
 
 <a id="unreal.RBFVectorDistanceType.ARC_LENGTH"></a>
 
-#### ARC_LENGTH
+#### ARC\_LENGTH
 
 2
 

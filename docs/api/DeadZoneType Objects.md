@@ -31,7 +31,7 @@ For most games, this will give the smoothest feeling analog values. The input is
 
 <a id="unreal.DeadZoneType.UNSCALED_RADIAL"></a>
 
-#### UNSCALED_RADIAL
+#### UNSCALED\_RADIAL
 
 2: Apply dead zone logic to all axes simultaneously without any smooth input
 which the normal "Radial" deadzone applies.

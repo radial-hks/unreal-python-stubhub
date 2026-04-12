@@ -23,7 +23,7 @@ Represents the appearance of an SScrollBox
 
 <a id="unreal.ScrollBoxStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -79,7 +79,7 @@ def __init__(
 
 <a id="unreal.ScrollBoxStyle.bar_thickness"></a>
 
-#### bar_thickness
+#### bar\_thickness
 
 ```python
 @property
@@ -90,7 +90,7 @@ def bar_thickness() -> float
 
 <a id="unreal.ScrollBoxStyle.bar_thickness"></a>
 
-#### bar_thickness
+#### bar\_thickness
 
 ```python
 @bar_thickness.setter
@@ -99,7 +99,7 @@ def bar_thickness(value: float) -> None
 
 <a id="unreal.ScrollBoxStyle.top_shadow_brush"></a>
 
-#### top_shadow_brush
+#### top\_shadow\_brush
 
 ```python
 @property
@@ -110,7 +110,7 @@ def top_shadow_brush() -> SlateBrush
 
 <a id="unreal.ScrollBoxStyle.top_shadow_brush"></a>
 
-#### top_shadow_brush
+#### top\_shadow\_brush
 
 ```python
 @top_shadow_brush.setter
@@ -119,7 +119,7 @@ def top_shadow_brush(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBoxStyle.bottom_shadow_brush"></a>
 
-#### bottom_shadow_brush
+#### bottom\_shadow\_brush
 
 ```python
 @property
@@ -130,7 +130,7 @@ def bottom_shadow_brush() -> SlateBrush
 
 <a id="unreal.ScrollBoxStyle.bottom_shadow_brush"></a>
 
-#### bottom_shadow_brush
+#### bottom\_shadow\_brush
 
 ```python
 @bottom_shadow_brush.setter
@@ -139,7 +139,7 @@ def bottom_shadow_brush(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBoxStyle.left_shadow_brush"></a>
 
-#### left_shadow_brush
+#### left\_shadow\_brush
 
 ```python
 @property
@@ -150,7 +150,7 @@ def left_shadow_brush() -> SlateBrush
 
 <a id="unreal.ScrollBoxStyle.left_shadow_brush"></a>
 
-#### left_shadow_brush
+#### left\_shadow\_brush
 
 ```python
 @left_shadow_brush.setter
@@ -159,7 +159,7 @@ def left_shadow_brush(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBoxStyle.right_shadow_brush"></a>
 
-#### right_shadow_brush
+#### right\_shadow\_brush
 
 ```python
 @property
@@ -170,7 +170,7 @@ def right_shadow_brush() -> SlateBrush
 
 <a id="unreal.ScrollBoxStyle.right_shadow_brush"></a>
 
-#### right_shadow_brush
+#### right\_shadow\_brush
 
 ```python
 @right_shadow_brush.setter
@@ -179,7 +179,7 @@ def right_shadow_brush(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBoxStyle.horizontal_scrolled_content_padding"></a>
 
-#### horizontal_scrolled_content_padding
+#### horizontal\_scrolled\_content\_padding
 
 ```python
 @property
@@ -190,7 +190,7 @@ def horizontal_scrolled_content_padding() -> Margin
 
 <a id="unreal.ScrollBoxStyle.horizontal_scrolled_content_padding"></a>
 
-#### horizontal_scrolled_content_padding
+#### horizontal\_scrolled\_content\_padding
 
 ```python
 @horizontal_scrolled_content_padding.setter
@@ -199,7 +199,7 @@ def horizontal_scrolled_content_padding(value: Margin) -> None
 
 <a id="unreal.ScrollBoxStyle.vertical_scrolled_content_padding"></a>
 
-#### vertical_scrolled_content_padding
+#### vertical\_scrolled\_content\_padding
 
 ```python
 @property
@@ -210,7 +210,7 @@ def vertical_scrolled_content_padding() -> Margin
 
 <a id="unreal.ScrollBoxStyle.vertical_scrolled_content_padding"></a>
 
-#### vertical_scrolled_content_padding
+#### vertical\_scrolled\_content\_padding
 
 ```python
 @vertical_scrolled_content_padding.setter

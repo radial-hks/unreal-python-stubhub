@@ -20,10 +20,10 @@ Interactive Tool Preset Store
 
 <a id="unreal.InteractiveToolPresetStore.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.NNEDenoiserBaseMappingData"></a>
+<a id="unreal.SequencerScriptingRange"></a>

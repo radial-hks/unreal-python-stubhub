@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.MediaSource.set_media_option_string"></a>
 
-#### set_media_option_string
+#### set\_media\_option\_string
 
 ```python
 def set_media_option_string(key: Name, value: str) -> None
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.MediaSource.set_media_option_int64"></a>
 
-#### set_media_option_int64
+#### set\_media\_option\_int64
 
 ```python
 def set_media_option_int64(key: Name, value: int) -> None
@@ -63,7 +63,7 @@ Args:
 
 <a id="unreal.MediaSource.set_media_option_float"></a>
 
-#### set_media_option_float
+#### set\_media\_option\_float
 
 ```python
 def set_media_option_float(key: Name, value: float) -> None
@@ -78,7 +78,7 @@ Args:
 
 <a id="unreal.MediaSource.set_media_option_bool"></a>
 
-#### set_media_option_bool
+#### set\_media\_option\_bool
 
 ```python
 def set_media_option_bool(key: Name, value: bool) -> None
@@ -93,7 +93,7 @@ Args:
 
 <a id="unreal.MediaSource.get_url"></a>
 
-#### get_url
+#### get\_url
 
 ```python
 def get_url() -> str

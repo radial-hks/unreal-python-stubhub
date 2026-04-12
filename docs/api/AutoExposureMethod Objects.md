@@ -13,19 +13,19 @@ Used by FPostProcessSettings Auto Exposure
 
 <a id="unreal.AutoExposureMethod.AEM_HISTOGRAM"></a>
 
-#### AEM_HISTOGRAM
+#### AEM\_HISTOGRAM
 
 0: requires compute shader to construct 64 bin histogram
 
 <a id="unreal.AutoExposureMethod.AEM_BASIC"></a>
 
-#### AEM_BASIC
+#### AEM\_BASIC
 
 1: faster method that computes single value by downsampling
 
 <a id="unreal.AutoExposureMethod.AEM_MANUAL"></a>
 
-#### AEM_MANUAL
+#### AEM\_MANUAL
 
 2: Uses camera settings.
 

@@ -93,7 +93,7 @@ def falloff(value: RadialImpulseFalloff) -> None
 
 <a id="unreal.RadialForceComponent.impulse_strength"></a>
 
-#### impulse_strength
+#### impulse\_strength
 
 ```python
 @property
@@ -104,7 +104,7 @@ def impulse_strength() -> float
 
 <a id="unreal.RadialForceComponent.impulse_strength"></a>
 
-#### impulse_strength
+#### impulse\_strength
 
 ```python
 @impulse_strength.setter
@@ -113,7 +113,7 @@ def impulse_strength(value: float) -> None
 
 <a id="unreal.RadialForceComponent.impulse_vel_change"></a>
 
-#### impulse_vel_change
+#### impulse\_vel\_change
 
 ```python
 @property
@@ -124,7 +124,7 @@ def impulse_vel_change() -> bool
 
 <a id="unreal.RadialForceComponent.impulse_vel_change"></a>
 
-#### impulse_vel_change
+#### impulse\_vel\_change
 
 ```python
 @impulse_vel_change.setter
@@ -133,7 +133,7 @@ def impulse_vel_change(value: bool) -> None
 
 <a id="unreal.RadialForceComponent.ignore_owning_actor"></a>
 
-#### ignore_owning_actor
+#### ignore\_owning\_actor
 
 ```python
 @property
@@ -144,7 +144,7 @@ def ignore_owning_actor() -> bool
 
 <a id="unreal.RadialForceComponent.ignore_owning_actor"></a>
 
-#### ignore_owning_actor
+#### ignore\_owning\_actor
 
 ```python
 @ignore_owning_actor.setter
@@ -153,7 +153,7 @@ def ignore_owning_actor(value: bool) -> None
 
 <a id="unreal.RadialForceComponent.force_strength"></a>
 
-#### force_strength
+#### force\_strength
 
 ```python
 @property
@@ -164,7 +164,7 @@ def force_strength() -> float
 
 <a id="unreal.RadialForceComponent.force_strength"></a>
 
-#### force_strength
+#### force\_strength
 
 ```python
 @force_strength.setter
@@ -173,7 +173,7 @@ def force_strength(value: float) -> None
 
 <a id="unreal.RadialForceComponent.destructible_damage"></a>
 
-#### destructible_damage
+#### destructible\_damage
 
 ```python
 @property
@@ -184,7 +184,7 @@ def destructible_damage() -> float
 
 <a id="unreal.RadialForceComponent.destructible_damage"></a>
 
-#### destructible_damage
+#### destructible\_damage
 
 ```python
 @destructible_damage.setter
@@ -193,7 +193,7 @@ def destructible_damage(value: float) -> None
 
 <a id="unreal.RadialForceComponent.remove_object_type_to_affect"></a>
 
-#### remove_object_type_to_affect
+#### remove\_object\_type\_to\_affect
 
 ```python
 def remove_object_type_to_affect(object_type: ObjectTypeQuery) -> None
@@ -207,7 +207,7 @@ Args:
 
 <a id="unreal.RadialForceComponent.fire_impulse"></a>
 
-#### fire_impulse
+#### fire\_impulse
 
 ```python
 def fire_impulse() -> None
@@ -218,7 +218,7 @@ Fire a single impulse
 
 <a id="unreal.RadialForceComponent.add_object_type_to_affect"></a>
 
-#### add_object_type_to_affect
+#### add\_object\_type\_to\_affect
 
 ```python
 def add_object_type_to_affect(object_type: ObjectTypeQuery) -> None

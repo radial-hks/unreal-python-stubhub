@@ -23,7 +23,7 @@ class StateTreeConsiderationBlueprintBase(StateTreeNodeBlueprintBase)
 
 <a id="unreal.StateTreeConsiderationBlueprintBase.receive_get_score"></a>
 
-#### receive_get_score
+#### receive\_get\_score
 
 ```python
 def receive_get_score() -> float

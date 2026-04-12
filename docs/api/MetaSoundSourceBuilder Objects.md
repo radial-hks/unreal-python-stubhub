@@ -21,7 +21,7 @@ Builder in charge of building a MetaSound Source
 
 <a id="unreal.MetaSoundSourceBuilder.set_sample_rate_override"></a>
 
-#### set_sample_rate_override
+#### set\_sample\_rate\_override
 
 ```python
 def set_sample_rate_override(sample_rate: int) -> None
@@ -35,7 +35,7 @@ Args:
 
 <a id="unreal.MetaSoundSourceBuilder.set_quality"></a>
 
-#### set_quality
+#### set\_quality
 
 ```python
 def set_quality(quality: Name) -> None
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.MetaSoundSourceBuilder.set_format"></a>
 
-#### set_format
+#### set\_format
 
 ```python
 def set_format(
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.MetaSoundSourceBuilder.set_block_rate_override"></a>
 
-#### set_block_rate_override
+#### set\_block\_rate\_override
 
 ```python
 def set_block_rate_override(block_rate: float) -> None
@@ -83,7 +83,7 @@ Args:
 
 <a id="unreal.MetaSoundSourceBuilder.get_live_updates_enabled"></a>
 
-#### get_live_updates_enabled
+#### get\_live\_updates\_enabled
 
 ```python
 def get_live_updates_enabled() -> bool

@@ -197,7 +197,7 @@ A box generally used for simple collision. Bounds are rendered as lines in the e
 
 <a id="unreal.BoxComponent.box_extent"></a>
 
-#### box_extent
+#### box\_extent
 
 ```python
 @property
@@ -208,7 +208,7 @@ def box_extent() -> Vector
 
 <a id="unreal.BoxComponent.set_box_extent"></a>
 
-#### set_box_extent
+#### set\_box\_extent
 
 ```python
 def set_box_extent(box_extent: Vector, update_overlaps: bool = True) -> None
@@ -223,7 +223,7 @@ Args:
 
 <a id="unreal.BoxComponent.get_unscaled_box_extent"></a>
 
-#### get_unscaled_box_extent
+#### get\_unscaled\_box\_extent
 
 ```python
 def get_unscaled_box_extent() -> Vector
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.BoxComponent.get_scaled_box_extent"></a>
 
-#### get_scaled_box_extent
+#### get\_scaled\_box\_extent
 
 ```python
 def get_scaled_box_extent() -> Vector

@@ -20,19 +20,19 @@ ERig Event
 
 <a id="unreal.RigEvent.REQUEST_AUTO_KEY"></a>
 
-#### REQUEST_AUTO_KEY
+#### REQUEST\_AUTO\_KEY
 
 1: Request to Auto-Key the Control in Sequencer
 
 <a id="unreal.RigEvent.OPEN_UNDO_BRACKET"></a>
 
-#### OPEN_UNDO_BRACKET
+#### OPEN\_UNDO\_BRACKET
 
 2: Request to open an Undo bracket in the client
 
 <a id="unreal.RigEvent.CLOSE_UNDO_BRACKET"></a>
 
-#### CLOSE_UNDO_BRACKET
+#### CLOSE\_UNDO\_BRACKET
 
 3: Request to close an Undo bracket in the client
 

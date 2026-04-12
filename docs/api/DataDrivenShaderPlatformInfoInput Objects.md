@@ -18,7 +18,7 @@ Data Driven Shader Platform Info Input
 
 <a id="unreal.DataDrivenShaderPlatformInfoInput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

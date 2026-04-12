@@ -19,7 +19,7 @@ EAir Absorption Method
 
 <a id="unreal.AirAbsorptionMethod.CUSTOM_CURVE"></a>
 
-#### CUSTOM_CURVE
+#### CUSTOM\_CURVE
 
 1: The air absorption conforms to a custom distance curve.
 

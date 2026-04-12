@@ -18,7 +18,7 @@ Geometry Script Poly Path
 
 <a id="unreal.GeometryScriptPolyPath.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -26,7 +26,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptPolyPath.get_poly_path_vertex"></a>
 
-#### get_poly_path_vertex
+#### get\_poly\_path\_vertex
 
 ```python
 def get_poly_path_vertex(index: int) -> Tuple[Vector, bool]
@@ -46,7 +46,7 @@ Returns:
 
 <a id="unreal.GeometryScriptPolyPath.get_poly_path_tangent"></a>
 
-#### get_poly_path_tangent
+#### get\_poly\_path\_tangent
 
 ```python
 def get_poly_path_tangent(index: int) -> Tuple[Vector, bool]
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.GeometryScriptPolyPath.get_poly_path_num_vertices"></a>
 
-#### get_poly_path_num_vertices
+#### get\_poly\_path\_num\_vertices
 
 ```python
 def get_poly_path_num_vertices() -> int
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.GeometryScriptPolyPath.get_poly_path_last_index"></a>
 
-#### get_poly_path_last_index
+#### get\_poly\_path\_last\_index
 
 ```python
 def get_poly_path_last_index() -> int
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.GeometryScriptPolyPath.get_poly_path_arc_length"></a>
 
-#### get_poly_path_arc_length
+#### get\_poly\_path\_arc\_length
 
 ```python
 def get_poly_path_arc_length() -> float
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.GeometryScriptPolyPath.get_nearest_vertex_index"></a>
 
-#### get_nearest_vertex_index
+#### get\_nearest\_vertex\_index
 
 ```python
 def get_nearest_vertex_index(point: Vector) -> int
@@ -125,7 +125,7 @@ Returns:
 
 <a id="unreal.GeometryScriptPolyPath.flatten_to2d_on_axis"></a>
 
-#### flatten_to2d_on_axis
+#### flatten\_to2d\_on\_axis
 
 ```python
 def flatten_to2d_on_axis(
@@ -144,7 +144,7 @@ Returns:
 
 <a id="unreal.GeometryScriptPolyPath.convert_poly_path_to_array_of_vector2d"></a>
 
-#### convert_poly_path_to_array_of_vector2d
+#### convert\_poly\_path\_to\_array\_of\_vector2d
 
 ```python
 def convert_poly_path_to_array_of_vector2d() -> Array[Vector2D]
@@ -160,7 +160,7 @@ Returns:
 
 <a id="unreal.GeometryScriptPolyPath.convert_poly_path_to_array"></a>
 
-#### convert_poly_path_to_array
+#### convert\_poly\_path\_to\_array
 
 ```python
 def convert_poly_path_to_array() -> Array[Vector]

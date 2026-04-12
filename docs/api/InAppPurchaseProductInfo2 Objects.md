@@ -29,7 +29,7 @@ Micro-transaction purchase information
 
 <a id="unreal.InAppPurchaseProductInfo2.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(identifier: str = "",
@@ -59,7 +59,7 @@ def identifier() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.transaction_identifier"></a>
 
-#### transaction_identifier
+#### transaction\_identifier
 
 ```python
 @property
@@ -70,7 +70,7 @@ def transaction_identifier() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property
@@ -81,7 +81,7 @@ def display_name() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.display_description"></a>
 
-#### display_description
+#### display\_description
 
 ```python
 @property
@@ -92,7 +92,7 @@ def display_description() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.display_price"></a>
 
-#### display_price
+#### display\_price
 
 ```python
 @property
@@ -103,7 +103,7 @@ def display_price() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.raw_price"></a>
 
-#### raw_price
+#### raw\_price
 
 ```python
 @property
@@ -114,7 +114,7 @@ def raw_price() -> float
 
 <a id="unreal.InAppPurchaseProductInfo2.currency_code"></a>
 
-#### currency_code
+#### currency\_code
 
 ```python
 @property
@@ -125,7 +125,7 @@ def currency_code() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.currency_symbol"></a>
 
-#### currency_symbol
+#### currency\_symbol
 
 ```python
 @property
@@ -136,7 +136,7 @@ def currency_symbol() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.decimal_separator"></a>
 
-#### decimal_separator
+#### decimal\_separator
 
 ```python
 @property
@@ -147,7 +147,7 @@ def decimal_separator() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.grouping_separator"></a>
 
-#### grouping_separator
+#### grouping\_separator
 
 ```python
 @property
@@ -158,7 +158,7 @@ def grouping_separator() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.receipt_data"></a>
 
-#### receipt_data
+#### receipt\_data
 
 ```python
 @property
@@ -169,7 +169,7 @@ def receipt_data() -> str
 
 <a id="unreal.InAppPurchaseProductInfo2.dynamic_fields"></a>
 
-#### dynamic_fields
+#### dynamic\_fields
 
 ```python
 @property
@@ -178,4 +178,4 @@ def dynamic_fields() -> Map[str, str]
 
 (Map[str, str]):  [Read-Only] Dynamic fields from raw Json data.
 
-<a id="unreal.VariantDependency"></a>
+<a id="unreal.GroomCacheImportSettings"></a>

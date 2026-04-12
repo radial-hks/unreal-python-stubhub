@@ -24,7 +24,7 @@ PCGManaged Component
 
 <a id="unreal.PCGManagedComponent.generated_component"></a>
 
-#### generated_component
+#### generated\_component
 
 ```python
 @property
@@ -35,7 +35,7 @@ def generated_component() -> ActorComponent
 
 <a id="unreal.PCGManagedComponent.generated_component"></a>
 
-#### generated_component
+#### generated\_component
 
 ```python
 @generated_component.setter

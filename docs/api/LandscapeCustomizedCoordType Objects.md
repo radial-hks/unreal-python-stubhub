@@ -13,31 +13,31 @@ ELandscape Customized Coord Type
 
 <a id="unreal.LandscapeCustomizedCoordType.LCCT_NONE"></a>
 
-#### LCCT_NONE
+#### LCCT\_NONE
 
 0: Don't use customized UV, just use original UV.
 
 <a id="unreal.LandscapeCustomizedCoordType.LCCT_CUSTOM_UV0"></a>
 
-#### LCCT_CUSTOM_UV0
+#### LCCT\_CUSTOM\_UV0
 
 1
 
 <a id="unreal.LandscapeCustomizedCoordType.LCCT_CUSTOM_UV1"></a>
 
-#### LCCT_CUSTOM_UV1
+#### LCCT\_CUSTOM\_UV1
 
 2
 
 <a id="unreal.LandscapeCustomizedCoordType.LCCT_CUSTOM_UV2"></a>
 
-#### LCCT_CUSTOM_UV2
+#### LCCT\_CUSTOM\_UV2
 
 3
 
 <a id="unreal.LandscapeCustomizedCoordType.LCCT_WEIGHT_MAP_UV"></a>
 
-#### LCCT_WEIGHT_MAP_UV
+#### LCCT\_WEIGHT\_MAP\_UV
 
 4: Use original WeightMapUV, which could not be customized.
 

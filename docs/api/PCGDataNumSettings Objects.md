@@ -34,7 +34,7 @@ Counts number of data in a data collection
 
 <a id="unreal.PCGDataNumSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @property
@@ -45,7 +45,7 @@ def output_attribute_name() -> Name
 
 <a id="unreal.PCGDataNumSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @output_attribute_name.setter

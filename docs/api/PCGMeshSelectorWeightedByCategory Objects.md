@@ -21,7 +21,7 @@ PCGMesh Selector Weighted by Category
 
 <a id="unreal.PCGMeshSelectorWeightedByCategory.category_attribute"></a>
 
-#### category_attribute
+#### category\_attribute
 
 ```python
 @property
@@ -32,7 +32,7 @@ def category_attribute() -> Name
 
 <a id="unreal.PCGMeshSelectorWeightedByCategory.category_attribute"></a>
 
-#### category_attribute
+#### category\_attribute
 
 ```python
 @category_attribute.setter
@@ -61,7 +61,7 @@ def entries(value: Array[PCGWeightedByCategoryEntryList]) -> None
 
 <a id="unreal.PCGMeshSelectorWeightedByCategory.use_attribute_material_overrides"></a>
 
-#### use_attribute_material_overrides
+#### use\_attribute\_material\_overrides
 
 ```python
 @property
@@ -72,7 +72,7 @@ def use_attribute_material_overrides() -> bool
 
 <a id="unreal.PCGMeshSelectorWeightedByCategory.use_attribute_material_overrides"></a>
 
-#### use_attribute_material_overrides
+#### use\_attribute\_material\_overrides
 
 ```python
 @use_attribute_material_overrides.setter
@@ -81,7 +81,7 @@ def use_attribute_material_overrides(value: bool) -> None
 
 <a id="unreal.PCGMeshSelectorWeightedByCategory.material_override_attributes"></a>
 
-#### material_override_attributes
+#### material\_override\_attributes
 
 ```python
 @property
@@ -92,7 +92,7 @@ def material_override_attributes() -> Array[Name]
 
 <a id="unreal.PCGMeshSelectorWeightedByCategory.material_override_attributes"></a>
 
-#### material_override_attributes
+#### material\_override\_attributes
 
 ```python
 @material_override_attributes.setter

@@ -55,7 +55,7 @@ def type(value: PCGUnionType) -> None
 
 <a id="unreal.PCGUnionSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -66,7 +66,7 @@ def density_function() -> PCGUnionDensityFunction
 
 <a id="unreal.PCGUnionSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter

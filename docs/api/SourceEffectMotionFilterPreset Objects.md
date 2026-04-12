@@ -33,7 +33,7 @@ Note that the value read in BP is the serialized settings, will not reflect dyna
 
 <a id="unreal.SourceEffectMotionFilterPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectMotionFilterSettings) -> None

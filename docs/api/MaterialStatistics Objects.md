@@ -24,7 +24,7 @@ Material Statistics
 
 <a id="unreal.MaterialStatistics.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(num_vertex_shader_instructions: int = 0,
@@ -39,7 +39,7 @@ def __init__(num_vertex_shader_instructions: int = 0,
 
 <a id="unreal.MaterialStatistics.num_vertex_shader_instructions"></a>
 
-#### num_vertex_shader_instructions
+#### num\_vertex\_shader\_instructions
 
 ```python
 @property
@@ -50,7 +50,7 @@ def num_vertex_shader_instructions() -> int
 
 <a id="unreal.MaterialStatistics.num_vertex_shader_instructions"></a>
 
-#### num_vertex_shader_instructions
+#### num\_vertex\_shader\_instructions
 
 ```python
 @num_vertex_shader_instructions.setter
@@ -59,7 +59,7 @@ def num_vertex_shader_instructions(value: int) -> None
 
 <a id="unreal.MaterialStatistics.num_pixel_shader_instructions"></a>
 
-#### num_pixel_shader_instructions
+#### num\_pixel\_shader\_instructions
 
 ```python
 @property
@@ -70,7 +70,7 @@ def num_pixel_shader_instructions() -> int
 
 <a id="unreal.MaterialStatistics.num_pixel_shader_instructions"></a>
 
-#### num_pixel_shader_instructions
+#### num\_pixel\_shader\_instructions
 
 ```python
 @num_pixel_shader_instructions.setter
@@ -79,7 +79,7 @@ def num_pixel_shader_instructions(value: int) -> None
 
 <a id="unreal.MaterialStatistics.num_samplers"></a>
 
-#### num_samplers
+#### num\_samplers
 
 ```python
 @property
@@ -90,7 +90,7 @@ def num_samplers() -> int
 
 <a id="unreal.MaterialStatistics.num_samplers"></a>
 
-#### num_samplers
+#### num\_samplers
 
 ```python
 @num_samplers.setter
@@ -99,7 +99,7 @@ def num_samplers(value: int) -> None
 
 <a id="unreal.MaterialStatistics.num_vertex_texture_samples"></a>
 
-#### num_vertex_texture_samples
+#### num\_vertex\_texture\_samples
 
 ```python
 @property
@@ -110,7 +110,7 @@ def num_vertex_texture_samples() -> int
 
 <a id="unreal.MaterialStatistics.num_vertex_texture_samples"></a>
 
-#### num_vertex_texture_samples
+#### num\_vertex\_texture\_samples
 
 ```python
 @num_vertex_texture_samples.setter
@@ -119,7 +119,7 @@ def num_vertex_texture_samples(value: int) -> None
 
 <a id="unreal.MaterialStatistics.num_pixel_texture_samples"></a>
 
-#### num_pixel_texture_samples
+#### num\_pixel\_texture\_samples
 
 ```python
 @property
@@ -130,7 +130,7 @@ def num_pixel_texture_samples() -> int
 
 <a id="unreal.MaterialStatistics.num_pixel_texture_samples"></a>
 
-#### num_pixel_texture_samples
+#### num\_pixel\_texture\_samples
 
 ```python
 @num_pixel_texture_samples.setter
@@ -139,7 +139,7 @@ def num_pixel_texture_samples(value: int) -> None
 
 <a id="unreal.MaterialStatistics.num_virtual_texture_samples"></a>
 
-#### num_virtual_texture_samples
+#### num\_virtual\_texture\_samples
 
 ```python
 @property
@@ -150,7 +150,7 @@ def num_virtual_texture_samples() -> int
 
 <a id="unreal.MaterialStatistics.num_virtual_texture_samples"></a>
 
-#### num_virtual_texture_samples
+#### num\_virtual\_texture\_samples
 
 ```python
 @num_virtual_texture_samples.setter
@@ -159,7 +159,7 @@ def num_virtual_texture_samples(value: int) -> None
 
 <a id="unreal.MaterialStatistics.num_uv_scalars"></a>
 
-#### num_uv_scalars
+#### num\_uv\_scalars
 
 ```python
 @property
@@ -170,7 +170,7 @@ def num_uv_scalars() -> int
 
 <a id="unreal.MaterialStatistics.num_uv_scalars"></a>
 
-#### num_uv_scalars
+#### num\_uv\_scalars
 
 ```python
 @num_uv_scalars.setter
@@ -179,7 +179,7 @@ def num_uv_scalars(value: int) -> None
 
 <a id="unreal.MaterialStatistics.num_interpolator_scalars"></a>
 
-#### num_interpolator_scalars
+#### num\_interpolator\_scalars
 
 ```python
 @property
@@ -190,7 +190,7 @@ def num_interpolator_scalars() -> int
 
 <a id="unreal.MaterialStatistics.num_interpolator_scalars"></a>
 
-#### num_interpolator_scalars
+#### num\_interpolator\_scalars
 
 ```python
 @num_interpolator_scalars.setter

@@ -44,7 +44,7 @@ if the navigation attempt would have escaped.
 
 <a id="unreal.UINavigationRule.CUSTOM_BOUNDARY"></a>
 
-#### CUSTOM_BOUNDARY
+#### CUSTOM\_BOUNDARY
 
 5: Custom navigation handled by user code if the boundary is hit.
 

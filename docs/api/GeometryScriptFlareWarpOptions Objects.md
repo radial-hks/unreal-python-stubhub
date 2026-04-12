@@ -20,7 +20,7 @@ Geometry Script Flare Warp Options
 
 <a id="unreal.GeometryScriptFlareWarpOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptFlareWarpOptions.symmetric_extents"></a>
 
-#### symmetric_extents
+#### symmetric\_extents
 
 ```python
 @property
@@ -43,7 +43,7 @@ def symmetric_extents() -> bool
 
 <a id="unreal.GeometryScriptFlareWarpOptions.symmetric_extents"></a>
 
-#### symmetric_extents
+#### symmetric\_extents
 
 ```python
 @symmetric_extents.setter
@@ -52,7 +52,7 @@ def symmetric_extents(value: bool) -> None
 
 <a id="unreal.GeometryScriptFlareWarpOptions.lower_extent"></a>
 
-#### lower_extent
+#### lower\_extent
 
 ```python
 @property
@@ -63,7 +63,7 @@ def lower_extent() -> float
 
 <a id="unreal.GeometryScriptFlareWarpOptions.lower_extent"></a>
 
-#### lower_extent
+#### lower\_extent
 
 ```python
 @lower_extent.setter
@@ -72,7 +72,7 @@ def lower_extent(value: float) -> None
 
 <a id="unreal.GeometryScriptFlareWarpOptions.flare_type"></a>
 
-#### flare_type
+#### flare\_type
 
 ```python
 @property
@@ -83,7 +83,7 @@ def flare_type() -> GeometryScriptFlareType
 
 <a id="unreal.GeometryScriptFlareWarpOptions.flare_type"></a>
 
-#### flare_type
+#### flare\_type
 
 ```python
 @flare_type.setter

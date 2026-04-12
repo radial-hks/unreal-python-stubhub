@@ -37,7 +37,7 @@ Target Root Settings
 
 <a id="unreal.TargetRootSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(rotation_alpha: float = 0.000000,
@@ -54,7 +54,7 @@ def __init__(rotation_alpha: float = 0.000000,
 
 <a id="unreal.TargetRootSettings.rotation_alpha"></a>
 
-#### rotation_alpha
+#### rotation\_alpha
 
 ```python
 @property
@@ -67,7 +67,7 @@ At 1 the root is rotated fully to match the source root rotation.
 
 <a id="unreal.TargetRootSettings.rotation_alpha"></a>
 
-#### rotation_alpha
+#### rotation\_alpha
 
 ```python
 @rotation_alpha.setter
@@ -76,7 +76,7 @@ def rotation_alpha(value: float) -> None
 
 <a id="unreal.TargetRootSettings.translation_alpha"></a>
 
-#### translation_alpha
+#### translation\_alpha
 
 ```python
 @property
@@ -89,7 +89,7 @@ At 1 the root will follow the source motion according to the behavior defined in
 
 <a id="unreal.TargetRootSettings.translation_alpha"></a>
 
-#### translation_alpha
+#### translation\_alpha
 
 ```python
 @translation_alpha.setter
@@ -98,7 +98,7 @@ def translation_alpha(value: float) -> None
 
 <a id="unreal.TargetRootSettings.blend_to_source"></a>
 
-#### blend_to_source
+#### blend\_to\_source
 
 ```python
 @property
@@ -111,7 +111,7 @@ At 1 the root is placed at the location of the source's retarget root bone.
 
 <a id="unreal.TargetRootSettings.blend_to_source"></a>
 
-#### blend_to_source
+#### blend\_to\_source
 
 ```python
 @blend_to_source.setter
@@ -120,7 +120,7 @@ def blend_to_source(value: float) -> None
 
 <a id="unreal.TargetRootSettings.blend_to_source_weights"></a>
 
-#### blend_to_source_weights
+#### blend\_to\_source\_weights
 
 ```python
 @property
@@ -131,7 +131,7 @@ def blend_to_source_weights() -> Vector
 
 <a id="unreal.TargetRootSettings.blend_to_source_weights"></a>
 
-#### blend_to_source_weights
+#### blend\_to\_source\_weights
 
 ```python
 @blend_to_source_weights.setter
@@ -140,7 +140,7 @@ def blend_to_source_weights(value: Vector) -> None
 
 <a id="unreal.TargetRootSettings.scale_horizontal"></a>
 
-#### scale_horizontal
+#### scale\_horizontal
 
 ```python
 @property
@@ -151,7 +151,7 @@ def scale_horizontal() -> float
 
 <a id="unreal.TargetRootSettings.scale_horizontal"></a>
 
-#### scale_horizontal
+#### scale\_horizontal
 
 ```python
 @scale_horizontal.setter
@@ -160,7 +160,7 @@ def scale_horizontal(value: float) -> None
 
 <a id="unreal.TargetRootSettings.scale_vertical"></a>
 
-#### scale_vertical
+#### scale\_vertical
 
 ```python
 @property
@@ -171,7 +171,7 @@ def scale_vertical() -> float
 
 <a id="unreal.TargetRootSettings.scale_vertical"></a>
 
-#### scale_vertical
+#### scale\_vertical
 
 ```python
 @scale_vertical.setter
@@ -180,7 +180,7 @@ def scale_vertical(value: float) -> None
 
 <a id="unreal.TargetRootSettings.translation_offset"></a>
 
-#### translation_offset
+#### translation\_offset
 
 ```python
 @property
@@ -191,7 +191,7 @@ def translation_offset() -> Vector
 
 <a id="unreal.TargetRootSettings.translation_offset"></a>
 
-#### translation_offset
+#### translation\_offset
 
 ```python
 @translation_offset.setter
@@ -200,7 +200,7 @@ def translation_offset(value: Vector) -> None
 
 <a id="unreal.TargetRootSettings.rotation_offset"></a>
 
-#### rotation_offset
+#### rotation\_offset
 
 ```python
 @property
@@ -211,7 +211,7 @@ def rotation_offset() -> Rotator
 
 <a id="unreal.TargetRootSettings.rotation_offset"></a>
 
-#### rotation_offset
+#### rotation\_offset
 
 ```python
 @rotation_offset.setter
@@ -220,7 +220,7 @@ def rotation_offset(value: Rotator) -> None
 
 <a id="unreal.TargetRootSettings.affect_ik_horizontal"></a>
 
-#### affect_ik_horizontal
+#### affect\_ik\_horizontal
 
 ```python
 @property
@@ -233,7 +233,7 @@ At 1 the IK positions are calculated relative to the modified root location.
 
 <a id="unreal.TargetRootSettings.affect_ik_horizontal"></a>
 
-#### affect_ik_horizontal
+#### affect\_ik\_horizontal
 
 ```python
 @affect_ik_horizontal.setter
@@ -242,7 +242,7 @@ def affect_ik_horizontal(value: float) -> None
 
 <a id="unreal.TargetRootSettings.affect_ik_vertical"></a>
 
-#### affect_ik_vertical
+#### affect\_ik\_vertical
 
 ```python
 @property
@@ -255,7 +255,7 @@ At 1 the IK positions are calculated relative to the modified root location.
 
 <a id="unreal.TargetRootSettings.affect_ik_vertical"></a>
 
-#### affect_ik_vertical
+#### affect\_ik\_vertical
 
 ```python
 @affect_ik_vertical.setter

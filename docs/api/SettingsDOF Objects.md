@@ -19,19 +19,19 @@ ESettings DOF
 
 <a id="unreal.SettingsDOF.YZ_PLANE"></a>
 
-#### YZ_PLANE
+#### YZ\_PLANE
 
 1: Allows 2D movement along the Y-Z plane.
 
 <a id="unreal.SettingsDOF.XZ_PLANE"></a>
 
-#### XZ_PLANE
+#### XZ\_PLANE
 
 2: Allows 2D movement along the X-Z plane.
 
 <a id="unreal.SettingsDOF.XY_PLANE"></a>
 
-#### XY_PLANE
+#### XY\_PLANE
 
 3: Allows 2D movement along the X-Y plane.
 

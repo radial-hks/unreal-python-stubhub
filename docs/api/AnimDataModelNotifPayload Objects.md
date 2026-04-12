@@ -13,7 +13,7 @@ Anim Data Model Notif Payload
 
 <a id="unreal.AnimDataModelNotifPayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -21,7 +21,7 @@ def __init__() -> None
 
 <a id="unreal.AnimDataModelNotifPayload.get_payload"></a>
 
-#### get_payload
+#### get\_payload
 
 ```python
 def get_payload() -> EmptyPayload
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.AnimDataModelNotifPayload.copy_payload"></a>
 
-#### copy_payload
+#### copy\_payload
 
 ```python
 def copy_payload(expected_struct: ScriptStruct,

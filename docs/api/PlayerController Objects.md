@@ -200,7 +200,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Framework/Controller/Play
 
 <a id="unreal.PlayerController.player_camera_manager"></a>
 
-#### player_camera_manager
+#### player\_camera\_manager
 
 ```python
 @property
@@ -211,7 +211,7 @@ def player_camera_manager() -> PlayerCameraManager
 
 <a id="unreal.PlayerController.player_camera"></a>
 
-#### player_camera
+#### player\_camera
 
 ```python
 @property
@@ -222,7 +222,7 @@ deprecated: 'player_camera' was renamed to 'player_camera_manager'.
 
 <a id="unreal.PlayerController.player_camera_manager_class"></a>
 
-#### player_camera_manager_class
+#### player\_camera\_manager\_class
 
 ```python
 @property
@@ -233,7 +233,7 @@ def player_camera_manager_class() -> Class
 
 <a id="unreal.PlayerController.player_camera_class"></a>
 
-#### player_camera_class
+#### player\_camera\_class
 
 ```python
 @property
@@ -244,7 +244,7 @@ deprecated: 'player_camera_class' was renamed to 'player_camera_manager_class'.
 
 <a id="unreal.PlayerController.smooth_target_view_rotation_speed"></a>
 
-#### smooth_target_view_rotation_speed
+#### smooth\_target\_view\_rotation\_speed
 
 ```python
 @property
@@ -255,7 +255,7 @@ def smooth_target_view_rotation_speed() -> float
 
 <a id="unreal.PlayerController.smooth_target_view_rotation_speed"></a>
 
-#### smooth_target_view_rotation_speed
+#### smooth\_target\_view\_rotation\_speed
 
 ```python
 @smooth_target_view_rotation_speed.setter
@@ -264,7 +264,7 @@ def smooth_target_view_rotation_speed(value: float) -> None
 
 <a id="unreal.PlayerController.cheat_manager"></a>
 
-#### cheat_manager
+#### cheat\_manager
 
 ```python
 @property
@@ -282,7 +282,7 @@ This behavior can be changed either by overriding APlayerController::EnableCheat
 
 <a id="unreal.PlayerController.cheat_class"></a>
 
-#### cheat_class
+#### cheat\_class
 
 ```python
 @property
@@ -294,7 +294,7 @@ see: CheatManager for more information about when it will be instantiated.
 
 <a id="unreal.PlayerController.player_is_waiting"></a>
 
-#### player_is_waiting
+#### player\_is\_waiting
 
 ```python
 @property
@@ -305,7 +305,7 @@ def player_is_waiting() -> bool
 
 <a id="unreal.PlayerController.input_yaw_scale"></a>
 
-#### input_yaw_scale
+#### input\_yaw\_scale
 
 ```python
 @property
@@ -317,7 +317,7 @@ deprecated: Use the Enhanced Input plugin Scalar Modifier instead. See UInputSet
 
 <a id="unreal.PlayerController.input_yaw_scale"></a>
 
-#### input_yaw_scale
+#### input\_yaw\_scale
 
 ```python
 @input_yaw_scale.setter
@@ -326,7 +326,7 @@ def input_yaw_scale(value: float) -> None
 
 <a id="unreal.PlayerController.look_right_scale"></a>
 
-#### look_right_scale
+#### look\_right\_scale
 
 ```python
 @property
@@ -337,7 +337,7 @@ deprecated: 'look_right_scale' was renamed to 'input_yaw_scale'.
 
 <a id="unreal.PlayerController.look_right_scale"></a>
 
-#### look_right_scale
+#### look\_right\_scale
 
 ```python
 @look_right_scale.setter
@@ -346,7 +346,7 @@ def look_right_scale(value: float) -> None
 
 <a id="unreal.PlayerController.input_pitch_scale"></a>
 
-#### input_pitch_scale
+#### input\_pitch\_scale
 
 ```python
 @property
@@ -358,7 +358,7 @@ deprecated: Use the Enhanced Input plugin Scalar Modifier instead. See UInputSet
 
 <a id="unreal.PlayerController.input_pitch_scale"></a>
 
-#### input_pitch_scale
+#### input\_pitch\_scale
 
 ```python
 @input_pitch_scale.setter
@@ -367,7 +367,7 @@ def input_pitch_scale(value: float) -> None
 
 <a id="unreal.PlayerController.look_up_scale"></a>
 
-#### look_up_scale
+#### look\_up\_scale
 
 ```python
 @property
@@ -378,7 +378,7 @@ deprecated: 'look_up_scale' was renamed to 'input_pitch_scale'.
 
 <a id="unreal.PlayerController.look_up_scale"></a>
 
-#### look_up_scale
+#### look\_up\_scale
 
 ```python
 @look_up_scale.setter
@@ -387,7 +387,7 @@ def look_up_scale(value: float) -> None
 
 <a id="unreal.PlayerController.input_roll_scale"></a>
 
-#### input_roll_scale
+#### input\_roll\_scale
 
 ```python
 @property
@@ -399,7 +399,7 @@ deprecated: Use the Enhanced Input plugin Scalar Modifier instead. See UInputSet
 
 <a id="unreal.PlayerController.input_roll_scale"></a>
 
-#### input_roll_scale
+#### input\_roll\_scale
 
 ```python
 @input_roll_scale.setter
@@ -408,7 +408,7 @@ def input_roll_scale(value: float) -> None
 
 <a id="unreal.PlayerController.show_mouse_cursor"></a>
 
-#### show_mouse_cursor
+#### show\_mouse\_cursor
 
 ```python
 @property
@@ -419,7 +419,7 @@ def show_mouse_cursor() -> bool
 
 <a id="unreal.PlayerController.show_mouse_cursor"></a>
 
-#### show_mouse_cursor
+#### show\_mouse\_cursor
 
 ```python
 @show_mouse_cursor.setter
@@ -428,7 +428,7 @@ def show_mouse_cursor(value: bool) -> None
 
 <a id="unreal.PlayerController.enable_click_events"></a>
 
-#### enable_click_events
+#### enable\_click\_events
 
 ```python
 @property
@@ -439,7 +439,7 @@ def enable_click_events() -> bool
 
 <a id="unreal.PlayerController.enable_click_events"></a>
 
-#### enable_click_events
+#### enable\_click\_events
 
 ```python
 @enable_click_events.setter
@@ -448,7 +448,7 @@ def enable_click_events(value: bool) -> None
 
 <a id="unreal.PlayerController.enable_touch_events"></a>
 
-#### enable_touch_events
+#### enable\_touch\_events
 
 ```python
 @property
@@ -459,7 +459,7 @@ def enable_touch_events() -> bool
 
 <a id="unreal.PlayerController.enable_touch_events"></a>
 
-#### enable_touch_events
+#### enable\_touch\_events
 
 ```python
 @enable_touch_events.setter
@@ -468,7 +468,7 @@ def enable_touch_events(value: bool) -> None
 
 <a id="unreal.PlayerController.enable_mouse_over_events"></a>
 
-#### enable_mouse_over_events
+#### enable\_mouse\_over\_events
 
 ```python
 @property
@@ -479,7 +479,7 @@ def enable_mouse_over_events() -> bool
 
 <a id="unreal.PlayerController.enable_mouse_over_events"></a>
 
-#### enable_mouse_over_events
+#### enable\_mouse\_over\_events
 
 ```python
 @enable_mouse_over_events.setter
@@ -488,7 +488,7 @@ def enable_mouse_over_events(value: bool) -> None
 
 <a id="unreal.PlayerController.enable_touch_over_events"></a>
 
-#### enable_touch_over_events
+#### enable\_touch\_over\_events
 
 ```python
 @property
@@ -499,7 +499,7 @@ def enable_touch_over_events() -> bool
 
 <a id="unreal.PlayerController.enable_touch_over_events"></a>
 
-#### enable_touch_over_events
+#### enable\_touch\_over\_events
 
 ```python
 @enable_touch_over_events.setter
@@ -508,7 +508,7 @@ def enable_touch_over_events(value: bool) -> None
 
 <a id="unreal.PlayerController.force_feedback_enabled"></a>
 
-#### force_feedback_enabled
+#### force\_feedback\_enabled
 
 ```python
 @property
@@ -519,7 +519,7 @@ def force_feedback_enabled() -> bool
 
 <a id="unreal.PlayerController.force_feedback_enabled"></a>
 
-#### force_feedback_enabled
+#### force\_feedback\_enabled
 
 ```python
 @force_feedback_enabled.setter
@@ -528,7 +528,7 @@ def force_feedback_enabled(value: bool) -> None
 
 <a id="unreal.PlayerController.enable_motion_controls"></a>
 
-#### enable_motion_controls
+#### enable\_motion\_controls
 
 ```python
 @property
@@ -539,7 +539,7 @@ def enable_motion_controls() -> bool
 
 <a id="unreal.PlayerController.enable_motion_controls"></a>
 
-#### enable_motion_controls
+#### enable\_motion\_controls
 
 ```python
 @enable_motion_controls.setter
@@ -548,7 +548,7 @@ def enable_motion_controls(value: bool) -> None
 
 <a id="unreal.PlayerController.enable_streaming_source"></a>
 
-#### enable_streaming_source
+#### enable\_streaming\_source
 
 ```python
 @property
@@ -559,7 +559,7 @@ def enable_streaming_source() -> bool
 
 <a id="unreal.PlayerController.enable_streaming_source"></a>
 
-#### enable_streaming_source
+#### enable\_streaming\_source
 
 ```python
 @enable_streaming_source.setter
@@ -568,7 +568,7 @@ def enable_streaming_source(value: bool) -> None
 
 <a id="unreal.PlayerController.streaming_source_should_activate"></a>
 
-#### streaming_source_should_activate
+#### streaming\_source\_should\_activate
 
 ```python
 @property
@@ -579,7 +579,7 @@ def streaming_source_should_activate() -> bool
 
 <a id="unreal.PlayerController.streaming_source_should_activate"></a>
 
-#### streaming_source_should_activate
+#### streaming\_source\_should\_activate
 
 ```python
 @streaming_source_should_activate.setter
@@ -588,7 +588,7 @@ def streaming_source_should_activate(value: bool) -> None
 
 <a id="unreal.PlayerController.streaming_source_should_block_on_slow_streaming"></a>
 
-#### streaming_source_should_block_on_slow_streaming
+#### streaming\_source\_should\_block\_on\_slow\_streaming
 
 ```python
 @property
@@ -599,7 +599,7 @@ def streaming_source_should_block_on_slow_streaming() -> bool
 
 <a id="unreal.PlayerController.streaming_source_should_block_on_slow_streaming"></a>
 
-#### streaming_source_should_block_on_slow_streaming
+#### streaming\_source\_should\_block\_on\_slow\_streaming
 
 ```python
 @streaming_source_should_block_on_slow_streaming.setter
@@ -608,7 +608,7 @@ def streaming_source_should_block_on_slow_streaming(value: bool) -> None
 
 <a id="unreal.PlayerController.streaming_source_priority"></a>
 
-#### streaming_source_priority
+#### streaming\_source\_priority
 
 ```python
 @property
@@ -619,7 +619,7 @@ def streaming_source_priority() -> StreamingSourcePriority
 
 <a id="unreal.PlayerController.streaming_source_priority"></a>
 
-#### streaming_source_priority
+#### streaming\_source\_priority
 
 ```python
 @streaming_source_priority.setter
@@ -628,7 +628,7 @@ def streaming_source_priority(value: StreamingSourcePriority) -> None
 
 <a id="unreal.PlayerController.streaming_source_debug_color"></a>
 
-#### streaming_source_debug_color
+#### streaming\_source\_debug\_color
 
 ```python
 @property
@@ -639,7 +639,7 @@ def streaming_source_debug_color() -> Color
 
 <a id="unreal.PlayerController.streaming_source_debug_color"></a>
 
-#### streaming_source_debug_color
+#### streaming\_source\_debug\_color
 
 ```python
 @streaming_source_debug_color.setter
@@ -648,7 +648,7 @@ def streaming_source_debug_color(value: Color) -> None
 
 <a id="unreal.PlayerController.streaming_source_shapes"></a>
 
-#### streaming_source_shapes
+#### streaming\_source\_shapes
 
 ```python
 @property
@@ -659,7 +659,7 @@ def streaming_source_shapes() -> Array[StreamingSourceShape]
 
 <a id="unreal.PlayerController.streaming_source_shapes"></a>
 
-#### streaming_source_shapes
+#### streaming\_source\_shapes
 
 ```python
 @streaming_source_shapes.setter
@@ -668,7 +668,7 @@ def streaming_source_shapes(value: Array[StreamingSourceShape]) -> None
 
 <a id="unreal.PlayerController.click_event_keys"></a>
 
-#### click_event_keys
+#### click\_event\_keys
 
 ```python
 @property
@@ -679,7 +679,7 @@ def click_event_keys() -> Array[Key]
 
 <a id="unreal.PlayerController.click_event_keys"></a>
 
-#### click_event_keys
+#### click\_event\_keys
 
 ```python
 @click_event_keys.setter
@@ -688,7 +688,7 @@ def click_event_keys(value: Array[Key]) -> None
 
 <a id="unreal.PlayerController.default_mouse_cursor"></a>
 
-#### default_mouse_cursor
+#### default\_mouse\_cursor
 
 ```python
 @property
@@ -699,7 +699,7 @@ def default_mouse_cursor() -> MouseCursor
 
 <a id="unreal.PlayerController.current_mouse_cursor"></a>
 
-#### current_mouse_cursor
+#### current\_mouse\_cursor
 
 ```python
 @property
@@ -710,7 +710,7 @@ def current_mouse_cursor() -> MouseCursor
 
 <a id="unreal.PlayerController.current_mouse_cursor"></a>
 
-#### current_mouse_cursor
+#### current\_mouse\_cursor
 
 ```python
 @current_mouse_cursor.setter
@@ -719,7 +719,7 @@ def current_mouse_cursor(value: MouseCursor) -> None
 
 <a id="unreal.PlayerController.default_click_trace_channel"></a>
 
-#### default_click_trace_channel
+#### default\_click\_trace\_channel
 
 ```python
 @property
@@ -730,7 +730,7 @@ def default_click_trace_channel() -> CollisionChannel
 
 <a id="unreal.PlayerController.current_click_trace_channel"></a>
 
-#### current_click_trace_channel
+#### current\_click\_trace\_channel
 
 ```python
 @property
@@ -741,7 +741,7 @@ def current_click_trace_channel() -> CollisionChannel
 
 <a id="unreal.PlayerController.current_click_trace_channel"></a>
 
-#### current_click_trace_channel
+#### current\_click\_trace\_channel
 
 ```python
 @current_click_trace_channel.setter
@@ -750,7 +750,7 @@ def current_click_trace_channel(value: CollisionChannel) -> None
 
 <a id="unreal.PlayerController.hit_result_trace_distance"></a>
 
-#### hit_result_trace_distance
+#### hit\_result\_trace\_distance
 
 ```python
 @property
@@ -761,7 +761,7 @@ def hit_result_trace_distance() -> float
 
 <a id="unreal.PlayerController.hit_result_trace_distance"></a>
 
-#### hit_result_trace_distance
+#### hit\_result\_trace\_distance
 
 ```python
 @hit_result_trace_distance.setter
@@ -770,7 +770,7 @@ def hit_result_trace_distance(value: float) -> None
 
 <a id="unreal.PlayerController.should_perform_full_tick_when_paused"></a>
 
-#### should_perform_full_tick_when_paused
+#### should\_perform\_full\_tick\_when\_paused
 
 ```python
 @property
@@ -781,7 +781,7 @@ def should_perform_full_tick_when_paused() -> bool
 
 <a id="unreal.PlayerController.should_perform_full_tick_when_paused"></a>
 
-#### should_perform_full_tick_when_paused
+#### should\_perform\_full\_tick\_when\_paused
 
 ```python
 @should_perform_full_tick_when_paused.setter
@@ -790,7 +790,7 @@ def should_perform_full_tick_when_paused(value: bool) -> None
 
 <a id="unreal.PlayerController.was_input_key_just_released"></a>
 
-#### was_input_key_just_released
+#### was\_input\_key\_just\_released
 
 ```python
 def was_input_key_just_released(key: Key) -> bool
@@ -807,7 +807,7 @@ Returns:
 
 <a id="unreal.PlayerController.was_input_key_just_pressed"></a>
 
-#### was_input_key_just_pressed
+#### was\_input\_key\_just\_pressed
 
 ```python
 def was_input_key_just_pressed(key: Key) -> bool
@@ -824,7 +824,7 @@ Returns:
 
 <a id="unreal.PlayerController.streaming_source_should_block_on_slow_streaming"></a>
 
-#### streaming_source_should_block_on_slow_streaming
+#### streaming\_source\_should\_block\_on\_slow\_streaming
 
 ```python
 def streaming_source_should_block_on_slow_streaming() -> bool
@@ -839,7 +839,7 @@ Returns:
 
 <a id="unreal.PlayerController.streaming_source_should_activate"></a>
 
-#### streaming_source_should_activate
+#### streaming\_source\_should\_activate
 
 ```python
 def streaming_source_should_activate() -> bool
@@ -854,7 +854,7 @@ Returns:
 
 <a id="unreal.PlayerController.stop_haptic_effect"></a>
 
-#### stop_haptic_effect
+#### stop\_haptic\_effect
 
 ```python
 def stop_haptic_effect(hand: ControllerHand) -> None
@@ -868,7 +868,7 @@ Args:
 
 <a id="unreal.PlayerController.set_virtual_joystick_visibility"></a>
 
-#### set_virtual_joystick_visibility
+#### set\_virtual\_joystick\_visibility
 
 ```python
 def set_virtual_joystick_visibility(visible: bool) -> None
@@ -882,7 +882,7 @@ Args:
 
 <a id="unreal.PlayerController.set_view_target_with_blend"></a>
 
-#### set_view_target_with_blend
+#### set\_view\_target\_with\_blend
 
 ```python
 def set_view_target_with_blend(
@@ -906,7 +906,7 @@ Args:
 
 <a id="unreal.PlayerController.set_mouse_location"></a>
 
-#### set_mouse_location
+#### set\_mouse\_location
 
 ```python
 def set_mouse_location(x: int, y: int) -> None
@@ -921,7 +921,7 @@ Args:
 
 <a id="unreal.PlayerController.set_mouse_cursor_widget"></a>
 
-#### set_mouse_cursor_widget
+#### set\_mouse\_cursor\_widget
 
 ```python
 def set_mouse_cursor_widget(cursor: MouseCursor,
@@ -937,7 +937,7 @@ Args:
 
 <a id="unreal.PlayerController.set_haptics_by_value"></a>
 
-#### set_haptics_by_value
+#### set\_haptics\_by\_value
 
 ```python
 def set_haptics_by_value(frequency: float, amplitude: float,
@@ -955,7 +955,7 @@ Args:
 
 <a id="unreal.PlayerController.set_disable_haptics"></a>
 
-#### set_disable_haptics
+#### set\_disable\_haptics
 
 ```python
 def set_disable_haptics(new_disabled: bool) -> None
@@ -969,7 +969,7 @@ Args:
 
 <a id="unreal.PlayerController.set_deprecated_input_yaw_scale"></a>
 
-#### set_deprecated_input_yaw_scale
+#### set\_deprecated\_input\_yaw\_scale
 
 ```python
 def set_deprecated_input_yaw_scale(new_value: float) -> None
@@ -983,7 +983,7 @@ Args:
 
 <a id="unreal.PlayerController.set_deprecated_input_roll_scale"></a>
 
-#### set_deprecated_input_roll_scale
+#### set\_deprecated\_input\_roll\_scale
 
 ```python
 def set_deprecated_input_roll_scale(new_value: float) -> None
@@ -997,7 +997,7 @@ Args:
 
 <a id="unreal.PlayerController.set_deprecated_input_pitch_scale"></a>
 
-#### set_deprecated_input_pitch_scale
+#### set\_deprecated\_input\_pitch\_scale
 
 ```python
 def set_deprecated_input_pitch_scale(new_value: float) -> None
@@ -1011,7 +1011,7 @@ Args:
 
 <a id="unreal.PlayerController.set_controller_light_color"></a>
 
-#### set_controller_light_color
+#### set\_controller\_light\_color
 
 ```python
 def set_controller_light_color(color: Color) -> None
@@ -1025,7 +1025,7 @@ Args:
 
 <a id="unreal.PlayerController.set_controller_dead_zones"></a>
 
-#### set_controller_dead_zones
+#### set\_controller\_dead\_zones
 
 ```python
 def set_controller_dead_zones(left_dead_zone: float,
@@ -1041,7 +1041,7 @@ Args:
 
 <a id="unreal.PlayerController.set_cinematic_mode"></a>
 
-#### set_cinematic_mode
+#### set\_cinematic\_mode
 
 ```python
 def set_cinematic_mode(cinematic_mode: bool,
@@ -1064,7 +1064,7 @@ Args:
 
 <a id="unreal.PlayerController.set_audio_listener_override"></a>
 
-#### set_audio_listener_override
+#### set\_audio\_listener\_override
 
 ```python
 def set_audio_listener_override(attach_to_component: SceneComponent,
@@ -1081,7 +1081,7 @@ Args:
 
 <a id="unreal.PlayerController.set_audio_listener_attenuation_override"></a>
 
-#### set_audio_listener_attenuation_override
+#### set\_audio\_listener\_attenuation\_override
 
 ```python
 def set_audio_listener_attenuation_override(
@@ -1098,7 +1098,7 @@ Args:
 
 <a id="unreal.PlayerController.reset_controller_light_color"></a>
 
-#### reset_controller_light_color
+#### reset\_controller\_light\_color
 
 ```python
 def reset_controller_light_color() -> None
@@ -1109,7 +1109,7 @@ Resets the light color of the player's controller to default
 
 <a id="unreal.PlayerController.reset_controller_dead_zones"></a>
 
-#### reset_controller_dead_zones
+#### reset\_controller\_dead\_zones
 
 ```python
 def reset_controller_dead_zones() -> None
@@ -1120,7 +1120,7 @@ Resets the player's controller deadzones to default
 
 <a id="unreal.PlayerController.project_world_location_to_screen"></a>
 
-#### project_world_location_to_screen
+#### project\_world\_location\_to\_screen
 
 ```python
 def project_world_location_to_screen(
@@ -1142,7 +1142,7 @@ Returns:
 
 <a id="unreal.PlayerController.play_haptic_effect"></a>
 
-#### play_haptic_effect
+#### play\_haptic\_effect
 
 ```python
 def play_haptic_effect(haptic_effect: HapticFeedbackEffect_Base,
@@ -1162,7 +1162,7 @@ Args:
 
 <a id="unreal.PlayerController.play_dynamic_force_feedback"></a>
 
-#### play_dynamic_force_feedback
+#### play\_dynamic\_force\_feedback
 
 ```python
 def play_dynamic_force_feedback(intensity: float,
@@ -1193,7 +1193,7 @@ Args:
 
 <a id="unreal.PlayerController.k2_client_play_force_feedback"></a>
 
-#### k2_client_play_force_feedback
+#### k2\_client\_play\_force\_feedback
 
 ```python
 def k2_client_play_force_feedback(force_feedback_effect: ForceFeedbackEffect,
@@ -1214,7 +1214,7 @@ Args:
 
 <a id="unreal.PlayerController.client_play_force_feedback"></a>
 
-#### client_play_force_feedback
+#### client\_play\_force\_feedback
 
 ```python
 def client_play_force_feedback(force_feedback_effect: ForceFeedbackEffect,
@@ -1227,7 +1227,7 @@ deprecated: 'client_play_force_feedback' was renamed to 'k2_client_play_force_fe
 
 <a id="unreal.PlayerController.is_streaming_source_enabled"></a>
 
-#### is_streaming_source_enabled
+#### is\_streaming\_source\_enabled
 
 ```python
 def is_streaming_source_enabled() -> bool
@@ -1242,7 +1242,7 @@ Returns:
 
 <a id="unreal.PlayerController.is_input_key_down"></a>
 
-#### is_input_key_down
+#### is\_input\_key\_down
 
 ```python
 def is_input_key_down(key: Key) -> bool
@@ -1259,7 +1259,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_viewport_size"></a>
 
-#### get_viewport_size
+#### get\_viewport\_size
 
 ```python
 def get_viewport_size() -> Tuple[int, int]
@@ -1277,7 +1277,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_streaming_source_shapes"></a>
 
-#### get_streaming_source_shapes
+#### get\_streaming\_source\_shapes
 
 ```python
 def get_streaming_source_shapes() -> Array[StreamingSourceShape]
@@ -1294,7 +1294,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_streaming_source_priority"></a>
 
-#### get_streaming_source_priority
+#### get\_streaming\_source\_priority
 
 ```python
 def get_streaming_source_priority() -> StreamingSourcePriority
@@ -1309,7 +1309,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_streaming_source_location_and_rotation"></a>
 
-#### get_streaming_source_location_and_rotation
+#### get\_streaming\_source\_location\_and\_rotation
 
 ```python
 def get_streaming_source_location_and_rotation() -> Tuple[Vector, Rotator]
@@ -1328,7 +1328,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_spectator_pawn"></a>
 
-#### get_spectator_pawn
+#### get\_spectator\_pawn
 
 ```python
 def get_spectator_pawn() -> SpectatorPawn
@@ -1342,7 +1342,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_platform_user_id"></a>
 
-#### get_platform_user_id
+#### get\_platform\_user\_id
 
 ```python
 def get_platform_user_id() -> PlatformUserId
@@ -1357,7 +1357,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_override_player_input_class"></a>
 
-#### get_override_player_input_class
+#### get\_override\_player\_input\_class
 
 ```python
 def get_override_player_input_class() -> Class
@@ -1371,7 +1371,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_mouse_position"></a>
 
-#### get_mouse_position
+#### get\_mouse\_position
 
 ```python
 def get_mouse_position() -> Optional[Tuple[float, float]]
@@ -1389,7 +1389,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_input_vector_key_state"></a>
 
-#### get_input_vector_key_state
+#### get\_input\_vector\_key\_state
 
 ```python
 def get_input_vector_key_state(key: Key) -> Vector
@@ -1406,7 +1406,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_input_touch_state"></a>
 
-#### get_input_touch_state
+#### get\_input\_touch\_state
 
 ```python
 def get_input_touch_state(
@@ -1430,7 +1430,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_input_mouse_delta"></a>
 
-#### get_input_mouse_delta
+#### get\_input\_mouse\_delta
 
 ```python
 def get_input_mouse_delta() -> Tuple[float, float]
@@ -1448,7 +1448,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_input_motion_state"></a>
 
-#### get_input_motion_state
+#### get\_input\_motion\_state
 
 ```python
 def get_input_motion_state() -> Tuple[Vector, Vector, Vector, Vector]
@@ -1470,7 +1470,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_input_key_time_down"></a>
 
-#### get_input_key_time_down
+#### get\_input\_key\_time\_down
 
 ```python
 def get_input_key_time_down(key: Key) -> float
@@ -1487,7 +1487,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_input_analog_stick_state"></a>
 
-#### get_input_analog_stick_state
+#### get\_input\_analog\_stick\_state
 
 ```python
 def get_input_analog_stick_state(
@@ -1509,7 +1509,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_input_analog_key_state"></a>
 
-#### get_input_analog_key_state
+#### get\_input\_analog\_key\_state
 
 ```python
 def get_input_analog_key_state(key: Key) -> float
@@ -1526,7 +1526,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_hud"></a>
 
-#### get_hud
+#### get\_hud
 
 ```python
 def get_hud() -> HUD
@@ -1540,7 +1540,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_hit_result_under_finger_for_objects"></a>
 
-#### get_hit_result_under_finger_for_objects
+#### get\_hit\_result\_under\_finger\_for\_objects
 
 ```python
 def get_hit_result_under_finger_for_objects(
@@ -1564,7 +1564,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_hit_result_under_finger_by_channel"></a>
 
-#### get_hit_result_under_finger_by_channel
+#### get\_hit\_result\_under\_finger\_by\_channel
 
 ```python
 def get_hit_result_under_finger_by_channel(
@@ -1588,7 +1588,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_hit_result_under_finger"></a>
 
-#### get_hit_result_under_finger
+#### get\_hit\_result\_under\_finger
 
 ```python
 def get_hit_result_under_finger(
@@ -1613,7 +1613,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_hit_result_under_cursor_for_objects"></a>
 
-#### get_hit_result_under_cursor_for_objects
+#### get\_hit\_result\_under\_cursor\_for\_objects
 
 ```python
 def get_hit_result_under_cursor_for_objects(
@@ -1635,7 +1635,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_hit_result_under_cursor_by_channel"></a>
 
-#### get_hit_result_under_cursor_by_channel
+#### get\_hit\_result\_under\_cursor\_by\_channel
 
 ```python
 def get_hit_result_under_cursor_by_channel(
@@ -1657,7 +1657,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_hit_result_under_cursor"></a>
 
-#### get_hit_result_under_cursor
+#### get\_hit\_result\_under\_cursor
 
 ```python
 def get_hit_result_under_cursor(
@@ -1680,7 +1680,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_focal_location"></a>
 
-#### get_focal_location
+#### get\_focal\_location
 
 ```python
 def get_focal_location() -> Vector
@@ -1697,7 +1697,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_deprecated_input_yaw_scale"></a>
 
-#### get_deprecated_input_yaw_scale
+#### get\_deprecated\_input\_yaw\_scale
 
 ```python
 def get_deprecated_input_yaw_scale() -> float
@@ -1711,7 +1711,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_deprecated_input_roll_scale"></a>
 
-#### get_deprecated_input_roll_scale
+#### get\_deprecated\_input\_roll\_scale
 
 ```python
 def get_deprecated_input_roll_scale() -> float
@@ -1725,7 +1725,7 @@ Returns:
 
 <a id="unreal.PlayerController.get_deprecated_input_pitch_scale"></a>
 
-#### get_deprecated_input_pitch_scale
+#### get\_deprecated\_input\_pitch\_scale
 
 ```python
 def get_deprecated_input_pitch_scale() -> float
@@ -1739,7 +1739,7 @@ Returns:
 
 <a id="unreal.PlayerController.deproject_screen_position_to_world"></a>
 
-#### deproject_screen_position_to_world
+#### deproject\_screen\_position\_to\_world
 
 ```python
 def deproject_screen_position_to_world(
@@ -1762,7 +1762,7 @@ Returns:
 
 <a id="unreal.PlayerController.deproject_mouse_position_to_world"></a>
 
-#### deproject_mouse_position_to_world
+#### deproject\_mouse\_position\_to\_world
 
 ```python
 def deproject_mouse_position_to_world() -> Optional[Tuple[Vector, Vector]]
@@ -1780,7 +1780,7 @@ Returns:
 
 <a id="unreal.PlayerController.client_stop_force_feedback"></a>
 
-#### client_stop_force_feedback
+#### client\_stop\_force\_feedback
 
 ```python
 def client_stop_force_feedback(force_feedback_effect: ForceFeedbackEffect,
@@ -1796,7 +1796,7 @@ Args:
 
 <a id="unreal.PlayerController.client_stop_camera_shakes_from_source"></a>
 
-#### client_stop_camera_shakes_from_source
+#### client\_stop\_camera\_shakes\_from\_source
 
 ```python
 def client_stop_camera_shakes_from_source(
@@ -1813,7 +1813,7 @@ Args:
 
 <a id="unreal.PlayerController.client_stop_camera_shake"></a>
 
-#### client_stop_camera_shake
+#### client\_stop\_camera\_shake
 
 ```python
 def client_stop_camera_shake(shake: Class, immediately: bool = True) -> None
@@ -1828,7 +1828,7 @@ Args:
 
 <a id="unreal.PlayerController.client_start_camera_shake_from_source"></a>
 
-#### client_start_camera_shake_from_source
+#### client\_start\_camera\_shake\_from\_source
 
 ```python
 def client_start_camera_shake_from_source(
@@ -1844,7 +1844,7 @@ Args:
 
 <a id="unreal.PlayerController.client_play_camera_shake_from_source"></a>
 
-#### client_play_camera_shake_from_source
+#### client\_play\_camera\_shake\_from\_source
 
 ```python
 def client_play_camera_shake_from_source(
@@ -1855,7 +1855,7 @@ deprecated: 'client_play_camera_shake_from_source' was renamed to 'client_start_
 
 <a id="unreal.PlayerController.client_start_camera_shake"></a>
 
-#### client_start_camera_shake
+#### client\_start\_camera\_shake
 
 ```python
 def client_start_camera_shake(
@@ -1876,7 +1876,7 @@ Args:
 
 <a id="unreal.PlayerController.client_play_camera_shake"></a>
 
-#### client_play_camera_shake
+#### client\_play\_camera\_shake
 
 ```python
 def client_play_camera_shake(
@@ -1890,7 +1890,7 @@ deprecated: 'client_play_camera_shake' was renamed to 'client_start_camera_shake
 
 <a id="unreal.PlayerController.client_spawn_generic_camera_lens_effect"></a>
 
-#### client_spawn_generic_camera_lens_effect
+#### client\_spawn\_generic\_camera\_lens\_effect
 
 ```python
 def client_spawn_generic_camera_lens_effect(
@@ -1905,7 +1905,7 @@ Args:
 
 <a id="unreal.PlayerController.client_set_hud"></a>
 
-#### client_set_hud
+#### client\_set\_hud
 
 ```python
 def client_set_hud(new_hud_class: Class) -> None
@@ -1919,7 +1919,7 @@ Args:
 
 <a id="unreal.PlayerController.client_clear_camera_lens_effects"></a>
 
-#### client_clear_camera_lens_effects
+#### client\_clear\_camera\_lens\_effects
 
 ```python
 def client_clear_camera_lens_effects() -> None
@@ -1930,7 +1930,7 @@ Removes all Camera Lens Effects.
 
 <a id="unreal.PlayerController.clear_audio_listener_override"></a>
 
-#### clear_audio_listener_override
+#### clear\_audio\_listener\_override
 
 ```python
 def clear_audio_listener_override() -> None
@@ -1941,7 +1941,7 @@ Clear any overrides that have been applied to audio listener
 
 <a id="unreal.PlayerController.clear_audio_listener_attenuation_override"></a>
 
-#### clear_audio_listener_attenuation_override
+#### clear\_audio\_listener\_attenuation\_override
 
 ```python
 def clear_audio_listener_attenuation_override() -> None
@@ -1952,7 +1952,7 @@ Clear Audio Listener Attenuation Override
 
 <a id="unreal.PlayerController.can_restart_player"></a>
 
-#### can_restart_player
+#### can\_restart\_player
 
 ```python
 def can_restart_player() -> bool
@@ -1966,7 +1966,7 @@ Returns:
 
 <a id="unreal.PlayerController.add_yaw_input"></a>
 
-#### add_yaw_input
+#### add\_yaw\_input
 
 ```python
 def add_yaw_input(val: float) -> None
@@ -1980,7 +1980,7 @@ Args:
 
 <a id="unreal.PlayerController.add_turn_input"></a>
 
-#### add_turn_input
+#### add\_turn\_input
 
 ```python
 def add_turn_input(val: float) -> None
@@ -1990,7 +1990,7 @@ deprecated: 'add_turn_input' was renamed to 'add_yaw_input'.
 
 <a id="unreal.PlayerController.add_roll_input"></a>
 
-#### add_roll_input
+#### add\_roll\_input
 
 ```python
 def add_roll_input(val: float) -> None
@@ -2004,7 +2004,7 @@ Args:
 
 <a id="unreal.PlayerController.add_pitch_input"></a>
 
-#### add_pitch_input
+#### add\_pitch\_input
 
 ```python
 def add_pitch_input(val: float) -> None
@@ -2018,7 +2018,7 @@ Args:
 
 <a id="unreal.PlayerController.add_look_up_input"></a>
 
-#### add_look_up_input
+#### add\_look\_up\_input
 
 ```python
 def add_look_up_input(val: float) -> None
@@ -2028,7 +2028,7 @@ deprecated: 'add_look_up_input' was renamed to 'add_pitch_input'.
 
 <a id="unreal.PlayerController.activate_touch_interface"></a>
 
-#### activate_touch_interface
+#### activate\_touch\_interface
 
 ```python
 def activate_touch_interface(new_touch_interface: TouchInterface) -> None

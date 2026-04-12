@@ -20,7 +20,7 @@ Anim Detail Proxy Vector 3
 
 <a id="unreal.AnimDetailProxyVector3.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: float = 0.000000,

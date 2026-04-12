@@ -13,7 +13,7 @@ Exposes a FSharedImage to blueprint in an unalterable way.
 
 <a id="unreal.SharedImageConstRefBlueprint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -32,7 +32,7 @@ An ACL database object references several UAnimSequence instances that it contai
 
 <a id="unreal.AnimationCompressionLibraryDatabase.set_visual_fidelity"></a>
 
-#### set_visual_fidelity
+#### set\_visual\_fidelity
 
 ```python
 @classmethod
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.AnimationCompressionLibraryDatabase.get_visual_fidelity"></a>
 
-#### get_visual_fidelity
+#### get\_visual\_fidelity
 
 ```python
 @classmethod
@@ -79,4 +79,4 @@ Args:
 Returns:
     ACLVisualFidelity:
 
-<a id="unreal.ComputeGraphComponent"></a>
+<a id="unreal.WebBrowser51Texture"></a>

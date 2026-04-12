@@ -13,7 +13,7 @@ Test Typed Element Interface A
 
 <a id="unreal.TestTypedElementInterfaceA.set_display_name"></a>
 
-#### set_display_name
+#### set\_display\_name
 
 ```python
 def set_display_name(element_handle: ScriptTypedElementHandle,
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.TestTypedElementInterfaceA.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 def get_display_name(element_handle: ScriptTypedElementHandle) -> Text

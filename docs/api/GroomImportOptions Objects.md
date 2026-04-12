@@ -19,7 +19,7 @@ Groom Import Options
 
 <a id="unreal.GroomImportOptions.conversion_settings"></a>
 
-#### conversion_settings
+#### conversion\_settings
 
 ```python
 @property
@@ -30,7 +30,7 @@ def conversion_settings() -> GroomConversionSettings
 
 <a id="unreal.GroomImportOptions.conversion_settings"></a>
 
-#### conversion_settings
+#### conversion\_settings
 
 ```python
 @conversion_settings.setter
@@ -39,7 +39,7 @@ def conversion_settings(value: GroomConversionSettings) -> None
 
 <a id="unreal.GroomImportOptions.interpolation_settings"></a>
 
-#### interpolation_settings
+#### interpolation\_settings
 
 ```python
 @property

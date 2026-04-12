@@ -18,7 +18,7 @@ Timecode Bone Method
 
 <a id="unreal.TimecodeBoneMethod.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bone_mode: TimecodeBoneMode = TimecodeBoneMode.ALL,
@@ -27,7 +27,7 @@ def __init__(bone_mode: TimecodeBoneMode = TimecodeBoneMode.ALL,
 
 <a id="unreal.TimecodeBoneMethod.bone_mode"></a>
 
-#### bone_mode
+#### bone\_mode
 
 ```python
 @property
@@ -38,7 +38,7 @@ def bone_mode() -> TimecodeBoneMode
 
 <a id="unreal.TimecodeBoneMethod.bone_mode"></a>
 
-#### bone_mode
+#### bone\_mode
 
 ```python
 @bone_mode.setter
@@ -47,7 +47,7 @@ def bone_mode(value: TimecodeBoneMode) -> None
 
 <a id="unreal.TimecodeBoneMethod.bone_name"></a>
 
-#### bone_name
+#### bone\_name
 
 ```python
 @property
@@ -58,7 +58,7 @@ def bone_name() -> Name
 
 <a id="unreal.TimecodeBoneMethod.bone_name"></a>
 
-#### bone_name
+#### bone\_name
 
 ```python
 @bone_name.setter

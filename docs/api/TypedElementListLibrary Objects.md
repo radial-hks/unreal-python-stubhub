@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.is_valid_index"></a>
 
-#### is_valid_index
+#### is\_valid\_index
 
 ```python
 @classmethod
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.has_elements_of_type"></a>
 
-#### has_elements_of_type
+#### has\_elements\_of\_type
 
 ```python
 @classmethod
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.has_elements"></a>
 
-#### has_elements
+#### has\_elements
 
 ```python
 @classmethod
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.get_element_interface"></a>
 
-#### get_element_interface
+#### get\_element\_interface
 
 ```python
 @classmethod
@@ -179,7 +179,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.get_element_handles"></a>
 
-#### get_element_handles
+#### get\_element\_handles
 
 ```python
 @classmethod
@@ -200,7 +200,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.get_element_handle_at"></a>
 
-#### get_element_handle_at
+#### get\_element\_handle\_at
 
 ```python
 @classmethod
@@ -237,7 +237,7 @@ Args:
 
 <a id="unreal.TypedElementListLibrary.create_element_list"></a>
 
-#### create_element_list
+#### create\_element\_list
 
 ```python
 @classmethod
@@ -256,7 +256,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.count_elements_of_type"></a>
 
-#### count_elements_of_type
+#### count\_elements\_of\_type
 
 ```python
 @classmethod
@@ -276,7 +276,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.count_elements"></a>
 
-#### count_elements
+#### count\_elements
 
 ```python
 @classmethod
@@ -336,7 +336,7 @@ Returns:
 
 <a id="unreal.TypedElementListLibrary.append_list"></a>
 
-#### append_list
+#### append\_list
 
 ```python
 @classmethod

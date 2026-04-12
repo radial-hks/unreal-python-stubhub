@@ -35,7 +35,7 @@ An enhanced action could be MoveForward, Jump, Fire, etc.
 
 <a id="unreal.EnhancedActionKeyMapping.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(triggers: Array[InputTrigger] = [],
@@ -46,7 +46,7 @@ def __init__(triggers: Array[InputTrigger] = [],
 
 <a id="unreal.EnhancedActionKeyMapping.player_mappable_options"></a>
 
-#### player_mappable_options
+#### player\_mappable\_options
 
 ```python
 @property
@@ -58,7 +58,7 @@ deprecated: PlayerMappableOptions has been deprecated, please use the PlayerMapp
 
 <a id="unreal.EnhancedActionKeyMapping.player_mappable_options"></a>
 
-#### player_mappable_options
+#### player\_mappable\_options
 
 ```python
 @player_mappable_options.setter
@@ -153,7 +153,7 @@ def key(value: Key) -> None
 
 <a id="unreal.EnhancedActionKeyMapping.is_player_mappable"></a>
 
-#### is_player_mappable
+#### is\_player\_mappable
 
 ```python
 @property
@@ -165,7 +165,7 @@ deprecated: bIsPlayerMappable has been deprecated, please use the SettingBehavio
 
 <a id="unreal.EnhancedActionKeyMapping.is_player_mappable"></a>
 
-#### is_player_mappable
+#### is\_player\_mappable
 
 ```python
 @is_player_mappable.setter

@@ -14,7 +14,7 @@ Spatial data structures
 
 <a id="unreal.GeometryScriptDynamicMeshBVH.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptDynamicMeshBVH.reset_bvh"></a>
 
-#### reset_bvh
+#### reset\_bvh
 
 ```python
 def reset_bvh() -> None

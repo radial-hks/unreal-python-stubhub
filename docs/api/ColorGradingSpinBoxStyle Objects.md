@@ -21,7 +21,7 @@ Represents the appearance of a color grading spin box
 
 <a id="unreal.ColorGradingSpinBoxStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(border_brush: SlateBrush = [
@@ -72,7 +72,7 @@ def __init__(border_brush: SlateBrush = [
 
 <a id="unreal.ColorGradingSpinBoxStyle.border_brush"></a>
 
-#### border_brush
+#### border\_brush
 
 ```python
 @property
@@ -83,7 +83,7 @@ def border_brush() -> SlateBrush
 
 <a id="unreal.ColorGradingSpinBoxStyle.border_brush"></a>
 
-#### border_brush
+#### border\_brush
 
 ```python
 @border_brush.setter
@@ -92,7 +92,7 @@ def border_brush(value: SlateBrush) -> None
 
 <a id="unreal.ColorGradingSpinBoxStyle.active_border_brush"></a>
 
-#### active_border_brush
+#### active\_border\_brush
 
 ```python
 @property
@@ -103,7 +103,7 @@ def active_border_brush() -> SlateBrush
 
 <a id="unreal.ColorGradingSpinBoxStyle.active_border_brush"></a>
 
-#### active_border_brush
+#### active\_border\_brush
 
 ```python
 @active_border_brush.setter
@@ -112,7 +112,7 @@ def active_border_brush(value: SlateBrush) -> None
 
 <a id="unreal.ColorGradingSpinBoxStyle.hovered_border_brush"></a>
 
-#### hovered_border_brush
+#### hovered\_border\_brush
 
 ```python
 @property
@@ -123,7 +123,7 @@ def hovered_border_brush() -> SlateBrush
 
 <a id="unreal.ColorGradingSpinBoxStyle.hovered_border_brush"></a>
 
-#### hovered_border_brush
+#### hovered\_border\_brush
 
 ```python
 @hovered_border_brush.setter
@@ -132,7 +132,7 @@ def hovered_border_brush(value: SlateBrush) -> None
 
 <a id="unreal.ColorGradingSpinBoxStyle.selector_brush"></a>
 
-#### selector_brush
+#### selector\_brush
 
 ```python
 @property
@@ -143,7 +143,7 @@ def selector_brush() -> SlateBrush
 
 <a id="unreal.ColorGradingSpinBoxStyle.selector_brush"></a>
 
-#### selector_brush
+#### selector\_brush
 
 ```python
 @selector_brush.setter
@@ -152,7 +152,7 @@ def selector_brush(value: SlateBrush) -> None
 
 <a id="unreal.ColorGradingSpinBoxStyle.selector_width"></a>
 
-#### selector_width
+#### selector\_width
 
 ```python
 @property
@@ -163,7 +163,7 @@ def selector_width() -> float
 
 <a id="unreal.ColorGradingSpinBoxStyle.selector_width"></a>
 
-#### selector_width
+#### selector\_width
 
 ```python
 @selector_width.setter

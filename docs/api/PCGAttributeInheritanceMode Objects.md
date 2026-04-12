@@ -20,7 +20,7 @@ Method for inheriting attribute data from input pins.
 
 <a id="unreal.PCGAttributeInheritanceMode.COPY_ATTRIBUTE_SETUP"></a>
 
-#### COPY_ATTRIBUTE_SETUP
+#### COPY\_ATTRIBUTE\_SETUP
 
 1: Take attribute names and types from initialization pins. Pins declared first will take priority during conflicts. Does not copy values.
 

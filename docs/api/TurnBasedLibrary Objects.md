@@ -14,7 +14,7 @@ Library of synchronous achievement calls
 
 <a id="unreal.TurnBasedLibrary.register_turn_based_match_interface_object"></a>
 
-#### register_turn_based_match_interface_object
+#### register\_turn\_based\_match\_interface\_object
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.TurnBasedLibrary.get_player_display_name"></a>
 
-#### get_player_display_name
+#### get\_player\_display\_name
 
 ```python
 @classmethod
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.TurnBasedLibrary.get_my_player_index"></a>
 
-#### get_my_player_index
+#### get\_my\_player\_index
 
 ```python
 @classmethod
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.TurnBasedLibrary.get_is_my_turn"></a>
 
-#### get_is_my_turn
+#### get\_is\_my\_turn
 
 ```python
 @classmethod

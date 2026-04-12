@@ -27,7 +27,7 @@ Information about each target in the PoseDriver
 
 <a id="unreal.PoseDriverTarget.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

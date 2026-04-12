@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto UMovieScenePrope
 
 <a id="unreal.MovieScenePropertyTrackExtensions.set_property_name_and_path"></a>
 
-#### set_property_name_and_path
+#### set\_property\_name\_and\_path
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.MovieScenePropertyTrackExtensions.set_object_property_class"></a>
 
-#### set_object_property_class
+#### set\_object\_property\_class
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Args:
 
 <a id="unreal.MovieScenePropertyTrackExtensions.set_byte_track_enum"></a>
 
-#### set_byte_track_enum
+#### set\_byte\_track\_enum
 
 ```python
 @classmethod
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.MovieScenePropertyTrackExtensions.get_unique_track_name"></a>
 
-#### get_unique_track_name
+#### get\_unique\_track\_name
 
 ```python
 @classmethod
@@ -84,7 +84,7 @@ Returns:
 
 <a id="unreal.MovieScenePropertyTrackExtensions.get_property_path"></a>
 
-#### get_property_path
+#### get\_property\_path
 
 ```python
 @classmethod
@@ -102,7 +102,7 @@ Returns:
 
 <a id="unreal.MovieScenePropertyTrackExtensions.get_property_name"></a>
 
-#### get_property_name
+#### get\_property\_name
 
 ```python
 @classmethod
@@ -120,7 +120,7 @@ Returns:
 
 <a id="unreal.MovieScenePropertyTrackExtensions.get_object_property_class"></a>
 
-#### get_object_property_class
+#### get\_object\_property\_class
 
 ```python
 @classmethod
@@ -139,7 +139,7 @@ Returns:
 
 <a id="unreal.MovieScenePropertyTrackExtensions.get_byte_track_enum"></a>
 
-#### get_byte_track_enum
+#### get\_byte\_track\_enum
 
 ```python
 @classmethod

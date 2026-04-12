@@ -22,7 +22,7 @@ Avoidance Manager
 
 <a id="unreal.AvoidanceManager.register_movement_component"></a>
 
-#### register_movement_component
+#### register\_movement\_component
 
 ```python
 def register_movement_component(movement_comp: MovementComponent,
@@ -41,7 +41,7 @@ Returns:
 
 <a id="unreal.AvoidanceManager.get_object_count"></a>
 
-#### get_object_count
+#### get\_object\_count
 
 ```python
 def get_object_count() -> int
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.AvoidanceManager.get_new_avoidance_uid"></a>
 
-#### get_new_avoidance_uid
+#### get\_new\_avoidance\_uid
 
 ```python
 def get_new_avoidance_uid() -> int
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.AvoidanceManager.get_avoidance_velocity_for_component"></a>
 
-#### get_avoidance_velocity_for_component
+#### get\_avoidance\_velocity\_for\_component
 
 ```python
 def get_avoidance_velocity_for_component(

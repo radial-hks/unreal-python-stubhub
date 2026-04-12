@@ -18,7 +18,7 @@ Curve Editor Bake Filter Range
 
 <a id="unreal.CurveEditorBakeFilterRange.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min: FrameNumber = [0], max: FrameNumber = [0]) -> None

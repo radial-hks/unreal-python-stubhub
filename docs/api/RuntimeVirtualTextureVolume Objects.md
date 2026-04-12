@@ -142,7 +142,7 @@ Actor used to place a URuntimeVirtualTexture in the world.
 
 <a id="unreal.RuntimeVirtualTextureVolume.virtual_texture_component"></a>
 
-#### virtual_texture_component
+#### virtual\_texture\_component
 
 ```python
 @property

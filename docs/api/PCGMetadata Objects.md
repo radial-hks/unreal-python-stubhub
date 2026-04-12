@@ -14,7 +14,7 @@ PCGMetadata
 
 <a id="unreal.PCGMetadata.set_point_attributes"></a>
 
-#### set_point_attributes
+#### set\_point\_attributes
 
 ```python
 def set_point_attributes(point: PCGPoint, metadata: PCGMetadata,
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.set_attributes_by_key"></a>
 
-#### set_attributes_by_key
+#### set\_attributes\_by\_key
 
 ```python
 def set_attributes_by_key(key: int, metadata: PCGMetadata,
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.reset_weighted_attributes_by_key"></a>
 
-#### reset_weighted_attributes_by_key
+#### reset\_weighted\_attributes\_by\_key
 
 ```python
 def reset_weighted_attributes_by_key(target_key: int) -> int
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.reset_point_weighted_attributes"></a>
 
-#### reset_point_weighted_attributes
+#### reset\_point\_weighted\_attributes
 
 ```python
 def reset_point_weighted_attributes() -> PCGPoint
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.rename_attribute"></a>
 
-#### rename_attribute
+#### rename\_attribute
 
 ```python
 def rename_attribute(attribute_to_rename: Name,
@@ -112,7 +112,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.merge_point_attributes"></a>
 
-#### merge_point_attributes
+#### merge\_point\_attributes
 
 ```python
 def merge_point_attributes(point_a: PCGPoint, metadata_a: PCGMetadata,
@@ -139,7 +139,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.merge_attributes_by_key"></a>
 
-#### merge_attributes_by_key
+#### merge\_attributes\_by\_key
 
 ```python
 def merge_attributes_by_key(key_a: int, metadata_a: PCGMetadata, key_b: int,
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.k2_initialize_as_copy_with_attribute_filter"></a>
 
-#### k2_initialize_as_copy_with_attribute_filter
+#### k2\_initialize\_as\_copy\_with\_attribute\_filter
 
 ```python
 def k2_initialize_as_copy_with_attribute_filter(
@@ -188,7 +188,7 @@ Args:
 
 <a id="unreal.PCGMetadata.initialize_as_copy_with_attribute_filter"></a>
 
-#### initialize_as_copy_with_attribute_filter
+#### initialize\_as\_copy\_with\_attribute\_filter
 
 ```python
 def initialize_as_copy_with_attribute_filter(
@@ -204,7 +204,7 @@ deprecated: 'initialize_as_copy_with_attribute_filter' was renamed to 'k2_initia
 
 <a id="unreal.PCGMetadata.k2_initialize_as_copy"></a>
 
-#### k2_initialize_as_copy
+#### k2\_initialize\_as\_copy
 
 ```python
 def k2_initialize_as_copy(metadata_to_copy: PCGMetadata,
@@ -220,7 +220,7 @@ Args:
 
 <a id="unreal.PCGMetadata.initialize_as_copy"></a>
 
-#### initialize_as_copy
+#### initialize\_as\_copy
 
 ```python
 def initialize_as_copy(metadata_to_copy: PCGMetadata,
@@ -231,7 +231,7 @@ deprecated: 'initialize_as_copy' was renamed to 'k2_initialize_as_copy'.
 
 <a id="unreal.PCGMetadata.initialize_with_attribute_filter"></a>
 
-#### initialize_with_attribute_filter
+#### initialize\_with\_attribute\_filter
 
 ```python
 def initialize_with_attribute_filter(
@@ -268,7 +268,7 @@ Args:
 
 <a id="unreal.PCGMetadata.has_common_attributes"></a>
 
-#### has_common_attributes
+#### has\_common\_attributes
 
 ```python
 def has_common_attributes(metadata: PCGMetadata) -> bool
@@ -285,7 +285,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.has_attribute"></a>
 
-#### has_attribute
+#### has\_attribute
 
 ```python
 def has_attribute(attribute_name: Name) -> bool
@@ -302,7 +302,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.get_item_count_for_child"></a>
 
-#### get_item_count_for_child
+#### get\_item\_count\_for\_child
 
 ```python
 def get_item_count_for_child() -> int
@@ -316,7 +316,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.get_attributes"></a>
 
-#### get_attributes
+#### get\_attributes
 
 ```python
 def get_attributes() -> Tuple[Array[Name], Array[PCGMetadataTypes]]
@@ -334,7 +334,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.get_attribute_count"></a>
 
-#### get_attribute_count
+#### get\_attribute\_count
 
 ```python
 def get_attribute_count() -> int
@@ -359,7 +359,7 @@ Unparents current metadata by flattening the attributes (values, entries, etc.) 
 
 <a id="unreal.PCGMetadata.delete_attribute"></a>
 
-#### delete_attribute
+#### delete\_attribute
 
 ```python
 def delete_attribute(attribute_name: Name) -> None
@@ -373,7 +373,7 @@ Args:
 
 <a id="unreal.PCGMetadata.create_vector_attribute"></a>
 
-#### create_vector_attribute
+#### create\_vector\_attribute
 
 ```python
 def create_vector_attribute(attribute_name: Name,
@@ -396,7 +396,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_vector4_attribute"></a>
 
-#### create_vector4_attribute
+#### create\_vector4\_attribute
 
 ```python
 def create_vector4_attribute(attribute_name: Name,
@@ -419,7 +419,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_vector2_attribute"></a>
 
-#### create_vector2_attribute
+#### create\_vector2\_attribute
 
 ```python
 def create_vector2_attribute(attribute_name: Name,
@@ -442,7 +442,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_transform_attribute"></a>
 
-#### create_transform_attribute
+#### create\_transform\_attribute
 
 ```python
 def create_transform_attribute(attribute_name: Name,
@@ -465,7 +465,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_string_attribute"></a>
 
-#### create_string_attribute
+#### create\_string\_attribute
 
 ```python
 def create_string_attribute(attribute_name: Name,
@@ -488,7 +488,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_soft_object_path_attribute"></a>
 
-#### create_soft_object_path_attribute
+#### create\_soft\_object\_path\_attribute
 
 ```python
 def create_soft_object_path_attribute(
@@ -512,7 +512,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_soft_class_path_attribute"></a>
 
-#### create_soft_class_path_attribute
+#### create\_soft\_class\_path\_attribute
 
 ```python
 def create_soft_class_path_attribute(
@@ -536,7 +536,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_rotator_attribute"></a>
 
-#### create_rotator_attribute
+#### create\_rotator\_attribute
 
 ```python
 def create_rotator_attribute(attribute_name: Name,
@@ -559,7 +559,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_quat_attribute"></a>
 
-#### create_quat_attribute
+#### create\_quat\_attribute
 
 ```python
 def create_quat_attribute(attribute_name: Name,
@@ -582,7 +582,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_name_attribute"></a>
 
-#### create_name_attribute
+#### create\_name\_attribute
 
 ```python
 def create_name_attribute(attribute_name: Name,
@@ -605,7 +605,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_integer64_attribute"></a>
 
-#### create_integer64_attribute
+#### create\_integer64\_attribute
 
 ```python
 def create_integer64_attribute(attribute_name: Name,
@@ -628,7 +628,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_integer32_attribute"></a>
 
-#### create_integer32_attribute
+#### create\_integer32\_attribute
 
 ```python
 def create_integer32_attribute(attribute_name: Name,
@@ -651,7 +651,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_float_attribute"></a>
 
-#### create_float_attribute
+#### create\_float\_attribute
 
 ```python
 def create_float_attribute(attribute_name: Name,
@@ -674,7 +674,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_double_attribute"></a>
 
-#### create_double_attribute
+#### create\_double\_attribute
 
 ```python
 def create_double_attribute(attribute_name: Name,
@@ -697,7 +697,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.create_bool_attribute"></a>
 
-#### create_bool_attribute
+#### create\_bool\_attribute
 
 ```python
 def create_bool_attribute(attribute_name: Name,
@@ -720,7 +720,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.copy_existing_attribute"></a>
 
-#### copy_existing_attribute
+#### copy\_existing\_attribute
 
 ```python
 def copy_existing_attribute(attribute_to_copy: Name,
@@ -741,7 +741,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.copy_attributes"></a>
 
-#### copy_attributes
+#### copy\_attributes
 
 ```python
 def copy_attributes(other: PCGMetadata) -> None
@@ -755,7 +755,7 @@ Args:
 
 <a id="unreal.PCGMetadata.copy_attribute"></a>
 
-#### copy_attribute
+#### copy\_attribute
 
 ```python
 def copy_attribute(other: PCGMetadata, attribute_to_copy: Name,
@@ -772,7 +772,7 @@ Args:
 
 <a id="unreal.PCGMetadata.clear_attribute"></a>
 
-#### clear_attribute
+#### clear\_attribute
 
 ```python
 def clear_attribute(attribute_to_clear: Name) -> None
@@ -786,7 +786,7 @@ Args:
 
 <a id="unreal.PCGMetadata.add_entry"></a>
 
-#### add_entry
+#### add\_entry
 
 ```python
 def add_entry(parent_entry_key: int = -1) -> int
@@ -803,7 +803,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.add_attributes_filtered"></a>
 
-#### add_attributes_filtered
+#### add\_attributes\_filtered
 
 ```python
 def add_attributes_filtered(
@@ -826,7 +826,7 @@ Args:
 
 <a id="unreal.PCGMetadata.add_attributes"></a>
 
-#### add_attributes
+#### add\_attributes
 
 ```python
 def add_attributes(other: PCGMetadata) -> None
@@ -840,7 +840,7 @@ Args:
 
 <a id="unreal.PCGMetadata.add_attribute"></a>
 
-#### add_attribute
+#### add\_attribute
 
 ```python
 def add_attribute(other: PCGMetadata, attribute_name: Name) -> None
@@ -855,7 +855,7 @@ Args:
 
 <a id="unreal.PCGMetadata.accumulate_weighted_attributes_by_key"></a>
 
-#### accumulate_weighted_attributes_by_key
+#### accumulate\_weighted\_attributes\_by\_key
 
 ```python
 def accumulate_weighted_attributes_by_key(
@@ -880,7 +880,7 @@ Returns:
 
 <a id="unreal.PCGMetadata.accumulate_point_weighted_attributes"></a>
 
-#### accumulate_point_weighted_attributes
+#### accumulate\_point\_weighted\_attributes
 
 ```python
 def accumulate_point_weighted_attributes(point: PCGPoint,

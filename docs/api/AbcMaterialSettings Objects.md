@@ -19,7 +19,7 @@ Abc Material Settings
 
 <a id="unreal.AbcMaterialSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(create_materials: bool = False,
@@ -28,7 +28,7 @@ def __init__(create_materials: bool = False,
 
 <a id="unreal.AbcMaterialSettings.create_materials"></a>
 
-#### create_materials
+#### create\_materials
 
 ```python
 @property
@@ -39,7 +39,7 @@ def create_materials() -> bool
 
 <a id="unreal.AbcMaterialSettings.create_materials"></a>
 
-#### create_materials
+#### create\_materials
 
 ```python
 @create_materials.setter
@@ -48,7 +48,7 @@ def create_materials(value: bool) -> None
 
 <a id="unreal.AbcMaterialSettings.find_materials"></a>
 
-#### find_materials
+#### find\_materials
 
 ```python
 @property
@@ -59,7 +59,7 @@ def find_materials() -> bool
 
 <a id="unreal.AbcMaterialSettings.find_materials"></a>
 
-#### find_materials
+#### find\_materials
 
 ```python
 @find_materials.setter

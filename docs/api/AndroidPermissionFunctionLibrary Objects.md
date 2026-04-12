@@ -14,7 +14,7 @@ Android Permission Function Library
 
 <a id="unreal.AndroidPermissionFunctionLibrary.check_permission"></a>
 
-#### check_permission
+#### check\_permission
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.AndroidPermissionFunctionLibrary.acquire_permissions"></a>
 
-#### acquire_permissions
+#### acquire\_permissions
 
 ```python
 @classmethod
@@ -49,4 +49,4 @@ Args:
 Returns:
     AndroidPermissionCallbackProxy:
 
-<a id="unreal.ArchVisCharacter"></a>
+<a id="unreal.AppleImageUtilsBaseAsyncTaskBlueprintProxy"></a>

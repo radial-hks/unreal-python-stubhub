@@ -41,7 +41,7 @@ A tile map is a 2D grid with a defined width and height (in tiles).  There can b
 
 <a id="unreal.PaperTileMap.map_width"></a>
 
-#### map_width
+#### map\_width
 
 ```python
 @property
@@ -52,7 +52,7 @@ def map_width() -> int
 
 <a id="unreal.PaperTileMap.map_height"></a>
 
-#### map_height
+#### map\_height
 
 ```python
 @property
@@ -63,7 +63,7 @@ def map_height() -> int
 
 <a id="unreal.PaperTileMap.tile_width"></a>
 
-#### tile_width
+#### tile\_width
 
 ```python
 @property
@@ -74,7 +74,7 @@ def tile_width() -> int
 
 <a id="unreal.PaperTileMap.tile_height"></a>
 
-#### tile_height
+#### tile\_height
 
 ```python
 @property
@@ -85,7 +85,7 @@ def tile_height() -> int
 
 <a id="unreal.PaperTileMap.separation_per_layer"></a>
 
-#### separation_per_layer
+#### separation\_per\_layer
 
 ```python
 @property
@@ -107,7 +107,7 @@ def material() -> MaterialInterface
 
 <a id="unreal.PaperTileMap.tile_layers"></a>
 
-#### tile_layers
+#### tile\_layers
 
 ```python
 @property
@@ -118,7 +118,7 @@ def tile_layers() -> Array[PaperTileLayer]
 
 <a id="unreal.PaperTileMap.collision_thickness"></a>
 
-#### collision_thickness
+#### collision\_thickness
 
 ```python
 @property
@@ -129,7 +129,7 @@ def collision_thickness() -> float
 
 <a id="unreal.PaperTileMap.sprite_collision_domain"></a>
 
-#### sprite_collision_domain
+#### sprite\_collision\_domain
 
 ```python
 @property
@@ -140,7 +140,7 @@ def sprite_collision_domain() -> SpriteCollisionMode
 
 <a id="unreal.PaperTileMap.projection_mode"></a>
 
-#### projection_mode
+#### projection\_mode
 
 ```python
 @property

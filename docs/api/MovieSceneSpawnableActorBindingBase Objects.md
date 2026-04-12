@@ -22,7 +22,7 @@ The below UMovieSceneSpawnableActorBinding class implements this base class and 
 
 <a id="unreal.MovieSceneSpawnableActorBindingBase.net_addressable_name"></a>
 
-#### net_addressable_name
+#### net\_addressable\_name
 
 ```python
 @property
@@ -33,7 +33,7 @@ def net_addressable_name() -> bool
 
 <a id="unreal.MovieSceneSpawnableActorBindingBase.net_addressable_name"></a>
 
-#### net_addressable_name
+#### net\_addressable\_name
 
 ```python
 @net_addressable_name.setter
@@ -42,7 +42,7 @@ def net_addressable_name(value: bool) -> None
 
 <a id="unreal.MovieSceneSpawnableActorBindingBase.level_name"></a>
 
-#### level_name
+#### level\_name
 
 ```python
 @property
@@ -53,7 +53,7 @@ def level_name() -> Name
 
 <a id="unreal.MovieSceneSpawnableActorBindingBase.level_name"></a>
 
-#### level_name
+#### level\_name
 
 ```python
 @level_name.setter

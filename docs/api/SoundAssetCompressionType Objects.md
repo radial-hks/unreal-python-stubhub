@@ -13,7 +13,7 @@ Sound Asset Compression Type
 
 <a id="unreal.SoundAssetCompressionType.BINK_AUDIO"></a>
 
-#### BINK_AUDIO
+#### BINK\_AUDIO
 
 0: Perceptual-based codec which supports all features across all platforms.
 
@@ -37,19 +37,19 @@ Sound Asset Compression Type
 
 <a id="unreal.SoundAssetCompressionType.PLATFORM_SPECIFIC"></a>
 
-#### PLATFORM_SPECIFIC
+#### PLATFORM\_SPECIFIC
 
 4: Encodes the asset to a platform specific format and will be different depending on the platform. It does not currently support seeking.
 
 <a id="unreal.SoundAssetCompressionType.PROJECT_DEFINED"></a>
 
-#### PROJECT_DEFINED
+#### PROJECT\_DEFINED
 
 5: The project defines the codec used for this asset.
 
 <a id="unreal.SoundAssetCompressionType.RAD_AUDIO"></a>
 
-#### RAD_AUDIO
+#### RAD\_AUDIO
 
 6: As BinkAudio, except better quality. Comparable CPU usage. Only valid sample rates are: 48000, 44100, 32000, and 24000.
 

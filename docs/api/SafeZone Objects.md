@@ -66,7 +66,7 @@ r.DebugSafeZone.Mode controls the debug visualization overlay (0..2, default 0).
 
 <a id="unreal.SafeZone.pad_left"></a>
 
-#### pad_left
+#### pad\_left
 
 ```python
 @property
@@ -77,7 +77,7 @@ def pad_left() -> bool
 
 <a id="unreal.SafeZone.pad_left"></a>
 
-#### pad_left
+#### pad\_left
 
 ```python
 @pad_left.setter
@@ -86,7 +86,7 @@ def pad_left(value: bool) -> None
 
 <a id="unreal.SafeZone.pad_right"></a>
 
-#### pad_right
+#### pad\_right
 
 ```python
 @property
@@ -97,7 +97,7 @@ def pad_right() -> bool
 
 <a id="unreal.SafeZone.pad_right"></a>
 
-#### pad_right
+#### pad\_right
 
 ```python
 @pad_right.setter
@@ -106,7 +106,7 @@ def pad_right(value: bool) -> None
 
 <a id="unreal.SafeZone.pad_top"></a>
 
-#### pad_top
+#### pad\_top
 
 ```python
 @property
@@ -117,7 +117,7 @@ def pad_top() -> bool
 
 <a id="unreal.SafeZone.pad_top"></a>
 
-#### pad_top
+#### pad\_top
 
 ```python
 @pad_top.setter
@@ -126,7 +126,7 @@ def pad_top(value: bool) -> None
 
 <a id="unreal.SafeZone.pad_bottom"></a>
 
-#### pad_bottom
+#### pad\_bottom
 
 ```python
 @property
@@ -137,7 +137,7 @@ def pad_bottom() -> bool
 
 <a id="unreal.SafeZone.pad_bottom"></a>
 
-#### pad_bottom
+#### pad\_bottom
 
 ```python
 @pad_bottom.setter
@@ -146,7 +146,7 @@ def pad_bottom(value: bool) -> None
 
 <a id="unreal.SafeZone.set_sides_to_pad"></a>
 
-#### set_sides_to_pad
+#### set\_sides\_to\_pad
 
 ```python
 def set_sides_to_pad(pad_left: bool, pad_right: bool, pad_top: bool,

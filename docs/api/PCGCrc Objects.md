@@ -19,7 +19,7 @@ Crc with valid flag and helper functionality.
 
 <a id="unreal.PCGCrc.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

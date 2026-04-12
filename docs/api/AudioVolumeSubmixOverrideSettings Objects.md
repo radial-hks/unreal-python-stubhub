@@ -19,7 +19,7 @@ Audio Volume Submix Override Settings
 
 <a id="unreal.AudioVolumeSubmixOverrideSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(submix: SoundSubmix = None,
@@ -49,7 +49,7 @@ def submix(value: SoundSubmix) -> None
 
 <a id="unreal.AudioVolumeSubmixOverrideSettings.submix_effect_chain"></a>
 
-#### submix_effect_chain
+#### submix\_effect\_chain
 
 ```python
 @property
@@ -60,7 +60,7 @@ def submix_effect_chain() -> Array[SoundEffectSubmixPreset]
 
 <a id="unreal.AudioVolumeSubmixOverrideSettings.crossfade_time"></a>
 
-#### crossfade_time
+#### crossfade\_time
 
 ```python
 @property

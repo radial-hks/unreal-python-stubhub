@@ -22,7 +22,7 @@ Geometry Script Ray Hit Result
 
 <a id="unreal.GeometryScriptRayHitResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(hit: bool = False,
@@ -54,7 +54,7 @@ def hit(value: bool) -> None
 
 <a id="unreal.GeometryScriptRayHitResult.ray_parameter"></a>
 
-#### ray_parameter
+#### ray\_parameter
 
 ```python
 @property
@@ -65,7 +65,7 @@ def ray_parameter() -> float
 
 <a id="unreal.GeometryScriptRayHitResult.ray_parameter"></a>
 
-#### ray_parameter
+#### ray\_parameter
 
 ```python
 @ray_parameter.setter
@@ -74,7 +74,7 @@ def ray_parameter(value: float) -> None
 
 <a id="unreal.GeometryScriptRayHitResult.hit_triangle_id"></a>
 
-#### hit_triangle_id
+#### hit\_triangle\_id
 
 ```python
 @property
@@ -85,7 +85,7 @@ def hit_triangle_id() -> int
 
 <a id="unreal.GeometryScriptRayHitResult.hit_triangle_id"></a>
 
-#### hit_triangle_id
+#### hit\_triangle\_id
 
 ```python
 @hit_triangle_id.setter
@@ -94,7 +94,7 @@ def hit_triangle_id(value: int) -> None
 
 <a id="unreal.GeometryScriptRayHitResult.hit_position"></a>
 
-#### hit_position
+#### hit\_position
 
 ```python
 @property
@@ -105,7 +105,7 @@ def hit_position() -> Vector
 
 <a id="unreal.GeometryScriptRayHitResult.hit_position"></a>
 
-#### hit_position
+#### hit\_position
 
 ```python
 @hit_position.setter
@@ -114,7 +114,7 @@ def hit_position(value: Vector) -> None
 
 <a id="unreal.GeometryScriptRayHitResult.hit_bary_coords"></a>
 
-#### hit_bary_coords
+#### hit\_bary\_coords
 
 ```python
 @property
@@ -125,7 +125,7 @@ def hit_bary_coords() -> Vector
 
 <a id="unreal.GeometryScriptRayHitResult.hit_bary_coords"></a>
 
-#### hit_bary_coords
+#### hit\_bary\_coords
 
 ```python
 @hit_bary_coords.setter

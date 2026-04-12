@@ -14,7 +14,7 @@ Represents the serialized version of variant literal types.
 
 <a id="unreal.MetasoundFrontendLiteral.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

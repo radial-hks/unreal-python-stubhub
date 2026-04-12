@@ -23,7 +23,7 @@ Represents the appearance of an SSynth2DSlider
 
 <a id="unreal.Synth2DSliderStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(normal_thumb_image: SlateBrush = [
@@ -85,7 +85,7 @@ def __init__(normal_thumb_image: SlateBrush = [
 
 <a id="unreal.Synth2DSliderStyle.normal_thumb_image"></a>
 
-#### normal_thumb_image
+#### normal\_thumb\_image
 
 ```python
 @property
@@ -96,7 +96,7 @@ def normal_thumb_image() -> SlateBrush
 
 <a id="unreal.Synth2DSliderStyle.normal_thumb_image"></a>
 
-#### normal_thumb_image
+#### normal\_thumb\_image
 
 ```python
 @normal_thumb_image.setter
@@ -105,7 +105,7 @@ def normal_thumb_image(value: SlateBrush) -> None
 
 <a id="unreal.Synth2DSliderStyle.disabled_thumb_image"></a>
 
-#### disabled_thumb_image
+#### disabled\_thumb\_image
 
 ```python
 @property
@@ -116,7 +116,7 @@ def disabled_thumb_image() -> SlateBrush
 
 <a id="unreal.Synth2DSliderStyle.disabled_thumb_image"></a>
 
-#### disabled_thumb_image
+#### disabled\_thumb\_image
 
 ```python
 @disabled_thumb_image.setter
@@ -125,7 +125,7 @@ def disabled_thumb_image(value: SlateBrush) -> None
 
 <a id="unreal.Synth2DSliderStyle.normal_bar_image"></a>
 
-#### normal_bar_image
+#### normal\_bar\_image
 
 ```python
 @property
@@ -136,7 +136,7 @@ def normal_bar_image() -> SlateBrush
 
 <a id="unreal.Synth2DSliderStyle.normal_bar_image"></a>
 
-#### normal_bar_image
+#### normal\_bar\_image
 
 ```python
 @normal_bar_image.setter
@@ -145,7 +145,7 @@ def normal_bar_image(value: SlateBrush) -> None
 
 <a id="unreal.Synth2DSliderStyle.disabled_bar_image"></a>
 
-#### disabled_bar_image
+#### disabled\_bar\_image
 
 ```python
 @property
@@ -156,7 +156,7 @@ def disabled_bar_image() -> SlateBrush
 
 <a id="unreal.Synth2DSliderStyle.disabled_bar_image"></a>
 
-#### disabled_bar_image
+#### disabled\_bar\_image
 
 ```python
 @disabled_bar_image.setter
@@ -165,7 +165,7 @@ def disabled_bar_image(value: SlateBrush) -> None
 
 <a id="unreal.Synth2DSliderStyle.background_image"></a>
 
-#### background_image
+#### background\_image
 
 ```python
 @property
@@ -176,7 +176,7 @@ def background_image() -> SlateBrush
 
 <a id="unreal.Synth2DSliderStyle.background_image"></a>
 
-#### background_image
+#### background\_image
 
 ```python
 @background_image.setter
@@ -185,7 +185,7 @@ def background_image(value: SlateBrush) -> None
 
 <a id="unreal.Synth2DSliderStyle.bar_thickness"></a>
 
-#### bar_thickness
+#### bar\_thickness
 
 ```python
 @property
@@ -196,7 +196,7 @@ def bar_thickness() -> float
 
 <a id="unreal.Synth2DSliderStyle.bar_thickness"></a>
 
-#### bar_thickness
+#### bar\_thickness
 
 ```python
 @bar_thickness.setter

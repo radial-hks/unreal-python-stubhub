@@ -14,7 +14,7 @@ Niagara Data Channel Handler
 
 <a id="unreal.NiagaraDataChannelHandler.get_data_channel_writer"></a>
 
-#### get_data_channel_writer
+#### get\_data\_channel\_writer
 
 ```python
 def get_data_channel_writer() -> NiagaraDataChannelWriter
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelHandler.get_data_channel_reader"></a>
 
-#### get_data_channel_reader
+#### get\_data\_channel\_reader
 
 ```python
 def get_data_channel_reader() -> NiagaraDataChannelReader

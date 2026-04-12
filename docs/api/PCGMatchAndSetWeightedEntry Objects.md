@@ -19,7 +19,7 @@ PCGMatch and Set Weighted Entry
 
 <a id="unreal.PCGMatchAndSetWeightedEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: PCGMetadataTypesConstantStruct = [

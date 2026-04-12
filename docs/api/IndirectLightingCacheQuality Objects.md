@@ -13,19 +13,19 @@ Quality of indirect lighting for Movable primitives. This has a large effect on 
 
 <a id="unreal.IndirectLightingCacheQuality.ILCQ_OFF"></a>
 
-#### ILCQ_OFF
+#### ILCQ\_OFF
 
 0: The indirect lighting cache will be disabled for this object, so no GI from stationary lights on movable objects.
 
 <a id="unreal.IndirectLightingCacheQuality.ILCQ_POINT"></a>
 
-#### ILCQ_POINT
+#### ILCQ\_POINT
 
 1: A single indirect lighting sample computed at the bounds origin will be interpolated which fades over time to newer results.
 
 <a id="unreal.IndirectLightingCacheQuality.ILCQ_VOLUME"></a>
 
-#### ILCQ_VOLUME
+#### ILCQ\_VOLUME
 
 2: The object will get a 5x5x5 stable volume of interpolated indirect lighting, which allows gradients of lighting intensity across the receiving object.
 

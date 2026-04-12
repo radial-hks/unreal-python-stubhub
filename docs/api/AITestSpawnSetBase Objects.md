@@ -21,7 +21,7 @@ Base struct defining an AI Test Spawn Set that are used in AFunctionalAITestBase
 
 <a id="unreal.AITestSpawnSetBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -71,7 +71,7 @@ def enabled(value: bool) -> None
 
 <a id="unreal.AITestSpawnSetBase.fallback_spawn_location"></a>
 
-#### fallback_spawn_location
+#### fallback\_spawn\_location
 
 ```python
 @property
@@ -82,7 +82,7 @@ def fallback_spawn_location() -> Actor
 
 <a id="unreal.AITestSpawnSetBase.fallback_spawn_location"></a>
 
-#### fallback_spawn_location
+#### fallback\_spawn\_location
 
 ```python
 @fallback_spawn_location.setter

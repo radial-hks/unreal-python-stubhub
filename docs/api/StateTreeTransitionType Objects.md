@@ -32,26 +32,26 @@ Transitions behavior.
 
 <a id="unreal.StateTreeTransitionType.GOTO_STATE"></a>
 
-#### GOTO_STATE
+#### GOTO\_STATE
 
 3: Transition to the specified state.
 
 <a id="unreal.StateTreeTransitionType.NEXT_STATE"></a>
 
-#### NEXT_STATE
+#### NEXT\_STATE
 
 4: Transition to the next sibling state.
 
 <a id="unreal.StateTreeTransitionType.NEXT_SELECTABLE_STATE"></a>
 
-#### NEXT_SELECTABLE_STATE
+#### NEXT\_SELECTABLE\_STATE
 
 5: Transition to the next selectable sibling state
 
 <a id="unreal.StateTreeTransitionType.NOT_SET"></a>
 
-#### NOT_SET
+#### NOT\_SET
 
 6
 
-<a id="unreal.AvaMarkDirection"></a>
+<a id="unreal.SplineCoordinateSpace"></a>

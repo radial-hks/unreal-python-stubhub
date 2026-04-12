@@ -27,7 +27,7 @@ Rig VMRuntime Settings
 
 <a id="unreal.RigVMRuntimeSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

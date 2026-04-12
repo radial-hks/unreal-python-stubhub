@@ -37,7 +37,7 @@ def settings(value: SubmixEffectSubmixEQSettings) -> None
 
 <a id="unreal.SubmixEffectSubmixEQPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectSubmixEQSettings) -> None

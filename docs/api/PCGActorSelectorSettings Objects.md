@@ -27,7 +27,7 @@ Helper struct for organizing queries against the world to gather actors.
 
 <a id="unreal.PCGActorSelectorSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(actor_filter: PCGActorFilter = PCGActorFilter.SELF,
@@ -44,7 +44,7 @@ def __init__(actor_filter: PCGActorFilter = PCGActorFilter.SELF,
 
 <a id="unreal.PCGActorSelectorSettings.actor_filter"></a>
 
-#### actor_filter
+#### actor\_filter
 
 ```python
 @property
@@ -55,7 +55,7 @@ def actor_filter() -> PCGActorFilter
 
 <a id="unreal.PCGActorSelectorSettings.actor_filter"></a>
 
-#### actor_filter
+#### actor\_filter
 
 ```python
 @actor_filter.setter
@@ -64,7 +64,7 @@ def actor_filter(value: PCGActorFilter) -> None
 
 <a id="unreal.PCGActorSelectorSettings.must_overlap_self"></a>
 
-#### must_overlap_self
+#### must\_overlap\_self
 
 ```python
 @property
@@ -75,7 +75,7 @@ def must_overlap_self() -> bool
 
 <a id="unreal.PCGActorSelectorSettings.must_overlap_self"></a>
 
-#### must_overlap_self
+#### must\_overlap\_self
 
 ```python
 @must_overlap_self.setter
@@ -84,7 +84,7 @@ def must_overlap_self(value: bool) -> None
 
 <a id="unreal.PCGActorSelectorSettings.include_children"></a>
 
-#### include_children
+#### include\_children
 
 ```python
 @property
@@ -95,7 +95,7 @@ def include_children() -> bool
 
 <a id="unreal.PCGActorSelectorSettings.include_children"></a>
 
-#### include_children
+#### include\_children
 
 ```python
 @include_children.setter
@@ -104,7 +104,7 @@ def include_children(value: bool) -> None
 
 <a id="unreal.PCGActorSelectorSettings.disable_filter"></a>
 
-#### disable_filter
+#### disable\_filter
 
 ```python
 @property
@@ -115,7 +115,7 @@ def disable_filter() -> bool
 
 <a id="unreal.PCGActorSelectorSettings.disable_filter"></a>
 
-#### disable_filter
+#### disable\_filter
 
 ```python
 @disable_filter.setter
@@ -124,7 +124,7 @@ def disable_filter(value: bool) -> None
 
 <a id="unreal.PCGActorSelectorSettings.actor_selection"></a>
 
-#### actor_selection
+#### actor\_selection
 
 ```python
 @property
@@ -135,7 +135,7 @@ def actor_selection() -> PCGActorSelection
 
 <a id="unreal.PCGActorSelectorSettings.actor_selection"></a>
 
-#### actor_selection
+#### actor\_selection
 
 ```python
 @actor_selection.setter
@@ -144,7 +144,7 @@ def actor_selection(value: PCGActorSelection) -> None
 
 <a id="unreal.PCGActorSelectorSettings.actor_selection_tag"></a>
 
-#### actor_selection_tag
+#### actor\_selection\_tag
 
 ```python
 @property
@@ -155,7 +155,7 @@ def actor_selection_tag() -> Name
 
 <a id="unreal.PCGActorSelectorSettings.actor_selection_tag"></a>
 
-#### actor_selection_tag
+#### actor\_selection\_tag
 
 ```python
 @actor_selection_tag.setter
@@ -164,7 +164,7 @@ def actor_selection_tag(value: Name) -> None
 
 <a id="unreal.PCGActorSelectorSettings.actor_selection_class"></a>
 
-#### actor_selection_class
+#### actor\_selection\_class
 
 ```python
 @property
@@ -175,7 +175,7 @@ def actor_selection_class() -> Class
 
 <a id="unreal.PCGActorSelectorSettings.actor_selection_class"></a>
 
-#### actor_selection_class
+#### actor\_selection\_class
 
 ```python
 @actor_selection_class.setter
@@ -184,7 +184,7 @@ def actor_selection_class(value: Class) -> None
 
 <a id="unreal.PCGActorSelectorSettings.actor_reference_selector"></a>
 
-#### actor_reference_selector
+#### actor\_reference\_selector
 
 ```python
 @property
@@ -195,7 +195,7 @@ def actor_reference_selector() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGActorSelectorSettings.actor_reference_selector"></a>
 
-#### actor_reference_selector
+#### actor\_reference\_selector
 
 ```python
 @actor_reference_selector.setter
@@ -204,7 +204,7 @@ def actor_reference_selector(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGActorSelectorSettings.select_multiple"></a>
 
-#### select_multiple
+#### select\_multiple
 
 ```python
 @property
@@ -215,7 +215,7 @@ def select_multiple() -> bool
 
 <a id="unreal.PCGActorSelectorSettings.select_multiple"></a>
 
-#### select_multiple
+#### select\_multiple
 
 ```python
 @select_multiple.setter
@@ -224,7 +224,7 @@ def select_multiple(value: bool) -> None
 
 <a id="unreal.PCGActorSelectorSettings.ignore_self_and_children"></a>
 
-#### ignore_self_and_children
+#### ignore\_self\_and\_children
 
 ```python
 @property
@@ -235,7 +235,7 @@ def ignore_self_and_children() -> bool
 
 <a id="unreal.PCGActorSelectorSettings.ignore_self_and_children"></a>
 
-#### ignore_self_and_children
+#### ignore\_self\_and\_children
 
 ```python
 @ignore_self_and_children.setter

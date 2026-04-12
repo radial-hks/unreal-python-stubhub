@@ -23,7 +23,7 @@ Data controlling the spawning of particles
 
 <a id="unreal.NiagaraSpawnInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(count: int = 0,
@@ -54,7 +54,7 @@ def count(value: int) -> None
 
 <a id="unreal.NiagaraSpawnInfo.interp_start_dt"></a>
 
-#### interp_start_dt
+#### interp\_start\_dt
 
 ```python
 @property
@@ -65,7 +65,7 @@ def interp_start_dt() -> float
 
 <a id="unreal.NiagaraSpawnInfo.interp_start_dt"></a>
 
-#### interp_start_dt
+#### interp\_start\_dt
 
 ```python
 @interp_start_dt.setter
@@ -74,7 +74,7 @@ def interp_start_dt(value: float) -> None
 
 <a id="unreal.NiagaraSpawnInfo.interval_dt"></a>
 
-#### interval_dt
+#### interval\_dt
 
 ```python
 @property
@@ -85,7 +85,7 @@ def interval_dt() -> float
 
 <a id="unreal.NiagaraSpawnInfo.interval_dt"></a>
 
-#### interval_dt
+#### interval\_dt
 
 ```python
 @interval_dt.setter
@@ -94,7 +94,7 @@ def interval_dt(value: float) -> None
 
 <a id="unreal.NiagaraSpawnInfo.spawn_group"></a>
 
-#### spawn_group
+#### spawn\_group
 
 ```python
 @property
@@ -107,7 +107,7 @@ An example usage is when using multiple spawn modules to spawn from multiple dis
 
 <a id="unreal.NiagaraSpawnInfo.spawn_group"></a>
 
-#### spawn_group
+#### spawn\_group
 
 ```python
 @spawn_group.setter

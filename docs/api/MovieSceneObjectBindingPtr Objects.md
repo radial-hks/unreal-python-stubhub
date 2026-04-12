@@ -8,7 +8,7 @@ deprecated: 'MovieSceneObjectBindingPtr' was renamed to 'MovieSceneObjectBinding
 
 <a id="unreal.MovieSceneObjectBindingPtr.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

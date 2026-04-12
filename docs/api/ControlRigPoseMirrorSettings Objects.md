@@ -21,7 +21,7 @@ Control Rig Pose Mirror Settings
 
 <a id="unreal.ControlRigPoseMirrorSettings.right_side"></a>
 
-#### right_side
+#### right\_side
 
 ```python
 @property
@@ -32,7 +32,7 @@ def right_side() -> str
 
 <a id="unreal.ControlRigPoseMirrorSettings.right_side"></a>
 
-#### right_side
+#### right\_side
 
 ```python
 @right_side.setter
@@ -41,7 +41,7 @@ def right_side(value: str) -> None
 
 <a id="unreal.ControlRigPoseMirrorSettings.left_side"></a>
 
-#### left_side
+#### left\_side
 
 ```python
 @property
@@ -52,7 +52,7 @@ def left_side() -> str
 
 <a id="unreal.ControlRigPoseMirrorSettings.left_side"></a>
 
-#### left_side
+#### left\_side
 
 ```python
 @left_side.setter
@@ -61,7 +61,7 @@ def left_side(value: str) -> None
 
 <a id="unreal.ControlRigPoseMirrorSettings.mirror_axis"></a>
 
-#### mirror_axis
+#### mirror\_axis
 
 ```python
 @property
@@ -72,7 +72,7 @@ def mirror_axis() -> AxisType
 
 <a id="unreal.ControlRigPoseMirrorSettings.mirror_axis"></a>
 
-#### mirror_axis
+#### mirror\_axis
 
 ```python
 @mirror_axis.setter
@@ -81,7 +81,7 @@ def mirror_axis(value: AxisType) -> None
 
 <a id="unreal.ControlRigPoseMirrorSettings.axis_to_flip"></a>
 
-#### axis_to_flip
+#### axis\_to\_flip
 
 ```python
 @property
@@ -92,7 +92,7 @@ def axis_to_flip() -> AxisType
 
 <a id="unreal.ControlRigPoseMirrorSettings.axis_to_flip"></a>
 
-#### axis_to_flip
+#### axis\_to\_flip
 
 ```python
 @axis_to_flip.setter

@@ -13,7 +13,7 @@ Vertex skin weight info supplied for a component override.
 
 <a id="unreal.SkelMeshSkinWeightInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bone0: int = 0,

@@ -18,7 +18,7 @@ Compute Framework Data Provider for reading general scene data.
 
 <a id="unreal.OptimusSceneDataProvider.scene_component"></a>
 
-#### scene_component
+#### scene\_component
 
 ```python
 @property
@@ -29,7 +29,7 @@ def scene_component() -> SceneComponent
 
 <a id="unreal.OptimusSceneDataProvider.scene_component"></a>
 
-#### scene_component
+#### scene\_component
 
 ```python
 @scene_component.setter

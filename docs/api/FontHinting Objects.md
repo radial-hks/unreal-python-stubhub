@@ -25,7 +25,7 @@ EFont Hinting
 
 <a id="unreal.FontHinting.AUTO_LIGHT"></a>
 
-#### AUTO_LIGHT
+#### AUTO\_LIGHT
 
 2: Force the use of an automatic light hinting algorithm, optimized for non-monochrome displays.
 

@@ -14,19 +14,19 @@ ESample Player Seek Type
 
 <a id="unreal.SamplePlayerSeekType.FROM_BEGINNING"></a>
 
-#### FROM_BEGINNING
+#### FROM\_BEGINNING
 
 0
 
 <a id="unreal.SamplePlayerSeekType.FROM_CURRENT_POSITION"></a>
 
-#### FROM_CURRENT_POSITION
+#### FROM\_CURRENT\_POSITION
 
 1
 
 <a id="unreal.SamplePlayerSeekType.FROM_END"></a>
 
-#### FROM_END
+#### FROM\_END
 
 2
 

@@ -23,7 +23,7 @@ Represents the appearance of an Audio Radial Slider
 
 <a id="unreal.AudioRadialSliderStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(text_box_style: AudioTextBoxStyle = [
@@ -52,7 +52,7 @@ def __init__(text_box_style: AudioTextBoxStyle = [
 
 <a id="unreal.AudioRadialSliderStyle.text_box_style"></a>
 
-#### text_box_style
+#### text\_box\_style
 
 ```python
 @property
@@ -63,7 +63,7 @@ def text_box_style() -> AudioTextBoxStyle
 
 <a id="unreal.AudioRadialSliderStyle.text_box_style"></a>
 
-#### text_box_style
+#### text\_box\_style
 
 ```python
 @text_box_style.setter
@@ -72,7 +72,7 @@ def text_box_style(value: AudioTextBoxStyle) -> None
 
 <a id="unreal.AudioRadialSliderStyle.center_background_color"></a>
 
-#### center_background_color
+#### center\_background\_color
 
 ```python
 @property
@@ -83,7 +83,7 @@ def center_background_color() -> SlateColor
 
 <a id="unreal.AudioRadialSliderStyle.center_background_color"></a>
 
-#### center_background_color
+#### center\_background\_color
 
 ```python
 @center_background_color.setter
@@ -92,7 +92,7 @@ def center_background_color(value: SlateColor) -> None
 
 <a id="unreal.AudioRadialSliderStyle.slider_bar_color"></a>
 
-#### slider_bar_color
+#### slider\_bar\_color
 
 ```python
 @property
@@ -103,7 +103,7 @@ def slider_bar_color() -> SlateColor
 
 <a id="unreal.AudioRadialSliderStyle.slider_bar_color"></a>
 
-#### slider_bar_color
+#### slider\_bar\_color
 
 ```python
 @slider_bar_color.setter
@@ -112,7 +112,7 @@ def slider_bar_color(value: SlateColor) -> None
 
 <a id="unreal.AudioRadialSliderStyle.slider_progress_color"></a>
 
-#### slider_progress_color
+#### slider\_progress\_color
 
 ```python
 @property
@@ -123,7 +123,7 @@ def slider_progress_color() -> SlateColor
 
 <a id="unreal.AudioRadialSliderStyle.slider_progress_color"></a>
 
-#### slider_progress_color
+#### slider\_progress\_color
 
 ```python
 @slider_progress_color.setter
@@ -132,7 +132,7 @@ def slider_progress_color(value: SlateColor) -> None
 
 <a id="unreal.AudioRadialSliderStyle.label_padding"></a>
 
-#### label_padding
+#### label\_padding
 
 ```python
 @property
@@ -143,7 +143,7 @@ def label_padding() -> float
 
 <a id="unreal.AudioRadialSliderStyle.label_padding"></a>
 
-#### label_padding
+#### label\_padding
 
 ```python
 @label_padding.setter
@@ -152,7 +152,7 @@ def label_padding(value: float) -> None
 
 <a id="unreal.AudioRadialSliderStyle.default_slider_radius"></a>
 
-#### default_slider_radius
+#### default\_slider\_radius
 
 ```python
 @property
@@ -163,7 +163,7 @@ def default_slider_radius() -> float
 
 <a id="unreal.AudioRadialSliderStyle.default_slider_radius"></a>
 
-#### default_slider_radius
+#### default\_slider\_radius
 
 ```python
 @default_slider_radius.setter

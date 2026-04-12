@@ -14,7 +14,7 @@ Handle to a StateTree state
 
 <a id="unreal.StateTreeStateHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

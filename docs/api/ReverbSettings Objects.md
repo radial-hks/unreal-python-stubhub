@@ -21,7 +21,7 @@ Struct encapsulating settings for reverb effects.
 
 <a id="unreal.ReverbSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(apply_reverb: bool = False,
@@ -33,7 +33,7 @@ def __init__(apply_reverb: bool = False,
 
 <a id="unreal.ReverbSettings.apply_reverb"></a>
 
-#### apply_reverb
+#### apply\_reverb
 
 ```python
 @property
@@ -44,7 +44,7 @@ def apply_reverb() -> bool
 
 <a id="unreal.ReverbSettings.apply_reverb"></a>
 
-#### apply_reverb
+#### apply\_reverb
 
 ```python
 @apply_reverb.setter
@@ -53,7 +53,7 @@ def apply_reverb(value: bool) -> None
 
 <a id="unreal.ReverbSettings.reverb_effect"></a>
 
-#### reverb_effect
+#### reverb\_effect
 
 ```python
 @property
@@ -64,7 +64,7 @@ def reverb_effect() -> ReverbEffect
 
 <a id="unreal.ReverbSettings.reverb_effect"></a>
 
-#### reverb_effect
+#### reverb\_effect
 
 ```python
 @reverb_effect.setter
@@ -73,7 +73,7 @@ def reverb_effect(value: ReverbEffect) -> None
 
 <a id="unreal.ReverbSettings.reverb_plugin_effect"></a>
 
-#### reverb_plugin_effect
+#### reverb\_plugin\_effect
 
 ```python
 @property
@@ -84,7 +84,7 @@ def reverb_plugin_effect() -> SoundEffectSubmixPreset
 
 <a id="unreal.ReverbSettings.reverb_plugin_effect"></a>
 
-#### reverb_plugin_effect
+#### reverb\_plugin\_effect
 
 ```python
 @reverb_plugin_effect.setter
@@ -113,7 +113,7 @@ def volume(value: float) -> None
 
 <a id="unreal.ReverbSettings.fade_time"></a>
 
-#### fade_time
+#### fade\_time
 
 ```python
 @property
@@ -124,7 +124,7 @@ def fade_time() -> float
 
 <a id="unreal.ReverbSettings.fade_time"></a>
 
-#### fade_time
+#### fade\_time
 
 ```python
 @fade_time.setter

@@ -23,7 +23,7 @@ namespace UE::MovieScene
 
 <a id="unreal.MovieSceneSectionParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -39,7 +39,7 @@ def __init__(
 
 <a id="unreal.MovieSceneSectionParameters.start_frame_offset"></a>
 
-#### start_frame_offset
+#### start\_frame\_offset
 
 ```python
 @property
@@ -50,7 +50,7 @@ def start_frame_offset() -> FrameNumber
 
 <a id="unreal.MovieSceneSectionParameters.start_frame_offset"></a>
 
-#### start_frame_offset
+#### start\_frame\_offset
 
 ```python
 @start_frame_offset.setter
@@ -59,7 +59,7 @@ def start_frame_offset(value: FrameNumber) -> None
 
 <a id="unreal.MovieSceneSectionParameters.can_loop"></a>
 
-#### can_loop
+#### can\_loop
 
 ```python
 @property
@@ -70,7 +70,7 @@ def can_loop() -> bool
 
 <a id="unreal.MovieSceneSectionParameters.can_loop"></a>
 
-#### can_loop
+#### can\_loop
 
 ```python
 @can_loop.setter
@@ -79,7 +79,7 @@ def can_loop(value: bool) -> None
 
 <a id="unreal.MovieSceneSectionParameters.end_frame_offset"></a>
 
-#### end_frame_offset
+#### end\_frame\_offset
 
 ```python
 @property
@@ -90,7 +90,7 @@ def end_frame_offset() -> FrameNumber
 
 <a id="unreal.MovieSceneSectionParameters.end_frame_offset"></a>
 
-#### end_frame_offset
+#### end\_frame\_offset
 
 ```python
 @end_frame_offset.setter
@@ -99,7 +99,7 @@ def end_frame_offset(value: FrameNumber) -> None
 
 <a id="unreal.MovieSceneSectionParameters.first_loop_start_frame_offset"></a>
 
-#### first_loop_start_frame_offset
+#### first\_loop\_start\_frame\_offset
 
 ```python
 @property
@@ -110,7 +110,7 @@ def first_loop_start_frame_offset() -> FrameNumber
 
 <a id="unreal.MovieSceneSectionParameters.first_loop_start_frame_offset"></a>
 
-#### first_loop_start_frame_offset
+#### first\_loop\_start\_frame\_offset
 
 ```python
 @first_loop_start_frame_offset.setter
@@ -119,7 +119,7 @@ def first_loop_start_frame_offset(value: FrameNumber) -> None
 
 <a id="unreal.MovieSceneSectionParameters.time_scale"></a>
 
-#### time_scale
+#### time\_scale
 
 ```python
 @property
@@ -130,7 +130,7 @@ def time_scale() -> MovieSceneTimeWarpVariant
 
 <a id="unreal.MovieSceneSectionParameters.time_scale"></a>
 
-#### time_scale
+#### time\_scale
 
 ```python
 @time_scale.setter
@@ -139,7 +139,7 @@ def time_scale(value: MovieSceneTimeWarpVariant) -> None
 
 <a id="unreal.MovieSceneSectionParameters.hierarchical_bias"></a>
 
-#### hierarchical_bias
+#### hierarchical\_bias
 
 ```python
 @property
@@ -150,7 +150,7 @@ def hierarchical_bias() -> int
 
 <a id="unreal.MovieSceneSectionParameters.hierarchical_bias"></a>
 
-#### hierarchical_bias
+#### hierarchical\_bias
 
 ```python
 @hierarchical_bias.setter

@@ -30,7 +30,7 @@ Anim Sharing Transition Instance
 
 <a id="unreal.AnimSharingTransitionInstance.from_component"></a>
 
-#### from_component
+#### from\_component
 
 ```python
 @property
@@ -41,7 +41,7 @@ def from_component() -> SkeletalMeshComponent
 
 <a id="unreal.AnimSharingTransitionInstance.to_component"></a>
 
-#### to_component
+#### to\_component
 
 ```python
 @property
@@ -52,7 +52,7 @@ def to_component() -> SkeletalMeshComponent
 
 <a id="unreal.AnimSharingTransitionInstance.blend_time"></a>
 
-#### blend_time
+#### blend\_time
 
 ```python
 @property
@@ -63,7 +63,7 @@ def blend_time() -> float
 
 <a id="unreal.AnimSharingTransitionInstance.blend_bool"></a>
 
-#### blend_bool
+#### blend\_bool
 
 ```python
 @property

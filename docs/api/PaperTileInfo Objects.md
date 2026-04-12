@@ -19,7 +19,7 @@ This is the contents of a tile map cell
 
 <a id="unreal.PaperTileInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tile_index: int = 0,

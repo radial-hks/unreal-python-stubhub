@@ -22,7 +22,7 @@ This is the source effect's setting struct.
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(spread_amount: float = 0.000000,
@@ -33,7 +33,7 @@ def __init__(spread_amount: float = 0.000000,
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.spread_amount"></a>
 
-#### spread_amount
+#### spread\_amount
 
 ```python
 @property
@@ -44,7 +44,7 @@ def spread_amount() -> float
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.spread_amount"></a>
 
-#### spread_amount
+#### spread\_amount
 
 ```python
 @spread_amount.setter
@@ -53,7 +53,7 @@ def spread_amount(value: float) -> None
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.input_mode"></a>
 
-#### input_mode
+#### input\_mode
 
 ```python
 @property
@@ -64,7 +64,7 @@ def input_mode() -> StereoChannelMode
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.input_mode"></a>
 
-#### input_mode
+#### input\_mode
 
 ```python
 @input_mode.setter
@@ -73,7 +73,7 @@ def input_mode(value: StereoChannelMode) -> None
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.output_mode"></a>
 
-#### output_mode
+#### output\_mode
 
 ```python
 @property
@@ -84,7 +84,7 @@ def output_mode() -> StereoChannelMode
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.output_mode"></a>
 
-#### output_mode
+#### output\_mode
 
 ```python
 @output_mode.setter
@@ -93,7 +93,7 @@ def output_mode(value: StereoChannelMode) -> None
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.equal_power"></a>
 
-#### equal_power
+#### equal\_power
 
 ```python
 @property
@@ -104,7 +104,7 @@ def equal_power() -> bool
 
 <a id="unreal.SourceEffectMidSideSpreaderSettings.equal_power"></a>
 
-#### equal_power
+#### equal\_power
 
 ```python
 @equal_power.setter

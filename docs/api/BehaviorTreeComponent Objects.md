@@ -30,7 +30,7 @@ Behavior Tree Component
 
 <a id="unreal.BehaviorTreeComponent.default_behavior_tree_asset"></a>
 
-#### default_behavior_tree_asset
+#### default\_behavior\_tree\_asset
 
 ```python
 @property
@@ -41,7 +41,7 @@ def default_behavior_tree_asset() -> BehaviorTree
 
 <a id="unreal.BehaviorTreeComponent.default_behavior_tree_asset"></a>
 
-#### default_behavior_tree_asset
+#### default\_behavior\_tree\_asset
 
 ```python
 @default_behavior_tree_asset.setter
@@ -50,7 +50,7 @@ def default_behavior_tree_asset(value: BehaviorTree) -> None
 
 <a id="unreal.BehaviorTreeComponent.set_dynamic_subtree"></a>
 
-#### set_dynamic_subtree
+#### set\_dynamic\_subtree
 
 ```python
 def set_dynamic_subtree(inject_tag: GameplayTag,
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.BehaviorTreeComponent.get_tag_cooldown_end_time"></a>
 
-#### get_tag_cooldown_end_time
+#### get\_tag\_cooldown\_end\_time
 
 ```python
 def get_tag_cooldown_end_time(cooldown_tag: GameplayTag) -> float
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.BehaviorTreeComponent.add_cooldown_tag_duration"></a>
 
-#### add_cooldown_tag_duration
+#### add\_cooldown\_tag\_duration
 
 ```python
 def add_cooldown_tag_duration(cooldown_tag: GameplayTag,

@@ -30,7 +30,7 @@ We use this mainly to help in mapping between stage timeCode and the FrameIndex 
 
 <a id="unreal.UsdSparseVolumeTextureAssetUserData.source_open_vdb_asset_prim_paths"></a>
 
-#### source_open_vdb_asset_prim_paths
+#### source\_open\_vdb\_asset\_prim\_paths
 
 ```python
 @property
@@ -41,7 +41,7 @@ def source_open_vdb_asset_prim_paths() -> Array[str]
 
 <a id="unreal.UsdSparseVolumeTextureAssetUserData.source_open_vdb_asset_prim_paths"></a>
 
-#### source_open_vdb_asset_prim_paths
+#### source\_open\_vdb\_asset\_prim\_paths
 
 ```python
 @source_open_vdb_asset_prim_paths.setter
@@ -50,7 +50,7 @@ def source_open_vdb_asset_prim_paths(value: Array[str]) -> None
 
 <a id="unreal.UsdSparseVolumeTextureAssetUserData.time_sample_path_time_codes"></a>
 
-#### time_sample_path_time_codes
+#### time\_sample\_path\_time\_codes
 
 ```python
 @property
@@ -61,7 +61,7 @@ def time_sample_path_time_codes() -> Array[float]
 
 <a id="unreal.UsdSparseVolumeTextureAssetUserData.time_sample_path_time_codes"></a>
 
-#### time_sample_path_time_codes
+#### time\_sample\_path\_time\_codes
 
 ```python
 @time_sample_path_time_codes.setter
@@ -70,7 +70,7 @@ def time_sample_path_time_codes(value: Array[float]) -> None
 
 <a id="unreal.UsdSparseVolumeTextureAssetUserData.time_sample_path_indices"></a>
 
-#### time_sample_path_indices
+#### time\_sample\_path\_indices
 
 ```python
 @property
@@ -83,7 +83,7 @@ of the SVT should be played, i.e. the .vdb file that is the third entry within T
 
 <a id="unreal.UsdSparseVolumeTextureAssetUserData.time_sample_path_indices"></a>
 
-#### time_sample_path_indices
+#### time\_sample\_path\_indices
 
 ```python
 @time_sample_path_indices.setter
@@ -92,7 +92,7 @@ def time_sample_path_indices(value: Array[int]) -> None
 
 <a id="unreal.UsdSparseVolumeTextureAssetUserData.time_sample_paths"></a>
 
-#### time_sample_paths
+#### time\_sample\_paths
 
 ```python
 @property
@@ -104,7 +104,7 @@ The SVT should have as many frames as there are entries in this array.
 
 <a id="unreal.UsdSparseVolumeTextureAssetUserData.time_sample_paths"></a>
 
-#### time_sample_paths
+#### time\_sample\_paths
 
 ```python
 @time_sample_paths.setter

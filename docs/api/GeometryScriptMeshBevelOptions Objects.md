@@ -28,7 +28,7 @@ Geometry Script Mesh Bevel Options
 
 <a id="unreal.GeometryScriptMeshBevelOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bevel_distance: float = 0.000000,
@@ -51,7 +51,7 @@ def __init__(bevel_distance: float = 0.000000,
 
 <a id="unreal.GeometryScriptMeshBevelOptions.bevel_distance"></a>
 
-#### bevel_distance
+#### bevel\_distance
 
 ```python
 @property
@@ -62,7 +62,7 @@ def bevel_distance() -> float
 
 <a id="unreal.GeometryScriptMeshBevelOptions.bevel_distance"></a>
 
-#### bevel_distance
+#### bevel\_distance
 
 ```python
 @bevel_distance.setter
@@ -71,7 +71,7 @@ def bevel_distance(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshBevelOptions.infer_material_id"></a>
 
-#### infer_material_id
+#### infer\_material\_id
 
 ```python
 @property
@@ -82,7 +82,7 @@ def infer_material_id() -> bool
 
 <a id="unreal.GeometryScriptMeshBevelOptions.infer_material_id"></a>
 
-#### infer_material_id
+#### infer\_material\_id
 
 ```python
 @infer_material_id.setter
@@ -91,7 +91,7 @@ def infer_material_id(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshBevelOptions.set_material_id"></a>
 
-#### set_material_id
+#### set\_material\_id
 
 ```python
 @property
@@ -102,7 +102,7 @@ def set_material_id() -> int
 
 <a id="unreal.GeometryScriptMeshBevelOptions.set_material_id"></a>
 
-#### set_material_id
+#### set\_material\_id
 
 ```python
 @set_material_id.setter
@@ -131,7 +131,7 @@ def subdivisions(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshBevelOptions.round_weight"></a>
 
-#### round_weight
+#### round\_weight
 
 ```python
 @property
@@ -142,7 +142,7 @@ def round_weight() -> float
 
 <a id="unreal.GeometryScriptMeshBevelOptions.round_weight"></a>
 
-#### round_weight
+#### round\_weight
 
 ```python
 @round_weight.setter
@@ -151,7 +151,7 @@ def round_weight(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshBevelOptions.apply_filter_box"></a>
 
-#### apply_filter_box
+#### apply\_filter\_box
 
 ```python
 @property
@@ -163,7 +163,7 @@ are fully or partially contained within the (transformed) FilterBox
 
 <a id="unreal.GeometryScriptMeshBevelOptions.apply_filter_box"></a>
 
-#### apply_filter_box
+#### apply\_filter\_box
 
 ```python
 @apply_filter_box.setter
@@ -172,7 +172,7 @@ def apply_filter_box(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshBevelOptions.filter_box"></a>
 
-#### filter_box
+#### filter\_box
 
 ```python
 @property
@@ -183,7 +183,7 @@ def filter_box() -> Box
 
 <a id="unreal.GeometryScriptMeshBevelOptions.filter_box"></a>
 
-#### filter_box
+#### filter\_box
 
 ```python
 @filter_box.setter
@@ -192,7 +192,7 @@ def filter_box(value: Box) -> None
 
 <a id="unreal.GeometryScriptMeshBevelOptions.filter_box_transform"></a>
 
-#### filter_box_transform
+#### filter\_box\_transform
 
 ```python
 @property
@@ -203,7 +203,7 @@ def filter_box_transform() -> Transform
 
 <a id="unreal.GeometryScriptMeshBevelOptions.filter_box_transform"></a>
 
-#### filter_box_transform
+#### filter\_box\_transform
 
 ```python
 @filter_box_transform.setter
@@ -212,7 +212,7 @@ def filter_box_transform(value: Transform) -> None
 
 <a id="unreal.GeometryScriptMeshBevelOptions.fully_contained"></a>
 
-#### fully_contained
+#### fully\_contained
 
 ```python
 @property
@@ -224,7 +224,7 @@ otherwise the edge will be beveled if any vertex is within the filter box.
 
 <a id="unreal.GeometryScriptMeshBevelOptions.fully_contained"></a>
 
-#### fully_contained
+#### fully\_contained
 
 ```python
 @fully_contained.setter

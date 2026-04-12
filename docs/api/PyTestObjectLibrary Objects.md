@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto the test object 
 
 <a id="unreal.PyTestObjectLibrary.is_bool_set"></a>
 
-#### is_bool_set
+#### is\_bool\_set
 
 ```python
 @classmethod

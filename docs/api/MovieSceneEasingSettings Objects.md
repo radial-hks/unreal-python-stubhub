@@ -13,7 +13,7 @@ Movie Scene Easing Settings
 
 <a id="unreal.MovieSceneEasingSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

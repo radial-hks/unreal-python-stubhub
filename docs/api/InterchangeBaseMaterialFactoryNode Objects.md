@@ -14,7 +14,7 @@ Interchange Base Material Factory Node
 
 <a id="unreal.InterchangeBaseMaterialFactoryNode.set_custom_is_material_import_enabled"></a>
 
-#### set_custom_is_material_import_enabled
+#### set\_custom\_is\_material\_import\_enabled
 
 ```python
 def set_custom_is_material_import_enabled(attribute_value: bool) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseMaterialFactoryNode.get_custom_is_material_import_enabled"></a>
 
-#### get_custom_is_material_import_enabled
+#### get\_custom\_is\_material\_import\_enabled
 
 ```python
 def get_custom_is_material_import_enabled() -> Optional[bool]

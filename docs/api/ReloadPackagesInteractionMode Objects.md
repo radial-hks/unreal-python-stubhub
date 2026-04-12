@@ -19,13 +19,13 @@ EReload Packages Interaction Mode
 
 <a id="unreal.ReloadPackagesInteractionMode.ASSUME_POSITIVE"></a>
 
-#### ASSUME_POSITIVE
+#### ASSUME\_POSITIVE
 
 1: Non-interactive, assume a positive response
 
 <a id="unreal.ReloadPackagesInteractionMode.ASSUME_NEGATIVE"></a>
 
-#### ASSUME_NEGATIVE
+#### ASSUME\_NEGATIVE
 
 2: Non-interactive, assume a negative response
 

@@ -31,7 +31,7 @@ UInputTriggerTap
 
 <a id="unreal.InputTriggerTap.tap_release_time_threshold"></a>
 
-#### tap_release_time_threshold
+#### tap\_release\_time\_threshold
 
 ```python
 @property
@@ -42,7 +42,7 @@ def tap_release_time_threshold() -> float
 
 <a id="unreal.InputTriggerTap.tap_release_time_threshold"></a>
 
-#### tap_release_time_threshold
+#### tap\_release\_time\_threshold
 
 ```python
 @tap_release_time_threshold.setter

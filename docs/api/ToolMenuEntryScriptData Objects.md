@@ -25,7 +25,7 @@ Tool Menu Entry Script Data
 
 <a id="unreal.ToolMenuEntryScriptData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -126,7 +126,7 @@ def label(value: Text) -> None
 
 <a id="unreal.ToolMenuEntryScriptData.tool_tip"></a>
 
-#### tool_tip
+#### tool\_tip
 
 ```python
 @property
@@ -137,7 +137,7 @@ def tool_tip() -> Text
 
 <a id="unreal.ToolMenuEntryScriptData.tool_tip"></a>
 
-#### tool_tip
+#### tool\_tip
 
 ```python
 @tool_tip.setter
@@ -166,7 +166,7 @@ def icon(value: ScriptSlateIcon) -> None
 
 <a id="unreal.ToolMenuEntryScriptData.owner_name"></a>
 
-#### owner_name
+#### owner\_name
 
 ```python
 @property
@@ -177,7 +177,7 @@ def owner_name() -> Name
 
 <a id="unreal.ToolMenuEntryScriptData.owner_name"></a>
 
-#### owner_name
+#### owner\_name
 
 ```python
 @owner_name.setter
@@ -186,7 +186,7 @@ def owner_name(value: Name) -> None
 
 <a id="unreal.ToolMenuEntryScriptData.insert_position"></a>
 
-#### insert_position
+#### insert\_position
 
 ```python
 @property
@@ -197,7 +197,7 @@ def insert_position() -> ToolMenuInsert
 
 <a id="unreal.ToolMenuEntryScriptData.insert_position"></a>
 
-#### insert_position
+#### insert\_position
 
 ```python
 @insert_position.setter

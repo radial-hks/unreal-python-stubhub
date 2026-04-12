@@ -14,19 +14,19 @@ EDatasmith CADStitching Technique
 
 <a id="unreal.DatasmithCADStitchingTechnique.STITCHING_NONE"></a>
 
-#### STITCHING_NONE
+#### STITCHING\_NONE
 
 0
 
 <a id="unreal.DatasmithCADStitchingTechnique.STITCHING_HEAL"></a>
 
-#### STITCHING_HEAL
+#### STITCHING\_HEAL
 
 1
 
 <a id="unreal.DatasmithCADStitchingTechnique.STITCHING_SEW"></a>
 
-#### STITCHING_SEW
+#### STITCHING\_SEW
 
 2
 

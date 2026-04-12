@@ -14,19 +14,19 @@ EDatasmith Import Scene
 
 <a id="unreal.DatasmithImportScene.NEW_LEVEL"></a>
 
-#### NEW_LEVEL
+#### NEW\_LEVEL
 
 0: Create a new Level and spawn the actors after the import.
 
 <a id="unreal.DatasmithImportScene.CURRENT_LEVEL"></a>
 
-#### CURRENT_LEVEL
+#### CURRENT\_LEVEL
 
 1: Use the current Level to spawn the actors after the import.
 
 <a id="unreal.DatasmithImportScene.ASSETS_ONLY"></a>
 
-#### ASSETS_ONLY
+#### ASSETS\_ONLY
 
 2: Do not modify the Level after import. No actor will be created (including the Blueprint if requested by the ImportHierarchy
 

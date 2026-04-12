@@ -13,7 +13,7 @@ Tool Menu Section Dynamic
 
 <a id="unreal.ToolMenuSectionDynamic.construct_sections"></a>
 
-#### construct_sections
+#### construct\_sections
 
 ```python
 def construct_sections(menu: ToolMenu, context: ToolMenuContext) -> None

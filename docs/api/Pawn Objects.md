@@ -165,7 +165,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Framework/Pawn/
 
 <a id="unreal.Pawn.use_controller_rotation_pitch"></a>
 
-#### use_controller_rotation_pitch
+#### use\_controller\_rotation\_pitch
 
 ```python
 @property
@@ -176,7 +176,7 @@ def use_controller_rotation_pitch() -> bool
 
 <a id="unreal.Pawn.use_controller_rotation_pitch"></a>
 
-#### use_controller_rotation_pitch
+#### use\_controller\_rotation\_pitch
 
 ```python
 @use_controller_rotation_pitch.setter
@@ -185,7 +185,7 @@ def use_controller_rotation_pitch(value: bool) -> None
 
 <a id="unreal.Pawn.use_controller_rotation_yaw"></a>
 
-#### use_controller_rotation_yaw
+#### use\_controller\_rotation\_yaw
 
 ```python
 @property
@@ -196,7 +196,7 @@ def use_controller_rotation_yaw() -> bool
 
 <a id="unreal.Pawn.use_controller_rotation_yaw"></a>
 
-#### use_controller_rotation_yaw
+#### use\_controller\_rotation\_yaw
 
 ```python
 @use_controller_rotation_yaw.setter
@@ -205,7 +205,7 @@ def use_controller_rotation_yaw(value: bool) -> None
 
 <a id="unreal.Pawn.use_controller_rotation_roll"></a>
 
-#### use_controller_rotation_roll
+#### use\_controller\_rotation\_roll
 
 ```python
 @property
@@ -216,7 +216,7 @@ def use_controller_rotation_roll() -> bool
 
 <a id="unreal.Pawn.use_controller_rotation_roll"></a>
 
-#### use_controller_rotation_roll
+#### use\_controller\_rotation\_roll
 
 ```python
 @use_controller_rotation_roll.setter
@@ -225,7 +225,7 @@ def use_controller_rotation_roll(value: bool) -> None
 
 <a id="unreal.Pawn.can_affect_navigation_generation"></a>
 
-#### can_affect_navigation_generation
+#### can\_affect\_navigation\_generation
 
 ```python
 @property
@@ -242,7 +242,7 @@ see: SetCanAffectNavigationGeneration(), UpdateNavigationRelevance()
 
 <a id="unreal.Pawn.base_eye_height"></a>
 
-#### base_eye_height
+#### base\_eye\_height
 
 ```python
 @property
@@ -253,7 +253,7 @@ def base_eye_height() -> float
 
 <a id="unreal.Pawn.base_eye_height"></a>
 
-#### base_eye_height
+#### base\_eye\_height
 
 ```python
 @base_eye_height.setter
@@ -262,7 +262,7 @@ def base_eye_height(value: float) -> None
 
 <a id="unreal.Pawn.ai_controller_class"></a>
 
-#### ai_controller_class
+#### ai\_controller\_class
 
 ```python
 @property
@@ -273,7 +273,7 @@ def ai_controller_class() -> Class
 
 <a id="unreal.Pawn.ai_controller_class"></a>
 
-#### ai_controller_class
+#### ai\_controller\_class
 
 ```python
 @ai_controller_class.setter
@@ -282,7 +282,7 @@ def ai_controller_class(value: Class) -> None
 
 <a id="unreal.Pawn.controller_class"></a>
 
-#### controller_class
+#### controller\_class
 
 ```python
 @property
@@ -293,7 +293,7 @@ deprecated: 'controller_class' was renamed to 'ai_controller_class'.
 
 <a id="unreal.Pawn.controller_class"></a>
 
-#### controller_class
+#### controller\_class
 
 ```python
 @controller_class.setter
@@ -302,7 +302,7 @@ def controller_class(value: Class) -> None
 
 <a id="unreal.Pawn.player_state"></a>
 
-#### player_state
+#### player\_state
 
 ```python
 @property
@@ -313,7 +313,7 @@ def player_state() -> PlayerState
 
 <a id="unreal.Pawn.player_replication_info"></a>
 
-#### player_replication_info
+#### player\_replication\_info
 
 ```python
 @property
@@ -324,7 +324,7 @@ deprecated: 'player_replication_info' was renamed to 'player_state'.
 
 <a id="unreal.Pawn.last_hit_by"></a>
 
-#### last_hit_by
+#### last\_hit\_by
 
 ```python
 @property
@@ -335,7 +335,7 @@ def last_hit_by() -> Controller
 
 <a id="unreal.Pawn.receive_controller_changed_delegate"></a>
 
-#### receive_controller_changed_delegate
+#### receive\_controller\_changed\_delegate
 
 ```python
 @property
@@ -346,7 +346,7 @@ def receive_controller_changed_delegate() -> PawnControllerChangedSignature
 
 <a id="unreal.Pawn.receive_controller_changed_delegate"></a>
 
-#### receive_controller_changed_delegate
+#### receive\_controller\_changed\_delegate
 
 ```python
 @receive_controller_changed_delegate.setter
@@ -356,7 +356,7 @@ def receive_controller_changed_delegate(
 
 <a id="unreal.Pawn.receive_restarted_delegate"></a>
 
-#### receive_restarted_delegate
+#### receive\_restarted\_delegate
 
 ```python
 @property
@@ -367,7 +367,7 @@ def receive_restarted_delegate() -> PawnRestartedSignature
 
 <a id="unreal.Pawn.receive_restarted_delegate"></a>
 
-#### receive_restarted_delegate
+#### receive\_restarted\_delegate
 
 ```python
 @receive_restarted_delegate.setter
@@ -376,7 +376,7 @@ def receive_restarted_delegate(value: PawnRestartedSignature) -> None
 
 <a id="unreal.Pawn.spawn_default_controller"></a>
 
-#### spawn_default_controller
+#### spawn\_default\_controller
 
 ```python
 def spawn_default_controller() -> None
@@ -387,7 +387,7 @@ Spawn default controller for this Pawn, and get possessed by it.
 
 <a id="unreal.Pawn.set_can_affect_navigation_generation"></a>
 
-#### set_can_affect_navigation_generation
+#### set\_can\_affect\_navigation\_generation
 
 ```python
 def set_can_affect_navigation_generation(new_value: bool,
@@ -404,7 +404,7 @@ Args:
 
 <a id="unreal.Pawn.receive_unpossessed"></a>
 
-#### receive_unpossessed
+#### receive\_unpossessed
 
 ```python
 def receive_unpossessed(old_controller: Controller) -> None
@@ -418,7 +418,7 @@ Args:
 
 <a id="unreal.Pawn.receive_restarted"></a>
 
-#### receive_restarted
+#### receive\_restarted
 
 ```python
 def receive_restarted() -> None
@@ -429,7 +429,7 @@ Event called after a pawn has been restarted, usually by a possession change. Th
 
 <a id="unreal.Pawn.receive_possessed"></a>
 
-#### receive_possessed
+#### receive\_possessed
 
 ```python
 def receive_possessed(new_controller: Controller) -> None
@@ -443,7 +443,7 @@ Args:
 
 <a id="unreal.Pawn.receive_controller_changed"></a>
 
-#### receive_controller_changed
+#### receive\_controller\_changed
 
 ```python
 def receive_controller_changed(old_controller: Controller,
@@ -459,7 +459,7 @@ Args:
 
 <a id="unreal.Pawn.pawn_make_noise"></a>
 
-#### pawn_make_noise
+#### pawn\_make\_noise
 
 ```python
 def pawn_make_noise(loudness: float,
@@ -480,7 +480,7 @@ Args:
 
 <a id="unreal.Pawn.is_player_controlled"></a>
 
-#### is_player_controlled
+#### is\_player\_controlled
 
 ```python
 def is_player_controlled() -> bool
@@ -494,7 +494,7 @@ Returns:
 
 <a id="unreal.Pawn.is_pawn_controlled"></a>
 
-#### is_pawn_controlled
+#### is\_pawn\_controlled
 
 ```python
 def is_pawn_controlled() -> bool
@@ -508,7 +508,7 @@ Returns:
 
 <a id="unreal.Pawn.is_move_input_ignored"></a>
 
-#### is_move_input_ignored
+#### is\_move\_input\_ignored
 
 ```python
 def is_move_input_ignored() -> bool
@@ -522,7 +522,7 @@ Returns:
 
 <a id="unreal.Pawn.is_locally_viewed"></a>
 
-#### is_locally_viewed
+#### is\_locally\_viewed
 
 ```python
 def is_locally_viewed() -> bool
@@ -539,7 +539,7 @@ Returns:
 
 <a id="unreal.Pawn.is_locally_controlled"></a>
 
-#### is_locally_controlled
+#### is\_locally\_controlled
 
 ```python
 def is_locally_controlled() -> bool
@@ -553,7 +553,7 @@ Returns:
 
 <a id="unreal.Pawn.is_controlled"></a>
 
-#### is_controlled
+#### is\_controlled
 
 ```python
 def is_controlled() -> bool
@@ -567,7 +567,7 @@ Returns:
 
 <a id="unreal.Pawn.is_bot_controlled"></a>
 
-#### is_bot_controlled
+#### is\_bot\_controlled
 
 ```python
 def is_bot_controlled() -> bool
@@ -581,7 +581,7 @@ Returns:
 
 <a id="unreal.Pawn.get_platform_user_id"></a>
 
-#### get_platform_user_id
+#### get\_platform\_user\_id
 
 ```python
 def get_platform_user_id() -> PlatformUserId
@@ -597,7 +597,7 @@ Returns:
 
 <a id="unreal.Pawn.get_pending_movement_input_vector"></a>
 
-#### get_pending_movement_input_vector
+#### get\_pending\_movement\_input\_vector
 
 ```python
 def get_pending_movement_input_vector() -> Vector
@@ -613,7 +613,7 @@ Returns:
 
 <a id="unreal.Pawn.get_override_input_component_class"></a>
 
-#### get_override_input_component_class
+#### get\_override\_input\_component\_class
 
 ```python
 def get_override_input_component_class() -> Class
@@ -627,7 +627,7 @@ Returns:
 
 <a id="unreal.Pawn.get_nav_agent_location"></a>
 
-#### get_nav_agent_location
+#### get\_nav\_agent\_location
 
 ```python
 def get_nav_agent_location() -> Vector
@@ -641,7 +641,7 @@ Returns:
 
 <a id="unreal.Pawn.get_movement_component"></a>
 
-#### get_movement_component
+#### get\_movement\_component
 
 ```python
 def get_movement_component() -> PawnMovementComponent
@@ -655,7 +655,7 @@ Returns:
 
 <a id="unreal.Pawn.get_movement_base_actor"></a>
 
-#### get_movement_base_actor
+#### get\_movement\_base\_actor
 
 ```python
 @classmethod
@@ -673,7 +673,7 @@ Returns:
 
 <a id="unreal.Pawn.get_local_viewing_player_controller"></a>
 
-#### get_local_viewing_player_controller
+#### get\_local\_viewing\_player\_controller
 
 ```python
 def get_local_viewing_player_controller() -> PlayerController
@@ -687,7 +687,7 @@ Returns:
 
 <a id="unreal.Pawn.get_last_movement_input_vector"></a>
 
-#### get_last_movement_input_vector
+#### get\_last\_movement\_input\_vector
 
 ```python
 def get_last_movement_input_vector() -> Vector
@@ -705,7 +705,7 @@ Returns:
 
 <a id="unreal.Pawn.get_control_rotation"></a>
 
-#### get_control_rotation
+#### get\_control\_rotation
 
 ```python
 def get_control_rotation() -> Rotator
@@ -719,7 +719,7 @@ Returns:
 
 <a id="unreal.Pawn.get_controller"></a>
 
-#### get_controller
+#### get\_controller
 
 ```python
 def get_controller() -> Controller
@@ -733,7 +733,7 @@ Returns:
 
 <a id="unreal.Pawn.get_base_aim_rotation"></a>
 
-#### get_base_aim_rotation
+#### get\_base\_aim\_rotation
 
 ```python
 def get_base_aim_rotation() -> Rotator
@@ -749,7 +749,7 @@ Returns:
 
 <a id="unreal.Pawn.detach_from_controller_pending_destroy"></a>
 
-#### detach_from_controller_pending_destroy
+#### detach\_from\_controller\_pending\_destroy
 
 ```python
 def detach_from_controller_pending_destroy() -> None
@@ -760,7 +760,7 @@ Call this function to detach safely pawn from its controller, knowing that we wi
 
 <a id="unreal.Pawn.consume_movement_input_vector"></a>
 
-#### consume_movement_input_vector
+#### consume\_movement\_input\_vector
 
 ```python
 def consume_movement_input_vector() -> Vector
@@ -776,7 +776,7 @@ Returns:
 
 <a id="unreal.Pawn.add_movement_input"></a>
 
-#### add_movement_input
+#### add\_movement\_input
 
 ```python
 def add_movement_input(world_direction: Vector,
@@ -796,7 +796,7 @@ Args:
 
 <a id="unreal.Pawn.add_controller_yaw_input"></a>
 
-#### add_controller_yaw_input
+#### add\_controller\_yaw\_input
 
 ```python
 def add_controller_yaw_input(val: float) -> None
@@ -812,7 +812,7 @@ Args:
 
 <a id="unreal.Pawn.add_turn_input"></a>
 
-#### add_turn_input
+#### add\_turn\_input
 
 ```python
 def add_turn_input(val: float) -> None
@@ -822,7 +822,7 @@ deprecated: 'add_turn_input' was renamed to 'add_controller_yaw_input'.
 
 <a id="unreal.Pawn.add_yaw_input"></a>
 
-#### add_yaw_input
+#### add\_yaw\_input
 
 ```python
 def add_yaw_input(val: float) -> None
@@ -832,7 +832,7 @@ deprecated: 'add_yaw_input' was renamed to 'add_controller_yaw_input'.
 
 <a id="unreal.Pawn.add_controller_roll_input"></a>
 
-#### add_controller_roll_input
+#### add\_controller\_roll\_input
 
 ```python
 def add_controller_roll_input(val: float) -> None
@@ -848,7 +848,7 @@ Args:
 
 <a id="unreal.Pawn.add_roll_input"></a>
 
-#### add_roll_input
+#### add\_roll\_input
 
 ```python
 def add_roll_input(val: float) -> None
@@ -858,7 +858,7 @@ deprecated: 'add_roll_input' was renamed to 'add_controller_roll_input'.
 
 <a id="unreal.Pawn.add_controller_pitch_input"></a>
 
-#### add_controller_pitch_input
+#### add\_controller\_pitch\_input
 
 ```python
 def add_controller_pitch_input(val: float) -> None
@@ -874,7 +874,7 @@ Args:
 
 <a id="unreal.Pawn.add_look_up_input"></a>
 
-#### add_look_up_input
+#### add\_look\_up\_input
 
 ```python
 def add_look_up_input(val: float) -> None
@@ -884,7 +884,7 @@ deprecated: 'add_look_up_input' was renamed to 'add_controller_pitch_input'.
 
 <a id="unreal.Pawn.add_pitch_input"></a>
 
-#### add_pitch_input
+#### add\_pitch\_input
 
 ```python
 def add_pitch_input(val: float) -> None

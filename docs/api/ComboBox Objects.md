@@ -53,7 +53,7 @@ The combobox allows you to display a list of options to the user in a dropdown m
 
 <a id="unreal.ComboBox.scroll_bar_style"></a>
 
-#### scroll_bar_style
+#### scroll\_bar\_style
 
 ```python
 @property
@@ -64,7 +64,7 @@ def scroll_bar_style() -> ScrollBarStyle
 
 <a id="unreal.ComboBox.scroll_bar_style"></a>
 
-#### scroll_bar_style
+#### scroll\_bar\_style
 
 ```python
 @scroll_bar_style.setter
@@ -93,7 +93,7 @@ def items(value: Array[Object]) -> None
 
 <a id="unreal.ComboBox.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @property

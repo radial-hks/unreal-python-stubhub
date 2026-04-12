@@ -48,7 +48,7 @@ If the OutputAttributeName is None, we will use InputSource.GetName().
 
 <a id="unreal.PCGAttributeSelectSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -59,7 +59,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAttributeSelectSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter
@@ -68,7 +68,7 @@ def input_source(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGAttributeSelectSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @property
@@ -79,7 +79,7 @@ def output_attribute_name() -> Name
 
 <a id="unreal.PCGAttributeSelectSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @output_attribute_name.setter
@@ -128,7 +128,7 @@ def axis(value: PCGAttributeSelectAxis) -> None
 
 <a id="unreal.PCGAttributeSelectSettings.custom_axis"></a>
 
-#### custom_axis
+#### custom\_axis
 
 ```python
 @property
@@ -139,7 +139,7 @@ def custom_axis() -> Vector4
 
 <a id="unreal.PCGAttributeSelectSettings.custom_axis"></a>
 
-#### custom_axis
+#### custom\_axis
 
 ```python
 @custom_axis.setter

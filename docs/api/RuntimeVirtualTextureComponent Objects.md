@@ -67,7 +67,7 @@ Component used to place a URuntimeVirtualTexture in the world.
 
 <a id="unreal.RuntimeVirtualTextureComponent.virtual_texture"></a>
 
-#### virtual_texture
+#### virtual\_texture
 
 ```python
 @property
@@ -78,7 +78,7 @@ def virtual_texture() -> RuntimeVirtualTexture
 
 <a id="unreal.RuntimeVirtualTextureComponent.streaming_texture"></a>
 
-#### streaming_texture
+#### streaming\_texture
 
 ```python
 @property
@@ -89,7 +89,7 @@ def streaming_texture() -> VirtualTextureBuilder
 
 <a id="unreal.RuntimeVirtualTextureComponent.lossy_compression_amount"></a>
 
-#### lossy_compression_amount
+#### lossy\_compression\_amount
 
 ```python
 @property
@@ -102,7 +102,7 @@ Note that this is in addition to any unavoidable loss due to the target format. 
 
 <a id="unreal.RuntimeVirtualTextureComponent.lossy_compression_amount"></a>
 
-#### lossy_compression_amount
+#### lossy\_compression\_amount
 
 ```python
 @lossy_compression_amount.setter
@@ -111,7 +111,7 @@ def lossy_compression_amount(value: TextureLossyCompressionAmount) -> None
 
 <a id="unreal.RuntimeVirtualTextureComponent.use_streaming_mips_fixed_color"></a>
 
-#### use_streaming_mips_fixed_color
+#### use\_streaming\_mips\_fixed\_color
 
 ```python
 @property
@@ -122,7 +122,7 @@ def use_streaming_mips_fixed_color() -> bool
 
 <a id="unreal.RuntimeVirtualTextureComponent.streaming_mips_fixed_color"></a>
 
-#### streaming_mips_fixed_color
+#### streaming\_mips\_fixed\_color
 
 ```python
 @property

@@ -33,7 +33,7 @@ def transform() -> Transform
 
 <a id="unreal.PCGSurfaceData.local_bounds"></a>
 
-#### local_bounds
+#### local\_bounds
 
 ```python
 @property

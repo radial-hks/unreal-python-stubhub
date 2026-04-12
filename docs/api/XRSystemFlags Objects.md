@@ -13,25 +13,25 @@ Flags to better inform the user about specifics of the underlying XR system
 
 <a id="unreal.XRSystemFlags.IS_AR"></a>
 
-#### IS_AR
+#### IS\_AR
 
 1
 
 <a id="unreal.XRSystemFlags.IS_TABLET"></a>
 
-#### IS_TABLET
+#### IS\_TABLET
 
 2
 
 <a id="unreal.XRSystemFlags.IS_HEAD_MOUNTED"></a>
 
-#### IS_HEAD_MOUNTED
+#### IS\_HEAD\_MOUNTED
 
 4
 
 <a id="unreal.XRSystemFlags.SUPPORTS_HAND_TRACKING"></a>
 
-#### SUPPORTS_HAND_TRACKING
+#### SUPPORTS\_HAND\_TRACKING
 
 8
 

@@ -36,7 +36,7 @@ Cast an attribute to another type. Support broadcastable cast (like double -> FV
 
 <a id="unreal.PCGAttributeCastSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -47,7 +47,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAttributeCastSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter
@@ -56,7 +56,7 @@ def input_source(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGAttributeCastSettings.output_type"></a>
 
-#### output_type
+#### output\_type
 
 ```python
 @property
@@ -67,7 +67,7 @@ def output_type() -> PCGMetadataTypes
 
 <a id="unreal.PCGAttributeCastSettings.output_type"></a>
 
-#### output_type
+#### output\_type
 
 ```python
 @output_type.setter
@@ -76,7 +76,7 @@ def output_type(value: PCGMetadataTypes) -> None
 
 <a id="unreal.PCGAttributeCastSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @property
@@ -87,7 +87,7 @@ def output_target() -> PCGAttributePropertyOutputSelector
 
 <a id="unreal.PCGAttributeCastSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @output_target.setter

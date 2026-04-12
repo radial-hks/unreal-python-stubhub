@@ -13,7 +13,7 @@ User List Entry
 
 <a id="unreal.UserListEntry.bp_on_item_selection_changed"></a>
 
-#### bp_on_item_selection_changed
+#### bp\_on\_item\_selection\_changed
 
 ```python
 def bp_on_item_selection_changed(is_selected: bool) -> None
@@ -27,7 +27,7 @@ Args:
 
 <a id="unreal.UserListEntry.bp_on_item_expansion_changed"></a>
 
-#### bp_on_item_expansion_changed
+#### bp\_on\_item\_expansion\_changed
 
 ```python
 def bp_on_item_expansion_changed(is_expanded: bool) -> None
@@ -41,7 +41,7 @@ Args:
 
 <a id="unreal.UserListEntry.bp_on_entry_released"></a>
 
-#### bp_on_entry_released
+#### bp\_on\_entry\_released
 
 ```python
 def bp_on_entry_released() -> None

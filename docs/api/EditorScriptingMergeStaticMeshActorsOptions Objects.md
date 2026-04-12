@@ -9,7 +9,7 @@ deprecated: 'EditorScriptingMergeStaticMeshActorsOptions' was renamed to 'MergeS
 
 <a id="unreal.EditorScriptingMergeStaticMeshActorsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

@@ -29,7 +29,7 @@ def settings() -> SourceEffectStereoDelaySettings
 
 <a id="unreal.SourceEffectStereoDelayPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectStereoDelaySettings) -> None

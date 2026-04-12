@@ -190,7 +190,7 @@ Landscape Heightfield Collision Component
 
 <a id="unreal.LandscapeHeightfieldCollisionComponent.get_render_component"></a>
 
-#### get_render_component
+#### get\_render\_component
 
 ```python
 def get_render_component() -> LandscapeComponent

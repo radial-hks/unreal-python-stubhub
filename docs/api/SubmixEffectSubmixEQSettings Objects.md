@@ -17,7 +17,7 @@ EQ submix effect
 
 <a id="unreal.SubmixEffectSubmixEQSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(eq_bands: Array[SubmixEffectEQBand] = []) -> None
@@ -25,7 +25,7 @@ def __init__(eq_bands: Array[SubmixEffectEQBand] = []) -> None
 
 <a id="unreal.SubmixEffectSubmixEQSettings.eq_bands"></a>
 
-#### eq_bands
+#### eq\_bands
 
 ```python
 @property
@@ -36,7 +36,7 @@ def eq_bands() -> Array[SubmixEffectEQBand]
 
 <a id="unreal.SubmixEffectSubmixEQSettings.eq_bands"></a>
 
-#### eq_bands
+#### eq\_bands
 
 ```python
 @eq_bands.setter

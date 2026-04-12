@@ -14,7 +14,7 @@ Take recorder UI panel interop object
 
 <a id="unreal.TakeRecorderPanel.stop_recording"></a>
 
-#### stop_recording
+#### stop\_recording
 
 ```python
 def stop_recording() -> None
@@ -25,7 +25,7 @@ Stop recording with the current take
 
 <a id="unreal.TakeRecorderPanel.start_recording"></a>
 
-#### start_recording
+#### start\_recording
 
 ```python
 def start_recording() -> None
@@ -36,7 +36,7 @@ Start recording with the current take
 
 <a id="unreal.TakeRecorderPanel.setup_for_viewing"></a>
 
-#### setup_for_viewing
+#### setup\_for\_viewing
 
 ```python
 def setup_for_viewing(level_sequence_asset: LevelSequence) -> None
@@ -50,7 +50,7 @@ Args:
 
 <a id="unreal.TakeRecorderPanel.setup_for_recording_into_level_sequence"></a>
 
-#### setup_for_recording_into_level_sequence
+#### setup\_for\_recording\_into\_level\_sequence
 
 ```python
 def setup_for_recording_into_level_sequence(
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.TakeRecorderPanel.setup_for_recording_take_preset"></a>
 
-#### setup_for_recording_take_preset
+#### setup\_for\_recording\_take\_preset
 
 ```python
 def setup_for_recording_take_preset(take_preset_asset: TakePreset) -> None
@@ -81,7 +81,7 @@ Args:
 
 <a id="unreal.TakeRecorderPanel.setup_for_recording_level_sequence"></a>
 
-#### setup_for_recording_level_sequence
+#### setup\_for\_recording\_level\_sequence
 
 ```python
 def setup_for_recording_level_sequence(
@@ -97,7 +97,7 @@ Args:
 
 <a id="unreal.TakeRecorderPanel.setup_for_editing"></a>
 
-#### setup_for_editing
+#### setup\_for\_editing
 
 ```python
 def setup_for_editing(take_preset: TakePreset) -> None
@@ -111,7 +111,7 @@ Args:
 
 <a id="unreal.TakeRecorderPanel.set_frame_rate_from_timecode"></a>
 
-#### set_frame_rate_from_timecode
+#### set\_frame\_rate\_from\_timecode
 
 ```python
 def set_frame_rate_from_timecode(from_timecode: bool) -> None
@@ -125,7 +125,7 @@ Args:
 
 <a id="unreal.TakeRecorderPanel.set_frame_rate"></a>
 
-#### set_frame_rate
+#### set\_frame\_rate
 
 ```python
 def set_frame_rate(frame_rate: FrameRate) -> None
@@ -139,7 +139,7 @@ Args:
 
 <a id="unreal.TakeRecorderPanel.get_take_meta_data"></a>
 
-#### get_take_meta_data
+#### get\_take\_meta\_data
 
 ```python
 def get_take_meta_data() -> TakeMetaData
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.TakeRecorderPanel.get_sources"></a>
 
-#### get_sources
+#### get\_sources
 
 ```python
 def get_sources() -> TakeRecorderSources
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.TakeRecorderPanel.get_mode"></a>
 
-#### get_mode
+#### get\_mode
 
 ```python
 def get_mode() -> TakeRecorderPanelMode
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.TakeRecorderPanel.get_level_sequence"></a>
 
-#### get_level_sequence
+#### get\_level\_sequence
 
 ```python
 def get_level_sequence() -> LevelSequence
@@ -195,7 +195,7 @@ Returns:
 
 <a id="unreal.TakeRecorderPanel.get_last_recorded_level_sequence"></a>
 
-#### get_last_recorded_level_sequence
+#### get\_last\_recorded\_level\_sequence
 
 ```python
 def get_last_recorded_level_sequence() -> LevelSequence
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.TakeRecorderPanel.get_frame_rate"></a>
 
-#### get_frame_rate
+#### get\_frame\_rate
 
 ```python
 def get_frame_rate() -> FrameRate
@@ -223,7 +223,7 @@ Returns:
 
 <a id="unreal.TakeRecorderPanel.clear_pending_take"></a>
 
-#### clear_pending_take
+#### clear\_pending\_take
 
 ```python
 def clear_pending_take() -> None
@@ -234,7 +234,7 @@ x.clear_pending_take() -> None
 
 <a id="unreal.TakeRecorderPanel.can_start_recording"></a>
 
-#### can_start_recording
+#### can\_start\_recording
 
 ```python
 def can_start_recording() -> Optional[Text]

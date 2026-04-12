@@ -18,7 +18,7 @@ A Slate color can be a directly specified value, or the color can be pulled from
 
 <a id="unreal.SlateColor.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -30,7 +30,7 @@ def __init__(
 
 <a id="unreal.SlateColor.specified_color"></a>
 
-#### specified_color
+#### specified\_color
 
 ```python
 @property
@@ -41,7 +41,7 @@ def specified_color() -> LinearColor
 
 <a id="unreal.SlateColor.specified_color"></a>
 
-#### specified_color
+#### specified\_color
 
 ```python
 @specified_color.setter
@@ -50,7 +50,7 @@ def specified_color(value: LinearColor) -> None
 
 <a id="unreal.SlateColor.color_use_rule"></a>
 
-#### color_use_rule
+#### color\_use\_rule
 
 ```python
 @property
@@ -61,7 +61,7 @@ def color_use_rule() -> SlateColorStylingMode
 
 <a id="unreal.SlateColor.color_use_rule"></a>
 
-#### color_use_rule
+#### color\_use\_rule
 
 ```python
 @color_use_rule.setter

@@ -23,7 +23,7 @@ Geometry Script Bake Output Type
 
 <a id="unreal.GeometryScriptBakeOutputType.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -39,7 +39,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptBakeOutputType.output_mode"></a>
 
-#### output_mode
+#### output\_mode
 
 ```python
 @property
@@ -50,7 +50,7 @@ def output_mode() -> GeometryScriptBakeOutputMode
 
 <a id="unreal.GeometryScriptBakeOutputType.output_mode"></a>
 
-#### output_mode
+#### output\_mode
 
 ```python
 @output_mode.setter

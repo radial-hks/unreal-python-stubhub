@@ -17,7 +17,7 @@ Cached Anim State Array
 
 <a id="unreal.CachedAnimStateArray.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(states: Array[CachedAnimStateData] = []) -> None

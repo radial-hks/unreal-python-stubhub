@@ -223,7 +223,7 @@ rather than the entire mesh.
 
 <a id="unreal.OctreeDynamicMeshComponent.set_dynamic_mesh"></a>
 
-#### set_dynamic_mesh
+#### set\_dynamic\_mesh
 
 ```python
 def set_dynamic_mesh(new_mesh: DynamicMesh) -> None

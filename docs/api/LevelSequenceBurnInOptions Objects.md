@@ -19,7 +19,7 @@ Level Sequence Burn in Options
 
 <a id="unreal.LevelSequenceBurnInOptions.use_burn_in"></a>
 
-#### use_burn_in
+#### use\_burn\_in
 
 ```python
 @property
@@ -30,7 +30,7 @@ def use_burn_in() -> bool
 
 <a id="unreal.LevelSequenceBurnInOptions.use_burn_in"></a>
 
-#### use_burn_in
+#### use\_burn\_in
 
 ```python
 @use_burn_in.setter
@@ -39,7 +39,7 @@ def use_burn_in(value: bool) -> None
 
 <a id="unreal.LevelSequenceBurnInOptions.burn_in_class"></a>
 
-#### burn_in_class
+#### burn\_in\_class
 
 ```python
 @property
@@ -50,7 +50,7 @@ def burn_in_class() -> SoftClassPath
 
 <a id="unreal.LevelSequenceBurnInOptions.burn_in_class"></a>
 
-#### burn_in_class
+#### burn\_in\_class
 
 ```python
 @burn_in_class.setter
@@ -79,7 +79,7 @@ def settings(value: LevelSequenceBurnInInitSettings) -> None
 
 <a id="unreal.LevelSequenceBurnInOptions.set_burn_in"></a>
 
-#### set_burn_in
+#### set\_burn\_in
 
 ```python
 def set_burn_in(burn_in_class: SoftClassPath) -> None

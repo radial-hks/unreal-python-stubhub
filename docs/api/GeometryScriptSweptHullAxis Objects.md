@@ -32,13 +32,13 @@ EGeometry Script Swept Hull Axis
 
 <a id="unreal.GeometryScriptSweptHullAxis.SMALLEST_BOX_DIMENSION"></a>
 
-#### SMALLEST_BOX_DIMENSION
+#### SMALLEST\_BOX\_DIMENSION
 
 3: Use X/Y/Z axis with smallest axis-aligned-bounding-box dimension
 
 <a id="unreal.GeometryScriptSweptHullAxis.SMALLEST_VOLUME"></a>
 
-#### SMALLEST_VOLUME
+#### SMALLEST\_VOLUME
 
 4: Compute projected hull for each of X/Y/Z axes and use the one that has the smallest volume
 

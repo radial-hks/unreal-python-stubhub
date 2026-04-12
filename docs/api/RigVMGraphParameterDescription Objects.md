@@ -24,7 +24,7 @@ Nodes can share the same parameter description.
 
 <a id="unreal.RigVMGraphParameterDescription.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -47,7 +47,7 @@ def name() -> Name
 
 <a id="unreal.RigVMGraphParameterDescription.is_input"></a>
 
-#### is_input
+#### is\_input
 
 ```python
 @property
@@ -58,7 +58,7 @@ def is_input() -> bool
 
 <a id="unreal.RigVMGraphParameterDescription.cpp_type"></a>
 
-#### cpp_type
+#### cpp\_type
 
 ```python
 @property
@@ -69,7 +69,7 @@ def cpp_type() -> str
 
 <a id="unreal.RigVMGraphParameterDescription.cpp_type_object"></a>
 
-#### cpp_type_object
+#### cpp\_type\_object
 
 ```python
 @property
@@ -80,7 +80,7 @@ def cpp_type_object() -> Object
 
 <a id="unreal.RigVMGraphParameterDescription.default_value"></a>
 
-#### default_value
+#### default\_value
 
 ```python
 @property

@@ -13,13 +13,13 @@ ENeural Profile Runtime Type
 
 <a id="unreal.NeuralProfileRuntimeType.NNE_RUNTIME_ORT_DML"></a>
 
-#### NNE_RUNTIME_ORT_DML
+#### NNE\_RUNTIME\_ORT\_DML
 
 0
 
 <a id="unreal.NeuralProfileRuntimeType.NNE_RUNTIME_RDG_HLSL"></a>
 
-#### NNE_RUNTIME_RDG_HLSL
+#### NNE\_RUNTIME\_RDG\_HLSL
 
 1: Does not have full operator support
 

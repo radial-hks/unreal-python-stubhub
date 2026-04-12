@@ -14,7 +14,7 @@ Datasmith Content Blueprint Library
 
 <a id="unreal.DatasmithContentLibrary.get_datasmith_user_data_values_for_key"></a>
 
-#### get_datasmith_user_data_values_for_key
+#### get\_datasmith\_user\_data\_values\_for\_key
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.DatasmithContentLibrary.get_datasmith_user_data_value_for_key"></a>
 
-#### get_datasmith_user_data_value_for_key
+#### get\_datasmith\_user\_data\_value\_for\_key
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.DatasmithContentLibrary.get_datasmith_user_data_keys_and_values_for_value"></a>
 
-#### get_datasmith_user_data_keys_and_values_for_value
+#### get\_datasmith\_user\_data\_keys\_and\_values\_for\_value
 
 ```python
 @classmethod
@@ -87,7 +87,7 @@ Returns:
 
 <a id="unreal.DatasmithContentLibrary.get_datasmith_user_data"></a>
 
-#### get_datasmith_user_data
+#### get\_datasmith\_user\_data
 
 ```python
 @classmethod
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.DatasmithContentLibrary.get_all_objects_and_values_for_key"></a>
 
-#### get_all_objects_and_values_for_key
+#### get\_all\_objects\_and\_values\_for\_key
 
 ```python
 @classmethod
@@ -131,7 +131,7 @@ Returns:
 
 <a id="unreal.DatasmithContentLibrary.get_all_datasmith_user_data"></a>
 
-#### get_all_datasmith_user_data
+#### get\_all\_datasmith\_user\_data
 
 ```python
 @classmethod

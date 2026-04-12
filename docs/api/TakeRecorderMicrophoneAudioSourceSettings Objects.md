@@ -42,7 +42,7 @@ A recording source that records microphone audio
 
 <a id="unreal.TakeRecorderMicrophoneAudioSourceSettings.audio_source_name"></a>
 
-#### audio_source_name
+#### audio\_source\_name
 
 ```python
 @property
@@ -53,7 +53,7 @@ def audio_source_name() -> Text
 
 <a id="unreal.TakeRecorderMicrophoneAudioSourceSettings.audio_source_name"></a>
 
-#### audio_source_name
+#### audio\_source\_name
 
 ```python
 @audio_source_name.setter
@@ -62,7 +62,7 @@ def audio_source_name(value: Text) -> None
 
 <a id="unreal.TakeRecorderMicrophoneAudioSourceSettings.audio_track_name"></a>
 
-#### audio_track_name
+#### audio\_track\_name
 
 ```python
 @property
@@ -73,7 +73,7 @@ def audio_track_name() -> Text
 
 <a id="unreal.TakeRecorderMicrophoneAudioSourceSettings.audio_track_name"></a>
 
-#### audio_track_name
+#### audio\_track\_name
 
 ```python
 @audio_track_name.setter
@@ -82,7 +82,7 @@ def audio_track_name(value: Text) -> None
 
 <a id="unreal.TakeRecorderMicrophoneAudioSourceSettings.audio_asset_name"></a>
 
-#### audio_asset_name
+#### audio\_asset\_name
 
 ```python
 @property
@@ -102,7 +102,7 @@ Supports any of the following format specifiers that will be substituted when a 
 
 <a id="unreal.TakeRecorderMicrophoneAudioSourceSettings.audio_asset_name"></a>
 
-#### audio_asset_name
+#### audio\_asset\_name
 
 ```python
 @audio_asset_name.setter
@@ -111,7 +111,7 @@ def audio_asset_name(value: str) -> None
 
 <a id="unreal.TakeRecorderMicrophoneAudioSourceSettings.audio_sub_directory"></a>
 
-#### audio_sub_directory
+#### audio\_sub\_directory
 
 ```python
 @property
@@ -131,7 +131,7 @@ Supports any of the following format specifiers that will be substituted when a 
 
 <a id="unreal.TakeRecorderMicrophoneAudioSourceSettings.audio_sub_directory"></a>
 
-#### audio_sub_directory
+#### audio\_sub\_directory
 
 ```python
 @audio_sub_directory.setter

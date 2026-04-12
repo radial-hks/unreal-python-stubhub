@@ -22,7 +22,7 @@ Arguments that can be used when creating a new mapping profile
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(profile_type: Class = None,
@@ -34,7 +34,7 @@ def __init__(profile_type: Class = None,
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.profile_type"></a>
 
-#### profile_type
+#### profile\_type
 
 ```python
 @property
@@ -45,7 +45,7 @@ def profile_type() -> Class
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.profile_type"></a>
 
-#### profile_type
+#### profile\_type
 
 ```python
 @profile_type.setter
@@ -54,7 +54,7 @@ def profile_type(value: Class) -> None
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.profile_identifier"></a>
 
-#### profile_identifier
+#### profile\_identifier
 
 ```python
 @property
@@ -65,7 +65,7 @@ def profile_identifier() -> GameplayTag
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.profile_identifier"></a>
 
-#### profile_identifier
+#### profile\_identifier
 
 ```python
 @profile_identifier.setter
@@ -74,7 +74,7 @@ def profile_identifier(value: GameplayTag) -> None
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.user_id"></a>
 
-#### user_id
+#### user\_id
 
 ```python
 @property
@@ -85,7 +85,7 @@ def user_id() -> PlatformUserId
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.user_id"></a>
 
-#### user_id
+#### user\_id
 
 ```python
 @user_id.setter
@@ -94,7 +94,7 @@ def user_id(value: PlatformUserId) -> None
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property
@@ -105,7 +105,7 @@ def display_name() -> Text
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @display_name.setter
@@ -114,7 +114,7 @@ def display_name(value: Text) -> None
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.set_as_current_profile"></a>
 
-#### set_as_current_profile
+#### set\_as\_current\_profile
 
 ```python
 @property
@@ -125,7 +125,7 @@ def set_as_current_profile() -> bool
 
 <a id="unreal.PlayerMappableKeyProfileCreationArgs.set_as_current_profile"></a>
 
-#### set_as_current_profile
+#### set\_as\_current\_profile
 
 ```python
 @set_as_current_profile.setter

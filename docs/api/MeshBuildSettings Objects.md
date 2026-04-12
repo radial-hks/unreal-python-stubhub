@@ -40,7 +40,7 @@ Settings applied when building a mesh.
 
 <a id="unreal.MeshBuildSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(use_mikk_t_space: bool = False,
@@ -66,7 +66,7 @@ def __init__(use_mikk_t_space: bool = False,
 
 <a id="unreal.MeshBuildSettings.use_mikk_t_space"></a>
 
-#### use_mikk_t_space
+#### use\_mikk\_t\_space
 
 ```python
 @property
@@ -77,7 +77,7 @@ def use_mikk_t_space() -> bool
 
 <a id="unreal.MeshBuildSettings.use_mikk_t_space"></a>
 
-#### use_mikk_t_space
+#### use\_mikk\_t\_space
 
 ```python
 @use_mikk_t_space.setter
@@ -86,7 +86,7 @@ def use_mikk_t_space(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 @property
@@ -97,7 +97,7 @@ def recompute_normals() -> bool
 
 <a id="unreal.MeshBuildSettings.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 @recompute_normals.setter
@@ -106,7 +106,7 @@ def recompute_normals(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.recompute_tangents"></a>
 
-#### recompute_tangents
+#### recompute\_tangents
 
 ```python
 @property
@@ -117,7 +117,7 @@ def recompute_tangents() -> bool
 
 <a id="unreal.MeshBuildSettings.recompute_tangents"></a>
 
-#### recompute_tangents
+#### recompute\_tangents
 
 ```python
 @recompute_tangents.setter
@@ -126,7 +126,7 @@ def recompute_tangents(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.compute_weighted_normals"></a>
 
-#### compute_weighted_normals
+#### compute\_weighted\_normals
 
 ```python
 @property
@@ -137,7 +137,7 @@ def compute_weighted_normals() -> bool
 
 <a id="unreal.MeshBuildSettings.compute_weighted_normals"></a>
 
-#### compute_weighted_normals
+#### compute\_weighted\_normals
 
 ```python
 @compute_weighted_normals.setter
@@ -146,7 +146,7 @@ def compute_weighted_normals(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.remove_degenerates"></a>
 
-#### remove_degenerates
+#### remove\_degenerates
 
 ```python
 @property
@@ -157,7 +157,7 @@ def remove_degenerates() -> bool
 
 <a id="unreal.MeshBuildSettings.remove_degenerates"></a>
 
-#### remove_degenerates
+#### remove\_degenerates
 
 ```python
 @remove_degenerates.setter
@@ -166,7 +166,7 @@ def remove_degenerates(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.build_reversed_index_buffer"></a>
 
-#### build_reversed_index_buffer
+#### build\_reversed\_index\_buffer
 
 ```python
 @property
@@ -177,7 +177,7 @@ def build_reversed_index_buffer() -> bool
 
 <a id="unreal.MeshBuildSettings.build_reversed_index_buffer"></a>
 
-#### build_reversed_index_buffer
+#### build\_reversed\_index\_buffer
 
 ```python
 @build_reversed_index_buffer.setter
@@ -186,7 +186,7 @@ def build_reversed_index_buffer(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.use_high_precision_tangent_basis"></a>
 
-#### use_high_precision_tangent_basis
+#### use\_high\_precision\_tangent\_basis
 
 ```python
 @property
@@ -197,7 +197,7 @@ def use_high_precision_tangent_basis() -> bool
 
 <a id="unreal.MeshBuildSettings.use_high_precision_tangent_basis"></a>
 
-#### use_high_precision_tangent_basis
+#### use\_high\_precision\_tangent\_basis
 
 ```python
 @use_high_precision_tangent_basis.setter
@@ -206,7 +206,7 @@ def use_high_precision_tangent_basis(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.use_full_precision_u_vs"></a>
 
-#### use_full_precision_u_vs
+#### use\_full\_precision\_u\_vs
 
 ```python
 @property
@@ -217,7 +217,7 @@ def use_full_precision_u_vs() -> bool
 
 <a id="unreal.MeshBuildSettings.use_full_precision_u_vs"></a>
 
-#### use_full_precision_u_vs
+#### use\_full\_precision\_u\_vs
 
 ```python
 @use_full_precision_u_vs.setter
@@ -226,7 +226,7 @@ def use_full_precision_u_vs(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.use_backwards_compatible_f16_trunc_u_vs"></a>
 
-#### use_backwards_compatible_f16_trunc_u_vs
+#### use\_backwards\_compatible\_f16\_trunc\_u\_vs
 
 ```python
 @property
@@ -237,7 +237,7 @@ def use_backwards_compatible_f16_trunc_u_vs() -> bool
 
 <a id="unreal.MeshBuildSettings.use_backwards_compatible_f16_trunc_u_vs"></a>
 
-#### use_backwards_compatible_f16_trunc_u_vs
+#### use\_backwards\_compatible\_f16\_trunc\_u\_vs
 
 ```python
 @use_backwards_compatible_f16_trunc_u_vs.setter
@@ -246,7 +246,7 @@ def use_backwards_compatible_f16_trunc_u_vs(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.generate_lightmap_u_vs"></a>
 
-#### generate_lightmap_u_vs
+#### generate\_lightmap\_u\_vs
 
 ```python
 @property
@@ -257,7 +257,7 @@ def generate_lightmap_u_vs() -> bool
 
 <a id="unreal.MeshBuildSettings.generate_lightmap_u_vs"></a>
 
-#### generate_lightmap_u_vs
+#### generate\_lightmap\_u\_vs
 
 ```python
 @generate_lightmap_u_vs.setter
@@ -266,7 +266,7 @@ def generate_lightmap_u_vs(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.generate_distance_field_as_if_two_sided"></a>
 
-#### generate_distance_field_as_if_two_sided
+#### generate\_distance\_field\_as\_if\_two\_sided
 
 ```python
 @property
@@ -278,7 +278,7 @@ When enabled prevents the distance field from being discarded due to the mesh be
 
 <a id="unreal.MeshBuildSettings.generate_distance_field_as_if_two_sided"></a>
 
-#### generate_distance_field_as_if_two_sided
+#### generate\_distance\_field\_as\_if\_two\_sided
 
 ```python
 @generate_distance_field_as_if_two_sided.setter
@@ -287,7 +287,7 @@ def generate_distance_field_as_if_two_sided(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.support_face_remap"></a>
 
-#### support_face_remap
+#### support\_face\_remap
 
 ```python
 @property
@@ -298,7 +298,7 @@ def support_face_remap() -> bool
 
 <a id="unreal.MeshBuildSettings.support_face_remap"></a>
 
-#### support_face_remap
+#### support\_face\_remap
 
 ```python
 @support_face_remap.setter
@@ -307,7 +307,7 @@ def support_face_remap(value: bool) -> None
 
 <a id="unreal.MeshBuildSettings.min_lightmap_resolution"></a>
 
-#### min_lightmap_resolution
+#### min\_lightmap\_resolution
 
 ```python
 @property
@@ -318,7 +318,7 @@ def min_lightmap_resolution() -> int
 
 <a id="unreal.MeshBuildSettings.min_lightmap_resolution"></a>
 
-#### min_lightmap_resolution
+#### min\_lightmap\_resolution
 
 ```python
 @min_lightmap_resolution.setter
@@ -327,7 +327,7 @@ def min_lightmap_resolution(value: int) -> None
 
 <a id="unreal.MeshBuildSettings.src_lightmap_index"></a>
 
-#### src_lightmap_index
+#### src\_lightmap\_index
 
 ```python
 @property
@@ -338,7 +338,7 @@ def src_lightmap_index() -> int
 
 <a id="unreal.MeshBuildSettings.src_lightmap_index"></a>
 
-#### src_lightmap_index
+#### src\_lightmap\_index
 
 ```python
 @src_lightmap_index.setter
@@ -347,7 +347,7 @@ def src_lightmap_index(value: int) -> None
 
 <a id="unreal.MeshBuildSettings.dst_lightmap_index"></a>
 
-#### dst_lightmap_index
+#### dst\_lightmap\_index
 
 ```python
 @property
@@ -358,7 +358,7 @@ def dst_lightmap_index() -> int
 
 <a id="unreal.MeshBuildSettings.dst_lightmap_index"></a>
 
-#### dst_lightmap_index
+#### dst\_lightmap\_index
 
 ```python
 @dst_lightmap_index.setter
@@ -367,7 +367,7 @@ def dst_lightmap_index(value: int) -> None
 
 <a id="unreal.MeshBuildSettings.build_scale3d"></a>
 
-#### build_scale3d
+#### build\_scale3d
 
 ```python
 @property
@@ -378,7 +378,7 @@ def build_scale3d() -> Vector
 
 <a id="unreal.MeshBuildSettings.build_scale3d"></a>
 
-#### build_scale3d
+#### build\_scale3d
 
 ```python
 @build_scale3d.setter
@@ -387,7 +387,7 @@ def build_scale3d(value: Vector) -> None
 
 <a id="unreal.MeshBuildSettings.distance_field_resolution_scale"></a>
 
-#### distance_field_resolution_scale
+#### distance\_field\_resolution\_scale
 
 ```python
 @property
@@ -399,7 +399,7 @@ The default scale is 1, which is assuming that the mesh will be placed unscaled 
 
 <a id="unreal.MeshBuildSettings.distance_field_resolution_scale"></a>
 
-#### distance_field_resolution_scale
+#### distance\_field\_resolution\_scale
 
 ```python
 @distance_field_resolution_scale.setter
@@ -408,7 +408,7 @@ def distance_field_resolution_scale(value: float) -> None
 
 <a id="unreal.MeshBuildSettings.distance_field_replacement_mesh"></a>
 
-#### distance_field_replacement_mesh
+#### distance\_field\_replacement\_mesh
 
 ```python
 @property
@@ -419,7 +419,7 @@ def distance_field_replacement_mesh() -> StaticMesh
 
 <a id="unreal.MeshBuildSettings.distance_field_replacement_mesh"></a>
 
-#### distance_field_replacement_mesh
+#### distance\_field\_replacement\_mesh
 
 ```python
 @distance_field_replacement_mesh.setter
@@ -428,7 +428,7 @@ def distance_field_replacement_mesh(value: StaticMesh) -> None
 
 <a id="unreal.MeshBuildSettings.max_lumen_mesh_cards"></a>
 
-#### max_lumen_mesh_cards
+#### max\_lumen\_mesh\_cards
 
 ```python
 @property
@@ -442,7 +442,7 @@ Default is 12.
 
 <a id="unreal.MeshBuildSettings.max_lumen_mesh_cards"></a>
 
-#### max_lumen_mesh_cards
+#### max\_lumen\_mesh\_cards
 
 ```python
 @max_lumen_mesh_cards.setter

@@ -47,7 +47,7 @@ see: [Scene Components](https://docs.unrealengine.com/latest/INT/Programming/Unr
 
 <a id="unreal.SceneComponent.relative_location"></a>
 
-#### relative_location
+#### relative\_location
 
 ```python
 @property
@@ -58,7 +58,7 @@ def relative_location() -> Vector
 
 <a id="unreal.SceneComponent.relative_translation"></a>
 
-#### relative_translation
+#### relative\_translation
 
 ```python
 @property
@@ -69,7 +69,7 @@ deprecated: 'relative_translation' was renamed to 'relative_location'.
 
 <a id="unreal.SceneComponent.relative_rotation"></a>
 
-#### relative_rotation
+#### relative\_rotation
 
 ```python
 @property
@@ -80,7 +80,7 @@ def relative_rotation() -> Rotator
 
 <a id="unreal.SceneComponent.relative_scale3d"></a>
 
-#### relative_scale3d
+#### relative\_scale3d
 
 ```python
 @property
@@ -92,7 +92,7 @@ Note that scaling is always applied in local space (no shearing etc)
 
 <a id="unreal.SceneComponent.absolute_location"></a>
 
-#### absolute_location
+#### absolute\_location
 
 ```python
 @property
@@ -103,7 +103,7 @@ def absolute_location() -> bool
 
 <a id="unreal.SceneComponent.absolute_location"></a>
 
-#### absolute_location
+#### absolute\_location
 
 ```python
 @absolute_location.setter
@@ -112,7 +112,7 @@ def absolute_location(value: bool) -> None
 
 <a id="unreal.SceneComponent.b_absolute_translation"></a>
 
-#### b_absolute_translation
+#### b\_absolute\_translation
 
 ```python
 @property
@@ -123,7 +123,7 @@ deprecated: 'b_absolute_translation' was renamed to 'absolute_location'.
 
 <a id="unreal.SceneComponent.b_absolute_translation"></a>
 
-#### b_absolute_translation
+#### b\_absolute\_translation
 
 ```python
 @b_absolute_translation.setter
@@ -132,7 +132,7 @@ def b_absolute_translation(value: bool) -> None
 
 <a id="unreal.SceneComponent.absolute_rotation"></a>
 
-#### absolute_rotation
+#### absolute\_rotation
 
 ```python
 @property
@@ -143,7 +143,7 @@ def absolute_rotation() -> bool
 
 <a id="unreal.SceneComponent.absolute_rotation"></a>
 
-#### absolute_rotation
+#### absolute\_rotation
 
 ```python
 @absolute_rotation.setter
@@ -152,7 +152,7 @@ def absolute_rotation(value: bool) -> None
 
 <a id="unreal.SceneComponent.absolute_scale"></a>
 
-#### absolute_scale
+#### absolute\_scale
 
 ```python
 @property
@@ -163,7 +163,7 @@ def absolute_scale() -> bool
 
 <a id="unreal.SceneComponent.absolute_scale"></a>
 
-#### absolute_scale
+#### absolute\_scale
 
 ```python
 @absolute_scale.setter
@@ -183,7 +183,7 @@ def visible() -> bool
 
 <a id="unreal.SceneComponent.should_update_physics_volume"></a>
 
-#### should_update_physics_volume
+#### should\_update\_physics\_volume
 
 ```python
 @property
@@ -195,7 +195,7 @@ see: GetPhysicsVolume()
 
 <a id="unreal.SceneComponent.should_update_physics_volume"></a>
 
-#### should_update_physics_volume
+#### should\_update\_physics\_volume
 
 ```python
 @should_update_physics_volume.setter
@@ -204,7 +204,7 @@ def should_update_physics_volume(value: bool) -> None
 
 <a id="unreal.SceneComponent.hidden_in_game"></a>
 
-#### hidden_in_game
+#### hidden\_in\_game
 
 ```python
 @property
@@ -215,7 +215,7 @@ def hidden_in_game() -> bool
 
 <a id="unreal.SceneComponent.use_attach_parent_bound"></a>
 
-#### use_attach_parent_bound
+#### use\_attach\_parent\_bound
 
 ```python
 @property
@@ -227,7 +227,7 @@ This can be a significant optimization with many components attached together.
 
 <a id="unreal.SceneComponent.use_attach_parent_bound"></a>
 
-#### use_attach_parent_bound
+#### use\_attach\_parent\_bound
 
 ```python
 @use_attach_parent_bound.setter
@@ -247,7 +247,7 @@ def mobility() -> ComponentMobility
 
 <a id="unreal.SceneComponent.modify_frequency"></a>
 
-#### modify_frequency
+#### modify\_frequency
 
 ```python
 @property
@@ -258,7 +258,7 @@ deprecated: 'modify_frequency' was renamed to 'mobility'.
 
 <a id="unreal.SceneComponent.detail_mode"></a>
 
-#### detail_mode
+#### detail\_mode
 
 ```python
 @property
@@ -269,7 +269,7 @@ def detail_mode() -> DetailMode
 
 <a id="unreal.SceneComponent.physics_volume_changed_delegate"></a>
 
-#### physics_volume_changed_delegate
+#### physics\_volume\_changed\_delegate
 
 ```python
 @property
@@ -280,7 +280,7 @@ def physics_volume_changed_delegate() -> PhysicsVolumeChanged
 
 <a id="unreal.SceneComponent.physics_volume_changed_delegate"></a>
 
-#### physics_volume_changed_delegate
+#### physics\_volume\_changed\_delegate
 
 ```python
 @physics_volume_changed_delegate.setter
@@ -289,7 +289,7 @@ def physics_volume_changed_delegate(value: PhysicsVolumeChanged) -> None
 
 <a id="unreal.SceneComponent.toggle_visibility"></a>
 
-#### toggle_visibility
+#### toggle\_visibility
 
 ```python
 def toggle_visibility(propagate_to_children: bool = False) -> None
@@ -303,7 +303,7 @@ Args:
 
 <a id="unreal.SceneComponent.set_world_scale3d"></a>
 
-#### set_world_scale3d
+#### set\_world\_scale3d
 
 ```python
 def set_world_scale3d(new_scale: Vector) -> None
@@ -317,7 +317,7 @@ Args:
 
 <a id="unreal.SceneComponent.set_visibility"></a>
 
-#### set_visibility
+#### set\_visibility
 
 ```python
 def set_visibility(new_visibility: bool,
@@ -333,7 +333,7 @@ Args:
 
 <a id="unreal.SceneComponent.set_relative_scale3d"></a>
 
-#### set_relative_scale3d
+#### set\_relative\_scale3d
 
 ```python
 def set_relative_scale3d(new_scale3d: Vector) -> None
@@ -347,7 +347,7 @@ Args:
 
 <a id="unreal.SceneComponent.set_mobility"></a>
 
-#### set_mobility
+#### set\_mobility
 
 ```python
 def set_mobility(new_mobility: ComponentMobility) -> None
@@ -361,7 +361,7 @@ Args:
 
 <a id="unreal.SceneComponent.set_hidden_in_game"></a>
 
-#### set_hidden_in_game
+#### set\_hidden\_in\_game
 
 ```python
 def set_hidden_in_game(new_hidden: bool,
@@ -377,7 +377,7 @@ Args:
 
 <a id="unreal.SceneComponent.set_absolute"></a>
 
-#### set_absolute
+#### set\_absolute
 
 ```python
 def set_absolute(new_absolute_location: bool = False,
@@ -395,7 +395,7 @@ Args:
 
 <a id="unreal.SceneComponent.reset_relative_transform"></a>
 
-#### reset_relative_transform
+#### reset\_relative\_transform
 
 ```python
 def reset_relative_transform() -> None
@@ -406,7 +406,7 @@ Reset the transform of the component relative to its parent. Sets relative locat
 
 <a id="unreal.SceneComponent.set_world_transform"></a>
 
-#### set_world_transform
+#### set\_world\_transform
 
 ```python
 def set_world_transform(new_transform: Transform, sweep: bool,
@@ -428,7 +428,7 @@ Returns:
 
 <a id="unreal.SceneComponent.set_world_rotation"></a>
 
-#### set_world_rotation
+#### set\_world\_rotation
 
 ```python
 def set_world_rotation(new_rotation: Rotator, sweep: bool,
@@ -451,7 +451,7 @@ Returns:
 
 <a id="unreal.SceneComponent.set_world_location_and_rotation"></a>
 
-#### set_world_location_and_rotation
+#### set\_world\_location\_and\_rotation
 
 ```python
 def set_world_location_and_rotation(new_location: Vector,
@@ -475,7 +475,7 @@ Returns:
 
 <a id="unreal.SceneComponent.set_world_location"></a>
 
-#### set_world_location
+#### set\_world\_location
 
 ```python
 def set_world_location(new_location: Vector, sweep: bool,
@@ -497,7 +497,7 @@ Returns:
 
 <a id="unreal.SceneComponent.set_relative_transform"></a>
 
-#### set_relative_transform
+#### set\_relative\_transform
 
 ```python
 def set_relative_transform(new_transform: Transform, sweep: bool,
@@ -519,7 +519,7 @@ Returns:
 
 <a id="unreal.SceneComponent.set_relative_rotation"></a>
 
-#### set_relative_rotation
+#### set\_relative\_rotation
 
 ```python
 def set_relative_rotation(new_rotation: Rotator, sweep: bool,
@@ -541,7 +541,7 @@ Returns:
 
 <a id="unreal.SceneComponent.set_relative_location_and_rotation"></a>
 
-#### set_relative_location_and_rotation
+#### set\_relative\_location\_and\_rotation
 
 ```python
 def set_relative_location_and_rotation(new_location: Vector,
@@ -565,7 +565,7 @@ Returns:
 
 <a id="unreal.SceneComponent.set_relative_location"></a>
 
-#### set_relative_location
+#### set\_relative\_location
 
 ```python
 def set_relative_location(new_location: Vector, sweep: bool,
@@ -587,7 +587,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_world_transform"></a>
 
-#### get_world_transform
+#### get\_world\_transform
 
 ```python
 def get_world_transform() -> Transform
@@ -601,7 +601,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_world_scale"></a>
 
-#### get_world_scale
+#### get\_world\_scale
 
 ```python
 def get_world_scale() -> Vector
@@ -615,7 +615,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_world_rotation"></a>
 
-#### get_world_rotation
+#### get\_world\_rotation
 
 ```python
 def get_world_rotation() -> Rotator
@@ -629,7 +629,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_world_location"></a>
 
-#### get_world_location
+#### get\_world\_location
 
 ```python
 def get_world_location() -> Vector
@@ -643,7 +643,7 @@ Returns:
 
 <a id="unreal.SceneComponent.detach_from_component"></a>
 
-#### detach_from_component
+#### detach\_from\_component
 
 ```python
 def detach_from_component(
@@ -664,7 +664,7 @@ Args:
 
 <a id="unreal.SceneComponent.attach_to_component"></a>
 
-#### attach_to_component
+#### attach\_to\_component
 
 ```python
 def attach_to_component(parent: SceneComponent,
@@ -691,7 +691,7 @@ Returns:
 
 <a id="unreal.SceneComponent.k2_attach_to"></a>
 
-#### k2_attach_to
+#### k2\_attach\_to
 
 ```python
 def k2_attach_to(
@@ -715,7 +715,7 @@ Returns:
 
 <a id="unreal.SceneComponent.attach_to"></a>
 
-#### attach_to
+#### attach\_to
 
 ```python
 def attach_to(
@@ -729,7 +729,7 @@ deprecated: 'attach_to' was renamed to 'k2_attach_to'.
 
 <a id="unreal.SceneComponent.add_world_transform_keep_scale"></a>
 
-#### add_world_transform_keep_scale
+#### add\_world\_transform\_keep\_scale
 
 ```python
 def add_world_transform_keep_scale(delta_transform: Transform, sweep: bool,
@@ -751,7 +751,7 @@ Returns:
 
 <a id="unreal.SceneComponent.add_world_transform"></a>
 
-#### add_world_transform
+#### add\_world\_transform
 
 ```python
 def add_world_transform(delta_transform: Transform, sweep: bool,
@@ -773,7 +773,7 @@ Returns:
 
 <a id="unreal.SceneComponent.add_world_rotation"></a>
 
-#### add_world_rotation
+#### add\_world\_rotation
 
 ```python
 def add_world_rotation(delta_rotation: Rotator, sweep: bool,
@@ -795,7 +795,7 @@ Returns:
 
 <a id="unreal.SceneComponent.add_world_offset"></a>
 
-#### add_world_offset
+#### add\_world\_offset
 
 ```python
 def add_world_offset(delta_location: Vector, sweep: bool,
@@ -817,7 +817,7 @@ Returns:
 
 <a id="unreal.SceneComponent.add_relative_rotation"></a>
 
-#### add_relative_rotation
+#### add\_relative\_rotation
 
 ```python
 def add_relative_rotation(delta_rotation: Rotator, sweep: bool,
@@ -839,7 +839,7 @@ Returns:
 
 <a id="unreal.SceneComponent.add_relative_location"></a>
 
-#### add_relative_location
+#### add\_relative\_location
 
 ```python
 def add_relative_location(delta_location: Vector, sweep: bool,
@@ -861,7 +861,7 @@ Returns:
 
 <a id="unreal.SceneComponent.add_local_transform"></a>
 
-#### add_local_transform
+#### add\_local\_transform
 
 ```python
 def add_local_transform(delta_transform: Transform, sweep: bool,
@@ -883,7 +883,7 @@ Returns:
 
 <a id="unreal.SceneComponent.add_local_rotation"></a>
 
-#### add_local_rotation
+#### add\_local\_rotation
 
 ```python
 def add_local_rotation(delta_rotation: Rotator, sweep: bool,
@@ -905,7 +905,7 @@ Returns:
 
 <a id="unreal.SceneComponent.add_local_offset"></a>
 
-#### add_local_offset
+#### add\_local\_offset
 
 ```python
 def add_local_offset(delta_location: Vector, sweep: bool,
@@ -927,7 +927,7 @@ Returns:
 
 <a id="unreal.SceneComponent.is_visible"></a>
 
-#### is_visible
+#### is\_visible
 
 ```python
 def is_visible() -> bool
@@ -941,7 +941,7 @@ Returns:
 
 <a id="unreal.SceneComponent.is_simulating_physics"></a>
 
-#### is_simulating_physics
+#### is\_simulating\_physics
 
 ```python
 def is_simulating_physics(bone_name: Name = "None") -> bool
@@ -958,7 +958,7 @@ Returns:
 
 <a id="unreal.SceneComponent.is_any_simulating_physics"></a>
 
-#### is_any_simulating_physics
+#### is\_any\_simulating\_physics
 
 ```python
 def is_any_simulating_physics() -> bool
@@ -972,7 +972,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_up_vector"></a>
 
-#### get_up_vector
+#### get\_up\_vector
 
 ```python
 def get_up_vector() -> Vector
@@ -986,7 +986,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_socket_transform"></a>
 
-#### get_socket_transform
+#### get\_socket\_transform
 
 ```python
 def get_socket_transform(
@@ -1007,7 +1007,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_socket_rotation"></a>
 
-#### get_socket_rotation
+#### get\_socket\_rotation
 
 ```python
 def get_socket_rotation(socket_name: Name) -> Rotator
@@ -1024,7 +1024,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_socket_quaternion"></a>
 
-#### get_socket_quaternion
+#### get\_socket\_quaternion
 
 ```python
 def get_socket_quaternion(socket_name: Name) -> Quat
@@ -1042,7 +1042,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_socket_location"></a>
 
-#### get_socket_location
+#### get\_socket\_location
 
 ```python
 def get_socket_location(socket_name: Name) -> Vector
@@ -1059,7 +1059,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_right_vector"></a>
 
-#### get_right_vector
+#### get\_right\_vector
 
 ```python
 def get_right_vector() -> Vector
@@ -1073,7 +1073,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_relative_transform"></a>
 
-#### get_relative_transform
+#### get\_relative\_transform
 
 ```python
 def get_relative_transform() -> Transform
@@ -1087,7 +1087,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_physics_volume"></a>
 
-#### get_physics_volume
+#### get\_physics\_volume
 
 ```python
 def get_physics_volume() -> PhysicsVolume
@@ -1101,7 +1101,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_parent_components"></a>
 
-#### get_parent_components
+#### get\_parent\_components
 
 ```python
 def get_parent_components() -> Array[SceneComponent]
@@ -1117,7 +1117,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_num_children_components"></a>
 
-#### get_num_children_components
+#### get\_num\_children\_components
 
 ```python
 def get_num_children_components() -> int
@@ -1131,7 +1131,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_forward_vector"></a>
 
-#### get_forward_vector
+#### get\_forward\_vector
 
 ```python
 def get_forward_vector() -> Vector
@@ -1145,7 +1145,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_component_velocity"></a>
 
-#### get_component_velocity
+#### get\_component\_velocity
 
 ```python
 def get_component_velocity() -> Vector
@@ -1159,7 +1159,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_children_components"></a>
 
-#### get_children_components
+#### get\_children\_components
 
 ```python
 def get_children_components(
@@ -1179,7 +1179,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_child_component"></a>
 
-#### get_child_component
+#### get\_child\_component
 
 ```python
 def get_child_component(child_index: int) -> SceneComponent
@@ -1196,7 +1196,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_attach_socket_name"></a>
 
-#### get_attach_socket_name
+#### get\_attach\_socket\_name
 
 ```python
 def get_attach_socket_name() -> Name
@@ -1210,7 +1210,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_attach_parent"></a>
 
-#### get_attach_parent
+#### get\_attach\_parent
 
 ```python
 def get_attach_parent() -> SceneComponent
@@ -1224,7 +1224,7 @@ Returns:
 
 <a id="unreal.SceneComponent.get_all_socket_names"></a>
 
-#### get_all_socket_names
+#### get\_all\_socket\_names
 
 ```python
 def get_all_socket_names() -> Array[Name]
@@ -1238,7 +1238,7 @@ Returns:
 
 <a id="unreal.SceneComponent.does_socket_exist"></a>
 
-#### does_socket_exist
+#### does\_socket\_exist
 
 ```python
 def does_socket_exist(socket_name: Name) -> bool
@@ -1255,7 +1255,7 @@ Returns:
 
 <a id="unreal.SceneComponent.detach_from_parent"></a>
 
-#### detach_from_parent
+#### detach\_from\_parent
 
 ```python
 def detach_from_parent(maintain_world_position: bool = False,

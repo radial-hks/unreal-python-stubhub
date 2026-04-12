@@ -19,7 +19,7 @@ Sound Wave Spectral Data
 
 <a id="unreal.SoundWaveSpectralData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(frequency_hz: float = 0.000000,
@@ -29,7 +29,7 @@ def __init__(frequency_hz: float = 0.000000,
 
 <a id="unreal.SoundWaveSpectralData.frequency_hz"></a>
 
-#### frequency_hz
+#### frequency\_hz
 
 ```python
 @property
@@ -40,7 +40,7 @@ def frequency_hz() -> float
 
 <a id="unreal.SoundWaveSpectralData.frequency_hz"></a>
 
-#### frequency_hz
+#### frequency\_hz
 
 ```python
 @frequency_hz.setter
@@ -69,7 +69,7 @@ def magnitude(value: float) -> None
 
 <a id="unreal.SoundWaveSpectralData.normalized_magnitude"></a>
 
-#### normalized_magnitude
+#### normalized\_magnitude
 
 ```python
 @property
@@ -80,7 +80,7 @@ def normalized_magnitude() -> float
 
 <a id="unreal.SoundWaveSpectralData.normalized_magnitude"></a>
 
-#### normalized_magnitude
+#### normalized\_magnitude
 
 ```python
 @normalized_magnitude.setter

@@ -13,19 +13,19 @@ The type of modification to make to the destination component(s)
 
 <a id="unreal.DrivenBoneModificationMode.ADD_TO_INPUT"></a>
 
-#### ADD_TO_INPUT
+#### ADD\_TO\_INPUT
 
 0: Add the driven value to the input component value(s)
 
 <a id="unreal.DrivenBoneModificationMode.REPLACE_COMPONENT"></a>
 
-#### REPLACE_COMPONENT
+#### REPLACE\_COMPONENT
 
 1: Replace the input component value(s) with the driven value
 
 <a id="unreal.DrivenBoneModificationMode.ADD_TO_REF_POSE"></a>
 
-#### ADD_TO_REF_POSE
+#### ADD\_TO\_REF\_POSE
 
 2: Add the driven value to the reference pose value
 

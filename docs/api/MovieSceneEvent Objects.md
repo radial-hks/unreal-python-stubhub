@@ -19,7 +19,7 @@ Movie Scene Event
 
 <a id="unreal.MovieSceneEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -27,7 +27,7 @@ def __init__() -> None
 
 <a id="unreal.MovieSceneEvent.get_bound_object_property_class"></a>
 
-#### get_bound_object_property_class
+#### get\_bound\_object\_property\_class
 
 ```python
 def get_bound_object_property_class() -> Class

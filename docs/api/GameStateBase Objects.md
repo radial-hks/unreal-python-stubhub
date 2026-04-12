@@ -147,7 +147,7 @@ It exists on both the client and the server and is fully replicated.
 
 <a id="unreal.GameStateBase.game_mode_class"></a>
 
-#### game_mode_class
+#### game\_mode\_class
 
 ```python
 @property
@@ -158,7 +158,7 @@ def game_mode_class() -> Class
 
 <a id="unreal.GameStateBase.authority_game_mode"></a>
 
-#### authority_game_mode
+#### authority\_game\_mode
 
 ```python
 @property
@@ -169,7 +169,7 @@ def authority_game_mode() -> GameModeBase
 
 <a id="unreal.GameStateBase.spectator_class"></a>
 
-#### spectator_class
+#### spectator\_class
 
 ```python
 @property
@@ -180,7 +180,7 @@ def spectator_class() -> Class
 
 <a id="unreal.GameStateBase.player_array"></a>
 
-#### player_array
+#### player\_array
 
 ```python
 @property
@@ -191,7 +191,7 @@ def player_array() -> Array[PlayerState]
 
 <a id="unreal.GameStateBase.has_match_started"></a>
 
-#### has_match_started
+#### has\_match\_started
 
 ```python
 def has_match_started() -> bool
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.GameStateBase.has_match_ended"></a>
 
-#### has_match_ended
+#### has\_match\_ended
 
 ```python
 def has_match_ended() -> bool
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.GameStateBase.has_begun_play"></a>
 
-#### has_begun_play
+#### has\_begun\_play
 
 ```python
 def has_begun_play() -> bool
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.GameStateBase.get_server_world_time_seconds"></a>
 
-#### get_server_world_time_seconds
+#### get\_server\_world\_time\_seconds
 
 ```python
 def get_server_world_time_seconds() -> float
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.GameStateBase.get_player_start_time"></a>
 
-#### get_player_start_time
+#### get\_player\_start\_time
 
 ```python
 def get_player_start_time(controller: Controller) -> float
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.GameStateBase.get_player_respawn_delay"></a>
 
-#### get_player_respawn_delay
+#### get\_player\_respawn\_delay
 
 ```python
 def get_player_respawn_delay(controller: Controller) -> float

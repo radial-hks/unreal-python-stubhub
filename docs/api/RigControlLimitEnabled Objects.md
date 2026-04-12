@@ -19,7 +19,7 @@ Rig Control Limit Enabled
 
 <a id="unreal.RigControlLimitEnabled.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(minimum: bool = False, maximum: bool = False) -> None

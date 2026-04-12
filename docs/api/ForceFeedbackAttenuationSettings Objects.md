@@ -32,7 +32,7 @@ The struct for defining the properties used when determining attenuation for a f
 
 <a id="unreal.ForceFeedbackAttenuationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

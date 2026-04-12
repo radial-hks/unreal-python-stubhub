@@ -13,7 +13,7 @@ Test Typed Element Interface B
 
 <a id="unreal.TestTypedElementInterfaceB.mark_as_tested"></a>
 
-#### mark_as_tested
+#### mark\_as\_tested
 
 ```python
 def mark_as_tested(element_handle: ScriptTypedElementHandle) -> bool

@@ -30,7 +30,7 @@ This class represents a single layer in a tile map.  All layers in the map must 
 
 <a id="unreal.PaperTileLayer.layer_name"></a>
 
-#### layer_name
+#### layer\_name
 
 ```python
 @property
@@ -41,7 +41,7 @@ def layer_name() -> Text
 
 <a id="unreal.PaperTileLayer.layer_width"></a>
 
-#### layer_width
+#### layer\_width
 
 ```python
 @property
@@ -52,7 +52,7 @@ def layer_width() -> int
 
 <a id="unreal.PaperTileLayer.layer_height"></a>
 
-#### layer_height
+#### layer\_height
 
 ```python
 @property
@@ -63,7 +63,7 @@ def layer_height() -> int
 
 <a id="unreal.PaperTileLayer.hidden_in_game"></a>
 
-#### hidden_in_game
+#### hidden\_in\_game
 
 ```python
 @property
@@ -74,7 +74,7 @@ def hidden_in_game() -> bool
 
 <a id="unreal.PaperTileLayer.layer_collides"></a>
 
-#### layer_collides
+#### layer\_collides
 
 ```python
 @property
@@ -86,7 +86,7 @@ Note: This only has an effect if the owning tile map has collision enabled
 
 <a id="unreal.PaperTileLayer.override_collision_thickness"></a>
 
-#### override_collision_thickness
+#### override\_collision\_thickness
 
 ```python
 @property
@@ -97,7 +97,7 @@ def override_collision_thickness() -> bool
 
 <a id="unreal.PaperTileLayer.override_collision_offset"></a>
 
-#### override_collision_offset
+#### override\_collision\_offset
 
 ```python
 @property
@@ -108,7 +108,7 @@ def override_collision_offset() -> bool
 
 <a id="unreal.PaperTileLayer.collision_thickness_override"></a>
 
-#### collision_thickness_override
+#### collision\_thickness\_override
 
 ```python
 @property
@@ -119,7 +119,7 @@ def collision_thickness_override() -> float
 
 <a id="unreal.PaperTileLayer.collision_offset_override"></a>
 
-#### collision_offset_override
+#### collision\_offset\_override
 
 ```python
 @property
@@ -131,7 +131,7 @@ Note: This is measured in Unreal Units (cm) from the center of the tile map comp
 
 <a id="unreal.PaperTileLayer.layer_color"></a>
 
-#### layer_color
+#### layer\_color
 
 ```python
 @property

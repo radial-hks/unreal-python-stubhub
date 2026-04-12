@@ -13,13 +13,13 @@ Draw Path to use
 
 <a id="unreal.DynamicMeshDrawPath.DYNAMIC_DRAW"></a>
 
-#### DYNAMIC_DRAW
+#### DYNAMIC\_DRAW
 
 0: Use the dynamic draw path, intended for meshes that update on most frames
 
 <a id="unreal.DynamicMeshDrawPath.STATIC_DRAW"></a>
 
-#### STATIC_DRAW
+#### STATIC\_DRAW
 
 1: Use the static draw path, for meshes that do not change on most frames
 

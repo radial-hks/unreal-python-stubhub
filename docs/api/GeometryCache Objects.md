@@ -46,7 +46,7 @@ def materials(value: Array[MaterialInterface]) -> None
 
 <a id="unreal.GeometryCache.material_slot_names"></a>
 
-#### material_slot_names
+#### material\_slot\_names
 
 ```python
 @property
@@ -57,7 +57,7 @@ def material_slot_names() -> Array[Name]
 
 <a id="unreal.GeometryCache.material_slot_names"></a>
 
-#### material_slot_names
+#### material\_slot\_names
 
 ```python
 @material_slot_names.setter
@@ -66,7 +66,7 @@ def material_slot_names(value: Array[Name]) -> None
 
 <a id="unreal.GeometryCache.start_frame"></a>
 
-#### start_frame
+#### start\_frame
 
 ```python
 @property
@@ -77,7 +77,7 @@ def start_frame() -> int
 
 <a id="unreal.GeometryCache.end_frame"></a>
 
-#### end_frame
+#### end\_frame
 
 ```python
 @property
@@ -88,7 +88,7 @@ def end_frame() -> int
 
 <a id="unreal.GeometryCache.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.GeometryCache.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.GeometryCache.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

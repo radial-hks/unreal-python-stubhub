@@ -48,7 +48,7 @@ A recording source that records microphone audio
 
 <a id="unreal.TakeRecorderMicrophoneAudioSource.audio_gain"></a>
 
-#### audio_gain
+#### audio\_gain
 
 ```python
 @property
@@ -59,7 +59,7 @@ def audio_gain() -> float
 
 <a id="unreal.TakeRecorderMicrophoneAudioSource.audio_gain"></a>
 
-#### audio_gain
+#### audio\_gain
 
 ```python
 @audio_gain.setter
@@ -68,7 +68,7 @@ def audio_gain(value: float) -> None
 
 <a id="unreal.TakeRecorderMicrophoneAudioSource.split_audio_channels_into_separate_tracks"></a>
 
-#### split_audio_channels_into_separate_tracks
+#### split\_audio\_channels\_into\_separate\_tracks
 
 ```python
 @property
@@ -80,7 +80,7 @@ deprecated: SplitAudioChannelsIntoSeparateTracks is deprecated.
 
 <a id="unreal.TakeRecorderMicrophoneAudioSource.split_audio_channels_into_separate_tracks"></a>
 
-#### split_audio_channels_into_separate_tracks
+#### split\_audio\_channels\_into\_separate\_tracks
 
 ```python
 @split_audio_channels_into_separate_tracks.setter
@@ -89,7 +89,7 @@ def split_audio_channels_into_separate_tracks(value: bool) -> None
 
 <a id="unreal.TakeRecorderMicrophoneAudioSource.replace_recorded_audio"></a>
 
-#### replace_recorded_audio
+#### replace\_recorded\_audio
 
 ```python
 @property
@@ -100,7 +100,7 @@ def replace_recorded_audio() -> bool
 
 <a id="unreal.TakeRecorderMicrophoneAudioSource.replace_recorded_audio"></a>
 
-#### replace_recorded_audio
+#### replace\_recorded\_audio
 
 ```python
 @replace_recorded_audio.setter
@@ -109,7 +109,7 @@ def replace_recorded_audio(value: bool) -> None
 
 <a id="unreal.TakeRecorderMicrophoneAudioSource.audio_channel"></a>
 
-#### audio_channel
+#### audio\_channel
 
 ```python
 @property
@@ -120,7 +120,7 @@ def audio_channel() -> AudioInputDeviceChannelProperty
 
 <a id="unreal.TakeRecorderMicrophoneAudioSource.audio_channel"></a>
 
-#### audio_channel
+#### audio\_channel
 
 ```python
 @audio_channel.setter

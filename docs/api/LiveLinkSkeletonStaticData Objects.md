@@ -19,7 +19,7 @@ Static data for Animation purposes. Contains data about bones that shouldn't cha
 
 <a id="unreal.LiveLinkSkeletonStaticData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(property_names: Array[Name] = [],
@@ -29,7 +29,7 @@ def __init__(property_names: Array[Name] = [],
 
 <a id="unreal.LiveLinkSkeletonStaticData.bone_names"></a>
 
-#### bone_names
+#### bone\_names
 
 ```python
 @property
@@ -40,7 +40,7 @@ def bone_names() -> Array[Name]
 
 <a id="unreal.LiveLinkSkeletonStaticData.bone_names"></a>
 
-#### bone_names
+#### bone\_names
 
 ```python
 @bone_names.setter
@@ -49,7 +49,7 @@ def bone_names(value: Array[Name]) -> None
 
 <a id="unreal.LiveLinkSkeletonStaticData.bone_parents"></a>
 
-#### bone_parents
+#### bone\_parents
 
 ```python
 @property
@@ -60,7 +60,7 @@ def bone_parents() -> Array[int]
 
 <a id="unreal.LiveLinkSkeletonStaticData.bone_parents"></a>
 
-#### bone_parents
+#### bone\_parents
 
 ```python
 @bone_parents.setter

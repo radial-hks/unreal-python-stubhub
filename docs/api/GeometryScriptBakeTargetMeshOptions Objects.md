@@ -18,7 +18,7 @@ Geometry Script Bake Target Mesh Options
 
 <a id="unreal.GeometryScriptBakeTargetMeshOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(target_uv_layer: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(target_uv_layer: int = 0) -> None
 
 <a id="unreal.GeometryScriptBakeTargetMeshOptions.target_uv_layer"></a>
 
-#### target_uv_layer
+#### target\_uv\_layer
 
 ```python
 @property
@@ -37,7 +37,7 @@ def target_uv_layer() -> int
 
 <a id="unreal.GeometryScriptBakeTargetMeshOptions.target_uv_layer"></a>
 
-#### target_uv_layer
+#### target\_uv\_layer
 
 ```python
 @target_uv_layer.setter

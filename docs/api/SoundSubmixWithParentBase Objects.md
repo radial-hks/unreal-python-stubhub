@@ -21,7 +21,7 @@ This submix class can be derived from for submixes that output to a parent submi
 
 <a id="unreal.SoundSubmixWithParentBase.parent_submix"></a>
 
-#### parent_submix
+#### parent\_submix
 
 ```python
 @property
@@ -32,7 +32,7 @@ def parent_submix() -> SoundSubmixBase
 
 <a id="unreal.SoundSubmixWithParentBase.is_dynamic"></a>
 
-#### is_dynamic
+#### is\_dynamic
 
 ```python
 @property

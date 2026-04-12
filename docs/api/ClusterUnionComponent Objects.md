@@ -217,7 +217,7 @@ a GT -> PT data sync. There's no particula reason this happens...it just mirrors
 
 <a id="unreal.ClusterUnionComponent.enable_damage_from_collision"></a>
 
-#### enable_damage_from_collision
+#### enable\_damage\_from\_collision
 
 ```python
 @property
@@ -228,7 +228,7 @@ def enable_damage_from_collision() -> bool
 
 <a id="unreal.ClusterUnionComponent.enable_damage_from_collision"></a>
 
-#### enable_damage_from_collision
+#### enable\_damage\_from\_collision
 
 ```python
 @enable_damage_from_collision.setter
@@ -237,7 +237,7 @@ def enable_damage_from_collision(value: bool) -> None
 
 <a id="unreal.ClusterUnionComponent.on_component_added_event"></a>
 
-#### on_component_added_event
+#### on\_component\_added\_event
 
 ```python
 @property
@@ -248,7 +248,7 @@ def on_component_added_event() -> OnClusterUnionAddedComponent
 
 <a id="unreal.ClusterUnionComponent.on_component_added_event"></a>
 
-#### on_component_added_event
+#### on\_component\_added\_event
 
 ```python
 @on_component_added_event.setter
@@ -257,7 +257,7 @@ def on_component_added_event(value: OnClusterUnionAddedComponent) -> None
 
 <a id="unreal.ClusterUnionComponent.on_component_removed_event"></a>
 
-#### on_component_removed_event
+#### on\_component\_removed\_event
 
 ```python
 @property
@@ -268,7 +268,7 @@ def on_component_removed_event() -> OnClusterUnionRemovedComponent
 
 <a id="unreal.ClusterUnionComponent.on_component_removed_event"></a>
 
-#### on_component_removed_event
+#### on\_component\_removed\_event
 
 ```python
 @on_component_removed_event.setter
@@ -277,7 +277,7 @@ def on_component_removed_event(value: OnClusterUnionRemovedComponent) -> None
 
 <a id="unreal.ClusterUnionComponent.on_component_bounds_changed_event"></a>
 
-#### on_component_bounds_changed_event
+#### on\_component\_bounds\_changed\_event
 
 ```python
 @property
@@ -288,7 +288,7 @@ def on_component_bounds_changed_event() -> OnClusterUnionBoundsChanged
 
 <a id="unreal.ClusterUnionComponent.on_component_bounds_changed_event"></a>
 
-#### on_component_bounds_changed_event
+#### on\_component\_bounds\_changed\_event
 
 ```python
 @on_component_bounds_changed_event.setter
@@ -298,7 +298,7 @@ def on_component_bounds_changed_event(
 
 <a id="unreal.ClusterUnionComponent.set_is_anchored"></a>
 
-#### set_is_anchored
+#### set\_is\_anchored
 
 ```python
 def set_is_anchored(is_anchored: bool) -> None
@@ -313,7 +313,7 @@ Args:
 
 <a id="unreal.ClusterUnionComponent.set_enable_damage_from_collision"></a>
 
-#### set_enable_damage_from_collision
+#### set\_enable\_damage\_from\_collision
 
 ```python
 def set_enable_damage_from_collision(value: bool) -> None
@@ -327,7 +327,7 @@ Args:
 
 <a id="unreal.ClusterUnionComponent.remove_component_from_cluster"></a>
 
-#### remove_component_from_cluster
+#### remove\_component\_from\_cluster
 
 ```python
 def remove_component_from_cluster(component: PrimitiveComponent) -> None
@@ -341,7 +341,7 @@ Args:
 
 <a id="unreal.ClusterUnionComponent.remove_component_bones_from_cluster"></a>
 
-#### remove_component_bones_from_cluster
+#### remove\_component\_bones\_from\_cluster
 
 ```python
 def remove_component_bones_from_cluster(component: PrimitiveComponent,
@@ -357,7 +357,7 @@ Args:
 
 <a id="unreal.ClusterUnionComponent.get_primitive_components"></a>
 
-#### get_primitive_components
+#### get\_primitive\_components
 
 ```python
 def get_primitive_components() -> Array[PrimitiveComponent]
@@ -371,7 +371,7 @@ Returns:
 
 <a id="unreal.ClusterUnionComponent.get_actors"></a>
 
-#### get_actors
+#### get\_actors
 
 ```python
 def get_actors() -> Array[Actor]
@@ -385,7 +385,7 @@ Returns:
 
 <a id="unreal.ClusterUnionComponent.add_component_to_cluster"></a>
 
-#### add_component_to_cluster
+#### add\_component\_to\_cluster
 
 ```python
 def add_component_to_cluster(component: PrimitiveComponent,

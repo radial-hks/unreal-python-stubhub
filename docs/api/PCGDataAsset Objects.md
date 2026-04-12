@@ -57,7 +57,7 @@ def name(value: str) -> None
 
 <a id="unreal.PCGDataAsset.exporter_class"></a>
 
-#### exporter_class
+#### exporter\_class
 
 ```python
 @property
@@ -68,7 +68,7 @@ def exporter_class() -> Class
 
 <a id="unreal.PCGDataAsset.settings_class"></a>
 
-#### settings_class
+#### settings\_class
 
 ```python
 @property
@@ -79,7 +79,7 @@ def settings_class() -> Class
 
 <a id="unreal.PCGDataAsset.object_path"></a>
 
-#### object_path
+#### object\_path
 
 ```python
 @property
@@ -110,7 +110,7 @@ def color(value: LinearColor) -> None
 
 <a id="unreal.PCGDataAsset.expose_to_library"></a>
 
-#### expose_to_library
+#### expose\_to\_library
 
 ```python
 @property
@@ -121,7 +121,7 @@ def expose_to_library() -> bool
 
 <a id="unreal.PCGDataAsset.expose_to_library"></a>
 
-#### expose_to_library
+#### expose\_to\_library
 
 ```python
 @expose_to_library.setter

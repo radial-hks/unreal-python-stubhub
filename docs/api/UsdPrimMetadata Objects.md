@@ -18,7 +18,7 @@ Describes all the metadata values collected from a particular USD prim
 
 <a id="unreal.UsdPrimMetadata.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(metadata: Map[str, UsdMetadataValue] = {}) -> None

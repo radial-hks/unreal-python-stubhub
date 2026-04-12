@@ -95,7 +95,7 @@ note: derives directly from UTexture, not from UTexture2D or UTexture2DDynamic
 
 <a id="unreal.MediaTexture.address_x"></a>
 
-#### address_x
+#### address\_x
 
 ```python
 @property
@@ -106,7 +106,7 @@ def address_x() -> TextureAddress
 
 <a id="unreal.MediaTexture.address_x"></a>
 
-#### address_x
+#### address\_x
 
 ```python
 @address_x.setter
@@ -115,7 +115,7 @@ def address_x(value: TextureAddress) -> None
 
 <a id="unreal.MediaTexture.address_y"></a>
 
-#### address_y
+#### address\_y
 
 ```python
 @property
@@ -126,7 +126,7 @@ def address_y() -> TextureAddress
 
 <a id="unreal.MediaTexture.address_y"></a>
 
-#### address_y
+#### address\_y
 
 ```python
 @address_y.setter
@@ -135,7 +135,7 @@ def address_y(value: TextureAddress) -> None
 
 <a id="unreal.MediaTexture.auto_clear"></a>
 
-#### auto_clear
+#### auto\_clear
 
 ```python
 @property
@@ -146,7 +146,7 @@ def auto_clear() -> bool
 
 <a id="unreal.MediaTexture.auto_clear"></a>
 
-#### auto_clear
+#### auto\_clear
 
 ```python
 @auto_clear.setter
@@ -155,7 +155,7 @@ def auto_clear(value: bool) -> None
 
 <a id="unreal.MediaTexture.clear_color"></a>
 
-#### clear_color
+#### clear\_color
 
 ```python
 @property
@@ -166,7 +166,7 @@ def clear_color() -> LinearColor
 
 <a id="unreal.MediaTexture.clear_color"></a>
 
-#### clear_color
+#### clear\_color
 
 ```python
 @clear_color.setter
@@ -175,7 +175,7 @@ def clear_color(value: LinearColor) -> None
 
 <a id="unreal.MediaTexture.enable_gen_mips"></a>
 
-#### enable_gen_mips
+#### enable\_gen\_mips
 
 ```python
 @property
@@ -186,7 +186,7 @@ def enable_gen_mips() -> bool
 
 <a id="unreal.MediaTexture.num_mips"></a>
 
-#### num_mips
+#### num\_mips
 
 ```python
 @property
@@ -197,7 +197,7 @@ def num_mips() -> int
 
 <a id="unreal.MediaTexture.num_mips"></a>
 
-#### num_mips
+#### num\_mips
 
 ```python
 @num_mips.setter
@@ -206,7 +206,7 @@ def num_mips(value: int) -> None
 
 <a id="unreal.MediaTexture.new_style_output"></a>
 
-#### new_style_output
+#### new\_style\_output
 
 ```python
 @property
@@ -217,7 +217,7 @@ def new_style_output() -> bool
 
 <a id="unreal.MediaTexture.new_style_output"></a>
 
-#### new_style_output
+#### new\_style\_output
 
 ```python
 @new_style_output.setter
@@ -226,7 +226,7 @@ def new_style_output(value: bool) -> None
 
 <a id="unreal.MediaTexture.output_format"></a>
 
-#### output_format
+#### output\_format
 
 ```python
 @property
@@ -238,7 +238,7 @@ deprecated: Output format was unused (not connected to active logic) and is now 
 
 <a id="unreal.MediaTexture.output_format"></a>
 
-#### output_format
+#### output\_format
 
 ```python
 @output_format.setter
@@ -247,7 +247,7 @@ def output_format(value: MediaTextureOutputFormat) -> None
 
 <a id="unreal.MediaTexture.current_aspect_ratio"></a>
 
-#### current_aspect_ratio
+#### current\_aspect\_ratio
 
 ```python
 @property
@@ -258,7 +258,7 @@ def current_aspect_ratio() -> float
 
 <a id="unreal.MediaTexture.current_orientation"></a>
 
-#### current_orientation
+#### current\_orientation
 
 ```python
 @property
@@ -269,7 +269,7 @@ def current_orientation() -> MediaTextureOrientation
 
 <a id="unreal.MediaTexture.update_resource"></a>
 
-#### update_resource
+#### update\_resource
 
 ```python
 def update_resource() -> None
@@ -281,7 +281,7 @@ This obviously is just an override to expose to blueprints.
 
 <a id="unreal.MediaTexture.set_media_player"></a>
 
-#### set_media_player
+#### set\_media\_player
 
 ```python
 def set_media_player(new_media_player: MediaPlayer) -> None
@@ -296,7 +296,7 @@ Args:
 
 <a id="unreal.MediaTexture.get_width"></a>
 
-#### get_width
+#### get\_width
 
 ```python
 def get_width() -> int
@@ -311,7 +311,7 @@ Returns:
 
 <a id="unreal.MediaTexture.get_texture_num_mips"></a>
 
-#### get_texture_num_mips
+#### get\_texture\_num\_mips
 
 ```python
 def get_texture_num_mips() -> int
@@ -325,7 +325,7 @@ Returns:
 
 <a id="unreal.MediaTexture.get_media_player"></a>
 
-#### get_media_player
+#### get\_media\_player
 
 ```python
 def get_media_player() -> MediaPlayer
@@ -340,7 +340,7 @@ Returns:
 
 <a id="unreal.MediaTexture.get_height"></a>
 
-#### get_height
+#### get\_height
 
 ```python
 def get_height() -> int
@@ -355,7 +355,7 @@ Returns:
 
 <a id="unreal.MediaTexture.get_aspect_ratio"></a>
 
-#### get_aspect_ratio
+#### get\_aspect\_ratio
 
 ```python
 def get_aspect_ratio() -> float

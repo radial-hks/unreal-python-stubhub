@@ -14,7 +14,7 @@ EGeometry Script Read Gamma Space
 
 <a id="unreal.GeometryScriptReadGammaSpace.FROM_TEXTURE_SETTINGS"></a>
 
-#### FROM_TEXTURE_SETTINGS
+#### FROM\_TEXTURE\_SETTINGS
 
 0: Read color data from Texture directly, without any conversion
 
@@ -30,4 +30,4 @@ EGeometry Script Read Gamma Space
 
 2: Read sRGB color data from Texture, converting if needed
 
-<a id="unreal.SVGSplineConversionQuality"></a>
+<a id="unreal.PlanetShape"></a>

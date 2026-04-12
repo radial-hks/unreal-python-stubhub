@@ -34,7 +34,7 @@ def data() -> Array[PCGSpatialData]
 
 <a id="unreal.PCGUnionData.union_type"></a>
 
-#### union_type
+#### union\_type
 
 ```python
 @property
@@ -45,7 +45,7 @@ def union_type() -> PCGUnionType
 
 <a id="unreal.PCGUnionData.union_type"></a>
 
-#### union_type
+#### union\_type
 
 ```python
 @union_type.setter
@@ -54,7 +54,7 @@ def union_type(value: PCGUnionType) -> None
 
 <a id="unreal.PCGUnionData.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -65,7 +65,7 @@ def density_function() -> PCGUnionDensityFunction
 
 <a id="unreal.PCGUnionData.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter
@@ -89,7 +89,7 @@ Args:
 
 <a id="unreal.PCGUnionData.add_data"></a>
 
-#### add_data
+#### add\_data
 
 ```python
 def add_data(data: PCGSpatialData) -> None

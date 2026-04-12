@@ -19,7 +19,7 @@ double internally so we can use same for non-control rig parameters
 
 <a id="unreal.AnimDetailProxyFloat.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(float: float = 0.000000) -> None

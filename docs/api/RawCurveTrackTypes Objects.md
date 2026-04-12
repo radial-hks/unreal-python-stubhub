@@ -13,13 +13,13 @@ ERaw Curve Track Types
 
 <a id="unreal.RawCurveTrackTypes.RCT_FLOAT"></a>
 
-#### RCT_FLOAT
+#### RCT\_FLOAT
 
 0
 
 <a id="unreal.RawCurveTrackTypes.RCT_TRANSFORM"></a>
 
-#### RCT_TRANSFORM
+#### RCT\_TRANSFORM
 
 2
 

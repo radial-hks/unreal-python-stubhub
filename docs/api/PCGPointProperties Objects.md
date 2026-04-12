@@ -20,13 +20,13 @@ EPCGPoint Properties
 
 <a id="unreal.PCGPointProperties.BOUNDS_MIN"></a>
 
-#### BOUNDS_MIN
+#### BOUNDS\_MIN
 
 1: Minimum corner of the point's bounds in local space.
 
 <a id="unreal.PCGPointProperties.BOUNDS_MAX"></a>
 
-#### BOUNDS_MAX
+#### BOUNDS\_MAX
 
 2: Maximum corner of the point's bounds in local space.
 
@@ -74,7 +74,7 @@ EPCGPoint Properties
 
 <a id="unreal.PCGPointProperties.LOCAL_CENTER"></a>
 
-#### LOCAL_CENTER
+#### LOCAL\_CENTER
 
 10: The local center location of the point's volume, halfway between the minimum and maximum bounds.
 
@@ -86,13 +86,13 @@ EPCGPoint Properties
 
 <a id="unreal.PCGPointProperties.LOCAL_SIZE"></a>
 
-#### LOCAL_SIZE
+#### LOCAL\_SIZE
 
 12: The difference between the maximum and minimum bounds of the point.
 
 <a id="unreal.PCGPointProperties.SCALED_LOCAL_SIZE"></a>
 
-#### SCALED_LOCAL_SIZE
+#### SCALED\_LOCAL\_SIZE
 
 13: The difference between the maximum and minimum bounds of the point, after only the scale has been applied.
 

@@ -17,4 +17,4 @@ The Animation Sharing Setup asset contains all the information that will be shar
 - ``scalability_settings`` (AnimationSharingScalability):  [Read-Write]
 - ``skeleton_setups`` (Array[PerSkeletonAnimationSharingSetup]):  [Read-Write]
 
-<a id="unreal.TemplateSequence"></a>
+<a id="unreal.ImgMediaPlaybackComponent"></a>

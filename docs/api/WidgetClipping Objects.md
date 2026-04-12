@@ -23,13 +23,13 @@ additional GPU overhead.
 
 <a id="unreal.WidgetClipping.CLIP_TO_BOUNDS"></a>
 
-#### CLIP_TO_BOUNDS
+#### CLIP\_TO\_BOUNDS
 
 1: This widget clips content the bounds of this widget.  It intersects those bounds with any previous clipping area.
 
 <a id="unreal.WidgetClipping.CLIP_TO_BOUNDS_WITHOUT_INTERSECTING"></a>
 
-#### CLIP_TO_BOUNDS_WITHOUT_INTERSECTING
+#### CLIP\_TO\_BOUNDS\_WITHOUT\_INTERSECTING
 
 2: This widget clips to its bounds.  It does NOT intersect with any existing clipping geometry, it pushes a new clipping
 state.  Effectively allowing it to render outside the bounds of hierarchy that does clip.
@@ -38,7 +38,7 @@ NOTE: This will NOT allow you ignore the clipping zone that is set to [Yes - Alw
 
 <a id="unreal.WidgetClipping.CLIP_TO_BOUNDS_ALWAYS"></a>
 
-#### CLIP_TO_BOUNDS_ALWAYS
+#### CLIP\_TO\_BOUNDS\_ALWAYS
 
 3: This widget clips to its bounds.  It intersects those bounds with any previous clipping area.
 
@@ -47,7 +47,7 @@ in the UI where you never want animations or other effects to break this region.
 
 <a id="unreal.WidgetClipping.ON_DEMAND"></a>
 
-#### ON_DEMAND
+#### ON\_DEMAND
 
 4: This widget clips to its bounds when it's Desired Size is larger than the allocated geometry
 the widget is given.  If that occurs, it work like [Yes].

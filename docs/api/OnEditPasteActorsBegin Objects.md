@@ -13,7 +13,7 @@ delegate type for before edit paste actors is handled
 
 <a id="unreal.OnEditPasteActorsBegin.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

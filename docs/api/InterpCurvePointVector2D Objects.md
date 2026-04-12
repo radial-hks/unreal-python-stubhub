@@ -22,7 +22,7 @@ note: This is a mirror of TInterpCurvePoint<FVector2D>, defined in InterpCurvePo
 
 <a id="unreal.InterpCurvePointVector2D.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -55,7 +55,7 @@ def val(value: float) -> None
 
 <a id="unreal.InterpCurvePointVector2D.out_val"></a>
 
-#### out_val
+#### out\_val
 
 ```python
 @property
@@ -66,7 +66,7 @@ def out_val() -> Vector2D
 
 <a id="unreal.InterpCurvePointVector2D.out_val"></a>
 
-#### out_val
+#### out\_val
 
 ```python
 @out_val.setter
@@ -75,7 +75,7 @@ def out_val(value: Vector2D) -> None
 
 <a id="unreal.InterpCurvePointVector2D.arrive_tangent"></a>
 
-#### arrive_tangent
+#### arrive\_tangent
 
 ```python
 @property
@@ -86,7 +86,7 @@ def arrive_tangent() -> Vector2D
 
 <a id="unreal.InterpCurvePointVector2D.arrive_tangent"></a>
 
-#### arrive_tangent
+#### arrive\_tangent
 
 ```python
 @arrive_tangent.setter
@@ -95,7 +95,7 @@ def arrive_tangent(value: Vector2D) -> None
 
 <a id="unreal.InterpCurvePointVector2D.leave_tangent"></a>
 
-#### leave_tangent
+#### leave\_tangent
 
 ```python
 @property
@@ -106,7 +106,7 @@ def leave_tangent() -> Vector2D
 
 <a id="unreal.InterpCurvePointVector2D.leave_tangent"></a>
 
-#### leave_tangent
+#### leave\_tangent
 
 ```python
 @leave_tangent.setter
@@ -115,7 +115,7 @@ def leave_tangent(value: Vector2D) -> None
 
 <a id="unreal.InterpCurvePointVector2D.interp_mode"></a>
 
-#### interp_mode
+#### interp\_mode
 
 ```python
 @property
@@ -126,7 +126,7 @@ def interp_mode() -> InterpCurveMode
 
 <a id="unreal.InterpCurvePointVector2D.interp_mode"></a>
 
-#### interp_mode
+#### interp\_mode
 
 ```python
 @interp_mode.setter

@@ -17,7 +17,7 @@ Movie scene animation for Actors.
 
 <a id="unreal.LevelSequence.remove_meta_data_by_class"></a>
 
-#### remove_meta_data_by_class
+#### remove\_meta\_data\_by\_class
 
 ```python
 def remove_meta_data_by_class(class_: Class) -> None
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.LevelSequence.find_or_add_meta_data_by_class"></a>
 
-#### find_or_add_meta_data_by_class
+#### find\_or\_add\_meta\_data\_by\_class
 
 ```python
 def find_or_add_meta_data_by_class(class_: Class) -> Object
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.LevelSequence.find_meta_data_by_class"></a>
 
-#### find_meta_data_by_class
+#### find\_meta\_data\_by\_class
 
 ```python
 def find_meta_data_by_class(class_: Class) -> Object
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.LevelSequence.copy_meta_data"></a>
 
-#### copy_meta_data
+#### copy\_meta\_data
 
 ```python
 def copy_meta_data(meta_data: Object) -> Object
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.LevelSequence.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.LevelSequence.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.LevelSequence.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

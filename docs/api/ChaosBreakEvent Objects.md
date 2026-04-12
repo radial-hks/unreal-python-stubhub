@@ -24,7 +24,7 @@ Chaos Break Event
 
 <a id="unreal.ChaosBreakEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component: PrimitiveComponent = None,
@@ -72,7 +72,7 @@ def velocity() -> Vector
 
 <a id="unreal.ChaosBreakEvent.angular_velocity"></a>
 
-#### angular_velocity
+#### angular\_velocity
 
 ```python
 @property
@@ -116,7 +116,7 @@ def index() -> int
 
 <a id="unreal.ChaosBreakEvent.from_crumble"></a>
 
-#### from_crumble
+#### from\_crumble
 
 ```python
 @property

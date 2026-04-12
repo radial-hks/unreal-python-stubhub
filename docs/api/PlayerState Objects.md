@@ -164,7 +164,7 @@ def score() -> float
 
 <a id="unreal.PlayerState.player_id"></a>
 
-#### player_id
+#### player\_id
 
 ```python
 @property
@@ -175,7 +175,7 @@ def player_id() -> int
 
 <a id="unreal.PlayerState.compressed_ping"></a>
 
-#### compressed_ping
+#### compressed\_ping
 
 ```python
 @property
@@ -197,7 +197,7 @@ deprecated: 'ping' was renamed to 'compressed_ping'.
 
 <a id="unreal.PlayerState.is_spectator"></a>
 
-#### is_spectator
+#### is\_spectator
 
 ```python
 @property
@@ -208,7 +208,7 @@ def is_spectator() -> bool
 
 <a id="unreal.PlayerState.is_a_bot"></a>
 
-#### is_a_bot
+#### is\_a\_bot
 
 ```python
 @property
@@ -219,7 +219,7 @@ def is_a_bot() -> bool
 
 <a id="unreal.PlayerState.on_pawn_set"></a>
 
-#### on_pawn_set
+#### on\_pawn\_set
 
 ```python
 @property
@@ -230,7 +230,7 @@ def on_pawn_set() -> OnPlayerStatePawnSet
 
 <a id="unreal.PlayerState.on_pawn_set"></a>
 
-#### on_pawn_set
+#### on\_pawn\_set
 
 ```python
 @on_pawn_set.setter
@@ -239,7 +239,7 @@ def on_pawn_set(value: OnPlayerStatePawnSet) -> None
 
 <a id="unreal.PlayerState.pawn_private"></a>
 
-#### pawn_private
+#### pawn\_private
 
 ```python
 @property
@@ -250,7 +250,7 @@ def pawn_private() -> Pawn
 
 <a id="unreal.PlayerState.receive_override_with"></a>
 
-#### receive_override_with
+#### receive\_override\_with
 
 ```python
 def receive_override_with(old_player_state: PlayerState) -> None
@@ -266,7 +266,7 @@ Args:
 
 <a id="unreal.PlayerState.receive_copy_properties"></a>
 
-#### receive_copy_properties
+#### receive\_copy\_properties
 
 ```python
 def receive_copy_properties(new_player_state: PlayerState) -> None
@@ -282,7 +282,7 @@ Args:
 
 <a id="unreal.PlayerState.is_only_a_spectator"></a>
 
-#### is_only_a_spectator
+#### is\_only\_a\_spectator
 
 ```python
 def is_only_a_spectator() -> bool
@@ -296,7 +296,7 @@ Returns:
 
 <a id="unreal.PlayerState.get_player_name"></a>
 
-#### get_player_name
+#### get\_player\_name
 
 ```python
 def get_player_name() -> str
@@ -310,7 +310,7 @@ Returns:
 
 <a id="unreal.PlayerState.get_player_controller"></a>
 
-#### get_player_controller
+#### get\_player\_controller
 
 ```python
 def get_player_controller() -> PlayerController
@@ -324,7 +324,7 @@ Returns:
 
 <a id="unreal.PlayerState.get_ping_in_milliseconds"></a>
 
-#### get_ping_in_milliseconds
+#### get\_ping\_in\_milliseconds
 
 ```python
 def get_ping_in_milliseconds() -> float
@@ -345,7 +345,7 @@ Returns:
 
 <a id="unreal.PlayerState.get_pawn"></a>
 
-#### get_pawn
+#### get\_pawn
 
 ```python
 def get_pawn() -> Pawn
@@ -359,7 +359,7 @@ Returns:
 
 <a id="unreal.PlayerState.bp_get_unique_id"></a>
 
-#### bp_get_unique_id
+#### bp\_get\_unique\_id
 
 ```python
 def bp_get_unique_id() -> UniqueNetIdRepl

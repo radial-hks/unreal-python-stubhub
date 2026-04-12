@@ -18,7 +18,7 @@ Tool Menu Insert
 
 <a id="unreal.ToolMenuInsert.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

@@ -13,7 +13,7 @@ Engine Elements Library
 
 <a id="unreal.EngineElementsLibrary.k2_acquire_editor_sm_instance_element_handle"></a>
 
-#### k2_acquire_editor_sm_instance_element_handle
+#### k2\_acquire\_editor\_sm\_instance\_element\_handle
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.EngineElementsLibrary.k2_acquire_editor_object_element_handle"></a>
 
-#### k2_acquire_editor_object_element_handle
+#### k2\_acquire\_editor\_object\_element\_handle
 
 ```python
 @classmethod
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.EngineElementsLibrary.k2_acquire_editor_component_element_handle"></a>
 
-#### k2_acquire_editor_component_element_handle
+#### k2\_acquire\_editor\_component\_element\_handle
 
 ```python
 @classmethod
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.EngineElementsLibrary.k2_acquire_editor_actor_element_handle"></a>
 
-#### k2_acquire_editor_actor_element_handle
+#### k2\_acquire\_editor\_actor\_element\_handle
 
 ```python
 @classmethod

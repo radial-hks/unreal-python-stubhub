@@ -13,7 +13,7 @@ Compiled reflection pointers for the event function and parameters
 
 <a id="unreal.MovieSceneEventPtrs.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

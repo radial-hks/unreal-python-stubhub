@@ -17,7 +17,7 @@ If you wish to modify a subobject, use the SubobjectDataSubsystem.
 
 <a id="unreal.SubobjectData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

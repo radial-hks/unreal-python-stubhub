@@ -20,7 +20,7 @@ Uniform Remeshing Options
 
 <a id="unreal.GeometryScriptUniformRemeshOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -33,7 +33,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptUniformRemeshOptions.target_type"></a>
 
-#### target_type
+#### target\_type
 
 ```python
 @property
@@ -44,7 +44,7 @@ def target_type() -> GeometryScriptUniformRemeshTargetType
 
 <a id="unreal.GeometryScriptUniformRemeshOptions.target_type"></a>
 
-#### target_type
+#### target\_type
 
 ```python
 @target_type.setter
@@ -53,7 +53,7 @@ def target_type(value: GeometryScriptUniformRemeshTargetType) -> None
 
 <a id="unreal.GeometryScriptUniformRemeshOptions.target_triangle_count"></a>
 
-#### target_triangle_count
+#### target\_triangle\_count
 
 ```python
 @property
@@ -64,7 +64,7 @@ def target_triangle_count() -> int
 
 <a id="unreal.GeometryScriptUniformRemeshOptions.target_triangle_count"></a>
 
-#### target_triangle_count
+#### target\_triangle\_count
 
 ```python
 @target_triangle_count.setter
@@ -73,7 +73,7 @@ def target_triangle_count(value: int) -> None
 
 <a id="unreal.GeometryScriptUniformRemeshOptions.target_edge_length"></a>
 
-#### target_edge_length
+#### target\_edge\_length
 
 ```python
 @property
@@ -84,7 +84,7 @@ def target_edge_length() -> float
 
 <a id="unreal.GeometryScriptUniformRemeshOptions.target_edge_length"></a>
 
-#### target_edge_length
+#### target\_edge\_length
 
 ```python
 @target_edge_length.setter

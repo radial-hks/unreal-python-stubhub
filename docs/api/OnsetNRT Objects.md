@@ -34,7 +34,7 @@ def settings() -> OnsetNRTSettings
 
 <a id="unreal.OnsetNRT.get_normalized_channel_onsets_between_times"></a>
 
-#### get_normalized_channel_onsets_between_times
+#### get\_normalized\_channel\_onsets\_between\_times
 
 ```python
 def get_normalized_channel_onsets_between_times(
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.OnsetNRT.get_channel_onsets_between_times"></a>
 
-#### get_channel_onsets_between_times
+#### get\_channel\_onsets\_between\_times
 
 ```python
 def get_channel_onsets_between_times(

@@ -13,7 +13,7 @@ Script exposed functionality for populating, retrieving data from and setting da
 
 <a id="unreal.AnimPoseExtensions.set_bone_pose"></a>
 
-#### set_bone_pose
+#### set\_bone\_pose
 
 ```python
 @classmethod
@@ -40,7 +40,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @classmethod
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_socket_pose"></a>
 
-#### get_socket_pose
+#### get\_socket\_pose
 
 ```python
 @classmethod
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_socket_names"></a>
 
-#### get_socket_names
+#### get\_socket\_names
 
 ```python
 @classmethod
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_relative_transform"></a>
 
-#### get_relative_transform
+#### get\_relative\_transform
 
 ```python
 @classmethod
@@ -127,7 +127,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_relative_to_ref_pose_transform"></a>
 
-#### get_relative_to_ref_pose_transform
+#### get\_relative\_to\_ref\_pose\_transform
 
 ```python
 @classmethod
@@ -151,7 +151,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_ref_pose_relative_transform"></a>
 
-#### get_ref_pose_relative_transform
+#### get\_ref\_pose\_relative\_transform
 
 ```python
 @classmethod
@@ -177,7 +177,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_reference_pose"></a>
 
-#### get_reference_pose
+#### get\_reference\_pose
 
 ```python
 @classmethod
@@ -197,7 +197,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_ref_bone_pose"></a>
 
-#### get_ref_bone_pose
+#### get\_ref\_bone\_pose
 
 ```python
 @classmethod
@@ -221,7 +221,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_curve_weight"></a>
 
-#### get_curve_weight
+#### get\_curve\_weight
 
 ```python
 @classmethod
@@ -240,7 +240,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_curve_names"></a>
 
-#### get_curve_names
+#### get\_curve\_names
 
 ```python
 @classmethod
@@ -260,7 +260,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_bone_pose"></a>
 
-#### get_bone_pose
+#### get\_bone\_pose
 
 ```python
 @classmethod
@@ -283,7 +283,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_bone_names"></a>
 
-#### get_bone_names
+#### get\_bone\_names
 
 ```python
 @classmethod
@@ -303,7 +303,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_anim_pose_at_time"></a>
 
-#### get_anim_pose_at_time
+#### get\_anim\_pose\_at\_time
 
 ```python
 @classmethod
@@ -327,7 +327,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.get_anim_pose_at_frame"></a>
 
-#### get_anim_pose_at_frame
+#### get\_anim\_pose\_at\_frame
 
 ```python
 @classmethod
@@ -351,7 +351,7 @@ Returns:
 
 <a id="unreal.AnimPoseExtensions.evaluate_animation_blueprint_with_input_pose"></a>
 
-#### evaluate_animation_blueprint_with_input_pose
+#### evaluate\_animation\_blueprint\_with\_input\_pose
 
 ```python
 @classmethod

@@ -14,13 +14,13 @@ EFix Tiny Geo Neighbor Selection Method
 
 <a id="unreal.FixTinyGeoNeighborSelectionMethod.LARGEST_NEIGHBOR"></a>
 
-#### LARGEST_NEIGHBOR
+#### LARGEST\_NEIGHBOR
 
 0: Merge to the neighbor with the largest volume
 
 <a id="unreal.FixTinyGeoNeighborSelectionMethod.NEAREST_CENTER"></a>
 
-#### NEAREST_CENTER
+#### NEAREST\_CENTER
 
 1: Merge to the neighbor with the closest center
 

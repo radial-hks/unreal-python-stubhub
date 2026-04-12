@@ -29,7 +29,7 @@ def settings() -> SourceEffectEnvelopeFollowerSettings
 
 <a id="unreal.SourceEffectEnvelopeFollowerPreset.unregister_envelope_follower_listener"></a>
 
-#### unregister_envelope_follower_listener
+#### unregister\_envelope\_follower\_listener
 
 ```python
 def unregister_envelope_follower_listener(
@@ -44,7 +44,7 @@ Args:
 
 <a id="unreal.SourceEffectEnvelopeFollowerPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectEnvelopeFollowerSettings) -> None
@@ -58,7 +58,7 @@ Args:
 
 <a id="unreal.SourceEffectEnvelopeFollowerPreset.register_envelope_follower_listener"></a>
 
-#### register_envelope_follower_listener
+#### register\_envelope\_follower\_listener
 
 ```python
 def register_envelope_follower_listener(

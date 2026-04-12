@@ -30,7 +30,7 @@ A submix dynamics processor
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -57,7 +57,7 @@ def __init__(
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.dynamics_processor_type"></a>
 
-#### dynamics_processor_type
+#### dynamics\_processor\_type
 
 ```python
 @property
@@ -68,7 +68,7 @@ def dynamics_processor_type() -> SubmixEffectDynamicsProcessorType
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.dynamics_processor_type"></a>
 
-#### dynamics_processor_type
+#### dynamics\_processor\_type
 
 ```python
 @dynamics_processor_type.setter
@@ -77,7 +77,7 @@ def dynamics_processor_type(value: SubmixEffectDynamicsProcessorType) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.peak_mode"></a>
 
-#### peak_mode
+#### peak\_mode
 
 ```python
 @property
@@ -88,7 +88,7 @@ def peak_mode() -> SubmixEffectDynamicsPeakMode
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.peak_mode"></a>
 
-#### peak_mode
+#### peak\_mode
 
 ```python
 @peak_mode.setter
@@ -97,7 +97,7 @@ def peak_mode(value: SubmixEffectDynamicsPeakMode) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.link_mode"></a>
 
-#### link_mode
+#### link\_mode
 
 ```python
 @property
@@ -108,7 +108,7 @@ def link_mode() -> SubmixEffectDynamicsChannelLinkMode
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.link_mode"></a>
 
-#### link_mode
+#### link\_mode
 
 ```python
 @link_mode.setter
@@ -117,7 +117,7 @@ def link_mode(value: SubmixEffectDynamicsChannelLinkMode) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.look_ahead_msec"></a>
 
-#### look_ahead_msec
+#### look\_ahead\_msec
 
 ```python
 @property
@@ -128,7 +128,7 @@ def look_ahead_msec() -> float
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.look_ahead_msec"></a>
 
-#### look_ahead_msec
+#### look\_ahead\_msec
 
 ```python
 @look_ahead_msec.setter
@@ -137,7 +137,7 @@ def look_ahead_msec(value: float) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.analog_mode"></a>
 
-#### analog_mode
+#### analog\_mode
 
 ```python
 @property
@@ -148,7 +148,7 @@ def analog_mode() -> bool
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.analog_mode"></a>
 
-#### analog_mode
+#### analog\_mode
 
 ```python
 @analog_mode.setter
@@ -157,7 +157,7 @@ def analog_mode(value: bool) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.four_pole"></a>
 
-#### four_pole
+#### four\_pole
 
 ```python
 @property
@@ -168,7 +168,7 @@ def four_pole() -> bool
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.four_pole"></a>
 
-#### four_pole
+#### four\_pole
 
 ```python
 @four_pole.setter
@@ -197,7 +197,7 @@ def bypass(value: bool) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.key_source"></a>
 
-#### key_source
+#### key\_source
 
 ```python
 @property
@@ -208,7 +208,7 @@ def key_source() -> SubmixEffectDynamicsKeySource
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.key_source"></a>
 
-#### key_source
+#### key\_source
 
 ```python
 @key_source.setter
@@ -217,7 +217,7 @@ def key_source(value: SubmixEffectDynamicsKeySource) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.external_audio_bus"></a>
 
-#### external_audio_bus
+#### external\_audio\_bus
 
 ```python
 @property
@@ -228,7 +228,7 @@ def external_audio_bus() -> AudioBus
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.external_audio_bus"></a>
 
-#### external_audio_bus
+#### external\_audio\_bus
 
 ```python
 @external_audio_bus.setter
@@ -237,7 +237,7 @@ def external_audio_bus(value: AudioBus) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.external_submix"></a>
 
-#### external_submix
+#### external\_submix
 
 ```python
 @property
@@ -248,7 +248,7 @@ def external_submix() -> SoundSubmix
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.external_submix"></a>
 
-#### external_submix
+#### external\_submix
 
 ```python
 @external_submix.setter
@@ -257,7 +257,7 @@ def external_submix(value: SoundSubmix) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.key_gain_db"></a>
 
-#### key_gain_db
+#### key\_gain\_db
 
 ```python
 @property
@@ -268,7 +268,7 @@ def key_gain_db() -> float
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.key_gain_db"></a>
 
-#### key_gain_db
+#### key\_gain\_db
 
 ```python
 @key_gain_db.setter
@@ -277,7 +277,7 @@ def key_gain_db(value: float) -> None
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.key_audition"></a>
 
-#### key_audition
+#### key\_audition
 
 ```python
 @property
@@ -288,7 +288,7 @@ def key_audition() -> bool
 
 <a id="unreal.SubmixEffectMultibandCompressorSettings.key_audition"></a>
 
-#### key_audition
+#### key\_audition
 
 ```python
 @key_audition.setter

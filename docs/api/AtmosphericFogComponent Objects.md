@@ -75,7 +75,7 @@ Used to create fogging effects such as clouds.
 
 <a id="unreal.AtmosphericFogComponent.set_sun_multiplier"></a>
 
-#### set_sun_multiplier
+#### set\_sun\_multiplier
 
 ```python
 def set_sun_multiplier(new_sun_multiplier: float) -> None
@@ -89,7 +89,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_start_distance"></a>
 
-#### set_start_distance
+#### set\_start\_distance
 
 ```python
 def set_start_distance(new_start_distance: float) -> None
@@ -103,7 +103,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_precompute_params"></a>
 
-#### set_precompute_params
+#### set\_precompute\_params
 
 ```python
 def set_precompute_params(density_height: float, max_scattering_order: int,
@@ -120,7 +120,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_fog_multiplier"></a>
 
-#### set_fog_multiplier
+#### set\_fog\_multiplier
 
 ```python
 def set_fog_multiplier(new_fog_multiplier: float) -> None
@@ -134,7 +134,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_distance_scale"></a>
 
-#### set_distance_scale
+#### set\_distance\_scale
 
 ```python
 def set_distance_scale(new_distance_scale: float) -> None
@@ -148,7 +148,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_distance_offset"></a>
 
-#### set_distance_offset
+#### set\_distance\_offset
 
 ```python
 def set_distance_offset(new_distance_offset: float) -> None
@@ -162,7 +162,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_density_offset"></a>
 
-#### set_density_offset
+#### set\_density\_offset
 
 ```python
 def set_density_offset(new_density_offset: float) -> None
@@ -176,7 +176,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_density_multiplier"></a>
 
-#### set_density_multiplier
+#### set\_density\_multiplier
 
 ```python
 def set_density_multiplier(new_density_multiplier: float) -> None
@@ -190,7 +190,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_default_light_color"></a>
 
-#### set_default_light_color
+#### set\_default\_light\_color
 
 ```python
 def set_default_light_color(new_light_color: LinearColor) -> None
@@ -204,7 +204,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_default_brightness"></a>
 
-#### set_default_brightness
+#### set\_default\_brightness
 
 ```python
 def set_default_brightness(new_brightness: float) -> None
@@ -218,7 +218,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.set_altitude_scale"></a>
 
-#### set_altitude_scale
+#### set\_altitude\_scale
 
 ```python
 def set_altitude_scale(new_altitude_scale: float) -> None
@@ -232,7 +232,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.disable_sun_disk"></a>
 
-#### disable_sun_disk
+#### disable\_sun\_disk
 
 ```python
 def disable_sun_disk(new_sun_disk: bool) -> None
@@ -246,7 +246,7 @@ Args:
 
 <a id="unreal.AtmosphericFogComponent.disable_ground_scattering"></a>
 
-#### disable_ground_scattering
+#### disable\_ground\_scattering
 
 ```python
 def disable_ground_scattering(new_ground_scattering: bool) -> None

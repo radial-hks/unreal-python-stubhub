@@ -15,7 +15,7 @@ Allows other objects to get audio buffers from the capture device.
 
 <a id="unreal.AudioCapture.stop_capturing_audio"></a>
 
-#### stop_capturing_audio
+#### stop\_capturing\_audio
 
 ```python
 def stop_capturing_audio() -> None
@@ -26,7 +26,7 @@ Stops capturing audio
 
 <a id="unreal.AudioCapture.start_capturing_audio"></a>
 
-#### start_capturing_audio
+#### start\_capturing\_audio
 
 ```python
 def start_capturing_audio() -> None
@@ -37,7 +37,7 @@ Starts capturing audio
 
 <a id="unreal.AudioCapture.is_capturing_audio"></a>
 
-#### is_capturing_audio
+#### is\_capturing\_audio
 
 ```python
 def is_capturing_audio() -> bool
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.AudioCapture.get_audio_capture_device_info"></a>
 
-#### get_audio_capture_device_info
+#### get\_audio\_capture\_device\_info
 
 ```python
 def get_audio_capture_device_info() -> Optional[AudioCaptureDeviceInfo]

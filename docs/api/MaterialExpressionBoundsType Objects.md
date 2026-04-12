@@ -13,19 +13,19 @@ EMaterial Expression Bounds Type
 
 <a id="unreal.MaterialExpressionBoundsType.MEILB_INSTANCE_LOCAL"></a>
 
-#### MEILB_INSTANCE_LOCAL
+#### MEILB\_INSTANCE\_LOCAL
 
 0: Instance local
 
 <a id="unreal.MaterialExpressionBoundsType.MEILB_OBJECT_LOCAL"></a>
 
-#### MEILB_OBJECT_LOCAL
+#### MEILB\_OBJECT\_LOCAL
 
 1: Object local
 
 <a id="unreal.MaterialExpressionBoundsType.MEILB_PRE_SKINNED_LOCAL"></a>
 
-#### MEILB_PRE_SKINNED_LOCAL
+#### MEILB\_PRE\_SKINNED\_LOCAL
 
 2: Skinned local
 

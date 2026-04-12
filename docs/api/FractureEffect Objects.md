@@ -18,7 +18,7 @@ Struct used to hold effects for destructible damage events
 
 <a id="unreal.FractureEffect.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(particle_system: ParticleSystem = None,
@@ -27,7 +27,7 @@ def __init__(particle_system: ParticleSystem = None,
 
 <a id="unreal.FractureEffect.particle_system"></a>
 
-#### particle_system
+#### particle\_system
 
 ```python
 @property
@@ -38,7 +38,7 @@ def particle_system() -> ParticleSystem
 
 <a id="unreal.FractureEffect.particle_system"></a>
 
-#### particle_system
+#### particle\_system
 
 ```python
 @particle_system.setter

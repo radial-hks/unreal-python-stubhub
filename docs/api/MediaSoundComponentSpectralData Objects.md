@@ -18,7 +18,7 @@ Media Sound Component Spectral Data
 
 <a id="unreal.MediaSoundComponentSpectralData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(frequency_hz: float = 0.000000,
@@ -27,7 +27,7 @@ def __init__(frequency_hz: float = 0.000000,
 
 <a id="unreal.MediaSoundComponentSpectralData.frequency_hz"></a>
 
-#### frequency_hz
+#### frequency\_hz
 
 ```python
 @property
@@ -38,7 +38,7 @@ def frequency_hz() -> float
 
 <a id="unreal.MediaSoundComponentSpectralData.frequency_hz"></a>
 
-#### frequency_hz
+#### frequency\_hz
 
 ```python
 @frequency_hz.setter

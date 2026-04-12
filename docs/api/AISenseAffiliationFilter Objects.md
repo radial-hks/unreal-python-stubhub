@@ -19,7 +19,7 @@ AISense Affiliation Filter
 
 <a id="unreal.AISenseAffiliationFilter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(detect_enemies: bool = False,
@@ -29,7 +29,7 @@ def __init__(detect_enemies: bool = False,
 
 <a id="unreal.AISenseAffiliationFilter.detect_enemies"></a>
 
-#### detect_enemies
+#### detect\_enemies
 
 ```python
 @property
@@ -40,7 +40,7 @@ def detect_enemies() -> bool
 
 <a id="unreal.AISenseAffiliationFilter.detect_neutrals"></a>
 
-#### detect_neutrals
+#### detect\_neutrals
 
 ```python
 @property
@@ -51,7 +51,7 @@ def detect_neutrals() -> bool
 
 <a id="unreal.AISenseAffiliationFilter.detect_friendlies"></a>
 
-#### detect_friendlies
+#### detect\_friendlies
 
 ```python
 @property

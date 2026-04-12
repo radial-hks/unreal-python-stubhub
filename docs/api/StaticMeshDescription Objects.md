@@ -13,7 +13,7 @@ A wrapper for MeshDescription, customized for static meshes
 
 <a id="unreal.StaticMeshDescription.set_vertex_instance_uv"></a>
 
-#### set_vertex_instance_uv
+#### set\_vertex\_instance\_uv
 
 ```python
 def set_vertex_instance_uv(vertex_instance_id: VertexInstanceID,
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.StaticMeshDescription.set_polygon_group_material_slot_name"></a>
 
-#### set_polygon_group_material_slot_name
+#### set\_polygon\_group\_material\_slot\_name
 
 ```python
 def set_polygon_group_material_slot_name(polygon_group_id: PolygonGroupID,
@@ -47,7 +47,7 @@ Args:
 
 <a id="unreal.StaticMeshDescription.get_vertex_instance_uv"></a>
 
-#### get_vertex_instance_uv
+#### get\_vertex\_instance\_uv
 
 ```python
 def get_vertex_instance_uv(vertex_instance_id: VertexInstanceID,
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.StaticMeshDescription.create_cube"></a>
 
-#### create_cube
+#### create\_cube
 
 ```python
 def create_cube(

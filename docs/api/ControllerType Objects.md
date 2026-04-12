@@ -19,7 +19,7 @@ EController Type
 
 <a id="unreal.ControllerType.ASSISTING_LASER"></a>
 
-#### ASSISTING_LASER
+#### ASSISTING\_LASER
 
 1
 

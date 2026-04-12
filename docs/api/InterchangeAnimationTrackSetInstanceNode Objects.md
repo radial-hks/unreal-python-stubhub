@@ -15,7 +15,7 @@ Class to represent an animation that instances another animation track set node.
 
 <a id="unreal.InterchangeAnimationTrackSetInstanceNode.set_custom_track_set_dependency_uid"></a>
 
-#### set_custom_track_set_dependency_uid
+#### set\_custom\_track\_set\_dependency\_uid
 
 ```python
 def set_custom_track_set_dependency_uid(attribute_value: str) -> bool
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetInstanceNode.set_custom_time_scale"></a>
 
-#### set_custom_time_scale
+#### set\_custom\_time\_scale
 
 ```python
 def set_custom_time_scale(attribute_value: float) -> bool
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetInstanceNode.set_custom_start_frame"></a>
 
-#### set_custom_start_frame
+#### set\_custom\_start\_frame
 
 ```python
 def set_custom_start_frame(attribute_value: int) -> bool
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetInstanceNode.set_custom_duration"></a>
 
-#### set_custom_duration
+#### set\_custom\_duration
 
 ```python
 def set_custom_duration(attribute_value: int) -> bool
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetInstanceNode.get_custom_track_set_dependency_uid"></a>
 
-#### get_custom_track_set_dependency_uid
+#### get\_custom\_track\_set\_dependency\_uid
 
 ```python
 def get_custom_track_set_dependency_uid() -> Optional[str]
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetInstanceNode.get_custom_time_scale"></a>
 
-#### get_custom_time_scale
+#### get\_custom\_time\_scale
 
 ```python
 def get_custom_time_scale() -> Optional[float]
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetInstanceNode.get_custom_start_frame"></a>
 
-#### get_custom_start_frame
+#### get\_custom\_start\_frame
 
 ```python
 def get_custom_start_frame() -> Optional[int]
@@ -131,7 +131,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetInstanceNode.get_custom_duration"></a>
 
-#### get_custom_duration
+#### get\_custom\_duration
 
 ```python
 def get_custom_duration() -> Optional[int]

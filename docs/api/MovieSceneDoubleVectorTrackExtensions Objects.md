@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto UMovieSceneDoubl
 
 <a id="unreal.MovieSceneDoubleVectorTrackExtensions.set_num_channels_used"></a>
 
-#### set_num_channels_used
+#### set\_num\_channels\_used
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.MovieSceneDoubleVectorTrackExtensions.get_num_channels_used"></a>
 
-#### get_num_channels_used
+#### get\_num\_channels\_used
 
 ```python
 @classmethod

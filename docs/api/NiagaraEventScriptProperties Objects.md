@@ -25,10 +25,10 @@ Niagara Event Script Properties
 
 <a id="unreal.NiagaraEventScriptProperties.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.DaySequenceCollectionEntry"></a>
+<a id="unreal.ResponseChannel"></a>

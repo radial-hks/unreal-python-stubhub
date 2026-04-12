@@ -44,7 +44,7 @@ Rig Control Settings
 
 <a id="unreal.RigControlSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -75,7 +75,7 @@ def __init__(
 
 <a id="unreal.RigControlSettings.animation_type"></a>
 
-#### animation_type
+#### animation\_type
 
 ```python
 @property
@@ -86,7 +86,7 @@ def animation_type() -> RigControlAnimationType
 
 <a id="unreal.RigControlSettings.animation_type"></a>
 
-#### animation_type
+#### animation\_type
 
 ```python
 @animation_type.setter
@@ -95,7 +95,7 @@ def animation_type(value: RigControlAnimationType) -> None
 
 <a id="unreal.RigControlSettings.control_type"></a>
 
-#### control_type
+#### control\_type
 
 ```python
 @property
@@ -106,7 +106,7 @@ def control_type() -> RigControlType
 
 <a id="unreal.RigControlSettings.control_type"></a>
 
-#### control_type
+#### control\_type
 
 ```python
 @control_type.setter
@@ -115,7 +115,7 @@ def control_type(value: RigControlType) -> None
 
 <a id="unreal.RigControlSettings.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property
@@ -126,7 +126,7 @@ def display_name() -> Name
 
 <a id="unreal.RigControlSettings.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @display_name.setter
@@ -135,7 +135,7 @@ def display_name(value: Name) -> None
 
 <a id="unreal.RigControlSettings.primary_axis"></a>
 
-#### primary_axis
+#### primary\_axis
 
 ```python
 @property
@@ -146,7 +146,7 @@ def primary_axis() -> RigControlAxis
 
 <a id="unreal.RigControlSettings.primary_axis"></a>
 
-#### primary_axis
+#### primary\_axis
 
 ```python
 @primary_axis.setter
@@ -155,7 +155,7 @@ def primary_axis(value: RigControlAxis) -> None
 
 <a id="unreal.RigControlSettings.limit_enabled"></a>
 
-#### limit_enabled
+#### limit\_enabled
 
 ```python
 @property
@@ -166,7 +166,7 @@ def limit_enabled() -> Array[RigControlLimitEnabled]
 
 <a id="unreal.RigControlSettings.limit_enabled"></a>
 
-#### limit_enabled
+#### limit\_enabled
 
 ```python
 @limit_enabled.setter
@@ -175,7 +175,7 @@ def limit_enabled(value: Array[RigControlLimitEnabled]) -> None
 
 <a id="unreal.RigControlSettings.draw_limits"></a>
 
-#### draw_limits
+#### draw\_limits
 
 ```python
 @property
@@ -187,7 +187,7 @@ For this to be enabled you need to have at least one min and max limit turned on
 
 <a id="unreal.RigControlSettings.draw_limits"></a>
 
-#### draw_limits
+#### draw\_limits
 
 ```python
 @draw_limits.setter
@@ -196,7 +196,7 @@ def draw_limits(value: bool) -> None
 
 <a id="unreal.RigControlSettings.minimum_value"></a>
 
-#### minimum_value
+#### minimum\_value
 
 ```python
 @property
@@ -207,7 +207,7 @@ def minimum_value() -> RigControlValue
 
 <a id="unreal.RigControlSettings.minimum_value"></a>
 
-#### minimum_value
+#### minimum\_value
 
 ```python
 @minimum_value.setter
@@ -216,7 +216,7 @@ def minimum_value(value: RigControlValue) -> None
 
 <a id="unreal.RigControlSettings.maximum_value"></a>
 
-#### maximum_value
+#### maximum\_value
 
 ```python
 @property
@@ -227,7 +227,7 @@ def maximum_value() -> RigControlValue
 
 <a id="unreal.RigControlSettings.maximum_value"></a>
 
-#### maximum_value
+#### maximum\_value
 
 ```python
 @maximum_value.setter
@@ -236,7 +236,7 @@ def maximum_value(value: RigControlValue) -> None
 
 <a id="unreal.RigControlSettings.shape_visible"></a>
 
-#### shape_visible
+#### shape\_visible
 
 ```python
 @property
@@ -247,7 +247,7 @@ def shape_visible() -> bool
 
 <a id="unreal.RigControlSettings.shape_visible"></a>
 
-#### shape_visible
+#### shape\_visible
 
 ```python
 @shape_visible.setter
@@ -256,7 +256,7 @@ def shape_visible(value: bool) -> None
 
 <a id="unreal.RigControlSettings.b_gizmo_visible"></a>
 
-#### b_gizmo_visible
+#### b\_gizmo\_visible
 
 ```python
 @property
@@ -267,7 +267,7 @@ deprecated: 'b_gizmo_visible' was renamed to 'shape_visible'.
 
 <a id="unreal.RigControlSettings.b_gizmo_visible"></a>
 
-#### b_gizmo_visible
+#### b\_gizmo\_visible
 
 ```python
 @b_gizmo_visible.setter
@@ -276,7 +276,7 @@ def b_gizmo_visible(value: bool) -> None
 
 <a id="unreal.RigControlSettings.shape_visibility"></a>
 
-#### shape_visibility
+#### shape\_visibility
 
 ```python
 @property
@@ -287,7 +287,7 @@ def shape_visibility() -> RigControlVisibility
 
 <a id="unreal.RigControlSettings.shape_visibility"></a>
 
-#### shape_visibility
+#### shape\_visibility
 
 ```python
 @shape_visibility.setter
@@ -296,7 +296,7 @@ def shape_visibility(value: RigControlVisibility) -> None
 
 <a id="unreal.RigControlSettings.shape_name"></a>
 
-#### shape_name
+#### shape\_name
 
 ```python
 @property
@@ -307,7 +307,7 @@ def shape_name() -> Name
 
 <a id="unreal.RigControlSettings.shape_name"></a>
 
-#### shape_name
+#### shape\_name
 
 ```python
 @shape_name.setter
@@ -316,7 +316,7 @@ def shape_name(value: Name) -> None
 
 <a id="unreal.RigControlSettings.gizmo_name"></a>
 
-#### gizmo_name
+#### gizmo\_name
 
 ```python
 @property
@@ -327,7 +327,7 @@ deprecated: 'gizmo_name' was renamed to 'shape_name'.
 
 <a id="unreal.RigControlSettings.gizmo_name"></a>
 
-#### gizmo_name
+#### gizmo\_name
 
 ```python
 @gizmo_name.setter
@@ -336,7 +336,7 @@ def gizmo_name(value: Name) -> None
 
 <a id="unreal.RigControlSettings.shape_color"></a>
 
-#### shape_color
+#### shape\_color
 
 ```python
 @property
@@ -347,7 +347,7 @@ def shape_color() -> LinearColor
 
 <a id="unreal.RigControlSettings.shape_color"></a>
 
-#### shape_color
+#### shape\_color
 
 ```python
 @shape_color.setter
@@ -356,7 +356,7 @@ def shape_color(value: LinearColor) -> None
 
 <a id="unreal.RigControlSettings.gizmo_color"></a>
 
-#### gizmo_color
+#### gizmo\_color
 
 ```python
 @property
@@ -367,7 +367,7 @@ deprecated: 'gizmo_color' was renamed to 'shape_color'.
 
 <a id="unreal.RigControlSettings.gizmo_color"></a>
 
-#### gizmo_color
+#### gizmo\_color
 
 ```python
 @gizmo_color.setter
@@ -376,7 +376,7 @@ def gizmo_color(value: LinearColor) -> None
 
 <a id="unreal.RigControlSettings.is_transient_control"></a>
 
-#### is_transient_control
+#### is\_transient\_control
 
 ```python
 @property
@@ -387,7 +387,7 @@ def is_transient_control() -> bool
 
 <a id="unreal.RigControlSettings.is_transient_control"></a>
 
-#### is_transient_control
+#### is\_transient\_control
 
 ```python
 @is_transient_control.setter
@@ -396,7 +396,7 @@ def is_transient_control(value: bool) -> None
 
 <a id="unreal.RigControlSettings.control_enum"></a>
 
-#### control_enum
+#### control\_enum
 
 ```python
 @property
@@ -419,7 +419,7 @@ This will be used as the default content for the space picker and other widgets
 
 <a id="unreal.RigControlSettings.driven_controls"></a>
 
-#### driven_controls
+#### driven\_controls
 
 ```python
 @property
@@ -430,7 +430,7 @@ def driven_controls() -> Array[RigElementKey]
 
 <a id="unreal.RigControlSettings.group_with_parent_control"></a>
 
-#### group_with_parent_control
+#### group\_with\_parent\_control
 
 ```python
 @property
@@ -441,7 +441,7 @@ def group_with_parent_control() -> bool
 
 <a id="unreal.RigControlSettings.restrict_space_switching"></a>
 
-#### restrict_space_switching
+#### restrict\_space\_switching
 
 ```python
 @property
@@ -452,7 +452,7 @@ def restrict_space_switching() -> bool
 
 <a id="unreal.RigControlSettings.filtered_channels"></a>
 
-#### filtered_channels
+#### filtered\_channels
 
 ```python
 @property
@@ -463,7 +463,7 @@ def filtered_channels() -> Array[RigControlTransformChannel]
 
 <a id="unreal.RigControlSettings.preferred_rotation_order"></a>
 
-#### preferred_rotation_order
+#### preferred\_rotation\_order
 
 ```python
 @property
@@ -474,7 +474,7 @@ def preferred_rotation_order() -> EulerRotationOrder
 
 <a id="unreal.RigControlSettings.use_preferred_rotation_order"></a>
 
-#### use_preferred_rotation_order
+#### use\_preferred\_rotation\_order
 
 ```python
 @property
@@ -506,7 +506,7 @@ def animatable(value: bool) -> None
 
 <a id="unreal.RigControlSettings.shape_enabled"></a>
 
-#### shape_enabled
+#### shape\_enabled
 
 ```python
 @property
@@ -518,7 +518,7 @@ deprecated: Use animation_type or shape_visible instead.
 
 <a id="unreal.RigControlSettings.shape_enabled"></a>
 
-#### shape_enabled
+#### shape\_enabled
 
 ```python
 @shape_enabled.setter
@@ -527,7 +527,7 @@ def shape_enabled(value: bool) -> None
 
 <a id="unreal.RigControlSettings.b_gizmo_enabled"></a>
 
-#### b_gizmo_enabled
+#### b\_gizmo\_enabled
 
 ```python
 @property
@@ -538,7 +538,7 @@ deprecated: 'b_gizmo_enabled' was renamed to 'shape_enabled'.
 
 <a id="unreal.RigControlSettings.b_gizmo_enabled"></a>
 
-#### b_gizmo_enabled
+#### b\_gizmo\_enabled
 
 ```python
 @b_gizmo_enabled.setter

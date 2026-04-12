@@ -17,7 +17,7 @@ Sequencer View Model Scripting Struct
 
 <a id="unreal.SequencerViewModelScriptingStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: Name = "None") -> None
@@ -36,7 +36,7 @@ def type() -> Name
 
 <a id="unreal.SequencerViewModelScriptingStruct.get_path"></a>
 
-#### get_path
+#### get\_path
 
 ```python
 def get_path() -> str
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.SequencerViewModelScriptingStruct.get_label"></a>
 
-#### get_label
+#### get\_label
 
 ```python
 def get_label() -> str

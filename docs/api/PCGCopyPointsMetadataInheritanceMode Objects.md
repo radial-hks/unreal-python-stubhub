@@ -14,25 +14,25 @@ EPCGCopy Points Metadata Inheritance Mode
 
 <a id="unreal.PCGCopyPointsMetadataInheritanceMode.SOURCE_FIRST"></a>
 
-#### SOURCE_FIRST
+#### SOURCE\_FIRST
 
 0: Points will inherit from source metadata and apply only unique attributes from target.
 
 <a id="unreal.PCGCopyPointsMetadataInheritanceMode.TARGET_FIRST"></a>
 
-#### TARGET_FIRST
+#### TARGET\_FIRST
 
 1: Points will inherit from target metadata and apply only unique attributes from source.
 
 <a id="unreal.PCGCopyPointsMetadataInheritanceMode.SOURCE_ONLY"></a>
 
-#### SOURCE_ONLY
+#### SOURCE\_ONLY
 
 2: Points will inherit metadata only from the source.
 
 <a id="unreal.PCGCopyPointsMetadataInheritanceMode.TARGET_ONLY"></a>
 
-#### TARGET_ONLY
+#### TARGET\_ONLY
 
 3: Points will inherit metadata only from the target.
 

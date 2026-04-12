@@ -13,25 +13,25 @@ EMesh Approximation Ground Plane Clipping Policy
 
 <a id="unreal.MeshApproximationGroundPlaneClippingPolicy.NO_GROUND_CLIPPING"></a>
 
-#### NO_GROUND_CLIPPING
+#### NO\_GROUND\_CLIPPING
 
 0
 
 <a id="unreal.MeshApproximationGroundPlaneClippingPolicy.DISCARD_WITH_Z_PLANE"></a>
 
-#### DISCARD_WITH_Z_PLANE
+#### DISCARD\_WITH\_Z\_PLANE
 
 1
 
 <a id="unreal.MeshApproximationGroundPlaneClippingPolicy.CUT_WITH_Z_PLANE"></a>
 
-#### CUT_WITH_Z_PLANE
+#### CUT\_WITH\_Z\_PLANE
 
 2
 
 <a id="unreal.MeshApproximationGroundPlaneClippingPolicy.CUT_AND_FILL_WITH_Z_PLANE"></a>
 
-#### CUT_AND_FILL_WITH_Z_PLANE
+#### CUT\_AND\_FILL\_WITH\_Z\_PLANE
 
 3
 

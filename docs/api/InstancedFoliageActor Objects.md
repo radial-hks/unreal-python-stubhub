@@ -141,7 +141,7 @@ Instanced Foliage Actor
 
 <a id="unreal.InstancedFoliageActor.remove_all_instances"></a>
 
-#### remove_all_instances
+#### remove\_all\_instances
 
 ```python
 @classmethod
@@ -158,7 +158,7 @@ Args:
 
 <a id="unreal.InstancedFoliageActor.add_instances"></a>
 
-#### add_instances
+#### add\_instances
 
 ```python
 @classmethod

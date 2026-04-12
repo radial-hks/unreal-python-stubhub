@@ -19,7 +19,7 @@ In App Purchase Restore Callback Proxy 2
 
 <a id="unreal.InAppPurchaseRestoreCallbackProxy2.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_success() -> InAppPurchaseRestoreResult2
 
 <a id="unreal.InAppPurchaseRestoreCallbackProxy2.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -39,7 +39,7 @@ def on_success(value: InAppPurchaseRestoreResult2) -> None
 
 <a id="unreal.InAppPurchaseRestoreCallbackProxy2.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_failure() -> InAppPurchaseRestoreResult2
 
 <a id="unreal.InAppPurchaseRestoreCallbackProxy2.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @on_failure.setter
@@ -59,7 +59,7 @@ def on_failure(value: InAppPurchaseRestoreResult2) -> None
 
 <a id="unreal.InAppPurchaseRestoreCallbackProxy2.create_proxy_object_for_in_app_purchase_restore"></a>
 
-#### create_proxy_object_for_in_app_purchase_restore
+#### create\_proxy\_object\_for\_in\_app\_purchase\_restore
 
 ```python
 @classmethod

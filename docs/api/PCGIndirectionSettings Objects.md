@@ -38,7 +38,7 @@ PCGIndirection Settings
 
 <a id="unreal.PCGIndirectionSettings.proxy_interface_mode"></a>
 
-#### proxy_interface_mode
+#### proxy\_interface\_mode
 
 ```python
 @property
@@ -49,7 +49,7 @@ def proxy_interface_mode() -> PCGProxyInterfaceMode
 
 <a id="unreal.PCGIndirectionSettings.proxy_interface_mode"></a>
 
-#### proxy_interface_mode
+#### proxy\_interface\_mode
 
 ```python
 @proxy_interface_mode.setter
@@ -78,7 +78,7 @@ def settings(value: PCGSettings) -> None
 
 <a id="unreal.PCGIndirectionSettings.tag_outputs_based_on_output_pins"></a>
 
-#### tag_outputs_based_on_output_pins
+#### tag\_outputs\_based\_on\_output\_pins
 
 ```python
 @property
@@ -89,7 +89,7 @@ def tag_outputs_based_on_output_pins() -> bool
 
 <a id="unreal.PCGIndirectionSettings.tag_outputs_based_on_output_pins"></a>
 
-#### tag_outputs_based_on_output_pins
+#### tag\_outputs\_based\_on\_output\_pins
 
 ```python
 @tag_outputs_based_on_output_pins.setter

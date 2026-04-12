@@ -19,7 +19,7 @@ Source Effect Panner Settings
 
 <a id="unreal.SourceEffectPannerSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(spread: float = 0.000000, pan: float = 0.000000) -> None

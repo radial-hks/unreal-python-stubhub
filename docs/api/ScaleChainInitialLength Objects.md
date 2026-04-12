@@ -13,7 +13,7 @@ EScale Chain Initial Length
 
 <a id="unreal.ScaleChainInitialLength.FIXED_DEFAULT_LENGTH_VALUE"></a>
 
-#### FIXED_DEFAULT_LENGTH_VALUE
+#### FIXED\_DEFAULT\_LENGTH\_VALUE
 
 0: Use the 'DefaultChainLength' input value.
 
@@ -25,7 +25,7 @@ EScale Chain Initial Length
 
 <a id="unreal.ScaleChainInitialLength.CHAIN_LENGTH"></a>
 
-#### CHAIN_LENGTH
+#### CHAIN\_LENGTH
 
 2: Use animated chain length (length in local space of every bone from 'ChainStartBone' to 'ChainEndBone'
 

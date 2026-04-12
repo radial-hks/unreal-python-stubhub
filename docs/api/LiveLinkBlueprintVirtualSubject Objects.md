@@ -20,7 +20,7 @@ Base class for creating virtual subjects in Blueprints
 
 <a id="unreal.LiveLinkBlueprintVirtualSubject.on_update"></a>
 
-#### on_update
+#### on\_update
 
 ```python
 def on_update() -> None
@@ -31,7 +31,7 @@ On Update
 
 <a id="unreal.LiveLinkBlueprintVirtualSubject.on_initialize"></a>
 
-#### on_initialize
+#### on\_initialize
 
 ```python
 def on_initialize() -> None

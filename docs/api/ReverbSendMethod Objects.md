@@ -19,7 +19,7 @@ EReverb Send Method
 
 <a id="unreal.ReverbSendMethod.CUSTOM_CURVE"></a>
 
-#### CUSTOM_CURVE
+#### CUSTOM\_CURVE
 
 1: A reverb send based on a supplied curve
 

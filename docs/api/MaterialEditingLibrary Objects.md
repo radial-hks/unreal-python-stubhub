@@ -13,7 +13,7 @@ Blueprint library for creating/editing Materials
 
 <a id="unreal.MaterialEditingLibrary.update_material_instance"></a>
 
-#### update_material_instance
+#### update\_material\_instance
 
 ```python
 @classmethod
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.update_material_function"></a>
 
-#### update_material_function
+#### update\_material\_function
 
 ```python
 @classmethod
@@ -47,7 +47,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.set_material_usage"></a>
 
-#### set_material_usage
+#### set\_material\_usage
 
 ```python
 @classmethod
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.set_material_instance_vector_parameter_value"></a>
 
-#### set_material_instance_vector_parameter_value
+#### set\_material\_instance\_vector\_parameter\_value
 
 ```python
 @classmethod
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.set_material_instance_texture_parameter_value"></a>
 
-#### set_material_instance_texture_parameter_value
+#### set\_material\_instance\_texture\_parameter\_value
 
 ```python
 @classmethod
@@ -125,7 +125,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.set_material_instance_static_switch_parameter_value"></a>
 
-#### set_material_instance_static_switch_parameter_value
+#### set\_material\_instance\_static\_switch\_parameter\_value
 
 ```python
 @classmethod
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.set_material_instance_sparse_volume_texture_parameter_value"></a>
 
-#### set_material_instance_sparse_volume_texture_parameter_value
+#### set\_material\_instance\_sparse\_volume\_texture\_parameter\_value
 
 ```python
 @classmethod
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.set_material_instance_scalar_parameter_value"></a>
 
-#### set_material_instance_scalar_parameter_value
+#### set\_material\_instance\_scalar\_parameter\_value
 
 ```python
 @classmethod
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.set_material_instance_runtime_virtual_texture_parameter_value"></a>
 
-#### set_material_instance_runtime_virtual_texture_parameter_value
+#### set\_material\_instance\_runtime\_virtual\_texture\_parameter\_value
 
 ```python
 @classmethod
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.set_material_instance_parent"></a>
 
-#### set_material_instance_parent
+#### set\_material\_instance\_parent
 
 ```python
 @classmethod
@@ -254,7 +254,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.recompile_material"></a>
 
-#### recompile_material
+#### recompile\_material
 
 ```python
 @classmethod
@@ -269,7 +269,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.layout_material_function_expressions"></a>
 
-#### layout_material_function_expressions
+#### layout\_material\_function\_expressions
 
 ```python
 @classmethod
@@ -285,7 +285,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.layout_material_expressions"></a>
 
-#### layout_material_expressions
+#### layout\_material\_expressions
 
 ```python
 @classmethod
@@ -300,7 +300,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.has_material_usage"></a>
 
-#### has_material_usage
+#### has\_material\_usage
 
 ```python
 @classmethod
@@ -319,7 +319,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_vector_parameter_source"></a>
 
-#### get_vector_parameter_source
+#### get\_vector\_parameter\_source
 
 ```python
 @classmethod
@@ -342,7 +342,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_vector_parameter_names"></a>
 
-#### get_vector_parameter_names
+#### get\_vector\_parameter\_names
 
 ```python
 @classmethod
@@ -363,7 +363,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_used_textures"></a>
 
-#### get_used_textures
+#### get\_used\_textures
 
 ```python
 @classmethod
@@ -381,7 +381,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_texture_parameter_source"></a>
 
-#### get_texture_parameter_source
+#### get\_texture\_parameter\_source
 
 ```python
 @classmethod
@@ -404,7 +404,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_texture_parameter_names"></a>
 
-#### get_texture_parameter_names
+#### get\_texture\_parameter\_names
 
 ```python
 @classmethod
@@ -425,7 +425,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_statistics"></a>
 
-#### get_statistics
+#### get\_statistics
 
 ```python
 @classmethod
@@ -443,7 +443,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_static_switch_parameter_source"></a>
 
-#### get_static_switch_parameter_source
+#### get\_static\_switch\_parameter\_source
 
 ```python
 @classmethod
@@ -466,7 +466,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_static_switch_parameter_names"></a>
 
-#### get_static_switch_parameter_names
+#### get\_static\_switch\_parameter\_names
 
 ```python
 @classmethod
@@ -487,7 +487,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_scalar_parameter_source"></a>
 
-#### get_scalar_parameter_source
+#### get\_scalar\_parameter\_source
 
 ```python
 @classmethod
@@ -510,7 +510,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_scalar_parameter_names"></a>
 
-#### get_scalar_parameter_names
+#### get\_scalar\_parameter\_names
 
 ```python
 @classmethod
@@ -531,7 +531,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_num_material_expressions_in_function"></a>
 
-#### get_num_material_expressions_in_function
+#### get\_num\_material\_expressions\_in\_function
 
 ```python
 @classmethod
@@ -550,7 +550,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_num_material_expressions"></a>
 
-#### get_num_material_expressions
+#### get\_num\_material\_expressions
 
 ```python
 @classmethod
@@ -568,7 +568,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_nanite_override_material"></a>
 
-#### get_nanite_override_material
+#### get\_nanite\_override\_material
 
 ```python
 @classmethod
@@ -587,7 +587,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_selected_nodes"></a>
 
-#### get_material_selected_nodes
+#### get\_material\_selected\_nodes
 
 ```python
 @classmethod
@@ -605,7 +605,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_property_input_node_output_name"></a>
 
-#### get_material_property_input_node_output_name
+#### get\_material\_property\_input\_node\_output\_name
 
 ```python
 @classmethod
@@ -625,7 +625,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_property_input_node"></a>
 
-#### get_material_property_input_node
+#### get\_material\_property\_input\_node
 
 ```python
 @classmethod
@@ -646,7 +646,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_instance_vector_parameter_value"></a>
 
-#### get_material_instance_vector_parameter_value
+#### get\_material\_instance\_vector\_parameter\_value
 
 ```python
 @classmethod
@@ -672,7 +672,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_instance_texture_parameter_value"></a>
 
-#### get_material_instance_texture_parameter_value
+#### get\_material\_instance\_texture\_parameter\_value
 
 ```python
 @classmethod
@@ -698,7 +698,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_instance_static_switch_parameter_value"></a>
 
-#### get_material_instance_static_switch_parameter_value
+#### get\_material\_instance\_static\_switch\_parameter\_value
 
 ```python
 @classmethod
@@ -724,7 +724,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_instance_sparse_volume_texture_parameter_value"></a>
 
-#### get_material_instance_sparse_volume_texture_parameter_value
+#### get\_material\_instance\_sparse\_volume\_texture\_parameter\_value
 
 ```python
 @classmethod
@@ -750,7 +750,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_instance_scalar_parameter_value"></a>
 
-#### get_material_instance_scalar_parameter_value
+#### get\_material\_instance\_scalar\_parameter\_value
 
 ```python
 @classmethod
@@ -776,7 +776,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_instance_runtime_virtual_texture_parameter_value"></a>
 
-#### get_material_instance_runtime_virtual_texture_parameter_value
+#### get\_material\_instance\_runtime\_virtual\_texture\_parameter\_value
 
 ```python
 @classmethod
@@ -802,7 +802,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_expression_node_position"></a>
 
-#### get_material_expression_node_position
+#### get\_material\_expression\_node\_position
 
 ```python
 @classmethod
@@ -825,7 +825,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_expression_input_types"></a>
 
-#### get_material_expression_input_types
+#### get\_material\_expression\_input\_types
 
 ```python
 @classmethod
@@ -844,7 +844,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_expression_input_names"></a>
 
-#### get_material_expression_input_names
+#### get\_material\_expression\_input\_names
 
 ```python
 @classmethod
@@ -863,7 +863,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_default_vector_parameter_value"></a>
 
-#### get_material_default_vector_parameter_value
+#### get\_material\_default\_vector\_parameter\_value
 
 ```python
 @classmethod
@@ -883,7 +883,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_default_texture_parameter_value"></a>
 
-#### get_material_default_texture_parameter_value
+#### get\_material\_default\_texture\_parameter\_value
 
 ```python
 @classmethod
@@ -903,7 +903,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_default_static_switch_parameter_value"></a>
 
-#### get_material_default_static_switch_parameter_value
+#### get\_material\_default\_static\_switch\_parameter\_value
 
 ```python
 @classmethod
@@ -923,7 +923,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_material_default_scalar_parameter_value"></a>
 
-#### get_material_default_scalar_parameter_value
+#### get\_material\_default\_scalar\_parameter\_value
 
 ```python
 @classmethod
@@ -943,7 +943,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_inputs_for_material_expression"></a>
 
-#### get_inputs_for_material_expression
+#### get\_inputs\_for\_material\_expression
 
 ```python
 @classmethod
@@ -964,7 +964,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_input_node_output_name_for_material_expression"></a>
 
-#### get_input_node_output_name_for_material_expression
+#### get\_input\_node\_output\_name\_for\_material\_expression
 
 ```python
 @classmethod
@@ -987,7 +987,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.get_child_instances"></a>
 
-#### get_child_instances
+#### get\_child\_instances
 
 ```python
 @classmethod
@@ -1007,7 +1007,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.duplicate_material_expression"></a>
 
-#### duplicate_material_expression
+#### duplicate\_material\_expression
 
 ```python
 @classmethod
@@ -1030,7 +1030,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.delete_material_expression_in_function"></a>
 
-#### delete_material_expression_in_function
+#### delete\_material\_expression\_in\_function
 
 ```python
 @classmethod
@@ -1048,7 +1048,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.delete_material_expression"></a>
 
-#### delete_material_expression
+#### delete\_material\_expression
 
 ```python
 @classmethod
@@ -1065,7 +1065,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.delete_all_material_expressions_in_function"></a>
 
-#### delete_all_material_expressions_in_function
+#### delete\_all\_material\_expressions\_in\_function
 
 ```python
 @classmethod
@@ -1081,7 +1081,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.delete_all_material_expressions"></a>
 
-#### delete_all_material_expressions
+#### delete\_all\_material\_expressions
 
 ```python
 @classmethod
@@ -1096,7 +1096,7 @@ Args:
 
 <a id="unreal.MaterialEditingLibrary.create_material_expression_in_function"></a>
 
-#### create_material_expression_in_function
+#### create\_material\_expression\_in\_function
 
 ```python
 @classmethod
@@ -1122,7 +1122,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.create_material_expression"></a>
 
-#### create_material_expression
+#### create\_material\_expression
 
 ```python
 @classmethod
@@ -1147,7 +1147,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.connect_material_property"></a>
 
-#### connect_material_property
+#### connect\_material\_property
 
 ```python
 @classmethod
@@ -1169,7 +1169,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.connect_material_expressions"></a>
 
-#### connect_material_expressions
+#### connect\_material\_expressions
 
 ```python
 @classmethod
@@ -1193,7 +1193,7 @@ Returns:
 
 <a id="unreal.MaterialEditingLibrary.clear_all_material_instance_parameters"></a>
 
-#### clear_all_material_instance_parameters
+#### clear\_all\_material\_instance\_parameters
 
 ```python
 @classmethod

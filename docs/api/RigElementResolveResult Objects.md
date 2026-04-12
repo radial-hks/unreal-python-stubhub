@@ -14,7 +14,7 @@ Rig Element Resolve Result
 
 <a id="unreal.RigElementResolveResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

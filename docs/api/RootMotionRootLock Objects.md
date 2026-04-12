@@ -13,13 +13,13 @@ Root Bone Lock options when extracting Root Motion.
 
 <a id="unreal.RootMotionRootLock.REF_POSE"></a>
 
-#### REF_POSE
+#### REF\_POSE
 
 0: Use reference pose root bone position.
 
 <a id="unreal.RootMotionRootLock.ANIM_FIRST_FRAME"></a>
 
-#### ANIM_FIRST_FRAME
+#### ANIM\_FIRST\_FRAME
 
 1: Use root bone position on first frame of animation.
 
@@ -29,4 +29,4 @@ Root Bone Lock options when extracting Root Motion.
 
 2: FTransform::Identity.
 
-<a id="unreal.AdditiveBasePoseType"></a>
+<a id="unreal.DatasmithImportLightmapMin"></a>

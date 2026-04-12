@@ -21,7 +21,7 @@ Struct to hold properties a user might set for navigation movement
 
 <a id="unreal.NavMovementProperties.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

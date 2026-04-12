@@ -20,7 +20,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Rotator.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(roll: float = 0.000000,
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.Rotator.is_not_near_equal"></a>
 
-#### is_not_near_equal
+#### is\_not\_near\_equal
 
 ```python
 def is_not_near_equal(b: Rotator, error_tolerance: float = 0.000100) -> bool
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.Rotator.scale_integer"></a>
 
-#### scale_integer
+#### scale\_integer
 
 ```python
 def scale_integer(b: int) -> Rotator
@@ -192,7 +192,7 @@ Returns:
 
 <a id="unreal.Rotator.get_up_vector"></a>
 
-#### get_up_vector
+#### get\_up\_vector
 
 ```python
 def get_up_vector() -> Vector
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.Rotator.get_right_vector"></a>
 
-#### get_right_vector
+#### get\_right\_vector
 
 ```python
 def get_right_vector() -> Vector
@@ -220,7 +220,7 @@ Returns:
 
 <a id="unreal.Rotator.get_forward_vector"></a>
 
-#### get_forward_vector
+#### get\_forward\_vector
 
 ```python
 def get_forward_vector() -> Vector
@@ -234,7 +234,7 @@ Returns:
 
 <a id="unreal.Rotator.get_axes"></a>
 
-#### get_axes
+#### get\_axes
 
 ```python
 def get_axes() -> Tuple[Vector, Vector, Vector]
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.Rotator.is_near_equal"></a>
 
-#### is_near_equal
+#### is\_near\_equal
 
 ```python
 def is_near_equal(b: Rotator, error_tolerance: float = 0.000100) -> bool
@@ -272,7 +272,7 @@ Returns:
 
 <a id="unreal.Rotator.to_vector"></a>
 
-#### to_vector
+#### to\_vector
 
 ```python
 def to_vector() -> Vector
@@ -329,9 +329,29 @@ Args:
 Returns:
     Rotator:
 
+<a id="unreal.Rotator.r_lerp_linear"></a>
+
+#### r\_lerp\_linear
+
+```python
+def r_lerp_linear(target: Rotator, delta_time: float,
+                  interp_speed: float) -> Rotator
+```
+
+x.r_lerp_linear(target, delta_time, interp_speed) -> Rotator
+RInterp线性插值，不归一
+
+Args:
+    target (Rotator): 
+    delta_time (float): 
+    interp_speed (float): 
+
+Returns:
+    Rotator:
+
 <a id="unreal.Rotator.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -343,7 +363,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.Rotator.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool
@@ -355,7 +375,7 @@ def __ne__(other: object) -> bool
 
 <a id="unreal.Rotator.__neg__"></a>
 
-#### __neg__
+#### \_\_neg\_\_
 
 ```python
 def __neg__() -> None

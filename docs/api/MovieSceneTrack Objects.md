@@ -20,7 +20,7 @@ Base class for a track in a Movie Scene
 
 <a id="unreal.MovieSceneTrack.set_track_row_display_name"></a>
 
-#### set_track_row_display_name
+#### set\_track\_row\_display\_name
 
 ```python
 def set_track_row_display_name(name: Text, row_index: int) -> None
@@ -35,7 +35,7 @@ Args:
 
 <a id="unreal.MovieSceneTrack.set_sorting_order"></a>
 
-#### set_sorting_order
+#### set\_sorting\_order
 
 ```python
 def set_sorting_order(sorting_order: int) -> None
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.MovieSceneTrack.set_section_to_key"></a>
 
-#### set_section_to_key
+#### set\_section\_to\_key
 
 ```python
 def set_section_to_key(section: MovieSceneSection) -> None
@@ -65,7 +65,7 @@ Args:
 
 <a id="unreal.MovieSceneTrack.set_display_name"></a>
 
-#### set_display_name
+#### set\_display\_name
 
 ```python
 def set_display_name(name: Text) -> None
@@ -79,7 +79,7 @@ Args:
 
 <a id="unreal.MovieSceneTrack.set_color_tint"></a>
 
-#### set_color_tint
+#### set\_color\_tint
 
 ```python
 def set_color_tint(color_tint: Color) -> None
@@ -93,7 +93,7 @@ Args:
 
 <a id="unreal.MovieSceneTrack.remove_section"></a>
 
-#### remove_section
+#### remove\_section
 
 ```python
 def remove_section(section: MovieSceneSection) -> None
@@ -107,7 +107,7 @@ Args:
 
 <a id="unreal.MovieSceneTrack.get_track_row_display_name"></a>
 
-#### get_track_row_display_name
+#### get\_track\_row\_display\_name
 
 ```python
 def get_track_row_display_name(row_index: int) -> Text
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrack.get_sorting_order"></a>
 
-#### get_sorting_order
+#### get\_sorting\_order
 
 ```python
 def get_sorting_order() -> int
@@ -138,7 +138,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrack.get_section_to_key"></a>
 
-#### get_section_to_key
+#### get\_section\_to\_key
 
 ```python
 def get_section_to_key() -> MovieSceneSection
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrack.get_sections"></a>
 
-#### get_sections
+#### get\_sections
 
 ```python
 def get_sections() -> Array[MovieSceneSection]
@@ -166,7 +166,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrack.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 def get_display_name() -> Text
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrack.get_color_tint"></a>
 
-#### get_color_tint
+#### get\_color\_tint
 
 ```python
 def get_color_tint() -> Color
@@ -194,7 +194,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrack.add_section"></a>
 
-#### add_section
+#### add\_section
 
 ```python
 def add_section() -> MovieSceneSection

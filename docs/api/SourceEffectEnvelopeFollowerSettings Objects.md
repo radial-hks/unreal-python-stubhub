@@ -21,7 +21,7 @@ Source Effect Envelope Follower Settings
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(attack_time: float = 0.000000,
@@ -33,7 +33,7 @@ def __init__(attack_time: float = 0.000000,
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.attack_time"></a>
 
-#### attack_time
+#### attack\_time
 
 ```python
 @property
@@ -44,7 +44,7 @@ def attack_time() -> float
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.attack_time"></a>
 
-#### attack_time
+#### attack\_time
 
 ```python
 @attack_time.setter
@@ -53,7 +53,7 @@ def attack_time(value: float) -> None
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.release_time"></a>
 
-#### release_time
+#### release\_time
 
 ```python
 @property
@@ -64,7 +64,7 @@ def release_time() -> float
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.release_time"></a>
 
-#### release_time
+#### release\_time
 
 ```python
 @release_time.setter
@@ -73,7 +73,7 @@ def release_time(value: float) -> None
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.peak_mode"></a>
 
-#### peak_mode
+#### peak\_mode
 
 ```python
 @property
@@ -84,7 +84,7 @@ def peak_mode() -> EnvelopeFollowerPeakMode
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.peak_mode"></a>
 
-#### peak_mode
+#### peak\_mode
 
 ```python
 @peak_mode.setter
@@ -93,7 +93,7 @@ def peak_mode(value: EnvelopeFollowerPeakMode) -> None
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.is_analog_mode"></a>
 
-#### is_analog_mode
+#### is\_analog\_mode
 
 ```python
 @property
@@ -104,7 +104,7 @@ def is_analog_mode() -> bool
 
 <a id="unreal.SourceEffectEnvelopeFollowerSettings.is_analog_mode"></a>
 
-#### is_analog_mode
+#### is\_analog\_mode
 
 ```python
 @is_analog_mode.setter

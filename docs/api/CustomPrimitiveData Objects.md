@@ -17,7 +17,7 @@ Custom primitive data payload.
 
 <a id="unreal.CustomPrimitiveData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

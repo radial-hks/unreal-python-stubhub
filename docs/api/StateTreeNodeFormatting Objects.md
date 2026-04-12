@@ -18,7 +18,7 @@ Enum describing in what format a text is expected to be returned.
 
 <a id="unreal.StateTreeNodeFormatting.RICH_TEXT"></a>
 
-#### RICH_TEXT
+#### RICH\_TEXT
 
 0: The returned text can contain following right text formatting (no nesting)
      - <b>Bold</> (bolder font is used)

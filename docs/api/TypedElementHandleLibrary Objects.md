@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.TypedElementHandleLibrary.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.TypedElementHandleLibrary.is_set"></a>
 
-#### is_set
+#### is\_set
 
 ```python
 @classmethod

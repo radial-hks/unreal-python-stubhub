@@ -27,7 +27,7 @@ Helper struct to nest GPU pin properties inside a UI category.
 
 <a id="unreal.PCGPinPropertiesGPUStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -48,7 +48,7 @@ def __init__(
 
 <a id="unreal.PCGPinPropertiesGPUStruct.initialization_mode"></a>
 
-#### initialization_mode
+#### initialization\_mode
 
 ```python
 @property
@@ -59,7 +59,7 @@ def initialization_mode() -> PCGPinInitMode
 
 <a id="unreal.PCGPinPropertiesGPUStruct.initialization_mode"></a>
 
-#### initialization_mode
+#### initialization\_mode
 
 ```python
 @initialization_mode.setter
@@ -68,7 +68,7 @@ def initialization_mode(value: PCGPinInitMode) -> None
 
 <a id="unreal.PCGPinPropertiesGPUStruct.pins_to_inititalize_from"></a>
 
-#### pins_to_inititalize_from
+#### pins\_to\_inititalize\_from
 
 ```python
 @property
@@ -79,7 +79,7 @@ def pins_to_inititalize_from() -> Array[Name]
 
 <a id="unreal.PCGPinPropertiesGPUStruct.pins_to_inititalize_from"></a>
 
-#### pins_to_inititalize_from
+#### pins\_to\_inititalize\_from
 
 ```python
 @pins_to_inititalize_from.setter
@@ -88,7 +88,7 @@ def pins_to_inititalize_from(value: Array[Name]) -> None
 
 <a id="unreal.PCGPinPropertiesGPUStruct.data_count_mode"></a>
 
-#### data_count_mode
+#### data\_count\_mode
 
 ```python
 @property
@@ -99,7 +99,7 @@ def data_count_mode() -> PCGDataCountMode
 
 <a id="unreal.PCGPinPropertiesGPUStruct.data_count_mode"></a>
 
-#### data_count_mode
+#### data\_count\_mode
 
 ```python
 @data_count_mode.setter
@@ -108,7 +108,7 @@ def data_count_mode(value: PCGDataCountMode) -> None
 
 <a id="unreal.PCGPinPropertiesGPUStruct.data_multiplicity"></a>
 
-#### data_multiplicity
+#### data\_multiplicity
 
 ```python
 @property
@@ -119,7 +119,7 @@ def data_multiplicity() -> PCGDataMultiplicity
 
 <a id="unreal.PCGPinPropertiesGPUStruct.data_multiplicity"></a>
 
-#### data_multiplicity
+#### data\_multiplicity
 
 ```python
 @data_multiplicity.setter
@@ -128,7 +128,7 @@ def data_multiplicity(value: PCGDataMultiplicity) -> None
 
 <a id="unreal.PCGPinPropertiesGPUStruct.data_count"></a>
 
-#### data_count
+#### data\_count
 
 ```python
 @property
@@ -139,7 +139,7 @@ def data_count() -> int
 
 <a id="unreal.PCGPinPropertiesGPUStruct.data_count"></a>
 
-#### data_count
+#### data\_count
 
 ```python
 @data_count.setter
@@ -148,7 +148,7 @@ def data_count(value: int) -> None
 
 <a id="unreal.PCGPinPropertiesGPUStruct.element_count_mode"></a>
 
-#### element_count_mode
+#### element\_count\_mode
 
 ```python
 @property
@@ -159,7 +159,7 @@ def element_count_mode() -> PCGElementCountMode
 
 <a id="unreal.PCGPinPropertiesGPUStruct.element_count_mode"></a>
 
-#### element_count_mode
+#### element\_count\_mode
 
 ```python
 @element_count_mode.setter
@@ -168,7 +168,7 @@ def element_count_mode(value: PCGElementCountMode) -> None
 
 <a id="unreal.PCGPinPropertiesGPUStruct.element_multiplicity"></a>
 
-#### element_multiplicity
+#### element\_multiplicity
 
 ```python
 @property
@@ -179,7 +179,7 @@ def element_multiplicity() -> PCGElementMultiplicity
 
 <a id="unreal.PCGPinPropertiesGPUStruct.element_multiplicity"></a>
 
-#### element_multiplicity
+#### element\_multiplicity
 
 ```python
 @element_multiplicity.setter
@@ -188,7 +188,7 @@ def element_multiplicity(value: PCGElementMultiplicity) -> None
 
 <a id="unreal.PCGPinPropertiesGPUStruct.element_count"></a>
 
-#### element_count
+#### element\_count
 
 ```python
 @property
@@ -199,7 +199,7 @@ def element_count() -> int
 
 <a id="unreal.PCGPinPropertiesGPUStruct.element_count"></a>
 
-#### element_count
+#### element\_count
 
 ```python
 @element_count.setter
@@ -208,7 +208,7 @@ def element_count(value: int) -> None
 
 <a id="unreal.PCGPinPropertiesGPUStruct.attribute_inheritance_mode"></a>
 
-#### attribute_inheritance_mode
+#### attribute\_inheritance\_mode
 
 ```python
 @property
@@ -219,7 +219,7 @@ def attribute_inheritance_mode() -> PCGAttributeInheritanceMode
 
 <a id="unreal.PCGPinPropertiesGPUStruct.attribute_inheritance_mode"></a>
 
-#### attribute_inheritance_mode
+#### attribute\_inheritance\_mode
 
 ```python
 @attribute_inheritance_mode.setter

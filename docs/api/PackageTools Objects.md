@@ -13,7 +13,7 @@ Package Tools
 
 <a id="unreal.PackageTools.sanitize_package_name"></a>
 
-#### sanitize_package_name
+#### sanitize\_package\_name
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.PackageTools.package_name_to_filename"></a>
 
-#### package_name_to_filename
+#### package\_name\_to\_filename
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.PackageTools.filename_to_package_name"></a>
 
-#### filename_to_package_name
+#### filename\_to\_package\_name
 
 ```python
 @classmethod

@@ -20,13 +20,13 @@ EText 3DCharacter Effect Order
 
 <a id="unreal.Text3DCharacterEffectOrder.FROM_CENTER"></a>
 
-#### FROM_CENTER
+#### FROM\_CENTER
 
 1
 
 <a id="unreal.Text3DCharacterEffectOrder.TO_CENTER"></a>
 
-#### TO_CENTER
+#### TO\_CENTER
 
 2
 

@@ -50,7 +50,7 @@ def magnitude(value: float) -> None
 
 <a id="unreal.UniformScalar.set_uniform_scalar"></a>
 
-#### set_uniform_scalar
+#### set\_uniform\_scalar
 
 ```python
 def set_uniform_scalar(magnitude: float = 1.000000) -> UniformScalar

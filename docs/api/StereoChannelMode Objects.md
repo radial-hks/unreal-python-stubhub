@@ -14,13 +14,13 @@ Stereo channel mode
 
 <a id="unreal.StereoChannelMode.MID_SIDE"></a>
 
-#### MID_SIDE
+#### MID\_SIDE
 
 0
 
 <a id="unreal.StereoChannelMode.LEFT_RIGHT"></a>
 
-#### LEFT_RIGHT
+#### LEFT\_RIGHT
 
 1
 

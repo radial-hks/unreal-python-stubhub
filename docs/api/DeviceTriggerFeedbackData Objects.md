@@ -18,7 +18,7 @@ UInputDeviceTriggerFeedbackProperty
 
 <a id="unreal.DeviceTriggerFeedbackData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(feedback_position_curve: CurveFloat = None,
@@ -27,7 +27,7 @@ def __init__(feedback_position_curve: CurveFloat = None,
 
 <a id="unreal.DeviceTriggerFeedbackData.feedback_position_curve"></a>
 
-#### feedback_position_curve
+#### feedback\_position\_curve
 
 ```python
 @property
@@ -38,7 +38,7 @@ def feedback_position_curve() -> CurveFloat
 
 <a id="unreal.DeviceTriggerFeedbackData.feedback_position_curve"></a>
 
-#### feedback_position_curve
+#### feedback\_position\_curve
 
 ```python
 @feedback_position_curve.setter
@@ -47,7 +47,7 @@ def feedback_position_curve(value: CurveFloat) -> None
 
 <a id="unreal.DeviceTriggerFeedbackData.feedback_strengh_curve"></a>
 
-#### feedback_strengh_curve
+#### feedback\_strengh\_curve
 
 ```python
 @property
@@ -58,7 +58,7 @@ def feedback_strengh_curve() -> CurveFloat
 
 <a id="unreal.DeviceTriggerFeedbackData.feedback_strengh_curve"></a>
 
-#### feedback_strengh_curve
+#### feedback\_strengh\_curve
 
 ```python
 @feedback_strengh_curve.setter

@@ -21,7 +21,7 @@ Niagara Variable
 
 <a id="unreal.NiagaraVariable.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

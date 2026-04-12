@@ -22,7 +22,7 @@ utilized by the audio input device list in FAudioInputDevicePropertyCustomizatio
 
 <a id="unreal.AudioInputDeviceProperty.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(use_system_default_audio_device: bool = False,
@@ -33,7 +33,7 @@ def __init__(use_system_default_audio_device: bool = False,
 
 <a id="unreal.AudioInputDeviceProperty.use_system_default_audio_device"></a>
 
-#### use_system_default_audio_device
+#### use\_system\_default\_audio\_device
 
 ```python
 @property
@@ -44,7 +44,7 @@ def use_system_default_audio_device() -> bool
 
 <a id="unreal.AudioInputDeviceProperty.use_system_default_audio_device"></a>
 
-#### use_system_default_audio_device
+#### use\_system\_default\_audio\_device
 
 ```python
 @use_system_default_audio_device.setter
@@ -53,7 +53,7 @@ def use_system_default_audio_device(value: bool) -> None
 
 <a id="unreal.AudioInputDeviceProperty.device_info_array"></a>
 
-#### device_info_array
+#### device\_info\_array
 
 ```python
 @property
@@ -64,7 +64,7 @@ def device_info_array() -> Array[AudioInputDeviceInfoProperty]
 
 <a id="unreal.AudioInputDeviceProperty.device_id"></a>
 
-#### device_id
+#### device\_id
 
 ```python
 @property
@@ -75,7 +75,7 @@ def device_id() -> str
 
 <a id="unreal.AudioInputDeviceProperty.device_id"></a>
 
-#### device_id
+#### device\_id
 
 ```python
 @device_id.setter
@@ -84,7 +84,7 @@ def device_id(value: str) -> None
 
 <a id="unreal.AudioInputDeviceProperty.audio_input_buffer_size"></a>
 
-#### audio_input_buffer_size
+#### audio\_input\_buffer\_size
 
 ```python
 @property
@@ -95,7 +95,7 @@ def audio_input_buffer_size() -> int
 
 <a id="unreal.AudioInputDeviceProperty.audio_input_buffer_size"></a>
 
-#### audio_input_buffer_size
+#### audio\_input\_buffer\_size
 
 ```python
 @audio_input_buffer_size.setter

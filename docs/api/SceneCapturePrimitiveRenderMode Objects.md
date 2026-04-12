@@ -13,19 +13,19 @@ EScene Capture Primitive Render Mode
 
 <a id="unreal.SceneCapturePrimitiveRenderMode.PRM_LEGACY_SCENE_CAPTURE"></a>
 
-#### PRM_LEGACY_SCENE_CAPTURE
+#### PRM\_LEGACY\_SCENE\_CAPTURE
 
 0: Legacy
 
 <a id="unreal.SceneCapturePrimitiveRenderMode.PRM_RENDER_SCENE_PRIMITIVES"></a>
 
-#### PRM_RENDER_SCENE_PRIMITIVES
+#### PRM\_RENDER\_SCENE\_PRIMITIVES
 
 1: Render primitives in the scene, minus HiddenActors.
 
 <a id="unreal.SceneCapturePrimitiveRenderMode.PRM_USE_SHOW_ONLY_LIST"></a>
 
-#### PRM_USE_SHOW_ONLY_LIST
+#### PRM\_USE\_SHOW\_ONLY\_LIST
 
 2: Render only primitives in the ShowOnlyActors list, or components specified with ShowOnlyComponent().
 

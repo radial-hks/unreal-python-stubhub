@@ -19,7 +19,7 @@ Out structure for use with AudioMixerBlueprintLibrary::SwapAudioOutputDevice
 
 <a id="unreal.SwapAudioOutputResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.SwapAudioOutputResult.current_device_id"></a>
 
-#### current_device_id
+#### current\_device\_id
 
 ```python
 @property
@@ -43,7 +43,7 @@ def current_device_id() -> str
 
 <a id="unreal.SwapAudioOutputResult.requested_device_id"></a>
 
-#### requested_device_id
+#### requested\_device\_id
 
 ```python
 @property
@@ -63,4 +63,4 @@ def result() -> SwapAudioOutputDeviceResultState
 
 (SwapAudioOutputDeviceResultState):  [Read-Only] Result of the call
 
-<a id="unreal.NiagaraSimCacheCaptureParameters"></a>
+<a id="unreal.glTFRuntimeConfig"></a>

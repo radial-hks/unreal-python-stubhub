@@ -14,7 +14,7 @@ Level Variant Sets
 
 <a id="unreal.LevelVariantSets.get_variant_set_by_name"></a>
 
-#### get_variant_set_by_name
+#### get\_variant\_set\_by\_name
 
 ```python
 def get_variant_set_by_name(variant_set_name: str) -> VariantSet
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.LevelVariantSets.get_variant_set"></a>
 
-#### get_variant_set
+#### get\_variant\_set
 
 ```python
 def get_variant_set(variant_set_index: int) -> VariantSet
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.LevelVariantSets.get_num_variant_sets"></a>
 
-#### get_num_variant_sets
+#### get\_num\_variant\_sets
 
 ```python
 def get_num_variant_sets() -> int
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.LevelVariantSets.remove_variant_set_by_name"></a>
 
-#### remove_variant_set_by_name
+#### remove\_variant\_set\_by\_name
 
 ```python
 def remove_variant_set_by_name(variant_set_name: str) -> None
@@ -76,7 +76,7 @@ Args:
 
 <a id="unreal.LevelVariantSets.remove_variant_set"></a>
 
-#### remove_variant_set
+#### remove\_variant\_set
 
 ```python
 def remove_variant_set(variant_set: VariantSet) -> None
@@ -90,7 +90,7 @@ Args:
 
 <a id="unreal.LevelVariantSets.add_variant_set"></a>
 
-#### add_variant_set
+#### add\_variant\_set
 
 ```python
 def add_variant_set(variant_set: VariantSet) -> None

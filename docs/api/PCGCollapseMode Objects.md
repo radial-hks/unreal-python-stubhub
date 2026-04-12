@@ -14,7 +14,7 @@ EPCGCollapse Mode
 
 <a id="unreal.PCGCollapseMode.PAIRWISE_CLOSEST"></a>
 
-#### PAIRWISE_CLOSEST
+#### PAIRWISE\_CLOSEST
 
 0: At every iteration, will select exclusive pairs that are closest.
 

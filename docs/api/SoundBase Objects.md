@@ -42,7 +42,7 @@ The base class for a playable sound object
 
 <a id="unreal.SoundBase.sound_class_object"></a>
 
-#### sound_class_object
+#### sound\_class\_object
 
 ```python
 @property
@@ -53,7 +53,7 @@ def sound_class_object() -> SoundClass
 
 <a id="unreal.SoundBase.override_concurrency"></a>
 
-#### override_concurrency
+#### override\_concurrency
 
 ```python
 @property
@@ -64,7 +64,7 @@ def override_concurrency() -> bool
 
 <a id="unreal.SoundBase.override_concurrency"></a>
 
-#### override_concurrency
+#### override\_concurrency
 
 ```python
 @override_concurrency.setter
@@ -73,7 +73,7 @@ def override_concurrency(value: bool) -> None
 
 <a id="unreal.SoundBase.enable_bus_sends"></a>
 
-#### enable_bus_sends
+#### enable\_bus\_sends
 
 ```python
 @property
@@ -84,7 +84,7 @@ def enable_bus_sends() -> bool
 
 <a id="unreal.SoundBase.enable_bus_sends"></a>
 
-#### enable_bus_sends
+#### enable\_bus\_sends
 
 ```python
 @enable_bus_sends.setter
@@ -93,7 +93,7 @@ def enable_bus_sends(value: bool) -> None
 
 <a id="unreal.SoundBase.bypass_volume_scale_for_priority"></a>
 
-#### bypass_volume_scale_for_priority
+#### bypass\_volume\_scale\_for\_priority
 
 ```python
 @property
@@ -104,7 +104,7 @@ def bypass_volume_scale_for_priority() -> bool
 
 <a id="unreal.SoundBase.bypass_volume_scale_for_priority"></a>
 
-#### bypass_volume_scale_for_priority
+#### bypass\_volume\_scale\_for\_priority
 
 ```python
 @bypass_volume_scale_for_priority.setter
@@ -113,7 +113,7 @@ def bypass_volume_scale_for_priority(value: bool) -> None
 
 <a id="unreal.SoundBase.virtualization_mode"></a>
 
-#### virtualization_mode
+#### virtualization\_mode
 
 ```python
 @property
@@ -124,7 +124,7 @@ def virtualization_mode() -> VirtualizationMode
 
 <a id="unreal.SoundBase.virtualization_mode"></a>
 
-#### virtualization_mode
+#### virtualization\_mode
 
 ```python
 @virtualization_mode.setter
@@ -133,7 +133,7 @@ def virtualization_mode(value: VirtualizationMode) -> None
 
 <a id="unreal.SoundBase.concurrency_set"></a>
 
-#### concurrency_set
+#### concurrency\_set
 
 ```python
 @property
@@ -144,7 +144,7 @@ def concurrency_set() -> Set[SoundConcurrency]
 
 <a id="unreal.SoundBase.concurrency_set"></a>
 
-#### concurrency_set
+#### concurrency\_set
 
 ```python
 @concurrency_set.setter
@@ -153,7 +153,7 @@ def concurrency_set(value: Set[SoundConcurrency]) -> None
 
 <a id="unreal.SoundBase.concurrency_overrides"></a>
 
-#### concurrency_overrides
+#### concurrency\_overrides
 
 ```python
 @property
@@ -164,7 +164,7 @@ def concurrency_overrides() -> SoundConcurrencySettings
 
 <a id="unreal.SoundBase.concurrency_overrides"></a>
 
-#### concurrency_overrides
+#### concurrency\_overrides
 
 ```python
 @concurrency_overrides.setter
@@ -184,7 +184,7 @@ def duration() -> float
 
 <a id="unreal.SoundBase.max_distance"></a>
 
-#### max_distance
+#### max\_distance
 
 ```python
 @property
@@ -196,7 +196,7 @@ the GetMaxDistance function should be used to determine the applied max distance
 
 <a id="unreal.SoundBase.total_samples"></a>
 
-#### total_samples
+#### total\_samples
 
 ```python
 @property
@@ -229,7 +229,7 @@ def priority(value: float) -> None
 
 <a id="unreal.SoundBase.sound_submix_object"></a>
 
-#### sound_submix_object
+#### sound\_submix\_object
 
 ```python
 @property
@@ -241,7 +241,7 @@ If SoundClass submix is unset, sends to the 'Master Submix' as set in the 'Audio
 
 <a id="unreal.SoundBase.sound_submix_object"></a>
 
-#### sound_submix_object
+#### sound\_submix\_object
 
 ```python
 @sound_submix_object.setter
@@ -250,7 +250,7 @@ def sound_submix_object(value: SoundSubmixBase) -> None
 
 <a id="unreal.SoundBase.sound_submix_sends"></a>
 
-#### sound_submix_sends
+#### sound\_submix\_sends
 
 ```python
 @property
@@ -261,7 +261,7 @@ def sound_submix_sends() -> Array[SoundSubmixSendInfo]
 
 <a id="unreal.SoundBase.sound_submix_sends"></a>
 
-#### sound_submix_sends
+#### sound\_submix\_sends
 
 ```python
 @sound_submix_sends.setter
@@ -270,7 +270,7 @@ def sound_submix_sends(value: Array[SoundSubmixSendInfo]) -> None
 
 <a id="unreal.SoundBase.source_effect_chain"></a>
 
-#### source_effect_chain
+#### source\_effect\_chain
 
 ```python
 @property
@@ -281,7 +281,7 @@ def source_effect_chain() -> SoundEffectSourcePresetChain
 
 <a id="unreal.SoundBase.source_effect_chain"></a>
 
-#### source_effect_chain
+#### source\_effect\_chain
 
 ```python
 @source_effect_chain.setter
@@ -290,7 +290,7 @@ def source_effect_chain(value: SoundEffectSourcePresetChain) -> None
 
 <a id="unreal.SoundBase.bus_sends"></a>
 
-#### bus_sends
+#### bus\_sends
 
 ```python
 @property
@@ -301,7 +301,7 @@ def bus_sends() -> Array[SoundSourceBusSendInfo]
 
 <a id="unreal.SoundBase.bus_sends"></a>
 
-#### bus_sends
+#### bus\_sends
 
 ```python
 @bus_sends.setter
@@ -310,7 +310,7 @@ def bus_sends(value: Array[SoundSourceBusSendInfo]) -> None
 
 <a id="unreal.SoundBase.pre_effect_bus_sends"></a>
 
-#### pre_effect_bus_sends
+#### pre\_effect\_bus\_sends
 
 ```python
 @property
@@ -321,7 +321,7 @@ def pre_effect_bus_sends() -> Array[SoundSourceBusSendInfo]
 
 <a id="unreal.SoundBase.pre_effect_bus_sends"></a>
 
-#### pre_effect_bus_sends
+#### pre\_effect\_bus\_sends
 
 ```python
 @pre_effect_bus_sends.setter
@@ -330,7 +330,7 @@ def pre_effect_bus_sends(value: Array[SoundSourceBusSendInfo]) -> None
 
 <a id="unreal.SoundBase.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -347,7 +347,7 @@ Returns:
 
 <a id="unreal.SoundBase.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -364,7 +364,7 @@ Returns:
 
 <a id="unreal.SoundBase.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

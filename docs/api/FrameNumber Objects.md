@@ -18,7 +18,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Misc
 
 <a id="unreal.FrameNumber.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: int = 0) -> None
@@ -46,7 +46,7 @@ def value(value: int) -> None
 
 <a id="unreal.FrameNumber.subtract_frame_number_integer"></a>
 
-#### subtract_frame_number_integer
+#### subtract\_frame\_number\_integer
 
 ```python
 def subtract_frame_number_integer(b: int) -> None
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.FrameNumber.subtract_frame_number_frame_number"></a>
 
-#### subtract_frame_number_frame_number
+#### subtract\_frame\_number\_frame\_number
 
 ```python
 def subtract_frame_number_frame_number(b: FrameNumber) -> None
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.FrameNumber.multiply_frame_number_integer"></a>
 
-#### multiply_frame_number_integer
+#### multiply\_frame\_number\_integer
 
 ```python
 def multiply_frame_number_integer(b: int) -> None
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.FrameNumber.divide_frame_number_integer"></a>
 
-#### divide_frame_number_integer
+#### divide\_frame\_number\_integer
 
 ```python
 def divide_frame_number_integer(b: int) -> None
@@ -114,7 +114,7 @@ Returns:
 
 <a id="unreal.FrameNumber.add_frame_number_integer"></a>
 
-#### add_frame_number_integer
+#### add\_frame\_number\_integer
 
 ```python
 def add_frame_number_integer(b: int) -> None
@@ -131,7 +131,7 @@ Returns:
 
 <a id="unreal.FrameNumber.add_frame_number_frame_number"></a>
 
-#### add_frame_number_frame_number
+#### add\_frame\_number\_frame\_number
 
 ```python
 def add_frame_number_frame_number(b: FrameNumber) -> None
@@ -148,7 +148,7 @@ Returns:
 
 <a id="unreal.FrameNumber.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: FrameNumber) -> None
@@ -161,7 +161,7 @@ def __add__(other: FrameNumber) -> None
 
 <a id="unreal.FrameNumber.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: FrameNumber) -> None
@@ -174,7 +174,7 @@ def __iadd__(other: FrameNumber) -> None
 
 <a id="unreal.FrameNumber.__sub__"></a>
 
-#### __sub__
+#### \_\_sub\_\_
 
 ```python
 def __sub__(other: FrameNumber) -> None
@@ -187,7 +187,7 @@ def __sub__(other: FrameNumber) -> None
 
 <a id="unreal.FrameNumber.__isub__"></a>
 
-#### __isub__
+#### \_\_isub\_\_
 
 ```python
 def __isub__(other: FrameNumber) -> None
@@ -200,7 +200,7 @@ def __isub__(other: FrameNumber) -> None
 
 <a id="unreal.FrameNumber.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: FrameNumber) -> None
@@ -212,7 +212,7 @@ def __mul__(other: FrameNumber) -> None
 
 <a id="unreal.FrameNumber.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: FrameNumber) -> None
@@ -224,7 +224,7 @@ def __imul__(other: FrameNumber) -> None
 
 <a id="unreal.FrameNumber.__truediv__"></a>
 
-#### __truediv__
+#### \_\_truediv\_\_
 
 ```python
 def __truediv__(other: FrameNumber) -> None

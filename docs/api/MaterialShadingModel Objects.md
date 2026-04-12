@@ -14,79 +14,79 @@ warning: Check UMaterialInstance::Serialize if changed!
 
 <a id="unreal.MaterialShadingModel.MSM_UNLIT"></a>
 
-#### MSM_UNLIT
+#### MSM\_UNLIT
 
 0
 
 <a id="unreal.MaterialShadingModel.MSM_DEFAULT_LIT"></a>
 
-#### MSM_DEFAULT_LIT
+#### MSM\_DEFAULT\_LIT
 
 1
 
 <a id="unreal.MaterialShadingModel.MSM_SUBSURFACE"></a>
 
-#### MSM_SUBSURFACE
+#### MSM\_SUBSURFACE
 
 2
 
 <a id="unreal.MaterialShadingModel.MSM_PREINTEGRATED_SKIN"></a>
 
-#### MSM_PREINTEGRATED_SKIN
+#### MSM\_PREINTEGRATED\_SKIN
 
 3
 
 <a id="unreal.MaterialShadingModel.MSM_CLEAR_COAT"></a>
 
-#### MSM_CLEAR_COAT
+#### MSM\_CLEAR\_COAT
 
 4
 
 <a id="unreal.MaterialShadingModel.MSM_SUBSURFACE_PROFILE"></a>
 
-#### MSM_SUBSURFACE_PROFILE
+#### MSM\_SUBSURFACE\_PROFILE
 
 5
 
 <a id="unreal.MaterialShadingModel.MSM_TWO_SIDED_FOLIAGE"></a>
 
-#### MSM_TWO_SIDED_FOLIAGE
+#### MSM\_TWO\_SIDED\_FOLIAGE
 
 6
 
 <a id="unreal.MaterialShadingModel.MSM_HAIR"></a>
 
-#### MSM_HAIR
+#### MSM\_HAIR
 
 7
 
 <a id="unreal.MaterialShadingModel.MSM_CLOTH"></a>
 
-#### MSM_CLOTH
+#### MSM\_CLOTH
 
 8
 
 <a id="unreal.MaterialShadingModel.MSM_EYE"></a>
 
-#### MSM_EYE
+#### MSM\_EYE
 
 9
 
 <a id="unreal.MaterialShadingModel.MSM_SINGLE_LAYER_WATER"></a>
 
-#### MSM_SINGLE_LAYER_WATER
+#### MSM\_SINGLE\_LAYER\_WATER
 
 10
 
 <a id="unreal.MaterialShadingModel.MSM_THIN_TRANSLUCENT"></a>
 
-#### MSM_THIN_TRANSLUCENT
+#### MSM\_THIN\_TRANSLUCENT
 
 11
 
 <a id="unreal.MaterialShadingModel.MSM_FROM_MATERIAL_EXPRESSION"></a>
 
-#### MSM_FROM_MATERIAL_EXPRESSION
+#### MSM\_FROM\_MATERIAL\_EXPRESSION
 
 14: Shading model will be determined by the Material Expression Graph,
               by utilizing the 'Shading Model' MaterialAttribute output pin.

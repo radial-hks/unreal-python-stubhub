@@ -199,7 +199,7 @@ Paper Flipbook Component
 
 <a id="unreal.PaperFlipbookComponent.sprite_color"></a>
 
-#### sprite_color
+#### sprite\_color
 
 ```python
 @property
@@ -210,7 +210,7 @@ def sprite_color() -> LinearColor
 
 <a id="unreal.PaperFlipbookComponent.on_finished_playing"></a>
 
-#### on_finished_playing
+#### on\_finished\_playing
 
 ```python
 @property
@@ -221,7 +221,7 @@ def on_finished_playing() -> FlipbookFinishedPlaySignature
 
 <a id="unreal.PaperFlipbookComponent.on_finished_playing"></a>
 
-#### on_finished_playing
+#### on\_finished\_playing
 
 ```python
 @on_finished_playing.setter
@@ -241,7 +241,7 @@ Stop playback of flipbook
 
 <a id="unreal.PaperFlipbookComponent.set_sprite_color"></a>
 
-#### set_sprite_color
+#### set\_sprite\_color
 
 ```python
 def set_sprite_color(new_color: LinearColor) -> None
@@ -255,7 +255,7 @@ Args:
 
 <a id="unreal.PaperFlipbookComponent.set_play_rate"></a>
 
-#### set_play_rate
+#### set\_play\_rate
 
 ```python
 def set_play_rate(new_rate: float) -> None
@@ -269,7 +269,7 @@ Args:
 
 <a id="unreal.PaperFlipbookComponent.set_playback_position_in_frames"></a>
 
-#### set_playback_position_in_frames
+#### set\_playback\_position\_in\_frames
 
 ```python
 def set_playback_position_in_frames(new_frame_position: int,
@@ -285,7 +285,7 @@ Args:
 
 <a id="unreal.PaperFlipbookComponent.set_playback_position"></a>
 
-#### set_playback_position
+#### set\_playback\_position
 
 ```python
 def set_playback_position(new_position: float, fire_events: bool) -> None
@@ -300,7 +300,7 @@ Args:
 
 <a id="unreal.PaperFlipbookComponent.set_new_time"></a>
 
-#### set_new_time
+#### set\_new\_time
 
 ```python
 def set_new_time(new_time: float) -> None
@@ -314,7 +314,7 @@ Args:
 
 <a id="unreal.PaperFlipbookComponent.set_looping"></a>
 
-#### set_looping
+#### set\_looping
 
 ```python
 def set_looping(new_looping: bool) -> None
@@ -328,7 +328,7 @@ Args:
 
 <a id="unreal.PaperFlipbookComponent.set_flipbook"></a>
 
-#### set_flipbook
+#### set\_flipbook
 
 ```python
 def set_flipbook(new_flipbook: PaperFlipbook) -> bool
@@ -345,7 +345,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.reverse_from_end"></a>
 
-#### reverse_from_end
+#### reverse\_from\_end
 
 ```python
 def reverse_from_end() -> None
@@ -367,7 +367,7 @@ Start playback of flipbook in reverse
 
 <a id="unreal.PaperFlipbookComponent.play_from_start"></a>
 
-#### play_from_start
+#### play\_from\_start
 
 ```python
 def play_from_start() -> None
@@ -389,7 +389,7 @@ Start playback of flipbook
 
 <a id="unreal.PaperFlipbookComponent.is_reversing"></a>
 
-#### is_reversing
+#### is\_reversing
 
 ```python
 def is_reversing() -> bool
@@ -403,7 +403,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.is_playing"></a>
 
-#### is_playing
+#### is\_playing
 
 ```python
 def is_playing() -> bool
@@ -417,7 +417,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.is_looping"></a>
 
-#### is_looping
+#### is\_looping
 
 ```python
 def is_looping() -> bool
@@ -431,7 +431,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.get_sprite_color"></a>
 
-#### get_sprite_color
+#### get\_sprite\_color
 
 ```python
 def get_sprite_color() -> LinearColor
@@ -445,7 +445,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.get_play_rate"></a>
 
-#### get_play_rate
+#### get\_play\_rate
 
 ```python
 def get_play_rate() -> float
@@ -459,7 +459,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.get_playback_position_in_frames"></a>
 
-#### get_playback_position_in_frames
+#### get\_playback\_position\_in\_frames
 
 ```python
 def get_playback_position_in_frames() -> int
@@ -473,7 +473,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.get_playback_position"></a>
 
-#### get_playback_position
+#### get\_playback\_position
 
 ```python
 def get_playback_position() -> float
@@ -487,7 +487,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.get_flipbook_length_in_frames"></a>
 
-#### get_flipbook_length_in_frames
+#### get\_flipbook\_length\_in\_frames
 
 ```python
 def get_flipbook_length_in_frames() -> int
@@ -501,7 +501,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.get_flipbook_length"></a>
 
-#### get_flipbook_length
+#### get\_flipbook\_length
 
 ```python
 def get_flipbook_length() -> float
@@ -515,7 +515,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.get_flipbook_framerate"></a>
 
-#### get_flipbook_framerate
+#### get\_flipbook\_framerate
 
 ```python
 def get_flipbook_framerate() -> float
@@ -529,7 +529,7 @@ Returns:
 
 <a id="unreal.PaperFlipbookComponent.get_flipbook"></a>
 
-#### get_flipbook
+#### get\_flipbook
 
 ```python
 def get_flipbook() -> PaperFlipbook

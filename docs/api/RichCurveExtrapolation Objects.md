@@ -13,37 +13,37 @@ Enumerates extrapolation options.
 
 <a id="unreal.RichCurveExtrapolation.RCCE_CYCLE"></a>
 
-#### RCCE_CYCLE
+#### RCCE\_CYCLE
 
 0: Repeat the curve without an offset.
 
 <a id="unreal.RichCurveExtrapolation.RCCE_CYCLE_WITH_OFFSET"></a>
 
-#### RCCE_CYCLE_WITH_OFFSET
+#### RCCE\_CYCLE\_WITH\_OFFSET
 
 1: Repeat the curve with an offset relative to the first or last key's value.
 
 <a id="unreal.RichCurveExtrapolation.RCCE_OSCILLATE"></a>
 
-#### RCCE_OSCILLATE
+#### RCCE\_OSCILLATE
 
 2: Sinusoidally extrapolate.
 
 <a id="unreal.RichCurveExtrapolation.RCCE_LINEAR"></a>
 
-#### RCCE_LINEAR
+#### RCCE\_LINEAR
 
 3: Use a linearly increasing value for extrapolation.
 
 <a id="unreal.RichCurveExtrapolation.RCCE_CONSTANT"></a>
 
-#### RCCE_CONSTANT
+#### RCCE\_CONSTANT
 
 4: Use a constant value for extrapolation
 
 <a id="unreal.RichCurveExtrapolation.RCCE_NONE"></a>
 
-#### RCCE_NONE
+#### RCCE\_NONE
 
 5: No Extrapolation
 

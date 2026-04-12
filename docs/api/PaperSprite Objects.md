@@ -44,7 +44,7 @@ see: UPaperSpriteComponent
 
 <a id="unreal.PaperSprite.default_material"></a>
 
-#### default_material
+#### default\_material
 
 ```python
 @property
@@ -55,7 +55,7 @@ def default_material() -> MaterialInterface
 
 <a id="unreal.PaperSprite.alternate_material"></a>
 
-#### alternate_material
+#### alternate\_material
 
 ```python
 @property

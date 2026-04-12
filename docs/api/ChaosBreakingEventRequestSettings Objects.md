@@ -22,7 +22,7 @@ Settings used to refine breaking event requests
 
 <a id="unreal.ChaosBreakingEventRequestSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -37,7 +37,7 @@ def __init__(
 
 <a id="unreal.ChaosBreakingEventRequestSettings.max_number_of_results"></a>
 
-#### max_number_of_results
+#### max\_number\_of\_results
 
 ```python
 @property
@@ -48,7 +48,7 @@ def max_number_of_results() -> int
 
 <a id="unreal.ChaosBreakingEventRequestSettings.max_number_of_results"></a>
 
-#### max_number_of_results
+#### max\_number\_of\_results
 
 ```python
 @max_number_of_results.setter
@@ -57,7 +57,7 @@ def max_number_of_results(value: int) -> None
 
 <a id="unreal.ChaosBreakingEventRequestSettings.min_radius"></a>
 
-#### min_radius
+#### min\_radius
 
 ```python
 @property
@@ -68,7 +68,7 @@ def min_radius() -> float
 
 <a id="unreal.ChaosBreakingEventRequestSettings.min_radius"></a>
 
-#### min_radius
+#### min\_radius
 
 ```python
 @min_radius.setter
@@ -77,7 +77,7 @@ def min_radius(value: float) -> None
 
 <a id="unreal.ChaosBreakingEventRequestSettings.min_speed"></a>
 
-#### min_speed
+#### min\_speed
 
 ```python
 @property
@@ -88,7 +88,7 @@ def min_speed() -> float
 
 <a id="unreal.ChaosBreakingEventRequestSettings.min_speed"></a>
 
-#### min_speed
+#### min\_speed
 
 ```python
 @min_speed.setter
@@ -97,7 +97,7 @@ def min_speed(value: float) -> None
 
 <a id="unreal.ChaosBreakingEventRequestSettings.min_mass"></a>
 
-#### min_mass
+#### min\_mass
 
 ```python
 @property
@@ -108,7 +108,7 @@ def min_mass() -> float
 
 <a id="unreal.ChaosBreakingEventRequestSettings.min_mass"></a>
 
-#### min_mass
+#### min\_mass
 
 ```python
 @min_mass.setter
@@ -117,7 +117,7 @@ def min_mass(value: float) -> None
 
 <a id="unreal.ChaosBreakingEventRequestSettings.max_distance"></a>
 
-#### max_distance
+#### max\_distance
 
 ```python
 @property
@@ -128,7 +128,7 @@ def max_distance() -> float
 
 <a id="unreal.ChaosBreakingEventRequestSettings.max_distance"></a>
 
-#### max_distance
+#### max\_distance
 
 ```python
 @max_distance.setter
@@ -137,7 +137,7 @@ def max_distance(value: float) -> None
 
 <a id="unreal.ChaosBreakingEventRequestSettings.sort_method"></a>
 
-#### sort_method
+#### sort\_method
 
 ```python
 @property
@@ -148,7 +148,7 @@ def sort_method() -> ChaosBreakingSortMethod
 
 <a id="unreal.ChaosBreakingEventRequestSettings.sort_method"></a>
 
-#### sort_method
+#### sort\_method
 
 ```python
 @sort_method.setter

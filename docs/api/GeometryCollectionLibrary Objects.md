@@ -13,7 +13,7 @@ Blueprint library for Geometry Collections.
 
 <a id="unreal.GeometryCollectionLibrary.set_ism_pool_custom_instance_data"></a>
 
-#### set_ism_pool_custom_instance_data
+#### set\_ism\_pool\_custom\_instance\_data
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.GeometryCollectionLibrary.set_custom_instance_data_by_name"></a>
 
-#### set_custom_instance_data_by_name
+#### set\_custom\_instance\_data\_by\_name
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Args:
 
 <a id="unreal.GeometryCollectionLibrary.set_custom_instance_data_by_index"></a>
 
-#### set_custom_instance_data_by_index
+#### set\_custom\_instance\_data\_by\_index
 
 ```python
 @classmethod

@@ -14,7 +14,7 @@ Interchange Physical Camera Node
 
 <a id="unreal.InterchangePhysicalCameraNode.set_custom_sensor_width"></a>
 
-#### set_custom_sensor_width
+#### set\_custom\_sensor\_width
 
 ```python
 def set_custom_sensor_width(attribute_value: float) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicalCameraNode.set_custom_sensor_height"></a>
 
-#### set_custom_sensor_height
+#### set\_custom\_sensor\_height
 
 ```python
 def set_custom_sensor_height(attribute_value: float) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicalCameraNode.set_custom_focal_length"></a>
 
-#### set_custom_focal_length
+#### set\_custom\_focal\_length
 
 ```python
 def set_custom_focal_length(attribute_value: float) -> bool
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicalCameraNode.set_custom_enable_depth_of_field"></a>
 
-#### set_custom_enable_depth_of_field
+#### set\_custom\_enable\_depth\_of\_field
 
 ```python
 def set_custom_enable_depth_of_field(attribute_value: bool) -> bool
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicalCameraNode.get_custom_sensor_width"></a>
 
-#### get_custom_sensor_width
+#### get\_custom\_sensor\_width
 
 ```python
 def get_custom_sensor_width() -> Optional[float]
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicalCameraNode.get_custom_sensor_height"></a>
 
-#### get_custom_sensor_height
+#### get\_custom\_sensor\_height
 
 ```python
 def get_custom_sensor_height() -> Optional[float]
@@ -114,7 +114,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicalCameraNode.get_custom_focal_length"></a>
 
-#### get_custom_focal_length
+#### get\_custom\_focal\_length
 
 ```python
 def get_custom_focal_length() -> Optional[float]
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicalCameraNode.get_custom_enable_depth_of_field"></a>
 
-#### get_custom_enable_depth_of_field
+#### get\_custom\_enable\_depth\_of\_field
 
 ```python
 def get_custom_enable_depth_of_field() -> Optional[bool]

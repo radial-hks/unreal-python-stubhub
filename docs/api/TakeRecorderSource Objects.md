@@ -50,7 +50,7 @@ def enabled(value: bool) -> None
 
 <a id="unreal.TakeRecorderSource.take_number"></a>
 
-#### take_number
+#### take\_number
 
 ```python
 @property
@@ -61,7 +61,7 @@ def take_number() -> int
 
 <a id="unreal.TakeRecorderSource.take_number"></a>
 
-#### take_number
+#### take\_number
 
 ```python
 @take_number.setter
@@ -70,7 +70,7 @@ def take_number(value: int) -> None
 
 <a id="unreal.TakeRecorderSource.track_tint"></a>
 
-#### track_tint
+#### track\_tint
 
 ```python
 @property
@@ -81,7 +81,7 @@ def track_tint() -> Color
 
 <a id="unreal.TakeRecorderSource.track_tint"></a>
 
-#### track_tint
+#### track\_tint
 
 ```python
 @track_tint.setter

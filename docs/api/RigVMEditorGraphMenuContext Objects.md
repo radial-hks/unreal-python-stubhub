@@ -20,7 +20,7 @@ Rig VMEditor Graph Menu Context
 
 <a id="unreal.RigVMEditorGraphMenuContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(graph: RigVMGraph = None,

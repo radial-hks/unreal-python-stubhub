@@ -56,13 +56,13 @@ EPCGMetadata Trig Operation
 
 <a id="unreal.PCGMetadataTrigOperation.DEG_TO_RAD"></a>
 
-#### DEG_TO_RAD
+#### DEG\_TO\_RAD
 
 7
 
 <a id="unreal.PCGMetadataTrigOperation.RAD_TO_DEG"></a>
 
-#### RAD_TO_DEG
+#### RAD\_TO\_DEG
 
 8
 

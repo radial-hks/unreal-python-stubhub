@@ -21,7 +21,7 @@ Rig Connector Settings
 
 <a id="unreal.RigConnectorSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(description: str = "",

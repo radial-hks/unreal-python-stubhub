@@ -99,7 +99,7 @@ garbage collected.
 
 <a id="unreal.CanvasRenderTarget2D.on_canvas_render_target_update"></a>
 
-#### on_canvas_render_target_update
+#### on\_canvas\_render\_target\_update
 
 ```python
 @property
@@ -110,7 +110,7 @@ def on_canvas_render_target_update() -> OnCanvasRenderTargetUpdate
 
 <a id="unreal.CanvasRenderTarget2D.on_canvas_render_target_update"></a>
 
-#### on_canvas_render_target_update
+#### on\_canvas\_render\_target\_update
 
 ```python
 @on_canvas_render_target_update.setter
@@ -119,7 +119,7 @@ def on_canvas_render_target_update(value: OnCanvasRenderTargetUpdate) -> None
 
 <a id="unreal.CanvasRenderTarget2D.sample_count"></a>
 
-#### sample_count
+#### sample\_count
 
 ```python
 @property
@@ -130,7 +130,7 @@ def sample_count() -> TextureRenderTargetSampleCount
 
 <a id="unreal.CanvasRenderTarget2D.sample_count"></a>
 
-#### sample_count
+#### sample\_count
 
 ```python
 @sample_count.setter
@@ -139,7 +139,7 @@ def sample_count(value: TextureRenderTargetSampleCount) -> None
 
 <a id="unreal.CanvasRenderTarget2D.update_resource"></a>
 
-#### update_resource
+#### update\_resource
 
 ```python
 def update_resource() -> None
@@ -155,7 +155,7 @@ texture to make it available for rendering.
 
 <a id="unreal.CanvasRenderTarget2D.receive_update"></a>
 
-#### receive_update
+#### receive\_update
 
 ```python
 def receive_update(canvas: Canvas, width: int, height: int) -> None
@@ -171,7 +171,7 @@ Args:
 
 <a id="unreal.CanvasRenderTarget2D.get_size"></a>
 
-#### get_size
+#### get\_size
 
 ```python
 def get_size() -> Tuple[int, int]
@@ -189,7 +189,7 @@ Returns:
 
 <a id="unreal.CanvasRenderTarget2D.create_canvas_render_target2d"></a>
 
-#### create_canvas_render_target2d
+#### create\_canvas\_render\_target2d
 
 ```python
 @classmethod

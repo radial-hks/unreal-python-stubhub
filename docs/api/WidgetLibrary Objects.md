@@ -13,7 +13,7 @@ Widget Blueprint Library
 
 <a id="unreal.WidgetLibrary.unlock_mouse"></a>
 
-#### unlock_mouse
+#### unlock\_mouse
 
 ```python
 @classmethod
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.set_window_title_bar_state"></a>
 
-#### set_window_title_bar_state
+#### set\_window\_title\_bar\_state
 
 ```python
 @classmethod
@@ -71,7 +71,7 @@ Args:
 
 <a id="unreal.WidgetLibrary.set_window_title_bar_on_close_clicked_delegate"></a>
 
-#### set_window_title_bar_on_close_clicked_delegate
+#### set\_window\_title\_bar\_on\_close\_clicked\_delegate
 
 ```python
 @classmethod
@@ -87,7 +87,7 @@ Args:
 
 <a id="unreal.WidgetLibrary.set_window_title_bar_close_button_active"></a>
 
-#### set_window_title_bar_close_button_active
+#### set\_window\_title\_bar\_close\_button\_active
 
 ```python
 @classmethod
@@ -102,7 +102,7 @@ Args:
 
 <a id="unreal.WidgetLibrary.set_user_focus"></a>
 
-#### set_user_focus
+#### set\_user\_focus
 
 ```python
 @classmethod
@@ -127,7 +127,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.set_mouse_position"></a>
 
-#### set_mouse_position
+#### set\_mouse\_position
 
 ```python
 @classmethod
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.set_input_mode_ui_only_ex"></a>
 
-#### set_input_mode_ui_only_ex
+#### set\_input\_mode\_ui\_only\_ex
 
 ```python
 @classmethod
@@ -175,7 +175,7 @@ Args:
 
 <a id="unreal.WidgetLibrary.set_input_mode_game_only"></a>
 
-#### set_input_mode_game_only
+#### set\_input\_mode\_game\_only
 
 ```python
 @classmethod
@@ -195,7 +195,7 @@ Args:
 
 <a id="unreal.WidgetLibrary.set_input_mode_game_and_ui_ex"></a>
 
-#### set_input_mode_game_and_ui_ex
+#### set\_input\_mode\_game\_and\_ui\_ex
 
 ```python
 @classmethod
@@ -222,7 +222,7 @@ Args:
 
 <a id="unreal.WidgetLibrary.set_hardware_cursor"></a>
 
-#### set_hardware_cursor
+#### set\_hardware\_cursor
 
 ```python
 @classmethod
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.set_focus_to_game_viewport"></a>
 
-#### set_focus_to_game_viewport
+#### set\_focus\_to\_game\_viewport
 
 ```python
 @classmethod
@@ -257,7 +257,7 @@ Set Focus to Game Viewport
 
 <a id="unreal.WidgetLibrary.set_color_vision_deficiency_type"></a>
 
-#### set_color_vision_deficiency_type
+#### set\_color\_vision\_deficiency\_type
 
 ```python
 @classmethod
@@ -278,7 +278,7 @@ Args:
 
 <a id="unreal.WidgetLibrary.set_brush_resource_to_texture"></a>
 
-#### set_brush_resource_to_texture
+#### set\_brush\_resource\_to\_texture
 
 ```python
 @classmethod
@@ -300,7 +300,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.set_brush_resource_to_material"></a>
 
-#### set_brush_resource_to_material
+#### set\_brush\_resource\_to\_material
 
 ```python
 @classmethod
@@ -322,7 +322,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.restore_previous_window_title_bar_state"></a>
 
-#### restore_previous_window_title_bar_state
+#### restore\_previous\_window\_title\_bar\_state
 
 ```python
 @classmethod
@@ -334,7 +334,7 @@ Restore Previous Window Title Bar State
 
 <a id="unreal.WidgetLibrary.release_mouse_capture"></a>
 
-#### release_mouse_capture
+#### release\_mouse\_capture
 
 ```python
 @classmethod
@@ -355,7 +355,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.release_joystick_capture"></a>
 
-#### release_joystick_capture
+#### release\_joystick\_capture
 
 ```python
 @classmethod
@@ -380,7 +380,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.no_resource_brush"></a>
 
-#### no_resource_brush
+#### no\_resource\_brush
 
 ```python
 @classmethod
@@ -395,7 +395,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.make_brush_from_texture"></a>
 
-#### make_brush_from_texture
+#### make\_brush\_from\_texture
 
 ```python
 @classmethod
@@ -418,7 +418,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.make_brush_from_material"></a>
 
-#### make_brush_from_material
+#### make\_brush\_from\_material
 
 ```python
 @classmethod
@@ -442,7 +442,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.make_brush_from_asset"></a>
 
-#### make_brush_from_asset
+#### make\_brush\_from\_asset
 
 ```python
 @classmethod
@@ -460,7 +460,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.lock_mouse"></a>
 
-#### lock_mouse
+#### lock\_mouse
 
 ```python
 @classmethod
@@ -482,7 +482,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.is_drag_dropping"></a>
 
-#### is_drag_dropping
+#### is\_drag\_dropping
 
 ```python
 @classmethod
@@ -513,7 +513,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_safe_zone_padding"></a>
 
-#### get_safe_zone_padding
+#### get\_safe\_zone\_padding
 
 ```python
 @classmethod
@@ -539,7 +539,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_key_event_from_analog_input_event"></a>
 
-#### get_key_event_from_analog_input_event
+#### get\_key\_event\_from\_analog\_input\_event
 
 ```python
 @classmethod
@@ -558,7 +558,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_input_event_from_pointer_event"></a>
 
-#### get_input_event_from_pointer_event
+#### get\_input\_event\_from\_pointer\_event
 
 ```python
 @classmethod
@@ -576,7 +576,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_input_event_from_navigation_event"></a>
 
-#### get_input_event_from_navigation_event
+#### get\_input\_event\_from\_navigation\_event
 
 ```python
 @classmethod
@@ -595,7 +595,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_input_event_from_key_event"></a>
 
-#### get_input_event_from_key_event
+#### get\_input\_event\_from\_key\_event
 
 ```python
 @classmethod
@@ -613,7 +613,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_input_event_from_character_event"></a>
 
-#### get_input_event_from_character_event
+#### get\_input\_event\_from\_character\_event
 
 ```python
 @classmethod
@@ -632,7 +632,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_dynamic_material"></a>
 
-#### get_dynamic_material
+#### get\_dynamic\_material
 
 ```python
 @classmethod
@@ -654,7 +654,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_drag_dropping_content"></a>
 
-#### get_drag_dropping_content
+#### get\_drag\_dropping\_content
 
 ```python
 @classmethod
@@ -669,7 +669,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_brush_resource_as_texture2d"></a>
 
-#### get_brush_resource_as_texture2d
+#### get\_brush\_resource\_as\_texture2d
 
 ```python
 @classmethod
@@ -687,7 +687,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_brush_resource_as_material"></a>
 
-#### get_brush_resource_as_material
+#### get\_brush\_resource\_as\_material
 
 ```python
 @classmethod
@@ -706,7 +706,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_brush_resource"></a>
 
-#### get_brush_resource
+#### get\_brush\_resource
 
 ```python
 @classmethod
@@ -724,7 +724,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_all_widgets_with_interface"></a>
 
-#### get_all_widgets_with_interface
+#### get\_all\_widgets\_with\_interface
 
 ```python
 @classmethod
@@ -749,7 +749,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.get_all_widgets_of_class"></a>
 
-#### get_all_widgets_of_class
+#### get\_all\_widgets\_of\_class
 
 ```python
 @classmethod
@@ -774,7 +774,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.end_drag_drop"></a>
 
-#### end_drag_drop
+#### end\_drag\_drop
 
 ```python
 @classmethod
@@ -794,7 +794,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.draw_text_formatted"></a>
 
-#### draw_text_formatted
+#### draw\_text\_formatted
 
 ```python
 @classmethod
@@ -829,7 +829,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.draw_text"></a>
 
-#### draw_text
+#### draw\_text
 
 ```python
 @classmethod
@@ -859,7 +859,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.draw_spline"></a>
 
-#### draw_spline
+#### draw\_spline
 
 ```python
 @classmethod
@@ -892,7 +892,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.draw_lines"></a>
 
-#### draw_lines
+#### draw\_lines
 
 ```python
 @classmethod
@@ -921,7 +921,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.draw_line"></a>
 
-#### draw_line
+#### draw\_line
 
 ```python
 @classmethod
@@ -952,7 +952,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.draw_box"></a>
 
-#### draw_box
+#### draw\_box
 
 ```python
 @classmethod
@@ -983,7 +983,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.dismiss_all_menus"></a>
 
-#### dismiss_all_menus
+#### dismiss\_all\_menus
 
 ```python
 @classmethod
@@ -995,7 +995,7 @@ Closes any popup menu
 
 <a id="unreal.WidgetLibrary.detect_drag_if_pressed"></a>
 
-#### detect_drag_if_pressed
+#### detect\_drag\_if\_pressed
 
 ```python
 @classmethod
@@ -1018,7 +1018,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.detect_drag"></a>
 
-#### detect_drag
+#### detect\_drag
 
 ```python
 @classmethod
@@ -1042,7 +1042,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.clear_user_focus"></a>
 
-#### clear_user_focus
+#### clear\_user\_focus
 
 ```python
 @classmethod
@@ -1065,7 +1065,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.capture_mouse"></a>
 
-#### capture_mouse
+#### capture\_mouse
 
 ```python
 @classmethod
@@ -1087,7 +1087,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.capture_joystick"></a>
 
-#### capture_joystick
+#### capture\_joystick
 
 ```python
 @classmethod
@@ -1114,7 +1114,7 @@ Returns:
 
 <a id="unreal.WidgetLibrary.cancel_drag_drop"></a>
 
-#### cancel_drag_drop
+#### cancel\_drag\_drop
 
 ```python
 @classmethod

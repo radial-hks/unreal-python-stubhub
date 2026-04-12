@@ -58,7 +58,7 @@ Contains the common options that should be exposed for the underlying Slate widg
 
 <a id="unreal.TextLayoutWidget.shaped_text_options"></a>
 
-#### shaped_text_options
+#### shaped\_text\_options
 
 ```python
 @property
@@ -69,7 +69,7 @@ def shaped_text_options() -> ShapedTextOptions
 
 <a id="unreal.TextLayoutWidget.shaped_text_options"></a>
 
-#### shaped_text_options
+#### shaped\_text\_options
 
 ```python
 @shaped_text_options.setter
@@ -98,7 +98,7 @@ def justification(value: TextJustify) -> None
 
 <a id="unreal.TextLayoutWidget.wrapping_policy"></a>
 
-#### wrapping_policy
+#### wrapping\_policy
 
 ```python
 @property
@@ -109,7 +109,7 @@ def wrapping_policy() -> TextWrappingPolicy
 
 <a id="unreal.TextLayoutWidget.wrapping_policy"></a>
 
-#### wrapping_policy
+#### wrapping\_policy
 
 ```python
 @wrapping_policy.setter
@@ -118,7 +118,7 @@ def wrapping_policy(value: TextWrappingPolicy) -> None
 
 <a id="unreal.TextLayoutWidget.auto_wrap_text"></a>
 
-#### auto_wrap_text
+#### auto\_wrap\_text
 
 ```python
 @property
@@ -129,7 +129,7 @@ def auto_wrap_text() -> bool
 
 <a id="unreal.TextLayoutWidget.auto_wrap_text"></a>
 
-#### auto_wrap_text
+#### auto\_wrap\_text
 
 ```python
 @auto_wrap_text.setter
@@ -138,7 +138,7 @@ def auto_wrap_text(value: bool) -> None
 
 <a id="unreal.TextLayoutWidget.apply_line_height_to_bottom_line"></a>
 
-#### apply_line_height_to_bottom_line
+#### apply\_line\_height\_to\_bottom\_line
 
 ```python
 @property
@@ -149,7 +149,7 @@ def apply_line_height_to_bottom_line() -> bool
 
 <a id="unreal.TextLayoutWidget.apply_line_height_to_bottom_line"></a>
 
-#### apply_line_height_to_bottom_line
+#### apply\_line\_height\_to\_bottom\_line
 
 ```python
 @apply_line_height_to_bottom_line.setter
@@ -158,7 +158,7 @@ def apply_line_height_to_bottom_line(value: bool) -> None
 
 <a id="unreal.TextLayoutWidget.wrap_text_at"></a>
 
-#### wrap_text_at
+#### wrap\_text\_at
 
 ```python
 @property
@@ -169,7 +169,7 @@ def wrap_text_at() -> float
 
 <a id="unreal.TextLayoutWidget.wrap_text_at"></a>
 
-#### wrap_text_at
+#### wrap\_text\_at
 
 ```python
 @wrap_text_at.setter
@@ -198,7 +198,7 @@ def margin(value: Margin) -> None
 
 <a id="unreal.TextLayoutWidget.line_height_percentage"></a>
 
-#### line_height_percentage
+#### line\_height\_percentage
 
 ```python
 @property
@@ -209,7 +209,7 @@ def line_height_percentage() -> float
 
 <a id="unreal.TextLayoutWidget.line_height_percentage"></a>
 
-#### line_height_percentage
+#### line\_height\_percentage
 
 ```python
 @line_height_percentage.setter

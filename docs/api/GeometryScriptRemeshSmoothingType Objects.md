@@ -20,7 +20,7 @@ The Vertex Smoothing strategy used in a Remeshing operation
 
 <a id="unreal.GeometryScriptRemeshSmoothingType.UV_PRESERVING"></a>
 
-#### UV_PRESERVING
+#### UV\_PRESERVING
 
 1: Vertices move towards the projection of their one-ring centroids onto their normal vectors, preserving UVs
 

@@ -20,7 +20,7 @@ Control Rig Sequencer Binding Proxy
 
 <a id="unreal.ControlRigSequencerBindingProxy.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(proxy: MovieSceneBindingProxy = [[], None],
@@ -41,7 +41,7 @@ def proxy() -> MovieSceneBindingProxy
 
 <a id="unreal.ControlRigSequencerBindingProxy.control_rig"></a>
 
-#### control_rig
+#### control\_rig
 
 ```python
 @property

@@ -35,7 +35,7 @@ Removes points that lie outside the current actor bounds.
 
 <a id="unreal.PCGCullPointsOutsideActorBoundsSettings.bounds_expansion"></a>
 
-#### bounds_expansion
+#### bounds\_expansion
 
 ```python
 @property
@@ -46,7 +46,7 @@ def bounds_expansion() -> float
 
 <a id="unreal.PCGCullPointsOutsideActorBoundsSettings.bounds_expansion"></a>
 
-#### bounds_expansion
+#### bounds\_expansion
 
 ```python
 @bounds_expansion.setter

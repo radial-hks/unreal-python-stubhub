@@ -55,7 +55,7 @@ Meter is rendered by using material instead of texture.
 
 <a id="unreal.AudioMaterialMeter.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -66,7 +66,7 @@ def widget_style() -> AudioMaterialMeterStyle
 
 <a id="unreal.AudioMaterialMeter.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -86,7 +86,7 @@ def orientation() -> Orientation
 
 <a id="unreal.AudioMaterialMeter.meter_channel_info"></a>
 
-#### meter_channel_info
+#### meter\_channel\_info
 
 ```python
 @property
@@ -97,7 +97,7 @@ def meter_channel_info() -> Array[MeterChannelInfo]
 
 <a id="unreal.AudioMaterialMeter.meter_channel_info"></a>
 
-#### meter_channel_info
+#### meter\_channel\_info
 
 ```python
 @meter_channel_info.setter
@@ -106,7 +106,7 @@ def meter_channel_info(value: Array[MeterChannelInfo]) -> None
 
 <a id="unreal.AudioMaterialMeter.set_meter_channel_info"></a>
 
-#### set_meter_channel_info
+#### set\_meter\_channel\_info
 
 ```python
 def set_meter_channel_info(
@@ -121,7 +121,7 @@ Args:
 
 <a id="unreal.AudioMaterialMeter.get_meter_channel_info"></a>
 
-#### get_meter_channel_info
+#### get\_meter\_channel\_info
 
 ```python
 def get_meter_channel_info() -> Array[MeterChannelInfo]

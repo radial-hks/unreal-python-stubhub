@@ -19,7 +19,7 @@ Geometry Script Fill Holes Options
 
 <a id="unreal.GeometryScriptFillHolesOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -30,7 +30,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptFillHolesOptions.fill_method"></a>
 
-#### fill_method
+#### fill\_method
 
 ```python
 @property
@@ -41,7 +41,7 @@ def fill_method() -> GeometryScriptFillHolesMethod
 
 <a id="unreal.GeometryScriptFillHolesOptions.fill_method"></a>
 
-#### fill_method
+#### fill\_method
 
 ```python
 @fill_method.setter
@@ -50,7 +50,7 @@ def fill_method(value: GeometryScriptFillHolesMethod) -> None
 
 <a id="unreal.GeometryScriptFillHolesOptions.delete_isolated_triangles"></a>
 
-#### delete_isolated_triangles
+#### delete\_isolated\_triangles
 
 ```python
 @property
@@ -61,7 +61,7 @@ def delete_isolated_triangles() -> bool
 
 <a id="unreal.GeometryScriptFillHolesOptions.delete_isolated_triangles"></a>
 
-#### delete_isolated_triangles
+#### delete\_isolated\_triangles
 
 ```python
 @delete_isolated_triangles.setter

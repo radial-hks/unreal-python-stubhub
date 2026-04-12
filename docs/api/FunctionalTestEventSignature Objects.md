@@ -13,10 +13,10 @@ Functional Test Event Signature  Delegate Signature
 
 <a id="unreal.FunctionalTestEventSignature.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None
 ```
 
-<a id="unreal.AsyncDelayComplete"></a>
+<a id="unreal.OnJoyColorChangedEvent"></a>

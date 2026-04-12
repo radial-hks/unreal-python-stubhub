@@ -44,7 +44,7 @@ Possible result states of an in-app purchase transaction
 
 <a id="unreal.InAppPurchaseState.NOT_ALLOWED"></a>
 
-#### NOT_ALLOWED
+#### NOT\_ALLOWED
 
 5
 
@@ -56,7 +56,7 @@ Possible result states of an in-app purchase transaction
 
 <a id="unreal.InAppPurchaseState.ALREADY_OWNED"></a>
 
-#### ALREADY_OWNED
+#### ALREADY\_OWNED
 
 7
 

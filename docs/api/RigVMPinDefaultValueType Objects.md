@@ -14,7 +14,7 @@ ERig VMPin Default Value Type
 
 <a id="unreal.RigVMPinDefaultValueType.AUTO_DETECT"></a>
 
-#### AUTO_DETECT
+#### AUTO\_DETECT
 
 0
 
@@ -32,7 +32,7 @@ ERig VMPin Default Value Type
 
 <a id="unreal.RigVMPinDefaultValueType.KEEP_VALUE_TYPE"></a>
 
-#### KEEP_VALUE_TYPE
+#### KEEP\_VALUE\_TYPE
 
 3: The value is overridden by the user and should stay like this no matter what
 

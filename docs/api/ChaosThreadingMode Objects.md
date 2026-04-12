@@ -13,13 +13,13 @@ EChaos Threading Mode
 
 <a id="unreal.ChaosThreadingMode.TASK_GRAPH"></a>
 
-#### TASK_GRAPH
+#### TASK\_GRAPH
 
 1
 
 <a id="unreal.ChaosThreadingMode.SINGLE_THREAD"></a>
 
-#### SINGLE_THREAD
+#### SINGLE\_THREAD
 
 2
 

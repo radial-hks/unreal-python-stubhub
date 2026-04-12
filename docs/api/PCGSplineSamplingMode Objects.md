@@ -26,7 +26,7 @@ EPCGSpline Sampling Mode
 
 <a id="unreal.PCGSplineSamplingMode.NUMBER_OF_SAMPLES"></a>
 
-#### NUMBER_OF_SAMPLES
+#### NUMBER\_OF\_SAMPLES
 
 2: Samples a specified number of times, evenly spaced around the spline.
 

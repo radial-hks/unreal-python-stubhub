@@ -23,7 +23,7 @@ Hair Groups Cards Source Description
 
 <a id="unreal.HairGroupsCardsSourceDescription.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

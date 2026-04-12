@@ -13,19 +13,19 @@ Enum for specifying a specific axis of a bone
 
 <a id="unreal.BoneAxis.BA_X"></a>
 
-#### BA_X
+#### BA\_X
 
 0
 
 <a id="unreal.BoneAxis.BA_Y"></a>
 
-#### BA_Y
+#### BA\_Y
 
 1
 
 <a id="unreal.BoneAxis.BA_Z"></a>
 
-#### BA_Z
+#### BA\_Z
 
 2
 

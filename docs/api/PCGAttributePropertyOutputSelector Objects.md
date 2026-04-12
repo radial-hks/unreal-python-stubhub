@@ -15,7 +15,7 @@ Source.:
 
 <a id="unreal.PCGAttributePropertyOutputSelector.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -23,7 +23,7 @@ def __init__() -> None
 
 <a id="unreal.PCGAttributePropertyOutputSelector.copy_and_fix_source"></a>
 
-#### copy_and_fix_source
+#### copy\_and\_fix\_source
 
 ```python
 def copy_and_fix_source(

@@ -21,7 +21,7 @@ class InterchangeMeshGeometry(StructBase)
 
 <a id="unreal.InterchangeMeshGeometry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -13,7 +13,7 @@ On Button Hover Event  Delegate Signature
 
 <a id="unreal.OnButtonHoverEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

@@ -19,7 +19,7 @@ Specifies the reference point of the local position. This can be different in so
 
 <a id="unreal.LocalPositionOrigin.INSTANCE_PRE_SKINNING"></a>
 
-#### INSTANCE_PRE_SKINNING
+#### INSTANCE\_PRE\_SKINNING
 
 1: Returns pre-skinned local position for skeletal meshes, usable in vertex shader only.
       Returns the instance position for non-skeletal meshes. Incompatible with GPU skin cache feature.

@@ -51,7 +51,7 @@ class SphereReflectionCaptureComponent(ReflectionCaptureComponent)
 
 <a id="unreal.SphereReflectionCaptureComponent.influence_radius"></a>
 
-#### influence_radius
+#### influence\_radius
 
 ```python
 @property
@@ -62,7 +62,7 @@ def influence_radius() -> float
 
 <a id="unreal.SphereReflectionCaptureComponent.influence_radius"></a>
 
-#### influence_radius
+#### influence\_radius
 
 ```python
 @influence_radius.setter

@@ -36,7 +36,7 @@ Combines each point to share a singular bound extent.
 
 <a id="unreal.PCGCombinePointsSettings.center_pivot"></a>
 
-#### center_pivot
+#### center\_pivot
 
 ```python
 @property
@@ -47,7 +47,7 @@ def center_pivot() -> bool
 
 <a id="unreal.PCGCombinePointsSettings.center_pivot"></a>
 
-#### center_pivot
+#### center\_pivot
 
 ```python
 @center_pivot.setter
@@ -56,7 +56,7 @@ def center_pivot(value: bool) -> None
 
 <a id="unreal.PCGCombinePointsSettings.use_first_point_transform"></a>
 
-#### use_first_point_transform
+#### use\_first\_point\_transform
 
 ```python
 @property
@@ -67,7 +67,7 @@ def use_first_point_transform() -> bool
 
 <a id="unreal.PCGCombinePointsSettings.use_first_point_transform"></a>
 
-#### use_first_point_transform
+#### use\_first\_point\_transform
 
 ```python
 @use_first_point_transform.setter
@@ -76,7 +76,7 @@ def use_first_point_transform(value: bool) -> None
 
 <a id="unreal.PCGCombinePointsSettings.point_transform"></a>
 
-#### point_transform
+#### point\_transform
 
 ```python
 @property
@@ -87,7 +87,7 @@ def point_transform() -> Transform
 
 <a id="unreal.PCGCombinePointsSettings.point_transform"></a>
 
-#### point_transform
+#### point\_transform
 
 ```python
 @point_transform.setter

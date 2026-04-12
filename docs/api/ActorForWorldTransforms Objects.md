@@ -19,7 +19,7 @@ Description of an actor selected parts we can find world transforms on
 
 <a id="unreal.ActorForWorldTransforms.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(actor: Actor = None,
@@ -69,7 +69,7 @@ def component(value: SceneComponent) -> None
 
 <a id="unreal.ActorForWorldTransforms.socket_name"></a>
 
-#### socket_name
+#### socket\_name
 
 ```python
 @property
@@ -80,7 +80,7 @@ def socket_name() -> Name
 
 <a id="unreal.ActorForWorldTransforms.socket_name"></a>
 
-#### socket_name
+#### socket\_name
 
 ```python
 @socket_name.setter

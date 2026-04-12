@@ -28,7 +28,7 @@ An extension of the pin properties that adds hints for GPU specific properties, 
 
 <a id="unreal.PCGPinPropertiesGPU.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -50,7 +50,7 @@ def __init__(
 
 <a id="unreal.PCGPinPropertiesGPU.properties_gpu"></a>
 
-#### properties_gpu
+#### properties\_gpu
 
 ```python
 @property
@@ -61,7 +61,7 @@ def properties_gpu() -> PCGPinPropertiesGPUStruct
 
 <a id="unreal.PCGPinPropertiesGPU.properties_gpu"></a>
 
-#### properties_gpu
+#### properties\_gpu
 
 ```python
 @properties_gpu.setter

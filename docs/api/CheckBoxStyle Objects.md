@@ -41,7 +41,7 @@ Represents the appearance of an SCheckBox
 
 <a id="unreal.CheckBoxStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(check_box_type: SlateCheckBoxType = SlateCheckBoxType.CHECK_BOX,
@@ -209,7 +209,7 @@ def __init__(check_box_type: SlateCheckBoxType = SlateCheckBoxType.CHECK_BOX,
 
 <a id="unreal.CheckBoxStyle.check_box_type"></a>
 
-#### check_box_type
+#### check\_box\_type
 
 ```python
 @property
@@ -220,7 +220,7 @@ def check_box_type() -> SlateCheckBoxType
 
 <a id="unreal.CheckBoxStyle.check_box_type"></a>
 
-#### check_box_type
+#### check\_box\_type
 
 ```python
 @check_box_type.setter
@@ -229,7 +229,7 @@ def check_box_type(value: SlateCheckBoxType) -> None
 
 <a id="unreal.CheckBoxStyle.unchecked_image"></a>
 
-#### unchecked_image
+#### unchecked\_image
 
 ```python
 @property
@@ -240,7 +240,7 @@ def unchecked_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.unchecked_image"></a>
 
-#### unchecked_image
+#### unchecked\_image
 
 ```python
 @unchecked_image.setter
@@ -249,7 +249,7 @@ def unchecked_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.unchecked_hovered_image"></a>
 
-#### unchecked_hovered_image
+#### unchecked\_hovered\_image
 
 ```python
 @property
@@ -260,7 +260,7 @@ def unchecked_hovered_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.unchecked_hovered_image"></a>
 
-#### unchecked_hovered_image
+#### unchecked\_hovered\_image
 
 ```python
 @unchecked_hovered_image.setter
@@ -269,7 +269,7 @@ def unchecked_hovered_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.unchecked_pressed_image"></a>
 
-#### unchecked_pressed_image
+#### unchecked\_pressed\_image
 
 ```python
 @property
@@ -280,7 +280,7 @@ def unchecked_pressed_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.unchecked_pressed_image"></a>
 
-#### unchecked_pressed_image
+#### unchecked\_pressed\_image
 
 ```python
 @unchecked_pressed_image.setter
@@ -289,7 +289,7 @@ def unchecked_pressed_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.checked_image"></a>
 
-#### checked_image
+#### checked\_image
 
 ```python
 @property
@@ -300,7 +300,7 @@ def checked_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.checked_image"></a>
 
-#### checked_image
+#### checked\_image
 
 ```python
 @checked_image.setter
@@ -309,7 +309,7 @@ def checked_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.checked_hovered_image"></a>
 
-#### checked_hovered_image
+#### checked\_hovered\_image
 
 ```python
 @property
@@ -320,7 +320,7 @@ def checked_hovered_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.checked_hovered_image"></a>
 
-#### checked_hovered_image
+#### checked\_hovered\_image
 
 ```python
 @checked_hovered_image.setter
@@ -329,7 +329,7 @@ def checked_hovered_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.checked_pressed_image"></a>
 
-#### checked_pressed_image
+#### checked\_pressed\_image
 
 ```python
 @property
@@ -340,7 +340,7 @@ def checked_pressed_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.checked_pressed_image"></a>
 
-#### checked_pressed_image
+#### checked\_pressed\_image
 
 ```python
 @checked_pressed_image.setter
@@ -349,7 +349,7 @@ def checked_pressed_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.undetermined_image"></a>
 
-#### undetermined_image
+#### undetermined\_image
 
 ```python
 @property
@@ -360,7 +360,7 @@ def undetermined_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.undetermined_image"></a>
 
-#### undetermined_image
+#### undetermined\_image
 
 ```python
 @undetermined_image.setter
@@ -369,7 +369,7 @@ def undetermined_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.undetermined_hovered_image"></a>
 
-#### undetermined_hovered_image
+#### undetermined\_hovered\_image
 
 ```python
 @property
@@ -380,7 +380,7 @@ def undetermined_hovered_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.undetermined_hovered_image"></a>
 
-#### undetermined_hovered_image
+#### undetermined\_hovered\_image
 
 ```python
 @undetermined_hovered_image.setter
@@ -389,7 +389,7 @@ def undetermined_hovered_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.undetermined_pressed_image"></a>
 
-#### undetermined_pressed_image
+#### undetermined\_pressed\_image
 
 ```python
 @property
@@ -400,7 +400,7 @@ def undetermined_pressed_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.undetermined_pressed_image"></a>
 
-#### undetermined_pressed_image
+#### undetermined\_pressed\_image
 
 ```python
 @undetermined_pressed_image.setter
@@ -429,7 +429,7 @@ def padding(value: Margin) -> None
 
 <a id="unreal.CheckBoxStyle.background_image"></a>
 
-#### background_image
+#### background\_image
 
 ```python
 @property
@@ -440,7 +440,7 @@ def background_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.background_image"></a>
 
-#### background_image
+#### background\_image
 
 ```python
 @background_image.setter
@@ -449,7 +449,7 @@ def background_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.background_hovered_image"></a>
 
-#### background_hovered_image
+#### background\_hovered\_image
 
 ```python
 @property
@@ -460,7 +460,7 @@ def background_hovered_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.background_hovered_image"></a>
 
-#### background_hovered_image
+#### background\_hovered\_image
 
 ```python
 @background_hovered_image.setter
@@ -469,7 +469,7 @@ def background_hovered_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.background_pressed_image"></a>
 
-#### background_pressed_image
+#### background\_pressed\_image
 
 ```python
 @property
@@ -480,7 +480,7 @@ def background_pressed_image() -> SlateBrush
 
 <a id="unreal.CheckBoxStyle.background_pressed_image"></a>
 
-#### background_pressed_image
+#### background\_pressed\_image
 
 ```python
 @background_pressed_image.setter
@@ -489,7 +489,7 @@ def background_pressed_image(value: SlateBrush) -> None
 
 <a id="unreal.CheckBoxStyle.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @property
@@ -500,7 +500,7 @@ def foreground_color() -> SlateColor
 
 <a id="unreal.CheckBoxStyle.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @foreground_color.setter
@@ -509,7 +509,7 @@ def foreground_color(value: SlateColor) -> None
 
 <a id="unreal.CheckBoxStyle.hovered_foreground"></a>
 
-#### hovered_foreground
+#### hovered\_foreground
 
 ```python
 @property
@@ -520,7 +520,7 @@ def hovered_foreground() -> SlateColor
 
 <a id="unreal.CheckBoxStyle.hovered_foreground"></a>
 
-#### hovered_foreground
+#### hovered\_foreground
 
 ```python
 @hovered_foreground.setter
@@ -529,7 +529,7 @@ def hovered_foreground(value: SlateColor) -> None
 
 <a id="unreal.CheckBoxStyle.pressed_foreground"></a>
 
-#### pressed_foreground
+#### pressed\_foreground
 
 ```python
 @property
@@ -540,7 +540,7 @@ def pressed_foreground() -> SlateColor
 
 <a id="unreal.CheckBoxStyle.pressed_foreground"></a>
 
-#### pressed_foreground
+#### pressed\_foreground
 
 ```python
 @pressed_foreground.setter
@@ -549,7 +549,7 @@ def pressed_foreground(value: SlateColor) -> None
 
 <a id="unreal.CheckBoxStyle.checked_foreground"></a>
 
-#### checked_foreground
+#### checked\_foreground
 
 ```python
 @property
@@ -560,7 +560,7 @@ def checked_foreground() -> SlateColor
 
 <a id="unreal.CheckBoxStyle.checked_foreground"></a>
 
-#### checked_foreground
+#### checked\_foreground
 
 ```python
 @checked_foreground.setter
@@ -569,7 +569,7 @@ def checked_foreground(value: SlateColor) -> None
 
 <a id="unreal.CheckBoxStyle.checked_hovered_foreground"></a>
 
-#### checked_hovered_foreground
+#### checked\_hovered\_foreground
 
 ```python
 @property
@@ -580,7 +580,7 @@ def checked_hovered_foreground() -> SlateColor
 
 <a id="unreal.CheckBoxStyle.checked_hovered_foreground"></a>
 
-#### checked_hovered_foreground
+#### checked\_hovered\_foreground
 
 ```python
 @checked_hovered_foreground.setter
@@ -589,7 +589,7 @@ def checked_hovered_foreground(value: SlateColor) -> None
 
 <a id="unreal.CheckBoxStyle.checked_pressed_foreground"></a>
 
-#### checked_pressed_foreground
+#### checked\_pressed\_foreground
 
 ```python
 @property
@@ -600,7 +600,7 @@ def checked_pressed_foreground() -> SlateColor
 
 <a id="unreal.CheckBoxStyle.checked_pressed_foreground"></a>
 
-#### checked_pressed_foreground
+#### checked\_pressed\_foreground
 
 ```python
 @checked_pressed_foreground.setter
@@ -609,7 +609,7 @@ def checked_pressed_foreground(value: SlateColor) -> None
 
 <a id="unreal.CheckBoxStyle.undetermined_foreground"></a>
 
-#### undetermined_foreground
+#### undetermined\_foreground
 
 ```python
 @property
@@ -620,7 +620,7 @@ def undetermined_foreground() -> SlateColor
 
 <a id="unreal.CheckBoxStyle.undetermined_foreground"></a>
 
-#### undetermined_foreground
+#### undetermined\_foreground
 
 ```python
 @undetermined_foreground.setter
@@ -629,7 +629,7 @@ def undetermined_foreground(value: SlateColor) -> None
 
 <a id="unreal.CheckBoxStyle.border_background_color"></a>
 
-#### border_background_color
+#### border\_background\_color
 
 ```python
 @property
@@ -640,7 +640,7 @@ def border_background_color() -> SlateColor
 
 <a id="unreal.CheckBoxStyle.border_background_color"></a>
 
-#### border_background_color
+#### border\_background\_color
 
 ```python
 @border_background_color.setter
@@ -649,7 +649,7 @@ def border_background_color(value: SlateColor) -> None
 
 <a id="unreal.CheckBoxStyle.checked_slate_sound"></a>
 
-#### checked_slate_sound
+#### checked\_slate\_sound
 
 ```python
 @property
@@ -660,7 +660,7 @@ def checked_slate_sound() -> SlateSound
 
 <a id="unreal.CheckBoxStyle.checked_slate_sound"></a>
 
-#### checked_slate_sound
+#### checked\_slate\_sound
 
 ```python
 @checked_slate_sound.setter
@@ -669,7 +669,7 @@ def checked_slate_sound(value: SlateSound) -> None
 
 <a id="unreal.CheckBoxStyle.unchecked_slate_sound"></a>
 
-#### unchecked_slate_sound
+#### unchecked\_slate\_sound
 
 ```python
 @property
@@ -680,7 +680,7 @@ def unchecked_slate_sound() -> SlateSound
 
 <a id="unreal.CheckBoxStyle.unchecked_slate_sound"></a>
 
-#### unchecked_slate_sound
+#### unchecked\_slate\_sound
 
 ```python
 @unchecked_slate_sound.setter
@@ -689,7 +689,7 @@ def unchecked_slate_sound(value: SlateSound) -> None
 
 <a id="unreal.CheckBoxStyle.hovered_slate_sound"></a>
 
-#### hovered_slate_sound
+#### hovered\_slate\_sound
 
 ```python
 @property
@@ -700,7 +700,7 @@ def hovered_slate_sound() -> SlateSound
 
 <a id="unreal.CheckBoxStyle.hovered_slate_sound"></a>
 
-#### hovered_slate_sound
+#### hovered\_slate\_sound
 
 ```python
 @hovered_slate_sound.setter

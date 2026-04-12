@@ -18,7 +18,7 @@ Name of a property and control and the specific channels that make up the layer
 
 <a id="unreal.AnimLayerPropertyAndChannels.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None") -> None

@@ -14,13 +14,13 @@ EGeometry Script Prune Bone Weights Assignment Type
 
 <a id="unreal.GeometryScriptPruneBoneWeightsAssignmentType.RENORMALIZE_REMAINING"></a>
 
-#### RENORMALIZE_REMAINING
+#### RENORMALIZE\_REMAINING
 
 0
 
 <a id="unreal.GeometryScriptPruneBoneWeightsAssignmentType.REASSIGN_TO_PARENT"></a>
 
-#### REASSIGN_TO_PARENT
+#### REASSIGN\_TO\_PARENT
 
 1: Remove the bone from the bone weights and renormalize the remaining weights.
 

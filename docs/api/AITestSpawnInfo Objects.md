@@ -26,7 +26,7 @@ Generic AI Test Spawn Info used in FAITestSpawnSet within a generic AFunctionalA
 
 <a id="unreal.AITestSpawnInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(spawn_location: Actor = None,
@@ -41,7 +41,7 @@ def __init__(spawn_location: Actor = None,
 
 <a id="unreal.AITestSpawnInfo.pawn_class"></a>
 
-#### pawn_class
+#### pawn\_class
 
 ```python
 @property
@@ -52,7 +52,7 @@ def pawn_class() -> Class
 
 <a id="unreal.AITestSpawnInfo.pawn_class"></a>
 
-#### pawn_class
+#### pawn\_class
 
 ```python
 @pawn_class.setter
@@ -61,7 +61,7 @@ def pawn_class(value: Class) -> None
 
 <a id="unreal.AITestSpawnInfo.controller_class"></a>
 
-#### controller_class
+#### controller\_class
 
 ```python
 @property
@@ -72,7 +72,7 @@ def controller_class() -> Class
 
 <a id="unreal.AITestSpawnInfo.controller_class"></a>
 
-#### controller_class
+#### controller\_class
 
 ```python
 @controller_class.setter
@@ -81,7 +81,7 @@ def controller_class(value: Class) -> None
 
 <a id="unreal.AITestSpawnInfo.team_id"></a>
 
-#### team_id
+#### team\_id
 
 ```python
 @property
@@ -92,7 +92,7 @@ def team_id() -> GenericTeamId
 
 <a id="unreal.AITestSpawnInfo.team_id"></a>
 
-#### team_id
+#### team\_id
 
 ```python
 @team_id.setter
@@ -101,7 +101,7 @@ def team_id(value: GenericTeamId) -> None
 
 <a id="unreal.AITestSpawnInfo.behavior_tree"></a>
 
-#### behavior_tree
+#### behavior\_tree
 
 ```python
 @property
@@ -112,7 +112,7 @@ def behavior_tree() -> BehaviorTree
 
 <a id="unreal.AITestSpawnInfo.behavior_tree"></a>
 
-#### behavior_tree
+#### behavior\_tree
 
 ```python
 @behavior_tree.setter

@@ -18,7 +18,7 @@ Represents the appearance of an SInlineEditableTextBlock
 
 <a id="unreal.InlineEditableTextBlockStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -230,7 +230,7 @@ def __init__(
 
 <a id="unreal.InlineEditableTextBlockStyle.editable_text_box_style"></a>
 
-#### editable_text_box_style
+#### editable\_text\_box\_style
 
 ```python
 @property
@@ -241,7 +241,7 @@ def editable_text_box_style() -> EditableTextBoxStyle
 
 <a id="unreal.InlineEditableTextBlockStyle.editable_text_box_style"></a>
 
-#### editable_text_box_style
+#### editable\_text\_box\_style
 
 ```python
 @editable_text_box_style.setter
@@ -250,7 +250,7 @@ def editable_text_box_style(value: EditableTextBoxStyle) -> None
 
 <a id="unreal.InlineEditableTextBlockStyle.text_style"></a>
 
-#### text_style
+#### text\_style
 
 ```python
 @property
@@ -261,7 +261,7 @@ def text_style() -> TextBlockStyle
 
 <a id="unreal.InlineEditableTextBlockStyle.text_style"></a>
 
-#### text_style
+#### text\_style
 
 ```python
 @text_style.setter

@@ -21,7 +21,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Plane.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: float = 0.000000,

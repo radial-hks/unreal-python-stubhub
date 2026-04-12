@@ -1,0 +1,135 @@
+## EarthRoofShape Objects
+
+```python
+class EarthRoofShape(EnumBase)
+```
+
+建筑屋顶类型
+
+**C++ Source:**
+
+- **Plugin**: AesWorld
+- **Module**: EarthPrefab
+- **File**: EarthRoofFragment.h
+
+<a id="unreal.EarthRoofShape.FLAT"></a>
+
+#### FLAT
+
+0: 平屋顶
+
+<a id="unreal.EarthRoofShape.GABLED"></a>
+
+#### GABLED
+
+1: 山墙屋顶，也称为尖顶或斜屋顶
+
+<a id="unreal.EarthRoofShape.HIPPED"></a>
+
+#### HIPPED
+
+2: 四坡屋顶
+
+<a id="unreal.EarthRoofShape.PYRAMIDAL"></a>
+
+#### PYRAMIDAL
+
+3: 金字塔状的帐篷屋顶，没有中央的主山脊，只有一个两侧交汇的高点
+
+<a id="unreal.EarthRoofShape.SKILLION"></a>
+
+#### SKILLION
+
+4: 单坡屋顶，它没有中间的主山脊。与平屋顶相比，它的一边比另一边高
+
+<a id="unreal.EarthRoofShape.HALF_HIPPED"></a>
+
+#### HALF\_HIPPED
+
+5: 半坡屋顶
+
+<a id="unreal.EarthRoofShape.HIPPED_AND_GABLED"></a>
+
+#### HIPPED\_AND\_GABLED
+
+6: 歇山顶
+
+<a id="unreal.EarthRoofShape.BUTTERFLY"></a>
+
+#### BUTTERFLY
+
+7: 蝶形屋顶，斜坡在最低点相交的屋顶形状。
+
+<a id="unreal.EarthRoofShape.ROUND"></a>
+
+#### ROUND
+
+8: 圆屋顶，横截面为半个圆，有时也称为桶形屋顶
+
+<a id="unreal.EarthRoofShape.GAMBREL"></a>
+
+#### GAMBREL
+
+9: 斜折屋顶
+
+<a id="unreal.EarthRoofShape.MANSARD"></a>
+
+#### MANSARD
+
+10: 双重斜坡屋顶
+
+<a id="unreal.EarthRoofShape.DOME"></a>
+
+#### DOME
+
+11: 圆顶
+
+<a id="unreal.EarthRoofShape.ONION"></a>
+
+#### ONION
+
+12: 洋葱状屋顶
+
+<a id="unreal.EarthRoofShape.SAWTOOTH"></a>
+
+#### SAWTOOTH
+
+13: 锯齿状屋顶
+
+<a id="unreal.EarthRoofShape.CONE"></a>
+
+#### CONE
+
+14: 圆锥屋顶
+
+<a id="unreal.EarthRoofShape.CROSSPITCHED"></a>
+
+#### CROSSPITCHED
+
+15: 交叉倾斜屋顶
+
+<a id="unreal.EarthRoofShape.SIDE_HIPPED"></a>
+
+#### SIDE\_HIPPED
+
+16: 一半是坡屋顶，一半是山墙
+
+<a id="unreal.EarthRoofShape.SIDE_HALF_HIPPED"></a>
+
+#### SIDE\_HALF\_HIPPED
+
+17: 一半是半坡屋顶，一半是山墙
+
+<a id="unreal.EarthRoofShape.GABLED_HEIGHT_MOVED"></a>
+
+#### GABLED\_HEIGHT\_MOVED
+
+18: 形状是山墙，但在两个部分之间有垂直偏移
+
+<a id="unreal.EarthRoofShape.NONE"></a>
+
+#### NONE
+
+19: 空类型，表示数据无该属性
+
+<a id="unreal.EarthRoofAngleType"></a>

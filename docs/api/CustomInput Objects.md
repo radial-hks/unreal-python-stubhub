@@ -17,7 +17,7 @@ Custom Input
 
 <a id="unreal.CustomInput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

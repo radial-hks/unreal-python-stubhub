@@ -66,7 +66,7 @@ A simple widget that shows a sliding bar with a handle that allows you to contro
 
 <a id="unreal.Synth2DSlider.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -77,7 +77,7 @@ def widget_style() -> Synth2DSliderStyle
 
 <a id="unreal.Synth2DSlider.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -86,7 +86,7 @@ def widget_style(value: Synth2DSliderStyle) -> None
 
 <a id="unreal.Synth2DSlider.slider_handle_color"></a>
 
-#### slider_handle_color
+#### slider\_handle\_color
 
 ```python
 @property
@@ -97,7 +97,7 @@ def slider_handle_color() -> LinearColor
 
 <a id="unreal.Synth2DSlider.indent_handle"></a>
 
-#### indent_handle
+#### indent\_handle
 
 ```python
 @property
@@ -119,7 +119,7 @@ def locked() -> bool
 
 <a id="unreal.Synth2DSlider.step_size"></a>
 
-#### step_size
+#### step\_size
 
 ```python
 @property
@@ -130,7 +130,7 @@ def step_size() -> float
 
 <a id="unreal.Synth2DSlider.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @property
@@ -141,7 +141,7 @@ def is_focusable() -> bool
 
 <a id="unreal.Synth2DSlider.on_mouse_capture_begin"></a>
 
-#### on_mouse_capture_begin
+#### on\_mouse\_capture\_begin
 
 ```python
 @property
@@ -152,7 +152,7 @@ def on_mouse_capture_begin() -> OnMouseCaptureBeginEventSynth2D
 
 <a id="unreal.Synth2DSlider.on_mouse_capture_begin"></a>
 
-#### on_mouse_capture_begin
+#### on\_mouse\_capture\_begin
 
 ```python
 @on_mouse_capture_begin.setter
@@ -161,7 +161,7 @@ def on_mouse_capture_begin(value: OnMouseCaptureBeginEventSynth2D) -> None
 
 <a id="unreal.Synth2DSlider.on_mouse_capture_end"></a>
 
-#### on_mouse_capture_end
+#### on\_mouse\_capture\_end
 
 ```python
 @property
@@ -172,7 +172,7 @@ def on_mouse_capture_end() -> OnMouseCaptureEndEventSynth2D
 
 <a id="unreal.Synth2DSlider.on_mouse_capture_end"></a>
 
-#### on_mouse_capture_end
+#### on\_mouse\_capture\_end
 
 ```python
 @on_mouse_capture_end.setter
@@ -181,7 +181,7 @@ def on_mouse_capture_end(value: OnMouseCaptureEndEventSynth2D) -> None
 
 <a id="unreal.Synth2DSlider.on_controller_capture_begin"></a>
 
-#### on_controller_capture_begin
+#### on\_controller\_capture\_begin
 
 ```python
 @property
@@ -192,7 +192,7 @@ def on_controller_capture_begin() -> OnControllerCaptureBeginEventSynth2D
 
 <a id="unreal.Synth2DSlider.on_controller_capture_begin"></a>
 
-#### on_controller_capture_begin
+#### on\_controller\_capture\_begin
 
 ```python
 @on_controller_capture_begin.setter
@@ -202,7 +202,7 @@ def on_controller_capture_begin(
 
 <a id="unreal.Synth2DSlider.on_controller_capture_end"></a>
 
-#### on_controller_capture_end
+#### on\_controller\_capture\_end
 
 ```python
 @property
@@ -213,7 +213,7 @@ def on_controller_capture_end() -> OnControllerCaptureEndEventSynth2D
 
 <a id="unreal.Synth2DSlider.on_controller_capture_end"></a>
 
-#### on_controller_capture_end
+#### on\_controller\_capture\_end
 
 ```python
 @on_controller_capture_end.setter
@@ -223,7 +223,7 @@ def on_controller_capture_end(
 
 <a id="unreal.Synth2DSlider.on_value_changed_x"></a>
 
-#### on_value_changed_x
+#### on\_value\_changed\_x
 
 ```python
 @property
@@ -234,7 +234,7 @@ def on_value_changed_x() -> OnFloatValueChangedEventSynth2D
 
 <a id="unreal.Synth2DSlider.on_value_changed_x"></a>
 
-#### on_value_changed_x
+#### on\_value\_changed\_x
 
 ```python
 @on_value_changed_x.setter
@@ -243,7 +243,7 @@ def on_value_changed_x(value: OnFloatValueChangedEventSynth2D) -> None
 
 <a id="unreal.Synth2DSlider.on_value_changed_y"></a>
 
-#### on_value_changed_y
+#### on\_value\_changed\_y
 
 ```python
 @property
@@ -254,7 +254,7 @@ def on_value_changed_y() -> OnFloatValueChangedEventSynth2D
 
 <a id="unreal.Synth2DSlider.on_value_changed_y"></a>
 
-#### on_value_changed_y
+#### on\_value\_changed\_y
 
 ```python
 @on_value_changed_y.setter
@@ -263,7 +263,7 @@ def on_value_changed_y(value: OnFloatValueChangedEventSynth2D) -> None
 
 <a id="unreal.Synth2DSlider.set_value"></a>
 
-#### set_value
+#### set\_value
 
 ```python
 def set_value(value: Vector2D) -> None
@@ -277,7 +277,7 @@ Args:
 
 <a id="unreal.Synth2DSlider.set_step_size"></a>
 
-#### set_step_size
+#### set\_step\_size
 
 ```python
 def set_step_size(value: float) -> None
@@ -291,7 +291,7 @@ Args:
 
 <a id="unreal.Synth2DSlider.set_slider_handle_color"></a>
 
-#### set_slider_handle_color
+#### set\_slider\_handle\_color
 
 ```python
 def set_slider_handle_color(value: LinearColor) -> None
@@ -305,7 +305,7 @@ Args:
 
 <a id="unreal.Synth2DSlider.set_locked"></a>
 
-#### set_locked
+#### set\_locked
 
 ```python
 def set_locked(value: bool) -> None
@@ -319,7 +319,7 @@ Args:
 
 <a id="unreal.Synth2DSlider.set_indent_handle"></a>
 
-#### set_indent_handle
+#### set\_indent\_handle
 
 ```python
 def set_indent_handle(value: bool) -> None
@@ -333,7 +333,7 @@ Args:
 
 <a id="unreal.Synth2DSlider.get_value"></a>
 
-#### get_value
+#### get\_value
 
 ```python
 def get_value() -> Vector2D

@@ -14,19 +14,19 @@ EChaos Cache Interpolation Mode
 
 <a id="unreal.ChaosCacheInterpolationMode.QUAT_INTERP"></a>
 
-#### QUAT_INTERP
+#### QUAT\_INTERP
 
 0: Shortest Path or Quaternion interpolation for the rotation.
 
 <a id="unreal.ChaosCacheInterpolationMode.EULER_INTERP"></a>
 
-#### EULER_INTERP
+#### EULER\_INTERP
 
 1: Rotor or Euler Angle interpolation.
 
 <a id="unreal.ChaosCacheInterpolationMode.DUAL_QUAT_INTERP"></a>
 
-#### DUAL_QUAT_INTERP
+#### DUAL\_QUAT\_INTERP
 
 2: Dual quaternion interpolation, follows helix or screw-motion path between keyframes.
 

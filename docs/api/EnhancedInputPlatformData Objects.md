@@ -21,7 +21,7 @@ Make a subclass of this to add some additional options for per-platform settings
 
 <a id="unreal.EnhancedInputPlatformData.mapping_context_redirects"></a>
 
-#### mapping_context_redirects
+#### mapping\_context\_redirects
 
 ```python
 @property
@@ -34,7 +34,7 @@ specific Input Mapping Contexts with another on a per-platform basis.
 
 <a id="unreal.EnhancedInputPlatformData.get_context_redirect"></a>
 
-#### get_context_redirect
+#### get\_context\_redirect
 
 ```python
 def get_context_redirect(context: InputMappingContext) -> InputMappingContext

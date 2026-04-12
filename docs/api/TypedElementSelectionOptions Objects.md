@@ -22,7 +22,7 @@ Typed Element Selection Options
 
 <a id="unreal.TypedElementSelectionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -38,7 +38,7 @@ def __init__(
 
 <a id="unreal.TypedElementSelectionOptions.allow_hidden"></a>
 
-#### allow_hidden
+#### allow\_hidden
 
 ```python
 @property
@@ -49,7 +49,7 @@ def allow_hidden() -> bool
 
 <a id="unreal.TypedElementSelectionOptions.allow_hidden"></a>
 
-#### allow_hidden
+#### allow\_hidden
 
 ```python
 @allow_hidden.setter
@@ -58,7 +58,7 @@ def allow_hidden(value: bool) -> None
 
 <a id="unreal.TypedElementSelectionOptions.allow_groups"></a>
 
-#### allow_groups
+#### allow\_groups
 
 ```python
 @property
@@ -69,7 +69,7 @@ def allow_groups() -> bool
 
 <a id="unreal.TypedElementSelectionOptions.allow_groups"></a>
 
-#### allow_groups
+#### allow\_groups
 
 ```python
 @allow_groups.setter
@@ -78,7 +78,7 @@ def allow_groups(value: bool) -> None
 
 <a id="unreal.TypedElementSelectionOptions.allow_legacy_notifications"></a>
 
-#### allow_legacy_notifications
+#### allow\_legacy\_notifications
 
 ```python
 @property
@@ -89,7 +89,7 @@ def allow_legacy_notifications() -> bool
 
 <a id="unreal.TypedElementSelectionOptions.allow_legacy_notifications"></a>
 
-#### allow_legacy_notifications
+#### allow\_legacy\_notifications
 
 ```python
 @allow_legacy_notifications.setter
@@ -98,7 +98,7 @@ def allow_legacy_notifications(value: bool) -> None
 
 <a id="unreal.TypedElementSelectionOptions.warn_if_locked"></a>
 
-#### warn_if_locked
+#### warn\_if\_locked
 
 ```python
 @property
@@ -109,7 +109,7 @@ def warn_if_locked() -> bool
 
 <a id="unreal.TypedElementSelectionOptions.warn_if_locked"></a>
 
-#### warn_if_locked
+#### warn\_if\_locked
 
 ```python
 @warn_if_locked.setter
@@ -118,7 +118,7 @@ def warn_if_locked(value: bool) -> None
 
 <a id="unreal.TypedElementSelectionOptions.allow_sub_root_selection"></a>
 
-#### allow_sub_root_selection
+#### allow\_sub\_root\_selection
 
 ```python
 @property
@@ -129,7 +129,7 @@ def allow_sub_root_selection() -> bool
 
 <a id="unreal.TypedElementSelectionOptions.allow_sub_root_selection"></a>
 
-#### allow_sub_root_selection
+#### allow\_sub\_root\_selection
 
 ```python
 @allow_sub_root_selection.setter
@@ -138,7 +138,7 @@ def allow_sub_root_selection(value: bool) -> None
 
 <a id="unreal.TypedElementSelectionOptions.child_element_inclusion_method"></a>
 
-#### child_element_inclusion_method
+#### child\_element\_inclusion\_method
 
 ```python
 @property
@@ -149,7 +149,7 @@ def child_element_inclusion_method() -> TypedElementChildInclusionMethod
 
 <a id="unreal.TypedElementSelectionOptions.child_element_inclusion_method"></a>
 
-#### child_element_inclusion_method
+#### child\_element\_inclusion\_method
 
 ```python
 @child_element_inclusion_method.setter

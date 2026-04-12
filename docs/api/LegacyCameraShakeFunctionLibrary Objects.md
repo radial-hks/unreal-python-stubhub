@@ -15,7 +15,7 @@ This prevents breaking Blueprints now that APlayerCameraManager::StartCameraShak
 
 <a id="unreal.LegacyCameraShakeFunctionLibrary.conv_legacy_camera_shake"></a>
 
-#### conv_legacy_camera_shake
+#### conv\_legacy\_camera\_shake
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.LegacyCameraShakeFunctionLibrary.conv_matinee_camera_shake"></a>
 
-#### conv_matinee_camera_shake
+#### conv\_matinee\_camera\_shake
 
 ```python
 @classmethod

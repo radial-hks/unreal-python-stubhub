@@ -30,7 +30,7 @@ Nav Data Config
 
 <a id="unreal.NavDataConfig.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(can_crouch: bool = False,
@@ -91,7 +91,7 @@ def color(value: Color) -> None
 
 <a id="unreal.NavDataConfig.default_query_extent"></a>
 
-#### default_query_extent
+#### default\_query\_extent
 
 ```python
 @property
@@ -102,7 +102,7 @@ def default_query_extent() -> Vector
 
 <a id="unreal.NavDataConfig.nav_data_class"></a>
 
-#### nav_data_class
+#### nav\_data\_class
 
 ```python
 @property
@@ -113,7 +113,7 @@ def nav_data_class() -> Class
 
 <a id="unreal.NavDataConfig.nav_data_class"></a>
 
-#### nav_data_class
+#### nav\_data\_class
 
 ```python
 @nav_data_class.setter
@@ -122,7 +122,7 @@ def nav_data_class(value: Class) -> None
 
 <a id="unreal.NavDataConfig.navigation_data_class_name"></a>
 
-#### navigation_data_class_name
+#### navigation\_data\_class\_name
 
 ```python
 @property
@@ -133,7 +133,7 @@ deprecated: 'navigation_data_class_name' was renamed to 'nav_data_class'.
 
 <a id="unreal.NavDataConfig.navigation_data_class_name"></a>
 
-#### navigation_data_class_name
+#### navigation\_data\_class\_name
 
 ```python
 @navigation_data_class_name.setter

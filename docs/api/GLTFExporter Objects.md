@@ -22,7 +22,7 @@ GLTFExporter
 
 <a id="unreal.GLTFExporter.export_to_gltf"></a>
 
-#### export_to_gltf
+#### export\_to\_gltf
 
 ```python
 @classmethod

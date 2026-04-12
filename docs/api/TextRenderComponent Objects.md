@@ -213,7 +213,7 @@ def text() -> Text
 
 <a id="unreal.TextRenderComponent.text_material"></a>
 
-#### text_material
+#### text\_material
 
 ```python
 @property
@@ -235,7 +235,7 @@ def font() -> Font
 
 <a id="unreal.TextRenderComponent.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @property
@@ -246,7 +246,7 @@ def horizontal_alignment() -> HorizTextAligment
 
 <a id="unreal.TextRenderComponent.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @property
@@ -257,7 +257,7 @@ def vertical_alignment() -> VerticalTextAligment
 
 <a id="unreal.TextRenderComponent.text_render_color"></a>
 
-#### text_render_color
+#### text\_render\_color
 
 ```python
 @property
@@ -268,7 +268,7 @@ def text_render_color() -> Color
 
 <a id="unreal.TextRenderComponent.x_scale"></a>
 
-#### x_scale
+#### x\_scale
 
 ```python
 @property
@@ -279,7 +279,7 @@ def x_scale() -> float
 
 <a id="unreal.TextRenderComponent.y_scale"></a>
 
-#### y_scale
+#### y\_scale
 
 ```python
 @property
@@ -290,7 +290,7 @@ def y_scale() -> float
 
 <a id="unreal.TextRenderComponent.world_size"></a>
 
-#### world_size
+#### world\_size
 
 ```python
 @property
@@ -301,7 +301,7 @@ def world_size() -> float
 
 <a id="unreal.TextRenderComponent.horiz_spacing_adjust"></a>
 
-#### horiz_spacing_adjust
+#### horiz\_spacing\_adjust
 
 ```python
 @property
@@ -312,7 +312,7 @@ def horiz_spacing_adjust() -> float
 
 <a id="unreal.TextRenderComponent.vert_spacing_adjust"></a>
 
-#### vert_spacing_adjust
+#### vert\_spacing\_adjust
 
 ```python
 @property
@@ -323,7 +323,7 @@ def vert_spacing_adjust() -> float
 
 <a id="unreal.TextRenderComponent.always_render_as_text"></a>
 
-#### always_render_as_text
+#### always\_render\_as\_text
 
 ```python
 @property
@@ -334,7 +334,7 @@ def always_render_as_text() -> bool
 
 <a id="unreal.TextRenderComponent.set_y_scale"></a>
 
-#### set_y_scale
+#### set\_y\_scale
 
 ```python
 def set_y_scale(value: float) -> None
@@ -348,7 +348,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_x_scale"></a>
 
-#### set_x_scale
+#### set\_x\_scale
 
 ```python
 def set_x_scale(value: float) -> None
@@ -362,7 +362,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_world_size"></a>
 
-#### set_world_size
+#### set\_world\_size
 
 ```python
 def set_world_size(value: float) -> None
@@ -376,7 +376,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_vert_spacing_adjust"></a>
 
-#### set_vert_spacing_adjust
+#### set\_vert\_spacing\_adjust
 
 ```python
 def set_vert_spacing_adjust(value: float) -> None
@@ -390,7 +390,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_vertical_alignment"></a>
 
-#### set_vertical_alignment
+#### set\_vertical\_alignment
 
 ```python
 def set_vertical_alignment(value: VerticalTextAligment) -> None
@@ -404,7 +404,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_text_render_color"></a>
 
-#### set_text_render_color
+#### set\_text\_render\_color
 
 ```python
 def set_text_render_color(value: Color) -> None
@@ -418,7 +418,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_text_material"></a>
 
-#### set_text_material
+#### set\_text\_material
 
 ```python
 def set_text_material(material: MaterialInterface) -> None
@@ -432,7 +432,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_horiz_spacing_adjust"></a>
 
-#### set_horiz_spacing_adjust
+#### set\_horiz\_spacing\_adjust
 
 ```python
 def set_horiz_spacing_adjust(value: float) -> None
@@ -446,7 +446,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_horizontal_alignment"></a>
 
-#### set_horizontal_alignment
+#### set\_horizontal\_alignment
 
 ```python
 def set_horizontal_alignment(value: HorizTextAligment) -> None
@@ -460,7 +460,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_font"></a>
 
-#### set_font
+#### set\_font
 
 ```python
 def set_font(value: Font) -> None
@@ -474,7 +474,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.set_text"></a>
 
-#### set_text
+#### set\_text
 
 ```python
 def set_text(value: Text) -> None
@@ -488,7 +488,7 @@ Args:
 
 <a id="unreal.TextRenderComponent.get_text_world_size"></a>
 
-#### get_text_world_size
+#### get\_text\_world\_size
 
 ```python
 def get_text_world_size() -> Vector
@@ -502,7 +502,7 @@ Returns:
 
 <a id="unreal.TextRenderComponent.get_text_local_size"></a>
 
-#### get_text_local_size
+#### get\_text\_local\_size
 
 ```python
 def get_text_local_size() -> Vector

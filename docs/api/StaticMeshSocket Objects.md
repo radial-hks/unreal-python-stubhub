@@ -25,7 +25,7 @@ Static Mesh Socket
 
 <a id="unreal.StaticMeshSocket.socket_name"></a>
 
-#### socket_name
+#### socket\_name
 
 ```python
 @property
@@ -39,7 +39,7 @@ The Outer of a StaticMeshSocket should always be the UStaticMesh.
 
 <a id="unreal.StaticMeshSocket.relative_location"></a>
 
-#### relative_location
+#### relative\_location
 
 ```python
 @property
@@ -50,7 +50,7 @@ def relative_location() -> Vector
 
 <a id="unreal.StaticMeshSocket.relative_location"></a>
 
-#### relative_location
+#### relative\_location
 
 ```python
 @relative_location.setter
@@ -59,7 +59,7 @@ def relative_location(value: Vector) -> None
 
 <a id="unreal.StaticMeshSocket.relative_rotation"></a>
 
-#### relative_rotation
+#### relative\_rotation
 
 ```python
 @property
@@ -70,7 +70,7 @@ def relative_rotation() -> Rotator
 
 <a id="unreal.StaticMeshSocket.relative_rotation"></a>
 
-#### relative_rotation
+#### relative\_rotation
 
 ```python
 @relative_rotation.setter
@@ -79,7 +79,7 @@ def relative_rotation(value: Rotator) -> None
 
 <a id="unreal.StaticMeshSocket.relative_scale"></a>
 
-#### relative_scale
+#### relative\_scale
 
 ```python
 @property
@@ -90,7 +90,7 @@ def relative_scale() -> Vector
 
 <a id="unreal.StaticMeshSocket.relative_scale"></a>
 
-#### relative_scale
+#### relative\_scale
 
 ```python
 @relative_scale.setter

@@ -26,25 +26,25 @@ EGranular Synth Envelope Type
 
 <a id="unreal.GranularSynthEnvelopeType.DOWNWARD_TRIANGLE"></a>
 
-#### DOWNWARD_TRIANGLE
+#### DOWNWARD\_TRIANGLE
 
 2
 
 <a id="unreal.GranularSynthEnvelopeType.UPWARD_TRIANGLE"></a>
 
-#### UPWARD_TRIANGLE
+#### UPWARD\_TRIANGLE
 
 3
 
 <a id="unreal.GranularSynthEnvelopeType.EXPONENTIAL_DECAY"></a>
 
-#### EXPONENTIAL_DECAY
+#### EXPONENTIAL\_DECAY
 
 4
 
 <a id="unreal.GranularSynthEnvelopeType.EXPONENTIAL_INCREASE"></a>
 
-#### EXPONENTIAL_INCREASE
+#### EXPONENTIAL\_INCREASE
 
 5
 
@@ -74,7 +74,7 @@ EGranular Synth Envelope Type
 
 <a id="unreal.GranularSynthEnvelopeType.COSINE_SQUARED"></a>
 
-#### COSINE_SQUARED
+#### COSINE\_SQUARED
 
 10
 
@@ -92,7 +92,7 @@ EGranular Synth Envelope Type
 
 <a id="unreal.GranularSynthEnvelopeType.BLACKMAN_HARRIS"></a>
 
-#### BLACKMAN_HARRIS
+#### BLACKMAN\_HARRIS
 
 13
 

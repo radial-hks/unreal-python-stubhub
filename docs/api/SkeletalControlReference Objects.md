@@ -13,7 +13,7 @@ Skeletal Control Reference
 
 <a id="unreal.SkeletalControlReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

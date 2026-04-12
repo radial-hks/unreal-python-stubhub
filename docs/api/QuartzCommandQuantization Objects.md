@@ -25,91 +25,91 @@ An enumeration for specifying quantization for Quartz commands
 
 <a id="unreal.QuartzCommandQuantization.THIRTY_SECOND_NOTE"></a>
 
-#### THIRTY_SECOND_NOTE
+#### THIRTY\_SECOND\_NOTE
 
 2
 
 <a id="unreal.QuartzCommandQuantization.SIXTEENTH_NOTE"></a>
 
-#### SIXTEENTH_NOTE
+#### SIXTEENTH\_NOTE
 
 3
 
 <a id="unreal.QuartzCommandQuantization.EIGHTH_NOTE"></a>
 
-#### EIGHTH_NOTE
+#### EIGHTH\_NOTE
 
 4
 
 <a id="unreal.QuartzCommandQuantization.QUARTER_NOTE"></a>
 
-#### QUARTER_NOTE
+#### QUARTER\_NOTE
 
 5
 
 <a id="unreal.QuartzCommandQuantization.HALF_NOTE"></a>
 
-#### HALF_NOTE
+#### HALF\_NOTE
 
 6
 
 <a id="unreal.QuartzCommandQuantization.WHOLE_NOTE"></a>
 
-#### WHOLE_NOTE
+#### WHOLE\_NOTE
 
 7
 
 <a id="unreal.QuartzCommandQuantization.DOTTED_SIXTEENTH_NOTE"></a>
 
-#### DOTTED_SIXTEENTH_NOTE
+#### DOTTED\_SIXTEENTH\_NOTE
 
 8
 
 <a id="unreal.QuartzCommandQuantization.DOTTED_EIGHTH_NOTE"></a>
 
-#### DOTTED_EIGHTH_NOTE
+#### DOTTED\_EIGHTH\_NOTE
 
 9
 
 <a id="unreal.QuartzCommandQuantization.DOTTED_QUARTER_NOTE"></a>
 
-#### DOTTED_QUARTER_NOTE
+#### DOTTED\_QUARTER\_NOTE
 
 10
 
 <a id="unreal.QuartzCommandQuantization.DOTTED_HALF_NOTE"></a>
 
-#### DOTTED_HALF_NOTE
+#### DOTTED\_HALF\_NOTE
 
 11
 
 <a id="unreal.QuartzCommandQuantization.DOTTED_WHOLE_NOTE"></a>
 
-#### DOTTED_WHOLE_NOTE
+#### DOTTED\_WHOLE\_NOTE
 
 12
 
 <a id="unreal.QuartzCommandQuantization.SIXTEENTH_NOTE_TRIPLET"></a>
 
-#### SIXTEENTH_NOTE_TRIPLET
+#### SIXTEENTH\_NOTE\_TRIPLET
 
 13
 
 <a id="unreal.QuartzCommandQuantization.EIGHTH_NOTE_TRIPLET"></a>
 
-#### EIGHTH_NOTE_TRIPLET
+#### EIGHTH\_NOTE\_TRIPLET
 
 14
 
 <a id="unreal.QuartzCommandQuantization.QUARTER_NOTE_TRIPLET"></a>
 
-#### QUARTER_NOTE_TRIPLET
+#### QUARTER\_NOTE\_TRIPLET
 
 15
 
 <a id="unreal.QuartzCommandQuantization.HALF_NOTE_TRIPLET"></a>
 
-#### HALF_NOTE_TRIPLET
+#### HALF\_NOTE\_TRIPLET
 
 16
 

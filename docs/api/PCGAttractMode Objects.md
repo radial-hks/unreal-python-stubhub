@@ -20,19 +20,19 @@ EPCGAttract Mode
 
 <a id="unreal.PCGAttractMode.MIN_ATTRIBUTE"></a>
 
-#### MIN_ATTRIBUTE
+#### MIN\_ATTRIBUTE
 
 1: Attract to the minimum target inside the search radius.
 
 <a id="unreal.PCGAttractMode.MAX_ATTRIBUTE"></a>
 
-#### MAX_ATTRIBUTE
+#### MAX\_ATTRIBUTE
 
 2: Attract to the maximum target inside the search radius.
 
 <a id="unreal.PCGAttractMode.FROM_INDEX"></a>
 
-#### FROM_INDEX
+#### FROM\_INDEX
 
 3: Attracts to a fixed target point based on an attribute.
 

@@ -80,7 +80,7 @@ Volume Texture
 
 <a id="unreal.VolumeTexture.address_mode"></a>
 
-#### address_mode
+#### address\_mode
 
 ```python
 @property
@@ -91,7 +91,7 @@ def address_mode() -> TextureAddress
 
 <a id="unreal.VolumeTexture.address_mode"></a>
 
-#### address_mode
+#### address\_mode
 
 ```python
 @address_mode.setter

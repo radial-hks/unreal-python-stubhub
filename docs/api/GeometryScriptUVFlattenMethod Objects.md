@@ -14,7 +14,7 @@ EGeometry Script UVFlatten Method
 
 <a id="unreal.GeometryScriptUVFlattenMethod.EXP_MAP"></a>
 
-#### EXP_MAP
+#### EXP\_MAP
 
 0
 
@@ -26,7 +26,7 @@ EGeometry Script UVFlatten Method
 
 <a id="unreal.GeometryScriptUVFlattenMethod.SPECTRAL_CONFORMAL"></a>
 
-#### SPECTRAL_CONFORMAL
+#### SPECTRAL\_CONFORMAL
 
 2
 

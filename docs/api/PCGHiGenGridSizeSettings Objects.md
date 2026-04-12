@@ -34,7 +34,7 @@ Set the execution grid size for downstream nodes. Enables executing a single gra
 
 <a id="unreal.PCGHiGenGridSizeSettings.hi_gen_grid_size"></a>
 
-#### hi_gen_grid_size
+#### hi\_gen\_grid\_size
 
 ```python
 @property
@@ -45,7 +45,7 @@ def hi_gen_grid_size() -> PCGHiGenGrid
 
 <a id="unreal.PCGHiGenGridSizeSettings.hi_gen_grid_size"></a>
 
-#### hi_gen_grid_size
+#### hi\_gen\_grid\_size
 
 ```python
 @hi_gen_grid_size.setter

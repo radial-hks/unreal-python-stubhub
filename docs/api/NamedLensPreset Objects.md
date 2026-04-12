@@ -18,7 +18,7 @@ A named bundle of lens settings used to implement lens presets.
 
 <a id="unreal.NamedLensPreset.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -51,7 +51,7 @@ def name(value: str) -> None
 
 <a id="unreal.NamedLensPreset.lens_settings"></a>
 
-#### lens_settings
+#### lens\_settings
 
 ```python
 @property
@@ -62,7 +62,7 @@ def lens_settings() -> CameraLensSettings
 
 <a id="unreal.NamedLensPreset.lens_settings"></a>
 
-#### lens_settings
+#### lens\_settings
 
 ```python
 @lens_settings.setter

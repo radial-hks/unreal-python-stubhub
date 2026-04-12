@@ -20,7 +20,7 @@ Apply FOV dependent scaling to input values, per axis
 
 <a id="unreal.InputModifierFOVScaling.fov_scale"></a>
 
-#### fov_scale
+#### fov\_scale
 
 ```python
 @property
@@ -31,7 +31,7 @@ def fov_scale() -> float
 
 <a id="unreal.InputModifierFOVScaling.fov_scale"></a>
 
-#### fov_scale
+#### fov\_scale
 
 ```python
 @fov_scale.setter
@@ -40,7 +40,7 @@ def fov_scale(value: float) -> None
 
 <a id="unreal.InputModifierFOVScaling.fov_scaling_type"></a>
 
-#### fov_scaling_type
+#### fov\_scaling\_type
 
 ```python
 @property
@@ -51,7 +51,7 @@ def fov_scaling_type() -> FOVScalingType
 
 <a id="unreal.InputModifierFOVScaling.fov_scaling_type"></a>
 
-#### fov_scaling_type
+#### fov\_scaling\_type
 
 ```python
 @fov_scaling_type.setter

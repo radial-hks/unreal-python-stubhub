@@ -15,25 +15,25 @@ class TransformSpaceMode(EnumBase)
 
 <a id="unreal.TransformSpaceMode.LOCAL_SPACE"></a>
 
-#### LOCAL_SPACE
+#### LOCAL\_SPACE
 
 0: Apply in parent space
 
 <a id="unreal.TransformSpaceMode.GLOBAL_SPACE"></a>
 
-#### GLOBAL_SPACE
+#### GLOBAL\_SPACE
 
 1: Apply in rig space
 
 <a id="unreal.TransformSpaceMode.BASE_SPACE"></a>
 
-#### BASE_SPACE
+#### BASE\_SPACE
 
 2: Apply in Base space
 
 <a id="unreal.TransformSpaceMode.BASE_JOINT"></a>
 
-#### BASE_JOINT
+#### BASE\_JOINT
 
 3: Apply in base bone
 

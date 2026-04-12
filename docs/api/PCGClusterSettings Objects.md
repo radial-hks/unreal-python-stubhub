@@ -60,7 +60,7 @@ def algorithm(value: PCGClusterAlgorithm) -> None
 
 <a id="unreal.PCGClusterSettings.num_clusters"></a>
 
-#### num_clusters
+#### num\_clusters
 
 ```python
 @property
@@ -71,7 +71,7 @@ def num_clusters() -> int
 
 <a id="unreal.PCGClusterSettings.num_clusters"></a>
 
-#### num_clusters
+#### num\_clusters
 
 ```python
 @num_clusters.setter
@@ -80,7 +80,7 @@ def num_clusters(value: int) -> None
 
 <a id="unreal.PCGClusterSettings.cluster_attribute"></a>
 
-#### cluster_attribute
+#### cluster\_attribute
 
 ```python
 @property
@@ -91,7 +91,7 @@ def cluster_attribute() -> Name
 
 <a id="unreal.PCGClusterSettings.cluster_attribute"></a>
 
-#### cluster_attribute
+#### cluster\_attribute
 
 ```python
 @cluster_attribute.setter
@@ -100,7 +100,7 @@ def cluster_attribute(value: Name) -> None
 
 <a id="unreal.PCGClusterSettings.max_iterations"></a>
 
-#### max_iterations
+#### max\_iterations
 
 ```python
 @property
@@ -111,7 +111,7 @@ def max_iterations() -> int
 
 <a id="unreal.PCGClusterSettings.max_iterations"></a>
 
-#### max_iterations
+#### max\_iterations
 
 ```python
 @max_iterations.setter
@@ -141,7 +141,7 @@ def tolerance(value: float) -> None
 
 <a id="unreal.PCGClusterSettings.output_final_centroids"></a>
 
-#### output_final_centroids
+#### output\_final\_centroids
 
 ```python
 @property
@@ -152,7 +152,7 @@ def output_final_centroids() -> bool
 
 <a id="unreal.PCGClusterSettings.output_final_centroids"></a>
 
-#### output_final_centroids
+#### output\_final\_centroids
 
 ```python
 @output_final_centroids.setter

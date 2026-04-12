@@ -13,7 +13,7 @@ Chaos Solver Engine Blueprint Library
 
 <a id="unreal.ChaosSolverEngineBlueprintLibrary.convert_physics_collision_to_hit_result"></a>
 
-#### convert_physics_collision_to_hit_result
+#### convert\_physics\_collision\_to\_hit\_result
 
 ```python
 @classmethod

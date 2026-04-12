@@ -18,7 +18,7 @@ Resonance Audio Soundfield Settings
 
 <a id="unreal.ResonanceAudioSoundfieldSettings.render_mode"></a>
 
-#### render_mode
+#### render\_mode
 
 ```python
 @property

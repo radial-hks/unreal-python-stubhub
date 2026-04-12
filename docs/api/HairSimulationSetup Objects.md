@@ -24,7 +24,7 @@ Hair Simulation Setup
 
 <a id="unreal.HairSimulationSetup.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(reset_simulation: bool = False,
@@ -38,7 +38,7 @@ def __init__(reset_simulation: bool = False,
 
 <a id="unreal.HairSimulationSetup.reset_simulation"></a>
 
-#### reset_simulation
+#### reset\_simulation
 
 ```python
 @property
@@ -49,7 +49,7 @@ def reset_simulation() -> bool
 
 <a id="unreal.HairSimulationSetup.reset_simulation"></a>
 
-#### reset_simulation
+#### reset\_simulation
 
 ```python
 @reset_simulation.setter
@@ -58,7 +58,7 @@ def reset_simulation(value: bool) -> None
 
 <a id="unreal.HairSimulationSetup.debug_simulation"></a>
 
-#### debug_simulation
+#### debug\_simulation
 
 ```python
 @property
@@ -69,7 +69,7 @@ def debug_simulation() -> bool
 
 <a id="unreal.HairSimulationSetup.debug_simulation"></a>
 
-#### debug_simulation
+#### debug\_simulation
 
 ```python
 @debug_simulation.setter
@@ -78,7 +78,7 @@ def debug_simulation(value: bool) -> None
 
 <a id="unreal.HairSimulationSetup.local_simulation"></a>
 
-#### local_simulation
+#### local\_simulation
 
 ```python
 @property
@@ -89,7 +89,7 @@ def local_simulation() -> bool
 
 <a id="unreal.HairSimulationSetup.local_simulation"></a>
 
-#### local_simulation
+#### local\_simulation
 
 ```python
 @local_simulation.setter
@@ -98,7 +98,7 @@ def local_simulation(value: bool) -> None
 
 <a id="unreal.HairSimulationSetup.linear_velocity_scale"></a>
 
-#### linear_velocity_scale
+#### linear\_velocity\_scale
 
 ```python
 @property
@@ -109,7 +109,7 @@ def linear_velocity_scale() -> float
 
 <a id="unreal.HairSimulationSetup.linear_velocity_scale"></a>
 
-#### linear_velocity_scale
+#### linear\_velocity\_scale
 
 ```python
 @linear_velocity_scale.setter
@@ -118,7 +118,7 @@ def linear_velocity_scale(value: float) -> None
 
 <a id="unreal.HairSimulationSetup.angular_velocity_scale"></a>
 
-#### angular_velocity_scale
+#### angular\_velocity\_scale
 
 ```python
 @property
@@ -129,7 +129,7 @@ def angular_velocity_scale() -> float
 
 <a id="unreal.HairSimulationSetup.angular_velocity_scale"></a>
 
-#### angular_velocity_scale
+#### angular\_velocity\_scale
 
 ```python
 @angular_velocity_scale.setter
@@ -138,7 +138,7 @@ def angular_velocity_scale(value: float) -> None
 
 <a id="unreal.HairSimulationSetup.local_bone"></a>
 
-#### local_bone
+#### local\_bone
 
 ```python
 @property
@@ -149,7 +149,7 @@ def local_bone() -> str
 
 <a id="unreal.HairSimulationSetup.local_bone"></a>
 
-#### local_bone
+#### local\_bone
 
 ```python
 @local_bone.setter
@@ -158,7 +158,7 @@ def local_bone(value: str) -> None
 
 <a id="unreal.HairSimulationSetup.teleport_distance"></a>
 
-#### teleport_distance
+#### teleport\_distance
 
 ```python
 @property
@@ -169,7 +169,7 @@ def teleport_distance() -> float
 
 <a id="unreal.HairSimulationSetup.teleport_distance"></a>
 
-#### teleport_distance
+#### teleport\_distance
 
 ```python
 @teleport_distance.setter

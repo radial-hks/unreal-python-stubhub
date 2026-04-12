@@ -33,7 +33,7 @@ PBIKEffector
 
 <a id="unreal.PBIKEffector.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(chain_depth: int = 0) -> None
@@ -41,7 +41,7 @@ def __init__(chain_depth: int = 0) -> None
 
 <a id="unreal.PBIKEffector.chain_depth"></a>
 
-#### chain_depth
+#### chain\_depth
 
 ```python
 @property
@@ -54,7 +54,7 @@ If left at 0, the solver will attempt to determine the root of the chain by sear
 
 <a id="unreal.PBIKEffector.chain_depth"></a>
 
-#### chain_depth
+#### chain\_depth
 
 ```python
 @chain_depth.setter

@@ -17,7 +17,7 @@ Movie Scene Binding Resolve Result
 
 <a id="unreal.MovieSceneBindingResolveResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(object: Object = None) -> None

@@ -143,7 +143,7 @@ An actor that can run a camera asset.
 
 <a id="unreal.GameplayCameraActor.camera_component"></a>
 
-#### camera_component
+#### camera\_component
 
 ```python
 @property

@@ -13,7 +13,7 @@ Typed Element World Interface
 
 <a id="unreal.TypedElementWorldInterface.set_world_transform"></a>
 
-#### set_world_transform
+#### set\_world\_transform
 
 ```python
 def set_world_transform(element_handle: ScriptTypedElementHandle,
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.set_relative_transform"></a>
 
-#### set_relative_transform
+#### set\_relative\_transform
 
 ```python
 def set_relative_transform(element_handle: ScriptTypedElementHandle,
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.set_pivot_offset"></a>
 
-#### set_pivot_offset
+#### set\_pivot\_offset
 
 ```python
 def set_pivot_offset(element_handle: ScriptTypedElementHandle,
@@ -70,7 +70,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.promote_element"></a>
 
-#### promote_element
+#### promote\_element
 
 ```python
 def promote_element(element_handle: ScriptTypedElementHandle,
@@ -91,7 +91,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.notify_movement_started"></a>
 
-#### notify_movement_started
+#### notify\_movement\_started
 
 ```python
 def notify_movement_started(element_handle: ScriptTypedElementHandle) -> None
@@ -105,7 +105,7 @@ Args:
 
 <a id="unreal.TypedElementWorldInterface.notify_movement_ongoing"></a>
 
-#### notify_movement_ongoing
+#### notify\_movement\_ongoing
 
 ```python
 def notify_movement_ongoing(element_handle: ScriptTypedElementHandle) -> None
@@ -119,7 +119,7 @@ Args:
 
 <a id="unreal.TypedElementWorldInterface.notify_movement_ended"></a>
 
-#### notify_movement_ended
+#### notify\_movement\_ended
 
 ```python
 def notify_movement_ended(element_handle: ScriptTypedElementHandle) -> None
@@ -133,7 +133,7 @@ Args:
 
 <a id="unreal.TypedElementWorldInterface.is_template_element"></a>
 
-#### is_template_element
+#### is\_template\_element
 
 ```python
 def is_template_element(element_handle: ScriptTypedElementHandle) -> bool
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.get_world_transform"></a>
 
-#### get_world_transform
+#### get\_world\_transform
 
 ```python
 def get_world_transform(
@@ -170,7 +170,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.get_relative_transform"></a>
 
-#### get_relative_transform
+#### get\_relative\_transform
 
 ```python
 def get_relative_transform(
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.get_pivot_offset"></a>
 
-#### get_pivot_offset
+#### get\_pivot\_offset
 
 ```python
 def get_pivot_offset(
@@ -210,7 +210,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.get_owner_world"></a>
 
-#### get_owner_world
+#### get\_owner\_world
 
 ```python
 def get_owner_world(element_handle: ScriptTypedElementHandle) -> World
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.get_owner_level"></a>
 
-#### get_owner_level
+#### get\_owner\_level
 
 ```python
 def get_owner_level(element_handle: ScriptTypedElementHandle) -> Level
@@ -244,7 +244,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.get_bounds"></a>
 
-#### get_bounds
+#### get\_bounds
 
 ```python
 def get_bounds(
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.duplicate_element"></a>
 
-#### duplicate_element
+#### duplicate\_element
 
 ```python
 def duplicate_element(element_handle: ScriptTypedElementHandle, world: World,
@@ -285,7 +285,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.delete_element"></a>
 
-#### delete_element
+#### delete\_element
 
 ```python
 def delete_element(element_handle: ScriptTypedElementHandle, world: World,
@@ -308,7 +308,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.can_scale_element"></a>
 
-#### can_scale_element
+#### can\_scale\_element
 
 ```python
 def can_scale_element(element_handle: ScriptTypedElementHandle) -> bool
@@ -325,7 +325,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.can_promote_element"></a>
 
-#### can_promote_element
+#### can\_promote\_element
 
 ```python
 def can_promote_element(element_handle: ScriptTypedElementHandle) -> bool
@@ -344,7 +344,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.can_move_element"></a>
 
-#### can_move_element
+#### can\_move\_element
 
 ```python
 def can_move_element(element_handle: ScriptTypedElementHandle,
@@ -363,7 +363,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.can_edit_element"></a>
 
-#### can_edit_element
+#### can\_edit\_element
 
 ```python
 def can_edit_element(element_handle: ScriptTypedElementHandle) -> bool
@@ -380,7 +380,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.can_duplicate_element"></a>
 
-#### can_duplicate_element
+#### can\_duplicate\_element
 
 ```python
 def can_duplicate_element(element_handle: ScriptTypedElementHandle) -> bool
@@ -397,7 +397,7 @@ Returns:
 
 <a id="unreal.TypedElementWorldInterface.can_delete_element"></a>
 
-#### can_delete_element
+#### can\_delete\_element
 
 ```python
 def can_delete_element(element_handle: ScriptTypedElementHandle) -> bool

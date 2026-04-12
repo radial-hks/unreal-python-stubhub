@@ -36,7 +36,7 @@ PCGProjection Settings
 
 <a id="unreal.PCGProjectionSettings.projection_params"></a>
 
-#### projection_params
+#### projection\_params
 
 ```python
 @property
@@ -47,7 +47,7 @@ def projection_params() -> PCGProjectionParams
 
 <a id="unreal.PCGProjectionSettings.projection_params"></a>
 
-#### projection_params
+#### projection\_params
 
 ```python
 @projection_params.setter
@@ -76,7 +76,7 @@ def params(value: PCGProjectionParams) -> None
 
 <a id="unreal.PCGProjectionSettings.force_collapse_to_point"></a>
 
-#### force_collapse_to_point
+#### force\_collapse\_to\_point
 
 ```python
 @property
@@ -87,7 +87,7 @@ def force_collapse_to_point() -> bool
 
 <a id="unreal.PCGProjectionSettings.force_collapse_to_point"></a>
 
-#### force_collapse_to_point
+#### force\_collapse\_to\_point
 
 ```python
 @force_collapse_to_point.setter
@@ -96,7 +96,7 @@ def force_collapse_to_point(value: bool) -> None
 
 <a id="unreal.PCGProjectionSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @property
@@ -107,7 +107,7 @@ def keep_zero_density_points() -> bool
 
 <a id="unreal.PCGProjectionSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @keep_zero_density_points.setter

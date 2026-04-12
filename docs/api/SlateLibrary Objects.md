@@ -13,7 +13,7 @@ Slate Blueprint Library
 
 <a id="unreal.SlateLibrary.transform_vector_local_to_absolute"></a>
 
-#### transform_vector_local_to_absolute
+#### transform\_vector\_local\_to\_absolute
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.transform_vector_absolute_to_local"></a>
 
-#### transform_vector_absolute_to_local
+#### transform\_vector\_absolute\_to\_local
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.transform_scalar_local_to_absolute"></a>
 
-#### transform_scalar_local_to_absolute
+#### transform\_scalar\_local\_to\_absolute
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.transform_scalar_absolute_to_local"></a>
 
-#### transform_scalar_absolute_to_local
+#### transform\_scalar\_absolute\_to\_local
 
 ```python
 @classmethod
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.screen_to_widget_local"></a>
 
-#### screen_to_widget_local
+#### screen\_to\_widget\_local
 
 ```python
 @classmethod
@@ -121,7 +121,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.screen_to_widget_absolute"></a>
 
-#### screen_to_widget_absolute
+#### screen\_to\_widget\_absolute
 
 ```python
 @classmethod
@@ -148,7 +148,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.screen_to_viewport"></a>
 
-#### screen_to_viewport
+#### screen\_to\_viewport
 
 ```python
 @classmethod
@@ -170,7 +170,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.local_to_viewport"></a>
 
-#### local_to_viewport
+#### local\_to\_viewport
 
 ```python
 @classmethod
@@ -195,7 +195,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.local_to_absolute"></a>
 
-#### local_to_absolute
+#### local\_to\_absolute
 
 ```python
 @classmethod
@@ -217,7 +217,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.is_under_location"></a>
 
-#### is_under_location
+#### is\_under\_location
 
 ```python
 @classmethod
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.get_local_top_left"></a>
 
-#### get_local_top_left
+#### get\_local\_top\_left
 
 ```python
 @classmethod
@@ -255,7 +255,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.get_local_size"></a>
 
-#### get_local_size
+#### get\_local\_size
 
 ```python
 @classmethod
@@ -273,7 +273,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.get_absolute_size"></a>
 
-#### get_absolute_size
+#### get\_absolute\_size
 
 ```python
 @classmethod
@@ -291,7 +291,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.equal_equal_slate_brush"></a>
 
-#### equal_equal_slate_brush
+#### equal\_equal\_slate\_brush
 
 ```python
 @classmethod
@@ -310,7 +310,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.absolute_to_viewport"></a>
 
-#### absolute_to_viewport
+#### absolute\_to\_viewport
 
 ```python
 @classmethod
@@ -335,7 +335,7 @@ Returns:
 
 <a id="unreal.SlateLibrary.absolute_to_local"></a>
 
-#### absolute_to_local
+#### absolute\_to\_local
 
 ```python
 @classmethod

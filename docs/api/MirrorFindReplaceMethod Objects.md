@@ -25,7 +25,7 @@ Find and Replace Method for FMirrorFindReplaceExpression.
 
 <a id="unreal.MirrorFindReplaceMethod.REGULAR_EXPRESSION"></a>
 
-#### REGULAR_EXPRESSION
+#### REGULAR\_EXPRESSION
 
 2: Use regular expressions for find and replace, including support for captures $1 - $10
 

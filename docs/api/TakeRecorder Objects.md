@@ -14,7 +14,7 @@ Take Recorder
 
 <a id="unreal.TakeRecorder.get_state"></a>
 
-#### get_state
+#### get\_state
 
 ```python
 def get_state() -> TakeRecorderState
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.TakeRecorder.get_sequence"></a>
 
-#### get_sequence
+#### get\_sequence
 
 ```python
 def get_sequence() -> LevelSequence
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.TakeRecorder.get_countdown_seconds"></a>
 
-#### get_countdown_seconds
+#### get\_countdown\_seconds
 
 ```python
 def get_countdown_seconds() -> float

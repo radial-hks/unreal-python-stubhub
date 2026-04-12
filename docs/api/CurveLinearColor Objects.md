@@ -24,7 +24,7 @@ Curve Linear Color
 
 <a id="unreal.CurveLinearColor.get_unadjusted_linear_color_value"></a>
 
-#### get_unadjusted_linear_color_value
+#### get\_unadjusted\_linear\_color\_value
 
 ```python
 def get_unadjusted_linear_color_value(time: float) -> LinearColor
@@ -41,7 +41,7 @@ Returns:
 
 <a id="unreal.CurveLinearColor.get_linear_color_value"></a>
 
-#### get_linear_color_value
+#### get\_linear\_color\_value
 
 ```python
 def get_linear_color_value(time: float) -> LinearColor
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.CurveLinearColor.get_clamped_linear_color_value"></a>
 
-#### get_clamped_linear_color_value
+#### get\_clamped\_linear\_color\_value
 
 ```python
 def get_clamped_linear_color_value(time: float) -> LinearColor

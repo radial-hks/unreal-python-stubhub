@@ -30,7 +30,7 @@ Geometry Script Simple Mesh Buffers
 
 <a id="unreal.GeometryScriptSimpleMeshBuffers.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(vertices: Array[Vector] = [],
@@ -250,7 +250,7 @@ def uv7(value: Array[Vector2D]) -> None
 
 <a id="unreal.GeometryScriptSimpleMeshBuffers.vertex_colors"></a>
 
-#### vertex_colors
+#### vertex\_colors
 
 ```python
 @property
@@ -261,7 +261,7 @@ def vertex_colors() -> Array[LinearColor]
 
 <a id="unreal.GeometryScriptSimpleMeshBuffers.vertex_colors"></a>
 
-#### vertex_colors
+#### vertex\_colors
 
 ```python
 @vertex_colors.setter
@@ -290,7 +290,7 @@ def triangles(value: Array[IntVector]) -> None
 
 <a id="unreal.GeometryScriptSimpleMeshBuffers.tri_group_i_ds"></a>
 
-#### tri_group_i_ds
+#### tri\_group\_i\_ds
 
 ```python
 @property
@@ -301,7 +301,7 @@ def tri_group_i_ds() -> Array[int]
 
 <a id="unreal.GeometryScriptSimpleMeshBuffers.tri_group_i_ds"></a>
 
-#### tri_group_i_ds
+#### tri\_group\_i\_ds
 
 ```python
 @tri_group_i_ds.setter

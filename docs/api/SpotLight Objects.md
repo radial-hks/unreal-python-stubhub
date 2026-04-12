@@ -144,7 +144,7 @@ Spot Light
 
 <a id="unreal.SpotLight.spot_light_component"></a>
 
-#### spot_light_component
+#### spot\_light\_component
 
 ```python
 @property
@@ -155,7 +155,7 @@ def spot_light_component() -> SpotLightComponent
 
 <a id="unreal.SpotLight.set_outer_cone_angle"></a>
 
-#### set_outer_cone_angle
+#### set\_outer\_cone\_angle
 
 ```python
 def set_outer_cone_angle(new_outer_cone_angle: float) -> None
@@ -170,7 +170,7 @@ Args:
 
 <a id="unreal.SpotLight.set_inner_cone_angle"></a>
 
-#### set_inner_cone_angle
+#### set\_inner\_cone\_angle
 
 ```python
 def set_inner_cone_angle(new_inner_cone_angle: float) -> None

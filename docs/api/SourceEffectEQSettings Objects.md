@@ -18,7 +18,7 @@ EQ source effect settings
 
 <a id="unreal.SourceEffectEQSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(eq_bands: Array[SourceEffectEQBand] = []) -> None
@@ -26,7 +26,7 @@ def __init__(eq_bands: Array[SourceEffectEQBand] = []) -> None
 
 <a id="unreal.SourceEffectEQSettings.eq_bands"></a>
 
-#### eq_bands
+#### eq\_bands
 
 ```python
 @property
@@ -37,7 +37,7 @@ def eq_bands() -> Array[SourceEffectEQBand]
 
 <a id="unreal.SourceEffectEQSettings.eq_bands"></a>
 
-#### eq_bands
+#### eq\_bands
 
 ```python
 @eq_bands.setter

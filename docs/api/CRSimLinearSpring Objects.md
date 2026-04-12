@@ -23,7 +23,7 @@ CRSim Linear Spring
 
 <a id="unreal.CRSimLinearSpring.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

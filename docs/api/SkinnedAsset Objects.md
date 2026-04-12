@@ -19,7 +19,7 @@ Skinned Asset
 
 <a id="unreal.SkinnedAsset.find_socket_info"></a>
 
-#### find_socket_info
+#### find\_socket\_info
 
 ```python
 def find_socket_info(
@@ -46,7 +46,7 @@ Returns:
 
 <a id="unreal.SkinnedAsset.find_socket"></a>
 
-#### find_socket
+#### find\_socket
 
 ```python
 def find_socket(socket_name: Name) -> SkeletalMeshSocket

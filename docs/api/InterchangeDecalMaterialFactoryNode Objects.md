@@ -14,7 +14,7 @@ Interchange Decal Material Factory Node
 
 <a id="unreal.InterchangeDecalMaterialFactoryNode.set_custom_normal_texture_path"></a>
 
-#### set_custom_normal_texture_path
+#### set\_custom\_normal\_texture\_path
 
 ```python
 def set_custom_normal_texture_path(attribute_value: str) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalMaterialFactoryNode.set_custom_diffuse_texture_path"></a>
 
-#### set_custom_diffuse_texture_path
+#### set\_custom\_diffuse\_texture\_path
 
 ```python
 def set_custom_diffuse_texture_path(attribute_value: str) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalMaterialFactoryNode.get_object_class"></a>
 
-#### get_object_class
+#### get\_object\_class
 
 ```python
 def get_object_class() -> Class
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalMaterialFactoryNode.get_custom_normal_texture_path"></a>
 
-#### get_custom_normal_texture_path
+#### get\_custom\_normal\_texture\_path
 
 ```python
 def get_custom_normal_texture_path() -> Optional[str]
@@ -78,7 +78,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalMaterialFactoryNode.get_custom_diffuse_texture_path"></a>
 
-#### get_custom_diffuse_texture_path
+#### get\_custom\_diffuse\_texture\_path
 
 ```python
 def get_custom_diffuse_texture_path() -> Optional[str]

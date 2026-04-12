@@ -26,7 +26,7 @@ One convex hull, used for simplified collision.
 
 <a id="unreal.KConvexElem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

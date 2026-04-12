@@ -229,7 +229,7 @@ Water Body River Component
 
 <a id="unreal.WaterBodyRiverComponent.lake_transition_material"></a>
 
-#### lake_transition_material
+#### lake\_transition\_material
 
 ```python
 @property
@@ -240,7 +240,7 @@ def lake_transition_material() -> MaterialInterface
 
 <a id="unreal.WaterBodyRiverComponent.ocean_transition_material"></a>
 
-#### ocean_transition_material
+#### ocean\_transition\_material
 
 ```python
 @property
@@ -251,7 +251,7 @@ def ocean_transition_material() -> MaterialInterface
 
 <a id="unreal.WaterBodyRiverComponent.set_ocean_transition_material"></a>
 
-#### set_ocean_transition_material
+#### set\_ocean\_transition\_material
 
 ```python
 def set_ocean_transition_material(mat: MaterialInterface) -> None
@@ -265,7 +265,7 @@ Args:
 
 <a id="unreal.WaterBodyRiverComponent.set_lake_transition_material"></a>
 
-#### set_lake_transition_material
+#### set\_lake\_transition\_material
 
 ```python
 def set_lake_transition_material(mat: MaterialInterface) -> None
@@ -279,7 +279,7 @@ Args:
 
 <a id="unreal.WaterBodyRiverComponent.set_lake_and_ocean_transition_materials"></a>
 
-#### set_lake_and_ocean_transition_materials
+#### set\_lake\_and\_ocean\_transition\_materials
 
 ```python
 def set_lake_and_ocean_transition_materials(

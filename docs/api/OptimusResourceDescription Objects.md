@@ -21,7 +21,7 @@ Optimus Resource Description
 
 <a id="unreal.OptimusResourceDescription.resource_name"></a>
 
-#### resource_name
+#### resource\_name
 
 ```python
 @property

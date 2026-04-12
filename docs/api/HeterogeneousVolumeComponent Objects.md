@@ -210,7 +210,7 @@ A component that represents a heterogeneous volume.
 
 <a id="unreal.HeterogeneousVolumeComponent.volume_resolution"></a>
 
-#### volume_resolution
+#### volume\_resolution
 
 ```python
 @property
@@ -221,7 +221,7 @@ def volume_resolution() -> IntVector
 
 <a id="unreal.HeterogeneousVolumeComponent.frame_transform"></a>
 
-#### frame_transform
+#### frame\_transform
 
 ```python
 @property
@@ -252,7 +252,7 @@ def frame(value: float) -> None
 
 <a id="unreal.HeterogeneousVolumeComponent.set_volume_resolution"></a>
 
-#### set_volume_resolution
+#### set\_volume\_resolution
 
 ```python
 def set_volume_resolution(new_value: IntVector) -> None
@@ -266,7 +266,7 @@ Args:
 
 <a id="unreal.HeterogeneousVolumeComponent.set_streaming_mip_bias"></a>
 
-#### set_streaming_mip_bias
+#### set\_streaming\_mip\_bias
 
 ```python
 def set_streaming_mip_bias(new_value: int) -> None
@@ -280,7 +280,7 @@ Args:
 
 <a id="unreal.HeterogeneousVolumeComponent.set_start_frame"></a>
 
-#### set_start_frame
+#### set\_start\_frame
 
 ```python
 def set_start_frame(new_value: float) -> None
@@ -294,7 +294,7 @@ Args:
 
 <a id="unreal.HeterogeneousVolumeComponent.set_playing"></a>
 
-#### set_playing
+#### set\_playing
 
 ```python
 def set_playing(new_value: bool) -> None
@@ -308,7 +308,7 @@ Args:
 
 <a id="unreal.HeterogeneousVolumeComponent.set_looping"></a>
 
-#### set_looping
+#### set\_looping
 
 ```python
 def set_looping(new_value: bool) -> None
@@ -322,7 +322,7 @@ Args:
 
 <a id="unreal.HeterogeneousVolumeComponent.set_frame_rate"></a>
 
-#### set_frame_rate
+#### set\_frame\_rate
 
 ```python
 def set_frame_rate(new_value: float) -> None
@@ -336,7 +336,7 @@ Args:
 
 <a id="unreal.HeterogeneousVolumeComponent.set_frame"></a>
 
-#### set_frame
+#### set\_frame
 
 ```python
 def set_frame(new_value: float) -> None
@@ -350,7 +350,7 @@ Args:
 
 <a id="unreal.HeterogeneousVolumeComponent.set_end_frame"></a>
 
-#### set_end_frame
+#### set\_end\_frame
 
 ```python
 def set_end_frame(new_value: float) -> None

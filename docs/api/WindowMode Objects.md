@@ -19,7 +19,7 @@ Supported windowing modes (mirrored from GenericWindow.h)
 
 <a id="unreal.WindowMode.WINDOWED_FULLSCREEN"></a>
 
-#### WINDOWED_FULLSCREEN
+#### WINDOWED\_FULLSCREEN
 
 1: The window has no border and takes up the entire area of the screen
 

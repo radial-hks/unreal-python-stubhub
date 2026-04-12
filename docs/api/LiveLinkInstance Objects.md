@@ -25,7 +25,7 @@ Live Link Instance
 
 <a id="unreal.LiveLinkInstance.set_subject"></a>
 
-#### set_subject
+#### set\_subject
 
 ```python
 def set_subject(subject_name: LiveLinkSubjectName) -> None
@@ -39,7 +39,7 @@ Args:
 
 <a id="unreal.LiveLinkInstance.set_retarget_asset"></a>
 
-#### set_retarget_asset
+#### set\_retarget\_asset
 
 ```python
 def set_retarget_asset(retarget_asset: Class) -> None
@@ -53,7 +53,7 @@ Args:
 
 <a id="unreal.LiveLinkInstance.enable_live_link_evaluation"></a>
 
-#### enable_live_link_evaluation
+#### enable\_live\_link\_evaluation
 
 ```python
 def enable_live_link_evaluation(do_enable: bool) -> None

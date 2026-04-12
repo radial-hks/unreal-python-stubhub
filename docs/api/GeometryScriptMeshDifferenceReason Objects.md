@@ -20,19 +20,19 @@ EGeometry Script Mesh Difference Reason
 
 <a id="unreal.GeometryScriptMeshDifferenceReason.VERTEX_COUNT"></a>
 
-#### VERTEX_COUNT
+#### VERTEX\_COUNT
 
 1
 
 <a id="unreal.GeometryScriptMeshDifferenceReason.TRIANGLE_COUNT"></a>
 
-#### TRIANGLE_COUNT
+#### TRIANGLE\_COUNT
 
 2
 
 <a id="unreal.GeometryScriptMeshDifferenceReason.EDGE_COUNT"></a>
 
-#### EDGE_COUNT
+#### EDGE\_COUNT
 
 3
 

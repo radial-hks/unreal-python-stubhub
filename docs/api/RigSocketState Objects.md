@@ -22,7 +22,7 @@ Rig Socket State
 
 <a id="unreal.RigSocketState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -77,7 +77,7 @@ def parent(value: RigElementKey) -> None
 
 <a id="unreal.RigSocketState.initial_local_transform"></a>
 
-#### initial_local_transform
+#### initial\_local\_transform
 
 ```python
 @property
@@ -88,7 +88,7 @@ def initial_local_transform() -> Transform
 
 <a id="unreal.RigSocketState.initial_local_transform"></a>
 
-#### initial_local_transform
+#### initial\_local\_transform
 
 ```python
 @initial_local_transform.setter

@@ -41,7 +41,7 @@ def workflow() -> RigVMUserWorkflow
 
 <a id="unreal.RigVMUserWorkflowOptions.requires_dialog"></a>
 
-#### requires_dialog
+#### requires\_dialog
 
 ```python
 def requires_dialog() -> bool
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.RigVMUserWorkflowOptions.report_warning"></a>
 
-#### report_warning
+#### report\_warning
 
 ```python
 def report_warning(message: str) -> None
@@ -69,7 +69,7 @@ Args:
 
 <a id="unreal.RigVMUserWorkflowOptions.report_info"></a>
 
-#### report_info
+#### report\_info
 
 ```python
 def report_info(message: str) -> None
@@ -83,7 +83,7 @@ Args:
 
 <a id="unreal.RigVMUserWorkflowOptions.report_error"></a>
 
-#### report_error
+#### report\_error
 
 ```python
 def report_error(message: str) -> None
@@ -97,7 +97,7 @@ Args:
 
 <a id="unreal.RigVMUserWorkflowOptions.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool

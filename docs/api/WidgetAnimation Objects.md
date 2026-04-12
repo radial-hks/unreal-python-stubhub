@@ -13,7 +13,7 @@ Widget Animation
 
 <a id="unreal.WidgetAnimation.get_start_time"></a>
 
-#### get_start_time
+#### get\_start\_time
 
 ```python
 def get_start_time() -> float
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.WidgetAnimation.get_end_time"></a>
 
-#### get_end_time
+#### get\_end\_time
 
 ```python
 def get_end_time() -> float

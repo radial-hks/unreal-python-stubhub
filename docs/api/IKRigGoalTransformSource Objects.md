@@ -26,7 +26,7 @@ EIKRig Goal Transform Source
 
 <a id="unreal.IKRigGoalTransformSource.ACTOR_COMPONENT"></a>
 
-#### ACTOR_COMPONENT
+#### ACTOR\_COMPONENT
 
 2
 

@@ -18,7 +18,7 @@ Compute Framework Data Provider for writing skinned mesh.
 
 <a id="unreal.OptimusGroomWriteDataProvider.groom_component"></a>
 
-#### groom_component
+#### groom\_component
 
 ```python
 @property
@@ -29,7 +29,7 @@ def groom_component() -> GroomComponent
 
 <a id="unreal.OptimusGroomWriteDataProvider.groom_component"></a>
 
-#### groom_component
+#### groom\_component
 
 ```python
 @groom_component.setter

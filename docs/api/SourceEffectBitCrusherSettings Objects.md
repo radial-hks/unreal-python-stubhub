@@ -19,7 +19,7 @@ Source Effect Bit Crusher Settings
 
 <a id="unreal.SourceEffectBitCrusherSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.SourceEffectBitCrusherSettings.sample_rate_modulation"></a>
 
-#### sample_rate_modulation
+#### sample\_rate\_modulation
 
 ```python
 @property
@@ -43,7 +43,7 @@ def sample_rate_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SourceEffectBitCrusherSettings.sample_rate_modulation"></a>
 
-#### sample_rate_modulation
+#### sample\_rate\_modulation
 
 ```python
 @sample_rate_modulation.setter
@@ -52,7 +52,7 @@ def sample_rate_modulation(value: SoundModulationDestinationSettings) -> None
 
 <a id="unreal.SourceEffectBitCrusherSettings.bit_modulation"></a>
 
-#### bit_modulation
+#### bit\_modulation
 
 ```python
 @property
@@ -63,7 +63,7 @@ def bit_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SourceEffectBitCrusherSettings.bit_modulation"></a>
 
-#### bit_modulation
+#### bit\_modulation
 
 ```python
 @bit_modulation.setter

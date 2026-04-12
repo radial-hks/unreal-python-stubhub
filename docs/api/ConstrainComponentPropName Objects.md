@@ -17,7 +17,7 @@ Struct used to specify the property name of the component to constrain
 
 <a id="unreal.ConstrainComponentPropName.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

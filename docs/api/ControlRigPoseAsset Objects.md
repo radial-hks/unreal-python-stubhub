@@ -38,7 +38,7 @@ def pose(value: ControlRigControlPose) -> None
 
 <a id="unreal.ControlRigPoseAsset.select_controls"></a>
 
-#### select_controls
+#### select\_controls
 
 ```python
 def select_controls(control_rig: ControlRig, do_mirror: bool = False) -> None
@@ -53,7 +53,7 @@ Args:
 
 <a id="unreal.ControlRigPoseAsset.save_pose"></a>
 
-#### save_pose
+#### save\_pose
 
 ```python
 def save_pose(control_rig: ControlRig, use_all: bool) -> None
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.ControlRigPoseAsset.replace_control_name"></a>
 
-#### replace_control_name
+#### replace\_control\_name
 
 ```python
 def replace_control_name(current_name: Name, new_name: Name) -> None
@@ -83,7 +83,7 @@ Args:
 
 <a id="unreal.ControlRigPoseAsset.paste_pose"></a>
 
-#### paste_pose
+#### paste\_pose
 
 ```python
 def paste_pose(control_rig: ControlRig,
@@ -101,7 +101,7 @@ Args:
 
 <a id="unreal.ControlRigPoseAsset.get_current_pose"></a>
 
-#### get_current_pose
+#### get\_current\_pose
 
 ```python
 def get_current_pose(control_rig: ControlRig) -> ControlRigControlPose
@@ -120,7 +120,7 @@ Returns:
 
 <a id="unreal.ControlRigPoseAsset.get_control_names"></a>
 
-#### get_control_names
+#### get\_control\_names
 
 ```python
 def get_control_names() -> Array[Name]
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.ControlRigPoseAsset.does_mirror_match"></a>
 
-#### does_mirror_match
+#### does\_mirror\_match
 
 ```python
 def does_mirror_match(control_rig: ControlRig, control_name: Name) -> bool

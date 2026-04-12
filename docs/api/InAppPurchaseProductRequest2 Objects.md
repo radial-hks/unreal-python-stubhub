@@ -19,7 +19,7 @@ Micro-transaction request information
 
 <a id="unreal.InAppPurchaseProductRequest2.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(product_identifier: str = "",
@@ -28,7 +28,7 @@ def __init__(product_identifier: str = "",
 
 <a id="unreal.InAppPurchaseProductRequest2.product_identifier"></a>
 
-#### product_identifier
+#### product\_identifier
 
 ```python
 @property
@@ -39,7 +39,7 @@ def product_identifier() -> str
 
 <a id="unreal.InAppPurchaseProductRequest2.product_identifier"></a>
 
-#### product_identifier
+#### product\_identifier
 
 ```python
 @product_identifier.setter
@@ -48,7 +48,7 @@ def product_identifier(value: str) -> None
 
 <a id="unreal.InAppPurchaseProductRequest2.is_consumable"></a>
 
-#### is_consumable
+#### is\_consumable
 
 ```python
 @property
@@ -59,7 +59,7 @@ def is_consumable() -> bool
 
 <a id="unreal.InAppPurchaseProductRequest2.is_consumable"></a>
 
-#### is_consumable
+#### is\_consumable
 
 ```python
 @is_consumable.setter

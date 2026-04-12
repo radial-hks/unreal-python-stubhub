@@ -86,7 +86,7 @@ def text(value: Text) -> None
 
 <a id="unreal.MultiLineEditableTextBox.hint_text"></a>
 
-#### hint_text
+#### hint\_text
 
 ```python
 @property
@@ -97,7 +97,7 @@ def hint_text() -> Text
 
 <a id="unreal.MultiLineEditableTextBox.hint_text"></a>
 
-#### hint_text
+#### hint\_text
 
 ```python
 @hint_text.setter
@@ -106,7 +106,7 @@ def hint_text(value: Text) -> None
 
 <a id="unreal.MultiLineEditableTextBox.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -117,7 +117,7 @@ def widget_style() -> EditableTextBoxStyle
 
 <a id="unreal.MultiLineEditableTextBox.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -126,7 +126,7 @@ def widget_style(value: EditableTextBoxStyle) -> None
 
 <a id="unreal.MultiLineEditableTextBox.is_read_only"></a>
 
-#### is_read_only
+#### is\_read\_only
 
 ```python
 @property
@@ -137,7 +137,7 @@ def is_read_only() -> bool
 
 <a id="unreal.MultiLineEditableTextBox.is_read_only"></a>
 
-#### is_read_only
+#### is\_read\_only
 
 ```python
 @is_read_only.setter
@@ -146,7 +146,7 @@ def is_read_only(value: bool) -> None
 
 <a id="unreal.MultiLineEditableTextBox.on_text_changed"></a>
 
-#### on_text_changed
+#### on\_text\_changed
 
 ```python
 @property
@@ -157,7 +157,7 @@ def on_text_changed() -> OnMultiLineEditableTextBoxChangedEvent
 
 <a id="unreal.MultiLineEditableTextBox.on_text_changed"></a>
 
-#### on_text_changed
+#### on\_text\_changed
 
 ```python
 @on_text_changed.setter
@@ -166,7 +166,7 @@ def on_text_changed(value: OnMultiLineEditableTextBoxChangedEvent) -> None
 
 <a id="unreal.MultiLineEditableTextBox.on_text_committed"></a>
 
-#### on_text_committed
+#### on\_text\_committed
 
 ```python
 @property
@@ -177,7 +177,7 @@ def on_text_committed() -> OnMultiLineEditableTextBoxCommittedEvent
 
 <a id="unreal.MultiLineEditableTextBox.on_text_committed"></a>
 
-#### on_text_committed
+#### on\_text\_committed
 
 ```python
 @on_text_committed.setter
@@ -186,7 +186,7 @@ def on_text_committed(value: OnMultiLineEditableTextBoxCommittedEvent) -> None
 
 <a id="unreal.MultiLineEditableTextBox.set_text_style"></a>
 
-#### set_text_style
+#### set\_text\_style
 
 ```python
 def set_text_style(text_style: TextBlockStyle) -> None
@@ -200,7 +200,7 @@ Args:
 
 <a id="unreal.MultiLineEditableTextBox.set_text"></a>
 
-#### set_text
+#### set\_text
 
 ```python
 def set_text(text: Text) -> None
@@ -215,7 +215,7 @@ Args:
 
 <a id="unreal.MultiLineEditableTextBox.set_is_read_only"></a>
 
-#### set_is_read_only
+#### set\_is\_read\_only
 
 ```python
 def set_is_read_only(read_only: bool) -> None
@@ -229,7 +229,7 @@ Args:
 
 <a id="unreal.MultiLineEditableTextBox.set_hint_text"></a>
 
-#### set_hint_text
+#### set\_hint\_text
 
 ```python
 def set_hint_text(hint_text: Text) -> None
@@ -243,7 +243,7 @@ Args:
 
 <a id="unreal.MultiLineEditableTextBox.set_foreground_color"></a>
 
-#### set_foreground_color
+#### set\_foreground\_color
 
 ```python
 def set_foreground_color(color: LinearColor) -> None
@@ -257,7 +257,7 @@ Args:
 
 <a id="unreal.MultiLineEditableTextBox.set_error"></a>
 
-#### set_error
+#### set\_error
 
 ```python
 def set_error(error: Text) -> None
@@ -271,7 +271,7 @@ Args:
 
 <a id="unreal.MultiLineEditableTextBox.get_text"></a>
 
-#### get_text
+#### get\_text
 
 ```python
 def get_text() -> Text
@@ -285,7 +285,7 @@ Returns:
 
 <a id="unreal.MultiLineEditableTextBox.get_hint_text"></a>
 
-#### get_hint_text
+#### get\_hint\_text
 
 ```python
 def get_hint_text() -> Text

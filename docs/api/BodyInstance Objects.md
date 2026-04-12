@@ -84,7 +84,7 @@ Container for a physics representation of an object
 
 <a id="unreal.BodyInstance.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(simulate_physics: bool = False,
@@ -125,7 +125,7 @@ def __init__(simulate_physics: bool = False,
 
 <a id="unreal.BodyInstance.position_solver_iteration_count"></a>
 
-#### position_solver_iteration_count
+#### position\_solver\_iteration\_count
 
 ```python
 @property
@@ -136,7 +136,7 @@ def position_solver_iteration_count() -> int
 
 <a id="unreal.BodyInstance.velocity_solver_iteration_count"></a>
 
-#### velocity_solver_iteration_count
+#### velocity\_solver\_iteration\_count
 
 ```python
 @property
@@ -147,7 +147,7 @@ def velocity_solver_iteration_count() -> int
 
 <a id="unreal.BodyInstance.projection_solver_iteration_count"></a>
 
-#### projection_solver_iteration_count
+#### projection\_solver\_iteration\_count
 
 ```python
 @property
@@ -158,7 +158,7 @@ def projection_solver_iteration_count() -> int
 
 <a id="unreal.BodyInstance.sleep_family"></a>
 
-#### sleep_family
+#### sleep\_family
 
 ```python
 @property
@@ -169,7 +169,7 @@ def sleep_family() -> SleepFamily
 
 <a id="unreal.BodyInstance.sleep_family"></a>
 
-#### sleep_family
+#### sleep\_family
 
 ```python
 @sleep_family.setter
@@ -178,7 +178,7 @@ def sleep_family(value: SleepFamily) -> None
 
 <a id="unreal.BodyInstance.use_ccd"></a>
 
-#### use_ccd
+#### use\_ccd
 
 ```python
 @property
@@ -189,7 +189,7 @@ def use_ccd() -> bool
 
 <a id="unreal.BodyInstance.ignore_analytic_collisions"></a>
 
-#### ignore_analytic_collisions
+#### ignore\_analytic\_collisions
 
 ```python
 @property
@@ -200,7 +200,7 @@ def ignore_analytic_collisions() -> bool
 
 <a id="unreal.BodyInstance.notify_rigid_body_collision"></a>
 
-#### notify_rigid_body_collision
+#### notify\_rigid\_body\_collision
 
 ```python
 @property
@@ -211,7 +211,7 @@ def notify_rigid_body_collision() -> bool
 
 <a id="unreal.BodyInstance.smooth_edge_collisions"></a>
 
-#### smooth_edge_collisions
+#### smooth\_edge\_collisions
 
 ```python
 @property
@@ -223,7 +223,7 @@ This is fairly expensive and should only be enabled on hero objects.
 
 <a id="unreal.BodyInstance.inertia_conditioning"></a>
 
-#### inertia_conditioning
+#### inertia\_conditioning
 
 ```python
 @property
@@ -237,7 +237,7 @@ note: When enabled, the effective inertia depends on the joints attached to the 
 
 <a id="unreal.BodyInstance.inertia_conditioning"></a>
 
-#### inertia_conditioning
+#### inertia\_conditioning
 
 ```python
 @inertia_conditioning.setter
@@ -246,7 +246,7 @@ def inertia_conditioning(value: bool) -> None
 
 <a id="unreal.BodyInstance.one_way_interaction"></a>
 
-#### one_way_interaction
+#### one\_way\_interaction
 
 ```python
 @property
@@ -257,7 +257,7 @@ def one_way_interaction() -> bool
 
 <a id="unreal.BodyInstance.one_way_interaction"></a>
 
-#### one_way_interaction
+#### one\_way\_interaction
 
 ```python
 @one_way_interaction.setter
@@ -266,7 +266,7 @@ def one_way_interaction(value: bool) -> None
 
 <a id="unreal.BodyInstance.override_solver_async_delta_time"></a>
 
-#### override_solver_async_delta_time
+#### override\_solver\_async\_delta\_time
 
 ```python
 @property
@@ -277,7 +277,7 @@ def override_solver_async_delta_time() -> bool
 
 <a id="unreal.BodyInstance.solver_async_delta_time"></a>
 
-#### solver_async_delta_time
+#### solver\_async\_delta\_time
 
 ```python
 @property
@@ -288,7 +288,7 @@ def solver_async_delta_time() -> float
 
 <a id="unreal.BodyInstance.max_depenetration_velocity"></a>
 
-#### max_depenetration_velocity
+#### max\_depenetration\_velocity
 
 ```python
 @property
@@ -303,7 +303,7 @@ This overrides the CollisionInitialOverlapDepenetrationVelocity project setting 
 
 <a id="unreal.BodyInstance.mass_in_kg_override"></a>
 
-#### mass_in_kg_override
+#### mass\_in\_kg\_override
 
 ```python
 @property
@@ -315,7 +315,7 @@ see: bOverrideMass to set this directly
 
 <a id="unreal.BodyInstance.mass_in_kg"></a>
 
-#### mass_in_kg
+#### mass\_in\_kg
 
 ```python
 @property
@@ -326,7 +326,7 @@ deprecated: 'mass_in_kg' was renamed to 'mass_in_kg_override'.
 
 <a id="unreal.BodyInstance.linear_damping"></a>
 
-#### linear_damping
+#### linear\_damping
 
 ```python
 @property
@@ -337,7 +337,7 @@ def linear_damping() -> float
 
 <a id="unreal.BodyInstance.linear_damping"></a>
 
-#### linear_damping
+#### linear\_damping
 
 ```python
 @linear_damping.setter
@@ -346,7 +346,7 @@ def linear_damping(value: float) -> None
 
 <a id="unreal.BodyInstance.angular_damping"></a>
 
-#### angular_damping
+#### angular\_damping
 
 ```python
 @property
@@ -357,7 +357,7 @@ def angular_damping() -> float
 
 <a id="unreal.BodyInstance.angular_damping"></a>
 
-#### angular_damping
+#### angular\_damping
 
 ```python
 @angular_damping.setter
@@ -366,7 +366,7 @@ def angular_damping(value: float) -> None
 
 <a id="unreal.BodyInstance.com_nudge"></a>
 
-#### com_nudge
+#### com\_nudge
 
 ```python
 @property
@@ -377,7 +377,7 @@ def com_nudge() -> Vector
 
 <a id="unreal.BodyInstance.com_nudge"></a>
 
-#### com_nudge
+#### com\_nudge
 
 ```python
 @com_nudge.setter
@@ -386,7 +386,7 @@ def com_nudge(value: Vector) -> None
 
 <a id="unreal.BodyInstance.mass_scale"></a>
 
-#### mass_scale
+#### mass\_scale
 
 ```python
 @property
@@ -397,7 +397,7 @@ def mass_scale() -> float
 
 <a id="unreal.BodyInstance.mass_scale"></a>
 
-#### mass_scale
+#### mass\_scale
 
 ```python
 @mass_scale.setter
@@ -406,7 +406,7 @@ def mass_scale(value: float) -> None
 
 <a id="unreal.BodyInstance.gravity_group_index"></a>
 
-#### gravity_group_index
+#### gravity\_group\_index
 
 ```python
 @property
@@ -417,7 +417,7 @@ def gravity_group_index() -> int
 
 <a id="unreal.BodyInstance.inertia_tensor_scale"></a>
 
-#### inertia_tensor_scale
+#### inertia\_tensor\_scale
 
 ```python
 @property
@@ -428,7 +428,7 @@ def inertia_tensor_scale() -> Vector
 
 <a id="unreal.BodyInstance.inertia_tensor_scale"></a>
 
-#### inertia_tensor_scale
+#### inertia\_tensor\_scale
 
 ```python
 @inertia_tensor_scale.setter
@@ -437,7 +437,7 @@ def inertia_tensor_scale(value: Vector) -> None
 
 <a id="unreal.BodyInstance.walkable_slope_override"></a>
 
-#### walkable_slope_override
+#### walkable\_slope\_override
 
 ```python
 @property
@@ -449,7 +449,7 @@ see: GetWalkableSlopeOverride(), SetWalkableSlopeOverride()
 
 <a id="unreal.BodyInstance.phys_material_override"></a>
 
-#### phys_material_override
+#### phys\_material\_override
 
 ```python
 @property
@@ -460,7 +460,7 @@ def phys_material_override() -> PhysicalMaterial
 
 <a id="unreal.BodyInstance.max_angular_velocity"></a>
 
-#### max_angular_velocity
+#### max\_angular\_velocity
 
 ```python
 @property
@@ -471,7 +471,7 @@ def max_angular_velocity() -> float
 
 <a id="unreal.BodyInstance.custom_sleep_threshold_multiplier"></a>
 
-#### custom_sleep_threshold_multiplier
+#### custom\_sleep\_threshold\_multiplier
 
 ```python
 @property
@@ -482,7 +482,7 @@ def custom_sleep_threshold_multiplier() -> float
 
 <a id="unreal.BodyInstance.stabilization_threshold_multiplier"></a>
 
-#### stabilization_threshold_multiplier
+#### stabilization\_threshold\_multiplier
 
 ```python
 @property

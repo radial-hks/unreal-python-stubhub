@@ -20,7 +20,7 @@ Describes the space around a Widget.
 
 <a id="unreal.Margin.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(left: float = 0.000000,

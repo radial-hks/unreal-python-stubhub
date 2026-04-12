@@ -22,7 +22,7 @@ Utility (blueprint) class for controlling SparseVolumeTexture playback.
 
 <a id="unreal.AnimatedSparseVolumeTextureController.sparse_volume_texture"></a>
 
-#### sparse_volume_texture
+#### sparse\_volume\_texture
 
 ```python
 @property
@@ -33,7 +33,7 @@ def sparse_volume_texture() -> SparseVolumeTexture
 
 <a id="unreal.AnimatedSparseVolumeTextureController.sparse_volume_texture"></a>
 
-#### sparse_volume_texture
+#### sparse\_volume\_texture
 
 ```python
 @sparse_volume_texture.setter
@@ -62,7 +62,7 @@ def time(value: float) -> None
 
 <a id="unreal.AnimatedSparseVolumeTextureController.is_playing"></a>
 
-#### is_playing
+#### is\_playing
 
 ```python
 @property
@@ -73,7 +73,7 @@ def is_playing() -> bool
 
 <a id="unreal.AnimatedSparseVolumeTextureController.is_playing"></a>
 
-#### is_playing
+#### is\_playing
 
 ```python
 @is_playing.setter
@@ -82,7 +82,7 @@ def is_playing(value: bool) -> None
 
 <a id="unreal.AnimatedSparseVolumeTextureController.frame_rate"></a>
 
-#### frame_rate
+#### frame\_rate
 
 ```python
 @property
@@ -93,7 +93,7 @@ def frame_rate() -> float
 
 <a id="unreal.AnimatedSparseVolumeTextureController.frame_rate"></a>
 
-#### frame_rate
+#### frame\_rate
 
 ```python
 @frame_rate.setter
@@ -102,7 +102,7 @@ def frame_rate(value: float) -> None
 
 <a id="unreal.AnimatedSparseVolumeTextureController.mip_level"></a>
 
-#### mip_level
+#### mip\_level
 
 ```python
 @property
@@ -113,7 +113,7 @@ def mip_level() -> int
 
 <a id="unreal.AnimatedSparseVolumeTextureController.mip_level"></a>
 
-#### mip_level
+#### mip\_level
 
 ```python
 @mip_level.setter
@@ -122,7 +122,7 @@ def mip_level(value: int) -> None
 
 <a id="unreal.AnimatedSparseVolumeTextureController.blocking_streaming_requests"></a>
 
-#### blocking_streaming_requests
+#### blocking\_streaming\_requests
 
 ```python
 @property
@@ -133,7 +133,7 @@ def blocking_streaming_requests() -> bool
 
 <a id="unreal.AnimatedSparseVolumeTextureController.blocking_streaming_requests"></a>
 
-#### blocking_streaming_requests
+#### blocking\_streaming\_requests
 
 ```python
 @blocking_streaming_requests.setter
@@ -189,7 +189,7 @@ Pause
 
 <a id="unreal.AnimatedSparseVolumeTextureController.get_frame_by_index"></a>
 
-#### get_frame_by_index
+#### get\_frame\_by\_index
 
 ```python
 def get_frame_by_index(frame_index: int) -> SparseVolumeTextureFrame
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.AnimatedSparseVolumeTextureController.get_fractional_frame_index"></a>
 
-#### get_fractional_frame_index
+#### get\_fractional\_frame\_index
 
 ```python
 def get_fractional_frame_index() -> float
@@ -220,7 +220,7 @@ Returns:
 
 <a id="unreal.AnimatedSparseVolumeTextureController.get_duration"></a>
 
-#### get_duration
+#### get\_duration
 
 ```python
 def get_duration() -> float
@@ -234,7 +234,7 @@ Returns:
 
 <a id="unreal.AnimatedSparseVolumeTextureController.get_current_frames_for_interpolation"></a>
 
-#### get_current_frames_for_interpolation
+#### get\_current\_frames\_for\_interpolation
 
 ```python
 def get_current_frames_for_interpolation(
@@ -255,7 +255,7 @@ Returns:
 
 <a id="unreal.AnimatedSparseVolumeTextureController.get_current_frame"></a>
 
-#### get_current_frame
+#### get\_current\_frame
 
 ```python
 def get_current_frame() -> SparseVolumeTextureFrame

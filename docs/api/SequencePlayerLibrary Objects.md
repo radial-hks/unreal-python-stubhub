@@ -14,7 +14,7 @@ Note: Experimental and subject to change!
 
 <a id="unreal.SequencePlayerLibrary.set_start_position"></a>
 
-#### set_start_position
+#### set\_start\_position
 
 ```python
 @classmethod
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.set_sequence_with_inertial_blending"></a>
 
-#### set_sequence_with_inertial_blending
+#### set\_sequence\_with\_inertial\_blending
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.set_sequence"></a>
 
-#### set_sequence
+#### set\_sequence
 
 ```python
 @classmethod
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.set_play_rate"></a>
 
-#### set_play_rate
+#### set\_play\_rate
 
 ```python
 @classmethod
@@ -102,7 +102,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.set_accumulated_time"></a>
 
-#### set_accumulated_time
+#### set\_accumulated\_time
 
 ```python
 @classmethod
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.get_start_position"></a>
 
-#### get_start_position
+#### get\_start\_position
 
 ```python
 @classmethod
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.get_sequence_pure"></a>
 
-#### get_sequence_pure
+#### get\_sequence\_pure
 
 ```python
 @classmethod
@@ -159,7 +159,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.get_sequence"></a>
 
-#### get_sequence
+#### get\_sequence
 
 ```python
 @classmethod
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.get_play_rate"></a>
 
-#### get_play_rate
+#### get\_play\_rate
 
 ```python
 @classmethod
@@ -202,7 +202,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.get_loop_animation"></a>
 
-#### get_loop_animation
+#### get\_loop\_animation
 
 ```python
 @classmethod
@@ -220,7 +220,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.get_accumulated_time"></a>
 
-#### get_accumulated_time
+#### get\_accumulated\_time
 
 ```python
 @classmethod
@@ -239,7 +239,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.convert_to_sequence_player_pure"></a>
 
-#### convert_to_sequence_player_pure
+#### convert\_to\_sequence\_player\_pure
 
 ```python
 @classmethod
@@ -262,7 +262,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.convert_to_sequence_player"></a>
 
-#### convert_to_sequence_player
+#### convert\_to\_sequence\_player
 
 ```python
 @classmethod
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.SequencePlayerLibrary.compute_play_rate_from_duration"></a>
 
-#### compute_play_rate_from_duration
+#### compute\_play\_rate\_from\_duration
 
 ```python
 @classmethod

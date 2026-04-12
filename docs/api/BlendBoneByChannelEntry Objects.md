@@ -21,7 +21,7 @@ Blend Bone by Channel Entry
 
 <a id="unreal.BlendBoneByChannelEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

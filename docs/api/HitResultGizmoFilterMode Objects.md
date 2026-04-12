@@ -19,13 +19,13 @@ Filter mode for GetHitResultFromLaserPointer
 
 <a id="unreal.HitResultGizmoFilterMode.NO_GIZMOS"></a>
 
-#### NO_GIZMOS
+#### NO\_GIZMOS
 
 1
 
 <a id="unreal.HitResultGizmoFilterMode.GIZMOS_ONLY"></a>
 
-#### GIZMOS_ONLY
+#### GIZMOS\_ONLY
 
 2
 

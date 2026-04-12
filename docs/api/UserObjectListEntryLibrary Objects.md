@@ -13,7 +13,7 @@ Static library to supply "for free" functionality to widgets that implement IUse
 
 <a id="unreal.UserObjectListEntryLibrary.get_list_item_object"></a>
 
-#### get_list_item_object
+#### get\_list\_item\_object
 
 ```python
 @classmethod

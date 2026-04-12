@@ -38,7 +38,7 @@ EHair Atlas Texture Type
 
 <a id="unreal.HairAtlasTextureType.AUXILARY_DATA"></a>
 
-#### AUXILARY_DATA
+#### AUXILARY\_DATA
 
 4
 

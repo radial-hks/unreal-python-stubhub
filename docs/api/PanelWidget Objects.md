@@ -49,7 +49,7 @@ The base class for all UMG panel widgets.  Panel widgets layout a collection of 
 
 <a id="unreal.PanelWidget.remove_child_at"></a>
 
-#### remove_child_at
+#### remove\_child\_at
 
 ```python
 def remove_child_at(index: int) -> bool
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.PanelWidget.remove_child"></a>
 
-#### remove_child
+#### remove\_child
 
 ```python
 def remove_child(content: Widget) -> bool
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.PanelWidget.has_child"></a>
 
-#### has_child
+#### has\_child
 
 ```python
 def has_child(content: Widget) -> bool
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.PanelWidget.has_any_children"></a>
 
-#### has_any_children
+#### has\_any\_children
 
 ```python
 def has_any_children() -> bool
@@ -114,7 +114,7 @@ Returns:
 
 <a id="unreal.PanelWidget.get_children_count"></a>
 
-#### get_children_count
+#### get\_children\_count
 
 ```python
 def get_children_count() -> int
@@ -128,7 +128,7 @@ Returns:
 
 <a id="unreal.PanelWidget.get_child_index"></a>
 
-#### get_child_index
+#### get\_child\_index
 
 ```python
 def get_child_index(content: Widget) -> int
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.PanelWidget.get_child_at"></a>
 
-#### get_child_at
+#### get\_child\_at
 
 ```python
 def get_child_at(index: int) -> Widget
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.PanelWidget.get_all_children"></a>
 
-#### get_all_children
+#### get\_all\_children
 
 ```python
 def get_all_children() -> Array[Widget]
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.PanelWidget.clear_children"></a>
 
-#### clear_children
+#### clear\_children
 
 ```python
 def clear_children() -> None
@@ -187,7 +187,7 @@ Remove all child widgets from the panel widget.
 
 <a id="unreal.PanelWidget.add_child"></a>
 
-#### add_child
+#### add\_child
 
 ```python
 def add_child(content: Widget) -> PanelSlot

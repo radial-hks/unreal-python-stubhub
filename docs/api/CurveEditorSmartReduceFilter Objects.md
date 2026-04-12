@@ -17,7 +17,7 @@ Curve Editor Smart Reduce Filter
 
 <a id="unreal.CurveEditorSmartReduceFilter.smart_reduce_params"></a>
 
-#### smart_reduce_params
+#### smart\_reduce\_params
 
 ```python
 @property
@@ -28,7 +28,7 @@ def smart_reduce_params() -> SmartReduceParams
 
 <a id="unreal.CurveEditorSmartReduceFilter.smart_reduce_params"></a>
 
-#### smart_reduce_params
+#### smart\_reduce\_params
 
 ```python
 @smart_reduce_params.setter

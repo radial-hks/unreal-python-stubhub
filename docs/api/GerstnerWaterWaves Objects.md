@@ -21,7 +21,7 @@ They provide a decent look, are relatively cheap to evaluate and have the advant
 
 <a id="unreal.GerstnerWaterWaves.gerstner_wave_generator"></a>
 
-#### gerstner_wave_generator
+#### gerstner\_wave\_generator
 
 ```python
 @property
@@ -32,7 +32,7 @@ def gerstner_wave_generator() -> GerstnerWaterWaveGeneratorBase
 
 <a id="unreal.GerstnerWaterWaves.gerstner_waves"></a>
 
-#### gerstner_waves
+#### gerstner\_waves
 
 ```python
 @property
@@ -43,7 +43,7 @@ def gerstner_waves() -> Array[GerstnerWave]
 
 <a id="unreal.GerstnerWaterWaves.max_wave_height"></a>
 
-#### max_wave_height
+#### max\_wave\_height
 
 ```python
 @property

@@ -20,7 +20,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Box2D.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min: Vector2D = [0.000000, 0.000000],
@@ -69,7 +69,7 @@ def max(value: Vector2D) -> None
 
 <a id="unreal.Box2D.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @property
@@ -80,7 +80,7 @@ def is_valid() -> bool
 
 <a id="unreal.Box2D.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @is_valid.setter

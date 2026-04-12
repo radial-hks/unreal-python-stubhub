@@ -14,7 +14,7 @@ Interchange Scene Variant Sets Factory Node
 
 <a id="unreal.InterchangeSceneVariantSetsFactoryNode.remove_custom_variant_set_uid"></a>
 
-#### remove_custom_variant_set_uid
+#### remove\_custom\_variant\_set\_uid
 
 ```python
 def remove_custom_variant_set_uid(variant_uid: str) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneVariantSetsFactoryNode.get_object_class"></a>
 
-#### get_object_class
+#### get\_object\_class
 
 ```python
 def get_object_class() -> Class
@@ -45,7 +45,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneVariantSetsFactoryNode.get_custom_variant_set_uids"></a>
 
-#### get_custom_variant_set_uids
+#### get\_custom\_variant\_set\_uids
 
 ```python
 def get_custom_variant_set_uids() -> Array[str]
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneVariantSetsFactoryNode.get_custom_variant_set_uid_count"></a>
 
-#### get_custom_variant_set_uid_count
+#### get\_custom\_variant\_set\_uid\_count
 
 ```python
 def get_custom_variant_set_uid_count() -> int
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneVariantSetsFactoryNode.get_custom_variant_set_uid"></a>
 
-#### get_custom_variant_set_uid
+#### get\_custom\_variant\_set\_uid
 
 ```python
 def get_custom_variant_set_uid(index: int) -> str
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneVariantSetsFactoryNode.add_custom_variant_set_uid"></a>
 
-#### add_custom_variant_set_uid
+#### add\_custom\_variant\_set\_uid
 
 ```python
 def add_custom_variant_set_uid(variant_uid: str) -> bool

@@ -26,13 +26,13 @@ note: Mirrored from GenericPlatformMisc.h
 
 <a id="unreal.AppReturnType.YES_ALL"></a>
 
-#### YES_ALL
+#### YES\_ALL
 
 2
 
 <a id="unreal.AppReturnType.NO_ALL"></a>
 
-#### NO_ALL
+#### NO\_ALL
 
 3
 

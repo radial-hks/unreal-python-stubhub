@@ -14,19 +14,19 @@ EGeometry Script Primitive Polygroup Mode
 
 <a id="unreal.GeometryScriptPrimitivePolygroupMode.SINGLE_GROUP"></a>
 
-#### SINGLE_GROUP
+#### SINGLE\_GROUP
 
 0
 
 <a id="unreal.GeometryScriptPrimitivePolygroupMode.PER_FACE"></a>
 
-#### PER_FACE
+#### PER\_FACE
 
 1
 
 <a id="unreal.GeometryScriptPrimitivePolygroupMode.PER_QUAD"></a>
 
-#### PER_QUAD
+#### PER\_QUAD
 
 2
 

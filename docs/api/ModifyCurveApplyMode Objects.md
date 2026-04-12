@@ -31,13 +31,13 @@ EModify Curve Apply Mode
 
 <a id="unreal.ModifyCurveApplyMode.WEIGHTED_MOVING_AVERAGE"></a>
 
-#### WEIGHTED_MOVING_AVERAGE
+#### WEIGHTED\_MOVING\_AVERAGE
 
 3: Blend the new curve value with the last curve value using Alpha to determine the weighting (.5 is a moving average, higher values react to new values faster, lower slower)
 
 <a id="unreal.ModifyCurveApplyMode.REMAP_CURVE"></a>
 
-#### REMAP_CURVE
+#### REMAP\_CURVE
 
 4: Remaps the new curve value between the CurveValues entry and 1.0 (.5 in CurveValues makes 0.51 map to 0.02)
 

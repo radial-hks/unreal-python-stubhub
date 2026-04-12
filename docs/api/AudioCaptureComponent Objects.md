@@ -69,7 +69,7 @@ Audio Capture Component
 
 <a id="unreal.AudioCaptureComponent.jitter_latency_frames"></a>
 
-#### jitter_latency_frames
+#### jitter\_latency\_frames
 
 ```python
 @property
@@ -81,7 +81,7 @@ def jitter_latency_frames() -> int
 
 <a id="unreal.AudioCaptureComponent.jitter_latency_frames"></a>
 
-#### jitter_latency_frames
+#### jitter\_latency\_frames
 
 ```python
 @jitter_latency_frames.setter

@@ -20,7 +20,7 @@ Hair Simulation Forces
 
 <a id="unreal.HairSimulationForces.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(gravity_vector: Vector = [0.000000, 0.000000, 0.000000],
@@ -30,7 +30,7 @@ def __init__(gravity_vector: Vector = [0.000000, 0.000000, 0.000000],
 
 <a id="unreal.HairSimulationForces.gravity_vector"></a>
 
-#### gravity_vector
+#### gravity\_vector
 
 ```python
 @property
@@ -41,7 +41,7 @@ def gravity_vector() -> Vector
 
 <a id="unreal.HairSimulationForces.gravity_vector"></a>
 
-#### gravity_vector
+#### gravity\_vector
 
 ```python
 @gravity_vector.setter
@@ -50,7 +50,7 @@ def gravity_vector(value: Vector) -> None
 
 <a id="unreal.HairSimulationForces.air_drag"></a>
 
-#### air_drag
+#### air\_drag
 
 ```python
 @property
@@ -61,7 +61,7 @@ def air_drag() -> float
 
 <a id="unreal.HairSimulationForces.air_drag"></a>
 
-#### air_drag
+#### air\_drag
 
 ```python
 @air_drag.setter
@@ -70,7 +70,7 @@ def air_drag(value: float) -> None
 
 <a id="unreal.HairSimulationForces.air_velocity"></a>
 
-#### air_velocity
+#### air\_velocity
 
 ```python
 @property
@@ -81,7 +81,7 @@ def air_velocity() -> Vector
 
 <a id="unreal.HairSimulationForces.air_velocity"></a>
 
-#### air_velocity
+#### air\_velocity
 
 ```python
 @air_velocity.setter

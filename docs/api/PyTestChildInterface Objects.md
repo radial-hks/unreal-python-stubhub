@@ -14,7 +14,7 @@ Py Test Child Interface
 
 <a id="unreal.PyTestChildInterface.func_interface_child"></a>
 
-#### func_interface_child
+#### func\_interface\_child
 
 ```python
 def func_interface_child(value: int) -> int

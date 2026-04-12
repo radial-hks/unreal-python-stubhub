@@ -14,7 +14,7 @@ Validate Assets Details
 
 <a id="unreal.ValidateAssetsDetails.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

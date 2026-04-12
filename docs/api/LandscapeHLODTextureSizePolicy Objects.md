@@ -13,13 +13,13 @@ ELandscape HLODTexture Size Policy
 
 <a id="unreal.LandscapeHLODTextureSizePolicy.AUTOMATIC_SIZE"></a>
 
-#### AUTOMATIC_SIZE
+#### AUTOMATIC\_SIZE
 
 0: Automatic texture size, based on the expected HLOD draw distance and the landscape size.
 
 <a id="unreal.LandscapeHLODTextureSizePolicy.SPECIFIC_SIZE"></a>
 
-#### SPECIFIC_SIZE
+#### SPECIFIC\_SIZE
 
 1: User specified texture size.
 

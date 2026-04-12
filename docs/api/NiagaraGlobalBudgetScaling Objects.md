@@ -25,10 +25,10 @@ Niagara Global Budget Scaling
 
 <a id="unreal.NiagaraGlobalBudgetScaling.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.MediaIOConnection"></a>
+<a id="unreal.CesiumMetadataEncodingDetails"></a>

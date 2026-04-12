@@ -14,13 +14,13 @@ ELidar Point Cloud Sprite Orientation
 
 <a id="unreal.LidarPointCloudSpriteOrientation.PREFER_FACING_CAMERA"></a>
 
-#### PREFER_FACING_CAMERA
+#### PREFER\_FACING\_CAMERA
 
 0: The sprites will face camera, even if Normals are available.
 
 <a id="unreal.LidarPointCloudSpriteOrientation.PREFER_FACING_NORMAL"></a>
 
-#### PREFER_FACING_NORMAL
+#### PREFER\_FACING\_NORMAL
 
 1: The sprites will attempt to face Normals, if available, or fall back to facing camera otherwise.
 

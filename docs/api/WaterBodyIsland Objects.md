@@ -146,7 +146,7 @@ Water Body Island
 
 <a id="unreal.WaterBodyIsland.water_curve_settings"></a>
 
-#### water_curve_settings
+#### water\_curve\_settings
 
 ```python
 @property
@@ -157,7 +157,7 @@ def water_curve_settings() -> WaterCurveSettings
 
 <a id="unreal.WaterBodyIsland.water_curve_settings"></a>
 
-#### water_curve_settings
+#### water\_curve\_settings
 
 ```python
 @water_curve_settings.setter
@@ -166,7 +166,7 @@ def water_curve_settings(value: WaterCurveSettings) -> None
 
 <a id="unreal.WaterBodyIsland.water_heightmap_settings"></a>
 
-#### water_heightmap_settings
+#### water\_heightmap\_settings
 
 ```python
 @property
@@ -177,7 +177,7 @@ def water_heightmap_settings() -> WaterBodyHeightmapSettings
 
 <a id="unreal.WaterBodyIsland.water_heightmap_settings"></a>
 
-#### water_heightmap_settings
+#### water\_heightmap\_settings
 
 ```python
 @water_heightmap_settings.setter
@@ -186,7 +186,7 @@ def water_heightmap_settings(value: WaterBodyHeightmapSettings) -> None
 
 <a id="unreal.WaterBodyIsland.water_weightmap_settings"></a>
 
-#### water_weightmap_settings
+#### water\_weightmap\_settings
 
 ```python
 @property
@@ -197,7 +197,7 @@ def water_weightmap_settings() -> Map[Name, WaterBodyWeightmapSettings]
 
 <a id="unreal.WaterBodyIsland.water_weightmap_settings"></a>
 
-#### water_weightmap_settings
+#### water\_weightmap\_settings
 
 ```python
 @water_weightmap_settings.setter
@@ -207,7 +207,7 @@ def water_weightmap_settings(
 
 <a id="unreal.WaterBodyIsland.spline_comp"></a>
 
-#### spline_comp
+#### spline\_comp
 
 ```python
 @property
@@ -218,7 +218,7 @@ def spline_comp() -> WaterSplineComponent
 
 <a id="unreal.WaterBodyIsland.get_water_spline"></a>
 
-#### get_water_spline
+#### get\_water\_spline
 
 ```python
 def get_water_spline() -> WaterSplineComponent

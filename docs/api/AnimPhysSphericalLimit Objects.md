@@ -20,7 +20,7 @@ Anim Phys Spherical Limit
 
 <a id="unreal.AnimPhysSphericalLimit.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

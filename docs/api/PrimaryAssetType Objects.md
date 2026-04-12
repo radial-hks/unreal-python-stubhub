@@ -18,7 +18,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\CoreUObject\Publ
 
 <a id="unreal.PrimaryAssetType.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None") -> None
@@ -46,7 +46,7 @@ def name(value: Name) -> None
 
 <a id="unreal.PrimaryAssetType.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetType.get_primary_asset_id_list"></a>
 
-#### get_primary_asset_id_list
+#### get\_primary\_asset\_id\_list
 
 ```python
 def get_primary_asset_id_list() -> Array[PrimaryAssetId]
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetType.to_string"></a>
 
-#### to_string
+#### to\_string
 
 ```python
 def to_string() -> str
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetType.__bool__"></a>
 
-#### __bool__
+#### \_\_bool\_\_
 
 ```python
 def __bool__() -> bool
@@ -100,7 +100,7 @@ Returns list of Primary Asset Ids for a PrimaryAssetType
 
 <a id="unreal.PrimaryAssetType.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -112,7 +112,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.PrimaryAssetType.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool

@@ -19,7 +19,7 @@ Apple Image Utils Image Conversion Result
 
 <a id="unreal.AppleImageUtilsImageConversionResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(error: str = "", image_data: Array[int] = []) -> None
@@ -38,7 +38,7 @@ def error() -> str
 
 <a id="unreal.AppleImageUtilsImageConversionResult.image_data"></a>
 
-#### image_data
+#### image\_data
 
 ```python
 @property

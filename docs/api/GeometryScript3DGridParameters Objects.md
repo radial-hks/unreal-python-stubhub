@@ -20,7 +20,7 @@ Parameters for 3D grids, eg grids used for sampling, SDFs, voxelization, etc
 
 <a id="unreal.GeometryScript3DGridParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(size_method:
@@ -32,7 +32,7 @@ def __init__(size_method:
 
 <a id="unreal.GeometryScript3DGridParameters.size_method"></a>
 
-#### size_method
+#### size\_method
 
 ```python
 @property
@@ -43,7 +43,7 @@ def size_method() -> GeometryScriptGridSizingMethod
 
 <a id="unreal.GeometryScript3DGridParameters.size_method"></a>
 
-#### size_method
+#### size\_method
 
 ```python
 @size_method.setter
@@ -52,7 +52,7 @@ def size_method(value: GeometryScriptGridSizingMethod) -> None
 
 <a id="unreal.GeometryScript3DGridParameters.grid_cell_size"></a>
 
-#### grid_cell_size
+#### grid\_cell\_size
 
 ```python
 @property
@@ -63,7 +63,7 @@ def grid_cell_size() -> float
 
 <a id="unreal.GeometryScript3DGridParameters.grid_cell_size"></a>
 
-#### grid_cell_size
+#### grid\_cell\_size
 
 ```python
 @grid_cell_size.setter
@@ -72,7 +72,7 @@ def grid_cell_size(value: float) -> None
 
 <a id="unreal.GeometryScript3DGridParameters.grid_resolution"></a>
 
-#### grid_resolution
+#### grid\_resolution
 
 ```python
 @property
@@ -83,7 +83,7 @@ def grid_resolution() -> int
 
 <a id="unreal.GeometryScript3DGridParameters.grid_resolution"></a>
 
-#### grid_resolution
+#### grid\_resolution
 
 ```python
 @grid_resolution.setter

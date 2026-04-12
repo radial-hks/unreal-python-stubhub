@@ -20,7 +20,7 @@ EHair Cards Guide Type
 
 <a id="unreal.HairCardsGuideType.GUIDE_BASED"></a>
 
-#### GUIDE_BASED
+#### GUIDE\_BASED
 
 1
 

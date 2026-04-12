@@ -14,7 +14,7 @@ Control Rig Blueprint Editor Library
 
 <a id="unreal.ControlRigBlueprintLibrary.setup_all_editor_menus"></a>
 
-#### setup_all_editor_menus
+#### setup\_all\_editor\_menus
 
 ```python
 @classmethod
@@ -26,7 +26,7 @@ Setup All Editor Menus
 
 <a id="unreal.ControlRigBlueprintLibrary.set_preview_mesh"></a>
 
-#### set_preview_mesh
+#### set\_preview\_mesh
 
 ```python
 @classmethod
@@ -46,7 +46,7 @@ Args:
 
 <a id="unreal.ControlRigBlueprintLibrary.request_control_rig_init"></a>
 
-#### request_control_rig_init
+#### request\_control\_rig\_init
 
 ```python
 @classmethod
@@ -61,7 +61,7 @@ Args:
 
 <a id="unreal.ControlRigBlueprintLibrary.get_preview_mesh"></a>
 
-#### get_preview_mesh
+#### get\_preview\_mesh
 
 ```python
 @classmethod
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprintLibrary.get_hierarchy_controller"></a>
 
-#### get_hierarchy_controller
+#### get\_hierarchy\_controller
 
 ```python
 @classmethod
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprintLibrary.get_hierarchy"></a>
 
-#### get_hierarchy
+#### get\_hierarchy
 
 ```python
 @classmethod
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprintLibrary.get_currently_open_rig_blueprints"></a>
 
-#### get_currently_open_rig_blueprints
+#### get\_currently\_open\_rig\_blueprints
 
 ```python
 @classmethod
@@ -131,7 +131,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprintLibrary.get_available_rig_units"></a>
 
-#### get_available_rig_units
+#### get\_available\_rig\_units
 
 ```python
 @classmethod
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprintLibrary.get_available_rig_modules"></a>
 
-#### get_available_rig_modules
+#### get\_available\_rig\_modules
 
 ```python
 @classmethod
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprintLibrary.cast_to_control_rig_blueprint"></a>
 
-#### cast_to_control_rig_blueprint
+#### cast\_to\_control\_rig\_blueprint
 
 ```python
 @classmethod

@@ -13,19 +13,19 @@ Enum indicating how each type should respond
 
 <a id="unreal.CollisionResponseType.ECR_IGNORE"></a>
 
-#### ECR_IGNORE
+#### ECR\_IGNORE
 
 0
 
 <a id="unreal.CollisionResponseType.ECR_OVERLAP"></a>
 
-#### ECR_OVERLAP
+#### ECR\_OVERLAP
 
 1
 
 <a id="unreal.CollisionResponseType.ECR_BLOCK"></a>
 
-#### ECR_BLOCK
+#### ECR\_BLOCK
 
 2
 

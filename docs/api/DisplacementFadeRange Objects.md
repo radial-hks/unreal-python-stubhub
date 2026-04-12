@@ -21,7 +21,7 @@ Displacement Fade Range
 
 <a id="unreal.DisplacementFadeRange.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(start_size_pixels: float = 0.000000,
@@ -30,7 +30,7 @@ def __init__(start_size_pixels: float = 0.000000,
 
 <a id="unreal.DisplacementFadeRange.start_size_pixels"></a>
 
-#### start_size_pixels
+#### start\_size\_pixels
 
 ```python
 @property
@@ -42,7 +42,7 @@ NOTE: This should be a LARGER number than End Fade Size.
 
 <a id="unreal.DisplacementFadeRange.start_size_pixels"></a>
 
-#### start_size_pixels
+#### start\_size\_pixels
 
 ```python
 @start_size_pixels.setter
@@ -51,7 +51,7 @@ def start_size_pixels(value: float) -> None
 
 <a id="unreal.DisplacementFadeRange.end_size_pixels"></a>
 
-#### end_size_pixels
+#### end\_size\_pixels
 
 ```python
 @property
@@ -64,7 +64,7 @@ NOTE: This should be a SMALLER number than Start Fade Size.
 
 <a id="unreal.DisplacementFadeRange.end_size_pixels"></a>
 
-#### end_size_pixels
+#### end\_size\_pixels
 
 ```python
 @end_size_pixels.setter

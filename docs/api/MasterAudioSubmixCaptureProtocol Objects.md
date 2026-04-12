@@ -20,7 +20,7 @@ in real time (platform time) than in the sequence itself.
 
 <a id="unreal.MasterAudioSubmixCaptureProtocol.file_name"></a>
 
-#### file_name
+#### file\_name
 
 ```python
 @property
@@ -31,7 +31,7 @@ def file_name() -> str
 
 <a id="unreal.MasterAudioSubmixCaptureProtocol.file_name"></a>
 
-#### file_name
+#### file\_name
 
 ```python
 @file_name.setter

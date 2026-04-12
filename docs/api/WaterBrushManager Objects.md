@@ -194,7 +194,7 @@ Water Brush Manager
 
 <a id="unreal.WaterBrushManager.brush_angle_falloff_material"></a>
 
-#### brush_angle_falloff_material
+#### brush\_angle\_falloff\_material
 
 ```python
 @property
@@ -205,7 +205,7 @@ def brush_angle_falloff_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.brush_angle_falloff_material"></a>
 
-#### brush_angle_falloff_material
+#### brush\_angle\_falloff\_material
 
 ```python
 @brush_angle_falloff_material.setter
@@ -214,7 +214,7 @@ def brush_angle_falloff_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.brush_width_falloff_material"></a>
 
-#### brush_width_falloff_material
+#### brush\_width\_falloff\_material
 
 ```python
 @property
@@ -225,7 +225,7 @@ def brush_width_falloff_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.brush_width_falloff_material"></a>
 
-#### brush_width_falloff_material
+#### brush\_width\_falloff\_material
 
 ```python
 @brush_width_falloff_material.setter
@@ -234,7 +234,7 @@ def brush_width_falloff_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.distance_field_cache_material"></a>
 
-#### distance_field_cache_material
+#### distance\_field\_cache\_material
 
 ```python
 @property
@@ -245,7 +245,7 @@ def distance_field_cache_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.distance_field_cache_material"></a>
 
-#### distance_field_cache_material
+#### distance\_field\_cache\_material
 
 ```python
 @distance_field_cache_material.setter
@@ -254,7 +254,7 @@ def distance_field_cache_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.render_river_spline_depth_material"></a>
 
-#### render_river_spline_depth_material
+#### render\_river\_spline\_depth\_material
 
 ```python
 @property
@@ -265,7 +265,7 @@ def render_river_spline_depth_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.render_river_spline_depth_material"></a>
 
-#### render_river_spline_depth_material
+#### render\_river\_spline\_depth\_material
 
 ```python
 @render_river_spline_depth_material.setter
@@ -274,7 +274,7 @@ def render_river_spline_depth_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.debug_distance_field_material"></a>
 
-#### debug_distance_field_material
+#### debug\_distance\_field\_material
 
 ```python
 @property
@@ -285,7 +285,7 @@ def debug_distance_field_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.debug_distance_field_material"></a>
 
-#### debug_distance_field_material
+#### debug\_distance\_field\_material
 
 ```python
 @debug_distance_field_material.setter
@@ -294,7 +294,7 @@ def debug_distance_field_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.weightmap_material"></a>
 
-#### weightmap_material
+#### weightmap\_material
 
 ```python
 @property
@@ -305,7 +305,7 @@ def weightmap_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.weightmap_material"></a>
 
-#### weightmap_material
+#### weightmap\_material
 
 ```python
 @weightmap_material.setter
@@ -314,7 +314,7 @@ def weightmap_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.draw_canvas_material"></a>
 
-#### draw_canvas_material
+#### draw\_canvas\_material
 
 ```python
 @property
@@ -325,7 +325,7 @@ def draw_canvas_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.draw_canvas_material"></a>
 
-#### draw_canvas_material
+#### draw\_canvas\_material
 
 ```python
 @draw_canvas_material.setter
@@ -334,7 +334,7 @@ def draw_canvas_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.composite_water_body_texture_material"></a>
 
-#### composite_water_body_texture_material
+#### composite\_water\_body\_texture\_material
 
 ```python
 @property
@@ -345,7 +345,7 @@ def composite_water_body_texture_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.composite_water_body_texture_material"></a>
 
-#### composite_water_body_texture_material
+#### composite\_water\_body\_texture\_material
 
 ```python
 @composite_water_body_texture_material.setter
@@ -354,7 +354,7 @@ def composite_water_body_texture_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.island_falloff_material"></a>
 
-#### island_falloff_material
+#### island\_falloff\_material
 
 ```python
 @property
@@ -365,7 +365,7 @@ def island_falloff_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.island_falloff_material"></a>
 
-#### island_falloff_material
+#### island\_falloff\_material
 
 ```python
 @island_falloff_material.setter
@@ -374,7 +374,7 @@ def island_falloff_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.jump_step_material"></a>
 
-#### jump_step_material
+#### jump\_step\_material
 
 ```python
 @property
@@ -385,7 +385,7 @@ def jump_step_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.jump_step_material"></a>
 
-#### jump_step_material
+#### jump\_step\_material
 
 ```python
 @jump_step_material.setter
@@ -394,7 +394,7 @@ def jump_step_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.find_edges_material"></a>
 
-#### find_edges_material
+#### find\_edges\_material
 
 ```python
 @property
@@ -405,7 +405,7 @@ def find_edges_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.find_edges_material"></a>
 
-#### find_edges_material
+#### find\_edges\_material
 
 ```python
 @find_edges_material.setter
@@ -414,7 +414,7 @@ def find_edges_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.blur_edges_material"></a>
 
-#### blur_edges_material
+#### blur\_edges\_material
 
 ```python
 @property
@@ -425,7 +425,7 @@ def blur_edges_material() -> MaterialInterface
 
 <a id="unreal.WaterBrushManager.blur_edges_material"></a>
 
-#### blur_edges_material
+#### blur\_edges\_material
 
 ```python
 @blur_edges_material.setter
@@ -434,7 +434,7 @@ def blur_edges_material(value: MaterialInterface) -> None
 
 <a id="unreal.WaterBrushManager.brush_angle_falloff_mid"></a>
 
-#### brush_angle_falloff_mid
+#### brush\_angle\_falloff\_mid
 
 ```python
 @property
@@ -445,7 +445,7 @@ def brush_angle_falloff_mid() -> MaterialInstanceDynamic
 
 <a id="unreal.WaterBrushManager.brush_angle_falloff_mid"></a>
 
-#### brush_angle_falloff_mid
+#### brush\_angle\_falloff\_mid
 
 ```python
 @brush_angle_falloff_mid.setter
@@ -454,7 +454,7 @@ def brush_angle_falloff_mid(value: MaterialInstanceDynamic) -> None
 
 <a id="unreal.WaterBrushManager.brush_width_falloff_mid"></a>
 
-#### brush_width_falloff_mid
+#### brush\_width\_falloff\_mid
 
 ```python
 @property
@@ -465,7 +465,7 @@ def brush_width_falloff_mid() -> MaterialInstanceDynamic
 
 <a id="unreal.WaterBrushManager.brush_width_falloff_mid"></a>
 
-#### brush_width_falloff_mid
+#### brush\_width\_falloff\_mid
 
 ```python
 @brush_width_falloff_mid.setter
@@ -474,7 +474,7 @@ def brush_width_falloff_mid(value: MaterialInstanceDynamic) -> None
 
 <a id="unreal.WaterBrushManager.distance_field_cache_mid"></a>
 
-#### distance_field_cache_mid
+#### distance\_field\_cache\_mid
 
 ```python
 @property
@@ -485,7 +485,7 @@ def distance_field_cache_mid() -> MaterialInstanceDynamic
 
 <a id="unreal.WaterBrushManager.distance_field_cache_mid"></a>
 
-#### distance_field_cache_mid
+#### distance\_field\_cache\_mid
 
 ```python
 @distance_field_cache_mid.setter
@@ -494,7 +494,7 @@ def distance_field_cache_mid(value: MaterialInstanceDynamic) -> None
 
 <a id="unreal.WaterBrushManager.river_spline_mi_ds"></a>
 
-#### river_spline_mi_ds
+#### river\_spline\_mi\_ds
 
 ```python
 @property
@@ -505,7 +505,7 @@ def river_spline_mi_ds() -> Array[MaterialInstanceDynamic]
 
 <a id="unreal.WaterBrushManager.river_spline_mi_ds"></a>
 
-#### river_spline_mi_ds
+#### river\_spline\_mi\_ds
 
 ```python
 @river_spline_mi_ds.setter
@@ -514,7 +514,7 @@ def river_spline_mi_ds(value: Array[MaterialInstanceDynamic]) -> None
 
 <a id="unreal.WaterBrushManager.debug_distance_field_mid"></a>
 
-#### debug_distance_field_mid
+#### debug\_distance\_field\_mid
 
 ```python
 @property
@@ -525,7 +525,7 @@ def debug_distance_field_mid() -> MaterialInstanceDynamic
 
 <a id="unreal.WaterBrushManager.debug_distance_field_mid"></a>
 
-#### debug_distance_field_mid
+#### debug\_distance\_field\_mid
 
 ```python
 @debug_distance_field_mid.setter
@@ -534,7 +534,7 @@ def debug_distance_field_mid(value: MaterialInstanceDynamic) -> None
 
 <a id="unreal.WaterBrushManager.weightmap_mid"></a>
 
-#### weightmap_mid
+#### weightmap\_mid
 
 ```python
 @property
@@ -545,7 +545,7 @@ def weightmap_mid() -> MaterialInstanceDynamic
 
 <a id="unreal.WaterBrushManager.weightmap_mid"></a>
 
-#### weightmap_mid
+#### weightmap\_mid
 
 ```python
 @weightmap_mid.setter
@@ -554,7 +554,7 @@ def weightmap_mid(value: MaterialInstanceDynamic) -> None
 
 <a id="unreal.WaterBrushManager.draw_canvas_mid"></a>
 
-#### draw_canvas_mid
+#### draw\_canvas\_mid
 
 ```python
 @property
@@ -565,7 +565,7 @@ def draw_canvas_mid() -> MaterialInstanceDynamic
 
 <a id="unreal.WaterBrushManager.draw_canvas_mid"></a>
 
-#### draw_canvas_mid
+#### draw\_canvas\_mid
 
 ```python
 @draw_canvas_mid.setter
@@ -574,7 +574,7 @@ def draw_canvas_mid(value: MaterialInstanceDynamic) -> None
 
 <a id="unreal.WaterBrushManager.composite_water_body_texture_mid"></a>
 
-#### composite_water_body_texture_mid
+#### composite\_water\_body\_texture\_mid
 
 ```python
 @property
@@ -585,7 +585,7 @@ def composite_water_body_texture_mid() -> MaterialInstanceDynamic
 
 <a id="unreal.WaterBrushManager.composite_water_body_texture_mid"></a>
 
-#### composite_water_body_texture_mid
+#### composite\_water\_body\_texture\_mid
 
 ```python
 @composite_water_body_texture_mid.setter
@@ -594,7 +594,7 @@ def composite_water_body_texture_mid(value: MaterialInstanceDynamic) -> None
 
 <a id="unreal.WaterBrushManager.island_falloff_mid"></a>
 
-#### island_falloff_mid
+#### island\_falloff\_mid
 
 ```python
 @property
@@ -605,7 +605,7 @@ def island_falloff_mid() -> MaterialInstanceDynamic
 
 <a id="unreal.WaterBrushManager.island_falloff_mid"></a>
 
-#### island_falloff_mid
+#### island\_falloff\_mid
 
 ```python
 @island_falloff_mid.setter
@@ -614,7 +614,7 @@ def island_falloff_mid(value: MaterialInstanceDynamic) -> None
 
 <a id="unreal.WaterBrushManager.brush_curve_rt_cache"></a>
 
-#### brush_curve_rt_cache
+#### brush\_curve\_rt\_cache
 
 ```python
 @property
@@ -625,7 +625,7 @@ def brush_curve_rt_cache() -> Map[CurveFloat, WaterBodyBrushCache]
 
 <a id="unreal.WaterBrushManager.world_size"></a>
 
-#### world_size
+#### world\_size
 
 ```python
 @property
@@ -636,7 +636,7 @@ def world_size() -> Vector
 
 <a id="unreal.WaterBrushManager.landscape_rt_res"></a>
 
-#### landscape_rt_res
+#### landscape\_rt\_res
 
 ```python
 @property
@@ -647,7 +647,7 @@ def landscape_rt_res() -> IntPoint
 
 <a id="unreal.WaterBrushManager.landscape_quads"></a>
 
-#### landscape_quads
+#### landscape\_quads
 
 ```python
 @property
@@ -658,7 +658,7 @@ def landscape_quads() -> IntPoint
 
 <a id="unreal.WaterBrushManager.landscape_transform"></a>
 
-#### landscape_transform
+#### landscape\_transform
 
 ```python
 @property
@@ -669,7 +669,7 @@ def landscape_transform() -> Transform
 
 <a id="unreal.WaterBrushManager.show_gradient"></a>
 
-#### show_gradient
+#### show\_gradient
 
 ```python
 @property
@@ -680,7 +680,7 @@ def show_gradient() -> bool
 
 <a id="unreal.WaterBrushManager.show_gradient"></a>
 
-#### show_gradient
+#### show\_gradient
 
 ```python
 @show_gradient.setter
@@ -689,7 +689,7 @@ def show_gradient(value: bool) -> None
 
 <a id="unreal.WaterBrushManager.distance_divisor"></a>
 
-#### distance_divisor
+#### distance\_divisor
 
 ```python
 @property
@@ -700,7 +700,7 @@ def distance_divisor() -> float
 
 <a id="unreal.WaterBrushManager.distance_divisor"></a>
 
-#### distance_divisor
+#### distance\_divisor
 
 ```python
 @distance_divisor.setter
@@ -709,7 +709,7 @@ def distance_divisor(value: float) -> None
 
 <a id="unreal.WaterBrushManager.show_distance"></a>
 
-#### show_distance
+#### show\_distance
 
 ```python
 @property
@@ -720,7 +720,7 @@ def show_distance() -> bool
 
 <a id="unreal.WaterBrushManager.show_distance"></a>
 
-#### show_distance
+#### show\_distance
 
 ```python
 @show_distance.setter
@@ -729,7 +729,7 @@ def show_distance(value: bool) -> None
 
 <a id="unreal.WaterBrushManager.show_grid"></a>
 
-#### show_grid
+#### show\_grid
 
 ```python
 @property
@@ -740,7 +740,7 @@ def show_grid() -> bool
 
 <a id="unreal.WaterBrushManager.show_grid"></a>
 
-#### show_grid
+#### show\_grid
 
 ```python
 @show_grid.setter
@@ -749,7 +749,7 @@ def show_grid(value: bool) -> None
 
 <a id="unreal.WaterBrushManager.canvas_segment_size"></a>
 
-#### canvas_segment_size
+#### canvas\_segment\_size
 
 ```python
 @property
@@ -760,7 +760,7 @@ def canvas_segment_size() -> float
 
 <a id="unreal.WaterBrushManager.canvas_segment_size"></a>
 
-#### canvas_segment_size
+#### canvas\_segment\_size
 
 ```python
 @canvas_segment_size.setter
@@ -769,7 +769,7 @@ def canvas_segment_size(value: float) -> None
 
 <a id="unreal.WaterBrushManager.water_clear_height"></a>
 
-#### water_clear_height
+#### water\_clear\_height
 
 ```python
 @property
@@ -780,7 +780,7 @@ def water_clear_height() -> float
 
 <a id="unreal.WaterBrushManager.water_clear_height"></a>
 
-#### water_clear_height
+#### water\_clear\_height
 
 ```python
 @water_clear_height.setter
@@ -789,7 +789,7 @@ def water_clear_height(value: float) -> None
 
 <a id="unreal.WaterBrushManager.spline_mesh_extension"></a>
 
-#### spline_mesh_extension
+#### spline\_mesh\_extension
 
 ```python
 @property
@@ -800,7 +800,7 @@ def spline_mesh_extension() -> float
 
 <a id="unreal.WaterBrushManager.spline_mesh_extension"></a>
 
-#### spline_mesh_extension
+#### spline\_mesh\_extension
 
 ```python
 @spline_mesh_extension.setter
@@ -809,7 +809,7 @@ def spline_mesh_extension(value: float) -> None
 
 <a id="unreal.WaterBrushManager.use_dynamic_preview_rt"></a>
 
-#### use_dynamic_preview_rt
+#### use\_dynamic\_preview\_rt
 
 ```python
 @property
@@ -820,7 +820,7 @@ def use_dynamic_preview_rt() -> bool
 
 <a id="unreal.WaterBrushManager.use_dynamic_preview_rt"></a>
 
-#### use_dynamic_preview_rt
+#### use\_dynamic\_preview\_rt
 
 ```python
 @use_dynamic_preview_rt.setter
@@ -829,7 +829,7 @@ def use_dynamic_preview_rt(value: bool) -> None
 
 <a id="unreal.WaterBrushManager.disable_brush_texture_effects"></a>
 
-#### disable_brush_texture_effects
+#### disable\_brush\_texture\_effects
 
 ```python
 @property
@@ -840,7 +840,7 @@ def disable_brush_texture_effects() -> bool
 
 <a id="unreal.WaterBrushManager.disable_brush_texture_effects"></a>
 
-#### disable_brush_texture_effects
+#### disable\_brush\_texture\_effects
 
 ```python
 @disable_brush_texture_effects.setter
@@ -849,7 +849,7 @@ def disable_brush_texture_effects(value: bool) -> None
 
 <a id="unreal.WaterBrushManager.sort_water_bodies_for_brush_render"></a>
 
-#### sort_water_bodies_for_brush_render
+#### sort\_water\_bodies\_for\_brush\_render
 
 ```python
 def sort_water_bodies_for_brush_render() -> Array[WaterBody]
@@ -865,7 +865,7 @@ Returns:
 
 <a id="unreal.WaterBrushManager.single_jump_step"></a>
 
-#### single_jump_step
+#### single\_jump\_step
 
 ```python
 def single_jump_step() -> None
@@ -876,7 +876,7 @@ Single Jump Step
 
 <a id="unreal.WaterBrushManager.single_blur_step"></a>
 
-#### single_blur_step
+#### single\_blur\_step
 
 ```python
 def single_blur_step() -> None
@@ -887,7 +887,7 @@ Single Blur Step
 
 <a id="unreal.WaterBrushManager.setup_default_materials"></a>
 
-#### setup_default_materials
+#### setup\_default\_materials
 
 ```python
 def setup_default_materials() -> None
@@ -898,7 +898,7 @@ Setup Default Materials
 
 <a id="unreal.WaterBrushManager.get_water_cache_key"></a>
 
-#### get_water_cache_key
+#### get\_water\_cache\_key
 
 ```python
 def get_water_cache_key(
@@ -921,7 +921,7 @@ Returns:
 
 <a id="unreal.WaterBrushManager.force_update"></a>
 
-#### force_update
+#### force\_update
 
 ```python
 def force_update() -> None
@@ -932,7 +932,7 @@ Debug Buttons
 
 <a id="unreal.WaterBrushManager.find_edges"></a>
 
-#### find_edges
+#### find\_edges
 
 ```python
 def find_edges() -> None

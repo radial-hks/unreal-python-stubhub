@@ -28,7 +28,7 @@ Movie CameraCuts are sections on the CameraCuts track, that show what the viewer
 
 <a id="unreal.MovieSceneCameraCutSection.set_camera_binding_id"></a>
 
-#### set_camera_binding_id
+#### set\_camera\_binding\_id
 
 ```python
 def set_camera_binding_id(
@@ -43,7 +43,7 @@ Args:
 
 <a id="unreal.MovieSceneCameraCutSection.get_camera_binding_id"></a>
 
-#### get_camera_binding_id
+#### get\_camera\_binding\_id
 
 ```python
 def get_camera_binding_id() -> MovieSceneObjectBindingID

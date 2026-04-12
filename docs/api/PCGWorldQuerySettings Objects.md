@@ -34,7 +34,7 @@ PCGWorld Query Settings
 
 <a id="unreal.PCGWorldQuerySettings.query_params"></a>
 
-#### query_params
+#### query\_params
 
 ```python
 @property
@@ -45,7 +45,7 @@ def query_params() -> PCGWorldVolumetricQueryParams
 
 <a id="unreal.PCGWorldQuerySettings.query_params"></a>
 
-#### query_params
+#### query\_params
 
 ```python
 @query_params.setter

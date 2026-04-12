@@ -14,7 +14,7 @@ On Take Recorder Stopped  Delegate Signature
 
 <a id="unreal.OnTakeRecorderStopped.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

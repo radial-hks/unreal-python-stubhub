@@ -24,7 +24,7 @@ Chaos Crumbling Event
 
 <a id="unreal.ChaosCrumblingEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component: PrimitiveComponent = None,
@@ -73,7 +73,7 @@ def orientation() -> Quat
 
 <a id="unreal.ChaosCrumblingEvent.linear_velocity"></a>
 
-#### linear_velocity
+#### linear\_velocity
 
 ```python
 @property
@@ -84,7 +84,7 @@ def linear_velocity() -> Vector
 
 <a id="unreal.ChaosCrumblingEvent.angular_velocity"></a>
 
-#### angular_velocity
+#### angular\_velocity
 
 ```python
 @property
@@ -106,7 +106,7 @@ def mass() -> float
 
 <a id="unreal.ChaosCrumblingEvent.local_bounds"></a>
 
-#### local_bounds
+#### local\_bounds
 
 ```python
 @property

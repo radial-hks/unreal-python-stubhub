@@ -18,7 +18,7 @@ Structure representing a capture resolution
 
 <a id="unreal.CaptureResolution.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(res_x: int = 0, res_y: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(res_x: int = 0, res_y: int = 0) -> None
 
 <a id="unreal.CaptureResolution.res_x"></a>
 
-#### res_x
+#### res\_x
 
 ```python
 @property
@@ -37,7 +37,7 @@ def res_x() -> int
 
 <a id="unreal.CaptureResolution.res_x"></a>
 
-#### res_x
+#### res\_x
 
 ```python
 @res_x.setter
@@ -46,7 +46,7 @@ def res_x(value: int) -> None
 
 <a id="unreal.CaptureResolution.res_y"></a>
 
-#### res_y
+#### res\_y
 
 ```python
 @property
@@ -57,7 +57,7 @@ def res_y() -> int
 
 <a id="unreal.CaptureResolution.res_y"></a>
 
-#### res_y
+#### res\_y
 
 ```python
 @res_y.setter

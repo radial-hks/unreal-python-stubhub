@@ -19,7 +19,7 @@ Geometry Script Mesh Read LOD
 
 <a id="unreal.GeometryScriptMeshReadLOD.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -29,7 +29,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptMeshReadLOD.lod_type"></a>
 
-#### lod_type
+#### lod\_type
 
 ```python
 @property
@@ -40,7 +40,7 @@ def lod_type() -> GeometryScriptLODType
 
 <a id="unreal.GeometryScriptMeshReadLOD.lod_type"></a>
 
-#### lod_type
+#### lod\_type
 
 ```python
 @lod_type.setter
@@ -49,7 +49,7 @@ def lod_type(value: GeometryScriptLODType) -> None
 
 <a id="unreal.GeometryScriptMeshReadLOD.lod_index"></a>
 
-#### lod_index
+#### lod\_index
 
 ```python
 @property
@@ -60,7 +60,7 @@ def lod_index() -> int
 
 <a id="unreal.GeometryScriptMeshReadLOD.lod_index"></a>
 
-#### lod_index
+#### lod\_index
 
 ```python
 @lod_index.setter

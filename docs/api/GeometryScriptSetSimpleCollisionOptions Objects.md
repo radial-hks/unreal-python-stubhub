@@ -18,7 +18,7 @@ Geometry Script Set Simple Collision Options
 
 <a id="unreal.GeometryScriptSetSimpleCollisionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(emit_transaction: bool = False) -> None
@@ -26,7 +26,7 @@ def __init__(emit_transaction: bool = False) -> None
 
 <a id="unreal.GeometryScriptSetSimpleCollisionOptions.emit_transaction"></a>
 
-#### emit_transaction
+#### emit\_transaction
 
 ```python
 @property
@@ -37,7 +37,7 @@ def emit_transaction() -> bool
 
 <a id="unreal.GeometryScriptSetSimpleCollisionOptions.emit_transaction"></a>
 
-#### emit_transaction
+#### emit\_transaction
 
 ```python
 @emit_transaction.setter

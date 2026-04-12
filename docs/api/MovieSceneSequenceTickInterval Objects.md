@@ -20,7 +20,7 @@ Structure defining a concrete tick interval for a Sequencer based evaluation
 
 <a id="unreal.MovieSceneSequenceTickInterval.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tick_interval_seconds: float = 0.000000,
@@ -31,7 +31,7 @@ def __init__(tick_interval_seconds: float = 0.000000,
 
 <a id="unreal.MovieSceneSequenceTickInterval.tick_interval_seconds"></a>
 
-#### tick_interval_seconds
+#### tick\_interval\_seconds
 
 ```python
 @property
@@ -42,7 +42,7 @@ def tick_interval_seconds() -> float
 
 <a id="unreal.MovieSceneSequenceTickInterval.tick_interval_seconds"></a>
 
-#### tick_interval_seconds
+#### tick\_interval\_seconds
 
 ```python
 @tick_interval_seconds.setter
@@ -51,7 +51,7 @@ def tick_interval_seconds(value: float) -> None
 
 <a id="unreal.MovieSceneSequenceTickInterval.evaluation_budget_microseconds"></a>
 
-#### evaluation_budget_microseconds
+#### evaluation\_budget\_microseconds
 
 ```python
 @property
@@ -62,7 +62,7 @@ def evaluation_budget_microseconds() -> float
 
 <a id="unreal.MovieSceneSequenceTickInterval.evaluation_budget_microseconds"></a>
 
-#### evaluation_budget_microseconds
+#### evaluation\_budget\_microseconds
 
 ```python
 @evaluation_budget_microseconds.setter
@@ -71,7 +71,7 @@ def evaluation_budget_microseconds(value: float) -> None
 
 <a id="unreal.MovieSceneSequenceTickInterval.tick_when_paused"></a>
 
-#### tick_when_paused
+#### tick\_when\_paused
 
 ```python
 @property
@@ -82,7 +82,7 @@ def tick_when_paused() -> bool
 
 <a id="unreal.MovieSceneSequenceTickInterval.tick_when_paused"></a>
 
-#### tick_when_paused
+#### tick\_when\_paused
 
 ```python
 @tick_when_paused.setter
@@ -91,7 +91,7 @@ def tick_when_paused(value: bool) -> None
 
 <a id="unreal.MovieSceneSequenceTickInterval.allow_rounding"></a>
 
-#### allow_rounding
+#### allow\_rounding
 
 ```python
 @property
@@ -102,7 +102,7 @@ def allow_rounding() -> bool
 
 <a id="unreal.MovieSceneSequenceTickInterval.allow_rounding"></a>
 
-#### allow_rounding
+#### allow\_rounding
 
 ```python
 @allow_rounding.setter

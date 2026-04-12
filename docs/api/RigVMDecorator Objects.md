@@ -8,7 +8,7 @@ deprecated: 'RigVMDecorator' was renamed to 'RigVMTrait'.
 
 <a id="unreal.RigVMDecorator.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

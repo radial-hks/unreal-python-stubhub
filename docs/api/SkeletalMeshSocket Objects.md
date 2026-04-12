@@ -26,7 +26,7 @@ Skeletal Mesh Socket
 
 <a id="unreal.SkeletalMeshSocket.socket_name"></a>
 
-#### socket_name
+#### socket\_name
 
 ```python
 @property
@@ -40,7 +40,7 @@ The Outer of a SkeletalMeshSocket should always be the USkeletalMesh.
 
 <a id="unreal.SkeletalMeshSocket.bone_name"></a>
 
-#### bone_name
+#### bone\_name
 
 ```python
 @property
@@ -51,7 +51,7 @@ def bone_name() -> Name
 
 <a id="unreal.SkeletalMeshSocket.relative_location"></a>
 
-#### relative_location
+#### relative\_location
 
 ```python
 @property
@@ -62,7 +62,7 @@ def relative_location() -> Vector
 
 <a id="unreal.SkeletalMeshSocket.relative_rotation"></a>
 
-#### relative_rotation
+#### relative\_rotation
 
 ```python
 @property
@@ -73,7 +73,7 @@ def relative_rotation() -> Rotator
 
 <a id="unreal.SkeletalMeshSocket.relative_scale"></a>
 
-#### relative_scale
+#### relative\_scale
 
 ```python
 @property
@@ -84,7 +84,7 @@ def relative_scale() -> Vector
 
 <a id="unreal.SkeletalMeshSocket.force_always_animated"></a>
 
-#### force_always_animated
+#### force\_always\_animated
 
 ```python
 @property
@@ -96,7 +96,7 @@ def force_always_animated() -> bool
 
 <a id="unreal.SkeletalMeshSocket.initialize_socket_from_location"></a>
 
-#### initialize_socket_from_location
+#### initialize\_socket\_from\_location
 
 ```python
 def initialize_socket_from_location(skel_comp: SkeletalMeshComponent,
@@ -114,7 +114,7 @@ Args:
 
 <a id="unreal.SkeletalMeshSocket.get_socket_location"></a>
 
-#### get_socket_location
+#### get\_socket\_location
 
 ```python
 def get_socket_location(skel_comp: SkeletalMeshComponent) -> Vector

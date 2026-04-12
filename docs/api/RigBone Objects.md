@@ -24,7 +24,7 @@ Rig Bone
 
 <a id="unreal.RigBone.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -44,7 +44,7 @@ def __init__(name: Name = "None",
 
 <a id="unreal.RigBone.parent_name"></a>
 
-#### parent_name
+#### parent\_name
 
 ```python
 @property
@@ -55,7 +55,7 @@ def parent_name() -> Name
 
 <a id="unreal.RigBone.initial_transform"></a>
 
-#### initial_transform
+#### initial\_transform
 
 ```python
 @property
@@ -66,7 +66,7 @@ def initial_transform() -> Transform
 
 <a id="unreal.RigBone.global_transform"></a>
 
-#### global_transform
+#### global\_transform
 
 ```python
 @property
@@ -77,7 +77,7 @@ def global_transform() -> Transform
 
 <a id="unreal.RigBone.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @property

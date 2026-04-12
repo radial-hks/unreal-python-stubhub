@@ -23,7 +23,7 @@ Geometry Collection Source
 
 <a id="unreal.GeometryCollectionSource.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(source_geometry_object: SoftObjectPath = [""],
@@ -39,7 +39,7 @@ def __init__(source_geometry_object: SoftObjectPath = [""],
 
 <a id="unreal.GeometryCollectionSource.source_geometry_object"></a>
 
-#### source_geometry_object
+#### source\_geometry\_object
 
 ```python
 @property
@@ -50,7 +50,7 @@ def source_geometry_object() -> SoftObjectPath
 
 <a id="unreal.GeometryCollectionSource.source_geometry_object"></a>
 
-#### source_geometry_object
+#### source\_geometry\_object
 
 ```python
 @source_geometry_object.setter
@@ -59,7 +59,7 @@ def source_geometry_object(value: SoftObjectPath) -> None
 
 <a id="unreal.GeometryCollectionSource.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @property
@@ -70,7 +70,7 @@ def local_transform() -> Transform
 
 <a id="unreal.GeometryCollectionSource.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @local_transform.setter
@@ -79,7 +79,7 @@ def local_transform(value: Transform) -> None
 
 <a id="unreal.GeometryCollectionSource.source_material"></a>
 
-#### source_material
+#### source\_material
 
 ```python
 @property
@@ -90,7 +90,7 @@ def source_material() -> Array[MaterialInterface]
 
 <a id="unreal.GeometryCollectionSource.source_material"></a>
 
-#### source_material
+#### source\_material
 
 ```python
 @source_material.setter
@@ -99,7 +99,7 @@ def source_material(value: Array[MaterialInterface]) -> None
 
 <a id="unreal.GeometryCollectionSource.instance_custom_data"></a>
 
-#### instance_custom_data
+#### instance\_custom\_data
 
 ```python
 @property
@@ -110,7 +110,7 @@ def instance_custom_data() -> Array[float]
 
 <a id="unreal.GeometryCollectionSource.instance_custom_data"></a>
 
-#### instance_custom_data
+#### instance\_custom\_data
 
 ```python
 @instance_custom_data.setter
@@ -119,7 +119,7 @@ def instance_custom_data(value: Array[float]) -> None
 
 <a id="unreal.GeometryCollectionSource.add_internal_materials"></a>
 
-#### add_internal_materials
+#### add\_internal\_materials
 
 ```python
 @property
@@ -130,7 +130,7 @@ def add_internal_materials() -> bool
 
 <a id="unreal.GeometryCollectionSource.add_internal_materials"></a>
 
-#### add_internal_materials
+#### add\_internal\_materials
 
 ```python
 @add_internal_materials.setter
@@ -139,7 +139,7 @@ def add_internal_materials(value: bool) -> None
 
 <a id="unreal.GeometryCollectionSource.split_components"></a>
 
-#### split_components
+#### split\_components
 
 ```python
 @property
@@ -150,7 +150,7 @@ def split_components() -> bool
 
 <a id="unreal.GeometryCollectionSource.split_components"></a>
 
-#### split_components
+#### split\_components
 
 ```python
 @split_components.setter
@@ -159,7 +159,7 @@ def split_components(value: bool) -> None
 
 <a id="unreal.GeometryCollectionSource.set_internal_from_material_index"></a>
 
-#### set_internal_from_material_index
+#### set\_internal\_from\_material\_index
 
 ```python
 @property
@@ -170,7 +170,7 @@ def set_internal_from_material_index() -> bool
 
 <a id="unreal.GeometryCollectionSource.set_internal_from_material_index"></a>
 
-#### set_internal_from_material_index
+#### set\_internal\_from\_material\_index
 
 ```python
 @set_internal_from_material_index.setter

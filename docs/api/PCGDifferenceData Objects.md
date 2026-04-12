@@ -24,7 +24,7 @@ PCGDifference Data
 
 <a id="unreal.PCGDifferenceData.diff_metadata"></a>
 
-#### diff_metadata
+#### diff\_metadata
 
 ```python
 @property
@@ -57,7 +57,7 @@ def difference() -> PCGSpatialData
 
 <a id="unreal.PCGDifferenceData.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -68,7 +68,7 @@ def density_function() -> PCGDifferenceDensityFunction
 
 <a id="unreal.PCGDifferenceData.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter
@@ -77,7 +77,7 @@ def density_function(value: PCGDifferenceDensityFunction) -> None
 
 <a id="unreal.PCGDifferenceData.set_density_function"></a>
 
-#### set_density_function
+#### set\_density\_function
 
 ```python
 def set_density_function(
@@ -92,7 +92,7 @@ Args:
 
 <a id="unreal.PCGDifferenceData.k2_add_difference"></a>
 
-#### k2_add_difference
+#### k2\_add\_difference
 
 ```python
 def k2_add_difference(difference: PCGSpatialData) -> None
@@ -106,7 +106,7 @@ Args:
 
 <a id="unreal.PCGDifferenceData.add_difference"></a>
 
-#### add_difference
+#### add\_difference
 
 ```python
 def add_difference(difference: PCGSpatialData) -> None

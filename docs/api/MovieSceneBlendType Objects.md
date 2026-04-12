@@ -31,7 +31,7 @@ Movie scene blend type enumeration
 
 <a id="unreal.MovieSceneBlendType.ADDITIVE_FROM_BASE"></a>
 
-#### ADDITIVE_FROM_BASE
+#### ADDITIVE\_FROM\_BASE
 
 8: Applies this value as an additive equal to the difference between the current value and the first value
 

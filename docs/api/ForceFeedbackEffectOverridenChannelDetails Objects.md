@@ -17,7 +17,7 @@ A wrapper struct for setting channel details on a per-platform basis
 
 <a id="unreal.ForceFeedbackEffectOverridenChannelDetails.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

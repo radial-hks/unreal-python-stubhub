@@ -8,7 +8,7 @@ Type for all Unreal exposed text instances
 
 <a id="unreal.Text.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: Union[Text, str] = "") -> None
@@ -27,7 +27,7 @@ cast(cls, object: object) -> Text -- cast the given object to this Unreal text t
 
 <a id="unreal.Text.as_number"></a>
 
-#### as_number
+#### as\_number
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ as_number(cls, num: float) -> Text -- convert the given number to a culture corr
 
 <a id="unreal.Text.as_percent"></a>
 
-#### as_percent
+#### as\_percent
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ as_percent(cls, num: float) -> Text -- convert the given number to a culture cor
 
 <a id="unreal.Text.as_currency"></a>
 
-#### as_currency
+#### as\_currency
 
 ```python
 @classmethod
@@ -60,7 +60,7 @@ as_currency(cls, val: int, code: str) -> Text -- convert the given number (speci
 
 <a id="unreal.Text.is_empty"></a>
 
-#### is_empty
+#### is\_empty
 
 ```python
 def is_empty() -> bool
@@ -70,7 +70,7 @@ is_empty(self) -> bool -- is this Unreal text empty?
 
 <a id="unreal.Text.is_empty_or_whitespace"></a>
 
-#### is_empty_or_whitespace
+#### is\_empty\_or\_whitespace
 
 ```python
 def is_empty_or_whitespace() -> bool
@@ -80,7 +80,7 @@ is_empty_or_whitespace(self) -> bool -- is this Unreal text empty or only whites
 
 <a id="unreal.Text.is_transient"></a>
 
-#### is_transient
+#### is\_transient
 
 ```python
 def is_transient() -> bool
@@ -90,7 +90,7 @@ is_transient(self) -> bool -- is this Unreal text transient?
 
 <a id="unreal.Text.is_culture_invariant"></a>
 
-#### is_culture_invariant
+#### is\_culture\_invariant
 
 ```python
 def is_culture_invariant() -> bool
@@ -100,7 +100,7 @@ is_culture_invariant(self) -> bool -- is this Unreal text culture invariant?
 
 <a id="unreal.Text.is_from_string_table"></a>
 
-#### is_from_string_table
+#### is\_from\_string\_table
 
 ```python
 def is_from_string_table() -> bool
@@ -110,7 +110,7 @@ is_from_string_table(self) -> bool -- is this Unreal text referencing a string t
 
 <a id="unreal.Text.to_lower"></a>
 
-#### to_lower
+#### to\_lower
 
 ```python
 def to_lower() -> Text
@@ -120,7 +120,7 @@ to_lower(self) -> Text -- convert this Unreal text to lowercase in a culture cor
 
 <a id="unreal.Text.to_upper"></a>
 
-#### to_upper
+#### to\_upper
 
 ```python
 def to_upper() -> Text

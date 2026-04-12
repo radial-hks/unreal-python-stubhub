@@ -20,7 +20,7 @@ StateTree event with payload.
 
 <a id="unreal.StateTreeEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tag: GameplayTag = ["None"],

@@ -34,7 +34,7 @@ Routes input data to one of two outputs, based on a boolean condition.
 
 <a id="unreal.PCGBranchSettings.output_to_b"></a>
 
-#### output_to_b
+#### output\_to\_b
 
 ```python
 @property
@@ -45,7 +45,7 @@ def output_to_b() -> bool
 
 <a id="unreal.PCGBranchSettings.output_to_b"></a>
 
-#### output_to_b
+#### output\_to\_b
 
 ```python
 @output_to_b.setter

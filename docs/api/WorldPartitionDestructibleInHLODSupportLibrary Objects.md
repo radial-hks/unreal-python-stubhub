@@ -13,7 +13,7 @@ World Partition Destructible in HLODSupport Library
 
 <a id="unreal.WorldPartitionDestructibleInHLODSupportLibrary.destroy_in_hlod"></a>
 
-#### destroy_in_hlod
+#### destroy\_in\_hlod
 
 ```python
 @classmethod
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.WorldPartitionDestructibleInHLODSupportLibrary.damage_in_hlod"></a>
 
-#### damage_in_hlod
+#### damage\_in\_hlod
 
 ```python
 @classmethod

@@ -19,7 +19,7 @@ interfaces, as well as providing some utilities for batching operations.
 
 <a id="unreal.TypedElementSelectionSet.on_pre_selection_change"></a>
 
-#### on_pre_selection_change
+#### on\_pre\_selection\_change
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_pre_selection_change() -> OnPreChangeDynamic
 
 <a id="unreal.TypedElementSelectionSet.on_pre_selection_change"></a>
 
-#### on_pre_selection_change
+#### on\_pre\_selection\_change
 
 ```python
 @on_pre_selection_change.setter
@@ -39,7 +39,7 @@ def on_pre_selection_change(value: OnPreChangeDynamic) -> None
 
 <a id="unreal.TypedElementSelectionSet.on_selection_change"></a>
 
-#### on_selection_change
+#### on\_selection\_change
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_selection_change() -> OnChangeDynamic
 
 <a id="unreal.TypedElementSelectionSet.on_selection_change"></a>
 
-#### on_selection_change
+#### on\_selection\_change
 
 ```python
 @on_selection_change.setter
@@ -59,7 +59,7 @@ def on_selection_change(value: OnChangeDynamic) -> None
 
 <a id="unreal.TypedElementSelectionSet.set_selection"></a>
 
-#### set_selection
+#### set\_selection
 
 ```python
 def set_selection(element_handles: Array[ScriptTypedElementHandle],
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.select_elements"></a>
 
-#### select_elements
+#### select\_elements
 
 ```python
 def select_elements(element_handles: Array[ScriptTypedElementHandle],
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.select_element"></a>
 
-#### select_element
+#### select\_element
 
 ```python
 def select_element(element_handle: ScriptTypedElementHandle,
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.restore_selection_state"></a>
 
-#### restore_selection_state
+#### restore\_selection\_state
 
 ```python
 def restore_selection_state(
@@ -133,7 +133,7 @@ Args:
 
 <a id="unreal.TypedElementSelectionSet.get_selected_element_handles"></a>
 
-#### get_selected_element_handles
+#### get\_selected\_element\_handles
 
 ```python
 def get_selected_element_handles(
@@ -151,7 +151,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.is_element_selected"></a>
 
-#### is_element_selected
+#### is\_element\_selected
 
 ```python
 def is_element_selected(
@@ -171,7 +171,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.has_selected_objects"></a>
 
-#### has_selected_objects
+#### has\_selected\_objects
 
 ```python
 def has_selected_objects(required_class: Class = None) -> bool
@@ -188,7 +188,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.has_selected_elements"></a>
 
-#### has_selected_elements
+#### has\_selected\_elements
 
 ```python
 def has_selected_elements(base_interface_type: Class = None) -> bool
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.get_top_selected_object"></a>
 
-#### get_top_selected_object
+#### get\_top\_selected\_object
 
 ```python
 def get_top_selected_object(required_class: Class = None) -> Object
@@ -222,7 +222,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.get_selection_element"></a>
 
-#### get_selection_element
+#### get\_selection\_element
 
 ```python
 def get_selection_element(
@@ -243,7 +243,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.get_selected_objects"></a>
 
-#### get_selected_objects
+#### get\_selected\_objects
 
 ```python
 def get_selected_objects(required_class: Class = None) -> Array[Object]
@@ -260,7 +260,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.get_num_selected_elements"></a>
 
-#### get_num_selected_elements
+#### get\_num\_selected\_elements
 
 ```python
 def get_num_selected_elements() -> int
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.get_current_selection_state"></a>
 
-#### get_current_selection_state
+#### get\_current\_selection\_state
 
 ```python
 def get_current_selection_state() -> TypedElementSelectionSetState
@@ -289,7 +289,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.get_bottom_selected_object"></a>
 
-#### get_bottom_selected_object
+#### get\_bottom\_selected\_object
 
 ```python
 def get_bottom_selected_object(required_class: Class = None) -> Object
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.deselect_elements"></a>
 
-#### deselect_elements
+#### deselect\_elements
 
 ```python
 def deselect_elements(element_handles: Array[ScriptTypedElementHandle],
@@ -325,7 +325,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.deselect_element"></a>
 
-#### deselect_element
+#### deselect\_element
 
 ```python
 def deselect_element(element_handle: ScriptTypedElementHandle,
@@ -344,7 +344,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.count_selected_objects"></a>
 
-#### count_selected_objects
+#### count\_selected\_objects
 
 ```python
 def count_selected_objects(required_class: Class = None) -> int
@@ -361,7 +361,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.count_selected_elements"></a>
 
-#### count_selected_elements
+#### count\_selected\_elements
 
 ```python
 def count_selected_elements(base_interface_type: Class = None) -> int
@@ -378,7 +378,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.clear_selection"></a>
 
-#### clear_selection
+#### clear\_selection
 
 ```python
 def clear_selection(selection_options: TypedElementSelectionOptions) -> bool
@@ -395,7 +395,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.can_select_element"></a>
 
-#### can_select_element
+#### can\_select\_element
 
 ```python
 def can_select_element(
@@ -415,7 +415,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.can_deselect_element"></a>
 
-#### can_deselect_element
+#### can\_deselect\_element
 
 ```python
 def can_deselect_element(
@@ -435,7 +435,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.allow_selection_modifiers"></a>
 
-#### allow_selection_modifiers
+#### allow\_selection\_modifiers
 
 ```python
 def allow_selection_modifiers(
@@ -453,7 +453,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.set_selection_from_list"></a>
 
-#### set_selection_from_list
+#### set\_selection\_from\_list
 
 ```python
 def set_selection_from_list(
@@ -474,7 +474,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.select_elements_from_list"></a>
 
-#### select_elements_from_list
+#### select\_elements\_from\_list
 
 ```python
 def select_elements_from_list(
@@ -494,7 +494,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.get_normalized_selection"></a>
 
-#### get_normalized_selection
+#### get\_normalized\_selection
 
 ```python
 def get_normalized_selection(
@@ -514,7 +514,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.get_normalized_element_list"></a>
 
-#### get_normalized_element_list
+#### get\_normalized\_element\_list
 
 ```python
 def get_normalized_element_list(
@@ -536,7 +536,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSet.deselect_elements_from_list"></a>
 
-#### deselect_elements_from_list
+#### deselect\_elements\_from\_list
 
 ```python
 def deselect_elements_from_list(

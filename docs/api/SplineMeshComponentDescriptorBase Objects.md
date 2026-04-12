@@ -62,7 +62,7 @@ Spline Mesh Component Descriptor Base
 
 <a id="unreal.SplineMeshComponentDescriptorBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

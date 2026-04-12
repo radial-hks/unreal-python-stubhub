@@ -77,7 +77,7 @@ Texture Render Target
 
 <a id="unreal.TextureRenderTarget.target_gamma"></a>
 
-#### target_gamma
+#### target\_gamma
 
 ```python
 @property
@@ -88,7 +88,7 @@ def target_gamma() -> float
 
 <a id="unreal.TextureRenderTarget.target_gamma"></a>
 
-#### target_gamma
+#### target\_gamma
 
 ```python
 @target_gamma.setter

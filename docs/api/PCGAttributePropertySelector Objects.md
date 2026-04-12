@@ -21,7 +21,7 @@ Source": default value (meaning, same thing as input).
 
 <a id="unreal.PCGAttributePropertySelector.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -29,7 +29,7 @@ def __init__() -> None
 
 <a id="unreal.PCGAttributePropertySelector.set_point_property"></a>
 
-#### set_point_property
+#### set\_point\_property
 
 ```python
 def set_point_property(point_property: PCGPointProperties) -> bool
@@ -46,7 +46,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelector.set_extra_property"></a>
 
-#### set_extra_property
+#### set\_extra\_property
 
 ```python
 def set_extra_property(extra_property: PCGExtraProperties) -> bool
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelector.set_attribute_name"></a>
 
-#### set_attribute_name
+#### set\_attribute\_name
 
 ```python
 def set_attribute_name(attribute_name: Name) -> bool
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelector.get_selection"></a>
 
-#### get_selection
+#### get\_selection
 
 ```python
 def get_selection() -> PCGAttributePropertySelection
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelector.get_point_property"></a>
 
-#### get_point_property
+#### get\_point\_property
 
 ```python
 def get_point_property() -> PCGPointProperties
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelector.get_name"></a>
 
-#### get_name
+#### get\_name
 
 ```python
 def get_name() -> Name
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelector.get_extra_property"></a>
 
-#### get_extra_property
+#### get\_extra\_property
 
 ```python
 def get_extra_property() -> PCGExtraProperties
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelector.get_extra_names"></a>
 
-#### get_extra_names
+#### get\_extra\_names
 
 ```python
 def get_extra_names() -> Array[str]
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelector.get_attribute_name"></a>
 
-#### get_attribute_name
+#### get\_attribute\_name
 
 ```python
 def get_attribute_name() -> Name

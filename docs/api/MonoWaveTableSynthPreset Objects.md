@@ -23,7 +23,7 @@ UStruct Mono Wave Table Synth Preset
 
 <a id="unreal.MonoWaveTableSynthPreset.preset_name"></a>
 
-#### preset_name
+#### preset\_name
 
 ```python
 @property
@@ -34,7 +34,7 @@ def preset_name() -> str
 
 <a id="unreal.MonoWaveTableSynthPreset.preset_name"></a>
 
-#### preset_name
+#### preset\_name
 
 ```python
 @preset_name.setter
@@ -43,7 +43,7 @@ def preset_name(value: str) -> None
 
 <a id="unreal.MonoWaveTableSynthPreset.lock_keyframes_to_grid_bool"></a>
 
-#### lock_keyframes_to_grid_bool
+#### lock\_keyframes\_to\_grid\_bool
 
 ```python
 @property
@@ -54,7 +54,7 @@ def lock_keyframes_to_grid_bool() -> bool
 
 <a id="unreal.MonoWaveTableSynthPreset.lock_keyframes_to_grid"></a>
 
-#### lock_keyframes_to_grid
+#### lock\_keyframes\_to\_grid
 
 ```python
 @property
@@ -65,7 +65,7 @@ def lock_keyframes_to_grid() -> int
 
 <a id="unreal.MonoWaveTableSynthPreset.wave_table_resolution"></a>
 
-#### wave_table_resolution
+#### wave\_table\_resolution
 
 ```python
 @property
@@ -76,7 +76,7 @@ def wave_table_resolution() -> int
 
 <a id="unreal.MonoWaveTableSynthPreset.wave_table"></a>
 
-#### wave_table
+#### wave\_table
 
 ```python
 @property
@@ -87,7 +87,7 @@ def wave_table() -> Array[RuntimeFloatCurve]
 
 <a id="unreal.MonoWaveTableSynthPreset.normalize_wave_tables"></a>
 
-#### normalize_wave_tables
+#### normalize\_wave\_tables
 
 ```python
 @property
@@ -98,7 +98,7 @@ def normalize_wave_tables() -> bool
 
 <a id="unreal.MonoWaveTableSynthPreset.normalize_wave_tables"></a>
 
-#### normalize_wave_tables
+#### normalize\_wave\_tables
 
 ```python
 @normalize_wave_tables.setter

@@ -19,7 +19,7 @@ Namespaced user data which provides access to a linked data asset
 
 <a id="unreal.DataAssetLink.data_asset"></a>
 
-#### data_asset
+#### data\_asset
 
 ```python
 @property
@@ -30,7 +30,7 @@ def data_asset() -> DataAsset
 
 <a id="unreal.DataAssetLink.data_asset"></a>
 
-#### data_asset
+#### data\_asset
 
 ```python
 @data_asset.setter

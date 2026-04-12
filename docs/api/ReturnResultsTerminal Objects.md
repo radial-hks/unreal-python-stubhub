@@ -29,7 +29,7 @@ Terminal field of a graph
 
 <a id="unreal.ReturnResultsTerminal.set_return_results_terminal"></a>
 
-#### set_return_results_terminal
+#### set\_return\_results\_terminal
 
 ```python
 def set_return_results_terminal() -> ReturnResultsTerminal

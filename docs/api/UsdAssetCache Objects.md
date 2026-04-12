@@ -52,7 +52,7 @@ had an asset cache manually set beforehand.
 
 <a id="unreal.UsdAssetCache.asset_directory"></a>
 
-#### asset_directory
+#### asset\_directory
 
 ```python
 @property
@@ -66,7 +66,7 @@ were generated from USD.
 
 <a id="unreal.UsdAssetCache.asset_directory"></a>
 
-#### asset_directory
+#### asset\_directory
 
 ```python
 @asset_directory.setter
@@ -75,7 +75,7 @@ def asset_directory(value: DirectoryPath) -> None
 
 <a id="unreal.UsdAssetCache.only_handle_assets_within_asset_directory"></a>
 
-#### only_handle_assets_within_asset_directory
+#### only\_handle\_assets\_within\_asset\_directory
 
 ```python
 @property
@@ -90,7 +90,7 @@ When false, it means the asset cache will fully track and use its provided asset
 
 <a id="unreal.UsdAssetCache.only_handle_assets_within_asset_directory"></a>
 
-#### only_handle_assets_within_asset_directory
+#### only\_handle\_assets\_within\_asset\_directory
 
 ```python
 @only_handle_assets_within_asset_directory.setter
@@ -99,7 +99,7 @@ def only_handle_assets_within_asset_directory(value: bool) -> None
 
 <a id="unreal.UsdAssetCache.hash_to_asset_paths"></a>
 
-#### hash_to_asset_paths
+#### hash\_to\_asset\_paths
 
 ```python
 @property
@@ -115,7 +115,7 @@ green cube when opening a stage with this asset cache, even if you open stages w
 
 <a id="unreal.UsdAssetCache.hash_to_asset_paths"></a>
 
-#### hash_to_asset_paths
+#### hash\_to\_asset\_paths
 
 ```python
 @hash_to_asset_paths.setter
@@ -124,7 +124,7 @@ def hash_to_asset_paths(value: Map[str, SoftObjectPath]) -> None
 
 <a id="unreal.UsdAssetCache.clean_up_unreferenced_assets"></a>
 
-#### clean_up_unreferenced_assets
+#### clean\_up\_unreferenced\_assets
 
 ```python
 @property
@@ -145,7 +145,7 @@ WARNING: This will clear the undo buffer (i.e. transaction history) and run garb
 
 <a id="unreal.UsdAssetCache.clean_up_unreferenced_assets"></a>
 
-#### clean_up_unreferenced_assets
+#### clean\_up\_unreferenced\_assets
 
 ```python
 @clean_up_unreferenced_assets.setter
@@ -154,7 +154,7 @@ def clean_up_unreferenced_assets(value: bool) -> None
 
 <a id="unreal.UsdAssetCache.stop_tracking_asset"></a>
 
-#### stop_tracking_asset
+#### stop\_tracking\_asset
 
 ```python
 def stop_tracking_asset(hash: str) -> SoftObjectPath
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.set_asset_deletable"></a>
 
-#### set_asset_deletable
+#### set\_asset\_deletable
 
 ```python
 def set_asset_deletable(asset: Object, is_deletable: bool) -> None
@@ -191,7 +191,7 @@ Args:
 
 <a id="unreal.UsdAssetCache.rescan_asset_directory"></a>
 
-#### rescan_asset_directory
+#### rescan\_asset\_directory
 
 ```python
 def rescan_asset_directory() -> None
@@ -206,7 +206,7 @@ is associated with a hash that is already in use, it will be ignored)
 
 <a id="unreal.UsdAssetCache.remove_asset_referencer"></a>
 
-#### remove_asset_referencer
+#### remove\_asset\_referencer
 
 ```python
 def remove_asset_referencer(asset: Object, referencer: Object) -> bool
@@ -225,7 +225,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.remove_all_referencers_for_asset"></a>
 
-#### remove_all_referencers_for_asset
+#### remove\_all\_referencers\_for\_asset
 
 ```python
 def remove_all_referencers_for_asset(asset: Object) -> bool
@@ -243,7 +243,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.remove_all_referencer_assets"></a>
 
-#### remove_all_referencer_assets
+#### remove\_all\_referencer\_assets
 
 ```python
 def remove_all_referencer_assets(referencer: Object) -> bool
@@ -261,7 +261,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.remove_all_asset_referencers"></a>
 
-#### remove_all_asset_referencers
+#### remove\_all\_asset\_referencers
 
 ```python
 def remove_all_asset_referencers() -> bool
@@ -275,7 +275,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.load_and_get_all_tracked_assets"></a>
 
-#### load_and_get_all_tracked_assets
+#### load\_and\_get\_all\_tracked\_assets
 
 ```python
 def load_and_get_all_tracked_assets() -> Map[str, Object]
@@ -292,7 +292,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.is_asset_tracked_by_cache"></a>
 
-#### is_asset_tracked_by_cache
+#### is\_asset\_tracked\_by\_cache
 
 ```python
 def is_asset_tracked_by_cache(asset_path: SoftObjectPath) -> bool
@@ -309,7 +309,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.is_asset_deletable"></a>
 
-#### is_asset_deletable
+#### is\_asset\_deletable
 
 ```python
 def is_asset_deletable(asset: Object) -> bool
@@ -326,7 +326,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.get_or_create_cached_asset"></a>
 
-#### get_or_create_cached_asset
+#### get\_or\_create\_cached\_asset
 
 ```python
 def get_or_create_cached_asset(
@@ -358,7 +358,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.get_num_assets"></a>
 
-#### get_num_assets
+#### get\_num\_assets
 
 ```python
 def get_num_assets() -> int
@@ -372,7 +372,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.get_hash_for_asset"></a>
 
-#### get_hash_for_asset
+#### get\_hash\_for\_asset
 
 ```python
 def get_hash_for_asset(asset_path: SoftObjectPath) -> str
@@ -390,7 +390,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.get_cached_asset_path"></a>
 
-#### get_cached_asset_path
+#### get\_cached\_asset\_path
 
 ```python
 def get_cached_asset_path(hash: str) -> SoftObjectPath
@@ -408,7 +408,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.get_cached_asset"></a>
 
-#### get_cached_asset
+#### get\_cached\_asset
 
 ```python
 def get_cached_asset(hash: str) -> Object
@@ -428,7 +428,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.get_all_tracked_assets"></a>
 
-#### get_all_tracked_assets
+#### get\_all\_tracked\_assets
 
 ```python
 def get_all_tracked_assets() -> Map[str, SoftObjectPath]
@@ -442,7 +442,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache.delete_unreferenced_assets_with_confirmation"></a>
 
-#### delete_unreferenced_assets_with_confirmation
+#### delete\_unreferenced\_assets\_with\_confirmation
 
 ```python
 def delete_unreferenced_assets_with_confirmation() -> None
@@ -457,7 +457,7 @@ WARNING: This will clear the undo buffer (i.e. transaction history) and run garb
 
 <a id="unreal.UsdAssetCache.delete_unreferenced_assets"></a>
 
-#### delete_unreferenced_assets
+#### delete\_unreferenced\_assets
 
 ```python
 def delete_unreferenced_assets(show_confirmation: bool = False) -> None
@@ -481,7 +481,7 @@ Args:
 
 <a id="unreal.UsdAssetCache.cache_asset"></a>
 
-#### cache_asset
+#### cache\_asset
 
 ```python
 def cache_asset(hash: str,
@@ -499,7 +499,7 @@ Args:
 
 <a id="unreal.UsdAssetCache.add_asset_referencer"></a>
 
-#### add_asset_referencer
+#### add\_asset\_referencer
 
 ```python
 def add_asset_referencer(asset: Object, referencer: Object) -> bool

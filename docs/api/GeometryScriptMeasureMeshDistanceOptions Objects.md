@@ -18,7 +18,7 @@ Geometry Script Measure Mesh Distance Options
 
 <a id="unreal.GeometryScriptMeasureMeshDistanceOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(symmetric: bool = False) -> None

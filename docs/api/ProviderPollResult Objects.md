@@ -20,7 +20,7 @@ Provider Poll Result
 
 <a id="unreal.ProviderPollResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: str = "",
@@ -41,7 +41,7 @@ def name() -> str
 
 <a id="unreal.ProviderPollResult.machine_name"></a>
 
-#### machine_name
+#### machine\_name
 
 ```python
 @property
@@ -52,7 +52,7 @@ def machine_name() -> str
 
 <a id="unreal.ProviderPollResult.is_valid_provider"></a>
 
-#### is_valid_provider
+#### is\_valid\_provider
 
 ```python
 @property

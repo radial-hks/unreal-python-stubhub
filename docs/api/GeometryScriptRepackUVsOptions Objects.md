@@ -19,7 +19,7 @@ Geometry Script Repack UVs Options
 
 <a id="unreal.GeometryScriptRepackUVsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(target_image_width: int = 0,
@@ -28,7 +28,7 @@ def __init__(target_image_width: int = 0,
 
 <a id="unreal.GeometryScriptRepackUVsOptions.target_image_width"></a>
 
-#### target_image_width
+#### target\_image\_width
 
 ```python
 @property
@@ -39,7 +39,7 @@ def target_image_width() -> int
 
 <a id="unreal.GeometryScriptRepackUVsOptions.target_image_width"></a>
 
-#### target_image_width
+#### target\_image\_width
 
 ```python
 @target_image_width.setter
@@ -48,7 +48,7 @@ def target_image_width(value: int) -> None
 
 <a id="unreal.GeometryScriptRepackUVsOptions.optimize_island_rotation"></a>
 
-#### optimize_island_rotation
+#### optimize\_island\_rotation
 
 ```python
 @property
@@ -59,7 +59,7 @@ def optimize_island_rotation() -> bool
 
 <a id="unreal.GeometryScriptRepackUVsOptions.optimize_island_rotation"></a>
 
-#### optimize_island_rotation
+#### optimize\_island\_rotation
 
 ```python
 @optimize_island_rotation.setter

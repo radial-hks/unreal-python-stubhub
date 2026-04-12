@@ -67,7 +67,7 @@ Voip Listener Synth Component
 
 <a id="unreal.VoipListenerSynthComponent.is_idling"></a>
 
-#### is_idling
+#### is\_idling
 
 ```python
 def is_idling() -> bool
@@ -83,4 +83,4 @@ x.is_idling() -> bool
 Returns:
     bool: true if this synth component is out of audio to play.
 
-<a id="unreal.AnimationCompressionLibraryDatabase"></a>
+<a id="unreal.ComputeGraphComponent"></a>

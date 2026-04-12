@@ -14,7 +14,7 @@ It is passed to event handlers dealing with pointer-based input.
 
 <a id="unreal.PointerEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -21,7 +21,7 @@ Landscape Brush Parameters
 
 <a id="unreal.LandscapeBrushParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(render_area_world_transform: Transform = [[
@@ -36,7 +36,7 @@ def __init__(render_area_world_transform: Transform = [[
 
 <a id="unreal.LandscapeBrushParameters.render_area_world_transform"></a>
 
-#### render_area_world_transform
+#### render\_area\_world\_transform
 
 ```python
 @property
@@ -47,7 +47,7 @@ def render_area_world_transform() -> Transform
 
 <a id="unreal.LandscapeBrushParameters.render_area_world_transform"></a>
 
-#### render_area_world_transform
+#### render\_area\_world\_transform
 
 ```python
 @render_area_world_transform.setter
@@ -56,7 +56,7 @@ def render_area_world_transform(value: Transform) -> None
 
 <a id="unreal.LandscapeBrushParameters.render_area_size"></a>
 
-#### render_area_size
+#### render\_area\_size
 
 ```python
 @property
@@ -67,7 +67,7 @@ def render_area_size() -> IntPoint
 
 <a id="unreal.LandscapeBrushParameters.render_area_size"></a>
 
-#### render_area_size
+#### render\_area\_size
 
 ```python
 @render_area_size.setter
@@ -76,7 +76,7 @@ def render_area_size(value: IntPoint) -> None
 
 <a id="unreal.LandscapeBrushParameters.combined_result"></a>
 
-#### combined_result
+#### combined\_result
 
 ```python
 @property
@@ -87,7 +87,7 @@ def combined_result() -> TextureRenderTarget2D
 
 <a id="unreal.LandscapeBrushParameters.combined_result"></a>
 
-#### combined_result
+#### combined\_result
 
 ```python
 @combined_result.setter
@@ -96,7 +96,7 @@ def combined_result(value: TextureRenderTarget2D) -> None
 
 <a id="unreal.LandscapeBrushParameters.layer_type"></a>
 
-#### layer_type
+#### layer\_type
 
 ```python
 @property
@@ -107,7 +107,7 @@ def layer_type() -> LandscapeToolTargetType
 
 <a id="unreal.LandscapeBrushParameters.layer_type"></a>
 
-#### layer_type
+#### layer\_type
 
 ```python
 @layer_type.setter
@@ -116,7 +116,7 @@ def layer_type(value: LandscapeToolTargetType) -> None
 
 <a id="unreal.LandscapeBrushParameters.weightmap_layer_name"></a>
 
-#### weightmap_layer_name
+#### weightmap\_layer\_name
 
 ```python
 @property
@@ -127,7 +127,7 @@ def weightmap_layer_name() -> Name
 
 <a id="unreal.LandscapeBrushParameters.weightmap_layer_name"></a>
 
-#### weightmap_layer_name
+#### weightmap\_layer\_name
 
 ```python
 @weightmap_layer_name.setter

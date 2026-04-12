@@ -21,7 +21,7 @@ Contains an animation sequence of sprite frames
 
 <a id="unreal.PaperFlipbook.frames_per_second"></a>
 
-#### frames_per_second
+#### frames\_per\_second
 
 ```python
 @property
@@ -32,7 +32,7 @@ def frames_per_second() -> float
 
 <a id="unreal.PaperFlipbook.default_material"></a>
 
-#### default_material
+#### default\_material
 
 ```python
 @property
@@ -43,7 +43,7 @@ def default_material() -> MaterialInterface
 
 <a id="unreal.PaperFlipbook.collision_source"></a>
 
-#### collision_source
+#### collision\_source
 
 ```python
 @property
@@ -54,7 +54,7 @@ def collision_source() -> FlipbookCollisionMode
 
 <a id="unreal.PaperFlipbook.is_valid_key_frame_index"></a>
 
-#### is_valid_key_frame_index
+#### is\_valid\_key\_frame\_index
 
 ```python
 def is_valid_key_frame_index(index: int) -> bool
@@ -71,7 +71,7 @@ Returns:
 
 <a id="unreal.PaperFlipbook.get_total_duration"></a>
 
-#### get_total_duration
+#### get\_total\_duration
 
 ```python
 def get_total_duration() -> float
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.PaperFlipbook.get_sprite_at_time"></a>
 
-#### get_sprite_at_time
+#### get\_sprite\_at\_time
 
 ```python
 def get_sprite_at_time(time: float,
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.PaperFlipbook.get_sprite_at_frame"></a>
 
-#### get_sprite_at_frame
+#### get\_sprite\_at\_frame
 
 ```python
 def get_sprite_at_frame(frame_index: int) -> PaperSprite
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.PaperFlipbook.get_num_key_frames"></a>
 
-#### get_num_key_frames
+#### get\_num\_key\_frames
 
 ```python
 def get_num_key_frames() -> int
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.PaperFlipbook.get_num_frames"></a>
 
-#### get_num_frames
+#### get\_num\_frames
 
 ```python
 def get_num_frames() -> int
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.PaperFlipbook.get_key_frame_index_at_time"></a>
 
-#### get_key_frame_index_at_time
+#### get\_key\_frame\_index\_at\_time
 
 ```python
 def get_key_frame_index_at_time(time: float,

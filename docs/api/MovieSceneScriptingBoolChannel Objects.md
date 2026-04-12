@@ -18,7 +18,7 @@ Movie Scene Scripting Bool Channel
 
 <a id="unreal.MovieSceneScriptingBoolChannel.set_default"></a>
 
-#### set_default
+#### set\_default
 
 ```python
 def set_default(default_value: bool) -> None
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.remove_key"></a>
 
-#### remove_key
+#### remove\_key
 
 ```python
 def remove_key(key: MovieSceneScriptingKey) -> None
@@ -47,7 +47,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.remove_default"></a>
 
-#### remove_default
+#### remove\_default
 
 ```python
 def remove_default() -> None
@@ -58,7 +58,7 @@ Remove this channel's default value causing the channel to have no effect where 
 
 <a id="unreal.MovieSceneScriptingBoolChannel.has_default"></a>
 
-#### has_default
+#### has\_default
 
 ```python
 def has_default() -> bool
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.get_num_keys"></a>
 
-#### get_num_keys
+#### get\_num\_keys
 
 ```python
 def get_num_keys() -> int
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.get_keys_by_index"></a>
 
-#### get_keys_by_index
+#### get\_keys\_by\_index
 
 ```python
 def get_keys_by_index(indices: Array[int]) -> Array[MovieSceneScriptingKey]
@@ -104,7 +104,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.get_keys"></a>
 
-#### get_keys
+#### get\_keys
 
 ```python
 def get_keys() -> Array[MovieSceneScriptingKey]
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.get_default"></a>
 
-#### get_default
+#### get\_default
 
 ```python
 def get_default() -> bool
@@ -133,7 +133,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.evaluate_keys"></a>
 
-#### evaluate_keys
+#### evaluate\_keys
 
 ```python
 def evaluate_keys(range: SequencerScriptingRange,
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.compute_effective_range"></a>
 
-#### compute_effective_range
+#### compute\_effective\_range
 
 ```python
 def compute_effective_range() -> SequencerScriptingRange
@@ -166,7 +166,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingBoolChannel.add_key"></a>
 
-#### add_key
+#### add\_key
 
 ```python
 def add_key(

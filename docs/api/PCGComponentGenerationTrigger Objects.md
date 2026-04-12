@@ -14,19 +14,19 @@ EPCGComponent Generation Trigger
 
 <a id="unreal.PCGComponentGenerationTrigger.GENERATE_ON_LOAD"></a>
 
-#### GENERATE_ON_LOAD
+#### GENERATE\_ON\_LOAD
 
 0: Generates only when the component is loaded into the level.
 
 <a id="unreal.PCGComponentGenerationTrigger.GENERATE_ON_DEMAND"></a>
 
-#### GENERATE_ON_DEMAND
+#### GENERATE\_ON\_DEMAND
 
 1: Generates only when requested (e.g. via Blueprint).
 
 <a id="unreal.PCGComponentGenerationTrigger.GENERATE_AT_RUNTIME"></a>
 
-#### GENERATE_AT_RUNTIME
+#### GENERATE\_AT\_RUNTIME
 
 2: Generates only when scheduled by the Runtime Generation Scheduler.
 

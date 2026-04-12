@@ -21,7 +21,7 @@ that the override material can never be used.
 
 <a id="unreal.MaterialOverrideNanite.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

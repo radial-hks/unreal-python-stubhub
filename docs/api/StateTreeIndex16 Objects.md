@@ -14,7 +14,7 @@ uint16 index that can be invalid.
 
 <a id="unreal.StateTreeIndex16.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

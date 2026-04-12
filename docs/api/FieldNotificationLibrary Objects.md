@@ -18,7 +18,7 @@ A function can also be a Field Notify. The function needs to be const and return
 
 <a id="unreal.FieldNotificationLibrary.broadcast_field_value_changed"></a>
 
-#### broadcast_field_value_changed
+#### broadcast\_field\_value\_changed
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Args:
 
 <a id="unreal.FieldNotificationLibrary.broadcast_fields_value_changed"></a>
 
-#### broadcast_fields_value_changed
+#### broadcast\_fields\_value\_changed
 
 ```python
 @classmethod

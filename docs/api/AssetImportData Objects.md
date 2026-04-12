@@ -17,7 +17,7 @@ todo: Make this class better suited to multiple import paths - maybe have FAsset
 
 <a id="unreal.AssetImportData.scripted_add_filename"></a>
 
-#### scripted_add_filename
+#### scripted\_add\_filename
 
 ```python
 def scripted_add_filename(path: str, index: int,
@@ -35,7 +35,7 @@ Args:
 
 <a id="unreal.AssetImportData.get_first_filename"></a>
 
-#### get_first_filename
+#### get\_first\_filename
 
 ```python
 def get_first_filename() -> str
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.AssetImportData.extract_filenames"></a>
 
-#### extract_filenames
+#### extract\_filenames
 
 ```python
 def extract_filenames() -> Array[str]

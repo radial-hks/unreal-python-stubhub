@@ -34,7 +34,7 @@ Merges multiple data sources (currently only points supported) into a single out
 
 <a id="unreal.PCGMergeSettings.merge_metadata"></a>
 
-#### merge_metadata
+#### merge\_metadata
 
 ```python
 @property
@@ -45,7 +45,7 @@ def merge_metadata() -> bool
 
 <a id="unreal.PCGMergeSettings.merge_metadata"></a>
 
-#### merge_metadata
+#### merge\_metadata
 
 ```python
 @merge_metadata.setter

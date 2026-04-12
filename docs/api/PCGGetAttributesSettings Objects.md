@@ -35,7 +35,7 @@ Extracts the list of attribute on data to an attribute set with one entry per at
 
 <a id="unreal.PCGGetAttributesSettings.get_type"></a>
 
-#### get_type
+#### get\_type
 
 ```python
 @property
@@ -46,7 +46,7 @@ def get_type() -> bool
 
 <a id="unreal.PCGGetAttributesSettings.get_type"></a>
 
-#### get_type
+#### get\_type
 
 ```python
 @get_type.setter
@@ -55,7 +55,7 @@ def get_type(value: bool) -> None
 
 <a id="unreal.PCGGetAttributesSettings.get_default_value"></a>
 
-#### get_default_value
+#### get\_default\_value
 
 ```python
 @property
@@ -66,7 +66,7 @@ def get_default_value() -> bool
 
 <a id="unreal.PCGGetAttributesSettings.get_default_value"></a>
 
-#### get_default_value
+#### get\_default\_value
 
 ```python
 @get_default_value.setter

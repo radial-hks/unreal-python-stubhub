@@ -25,7 +25,7 @@ EEditor Asset Meta Data Sort Type
 
 <a id="unreal.EditorAssetMetaDataSortType.DATE_TIME"></a>
 
-#### DATE_TIME
+#### DATE\_TIME
 
 2
 

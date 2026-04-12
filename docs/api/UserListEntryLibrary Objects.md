@@ -13,7 +13,7 @@ Static library to supply "for free" functionality to widgets that implement IUse
 
 <a id="unreal.UserListEntryLibrary.is_list_item_selected"></a>
 
-#### is_list_item_selected
+#### is\_list\_item\_selected
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.UserListEntryLibrary.is_list_item_expanded"></a>
 
-#### is_list_item_expanded
+#### is\_list\_item\_expanded
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.UserListEntryLibrary.get_owning_list_view"></a>
 
-#### get_owning_list_view
+#### get\_owning\_list\_view
 
 ```python
 @classmethod

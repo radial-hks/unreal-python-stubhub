@@ -96,7 +96,7 @@ Sound Wave
 
 <a id="unreal.SoundWave.streaming_priority"></a>
 
-#### streaming_priority
+#### streaming\_priority
 
 ```python
 @property
@@ -108,7 +108,7 @@ deprecated: 5.0 - Property is deprecated. Streaming priority has no effect with 
 
 <a id="unreal.SoundWave.streaming_priority"></a>
 
-#### streaming_priority
+#### streaming\_priority
 
 ```python
 @streaming_priority.setter
@@ -117,7 +117,7 @@ def streaming_priority(value: int) -> None
 
 <a id="unreal.SoundWave.seekable_streaming"></a>
 
-#### seekable_streaming
+#### seekable\_streaming
 
 ```python
 @property
@@ -129,7 +129,7 @@ deprecated: 5.0 - Property is deprecated. bSeekableStreaming now means ADPCM cod
 
 <a id="unreal.SoundWave.seekable_streaming"></a>
 
-#### seekable_streaming
+#### seekable\_streaming
 
 ```python
 @seekable_streaming.setter
@@ -138,7 +138,7 @@ def seekable_streaming(value: bool) -> None
 
 <a id="unreal.SoundWave.use_bink_audio"></a>
 
-#### use_bink_audio
+#### use\_bink\_audio
 
 ```python
 @property
@@ -150,7 +150,7 @@ deprecated: 5.0 - Property is deprecated. bUseBinkAudio now means Bink codec in 
 
 <a id="unreal.SoundWave.use_bink_audio"></a>
 
-#### use_bink_audio
+#### use\_bink\_audio
 
 ```python
 @use_bink_audio.setter
@@ -159,7 +159,7 @@ def use_bink_audio(value: bool) -> None
 
 <a id="unreal.SoundWave.modulation_settings"></a>
 
-#### modulation_settings
+#### modulation\_settings
 
 ```python
 @property
@@ -170,7 +170,7 @@ def modulation_settings() -> SoundModulationDefaultRoutingSettings
 
 <a id="unreal.SoundWave.modulation_settings"></a>
 
-#### modulation_settings
+#### modulation\_settings
 
 ```python
 @modulation_settings.setter
@@ -179,7 +179,7 @@ def modulation_settings(value: SoundModulationDefaultRoutingSettings) -> None
 
 <a id="unreal.SoundWave.initial_chunk_size"></a>
 
-#### initial_chunk_size
+#### initial\_chunk\_size
 
 ```python
 @property
@@ -191,7 +191,7 @@ deprecated: Property 'InitialChunkSize' is deprecated.
 
 <a id="unreal.SoundWave.initial_chunk_size"></a>
 
-#### initial_chunk_size
+#### initial\_chunk\_size
 
 ```python
 @initial_chunk_size.setter
@@ -211,7 +211,7 @@ def mature() -> bool
 
 <a id="unreal.SoundWave.manual_word_wrap"></a>
 
-#### manual_word_wrap
+#### manual\_word\_wrap
 
 ```python
 @property
@@ -222,7 +222,7 @@ def manual_word_wrap() -> bool
 
 <a id="unreal.SoundWave.single_line"></a>
 
-#### single_line
+#### single\_line
 
 ```python
 @property
@@ -233,7 +233,7 @@ def single_line() -> bool
 
 <a id="unreal.SoundWave.spoken_text"></a>
 
-#### spoken_text
+#### spoken\_text
 
 ```python
 @property
@@ -245,7 +245,7 @@ deprecated: Use Subtitles instead.
 
 <a id="unreal.SoundWave.spoken_text"></a>
 
-#### spoken_text
+#### spoken\_text
 
 ```python
 @spoken_text.setter
@@ -254,7 +254,7 @@ def spoken_text(value: str) -> None
 
 <a id="unreal.SoundWave.subtitle_priority"></a>
 
-#### subtitle_priority
+#### subtitle\_priority
 
 ```python
 @property
@@ -265,7 +265,7 @@ def subtitle_priority() -> float
 
 <a id="unreal.SoundWave.cue_points"></a>
 
-#### cue_points
+#### cue\_points
 
 ```python
 @property
@@ -287,7 +287,7 @@ def subtitles() -> Array[SubtitleCue]
 
 <a id="unreal.SoundWave.set_sound_asset_compression_type"></a>
 
-#### set_sound_asset_compression_type
+#### set\_sound\_asset\_compression\_type
 
 ```python
 def set_sound_asset_compression_type(
@@ -304,7 +304,7 @@ Args:
 
 <a id="unreal.SoundWave.get_sound_asset_compression_type"></a>
 
-#### get_sound_asset_compression_type
+#### get\_sound\_asset\_compression\_type
 
 ```python
 def get_sound_asset_compression_type() -> SoundAssetCompressionType
@@ -318,7 +318,7 @@ Returns:
 
 <a id="unreal.SoundWave.get_loop_regions"></a>
 
-#### get_loop_regions
+#### get\_loop\_regions
 
 ```python
 def get_loop_regions() -> Array[SoundWaveCuePoint]
@@ -332,7 +332,7 @@ Returns:
 
 <a id="unreal.SoundWave.get_cue_points"></a>
 
-#### get_cue_points
+#### get\_cue\_points
 
 ```python
 def get_cue_points() -> Array[SoundWaveCuePoint]

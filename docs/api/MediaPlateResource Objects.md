@@ -20,10 +20,10 @@ See FMediaPlayerResourceCustomization class for its customization.
 
 <a id="unreal.MediaPlateResource.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.MoviePipelineOutputData"></a>
+<a id="unreal.ObjectMixerWidgetUserConfig"></a>

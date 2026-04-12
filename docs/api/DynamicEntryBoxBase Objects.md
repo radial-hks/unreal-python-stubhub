@@ -62,7 +62,7 @@ see: UDynamicEntryBox for a ready-to-use version
 
 <a id="unreal.DynamicEntryBoxBase.entry_spacing"></a>
 
-#### entry_spacing
+#### entry\_spacing
 
 ```python
 @property
@@ -75,7 +75,7 @@ Wrap and Overlay types use both X and Y for spacing.
 
 <a id="unreal.DynamicEntryBoxBase.entry_spacing"></a>
 
-#### entry_spacing
+#### entry\_spacing
 
 ```python
 @entry_spacing.setter
@@ -84,7 +84,7 @@ def entry_spacing(value: Vector2D) -> None
 
 <a id="unreal.DynamicEntryBoxBase.spacing_pattern"></a>
 
-#### spacing_pattern
+#### spacing\_pattern
 
 ```python
 @property
@@ -95,7 +95,7 @@ def spacing_pattern() -> Array[Vector2D]
 
 <a id="unreal.DynamicEntryBoxBase.entry_box_type"></a>
 
-#### entry_box_type
+#### entry\_box\_type
 
 ```python
 @property
@@ -106,7 +106,7 @@ def entry_box_type() -> DynamicBoxType
 
 <a id="unreal.DynamicEntryBoxBase.entry_size_rule"></a>
 
-#### entry_size_rule
+#### entry\_size\_rule
 
 ```python
 @property
@@ -117,7 +117,7 @@ def entry_size_rule() -> SlateChildSize
 
 <a id="unreal.DynamicEntryBoxBase.entry_horizontal_alignment"></a>
 
-#### entry_horizontal_alignment
+#### entry\_horizontal\_alignment
 
 ```python
 @property
@@ -128,7 +128,7 @@ def entry_horizontal_alignment() -> HorizontalAlignment
 
 <a id="unreal.DynamicEntryBoxBase.entry_vertical_alignment"></a>
 
-#### entry_vertical_alignment
+#### entry\_vertical\_alignment
 
 ```python
 @property
@@ -139,7 +139,7 @@ def entry_vertical_alignment() -> VerticalAlignment
 
 <a id="unreal.DynamicEntryBoxBase.max_element_size"></a>
 
-#### max_element_size
+#### max\_element\_size
 
 ```python
 @property
@@ -150,7 +150,7 @@ def max_element_size() -> int
 
 <a id="unreal.DynamicEntryBoxBase.radial_box_settings"></a>
 
-#### radial_box_settings
+#### radial\_box\_settings
 
 ```python
 @property
@@ -161,7 +161,7 @@ def radial_box_settings() -> RadialBoxSettings
 
 <a id="unreal.DynamicEntryBoxBase.radial_box_settings"></a>
 
-#### radial_box_settings
+#### radial\_box\_settings
 
 ```python
 @radial_box_settings.setter
@@ -170,7 +170,7 @@ def radial_box_settings(value: RadialBoxSettings) -> None
 
 <a id="unreal.DynamicEntryBoxBase.set_radial_settings"></a>
 
-#### set_radial_settings
+#### set\_radial\_settings
 
 ```python
 def set_radial_settings(settings: RadialBoxSettings) -> None
@@ -184,7 +184,7 @@ Args:
 
 <a id="unreal.DynamicEntryBoxBase.set_entry_spacing"></a>
 
-#### set_entry_spacing
+#### set\_entry\_spacing
 
 ```python
 def set_entry_spacing(entry_spacing: Vector2D) -> None
@@ -198,7 +198,7 @@ Args:
 
 <a id="unreal.DynamicEntryBoxBase.get_num_entries"></a>
 
-#### get_num_entries
+#### get\_num\_entries
 
 ```python
 def get_num_entries() -> int
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.DynamicEntryBoxBase.get_all_entries"></a>
 
-#### get_all_entries
+#### get\_all\_entries
 
 ```python
 def get_all_entries() -> Array[UserWidget]

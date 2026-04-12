@@ -56,7 +56,7 @@ Menus can be modified and added to with Blueprint or Python commands using the T
 
 <a id="unreal.ToolMenuWidget.menu_name"></a>
 
-#### menu_name
+#### menu\_name
 
 ```python
 @property
@@ -68,7 +68,7 @@ def menu_name() -> str
 
 <a id="unreal.ToolMenuWidget.menu_type"></a>
 
-#### menu_type
+#### menu\_type
 
 ```python
 @property
@@ -79,7 +79,7 @@ def menu_type() -> MultiBoxType
 
 <a id="unreal.ToolMenuWidget.full_menu_name"></a>
 
-#### full_menu_name
+#### full\_menu\_name
 
 ```python
 @property

@@ -23,7 +23,7 @@ Generate Static Mesh LODProcess Settings
 
 <a id="unreal.GenerateStaticMeshLODProcessSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

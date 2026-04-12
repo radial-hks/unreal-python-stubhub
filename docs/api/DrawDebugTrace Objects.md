@@ -19,13 +19,13 @@ EDraw Debug Trace
 
 <a id="unreal.DrawDebugTrace.FOR_ONE_FRAME"></a>
 
-#### FOR_ONE_FRAME
+#### FOR\_ONE\_FRAME
 
 1
 
 <a id="unreal.DrawDebugTrace.FOR_DURATION"></a>
 
-#### FOR_DURATION
+#### FOR\_DURATION
 
 2
 

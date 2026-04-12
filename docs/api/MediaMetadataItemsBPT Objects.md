@@ -17,7 +17,7 @@ Media Metadata Items BPT
 
 <a id="unreal.MediaMetadataItemsBPT.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(items: Array[MediaMetadataItemBPT] = []) -> None

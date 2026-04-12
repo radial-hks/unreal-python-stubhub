@@ -22,7 +22,7 @@ Material Expression Texture Object from Collection
 
 <a id="unreal.MaterialExpressionTextureObjectFromCollection.texture_collection_object"></a>
 
-#### texture_collection_object
+#### texture\_collection\_object
 
 ```python
 @property
@@ -33,7 +33,7 @@ def texture_collection_object() -> TextureCollection
 
 <a id="unreal.MaterialExpressionTextureObjectFromCollection.texture_collection_object"></a>
 
-#### texture_collection_object
+#### texture\_collection\_object
 
 ```python
 @texture_collection_object.setter
@@ -42,7 +42,7 @@ def texture_collection_object(value: TextureCollection) -> None
 
 <a id="unreal.MaterialExpressionTextureObjectFromCollection.const_collection_index"></a>
 
-#### const_collection_index
+#### const\_collection\_index
 
 ```python
 @property
@@ -53,7 +53,7 @@ def const_collection_index() -> int
 
 <a id="unreal.MaterialExpressionTextureObjectFromCollection.const_collection_index"></a>
 
-#### const_collection_index
+#### const\_collection\_index
 
 ```python
 @const_collection_index.setter
@@ -62,7 +62,7 @@ def const_collection_index(value: int) -> None
 
 <a id="unreal.MaterialExpressionTextureObjectFromCollection.texture_type"></a>
 
-#### texture_type
+#### texture\_type
 
 ```python
 @property
@@ -73,7 +73,7 @@ def texture_type() -> TextureCollectionMemberType
 
 <a id="unreal.MaterialExpressionTextureObjectFromCollection.texture_type"></a>
 
-#### texture_type
+#### texture\_type
 
 ```python
 @texture_type.setter

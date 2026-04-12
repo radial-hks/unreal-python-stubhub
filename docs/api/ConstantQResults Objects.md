@@ -19,7 +19,7 @@ The results of the ConstantQ analysis.
 
 <a id="unreal.ConstantQResults.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(time_seconds: float = 0.000000,
@@ -28,7 +28,7 @@ def __init__(time_seconds: float = 0.000000,
 
 <a id="unreal.ConstantQResults.time_seconds"></a>
 
-#### time_seconds
+#### time\_seconds
 
 ```python
 @property
@@ -39,7 +39,7 @@ def time_seconds() -> float
 
 <a id="unreal.ConstantQResults.spectrum_values"></a>
 
-#### spectrum_values
+#### spectrum\_values
 
 ```python
 @property

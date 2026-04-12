@@ -24,7 +24,7 @@ Represents the appearance of an SSynthKnob
 
 <a id="unreal.SynthKnobStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(large_knob: SlateBrush = [
@@ -77,7 +77,7 @@ def __init__(large_knob: SlateBrush = [
 
 <a id="unreal.SynthKnobStyle.large_knob"></a>
 
-#### large_knob
+#### large\_knob
 
 ```python
 @property
@@ -88,7 +88,7 @@ def large_knob() -> SlateBrush
 
 <a id="unreal.SynthKnobStyle.large_knob"></a>
 
-#### large_knob
+#### large\_knob
 
 ```python
 @large_knob.setter
@@ -97,7 +97,7 @@ def large_knob(value: SlateBrush) -> None
 
 <a id="unreal.SynthKnobStyle.large_knob_overlay"></a>
 
-#### large_knob_overlay
+#### large\_knob\_overlay
 
 ```python
 @property
@@ -108,7 +108,7 @@ def large_knob_overlay() -> SlateBrush
 
 <a id="unreal.SynthKnobStyle.large_knob_overlay"></a>
 
-#### large_knob_overlay
+#### large\_knob\_overlay
 
 ```python
 @large_knob_overlay.setter
@@ -117,7 +117,7 @@ def large_knob_overlay(value: SlateBrush) -> None
 
 <a id="unreal.SynthKnobStyle.medium_knob"></a>
 
-#### medium_knob
+#### medium\_knob
 
 ```python
 @property
@@ -128,7 +128,7 @@ def medium_knob() -> SlateBrush
 
 <a id="unreal.SynthKnobStyle.medium_knob"></a>
 
-#### medium_knob
+#### medium\_knob
 
 ```python
 @medium_knob.setter
@@ -137,7 +137,7 @@ def medium_knob(value: SlateBrush) -> None
 
 <a id="unreal.SynthKnobStyle.medium_knob_overlay"></a>
 
-#### medium_knob_overlay
+#### medium\_knob\_overlay
 
 ```python
 @property
@@ -148,7 +148,7 @@ def medium_knob_overlay() -> SlateBrush
 
 <a id="unreal.SynthKnobStyle.medium_knob_overlay"></a>
 
-#### medium_knob_overlay
+#### medium\_knob\_overlay
 
 ```python
 @medium_knob_overlay.setter
@@ -157,7 +157,7 @@ def medium_knob_overlay(value: SlateBrush) -> None
 
 <a id="unreal.SynthKnobStyle.min_value_angle"></a>
 
-#### min_value_angle
+#### min\_value\_angle
 
 ```python
 @property
@@ -168,7 +168,7 @@ def min_value_angle() -> float
 
 <a id="unreal.SynthKnobStyle.min_value_angle"></a>
 
-#### min_value_angle
+#### min\_value\_angle
 
 ```python
 @min_value_angle.setter
@@ -177,7 +177,7 @@ def min_value_angle(value: float) -> None
 
 <a id="unreal.SynthKnobStyle.max_value_angle"></a>
 
-#### max_value_angle
+#### max\_value\_angle
 
 ```python
 @property
@@ -188,7 +188,7 @@ def max_value_angle() -> float
 
 <a id="unreal.SynthKnobStyle.max_value_angle"></a>
 
-#### max_value_angle
+#### max\_value\_angle
 
 ```python
 @max_value_angle.setter
@@ -197,7 +197,7 @@ def max_value_angle(value: float) -> None
 
 <a id="unreal.SynthKnobStyle.knob_size"></a>
 
-#### knob_size
+#### knob\_size
 
 ```python
 @property
@@ -208,7 +208,7 @@ def knob_size() -> SynthKnobSize
 
 <a id="unreal.SynthKnobStyle.knob_size"></a>
 
-#### knob_size
+#### knob\_size
 
 ```python
 @knob_size.setter

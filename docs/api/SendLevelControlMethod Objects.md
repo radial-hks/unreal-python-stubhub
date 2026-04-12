@@ -19,7 +19,7 @@ ESend Level Control Method
 
 <a id="unreal.SendLevelControlMethod.CUSTOM_CURVE"></a>
 
-#### CUSTOM_CURVE
+#### CUSTOM\_CURVE
 
 1: A send based on a supplied curve
 

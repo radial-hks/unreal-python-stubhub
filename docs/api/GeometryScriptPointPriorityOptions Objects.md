@@ -19,7 +19,7 @@ Geometry Script Point Priority Options
 
 <a id="unreal.GeometryScriptPointPriorityOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(optional_priority_weights: Array[float] = [],
@@ -28,7 +28,7 @@ def __init__(optional_priority_weights: Array[float] = [],
 
 <a id="unreal.GeometryScriptPointPriorityOptions.optional_priority_weights"></a>
 
-#### optional_priority_weights
+#### optional\_priority\_weights
 
 ```python
 @property
@@ -39,7 +39,7 @@ def optional_priority_weights() -> Array[float]
 
 <a id="unreal.GeometryScriptPointPriorityOptions.optional_priority_weights"></a>
 
-#### optional_priority_weights
+#### optional\_priority\_weights
 
 ```python
 @optional_priority_weights.setter
@@ -48,7 +48,7 @@ def optional_priority_weights(value: Array[float]) -> None
 
 <a id="unreal.GeometryScriptPointPriorityOptions.uniform_spacing"></a>
 
-#### uniform_spacing
+#### uniform\_spacing
 
 ```python
 @property
@@ -59,7 +59,7 @@ def uniform_spacing() -> bool
 
 <a id="unreal.GeometryScriptPointPriorityOptions.uniform_spacing"></a>
 
-#### uniform_spacing
+#### uniform\_spacing
 
 ```python
 @uniform_spacing.setter

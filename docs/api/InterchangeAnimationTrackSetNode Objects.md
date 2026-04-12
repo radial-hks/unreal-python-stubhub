@@ -14,7 +14,7 @@ Class to represent a set of animation track nodes that share the same frame rate
 
 <a id="unreal.InterchangeAnimationTrackSetNode.set_custom_frame_rate"></a>
 
-#### set_custom_frame_rate
+#### set\_custom\_frame\_rate
 
 ```python
 def set_custom_frame_rate(attribute_value: float) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetNode.remove_custom_animation_track_uid"></a>
 
-#### remove_custom_animation_track_uid
+#### remove\_custom\_animation\_track\_uid
 
 ```python
 def remove_custom_animation_track_uid(animation_track_uid: str) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetNode.get_custom_frame_rate"></a>
 
-#### get_custom_frame_rate
+#### get\_custom\_frame\_rate
 
 ```python
 def get_custom_frame_rate() -> Optional[float]
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetNode.get_custom_animation_track_uids"></a>
 
-#### get_custom_animation_track_uids
+#### get\_custom\_animation\_track\_uids
 
 ```python
 def get_custom_animation_track_uids() -> Array[str]
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetNode.get_custom_animation_track_uid_count"></a>
 
-#### get_custom_animation_track_uid_count
+#### get\_custom\_animation\_track\_uid\_count
 
 ```python
 def get_custom_animation_track_uid_count() -> int
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetNode.get_custom_animation_track_uid"></a>
 
-#### get_custom_animation_track_uid
+#### get\_custom\_animation\_track\_uid
 
 ```python
 def get_custom_animation_track_uid(index: int) -> str
@@ -113,7 +113,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackSetNode.add_custom_animation_track_uid"></a>
 
-#### add_custom_animation_track_uid
+#### add\_custom\_animation\_track\_uid
 
 ```python
 def add_custom_animation_track_uid(animation_track_uid: str) -> bool

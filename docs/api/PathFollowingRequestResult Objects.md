@@ -19,13 +19,13 @@ EPath Following Request Result
 
 <a id="unreal.PathFollowingRequestResult.ALREADY_AT_GOAL"></a>
 
-#### ALREADY_AT_GOAL
+#### ALREADY\_AT\_GOAL
 
 1
 
 <a id="unreal.PathFollowingRequestResult.REQUEST_SUCCESSFUL"></a>
 
-#### REQUEST_SUCCESSFUL
+#### REQUEST\_SUCCESSFUL
 
 2
 

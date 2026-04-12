@@ -142,7 +142,7 @@ Lightmass Portal
 
 <a id="unreal.LightmassPortal.portal_component"></a>
 
-#### portal_component
+#### portal\_component
 
 ```python
 @property

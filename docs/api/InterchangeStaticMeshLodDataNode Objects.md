@@ -14,7 +14,7 @@ namespace UE
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.set_one_convex_hull_per_ucx"></a>
 
-#### set_one_convex_hull_per_ucx
+#### set\_one\_convex\_hull\_per\_ucx
 
 ```python
 def set_one_convex_hull_per_ucx(attribute_value: bool) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.set_import_collision_type"></a>
 
-#### set_import_collision_type
+#### set\_import\_collision\_type
 
 ```python
 def set_import_collision_type(
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.set_import_collision"></a>
 
-#### set_import_collision
+#### set\_import\_collision
 
 ```python
 def set_import_collision(attribute_value: bool) -> bool
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_sphere_collision_mesh_uid"></a>
 
-#### remove_sphere_collision_mesh_uid
+#### remove\_sphere\_collision\_mesh\_uid
 
 ```python
 def remove_sphere_collision_mesh_uid(mesh_name: str) -> bool
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_mesh_uid"></a>
 
-#### remove_mesh_uid
+#### remove\_mesh\_uid
 
 ```python
 def remove_mesh_uid(mesh_name: str) -> bool
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_convex_collision_mesh_uid"></a>
 
-#### remove_convex_collision_mesh_uid
+#### remove\_convex\_collision\_mesh\_uid
 
 ```python
 def remove_convex_collision_mesh_uid(mesh_name: str) -> bool
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_capsule_collision_mesh_uid"></a>
 
-#### remove_capsule_collision_mesh_uid
+#### remove\_capsule\_collision\_mesh\_uid
 
 ```python
 def remove_capsule_collision_mesh_uid(mesh_name: str) -> bool
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_box_collision_mesh_uid"></a>
 
-#### remove_box_collision_mesh_uid
+#### remove\_box\_collision\_mesh\_uid
 
 ```python
 def remove_box_collision_mesh_uid(mesh_name: str) -> bool
@@ -151,7 +151,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_all_sphere_collision_meshes"></a>
 
-#### remove_all_sphere_collision_meshes
+#### remove\_all\_sphere\_collision\_meshes
 
 ```python
 def remove_all_sphere_collision_meshes() -> bool
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_all_meshes"></a>
 
-#### remove_all_meshes
+#### remove\_all\_meshes
 
 ```python
 def remove_all_meshes() -> bool
@@ -179,7 +179,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_all_convex_collision_meshes"></a>
 
-#### remove_all_convex_collision_meshes
+#### remove\_all\_convex\_collision\_meshes
 
 ```python
 def remove_all_convex_collision_meshes() -> bool
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_all_capsule_collision_meshes"></a>
 
-#### remove_all_capsule_collision_meshes
+#### remove\_all\_capsule\_collision\_meshes
 
 ```python
 def remove_all_capsule_collision_meshes() -> bool
@@ -207,7 +207,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.remove_all_box_collision_meshes"></a>
 
-#### remove_all_box_collision_meshes
+#### remove\_all\_box\_collision\_meshes
 
 ```python
 def remove_all_box_collision_meshes() -> bool
@@ -221,7 +221,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_sphere_collision_mesh_uids_count"></a>
 
-#### get_sphere_collision_mesh_uids_count
+#### get\_sphere\_collision\_mesh\_uids\_count
 
 ```python
 def get_sphere_collision_mesh_uids_count() -> int
@@ -235,7 +235,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_sphere_collision_mesh_uids"></a>
 
-#### get_sphere_collision_mesh_uids
+#### get\_sphere\_collision\_mesh\_uids
 
 ```python
 def get_sphere_collision_mesh_uids() -> Array[str]
@@ -251,7 +251,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_one_convex_hull_per_ucx"></a>
 
-#### get_one_convex_hull_per_ucx
+#### get\_one\_convex\_hull\_per\_ucx
 
 ```python
 def get_one_convex_hull_per_ucx() -> Optional[bool]
@@ -267,7 +267,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_mesh_uids_count"></a>
 
-#### get_mesh_uids_count
+#### get\_mesh\_uids\_count
 
 ```python
 def get_mesh_uids_count() -> int
@@ -281,7 +281,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_mesh_uids"></a>
 
-#### get_mesh_uids
+#### get\_mesh\_uids
 
 ```python
 def get_mesh_uids() -> Array[str]
@@ -297,7 +297,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_import_collision_type"></a>
 
-#### get_import_collision_type
+#### get\_import\_collision\_type
 
 ```python
 def get_import_collision_type() -> Optional[InterchangeMeshCollision]
@@ -313,7 +313,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_import_collision"></a>
 
-#### get_import_collision
+#### get\_import\_collision
 
 ```python
 def get_import_collision() -> Optional[bool]
@@ -329,7 +329,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_convex_collision_mesh_uids_count"></a>
 
-#### get_convex_collision_mesh_uids_count
+#### get\_convex\_collision\_mesh\_uids\_count
 
 ```python
 def get_convex_collision_mesh_uids_count() -> int
@@ -343,7 +343,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_convex_collision_mesh_uids"></a>
 
-#### get_convex_collision_mesh_uids
+#### get\_convex\_collision\_mesh\_uids
 
 ```python
 def get_convex_collision_mesh_uids() -> Array[str]
@@ -359,7 +359,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_capsule_collision_mesh_uids_count"></a>
 
-#### get_capsule_collision_mesh_uids_count
+#### get\_capsule\_collision\_mesh\_uids\_count
 
 ```python
 def get_capsule_collision_mesh_uids_count() -> int
@@ -373,7 +373,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_capsule_collision_mesh_uids"></a>
 
-#### get_capsule_collision_mesh_uids
+#### get\_capsule\_collision\_mesh\_uids
 
 ```python
 def get_capsule_collision_mesh_uids() -> Array[str]
@@ -389,7 +389,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_box_collision_mesh_uids_count"></a>
 
-#### get_box_collision_mesh_uids_count
+#### get\_box\_collision\_mesh\_uids\_count
 
 ```python
 def get_box_collision_mesh_uids_count() -> int
@@ -403,7 +403,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.get_box_collision_mesh_uids"></a>
 
-#### get_box_collision_mesh_uids
+#### get\_box\_collision\_mesh\_uids
 
 ```python
 def get_box_collision_mesh_uids() -> Array[str]
@@ -419,7 +419,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.add_sphere_collision_mesh_uid"></a>
 
-#### add_sphere_collision_mesh_uid
+#### add\_sphere\_collision\_mesh\_uid
 
 ```python
 def add_sphere_collision_mesh_uid(mesh_name: str) -> bool
@@ -436,7 +436,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.add_mesh_uid"></a>
 
-#### add_mesh_uid
+#### add\_mesh\_uid
 
 ```python
 def add_mesh_uid(mesh_name: str) -> bool
@@ -453,7 +453,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.add_convex_collision_mesh_uid"></a>
 
-#### add_convex_collision_mesh_uid
+#### add\_convex\_collision\_mesh\_uid
 
 ```python
 def add_convex_collision_mesh_uid(mesh_name: str) -> bool
@@ -470,7 +470,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.add_capsule_collision_mesh_uid"></a>
 
-#### add_capsule_collision_mesh_uid
+#### add\_capsule\_collision\_mesh\_uid
 
 ```python
 def add_capsule_collision_mesh_uid(mesh_name: str) -> bool
@@ -487,7 +487,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshLodDataNode.add_box_collision_mesh_uid"></a>
 
-#### add_box_collision_mesh_uid
+#### add\_box\_collision\_mesh\_uid
 
 ```python
 def add_box_collision_mesh_uid(mesh_name: str) -> bool

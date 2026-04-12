@@ -22,7 +22,7 @@ PCGTagged Data
 
 <a id="unreal.PCGTaggedData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(data: PCGData = None,
@@ -93,7 +93,7 @@ def pin(value: Name) -> None
 
 <a id="unreal.PCGTaggedData.is_used_multiple_times"></a>
 
-#### is_used_multiple_times
+#### is\_used\_multiple\_times
 
 ```python
 @property

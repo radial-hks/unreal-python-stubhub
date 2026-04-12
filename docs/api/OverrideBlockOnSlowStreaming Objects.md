@@ -13,7 +13,7 @@ EOverride Block on Slow Streaming
 
 <a id="unreal.OverrideBlockOnSlowStreaming.NO_OVERRIDE"></a>
 
-#### NO_OVERRIDE
+#### NO\_OVERRIDE
 
 0: Uses default runtime partition 'Block on Slow Streaming' setting
 
@@ -25,7 +25,7 @@ EOverride Block on Slow Streaming
 
 <a id="unreal.OverrideBlockOnSlowStreaming.NOT_BLOCKING"></a>
 
-#### NOT_BLOCKING
+#### NOT\_BLOCKING
 
 2: Doesn't block on slow streaming (Overrides runtime partition 'Block on Slow Streaming' setting)
 

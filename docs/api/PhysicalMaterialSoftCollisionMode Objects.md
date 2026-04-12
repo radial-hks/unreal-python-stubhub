@@ -21,13 +21,13 @@ NOTE: Must match EChaosPhysicsMaterialSoftCollisionMode
 
 <a id="unreal.PhysicalMaterialSoftCollisionMode.RELATIVE_THICKNESS"></a>
 
-#### RELATIVE_THICKNESS
+#### RELATIVE\_THICKNESS
 
 1: SoftCollisionThickess is a fraction of the bounds (minimum axis). Should be less than 0.5
 
 <a id="unreal.PhysicalMaterialSoftCollisionMode.ABSOLUTE_THICKESS"></a>
 
-#### ABSOLUTE_THICKESS
+#### ABSOLUTE\_THICKESS
 
 2: SoftCollisionThickess is an absolute value in cm
 

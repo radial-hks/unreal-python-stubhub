@@ -14,19 +14,19 @@ EPCGProxy Interface Mode
 
 <a id="unreal.PCGProxyInterfaceMode.BY_NATIVE_ELEMENT"></a>
 
-#### BY_NATIVE_ELEMENT
+#### BY\_NATIVE\_ELEMENT
 
 0: Select a native element to define the pin interface
 
 <a id="unreal.PCGProxyInterfaceMode.BY_BLUEPRINT_ELEMENT"></a>
 
-#### BY_BLUEPRINT_ELEMENT
+#### BY\_BLUEPRINT\_ELEMENT
 
 1: Select a custom blueprint element to define the pin interface
 
 <a id="unreal.PCGProxyInterfaceMode.BY_SETTINGS"></a>
 
-#### BY_SETTINGS
+#### BY\_SETTINGS
 
 2: User defined settings will define the pin interface
 

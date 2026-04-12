@@ -19,13 +19,13 @@ Whether to override track sections' default completion mode when a sequence fini
 
 <a id="unreal.MovieSceneCompletionModeOverride.FORCE_KEEP_STATE"></a>
 
-#### FORCE_KEEP_STATE
+#### FORCE\_KEEP\_STATE
 
 1
 
 <a id="unreal.MovieSceneCompletionModeOverride.FORCE_RESTORE_STATE"></a>
 
-#### FORCE_RESTORE_STATE
+#### FORCE\_RESTORE\_STATE
 
 2
 

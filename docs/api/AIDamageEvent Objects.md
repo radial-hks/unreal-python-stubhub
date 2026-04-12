@@ -25,7 +25,7 @@ AIDamage Event
 
 <a id="unreal.AIDamageEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(amount: float = 0.000000,
@@ -80,7 +80,7 @@ def location(value: Vector) -> None
 
 <a id="unreal.AIDamageEvent.hit_location"></a>
 
-#### hit_location
+#### hit\_location
 
 ```python
 @property
@@ -92,7 +92,7 @@ TODO: document
 
 <a id="unreal.AIDamageEvent.hit_location"></a>
 
-#### hit_location
+#### hit\_location
 
 ```python
 @hit_location.setter
@@ -101,7 +101,7 @@ def hit_location(value: Vector) -> None
 
 <a id="unreal.AIDamageEvent.damaged_actor"></a>
 
-#### damaged_actor
+#### damaged\_actor
 
 ```python
 @property
@@ -112,7 +112,7 @@ def damaged_actor() -> Actor
 
 <a id="unreal.AIDamageEvent.damaged_actor"></a>
 
-#### damaged_actor
+#### damaged\_actor
 
 ```python
 @damaged_actor.setter

@@ -55,7 +55,7 @@ def ratio(value: float) -> None
 
 <a id="unreal.PCGSelectPointsSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @property
@@ -66,7 +66,7 @@ def keep_zero_density_points() -> bool
 
 <a id="unreal.PCGSelectPointsSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @keep_zero_density_points.setter

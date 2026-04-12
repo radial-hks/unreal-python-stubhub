@@ -17,7 +17,7 @@ Quick Action Menu Context
 
 <a id="unreal.QuickActionMenuContext.current_selection"></a>
 
-#### current_selection
+#### current\_selection
 
 ```python
 @property

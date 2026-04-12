@@ -25,13 +25,13 @@ Determines if, and how, a navigation element should export collision for AI navi
 
 <a id="unreal.HasCustomNavigableGeometry.EVEN_IF_NOT_COLLIDABLE"></a>
 
-#### EVEN_IF_NOT_COLLIDABLE
+#### EVEN\_IF\_NOT\_COLLIDABLE
 
 2: The custom geometry export callback is called even if the mesh is non-collidable and wouldn't normally affect the navigation data.
 
 <a id="unreal.HasCustomNavigableGeometry.DONT_EXPORT"></a>
 
-#### DONT_EXPORT
+#### DONT\_EXPORT
 
 3: Neither the custom geometry export delegate nor the default export will be called (can still add modifiers through the NavigationData export callback).
 

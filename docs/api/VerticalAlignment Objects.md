@@ -13,25 +13,25 @@ Enumerates vertical alignment options, i.e. for widget slots.
 
 <a id="unreal.VerticalAlignment.V_ALIGN_FILL"></a>
 
-#### V_ALIGN_FILL
+#### V\_ALIGN\_FILL
 
 0: Fill the entire height.
 
 <a id="unreal.VerticalAlignment.V_ALIGN_TOP"></a>
 
-#### V_ALIGN_TOP
+#### V\_ALIGN\_TOP
 
 1: Top-align.
 
 <a id="unreal.VerticalAlignment.V_ALIGN_CENTER"></a>
 
-#### V_ALIGN_CENTER
+#### V\_ALIGN\_CENTER
 
 2: Center-align.
 
 <a id="unreal.VerticalAlignment.V_ALIGN_BOTTOM"></a>
 
-#### V_ALIGN_BOTTOM
+#### V\_ALIGN\_BOTTOM
 
 3: Bottom-align.
 

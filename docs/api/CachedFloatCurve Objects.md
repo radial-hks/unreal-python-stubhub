@@ -17,7 +17,7 @@ Cached Float Curve
 
 <a id="unreal.CachedFloatCurve.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(curve_name: Name = "None") -> None
@@ -25,7 +25,7 @@ def __init__(curve_name: Name = "None") -> None
 
 <a id="unreal.CachedFloatCurve.curve_name"></a>
 
-#### curve_name
+#### curve\_name
 
 ```python
 @property
@@ -36,7 +36,7 @@ def curve_name() -> Name
 
 <a id="unreal.CachedFloatCurve.curve_name"></a>
 
-#### curve_name
+#### curve\_name
 
 ```python
 @curve_name.setter

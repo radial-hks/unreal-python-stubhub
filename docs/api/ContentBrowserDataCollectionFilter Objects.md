@@ -18,7 +18,7 @@ note: This will typically limit your query to items that support being inside a 
 
 <a id="unreal.ContentBrowserDataCollectionFilter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(include_child_collections: bool = False) -> None
@@ -26,7 +26,7 @@ def __init__(include_child_collections: bool = False) -> None
 
 <a id="unreal.ContentBrowserDataCollectionFilter.include_child_collections"></a>
 
-#### include_child_collections
+#### include\_child\_collections
 
 ```python
 @property
@@ -37,7 +37,7 @@ def include_child_collections() -> bool
 
 <a id="unreal.ContentBrowserDataCollectionFilter.include_child_collections"></a>
 
-#### include_child_collections
+#### include\_child\_collections
 
 ```python
 @include_child_collections.setter

@@ -26,7 +26,7 @@ EInterchange Skeletal Mesh Content Type
 
 <a id="unreal.InterchangeSkeletalMeshContentType.SKINNING_WEIGHTS"></a>
 
-#### SKINNING_WEIGHTS
+#### SKINNING\_WEIGHTS
 
 2: Imports the skeletal mesh skin weights only. No geometry, morph targets, or LODs are imported.
 

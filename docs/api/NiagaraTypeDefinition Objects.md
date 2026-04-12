@@ -22,7 +22,7 @@ Niagara Type Definition
 
 <a id="unreal.NiagaraTypeDefinition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

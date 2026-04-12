@@ -14,7 +14,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Misc
 
 <a id="unreal.DateTime.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(year: int = 0,

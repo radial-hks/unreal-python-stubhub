@@ -14,7 +14,7 @@ Library of functions that can be used by the Python API to trigger VariantManage
 
 <a id="unreal.VariantManagerLibrary.set_value_vector4"></a>
 
-#### set_value_vector4
+#### set\_value\_vector4
 
 ```python
 @classmethod
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_vector2d"></a>
 
-#### set_value_vector2d
+#### set\_value\_vector2d
 
 ```python
 @classmethod
@@ -46,7 +46,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_vector"></a>
 
-#### set_value_vector
+#### set\_value\_vector
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_string"></a>
 
-#### set_value_string
+#### set\_value\_string
 
 ```python
 @classmethod
@@ -78,7 +78,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_rotator"></a>
 
-#### set_value_rotator
+#### set\_value\_rotator
 
 ```python
 @classmethod
@@ -94,7 +94,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_quat"></a>
 
-#### set_value_quat
+#### set\_value\_quat
 
 ```python
 @classmethod
@@ -110,7 +110,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_object"></a>
 
-#### set_value_object
+#### set\_value\_object
 
 ```python
 @classmethod
@@ -126,7 +126,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_linear_color"></a>
 
-#### set_value_linear_color
+#### set\_value\_linear\_color
 
 ```python
 @classmethod
@@ -143,7 +143,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_int_point"></a>
 
-#### set_value_int_point
+#### set\_value\_int\_point
 
 ```python
 @classmethod
@@ -160,7 +160,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_int"></a>
 
-#### set_value_int
+#### set\_value\_int
 
 ```python
 @classmethod
@@ -176,7 +176,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_float"></a>
 
-#### set_value_float
+#### set\_value\_float
 
 ```python
 @classmethod
@@ -192,7 +192,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_color"></a>
 
-#### set_value_color
+#### set\_value\_color
 
 ```python
 @classmethod
@@ -208,7 +208,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_value_bool"></a>
 
-#### set_value_bool
+#### set\_value\_bool
 
 ```python
 @classmethod
@@ -224,7 +224,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.set_dependency"></a>
 
-#### set_dependency
+#### set\_dependency
 
 ```python
 @classmethod
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.remove_variant_set_by_name"></a>
 
-#### remove_variant_set_by_name
+#### remove\_variant\_set\_by\_name
 
 ```python
 @classmethod
@@ -264,7 +264,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.remove_variant_set"></a>
 
-#### remove_variant_set
+#### remove\_variant\_set
 
 ```python
 @classmethod
@@ -281,7 +281,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.remove_variant_by_name"></a>
 
-#### remove_variant_by_name
+#### remove\_variant\_by\_name
 
 ```python
 @classmethod
@@ -298,7 +298,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.remove_variant"></a>
 
-#### remove_variant
+#### remove\_variant
 
 ```python
 @classmethod
@@ -314,7 +314,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.remove_captured_property_by_name"></a>
 
-#### remove_captured_property_by_name
+#### remove\_captured\_property\_by\_name
 
 ```python
 @classmethod
@@ -332,7 +332,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.remove_captured_property"></a>
 
-#### remove_captured_property
+#### remove\_captured\_property
 
 ```python
 @classmethod
@@ -350,7 +350,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.remove_actor_binding_by_name"></a>
 
-#### remove_actor_binding_by_name
+#### remove\_actor\_binding\_by\_name
 
 ```python
 @classmethod
@@ -367,7 +367,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.remove_actor_binding"></a>
 
-#### remove_actor_binding
+#### remove\_actor\_binding
 
 ```python
 @classmethod
@@ -398,7 +398,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.get_value_vector4"></a>
 
-#### get_value_vector4
+#### get\_value\_vector4
 
 ```python
 @classmethod
@@ -416,7 +416,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_vector2d"></a>
 
-#### get_value_vector2d
+#### get\_value\_vector2d
 
 ```python
 @classmethod
@@ -434,7 +434,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_vector"></a>
 
-#### get_value_vector
+#### get\_value\_vector
 
 ```python
 @classmethod
@@ -452,7 +452,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_string"></a>
 
-#### get_value_string
+#### get\_value\_string
 
 ```python
 @classmethod
@@ -470,7 +470,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_rotator"></a>
 
-#### get_value_rotator
+#### get\_value\_rotator
 
 ```python
 @classmethod
@@ -488,7 +488,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_quat"></a>
 
-#### get_value_quat
+#### get\_value\_quat
 
 ```python
 @classmethod
@@ -506,7 +506,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_object"></a>
 
-#### get_value_object
+#### get\_value\_object
 
 ```python
 @classmethod
@@ -524,7 +524,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_linear_color"></a>
 
-#### get_value_linear_color
+#### get\_value\_linear\_color
 
 ```python
 @classmethod
@@ -542,7 +542,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_int_point"></a>
 
-#### get_value_int_point
+#### get\_value\_int\_point
 
 ```python
 @classmethod
@@ -560,7 +560,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_int"></a>
 
-#### get_value_int
+#### get\_value\_int
 
 ```python
 @classmethod
@@ -578,7 +578,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_float"></a>
 
-#### get_value_float
+#### get\_value\_float
 
 ```python
 @classmethod
@@ -596,7 +596,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_color"></a>
 
-#### get_value_color
+#### get\_value\_color
 
 ```python
 @classmethod
@@ -614,7 +614,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_value_bool"></a>
 
-#### get_value_bool
+#### get\_value\_bool
 
 ```python
 @classmethod
@@ -632,7 +632,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_property_type_string"></a>
 
-#### get_property_type_string
+#### get\_property\_type\_string
 
 ```python
 @classmethod
@@ -650,7 +650,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_captured_properties"></a>
 
-#### get_captured_properties
+#### get\_captured\_properties
 
 ```python
 @classmethod
@@ -670,7 +670,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.get_capturable_properties"></a>
 
-#### get_capturable_properties
+#### get\_capturable\_properties
 
 ```python
 @classmethod
@@ -689,7 +689,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.delete_dependency"></a>
 
-#### delete_dependency
+#### delete\_dependency
 
 ```python
 @classmethod
@@ -705,7 +705,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.create_level_variant_sets_asset"></a>
 
-#### create_level_variant_sets_asset
+#### create\_level\_variant\_sets\_asset
 
 ```python
 @classmethod
@@ -725,7 +725,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.create_level_variant_sets_actor"></a>
 
-#### create_level_variant_sets_actor
+#### create\_level\_variant\_sets\_actor
 
 ```python
 @classmethod
@@ -745,7 +745,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.capture_property"></a>
 
-#### capture_property
+#### capture\_property
 
 ```python
 @classmethod
@@ -782,7 +782,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.add_variant_set"></a>
 
-#### add_variant_set
+#### add\_variant\_set
 
 ```python
 @classmethod
@@ -799,7 +799,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.add_variant"></a>
 
-#### add_variant
+#### add\_variant
 
 ```python
 @classmethod
@@ -815,7 +815,7 @@ Args:
 
 <a id="unreal.VariantManagerLibrary.add_dependency"></a>
 
-#### add_dependency
+#### add\_dependency
 
 ```python
 @classmethod
@@ -838,7 +838,7 @@ Returns:
 
 <a id="unreal.VariantManagerLibrary.add_actor_binding"></a>
 
-#### add_actor_binding
+#### add\_actor\_binding
 
 ```python
 @classmethod

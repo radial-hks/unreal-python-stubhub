@@ -24,7 +24,7 @@ state and properties of a layer
 
 <a id="unreal.AnimLayerState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(keyed: CheckBoxState = CheckBoxState.UNCHECKED,

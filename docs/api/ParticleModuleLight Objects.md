@@ -40,7 +40,7 @@ Particle Module Light
 
 <a id="unreal.ParticleModuleLight.inverse_exposure_blend"></a>
 
-#### inverse_exposure_blend
+#### inverse\_exposure\_blend
 
 ```python
 @property
@@ -53,7 +53,7 @@ This feature can cause issues with exposure particularly when used on the primar
 
 <a id="unreal.ParticleModuleLight.lighting_channels"></a>
 
-#### lighting_channels
+#### lighting\_channels
 
 ```python
 @property
@@ -66,7 +66,7 @@ These channels only apply to opaque materials, direct lighting, and dynamic ligh
 
 <a id="unreal.ParticleModuleLight.volumetric_scattering_intensity"></a>
 
-#### volumetric_scattering_intensity
+#### volumetric\_scattering\_intensity
 
 ```python
 @property

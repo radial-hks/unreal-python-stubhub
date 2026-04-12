@@ -19,10 +19,10 @@ Describes a shader function signature.
 
 <a id="unreal.ShaderFunctionDefinition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.DatasmithImportInfo"></a>
+<a id="unreal.GroomCacheInfo"></a>

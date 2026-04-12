@@ -23,7 +23,7 @@ Geometry Script Recompute UVs Options
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -61,7 +61,7 @@ def method(value: GeometryScriptUVFlattenMethod) -> None
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.island_source"></a>
 
-#### island_source
+#### island\_source
 
 ```python
 @property
@@ -72,7 +72,7 @@ def island_source() -> GeometryScriptUVIslandSource
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.island_source"></a>
 
-#### island_source
+#### island\_source
 
 ```python
 @island_source.setter
@@ -81,7 +81,7 @@ def island_source(value: GeometryScriptUVIslandSource) -> None
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.exp_map_options"></a>
 
-#### exp_map_options
+#### exp\_map\_options
 
 ```python
 @property
@@ -92,7 +92,7 @@ def exp_map_options() -> GeometryScriptExpMapUVOptions
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.exp_map_options"></a>
 
-#### exp_map_options
+#### exp\_map\_options
 
 ```python
 @exp_map_options.setter
@@ -101,7 +101,7 @@ def exp_map_options(value: GeometryScriptExpMapUVOptions) -> None
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.spectral_conformal_options"></a>
 
-#### spectral_conformal_options
+#### spectral\_conformal\_options
 
 ```python
 @property
@@ -112,7 +112,7 @@ def spectral_conformal_options() -> GeometryScriptSpectralConformalUVOptions
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.spectral_conformal_options"></a>
 
-#### spectral_conformal_options
+#### spectral\_conformal\_options
 
 ```python
 @spectral_conformal_options.setter
@@ -122,7 +122,7 @@ def spectral_conformal_options(
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.group_layer"></a>
 
-#### group_layer
+#### group\_layer
 
 ```python
 @property
@@ -133,7 +133,7 @@ def group_layer() -> GeometryScriptGroupLayer
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.group_layer"></a>
 
-#### group_layer
+#### group\_layer
 
 ```python
 @group_layer.setter
@@ -142,7 +142,7 @@ def group_layer(value: GeometryScriptGroupLayer) -> None
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.auto_align_islands_with_axes"></a>
 
-#### auto_align_islands_with_axes
+#### auto\_align\_islands\_with\_axes
 
 ```python
 @property
@@ -153,7 +153,7 @@ def auto_align_islands_with_axes() -> bool
 
 <a id="unreal.GeometryScriptRecomputeUVsOptions.auto_align_islands_with_axes"></a>
 
-#### auto_align_islands_with_axes
+#### auto\_align\_islands\_with\_axes
 
 ```python
 @auto_align_islands_with_axes.setter

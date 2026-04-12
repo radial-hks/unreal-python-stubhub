@@ -19,7 +19,7 @@ Determines how the geometry of a component will be incorporated in proxy (simpli
 
 <a id="unreal.HLODBatchingPolicy.MESH_SECTION"></a>
 
-#### MESH_SECTION
+#### MESH\_SECTION
 
 1: Batch this component geometry (using the lowest LOD) as a separate mesh section, grouping by material.
 

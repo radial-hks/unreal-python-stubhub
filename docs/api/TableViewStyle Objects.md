@@ -17,7 +17,7 @@ Represents the appearance of an STableView
 
 <a id="unreal.TableViewStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.TableViewStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @property
@@ -47,7 +47,7 @@ def background_brush() -> SlateBrush
 
 <a id="unreal.TableViewStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @background_brush.setter

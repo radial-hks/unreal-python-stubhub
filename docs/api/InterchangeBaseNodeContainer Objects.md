@@ -21,7 +21,7 @@ Translators fill this container, and the import/export managers read it to execu
 
 <a id="unreal.InterchangeBaseNodeContainer.set_node_parent_uid"></a>
 
-#### set_node_parent_uid
+#### set\_node\_parent\_uid
 
 ```python
 def set_node_parent_uid(node_unique_id: str, new_parent_node_uid: str) -> bool
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.save_to_file"></a>
 
-#### save_to_file
+#### save\_to\_file
 
 ```python
 def save_to_file(filename: str) -> None
@@ -53,7 +53,7 @@ Args:
 
 <a id="unreal.InterchangeBaseNodeContainer.reset_children_cache"></a>
 
-#### reset_children_cache
+#### reset\_children\_cache
 
 ```python
 def reset_children_cache() -> None
@@ -75,7 +75,7 @@ Empty the container.
 
 <a id="unreal.InterchangeBaseNodeContainer.replace_node"></a>
 
-#### replace_node
+#### replace\_node
 
 ```python
 def replace_node(node_unique_id: str,
@@ -91,7 +91,7 @@ Args:
 
 <a id="unreal.InterchangeBaseNodeContainer.load_from_file"></a>
 
-#### load_from_file
+#### load\_from\_file
 
 ```python
 def load_from_file(filename: str) -> None
@@ -105,7 +105,7 @@ Args:
 
 <a id="unreal.InterchangeBaseNodeContainer.is_node_uid_valid"></a>
 
-#### is_node_uid_valid
+#### is\_node\_uid\_valid
 
 ```python
 def is_node_uid_valid(node_unique_id: str) -> bool
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.get_roots"></a>
 
-#### get_roots
+#### get\_roots
 
 ```python
 def get_roots() -> Array[str]
@@ -138,7 +138,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.get_nodes"></a>
 
-#### get_nodes
+#### get\_nodes
 
 ```python
 def get_nodes(class_node: Class) -> Array[str]
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.get_node_children_uids"></a>
 
-#### get_node_children_uids
+#### get\_node\_children\_uids
 
 ```python
 def get_node_children_uids(node_unique_id: str) -> Array[str]
@@ -174,7 +174,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.get_node_children_count"></a>
 
-#### get_node_children_count
+#### get\_node\_children\_count
 
 ```python
 def get_node_children_count(node_unique_id: str) -> int
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.get_node_children"></a>
 
-#### get_node_children
+#### get\_node\_children
 
 ```python
 def get_node_children(node_unique_id: str,
@@ -210,7 +210,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.get_node"></a>
 
-#### get_node
+#### get\_node
 
 ```python
 def get_node(node_unique_id: str) -> InterchangeBaseNode
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.get_is_ancestor"></a>
 
-#### get_is_ancestor
+#### get\_is\_ancestor
 
 ```python
 def get_is_ancestor(node_unique_id: str, ancestor_uid: str) -> bool
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.get_factory_node"></a>
 
-#### get_factory_node
+#### get\_factory\_node
 
 ```python
 def get_factory_node(node_unique_id: str) -> InterchangeFactoryBaseNode
@@ -262,7 +262,7 @@ Returns:
 
 <a id="unreal.InterchangeBaseNodeContainer.compute_children_cache"></a>
 
-#### compute_children_cache
+#### compute\_children\_cache
 
 ```python
 def compute_children_cache() -> None
@@ -273,7 +273,7 @@ Fill the cache of children UIDs to optimize the GetNodeChildrenUids call.
 
 <a id="unreal.InterchangeBaseNodeContainer.add_node"></a>
 
-#### add_node
+#### add\_node
 
 ```python
 def add_node(node: InterchangeBaseNode) -> str

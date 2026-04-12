@@ -14,7 +14,7 @@ Provides access to a camera variable table.
 
 <a id="unreal.BlueprintCameraVariableTable.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

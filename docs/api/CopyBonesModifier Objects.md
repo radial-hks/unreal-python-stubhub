@@ -20,7 +20,7 @@ Animation Modifier to copy the transform of 'SourceBone(s)' to 'TargetBone(s)'
 
 <a id="unreal.CopyBonesModifier.bone_pairs"></a>
 
-#### bone_pairs
+#### bone\_pairs
 
 ```python
 @property
@@ -31,7 +31,7 @@ def bone_pairs() -> Array[BoneReferencePair]
 
 <a id="unreal.CopyBonesModifier.bone_pose_space"></a>
 
-#### bone_pose_space
+#### bone\_pose\_space
 
 ```python
 @property

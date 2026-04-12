@@ -19,7 +19,7 @@ Optional parameter struct for dynamic binding resolver functions.
 
 <a id="unreal.MovieSceneDynamicBindingResolveParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sequence: MovieSceneSequence = None,
@@ -49,7 +49,7 @@ def sequence(value: MovieSceneSequence) -> None
 
 <a id="unreal.MovieSceneDynamicBindingResolveParams.object_binding_id"></a>
 
-#### object_binding_id
+#### object\_binding\_id
 
 ```python
 @property
@@ -60,7 +60,7 @@ def object_binding_id() -> Guid
 
 <a id="unreal.MovieSceneDynamicBindingResolveParams.object_binding_id"></a>
 
-#### object_binding_id
+#### object\_binding\_id
 
 ```python
 @object_binding_id.setter
@@ -69,7 +69,7 @@ def object_binding_id(value: Guid) -> None
 
 <a id="unreal.MovieSceneDynamicBindingResolveParams.root_sequence"></a>
 
-#### root_sequence
+#### root\_sequence
 
 ```python
 @property
@@ -80,7 +80,7 @@ def root_sequence() -> MovieSceneSequence
 
 <a id="unreal.MovieSceneDynamicBindingResolveParams.root_sequence"></a>
 
-#### root_sequence
+#### root\_sequence
 
 ```python
 @root_sequence.setter

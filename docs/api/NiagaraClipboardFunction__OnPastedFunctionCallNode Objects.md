@@ -1,0 +1,26 @@
+## NiagaraClipboardFunction\_OnPastedFunctionCallNode Objects
+
+```python
+class NiagaraClipboardFunction_OnPastedFunctionCallNode(DelegateBase)
+```
+
+On Pasted Function Call Node  Delegate Signature
+
+Args:
+    pasted_function_call (NiagaraNodeFunctionCall):
+
+**C++ Source:**
+
+- **Plugin**: Niagara
+- **Module**: NiagaraEditor
+- **File**: NiagaraClipboard.h
+
+<a id="unreal.NiagaraClipboardFunction_OnPastedFunctionCallNode.__init__"></a>
+
+#### \_\_init\_\_
+
+```python
+def __init__(*args: Any, **kwargs: Any) -> None
+```
+
+<a id="unreal.OnPCGGraphCancelledExternal"></a>

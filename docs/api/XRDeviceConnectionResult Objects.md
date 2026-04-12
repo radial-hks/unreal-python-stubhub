@@ -13,25 +13,25 @@ Enumeration of results from Connecting to Remote XR device
 
 <a id="unreal.XRDeviceConnectionResult.NO_TRACKING_SYSTEM"></a>
 
-#### NO_TRACKING_SYSTEM
+#### NO\_TRACKING\_SYSTEM
 
 0
 
 <a id="unreal.XRDeviceConnectionResult.FEATURE_NOT_SUPPORTED"></a>
 
-#### FEATURE_NOT_SUPPORTED
+#### FEATURE\_NOT\_SUPPORTED
 
 1
 
 <a id="unreal.XRDeviceConnectionResult.NO_VALID_VIEWPORT"></a>
 
-#### NO_VALID_VIEWPORT
+#### NO\_VALID\_VIEWPORT
 
 2
 
 <a id="unreal.XRDeviceConnectionResult.MISC_FAILURE"></a>
 
-#### MISC_FAILURE
+#### MISC\_FAILURE
 
 3
 

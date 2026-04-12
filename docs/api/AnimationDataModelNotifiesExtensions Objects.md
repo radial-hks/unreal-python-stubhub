@@ -13,7 +13,7 @@ Animation Data Model Notifies Extensions
 
 <a id="unreal.AnimationDataModelNotifiesExtensions.get_payload"></a>
 
-#### get_payload
+#### get\_payload
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.AnimationDataModelNotifiesExtensions.copy_payload"></a>
 
-#### copy_payload
+#### copy\_payload
 
 ```python
 @classmethod

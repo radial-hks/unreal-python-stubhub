@@ -14,37 +14,37 @@ EGroom Basis Type
 
 <a id="unreal.GroomBasisType.NO_BASIS"></a>
 
-#### NO_BASIS
+#### NO\_BASIS
 
 0
 
 <a id="unreal.GroomBasisType.BEZIER_BASIS"></a>
 
-#### BEZIER_BASIS
+#### BEZIER\_BASIS
 
 1
 
 <a id="unreal.GroomBasisType.BSPLINE_BASIS"></a>
 
-#### BSPLINE_BASIS
+#### BSPLINE\_BASIS
 
 2
 
 <a id="unreal.GroomBasisType.CATMULLROM_BASIS"></a>
 
-#### CATMULLROM_BASIS
+#### CATMULLROM\_BASIS
 
 3
 
 <a id="unreal.GroomBasisType.HERMITE_BASIS"></a>
 
-#### HERMITE_BASIS
+#### HERMITE\_BASIS
 
 4
 
 <a id="unreal.GroomBasisType.POWER_BASIS"></a>
 
-#### POWER_BASIS
+#### POWER\_BASIS
 
 5
 

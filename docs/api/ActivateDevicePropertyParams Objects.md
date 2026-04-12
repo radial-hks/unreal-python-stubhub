@@ -25,7 +25,7 @@ Parameters for the UInputDeviceSubsystem::ActivateDeviceProperty function
 
 <a id="unreal.ActivateDevicePropertyParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(user_id: PlatformUserId = [],
@@ -37,7 +37,7 @@ def __init__(user_id: PlatformUserId = [],
 
 <a id="unreal.ActivateDevicePropertyParams.user_id"></a>
 
-#### user_id
+#### user\_id
 
 ```python
 @property
@@ -48,7 +48,7 @@ def user_id() -> PlatformUserId
 
 <a id="unreal.ActivateDevicePropertyParams.user_id"></a>
 
-#### user_id
+#### user\_id
 
 ```python
 @user_id.setter
@@ -57,7 +57,7 @@ def user_id(value: PlatformUserId) -> None
 
 <a id="unreal.ActivateDevicePropertyParams.device_id"></a>
 
-#### device_id
+#### device\_id
 
 ```python
 @property
@@ -71,7 +71,7 @@ The default input device is obtained from IPlatformInputDeviceMapper::GetPrimary
 
 <a id="unreal.ActivateDevicePropertyParams.device_id"></a>
 
-#### device_id
+#### device\_id
 
 ```python
 @device_id.setter
@@ -101,7 +101,7 @@ def looping(value: bool) -> None
 
 <a id="unreal.ActivateDevicePropertyParams.ignore_time_dilation"></a>
 
-#### ignore_time_dilation
+#### ignore\_time\_dilation
 
 ```python
 @property
@@ -112,7 +112,7 @@ def ignore_time_dilation() -> bool
 
 <a id="unreal.ActivateDevicePropertyParams.ignore_time_dilation"></a>
 
-#### ignore_time_dilation
+#### ignore\_time\_dilation
 
 ```python
 @ignore_time_dilation.setter
@@ -121,7 +121,7 @@ def ignore_time_dilation(value: bool) -> None
 
 <a id="unreal.ActivateDevicePropertyParams.play_while_paused"></a>
 
-#### play_while_paused
+#### play\_while\_paused
 
 ```python
 @property
@@ -132,7 +132,7 @@ def play_while_paused() -> bool
 
 <a id="unreal.ActivateDevicePropertyParams.play_while_paused"></a>
 
-#### play_while_paused
+#### play\_while\_paused
 
 ```python
 @play_while_paused.setter

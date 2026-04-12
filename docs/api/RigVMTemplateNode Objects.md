@@ -16,7 +16,7 @@ the template's template.
 
 <a id="unreal.RigVMTemplateNode.is_singleton"></a>
 
-#### is_singleton
+#### is\_singleton
 
 ```python
 def is_singleton() -> bool
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.RigVMTemplateNode.is_resolved"></a>
 
-#### is_resolved
+#### is\_resolved
 
 ```python
 def is_resolved() -> bool
@@ -44,7 +44,7 @@ Returns:
 
 <a id="unreal.RigVMTemplateNode.is_fully_unresolved"></a>
 
-#### is_fully_unresolved
+#### is\_fully\_unresolved
 
 ```python
 def is_fully_unresolved() -> bool
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.RigVMTemplateNode.get_script_struct"></a>
 
-#### get_script_struct
+#### get\_script\_struct
 
 ```python
 def get_script_struct() -> ScriptStruct
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.RigVMTemplateNode.get_notation"></a>
 
-#### get_notation
+#### get\_notation
 
 ```python
 def get_notation() -> Name

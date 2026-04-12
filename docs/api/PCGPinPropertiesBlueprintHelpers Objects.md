@@ -14,7 +14,7 @@ Helper class to allow the BP to call the custom functions on FPCGPinProperties.
 
 <a id="unreal.PCGPinPropertiesBlueprintHelpers.set_required_pin"></a>
 
-#### set_required_pin
+#### set\_required\_pin
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.PCGPinPropertiesBlueprintHelpers.set_normal_pin"></a>
 
-#### set_normal_pin
+#### set\_normal\_pin
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.PCGPinPropertiesBlueprintHelpers.set_allow_multiple_connections"></a>
 
-#### set_allow_multiple_connections
+#### set\_allow\_multiple\_connections
 
 ```python
 @classmethod
@@ -78,7 +78,7 @@ Returns:
 
 <a id="unreal.PCGPinPropertiesBlueprintHelpers.set_advanced_pin"></a>
 
-#### set_advanced_pin
+#### set\_advanced\_pin
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.PCGPinPropertiesBlueprintHelpers.is_required_pin"></a>
 
-#### is_required_pin
+#### is\_required\_pin
 
 ```python
 @classmethod
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.PCGPinPropertiesBlueprintHelpers.is_normal_pin"></a>
 
-#### is_normal_pin
+#### is\_normal\_pin
 
 ```python
 @classmethod
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.PCGPinPropertiesBlueprintHelpers.is_advanced_pin"></a>
 
-#### is_advanced_pin
+#### is\_advanced\_pin
 
 ```python
 @classmethod
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.PCGPinPropertiesBlueprintHelpers.allows_multiple_connections"></a>
 
-#### allows_multiple_connections
+#### allows\_multiple\_connections
 
 ```python
 @classmethod

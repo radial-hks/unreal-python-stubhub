@@ -17,7 +17,7 @@ Attribute type supporting the legacy TVariant<int32> atttributes
 
 <a id="unreal.IntegerAnimationAttribute.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: int = 0) -> None

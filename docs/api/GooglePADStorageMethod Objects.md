@@ -14,25 +14,25 @@ The method used to store an Asset Pack on the device.
 
 <a id="unreal.GooglePADStorageMethod.ASSET_PACK_STORAGE_FILES"></a>
 
-#### ASSET_PACK_STORAGE_FILES
+#### ASSET\_PACK\_STORAGE\_FILES
 
 0: The Asset Pack is unpacked into a folder containing individual asset files. Assets can be accessed via standard File APIs.
 
 <a id="unreal.GooglePADStorageMethod.ASSET_PACK_STORAGE_APK"></a>
 
-#### ASSET_PACK_STORAGE_APK
+#### ASSET\_PACK\_STORAGE\_APK
 
 1: The Asset Pack is installed as an APK containing packed asset files. Assets can be accessed via AAssetManager.
 
 <a id="unreal.GooglePADStorageMethod.ASSET_PACK_STORAGE_UNKNOWN"></a>
 
-#### ASSET_PACK_STORAGE_UNKNOWN
+#### ASSET\_PACK\_STORAGE\_UNKNOWN
 
 2: Nothing is known, perhaps due to an error.
 
 <a id="unreal.GooglePADStorageMethod.ASSET_PACK_STORAGE_NOT_INSTALLED"></a>
 
-#### ASSET_PACK_STORAGE_NOT_INSTALLED
+#### ASSET\_PACK\_STORAGE\_NOT\_INSTALLED
 
 3: The Asset Pack is not installed.
 

@@ -14,7 +14,7 @@ A simple 2D Polygon with no holes
 
 <a id="unreal.GeometryScriptSimplePolygon.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptSimplePolygon.set_polygon_vertex"></a>
 
-#### set_polygon_vertex
+#### set\_polygon\_vertex
 
 ```python
 def set_polygon_vertex(vertex_index: int, position: Vector2D) -> bool
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimplePolygon.get_polygon_vertex_count"></a>
 
-#### get_polygon_vertex_count
+#### get\_polygon\_vertex\_count
 
 ```python
 def get_polygon_vertex_count() -> int
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimplePolygon.get_polygon_vertex"></a>
 
-#### get_polygon_vertex
+#### get\_polygon\_vertex
 
 ```python
 def get_polygon_vertex(vertex_index: int) -> Tuple[Vector2D, bool]
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimplePolygon.get_polygon_tangent"></a>
 
-#### get_polygon_tangent
+#### get\_polygon\_tangent
 
 ```python
 def get_polygon_tangent(vertex_index: int) -> Tuple[Vector2D, bool]
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimplePolygon.get_polygon_bounds"></a>
 
-#### get_polygon_bounds
+#### get\_polygon\_bounds
 
 ```python
 def get_polygon_bounds() -> Box2D
@@ -111,7 +111,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimplePolygon.get_polygon_area"></a>
 
-#### get_polygon_area
+#### get\_polygon\_area
 
 ```python
 def get_polygon_area() -> float
@@ -125,7 +125,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimplePolygon.get_polygon_arc_length"></a>
 
-#### get_polygon_arc_length
+#### get\_polygon\_arc\_length
 
 ```python
 def get_polygon_arc_length() -> float
@@ -139,7 +139,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimplePolygon.add_polygon_vertex"></a>
 
-#### add_polygon_vertex
+#### add\_polygon\_vertex
 
 ```python
 def add_polygon_vertex(position: Vector2D) -> int
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimplePolygon.create_polygon_list_from_single_polygon"></a>
 
-#### create_polygon_list_from_single_polygon
+#### create\_polygon\_list\_from\_single\_polygon
 
 ```python
 def create_polygon_list_from_single_polygon(

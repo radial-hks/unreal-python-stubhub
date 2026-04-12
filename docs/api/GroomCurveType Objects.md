@@ -26,7 +26,7 @@ EGroom Curve Type
 
 <a id="unreal.GroomCurveType.VARIABLE_ORDER"></a>
 
-#### VARIABLE_ORDER
+#### VARIABLE\_ORDER
 
 2
 

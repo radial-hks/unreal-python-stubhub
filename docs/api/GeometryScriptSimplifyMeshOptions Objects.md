@@ -24,7 +24,7 @@ Geometry Script Simplify Mesh Options
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -61,7 +61,7 @@ def method(value: GeometryScriptRemoveMeshSimplificationType) -> None
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.allow_seam_collapse"></a>
 
-#### allow_seam_collapse
+#### allow\_seam\_collapse
 
 ```python
 @property
@@ -72,7 +72,7 @@ def allow_seam_collapse() -> bool
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.allow_seam_collapse"></a>
 
-#### allow_seam_collapse
+#### allow\_seam\_collapse
 
 ```python
 @allow_seam_collapse.setter
@@ -81,7 +81,7 @@ def allow_seam_collapse(value: bool) -> None
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.allow_seam_smoothing"></a>
 
-#### allow_seam_smoothing
+#### allow\_seam\_smoothing
 
 ```python
 @property
@@ -92,7 +92,7 @@ def allow_seam_smoothing() -> bool
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.allow_seam_smoothing"></a>
 
-#### allow_seam_smoothing
+#### allow\_seam\_smoothing
 
 ```python
 @allow_seam_smoothing.setter
@@ -101,7 +101,7 @@ def allow_seam_smoothing(value: bool) -> None
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.allow_seam_splits"></a>
 
-#### allow_seam_splits
+#### allow\_seam\_splits
 
 ```python
 @property
@@ -112,7 +112,7 @@ def allow_seam_splits() -> bool
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.allow_seam_splits"></a>
 
-#### allow_seam_splits
+#### allow\_seam\_splits
 
 ```python
 @allow_seam_splits.setter
@@ -121,7 +121,7 @@ def allow_seam_splits(value: bool) -> None
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.preserve_vertex_positions"></a>
 
-#### preserve_vertex_positions
+#### preserve\_vertex\_positions
 
 ```python
 @property
@@ -132,7 +132,7 @@ def preserve_vertex_positions() -> bool
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.preserve_vertex_positions"></a>
 
-#### preserve_vertex_positions
+#### preserve\_vertex\_positions
 
 ```python
 @preserve_vertex_positions.setter
@@ -141,7 +141,7 @@ def preserve_vertex_positions(value: bool) -> None
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.retain_quadric_memory"></a>
 
-#### retain_quadric_memory
+#### retain\_quadric\_memory
 
 ```python
 @property
@@ -152,7 +152,7 @@ def retain_quadric_memory() -> bool
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.retain_quadric_memory"></a>
 
-#### retain_quadric_memory
+#### retain\_quadric\_memory
 
 ```python
 @retain_quadric_memory.setter
@@ -161,7 +161,7 @@ def retain_quadric_memory(value: bool) -> None
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.auto_compact"></a>
 
-#### auto_compact
+#### auto\_compact
 
 ```python
 @property
@@ -172,7 +172,7 @@ def auto_compact() -> bool
 
 <a id="unreal.GeometryScriptSimplifyMeshOptions.auto_compact"></a>
 
-#### auto_compact
+#### auto\_compact
 
 ```python
 @auto_compact.setter

@@ -14,7 +14,7 @@ A handle to a camera animation running in UCameraAnimationCameraModifier
 
 <a id="unreal.CameraAnimationHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

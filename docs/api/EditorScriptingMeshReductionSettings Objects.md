@@ -8,7 +8,7 @@ deprecated: 'EditorScriptingMeshReductionSettings' was renamed to 'StaticMeshRed
 
 <a id="unreal.EditorScriptingMeshReductionSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(percent_triangles: float = 0.000000,

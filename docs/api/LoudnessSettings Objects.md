@@ -25,7 +25,7 @@ Settings for a ULoudness analyzer.
 
 <a id="unreal.LoudnessSettings.analysis_period"></a>
 
-#### analysis_period
+#### analysis\_period
 
 ```python
 @property
@@ -36,7 +36,7 @@ def analysis_period() -> float
 
 <a id="unreal.LoudnessSettings.minimum_frequency"></a>
 
-#### minimum_frequency
+#### minimum\_frequency
 
 ```python
 @property
@@ -47,7 +47,7 @@ def minimum_frequency() -> float
 
 <a id="unreal.LoudnessSettings.maximum_frequency"></a>
 
-#### maximum_frequency
+#### maximum\_frequency
 
 ```python
 @property
@@ -58,7 +58,7 @@ def maximum_frequency() -> float
 
 <a id="unreal.LoudnessSettings.curve_type"></a>
 
-#### curve_type
+#### curve\_type
 
 ```python
 @property
@@ -69,7 +69,7 @@ def curve_type() -> LoudnessCurveTypeEnum
 
 <a id="unreal.LoudnessSettings.noise_floor_db"></a>
 
-#### noise_floor_db
+#### noise\_floor\_db
 
 ```python
 @property
@@ -80,7 +80,7 @@ def noise_floor_db() -> float
 
 <a id="unreal.LoudnessSettings.expected_max_loudness"></a>
 
-#### expected_max_loudness
+#### expected\_max\_loudness
 
 ```python
 @property

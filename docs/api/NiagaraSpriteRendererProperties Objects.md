@@ -86,7 +86,7 @@ Niagara Sprite Renderer Properties
 
 <a id="unreal.NiagaraSpriteRendererProperties.use_material_cutout_texture"></a>
 
-#### use_material_cutout_texture
+#### use\_material\_cutout\_texture
 
 ```python
 @property

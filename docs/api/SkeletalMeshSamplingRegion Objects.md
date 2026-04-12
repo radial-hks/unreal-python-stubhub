@@ -22,7 +22,7 @@ Defined a named region on a mesh that will have associated triangles and bones f
 
 <a id="unreal.SkeletalMeshSamplingRegion.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

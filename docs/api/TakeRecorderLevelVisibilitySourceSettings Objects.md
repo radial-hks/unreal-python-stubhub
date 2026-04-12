@@ -21,7 +21,7 @@ A recording source that records level visibilitiy
 
 <a id="unreal.TakeRecorderLevelVisibilitySourceSettings.level_visibility_track_name"></a>
 
-#### level_visibility_track_name
+#### level\_visibility\_track\_name
 
 ```python
 @property
@@ -32,7 +32,7 @@ def level_visibility_track_name() -> Text
 
 <a id="unreal.TakeRecorderLevelVisibilitySourceSettings.level_visibility_track_name"></a>
 
-#### level_visibility_track_name
+#### level\_visibility\_track\_name
 
 ```python
 @level_visibility_track_name.setter

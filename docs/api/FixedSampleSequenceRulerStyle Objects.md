@@ -28,7 +28,7 @@ Represents the appearance of a Sampled Sequence Time Ruler
 
 <a id="unreal.FixedSampleSequenceRulerStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(handle_width: float = 0.000000,
@@ -82,7 +82,7 @@ def __init__(handle_width: float = 0.000000,
 
 <a id="unreal.FixedSampleSequenceRulerStyle.handle_width"></a>
 
-#### handle_width
+#### handle\_width
 
 ```python
 @property
@@ -93,7 +93,7 @@ def handle_width() -> float
 
 <a id="unreal.FixedSampleSequenceRulerStyle.handle_width"></a>
 
-#### handle_width
+#### handle\_width
 
 ```python
 @handle_width.setter
@@ -102,7 +102,7 @@ def handle_width(value: float) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.handle_color"></a>
 
-#### handle_color
+#### handle\_color
 
 ```python
 @property
@@ -113,7 +113,7 @@ def handle_color() -> SlateColor
 
 <a id="unreal.FixedSampleSequenceRulerStyle.handle_color"></a>
 
-#### handle_color
+#### handle\_color
 
 ```python
 @handle_color.setter
@@ -122,7 +122,7 @@ def handle_color(value: SlateColor) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.handle_brush"></a>
 
-#### handle_brush
+#### handle\_brush
 
 ```python
 @property
@@ -133,7 +133,7 @@ def handle_brush() -> SlateBrush
 
 <a id="unreal.FixedSampleSequenceRulerStyle.handle_brush"></a>
 
-#### handle_brush
+#### handle\_brush
 
 ```python
 @handle_brush.setter
@@ -142,7 +142,7 @@ def handle_brush(value: SlateBrush) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.ticks_color"></a>
 
-#### ticks_color
+#### ticks\_color
 
 ```python
 @property
@@ -153,7 +153,7 @@ def ticks_color() -> SlateColor
 
 <a id="unreal.FixedSampleSequenceRulerStyle.ticks_color"></a>
 
-#### ticks_color
+#### ticks\_color
 
 ```python
 @ticks_color.setter
@@ -162,7 +162,7 @@ def ticks_color(value: SlateColor) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.ticks_text_color"></a>
 
-#### ticks_text_color
+#### ticks\_text\_color
 
 ```python
 @property
@@ -173,7 +173,7 @@ def ticks_text_color() -> SlateColor
 
 <a id="unreal.FixedSampleSequenceRulerStyle.ticks_text_color"></a>
 
-#### ticks_text_color
+#### ticks\_text\_color
 
 ```python
 @ticks_text_color.setter
@@ -182,7 +182,7 @@ def ticks_text_color(value: SlateColor) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.ticks_text_font"></a>
 
-#### ticks_text_font
+#### ticks\_text\_font
 
 ```python
 @property
@@ -193,7 +193,7 @@ def ticks_text_font() -> SlateFontInfo
 
 <a id="unreal.FixedSampleSequenceRulerStyle.ticks_text_font"></a>
 
-#### ticks_text_font
+#### ticks\_text\_font
 
 ```python
 @ticks_text_font.setter
@@ -202,7 +202,7 @@ def ticks_text_font(value: SlateFontInfo) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.ticks_text_offset"></a>
 
-#### ticks_text_offset
+#### ticks\_text\_offset
 
 ```python
 @property
@@ -213,7 +213,7 @@ def ticks_text_offset() -> float
 
 <a id="unreal.FixedSampleSequenceRulerStyle.ticks_text_offset"></a>
 
-#### ticks_text_offset
+#### ticks\_text\_offset
 
 ```python
 @ticks_text_offset.setter
@@ -222,7 +222,7 @@ def ticks_text_offset(value: float) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @property
@@ -233,7 +233,7 @@ def background_color() -> SlateColor
 
 <a id="unreal.FixedSampleSequenceRulerStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @background_color.setter
@@ -242,7 +242,7 @@ def background_color(value: SlateColor) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @property
@@ -253,7 +253,7 @@ def background_brush() -> SlateBrush
 
 <a id="unreal.FixedSampleSequenceRulerStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @background_brush.setter
@@ -262,7 +262,7 @@ def background_brush(value: SlateBrush) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.desired_width"></a>
 
-#### desired_width
+#### desired\_width
 
 ```python
 @property
@@ -273,7 +273,7 @@ def desired_width() -> float
 
 <a id="unreal.FixedSampleSequenceRulerStyle.desired_width"></a>
 
-#### desired_width
+#### desired\_width
 
 ```python
 @desired_width.setter
@@ -282,7 +282,7 @@ def desired_width(value: float) -> None
 
 <a id="unreal.FixedSampleSequenceRulerStyle.desired_height"></a>
 
-#### desired_height
+#### desired\_height
 
 ```python
 @property
@@ -293,7 +293,7 @@ def desired_height() -> float
 
 <a id="unreal.FixedSampleSequenceRulerStyle.desired_height"></a>
 
-#### desired_height
+#### desired\_height
 
 ```python
 @desired_height.setter

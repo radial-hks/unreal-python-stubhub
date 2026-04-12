@@ -23,7 +23,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Misc
 
 <a id="unreal.Timecode.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(hours: int = 0,
@@ -136,7 +136,7 @@ def subframe(value: float) -> None
 
 <a id="unreal.Timecode.drop_frame_format"></a>
 
-#### drop_frame_format
+#### drop\_frame\_format
 
 ```python
 @property
@@ -147,7 +147,7 @@ def drop_frame_format() -> bool
 
 <a id="unreal.Timecode.drop_frame_format"></a>
 
-#### drop_frame_format
+#### drop\_frame\_format
 
 ```python
 @drop_frame_format.setter

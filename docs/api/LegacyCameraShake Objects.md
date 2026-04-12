@@ -36,7 +36,7 @@ Legacy camera shake which can do either oscillation or run camera anims.
 
 <a id="unreal.LegacyCameraShake.rot_oscillation"></a>
 
-#### rot_oscillation
+#### rot\_oscillation
 
 ```python
 @property
@@ -47,7 +47,7 @@ def rot_oscillation() -> ROscillator
 
 <a id="unreal.LegacyCameraShake.rot_oscillation"></a>
 
-#### rot_oscillation
+#### rot\_oscillation
 
 ```python
 @rot_oscillation.setter
@@ -56,7 +56,7 @@ def rot_oscillation(value: ROscillator) -> None
 
 <a id="unreal.LegacyCameraShake.loc_oscillation"></a>
 
-#### loc_oscillation
+#### loc\_oscillation
 
 ```python
 @property
@@ -67,7 +67,7 @@ def loc_oscillation() -> VOscillator
 
 <a id="unreal.LegacyCameraShake.loc_oscillation"></a>
 
-#### loc_oscillation
+#### loc\_oscillation
 
 ```python
 @loc_oscillation.setter
@@ -76,7 +76,7 @@ def loc_oscillation(value: VOscillator) -> None
 
 <a id="unreal.LegacyCameraShake.fov_oscillation"></a>
 
-#### fov_oscillation
+#### fov\_oscillation
 
 ```python
 @property
@@ -87,7 +87,7 @@ def fov_oscillation() -> FOscillator
 
 <a id="unreal.LegacyCameraShake.fov_oscillation"></a>
 
-#### fov_oscillation
+#### fov\_oscillation
 
 ```python
 @fov_oscillation.setter
@@ -96,7 +96,7 @@ def fov_oscillation(value: FOscillator) -> None
 
 <a id="unreal.LegacyCameraShake.oscillator_time_remaining"></a>
 
-#### oscillator_time_remaining
+#### oscillator\_time\_remaining
 
 ```python
 @property
@@ -107,7 +107,7 @@ def oscillator_time_remaining() -> float
 
 <a id="unreal.LegacyCameraShake.start_legacy_camera_shake_from_source"></a>
 
-#### start_legacy_camera_shake_from_source
+#### start\_legacy\_camera\_shake\_from\_source
 
 ```python
 @classmethod
@@ -139,7 +139,7 @@ Returns:
 
 <a id="unreal.LegacyCameraShake.start_matinee_camera_shake_from_source"></a>
 
-#### start_matinee_camera_shake_from_source
+#### start\_matinee\_camera\_shake\_from\_source
 
 ```python
 @classmethod
@@ -158,7 +158,7 @@ deprecated: 'start_matinee_camera_shake_from_source' was renamed to 'start_legac
 
 <a id="unreal.LegacyCameraShake.start_legacy_camera_shake"></a>
 
-#### start_legacy_camera_shake
+#### start\_legacy\_camera\_shake
 
 ```python
 @classmethod
@@ -188,7 +188,7 @@ Returns:
 
 <a id="unreal.LegacyCameraShake.start_matinee_camera_shake"></a>
 
-#### start_matinee_camera_shake
+#### start\_matinee\_camera\_shake
 
 ```python
 @classmethod
@@ -206,7 +206,7 @@ deprecated: 'start_matinee_camera_shake' was renamed to 'start_legacy_camera_sha
 
 <a id="unreal.LegacyCameraShake.receive_stop_shake"></a>
 
-#### receive_stop_shake
+#### receive\_stop\_shake
 
 ```python
 def receive_stop_shake(immediately: bool) -> None
@@ -220,7 +220,7 @@ Args:
 
 <a id="unreal.LegacyCameraShake.receive_play_shake"></a>
 
-#### receive_play_shake
+#### receive\_play\_shake
 
 ```python
 def receive_play_shake(scale: float) -> None
@@ -234,7 +234,7 @@ Args:
 
 <a id="unreal.LegacyCameraShake.receive_is_finished"></a>
 
-#### receive_is_finished
+#### receive\_is\_finished
 
 ```python
 def receive_is_finished() -> bool
@@ -248,7 +248,7 @@ Returns:
 
 <a id="unreal.LegacyCameraShake.blueprint_update_camera_shake"></a>
 
-#### blueprint_update_camera_shake
+#### blueprint\_update\_camera\_shake
 
 ```python
 def blueprint_update_camera_shake(delta_time: float, alpha: float,

@@ -30,7 +30,7 @@ Capsule shape used for collision. Z axis is capsule axis.
 
 <a id="unreal.KSphylElem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

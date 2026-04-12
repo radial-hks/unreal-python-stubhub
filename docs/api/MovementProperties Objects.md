@@ -21,7 +21,7 @@ Movement capabilities, determining available movement options for Pawns and used
 
 <a id="unreal.MovementProperties.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(can_crouch: bool = False,
@@ -33,7 +33,7 @@ def __init__(can_crouch: bool = False,
 
 <a id="unreal.MovementProperties.can_crouch"></a>
 
-#### can_crouch
+#### can\_crouch
 
 ```python
 @property
@@ -44,7 +44,7 @@ def can_crouch() -> bool
 
 <a id="unreal.MovementProperties.can_crouch"></a>
 
-#### can_crouch
+#### can\_crouch
 
 ```python
 @can_crouch.setter
@@ -53,7 +53,7 @@ def can_crouch(value: bool) -> None
 
 <a id="unreal.MovementProperties.can_jump"></a>
 
-#### can_jump
+#### can\_jump
 
 ```python
 @property
@@ -64,7 +64,7 @@ def can_jump() -> bool
 
 <a id="unreal.MovementProperties.can_jump"></a>
 
-#### can_jump
+#### can\_jump
 
 ```python
 @can_jump.setter
@@ -73,7 +73,7 @@ def can_jump(value: bool) -> None
 
 <a id="unreal.MovementProperties.can_walk"></a>
 
-#### can_walk
+#### can\_walk
 
 ```python
 @property
@@ -84,7 +84,7 @@ def can_walk() -> bool
 
 <a id="unreal.MovementProperties.can_walk"></a>
 
-#### can_walk
+#### can\_walk
 
 ```python
 @can_walk.setter
@@ -93,7 +93,7 @@ def can_walk(value: bool) -> None
 
 <a id="unreal.MovementProperties.can_swim"></a>
 
-#### can_swim
+#### can\_swim
 
 ```python
 @property
@@ -104,7 +104,7 @@ def can_swim() -> bool
 
 <a id="unreal.MovementProperties.can_swim"></a>
 
-#### can_swim
+#### can\_swim
 
 ```python
 @can_swim.setter
@@ -113,7 +113,7 @@ def can_swim(value: bool) -> None
 
 <a id="unreal.MovementProperties.can_fly"></a>
 
-#### can_fly
+#### can\_fly
 
 ```python
 @property
@@ -124,7 +124,7 @@ def can_fly() -> bool
 
 <a id="unreal.MovementProperties.can_fly"></a>
 
-#### can_fly
+#### can\_fly
 
 ```python
 @can_fly.setter

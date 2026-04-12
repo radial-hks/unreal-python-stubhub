@@ -55,7 +55,7 @@ Rendered by using material instead of texture.
 
 <a id="unreal.AudioMaterialEnvelope.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -66,7 +66,7 @@ def widget_style() -> AudioMaterialEnvelopeStyle
 
 <a id="unreal.AudioMaterialEnvelope.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -75,7 +75,7 @@ def widget_style(value: AudioMaterialEnvelopeStyle) -> None
 
 <a id="unreal.AudioMaterialEnvelope.envelope_settings"></a>
 
-#### envelope_settings
+#### envelope\_settings
 
 ```python
 @property
@@ -86,7 +86,7 @@ def envelope_settings() -> AudioMaterialEnvelopeSettings
 
 <a id="unreal.AudioMaterialEnvelope.envelope_settings"></a>
 
-#### envelope_settings
+#### envelope\_settings
 
 ```python
 @envelope_settings.setter

@@ -14,7 +14,7 @@ Blueprint support for FMetasoundFrontendLiteral
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_string_meta_sound_literal"></a>
 
-#### create_string_meta_sound_literal
+#### create\_string\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_string_array_meta_sound_literal"></a>
 
-#### create_string_array_meta_sound_literal
+#### create\_string\_array\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -52,7 +52,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_object_meta_sound_literal"></a>
 
-#### create_object_meta_sound_literal
+#### create\_object\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -71,7 +71,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_object_array_meta_sound_literal"></a>
 
-#### create_object_array_meta_sound_literal
+#### create\_object\_array\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_meta_sound_literal_from_param"></a>
 
-#### create_meta_sound_literal_from_param
+#### create\_meta\_sound\_literal\_from\_param
 
 ```python
 @classmethod
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_int_meta_sound_literal"></a>
 
-#### create_int_meta_sound_literal
+#### create\_int\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -127,7 +127,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_int_array_meta_sound_literal"></a>
 
-#### create_int_array_meta_sound_literal
+#### create\_int\_array\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_float_meta_sound_literal"></a>
 
-#### create_float_meta_sound_literal
+#### create\_float\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_float_array_meta_sound_literal"></a>
 
-#### create_float_array_meta_sound_literal
+#### create\_float\_array\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_bool_meta_sound_literal"></a>
 
-#### create_bool_meta_sound_literal
+#### create\_bool\_meta\_sound\_literal
 
 ```python
 @classmethod
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.MetasoundFrontendLiteralBlueprintAccess.create_bool_array_meta_sound_literal"></a>
 
-#### create_bool_array_meta_sound_literal
+#### create\_bool\_array\_meta\_sound\_literal
 
 ```python
 @classmethod

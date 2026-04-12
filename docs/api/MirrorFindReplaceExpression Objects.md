@@ -19,7 +19,7 @@ Find and Replace expressions used to generate mirror tables
 
 <a id="unreal.MirrorFindReplaceExpression.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

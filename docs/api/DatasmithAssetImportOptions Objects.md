@@ -14,7 +14,7 @@ Datasmith Asset Import Options
 
 <a id="unreal.DatasmithAssetImportOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

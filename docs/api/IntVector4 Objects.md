@@ -21,7 +21,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.IntVector4.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: int = 0, y: int = 0, z: int = 0, w: int = 0) -> None

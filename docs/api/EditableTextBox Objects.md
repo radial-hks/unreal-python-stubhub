@@ -93,7 +93,7 @@ def text(value: Text) -> None
 
 <a id="unreal.EditableTextBox.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -104,7 +104,7 @@ def widget_style() -> EditableTextBoxStyle
 
 <a id="unreal.EditableTextBox.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -113,7 +113,7 @@ def widget_style(value: EditableTextBoxStyle) -> None
 
 <a id="unreal.EditableTextBox.hint_text"></a>
 
-#### hint_text
+#### hint\_text
 
 ```python
 @property
@@ -124,7 +124,7 @@ def hint_text() -> Text
 
 <a id="unreal.EditableTextBox.hint_text"></a>
 
-#### hint_text
+#### hint\_text
 
 ```python
 @hint_text.setter
@@ -133,7 +133,7 @@ def hint_text(value: Text) -> None
 
 <a id="unreal.EditableTextBox.is_read_only"></a>
 
-#### is_read_only
+#### is\_read\_only
 
 ```python
 @property
@@ -144,7 +144,7 @@ def is_read_only() -> bool
 
 <a id="unreal.EditableTextBox.is_read_only"></a>
 
-#### is_read_only
+#### is\_read\_only
 
 ```python
 @is_read_only.setter
@@ -153,7 +153,7 @@ def is_read_only(value: bool) -> None
 
 <a id="unreal.EditableTextBox.is_password"></a>
 
-#### is_password
+#### is\_password
 
 ```python
 @property
@@ -164,7 +164,7 @@ def is_password() -> bool
 
 <a id="unreal.EditableTextBox.is_password"></a>
 
-#### is_password
+#### is\_password
 
 ```python
 @is_password.setter
@@ -173,7 +173,7 @@ def is_password(value: bool) -> None
 
 <a id="unreal.EditableTextBox.minimum_desired_width"></a>
 
-#### minimum_desired_width
+#### minimum\_desired\_width
 
 ```python
 @property
@@ -184,7 +184,7 @@ def minimum_desired_width() -> float
 
 <a id="unreal.EditableTextBox.minimum_desired_width"></a>
 
-#### minimum_desired_width
+#### minimum\_desired\_width
 
 ```python
 @minimum_desired_width.setter
@@ -193,7 +193,7 @@ def minimum_desired_width(value: float) -> None
 
 <a id="unreal.EditableTextBox.is_caret_moved_when_gain_focus"></a>
 
-#### is_caret_moved_when_gain_focus
+#### is\_caret\_moved\_when\_gain\_focus
 
 ```python
 @property
@@ -204,7 +204,7 @@ def is_caret_moved_when_gain_focus() -> bool
 
 <a id="unreal.EditableTextBox.is_caret_moved_when_gain_focus"></a>
 
-#### is_caret_moved_when_gain_focus
+#### is\_caret\_moved\_when\_gain\_focus
 
 ```python
 @is_caret_moved_when_gain_focus.setter
@@ -213,7 +213,7 @@ def is_caret_moved_when_gain_focus(value: bool) -> None
 
 <a id="unreal.EditableTextBox.select_all_text_when_focused"></a>
 
-#### select_all_text_when_focused
+#### select\_all\_text\_when\_focused
 
 ```python
 @property
@@ -224,7 +224,7 @@ def select_all_text_when_focused() -> bool
 
 <a id="unreal.EditableTextBox.select_all_text_when_focused"></a>
 
-#### select_all_text_when_focused
+#### select\_all\_text\_when\_focused
 
 ```python
 @select_all_text_when_focused.setter
@@ -233,7 +233,7 @@ def select_all_text_when_focused(value: bool) -> None
 
 <a id="unreal.EditableTextBox.revert_text_on_escape"></a>
 
-#### revert_text_on_escape
+#### revert\_text\_on\_escape
 
 ```python
 @property
@@ -244,7 +244,7 @@ def revert_text_on_escape() -> bool
 
 <a id="unreal.EditableTextBox.revert_text_on_escape"></a>
 
-#### revert_text_on_escape
+#### revert\_text\_on\_escape
 
 ```python
 @revert_text_on_escape.setter
@@ -253,7 +253,7 @@ def revert_text_on_escape(value: bool) -> None
 
 <a id="unreal.EditableTextBox.clear_keyboard_focus_on_commit"></a>
 
-#### clear_keyboard_focus_on_commit
+#### clear\_keyboard\_focus\_on\_commit
 
 ```python
 @property
@@ -264,7 +264,7 @@ def clear_keyboard_focus_on_commit() -> bool
 
 <a id="unreal.EditableTextBox.clear_keyboard_focus_on_commit"></a>
 
-#### clear_keyboard_focus_on_commit
+#### clear\_keyboard\_focus\_on\_commit
 
 ```python
 @clear_keyboard_focus_on_commit.setter
@@ -273,7 +273,7 @@ def clear_keyboard_focus_on_commit(value: bool) -> None
 
 <a id="unreal.EditableTextBox.select_all_text_on_commit"></a>
 
-#### select_all_text_on_commit
+#### select\_all\_text\_on\_commit
 
 ```python
 @property
@@ -284,7 +284,7 @@ def select_all_text_on_commit() -> bool
 
 <a id="unreal.EditableTextBox.select_all_text_on_commit"></a>
 
-#### select_all_text_on_commit
+#### select\_all\_text\_on\_commit
 
 ```python
 @select_all_text_on_commit.setter
@@ -313,7 +313,7 @@ def justification(value: TextJustify) -> None
 
 <a id="unreal.EditableTextBox.overflow_policy"></a>
 
-#### overflow_policy
+#### overflow\_policy
 
 ```python
 @property
@@ -324,7 +324,7 @@ def overflow_policy() -> TextOverflowPolicy
 
 <a id="unreal.EditableTextBox.overflow_policy"></a>
 
-#### overflow_policy
+#### overflow\_policy
 
 ```python
 @overflow_policy.setter
@@ -333,7 +333,7 @@ def overflow_policy(value: TextOverflowPolicy) -> None
 
 <a id="unreal.EditableTextBox.shaped_text_options"></a>
 
-#### shaped_text_options
+#### shaped\_text\_options
 
 ```python
 @property
@@ -344,7 +344,7 @@ def shaped_text_options() -> ShapedTextOptions
 
 <a id="unreal.EditableTextBox.on_text_changed"></a>
 
-#### on_text_changed
+#### on\_text\_changed
 
 ```python
 @property
@@ -355,7 +355,7 @@ def on_text_changed() -> OnEditableTextBoxChangedEvent
 
 <a id="unreal.EditableTextBox.on_text_changed"></a>
 
-#### on_text_changed
+#### on\_text\_changed
 
 ```python
 @on_text_changed.setter
@@ -364,7 +364,7 @@ def on_text_changed(value: OnEditableTextBoxChangedEvent) -> None
 
 <a id="unreal.EditableTextBox.on_text_committed"></a>
 
-#### on_text_committed
+#### on\_text\_committed
 
 ```python
 @property
@@ -375,7 +375,7 @@ def on_text_committed() -> OnEditableTextBoxCommittedEvent
 
 <a id="unreal.EditableTextBox.on_text_committed"></a>
 
-#### on_text_committed
+#### on\_text\_committed
 
 ```python
 @on_text_committed.setter
@@ -384,7 +384,7 @@ def on_text_committed(value: OnEditableTextBoxCommittedEvent) -> None
 
 <a id="unreal.EditableTextBox.set_text"></a>
 
-#### set_text
+#### set\_text
 
 ```python
 def set_text(text: Text) -> None
@@ -399,7 +399,7 @@ Args:
 
 <a id="unreal.EditableTextBox.set_is_read_only"></a>
 
-#### set_is_read_only
+#### set\_is\_read\_only
 
 ```python
 def set_is_read_only(read_only: bool) -> None
@@ -413,7 +413,7 @@ Args:
 
 <a id="unreal.EditableTextBox.set_is_password"></a>
 
-#### set_is_password
+#### set\_is\_password
 
 ```python
 def set_is_password(is_password: bool) -> None
@@ -427,7 +427,7 @@ Args:
 
 <a id="unreal.EditableTextBox.set_hint_text"></a>
 
-#### set_hint_text
+#### set\_hint\_text
 
 ```python
 def set_hint_text(text: Text) -> None
@@ -441,7 +441,7 @@ Args:
 
 <a id="unreal.EditableTextBox.set_foreground_color"></a>
 
-#### set_foreground_color
+#### set\_foreground\_color
 
 ```python
 def set_foreground_color(color: LinearColor) -> None
@@ -455,7 +455,7 @@ Args:
 
 <a id="unreal.EditableTextBox.set_error"></a>
 
-#### set_error
+#### set\_error
 
 ```python
 def set_error(error: Text) -> None
@@ -469,7 +469,7 @@ Args:
 
 <a id="unreal.EditableTextBox.has_error"></a>
 
-#### has_error
+#### has\_error
 
 ```python
 def has_error() -> bool
@@ -483,7 +483,7 @@ Returns:
 
 <a id="unreal.EditableTextBox.get_text"></a>
 
-#### get_text
+#### get\_text
 
 ```python
 def get_text() -> Text
@@ -497,7 +497,7 @@ Returns:
 
 <a id="unreal.EditableTextBox.clear_error"></a>
 
-#### clear_error
+#### clear\_error
 
 ```python
 def clear_error() -> None

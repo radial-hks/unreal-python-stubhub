@@ -142,7 +142,7 @@ Scene Capture
 
 <a id="unreal.SceneCapture.scene_component"></a>
 
-#### scene_component
+#### scene\_component
 
 ```python
 @property

@@ -108,7 +108,7 @@ def selected(value: bool) -> None
 
 <a id="unreal.AssetExportTask.replace_identical"></a>
 
-#### replace_identical
+#### replace\_identical
 
 ```python
 @property
@@ -119,7 +119,7 @@ def replace_identical() -> bool
 
 <a id="unreal.AssetExportTask.replace_identical"></a>
 
-#### replace_identical
+#### replace\_identical
 
 ```python
 @replace_identical.setter
@@ -168,7 +168,7 @@ def automated(value: bool) -> None
 
 <a id="unreal.AssetExportTask.use_file_archive"></a>
 
-#### use_file_archive
+#### use\_file\_archive
 
 ```python
 @property
@@ -179,7 +179,7 @@ def use_file_archive() -> bool
 
 <a id="unreal.AssetExportTask.use_file_archive"></a>
 
-#### use_file_archive
+#### use\_file\_archive
 
 ```python
 @use_file_archive.setter
@@ -188,7 +188,7 @@ def use_file_archive(value: bool) -> None
 
 <a id="unreal.AssetExportTask.write_empty_files"></a>
 
-#### write_empty_files
+#### write\_empty\_files
 
 ```python
 @property
@@ -199,7 +199,7 @@ def write_empty_files() -> bool
 
 <a id="unreal.AssetExportTask.write_empty_files"></a>
 
-#### write_empty_files
+#### write\_empty\_files
 
 ```python
 @write_empty_files.setter
@@ -208,7 +208,7 @@ def write_empty_files(value: bool) -> None
 
 <a id="unreal.AssetExportTask.ignore_object_list"></a>
 
-#### ignore_object_list
+#### ignore\_object\_list
 
 ```python
 @property
@@ -219,7 +219,7 @@ def ignore_object_list() -> Array[Object]
 
 <a id="unreal.AssetExportTask.ignore_object_list"></a>
 
-#### ignore_object_list
+#### ignore\_object\_list
 
 ```python
 @ignore_object_list.setter

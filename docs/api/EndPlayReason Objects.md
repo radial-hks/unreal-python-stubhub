@@ -19,19 +19,19 @@ Specifies why an actor is being deleted/removed from a level
 
 <a id="unreal.EndPlayReason.LEVEL_TRANSITION"></a>
 
-#### LEVEL_TRANSITION
+#### LEVEL\_TRANSITION
 
 1: When the world is being unloaded for a level transition.
 
 <a id="unreal.EndPlayReason.END_PLAY_IN_EDITOR"></a>
 
-#### END_PLAY_IN_EDITOR
+#### END\_PLAY\_IN\_EDITOR
 
 2: When the world is being unloaded because PIE is ending.
 
 <a id="unreal.EndPlayReason.REMOVED_FROM_WORLD"></a>
 
-#### REMOVED_FROM_WORLD
+#### REMOVED\_FROM\_WORLD
 
 3: When the level it is a member of is streamed out.
 

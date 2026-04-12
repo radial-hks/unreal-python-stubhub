@@ -14,7 +14,7 @@ PCGBlueprint Helpers
 
 <a id="unreal.PCGBlueprintHelpers.set_seed_from_position"></a>
 
-#### set_seed_from_position
+#### set\_seed\_from\_position
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.set_local_center"></a>
 
-#### set_local_center
+#### set\_local\_center
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.set_extents"></a>
 
-#### set_extents
+#### set\_extents
 
 ```python
 @classmethod
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.refresh_pcg_runtime_component"></a>
 
-#### refresh_pcg_runtime_component
+#### refresh\_pcg\_runtime\_component
 
 ```python
 @classmethod
@@ -94,7 +94,7 @@ Args:
 
 <a id="unreal.PCGBlueprintHelpers.get_transformed_bounds"></a>
 
-#### get_transformed_bounds
+#### get\_transformed\_bounds
 
 ```python
 @classmethod
@@ -112,7 +112,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_task_id"></a>
 
-#### get_task_id
+#### get\_task\_id
 
 ```python
 @classmethod
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_target_actor"></a>
 
-#### get_target_actor
+#### get\_target\_actor
 
 ```python
 @classmethod
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_settings"></a>
 
-#### get_settings
+#### get\_settings
 
 ```python
 @classmethod
@@ -174,7 +174,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_random_stream_from_two_points"></a>
 
-#### get_random_stream_from_two_points
+#### get\_random\_stream\_from\_two\_points
 
 ```python
 @classmethod
@@ -200,7 +200,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_random_stream_from_point"></a>
 
-#### get_random_stream_from_point
+#### get\_random\_stream\_from\_point
 
 ```python
 @classmethod
@@ -224,7 +224,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_random_stream"></a>
 
-#### get_random_stream
+#### get\_random\_stream
 
 ```python
 @classmethod
@@ -238,7 +238,7 @@ deprecated: 'get_random_stream' was renamed to 'get_random_stream_from_point'.
 
 <a id="unreal.PCGBlueprintHelpers.get_original_component"></a>
 
-#### get_original_component
+#### get\_original\_component
 
 ```python
 @classmethod
@@ -259,7 +259,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_local_center"></a>
 
-#### get_local_center
+#### get\_local\_center
 
 ```python
 @classmethod
@@ -277,7 +277,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_interpolated_pcg_landscape_layer_weights"></a>
 
-#### get_interpolated_pcg_landscape_layer_weights
+#### get\_interpolated\_pcg\_landscape\_layer\_weights
 
 ```python
 @classmethod
@@ -298,7 +298,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_input_data"></a>
 
-#### get_input_data
+#### get\_input\_data
 
 ```python
 @classmethod
@@ -318,7 +318,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_extents"></a>
 
-#### get_extents
+#### get\_extents
 
 ```python
 @classmethod
@@ -336,7 +336,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_component"></a>
 
-#### get_component
+#### get\_component
 
 ```python
 @classmethod
@@ -356,7 +356,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_actor_local_bounds_pcg"></a>
 
-#### get_actor_local_bounds_pcg
+#### get\_actor\_local\_bounds\_pcg
 
 ```python
 @classmethod
@@ -378,7 +378,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_actor_data"></a>
 
-#### get_actor_data
+#### get\_actor\_data
 
 ```python
 @classmethod
@@ -398,7 +398,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.get_actor_bounds_pcg"></a>
 
-#### get_actor_bounds_pcg
+#### get\_actor\_bounds\_pcg
 
 ```python
 @classmethod
@@ -419,7 +419,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.flush_pcg_cache"></a>
 
-#### flush_pcg_cache
+#### flush\_pcg\_cache
 
 ```python
 @classmethod
@@ -434,7 +434,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.duplicate_data"></a>
 
-#### duplicate_data
+#### duplicate\_data
 
 ```python
 @classmethod
@@ -460,7 +460,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.create_pcg_data_from_actor"></a>
 
-#### create_pcg_data_from_actor
+#### create\_pcg\_data\_from\_actor
 
 ```python
 @classmethod
@@ -481,7 +481,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintHelpers.compute_seed_from_position"></a>
 
-#### compute_seed_from_position
+#### compute\_seed\_from\_position
 
 ```python
 @classmethod

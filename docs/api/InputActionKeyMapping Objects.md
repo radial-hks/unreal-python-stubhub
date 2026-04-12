@@ -23,7 +23,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Input/index.html
 
 <a id="unreal.InputActionKeyMapping.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(action_name: Name = "None",
@@ -36,7 +36,7 @@ def __init__(action_name: Name = "None",
 
 <a id="unreal.InputActionKeyMapping.action_name"></a>
 
-#### action_name
+#### action\_name
 
 ```python
 @property
@@ -47,7 +47,7 @@ def action_name() -> Name
 
 <a id="unreal.InputActionKeyMapping.action_name"></a>
 
-#### action_name
+#### action\_name
 
 ```python
 @action_name.setter

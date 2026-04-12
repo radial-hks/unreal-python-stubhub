@@ -52,7 +52,7 @@ Allows widgets to be laid out in a flow horizontally.
 
 <a id="unreal.HorizontalBox.add_child_to_horizontal_box"></a>
 
-#### add_child_to_horizontal_box
+#### add\_child\_to\_horizontal\_box
 
 ```python
 def add_child_to_horizontal_box(content: Widget) -> HorizontalBoxSlot

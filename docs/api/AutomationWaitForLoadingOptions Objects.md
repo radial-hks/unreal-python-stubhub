@@ -17,7 +17,7 @@ Automation Wait for Loading Options
 
 <a id="unreal.AutomationWaitForLoadingOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(wait_for_replication_to_settle: bool = False) -> None
@@ -25,7 +25,7 @@ def __init__(wait_for_replication_to_settle: bool = False) -> None
 
 <a id="unreal.AutomationWaitForLoadingOptions.wait_for_replication_to_settle"></a>
 
-#### wait_for_replication_to_settle
+#### wait\_for\_replication\_to\_settle
 
 ```python
 @property
@@ -36,7 +36,7 @@ def wait_for_replication_to_settle() -> bool
 
 <a id="unreal.AutomationWaitForLoadingOptions.wait_for_replication_to_settle"></a>
 
-#### wait_for_replication_to_settle
+#### wait\_for\_replication\_to\_settle
 
 ```python
 @wait_for_replication_to_settle.setter

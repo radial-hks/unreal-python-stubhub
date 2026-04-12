@@ -20,7 +20,7 @@ Describes the standard transformation of a widget
 
 <a id="unreal.WidgetTransform.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(translation: Vector2D = [0.000000, 0.000000],

@@ -50,7 +50,7 @@ Notes:
 
 <a id="unreal.FbxSkeletalMeshImportData.vertex_color_import_option"></a>
 
-#### vertex_color_import_option
+#### vertex\_color\_import\_option
 
 ```python
 @property
@@ -61,7 +61,7 @@ def vertex_color_import_option() -> VertexColorImportOption
 
 <a id="unreal.FbxSkeletalMeshImportData.vertex_color_import_option"></a>
 
-#### vertex_color_import_option
+#### vertex\_color\_import\_option
 
 ```python
 @vertex_color_import_option.setter
@@ -70,7 +70,7 @@ def vertex_color_import_option(value: VertexColorImportOption) -> None
 
 <a id="unreal.FbxSkeletalMeshImportData.vertex_override_color"></a>
 
-#### vertex_override_color
+#### vertex\_override\_color
 
 ```python
 @property
@@ -81,7 +81,7 @@ def vertex_override_color() -> Color
 
 <a id="unreal.FbxSkeletalMeshImportData.vertex_override_color"></a>
 
-#### vertex_override_color
+#### vertex\_override\_color
 
 ```python
 @vertex_override_color.setter

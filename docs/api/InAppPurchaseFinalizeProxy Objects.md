@@ -14,7 +14,7 @@ In App Purchase Finalize Proxy
 
 <a id="unreal.InAppPurchaseFinalizeProxy.create_proxy_object_for_in_app_purchase_finalize"></a>
 
-#### create_proxy_object_for_in_app_purchase_finalize
+#### create\_proxy\_object\_for\_in\_app\_purchase\_finalize
 
 ```python
 @classmethod

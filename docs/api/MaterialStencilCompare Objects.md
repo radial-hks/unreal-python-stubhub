@@ -13,49 +13,49 @@ EMaterial Stencil Compare
 
 <a id="unreal.MaterialStencilCompare.MSC_LESS"></a>
 
-#### MSC_LESS
+#### MSC\_LESS
 
 0
 
 <a id="unreal.MaterialStencilCompare.MSC_LESS_EQUAL"></a>
 
-#### MSC_LESS_EQUAL
+#### MSC\_LESS\_EQUAL
 
 1
 
 <a id="unreal.MaterialStencilCompare.MSC_GREATER"></a>
 
-#### MSC_GREATER
+#### MSC\_GREATER
 
 2
 
 <a id="unreal.MaterialStencilCompare.MSC_GREATER_EQUAL"></a>
 
-#### MSC_GREATER_EQUAL
+#### MSC\_GREATER\_EQUAL
 
 3
 
 <a id="unreal.MaterialStencilCompare.MSC_EQUAL"></a>
 
-#### MSC_EQUAL
+#### MSC\_EQUAL
 
 4
 
 <a id="unreal.MaterialStencilCompare.MSC_NOT_EQUAL"></a>
 
-#### MSC_NOT_EQUAL
+#### MSC\_NOT\_EQUAL
 
 5
 
 <a id="unreal.MaterialStencilCompare.MSC_NEVER"></a>
 
-#### MSC_NEVER
+#### MSC\_NEVER
 
 6
 
 <a id="unreal.MaterialStencilCompare.MSC_ALWAYS"></a>
 
-#### MSC_ALWAYS
+#### MSC\_ALWAYS
 
 7
 

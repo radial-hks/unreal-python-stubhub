@@ -93,7 +93,7 @@ def text(value: Text) -> None
 
 <a id="unreal.TextBlock.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @property
@@ -104,7 +104,7 @@ def color_and_opacity() -> SlateColor
 
 <a id="unreal.TextBlock.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @color_and_opacity.setter
@@ -113,7 +113,7 @@ def color_and_opacity(value: SlateColor) -> None
 
 <a id="unreal.TextBlock.min_desired_width"></a>
 
-#### min_desired_width
+#### min\_desired\_width
 
 ```python
 @property
@@ -124,7 +124,7 @@ def min_desired_width() -> float
 
 <a id="unreal.TextBlock.min_desired_width"></a>
 
-#### min_desired_width
+#### min\_desired\_width
 
 ```python
 @min_desired_width.setter
@@ -153,7 +153,7 @@ def font(value: SlateFontInfo) -> None
 
 <a id="unreal.TextBlock.strike_brush"></a>
 
-#### strike_brush
+#### strike\_brush
 
 ```python
 @property
@@ -164,7 +164,7 @@ def strike_brush() -> SlateBrush
 
 <a id="unreal.TextBlock.strike_brush"></a>
 
-#### strike_brush
+#### strike\_brush
 
 ```python
 @strike_brush.setter
@@ -173,7 +173,7 @@ def strike_brush(value: SlateBrush) -> None
 
 <a id="unreal.TextBlock.shadow_offset"></a>
 
-#### shadow_offset
+#### shadow\_offset
 
 ```python
 @property
@@ -184,7 +184,7 @@ def shadow_offset() -> Vector2D
 
 <a id="unreal.TextBlock.shadow_offset"></a>
 
-#### shadow_offset
+#### shadow\_offset
 
 ```python
 @shadow_offset.setter
@@ -193,7 +193,7 @@ def shadow_offset(value: Vector2D) -> None
 
 <a id="unreal.TextBlock.shadow_color_and_opacity"></a>
 
-#### shadow_color_and_opacity
+#### shadow\_color\_and\_opacity
 
 ```python
 @property
@@ -204,7 +204,7 @@ def shadow_color_and_opacity() -> LinearColor
 
 <a id="unreal.TextBlock.shadow_color_and_opacity"></a>
 
-#### shadow_color_and_opacity
+#### shadow\_color\_and\_opacity
 
 ```python
 @shadow_color_and_opacity.setter
@@ -213,7 +213,7 @@ def shadow_color_and_opacity(value: LinearColor) -> None
 
 <a id="unreal.TextBlock.wrap_with_invalidation_panel"></a>
 
-#### wrap_with_invalidation_panel
+#### wrap\_with\_invalidation\_panel
 
 ```python
 @property
@@ -224,7 +224,7 @@ def wrap_with_invalidation_panel() -> bool
 
 <a id="unreal.TextBlock.text_transform_policy"></a>
 
-#### text_transform_policy
+#### text\_transform\_policy
 
 ```python
 @property
@@ -235,7 +235,7 @@ def text_transform_policy() -> TextTransformPolicy
 
 <a id="unreal.TextBlock.text_transform_policy"></a>
 
-#### text_transform_policy
+#### text\_transform\_policy
 
 ```python
 @text_transform_policy.setter
@@ -244,7 +244,7 @@ def text_transform_policy(value: TextTransformPolicy) -> None
 
 <a id="unreal.TextBlock.text_overflow_policy"></a>
 
-#### text_overflow_policy
+#### text\_overflow\_policy
 
 ```python
 @property
@@ -255,7 +255,7 @@ def text_overflow_policy() -> TextOverflowPolicy
 
 <a id="unreal.TextBlock.text_overflow_policy"></a>
 
-#### text_overflow_policy
+#### text\_overflow\_policy
 
 ```python
 @text_overflow_policy.setter
@@ -264,7 +264,7 @@ def text_overflow_policy(value: TextOverflowPolicy) -> None
 
 <a id="unreal.TextBlock.simple_text_mode"></a>
 
-#### simple_text_mode
+#### simple\_text\_mode
 
 ```python
 @property
@@ -277,7 +277,7 @@ It is significantly faster for text that can take advantage of it (particularly 
 
 <a id="unreal.TextBlock.set_text_transform_policy"></a>
 
-#### set_text_transform_policy
+#### set\_text\_transform\_policy
 
 ```python
 def set_text_transform_policy(transform_policy: TextTransformPolicy) -> None
@@ -291,7 +291,7 @@ Args:
 
 <a id="unreal.TextBlock.set_text_overflow_policy"></a>
 
-#### set_text_overflow_policy
+#### set\_text\_overflow\_policy
 
 ```python
 def set_text_overflow_policy(overflow_policy: TextOverflowPolicy) -> None
@@ -305,7 +305,7 @@ Args:
 
 <a id="unreal.TextBlock.set_text"></a>
 
-#### set_text
+#### set\_text
 
 ```python
 def set_text(text: Text) -> None
@@ -320,7 +320,7 @@ Args:
 
 <a id="unreal.TextBlock.set_strike_brush"></a>
 
-#### set_strike_brush
+#### set\_strike\_brush
 
 ```python
 def set_strike_brush(strike_brush: SlateBrush) -> None
@@ -334,7 +334,7 @@ Args:
 
 <a id="unreal.TextBlock.set_shadow_offset"></a>
 
-#### set_shadow_offset
+#### set\_shadow\_offset
 
 ```python
 def set_shadow_offset(shadow_offset: Vector2D) -> None
@@ -348,7 +348,7 @@ Args:
 
 <a id="unreal.TextBlock.set_shadow_color_and_opacity"></a>
 
-#### set_shadow_color_and_opacity
+#### set\_shadow\_color\_and\_opacity
 
 ```python
 def set_shadow_color_and_opacity(
@@ -364,7 +364,7 @@ Args:
 
 <a id="unreal.TextBlock.set_opacity"></a>
 
-#### set_opacity
+#### set\_opacity
 
 ```python
 def set_opacity(opacity: float) -> None
@@ -378,7 +378,7 @@ Args:
 
 <a id="unreal.TextBlock.set_min_desired_width"></a>
 
-#### set_min_desired_width
+#### set\_min\_desired\_width
 
 ```python
 def set_min_desired_width(min_desired_width: float) -> None
@@ -392,7 +392,7 @@ Args:
 
 <a id="unreal.TextBlock.set_font_outline_material"></a>
 
-#### set_font_outline_material
+#### set\_font\_outline\_material
 
 ```python
 def set_font_outline_material(material: MaterialInterface) -> None
@@ -406,7 +406,7 @@ Args:
 
 <a id="unreal.TextBlock.set_font_material"></a>
 
-#### set_font_material
+#### set\_font\_material
 
 ```python
 def set_font_material(material: MaterialInterface) -> None
@@ -420,7 +420,7 @@ Args:
 
 <a id="unreal.TextBlock.set_font"></a>
 
-#### set_font
+#### set\_font
 
 ```python
 def set_font(font_info: SlateFontInfo) -> None
@@ -434,7 +434,7 @@ Args:
 
 <a id="unreal.TextBlock.set_color_and_opacity"></a>
 
-#### set_color_and_opacity
+#### set\_color\_and\_opacity
 
 ```python
 def set_color_and_opacity(color_and_opacity: SlateColor) -> None
@@ -448,7 +448,7 @@ Args:
 
 <a id="unreal.TextBlock.set_auto_wrap_text"></a>
 
-#### set_auto_wrap_text
+#### set\_auto\_wrap\_text
 
 ```python
 def set_auto_wrap_text(auto_text_wrap: bool) -> None
@@ -462,7 +462,7 @@ Args:
 
 <a id="unreal.TextBlock.get_text"></a>
 
-#### get_text
+#### get\_text
 
 ```python
 def get_text() -> Text
@@ -476,7 +476,7 @@ Returns:
 
 <a id="unreal.TextBlock.get_dynamic_outline_material"></a>
 
-#### get_dynamic_outline_material
+#### get\_dynamic\_outline\_material
 
 ```python
 def get_dynamic_outline_material() -> MaterialInstanceDynamic
@@ -490,7 +490,7 @@ Returns:
 
 <a id="unreal.TextBlock.get_dynamic_font_material"></a>
 
-#### get_dynamic_font_material
+#### get\_dynamic\_font\_material
 
 ```python
 def get_dynamic_font_material() -> MaterialInstanceDynamic

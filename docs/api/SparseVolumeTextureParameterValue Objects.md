@@ -18,7 +18,7 @@ Editable sparse volume texture parameter.
 
 <a id="unreal.SparseVolumeTextureParameterValue.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(parameter_info: MaterialParameterInfo = [
@@ -29,7 +29,7 @@ def __init__(parameter_info: MaterialParameterInfo = [
 
 <a id="unreal.SparseVolumeTextureParameterValue.parameter_info"></a>
 
-#### parameter_info
+#### parameter\_info
 
 ```python
 @property
@@ -40,7 +40,7 @@ def parameter_info() -> MaterialParameterInfo
 
 <a id="unreal.SparseVolumeTextureParameterValue.parameter_info"></a>
 
-#### parameter_info
+#### parameter\_info
 
 ```python
 @parameter_info.setter
@@ -49,7 +49,7 @@ def parameter_info(value: MaterialParameterInfo) -> None
 
 <a id="unreal.SparseVolumeTextureParameterValue.parameter_value"></a>
 
-#### parameter_value
+#### parameter\_value
 
 ```python
 @property
@@ -60,7 +60,7 @@ def parameter_value() -> SparseVolumeTexture
 
 <a id="unreal.SparseVolumeTextureParameterValue.parameter_value"></a>
 
-#### parameter_value
+#### parameter\_value
 
 ```python
 @parameter_value.setter

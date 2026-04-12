@@ -22,7 +22,7 @@ Geometry Script Polygon Offset Options
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.join_type"></a>
 
-#### join_type
+#### join\_type
 
 ```python
 @property
@@ -47,7 +47,7 @@ def join_type() -> GeometryScriptPolyOffsetJoinType
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.join_type"></a>
 
-#### join_type
+#### join\_type
 
 ```python
 @join_type.setter
@@ -56,7 +56,7 @@ def join_type(value: GeometryScriptPolyOffsetJoinType) -> None
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.miter_limit"></a>
 
-#### miter_limit
+#### miter\_limit
 
 ```python
 @property
@@ -67,7 +67,7 @@ def miter_limit() -> float
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.miter_limit"></a>
 
-#### miter_limit
+#### miter\_limit
 
 ```python
 @miter_limit.setter
@@ -76,7 +76,7 @@ def miter_limit(value: float) -> None
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.offset_both_sides"></a>
 
-#### offset_both_sides
+#### offset\_both\_sides
 
 ```python
 @property
@@ -87,7 +87,7 @@ def offset_both_sides() -> bool
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.offset_both_sides"></a>
 
-#### offset_both_sides
+#### offset\_both\_sides
 
 ```python
 @offset_both_sides.setter
@@ -96,7 +96,7 @@ def offset_both_sides(value: bool) -> None
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.steps_per_radian_scale"></a>
 
-#### steps_per_radian_scale
+#### steps\_per\_radian\_scale
 
 ```python
 @property
@@ -107,7 +107,7 @@ def steps_per_radian_scale() -> float
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.steps_per_radian_scale"></a>
 
-#### steps_per_radian_scale
+#### steps\_per\_radian\_scale
 
 ```python
 @steps_per_radian_scale.setter
@@ -116,7 +116,7 @@ def steps_per_radian_scale(value: float) -> None
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.maximum_steps_per_radian"></a>
 
-#### maximum_steps_per_radian
+#### maximum\_steps\_per\_radian
 
 ```python
 @property
@@ -127,7 +127,7 @@ def maximum_steps_per_radian() -> float
 
 <a id="unreal.GeometryScriptPolygonOffsetOptions.maximum_steps_per_radian"></a>
 
-#### maximum_steps_per_radian
+#### maximum\_steps\_per\_radian
 
 ```python
 @maximum_steps_per_radian.setter

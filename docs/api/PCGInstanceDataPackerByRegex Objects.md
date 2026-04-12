@@ -18,7 +18,7 @@ PCGInstance Data Packer by Regex
 
 <a id="unreal.PCGInstanceDataPackerByRegex.regex_patterns"></a>
 
-#### regex_patterns
+#### regex\_patterns
 
 ```python
 @property
@@ -29,7 +29,7 @@ def regex_patterns() -> Array[str]
 
 <a id="unreal.PCGInstanceDataPackerByRegex.regex_patterns"></a>
 
-#### regex_patterns
+#### regex\_patterns
 
 ```python
 @regex_patterns.setter

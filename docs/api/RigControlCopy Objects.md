@@ -24,7 +24,7 @@ The Data Stored For Each Control in A Pose.
 
 <a id="unreal.RigControlCopy.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -68,7 +68,7 @@ def name(value: Name) -> None
 
 <a id="unreal.RigControlCopy.control_type"></a>
 
-#### control_type
+#### control\_type
 
 ```python
 @property
@@ -79,7 +79,7 @@ def control_type() -> RigControlType
 
 <a id="unreal.RigControlCopy.control_type"></a>
 
-#### control_type
+#### control\_type
 
 ```python
 @control_type.setter
@@ -88,7 +88,7 @@ def control_type(value: RigControlType) -> None
 
 <a id="unreal.RigControlCopy.parent_key"></a>
 
-#### parent_key
+#### parent\_key
 
 ```python
 @property
@@ -99,7 +99,7 @@ def parent_key() -> RigElementKey
 
 <a id="unreal.RigControlCopy.parent_key"></a>
 
-#### parent_key
+#### parent\_key
 
 ```python
 @parent_key.setter
@@ -108,7 +108,7 @@ def parent_key(value: RigElementKey) -> None
 
 <a id="unreal.RigControlCopy.offset_transform"></a>
 
-#### offset_transform
+#### offset\_transform
 
 ```python
 @property
@@ -119,7 +119,7 @@ def offset_transform() -> Transform
 
 <a id="unreal.RigControlCopy.offset_transform"></a>
 
-#### offset_transform
+#### offset\_transform
 
 ```python
 @offset_transform.setter
@@ -128,7 +128,7 @@ def offset_transform(value: Transform) -> None
 
 <a id="unreal.RigControlCopy.parent_transform"></a>
 
-#### parent_transform
+#### parent\_transform
 
 ```python
 @property
@@ -139,7 +139,7 @@ def parent_transform() -> Transform
 
 <a id="unreal.RigControlCopy.parent_transform"></a>
 
-#### parent_transform
+#### parent\_transform
 
 ```python
 @parent_transform.setter
@@ -148,7 +148,7 @@ def parent_transform(value: Transform) -> None
 
 <a id="unreal.RigControlCopy.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @property
@@ -159,7 +159,7 @@ def local_transform() -> Transform
 
 <a id="unreal.RigControlCopy.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @local_transform.setter
@@ -168,7 +168,7 @@ def local_transform(value: Transform) -> None
 
 <a id="unreal.RigControlCopy.global_transform"></a>
 
-#### global_transform
+#### global\_transform
 
 ```python
 @property
@@ -179,7 +179,7 @@ def global_transform() -> Transform
 
 <a id="unreal.RigControlCopy.global_transform"></a>
 
-#### global_transform
+#### global\_transform
 
 ```python
 @global_transform.setter

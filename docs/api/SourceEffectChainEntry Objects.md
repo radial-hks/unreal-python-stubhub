@@ -18,7 +18,7 @@ Source Effect Chain Entry
 
 <a id="unreal.SourceEffectChainEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(preset: SoundEffectSourcePreset = None,

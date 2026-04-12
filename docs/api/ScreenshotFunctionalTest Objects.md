@@ -171,7 +171,7 @@ No UI
 
 <a id="unreal.ScreenshotFunctionalTest.camera_cut_on_screenshot_prep"></a>
 
-#### camera_cut_on_screenshot_prep
+#### camera\_cut\_on\_screenshot\_prep
 
 ```python
 @property
@@ -182,7 +182,7 @@ def camera_cut_on_screenshot_prep() -> bool
 
 <a id="unreal.ScreenshotFunctionalTest.camera_cut_on_screenshot_prep"></a>
 
-#### camera_cut_on_screenshot_prep
+#### camera\_cut\_on\_screenshot\_prep
 
 ```python
 @camera_cut_on_screenshot_prep.setter

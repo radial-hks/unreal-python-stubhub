@@ -22,7 +22,7 @@ PCGGraph Interface
 
 <a id="unreal.PCGGraphInterface.expose_to_library"></a>
 
-#### expose_to_library
+#### expose\_to\_library
 
 ```python
 @property
@@ -33,7 +33,7 @@ def expose_to_library() -> bool
 
 <a id="unreal.PCGGraphInterface.expose_to_library"></a>
 
-#### expose_to_library
+#### expose\_to\_library
 
 ```python
 @expose_to_library.setter
@@ -42,7 +42,7 @@ def expose_to_library(value: bool) -> None
 
 <a id="unreal.PCGGraphInterface.override_title"></a>
 
-#### override_title
+#### override\_title
 
 ```python
 @property
@@ -53,7 +53,7 @@ def override_title() -> bool
 
 <a id="unreal.PCGGraphInterface.override_title"></a>
 
-#### override_title
+#### override\_title
 
 ```python
 @override_title.setter
@@ -82,7 +82,7 @@ def title(value: Text) -> None
 
 <a id="unreal.PCGGraphInterface.override_color"></a>
 
-#### override_color
+#### override\_color
 
 ```python
 @property
@@ -93,7 +93,7 @@ def override_color() -> bool
 
 <a id="unreal.PCGGraphInterface.override_color"></a>
 
-#### override_color
+#### override\_color
 
 ```python
 @override_color.setter
@@ -122,7 +122,7 @@ def color(value: LinearColor) -> None
 
 <a id="unreal.PCGGraphInterface.get_mutable_pcg_graph"></a>
 
-#### get_mutable_pcg_graph
+#### get\_mutable\_pcg\_graph
 
 ```python
 def get_mutable_pcg_graph() -> PCGGraph
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.PCGGraphInterface.get_const_pcg_graph"></a>
 
-#### get_const_pcg_graph
+#### get\_const\_pcg\_graph
 
 ```python
 def get_const_pcg_graph() -> PCGGraph

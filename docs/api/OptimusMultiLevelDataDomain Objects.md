@@ -8,7 +8,7 @@ deprecated: 'OptimusMultiLevelDataDomain' was renamed to 'OptimusDataDomain'.
 
 <a id="unreal.OptimusMultiLevelDataDomain.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

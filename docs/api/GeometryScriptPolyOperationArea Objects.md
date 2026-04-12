@@ -14,19 +14,19 @@ EGeometry Script Poly Operation Area
 
 <a id="unreal.GeometryScriptPolyOperationArea.ENTIRE_SELECTION"></a>
 
-#### ENTIRE_SELECTION
+#### ENTIRE\_SELECTION
 
 0
 
 <a id="unreal.GeometryScriptPolyOperationArea.PER_POLYGROUP"></a>
 
-#### PER_POLYGROUP
+#### PER\_POLYGROUP
 
 1
 
 <a id="unreal.GeometryScriptPolyOperationArea.PER_TRIANGLE"></a>
 
-#### PER_TRIANGLE
+#### PER\_TRIANGLE
 
 2
 

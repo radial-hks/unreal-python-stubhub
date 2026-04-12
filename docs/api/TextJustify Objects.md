@@ -36,13 +36,13 @@ When text is flowing right-to-left, this will align text visually to the left.
 
 <a id="unreal.TextJustify.INVARIANT_LEFT"></a>
 
-#### INVARIANT_LEFT
+#### INVARIANT\_LEFT
 
 3: Always justify the text to the left, regardless of the flow direction of the current culture.
 
 <a id="unreal.TextJustify.INVARIANT_RIGHT"></a>
 
-#### INVARIANT_RIGHT
+#### INVARIANT\_RIGHT
 
 4: Always justify the text to the right, regardless of the flow direction of the current culture.
 

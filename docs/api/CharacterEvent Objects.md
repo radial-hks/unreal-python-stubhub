@@ -13,7 +13,7 @@ FCharacterEvent describes a keyboard action where the utf-16 code is given.  Use
 
 <a id="unreal.CharacterEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

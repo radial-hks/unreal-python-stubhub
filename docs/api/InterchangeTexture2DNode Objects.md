@@ -14,7 +14,7 @@ ns UE::Interchange
 
 <a id="unreal.InterchangeTexture2DNode.set_custom_wrap_v"></a>
 
-#### set_custom_wrap_v
+#### set\_custom\_wrap\_v
 
 ```python
 def set_custom_wrap_v(attribute_value: InterchangeTextureWrapMode) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DNode.set_custom_wrap_u"></a>
 
-#### set_custom_wrap_u
+#### set\_custom\_wrap\_u
 
 ```python
 def set_custom_wrap_u(attribute_value: InterchangeTextureWrapMode) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DNode.get_source_blocks"></a>
 
-#### get_source_blocks
+#### get\_source\_blocks
 
 ```python
 def get_source_blocks() -> Map[int, str]
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DNode.get_custom_wrap_v"></a>
 
-#### get_custom_wrap_v
+#### get\_custom\_wrap\_v
 
 ```python
 def get_custom_wrap_v() -> Optional[InterchangeTextureWrapMode]
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DNode.get_custom_wrap_u"></a>
 
-#### get_custom_wrap_u
+#### get\_custom\_wrap\_u
 
 ```python
 def get_custom_wrap_u() -> Optional[InterchangeTextureWrapMode]

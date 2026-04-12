@@ -18,7 +18,7 @@ Wave Table Bank Entry
 
 <a id="unreal.WaveTableBankEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

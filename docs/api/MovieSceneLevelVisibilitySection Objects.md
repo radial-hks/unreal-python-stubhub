@@ -28,7 +28,7 @@ A section for use with the movie scene level visibility track, which controls st
 
 <a id="unreal.MovieSceneLevelVisibilitySection.set_visibility"></a>
 
-#### set_visibility
+#### set\_visibility
 
 ```python
 def set_visibility(visibility: LevelVisibility) -> None
@@ -42,7 +42,7 @@ Args:
 
 <a id="unreal.MovieSceneLevelVisibilitySection.set_level_names"></a>
 
-#### set_level_names
+#### set\_level\_names
 
 ```python
 def set_level_names(level_names: Array[Name]) -> None
@@ -56,7 +56,7 @@ Args:
 
 <a id="unreal.MovieSceneLevelVisibilitySection.get_visibility"></a>
 
-#### get_visibility
+#### get\_visibility
 
 ```python
 def get_visibility() -> LevelVisibility
@@ -70,7 +70,7 @@ Returns:
 
 <a id="unreal.MovieSceneLevelVisibilitySection.get_level_names"></a>
 
-#### get_level_names
+#### get\_level\_names
 
 ```python
 def get_level_names() -> Array[Name]

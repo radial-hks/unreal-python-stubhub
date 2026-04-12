@@ -26,7 +26,7 @@ Properties of representation of an 'agent' (or Pawn) used by AI navigation/pathf
 
 <a id="unreal.NavAgentProperties.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(can_crouch: bool = False,
@@ -43,7 +43,7 @@ def __init__(can_crouch: bool = False,
 
 <a id="unreal.NavAgentProperties.agent_radius"></a>
 
-#### agent_radius
+#### agent\_radius
 
 ```python
 @property
@@ -54,7 +54,7 @@ def agent_radius() -> float
 
 <a id="unreal.NavAgentProperties.agent_radius"></a>
 
-#### agent_radius
+#### agent\_radius
 
 ```python
 @agent_radius.setter
@@ -63,7 +63,7 @@ def agent_radius(value: float) -> None
 
 <a id="unreal.NavAgentProperties.agent_height"></a>
 
-#### agent_height
+#### agent\_height
 
 ```python
 @property
@@ -74,7 +74,7 @@ def agent_height() -> float
 
 <a id="unreal.NavAgentProperties.agent_height"></a>
 
-#### agent_height
+#### agent\_height
 
 ```python
 @agent_height.setter
@@ -83,7 +83,7 @@ def agent_height(value: float) -> None
 
 <a id="unreal.NavAgentProperties.agent_step_height"></a>
 
-#### agent_step_height
+#### agent\_step\_height
 
 ```python
 @property
@@ -94,7 +94,7 @@ def agent_step_height() -> float
 
 <a id="unreal.NavAgentProperties.agent_step_height"></a>
 
-#### agent_step_height
+#### agent\_step\_height
 
 ```python
 @agent_step_height.setter
@@ -103,7 +103,7 @@ def agent_step_height(value: float) -> None
 
 <a id="unreal.NavAgentProperties.nav_walking_search_height_scale"></a>
 
-#### nav_walking_search_height_scale
+#### nav\_walking\_search\_height\_scale
 
 ```python
 @property
@@ -114,7 +114,7 @@ def nav_walking_search_height_scale() -> float
 
 <a id="unreal.NavAgentProperties.nav_walking_search_height_scale"></a>
 
-#### nav_walking_search_height_scale
+#### nav\_walking\_search\_height\_scale
 
 ```python
 @nav_walking_search_height_scale.setter
@@ -123,7 +123,7 @@ def nav_walking_search_height_scale(value: float) -> None
 
 <a id="unreal.NavAgentProperties.preferred_nav_data"></a>
 
-#### preferred_nav_data
+#### preferred\_nav\_data
 
 ```python
 @property
@@ -134,7 +134,7 @@ def preferred_nav_data() -> SoftClassPath
 
 <a id="unreal.NavAgentProperties.preferred_nav_data"></a>
 
-#### preferred_nav_data
+#### preferred\_nav\_data
 
 ```python
 @preferred_nav_data.setter

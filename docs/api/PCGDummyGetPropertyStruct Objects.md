@@ -20,7 +20,7 @@ PCGDummy Get Property Struct
 
 <a id="unreal.PCGDummyGetPropertyStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(int_array_property: Array[int] = [],
@@ -30,7 +30,7 @@ def __init__(int_array_property: Array[int] = [],
 
 <a id="unreal.PCGDummyGetPropertyStruct.int_array_property"></a>
 
-#### int_array_property
+#### int\_array\_property
 
 ```python
 @property
@@ -41,7 +41,7 @@ def int_array_property() -> Array[int]
 
 <a id="unreal.PCGDummyGetPropertyStruct.float_property"></a>
 
-#### float_property
+#### float\_property
 
 ```python
 @property
@@ -52,7 +52,7 @@ def float_property() -> float
 
 <a id="unreal.PCGDummyGetPropertyStruct.level2_struct"></a>
 
-#### level2_struct
+#### level2\_struct
 
 ```python
 @property

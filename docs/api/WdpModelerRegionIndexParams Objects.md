@@ -1,0 +1,29 @@
+## WdpModelerRegionIndexParams Objects
+
+```python
+class WdpModelerRegionIndexParams(EidParams)
+```
+
+Wdp Modeler Region Index Params
+
+**C++ Source:**
+
+- **Plugin**: AesRuntimeModeler
+- **Module**: RuntimeModelerAPI
+- **File**: WdpModelerAPI.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``eid`` (Eid):  [Read-Write]
+- ``guid`` (str):  [Read-Write]
+- ``hit_keys`` (Set[Name]):  [Read-Write]
+
+<a id="unreal.WdpModelerRegionIndexParams.__init__"></a>
+
+#### \_\_init\_\_
+
+```python
+def __init__() -> None
+```
+
+<a id="unreal.WdpModelerRegionNameParams"></a>

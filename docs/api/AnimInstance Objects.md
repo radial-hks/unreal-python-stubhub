@@ -25,7 +25,7 @@ Anim Instance
 
 <a id="unreal.AnimInstance.on_montage_blending_out"></a>
 
-#### on_montage_blending_out
+#### on\_montage\_blending\_out
 
 ```python
 @property
@@ -36,7 +36,7 @@ def on_montage_blending_out() -> OnMontageBlendingOutStartedMCDelegate
 
 <a id="unreal.AnimInstance.on_montage_blending_out"></a>
 
-#### on_montage_blending_out
+#### on\_montage\_blending\_out
 
 ```python
 @on_montage_blending_out.setter
@@ -46,7 +46,7 @@ def on_montage_blending_out(
 
 <a id="unreal.AnimInstance.on_montage_blended_in"></a>
 
-#### on_montage_blended_in
+#### on\_montage\_blended\_in
 
 ```python
 @property
@@ -57,7 +57,7 @@ def on_montage_blended_in() -> OnMontageBlendedInEndedMCDelegate
 
 <a id="unreal.AnimInstance.on_montage_blended_in"></a>
 
-#### on_montage_blended_in
+#### on\_montage\_blended\_in
 
 ```python
 @on_montage_blended_in.setter
@@ -66,7 +66,7 @@ def on_montage_blended_in(value: OnMontageBlendedInEndedMCDelegate) -> None
 
 <a id="unreal.AnimInstance.on_montage_started"></a>
 
-#### on_montage_started
+#### on\_montage\_started
 
 ```python
 @property
@@ -77,7 +77,7 @@ def on_montage_started() -> OnMontageStartedMCDelegate
 
 <a id="unreal.AnimInstance.on_montage_started"></a>
 
-#### on_montage_started
+#### on\_montage\_started
 
 ```python
 @on_montage_started.setter
@@ -86,7 +86,7 @@ def on_montage_started(value: OnMontageStartedMCDelegate) -> None
 
 <a id="unreal.AnimInstance.on_montage_ended"></a>
 
-#### on_montage_ended
+#### on\_montage\_ended
 
 ```python
 @property
@@ -97,7 +97,7 @@ def on_montage_ended() -> OnMontageEndedMCDelegate
 
 <a id="unreal.AnimInstance.on_montage_ended"></a>
 
-#### on_montage_ended
+#### on\_montage\_ended
 
 ```python
 @on_montage_ended.setter
@@ -106,7 +106,7 @@ def on_montage_ended(value: OnMontageEndedMCDelegate) -> None
 
 <a id="unreal.AnimInstance.on_all_montage_instances_ended"></a>
 
-#### on_all_montage_instances_ended
+#### on\_all\_montage\_instances\_ended
 
 ```python
 @property
@@ -117,7 +117,7 @@ def on_all_montage_instances_ended() -> OnAllMontageInstancesEndedMCDelegate
 
 <a id="unreal.AnimInstance.on_all_montage_instances_ended"></a>
 
-#### on_all_montage_instances_ended
+#### on\_all\_montage\_instances\_ended
 
 ```python
 @on_all_montage_instances_ended.setter
@@ -127,7 +127,7 @@ def on_all_montage_instances_ended(
 
 <a id="unreal.AnimInstance.was_anim_notify_state_active_in_any_state"></a>
 
-#### was_anim_notify_state_active_in_any_state
+#### was\_anim\_notify\_state\_active\_in\_any\_state
 
 ```python
 def was_anim_notify_state_active_in_any_state(
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.AnimInstance.unlock_ai_resources"></a>
 
-#### unlock_ai_resources
+#### unlock\_ai\_resources
 
 ```python
 def unlock_ai_resources(unlock_movement: bool, unlock_ai_logic: bool) -> None
@@ -162,7 +162,7 @@ Args:
 
 <a id="unreal.AnimInstance.unlink_anim_class_layers"></a>
 
-#### unlink_anim_class_layers
+#### unlink\_anim\_class\_layers
 
 ```python
 def unlink_anim_class_layers(class_: Class) -> None
@@ -178,7 +178,7 @@ Args:
 
 <a id="unreal.AnimInstance.clear_layer_overlay"></a>
 
-#### clear_layer_overlay
+#### clear\_layer\_overlay
 
 ```python
 def clear_layer_overlay(class_: Class) -> None
@@ -188,7 +188,7 @@ deprecated: 'clear_layer_overlay' was renamed to 'unlink_anim_class_layers'.
 
 <a id="unreal.AnimInstance.try_get_pawn_owner"></a>
 
-#### try_get_pawn_owner
+#### try\_get\_pawn\_owner
 
 ```python
 def try_get_pawn_owner() -> Pawn
@@ -202,7 +202,7 @@ Returns:
 
 <a id="unreal.AnimInstance.stop_slot_animation"></a>
 
-#### stop_slot_animation
+#### stop\_slot\_animation
 
 ```python
 def stop_slot_animation(blend_out_time: float = 0.250000,
@@ -218,7 +218,7 @@ Args:
 
 <a id="unreal.AnimInstance.snapshot_pose"></a>
 
-#### snapshot_pose
+#### snapshot\_pose
 
 ```python
 def snapshot_pose(snapshot: PoseSnapshot) -> PoseSnapshot
@@ -239,7 +239,7 @@ Returns:
 
 <a id="unreal.AnimInstance.set_use_main_instance_montage_evaluation_data"></a>
 
-#### set_use_main_instance_montage_evaluation_data
+#### set\_use\_main\_instance\_montage\_evaluation\_data
 
 ```python
 def set_use_main_instance_montage_evaluation_data(set: bool) -> None
@@ -253,7 +253,7 @@ Args:
 
 <a id="unreal.AnimInstance.set_root_motion_mode"></a>
 
-#### set_root_motion_mode
+#### set\_root\_motion\_mode
 
 ```python
 def set_root_motion_mode(value: RootMotionMode) -> None
@@ -267,7 +267,7 @@ Args:
 
 <a id="unreal.AnimInstance.set_receive_notifies_from_linked_instances"></a>
 
-#### set_receive_notifies_from_linked_instances
+#### set\_receive\_notifies\_from\_linked\_instances
 
 ```python
 def set_receive_notifies_from_linked_instances(set: bool) -> None
@@ -281,7 +281,7 @@ Args:
 
 <a id="unreal.AnimInstance.set_propagate_notifies_to_linked_instances"></a>
 
-#### set_propagate_notifies_to_linked_instances
+#### set\_propagate\_notifies\_to\_linked\_instances
 
 ```python
 def set_propagate_notifies_to_linked_instances(set: bool) -> None
@@ -295,7 +295,7 @@ Args:
 
 <a id="unreal.AnimInstance.set_morph_target"></a>
 
-#### set_morph_target
+#### set\_morph\_target
 
 ```python
 def set_morph_target(morph_target_name: Name, value: float) -> None
@@ -310,7 +310,7 @@ Args:
 
 <a id="unreal.AnimInstance.save_pose_snapshot"></a>
 
-#### save_pose_snapshot
+#### save\_pose\_snapshot
 
 ```python
 def save_pose_snapshot(snapshot_name: Name) -> None
@@ -326,7 +326,7 @@ Args:
 
 <a id="unreal.AnimInstance.reset_dynamics"></a>
 
-#### reset_dynamics
+#### reset\_dynamics
 
 ```python
 def reset_dynamics(teleport_type: TeleportType) -> None
@@ -340,7 +340,7 @@ Args:
 
 <a id="unreal.AnimInstance.request_transition_event"></a>
 
-#### request_transition_event
+#### request\_transition\_event
 
 ```python
 def request_transition_event(
@@ -363,7 +363,7 @@ Returns:
 
 <a id="unreal.AnimInstance.request_slot_group_inertialization"></a>
 
-#### request_slot_group_inertialization
+#### request\_slot\_group\_inertialization
 
 ```python
 def request_slot_group_inertialization(
@@ -382,7 +382,7 @@ Args:
 
 <a id="unreal.AnimInstance.remove_pose_snapshot"></a>
 
-#### remove_pose_snapshot
+#### remove\_pose\_snapshot
 
 ```python
 def remove_pose_snapshot(snapshot_name: Name) -> None
@@ -396,7 +396,7 @@ Args:
 
 <a id="unreal.AnimInstance.play_slot_animation_as_dynamic_montage_with_blend_settings"></a>
 
-#### play_slot_animation_as_dynamic_montage_with_blend_settings
+#### play\_slot\_animation\_as\_dynamic\_montage\_with\_blend\_settings
 
 ```python
 def play_slot_animation_as_dynamic_montage_with_blend_settings(
@@ -428,7 +428,7 @@ Returns:
 
 <a id="unreal.AnimInstance.play_slot_animation_as_dynamic_montage_with_blend_args"></a>
 
-#### play_slot_animation_as_dynamic_montage_with_blend_args
+#### play\_slot\_animation\_as\_dynamic\_montage\_with\_blend\_args
 
 ```python
 def play_slot_animation_as_dynamic_montage_with_blend_args(
@@ -460,7 +460,7 @@ Returns:
 
 <a id="unreal.AnimInstance.play_slot_animation_as_dynamic_montage"></a>
 
-#### play_slot_animation_as_dynamic_montage
+#### play\_slot\_animation\_as\_dynamic\_montage
 
 ```python
 def play_slot_animation_as_dynamic_montage(
@@ -492,7 +492,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_sync_stop_following"></a>
 
-#### montage_sync_stop_following
+#### montage\_sync\_stop\_following
 
 ```python
 def montage_sync_stop_following(montage_follower: AnimMontage) -> None
@@ -506,7 +506,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_sync_follow"></a>
 
-#### montage_sync_follow
+#### montage\_sync\_follow
 
 ```python
 def montage_sync_follow(montage_follower: AnimMontage,
@@ -524,7 +524,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_stop_with_blend_settings"></a>
 
-#### montage_stop_with_blend_settings
+#### montage\_stop\_with\_blend\_settings
 
 ```python
 def montage_stop_with_blend_settings(blend_out_settings: MontageBlendSettings,
@@ -540,7 +540,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_stop_with_blend_out"></a>
 
-#### montage_stop_with_blend_out
+#### montage\_stop\_with\_blend\_out
 
 ```python
 def montage_stop_with_blend_out(blend_out: AlphaBlendArgs,
@@ -556,7 +556,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_stop_group_by_name"></a>
 
-#### montage_stop_group_by_name
+#### montage\_stop\_group\_by\_name
 
 ```python
 def montage_stop_group_by_name(blend_out_time: float,
@@ -572,7 +572,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_stop"></a>
 
-#### montage_stop
+#### montage\_stop
 
 ```python
 def montage_stop(blend_out_time: float, montage: AnimMontage = None) -> None
@@ -587,7 +587,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_set_position"></a>
 
-#### montage_set_position
+#### montage\_set\_position
 
 ```python
 def montage_set_position(montage: AnimMontage, new_position: float) -> None
@@ -602,7 +602,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_set_play_rate"></a>
 
-#### montage_set_play_rate
+#### montage\_set\_play\_rate
 
 ```python
 def montage_set_play_rate(montage: AnimMontage,
@@ -618,7 +618,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_set_next_section"></a>
 
-#### montage_set_next_section
+#### montage\_set\_next\_section
 
 ```python
 def montage_set_next_section(section_name_to_change: Name,
@@ -640,7 +640,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_resume"></a>
 
-#### montage_resume
+#### montage\_resume
 
 ```python
 def montage_resume(montage: AnimMontage) -> None
@@ -654,7 +654,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_play_with_blend_settings"></a>
 
-#### montage_play_with_blend_settings
+#### montage\_play\_with\_blend\_settings
 
 ```python
 def montage_play_with_blend_settings(
@@ -683,7 +683,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_play_with_blend_in"></a>
 
-#### montage_play_with_blend_in
+#### montage\_play\_with\_blend\_in
 
 ```python
 def montage_play_with_blend_in(
@@ -712,7 +712,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_play"></a>
 
-#### montage_play
+#### montage\_play
 
 ```python
 def montage_play(
@@ -739,7 +739,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_pause"></a>
 
-#### montage_pause
+#### montage\_pause
 
 ```python
 def montage_pause(montage: AnimMontage = None) -> None
@@ -753,7 +753,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_jump_to_sections_end"></a>
 
-#### montage_jump_to_sections_end
+#### montage\_jump\_to\_sections\_end
 
 ```python
 def montage_jump_to_sections_end(section_name: Name,
@@ -769,7 +769,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_jump_to_section"></a>
 
-#### montage_jump_to_section
+#### montage\_jump\_to\_section
 
 ```python
 def montage_jump_to_section(section_name: Name,
@@ -785,7 +785,7 @@ Args:
 
 <a id="unreal.AnimInstance.montage_is_playing"></a>
 
-#### montage_is_playing
+#### montage\_is\_playing
 
 ```python
 def montage_is_playing(montage: AnimMontage) -> bool
@@ -803,7 +803,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_is_active"></a>
 
-#### montage_is_active
+#### montage\_is\_active
 
 ```python
 def montage_is_active(montage: AnimMontage) -> bool
@@ -820,7 +820,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_get_position"></a>
 
-#### montage_get_position
+#### montage\_get\_position
 
 ```python
 def montage_get_position(montage: AnimMontage) -> float
@@ -837,7 +837,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_get_play_rate"></a>
 
-#### montage_get_play_rate
+#### montage\_get\_play\_rate
 
 ```python
 def montage_get_play_rate(montage: AnimMontage) -> float
@@ -856,7 +856,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_get_is_stopped"></a>
 
-#### montage_get_is_stopped
+#### montage\_get\_is\_stopped
 
 ```python
 def montage_get_is_stopped(montage: AnimMontage) -> bool
@@ -873,7 +873,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_get_effective_play_rate"></a>
 
-#### montage_get_effective_play_rate
+#### montage\_get\_effective\_play\_rate
 
 ```python
 def montage_get_effective_play_rate(montage: AnimMontage) -> float
@@ -892,7 +892,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_get_current_section"></a>
 
-#### montage_get_current_section
+#### montage\_get\_current\_section
 
 ```python
 def montage_get_current_section(montage: AnimMontage = None) -> Name
@@ -909,7 +909,7 @@ Returns:
 
 <a id="unreal.AnimInstance.montage_get_blend_time"></a>
 
-#### montage_get_blend_time
+#### montage\_get\_blend\_time
 
 ```python
 def montage_get_blend_time(montage: AnimMontage) -> float
@@ -927,7 +927,7 @@ Returns:
 
 <a id="unreal.AnimInstance.lock_ai_resources"></a>
 
-#### lock_ai_resources
+#### lock\_ai\_resources
 
 ```python
 def lock_ai_resources(lock_movement: bool, lock_ai_logic: bool) -> None
@@ -944,7 +944,7 @@ Args:
 
 <a id="unreal.AnimInstance.link_anim_graph_by_tag"></a>
 
-#### link_anim_graph_by_tag
+#### link\_anim\_graph\_by\_tag
 
 ```python
 def link_anim_graph_by_tag(tag: Name, class_: Class) -> None
@@ -959,7 +959,7 @@ Args:
 
 <a id="unreal.AnimInstance.set_sub_instance_class_by_tag"></a>
 
-#### set_sub_instance_class_by_tag
+#### set\_sub\_instance\_class\_by\_tag
 
 ```python
 def set_sub_instance_class_by_tag(tag: Name, class_: Class) -> None
@@ -969,7 +969,7 @@ deprecated: 'set_sub_instance_class_by_tag' was renamed to 'link_anim_graph_by_t
 
 <a id="unreal.AnimInstance.link_anim_class_layers"></a>
 
-#### link_anim_class_layers
+#### link\_anim\_class\_layers
 
 ```python
 def link_anim_class_layers(class_: Class) -> None
@@ -986,7 +986,7 @@ Args:
 
 <a id="unreal.AnimInstance.set_layer_overlay"></a>
 
-#### set_layer_overlay
+#### set\_layer\_overlay
 
 ```python
 def set_layer_overlay(class_: Class) -> None
@@ -996,7 +996,7 @@ deprecated: 'set_layer_overlay' was renamed to 'link_anim_class_layers'.
 
 <a id="unreal.AnimInstance.is_using_main_instance_montage_evaluation_data"></a>
 
-#### is_using_main_instance_montage_evaluation_data
+#### is\_using\_main\_instance\_montage\_evaluation\_data
 
 ```python
 def is_using_main_instance_montage_evaluation_data() -> bool
@@ -1010,7 +1010,7 @@ Returns:
 
 <a id="unreal.AnimInstance.is_sync_group_between_markers"></a>
 
-#### is_sync_group_between_markers
+#### is\_sync\_group\_between\_markers
 
 ```python
 def is_sync_group_between_markers(sync_group_name: Name,
@@ -1033,7 +1033,7 @@ Returns:
 
 <a id="unreal.AnimInstance.is_slot_active"></a>
 
-#### is_slot_active
+#### is\_slot\_active
 
 ```python
 def is_slot_active(slot_node_name: Name) -> bool
@@ -1050,7 +1050,7 @@ Returns:
 
 <a id="unreal.AnimInstance.is_playing_slot_animation"></a>
 
-#### is_playing_slot_animation
+#### is\_playing\_slot\_animation
 
 ```python
 def is_playing_slot_animation(asset: AnimSequenceBase,
@@ -1069,7 +1069,7 @@ Returns:
 
 <a id="unreal.AnimInstance.is_any_montage_playing"></a>
 
-#### is_any_montage_playing
+#### is\_any\_montage\_playing
 
 ```python
 def is_any_montage_playing() -> bool
@@ -1083,7 +1083,7 @@ Returns:
 
 <a id="unreal.AnimInstance.has_marker_been_hit_this_frame"></a>
 
-#### has_marker_been_hit_this_frame
+#### has\_marker\_been\_hit\_this\_frame
 
 ```python
 def has_marker_been_hit_this_frame(sync_group: Name,
@@ -1102,7 +1102,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_time_to_closest_marker"></a>
 
-#### get_time_to_closest_marker
+#### get\_time\_to\_closest\_marker
 
 ```python
 def get_time_to_closest_marker(sync_group: Name,
@@ -1123,7 +1123,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_sync_group_position"></a>
 
-#### get_sync_group_position
+#### get\_sync\_group\_position
 
 ```python
 def get_sync_group_position(sync_group_name: Name) -> MarkerSyncAnimPosition
@@ -1140,7 +1140,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_receive_notifies_from_linked_instances"></a>
 
-#### get_receive_notifies_from_linked_instances
+#### get\_receive\_notifies\_from\_linked\_instances
 
 ```python
 def get_receive_notifies_from_linked_instances() -> bool
@@ -1154,7 +1154,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_propagate_notifies_to_linked_instances"></a>
 
-#### get_propagate_notifies_to_linked_instances
+#### get\_propagate\_notifies\_to\_linked\_instances
 
 ```python
 def get_propagate_notifies_to_linked_instances() -> bool
@@ -1168,7 +1168,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_owning_component"></a>
 
-#### get_owning_component
+#### get\_owning\_component
 
 ```python
 def get_owning_component() -> SkeletalMeshComponent
@@ -1182,7 +1182,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_owning_actor"></a>
 
-#### get_owning_actor
+#### get\_owning\_actor
 
 ```python
 def get_owning_actor() -> Actor
@@ -1196,7 +1196,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_linked_anim_layer_instances_by_group"></a>
 
-#### get_linked_anim_layer_instances_by_group
+#### get\_linked\_anim\_layer\_instances\_by\_group
 
 ```python
 def get_linked_anim_layer_instances_by_group(
@@ -1216,7 +1216,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_linked_anim_layer_instance_by_group_and_class"></a>
 
-#### get_linked_anim_layer_instance_by_group_and_class
+#### get\_linked\_anim\_layer\_instance\_by\_group\_and\_class
 
 ```python
 def get_linked_anim_layer_instance_by_group_and_class(
@@ -1235,7 +1235,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_linked_anim_layer_instance_by_group"></a>
 
-#### get_linked_anim_layer_instance_by_group
+#### get\_linked\_anim\_layer\_instance\_by\_group
 
 ```python
 def get_linked_anim_layer_instance_by_group(group: Name) -> AnimInstance
@@ -1252,7 +1252,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_layer_sub_instance_by_group"></a>
 
-#### get_layer_sub_instance_by_group
+#### get\_layer\_sub\_instance\_by\_group
 
 ```python
 def get_layer_sub_instance_by_group(group: Name) -> AnimInstance
@@ -1262,7 +1262,7 @@ deprecated: 'get_layer_sub_instance_by_group' was renamed to 'get_linked_anim_la
 
 <a id="unreal.AnimInstance.get_linked_anim_layer_instance_by_class"></a>
 
-#### get_linked_anim_layer_instance_by_class
+#### get\_linked\_anim\_layer\_instance\_by\_class
 
 ```python
 def get_linked_anim_layer_instance_by_class(class_: Class,
@@ -1282,7 +1282,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_layer_sub_instance_by_class"></a>
 
-#### get_layer_sub_instance_by_class
+#### get\_layer\_sub\_instance\_by\_class
 
 ```python
 def get_layer_sub_instance_by_class(class_: Class,
@@ -1294,7 +1294,7 @@ deprecated: 'get_layer_sub_instance_by_class' was renamed to 'get_linked_anim_la
 
 <a id="unreal.AnimInstance.get_linked_anim_graph_instances_by_tag"></a>
 
-#### get_linked_anim_graph_instances_by_tag
+#### get\_linked\_anim\_graph\_instances\_by\_tag
 
 ```python
 def get_linked_anim_graph_instances_by_tag(tag: Name) -> Array[AnimInstance]
@@ -1314,7 +1314,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_sub_instances_by_tag"></a>
 
-#### get_sub_instances_by_tag
+#### get\_sub\_instances\_by\_tag
 
 ```python
 def get_sub_instances_by_tag(tag: Name) -> Array[AnimInstance]
@@ -1324,7 +1324,7 @@ deprecated: 'get_sub_instances_by_tag' was renamed to 'get_linked_anim_graph_ins
 
 <a id="unreal.AnimInstance.get_linked_anim_graph_instance_by_tag"></a>
 
-#### get_linked_anim_graph_instance_by_tag
+#### get\_linked\_anim\_graph\_instance\_by\_tag
 
 ```python
 def get_linked_anim_graph_instance_by_tag(tag: Name) -> AnimInstance
@@ -1341,7 +1341,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_sub_instance_by_tag"></a>
 
-#### get_sub_instance_by_tag
+#### get\_sub\_instance\_by\_tag
 
 ```python
 def get_sub_instance_by_tag(tag: Name) -> AnimInstance
@@ -1351,7 +1351,7 @@ deprecated: 'get_sub_instance_by_tag' was renamed to 'get_linked_anim_graph_inst
 
 <a id="unreal.AnimInstance.get_delta_seconds"></a>
 
-#### get_delta_seconds
+#### get\_delta\_seconds
 
 ```python
 def get_delta_seconds() -> float
@@ -1365,7 +1365,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_curve_value_with_default"></a>
 
-#### get_curve_value_with_default
+#### get\_curve\_value\_with\_default
 
 ```python
 def get_curve_value_with_default(curve_name: Name,
@@ -1386,7 +1386,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_curve_value"></a>
 
-#### get_curve_value
+#### get\_curve\_value
 
 ```python
 def get_curve_value(curve_name: Name) -> float
@@ -1403,7 +1403,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_current_active_montage"></a>
 
-#### get_current_active_montage
+#### get\_current\_active\_montage
 
 ```python
 def get_current_active_montage() -> AnimMontage
@@ -1418,7 +1418,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_blend_profile_by_name"></a>
 
-#### get_blend_profile_by_name
+#### get\_blend\_profile\_by\_name
 
 ```python
 def get_blend_profile_by_name(blend_profile_name: Name) -> BlendProfile
@@ -1435,7 +1435,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_all_curve_names"></a>
 
-#### get_all_curve_names
+#### get\_all\_curve\_names
 
 ```python
 def get_all_curve_names() -> Array[Name]
@@ -1451,7 +1451,7 @@ Returns:
 
 <a id="unreal.AnimInstance.get_active_curve_names"></a>
 
-#### get_active_curve_names
+#### get\_active\_curve\_names
 
 ```python
 def get_active_curve_names(curve_type: AnimCurveType) -> Array[Name]
@@ -1470,7 +1470,7 @@ Returns:
 
 <a id="unreal.AnimInstance.dynamic_montage_is_playing_from"></a>
 
-#### dynamic_montage_is_playing_from
+#### dynamic\_montage\_is\_playing\_from
 
 ```python
 def dynamic_montage_is_playing_from(animation: AnimSequenceBase) -> bool
@@ -1487,7 +1487,7 @@ Returns:
 
 <a id="unreal.AnimInstance.clear_transition_events"></a>
 
-#### clear_transition_events
+#### clear\_transition\_events
 
 ```python
 def clear_transition_events(event_name: Name) -> None
@@ -1501,7 +1501,7 @@ Args:
 
 <a id="unreal.AnimInstance.clear_morph_targets"></a>
 
-#### clear_morph_targets
+#### clear\_morph\_targets
 
 ```python
 def clear_morph_targets() -> None
@@ -1512,7 +1512,7 @@ Clears the current morph targets.
 
 <a id="unreal.AnimInstance.clear_all_transition_events"></a>
 
-#### clear_all_transition_events
+#### clear\_all\_transition\_events
 
 ```python
 def clear_all_transition_events() -> None
@@ -1523,7 +1523,7 @@ Removes all queued transition requests
 
 <a id="unreal.AnimInstance.calculate_direction"></a>
 
-#### calculate_direction
+#### calculate\_direction
 
 ```python
 def calculate_direction(velocity: Vector, base_rotation: Rotator) -> float
@@ -1541,7 +1541,7 @@ Returns:
 
 <a id="unreal.AnimInstance.blueprint_update_animation"></a>
 
-#### blueprint_update_animation
+#### blueprint\_update\_animation
 
 ```python
 def blueprint_update_animation(delta_time_x: float) -> None
@@ -1555,7 +1555,7 @@ Args:
 
 <a id="unreal.AnimInstance.kismet_update_animation"></a>
 
-#### kismet_update_animation
+#### kismet\_update\_animation
 
 ```python
 def kismet_update_animation(delta_time_x: float) -> None
@@ -1565,7 +1565,7 @@ deprecated: 'kismet_update_animation' was renamed to 'blueprint_update_animation
 
 <a id="unreal.AnimInstance.blueprint_thread_safe_update_animation"></a>
 
-#### blueprint_thread_safe_update_animation
+#### blueprint\_thread\_safe\_update\_animation
 
 ```python
 def blueprint_thread_safe_update_animation(delta_time: float) -> None
@@ -1579,7 +1579,7 @@ Args:
 
 <a id="unreal.AnimInstance.blueprint_post_evaluate_animation"></a>
 
-#### blueprint_post_evaluate_animation
+#### blueprint\_post\_evaluate\_animation
 
 ```python
 def blueprint_post_evaluate_animation() -> None
@@ -1590,7 +1590,7 @@ Executed after the Animation is evaluated
 
 <a id="unreal.AnimInstance.blueprint_linked_animation_layers_initialized"></a>
 
-#### blueprint_linked_animation_layers_initialized
+#### blueprint\_linked\_animation\_layers\_initialized
 
 ```python
 def blueprint_linked_animation_layers_initialized() -> None
@@ -1601,7 +1601,7 @@ Executed when the all Linked Animation Layers are initialized
 
 <a id="unreal.AnimInstance.blueprint_initialize_animation"></a>
 
-#### blueprint_initialize_animation
+#### blueprint\_initialize\_animation
 
 ```python
 def blueprint_initialize_animation() -> None
@@ -1612,7 +1612,7 @@ Executed when the Animation is initialized
 
 <a id="unreal.AnimInstance.kismet_initialize_animation"></a>
 
-#### kismet_initialize_animation
+#### kismet\_initialize\_animation
 
 ```python
 def kismet_initialize_animation() -> None
@@ -1622,7 +1622,7 @@ deprecated: 'kismet_initialize_animation' was renamed to 'blueprint_initialize_a
 
 <a id="unreal.AnimInstance.blueprint_begin_play"></a>
 
-#### blueprint_begin_play
+#### blueprint\_begin\_play
 
 ```python
 def blueprint_begin_play() -> None
@@ -1633,7 +1633,7 @@ Executed when begin play is called on the owning component
 
 <a id="unreal.AnimInstance.blueprint_get_slot_montage_local_weight"></a>
 
-#### blueprint_get_slot_montage_local_weight
+#### blueprint\_get\_slot\_montage\_local\_weight
 
 ```python
 def blueprint_get_slot_montage_local_weight(slot_node_name: Name) -> float
@@ -1650,7 +1650,7 @@ Returns:
 
 <a id="unreal.AnimInstance.blueprint_get_main_anim_instance"></a>
 
-#### blueprint_get_main_anim_instance
+#### blueprint\_get\_main\_anim\_instance
 
 ```python
 def blueprint_get_main_anim_instance() -> AnimInstance

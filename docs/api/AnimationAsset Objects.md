@@ -28,7 +28,7 @@ Animation Asset
 
 <a id="unreal.AnimationAsset.set_preview_skeletal_mesh"></a>
 
-#### set_preview_skeletal_mesh
+#### set\_preview\_skeletal\_mesh
 
 ```python
 def set_preview_skeletal_mesh(preview_mesh: SkeletalMesh) -> None
@@ -42,7 +42,7 @@ Args:
 
 <a id="unreal.AnimationAsset.get_play_length"></a>
 
-#### get_play_length
+#### get\_play\_length
 
 ```python
 def get_play_length() -> float
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.AnimationAsset.find_meta_data_by_class"></a>
 
-#### find_meta_data_by_class
+#### find\_meta\_data\_by\_class
 
 ```python
 def find_meta_data_by_class(meta_data_class: Class) -> AnimMetaData
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.AnimationAsset.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.AnimationAsset.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.AnimationAsset.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.AnimationAsset.get_skeleton"></a>
 
-#### get_skeleton
+#### get\_skeleton
 
 ```python
 def get_skeleton() -> Skeleton
@@ -138,7 +138,7 @@ Returns:
 
 <a id="unreal.AnimationAsset.create_attribute_identifier"></a>
 
-#### create_attribute_identifier
+#### create\_attribute\_identifier
 
 ```python
 def create_attribute_identifier(

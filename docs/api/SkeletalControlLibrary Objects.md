@@ -14,7 +14,7 @@ Note: Experimental and subject to change!
 
 <a id="unreal.SkeletalControlLibrary.set_alpha"></a>
 
-#### set_alpha
+#### set\_alpha
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.SkeletalControlLibrary.get_alpha"></a>
 
-#### get_alpha
+#### get\_alpha
 
 ```python
 @classmethod
@@ -52,7 +52,7 @@ Returns:
 
 <a id="unreal.SkeletalControlLibrary.convert_to_skeletal_control_pure"></a>
 
-#### convert_to_skeletal_control_pure
+#### convert\_to\_skeletal\_control\_pure
 
 ```python
 @classmethod
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.SkeletalControlLibrary.convert_to_skeletal_control"></a>
 
-#### convert_to_skeletal_control
+#### convert\_to\_skeletal\_control
 
 ```python
 @classmethod

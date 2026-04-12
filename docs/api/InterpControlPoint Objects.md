@@ -18,7 +18,7 @@ Interp Control Point
 
 <a id="unreal.InterpControlPoint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(position_control_point: Vector = [0.000000, 0.000000, 0.000000],
@@ -27,7 +27,7 @@ def __init__(position_control_point: Vector = [0.000000, 0.000000, 0.000000],
 
 <a id="unreal.InterpControlPoint.position_control_point"></a>
 
-#### position_control_point
+#### position\_control\_point
 
 ```python
 @property
@@ -38,7 +38,7 @@ def position_control_point() -> Vector
 
 <a id="unreal.InterpControlPoint.position_control_point"></a>
 
-#### position_control_point
+#### position\_control\_point
 
 ```python
 @position_control_point.setter
@@ -47,7 +47,7 @@ def position_control_point(value: Vector) -> None
 
 <a id="unreal.InterpControlPoint.position_is_relative"></a>
 
-#### position_is_relative
+#### position\_is\_relative
 
 ```python
 @property
@@ -58,7 +58,7 @@ def position_is_relative() -> bool
 
 <a id="unreal.InterpControlPoint.position_is_relative"></a>
 
-#### position_is_relative
+#### position\_is\_relative
 
 ```python
 @position_is_relative.setter

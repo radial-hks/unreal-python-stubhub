@@ -14,7 +14,7 @@ Asset export utils - will work only in editor builds.
 
 <a id="unreal.PCGAssetExporterUtils.update_assets"></a>
 
-#### update_assets
+#### update\_assets
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.PCGAssetExporterUtils.create_asset"></a>
 
-#### create_asset
+#### create\_asset
 
 ```python
 @classmethod

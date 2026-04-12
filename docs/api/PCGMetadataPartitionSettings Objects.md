@@ -42,7 +42,7 @@ PCGMetadata Partition Settings
 
 <a id="unreal.PCGMetadataPartitionSettings.partition_attribute_selectors"></a>
 
-#### partition_attribute_selectors
+#### partition\_attribute\_selectors
 
 ```python
 @property
@@ -54,7 +54,7 @@ def partition_attribute_selectors(
 
 <a id="unreal.PCGMetadataPartitionSettings.partition_attribute_selectors"></a>
 
-#### partition_attribute_selectors
+#### partition\_attribute\_selectors
 
 ```python
 @partition_attribute_selectors.setter
@@ -64,7 +64,7 @@ def partition_attribute_selectors(
 
 <a id="unreal.PCGMetadataPartitionSettings.partition_attribute"></a>
 
-#### partition_attribute
+#### partition\_attribute
 
 ```python
 @property
@@ -76,7 +76,7 @@ deprecated: PartitionAttribute has been deprecated.
 
 <a id="unreal.PCGMetadataPartitionSettings.partition_attribute"></a>
 
-#### partition_attribute
+#### partition\_attribute
 
 ```python
 @partition_attribute.setter
@@ -85,7 +85,7 @@ def partition_attribute(value: Name) -> None
 
 <a id="unreal.PCGMetadataPartitionSettings.partition_attribute_source"></a>
 
-#### partition_attribute_source
+#### partition\_attribute\_source
 
 ```python
 @property
@@ -97,7 +97,7 @@ deprecated: PartitionAttributeSource has been deprecated.
 
 <a id="unreal.PCGMetadataPartitionSettings.partition_attribute_source"></a>
 
-#### partition_attribute_source
+#### partition\_attribute\_source
 
 ```python
 @partition_attribute_source.setter

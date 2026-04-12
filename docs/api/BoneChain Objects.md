@@ -21,7 +21,7 @@ Bone Chain
 
 <a id="unreal.BoneChain.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(chain_name: Name = "None", ik_goal_name: Name = "None") -> None
@@ -29,7 +29,7 @@ def __init__(chain_name: Name = "None", ik_goal_name: Name = "None") -> None
 
 <a id="unreal.BoneChain.chain_name"></a>
 
-#### chain_name
+#### chain\_name
 
 ```python
 @property
@@ -40,7 +40,7 @@ def chain_name() -> Name
 
 <a id="unreal.BoneChain.chain_name"></a>
 
-#### chain_name
+#### chain\_name
 
 ```python
 @chain_name.setter
@@ -49,7 +49,7 @@ def chain_name(value: Name) -> None
 
 <a id="unreal.BoneChain.ik_goal_name"></a>
 
-#### ik_goal_name
+#### ik\_goal\_name
 
 ```python
 @property

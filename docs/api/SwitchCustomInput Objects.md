@@ -17,7 +17,7 @@ Switch Custom Input
 
 <a id="unreal.SwitchCustomInput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

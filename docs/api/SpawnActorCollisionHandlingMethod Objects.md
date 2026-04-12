@@ -19,25 +19,25 @@ Defines available strategies for handling the case where an actor is spawned in 
 
 <a id="unreal.SpawnActorCollisionHandlingMethod.ALWAYS_SPAWN"></a>
 
-#### ALWAYS_SPAWN
+#### ALWAYS\_SPAWN
 
 1: Actor will spawn in desired location, regardless of collisions.
 
 <a id="unreal.SpawnActorCollisionHandlingMethod.ADJUST_IF_POSSIBLE_BUT_ALWAYS_SPAWN"></a>
 
-#### ADJUST_IF_POSSIBLE_BUT_ALWAYS_SPAWN
+#### ADJUST\_IF\_POSSIBLE\_BUT\_ALWAYS\_SPAWN
 
 2: Actor will try to find a nearby non-colliding location (based on shape components), but will always spawn even if one cannot be found.
 
 <a id="unreal.SpawnActorCollisionHandlingMethod.ADJUST_IF_POSSIBLE_BUT_DONT_SPAWN_IF_COLLIDING"></a>
 
-#### ADJUST_IF_POSSIBLE_BUT_DONT_SPAWN_IF_COLLIDING
+#### ADJUST\_IF\_POSSIBLE\_BUT\_DONT\_SPAWN\_IF\_COLLIDING
 
 3: Actor will try to find a nearby non-colliding location (based on shape components), but will NOT spawn unless one is found.
 
 <a id="unreal.SpawnActorCollisionHandlingMethod.DONT_SPAWN_IF_COLLIDING"></a>
 
-#### DONT_SPAWN_IF_COLLIDING
+#### DONT\_SPAWN\_IF\_COLLIDING
 
 4: Actor will fail to spawn.
 

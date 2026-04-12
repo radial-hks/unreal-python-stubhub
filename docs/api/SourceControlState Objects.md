@@ -38,7 +38,7 @@ see: USourceControlHelpers::QueryFileState()
 
 <a id="unreal.SourceControlState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(filename: str = "",
@@ -75,7 +75,7 @@ def filename() -> str
 
 <a id="unreal.SourceControlState.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @property
@@ -86,7 +86,7 @@ def is_valid() -> bool
 
 <a id="unreal.SourceControlState.is_unknown"></a>
 
-#### is_unknown
+#### is\_unknown
 
 ```python
 @property
@@ -97,7 +97,7 @@ def is_unknown() -> bool
 
 <a id="unreal.SourceControlState.can_check_in"></a>
 
-#### can_check_in
+#### can\_check\_in
 
 ```python
 @property
@@ -108,7 +108,7 @@ def can_check_in() -> bool
 
 <a id="unreal.SourceControlState.can_check_out"></a>
 
-#### can_check_out
+#### can\_check\_out
 
 ```python
 @property
@@ -119,7 +119,7 @@ def can_check_out() -> bool
 
 <a id="unreal.SourceControlState.is_checked_out"></a>
 
-#### is_checked_out
+#### is\_checked\_out
 
 ```python
 @property
@@ -130,7 +130,7 @@ def is_checked_out() -> bool
 
 <a id="unreal.SourceControlState.is_current"></a>
 
-#### is_current
+#### is\_current
 
 ```python
 @property
@@ -141,7 +141,7 @@ def is_current() -> bool
 
 <a id="unreal.SourceControlState.is_source_controlled"></a>
 
-#### is_source_controlled
+#### is\_source\_controlled
 
 ```python
 @property
@@ -152,7 +152,7 @@ def is_source_controlled() -> bool
 
 <a id="unreal.SourceControlState.is_added"></a>
 
-#### is_added
+#### is\_added
 
 ```python
 @property
@@ -164,7 +164,7 @@ note: if already checked in then not considered mid add
 
 <a id="unreal.SourceControlState.is_deleted"></a>
 
-#### is_deleted
+#### is\_deleted
 
 ```python
 @property
@@ -175,7 +175,7 @@ def is_deleted() -> bool
 
 <a id="unreal.SourceControlState.is_ignored"></a>
 
-#### is_ignored
+#### is\_ignored
 
 ```python
 @property
@@ -186,7 +186,7 @@ def is_ignored() -> bool
 
 <a id="unreal.SourceControlState.can_edit"></a>
 
-#### can_edit
+#### can\_edit
 
 ```python
 @property
@@ -197,7 +197,7 @@ def can_edit() -> bool
 
 <a id="unreal.SourceControlState.can_delete"></a>
 
-#### can_delete
+#### can\_delete
 
 ```python
 @property
@@ -208,7 +208,7 @@ def can_delete() -> bool
 
 <a id="unreal.SourceControlState.is_modified"></a>
 
-#### is_modified
+#### is\_modified
 
 ```python
 @property
@@ -219,7 +219,7 @@ def is_modified() -> bool
 
 <a id="unreal.SourceControlState.can_add"></a>
 
-#### can_add
+#### can\_add
 
 ```python
 @property
@@ -231,7 +231,7 @@ structure currently under source control)
 
 <a id="unreal.SourceControlState.is_conflicted"></a>
 
-#### is_conflicted
+#### is\_conflicted
 
 ```python
 @property
@@ -242,7 +242,7 @@ def is_conflicted() -> bool
 
 <a id="unreal.SourceControlState.can_revert"></a>
 
-#### can_revert
+#### can\_revert
 
 ```python
 @property
@@ -253,7 +253,7 @@ def can_revert() -> bool
 
 <a id="unreal.SourceControlState.is_checked_out_other"></a>
 
-#### is_checked_out_other
+#### is\_checked\_out\_other
 
 ```python
 @property
@@ -264,7 +264,7 @@ def is_checked_out_other() -> bool
 
 <a id="unreal.SourceControlState.checked_out_other"></a>
 
-#### checked_out_other
+#### checked\_out\_other
 
 ```python
 @property

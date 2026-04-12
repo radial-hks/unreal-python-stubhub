@@ -24,7 +24,7 @@ Geometry Collection Collision Type Data
 
 <a id="unreal.GeometryCollectionCollisionTypeData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

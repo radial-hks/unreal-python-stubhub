@@ -29,7 +29,7 @@ A brush which contains information about how to draw a Slate element
 
 <a id="unreal.SlateBrush.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -52,7 +52,7 @@ def __init__(
 
 <a id="unreal.SlateBrush.tint_color"></a>
 
-#### tint_color
+#### tint\_color
 
 ```python
 @property
@@ -63,7 +63,7 @@ def tint_color() -> SlateColor
 
 <a id="unreal.SlateBrush.tint_color"></a>
 
-#### tint_color
+#### tint\_color
 
 ```python
 @tint_color.setter
@@ -72,7 +72,7 @@ def tint_color(value: SlateColor) -> None
 
 <a id="unreal.SlateBrush.draw_as"></a>
 
-#### draw_as
+#### draw\_as
 
 ```python
 @property
@@ -83,7 +83,7 @@ def draw_as() -> SlateBrushDrawType
 
 <a id="unreal.SlateBrush.draw_as"></a>
 
-#### draw_as
+#### draw\_as
 
 ```python
 @draw_as.setter
@@ -133,7 +133,7 @@ def mirroring(value: SlateBrushMirrorType) -> None
 
 <a id="unreal.SlateBrush.image_size"></a>
 
-#### image_size
+#### image\_size
 
 ```python
 @property
@@ -144,7 +144,7 @@ def image_size() -> DeprecateSlateVector2D
 
 <a id="unreal.SlateBrush.image_size"></a>
 
-#### image_size
+#### image\_size
 
 ```python
 @image_size.setter
@@ -173,7 +173,7 @@ def margin(value: Margin) -> None
 
 <a id="unreal.SlateBrush.resource_object"></a>
 
-#### resource_object
+#### resource\_object
 
 ```python
 @property
@@ -185,7 +185,7 @@ the AtlasedTextureInterface.
 
 <a id="unreal.SlateBrush.resource_object"></a>
 
-#### resource_object
+#### resource\_object
 
 ```python
 @resource_object.setter
@@ -194,7 +194,7 @@ def resource_object(value: Object) -> None
 
 <a id="unreal.SlateBrush.texture_object"></a>
 
-#### texture_object
+#### texture\_object
 
 ```python
 @property
@@ -205,7 +205,7 @@ deprecated: 'texture_object' was renamed to 'resource_object'.
 
 <a id="unreal.SlateBrush.texture_object"></a>
 
-#### texture_object
+#### texture\_object
 
 ```python
 @texture_object.setter
@@ -214,7 +214,7 @@ def texture_object(value: Object) -> None
 
 <a id="unreal.SlateBrush.outline_settings"></a>
 
-#### outline_settings
+#### outline\_settings
 
 ```python
 @property
@@ -225,7 +225,7 @@ def outline_settings() -> SlateBrushOutlineSettings
 
 <a id="unreal.SlateBrush.outline_settings"></a>
 
-#### outline_settings
+#### outline\_settings
 
 ```python
 @outline_settings.setter

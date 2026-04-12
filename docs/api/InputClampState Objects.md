@@ -13,7 +13,7 @@ Mutable state struct to be used with FInputClampConstants
 
 <a id="unreal.InputClampState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

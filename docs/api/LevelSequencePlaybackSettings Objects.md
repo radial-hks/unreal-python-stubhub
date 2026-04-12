@@ -8,7 +8,7 @@ deprecated: 'LevelSequencePlaybackSettings' was renamed to 'MovieSceneSequencePl
 
 <a id="unreal.LevelSequencePlaybackSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

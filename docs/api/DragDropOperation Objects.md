@@ -68,7 +68,7 @@ def payload(value: Object) -> None
 
 <a id="unreal.DragDropOperation.default_drag_visual"></a>
 
-#### default_drag_visual
+#### default\_drag\_visual
 
 ```python
 @property
@@ -121,7 +121,7 @@ def offset(value: Vector2D) -> None
 
 <a id="unreal.DragDropOperation.on_drop"></a>
 
-#### on_drop
+#### on\_drop
 
 ```python
 @property
@@ -132,7 +132,7 @@ def on_drop() -> OnDragDropMulticast
 
 <a id="unreal.DragDropOperation.on_drop"></a>
 
-#### on_drop
+#### on\_drop
 
 ```python
 @on_drop.setter
@@ -141,7 +141,7 @@ def on_drop(value: OnDragDropMulticast) -> None
 
 <a id="unreal.DragDropOperation.on_drag_cancelled"></a>
 
-#### on_drag_cancelled
+#### on\_drag\_cancelled
 
 ```python
 @property
@@ -152,7 +152,7 @@ def on_drag_cancelled() -> OnDragDropMulticast
 
 <a id="unreal.DragDropOperation.on_drag_cancelled"></a>
 
-#### on_drag_cancelled
+#### on\_drag\_cancelled
 
 ```python
 @on_drag_cancelled.setter
@@ -161,7 +161,7 @@ def on_drag_cancelled(value: OnDragDropMulticast) -> None
 
 <a id="unreal.DragDropOperation.on_dragged"></a>
 
-#### on_dragged
+#### on\_dragged
 
 ```python
 @property
@@ -172,7 +172,7 @@ def on_dragged() -> OnDragDropMulticast
 
 <a id="unreal.DragDropOperation.on_dragged"></a>
 
-#### on_dragged
+#### on\_dragged
 
 ```python
 @on_dragged.setter
@@ -209,7 +209,7 @@ Args:
 
 <a id="unreal.DragDropOperation.drag_cancelled"></a>
 
-#### drag_cancelled
+#### drag\_cancelled
 
 ```python
 def drag_cancelled(pointer_event: PointerEvent) -> None

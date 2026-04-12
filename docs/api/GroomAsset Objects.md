@@ -35,7 +35,7 @@ Implements an asset that can be used to store hair strands
 
 <a id="unreal.GroomAsset.hair_groups_rendering"></a>
 
-#### hair_groups_rendering
+#### hair\_groups\_rendering
 
 ```python
 @property
@@ -46,7 +46,7 @@ def hair_groups_rendering() -> Array[HairGroupsRendering]
 
 <a id="unreal.GroomAsset.hair_groups_rendering"></a>
 
-#### hair_groups_rendering
+#### hair\_groups\_rendering
 
 ```python
 @hair_groups_rendering.setter
@@ -55,7 +55,7 @@ def hair_groups_rendering(value: Array[HairGroupsRendering]) -> None
 
 <a id="unreal.GroomAsset.hair_groups_physics"></a>
 
-#### hair_groups_physics
+#### hair\_groups\_physics
 
 ```python
 @property
@@ -66,7 +66,7 @@ def hair_groups_physics() -> Array[HairGroupsPhysics]
 
 <a id="unreal.GroomAsset.hair_groups_physics"></a>
 
-#### hair_groups_physics
+#### hair\_groups\_physics
 
 ```python
 @hair_groups_physics.setter
@@ -75,7 +75,7 @@ def hair_groups_physics(value: Array[HairGroupsPhysics]) -> None
 
 <a id="unreal.GroomAsset.hair_groups_interpolation"></a>
 
-#### hair_groups_interpolation
+#### hair\_groups\_interpolation
 
 ```python
 @property
@@ -86,7 +86,7 @@ def hair_groups_interpolation() -> Array[HairGroupsInterpolation]
 
 <a id="unreal.GroomAsset.hair_groups_interpolation"></a>
 
-#### hair_groups_interpolation
+#### hair\_groups\_interpolation
 
 ```python
 @hair_groups_interpolation.setter
@@ -95,7 +95,7 @@ def hair_groups_interpolation(value: Array[HairGroupsInterpolation]) -> None
 
 <a id="unreal.GroomAsset.hair_groups_lod"></a>
 
-#### hair_groups_lod
+#### hair\_groups\_lod
 
 ```python
 @property
@@ -106,7 +106,7 @@ def hair_groups_lod() -> Array[HairGroupsLOD]
 
 <a id="unreal.GroomAsset.hair_groups_lod"></a>
 
-#### hair_groups_lod
+#### hair\_groups\_lod
 
 ```python
 @hair_groups_lod.setter
@@ -115,7 +115,7 @@ def hair_groups_lod(value: Array[HairGroupsLOD]) -> None
 
 <a id="unreal.GroomAsset.hair_groups_cards"></a>
 
-#### hair_groups_cards
+#### hair\_groups\_cards
 
 ```python
 @property
@@ -126,7 +126,7 @@ def hair_groups_cards() -> Array[HairGroupsCardsSourceDescription]
 
 <a id="unreal.GroomAsset.hair_groups_cards"></a>
 
-#### hair_groups_cards
+#### hair\_groups\_cards
 
 ```python
 @hair_groups_cards.setter
@@ -135,7 +135,7 @@ def hair_groups_cards(value: Array[HairGroupsCardsSourceDescription]) -> None
 
 <a id="unreal.GroomAsset.hair_groups_meshes"></a>
 
-#### hair_groups_meshes
+#### hair\_groups\_meshes
 
 ```python
 @property
@@ -146,7 +146,7 @@ def hair_groups_meshes() -> Array[HairGroupsMeshesSourceDescription]
 
 <a id="unreal.GroomAsset.hair_groups_meshes"></a>
 
-#### hair_groups_meshes
+#### hair\_groups\_meshes
 
 ```python
 @hair_groups_meshes.setter
@@ -156,7 +156,7 @@ def hair_groups_meshes(
 
 <a id="unreal.GroomAsset.hair_groups_materials"></a>
 
-#### hair_groups_materials
+#### hair\_groups\_materials
 
 ```python
 @property
@@ -167,7 +167,7 @@ def hair_groups_materials() -> Array[HairGroupsMaterial]
 
 <a id="unreal.GroomAsset.hair_groups_materials"></a>
 
-#### hair_groups_materials
+#### hair\_groups\_materials
 
 ```python
 @hair_groups_materials.setter
@@ -176,7 +176,7 @@ def hair_groups_materials(value: Array[HairGroupsMaterial]) -> None
 
 <a id="unreal.GroomAsset.enable_global_interpolation"></a>
 
-#### enable_global_interpolation
+#### enable\_global\_interpolation
 
 ```python
 @property
@@ -187,7 +187,7 @@ def enable_global_interpolation() -> bool
 
 <a id="unreal.GroomAsset.enable_global_interpolation"></a>
 
-#### enable_global_interpolation
+#### enable\_global\_interpolation
 
 ```python
 @enable_global_interpolation.setter
@@ -196,7 +196,7 @@ def enable_global_interpolation(value: bool) -> None
 
 <a id="unreal.GroomAsset.enable_simulation_cache"></a>
 
-#### enable_simulation_cache
+#### enable\_simulation\_cache
 
 ```python
 @property
@@ -207,7 +207,7 @@ def enable_simulation_cache() -> bool
 
 <a id="unreal.GroomAsset.enable_simulation_cache"></a>
 
-#### enable_simulation_cache
+#### enable\_simulation\_cache
 
 ```python
 @enable_simulation_cache.setter
@@ -216,7 +216,7 @@ def enable_simulation_cache(value: bool) -> None
 
 <a id="unreal.GroomAsset.hair_interpolation_type"></a>
 
-#### hair_interpolation_type
+#### hair\_interpolation\_type
 
 ```python
 @property
@@ -227,7 +227,7 @@ def hair_interpolation_type() -> GroomInterpolationType
 
 <a id="unreal.GroomAsset.hair_interpolation_type"></a>
 
-#### hair_interpolation_type
+#### hair\_interpolation\_type
 
 ```python
 @hair_interpolation_type.setter
@@ -236,7 +236,7 @@ def hair_interpolation_type(value: GroomInterpolationType) -> None
 
 <a id="unreal.GroomAsset.rigged_skeletal_mesh"></a>
 
-#### rigged_skeletal_mesh
+#### rigged\_skeletal\_mesh
 
 ```python
 @property
@@ -247,7 +247,7 @@ def rigged_skeletal_mesh() -> SkeletalMesh
 
 <a id="unreal.GroomAsset.deformed_skeletal_mesh"></a>
 
-#### deformed_skeletal_mesh
+#### deformed\_skeletal\_mesh
 
 ```python
 @property
@@ -258,7 +258,7 @@ deprecated: 'deformed_skeletal_mesh' was renamed to 'rigged_skeletal_mesh'.
 
 <a id="unreal.GroomAsset.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -275,7 +275,7 @@ Returns:
 
 <a id="unreal.GroomAsset.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -292,7 +292,7 @@ Returns:
 
 <a id="unreal.GroomAsset.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

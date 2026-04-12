@@ -14,7 +14,7 @@ Resonance Audio Blueprint Function Library
 
 <a id="unreal.ResonanceAudioBlueprintFunctionLibrary.set_global_reverb_preset"></a>
 
-#### set_global_reverb_preset
+#### set\_global\_reverb\_preset
 
 ```python
 @classmethod
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.ResonanceAudioBlueprintFunctionLibrary.get_global_reverb_preset"></a>
 
-#### get_global_reverb_preset
+#### get\_global\_reverb\_preset
 
 ```python
 @classmethod

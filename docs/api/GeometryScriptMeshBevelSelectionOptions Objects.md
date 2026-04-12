@@ -22,7 +22,7 @@ Geometry Script Mesh Bevel Selection Options
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bevel_distance: float = 0.000000,
@@ -34,7 +34,7 @@ def __init__(bevel_distance: float = 0.000000,
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.bevel_distance"></a>
 
-#### bevel_distance
+#### bevel\_distance
 
 ```python
 @property
@@ -45,7 +45,7 @@ def bevel_distance() -> float
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.bevel_distance"></a>
 
-#### bevel_distance
+#### bevel\_distance
 
 ```python
 @bevel_distance.setter
@@ -54,7 +54,7 @@ def bevel_distance(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.infer_material_id"></a>
 
-#### infer_material_id
+#### infer\_material\_id
 
 ```python
 @property
@@ -65,7 +65,7 @@ def infer_material_id() -> bool
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.infer_material_id"></a>
 
-#### infer_material_id
+#### infer\_material\_id
 
 ```python
 @infer_material_id.setter
@@ -74,7 +74,7 @@ def infer_material_id(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.set_material_id"></a>
 
-#### set_material_id
+#### set\_material\_id
 
 ```python
 @property
@@ -85,7 +85,7 @@ def set_material_id() -> int
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.set_material_id"></a>
 
-#### set_material_id
+#### set\_material\_id
 
 ```python
 @set_material_id.setter
@@ -114,7 +114,7 @@ def subdivisions(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.round_weight"></a>
 
-#### round_weight
+#### round\_weight
 
 ```python
 @property
@@ -125,7 +125,7 @@ def round_weight() -> float
 
 <a id="unreal.GeometryScriptMeshBevelSelectionOptions.round_weight"></a>
 
-#### round_weight
+#### round\_weight
 
 ```python
 @round_weight.setter

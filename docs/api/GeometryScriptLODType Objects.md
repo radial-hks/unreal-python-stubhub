@@ -14,26 +14,26 @@ The Type of LOD in a Mesh Asset (ie a StaticMesh Asset)
 
 <a id="unreal.GeometryScriptLODType.MAX_AVAILABLE"></a>
 
-#### MAX_AVAILABLE
+#### MAX\_AVAILABLE
 
 0: The Maximum-quality available SourceModel LOD (HiResSourceModel if it is available, otherwise SourceModel LOD0)
 
 <a id="unreal.GeometryScriptLODType.HI_RES_SOURCE_MODEL"></a>
 
-#### HI_RES_SOURCE_MODEL
+#### HI\_RES\_SOURCE\_MODEL
 
 1: The HiRes SourceModel. LOD Index is ignored. HiResSourceModel is not available at Runtime.
 
 <a id="unreal.GeometryScriptLODType.SOURCE_MODEL"></a>
 
-#### SOURCE_MODEL
+#### SOURCE\_MODEL
 
 2: The SourceModel mesh at a given LOD Index. Note that a StaticMesh Asset with Auto-Generated LODs may not have a valid SourceModel for every LOD Index
 SourceModel meshes are not available at Runtime.
 
 <a id="unreal.GeometryScriptLODType.RENDER_DATA"></a>
 
-#### RENDER_DATA
+#### RENDER\_DATA
 
 3: The Render mesh at at given LOD Index.
 A StaticMesh Asset derives its RenderData LODs from it's SourceModel LODs. RenderData LODs always exist for every valid LOD Index.

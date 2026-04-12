@@ -22,7 +22,7 @@ Brush Effect Terracing
 
 <a id="unreal.BrushEffectTerracing.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(terrace_alpha: float = 0.000000,
@@ -34,7 +34,7 @@ def __init__(terrace_alpha: float = 0.000000,
 
 <a id="unreal.BrushEffectTerracing.terrace_alpha"></a>
 
-#### terrace_alpha
+#### terrace\_alpha
 
 ```python
 @property
@@ -45,7 +45,7 @@ def terrace_alpha() -> float
 
 <a id="unreal.BrushEffectTerracing.terrace_alpha"></a>
 
-#### terrace_alpha
+#### terrace\_alpha
 
 ```python
 @terrace_alpha.setter
@@ -54,7 +54,7 @@ def terrace_alpha(value: float) -> None
 
 <a id="unreal.BrushEffectTerracing.terrace_spacing"></a>
 
-#### terrace_spacing
+#### terrace\_spacing
 
 ```python
 @property
@@ -65,7 +65,7 @@ def terrace_spacing() -> float
 
 <a id="unreal.BrushEffectTerracing.terrace_spacing"></a>
 
-#### terrace_spacing
+#### terrace\_spacing
 
 ```python
 @terrace_spacing.setter
@@ -74,7 +74,7 @@ def terrace_spacing(value: float) -> None
 
 <a id="unreal.BrushEffectTerracing.terrace_smoothness"></a>
 
-#### terrace_smoothness
+#### terrace\_smoothness
 
 ```python
 @property
@@ -85,7 +85,7 @@ def terrace_smoothness() -> float
 
 <a id="unreal.BrushEffectTerracing.terrace_smoothness"></a>
 
-#### terrace_smoothness
+#### terrace\_smoothness
 
 ```python
 @terrace_smoothness.setter
@@ -94,7 +94,7 @@ def terrace_smoothness(value: float) -> None
 
 <a id="unreal.BrushEffectTerracing.mask_length"></a>
 
-#### mask_length
+#### mask\_length
 
 ```python
 @property
@@ -105,7 +105,7 @@ def mask_length() -> float
 
 <a id="unreal.BrushEffectTerracing.mask_length"></a>
 
-#### mask_length
+#### mask\_length
 
 ```python
 @mask_length.setter
@@ -114,7 +114,7 @@ def mask_length(value: float) -> None
 
 <a id="unreal.BrushEffectTerracing.mask_start_offset"></a>
 
-#### mask_start_offset
+#### mask\_start\_offset
 
 ```python
 @property
@@ -125,7 +125,7 @@ def mask_start_offset() -> float
 
 <a id="unreal.BrushEffectTerracing.mask_start_offset"></a>
 
-#### mask_start_offset
+#### mask\_start\_offset
 
 ```python
 @mask_start_offset.setter

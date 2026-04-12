@@ -8,7 +8,7 @@ deprecated: 'SequencerBindingProxy' was renamed to 'MovieSceneBindingProxy'.
 
 <a id="unreal.SequencerBindingProxy.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(binding_id: Guid = [],

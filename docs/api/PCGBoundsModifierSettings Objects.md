@@ -58,7 +58,7 @@ def mode(value: PCGBoundsModifierMode) -> None
 
 <a id="unreal.PCGBoundsModifierSettings.bounds_min"></a>
 
-#### bounds_min
+#### bounds\_min
 
 ```python
 @property
@@ -69,7 +69,7 @@ def bounds_min() -> Vector
 
 <a id="unreal.PCGBoundsModifierSettings.bounds_min"></a>
 
-#### bounds_min
+#### bounds\_min
 
 ```python
 @bounds_min.setter
@@ -78,7 +78,7 @@ def bounds_min(value: Vector) -> None
 
 <a id="unreal.PCGBoundsModifierSettings.bounds_max"></a>
 
-#### bounds_max
+#### bounds\_max
 
 ```python
 @property
@@ -89,7 +89,7 @@ def bounds_max() -> Vector
 
 <a id="unreal.PCGBoundsModifierSettings.bounds_max"></a>
 
-#### bounds_max
+#### bounds\_max
 
 ```python
 @bounds_max.setter
@@ -98,7 +98,7 @@ def bounds_max(value: Vector) -> None
 
 <a id="unreal.PCGBoundsModifierSettings.affect_steepness"></a>
 
-#### affect_steepness
+#### affect\_steepness
 
 ```python
 @property
@@ -109,7 +109,7 @@ def affect_steepness() -> bool
 
 <a id="unreal.PCGBoundsModifierSettings.affect_steepness"></a>
 
-#### affect_steepness
+#### affect\_steepness
 
 ```python
 @affect_steepness.setter

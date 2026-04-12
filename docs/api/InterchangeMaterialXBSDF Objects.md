@@ -14,13 +14,13 @@ Data type representing a Bidirectional Scattering Distribution Function.
 
 <a id="unreal.InterchangeMaterialXBSDF.OREN_NAYAR_DIFFUSE"></a>
 
-#### OREN_NAYAR_DIFFUSE
+#### OREN\_NAYAR\_DIFFUSE
 
 0: A BSDF node for diffuse reflections.
 
 <a id="unreal.InterchangeMaterialXBSDF.BURLEY_DIFFUSE"></a>
 
-#### BURLEY_DIFFUSE
+#### BURLEY\_DIFFUSE
 
 1: A BSDF node for Burley diffuse reflections.
 
@@ -44,7 +44,7 @@ Data type representing a Bidirectional Scattering Distribution Function.
 
 <a id="unreal.InterchangeMaterialXBSDF.GENERALIZED_SCHLICK"></a>
 
-#### GENERALIZED_SCHLICK
+#### GENERALIZED\_SCHLICK
 
 5: A reflection/transmission BSDF node based on a microfacet model and a generalized Schlick Fresnel curve.
 
@@ -62,7 +62,7 @@ Data type representing a Bidirectional Scattering Distribution Function.
 
 <a id="unreal.InterchangeMaterialXBSDF.THIN_FILM"></a>
 
-#### THIN_FILM
+#### THIN\_FILM
 
 8: Adds an iridescent thin film layer over a microfacet base BSDF.
 

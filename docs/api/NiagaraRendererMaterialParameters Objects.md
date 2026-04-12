@@ -23,7 +23,7 @@ Having any bindings set will cause a MID to be generated
 
 <a id="unreal.NiagaraRendererMaterialParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -21,7 +21,7 @@ Datasmith Static Mesh Import Options
 
 <a id="unreal.DatasmithStaticMeshImportOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -35,7 +35,7 @@ def __init__(
 
 <a id="unreal.DatasmithStaticMeshImportOptions.min_lightmap_resolution"></a>
 
-#### min_lightmap_resolution
+#### min\_lightmap\_resolution
 
 ```python
 @property
@@ -46,7 +46,7 @@ def min_lightmap_resolution() -> DatasmithImportLightmapMin
 
 <a id="unreal.DatasmithStaticMeshImportOptions.min_lightmap_resolution"></a>
 
-#### min_lightmap_resolution
+#### min\_lightmap\_resolution
 
 ```python
 @min_lightmap_resolution.setter
@@ -55,7 +55,7 @@ def min_lightmap_resolution(value: DatasmithImportLightmapMin) -> None
 
 <a id="unreal.DatasmithStaticMeshImportOptions.max_lightmap_resolution"></a>
 
-#### max_lightmap_resolution
+#### max\_lightmap\_resolution
 
 ```python
 @property
@@ -66,7 +66,7 @@ def max_lightmap_resolution() -> DatasmithImportLightmapMax
 
 <a id="unreal.DatasmithStaticMeshImportOptions.max_lightmap_resolution"></a>
 
-#### max_lightmap_resolution
+#### max\_lightmap\_resolution
 
 ```python
 @max_lightmap_resolution.setter
@@ -75,7 +75,7 @@ def max_lightmap_resolution(value: DatasmithImportLightmapMax) -> None
 
 <a id="unreal.DatasmithStaticMeshImportOptions.generate_lightmap_u_vs"></a>
 
-#### generate_lightmap_u_vs
+#### generate\_lightmap\_u\_vs
 
 ```python
 @property
@@ -86,7 +86,7 @@ def generate_lightmap_u_vs() -> bool
 
 <a id="unreal.DatasmithStaticMeshImportOptions.generate_lightmap_u_vs"></a>
 
-#### generate_lightmap_u_vs
+#### generate\_lightmap\_u\_vs
 
 ```python
 @generate_lightmap_u_vs.setter
@@ -95,7 +95,7 @@ def generate_lightmap_u_vs(value: bool) -> None
 
 <a id="unreal.DatasmithStaticMeshImportOptions.remove_degenerates"></a>
 
-#### remove_degenerates
+#### remove\_degenerates
 
 ```python
 @property
@@ -106,7 +106,7 @@ def remove_degenerates() -> bool
 
 <a id="unreal.DatasmithStaticMeshImportOptions.remove_degenerates"></a>
 
-#### remove_degenerates
+#### remove\_degenerates
 
 ```python
 @remove_degenerates.setter

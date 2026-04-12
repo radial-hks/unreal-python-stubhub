@@ -21,7 +21,7 @@ Brush Effect Curl Noise
 
 <a id="unreal.BrushEffectCurlNoise.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(curl1_amount: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(curl1_amount: float = 0.000000,
 
 <a id="unreal.BrushEffectCurlNoise.curl1_amount"></a>
 
-#### curl1_amount
+#### curl1\_amount
 
 ```python
 @property
@@ -43,7 +43,7 @@ def curl1_amount() -> float
 
 <a id="unreal.BrushEffectCurlNoise.curl1_amount"></a>
 
-#### curl1_amount
+#### curl1\_amount
 
 ```python
 @curl1_amount.setter
@@ -52,7 +52,7 @@ def curl1_amount(value: float) -> None
 
 <a id="unreal.BrushEffectCurlNoise.curl2_amount"></a>
 
-#### curl2_amount
+#### curl2\_amount
 
 ```python
 @property
@@ -63,7 +63,7 @@ def curl2_amount() -> float
 
 <a id="unreal.BrushEffectCurlNoise.curl2_amount"></a>
 
-#### curl2_amount
+#### curl2\_amount
 
 ```python
 @curl2_amount.setter
@@ -72,7 +72,7 @@ def curl2_amount(value: float) -> None
 
 <a id="unreal.BrushEffectCurlNoise.curl1_tiling"></a>
 
-#### curl1_tiling
+#### curl1\_tiling
 
 ```python
 @property
@@ -83,7 +83,7 @@ def curl1_tiling() -> float
 
 <a id="unreal.BrushEffectCurlNoise.curl1_tiling"></a>
 
-#### curl1_tiling
+#### curl1\_tiling
 
 ```python
 @curl1_tiling.setter
@@ -92,7 +92,7 @@ def curl1_tiling(value: float) -> None
 
 <a id="unreal.BrushEffectCurlNoise.curl2_tiling"></a>
 
-#### curl2_tiling
+#### curl2\_tiling
 
 ```python
 @property
@@ -103,7 +103,7 @@ def curl2_tiling() -> float
 
 <a id="unreal.BrushEffectCurlNoise.curl2_tiling"></a>
 
-#### curl2_tiling
+#### curl2\_tiling
 
 ```python
 @curl2_tiling.setter

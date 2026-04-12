@@ -44,7 +44,7 @@ for a Skeletal Mesh each frame.
 
 <a id="unreal.AnimBlueprint.get_nodes_of_class"></a>
 
-#### get_nodes_of_class
+#### get\_nodes\_of\_class
 
 ```python
 def get_nodes_of_class(
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.AnimBlueprint.get_animation_graphs"></a>
 
-#### get_animation_graphs
+#### get\_animation\_graphs
 
 ```python
 def get_animation_graphs() -> Array[AnimationGraph]
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.AnimBlueprint.add_node_asset_override"></a>
 
-#### add_node_asset_override
+#### add\_node\_asset\_override
 
 ```python
 def add_node_asset_override(target: AnimationAsset,

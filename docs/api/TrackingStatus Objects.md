@@ -13,13 +13,13 @@ ETracking Status
 
 <a id="unreal.TrackingStatus.NOT_TRACKED"></a>
 
-#### NOT_TRACKED
+#### NOT\_TRACKED
 
 0
 
 <a id="unreal.TrackingStatus.INERTIAL_ONLY"></a>
 
-#### INERTIAL_ONLY
+#### INERTIAL\_ONLY
 
 1
 

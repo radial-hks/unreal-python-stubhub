@@ -16,7 +16,7 @@ Check also: UGridPathFollowingComponent, FNavLocalGridData
 
 <a id="unreal.NavLocalGridManager.set_local_navigation_grid_density"></a>
 
-#### set_local_navigation_grid_density
+#### set\_local\_navigation\_grid\_density
 
 ```python
 @classmethod
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.NavLocalGridManager.remove_local_navigation_grid"></a>
 
-#### remove_local_navigation_grid
+#### remove\_local\_navigation\_grid
 
 ```python
 @classmethod
@@ -56,7 +56,7 @@ Args:
 
 <a id="unreal.NavLocalGridManager.find_local_navigation_grid_path"></a>
 
-#### find_local_navigation_grid_path
+#### find\_local\_navigation\_grid\_path
 
 ```python
 @classmethod
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.NavLocalGridManager.add_local_navigation_grid_for_points"></a>
 
-#### add_local_navigation_grid_for_points
+#### add\_local\_navigation\_grid\_for\_points
 
 ```python
 @classmethod
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.NavLocalGridManager.add_local_navigation_grid_for_point"></a>
 
-#### add_local_navigation_grid_for_point
+#### add\_local\_navigation\_grid\_for\_point
 
 ```python
 @classmethod
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.NavLocalGridManager.add_local_navigation_grid_for_capsule"></a>
 
-#### add_local_navigation_grid_for_capsule
+#### add\_local\_navigation\_grid\_for\_capsule
 
 ```python
 @classmethod
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.NavLocalGridManager.add_local_navigation_grid_for_box"></a>
 
-#### add_local_navigation_grid_for_box
+#### add\_local\_navigation\_grid\_for\_box
 
 ```python
 @classmethod

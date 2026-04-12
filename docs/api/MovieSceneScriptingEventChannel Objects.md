@@ -18,7 +18,7 @@ Movie Scene Scripting Event Channel
 
 <a id="unreal.MovieSceneScriptingEventChannel.remove_key"></a>
 
-#### remove_key
+#### remove\_key
 
 ```python
 def remove_key(key: MovieSceneScriptingKey) -> None
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingEventChannel.get_keys_by_index"></a>
 
-#### get_keys_by_index
+#### get\_keys\_by\_index
 
 ```python
 def get_keys_by_index(indices: Array[int]) -> Array[MovieSceneScriptingKey]
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingEventChannel.get_keys"></a>
 
-#### get_keys
+#### get\_keys
 
 ```python
 def get_keys() -> Array[MovieSceneScriptingKey]
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingEventChannel.add_key"></a>
 
-#### add_key
+#### add\_key
 
 ```python
 def add_key(

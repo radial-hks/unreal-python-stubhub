@@ -13,13 +13,13 @@ ELevel Visibility Dirty Mode
 
 <a id="unreal.LevelVisibilityDirtyMode.MODIFY_ON_CHANGE"></a>
 
-#### MODIFY_ON_CHANGE
+#### MODIFY\_ON\_CHANGE
 
 0: Use when the user is causing the visibility change.  Will update transaction state and mark the package dirty.
 
 <a id="unreal.LevelVisibilityDirtyMode.DONT_MODIFY"></a>
 
-#### DONT_MODIFY
+#### DONT\_MODIFY
 
 1: Use when code is causing the visibility change.
 

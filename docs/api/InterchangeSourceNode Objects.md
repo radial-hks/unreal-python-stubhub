@@ -13,7 +13,7 @@ This class allows a translator to add general source data that describes the who
 
 <a id="unreal.InterchangeSourceNode.set_extra_information"></a>
 
-#### set_extra_information
+#### set\_extra\_information
 
 ```python
 def set_extra_information(name: str, value: str) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.set_custom_source_timeline_start"></a>
 
-#### set_custom_source_timeline_start
+#### set\_custom\_source\_timeline\_start
 
 ```python
 def set_custom_source_timeline_start(attribute_value: float) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.set_custom_source_timeline_end"></a>
 
-#### set_custom_source_timeline_end
+#### set\_custom\_source\_timeline\_end
 
 ```python
 def set_custom_source_timeline_end(attribute_value: float) -> bool
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.set_custom_source_frame_rate_numerator"></a>
 
-#### set_custom_source_frame_rate_numerator
+#### set\_custom\_source\_frame\_rate\_numerator
 
 ```python
 def set_custom_source_frame_rate_numerator(attribute_value: int) -> bool
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.set_custom_source_frame_rate_denominator"></a>
 
-#### set_custom_source_frame_rate_denominator
+#### set\_custom\_source\_frame\_rate\_denominator
 
 ```python
 def set_custom_source_frame_rate_denominator(attribute_value: int) -> bool
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.set_custom_import_unused_material"></a>
 
-#### set_custom_import_unused_material
+#### set\_custom\_import\_unused\_material
 
 ```python
 def set_custom_import_unused_material(attribute_value: bool) -> bool
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.set_custom_axis_conversion_inverse_transform"></a>
 
-#### set_custom_axis_conversion_inverse_transform
+#### set\_custom\_axis\_conversion\_inverse\_transform
 
 ```python
 def set_custom_axis_conversion_inverse_transform(
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.set_custom_animated_time_start"></a>
 
-#### set_custom_animated_time_start
+#### set\_custom\_animated\_time\_start
 
 ```python
 def set_custom_animated_time_start(attribute_value: float) -> bool
@@ -151,7 +151,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.set_custom_animated_time_end"></a>
 
-#### set_custom_animated_time_end
+#### set\_custom\_animated\_time\_end
 
 ```python
 def set_custom_animated_time_end(attribute_value: float) -> bool
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.remove_extra_information"></a>
 
-#### remove_extra_information
+#### remove\_extra\_information
 
 ```python
 def remove_extra_information(name: str) -> bool
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.initialize_source_node"></a>
 
-#### initialize_source_node
+#### initialize\_source\_node
 
 ```python
 def initialize_source_node(unique_id: str, display_label: str) -> None
@@ -200,7 +200,7 @@ Args:
 
 <a id="unreal.InterchangeSourceNode.get_extra_information"></a>
 
-#### get_extra_information
+#### get\_extra\_information
 
 ```python
 def get_extra_information() -> Map[str, str]
@@ -216,7 +216,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.get_custom_source_timeline_start"></a>
 
-#### get_custom_source_timeline_start
+#### get\_custom\_source\_timeline\_start
 
 ```python
 def get_custom_source_timeline_start() -> Optional[float]
@@ -232,7 +232,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.get_custom_source_timeline_end"></a>
 
-#### get_custom_source_timeline_end
+#### get\_custom\_source\_timeline\_end
 
 ```python
 def get_custom_source_timeline_end() -> Optional[float]
@@ -248,7 +248,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.get_custom_source_frame_rate_numerator"></a>
 
-#### get_custom_source_frame_rate_numerator
+#### get\_custom\_source\_frame\_rate\_numerator
 
 ```python
 def get_custom_source_frame_rate_numerator() -> Optional[int]
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.get_custom_source_frame_rate_denominator"></a>
 
-#### get_custom_source_frame_rate_denominator
+#### get\_custom\_source\_frame\_rate\_denominator
 
 ```python
 def get_custom_source_frame_rate_denominator() -> Optional[int]
@@ -280,7 +280,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.get_custom_import_unused_material"></a>
 
-#### get_custom_import_unused_material
+#### get\_custom\_import\_unused\_material
 
 ```python
 def get_custom_import_unused_material() -> Optional[bool]
@@ -296,7 +296,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.get_custom_axis_conversion_inverse_transform"></a>
 
-#### get_custom_axis_conversion_inverse_transform
+#### get\_custom\_axis\_conversion\_inverse\_transform
 
 ```python
 def get_custom_axis_conversion_inverse_transform() -> Optional[Transform]
@@ -312,7 +312,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.get_custom_animated_time_start"></a>
 
-#### get_custom_animated_time_start
+#### get\_custom\_animated\_time\_start
 
 ```python
 def get_custom_animated_time_start() -> Optional[float]
@@ -328,7 +328,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceNode.get_custom_animated_time_end"></a>
 
-#### get_custom_animated_time_end
+#### get\_custom\_animated\_time\_end
 
 ```python
 def get_custom_animated_time_end() -> Optional[float]

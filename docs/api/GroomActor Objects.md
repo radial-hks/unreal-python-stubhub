@@ -143,7 +143,7 @@ An actor that renders a simulated hair
 
 <a id="unreal.GroomActor.groom_component"></a>
 
-#### groom_component
+#### groom\_component
 
 ```python
 @property

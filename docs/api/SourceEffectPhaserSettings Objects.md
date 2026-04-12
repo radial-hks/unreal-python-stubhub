@@ -22,7 +22,7 @@ Source Effect Phaser Settings
 
 <a id="unreal.SourceEffectPhaserSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(wet_level: float = 0.000000,
@@ -34,7 +34,7 @@ def __init__(wet_level: float = 0.000000,
 
 <a id="unreal.SourceEffectPhaserSettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @property
@@ -45,7 +45,7 @@ def wet_level() -> float
 
 <a id="unreal.SourceEffectPhaserSettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @wet_level.setter
@@ -94,7 +94,7 @@ def feedback(value: float) -> None
 
 <a id="unreal.SourceEffectPhaserSettings.lfo_type"></a>
 
-#### lfo_type
+#### lfo\_type
 
 ```python
 @property
@@ -105,7 +105,7 @@ def lfo_type() -> PhaserLFOType
 
 <a id="unreal.SourceEffectPhaserSettings.lfo_type"></a>
 
-#### lfo_type
+#### lfo\_type
 
 ```python
 @lfo_type.setter
@@ -114,7 +114,7 @@ def lfo_type(value: PhaserLFOType) -> None
 
 <a id="unreal.SourceEffectPhaserSettings.use_quadrature_phase"></a>
 
-#### use_quadrature_phase
+#### use\_quadrature\_phase
 
 ```python
 @property
@@ -125,7 +125,7 @@ def use_quadrature_phase() -> bool
 
 <a id="unreal.SourceEffectPhaserSettings.use_quadrature_phase"></a>
 
-#### use_quadrature_phase
+#### use\_quadrature\_phase
 
 ```python
 @use_quadrature_phase.setter

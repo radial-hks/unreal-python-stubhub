@@ -20,7 +20,7 @@ Rig VMMemory Statistics
 
 <a id="unreal.RigVMMemoryStatistics.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(register_count: int = 0,
@@ -30,7 +30,7 @@ def __init__(register_count: int = 0,
 
 <a id="unreal.RigVMMemoryStatistics.register_count"></a>
 
-#### register_count
+#### register\_count
 
 ```python
 @property
@@ -41,7 +41,7 @@ def register_count() -> int
 
 <a id="unreal.RigVMMemoryStatistics.data_bytes"></a>
 
-#### data_bytes
+#### data\_bytes
 
 ```python
 @property
@@ -52,7 +52,7 @@ def data_bytes() -> int
 
 <a id="unreal.RigVMMemoryStatistics.total_bytes"></a>
 
-#### total_bytes
+#### total\_bytes
 
 ```python
 @property

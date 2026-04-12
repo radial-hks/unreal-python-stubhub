@@ -20,7 +20,7 @@ PCGInstance Data Packer by Attribute
 
 <a id="unreal.PCGInstanceDataPackerByAttribute.attribute_selectors"></a>
 
-#### attribute_selectors
+#### attribute\_selectors
 
 ```python
 @property
@@ -31,7 +31,7 @@ def attribute_selectors() -> Array[PCGAttributePropertyInputSelector]
 
 <a id="unreal.PCGInstanceDataPackerByAttribute.attribute_selectors"></a>
 
-#### attribute_selectors
+#### attribute\_selectors
 
 ```python
 @attribute_selectors.setter
@@ -41,7 +41,7 @@ def attribute_selectors(
 
 <a id="unreal.PCGInstanceDataPackerByAttribute.attribute_names"></a>
 
-#### attribute_names
+#### attribute\_names
 
 ```python
 @property
@@ -53,7 +53,7 @@ deprecated: AttributeNames has been deprecated. Use AttributeSelectors instead.
 
 <a id="unreal.PCGInstanceDataPackerByAttribute.attribute_names"></a>
 
-#### attribute_names
+#### attribute\_names
 
 ```python
 @attribute_names.setter

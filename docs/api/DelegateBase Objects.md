@@ -8,7 +8,7 @@ Type for all Unreal exposed delegate instances
 
 <a id="unreal.DelegateBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None
@@ -27,7 +27,7 @@ cast(cls: Type[_T], object: object) -> _T -- cast the given object to this Unrea
 
 <a id="unreal.DelegateBase.__copy__"></a>
 
-#### __copy__
+#### \_\_copy\_\_
 
 ```python
 def __copy__() -> Any
@@ -47,7 +47,7 @@ copy(self) -> Any -- copy this Unreal delegate
 
 <a id="unreal.DelegateBase.is_bound"></a>
 
-#### is_bound
+#### is\_bound
 
 ```python
 def is_bound() -> bool
@@ -57,7 +57,7 @@ is_bound(self) -> bool -- is this Unreal delegate bound to something?
 
 <a id="unreal.DelegateBase.bind_delegate"></a>
 
-#### bind_delegate
+#### bind\_delegate
 
 ```python
 def bind_delegate(delegate: DelegateBase) -> None
@@ -67,7 +67,7 @@ bind_delegate(self, delegate: DelegateBase) -> None -- bind this Unreal delegate
 
 <a id="unreal.DelegateBase.bind_function"></a>
 
-#### bind_function
+#### bind\_function
 
 ```python
 def bind_function(obj: Object, name: Union[Name, str]) -> None
@@ -77,7 +77,7 @@ bind_function(self, obj: Object, name: Union[Name, str]) -> None -- bind this Un
 
 <a id="unreal.DelegateBase.bind_callable"></a>
 
-#### bind_callable
+#### bind\_callable
 
 ```python
 def bind_callable(callable: Callable[..., Any]) -> None
@@ -107,7 +107,7 @@ execute(self, *args: Any) -> Any -- call this Unreal delegate, but error if it's
 
 <a id="unreal.DelegateBase.execute_if_bound"></a>
 
-#### execute_if_bound
+#### execute\_if\_bound
 
 ```python
 def execute_if_bound(*args: Any) -> Any

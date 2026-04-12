@@ -14,7 +14,7 @@ Asset Tags Subsystem
 
 <a id="unreal.AssetTagsSubsystem.reparent_collection"></a>
 
-#### reparent_collection
+#### reparent\_collection
 
 ```python
 def reparent_collection(name: Name, new_parent_name: Name) -> bool
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.rename_collection"></a>
 
-#### rename_collection
+#### rename\_collection
 
 ```python
 def rename_collection(name: Name, new_name: Name) -> bool
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.remove_assets_from_collection"></a>
 
-#### remove_assets_from_collection
+#### remove\_assets\_from\_collection
 
 ```python
 def remove_assets_from_collection(name: Name,
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.remove_asset_ptrs_from_collection"></a>
 
-#### remove_asset_ptrs_from_collection
+#### remove\_asset\_ptrs\_from\_collection
 
 ```python
 def remove_asset_ptrs_from_collection(name: Name,
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.remove_asset_ptr_from_collection"></a>
 
-#### remove_asset_ptr_from_collection
+#### remove\_asset\_ptr\_from\_collection
 
 ```python
 def remove_asset_ptr_from_collection(name: Name, asset_ptr: Object) -> bool
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.remove_asset_from_collection"></a>
 
-#### remove_asset_from_collection
+#### remove\_asset\_from\_collection
 
 ```python
 def remove_asset_from_collection(name: Name, asset_path_name: Name) -> bool
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.remove_asset_datas_from_collection"></a>
 
-#### remove_asset_datas_from_collection
+#### remove\_asset\_datas\_from\_collection
 
 ```python
 def remove_asset_datas_from_collection(name: Name,
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.remove_asset_data_from_collection"></a>
 
-#### remove_asset_data_from_collection
+#### remove\_asset\_data\_from\_collection
 
 ```python
 def remove_asset_data_from_collection(name: Name,
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.k2_remove_assets_from_collection"></a>
 
-#### k2_remove_assets_from_collection
+#### k2\_remove\_assets\_from\_collection
 
 ```python
 def k2_remove_assets_from_collection(
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.k2_remove_asset_from_collection"></a>
 
-#### k2_remove_asset_from_collection
+#### k2\_remove\_asset\_from\_collection
 
 ```python
 def k2_remove_asset_from_collection(name: Name,
@@ -200,7 +200,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.k2_get_collections_containing_asset"></a>
 
-#### k2_get_collections_containing_asset
+#### k2\_get\_collections\_containing\_asset
 
 ```python
 def k2_get_collections_containing_asset(
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.k2_add_asset_to_collection"></a>
 
-#### k2_add_asset_to_collection
+#### k2\_add\_asset\_to\_collection
 
 ```python
 def k2_add_asset_to_collection(name: Name, asset_path: SoftObjectPath) -> bool
@@ -236,7 +236,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.k2_add_assets_to_collection"></a>
 
-#### k2_add_assets_to_collection
+#### k2\_add\_assets\_to\_collection
 
 ```python
 def k2_add_assets_to_collection(name: Name,
@@ -255,7 +255,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.get_collections_containing_asset_ptr"></a>
 
-#### get_collections_containing_asset_ptr
+#### get\_collections\_containing\_asset\_ptr
 
 ```python
 def get_collections_containing_asset_ptr(asset_ptr: Object) -> Array[Name]
@@ -272,7 +272,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.get_collections_containing_asset_data"></a>
 
-#### get_collections_containing_asset_data
+#### get\_collections\_containing\_asset\_data
 
 ```python
 def get_collections_containing_asset_data(
@@ -290,7 +290,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.get_collections_containing_asset"></a>
 
-#### get_collections_containing_asset
+#### get\_collections\_containing\_asset
 
 ```python
 def get_collections_containing_asset(asset_path_name: Name) -> Array[Name]
@@ -307,7 +307,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.get_collections"></a>
 
-#### get_collections
+#### get\_collections
 
 ```python
 def get_collections() -> Array[Name]
@@ -321,7 +321,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.get_assets_in_collection"></a>
 
-#### get_assets_in_collection
+#### get\_assets\_in\_collection
 
 ```python
 def get_assets_in_collection(name: Name) -> Array[AssetData]
@@ -338,7 +338,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.empty_collection"></a>
 
-#### empty_collection
+#### empty\_collection
 
 ```python
 def empty_collection(name: Name) -> bool
@@ -355,7 +355,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.destroy_collection"></a>
 
-#### destroy_collection
+#### destroy\_collection
 
 ```python
 def destroy_collection(name: Name) -> bool
@@ -372,7 +372,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.create_collection"></a>
 
-#### create_collection
+#### create\_collection
 
 ```python
 def create_collection(name: Name, share_type: CollectionShareType) -> bool
@@ -390,7 +390,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.collection_exists"></a>
 
-#### collection_exists
+#### collection\_exists
 
 ```python
 def collection_exists(name: Name) -> bool
@@ -407,7 +407,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.add_asset_to_collection"></a>
 
-#### add_asset_to_collection
+#### add\_asset\_to\_collection
 
 ```python
 def add_asset_to_collection(name: Name, asset_path_name: Name) -> bool
@@ -425,7 +425,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.add_assets_to_collection"></a>
 
-#### add_assets_to_collection
+#### add\_assets\_to\_collection
 
 ```python
 def add_assets_to_collection(name: Name,
@@ -444,7 +444,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.add_asset_ptr_to_collection"></a>
 
-#### add_asset_ptr_to_collection
+#### add\_asset\_ptr\_to\_collection
 
 ```python
 def add_asset_ptr_to_collection(name: Name, asset_ptr: Object) -> bool
@@ -462,7 +462,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.add_asset_ptrs_to_collection"></a>
 
-#### add_asset_ptrs_to_collection
+#### add\_asset\_ptrs\_to\_collection
 
 ```python
 def add_asset_ptrs_to_collection(name: Name,
@@ -481,7 +481,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.add_asset_data_to_collection"></a>
 
-#### add_asset_data_to_collection
+#### add\_asset\_data\_to\_collection
 
 ```python
 def add_asset_data_to_collection(name: Name, asset_data: AssetData) -> bool
@@ -499,7 +499,7 @@ Returns:
 
 <a id="unreal.AssetTagsSubsystem.add_asset_datas_to_collection"></a>
 
-#### add_asset_datas_to_collection
+#### add\_asset\_datas\_to\_collection
 
 ```python
 def add_asset_datas_to_collection(name: Name,

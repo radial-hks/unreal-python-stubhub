@@ -50,7 +50,7 @@ GLTFExport Options
 
 <a id="unreal.GLTFExportOptions.export_uniform_scale"></a>
 
-#### export_uniform_scale
+#### export\_uniform\_scale
 
 ```python
 @property
@@ -61,7 +61,7 @@ def export_uniform_scale() -> float
 
 <a id="unreal.GLTFExportOptions.export_uniform_scale"></a>
 
-#### export_uniform_scale
+#### export\_uniform\_scale
 
 ```python
 @export_uniform_scale.setter
@@ -70,7 +70,7 @@ def export_uniform_scale(value: float) -> None
 
 <a id="unreal.GLTFExportOptions.export_preview_mesh"></a>
 
-#### export_preview_mesh
+#### export\_preview\_mesh
 
 ```python
 @property
@@ -81,7 +81,7 @@ def export_preview_mesh() -> bool
 
 <a id="unreal.GLTFExportOptions.export_preview_mesh"></a>
 
-#### export_preview_mesh
+#### export\_preview\_mesh
 
 ```python
 @export_preview_mesh.setter
@@ -90,7 +90,7 @@ def export_preview_mesh(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.skip_near_default_values"></a>
 
-#### skip_near_default_values
+#### skip\_near\_default\_values
 
 ```python
 @property
@@ -101,7 +101,7 @@ def skip_near_default_values() -> bool
 
 <a id="unreal.GLTFExportOptions.skip_near_default_values"></a>
 
-#### skip_near_default_values
+#### skip\_near\_default\_values
 
 ```python
 @skip_near_default_values.setter
@@ -110,7 +110,7 @@ def skip_near_default_values(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.include_copyright_notice"></a>
 
-#### include_copyright_notice
+#### include\_copyright\_notice
 
 ```python
 @property
@@ -121,7 +121,7 @@ def include_copyright_notice() -> bool
 
 <a id="unreal.GLTFExportOptions.include_copyright_notice"></a>
 
-#### include_copyright_notice
+#### include\_copyright\_notice
 
 ```python
 @include_copyright_notice.setter
@@ -130,7 +130,7 @@ def include_copyright_notice(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_proxy_materials"></a>
 
-#### export_proxy_materials
+#### export\_proxy\_materials
 
 ```python
 @property
@@ -141,7 +141,7 @@ def export_proxy_materials() -> bool
 
 <a id="unreal.GLTFExportOptions.export_proxy_materials"></a>
 
-#### export_proxy_materials
+#### export\_proxy\_materials
 
 ```python
 @export_proxy_materials.setter
@@ -150,7 +150,7 @@ def export_proxy_materials(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.use_importer_material_mapping"></a>
 
-#### use_importer_material_mapping
+#### use\_importer\_material\_mapping
 
 ```python
 @property
@@ -161,7 +161,7 @@ def use_importer_material_mapping() -> bool
 
 <a id="unreal.GLTFExportOptions.use_importer_material_mapping"></a>
 
-#### use_importer_material_mapping
+#### use\_importer\_material\_mapping
 
 ```python
 @use_importer_material_mapping.setter
@@ -170,7 +170,7 @@ def use_importer_material_mapping(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_unlit_materials"></a>
 
-#### export_unlit_materials
+#### export\_unlit\_materials
 
 ```python
 @property
@@ -181,7 +181,7 @@ def export_unlit_materials() -> bool
 
 <a id="unreal.GLTFExportOptions.export_unlit_materials"></a>
 
-#### export_unlit_materials
+#### export\_unlit\_materials
 
 ```python
 @export_unlit_materials.setter
@@ -190,7 +190,7 @@ def export_unlit_materials(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_clear_coat_materials"></a>
 
-#### export_clear_coat_materials
+#### export\_clear\_coat\_materials
 
 ```python
 @property
@@ -201,7 +201,7 @@ def export_clear_coat_materials() -> bool
 
 <a id="unreal.GLTFExportOptions.export_clear_coat_materials"></a>
 
-#### export_clear_coat_materials
+#### export\_clear\_coat\_materials
 
 ```python
 @export_clear_coat_materials.setter
@@ -210,7 +210,7 @@ def export_clear_coat_materials(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_cloth_materials"></a>
 
-#### export_cloth_materials
+#### export\_cloth\_materials
 
 ```python
 @property
@@ -221,7 +221,7 @@ def export_cloth_materials() -> bool
 
 <a id="unreal.GLTFExportOptions.export_cloth_materials"></a>
 
-#### export_cloth_materials
+#### export\_cloth\_materials
 
 ```python
 @export_cloth_materials.setter
@@ -230,7 +230,7 @@ def export_cloth_materials(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_thin_translucent_materials"></a>
 
-#### export_thin_translucent_materials
+#### export\_thin\_translucent\_materials
 
 ```python
 @property
@@ -241,7 +241,7 @@ def export_thin_translucent_materials() -> bool
 
 <a id="unreal.GLTFExportOptions.export_thin_translucent_materials"></a>
 
-#### export_thin_translucent_materials
+#### export\_thin\_translucent\_materials
 
 ```python
 @export_thin_translucent_materials.setter
@@ -250,7 +250,7 @@ def export_thin_translucent_materials(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_specular_glossiness_materials"></a>
 
-#### export_specular_glossiness_materials
+#### export\_specular\_glossiness\_materials
 
 ```python
 @property
@@ -261,7 +261,7 @@ def export_specular_glossiness_materials() -> bool
 
 <a id="unreal.GLTFExportOptions.export_specular_glossiness_materials"></a>
 
-#### export_specular_glossiness_materials
+#### export\_specular\_glossiness\_materials
 
 ```python
 @export_specular_glossiness_materials.setter
@@ -270,7 +270,7 @@ def export_specular_glossiness_materials(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_emissive_strength"></a>
 
-#### export_emissive_strength
+#### export\_emissive\_strength
 
 ```python
 @property
@@ -281,7 +281,7 @@ def export_emissive_strength() -> bool
 
 <a id="unreal.GLTFExportOptions.export_emissive_strength"></a>
 
-#### export_emissive_strength
+#### export\_emissive\_strength
 
 ```python
 @export_emissive_strength.setter
@@ -290,7 +290,7 @@ def export_emissive_strength(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.bake_material_inputs"></a>
 
-#### bake_material_inputs
+#### bake\_material\_inputs
 
 ```python
 @property
@@ -301,7 +301,7 @@ def bake_material_inputs() -> GLTFMaterialBakeMode
 
 <a id="unreal.GLTFExportOptions.bake_material_inputs"></a>
 
-#### bake_material_inputs
+#### bake\_material\_inputs
 
 ```python
 @bake_material_inputs.setter
@@ -310,7 +310,7 @@ def bake_material_inputs(value: GLTFMaterialBakeMode) -> None
 
 <a id="unreal.GLTFExportOptions.default_material_bake_size"></a>
 
-#### default_material_bake_size
+#### default\_material\_bake\_size
 
 ```python
 @property
@@ -321,7 +321,7 @@ def default_material_bake_size() -> GLTFMaterialBakeSize
 
 <a id="unreal.GLTFExportOptions.default_material_bake_size"></a>
 
-#### default_material_bake_size
+#### default\_material\_bake\_size
 
 ```python
 @default_material_bake_size.setter
@@ -330,7 +330,7 @@ def default_material_bake_size(value: GLTFMaterialBakeSize) -> None
 
 <a id="unreal.GLTFExportOptions.default_material_bake_filter"></a>
 
-#### default_material_bake_filter
+#### default\_material\_bake\_filter
 
 ```python
 @property
@@ -341,7 +341,7 @@ def default_material_bake_filter() -> TextureFilter
 
 <a id="unreal.GLTFExportOptions.default_material_bake_filter"></a>
 
-#### default_material_bake_filter
+#### default\_material\_bake\_filter
 
 ```python
 @default_material_bake_filter.setter
@@ -350,7 +350,7 @@ def default_material_bake_filter(value: TextureFilter) -> None
 
 <a id="unreal.GLTFExportOptions.default_material_bake_tiling"></a>
 
-#### default_material_bake_tiling
+#### default\_material\_bake\_tiling
 
 ```python
 @property
@@ -361,7 +361,7 @@ def default_material_bake_tiling() -> TextureAddress
 
 <a id="unreal.GLTFExportOptions.default_material_bake_tiling"></a>
 
-#### default_material_bake_tiling
+#### default\_material\_bake\_tiling
 
 ```python
 @default_material_bake_tiling.setter
@@ -370,7 +370,7 @@ def default_material_bake_tiling(value: TextureAddress) -> None
 
 <a id="unreal.GLTFExportOptions.default_input_bake_settings"></a>
 
-#### default_input_bake_settings
+#### default\_input\_bake\_settings
 
 ```python
 @property
@@ -382,7 +382,7 @@ def default_input_bake_settings(
 
 <a id="unreal.GLTFExportOptions.default_input_bake_settings"></a>
 
-#### default_input_bake_settings
+#### default\_input\_bake\_settings
 
 ```python
 @default_input_bake_settings.setter
@@ -393,7 +393,7 @@ def default_input_bake_settings(
 
 <a id="unreal.GLTFExportOptions.default_level_of_detail"></a>
 
-#### default_level_of_detail
+#### default\_level\_of\_detail
 
 ```python
 @property
@@ -404,7 +404,7 @@ def default_level_of_detail() -> int
 
 <a id="unreal.GLTFExportOptions.default_level_of_detail"></a>
 
-#### default_level_of_detail
+#### default\_level\_of\_detail
 
 ```python
 @default_level_of_detail.setter
@@ -413,7 +413,7 @@ def default_level_of_detail(value: int) -> None
 
 <a id="unreal.GLTFExportOptions.export_source_model"></a>
 
-#### export_source_model
+#### export\_source\_model
 
 ```python
 @property
@@ -424,7 +424,7 @@ def export_source_model() -> bool
 
 <a id="unreal.GLTFExportOptions.export_source_model"></a>
 
-#### export_source_model
+#### export\_source\_model
 
 ```python
 @export_source_model.setter
@@ -433,7 +433,7 @@ def export_source_model(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_vertex_colors"></a>
 
-#### export_vertex_colors
+#### export\_vertex\_colors
 
 ```python
 @property
@@ -444,7 +444,7 @@ def export_vertex_colors() -> bool
 
 <a id="unreal.GLTFExportOptions.export_vertex_colors"></a>
 
-#### export_vertex_colors
+#### export\_vertex\_colors
 
 ```python
 @export_vertex_colors.setter
@@ -453,7 +453,7 @@ def export_vertex_colors(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_vertex_skin_weights"></a>
 
-#### export_vertex_skin_weights
+#### export\_vertex\_skin\_weights
 
 ```python
 @property
@@ -464,7 +464,7 @@ def export_vertex_skin_weights() -> bool
 
 <a id="unreal.GLTFExportOptions.export_vertex_skin_weights"></a>
 
-#### export_vertex_skin_weights
+#### export\_vertex\_skin\_weights
 
 ```python
 @export_vertex_skin_weights.setter
@@ -473,7 +473,7 @@ def export_vertex_skin_weights(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.make_skinned_meshes_root"></a>
 
-#### make_skinned_meshes_root
+#### make\_skinned\_meshes\_root
 
 ```python
 @property
@@ -484,7 +484,7 @@ def make_skinned_meshes_root() -> bool
 
 <a id="unreal.GLTFExportOptions.make_skinned_meshes_root"></a>
 
-#### make_skinned_meshes_root
+#### make\_skinned\_meshes\_root
 
 ```python
 @make_skinned_meshes_root.setter
@@ -493,7 +493,7 @@ def make_skinned_meshes_root(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.use_mesh_quantization"></a>
 
-#### use_mesh_quantization
+#### use\_mesh\_quantization
 
 ```python
 @property
@@ -504,7 +504,7 @@ def use_mesh_quantization() -> bool
 
 <a id="unreal.GLTFExportOptions.use_mesh_quantization"></a>
 
-#### use_mesh_quantization
+#### use\_mesh\_quantization
 
 ```python
 @use_mesh_quantization.setter
@@ -513,7 +513,7 @@ def use_mesh_quantization(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_level_sequences"></a>
 
-#### export_level_sequences
+#### export\_level\_sequences
 
 ```python
 @property
@@ -524,7 +524,7 @@ def export_level_sequences() -> bool
 
 <a id="unreal.GLTFExportOptions.export_level_sequences"></a>
 
-#### export_level_sequences
+#### export\_level\_sequences
 
 ```python
 @export_level_sequences.setter
@@ -533,7 +533,7 @@ def export_level_sequences(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_animation_sequences"></a>
 
-#### export_animation_sequences
+#### export\_animation\_sequences
 
 ```python
 @property
@@ -544,7 +544,7 @@ def export_animation_sequences() -> bool
 
 <a id="unreal.GLTFExportOptions.export_animation_sequences"></a>
 
-#### export_animation_sequences
+#### export\_animation\_sequences
 
 ```python
 @export_animation_sequences.setter
@@ -553,7 +553,7 @@ def export_animation_sequences(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.texture_image_format"></a>
 
-#### texture_image_format
+#### texture\_image\_format
 
 ```python
 @property
@@ -564,7 +564,7 @@ def texture_image_format() -> GLTFTextureImageFormat
 
 <a id="unreal.GLTFExportOptions.texture_image_format"></a>
 
-#### texture_image_format
+#### texture\_image\_format
 
 ```python
 @texture_image_format.setter
@@ -573,7 +573,7 @@ def texture_image_format(value: GLTFTextureImageFormat) -> None
 
 <a id="unreal.GLTFExportOptions.texture_image_quality"></a>
 
-#### texture_image_quality
+#### texture\_image\_quality
 
 ```python
 @property
@@ -584,7 +584,7 @@ def texture_image_quality() -> int
 
 <a id="unreal.GLTFExportOptions.texture_image_quality"></a>
 
-#### texture_image_quality
+#### texture\_image\_quality
 
 ```python
 @texture_image_quality.setter
@@ -593,7 +593,7 @@ def texture_image_quality(value: int) -> None
 
 <a id="unreal.GLTFExportOptions.export_texture_transforms"></a>
 
-#### export_texture_transforms
+#### export\_texture\_transforms
 
 ```python
 @property
@@ -604,7 +604,7 @@ def export_texture_transforms() -> bool
 
 <a id="unreal.GLTFExportOptions.export_texture_transforms"></a>
 
-#### export_texture_transforms
+#### export\_texture\_transforms
 
 ```python
 @export_texture_transforms.setter
@@ -613,7 +613,7 @@ def export_texture_transforms(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.adjust_normalmaps"></a>
 
-#### adjust_normalmaps
+#### adjust\_normalmaps
 
 ```python
 @property
@@ -624,7 +624,7 @@ def adjust_normalmaps() -> bool
 
 <a id="unreal.GLTFExportOptions.adjust_normalmaps"></a>
 
-#### adjust_normalmaps
+#### adjust\_normalmaps
 
 ```python
 @adjust_normalmaps.setter
@@ -633,7 +633,7 @@ def adjust_normalmaps(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_hidden_in_game"></a>
 
-#### export_hidden_in_game
+#### export\_hidden\_in\_game
 
 ```python
 @property
@@ -644,7 +644,7 @@ def export_hidden_in_game() -> bool
 
 <a id="unreal.GLTFExportOptions.export_hidden_in_game"></a>
 
-#### export_hidden_in_game
+#### export\_hidden\_in\_game
 
 ```python
 @export_hidden_in_game.setter
@@ -653,7 +653,7 @@ def export_hidden_in_game(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_lights"></a>
 
-#### export_lights
+#### export\_lights
 
 ```python
 @property
@@ -664,7 +664,7 @@ def export_lights() -> bool
 
 <a id="unreal.GLTFExportOptions.export_lights"></a>
 
-#### export_lights
+#### export\_lights
 
 ```python
 @export_lights.setter
@@ -673,7 +673,7 @@ def export_lights(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_cameras"></a>
 
-#### export_cameras
+#### export\_cameras
 
 ```python
 @property
@@ -684,7 +684,7 @@ def export_cameras() -> bool
 
 <a id="unreal.GLTFExportOptions.export_cameras"></a>
 
-#### export_cameras
+#### export\_cameras
 
 ```python
 @export_cameras.setter
@@ -693,7 +693,7 @@ def export_cameras(value: bool) -> None
 
 <a id="unreal.GLTFExportOptions.export_material_variants"></a>
 
-#### export_material_variants
+#### export\_material\_variants
 
 ```python
 @property
@@ -704,7 +704,7 @@ def export_material_variants() -> GLTFMaterialVariantMode
 
 <a id="unreal.GLTFExportOptions.export_material_variants"></a>
 
-#### export_material_variants
+#### export\_material\_variants
 
 ```python
 @export_material_variants.setter
@@ -713,7 +713,7 @@ def export_material_variants(value: GLTFMaterialVariantMode) -> None
 
 <a id="unreal.GLTFExportOptions.reset_to_default"></a>
 
-#### reset_to_default
+#### reset\_to\_default
 
 ```python
 def reset_to_default() -> None

@@ -13,37 +13,37 @@ Interpolation method used by animation blending
 
 <a id="unreal.FilterInterpolationType.BSIT_AVERAGE"></a>
 
-#### BSIT_AVERAGE
+#### BSIT\_AVERAGE
 
 0
 
 <a id="unreal.FilterInterpolationType.BSIT_LINEAR"></a>
 
-#### BSIT_LINEAR
+#### BSIT\_LINEAR
 
 1
 
 <a id="unreal.FilterInterpolationType.BSIT_CUBIC"></a>
 
-#### BSIT_CUBIC
+#### BSIT\_CUBIC
 
 2
 
 <a id="unreal.FilterInterpolationType.BSIT_EASE_IN_OUT"></a>
 
-#### BSIT_EASE_IN_OUT
+#### BSIT\_EASE\_IN\_OUT
 
 3
 
 <a id="unreal.FilterInterpolationType.BSIT_EXPONENTIAL_DECAY"></a>
 
-#### BSIT_EXPONENTIAL_DECAY
+#### BSIT\_EXPONENTIAL\_DECAY
 
 4
 
 <a id="unreal.FilterInterpolationType.BSIT_SPRING_DAMPER"></a>
 
-#### BSIT_SPRING_DAMPER
+#### BSIT\_SPRING\_DAMPER
 
 5
 

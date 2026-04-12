@@ -18,7 +18,7 @@ todo: would be useful to track set of active keys
 
 <a id="unreal.KeyboardInputDeviceState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -28,7 +28,7 @@ def __init__(
 
 <a id="unreal.KeyboardInputDeviceState.active_key"></a>
 
-#### active_key
+#### active\_key
 
 ```python
 @property
@@ -39,7 +39,7 @@ def active_key() -> DeviceButtonState
 
 <a id="unreal.KeyboardInputDeviceState.active_key"></a>
 
-#### active_key
+#### active\_key
 
 ```python
 @active_key.setter

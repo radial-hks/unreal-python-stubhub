@@ -40,7 +40,7 @@ Rigid body error correction data
 
 <a id="unreal.RigidBodyErrorCorrection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

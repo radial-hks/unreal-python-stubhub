@@ -13,7 +13,7 @@ UWorldPartitionSubsystem
 
 <a id="unreal.WorldPartitionSubsystem.is_streaming_completed"></a>
 
-#### is_streaming_completed
+#### is\_streaming\_completed
 
 ```python
 def is_streaming_completed(
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.WorldPartitionSubsystem.is_all_streaming_completed"></a>
 
-#### is_all_streaming_completed
+#### is\_all\_streaming\_completed
 
 ```python
 def is_all_streaming_completed() -> bool

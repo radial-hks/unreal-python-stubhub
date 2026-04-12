@@ -35,7 +35,7 @@ Will pick up the value from the graph instance.
 
 <a id="unreal.PCGUserParameterGetSettings.force_object_and_struct_extraction"></a>
 
-#### force_object_and_struct_extraction
+#### force\_object\_and\_struct\_extraction
 
 ```python
 @property
@@ -46,7 +46,7 @@ def force_object_and_struct_extraction() -> bool
 
 <a id="unreal.PCGUserParameterGetSettings.force_object_and_struct_extraction"></a>
 
-#### force_object_and_struct_extraction
+#### force\_object\_and\_struct\_extraction
 
 ```python
 @force_object_and_struct_extraction.setter

@@ -8,7 +8,7 @@ deprecated: 'CameraShakeScrubParams' was renamed to 'CameraShakePatternScrubPara
 
 <a id="unreal.CameraShakeScrubParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

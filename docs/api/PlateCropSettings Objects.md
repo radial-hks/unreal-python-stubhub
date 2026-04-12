@@ -17,7 +17,7 @@ class PlateCropSettings(StructBase)
 
 <a id="unreal.PlateCropSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(aspect_ratio: float = 0.000000) -> None
@@ -25,7 +25,7 @@ def __init__(aspect_ratio: float = 0.000000) -> None
 
 <a id="unreal.PlateCropSettings.aspect_ratio"></a>
 
-#### aspect_ratio
+#### aspect\_ratio
 
 ```python
 @property
@@ -36,7 +36,7 @@ def aspect_ratio() -> float
 
 <a id="unreal.PlateCropSettings.aspect_ratio"></a>
 
-#### aspect_ratio
+#### aspect\_ratio
 
 ```python
 @aspect_ratio.setter

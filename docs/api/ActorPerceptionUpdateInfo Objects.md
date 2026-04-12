@@ -19,7 +19,7 @@ Actor Perception Update Info
 
 <a id="unreal.ActorPerceptionUpdateInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -44,7 +44,7 @@ def __init__(
 
 <a id="unreal.ActorPerceptionUpdateInfo.target_id"></a>
 
-#### target_id
+#### target\_id
 
 ```python
 @property
@@ -55,7 +55,7 @@ def target_id() -> int
 
 <a id="unreal.ActorPerceptionUpdateInfo.target_id"></a>
 
-#### target_id
+#### target\_id
 
 ```python
 @target_id.setter

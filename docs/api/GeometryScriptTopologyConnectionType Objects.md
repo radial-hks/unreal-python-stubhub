@@ -26,7 +26,7 @@ Types of connection between adjacent Mesh Elements (vertices/triangles/polygoups
 
 <a id="unreal.GeometryScriptTopologyConnectionType.MATERIAL_ID"></a>
 
-#### MATERIAL_ID
+#### MATERIAL\_ID
 
 2
 

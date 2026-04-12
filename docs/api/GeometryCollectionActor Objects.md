@@ -142,7 +142,7 @@ Geometry Collection Actor
 
 <a id="unreal.GeometryCollectionActor.geometry_collection_component"></a>
 
-#### geometry_collection_component
+#### geometry\_collection\_component
 
 ```python
 @property
@@ -153,7 +153,7 @@ def geometry_collection_component() -> GeometryCollectionComponent
 
 <a id="unreal.GeometryCollectionActor.raycast_single"></a>
 
-#### raycast_single
+#### raycast\_single
 
 ```python
 def raycast_single(start: Vector, end: Vector) -> Optional[HitResult]

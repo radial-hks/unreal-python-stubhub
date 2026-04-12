@@ -2,31 +2,31 @@
 
 <a id="unreal._T"></a>
 
-#### _T
+#### \_T
 
 <a id="unreal._ElemType"></a>
 
-#### _ElemType
+#### \_ElemType
 
 <a id="unreal._KeyType"></a>
 
-#### _KeyType
+#### \_KeyType
 
 <a id="unreal._ValueType"></a>
 
-#### _ValueType
+#### \_ValueType
 
 <a id="unreal._ValueType"></a>
 
-#### _ValueType
+#### \_ValueType
 
 <a id="unreal._EngineSubsystemTypeVar"></a>
 
-#### _EngineSubsystemTypeVar
+#### \_EngineSubsystemTypeVar
 
 <a id="unreal._EditorSubsystemTypeVar"></a>
 
-#### _EditorSubsystemTypeVar
+#### \_EditorSubsystemTypeVar
 
 <a id="unreal.log"></a>
 
@@ -40,7 +40,7 @@ log(arg: Any) -> None -- log the given argument as information in the LogPython 
 
 <a id="unreal.log_warning"></a>
 
-#### log_warning
+#### log\_warning
 
 ```python
 def log_warning(arg: Any) -> None
@@ -50,7 +50,7 @@ log_warning(arg: Any) -> None -- log the given argument as a warning in the LogP
 
 <a id="unreal.log_error"></a>
 
-#### log_error
+#### log\_error
 
 ```python
 def log_error(arg: Any) -> None
@@ -60,7 +60,7 @@ log_error(arg: Any) -> None -- log the given argument as an error in the LogPyth
 
 <a id="unreal.log_flush"></a>
 
-#### log_flush
+#### log\_flush
 
 ```python
 def log_flush() -> None
@@ -80,7 +80,7 @@ reload(module: str) -> None -- reload the given Unreal Python module.
 
 <a id="unreal.load_module"></a>
 
-#### load_module
+#### load\_module
 
 ```python
 def load_module(module: str) -> None
@@ -90,7 +90,7 @@ load_module(module: str) -> None -- load the given Unreal module and generate an
 
 <a id="unreal.new_object"></a>
 
-#### new_object
+#### new\_object
 
 ```python
 def new_object(type: Union[Class, type],
@@ -103,7 +103,7 @@ new_object(type: Union[Class, type], outer: Optional[Object]=None, name: Union[N
 
 <a id="unreal.find_object"></a>
 
-#### find_object
+#### find\_object
 
 ```python
 def find_object(outer: Optional[Object],
@@ -116,7 +116,7 @@ find_object(outer: Optional[Object], name: str, type: Union[Class, type]=Object.
 
 <a id="unreal.load_object"></a>
 
-#### load_object
+#### load\_object
 
 ```python
 def load_object(outer: Optional[Object],
@@ -129,7 +129,7 @@ load_object(outer: Optional[Object], name: str, type: Union[Class, type]=Object.
 
 <a id="unreal.load_class"></a>
 
-#### load_class
+#### load\_class
 
 ```python
 def load_class(
@@ -143,7 +143,7 @@ load_class(outer: Optional[Object], name: str, type: Union[Class, type]=Object.s
 
 <a id="unreal.find_asset"></a>
 
-#### find_asset
+#### find\_asset
 
 ```python
 def find_asset(name: str,
@@ -155,7 +155,7 @@ find_asset(name: str, type: Union[Class, type]=Object.static_class(), follow_red
 
 <a id="unreal.load_asset"></a>
 
-#### load_asset
+#### load\_asset
 
 ```python
 def load_asset(name: str,
@@ -167,7 +167,7 @@ load_asset(name: str, type: Union[Class, type]=Object.static_class(), follow_red
 
 <a id="unreal.find_package"></a>
 
-#### find_package
+#### find\_package
 
 ```python
 def find_package(name: str) -> Optional[Package]
@@ -177,7 +177,7 @@ find_package(name: str) -> Optional[Package] -- find an already loaded Unreal pa
 
 <a id="unreal.load_package"></a>
 
-#### load_package
+#### load\_package
 
 ```python
 def load_package(name: str) -> Optional[Package]
@@ -187,7 +187,7 @@ load_package(name: str) -> Optional[Package] -- load an Unreal package with the 
 
 <a id="unreal.get_default_object"></a>
 
-#### get_default_object
+#### get\_default\_object
 
 ```python
 def get_default_object(type: Union[Class, type]) -> Any
@@ -197,7 +197,7 @@ get_default_object(type: Union[Class, type]) -> Any -- get the Unreal class defa
 
 <a id="unreal.purge_object_references"></a>
 
-#### purge_object_references
+#### purge\_object\_references
 
 ```python
 def purge_object_references(obj: Object, include_inners: bool = True) -> None
@@ -207,7 +207,7 @@ purge_object_references(obj: Object, include_inners: bool = True) -> None -- pur
 
 <a id="unreal.generate_class"></a>
 
-#### generate_class
+#### generate\_class
 
 ```python
 def generate_class(class_type: type) -> None
@@ -217,7 +217,7 @@ generate_class(class_type: type) -> None -- generate an Unreal class for the giv
 
 <a id="unreal.generate_struct"></a>
 
-#### generate_struct
+#### generate\_struct
 
 ```python
 def generate_struct(struct_type: type) -> None
@@ -227,7 +227,7 @@ generate_struct(struct_type: type) -> None -- generate an Unreal struct for the 
 
 <a id="unreal.generate_enum"></a>
 
-#### generate_enum
+#### generate\_enum
 
 ```python
 def generate_enum(enum_type: type) -> None
@@ -237,7 +237,7 @@ generate_enum(enum_type: type) -> None -- generate an Unreal enum for the given 
 
 <a id="unreal.flush_generated_type_reinstancing"></a>
 
-#### flush_generated_type_reinstancing
+#### flush\_generated\_type\_reinstancing
 
 ```python
 def flush_generated_type_reinstancing() -> None
@@ -247,7 +247,7 @@ flush_generated_type_reinstancing() -> None -- flush any pending reinstancing re
 
 <a id="unreal.get_type_from_class"></a>
 
-#### get_type_from_class
+#### get\_type\_from\_class
 
 ```python
 def get_type_from_class(class_: Class) -> type
@@ -257,7 +257,7 @@ get_type_from_class(class_: Class) -> type -- get the best matching Python type 
 
 <a id="unreal.get_type_from_struct"></a>
 
-#### get_type_from_struct
+#### get\_type\_from\_struct
 
 ```python
 def get_type_from_struct(struct: Struct) -> type
@@ -267,7 +267,7 @@ get_type_from_struct(struct: Struct) -> type -- get the best matching Python typ
 
 <a id="unreal.get_type_from_enum"></a>
 
-#### get_type_from_enum
+#### get\_type\_from\_enum
 
 ```python
 def get_type_from_enum(enum: Enum) -> type
@@ -277,7 +277,7 @@ get_type_from_enum(enum: Enum) -> type -- get the best matching Python type for 
 
 <a id="unreal.register_python_shutdown_callback"></a>
 
-#### register_python_shutdown_callback
+#### register\_python\_shutdown\_callback
 
 ```python
 def register_python_shutdown_callback(callable: Callable[[], None]) -> object
@@ -287,7 +287,7 @@ register_python_shutdown_callback(callable: Callable[[], None]) -> object -- reg
 
 <a id="unreal.unregister_python_shutdown_callback"></a>
 
-#### unregister_python_shutdown_callback
+#### unregister\_python\_shutdown\_callback
 
 ```python
 def unregister_python_shutdown_callback(handle: object) -> None
@@ -317,7 +317,7 @@ LOCTABLE(id: Union[Name, str], key: str) -> Text -- get a localized Text from th
 
 <a id="unreal.is_editor"></a>
 
-#### is_editor
+#### is\_editor
 
 ```python
 def is_editor() -> bool
@@ -327,7 +327,7 @@ is_editor() -> bool -- tells if the editor is running or not
 
 <a id="unreal.get_interpreter_executable_path"></a>
 
-#### get_interpreter_executable_path
+#### get\_interpreter\_executable\_path
 
 ```python
 def get_interpreter_executable_path() -> str
@@ -337,7 +337,7 @@ get_interpreter_executable_path() -> str -- get the path to the Python interpret
 
 <a id="unreal.create_python_object_handle"></a>
 
-#### create_python_object_handle
+#### create\_python\_object\_handle
 
 ```python
 def create_python_object_handle(
@@ -348,7 +348,7 @@ create_python_object_handle(obj: Optional[Any]) -> Optional[PythonObjectHandle] 
 
 <a id="unreal.resolve_python_object_handle"></a>
 
-#### resolve_python_object_handle
+#### resolve\_python\_object\_handle
 
 ```python
 def resolve_python_object_handle(
@@ -359,7 +359,7 @@ resolve_python_object_handle(handle: Optional[PythonObjectHandle]) -> Optional[A
 
 <a id="unreal.destroy_python_object_handle"></a>
 
-#### destroy_python_object_handle
+#### destroy\_python\_object\_handle
 
 ```python
 def destroy_python_object_handle(*args)

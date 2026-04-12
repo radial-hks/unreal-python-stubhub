@@ -19,7 +19,7 @@ Used by new level dialog.
 
 <a id="unreal.TemplateMapInfoOverride.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

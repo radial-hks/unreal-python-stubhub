@@ -22,7 +22,7 @@ Geometry Script Open Path Offset Options
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -37,7 +37,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.join_type"></a>
 
-#### join_type
+#### join\_type
 
 ```python
 @property
@@ -48,7 +48,7 @@ def join_type() -> GeometryScriptPolyOffsetJoinType
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.join_type"></a>
 
-#### join_type
+#### join\_type
 
 ```python
 @join_type.setter
@@ -57,7 +57,7 @@ def join_type(value: GeometryScriptPolyOffsetJoinType) -> None
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.miter_limit"></a>
 
-#### miter_limit
+#### miter\_limit
 
 ```python
 @property
@@ -68,7 +68,7 @@ def miter_limit() -> float
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.miter_limit"></a>
 
-#### miter_limit
+#### miter\_limit
 
 ```python
 @miter_limit.setter
@@ -77,7 +77,7 @@ def miter_limit(value: float) -> None
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.end_type"></a>
 
-#### end_type
+#### end\_type
 
 ```python
 @property
@@ -88,7 +88,7 @@ def end_type() -> GeometryScriptPathOffsetEndType
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.end_type"></a>
 
-#### end_type
+#### end\_type
 
 ```python
 @end_type.setter
@@ -97,7 +97,7 @@ def end_type(value: GeometryScriptPathOffsetEndType) -> None
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.steps_per_radian_scale"></a>
 
-#### steps_per_radian_scale
+#### steps\_per\_radian\_scale
 
 ```python
 @property
@@ -108,7 +108,7 @@ def steps_per_radian_scale() -> float
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.steps_per_radian_scale"></a>
 
-#### steps_per_radian_scale
+#### steps\_per\_radian\_scale
 
 ```python
 @steps_per_radian_scale.setter
@@ -117,7 +117,7 @@ def steps_per_radian_scale(value: float) -> None
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.maximum_steps_per_radian"></a>
 
-#### maximum_steps_per_radian
+#### maximum\_steps\_per\_radian
 
 ```python
 @property
@@ -128,7 +128,7 @@ def maximum_steps_per_radian() -> float
 
 <a id="unreal.GeometryScriptOpenPathOffsetOptions.maximum_steps_per_radian"></a>
 
-#### maximum_steps_per_radian
+#### maximum\_steps\_per\_radian
 
 ```python
 @maximum_steps_per_radian.setter

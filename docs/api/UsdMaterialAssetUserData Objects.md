@@ -33,7 +33,7 @@ AssetImportData assigned to Unreal materials that are generated when parsing USD
 
 <a id="unreal.UsdMaterialAssetUserData.parameter_to_primvar"></a>
 
-#### parameter_to_primvar
+#### parameter\_to\_primvar
 
 ```python
 @property
@@ -46,7 +46,7 @@ e.g. {'BaseColor': 'st0', 'Metallic': 'st1'}
 
 <a id="unreal.UsdMaterialAssetUserData.parameter_to_primvar"></a>
 
-#### parameter_to_primvar
+#### parameter\_to\_primvar
 
 ```python
 @parameter_to_primvar.setter
@@ -55,7 +55,7 @@ def parameter_to_primvar(value: Map[str, str]) -> None
 
 <a id="unreal.UsdMaterialAssetUserData.primvar_to_uv_index"></a>
 
-#### primvar_to_uv_index
+#### primvar\_to\_uv\_index
 
 ```python
 @property
@@ -72,7 +72,7 @@ e.g. {'firstPrimvar': 0, 'st': 1, 'st1': 2}
 
 <a id="unreal.UsdMaterialAssetUserData.primvar_to_uv_index"></a>
 
-#### primvar_to_uv_index
+#### primvar\_to\_uv\_index
 
 ```python
 @primvar_to_uv_index.setter

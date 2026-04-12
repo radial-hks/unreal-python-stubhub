@@ -14,7 +14,7 @@ Geometry Script Vector List
 
 <a id="unreal.GeometryScriptVectorList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptVectorList.set_vector_list_item"></a>
 
-#### set_vector_list_item
+#### set\_vector\_list\_item
 
 ```python
 def set_vector_list_item(index: int, new_value: Vector) -> bool
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.get_vector_list_length"></a>
 
-#### get_vector_list_length
+#### get\_vector\_list\_length
 
 ```python
 def get_vector_list_length() -> int
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.get_vector_list_last_index"></a>
 
-#### get_vector_list_last_index
+#### get\_vector\_list\_last\_index
 
 ```python
 def get_vector_list_last_index() -> int
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.get_vector_list_item"></a>
 
-#### get_vector_list_item
+#### get\_vector\_list\_item
 
 ```python
 def get_vector_list_item(index: int) -> Tuple[Vector, bool]
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.duplicate_vector_list"></a>
 
-#### duplicate_vector_list
+#### duplicate\_vector\_list
 
 ```python
 def duplicate_vector_list() -> GeometryScriptVectorList
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.convert_vector_list_to_array"></a>
 
-#### convert_vector_list_to_array
+#### convert\_vector\_list\_to\_array
 
 ```python
 def convert_vector_list_to_array() -> Array[Vector]
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.clear_vector_list"></a>
 
-#### clear_vector_list
+#### clear\_vector\_list
 
 ```python
 def clear_vector_list(
@@ -139,7 +139,7 @@ Args:
 
 <a id="unreal.GeometryScriptVectorList.vector_transform_in_place"></a>
 
-#### vector_transform_in_place
+#### vector\_transform\_in\_place
 
 ```python
 def vector_transform_in_place(transform: Transform,
@@ -155,7 +155,7 @@ Args:
 
 <a id="unreal.GeometryScriptVectorList.vector_to_scalar"></a>
 
-#### vector_to_scalar
+#### vector\_to\_scalar
 
 ```python
 def vector_to_scalar(constant_x: float = 1.000000,
@@ -177,7 +177,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.vector_plane_project_in_place"></a>
 
-#### vector_plane_project_in_place
+#### vector\_plane\_project\_in\_place
 
 ```python
 def vector_plane_project_in_place(plane: Plane) -> None
@@ -191,7 +191,7 @@ Args:
 
 <a id="unreal.GeometryScriptVectorList.vector_normalize_in_place"></a>
 
-#### vector_normalize_in_place
+#### vector\_normalize\_in\_place
 
 ```python
 def vector_normalize_in_place(
@@ -207,7 +207,7 @@ Args:
 
 <a id="unreal.GeometryScriptVectorList.vector_length"></a>
 
-#### vector_length
+#### vector\_length
 
 ```python
 def vector_length() -> GeometryScriptScalarList
@@ -222,7 +222,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.vector_inverse_transform_in_place"></a>
 
-#### vector_inverse_transform_in_place
+#### vector\_inverse\_transform\_in\_place
 
 ```python
 def vector_inverse_transform_in_place(transform: Transform,
@@ -238,7 +238,7 @@ Args:
 
 <a id="unreal.GeometryScriptVectorList.vector_dot"></a>
 
-#### vector_dot
+#### vector\_dot
 
 ```python
 def vector_dot(
@@ -256,7 +256,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.vector_cross"></a>
 
-#### vector_cross
+#### vector\_cross
 
 ```python
 def vector_cross(
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.vector_blend_in_place"></a>
 
-#### vector_blend_in_place
+#### vector\_blend\_in\_place
 
 ```python
 def vector_blend_in_place(
@@ -300,7 +300,7 @@ Returns:
 
 <a id="unreal.GeometryScriptVectorList.vector_blend"></a>
 
-#### vector_blend
+#### vector\_blend
 
 ```python
 def vector_blend(vector_list_b: GeometryScriptVectorList,

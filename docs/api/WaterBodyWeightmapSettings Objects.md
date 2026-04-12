@@ -24,7 +24,7 @@ Water Body Weightmap Settings
 
 <a id="unreal.WaterBodyWeightmapSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(falloff_width: float = 0.000000,
@@ -38,7 +38,7 @@ def __init__(falloff_width: float = 0.000000,
 
 <a id="unreal.WaterBodyWeightmapSettings.falloff_width"></a>
 
-#### falloff_width
+#### falloff\_width
 
 ```python
 @property
@@ -49,7 +49,7 @@ def falloff_width() -> float
 
 <a id="unreal.WaterBodyWeightmapSettings.falloff_width"></a>
 
-#### falloff_width
+#### falloff\_width
 
 ```python
 @falloff_width.setter
@@ -58,7 +58,7 @@ def falloff_width(value: float) -> None
 
 <a id="unreal.WaterBodyWeightmapSettings.edge_offset"></a>
 
-#### edge_offset
+#### edge\_offset
 
 ```python
 @property
@@ -69,7 +69,7 @@ def edge_offset() -> float
 
 <a id="unreal.WaterBodyWeightmapSettings.edge_offset"></a>
 
-#### edge_offset
+#### edge\_offset
 
 ```python
 @edge_offset.setter
@@ -78,7 +78,7 @@ def edge_offset(value: float) -> None
 
 <a id="unreal.WaterBodyWeightmapSettings.modulation_texture"></a>
 
-#### modulation_texture
+#### modulation\_texture
 
 ```python
 @property
@@ -89,7 +89,7 @@ def modulation_texture() -> Texture2D
 
 <a id="unreal.WaterBodyWeightmapSettings.modulation_texture"></a>
 
-#### modulation_texture
+#### modulation\_texture
 
 ```python
 @modulation_texture.setter
@@ -98,7 +98,7 @@ def modulation_texture(value: Texture2D) -> None
 
 <a id="unreal.WaterBodyWeightmapSettings.texture_tiling"></a>
 
-#### texture_tiling
+#### texture\_tiling
 
 ```python
 @property
@@ -109,7 +109,7 @@ def texture_tiling() -> float
 
 <a id="unreal.WaterBodyWeightmapSettings.texture_tiling"></a>
 
-#### texture_tiling
+#### texture\_tiling
 
 ```python
 @texture_tiling.setter
@@ -118,7 +118,7 @@ def texture_tiling(value: float) -> None
 
 <a id="unreal.WaterBodyWeightmapSettings.texture_influence"></a>
 
-#### texture_influence
+#### texture\_influence
 
 ```python
 @property
@@ -129,7 +129,7 @@ def texture_influence() -> float
 
 <a id="unreal.WaterBodyWeightmapSettings.texture_influence"></a>
 
-#### texture_influence
+#### texture\_influence
 
 ```python
 @texture_influence.setter
@@ -158,7 +158,7 @@ def midpoint(value: float) -> None
 
 <a id="unreal.WaterBodyWeightmapSettings.final_opacity"></a>
 
-#### final_opacity
+#### final\_opacity
 
 ```python
 @property
@@ -169,7 +169,7 @@ def final_opacity() -> float
 
 <a id="unreal.WaterBodyWeightmapSettings.final_opacity"></a>
 
-#### final_opacity
+#### final\_opacity
 
 ```python
 @final_opacity.setter

@@ -17,7 +17,7 @@ Structure representing a collision profile name, this gets a special UI in the e
 
 <a id="unreal.CollisionProfileName.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None") -> None

@@ -14,7 +14,7 @@ A C++ and Blueprint accessible library of utility functions for accessing Niagar
 
 <a id="unreal.NiagaraDataChannelLibrary.write_to_niagara_data_channel"></a>
 
-#### write_to_niagara_data_channel
+#### write\_to\_niagara\_data\_channel
 
 ```python
 @classmethod
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelLibrary.read_from_niagara_data_channel"></a>
 
-#### read_from_niagara_data_channel
+#### read\_from\_niagara\_data\_channel
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelLibrary.get_data_channel_element_count"></a>
 
-#### get_data_channel_element_count
+#### get\_data\_channel\_element\_count
 
 ```python
 @classmethod

@@ -143,7 +143,7 @@ Scene Capture Cube
 
 <a id="unreal.SceneCaptureCube.capture_component_cube"></a>
 
-#### capture_component_cube
+#### capture\_component\_cube
 
 ```python
 @property
@@ -154,7 +154,7 @@ def capture_component_cube() -> SceneCaptureComponentCube
 
 <a id="unreal.SceneCaptureCube.on_interp_toggle"></a>
 
-#### on_interp_toggle
+#### on\_interp\_toggle
 
 ```python
 def on_interp_toggle(enable: bool) -> None

@@ -18,7 +18,7 @@ Movie Scene Scripting Params
 
 <a id="unreal.MovieSceneScriptingParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -28,7 +28,7 @@ def __init__(
 
 <a id="unreal.MovieSceneScriptingParams.time_unit"></a>
 
-#### time_unit
+#### time\_unit
 
 ```python
 @property
@@ -39,11 +39,11 @@ def time_unit() -> MovieSceneTimeUnit
 
 <a id="unreal.MovieSceneScriptingParams.time_unit"></a>
 
-#### time_unit
+#### time\_unit
 
 ```python
 @time_unit.setter
 def time_unit(value: MovieSceneTimeUnit) -> None
 ```
 
-<a id="unreal.MediaPlateResource"></a>
+<a id="unreal.AnimLayerPropertyAndChannels"></a>

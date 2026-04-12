@@ -20,8 +20,8 @@ EDatasmith CADRetessellation Rule
 
 <a id="unreal.DatasmithCADRetessellationRule.SKIP_DELETED_SURFACES"></a>
 
-#### SKIP_DELETED_SURFACES
+#### SKIP\_DELETED\_SURFACES
 
 1
 
-<a id="unreal.TextureFilter"></a>
+<a id="unreal.NiagaraSimTarget"></a>

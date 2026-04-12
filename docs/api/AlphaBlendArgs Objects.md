@@ -19,7 +19,7 @@ Alpha Blend construction arguments. Used for creation of an AlphaBlend.
 
 <a id="unreal.AlphaBlendArgs.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(custom_curve: CurveFloat = None,
@@ -29,7 +29,7 @@ def __init__(custom_curve: CurveFloat = None,
 
 <a id="unreal.AlphaBlendArgs.custom_curve"></a>
 
-#### custom_curve
+#### custom\_curve
 
 ```python
 @property
@@ -40,7 +40,7 @@ def custom_curve() -> CurveFloat
 
 <a id="unreal.AlphaBlendArgs.custom_curve"></a>
 
-#### custom_curve
+#### custom\_curve
 
 ```python
 @custom_curve.setter
@@ -49,7 +49,7 @@ def custom_curve(value: CurveFloat) -> None
 
 <a id="unreal.AlphaBlendArgs.blend_time"></a>
 
-#### blend_time
+#### blend\_time
 
 ```python
 @property
@@ -60,7 +60,7 @@ def blend_time() -> float
 
 <a id="unreal.AlphaBlendArgs.blend_time"></a>
 
-#### blend_time
+#### blend\_time
 
 ```python
 @blend_time.setter
@@ -69,7 +69,7 @@ def blend_time(value: float) -> None
 
 <a id="unreal.AlphaBlendArgs.blend_option"></a>
 
-#### blend_option
+#### blend\_option
 
 ```python
 @property
@@ -80,7 +80,7 @@ def blend_option() -> AlphaBlendOption
 
 <a id="unreal.AlphaBlendArgs.blend_option"></a>
 
-#### blend_option
+#### blend\_option
 
 ```python
 @blend_option.setter

@@ -17,7 +17,7 @@ LODMapping Data
 
 <a id="unreal.LODMappingData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mapping: Array[int] = []) -> None

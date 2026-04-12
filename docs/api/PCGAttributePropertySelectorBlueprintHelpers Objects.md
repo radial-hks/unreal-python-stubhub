@@ -14,7 +14,7 @@ Helper class to allow the BP to call the custom setters and getters on FPCGAttri
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.set_point_property"></a>
 
-#### set_point_property
+#### set\_point\_property
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.set_extra_property"></a>
 
-#### set_extra_property
+#### set\_extra\_property
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.set_attribute_name"></a>
 
-#### set_attribute_name
+#### set\_attribute\_name
 
 ```python
 @classmethod
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.get_selection"></a>
 
-#### get_selection
+#### get\_selection
 
 ```python
 @classmethod
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.get_point_property"></a>
 
-#### get_point_property
+#### get\_point\_property
 
 ```python
 @classmethod
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.get_name"></a>
 
-#### get_name
+#### get\_name
 
 ```python
 @classmethod
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.get_extra_property"></a>
 
-#### get_extra_property
+#### get\_extra\_property
 
 ```python
 @classmethod
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.get_extra_names"></a>
 
-#### get_extra_names
+#### get\_extra\_names
 
 ```python
 @classmethod
@@ -179,7 +179,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.get_attribute_name"></a>
 
-#### get_attribute_name
+#### get\_attribute\_name
 
 ```python
 @classmethod
@@ -197,7 +197,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.copy_and_fix_source"></a>
 
-#### copy_and_fix_source
+#### copy\_and\_fix\_source
 
 ```python
 @classmethod
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.PCGAttributePropertySelectorBlueprintHelpers.copy_and_fix_last"></a>
 
-#### copy_and_fix_last
+#### copy\_and\_fix\_last
 
 ```python
 @classmethod

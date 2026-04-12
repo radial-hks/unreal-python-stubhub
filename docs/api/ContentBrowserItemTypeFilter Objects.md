@@ -14,25 +14,25 @@ Generally matches EContentBrowserItemFlags::Type_MASK
 
 <a id="unreal.ContentBrowserItemTypeFilter.INCLUDE_NONE"></a>
 
-#### INCLUDE_NONE
+#### INCLUDE\_NONE
 
 0
 
 <a id="unreal.ContentBrowserItemTypeFilter.INCLUDE_FOLDERS"></a>
 
-#### INCLUDE_FOLDERS
+#### INCLUDE\_FOLDERS
 
 1
 
 <a id="unreal.ContentBrowserItemTypeFilter.INCLUDE_FILES"></a>
 
-#### INCLUDE_FILES
+#### INCLUDE\_FILES
 
 2
 
 <a id="unreal.ContentBrowserItemTypeFilter.INCLUDE_ALL"></a>
 
-#### INCLUDE_ALL
+#### INCLUDE\_ALL
 
 3
 

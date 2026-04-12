@@ -54,7 +54,7 @@ Note: this component is still work in progress. Uses raycast springs for simple 
 
 <a id="unreal.PhysicsSpringComponent.spring_stiffness"></a>
 
-#### spring_stiffness
+#### spring\_stiffness
 
 ```python
 @property
@@ -65,7 +65,7 @@ def spring_stiffness() -> float
 
 <a id="unreal.PhysicsSpringComponent.spring_stiffness"></a>
 
-#### spring_stiffness
+#### spring\_stiffness
 
 ```python
 @spring_stiffness.setter
@@ -74,7 +74,7 @@ def spring_stiffness(value: float) -> None
 
 <a id="unreal.PhysicsSpringComponent.spring_damping"></a>
 
-#### spring_damping
+#### spring\_damping
 
 ```python
 @property
@@ -85,7 +85,7 @@ def spring_damping() -> float
 
 <a id="unreal.PhysicsSpringComponent.spring_damping"></a>
 
-#### spring_damping
+#### spring\_damping
 
 ```python
 @spring_damping.setter
@@ -94,7 +94,7 @@ def spring_damping(value: float) -> None
 
 <a id="unreal.PhysicsSpringComponent.spring_length_at_rest"></a>
 
-#### spring_length_at_rest
+#### spring\_length\_at\_rest
 
 ```python
 @property
@@ -105,7 +105,7 @@ def spring_length_at_rest() -> float
 
 <a id="unreal.PhysicsSpringComponent.spring_length_at_rest"></a>
 
-#### spring_length_at_rest
+#### spring\_length\_at\_rest
 
 ```python
 @spring_length_at_rest.setter
@@ -114,7 +114,7 @@ def spring_length_at_rest(value: float) -> None
 
 <a id="unreal.PhysicsSpringComponent.spring_radius"></a>
 
-#### spring_radius
+#### spring\_radius
 
 ```python
 @property
@@ -125,7 +125,7 @@ def spring_radius() -> float
 
 <a id="unreal.PhysicsSpringComponent.spring_radius"></a>
 
-#### spring_radius
+#### spring\_radius
 
 ```python
 @spring_radius.setter
@@ -134,7 +134,7 @@ def spring_radius(value: float) -> None
 
 <a id="unreal.PhysicsSpringComponent.spring_channel"></a>
 
-#### spring_channel
+#### spring\_channel
 
 ```python
 @property
@@ -145,7 +145,7 @@ def spring_channel() -> CollisionChannel
 
 <a id="unreal.PhysicsSpringComponent.spring_channel"></a>
 
-#### spring_channel
+#### spring\_channel
 
 ```python
 @spring_channel.setter
@@ -154,7 +154,7 @@ def spring_channel(value: CollisionChannel) -> None
 
 <a id="unreal.PhysicsSpringComponent.ignore_self"></a>
 
-#### ignore_self
+#### ignore\_self
 
 ```python
 @property
@@ -165,7 +165,7 @@ def ignore_self() -> bool
 
 <a id="unreal.PhysicsSpringComponent.ignore_self"></a>
 
-#### ignore_self
+#### ignore\_self
 
 ```python
 @ignore_self.setter
@@ -174,7 +174,7 @@ def ignore_self(value: bool) -> None
 
 <a id="unreal.PhysicsSpringComponent.spring_compression"></a>
 
-#### spring_compression
+#### spring\_compression
 
 ```python
 @property
@@ -185,7 +185,7 @@ def spring_compression() -> float
 
 <a id="unreal.PhysicsSpringComponent.get_spring_resting_point"></a>
 
-#### get_spring_resting_point
+#### get\_spring\_resting\_point
 
 ```python
 def get_spring_resting_point() -> Vector
@@ -199,7 +199,7 @@ Returns:
 
 <a id="unreal.PhysicsSpringComponent.get_spring_direction"></a>
 
-#### get_spring_direction
+#### get\_spring\_direction
 
 ```python
 def get_spring_direction() -> Vector
@@ -213,7 +213,7 @@ Returns:
 
 <a id="unreal.PhysicsSpringComponent.get_spring_current_end_point"></a>
 
-#### get_spring_current_end_point
+#### get\_spring\_current\_end\_point
 
 ```python
 def get_spring_current_end_point() -> Vector
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.PhysicsSpringComponent.get_normalized_compression_scalar"></a>
 
-#### get_normalized_compression_scalar
+#### get\_normalized\_compression\_scalar
 
 ```python
 def get_normalized_compression_scalar() -> float

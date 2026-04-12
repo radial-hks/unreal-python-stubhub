@@ -20,7 +20,7 @@ Default parameter destination settings for source audio object.
 
 <a id="unreal.SoundModulationDefaultSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -41,7 +41,7 @@ def __init__(
 
 <a id="unreal.SoundModulationDefaultSettings.volume_modulation_destination"></a>
 
-#### volume_modulation_destination
+#### volume\_modulation\_destination
 
 ```python
 @property
@@ -52,7 +52,7 @@ def volume_modulation_destination() -> SoundModulationDestinationSettings
 
 <a id="unreal.SoundModulationDefaultSettings.volume_modulation_destination"></a>
 
-#### volume_modulation_destination
+#### volume\_modulation\_destination
 
 ```python
 @volume_modulation_destination.setter
@@ -62,7 +62,7 @@ def volume_modulation_destination(
 
 <a id="unreal.SoundModulationDefaultSettings.pitch_modulation_destination"></a>
 
-#### pitch_modulation_destination
+#### pitch\_modulation\_destination
 
 ```python
 @property
@@ -73,7 +73,7 @@ def pitch_modulation_destination() -> SoundModulationDestinationSettings
 
 <a id="unreal.SoundModulationDefaultSettings.pitch_modulation_destination"></a>
 
-#### pitch_modulation_destination
+#### pitch\_modulation\_destination
 
 ```python
 @pitch_modulation_destination.setter
@@ -83,7 +83,7 @@ def pitch_modulation_destination(
 
 <a id="unreal.SoundModulationDefaultSettings.highpass_modulation_destination"></a>
 
-#### highpass_modulation_destination
+#### highpass\_modulation\_destination
 
 ```python
 @property
@@ -94,7 +94,7 @@ def highpass_modulation_destination() -> SoundModulationDestinationSettings
 
 <a id="unreal.SoundModulationDefaultSettings.highpass_modulation_destination"></a>
 
-#### highpass_modulation_destination
+#### highpass\_modulation\_destination
 
 ```python
 @highpass_modulation_destination.setter
@@ -104,7 +104,7 @@ def highpass_modulation_destination(
 
 <a id="unreal.SoundModulationDefaultSettings.lowpass_modulation_destination"></a>
 
-#### lowpass_modulation_destination
+#### lowpass\_modulation\_destination
 
 ```python
 @property
@@ -115,7 +115,7 @@ def lowpass_modulation_destination() -> SoundModulationDestinationSettings
 
 <a id="unreal.SoundModulationDefaultSettings.lowpass_modulation_destination"></a>
 
-#### lowpass_modulation_destination
+#### lowpass\_modulation\_destination
 
 ```python
 @lowpass_modulation_destination.setter

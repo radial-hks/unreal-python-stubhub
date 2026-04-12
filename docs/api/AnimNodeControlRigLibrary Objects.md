@@ -14,7 +14,7 @@ Exposes operations to be performed on a control rig anim node
 
 <a id="unreal.AnimNodeControlRigLibrary.set_control_rig_class"></a>
 
-#### set_control_rig_class
+#### set\_control\_rig\_class
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.AnimNodeControlRigLibrary.convert_to_control_rig_pure"></a>
 
-#### convert_to_control_rig_pure
+#### convert\_to\_control\_rig\_pure
 
 ```python
 @classmethod
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.AnimNodeControlRigLibrary.convert_to_control_rig"></a>
 
-#### convert_to_control_rig
+#### convert\_to\_control\_rig
 
 ```python
 @classmethod

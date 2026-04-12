@@ -43,7 +43,7 @@ def proximity(value: float) -> None
 
 <a id="unreal.TakeRecorderNearbySpawnedActorSource.filter_spawned_actors"></a>
 
-#### filter_spawned_actors
+#### filter\_spawned\_actors
 
 ```python
 @property
@@ -54,7 +54,7 @@ def filter_spawned_actors() -> bool
 
 <a id="unreal.TakeRecorderNearbySpawnedActorSource.filter_spawned_actors"></a>
 
-#### filter_spawned_actors
+#### filter\_spawned\_actors
 
 ```python
 @filter_spawned_actors.setter
@@ -63,7 +63,7 @@ def filter_spawned_actors(value: bool) -> None
 
 <a id="unreal.TakeRecorderNearbySpawnedActorSource.filter_types"></a>
 
-#### filter_types
+#### filter\_types
 
 ```python
 @property
@@ -74,7 +74,7 @@ def filter_types() -> Array[Class]
 
 <a id="unreal.TakeRecorderNearbySpawnedActorSource.filter_types"></a>
 
-#### filter_types
+#### filter\_types
 
 ```python
 @filter_types.setter

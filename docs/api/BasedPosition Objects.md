@@ -18,7 +18,7 @@ Struct for handling positions relative to a base actor, which is potentially mov
 
 <a id="unreal.BasedPosition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(base: Actor = None,

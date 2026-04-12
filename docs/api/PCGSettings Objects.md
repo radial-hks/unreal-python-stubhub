@@ -53,7 +53,7 @@ def seed(value: int) -> None
 
 <a id="unreal.PCGSettings.determinism_settings"></a>
 
-#### determinism_settings
+#### determinism\_settings
 
 ```python
 @property
@@ -64,7 +64,7 @@ def determinism_settings() -> PCGDeterminismSettings
 
 <a id="unreal.PCGSettings.determinism_settings"></a>
 
-#### determinism_settings
+#### determinism\_settings
 
 ```python
 @determinism_settings.setter
@@ -73,7 +73,7 @@ def determinism_settings(value: PCGDeterminismSettings) -> None
 
 <a id="unreal.PCGSettings.expose_to_library"></a>
 
-#### expose_to_library
+#### expose\_to\_library
 
 ```python
 @property
@@ -84,7 +84,7 @@ def expose_to_library() -> bool
 
 <a id="unreal.PCGSettings.expose_to_library"></a>
 
-#### expose_to_library
+#### expose\_to\_library
 
 ```python
 @expose_to_library.setter
@@ -133,7 +133,7 @@ def description(value: Text) -> None
 
 <a id="unreal.PCGSettings.use_seed"></a>
 
-#### use_seed
+#### use\_seed
 
 ```python
 @property
@@ -145,7 +145,7 @@ deprecated: Implement the PCGSettings virtual UseSeed() override.
 
 <a id="unreal.PCGSettings.use_seed"></a>
 
-#### use_seed
+#### use\_seed
 
 ```python
 @use_seed.setter
@@ -154,7 +154,7 @@ def use_seed(value: bool) -> None
 
 <a id="unreal.PCGSettings.bp_get_type_union_of_incident_edges"></a>
 
-#### bp_get_type_union_of_incident_edges
+#### bp\_get\_type\_union\_of\_incident\_edges
 
 ```python
 def bp_get_type_union_of_incident_edges(pin_label: Name) -> int

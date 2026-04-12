@@ -14,25 +14,25 @@ The status associated with a request to display a cellular data confirmation dia
 
 <a id="unreal.GooglePADCellularDataConfirmStatus.ASSET_PACK_CONFIRM_UNKNOWN"></a>
 
-#### ASSET_PACK_CONFIRM_UNKNOWN
+#### ASSET\_PACK\_CONFIRM\_UNKNOWN
 
 0: AssetPackManager_showCellularDataConfirmation() has not been called.
 
 <a id="unreal.GooglePADCellularDataConfirmStatus.ASSET_PACK_CONFIRM_PENDING"></a>
 
-#### ASSET_PACK_CONFIRM_PENDING
+#### ASSET\_PACK\_CONFIRM\_PENDING
 
 1: AssetPackManager_showCellularDataConfirmation() has been called, but the user hasn't made a choice.
 
 <a id="unreal.GooglePADCellularDataConfirmStatus.ASSET_PACK_CONFIRM_USER_APPROVED"></a>
 
-#### ASSET_PACK_CONFIRM_USER_APPROVED
+#### ASSET\_PACK\_CONFIRM\_USER\_APPROVED
 
 2: The user approved of downloading Asset Packs over cellular data.
 
 <a id="unreal.GooglePADCellularDataConfirmStatus.ASSET_PACK_CONFIRM_USER_CANCELED"></a>
 
-#### ASSET_PACK_CONFIRM_USER_CANCELED
+#### ASSET\_PACK\_CONFIRM\_USER\_CANCELED
 
 3: The user declined to download Asset Packs over cellular data.
 

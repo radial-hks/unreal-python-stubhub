@@ -20,7 +20,7 @@ This class exposes the audio input device list via the project settings details.
 
 <a id="unreal.TakeRecorderMicrophoneAudioManager.audio_input_device"></a>
 
-#### audio_input_device
+#### audio\_input\_device
 
 ```python
 @property
@@ -31,7 +31,7 @@ def audio_input_device() -> AudioInputDeviceProperty
 
 <a id="unreal.TakeRecorderMicrophoneAudioManager.audio_input_device"></a>
 
-#### audio_input_device
+#### audio\_input\_device
 
 ```python
 @audio_input_device.setter

@@ -39,7 +39,7 @@ Used to verify if the generated Python stub is correctly type-hinted (if type hi
 
 <a id="unreal.PyTestTypeHint.bool_prop"></a>
 
-#### bool_prop
+#### bool\_prop
 
 ```python
 @property
@@ -50,7 +50,7 @@ def bool_prop() -> bool
 
 <a id="unreal.PyTestTypeHint.bool_prop"></a>
 
-#### bool_prop
+#### bool\_prop
 
 ```python
 @bool_prop.setter
@@ -59,7 +59,7 @@ def bool_prop(value: bool) -> None
 
 <a id="unreal.PyTestTypeHint.int_prop"></a>
 
-#### int_prop
+#### int\_prop
 
 ```python
 @property
@@ -70,7 +70,7 @@ def int_prop() -> int
 
 <a id="unreal.PyTestTypeHint.int_prop"></a>
 
-#### int_prop
+#### int\_prop
 
 ```python
 @int_prop.setter
@@ -79,7 +79,7 @@ def int_prop(value: int) -> None
 
 <a id="unreal.PyTestTypeHint.float_prop"></a>
 
-#### float_prop
+#### float\_prop
 
 ```python
 @property
@@ -90,7 +90,7 @@ def float_prop() -> float
 
 <a id="unreal.PyTestTypeHint.float_prop"></a>
 
-#### float_prop
+#### float\_prop
 
 ```python
 @float_prop.setter
@@ -99,7 +99,7 @@ def float_prop(value: float) -> None
 
 <a id="unreal.PyTestTypeHint.enum_prop"></a>
 
-#### enum_prop
+#### enum\_prop
 
 ```python
 @property
@@ -110,7 +110,7 @@ def enum_prop() -> PyTestEnum
 
 <a id="unreal.PyTestTypeHint.enum_prop"></a>
 
-#### enum_prop
+#### enum\_prop
 
 ```python
 @enum_prop.setter
@@ -119,7 +119,7 @@ def enum_prop(value: PyTestEnum) -> None
 
 <a id="unreal.PyTestTypeHint.string_prop"></a>
 
-#### string_prop
+#### string\_prop
 
 ```python
 @property
@@ -130,7 +130,7 @@ def string_prop() -> str
 
 <a id="unreal.PyTestTypeHint.string_prop"></a>
 
-#### string_prop
+#### string\_prop
 
 ```python
 @string_prop.setter
@@ -139,7 +139,7 @@ def string_prop(value: str) -> None
 
 <a id="unreal.PyTestTypeHint.name_prop"></a>
 
-#### name_prop
+#### name\_prop
 
 ```python
 @property
@@ -150,7 +150,7 @@ def name_prop() -> Name
 
 <a id="unreal.PyTestTypeHint.name_prop"></a>
 
-#### name_prop
+#### name\_prop
 
 ```python
 @name_prop.setter
@@ -159,7 +159,7 @@ def name_prop(value: Name) -> None
 
 <a id="unreal.PyTestTypeHint.text_prop"></a>
 
-#### text_prop
+#### text\_prop
 
 ```python
 @property
@@ -170,7 +170,7 @@ def text_prop() -> Text
 
 <a id="unreal.PyTestTypeHint.text_prop"></a>
 
-#### text_prop
+#### text\_prop
 
 ```python
 @text_prop.setter
@@ -179,7 +179,7 @@ def text_prop(value: Text) -> None
 
 <a id="unreal.PyTestTypeHint.field_path_prop"></a>
 
-#### field_path_prop
+#### field\_path\_prop
 
 ```python
 @property
@@ -190,7 +190,7 @@ def field_path_prop() -> FieldPath
 
 <a id="unreal.PyTestTypeHint.field_path_prop"></a>
 
-#### field_path_prop
+#### field\_path\_prop
 
 ```python
 @field_path_prop.setter
@@ -199,7 +199,7 @@ def field_path_prop(value: FieldPath) -> None
 
 <a id="unreal.PyTestTypeHint.struct_prop"></a>
 
-#### struct_prop
+#### struct\_prop
 
 ```python
 @property
@@ -210,7 +210,7 @@ def struct_prop() -> PyTestStruct
 
 <a id="unreal.PyTestTypeHint.struct_prop"></a>
 
-#### struct_prop
+#### struct\_prop
 
 ```python
 @struct_prop.setter
@@ -219,7 +219,7 @@ def struct_prop(value: PyTestStruct) -> None
 
 <a id="unreal.PyTestTypeHint.object_prop"></a>
 
-#### object_prop
+#### object\_prop
 
 ```python
 @property
@@ -230,7 +230,7 @@ def object_prop() -> PyTestObject
 
 <a id="unreal.PyTestTypeHint.object_prop"></a>
 
-#### object_prop
+#### object\_prop
 
 ```python
 @object_prop.setter
@@ -239,7 +239,7 @@ def object_prop(value: PyTestObject) -> None
 
 <a id="unreal.PyTestTypeHint.str_array_prop"></a>
 
-#### str_array_prop
+#### str\_array\_prop
 
 ```python
 @property
@@ -250,7 +250,7 @@ def str_array_prop() -> Array[str]
 
 <a id="unreal.PyTestTypeHint.str_array_prop"></a>
 
-#### str_array_prop
+#### str\_array\_prop
 
 ```python
 @str_array_prop.setter
@@ -259,7 +259,7 @@ def str_array_prop(value: Array[str]) -> None
 
 <a id="unreal.PyTestTypeHint.name_array_prop"></a>
 
-#### name_array_prop
+#### name\_array\_prop
 
 ```python
 @property
@@ -270,7 +270,7 @@ def name_array_prop() -> Array[Name]
 
 <a id="unreal.PyTestTypeHint.name_array_prop"></a>
 
-#### name_array_prop
+#### name\_array\_prop
 
 ```python
 @name_array_prop.setter
@@ -279,7 +279,7 @@ def name_array_prop(value: Array[Name]) -> None
 
 <a id="unreal.PyTestTypeHint.text_array_prop"></a>
 
-#### text_array_prop
+#### text\_array\_prop
 
 ```python
 @property
@@ -290,7 +290,7 @@ def text_array_prop() -> Array[Text]
 
 <a id="unreal.PyTestTypeHint.text_array_prop"></a>
 
-#### text_array_prop
+#### text\_array\_prop
 
 ```python
 @text_array_prop.setter
@@ -299,7 +299,7 @@ def text_array_prop(value: Array[Text]) -> None
 
 <a id="unreal.PyTestTypeHint.object_array_prop"></a>
 
-#### object_array_prop
+#### object\_array\_prop
 
 ```python
 @property
@@ -310,7 +310,7 @@ def object_array_prop() -> Array[Object]
 
 <a id="unreal.PyTestTypeHint.object_array_prop"></a>
 
-#### object_array_prop
+#### object\_array\_prop
 
 ```python
 @object_array_prop.setter
@@ -319,7 +319,7 @@ def object_array_prop(value: Array[Object]) -> None
 
 <a id="unreal.PyTestTypeHint.set_prop"></a>
 
-#### set_prop
+#### set\_prop
 
 ```python
 @property
@@ -330,7 +330,7 @@ def set_prop() -> Set[str]
 
 <a id="unreal.PyTestTypeHint.set_prop"></a>
 
-#### set_prop
+#### set\_prop
 
 ```python
 @set_prop.setter
@@ -339,7 +339,7 @@ def set_prop(value: Set[str]) -> None
 
 <a id="unreal.PyTestTypeHint.map_prop"></a>
 
-#### map_prop
+#### map\_prop
 
 ```python
 @property
@@ -350,7 +350,7 @@ def map_prop() -> Map[int, str]
 
 <a id="unreal.PyTestTypeHint.map_prop"></a>
 
-#### map_prop
+#### map\_prop
 
 ```python
 @map_prop.setter
@@ -359,7 +359,7 @@ def map_prop(value: Map[int, str]) -> None
 
 <a id="unreal.PyTestTypeHint.delegate_prop"></a>
 
-#### delegate_prop
+#### delegate\_prop
 
 ```python
 @property
@@ -370,7 +370,7 @@ def delegate_prop() -> PyTestDelegate
 
 <a id="unreal.PyTestTypeHint.delegate_prop"></a>
 
-#### delegate_prop
+#### delegate\_prop
 
 ```python
 @delegate_prop.setter
@@ -379,7 +379,7 @@ def delegate_prop(value: PyTestDelegate) -> None
 
 <a id="unreal.PyTestTypeHint.multicast_delegate_prop"></a>
 
-#### multicast_delegate_prop
+#### multicast\_delegate\_prop
 
 ```python
 @property
@@ -390,7 +390,7 @@ def multicast_delegate_prop() -> PyTestMulticastDelegate
 
 <a id="unreal.PyTestTypeHint.multicast_delegate_prop"></a>
 
-#### multicast_delegate_prop
+#### multicast\_delegate\_prop
 
 ```python
 @multicast_delegate_prop.setter
@@ -399,7 +399,7 @@ def multicast_delegate_prop(value: PyTestMulticastDelegate) -> None
 
 <a id="unreal.PyTestTypeHint.slate_tick_delegate"></a>
 
-#### slate_tick_delegate
+#### slate\_tick\_delegate
 
 ```python
 @property
@@ -410,7 +410,7 @@ def slate_tick_delegate() -> PyTestSlateTickDelegate
 
 <a id="unreal.PyTestTypeHint.slate_tick_delegate"></a>
 
-#### slate_tick_delegate
+#### slate\_tick\_delegate
 
 ```python
 @slate_tick_delegate.setter
@@ -419,7 +419,7 @@ def slate_tick_delegate(value: PyTestSlateTickDelegate) -> None
 
 <a id="unreal.PyTestTypeHint.check_tuple_return_type"></a>
 
-#### check_tuple_return_type
+#### check\_tuple\_return\_type
 
 ```python
 @classmethod
@@ -439,7 +439,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_text_type_hints"></a>
 
-#### check_text_type_hints
+#### check\_text\_type\_hints
 
 ```python
 def check_text_type_hints(param1: Text, param2: Text = "Hi") -> Text
@@ -457,7 +457,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_struct_type_hints"></a>
 
-#### check_struct_type_hints
+#### check\_struct\_type\_hints
 
 ```python
 def check_struct_type_hints(
@@ -482,7 +482,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_string_type_hints"></a>
 
-#### check_string_type_hints
+#### check\_string\_type\_hints
 
 ```python
 def check_string_type_hints(param1: str, param2: str = "Hi") -> str
@@ -500,7 +500,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_static_function"></a>
 
-#### check_static_function
+#### check\_static\_function
 
 ```python
 @classmethod
@@ -522,7 +522,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_set_type_hints"></a>
 
-#### check_set_type_hints
+#### check\_set\_type\_hints
 
 ```python
 def check_set_type_hints(param1: Set[str], param2: Set[Name],
@@ -542,7 +542,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_object_type_hints"></a>
 
-#### check_object_type_hints
+#### check\_object\_type\_hints
 
 ```python
 def check_object_type_hints(param1: PyTestObject,
@@ -561,7 +561,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_name_type_hints"></a>
 
-#### check_name_type_hints
+#### check\_name\_type\_hints
 
 ```python
 def check_name_type_hints(param1: Name, param2: Name = "Hi") -> Name
@@ -579,7 +579,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_map_type_hints"></a>
 
-#### check_map_type_hints
+#### check\_map\_type\_hints
 
 ```python
 def check_map_type_hints(param1: Map[int, str], param2: Map[int, Name],
@@ -601,7 +601,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_integer_type_hints"></a>
 
-#### check_integer_type_hints
+#### check\_integer\_type\_hints
 
 ```python
 def check_integer_type_hints(param1: int,
@@ -622,7 +622,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_float_type_hints"></a>
 
-#### check_float_type_hints
+#### check\_float\_type\_hints
 
 ```python
 def check_float_type_hints(param1: float,
@@ -645,7 +645,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_field_path_type_hints"></a>
 
-#### check_field_path_type_hints
+#### check\_field\_path\_type\_hints
 
 ```python
 def check_field_path_type_hints(param1: FieldPath) -> FieldPath
@@ -662,7 +662,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_enum_type_hints"></a>
 
-#### check_enum_type_hints
+#### check\_enum\_type\_hints
 
 ```python
 def check_enum_type_hints(param1: PyTestEnum,
@@ -681,7 +681,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_delegate_type_hints"></a>
 
-#### check_delegate_type_hints
+#### check\_delegate\_type\_hints
 
 ```python
 def check_delegate_type_hints(param1: PyTestDelegate) -> PyTestDelegate
@@ -698,7 +698,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_bool_type_hints"></a>
 
-#### check_bool_type_hints
+#### check\_bool\_type\_hints
 
 ```python
 def check_bool_type_hints(param1: bool,
@@ -719,7 +719,7 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.check_array_type_hints"></a>
 
-#### check_array_type_hints
+#### check\_array\_type\_hints
 
 ```python
 def check_array_type_hints(param1: Array[str], param2: Array[Name],
@@ -741,13 +741,13 @@ Returns:
 
 <a id="unreal.PyTestTypeHint.STR_CONST"></a>
 
-#### STR_CONST
+#### STR\_CONST
 
 (str): Check type hinted constants
 
 <a id="unreal.PyTestTypeHint.INT_CONST"></a>
 
-#### INT_CONST
+#### INT\_CONST
 
 (int32): Get Int Const
 

@@ -19,7 +19,7 @@ Cached Anim Transition Data
 
 <a id="unreal.CachedAnimTransitionData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(state_machine_name: Name = "None",
@@ -29,7 +29,7 @@ def __init__(state_machine_name: Name = "None",
 
 <a id="unreal.CachedAnimTransitionData.state_machine_name"></a>
 
-#### state_machine_name
+#### state\_machine\_name
 
 ```python
 @property
@@ -40,7 +40,7 @@ def state_machine_name() -> Name
 
 <a id="unreal.CachedAnimTransitionData.from_state_name"></a>
 
-#### from_state_name
+#### from\_state\_name
 
 ```python
 @property
@@ -51,7 +51,7 @@ def from_state_name() -> Name
 
 <a id="unreal.CachedAnimTransitionData.to_state_name"></a>
 
-#### to_state_name
+#### to\_state\_name
 
 ```python
 @property

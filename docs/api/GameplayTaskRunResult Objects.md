@@ -25,19 +25,19 @@ EGameplay Task Run Result
 
 <a id="unreal.GameplayTaskRunResult.SUCCESS_PAUSED"></a>
 
-#### SUCCESS_PAUSED
+#### SUCCESS\_PAUSED
 
 2: Successfully registered for running, but currently paused due to higher priority tasks running
 
 <a id="unreal.GameplayTaskRunResult.SUCCESS_ACTIVE"></a>
 
-#### SUCCESS_ACTIVE
+#### SUCCESS\_ACTIVE
 
 3: Successfully activated
 
 <a id="unreal.GameplayTaskRunResult.SUCCESS_FINISHED"></a>
 
-#### SUCCESS_FINISHED
+#### SUCCESS\_FINISHED
 
 4: Successfully activated, but finished instantly
 

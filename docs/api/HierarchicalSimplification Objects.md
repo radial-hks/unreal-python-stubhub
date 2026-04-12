@@ -31,7 +31,7 @@ Hierarchical Simplification
 
 <a id="unreal.HierarchicalSimplification.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -39,7 +39,7 @@ def __init__() -> None
 
 <a id="unreal.HierarchicalSimplification.simplify_mesh"></a>
 
-#### simplify_mesh
+#### simplify\_mesh
 
 ```python
 @property
@@ -51,7 +51,7 @@ deprecated: Property 'bSimplifyMesh' is deprecated.
 
 <a id="unreal.HierarchicalSimplification.simplify_mesh"></a>
 
-#### simplify_mesh
+#### simplify\_mesh
 
 ```python
 @simplify_mesh.setter

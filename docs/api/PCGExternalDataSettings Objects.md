@@ -34,7 +34,7 @@ Base class for external data input settings
 
 <a id="unreal.PCGExternalDataSettings.attribute_mapping"></a>
 
-#### attribute_mapping
+#### attribute\_mapping
 
 ```python
 @property
@@ -45,7 +45,7 @@ def attribute_mapping() -> Map[str, PCGAttributePropertyInputSelector]
 
 <a id="unreal.PCGExternalDataSettings.attribute_mapping"></a>
 
-#### attribute_mapping
+#### attribute\_mapping
 
 ```python
 @attribute_mapping.setter

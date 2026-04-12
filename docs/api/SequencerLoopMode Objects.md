@@ -13,19 +13,19 @@ ESequencer Loop Mode
 
 <a id="unreal.SequencerLoopMode.SLM_NO_LOOP"></a>
 
-#### SLM_NO_LOOP
+#### SLM\_NO\_LOOP
 
 0: No Looping.
 
 <a id="unreal.SequencerLoopMode.SLM_LOOP"></a>
 
-#### SLM_LOOP
+#### SLM\_LOOP
 
 1: Loop Playback Range.
 
 <a id="unreal.SequencerLoopMode.SLM_LOOP_SELECTION_RANGE"></a>
 
-#### SLM_LOOP_SELECTION_RANGE
+#### SLM\_LOOP\_SELECTION\_RANGE
 
 2: Loop Selection Range.
 

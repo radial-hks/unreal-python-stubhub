@@ -17,7 +17,7 @@ Reference to an editor collection of assets. This allows an editor-only picker U
 
 <a id="unreal.CollectionReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(collection_name: Name = "None") -> None
@@ -25,7 +25,7 @@ def __init__(collection_name: Name = "None") -> None
 
 <a id="unreal.CollectionReference.collection_name"></a>
 
-#### collection_name
+#### collection\_name
 
 ```python
 @property
@@ -36,7 +36,7 @@ def collection_name() -> Name
 
 <a id="unreal.CollectionReference.collection_name"></a>
 
-#### collection_name
+#### collection\_name
 
 ```python
 @collection_name.setter

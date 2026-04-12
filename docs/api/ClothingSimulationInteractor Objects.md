@@ -17,7 +17,7 @@ guaranteed to be a safe place to access this data.
 
 <a id="unreal.ClothingSimulationInteractor.set_num_substeps"></a>
 
-#### set_num_substeps
+#### set\_num\_substeps
 
 ```python
 def set_num_substeps(num_substeps: int = 1) -> None
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.ClothingSimulationInteractor.set_num_iterations"></a>
 
-#### set_num_iterations
+#### set\_num\_iterations
 
 ```python
 def set_num_iterations(num_iterations: int = 1) -> None
@@ -45,7 +45,7 @@ Args:
 
 <a id="unreal.ClothingSimulationInteractor.set_max_num_iterations"></a>
 
-#### set_max_num_iterations
+#### set\_max\_num\_iterations
 
 ```python
 def set_max_num_iterations(max_num_iterations: int = 10) -> None
@@ -59,7 +59,7 @@ Args:
 
 <a id="unreal.ClothingSimulationInteractor.set_anim_drive_spring_stiffness"></a>
 
-#### set_anim_drive_spring_stiffness
+#### set\_anim\_drive\_spring\_stiffness
 
 ```python
 def set_anim_drive_spring_stiffness(stiffness: float) -> None
@@ -73,7 +73,7 @@ Args:
 
 <a id="unreal.ClothingSimulationInteractor.physics_asset_updated"></a>
 
-#### physics_asset_updated
+#### physics\_asset\_updated
 
 ```python
 def physics_asset_updated() -> None
@@ -84,7 +84,7 @@ Called to update collision status without restarting the simulation.
 
 <a id="unreal.ClothingSimulationInteractor.get_simulation_time"></a>
 
-#### get_simulation_time
+#### get\_simulation\_time
 
 ```python
 def get_simulation_time() -> float
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.ClothingSimulationInteractor.get_num_substeps"></a>
 
-#### get_num_substeps
+#### get\_num\_substeps
 
 ```python
 def get_num_substeps() -> int
@@ -113,7 +113,7 @@ Returns:
 
 <a id="unreal.ClothingSimulationInteractor.get_num_kinematic_particles"></a>
 
-#### get_num_kinematic_particles
+#### get\_num\_kinematic\_particles
 
 ```python
 def get_num_kinematic_particles() -> int
@@ -127,7 +127,7 @@ Returns:
 
 <a id="unreal.ClothingSimulationInteractor.get_num_iterations"></a>
 
-#### get_num_iterations
+#### get\_num\_iterations
 
 ```python
 def get_num_iterations() -> int
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.ClothingSimulationInteractor.get_num_dynamic_particles"></a>
 
-#### get_num_dynamic_particles
+#### get\_num\_dynamic\_particles
 
 ```python
 def get_num_dynamic_particles() -> int
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.ClothingSimulationInteractor.get_num_cloths"></a>
 
-#### get_num_cloths
+#### get\_num\_cloths
 
 ```python
 def get_num_cloths() -> int
@@ -170,7 +170,7 @@ Returns:
 
 <a id="unreal.ClothingSimulationInteractor.get_clothing_interactor"></a>
 
-#### get_clothing_interactor
+#### get\_clothing\_interactor
 
 ```python
 def get_clothing_interactor(clothing_asset_name: str) -> ClothingInteractor
@@ -187,7 +187,7 @@ Returns:
 
 <a id="unreal.ClothingSimulationInteractor.enable_gravity_override"></a>
 
-#### enable_gravity_override
+#### enable\_gravity\_override
 
 ```python
 def enable_gravity_override(vector: Vector) -> None
@@ -201,7 +201,7 @@ Args:
 
 <a id="unreal.ClothingSimulationInteractor.disable_gravity_override"></a>
 
-#### disable_gravity_override
+#### disable\_gravity\_override
 
 ```python
 def disable_gravity_override() -> None
@@ -212,7 +212,7 @@ Disable any currently set gravity override.
 
 <a id="unreal.ClothingSimulationInteractor.cloth_config_updated"></a>
 
-#### cloth_config_updated
+#### cloth\_config\_updated
 
 ```python
 def cloth_config_updated() -> None

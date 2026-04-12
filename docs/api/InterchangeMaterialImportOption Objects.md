@@ -14,13 +14,13 @@ EInterchange Material Import Option
 
 <a id="unreal.InterchangeMaterialImportOption.IMPORT_AS_MATERIALS"></a>
 
-#### IMPORT_AS_MATERIALS
+#### IMPORT\_AS\_MATERIALS
 
 0: Import all materials from the source as material assets.
 
 <a id="unreal.InterchangeMaterialImportOption.IMPORT_AS_MATERIAL_INSTANCES"></a>
 
-#### IMPORT_AS_MATERIAL_INSTANCES
+#### IMPORT\_AS\_MATERIAL\_INSTANCES
 
 1: Import all materials from the source as material instance assets.
 

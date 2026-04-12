@@ -13,19 +13,19 @@ ParticleSystemLODMethod
 
 <a id="unreal.ParticleSystemLODMethod.PARTICLESYSTEMLODMETHOD_AUTOMATIC"></a>
 
-#### PARTICLESYSTEMLODMETHOD_AUTOMATIC
+#### PARTICLESYSTEMLODMETHOD\_AUTOMATIC
 
 0: Automatically set the LOD level, checking every LODDistanceCheckTime seconds.
 
 <a id="unreal.ParticleSystemLODMethod.PARTICLESYSTEMLODMETHOD_DIRECT_SET"></a>
 
-#### PARTICLESYSTEMLODMETHOD_DIRECT_SET
+#### PARTICLESYSTEMLODMETHOD\_DIRECT\_SET
 
 1: LOD level is directly set by the game code.
 
 <a id="unreal.ParticleSystemLODMethod.PARTICLESYSTEMLODMETHOD_ACTIVATE_AUTOMATIC"></a>
 
-#### PARTICLESYSTEMLODMETHOD_ACTIVATE_AUTOMATIC
+#### PARTICLESYSTEMLODMETHOD\_ACTIVATE\_AUTOMATIC
 
 2: LOD level is determined at Activation time, then left alone unless directly set by game code.
 

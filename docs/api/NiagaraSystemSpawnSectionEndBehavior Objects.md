@@ -14,7 +14,7 @@ Defines options for system life cycle for the time after the section.
 
 <a id="unreal.NiagaraSystemSpawnSectionEndBehavior.SET_SYSTEM_INACTIVE"></a>
 
-#### SET_SYSTEM_INACTIVE
+#### SET\_SYSTEM\_INACTIVE
 
 0: / When the section ends the system is set to inactive which stops spawning but lets existing particles simulate until death.
 

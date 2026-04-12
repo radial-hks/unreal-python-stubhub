@@ -143,7 +143,7 @@ An instance of a piece of 2D terrain in the level
 
 <a id="unreal.PaperTerrainActor.render_component"></a>
 
-#### render_component
+#### render\_component
 
 ```python
 @property

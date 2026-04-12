@@ -30,7 +30,7 @@ Offer entry for display from online store
 
 <a id="unreal.OnlineProxyStoreOffer.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -53,7 +53,7 @@ def __init__(
 
 <a id="unreal.OnlineProxyStoreOffer.offer_id"></a>
 
-#### offer_id
+#### offer\_id
 
 ```python
 @property
@@ -86,7 +86,7 @@ def description() -> Text
 
 <a id="unreal.OnlineProxyStoreOffer.long_description"></a>
 
-#### long_description
+#### long\_description
 
 ```python
 @property
@@ -97,7 +97,7 @@ def long_description() -> Text
 
 <a id="unreal.OnlineProxyStoreOffer.regular_price_text"></a>
 
-#### regular_price_text
+#### regular\_price\_text
 
 ```python
 @property
@@ -108,7 +108,7 @@ def regular_price_text() -> Text
 
 <a id="unreal.OnlineProxyStoreOffer.regular_price"></a>
 
-#### regular_price
+#### regular\_price
 
 ```python
 @property
@@ -119,7 +119,7 @@ def regular_price() -> int
 
 <a id="unreal.OnlineProxyStoreOffer.price_text"></a>
 
-#### price_text
+#### price\_text
 
 ```python
 @property
@@ -130,7 +130,7 @@ def price_text() -> Text
 
 <a id="unreal.OnlineProxyStoreOffer.numeric_price"></a>
 
-#### numeric_price
+#### numeric\_price
 
 ```python
 @property
@@ -141,7 +141,7 @@ def numeric_price() -> int
 
 <a id="unreal.OnlineProxyStoreOffer.currency_code"></a>
 
-#### currency_code
+#### currency\_code
 
 ```python
 @property
@@ -152,7 +152,7 @@ def currency_code() -> str
 
 <a id="unreal.OnlineProxyStoreOffer.release_date"></a>
 
-#### release_date
+#### release\_date
 
 ```python
 @property
@@ -163,7 +163,7 @@ def release_date() -> DateTime
 
 <a id="unreal.OnlineProxyStoreOffer.expiration_date"></a>
 
-#### expiration_date
+#### expiration\_date
 
 ```python
 @property
@@ -174,7 +174,7 @@ def expiration_date() -> DateTime
 
 <a id="unreal.OnlineProxyStoreOffer.discount_type"></a>
 
-#### discount_type
+#### discount\_type
 
 ```python
 @property
@@ -185,7 +185,7 @@ def discount_type() -> OnlineProxyStoreOfferDiscountType
 
 <a id="unreal.OnlineProxyStoreOffer.dynamic_fields"></a>
 
-#### dynamic_fields
+#### dynamic\_fields
 
 ```python
 @property

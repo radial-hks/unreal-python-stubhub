@@ -21,7 +21,7 @@ Settings to control the triangulation of simple collision primitives -- used for
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sphere_steps_per_side: int = 0,
@@ -32,7 +32,7 @@ def __init__(sphere_steps_per_side: int = 0,
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.sphere_steps_per_side"></a>
 
-#### sphere_steps_per_side
+#### sphere\_steps\_per\_side
 
 ```python
 @property
@@ -43,7 +43,7 @@ def sphere_steps_per_side() -> int
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.sphere_steps_per_side"></a>
 
-#### sphere_steps_per_side
+#### sphere\_steps\_per\_side
 
 ```python
 @sphere_steps_per_side.setter
@@ -52,7 +52,7 @@ def sphere_steps_per_side(value: int) -> None
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.capsule_hemisphere_steps"></a>
 
-#### capsule_hemisphere_steps
+#### capsule\_hemisphere\_steps
 
 ```python
 @property
@@ -63,7 +63,7 @@ def capsule_hemisphere_steps() -> int
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.capsule_hemisphere_steps"></a>
 
-#### capsule_hemisphere_steps
+#### capsule\_hemisphere\_steps
 
 ```python
 @capsule_hemisphere_steps.setter
@@ -72,7 +72,7 @@ def capsule_hemisphere_steps(value: int) -> None
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.capsule_circle_steps"></a>
 
-#### capsule_circle_steps
+#### capsule\_circle\_steps
 
 ```python
 @property
@@ -83,7 +83,7 @@ def capsule_circle_steps() -> int
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.capsule_circle_steps"></a>
 
-#### capsule_circle_steps
+#### capsule\_circle\_steps
 
 ```python
 @capsule_circle_steps.setter
@@ -92,7 +92,7 @@ def capsule_circle_steps(value: int) -> None
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.approximate_level_sets_with_cubes"></a>
 
-#### approximate_level_sets_with_cubes
+#### approximate\_level\_sets\_with\_cubes
 
 ```python
 @property
@@ -103,7 +103,7 @@ def approximate_level_sets_with_cubes() -> bool
 
 <a id="unreal.GeometryScriptSimpleCollisionTriangulationOptions.approximate_level_sets_with_cubes"></a>
 
-#### approximate_level_sets_with_cubes
+#### approximate\_level\_sets\_with\_cubes
 
 ```python
 @approximate_level_sets_with_cubes.setter

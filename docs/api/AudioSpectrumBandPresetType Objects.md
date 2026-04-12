@@ -13,13 +13,13 @@ EAudio Spectrum Band Preset Type
 
 <a id="unreal.AudioSpectrumBandPresetType.KICK_DRUM"></a>
 
-#### KICK_DRUM
+#### KICK\_DRUM
 
 0: Band which contains frequencies generally related to kick drums.
 
 <a id="unreal.AudioSpectrumBandPresetType.SNARE_DRUM"></a>
 
-#### SNARE_DRUM
+#### SNARE\_DRUM
 
 1: Band which contains frequencies generally related to snare drums.
 

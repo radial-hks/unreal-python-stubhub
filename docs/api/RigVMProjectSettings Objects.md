@@ -18,7 +18,7 @@ Rig VMProject Settings
 
 <a id="unreal.RigVMProjectSettings.get_tag"></a>
 
-#### get_tag
+#### get\_tag
 
 ```python
 def get_tag(tag_name: Name) -> RigVMTag

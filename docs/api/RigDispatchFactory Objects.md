@@ -14,7 +14,7 @@ Base class for all rig dispatch factories
 
 <a id="unreal.RigDispatchFactory.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

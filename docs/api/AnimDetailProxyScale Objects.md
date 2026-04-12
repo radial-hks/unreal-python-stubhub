@@ -20,7 +20,7 @@ Anim Detail Proxy Scale
 
 <a id="unreal.AnimDetailProxyScale.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sx: float = 0.000000,

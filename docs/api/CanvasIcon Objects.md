@@ -21,7 +21,7 @@ Holds texture information with UV coordinates as well.
 
 <a id="unreal.CanvasIcon.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(texture: Texture = None,

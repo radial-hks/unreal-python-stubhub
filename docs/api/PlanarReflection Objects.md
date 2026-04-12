@@ -143,7 +143,7 @@ Planar Reflection
 
 <a id="unreal.PlanarReflection.planar_reflection_component"></a>
 
-#### planar_reflection_component
+#### planar\_reflection\_component
 
 ```python
 @property
@@ -154,7 +154,7 @@ def planar_reflection_component() -> PlanarReflectionComponent
 
 <a id="unreal.PlanarReflection.on_interp_toggle"></a>
 
-#### on_interp_toggle
+#### on\_interp\_toggle
 
 ```python
 def on_interp_toggle(enable: bool) -> None

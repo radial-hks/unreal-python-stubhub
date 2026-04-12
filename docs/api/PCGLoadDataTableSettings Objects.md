@@ -37,7 +37,7 @@ PCGLoad Data Table Settings
 
 <a id="unreal.PCGLoadDataTableSettings.data_table"></a>
 
-#### data_table
+#### data\_table
 
 ```python
 @property
@@ -48,7 +48,7 @@ def data_table() -> DataTable
 
 <a id="unreal.PCGLoadDataTableSettings.data_table"></a>
 
-#### data_table
+#### data\_table
 
 ```python
 @data_table.setter
@@ -57,7 +57,7 @@ def data_table(value: DataTable) -> None
 
 <a id="unreal.PCGLoadDataTableSettings.output_type"></a>
 
-#### output_type
+#### output\_type
 
 ```python
 @property
@@ -68,7 +68,7 @@ def output_type() -> PCGExclusiveDataType
 
 <a id="unreal.PCGLoadDataTableSettings.output_type"></a>
 
-#### output_type
+#### output\_type
 
 ```python
 @output_type.setter
@@ -77,7 +77,7 @@ def output_type(value: PCGExclusiveDataType) -> None
 
 <a id="unreal.PCGLoadDataTableSettings.synchronous_load"></a>
 
-#### synchronous_load
+#### synchronous\_load
 
 ```python
 @property
@@ -88,7 +88,7 @@ def synchronous_load() -> bool
 
 <a id="unreal.PCGLoadDataTableSettings.synchronous_load"></a>
 
-#### synchronous_load
+#### synchronous\_load
 
 ```python
 @synchronous_load.setter

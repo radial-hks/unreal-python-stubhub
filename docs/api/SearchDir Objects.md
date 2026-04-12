@@ -14,13 +14,13 @@ note: Mirrored from Engine\Source\Runtime\Core\Public\Containers\UnrealString.h
 
 <a id="unreal.SearchDir.FROM_START"></a>
 
-#### FROM_START
+#### FROM\_START
 
 0
 
 <a id="unreal.SearchDir.FROM_END"></a>
 
-#### FROM_END
+#### FROM\_END
 
 1
 

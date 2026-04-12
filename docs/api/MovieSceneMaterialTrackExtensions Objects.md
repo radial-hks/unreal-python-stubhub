@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto UMovieSceneMater
 
 <a id="unreal.MovieSceneMaterialTrackExtensions.set_material_info"></a>
 
-#### set_material_info
+#### set\_material\_info
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.MovieSceneMaterialTrackExtensions.set_material_index"></a>
 
-#### set_material_index
+#### set\_material\_index
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.MovieSceneMaterialTrackExtensions.get_material_info"></a>
 
-#### get_material_info
+#### get\_material\_info
 
 ```python
 @classmethod
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.MovieSceneMaterialTrackExtensions.get_material_index"></a>
 
-#### get_material_index
+#### get\_material\_index
 
 ```python
 @classmethod

@@ -53,7 +53,7 @@ vertically.
 
 <a id="unreal.VerticalBox.add_child_to_vertical_box"></a>
 
-#### add_child_to_vertical_box
+#### add\_child\_to\_vertical\_box
 
 ```python
 def add_child_to_vertical_box(content: Widget) -> VerticalBoxSlot
@@ -70,7 +70,7 @@ Returns:
 
 <a id="unreal.VerticalBox.add_child_vertical_box"></a>
 
-#### add_child_vertical_box
+#### add\_child\_vertical\_box
 
 ```python
 def add_child_vertical_box(content: Widget) -> VerticalBoxSlot

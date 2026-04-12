@@ -13,7 +13,7 @@ Base class for all mouse and keyevents.
 
 <a id="unreal.InputEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

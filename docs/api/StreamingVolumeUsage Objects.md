@@ -13,31 +13,31 @@ Enum for different usage cases of level streaming volumes.
 
 <a id="unreal.StreamingVolumeUsage.SVB_LOADING"></a>
 
-#### SVB_LOADING
+#### SVB\_LOADING
 
 0
 
 <a id="unreal.StreamingVolumeUsage.SVB_LOADING_AND_VISIBILITY"></a>
 
-#### SVB_LOADING_AND_VISIBILITY
+#### SVB\_LOADING\_AND\_VISIBILITY
 
 1
 
 <a id="unreal.StreamingVolumeUsage.SVB_VISIBILITY_BLOCKING_ON_LOAD"></a>
 
-#### SVB_VISIBILITY_BLOCKING_ON_LOAD
+#### SVB\_VISIBILITY\_BLOCKING\_ON\_LOAD
 
 2
 
 <a id="unreal.StreamingVolumeUsage.SVB_BLOCKING_ON_LOAD"></a>
 
-#### SVB_BLOCKING_ON_LOAD
+#### SVB\_BLOCKING\_ON\_LOAD
 
 3
 
 <a id="unreal.StreamingVolumeUsage.SVB_LOADING_NOT_VISIBLE"></a>
 
-#### SVB_LOADING_NOT_VISIBLE
+#### SVB\_LOADING\_NOT\_VISIBLE
 
 4
 

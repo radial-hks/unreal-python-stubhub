@@ -19,7 +19,7 @@ Control Rig Rig Hierarchy Drag and Drop Context
 
 <a id="unreal.ControlRigRigHierarchyDragAndDropContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -30,7 +30,7 @@ def __init__(
 
 <a id="unreal.ControlRigRigHierarchyDragAndDropContext.dragged_element_keys"></a>
 
-#### dragged_element_keys
+#### dragged\_element\_keys
 
 ```python
 @property
@@ -41,7 +41,7 @@ def dragged_element_keys() -> Array[RigElementKey]
 
 <a id="unreal.ControlRigRigHierarchyDragAndDropContext.target_element_key"></a>
 
-#### target_element_key
+#### target\_element\_key
 
 ```python
 @property

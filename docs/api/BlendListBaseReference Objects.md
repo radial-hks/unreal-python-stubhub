@@ -13,7 +13,7 @@ Blend List Base Reference
 
 <a id="unreal.BlendListBaseReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

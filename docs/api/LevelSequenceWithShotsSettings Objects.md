@@ -24,7 +24,7 @@ Level Sequence With Shots Settings.
 
 <a id="unreal.LevelSequenceWithShotsSettings.sub_sequence_names"></a>
 
-#### sub_sequence_names
+#### sub\_sequence\_names
 
 ```python
 @property
@@ -35,11 +35,11 @@ def sub_sequence_names() -> Array[Name]
 
 <a id="unreal.LevelSequenceWithShotsSettings.sub_sequence_names"></a>
 
-#### sub_sequence_names
+#### sub\_sequence\_names
 
 ```python
 @sub_sequence_names.setter
 def sub_sequence_names(value: Array[Name]) -> None
 ```
 
-<a id="unreal.MediaPlate"></a>
+<a id="unreal.AnimLayerWeightProxy"></a>

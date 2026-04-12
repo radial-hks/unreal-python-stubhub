@@ -19,37 +19,37 @@ The transform component (attribute) to read from
 
 <a id="unreal.ComponentType.TRANSLATION_X"></a>
 
-#### TRANSLATION_X
+#### TRANSLATION\_X
 
 1
 
 <a id="unreal.ComponentType.TRANSLATION_Y"></a>
 
-#### TRANSLATION_Y
+#### TRANSLATION\_Y
 
 2
 
 <a id="unreal.ComponentType.TRANSLATION_Z"></a>
 
-#### TRANSLATION_Z
+#### TRANSLATION\_Z
 
 3
 
 <a id="unreal.ComponentType.ROTATION_X"></a>
 
-#### ROTATION_X
+#### ROTATION\_X
 
 4
 
 <a id="unreal.ComponentType.ROTATION_Y"></a>
 
-#### ROTATION_Y
+#### ROTATION\_Y
 
 5
 
 <a id="unreal.ComponentType.ROTATION_Z"></a>
 
-#### ROTATION_Z
+#### ROTATION\_Z
 
 6
 
@@ -61,19 +61,19 @@ The transform component (attribute) to read from
 
 <a id="unreal.ComponentType.SCALE_X"></a>
 
-#### SCALE_X
+#### SCALE\_X
 
 8
 
 <a id="unreal.ComponentType.SCALE_Y"></a>
 
-#### SCALE_Y
+#### SCALE\_Y
 
 9
 
 <a id="unreal.ComponentType.SCALE_Z"></a>
 
-#### SCALE_Z
+#### SCALE\_Z
 
 10
 

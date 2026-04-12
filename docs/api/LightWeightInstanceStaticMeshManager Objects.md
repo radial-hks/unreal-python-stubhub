@@ -145,7 +145,7 @@ Light Weight Instance Static Mesh Manager
 
 <a id="unreal.LightWeightInstanceStaticMeshManager.static_mesh"></a>
 
-#### static_mesh
+#### static\_mesh
 
 ```python
 @property
@@ -156,7 +156,7 @@ def static_mesh() -> StaticMesh
 
 <a id="unreal.LightWeightInstanceStaticMeshManager.ism_component"></a>
 
-#### ism_component
+#### ism\_component
 
 ```python
 @property

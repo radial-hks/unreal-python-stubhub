@@ -13,13 +13,13 @@ EVolumetric Cloud Tracing Max Distance Mode
 
 <a id="unreal.VolumetricCloudTracingMaxDistanceMode.DISTANCE_FROM_CLOUD_LAYER_ENTRY_POINT"></a>
 
-#### DISTANCE_FROM_CLOUD_LAYER_ENTRY_POINT
+#### DISTANCE\_FROM\_CLOUD\_LAYER\_ENTRY\_POINT
 
 0
 
 <a id="unreal.VolumetricCloudTracingMaxDistanceMode.DISTANCE_FROM_POINT_OF_VIEW"></a>
 
-#### DISTANCE_FROM_POINT_OF_VIEW
+#### DISTANCE\_FROM\_POINT\_OF\_VIEW
 
 1
 

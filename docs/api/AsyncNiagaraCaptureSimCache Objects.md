@@ -18,7 +18,7 @@ Async Niagara Capture Sim Cache
 
 <a id="unreal.AsyncNiagaraCaptureSimCache.capture_complete"></a>
 
-#### capture_complete
+#### capture\_complete
 
 ```python
 @property
@@ -29,7 +29,7 @@ def capture_complete() -> OnCaptureComplete
 
 <a id="unreal.AsyncNiagaraCaptureSimCache.capture_complete"></a>
 
-#### capture_complete
+#### capture\_complete
 
 ```python
 @capture_complete.setter

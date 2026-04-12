@@ -13,7 +13,7 @@ Enumerates tiling options for image drawing.
 
 <a id="unreal.SlateBrushTileType.NO_TILE"></a>
 
-#### NO_TILE
+#### NO\_TILE
 
 0: Just stretch
 

@@ -21,7 +21,7 @@ Geometry Script Degenerate Triangle Options
 
 <a id="unreal.GeometryScriptDegenerateTriangleOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mode: GeometryScriptRepairMeshMode = GeometryScriptRepairMeshMode.
@@ -53,7 +53,7 @@ def mode(value: GeometryScriptRepairMeshMode) -> None
 
 <a id="unreal.GeometryScriptDegenerateTriangleOptions.min_triangle_area"></a>
 
-#### min_triangle_area
+#### min\_triangle\_area
 
 ```python
 @property
@@ -64,7 +64,7 @@ def min_triangle_area() -> float
 
 <a id="unreal.GeometryScriptDegenerateTriangleOptions.min_triangle_area"></a>
 
-#### min_triangle_area
+#### min\_triangle\_area
 
 ```python
 @min_triangle_area.setter
@@ -73,7 +73,7 @@ def min_triangle_area(value: float) -> None
 
 <a id="unreal.GeometryScriptDegenerateTriangleOptions.min_edge_length"></a>
 
-#### min_edge_length
+#### min\_edge\_length
 
 ```python
 @property
@@ -84,7 +84,7 @@ def min_edge_length() -> float
 
 <a id="unreal.GeometryScriptDegenerateTriangleOptions.min_edge_length"></a>
 
-#### min_edge_length
+#### min\_edge\_length
 
 ```python
 @min_edge_length.setter
@@ -93,7 +93,7 @@ def min_edge_length(value: float) -> None
 
 <a id="unreal.GeometryScriptDegenerateTriangleOptions.compact_on_completion"></a>
 
-#### compact_on_completion
+#### compact\_on\_completion
 
 ```python
 @property
@@ -104,7 +104,7 @@ def compact_on_completion() -> bool
 
 <a id="unreal.GeometryScriptDegenerateTriangleOptions.compact_on_completion"></a>
 
-#### compact_on_completion
+#### compact\_on\_completion
 
 ```python
 @compact_on_completion.setter

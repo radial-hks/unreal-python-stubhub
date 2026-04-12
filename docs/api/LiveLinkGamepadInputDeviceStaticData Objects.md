@@ -17,7 +17,7 @@ Struct for static Gamepad Input Device data
 
 <a id="unreal.LiveLinkGamepadInputDeviceStaticData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(property_names: Array[Name] = []) -> None

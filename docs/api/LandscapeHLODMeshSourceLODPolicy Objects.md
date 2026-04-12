@@ -13,19 +13,19 @@ ELandscape HLODMesh Source LODPolicy
 
 <a id="unreal.LandscapeHLODMeshSourceLODPolicy.AUTOMATIC_LOD"></a>
 
-#### AUTOMATIC_LOD
+#### AUTOMATIC\_LOD
 
 0: Automatic LOD selection, based on the expected HLOD draw distance and the landscape LOD Distribution settings.
 
 <a id="unreal.LandscapeHLODMeshSourceLODPolicy.SPECIFIC_LOD"></a>
 
-#### SPECIFIC_LOD
+#### SPECIFIC\_LOD
 
 1: User specified landscape LOD.
 
 <a id="unreal.LandscapeHLODMeshSourceLODPolicy.LOWEST_DETAIL_LOD"></a>
 
-#### LOWEST_DETAIL_LOD
+#### LOWEST\_DETAIL\_LOD
 
 2: Use the lowest detailed LOD of this landscape.
 

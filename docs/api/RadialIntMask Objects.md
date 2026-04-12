@@ -74,7 +74,7 @@ def position(value: Vector) -> None
 
 <a id="unreal.RadialIntMask.interior_value"></a>
 
-#### interior_value
+#### interior\_value
 
 ```python
 @property
@@ -85,7 +85,7 @@ def interior_value() -> int
 
 <a id="unreal.RadialIntMask.interior_value"></a>
 
-#### interior_value
+#### interior\_value
 
 ```python
 @interior_value.setter
@@ -94,7 +94,7 @@ def interior_value(value: int) -> None
 
 <a id="unreal.RadialIntMask.exterior_value"></a>
 
-#### exterior_value
+#### exterior\_value
 
 ```python
 @property
@@ -105,7 +105,7 @@ def exterior_value() -> int
 
 <a id="unreal.RadialIntMask.exterior_value"></a>
 
-#### exterior_value
+#### exterior\_value
 
 ```python
 @exterior_value.setter
@@ -114,7 +114,7 @@ def exterior_value(value: int) -> None
 
 <a id="unreal.RadialIntMask.set_mask_condition"></a>
 
-#### set_mask_condition
+#### set\_mask\_condition
 
 ```python
 @property
@@ -125,7 +125,7 @@ def set_mask_condition() -> SetMaskConditionType
 
 <a id="unreal.RadialIntMask.set_mask_condition"></a>
 
-#### set_mask_condition
+#### set\_mask\_condition
 
 ```python
 @set_mask_condition.setter
@@ -134,7 +134,7 @@ def set_mask_condition(value: SetMaskConditionType) -> None
 
 <a id="unreal.RadialIntMask.set_radial_int_mask"></a>
 
-#### set_radial_int_mask
+#### set\_radial\_int\_mask
 
 ```python
 def set_radial_int_mask(

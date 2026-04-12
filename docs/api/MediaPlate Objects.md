@@ -144,7 +144,7 @@ MediaPlate is an actor that can play and show media in the world.
 
 <a id="unreal.MediaPlate.media_plate_component"></a>
 
-#### media_plate_component
+#### media\_plate\_component
 
 ```python
 @property
@@ -155,7 +155,7 @@ def media_plate_component() -> MediaPlateComponent
 
 <a id="unreal.MediaPlate.static_mesh_component"></a>
 
-#### static_mesh_component
+#### static\_mesh\_component
 
 ```python
 @property

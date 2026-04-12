@@ -21,7 +21,7 @@ Apply a custom response curve to input values, per axis
 
 <a id="unreal.InputModifierResponseCurveUser.response_x"></a>
 
-#### response_x
+#### response\_x
 
 ```python
 @property
@@ -32,7 +32,7 @@ def response_x() -> CurveFloat
 
 <a id="unreal.InputModifierResponseCurveUser.response_x"></a>
 
-#### response_x
+#### response\_x
 
 ```python
 @response_x.setter
@@ -41,7 +41,7 @@ def response_x(value: CurveFloat) -> None
 
 <a id="unreal.InputModifierResponseCurveUser.response_y"></a>
 
-#### response_y
+#### response\_y
 
 ```python
 @property
@@ -52,7 +52,7 @@ def response_y() -> CurveFloat
 
 <a id="unreal.InputModifierResponseCurveUser.response_y"></a>
 
-#### response_y
+#### response\_y
 
 ```python
 @response_y.setter
@@ -61,7 +61,7 @@ def response_y(value: CurveFloat) -> None
 
 <a id="unreal.InputModifierResponseCurveUser.response_z"></a>
 
-#### response_z
+#### response\_z
 
 ```python
 @property
@@ -72,7 +72,7 @@ def response_z() -> CurveFloat
 
 <a id="unreal.InputModifierResponseCurveUser.response_z"></a>
 
-#### response_z
+#### response\_z
 
 ```python
 @response_z.setter

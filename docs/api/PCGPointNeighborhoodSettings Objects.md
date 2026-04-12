@@ -42,7 +42,7 @@ Computes quantities from nearby neighbor points, such as average density, color,
 
 <a id="unreal.PCGPointNeighborhoodSettings.search_distance"></a>
 
-#### search_distance
+#### search\_distance
 
 ```python
 @property
@@ -53,7 +53,7 @@ def search_distance() -> float
 
 <a id="unreal.PCGPointNeighborhoodSettings.search_distance"></a>
 
-#### search_distance
+#### search\_distance
 
 ```python
 @search_distance.setter
@@ -62,7 +62,7 @@ def search_distance(value: float) -> None
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_distance_to_attribute"></a>
 
-#### set_distance_to_attribute
+#### set\_distance\_to\_attribute
 
 ```python
 @property
@@ -73,7 +73,7 @@ def set_distance_to_attribute() -> bool
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_distance_to_attribute"></a>
 
-#### set_distance_to_attribute
+#### set\_distance\_to\_attribute
 
 ```python
 @set_distance_to_attribute.setter
@@ -82,7 +82,7 @@ def set_distance_to_attribute(value: bool) -> None
 
 <a id="unreal.PCGPointNeighborhoodSettings.distance_attribute"></a>
 
-#### distance_attribute
+#### distance\_attribute
 
 ```python
 @property
@@ -93,7 +93,7 @@ def distance_attribute() -> Name
 
 <a id="unreal.PCGPointNeighborhoodSettings.distance_attribute"></a>
 
-#### distance_attribute
+#### distance\_attribute
 
 ```python
 @distance_attribute.setter
@@ -102,7 +102,7 @@ def distance_attribute(value: Name) -> None
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_average_position_to_attribute"></a>
 
-#### set_average_position_to_attribute
+#### set\_average\_position\_to\_attribute
 
 ```python
 @property
@@ -113,7 +113,7 @@ def set_average_position_to_attribute() -> bool
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_average_position_to_attribute"></a>
 
-#### set_average_position_to_attribute
+#### set\_average\_position\_to\_attribute
 
 ```python
 @set_average_position_to_attribute.setter
@@ -122,7 +122,7 @@ def set_average_position_to_attribute(value: bool) -> None
 
 <a id="unreal.PCGPointNeighborhoodSettings.average_position_attribute"></a>
 
-#### average_position_attribute
+#### average\_position\_attribute
 
 ```python
 @property
@@ -133,7 +133,7 @@ def average_position_attribute() -> Name
 
 <a id="unreal.PCGPointNeighborhoodSettings.average_position_attribute"></a>
 
-#### average_position_attribute
+#### average\_position\_attribute
 
 ```python
 @average_position_attribute.setter
@@ -142,7 +142,7 @@ def average_position_attribute(value: Name) -> None
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_density"></a>
 
-#### set_density
+#### set\_density
 
 ```python
 @property
@@ -153,7 +153,7 @@ def set_density() -> PCGPointNeighborhoodDensityMode
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_density"></a>
 
-#### set_density
+#### set\_density
 
 ```python
 @set_density.setter
@@ -162,7 +162,7 @@ def set_density(value: PCGPointNeighborhoodDensityMode) -> None
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_average_position"></a>
 
-#### set_average_position
+#### set\_average\_position
 
 ```python
 @property
@@ -173,7 +173,7 @@ def set_average_position() -> bool
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_average_position"></a>
 
-#### set_average_position
+#### set\_average\_position
 
 ```python
 @set_average_position.setter
@@ -182,7 +182,7 @@ def set_average_position(value: bool) -> None
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_average_color"></a>
 
-#### set_average_color
+#### set\_average\_color
 
 ```python
 @property
@@ -193,7 +193,7 @@ def set_average_color() -> bool
 
 <a id="unreal.PCGPointNeighborhoodSettings.set_average_color"></a>
 
-#### set_average_color
+#### set\_average\_color
 
 ```python
 @set_average_color.setter
@@ -202,7 +202,7 @@ def set_average_color(value: bool) -> None
 
 <a id="unreal.PCGPointNeighborhoodSettings.weighted_average"></a>
 
-#### weighted_average
+#### weighted\_average
 
 ```python
 @property
@@ -213,7 +213,7 @@ def weighted_average() -> bool
 
 <a id="unreal.PCGPointNeighborhoodSettings.weighted_average"></a>
 
-#### weighted_average
+#### weighted\_average
 
 ```python
 @weighted_average.setter

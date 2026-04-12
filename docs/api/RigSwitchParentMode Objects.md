@@ -20,13 +20,13 @@ ERig Switch Parent Mode
 
 <a id="unreal.RigSwitchParentMode.DEFAULT_PARENT"></a>
 
-#### DEFAULT_PARENT
+#### DEFAULT\_PARENT
 
 1: Switches back to the original / default parent
 
 <a id="unreal.RigSwitchParentMode.PARENT_ITEM"></a>
 
-#### PARENT_ITEM
+#### PARENT\_ITEM
 
 2: Switches the child to the provided parent item
 

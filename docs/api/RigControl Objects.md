@@ -45,7 +45,7 @@ Rig Control
 
 <a id="unreal.RigControl.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -84,7 +84,7 @@ def __init__(name: Name = "None",
 
 <a id="unreal.RigControl.control_type"></a>
 
-#### control_type
+#### control\_type
 
 ```python
 @property
@@ -95,7 +95,7 @@ def control_type() -> RigControlType
 
 <a id="unreal.RigControl.control_type"></a>
 
-#### control_type
+#### control\_type
 
 ```python
 @control_type.setter
@@ -104,7 +104,7 @@ def control_type(value: RigControlType) -> None
 
 <a id="unreal.RigControl.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property
@@ -115,7 +115,7 @@ def display_name() -> Name
 
 <a id="unreal.RigControl.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @display_name.setter
@@ -124,7 +124,7 @@ def display_name(value: Name) -> None
 
 <a id="unreal.RigControl.parent_name"></a>
 
-#### parent_name
+#### parent\_name
 
 ```python
 @property
@@ -135,7 +135,7 @@ def parent_name() -> Name
 
 <a id="unreal.RigControl.parent_index"></a>
 
-#### parent_index
+#### parent\_index
 
 ```python
 @property
@@ -146,7 +146,7 @@ def parent_index() -> int
 
 <a id="unreal.RigControl.space_name"></a>
 
-#### space_name
+#### space\_name
 
 ```python
 @property
@@ -157,7 +157,7 @@ def space_name() -> Name
 
 <a id="unreal.RigControl.space_index"></a>
 
-#### space_index
+#### space\_index
 
 ```python
 @property
@@ -168,7 +168,7 @@ def space_index() -> int
 
 <a id="unreal.RigControl.offset_transform"></a>
 
-#### offset_transform
+#### offset\_transform
 
 ```python
 @property
@@ -180,7 +180,7 @@ to offset a float control by rotating it or translating it.
 
 <a id="unreal.RigControl.offset_transform"></a>
 
-#### offset_transform
+#### offset\_transform
 
 ```python
 @offset_transform.setter
@@ -189,7 +189,7 @@ def offset_transform(value: Transform) -> None
 
 <a id="unreal.RigControl.initial_value"></a>
 
-#### initial_value
+#### initial\_value
 
 ```python
 @property
@@ -212,7 +212,7 @@ def value() -> RigControlValue
 
 <a id="unreal.RigControl.primary_axis"></a>
 
-#### primary_axis
+#### primary\_axis
 
 ```python
 @property
@@ -223,7 +223,7 @@ def primary_axis() -> RigControlAxis
 
 <a id="unreal.RigControl.primary_axis"></a>
 
-#### primary_axis
+#### primary\_axis
 
 ```python
 @primary_axis.setter
@@ -252,7 +252,7 @@ def animatable(value: bool) -> None
 
 <a id="unreal.RigControl.limit_translation"></a>
 
-#### limit_translation
+#### limit\_translation
 
 ```python
 @property
@@ -263,7 +263,7 @@ def limit_translation() -> bool
 
 <a id="unreal.RigControl.limit_translation"></a>
 
-#### limit_translation
+#### limit\_translation
 
 ```python
 @limit_translation.setter
@@ -272,7 +272,7 @@ def limit_translation(value: bool) -> None
 
 <a id="unreal.RigControl.limit_rotation"></a>
 
-#### limit_rotation
+#### limit\_rotation
 
 ```python
 @property
@@ -283,7 +283,7 @@ def limit_rotation() -> bool
 
 <a id="unreal.RigControl.limit_rotation"></a>
 
-#### limit_rotation
+#### limit\_rotation
 
 ```python
 @limit_rotation.setter
@@ -292,7 +292,7 @@ def limit_rotation(value: bool) -> None
 
 <a id="unreal.RigControl.limit_scale"></a>
 
-#### limit_scale
+#### limit\_scale
 
 ```python
 @property
@@ -303,7 +303,7 @@ def limit_scale() -> bool
 
 <a id="unreal.RigControl.limit_scale"></a>
 
-#### limit_scale
+#### limit\_scale
 
 ```python
 @limit_scale.setter
@@ -312,7 +312,7 @@ def limit_scale(value: bool) -> None
 
 <a id="unreal.RigControl.draw_limits"></a>
 
-#### draw_limits
+#### draw\_limits
 
 ```python
 @property
@@ -323,7 +323,7 @@ def draw_limits() -> bool
 
 <a id="unreal.RigControl.draw_limits"></a>
 
-#### draw_limits
+#### draw\_limits
 
 ```python
 @draw_limits.setter
@@ -332,7 +332,7 @@ def draw_limits(value: bool) -> None
 
 <a id="unreal.RigControl.minimum_value"></a>
 
-#### minimum_value
+#### minimum\_value
 
 ```python
 @property
@@ -343,7 +343,7 @@ def minimum_value() -> RigControlValue
 
 <a id="unreal.RigControl.minimum_value"></a>
 
-#### minimum_value
+#### minimum\_value
 
 ```python
 @minimum_value.setter
@@ -352,7 +352,7 @@ def minimum_value(value: RigControlValue) -> None
 
 <a id="unreal.RigControl.maximum_value"></a>
 
-#### maximum_value
+#### maximum\_value
 
 ```python
 @property
@@ -363,7 +363,7 @@ def maximum_value() -> RigControlValue
 
 <a id="unreal.RigControl.maximum_value"></a>
 
-#### maximum_value
+#### maximum\_value
 
 ```python
 @maximum_value.setter
@@ -372,7 +372,7 @@ def maximum_value(value: RigControlValue) -> None
 
 <a id="unreal.RigControl.gizmo_enabled"></a>
 
-#### gizmo_enabled
+#### gizmo\_enabled
 
 ```python
 @property
@@ -383,7 +383,7 @@ def gizmo_enabled() -> bool
 
 <a id="unreal.RigControl.gizmo_enabled"></a>
 
-#### gizmo_enabled
+#### gizmo\_enabled
 
 ```python
 @gizmo_enabled.setter
@@ -392,7 +392,7 @@ def gizmo_enabled(value: bool) -> None
 
 <a id="unreal.RigControl.gizmo_visible"></a>
 
-#### gizmo_visible
+#### gizmo\_visible
 
 ```python
 @property
@@ -403,7 +403,7 @@ def gizmo_visible() -> bool
 
 <a id="unreal.RigControl.gizmo_visible"></a>
 
-#### gizmo_visible
+#### gizmo\_visible
 
 ```python
 @gizmo_visible.setter
@@ -412,7 +412,7 @@ def gizmo_visible(value: bool) -> None
 
 <a id="unreal.RigControl.gizmo_name"></a>
 
-#### gizmo_name
+#### gizmo\_name
 
 ```python
 @property
@@ -423,7 +423,7 @@ def gizmo_name() -> Name
 
 <a id="unreal.RigControl.gizmo_name"></a>
 
-#### gizmo_name
+#### gizmo\_name
 
 ```python
 @gizmo_name.setter
@@ -432,7 +432,7 @@ def gizmo_name(value: Name) -> None
 
 <a id="unreal.RigControl.gizmo_transform"></a>
 
-#### gizmo_transform
+#### gizmo\_transform
 
 ```python
 @property
@@ -443,7 +443,7 @@ def gizmo_transform() -> Transform
 
 <a id="unreal.RigControl.gizmo_transform"></a>
 
-#### gizmo_transform
+#### gizmo\_transform
 
 ```python
 @gizmo_transform.setter
@@ -452,7 +452,7 @@ def gizmo_transform(value: Transform) -> None
 
 <a id="unreal.RigControl.gizmo_color"></a>
 
-#### gizmo_color
+#### gizmo\_color
 
 ```python
 @property
@@ -463,7 +463,7 @@ def gizmo_color() -> LinearColor
 
 <a id="unreal.RigControl.gizmo_color"></a>
 
-#### gizmo_color
+#### gizmo\_color
 
 ```python
 @gizmo_color.setter
@@ -472,7 +472,7 @@ def gizmo_color(value: LinearColor) -> None
 
 <a id="unreal.RigControl.is_transient_control"></a>
 
-#### is_transient_control
+#### is\_transient\_control
 
 ```python
 @property
@@ -483,7 +483,7 @@ def is_transient_control() -> bool
 
 <a id="unreal.RigControl.is_transient_control"></a>
 
-#### is_transient_control
+#### is\_transient\_control
 
 ```python
 @is_transient_control.setter
@@ -492,7 +492,7 @@ def is_transient_control(value: bool) -> None
 
 <a id="unreal.RigControl.control_enum"></a>
 
-#### control_enum
+#### control\_enum
 
 ```python
 @property

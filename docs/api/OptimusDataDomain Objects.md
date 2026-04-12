@@ -32,7 +32,7 @@ A struct to specify the domain range of a resource buffer, as defined by compute
 
 <a id="unreal.OptimusDataDomain.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

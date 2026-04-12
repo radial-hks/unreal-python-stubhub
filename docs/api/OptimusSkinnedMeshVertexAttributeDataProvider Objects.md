@@ -19,7 +19,7 @@ Compute Framework Data Provider for reading skeletal mesh.
 
 <a id="unreal.OptimusSkinnedMeshVertexAttributeDataProvider.skinned_mesh_component"></a>
 
-#### skinned_mesh_component
+#### skinned\_mesh\_component
 
 ```python
 @property
@@ -30,7 +30,7 @@ def skinned_mesh_component() -> SkinnedMeshComponent
 
 <a id="unreal.OptimusSkinnedMeshVertexAttributeDataProvider.skinned_mesh_component"></a>
 
-#### skinned_mesh_component
+#### skinned\_mesh\_component
 
 ```python
 @skinned_mesh_component.setter
@@ -39,7 +39,7 @@ def skinned_mesh_component(value: SkinnedMeshComponent) -> None
 
 <a id="unreal.OptimusSkinnedMeshVertexAttributeDataProvider.attribute_name"></a>
 
-#### attribute_name
+#### attribute\_name
 
 ```python
 @property
@@ -50,7 +50,7 @@ def attribute_name() -> Name
 
 <a id="unreal.OptimusSkinnedMeshVertexAttributeDataProvider.attribute_name"></a>
 
-#### attribute_name
+#### attribute\_name
 
 ```python
 @attribute_name.setter

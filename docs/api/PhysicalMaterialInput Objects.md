@@ -17,7 +17,7 @@ Structure linking a material expression input with a physical material. For use 
 
 <a id="unreal.PhysicalMaterialInput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

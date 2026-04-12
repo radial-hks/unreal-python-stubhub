@@ -14,7 +14,7 @@ ETap Line Mode
 
 <a id="unreal.TapLineMode.SEND_TO_CHANNEL"></a>
 
-#### SEND_TO_CHANNEL
+#### SEND\_TO\_CHANNEL
 
 0: Send tap audio output to a channel directly
 
@@ -30,4 +30,4 @@ ETap Line Mode
 
 2: Disables the tap audio and performs a fadeout
 
-<a id="unreal.PCGDataType"></a>
+<a id="unreal.OptimusDeformerExecutionPhase"></a>

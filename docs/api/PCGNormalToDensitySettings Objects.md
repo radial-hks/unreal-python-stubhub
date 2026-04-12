@@ -97,7 +97,7 @@ def strength(value: float) -> None
 
 <a id="unreal.PCGNormalToDensitySettings.density_mode"></a>
 
-#### density_mode
+#### density\_mode
 
 ```python
 @property
@@ -108,7 +108,7 @@ def density_mode() -> PCGNormalToDensityMode
 
 <a id="unreal.PCGNormalToDensitySettings.density_mode"></a>
 
-#### density_mode
+#### density\_mode
 
 ```python
 @density_mode.setter

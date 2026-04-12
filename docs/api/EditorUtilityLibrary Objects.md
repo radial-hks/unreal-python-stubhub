@@ -13,7 +13,7 @@ Expose editor utility functions to Blutilities
 
 <a id="unreal.EditorUtilityLibrary.sync_browser_to_folders"></a>
 
-#### sync_browser_to_folders
+#### sync\_browser\_to\_folders
 
 ```python
 @classmethod
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.EditorUtilityLibrary.rename_asset"></a>
 
-#### rename_asset
+#### rename\_asset
 
 ```python
 @classmethod
@@ -44,7 +44,7 @@ Args:
 
 <a id="unreal.EditorUtilityLibrary.get_selection_set"></a>
 
-#### get_selection_set
+#### get\_selection\_set
 
 ```python
 @classmethod
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_selection_bounds"></a>
 
-#### get_selection_bounds
+#### get\_selection\_bounds
 
 ```python
 @classmethod
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_selected_path_view_folder_paths"></a>
 
-#### get_selected_path_view_folder_paths
+#### get\_selected\_path\_view\_folder\_paths
 
 ```python
 @classmethod
@@ -95,7 +95,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_selected_folder_paths"></a>
 
-#### get_selected_folder_paths
+#### get\_selected\_folder\_paths
 
 ```python
 @classmethod
@@ -110,7 +110,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_selected_blueprint_classes"></a>
 
-#### get_selected_blueprint_classes
+#### get\_selected\_blueprint\_classes
 
 ```python
 @classmethod
@@ -125,7 +125,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_selected_assets_of_class"></a>
 
-#### get_selected_assets_of_class
+#### get\_selected\_assets\_of\_class
 
 ```python
 @classmethod
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_selected_assets"></a>
 
-#### get_selected_assets
+#### get\_selected\_assets
 
 ```python
 @classmethod
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_selected_asset_data"></a>
 
-#### get_selected_asset_data
+#### get\_selected\_asset\_data
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_current_content_browser_path"></a>
 
-#### get_current_content_browser_path
+#### get\_current\_content\_browser\_path
 
 ```python
 @classmethod
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_current_content_browser_item_path"></a>
 
-#### get_current_content_browser_item_path
+#### get\_current\_content\_browser\_item\_path
 
 ```python
 @classmethod
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.get_actor_reference"></a>
 
-#### get_actor_reference
+#### get\_actor\_reference
 
 ```python
 def get_actor_reference(path_to_actor: str) -> Actor
@@ -223,7 +223,7 @@ Returns:
 
 <a id="unreal.EditorUtilityLibrary.convert_to_editor_utility_widget"></a>
 
-#### convert_to_editor_utility_widget
+#### convert\_to\_editor\_utility\_widget
 
 ```python
 @classmethod

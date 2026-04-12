@@ -13,7 +13,7 @@ called when we finish playing audio, either because it played to completion or b
 
 <a id="unreal.OnAudioFinished.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

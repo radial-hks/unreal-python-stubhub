@@ -37,7 +37,7 @@ PCGBlueprint Settings
 
 <a id="unreal.PCGBlueprintSettings.blueprint_element_type"></a>
 
-#### blueprint_element_type
+#### blueprint\_element\_type
 
 ```python
 @property
@@ -48,7 +48,7 @@ def blueprint_element_type() -> Class
 
 <a id="unreal.PCGBlueprintSettings.blueprint_element_instance"></a>
 
-#### blueprint_element_instance
+#### blueprint\_element\_instance
 
 ```python
 @property
@@ -59,7 +59,7 @@ def blueprint_element_instance() -> PCGBlueprintElement
 
 <a id="unreal.PCGBlueprintSettings.tracked_actor_tags"></a>
 
-#### tracked_actor_tags
+#### tracked\_actor\_tags
 
 ```python
 @property
@@ -70,7 +70,7 @@ def tracked_actor_tags() -> Array[Name]
 
 <a id="unreal.PCGBlueprintSettings.tracked_actor_tags"></a>
 
-#### tracked_actor_tags
+#### tracked\_actor\_tags
 
 ```python
 @tracked_actor_tags.setter
@@ -79,7 +79,7 @@ def tracked_actor_tags(value: Array[Name]) -> None
 
 <a id="unreal.PCGBlueprintSettings.track_actors_only_within_bounds"></a>
 
-#### track_actors_only_within_bounds
+#### track\_actors\_only\_within\_bounds
 
 ```python
 @property
@@ -90,7 +90,7 @@ def track_actors_only_within_bounds() -> bool
 
 <a id="unreal.PCGBlueprintSettings.set_element_type"></a>
 
-#### set_element_type
+#### set\_element\_type
 
 ```python
 def set_element_type(element_type: Class) -> PCGBlueprintElement
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintSettings.get_element_type"></a>
 
-#### get_element_type
+#### get\_element\_type
 
 ```python
 def get_element_type() -> Class

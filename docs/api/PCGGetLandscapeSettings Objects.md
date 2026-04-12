@@ -47,7 +47,7 @@ Builds a collection of landscape data from the selected actors.
 
 <a id="unreal.PCGGetLandscapeSettings.sampling_properties"></a>
 
-#### sampling_properties
+#### sampling\_properties
 
 ```python
 @property
@@ -58,7 +58,7 @@ def sampling_properties() -> PCGLandscapeDataProps
 
 <a id="unreal.PCGGetLandscapeSettings.sampling_properties"></a>
 
-#### sampling_properties
+#### sampling\_properties
 
 ```python
 @sampling_properties.setter

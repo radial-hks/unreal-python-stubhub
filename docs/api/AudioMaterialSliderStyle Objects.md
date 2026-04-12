@@ -25,7 +25,7 @@ Represents the appearance of an Audio Material Slider
 
 <a id="unreal.AudioMaterialSliderStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -62,7 +62,7 @@ def __init__(
 
 <a id="unreal.AudioMaterialSliderStyle.slider_background_color"></a>
 
-#### slider_background_color
+#### slider\_background\_color
 
 ```python
 @property
@@ -73,7 +73,7 @@ def slider_background_color() -> LinearColor
 
 <a id="unreal.AudioMaterialSliderStyle.slider_background_color"></a>
 
-#### slider_background_color
+#### slider\_background\_color
 
 ```python
 @slider_background_color.setter
@@ -82,7 +82,7 @@ def slider_background_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialSliderStyle.slider_background_accent_color"></a>
 
-#### slider_background_accent_color
+#### slider\_background\_accent\_color
 
 ```python
 @property
@@ -93,7 +93,7 @@ def slider_background_accent_color() -> LinearColor
 
 <a id="unreal.AudioMaterialSliderStyle.slider_background_accent_color"></a>
 
-#### slider_background_accent_color
+#### slider\_background\_accent\_color
 
 ```python
 @slider_background_accent_color.setter
@@ -102,7 +102,7 @@ def slider_background_accent_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialSliderStyle.slider_value_main_color"></a>
 
-#### slider_value_main_color
+#### slider\_value\_main\_color
 
 ```python
 @property
@@ -113,7 +113,7 @@ def slider_value_main_color() -> LinearColor
 
 <a id="unreal.AudioMaterialSliderStyle.slider_value_main_color"></a>
 
-#### slider_value_main_color
+#### slider\_value\_main\_color
 
 ```python
 @slider_value_main_color.setter
@@ -122,7 +122,7 @@ def slider_value_main_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialSliderStyle.slider_handle_main_color"></a>
 
-#### slider_handle_main_color
+#### slider\_handle\_main\_color
 
 ```python
 @property
@@ -133,7 +133,7 @@ def slider_handle_main_color() -> LinearColor
 
 <a id="unreal.AudioMaterialSliderStyle.slider_handle_main_color"></a>
 
-#### slider_handle_main_color
+#### slider\_handle\_main\_color
 
 ```python
 @slider_handle_main_color.setter
@@ -142,7 +142,7 @@ def slider_handle_main_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialSliderStyle.slider_handle_outline_color"></a>
 
-#### slider_handle_outline_color
+#### slider\_handle\_outline\_color
 
 ```python
 @property
@@ -153,7 +153,7 @@ def slider_handle_outline_color() -> LinearColor
 
 <a id="unreal.AudioMaterialSliderStyle.slider_handle_outline_color"></a>
 
-#### slider_handle_outline_color
+#### slider\_handle\_outline\_color
 
 ```python
 @slider_handle_outline_color.setter
@@ -162,7 +162,7 @@ def slider_handle_outline_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialSliderStyle.text_box_style"></a>
 
-#### text_box_style
+#### text\_box\_style
 
 ```python
 @property
@@ -173,7 +173,7 @@ def text_box_style() -> AudioTextBoxStyle
 
 <a id="unreal.AudioMaterialSliderStyle.text_box_style"></a>
 
-#### text_box_style
+#### text\_box\_style
 
 ```python
 @text_box_style.setter

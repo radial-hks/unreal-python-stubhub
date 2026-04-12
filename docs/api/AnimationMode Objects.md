@@ -13,19 +13,19 @@ EAnimation Mode
 
 <a id="unreal.AnimationMode.ANIMATION_BLUEPRINT"></a>
 
-#### ANIMATION_BLUEPRINT
+#### ANIMATION\_BLUEPRINT
 
 0
 
 <a id="unreal.AnimationMode.ANIMATION_SINGLE_NODE"></a>
 
-#### ANIMATION_SINGLE_NODE
+#### ANIMATION\_SINGLE\_NODE
 
 1
 
 <a id="unreal.AnimationMode.ANIMATION_CUSTOM_MODE"></a>
 
-#### ANIMATION_CUSTOM_MODE
+#### ANIMATION\_CUSTOM\_MODE
 
 2: This is custom type, engine leaves AnimInstance as it is
 

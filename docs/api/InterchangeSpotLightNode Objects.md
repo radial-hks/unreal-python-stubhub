@@ -14,7 +14,7 @@ Interchange Spot Light Node
 
 <a id="unreal.InterchangeSpotLightNode.set_custom_outer_cone_angle"></a>
 
-#### set_custom_outer_cone_angle
+#### set\_custom\_outer\_cone\_angle
 
 ```python
 def set_custom_outer_cone_angle(attribute_value: float) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeSpotLightNode.set_custom_inner_cone_angle"></a>
 
-#### set_custom_inner_cone_angle
+#### set\_custom\_inner\_cone\_angle
 
 ```python
 def set_custom_inner_cone_angle(attribute_value: float) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeSpotLightNode.get_custom_outer_cone_angle"></a>
 
-#### get_custom_outer_cone_angle
+#### get\_custom\_outer\_cone\_angle
 
 ```python
 def get_custom_outer_cone_angle() -> Optional[float]
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.InterchangeSpotLightNode.get_custom_inner_cone_angle"></a>
 
-#### get_custom_inner_cone_angle
+#### get\_custom\_inner\_cone\_angle
 
 ```python
 def get_custom_inner_cone_angle() -> Optional[float]

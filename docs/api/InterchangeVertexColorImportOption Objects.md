@@ -14,19 +14,19 @@ EInterchange Vertex Color Import Option
 
 <a id="unreal.InterchangeVertexColorImportOption.IVCIO_REPLACE"></a>
 
-#### IVCIO_REPLACE
+#### IVCIO\_REPLACE
 
 0: Import the mesh using the vertex colors from the translated source.
 
 <a id="unreal.InterchangeVertexColorImportOption.IVCIO_IGNORE"></a>
 
-#### IVCIO_IGNORE
+#### IVCIO\_IGNORE
 
 1: Ignore vertex colors from the translated source. In case of a reimport, keep the existing mesh vertex colors.
 
 <a id="unreal.InterchangeVertexColorImportOption.IVCIO_OVERRIDE"></a>
 
-#### IVCIO_OVERRIDE
+#### IVCIO\_OVERRIDE
 
 2: Override all vertex colors with the specified color.
 

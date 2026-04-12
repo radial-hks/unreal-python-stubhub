@@ -13,7 +13,7 @@ Enumerates color vision deficiency types.
 
 <a id="unreal.ColorVisionDeficiency.NORMAL_VISION"></a>
 
-#### NORMAL_VISION
+#### NORMAL\_VISION
 
 0
 

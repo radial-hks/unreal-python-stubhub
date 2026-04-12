@@ -18,7 +18,7 @@ Static Mesh Reduction Settings
 
 <a id="unreal.StaticMeshReductionSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(percent_triangles: float = 0.000000,
@@ -27,7 +27,7 @@ def __init__(percent_triangles: float = 0.000000,
 
 <a id="unreal.StaticMeshReductionSettings.percent_triangles"></a>
 
-#### percent_triangles
+#### percent\_triangles
 
 ```python
 @property
@@ -38,7 +38,7 @@ def percent_triangles() -> float
 
 <a id="unreal.StaticMeshReductionSettings.percent_triangles"></a>
 
-#### percent_triangles
+#### percent\_triangles
 
 ```python
 @percent_triangles.setter
@@ -47,7 +47,7 @@ def percent_triangles(value: float) -> None
 
 <a id="unreal.StaticMeshReductionSettings.screen_size"></a>
 
-#### screen_size
+#### screen\_size
 
 ```python
 @property
@@ -58,7 +58,7 @@ def screen_size() -> float
 
 <a id="unreal.StaticMeshReductionSettings.screen_size"></a>
 
-#### screen_size
+#### screen\_size
 
 ```python
 @screen_size.setter

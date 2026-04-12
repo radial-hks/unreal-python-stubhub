@@ -291,7 +291,7 @@ GeometryCollectionComponent
 
 <a id="unreal.GeometryCollectionComponent.chaos_solver_actor"></a>
 
-#### chaos_solver_actor
+#### chaos\_solver\_actor
 
 ```python
 @property
@@ -302,7 +302,7 @@ def chaos_solver_actor() -> ChaosSolverActor
 
 <a id="unreal.GeometryCollectionComponent.chaos_solver_actor"></a>
 
-#### chaos_solver_actor
+#### chaos\_solver\_actor
 
 ```python
 @chaos_solver_actor.setter
@@ -311,7 +311,7 @@ def chaos_solver_actor(value: ChaosSolverActor) -> None
 
 <a id="unreal.GeometryCollectionComponent.rest_collection"></a>
 
-#### rest_collection
+#### rest\_collection
 
 ```python
 @property
@@ -322,7 +322,7 @@ def rest_collection() -> GeometryCollection
 
 <a id="unreal.GeometryCollectionComponent.initialization_fields"></a>
 
-#### initialization_fields
+#### initialization\_fields
 
 ```python
 @property
@@ -354,7 +354,7 @@ def simulating(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.object_type"></a>
 
-#### object_type
+#### object\_type
 
 ```python
 @property
@@ -365,7 +365,7 @@ def object_type() -> ObjectStateTypeEnum
 
 <a id="unreal.GeometryCollectionComponent.object_type"></a>
 
-#### object_type
+#### object\_type
 
 ```python
 @object_type.setter
@@ -374,7 +374,7 @@ def object_type(value: ObjectStateTypeEnum) -> None
 
 <a id="unreal.GeometryCollectionComponent.gravity_group_index"></a>
 
-#### gravity_group_index
+#### gravity\_group\_index
 
 ```python
 @property
@@ -385,7 +385,7 @@ def gravity_group_index() -> int
 
 <a id="unreal.GeometryCollectionComponent.gravity_group_index"></a>
 
-#### gravity_group_index
+#### gravity\_group\_index
 
 ```python
 @gravity_group_index.setter
@@ -394,7 +394,7 @@ def gravity_group_index(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.one_way_interaction_level"></a>
 
-#### one_way_interaction_level
+#### one\_way\_interaction\_level
 
 ```python
 @property
@@ -406,7 +406,7 @@ Set to -1 to disable (no bodies will have One-Way Interaction enabled)
 
 <a id="unreal.GeometryCollectionComponent.one_way_interaction_level"></a>
 
-#### one_way_interaction_level
+#### one\_way\_interaction\_level
 
 ```python
 @one_way_interaction_level.setter
@@ -415,7 +415,7 @@ def one_way_interaction_level(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.density_from_physics_material"></a>
 
-#### density_from_physics_material
+#### density\_from\_physics\_material
 
 ```python
 @property
@@ -426,7 +426,7 @@ def density_from_physics_material() -> bool
 
 <a id="unreal.GeometryCollectionComponent.density_from_physics_material"></a>
 
-#### density_from_physics_material
+#### density\_from\_physics\_material
 
 ```python
 @density_from_physics_material.setter
@@ -435,7 +435,7 @@ def density_from_physics_material(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.force_motion_blur"></a>
 
-#### force_motion_blur
+#### force\_motion\_blur
 
 ```python
 @property
@@ -446,7 +446,7 @@ def force_motion_blur() -> bool
 
 <a id="unreal.GeometryCollectionComponent.force_motion_blur"></a>
 
-#### force_motion_blur
+#### force\_motion\_blur
 
 ```python
 @force_motion_blur.setter
@@ -455,7 +455,7 @@ def force_motion_blur(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.enable_clustering"></a>
 
-#### enable_clustering
+#### enable\_clustering
 
 ```python
 @property
@@ -466,7 +466,7 @@ def enable_clustering() -> bool
 
 <a id="unreal.GeometryCollectionComponent.enable_clustering"></a>
 
-#### enable_clustering
+#### enable\_clustering
 
 ```python
 @enable_clustering.setter
@@ -475,7 +475,7 @@ def enable_clustering(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.cluster_group_index"></a>
 
-#### cluster_group_index
+#### cluster\_group\_index
 
 ```python
 @property
@@ -486,7 +486,7 @@ def cluster_group_index() -> int
 
 <a id="unreal.GeometryCollectionComponent.cluster_group_index"></a>
 
-#### cluster_group_index
+#### cluster\_group\_index
 
 ```python
 @cluster_group_index.setter
@@ -495,7 +495,7 @@ def cluster_group_index(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.max_cluster_level"></a>
 
-#### max_cluster_level
+#### max\_cluster\_level
 
 ```python
 @property
@@ -506,7 +506,7 @@ def max_cluster_level() -> int
 
 <a id="unreal.GeometryCollectionComponent.max_cluster_level"></a>
 
-#### max_cluster_level
+#### max\_cluster\_level
 
 ```python
 @max_cluster_level.setter
@@ -515,7 +515,7 @@ def max_cluster_level(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.max_simulated_level"></a>
 
-#### max_simulated_level
+#### max\_simulated\_level
 
 ```python
 @property
@@ -532,7 +532,7 @@ def max_simulated_level() -> int
 
 <a id="unreal.GeometryCollectionComponent.max_simulated_level"></a>
 
-#### max_simulated_level
+#### max\_simulated\_level
 
 ```python
 @max_simulated_level.setter
@@ -541,7 +541,7 @@ def max_simulated_level(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.damage_model"></a>
 
-#### damage_model
+#### damage\_model
 
 ```python
 @property
@@ -552,7 +552,7 @@ def damage_model() -> DamageModelTypeEnum
 
 <a id="unreal.GeometryCollectionComponent.damage_model"></a>
 
-#### damage_model
+#### damage\_model
 
 ```python
 @damage_model.setter
@@ -561,7 +561,7 @@ def damage_model(value: DamageModelTypeEnum) -> None
 
 <a id="unreal.GeometryCollectionComponent.damage_threshold"></a>
 
-#### damage_threshold
+#### damage\_threshold
 
 ```python
 @property
@@ -572,7 +572,7 @@ def damage_threshold() -> Array[float]
 
 <a id="unreal.GeometryCollectionComponent.damage_threshold"></a>
 
-#### damage_threshold
+#### damage\_threshold
 
 ```python
 @damage_threshold.setter
@@ -581,7 +581,7 @@ def damage_threshold(value: Array[float]) -> None
 
 <a id="unreal.GeometryCollectionComponent.use_size_specific_damage_threshold"></a>
 
-#### use_size_specific_damage_threshold
+#### use\_size\_specific\_damage\_threshold
 
 ```python
 @property
@@ -592,7 +592,7 @@ def use_size_specific_damage_threshold() -> bool
 
 <a id="unreal.GeometryCollectionComponent.use_size_specific_damage_threshold"></a>
 
-#### use_size_specific_damage_threshold
+#### use\_size\_specific\_damage\_threshold
 
 ```python
 @use_size_specific_damage_threshold.setter
@@ -601,7 +601,7 @@ def use_size_specific_damage_threshold(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.use_material_damage_modifiers"></a>
 
-#### use_material_damage_modifiers
+#### use\_material\_damage\_modifiers
 
 ```python
 @property
@@ -612,7 +612,7 @@ def use_material_damage_modifiers() -> bool
 
 <a id="unreal.GeometryCollectionComponent.use_material_damage_modifiers"></a>
 
-#### use_material_damage_modifiers
+#### use\_material\_damage\_modifiers
 
 ```python
 @use_material_damage_modifiers.setter
@@ -621,7 +621,7 @@ def use_material_damage_modifiers(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.damage_propagation_data"></a>
 
-#### damage_propagation_data
+#### damage\_propagation\_data
 
 ```python
 @property
@@ -632,7 +632,7 @@ def damage_propagation_data() -> GeometryCollectionDamagePropagationData
 
 <a id="unreal.GeometryCollectionComponent.damage_propagation_data"></a>
 
-#### damage_propagation_data
+#### damage\_propagation\_data
 
 ```python
 @damage_propagation_data.setter
@@ -642,7 +642,7 @@ def damage_propagation_data(
 
 <a id="unreal.GeometryCollectionComponent.enable_damage_from_collision"></a>
 
-#### enable_damage_from_collision
+#### enable\_damage\_from\_collision
 
 ```python
 @property
@@ -653,7 +653,7 @@ def enable_damage_from_collision() -> bool
 
 <a id="unreal.GeometryCollectionComponent.enable_damage_from_collision"></a>
 
-#### enable_damage_from_collision
+#### enable\_damage\_from\_collision
 
 ```python
 @enable_damage_from_collision.setter
@@ -662,7 +662,7 @@ def enable_damage_from_collision(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.allow_removal_on_sleep"></a>
 
-#### allow_removal_on_sleep
+#### allow\_removal\_on\_sleep
 
 ```python
 @property
@@ -673,7 +673,7 @@ def allow_removal_on_sleep() -> bool
 
 <a id="unreal.GeometryCollectionComponent.allow_removal_on_sleep"></a>
 
-#### allow_removal_on_sleep
+#### allow\_removal\_on\_sleep
 
 ```python
 @allow_removal_on_sleep.setter
@@ -682,7 +682,7 @@ def allow_removal_on_sleep(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.allow_removal_on_break"></a>
 
-#### allow_removal_on_break
+#### allow\_removal\_on\_break
 
 ```python
 @property
@@ -693,7 +693,7 @@ def allow_removal_on_break() -> bool
 
 <a id="unreal.GeometryCollectionComponent.allow_removal_on_break"></a>
 
-#### allow_removal_on_break
+#### allow\_removal\_on\_break
 
 ```python
 @allow_removal_on_break.setter
@@ -702,7 +702,7 @@ def allow_removal_on_break(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.force_update_active_transforms"></a>
 
-#### force_update_active_transforms
+#### force\_update\_active\_transforms
 
 ```python
 @property
@@ -713,7 +713,7 @@ def force_update_active_transforms() -> bool
 
 <a id="unreal.GeometryCollectionComponent.force_update_active_transforms"></a>
 
-#### force_update_active_transforms
+#### force\_update\_active\_transforms
 
 ```python
 @force_update_active_transforms.setter
@@ -722,7 +722,7 @@ def force_update_active_transforms(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.cluster_connection_type"></a>
 
-#### cluster_connection_type
+#### cluster\_connection\_type
 
 ```python
 @property
@@ -734,7 +734,7 @@ deprecated: Connection types are defined on the asset now.
 
 <a id="unreal.GeometryCollectionComponent.cluster_connection_type"></a>
 
-#### cluster_connection_type
+#### cluster\_connection\_type
 
 ```python
 @cluster_connection_type.setter
@@ -743,7 +743,7 @@ def cluster_connection_type(value: ClusterConnectionTypeEnum) -> None
 
 <a id="unreal.GeometryCollectionComponent.collision_group"></a>
 
-#### collision_group
+#### collision\_group
 
 ```python
 @property
@@ -754,7 +754,7 @@ def collision_group() -> int
 
 <a id="unreal.GeometryCollectionComponent.collision_group"></a>
 
-#### collision_group
+#### collision\_group
 
 ```python
 @collision_group.setter
@@ -763,7 +763,7 @@ def collision_group(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.collision_sample_fraction"></a>
 
-#### collision_sample_fraction
+#### collision\_sample\_fraction
 
 ```python
 @property
@@ -774,7 +774,7 @@ def collision_sample_fraction() -> float
 
 <a id="unreal.GeometryCollectionComponent.collision_sample_fraction"></a>
 
-#### collision_sample_fraction
+#### collision\_sample\_fraction
 
 ```python
 @collision_sample_fraction.setter
@@ -783,7 +783,7 @@ def collision_sample_fraction(value: float) -> None
 
 <a id="unreal.GeometryCollectionComponent.linear_ether_drag"></a>
 
-#### linear_ether_drag
+#### linear\_ether\_drag
 
 ```python
 @property
@@ -795,7 +795,7 @@ deprecated: Use PhysicalMaterial instead.
 
 <a id="unreal.GeometryCollectionComponent.linear_ether_drag"></a>
 
-#### linear_ether_drag
+#### linear\_ether\_drag
 
 ```python
 @linear_ether_drag.setter
@@ -804,7 +804,7 @@ def linear_ether_drag(value: float) -> None
 
 <a id="unreal.GeometryCollectionComponent.physical_material"></a>
 
-#### physical_material
+#### physical\_material
 
 ```python
 @property
@@ -816,7 +816,7 @@ deprecated: Physical material now derived from render materials, for instance ov
 
 <a id="unreal.GeometryCollectionComponent.physical_material"></a>
 
-#### physical_material
+#### physical\_material
 
 ```python
 @physical_material.setter
@@ -825,7 +825,7 @@ def physical_material(value: ChaosPhysicalMaterial) -> None
 
 <a id="unreal.GeometryCollectionComponent.initial_velocity_type"></a>
 
-#### initial_velocity_type
+#### initial\_velocity\_type
 
 ```python
 @property
@@ -836,7 +836,7 @@ def initial_velocity_type() -> InitialVelocityTypeEnum
 
 <a id="unreal.GeometryCollectionComponent.initial_velocity_type"></a>
 
-#### initial_velocity_type
+#### initial\_velocity\_type
 
 ```python
 @initial_velocity_type.setter
@@ -845,7 +845,7 @@ def initial_velocity_type(value: InitialVelocityTypeEnum) -> None
 
 <a id="unreal.GeometryCollectionComponent.initial_linear_velocity"></a>
 
-#### initial_linear_velocity
+#### initial\_linear\_velocity
 
 ```python
 @property
@@ -856,7 +856,7 @@ def initial_linear_velocity() -> Vector
 
 <a id="unreal.GeometryCollectionComponent.initial_linear_velocity"></a>
 
-#### initial_linear_velocity
+#### initial\_linear\_velocity
 
 ```python
 @initial_linear_velocity.setter
@@ -865,7 +865,7 @@ def initial_linear_velocity(value: Vector) -> None
 
 <a id="unreal.GeometryCollectionComponent.initial_angular_velocity"></a>
 
-#### initial_angular_velocity
+#### initial\_angular\_velocity
 
 ```python
 @property
@@ -876,7 +876,7 @@ def initial_angular_velocity() -> Vector
 
 <a id="unreal.GeometryCollectionComponent.initial_angular_velocity"></a>
 
-#### initial_angular_velocity
+#### initial\_angular\_velocity
 
 ```python
 @initial_angular_velocity.setter
@@ -885,7 +885,7 @@ def initial_angular_velocity(value: Vector) -> None
 
 <a id="unreal.GeometryCollectionComponent.physical_material_override"></a>
 
-#### physical_material_override
+#### physical\_material\_override
 
 ```python
 @property
@@ -897,7 +897,7 @@ deprecated: Physical material now derived from render materials, for instance ov
 
 <a id="unreal.GeometryCollectionComponent.physical_material_override"></a>
 
-#### physical_material_override
+#### physical\_material\_override
 
 ```python
 @physical_material_override.setter
@@ -906,7 +906,7 @@ def physical_material_override(value: PhysicalMaterial) -> None
 
 <a id="unreal.GeometryCollectionComponent.notify_geometry_collection_physics_state_change"></a>
 
-#### notify_geometry_collection_physics_state_change
+#### notify\_geometry\_collection\_physics\_state\_change
 
 ```python
 @property
@@ -918,7 +918,7 @@ def notify_geometry_collection_physics_state_change(
 
 <a id="unreal.GeometryCollectionComponent.notify_geometry_collection_physics_state_change"></a>
 
-#### notify_geometry_collection_physics_state_change
+#### notify\_geometry\_collection\_physics\_state\_change
 
 ```python
 @notify_geometry_collection_physics_state_change.setter
@@ -928,7 +928,7 @@ def notify_geometry_collection_physics_state_change(
 
 <a id="unreal.GeometryCollectionComponent.notify_geometry_collection_physics_loading_state_change"></a>
 
-#### notify_geometry_collection_physics_loading_state_change
+#### notify\_geometry\_collection\_physics\_loading\_state\_change
 
 ```python
 @property
@@ -940,7 +940,7 @@ def notify_geometry_collection_physics_loading_state_change(
 
 <a id="unreal.GeometryCollectionComponent.notify_geometry_collection_physics_loading_state_change"></a>
 
-#### notify_geometry_collection_physics_loading_state_change
+#### notify\_geometry\_collection\_physics\_loading\_state\_change
 
 ```python
 @notify_geometry_collection_physics_loading_state_change.setter
@@ -950,7 +950,7 @@ def notify_geometry_collection_physics_loading_state_change(
 
 <a id="unreal.GeometryCollectionComponent.on_chaos_break_event"></a>
 
-#### on_chaos_break_event
+#### on\_chaos\_break\_event
 
 ```python
 @property
@@ -961,7 +961,7 @@ def on_chaos_break_event() -> OnChaosBreakEvent
 
 <a id="unreal.GeometryCollectionComponent.on_chaos_break_event"></a>
 
-#### on_chaos_break_event
+#### on\_chaos\_break\_event
 
 ```python
 @on_chaos_break_event.setter
@@ -970,7 +970,7 @@ def on_chaos_break_event(value: OnChaosBreakEvent) -> None
 
 <a id="unreal.GeometryCollectionComponent.on_chaos_removal_event"></a>
 
-#### on_chaos_removal_event
+#### on\_chaos\_removal\_event
 
 ```python
 @property
@@ -981,7 +981,7 @@ def on_chaos_removal_event() -> OnChaosRemovalEvent
 
 <a id="unreal.GeometryCollectionComponent.on_chaos_removal_event"></a>
 
-#### on_chaos_removal_event
+#### on\_chaos\_removal\_event
 
 ```python
 @on_chaos_removal_event.setter
@@ -990,7 +990,7 @@ def on_chaos_removal_event(value: OnChaosRemovalEvent) -> None
 
 <a id="unreal.GeometryCollectionComponent.on_chaos_crumbling_event"></a>
 
-#### on_chaos_crumbling_event
+#### on\_chaos\_crumbling\_event
 
 ```python
 @property
@@ -1001,7 +1001,7 @@ def on_chaos_crumbling_event() -> OnChaosCrumblingEvent
 
 <a id="unreal.GeometryCollectionComponent.on_chaos_crumbling_event"></a>
 
-#### on_chaos_crumbling_event
+#### on\_chaos\_crumbling\_event
 
 ```python
 @on_chaos_crumbling_event.setter
@@ -1010,7 +1010,7 @@ def on_chaos_crumbling_event(value: OnChaosCrumblingEvent) -> None
 
 <a id="unreal.GeometryCollectionComponent.desired_cache_time"></a>
 
-#### desired_cache_time
+#### desired\_cache\_time
 
 ```python
 @property
@@ -1021,7 +1021,7 @@ def desired_cache_time() -> float
 
 <a id="unreal.GeometryCollectionComponent.cache_playback"></a>
 
-#### cache_playback
+#### cache\_playback
 
 ```python
 @property
@@ -1032,7 +1032,7 @@ def cache_playback() -> bool
 
 <a id="unreal.GeometryCollectionComponent.on_chaos_physics_collision"></a>
 
-#### on_chaos_physics_collision
+#### on\_chaos\_physics\_collision
 
 ```python
 @property
@@ -1043,7 +1043,7 @@ def on_chaos_physics_collision() -> OnChaosPhysicsCollision
 
 <a id="unreal.GeometryCollectionComponent.on_chaos_physics_collision"></a>
 
-#### on_chaos_physics_collision
+#### on\_chaos\_physics\_collision
 
 ```python
 @on_chaos_physics_collision.setter
@@ -1052,7 +1052,7 @@ def on_chaos_physics_collision(value: OnChaosPhysicsCollision) -> None
 
 <a id="unreal.GeometryCollectionComponent.notify_breaks"></a>
 
-#### notify_breaks
+#### notify\_breaks
 
 ```python
 @property
@@ -1063,7 +1063,7 @@ def notify_breaks() -> bool
 
 <a id="unreal.GeometryCollectionComponent.notify_collisions"></a>
 
-#### notify_collisions
+#### notify\_collisions
 
 ```python
 @property
@@ -1074,7 +1074,7 @@ def notify_collisions() -> bool
 
 <a id="unreal.GeometryCollectionComponent.notify_trailing"></a>
 
-#### notify_trailing
+#### notify\_trailing
 
 ```python
 @property
@@ -1085,7 +1085,7 @@ def notify_trailing() -> bool
 
 <a id="unreal.GeometryCollectionComponent.notify_removals"></a>
 
-#### notify_removals
+#### notify\_removals
 
 ```python
 @property
@@ -1096,7 +1096,7 @@ def notify_removals() -> bool
 
 <a id="unreal.GeometryCollectionComponent.notify_crumblings"></a>
 
-#### notify_crumblings
+#### notify\_crumblings
 
 ```python
 @property
@@ -1107,7 +1107,7 @@ def notify_crumblings() -> bool
 
 <a id="unreal.GeometryCollectionComponent.crumbling_event_includes_children"></a>
 
-#### crumbling_event_includes_children
+#### crumbling\_event\_includes\_children
 
 ```python
 @property
@@ -1118,7 +1118,7 @@ def crumbling_event_includes_children() -> bool
 
 <a id="unreal.GeometryCollectionComponent.notify_global_breaks"></a>
 
-#### notify_global_breaks
+#### notify\_global\_breaks
 
 ```python
 @property
@@ -1129,7 +1129,7 @@ def notify_global_breaks() -> bool
 
 <a id="unreal.GeometryCollectionComponent.notify_global_collisions"></a>
 
-#### notify_global_collisions
+#### notify\_global\_collisions
 
 ```python
 @property
@@ -1140,7 +1140,7 @@ def notify_global_collisions() -> bool
 
 <a id="unreal.GeometryCollectionComponent.notify_global_removals"></a>
 
-#### notify_global_removals
+#### notify\_global\_removals
 
 ```python
 @property
@@ -1151,7 +1151,7 @@ def notify_global_removals() -> bool
 
 <a id="unreal.GeometryCollectionComponent.notify_global_crumblings"></a>
 
-#### notify_global_crumblings
+#### notify\_global\_crumblings
 
 ```python
 @property
@@ -1162,7 +1162,7 @@ def notify_global_crumblings() -> bool
 
 <a id="unreal.GeometryCollectionComponent.global_crumbling_event_includes_children"></a>
 
-#### global_crumbling_event_includes_children
+#### global\_crumbling\_event\_includes\_children
 
 ```python
 @property
@@ -1173,7 +1173,7 @@ def global_crumbling_event_includes_children() -> bool
 
 <a id="unreal.GeometryCollectionComponent.store_velocities"></a>
 
-#### store_velocities
+#### store\_velocities
 
 ```python
 @property
@@ -1184,7 +1184,7 @@ def store_velocities() -> bool
 
 <a id="unreal.GeometryCollectionComponent.show_bone_colors"></a>
 
-#### show_bone_colors
+#### show\_bone\_colors
 
 ```python
 @property
@@ -1195,7 +1195,7 @@ def show_bone_colors() -> bool
 
 <a id="unreal.GeometryCollectionComponent.show_bone_colors"></a>
 
-#### show_bone_colors
+#### show\_bone\_colors
 
 ```python
 @show_bone_colors.setter
@@ -1204,7 +1204,7 @@ def show_bone_colors(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.update_component_transform_to_root_bone"></a>
 
-#### update_component_transform_to_root_bone
+#### update\_component\_transform\_to\_root\_bone
 
 ```python
 @property
@@ -1217,7 +1217,7 @@ Note: Once the root element is broken, the component will no longer update its p
 
 <a id="unreal.GeometryCollectionComponent.update_component_transform_to_root_bone"></a>
 
-#### update_component_transform_to_root_bone
+#### update\_component\_transform\_to\_root\_bone
 
 ```python
 @update_component_transform_to_root_bone.setter
@@ -1226,7 +1226,7 @@ def update_component_transform_to_root_bone(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.use_root_proxy_for_navigation"></a>
 
-#### use_root_proxy_for_navigation
+#### use\_root\_proxy\_for\_navigation
 
 ```python
 @property
@@ -1237,7 +1237,7 @@ def use_root_proxy_for_navigation() -> bool
 
 <a id="unreal.GeometryCollectionComponent.use_root_proxy_for_navigation"></a>
 
-#### use_root_proxy_for_navigation
+#### use\_root\_proxy\_for\_navigation
 
 ```python
 @use_root_proxy_for_navigation.setter
@@ -1246,7 +1246,7 @@ def use_root_proxy_for_navigation(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.update_navigation_in_tick"></a>
 
-#### update_navigation_in_tick
+#### update\_navigation\_in\_tick
 
 ```python
 @property
@@ -1257,7 +1257,7 @@ def update_navigation_in_tick() -> bool
 
 <a id="unreal.GeometryCollectionComponent.update_navigation_in_tick"></a>
 
-#### update_navigation_in_tick
+#### update\_navigation\_in\_tick
 
 ```python
 @update_navigation_in_tick.setter
@@ -1266,7 +1266,7 @@ def update_navigation_in_tick(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.run_time_data_collection_guid"></a>
 
-#### run_time_data_collection_guid
+#### run\_time\_data\_collection\_guid
 
 ```python
 @property
@@ -1277,7 +1277,7 @@ def run_time_data_collection_guid() -> Guid
 
 <a id="unreal.GeometryCollectionComponent.enable_replication"></a>
 
-#### enable_replication
+#### enable\_replication
 
 ```python
 @property
@@ -1288,7 +1288,7 @@ def enable_replication() -> bool
 
 <a id="unreal.GeometryCollectionComponent.enable_replication"></a>
 
-#### enable_replication
+#### enable\_replication
 
 ```python
 @enable_replication.setter
@@ -1297,7 +1297,7 @@ def enable_replication(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.enable_abandon_after_level"></a>
 
-#### enable_abandon_after_level
+#### enable\_abandon\_after\_level
 
 ```python
 @property
@@ -1309,7 +1309,7 @@ clients when the updated particle is of a level higher then specified.
 
 <a id="unreal.GeometryCollectionComponent.enable_abandon_after_level"></a>
 
-#### enable_abandon_after_level
+#### enable\_abandon\_after\_level
 
 ```python
 @enable_abandon_after_level.setter
@@ -1318,7 +1318,7 @@ def enable_abandon_after_level(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.abandoned_collision_profile_name"></a>
 
-#### abandoned_collision_profile_name
+#### abandoned\_collision\_profile\_name
 
 ```python
 @property
@@ -1330,7 +1330,7 @@ still be in the external/internal acceleration structure).
 
 <a id="unreal.GeometryCollectionComponent.abandoned_collision_profile_name"></a>
 
-#### abandoned_collision_profile_name
+#### abandoned\_collision\_profile\_name
 
 ```python
 @abandoned_collision_profile_name.setter
@@ -1339,7 +1339,7 @@ def abandoned_collision_profile_name(value: Name) -> None
 
 <a id="unreal.GeometryCollectionComponent.custom_renderer_type"></a>
 
-#### custom_renderer_type
+#### custom\_renderer\_type
 
 ```python
 @property
@@ -1350,7 +1350,7 @@ def custom_renderer_type() -> Class
 
 <a id="unreal.GeometryCollectionComponent.custom_renderer_type"></a>
 
-#### custom_renderer_type
+#### custom\_renderer\_type
 
 ```python
 @custom_renderer_type.setter
@@ -1359,7 +1359,7 @@ def custom_renderer_type(value: Class) -> None
 
 <a id="unreal.GeometryCollectionComponent.override_custom_renderer"></a>
 
-#### override_custom_renderer
+#### override\_custom\_renderer
 
 ```python
 @property
@@ -1370,7 +1370,7 @@ def override_custom_renderer() -> bool
 
 <a id="unreal.GeometryCollectionComponent.override_custom_renderer"></a>
 
-#### override_custom_renderer
+#### override\_custom\_renderer
 
 ```python
 @override_custom_renderer.setter
@@ -1379,7 +1379,7 @@ def override_custom_renderer(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.use_static_mesh_collision_for_traces"></a>
 
-#### use_static_mesh_collision_for_traces
+#### use\_static\_mesh\_collision\_for\_traces
 
 ```python
 @property
@@ -1390,7 +1390,7 @@ def use_static_mesh_collision_for_traces() -> bool
 
 <a id="unreal.GeometryCollectionComponent.use_static_mesh_collision_for_traces"></a>
 
-#### use_static_mesh_collision_for_traces
+#### use\_static\_mesh\_collision\_for\_traces
 
 ```python
 @use_static_mesh_collision_for_traces.setter
@@ -1399,7 +1399,7 @@ def use_static_mesh_collision_for_traces(value: bool) -> None
 
 <a id="unreal.GeometryCollectionComponent.replication_abandon_cluster_level"></a>
 
-#### replication_abandon_cluster_level
+#### replication\_abandon\_cluster\_level
 
 ```python
 @property
@@ -1414,7 +1414,7 @@ deprecated: GeometryCollection now uses ReplicationAbandonAfterLevel instead of 
 
 <a id="unreal.GeometryCollectionComponent.replication_abandon_cluster_level"></a>
 
-#### replication_abandon_cluster_level
+#### replication\_abandon\_cluster\_level
 
 ```python
 @replication_abandon_cluster_level.setter
@@ -1423,7 +1423,7 @@ def replication_abandon_cluster_level(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.collision_profile_per_level"></a>
 
-#### collision_profile_per_level
+#### collision\_profile\_per\_level
 
 ```python
 @property
@@ -1437,7 +1437,7 @@ collision profile. AbandonedCollisionProfileName will override this on the clien
 
 <a id="unreal.GeometryCollectionComponent.collision_profile_per_level"></a>
 
-#### collision_profile_per_level
+#### collision\_profile\_per\_level
 
 ```python
 @collision_profile_per_level.setter
@@ -1446,7 +1446,7 @@ def collision_profile_per_level(value: Array[Name]) -> None
 
 <a id="unreal.GeometryCollectionComponent.replication_abandon_after_level"></a>
 
-#### replication_abandon_after_level
+#### replication\_abandon\_after\_level
 
 ```python
 @property
@@ -1458,7 +1458,7 @@ see: bEnableAbandonAfterLevel
 
 <a id="unreal.GeometryCollectionComponent.replication_abandon_after_level"></a>
 
-#### replication_abandon_after_level
+#### replication\_abandon\_after\_level
 
 ```python
 @replication_abandon_after_level.setter
@@ -1467,7 +1467,7 @@ def replication_abandon_after_level(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.replication_max_position_and_velocity_correction_level"></a>
 
-#### replication_max_position_and_velocity_correction_level
+#### replication\_max\_position\_and\_velocity\_correction\_level
 
 ```python
 @property
@@ -1482,7 +1482,7 @@ see: ReplicationAbandonAfterLevel
 
 <a id="unreal.GeometryCollectionComponent.replication_max_position_and_velocity_correction_level"></a>
 
-#### replication_max_position_and_velocity_correction_level
+#### replication\_max\_position\_and\_velocity\_correction\_level
 
 ```python
 @replication_max_position_and_velocity_correction_level.setter
@@ -1491,7 +1491,7 @@ def replication_max_position_and_velocity_correction_level(value: int) -> None
 
 <a id="unreal.GeometryCollectionComponent.angular_ether_drag"></a>
 
-#### angular_ether_drag
+#### angular\_ether\_drag
 
 ```python
 @property
@@ -1503,7 +1503,7 @@ deprecated: Use PhysicalMaterial instead.
 
 <a id="unreal.GeometryCollectionComponent.angular_ether_drag"></a>
 
-#### angular_ether_drag
+#### angular\_ether\_drag
 
 ```python
 @angular_ether_drag.setter
@@ -1512,7 +1512,7 @@ def angular_ether_drag(value: float) -> None
 
 <a id="unreal.GeometryCollectionComponent.set_root_proxy_component_space_transform"></a>
 
-#### set_root_proxy_component_space_transform
+#### set\_root\_proxy\_component\_space\_transform
 
 ```python
 def set_root_proxy_component_space_transform(
@@ -1530,7 +1530,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_rest_collection"></a>
 
-#### set_rest_collection
+#### set\_rest\_collection
 
 ```python
 def set_rest_collection(rest_collection_in: GeometryCollection,
@@ -1546,7 +1546,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_per_particle_collision_profile_name"></a>
 
-#### set_per_particle_collision_profile_name
+#### set\_per\_particle\_collision\_profile\_name
 
 ```python
 def set_per_particle_collision_profile_name(bone_ids: Array[int],
@@ -1562,7 +1562,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_per_level_collision_profile_names"></a>
 
-#### set_per_level_collision_profile_names
+#### set\_per\_level\_collision\_profile\_names
 
 ```python
 def set_per_level_collision_profile_names(profile_names: Array[Name]) -> None
@@ -1576,7 +1576,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_notify_removals"></a>
 
-#### set_notify_removals
+#### set\_notify\_removals
 
 ```python
 def set_notify_removals(new_notify_removals: bool) -> None
@@ -1590,7 +1590,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_notify_global_removals"></a>
 
-#### set_notify_global_removals
+#### set\_notify\_global\_removals
 
 ```python
 def set_notify_global_removals(new_notify_global_removals: bool) -> None
@@ -1604,7 +1604,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_notify_global_crumblings"></a>
 
-#### set_notify_global_crumblings
+#### set\_notify\_global\_crumblings
 
 ```python
 def set_notify_global_crumblings(
@@ -1621,7 +1621,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_notify_global_collision"></a>
 
-#### set_notify_global_collision
+#### set\_notify\_global\_collision
 
 ```python
 def set_notify_global_collision(new_notify_global_collisions: bool) -> None
@@ -1635,7 +1635,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_notify_global_breaks"></a>
 
-#### set_notify_global_breaks
+#### set\_notify\_global\_breaks
 
 ```python
 def set_notify_global_breaks(new_notify_global_breaks: bool) -> None
@@ -1649,7 +1649,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_notify_crumblings"></a>
 
-#### set_notify_crumblings
+#### set\_notify\_crumblings
 
 ```python
 def set_notify_crumblings(
@@ -1666,7 +1666,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_notify_breaks"></a>
 
-#### set_notify_breaks
+#### set\_notify\_breaks
 
 ```python
 def set_notify_breaks(new_notify_breaks: bool) -> None
@@ -1680,7 +1680,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_local_rest_transforms"></a>
 
-#### set_local_rest_transforms
+#### set\_local\_rest\_transforms
 
 ```python
 def set_local_rest_transforms(transforms: Array[Transform],
@@ -1697,7 +1697,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_enable_damage_from_collision"></a>
 
-#### set_enable_damage_from_collision
+#### set\_enable\_damage\_from\_collision
 
 ```python
 def set_enable_damage_from_collision(value: bool) -> None
@@ -1711,7 +1711,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_anchored_by_transformed_box"></a>
 
-#### set_anchored_by_transformed_box
+#### set\_anchored\_by\_transformed\_box
 
 ```python
 def set_anchored_by_transformed_box(box: Box,
@@ -1731,7 +1731,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_anchored_by_index"></a>
 
-#### set_anchored_by_index
+#### set\_anchored\_by\_index
 
 ```python
 def set_anchored_by_index(index: int, anchored: bool) -> None
@@ -1746,7 +1746,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_anchored_by_box"></a>
 
-#### set_anchored_by_box
+#### set\_anchored\_by\_box
 
 ```python
 def set_anchored_by_box(world_space_box: Box,
@@ -1764,7 +1764,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.set_abandoned_particle_collision_profile_name"></a>
 
-#### set_abandoned_particle_collision_profile_name
+#### set\_abandoned\_particle\_collision\_profile\_name
 
 ```python
 def set_abandoned_particle_collision_profile_name(
@@ -1779,7 +1779,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.remove_all_anchors"></a>
 
-#### remove_all_anchors
+#### remove\_all\_anchors
 
 ```python
 def remove_all_anchors() -> None
@@ -1790,7 +1790,7 @@ this will remove anchors on all the pieces ( including the static and kinematic 
 
 <a id="unreal.GeometryCollectionComponent.receive_physics_collision"></a>
 
-#### receive_physics_collision
+#### receive\_physics\_collision
 
 ```python
 def receive_physics_collision(
@@ -1805,7 +1805,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.is_root_broken"></a>
 
-#### is_root_broken
+#### is\_root\_broken
 
 ```python
 def is_root_broken() -> bool
@@ -1819,7 +1819,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_root_initial_transform"></a>
 
-#### get_root_initial_transform
+#### get\_root\_initial\_transform
 
 ```python
 def get_root_initial_transform() -> Transform
@@ -1833,7 +1833,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_root_index"></a>
 
-#### get_root_index
+#### get\_root\_index
 
 ```python
 def get_root_index() -> int
@@ -1847,7 +1847,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_root_current_transform"></a>
 
-#### get_root_current_transform
+#### get\_root\_current\_transform
 
 ```python
 def get_root_current_transform() -> Transform
@@ -1861,7 +1861,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_mass_and_extents"></a>
 
-#### get_mass_and_extents
+#### get\_mass\_and\_extents
 
 ```python
 def get_mass_and_extents(item_index: int) -> Tuple[float, Box]
@@ -1882,7 +1882,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_local_rest_transforms"></a>
 
-#### get_local_rest_transforms
+#### get\_local\_rest\_transforms
 
 ```python
 def get_local_rest_transforms(
@@ -1901,7 +1901,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_local_bounds"></a>
 
-#### get_local_bounds
+#### get\_local\_bounds
 
 ```python
 def get_local_bounds() -> Box
@@ -1915,7 +1915,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_initial_local_rest_transforms"></a>
 
-#### get_initial_local_rest_transforms
+#### get\_initial\_local\_rest\_transforms
 
 ```python
 def get_initial_local_rest_transforms() -> Array[Transform]
@@ -1930,7 +1930,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_initial_level"></a>
 
-#### get_initial_level
+#### get\_initial\_level
 
 ```python
 def get_initial_level(item_index: int) -> int
@@ -1948,7 +1948,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.get_debug_info"></a>
 
-#### get_debug_info
+#### get\_debug\_info
 
 ```python
 def get_debug_info() -> str
@@ -1962,7 +1962,7 @@ Returns:
 
 <a id="unreal.GeometryCollectionComponent.force_broken_for_custom_renderer"></a>
 
-#### force_broken_for_custom_renderer
+#### force\_broken\_for\_custom\_renderer
 
 ```python
 def force_broken_for_custom_renderer(force_broken: bool) -> None
@@ -1976,7 +1976,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.enable_root_proxy_for_custom_renderer"></a>
 
-#### enable_root_proxy_for_custom_renderer
+#### enable\_root\_proxy\_for\_custom\_renderer
 
 ```python
 def enable_root_proxy_for_custom_renderer(enable: bool) -> None
@@ -1991,7 +1991,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.crumble_cluster"></a>
 
-#### crumble_cluster
+#### crumble\_cluster
 
 ```python
 def crumble_cluster(item_index: int) -> None
@@ -2005,7 +2005,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.crumble_active_clusters"></a>
 
-#### crumble_active_clusters
+#### crumble\_active\_clusters
 
 ```python
 def crumble_active_clusters() -> None
@@ -2017,7 +2017,7 @@ this will apply to internal and regular clusters
 
 <a id="unreal.GeometryCollectionComponent.apply_physics_field"></a>
 
-#### apply_physics_field
+#### apply\_physics\_field
 
 ```python
 def apply_physics_field(enabled: bool,
@@ -2041,7 +2041,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.apply_linear_velocity"></a>
 
-#### apply_linear_velocity
+#### apply\_linear\_velocity
 
 ```python
 def apply_linear_velocity(item_index: int, linear_velocity: Vector) -> None
@@ -2056,7 +2056,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.apply_kinematic_field"></a>
 
-#### apply_kinematic_field
+#### apply\_kinematic\_field
 
 ```python
 def apply_kinematic_field(radius: float, position: Vector) -> None
@@ -2073,7 +2073,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.apply_internal_strain"></a>
 
-#### apply_internal_strain
+#### apply\_internal\_strain
 
 ```python
 def apply_internal_strain(item_index: int,
@@ -2097,7 +2097,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.apply_external_strain"></a>
 
-#### apply_external_strain
+#### apply\_external\_strain
 
 ```python
 def apply_external_strain(item_index: int,
@@ -2121,7 +2121,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.apply_breaking_linear_velocity"></a>
 
-#### apply_breaking_linear_velocity
+#### apply\_breaking\_linear\_velocity
 
 ```python
 def apply_breaking_linear_velocity(item_index: int,
@@ -2138,7 +2138,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.apply_breaking_angular_velocity"></a>
 
-#### apply_breaking_angular_velocity
+#### apply\_breaking\_angular\_velocity
 
 ```python
 def apply_breaking_angular_velocity(item_index: int,
@@ -2155,7 +2155,7 @@ Args:
 
 <a id="unreal.GeometryCollectionComponent.apply_asset_defaults"></a>
 
-#### apply_asset_defaults
+#### apply\_asset\_defaults
 
 ```python
 def apply_asset_defaults() -> None
@@ -2166,7 +2166,7 @@ Apply default values from asset ( damage related data and physics material )
 
 <a id="unreal.GeometryCollectionComponent.apply_angular_velocity"></a>
 
-#### apply_angular_velocity
+#### apply\_angular\_velocity
 
 ```python
 def apply_angular_velocity(item_index: int, angular_velocity: Vector) -> None

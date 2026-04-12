@@ -18,7 +18,7 @@ Geometry Script Index List
 
 <a id="unreal.GeometryScriptIndexList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -28,7 +28,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptIndexList.index_type"></a>
 
-#### index_type
+#### index\_type
 
 ```python
 @property
@@ -39,7 +39,7 @@ def index_type() -> GeometryScriptIndexType
 
 <a id="unreal.GeometryScriptIndexList.index_type"></a>
 
-#### index_type
+#### index\_type
 
 ```python
 @index_type.setter
@@ -48,7 +48,7 @@ def index_type(value: GeometryScriptIndexType) -> None
 
 <a id="unreal.GeometryScriptIndexList.set_index_list_item"></a>
 
-#### set_index_list_item
+#### set\_index\_list\_item
 
 ```python
 def set_index_list_item(index: int, new_value: int) -> bool
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.GeometryScriptIndexList.get_index_list_length"></a>
 
-#### get_index_list_length
+#### get\_index\_list\_length
 
 ```python
 def get_index_list_length() -> int
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.GeometryScriptIndexList.get_index_list_last_index"></a>
 
-#### get_index_list_last_index
+#### get\_index\_list\_last\_index
 
 ```python
 def get_index_list_last_index() -> int
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.GeometryScriptIndexList.get_index_list_item"></a>
 
-#### get_index_list_item
+#### get\_index\_list\_item
 
 ```python
 def get_index_list_item(index: int) -> Tuple[int, bool]
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.GeometryScriptIndexList.duplicate_index_list"></a>
 
-#### duplicate_index_list
+#### duplicate\_index\_list
 
 ```python
 def duplicate_index_list() -> GeometryScriptIndexList
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.GeometryScriptIndexList.convert_index_list_to_array"></a>
 
-#### convert_index_list_to_array
+#### convert\_index\_list\_to\_array
 
 ```python
 def convert_index_list_to_array() -> Array[int]
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.GeometryScriptIndexList.clear_index_list"></a>
 
-#### clear_index_list
+#### clear\_index\_list
 
 ```python
 def clear_index_list(clear_value: int = 0) -> None

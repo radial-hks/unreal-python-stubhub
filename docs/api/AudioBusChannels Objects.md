@@ -31,19 +31,19 @@ The number of channels to mix audio into the source bus
 
 <a id="unreal.AudioBusChannels.FIVE_POINT_ONE"></a>
 
-#### FIVE_POINT_ONE
+#### FIVE\_POINT\_ONE
 
 5
 
 <a id="unreal.AudioBusChannels.SEVEN_POINT_ONE"></a>
 
-#### SEVEN_POINT_ONE
+#### SEVEN\_POINT\_ONE
 
 7
 
 <a id="unreal.AudioBusChannels.MAX_CHANNEL_COUNT"></a>
 
-#### MAX_CHANNEL_COUNT
+#### MAX\_CHANNEL\_COUNT
 
 8
 

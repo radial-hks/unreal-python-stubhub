@@ -19,7 +19,7 @@ Rig Control Element Customization
 
 <a id="unreal.RigControlElementCustomization.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(available_spaces: Array[RigElementKey] = [],
@@ -28,7 +28,7 @@ def __init__(available_spaces: Array[RigElementKey] = [],
 
 <a id="unreal.RigControlElementCustomization.available_spaces"></a>
 
-#### available_spaces
+#### available\_spaces
 
 ```python
 @property
@@ -39,7 +39,7 @@ def available_spaces() -> Array[RigElementKey]
 
 <a id="unreal.RigControlElementCustomization.removed_spaces"></a>
 
-#### removed_spaces
+#### removed\_spaces
 
 ```python
 @property

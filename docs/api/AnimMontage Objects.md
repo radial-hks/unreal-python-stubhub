@@ -57,7 +57,7 @@ If it does, please add the copy in the function RefreshParentAssetData
 
 <a id="unreal.AnimMontage.blend_mode_in"></a>
 
-#### blend_mode_in
+#### blend\_mode\_in
 
 ```python
 @property
@@ -68,7 +68,7 @@ def blend_mode_in() -> MontageBlendMode
 
 <a id="unreal.AnimMontage.blend_mode_out"></a>
 
-#### blend_mode_out
+#### blend\_mode\_out
 
 ```python
 @property
@@ -79,7 +79,7 @@ def blend_mode_out() -> MontageBlendMode
 
 <a id="unreal.AnimMontage.blend_profile_in"></a>
 
-#### blend_profile_in
+#### blend\_profile\_in
 
 ```python
 @property
@@ -90,7 +90,7 @@ def blend_profile_in() -> BlendProfile
 
 <a id="unreal.AnimMontage.blend_profile_out"></a>
 
-#### blend_profile_out
+#### blend\_profile\_out
 
 ```python
 @property
@@ -101,7 +101,7 @@ def blend_profile_out() -> BlendProfile
 
 <a id="unreal.AnimMontage.is_valid_section_name"></a>
 
-#### is_valid_section_name
+#### is\_valid\_section\_name
 
 ```python
 def is_valid_section_name(section_name: Name) -> bool
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.AnimMontage.is_valid_additive_slot"></a>
 
-#### is_valid_additive_slot
+#### is\_valid\_additive\_slot
 
 ```python
 def is_valid_additive_slot(slot_node_name: Name) -> bool
@@ -137,7 +137,7 @@ Returns:
 
 <a id="unreal.AnimMontage.is_dynamic_montage"></a>
 
-#### is_dynamic_montage
+#### is\_dynamic\_montage
 
 ```python
 def is_dynamic_montage() -> bool
@@ -151,7 +151,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_section_name"></a>
 
-#### get_section_name
+#### get\_section\_name
 
 ```python
 def get_section_name(section_index: int) -> Name
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_section_index"></a>
 
-#### get_section_index
+#### get\_section\_index
 
 ```python
 def get_section_index(section_name: Name) -> int
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_num_sections"></a>
 
-#### get_num_sections
+#### get\_num\_sections
 
 ```python
 def get_num_sections() -> int
@@ -199,7 +199,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_group_name"></a>
 
-#### get_group_name
+#### get\_group\_name
 
 ```python
 def get_group_name() -> Name
@@ -213,7 +213,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_first_anim_reference"></a>
 
-#### get_first_anim_reference
+#### get\_first\_anim\_reference
 
 ```python
 def get_first_anim_reference() -> AnimSequenceBase
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_default_blend_out_time"></a>
 
-#### get_default_blend_out_time
+#### get\_default\_blend\_out\_time
 
 ```python
 def get_default_blend_out_time() -> float
@@ -241,7 +241,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_default_blend_in_time"></a>
 
-#### get_default_blend_in_time
+#### get\_default\_blend\_in\_time
 
 ```python
 def get_default_blend_in_time() -> float
@@ -255,7 +255,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_blend_out_args"></a>
 
-#### get_blend_out_args
+#### get\_blend\_out\_args
 
 ```python
 def get_blend_out_args() -> AlphaBlendArgs
@@ -269,7 +269,7 @@ Returns:
 
 <a id="unreal.AnimMontage.get_blend_in_args"></a>
 
-#### get_blend_in_args
+#### get\_blend\_in\_args
 
 ```python
 def get_blend_in_args() -> AlphaBlendArgs
@@ -283,7 +283,7 @@ Returns:
 
 <a id="unreal.AnimMontage.create_slot_animation_as_dynamic_montage_with_blend_settings"></a>
 
-#### create_slot_animation_as_dynamic_montage_with_blend_settings
+#### create\_slot\_animation\_as\_dynamic\_montage\_with\_blend\_settings
 
 ```python
 @classmethod

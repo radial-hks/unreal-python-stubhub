@@ -13,7 +13,7 @@ Net Push Model Helpers
 
 <a id="unreal.NetPushModelHelpers.mark_property_dirty"></a>
 
-#### mark_property_dirty
+#### mark\_property\_dirty
 
 ```python
 @classmethod

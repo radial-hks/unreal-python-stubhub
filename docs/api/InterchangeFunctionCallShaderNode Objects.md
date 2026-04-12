@@ -14,7 +14,7 @@ A function call shader node has a named set of inputs and outputs which correspo
 
 <a id="unreal.InterchangeFunctionCallShaderNode.set_custom_material_function"></a>
 
-#### set_custom_material_function
+#### set\_custom\_material\_function
 
 ```python
 def set_custom_material_function(attribute_value: str) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeFunctionCallShaderNode.get_custom_material_function"></a>
 
-#### get_custom_material_function
+#### get\_custom\_material\_function
 
 ```python
 def get_custom_material_function() -> Optional[str]

@@ -49,7 +49,7 @@ def filename(value: str) -> None
 
 <a id="unreal.AssetImportTask.destination_path"></a>
 
-#### destination_path
+#### destination\_path
 
 ```python
 @property
@@ -60,7 +60,7 @@ def destination_path() -> str
 
 <a id="unreal.AssetImportTask.destination_path"></a>
 
-#### destination_path
+#### destination\_path
 
 ```python
 @destination_path.setter
@@ -69,7 +69,7 @@ def destination_path(value: str) -> None
 
 <a id="unreal.AssetImportTask.destination_name"></a>
 
-#### destination_name
+#### destination\_name
 
 ```python
 @property
@@ -80,7 +80,7 @@ def destination_name() -> str
 
 <a id="unreal.AssetImportTask.destination_name"></a>
 
-#### destination_name
+#### destination\_name
 
 ```python
 @destination_name.setter
@@ -89,7 +89,7 @@ def destination_name(value: str) -> None
 
 <a id="unreal.AssetImportTask.replace_existing"></a>
 
-#### replace_existing
+#### replace\_existing
 
 ```python
 @property
@@ -100,7 +100,7 @@ def replace_existing() -> bool
 
 <a id="unreal.AssetImportTask.replace_existing"></a>
 
-#### replace_existing
+#### replace\_existing
 
 ```python
 @replace_existing.setter
@@ -109,7 +109,7 @@ def replace_existing(value: bool) -> None
 
 <a id="unreal.AssetImportTask.replace_existing_settings"></a>
 
-#### replace_existing_settings
+#### replace\_existing\_settings
 
 ```python
 @property
@@ -120,7 +120,7 @@ def replace_existing_settings() -> bool
 
 <a id="unreal.AssetImportTask.replace_existing_settings"></a>
 
-#### replace_existing_settings
+#### replace\_existing\_settings
 
 ```python
 @replace_existing_settings.setter
@@ -169,7 +169,7 @@ def save(value: bool) -> None
 
 <a id="unreal.AssetImportTask.async_"></a>
 
-#### async_
+#### async\_
 
 ```python
 @property
@@ -180,7 +180,7 @@ def async_() -> bool
 
 <a id="unreal.AssetImportTask.async_"></a>
 
-#### async_
+#### async\_
 
 ```python
 @async_.setter
@@ -229,7 +229,7 @@ def options(value: Object) -> None
 
 <a id="unreal.AssetImportTask.imported_object_paths"></a>
 
-#### imported_object_paths
+#### imported\_object\_paths
 
 ```python
 @property
@@ -240,7 +240,7 @@ def imported_object_paths() -> Array[str]
 
 <a id="unreal.AssetImportTask.imported_object_paths"></a>
 
-#### imported_object_paths
+#### imported\_object\_paths
 
 ```python
 @imported_object_paths.setter
@@ -270,7 +270,7 @@ def result(value: Array[Object]) -> None
 
 <a id="unreal.AssetImportTask.is_async_import_complete"></a>
 
-#### is_async_import_complete
+#### is\_async\_import\_complete
 
 ```python
 def is_async_import_complete() -> bool
@@ -285,7 +285,7 @@ Returns:
 
 <a id="unreal.AssetImportTask.get_objects"></a>
 
-#### get_objects
+#### get\_objects
 
 ```python
 def get_objects() -> Array[Object]

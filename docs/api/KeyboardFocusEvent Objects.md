@@ -8,7 +8,7 @@ deprecated: 'KeyboardFocusEvent' was renamed to 'FocusEvent'.
 
 <a id="unreal.KeyboardFocusEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

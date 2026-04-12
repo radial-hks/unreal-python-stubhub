@@ -22,7 +22,7 @@ We need this as part of a mechanism to automatically repair those bindings when 
 
 <a id="unreal.UsdLevelSequenceAssetUserData.last_checked_signature"></a>
 
-#### last_checked_signature
+#### last\_checked\_signature
 
 ```python
 @property
@@ -34,7 +34,7 @@ We pay attention to that so that we can avoid reprocessing a LevelSequence that 
 
 <a id="unreal.UsdLevelSequenceAssetUserData.last_checked_signature"></a>
 
-#### last_checked_signature
+#### last\_checked\_signature
 
 ```python
 @last_checked_signature.setter
@@ -43,7 +43,7 @@ def last_checked_signature(value: Guid) -> None
 
 <a id="unreal.UsdLevelSequenceAssetUserData.handled_binding_guids"></a>
 
-#### handled_binding_guids
+#### handled\_binding\_guids
 
 ```python
 @property
@@ -55,7 +55,7 @@ We use this so that we won't try and overwrite the changes in case the user manu
 
 <a id="unreal.UsdLevelSequenceAssetUserData.handled_binding_guids"></a>
 
-#### handled_binding_guids
+#### handled\_binding\_guids
 
 ```python
 @handled_binding_guids.setter

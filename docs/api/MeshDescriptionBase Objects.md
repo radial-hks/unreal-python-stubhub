@@ -13,7 +13,7 @@ Mesh Description Base
 
 <a id="unreal.MeshDescriptionBase.set_vertex_position"></a>
 
-#### set_vertex_position
+#### set\_vertex\_position
 
 ```python
 def set_vertex_position(vertex_id: VertexID, position: Vector) -> None
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.set_polygon_vertex_instances"></a>
 
-#### set_polygon_vertex_instances
+#### set\_polygon\_vertex\_instances
 
 ```python
 def set_polygon_vertex_instances(
@@ -45,7 +45,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.set_polygon_polygon_group"></a>
 
-#### set_polygon_polygon_group
+#### set\_polygon\_polygon\_group
 
 ```python
 def set_polygon_polygon_group(polygon_id: PolygonID,
@@ -61,7 +61,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.reverse_polygon_facing"></a>
 
-#### reverse_polygon_facing
+#### reverse\_polygon\_facing
 
 ```python
 def reverse_polygon_facing(polygon_id: PolygonID) -> None
@@ -75,7 +75,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.reserve_new_vertices"></a>
 
-#### reserve_new_vertices
+#### reserve\_new\_vertices
 
 ```python
 def reserve_new_vertices(number_of_new_vertices: int) -> None
@@ -89,7 +89,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.reserve_new_vertex_instances"></a>
 
-#### reserve_new_vertex_instances
+#### reserve\_new\_vertex\_instances
 
 ```python
 def reserve_new_vertex_instances(number_of_new_vertex_instances: int) -> None
@@ -103,7 +103,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.reserve_new_triangles"></a>
 
-#### reserve_new_triangles
+#### reserve\_new\_triangles
 
 ```python
 def reserve_new_triangles(number_of_new_triangles: int) -> None
@@ -117,7 +117,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.reserve_new_polygons"></a>
 
-#### reserve_new_polygons
+#### reserve\_new\_polygons
 
 ```python
 def reserve_new_polygons(number_of_new_polygons: int) -> None
@@ -131,7 +131,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.reserve_new_polygon_groups"></a>
 
-#### reserve_new_polygon_groups
+#### reserve\_new\_polygon\_groups
 
 ```python
 def reserve_new_polygon_groups(number_of_new_polygon_groups: int) -> None
@@ -145,7 +145,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.reserve_new_edges"></a>
 
-#### reserve_new_edges
+#### reserve\_new\_edges
 
 ```python
 def reserve_new_edges(number_of_new_edges: int) -> None
@@ -159,7 +159,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.is_vertex_valid"></a>
 
-#### is_vertex_valid
+#### is\_vertex\_valid
 
 ```python
 def is_vertex_valid(vertex_id: VertexID) -> bool
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_vertex_orphaned"></a>
 
-#### is_vertex_orphaned
+#### is\_vertex\_orphaned
 
 ```python
 def is_vertex_orphaned(vertex_id: VertexID) -> bool
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_vertex_instance_valid"></a>
 
-#### is_vertex_instance_valid
+#### is\_vertex\_instance\_valid
 
 ```python
 def is_vertex_instance_valid(vertex_instance_id: VertexInstanceID) -> bool
@@ -210,7 +210,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_triangle_valid"></a>
 
-#### is_triangle_valid
+#### is\_triangle\_valid
 
 ```python
 def is_triangle_valid(triangle_id: TriangleID) -> bool
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_triangle_part_of_ngon"></a>
 
-#### is_triangle_part_of_ngon
+#### is\_triangle\_part\_of\_ngon
 
 ```python
 def is_triangle_part_of_ngon(triangle_id: TriangleID) -> bool
@@ -244,7 +244,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_polygon_valid"></a>
 
-#### is_polygon_valid
+#### is\_polygon\_valid
 
 ```python
 def is_polygon_valid(polygon_id: PolygonID) -> bool
@@ -261,7 +261,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_polygon_group_valid"></a>
 
-#### is_polygon_group_valid
+#### is\_polygon\_group\_valid
 
 ```python
 def is_polygon_group_valid(polygon_group_id: PolygonGroupID) -> bool
@@ -278,7 +278,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_empty"></a>
 
-#### is_empty
+#### is\_empty
 
 ```python
 def is_empty() -> bool
@@ -292,7 +292,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_edge_valid"></a>
 
-#### is_edge_valid
+#### is\_edge\_valid
 
 ```python
 def is_edge_valid(edge_id: EdgeID) -> bool
@@ -309,7 +309,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_edge_internal_to_polygon"></a>
 
-#### is_edge_internal_to_polygon
+#### is\_edge\_internal\_to\_polygon
 
 ```python
 def is_edge_internal_to_polygon(edge_id: EdgeID,
@@ -328,7 +328,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.is_edge_internal"></a>
 
-#### is_edge_internal
+#### is\_edge\_internal
 
 ```python
 def is_edge_internal(edge_id: EdgeID) -> bool
@@ -345,7 +345,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_vertex_instances"></a>
 
-#### get_vertex_vertex_instances
+#### get\_vertex\_vertex\_instances
 
 ```python
 def get_vertex_vertex_instances(
@@ -365,7 +365,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_position"></a>
 
-#### get_vertex_position
+#### get\_vertex\_position
 
 ```python
 def get_vertex_position(vertex_id: VertexID) -> Vector
@@ -382,7 +382,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_pair_edge"></a>
 
-#### get_vertex_pair_edge
+#### get\_vertex\_pair\_edge
 
 ```python
 def get_vertex_pair_edge(vertex_id0: VertexID, vertex_id1: VertexID) -> EdgeID
@@ -400,7 +400,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_instance_vertex"></a>
 
-#### get_vertex_instance_vertex
+#### get\_vertex\_instance\_vertex
 
 ```python
 def get_vertex_instance_vertex(
@@ -418,7 +418,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_instance_pair_edge"></a>
 
-#### get_vertex_instance_pair_edge
+#### get\_vertex\_instance\_pair\_edge
 
 ```python
 def get_vertex_instance_pair_edge(
@@ -438,7 +438,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_instance_for_triangle_vertex"></a>
 
-#### get_vertex_instance_for_triangle_vertex
+#### get\_vertex\_instance\_for\_triangle\_vertex
 
 ```python
 def get_vertex_instance_for_triangle_vertex(
@@ -457,7 +457,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_instance_for_polygon_vertex"></a>
 
-#### get_vertex_instance_for_polygon_vertex
+#### get\_vertex\_instance\_for\_polygon\_vertex
 
 ```python
 def get_vertex_instance_for_polygon_vertex(
@@ -476,7 +476,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_instance_count"></a>
 
-#### get_vertex_instance_count
+#### get\_vertex\_instance\_count
 
 ```python
 def get_vertex_instance_count() -> int
@@ -490,7 +490,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_instance_connected_triangles"></a>
 
-#### get_vertex_instance_connected_triangles
+#### get\_vertex\_instance\_connected\_triangles
 
 ```python
 def get_vertex_instance_connected_triangles(
@@ -510,7 +510,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_instance_connected_polygons"></a>
 
-#### get_vertex_instance_connected_polygons
+#### get\_vertex\_instance\_connected\_polygons
 
 ```python
 def get_vertex_instance_connected_polygons(
@@ -530,7 +530,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_count"></a>
 
-#### get_vertex_count
+#### get\_vertex\_count
 
 ```python
 def get_vertex_count() -> int
@@ -544,7 +544,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_connected_triangles"></a>
 
-#### get_vertex_connected_triangles
+#### get\_vertex\_connected\_triangles
 
 ```python
 def get_vertex_connected_triangles(vertex_id: VertexID) -> Array[TriangleID]
@@ -563,7 +563,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_connected_polygons"></a>
 
-#### get_vertex_connected_polygons
+#### get\_vertex\_connected\_polygons
 
 ```python
 def get_vertex_connected_polygons(vertex_id: VertexID) -> Array[PolygonID]
@@ -582,7 +582,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_connected_edges"></a>
 
-#### get_vertex_connected_edges
+#### get\_vertex\_connected\_edges
 
 ```python
 def get_vertex_connected_edges(vertex_id: VertexID) -> Array[EdgeID]
@@ -601,7 +601,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_vertex_adjacent_vertices"></a>
 
-#### get_vertex_adjacent_vertices
+#### get\_vertex\_adjacent\_vertices
 
 ```python
 def get_vertex_adjacent_vertices(vertex_id: VertexID) -> Array[VertexID]
@@ -620,7 +620,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_triangle_vertices"></a>
 
-#### get_triangle_vertices
+#### get\_triangle\_vertices
 
 ```python
 def get_triangle_vertices(triangle_id: TriangleID) -> Array[VertexID]
@@ -639,7 +639,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_triangle_vertex_instances"></a>
 
-#### get_triangle_vertex_instances
+#### get\_triangle\_vertex\_instances
 
 ```python
 def get_triangle_vertex_instances(
@@ -659,7 +659,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_triangle_vertex_instance"></a>
 
-#### get_triangle_vertex_instance
+#### get\_triangle\_vertex\_instance
 
 ```python
 def get_triangle_vertex_instance(triangle_id: TriangleID,
@@ -678,7 +678,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_triangle_polygon_group"></a>
 
-#### get_triangle_polygon_group
+#### get\_triangle\_polygon\_group
 
 ```python
 def get_triangle_polygon_group(triangle_id: TriangleID) -> PolygonGroupID
@@ -695,7 +695,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_triangle_polygon"></a>
 
-#### get_triangle_polygon
+#### get\_triangle\_polygon
 
 ```python
 def get_triangle_polygon(triangle_id: TriangleID) -> PolygonID
@@ -712,7 +712,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_triangle_edges"></a>
 
-#### get_triangle_edges
+#### get\_triangle\_edges
 
 ```python
 def get_triangle_edges(triangle_id: TriangleID) -> Array[EdgeID]
@@ -731,7 +731,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_triangle_count"></a>
 
-#### get_triangle_count
+#### get\_triangle\_count
 
 ```python
 def get_triangle_count() -> int
@@ -745,7 +745,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_triangle_adjacent_triangles"></a>
 
-#### get_triangle_adjacent_triangles
+#### get\_triangle\_adjacent\_triangles
 
 ```python
 def get_triangle_adjacent_triangles(
@@ -765,7 +765,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_vertices"></a>
 
-#### get_polygon_vertices
+#### get\_polygon\_vertices
 
 ```python
 def get_polygon_vertices(polygon_id: PolygonID) -> Array[VertexID]
@@ -784,7 +784,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_vertex_instances"></a>
 
-#### get_polygon_vertex_instances
+#### get\_polygon\_vertex\_instances
 
 ```python
 def get_polygon_vertex_instances(
@@ -804,7 +804,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_triangles"></a>
 
-#### get_polygon_triangles
+#### get\_polygon\_triangles
 
 ```python
 def get_polygon_triangles(polygon_id: PolygonID) -> Array[TriangleID]
@@ -823,7 +823,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_polygon_group"></a>
 
-#### get_polygon_polygon_group
+#### get\_polygon\_polygon\_group
 
 ```python
 def get_polygon_polygon_group(polygon_id: PolygonID) -> PolygonGroupID
@@ -840,7 +840,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_perimeter_edges"></a>
 
-#### get_polygon_perimeter_edges
+#### get\_polygon\_perimeter\_edges
 
 ```python
 def get_polygon_perimeter_edges(polygon_id: PolygonID) -> Array[EdgeID]
@@ -859,7 +859,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_internal_edges"></a>
 
-#### get_polygon_internal_edges
+#### get\_polygon\_internal\_edges
 
 ```python
 def get_polygon_internal_edges(polygon_id: PolygonID) -> Array[EdgeID]
@@ -879,7 +879,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_group_polygons"></a>
 
-#### get_polygon_group_polygons
+#### get\_polygon\_group\_polygons
 
 ```python
 def get_polygon_group_polygons(
@@ -899,7 +899,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_group_count"></a>
 
-#### get_polygon_group_count
+#### get\_polygon\_group\_count
 
 ```python
 def get_polygon_group_count() -> int
@@ -913,7 +913,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_count"></a>
 
-#### get_polygon_count
+#### get\_polygon\_count
 
 ```python
 def get_polygon_count() -> int
@@ -927,7 +927,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_polygon_adjacent_polygons"></a>
 
-#### get_polygon_adjacent_polygons
+#### get\_polygon\_adjacent\_polygons
 
 ```python
 def get_polygon_adjacent_polygons(polygon_id: PolygonID) -> Array[PolygonID]
@@ -946,7 +946,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_vertex_vertex_instances"></a>
 
-#### get_num_vertex_vertex_instances
+#### get\_num\_vertex\_vertex\_instances
 
 ```python
 def get_num_vertex_vertex_instances(vertex_id: VertexID) -> int
@@ -963,7 +963,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_vertex_instance_connected_triangles"></a>
 
-#### get_num_vertex_instance_connected_triangles
+#### get\_num\_vertex\_instance\_connected\_triangles
 
 ```python
 def get_num_vertex_instance_connected_triangles(
@@ -981,7 +981,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_vertex_instance_connected_polygons"></a>
 
-#### get_num_vertex_instance_connected_polygons
+#### get\_num\_vertex\_instance\_connected\_polygons
 
 ```python
 def get_num_vertex_instance_connected_polygons(
@@ -999,7 +999,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_vertex_connected_triangles"></a>
 
-#### get_num_vertex_connected_triangles
+#### get\_num\_vertex\_connected\_triangles
 
 ```python
 def get_num_vertex_connected_triangles(vertex_id: VertexID) -> int
@@ -1016,7 +1016,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_vertex_connected_polygons"></a>
 
-#### get_num_vertex_connected_polygons
+#### get\_num\_vertex\_connected\_polygons
 
 ```python
 def get_num_vertex_connected_polygons(vertex_id: VertexID) -> int
@@ -1033,7 +1033,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_vertex_connected_edges"></a>
 
-#### get_num_vertex_connected_edges
+#### get\_num\_vertex\_connected\_edges
 
 ```python
 def get_num_vertex_connected_edges(vertex_id: VertexID) -> int
@@ -1050,7 +1050,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_polygon_vertices"></a>
 
-#### get_num_polygon_vertices
+#### get\_num\_polygon\_vertices
 
 ```python
 def get_num_polygon_vertices(polygon_id: PolygonID) -> int
@@ -1067,7 +1067,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_polygon_triangles"></a>
 
-#### get_num_polygon_triangles
+#### get\_num\_polygon\_triangles
 
 ```python
 def get_num_polygon_triangles(polygon_id: PolygonID) -> int
@@ -1084,7 +1084,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_polygon_internal_edges"></a>
 
-#### get_num_polygon_internal_edges
+#### get\_num\_polygon\_internal\_edges
 
 ```python
 def get_num_polygon_internal_edges(polygon_id: PolygonID) -> int
@@ -1101,7 +1101,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_polygon_group_polygons"></a>
 
-#### get_num_polygon_group_polygons
+#### get\_num\_polygon\_group\_polygons
 
 ```python
 def get_num_polygon_group_polygons(polygon_group_id: PolygonGroupID) -> int
@@ -1118,7 +1118,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_edge_connected_triangles"></a>
 
-#### get_num_edge_connected_triangles
+#### get\_num\_edge\_connected\_triangles
 
 ```python
 def get_num_edge_connected_triangles(edge_id: EdgeID) -> int
@@ -1135,7 +1135,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_num_edge_connected_polygons"></a>
 
-#### get_num_edge_connected_polygons
+#### get\_num\_edge\_connected\_polygons
 
 ```python
 def get_num_edge_connected_polygons(edge_id: EdgeID) -> int
@@ -1152,7 +1152,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_edge_vertices"></a>
 
-#### get_edge_vertices
+#### get\_edge\_vertices
 
 ```python
 def get_edge_vertices(edge_id: EdgeID) -> Array[VertexID]
@@ -1171,7 +1171,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_edge_vertex"></a>
 
-#### get_edge_vertex
+#### get\_edge\_vertex
 
 ```python
 def get_edge_vertex(edge_id: EdgeID, vertex_number: int) -> VertexID
@@ -1189,7 +1189,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_edge_count"></a>
 
-#### get_edge_count
+#### get\_edge\_count
 
 ```python
 def get_edge_count() -> int
@@ -1203,7 +1203,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_edge_connected_triangles"></a>
 
-#### get_edge_connected_triangles
+#### get\_edge\_connected\_triangles
 
 ```python
 def get_edge_connected_triangles(edge_id: EdgeID) -> Array[TriangleID]
@@ -1222,7 +1222,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.get_edge_connected_polygons"></a>
 
-#### get_edge_connected_polygons
+#### get\_edge\_connected\_polygons
 
 ```python
 def get_edge_connected_polygons(edge_id: EdgeID) -> Array[PolygonID]
@@ -1252,7 +1252,7 @@ Empty the mesh description
 
 <a id="unreal.MeshDescriptionBase.delete_vertex_instance"></a>
 
-#### delete_vertex_instance
+#### delete\_vertex\_instance
 
 ```python
 def delete_vertex_instance(
@@ -1272,7 +1272,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.delete_vertex"></a>
 
-#### delete_vertex
+#### delete\_vertex
 
 ```python
 def delete_vertex(vertex_id: VertexID) -> None
@@ -1286,7 +1286,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.delete_triangle"></a>
 
-#### delete_triangle
+#### delete\_triangle
 
 ```python
 def delete_triangle(
@@ -1311,7 +1311,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.delete_polygon_group"></a>
 
-#### delete_polygon_group
+#### delete\_polygon\_group
 
 ```python
 def delete_polygon_group(polygon_group_id: PolygonGroupID) -> None
@@ -1325,7 +1325,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.delete_polygon"></a>
 
-#### delete_polygon
+#### delete\_polygon
 
 ```python
 def delete_polygon(
@@ -1350,7 +1350,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.delete_edge"></a>
 
-#### delete_edge
+#### delete\_edge
 
 ```python
 def delete_edge(edge_id: EdgeID) -> Array[VertexID]
@@ -1369,7 +1369,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.create_vertex_with_id"></a>
 
-#### create_vertex_with_id
+#### create\_vertex\_with\_id
 
 ```python
 def create_vertex_with_id(vertex_id: VertexID) -> None
@@ -1383,7 +1383,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.create_vertex_instance_with_id"></a>
 
-#### create_vertex_instance_with_id
+#### create\_vertex\_instance\_with\_id
 
 ```python
 def create_vertex_instance_with_id(vertex_instance_id: VertexInstanceID,
@@ -1399,7 +1399,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.create_vertex_instance"></a>
 
-#### create_vertex_instance
+#### create\_vertex\_instance
 
 ```python
 def create_vertex_instance(vertex_id: VertexID) -> VertexInstanceID
@@ -1416,7 +1416,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.create_vertex"></a>
 
-#### create_vertex
+#### create\_vertex
 
 ```python
 def create_vertex() -> VertexID
@@ -1430,7 +1430,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.create_triangle_with_id"></a>
 
-#### create_triangle_with_id
+#### create\_triangle\_with\_id
 
 ```python
 def create_triangle_with_id(
@@ -1453,7 +1453,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.create_triangle"></a>
 
-#### create_triangle
+#### create\_triangle
 
 ```python
 def create_triangle(
@@ -1476,7 +1476,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.create_polygon_with_id"></a>
 
-#### create_polygon_with_id
+#### create\_polygon\_with\_id
 
 ```python
 def create_polygon_with_id(
@@ -1500,7 +1500,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.create_polygon_group_with_id"></a>
 
-#### create_polygon_group_with_id
+#### create\_polygon\_group\_with\_id
 
 ```python
 def create_polygon_group_with_id(polygon_group_id: PolygonGroupID) -> None
@@ -1514,7 +1514,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.create_polygon_group"></a>
 
-#### create_polygon_group
+#### create\_polygon\_group
 
 ```python
 def create_polygon_group() -> PolygonGroupID
@@ -1528,7 +1528,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.create_polygon"></a>
 
-#### create_polygon
+#### create\_polygon
 
 ```python
 def create_polygon(
@@ -1551,7 +1551,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.create_edge_with_id"></a>
 
-#### create_edge_with_id
+#### create\_edge\_with\_id
 
 ```python
 def create_edge_with_id(edge_id: EdgeID, vertex_id0: VertexID,
@@ -1568,7 +1568,7 @@ Args:
 
 <a id="unreal.MeshDescriptionBase.create_edge"></a>
 
-#### create_edge
+#### create\_edge
 
 ```python
 def create_edge(vertex_id0: VertexID, vertex_id1: VertexID) -> EdgeID
@@ -1586,7 +1586,7 @@ Returns:
 
 <a id="unreal.MeshDescriptionBase.compute_polygon_triangulation"></a>
 
-#### compute_polygon_triangulation
+#### compute\_polygon\_triangulation
 
 ```python
 def compute_polygon_triangulation(polygon_id: PolygonID) -> None

@@ -23,7 +23,7 @@ State Tree Node Blueprint Base
 
 <a id="unreal.StateTreeNodeBlueprintBase.send_event"></a>
 
-#### send_event
+#### send\_event
 
 ```python
 def send_event(event: StateTreeEvent) -> None
@@ -37,7 +37,7 @@ Args:
 
 <a id="unreal.StateTreeNodeBlueprintBase.request_transition"></a>
 
-#### request_transition
+#### request\_transition
 
 ```python
 def request_transition(
@@ -55,7 +55,7 @@ Args:
 
 <a id="unreal.StateTreeNodeBlueprintBase.receive_get_description"></a>
 
-#### receive_get_description
+#### receive\_get\_description
 
 ```python
 def receive_get_description(formatting: StateTreeNodeFormatting) -> Text

@@ -56,13 +56,13 @@ EPCGChange Type
 
 <a id="unreal.PCGChangeType.GENERATION_GRID"></a>
 
-#### GENERATION_GRID
+#### GENERATION\_GRID
 
 64: Anything related to generation grids - changing grid size or adding/removing grid size nodes.
 
 <a id="unreal.PCGChangeType.SHADER_SOURCE"></a>
 
-#### SHADER_SOURCE
+#### SHADER\_SOURCE
 
 128: Change to any shader source code.
 

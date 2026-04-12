@@ -23,7 +23,7 @@ Spline Point
 
 <a id="unreal.SplinePoint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(input_key: float = 0.000000,
@@ -37,7 +37,7 @@ def __init__(input_key: float = 0.000000,
 
 <a id="unreal.SplinePoint.input_key"></a>
 
-#### input_key
+#### input\_key
 
 ```python
 @property
@@ -48,7 +48,7 @@ def input_key() -> float
 
 <a id="unreal.SplinePoint.input_key"></a>
 
-#### input_key
+#### input\_key
 
 ```python
 @input_key.setter
@@ -77,7 +77,7 @@ def position(value: Vector) -> None
 
 <a id="unreal.SplinePoint.arrive_tangent"></a>
 
-#### arrive_tangent
+#### arrive\_tangent
 
 ```python
 @property
@@ -88,7 +88,7 @@ def arrive_tangent() -> Vector
 
 <a id="unreal.SplinePoint.arrive_tangent"></a>
 
-#### arrive_tangent
+#### arrive\_tangent
 
 ```python
 @arrive_tangent.setter
@@ -97,7 +97,7 @@ def arrive_tangent(value: Vector) -> None
 
 <a id="unreal.SplinePoint.leave_tangent"></a>
 
-#### leave_tangent
+#### leave\_tangent
 
 ```python
 @property
@@ -108,7 +108,7 @@ def leave_tangent() -> Vector
 
 <a id="unreal.SplinePoint.leave_tangent"></a>
 
-#### leave_tangent
+#### leave\_tangent
 
 ```python
 @leave_tangent.setter

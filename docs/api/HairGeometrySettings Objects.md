@@ -21,7 +21,7 @@ Hair Geometry Settings
 
 <a id="unreal.HairGeometrySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(hair_width: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(hair_width: float = 0.000000,
 
 <a id="unreal.HairGeometrySettings.hair_width"></a>
 
-#### hair_width
+#### hair\_width
 
 ```python
 @property
@@ -43,7 +43,7 @@ def hair_width() -> float
 
 <a id="unreal.HairGeometrySettings.hair_width"></a>
 
-#### hair_width
+#### hair\_width
 
 ```python
 @hair_width.setter
@@ -52,7 +52,7 @@ def hair_width(value: float) -> None
 
 <a id="unreal.HairGeometrySettings.hair_width_override"></a>
 
-#### hair_width_override
+#### hair\_width\_override
 
 ```python
 @property
@@ -63,7 +63,7 @@ def hair_width_override() -> bool
 
 <a id="unreal.HairGeometrySettings.hair_width_override"></a>
 
-#### hair_width_override
+#### hair\_width\_override
 
 ```python
 @hair_width_override.setter
@@ -72,7 +72,7 @@ def hair_width_override(value: bool) -> None
 
 <a id="unreal.HairGeometrySettings.hair_root_scale"></a>
 
-#### hair_root_scale
+#### hair\_root\_scale
 
 ```python
 @property
@@ -83,7 +83,7 @@ def hair_root_scale() -> float
 
 <a id="unreal.HairGeometrySettings.hair_root_scale"></a>
 
-#### hair_root_scale
+#### hair\_root\_scale
 
 ```python
 @hair_root_scale.setter
@@ -92,7 +92,7 @@ def hair_root_scale(value: float) -> None
 
 <a id="unreal.HairGeometrySettings.hair_tip_scale"></a>
 
-#### hair_tip_scale
+#### hair\_tip\_scale
 
 ```python
 @property
@@ -103,7 +103,7 @@ def hair_tip_scale() -> float
 
 <a id="unreal.HairGeometrySettings.hair_tip_scale"></a>
 
-#### hair_tip_scale
+#### hair\_tip\_scale
 
 ```python
 @hair_tip_scale.setter

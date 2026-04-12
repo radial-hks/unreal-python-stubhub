@@ -144,7 +144,7 @@ Point Light
 
 <a id="unreal.PointLight.point_light_component"></a>
 
-#### point_light_component
+#### point\_light\_component
 
 ```python
 @property
@@ -155,7 +155,7 @@ def point_light_component() -> PointLightComponent
 
 <a id="unreal.PointLight.set_radius"></a>
 
-#### set_radius
+#### set\_radius
 
 ```python
 def set_radius(new_radius: float) -> None
@@ -170,7 +170,7 @@ Args:
 
 <a id="unreal.PointLight.set_light_falloff_exponent"></a>
 
-#### set_light_falloff_exponent
+#### set\_light\_falloff\_exponent
 
 ```python
 def set_light_falloff_exponent(new_light_falloff_exponent: float) -> None

@@ -20,7 +20,7 @@ Control Rig Shape Definition
 
 <a id="unreal.ControlRigShapeDefinition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -34,7 +34,7 @@ def __init__(
 
 <a id="unreal.ControlRigShapeDefinition.shape_name"></a>
 
-#### shape_name
+#### shape\_name
 
 ```python
 @property
@@ -45,7 +45,7 @@ def shape_name() -> Name
 
 <a id="unreal.ControlRigShapeDefinition.gizmo_name"></a>
 
-#### gizmo_name
+#### gizmo\_name
 
 ```python
 @property
@@ -56,7 +56,7 @@ deprecated: 'gizmo_name' was renamed to 'shape_name'.
 
 <a id="unreal.ControlRigShapeDefinition.static_mesh"></a>
 
-#### static_mesh
+#### static\_mesh
 
 ```python
 @property

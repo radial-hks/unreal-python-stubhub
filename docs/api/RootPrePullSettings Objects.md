@@ -25,7 +25,7 @@ Root Pre Pull Settings
 
 <a id="unreal.RootPrePullSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(rotation_alpha: float = 0.000000,
@@ -40,7 +40,7 @@ def __init__(rotation_alpha: float = 0.000000,
 
 <a id="unreal.RootPrePullSettings.rotation_alpha"></a>
 
-#### rotation_alpha
+#### rotation\_alpha
 
 ```python
 @property
@@ -51,7 +51,7 @@ def rotation_alpha() -> float
 
 <a id="unreal.RootPrePullSettings.rotation_alpha"></a>
 
-#### rotation_alpha
+#### rotation\_alpha
 
 ```python
 @rotation_alpha.setter
@@ -60,7 +60,7 @@ def rotation_alpha(value: float) -> None
 
 <a id="unreal.RootPrePullSettings.rotation_alpha_x"></a>
 
-#### rotation_alpha_x
+#### rotation\_alpha\_x
 
 ```python
 @property
@@ -71,7 +71,7 @@ def rotation_alpha_x() -> float
 
 <a id="unreal.RootPrePullSettings.rotation_alpha_x"></a>
 
-#### rotation_alpha_x
+#### rotation\_alpha\_x
 
 ```python
 @rotation_alpha_x.setter
@@ -80,7 +80,7 @@ def rotation_alpha_x(value: float) -> None
 
 <a id="unreal.RootPrePullSettings.rotation_alpha_y"></a>
 
-#### rotation_alpha_y
+#### rotation\_alpha\_y
 
 ```python
 @property
@@ -91,7 +91,7 @@ def rotation_alpha_y() -> float
 
 <a id="unreal.RootPrePullSettings.rotation_alpha_y"></a>
 
-#### rotation_alpha_y
+#### rotation\_alpha\_y
 
 ```python
 @rotation_alpha_y.setter
@@ -100,7 +100,7 @@ def rotation_alpha_y(value: float) -> None
 
 <a id="unreal.RootPrePullSettings.rotation_alpha_z"></a>
 
-#### rotation_alpha_z
+#### rotation\_alpha\_z
 
 ```python
 @property
@@ -111,7 +111,7 @@ def rotation_alpha_z() -> float
 
 <a id="unreal.RootPrePullSettings.rotation_alpha_z"></a>
 
-#### rotation_alpha_z
+#### rotation\_alpha\_z
 
 ```python
 @rotation_alpha_z.setter
@@ -120,7 +120,7 @@ def rotation_alpha_z(value: float) -> None
 
 <a id="unreal.RootPrePullSettings.position_alpha"></a>
 
-#### position_alpha
+#### position\_alpha
 
 ```python
 @property
@@ -131,7 +131,7 @@ def position_alpha() -> float
 
 <a id="unreal.RootPrePullSettings.position_alpha"></a>
 
-#### position_alpha
+#### position\_alpha
 
 ```python
 @position_alpha.setter
@@ -140,7 +140,7 @@ def position_alpha(value: float) -> None
 
 <a id="unreal.RootPrePullSettings.position_alpha_x"></a>
 
-#### position_alpha_x
+#### position\_alpha\_x
 
 ```python
 @property
@@ -151,7 +151,7 @@ def position_alpha_x() -> float
 
 <a id="unreal.RootPrePullSettings.position_alpha_x"></a>
 
-#### position_alpha_x
+#### position\_alpha\_x
 
 ```python
 @position_alpha_x.setter
@@ -160,7 +160,7 @@ def position_alpha_x(value: float) -> None
 
 <a id="unreal.RootPrePullSettings.position_alpha_y"></a>
 
-#### position_alpha_y
+#### position\_alpha\_y
 
 ```python
 @property
@@ -171,7 +171,7 @@ def position_alpha_y() -> float
 
 <a id="unreal.RootPrePullSettings.position_alpha_y"></a>
 
-#### position_alpha_y
+#### position\_alpha\_y
 
 ```python
 @position_alpha_y.setter
@@ -180,7 +180,7 @@ def position_alpha_y(value: float) -> None
 
 <a id="unreal.RootPrePullSettings.position_alpha_z"></a>
 
-#### position_alpha_z
+#### position\_alpha\_z
 
 ```python
 @property
@@ -191,7 +191,7 @@ def position_alpha_z() -> float
 
 <a id="unreal.RootPrePullSettings.position_alpha_z"></a>
 
-#### position_alpha_z
+#### position\_alpha\_z
 
 ```python
 @position_alpha_z.setter

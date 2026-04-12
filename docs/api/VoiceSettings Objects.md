@@ -22,7 +22,7 @@ Voice Settings
 
 <a id="unreal.VoiceSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component_to_attach_to: SceneComponent = None,
@@ -32,7 +32,7 @@ def __init__(component_to_attach_to: SceneComponent = None,
 
 <a id="unreal.VoiceSettings.component_to_attach_to"></a>
 
-#### component_to_attach_to
+#### component\_to\_attach\_to
 
 ```python
 @property
@@ -45,7 +45,7 @@ If this is not set, the voice will not be spatialized.
 
 <a id="unreal.VoiceSettings.component_to_attach_to"></a>
 
-#### component_to_attach_to
+#### component\_to\_attach\_to
 
 ```python
 @component_to_attach_to.setter
@@ -54,7 +54,7 @@ def component_to_attach_to(value: SceneComponent) -> None
 
 <a id="unreal.VoiceSettings.attenuation_settings"></a>
 
-#### attenuation_settings
+#### attenuation\_settings
 
 ```python
 @property
@@ -66,7 +66,7 @@ This should only be used when ComponentToAttachTo is set.
 
 <a id="unreal.VoiceSettings.attenuation_settings"></a>
 
-#### attenuation_settings
+#### attenuation\_settings
 
 ```python
 @attenuation_settings.setter
@@ -75,7 +75,7 @@ def attenuation_settings(value: SoundAttenuation) -> None
 
 <a id="unreal.VoiceSettings.source_effect_chain"></a>
 
-#### source_effect_chain
+#### source\_effect\_chain
 
 ```python
 @property
@@ -86,7 +86,7 @@ def source_effect_chain() -> SoundEffectSourcePresetChain
 
 <a id="unreal.VoiceSettings.source_effect_chain"></a>
 
-#### source_effect_chain
+#### source\_effect\_chain
 
 ```python
 @source_effect_chain.setter

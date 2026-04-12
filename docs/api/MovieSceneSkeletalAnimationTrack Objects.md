@@ -25,7 +25,7 @@ Handles animation of skeletal mesh actors
 
 <a id="unreal.MovieSceneSkeletalAnimationTrack.swap_root_bone"></a>
 
-#### swap_root_bone
+#### swap\_root\_bone
 
 ```python
 @property
@@ -36,7 +36,7 @@ def swap_root_bone() -> SwapRootBone
 
 <a id="unreal.MovieSceneSkeletalAnimationTrack.swap_root_bone"></a>
 
-#### swap_root_bone
+#### swap\_root\_bone
 
 ```python
 @swap_root_bone.setter

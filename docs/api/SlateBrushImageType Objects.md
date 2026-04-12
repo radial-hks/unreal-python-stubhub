@@ -13,13 +13,13 @@ Enumerates brush image types.
 
 <a id="unreal.SlateBrushImageType.NO_IMAGE"></a>
 
-#### NO_IMAGE
+#### NO\_IMAGE
 
 0: No image is loaded.  Color only brushes, transparent brushes etc.
 
 <a id="unreal.SlateBrushImageType.FULL_COLOR"></a>
 
-#### FULL_COLOR
+#### FULL\_COLOR
 
 1: The image to be loaded is in full color.
 

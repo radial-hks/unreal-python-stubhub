@@ -14,55 +14,55 @@ ESprite Pivot Mode
 
 <a id="unreal.SpritePivotMode.TOP_LEFT"></a>
 
-#### TOP_LEFT
+#### TOP\_LEFT
 
 0
 
 <a id="unreal.SpritePivotMode.TOP_CENTER"></a>
 
-#### TOP_CENTER
+#### TOP\_CENTER
 
 1
 
 <a id="unreal.SpritePivotMode.TOP_RIGHT"></a>
 
-#### TOP_RIGHT
+#### TOP\_RIGHT
 
 2
 
 <a id="unreal.SpritePivotMode.CENTER_LEFT"></a>
 
-#### CENTER_LEFT
+#### CENTER\_LEFT
 
 3
 
 <a id="unreal.SpritePivotMode.CENTER_CENTER"></a>
 
-#### CENTER_CENTER
+#### CENTER\_CENTER
 
 4
 
 <a id="unreal.SpritePivotMode.CENTER_RIGHT"></a>
 
-#### CENTER_RIGHT
+#### CENTER\_RIGHT
 
 5
 
 <a id="unreal.SpritePivotMode.BOTTOM_LEFT"></a>
 
-#### BOTTOM_LEFT
+#### BOTTOM\_LEFT
 
 6
 
 <a id="unreal.SpritePivotMode.BOTTOM_CENTER"></a>
 
-#### BOTTOM_CENTER
+#### BOTTOM\_CENTER
 
 7
 
 <a id="unreal.SpritePivotMode.BOTTOM_RIGHT"></a>
 
-#### BOTTOM_RIGHT
+#### BOTTOM\_RIGHT
 
 8
 

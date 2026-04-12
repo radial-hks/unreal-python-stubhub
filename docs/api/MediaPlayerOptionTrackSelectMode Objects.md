@@ -13,13 +13,13 @@ EMedia Player Option Track Select Mode
 
 <a id="unreal.MediaPlayerOptionTrackSelectMode.USE_MEDIA_PLAYER_DEFAULTS"></a>
 
-#### USE_MEDIA_PLAYER_DEFAULTS
+#### USE\_MEDIA\_PLAYER\_DEFAULTS
 
 0: Let the media player choose defaults.
 
 <a id="unreal.MediaPlayerOptionTrackSelectMode.USE_TRACK_OPTION_INDICES"></a>
 
-#### USE_TRACK_OPTION_INDICES
+#### USE\_TRACK\_OPTION\_INDICES
 
 1: Use fixed track indices as specified with MediaPlayerTrackOptions
 

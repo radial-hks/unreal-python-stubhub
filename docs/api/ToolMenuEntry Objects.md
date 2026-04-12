@@ -27,7 +27,7 @@ Many entries are created for you via the methods of FToolMenuSection, such as FT
 
 <a id="unreal.ToolMenuEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -106,7 +106,7 @@ def type(value: MultiBlockType) -> None
 
 <a id="unreal.ToolMenuEntry.user_interface_action_type"></a>
 
-#### user_interface_action_type
+#### user\_interface\_action\_type
 
 ```python
 @property
@@ -117,7 +117,7 @@ def user_interface_action_type() -> UserInterfaceActionType
 
 <a id="unreal.ToolMenuEntry.user_interface_action_type"></a>
 
-#### user_interface_action_type
+#### user\_interface\_action\_type
 
 ```python
 @user_interface_action_type.setter
@@ -126,7 +126,7 @@ def user_interface_action_type(value: UserInterfaceActionType) -> None
 
 <a id="unreal.ToolMenuEntry.tutorial_highlight_name"></a>
 
-#### tutorial_highlight_name
+#### tutorial\_highlight\_name
 
 ```python
 @property
@@ -137,7 +137,7 @@ def tutorial_highlight_name() -> Name
 
 <a id="unreal.ToolMenuEntry.tutorial_highlight_name"></a>
 
-#### tutorial_highlight_name
+#### tutorial\_highlight\_name
 
 ```python
 @tutorial_highlight_name.setter
@@ -146,7 +146,7 @@ def tutorial_highlight_name(value: Name) -> None
 
 <a id="unreal.ToolMenuEntry.insert_position"></a>
 
-#### insert_position
+#### insert\_position
 
 ```python
 @property
@@ -157,7 +157,7 @@ def insert_position() -> ToolMenuInsert
 
 <a id="unreal.ToolMenuEntry.insert_position"></a>
 
-#### insert_position
+#### insert\_position
 
 ```python
 @insert_position.setter
@@ -166,7 +166,7 @@ def insert_position(value: ToolMenuInsert) -> None
 
 <a id="unreal.ToolMenuEntry.should_close_window_after_menu_selection"></a>
 
-#### should_close_window_after_menu_selection
+#### should\_close\_window\_after\_menu\_selection
 
 ```python
 @property
@@ -177,7 +177,7 @@ def should_close_window_after_menu_selection() -> bool
 
 <a id="unreal.ToolMenuEntry.should_close_window_after_menu_selection"></a>
 
-#### should_close_window_after_menu_selection
+#### should\_close\_window\_after\_menu\_selection
 
 ```python
 @should_close_window_after_menu_selection.setter
@@ -186,7 +186,7 @@ def should_close_window_after_menu_selection(value: bool) -> None
 
 <a id="unreal.ToolMenuEntry.script_object"></a>
 
-#### script_object
+#### script\_object
 
 ```python
 @property
@@ -197,7 +197,7 @@ def script_object() -> ToolMenuEntryScript
 
 <a id="unreal.ToolMenuEntry.script_object"></a>
 
-#### script_object
+#### script\_object
 
 ```python
 @script_object.setter
@@ -206,7 +206,7 @@ def script_object(value: ToolMenuEntryScript) -> None
 
 <a id="unreal.ToolMenuEntry.style_name_override"></a>
 
-#### style_name_override
+#### style\_name\_override
 
 ```python
 @property
@@ -217,7 +217,7 @@ def style_name_override() -> Name
 
 <a id="unreal.ToolMenuEntry.style_name_override"></a>
 
-#### style_name_override
+#### style\_name\_override
 
 ```python
 @style_name_override.setter
@@ -226,7 +226,7 @@ def style_name_override(value: Name) -> None
 
 <a id="unreal.ToolMenuEntry.set_tool_tip"></a>
 
-#### set_tool_tip
+#### set\_tool\_tip
 
 ```python
 def set_tool_tip(tool_tip: Text) -> None
@@ -240,7 +240,7 @@ Args:
 
 <a id="unreal.ToolMenuEntry.set_string_command"></a>
 
-#### set_string_command
+#### set\_string\_command
 
 ```python
 def set_string_command(type: ToolMenuStringCommandType, custom_type: Name,
@@ -257,7 +257,7 @@ Args:
 
 <a id="unreal.ToolMenuEntry.set_label"></a>
 
-#### set_label
+#### set\_label
 
 ```python
 def set_label(label: Text) -> None
@@ -271,7 +271,7 @@ Args:
 
 <a id="unreal.ToolMenuEntry.set_icon"></a>
 
-#### set_icon
+#### set\_icon
 
 ```python
 def set_icon(style_set_name: Name,
@@ -289,7 +289,7 @@ Args:
 
 <a id="unreal.ToolMenuEntry.get_tool_tip"></a>
 
-#### get_tool_tip
+#### get\_tool\_tip
 
 ```python
 def get_tool_tip() -> Text
@@ -303,7 +303,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntry.get_label"></a>
 
-#### get_label
+#### get\_label
 
 ```python
 def get_label() -> Text

@@ -13,13 +13,13 @@ ESimulation Overlap
 
 <a id="unreal.SimulationOverlap.COLLISION_OVERLAP"></a>
 
-#### COLLISION_OVERLAP
+#### COLLISION\_OVERLAP
 
 0: Instances overlap with collision
 
 <a id="unreal.SimulationOverlap.SHADE_OVERLAP"></a>
 
-#### SHADE_OVERLAP
+#### SHADE\_OVERLAP
 
 1: Instances overlap with shade
 

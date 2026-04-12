@@ -14,7 +14,7 @@ Modular Rig Single Connection
 
 <a id="unreal.ModularRigSingleConnection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

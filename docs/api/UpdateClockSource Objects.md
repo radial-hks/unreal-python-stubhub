@@ -31,7 +31,7 @@ Enum used to define how to update to a particular time
 
 <a id="unreal.UpdateClockSource.RELATIVE_TIMECODE"></a>
 
-#### RELATIVE_TIMECODE
+#### RELATIVE\_TIMECODE
 
 3: Time relative to the timecode provider for timing. Does not honor world or actor pause state.
 
@@ -43,7 +43,7 @@ Enum used to define how to update to a particular time
 
 <a id="unreal.UpdateClockSource.PLAY_EVERY_FRAME"></a>
 
-#### PLAY_EVERY_FRAME
+#### PLAY\_EVERY\_FRAME
 
 5: Debugging Tool: Hold on each whole frame for a Sequencer.SecondsPerFrame many wall-clock seconds before advancing to the next one. Does not honor world or actor pause state or time dilation and audio will be out of sync.
 

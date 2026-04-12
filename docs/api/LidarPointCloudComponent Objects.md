@@ -229,7 +229,7 @@ Component that allows you to render specified point cloud section
 
 <a id="unreal.LidarPointCloudComponent.point_cloud"></a>
 
-#### point_cloud
+#### point\_cloud
 
 ```python
 @property
@@ -240,7 +240,7 @@ def point_cloud() -> LidarPointCloud
 
 <a id="unreal.LidarPointCloudComponent.custom_material"></a>
 
-#### custom_material
+#### custom\_material
 
 ```python
 @property
@@ -252,7 +252,7 @@ Set to None to use the default one instead.
 
 <a id="unreal.LidarPointCloudComponent.point_size"></a>
 
-#### point_size
+#### point\_size
 
 ```python
 @property
@@ -264,7 +264,7 @@ Set to 0 to switch to 1 pixel points.
 
 <a id="unreal.LidarPointCloudComponent.point_size"></a>
 
-#### point_size
+#### point\_size
 
 ```python
 @point_size.setter
@@ -273,7 +273,7 @@ def point_size(value: float) -> None
 
 <a id="unreal.LidarPointCloudComponent.scaling_method"></a>
 
-#### scaling_method
+#### scaling\_method
 
 ```python
 @property
@@ -284,7 +284,7 @@ def scaling_method() -> LidarPointCloudScalingMethod
 
 <a id="unreal.LidarPointCloudComponent.scaling_method"></a>
 
-#### scaling_method
+#### scaling\_method
 
 ```python
 @scaling_method.setter
@@ -293,7 +293,7 @@ def scaling_method(value: LidarPointCloudScalingMethod) -> None
 
 <a id="unreal.LidarPointCloudComponent.gap_filling_strength"></a>
 
-#### gap_filling_strength
+#### gap\_filling\_strength
 
 ```python
 @property
@@ -306,7 +306,7 @@ This setting may interfere with AO
 
 <a id="unreal.LidarPointCloudComponent.gap_filling_strength"></a>
 
-#### gap_filling_strength
+#### gap\_filling\_strength
 
 ```python
 @gap_filling_strength.setter
@@ -315,7 +315,7 @@ def gap_filling_strength(value: float) -> None
 
 <a id="unreal.LidarPointCloudComponent.color_source"></a>
 
-#### color_source
+#### color\_source
 
 ```python
 @property
@@ -326,7 +326,7 @@ def color_source() -> LidarPointCloudColorationMode
 
 <a id="unreal.LidarPointCloudComponent.color_source"></a>
 
-#### color_source
+#### color\_source
 
 ```python
 @color_source.setter
@@ -335,7 +335,7 @@ def color_source(value: LidarPointCloudColorationMode) -> None
 
 <a id="unreal.LidarPointCloudComponent.point_shape"></a>
 
-#### point_shape
+#### point\_shape
 
 ```python
 @property
@@ -347,7 +347,7 @@ deprecated: Use GetPointShape() / SetPointShape() instead.
 
 <a id="unreal.LidarPointCloudComponent.point_shape"></a>
 
-#### point_shape
+#### point\_shape
 
 ```python
 @point_shape.setter
@@ -356,7 +356,7 @@ def point_shape(value: LidarPointCloudSpriteShape) -> None
 
 <a id="unreal.LidarPointCloudComponent.point_orientation"></a>
 
-#### point_orientation
+#### point\_orientation
 
 ```python
 @property
@@ -367,7 +367,7 @@ def point_orientation() -> LidarPointCloudSpriteOrientation
 
 <a id="unreal.LidarPointCloudComponent.point_orientation"></a>
 
-#### point_orientation
+#### point\_orientation
 
 ```python
 @point_orientation.setter
@@ -376,7 +376,7 @@ def point_orientation(value: LidarPointCloudSpriteOrientation) -> None
 
 <a id="unreal.LidarPointCloudComponent.classification_colors"></a>
 
-#### classification_colors
+#### classification\_colors
 
 ```python
 @property
@@ -388,7 +388,7 @@ Maps the given classification ID to a color.
 
 <a id="unreal.LidarPointCloudComponent.classification_colors"></a>
 
-#### classification_colors
+#### classification\_colors
 
 ```python
 @classification_colors.setter
@@ -397,7 +397,7 @@ def classification_colors(value: Map[int, LinearColor]) -> None
 
 <a id="unreal.LidarPointCloudComponent.elevation_color_bottom"></a>
 
-#### elevation_color_bottom
+#### elevation\_color\_bottom
 
 ```python
 @property
@@ -408,7 +408,7 @@ def elevation_color_bottom() -> LinearColor
 
 <a id="unreal.LidarPointCloudComponent.elevation_color_bottom"></a>
 
-#### elevation_color_bottom
+#### elevation\_color\_bottom
 
 ```python
 @elevation_color_bottom.setter
@@ -417,7 +417,7 @@ def elevation_color_bottom(value: LinearColor) -> None
 
 <a id="unreal.LidarPointCloudComponent.elevation_color_top"></a>
 
-#### elevation_color_top
+#### elevation\_color\_top
 
 ```python
 @property
@@ -428,7 +428,7 @@ def elevation_color_top() -> LinearColor
 
 <a id="unreal.LidarPointCloudComponent.elevation_color_top"></a>
 
-#### elevation_color_top
+#### elevation\_color\_top
 
 ```python
 @elevation_color_top.setter
@@ -437,7 +437,7 @@ def elevation_color_top(value: LinearColor) -> None
 
 <a id="unreal.LidarPointCloudComponent.point_size_bias"></a>
 
-#### point_size_bias
+#### point\_size\_bias
 
 ```python
 @property
@@ -449,7 +449,7 @@ Values in range 0.035 - 0.05 seem to produce best overall results.
 
 <a id="unreal.LidarPointCloudComponent.point_size_bias"></a>
 
-#### point_size_bias
+#### point\_size\_bias
 
 ```python
 @point_size_bias.setter
@@ -558,7 +558,7 @@ def offset(value: Vector4) -> None
 
 <a id="unreal.LidarPointCloudComponent.color_tint"></a>
 
-#### color_tint
+#### color\_tint
 
 ```python
 @property
@@ -569,7 +569,7 @@ def color_tint() -> LinearColor
 
 <a id="unreal.LidarPointCloudComponent.color_tint"></a>
 
-#### color_tint
+#### color\_tint
 
 ```python
 @color_tint.setter
@@ -578,7 +578,7 @@ def color_tint(value: LinearColor) -> None
 
 <a id="unreal.LidarPointCloudComponent.intensity_influence"></a>
 
-#### intensity_influence
+#### intensity\_influence
 
 ```python
 @property
@@ -589,7 +589,7 @@ def intensity_influence() -> float
 
 <a id="unreal.LidarPointCloudComponent.intensity_influence"></a>
 
-#### intensity_influence
+#### intensity\_influence
 
 ```python
 @intensity_influence.setter
@@ -598,7 +598,7 @@ def intensity_influence(value: float) -> None
 
 <a id="unreal.LidarPointCloudComponent.use_frustum_culling"></a>
 
-#### use_frustum_culling
+#### use\_frustum\_culling
 
 ```python
 @property
@@ -611,7 +611,7 @@ with the data streaming lag when shooting cinematics.
 
 <a id="unreal.LidarPointCloudComponent.use_frustum_culling"></a>
 
-#### use_frustum_culling
+#### use\_frustum\_culling
 
 ```python
 @use_frustum_culling.setter
@@ -620,7 +620,7 @@ def use_frustum_culling(value: bool) -> None
 
 <a id="unreal.LidarPointCloudComponent.min_depth"></a>
 
-#### min_depth
+#### min\_depth
 
 ```python
 @property
@@ -632,7 +632,7 @@ def min_depth() -> int
 
 <a id="unreal.LidarPointCloudComponent.min_depth"></a>
 
-#### min_depth
+#### min\_depth
 
 ```python
 @min_depth.setter
@@ -641,7 +641,7 @@ def min_depth(value: int) -> None
 
 <a id="unreal.LidarPointCloudComponent.max_depth"></a>
 
-#### max_depth
+#### max\_depth
 
 ```python
 @property
@@ -653,7 +653,7 @@ def max_depth() -> int
 
 <a id="unreal.LidarPointCloudComponent.max_depth"></a>
 
-#### max_depth
+#### max\_depth
 
 ```python
 @max_depth.setter
@@ -662,7 +662,7 @@ def max_depth(value: int) -> None
 
 <a id="unreal.LidarPointCloudComponent.draw_node_bounds"></a>
 
-#### draw_node_bounds
+#### draw\_node\_bounds
 
 ```python
 @property
@@ -673,7 +673,7 @@ def draw_node_bounds() -> bool
 
 <a id="unreal.LidarPointCloudComponent.draw_node_bounds"></a>
 
-#### draw_node_bounds
+#### draw\_node\_bounds
 
 ```python
 @draw_node_bounds.setter
@@ -682,7 +682,7 @@ def draw_node_bounds(value: bool) -> None
 
 <a id="unreal.LidarPointCloudComponent.set_visibility_of_points_in_sphere"></a>
 
-#### set_visibility_of_points_in_sphere
+#### set\_visibility\_of\_points\_in\_sphere
 
 ```python
 def set_visibility_of_points_in_sphere(new_visibility: bool, center: Vector,
@@ -699,7 +699,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.set_visibility_of_points_in_box"></a>
 
-#### set_visibility_of_points_in_box
+#### set\_visibility\_of\_points\_in\_box
 
 ```python
 def set_visibility_of_points_in_box(new_visibility: bool, center: Vector,
@@ -716,7 +716,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.set_visibility_of_points_by_ray"></a>
 
-#### set_visibility_of_points_by_ray
+#### set\_visibility\_of\_points\_by\_ray
 
 ```python
 def set_visibility_of_points_by_ray(new_visibility: bool, origin: Vector,
@@ -734,7 +734,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.set_visibility_of_first_point_by_ray"></a>
 
-#### set_visibility_of_first_point_by_ray
+#### set\_visibility\_of\_first\_point\_by\_ray
 
 ```python
 def set_visibility_of_first_point_by_ray(new_visibility: bool, origin: Vector,
@@ -753,7 +753,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.set_point_shape"></a>
 
-#### set_point_shape
+#### set\_point\_shape
 
 ```python
 def set_point_shape(new_point_shape: LidarPointCloudSpriteShape) -> None
@@ -767,7 +767,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.set_point_cloud"></a>
 
-#### set_point_cloud
+#### set\_point\_cloud
 
 ```python
 def set_point_cloud(point_cloud: LidarPointCloud) -> None
@@ -781,7 +781,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.remove_points_in_sphere"></a>
 
-#### remove_points_in_sphere
+#### remove\_points\_in\_sphere
 
 ```python
 def remove_points_in_sphere(center: Vector, radius: float,
@@ -798,7 +798,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.remove_points_in_box"></a>
 
-#### remove_points_in_box
+#### remove\_points\_in\_box
 
 ```python
 def remove_points_in_box(center: Vector, extent: Vector,
@@ -815,7 +815,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.remove_points_by_ray"></a>
 
-#### remove_points_by_ray
+#### remove\_points\_by\_ray
 
 ```python
 def remove_points_by_ray(origin: Vector, direction: Vector, radius: float,
@@ -833,7 +833,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.remove_first_point_by_ray"></a>
 
-#### remove_first_point_by_ray
+#### remove\_first\_point\_by\_ray
 
 ```python
 def remove_first_point_by_ray(origin: Vector, direction: Vector, radius: float,
@@ -851,7 +851,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.line_trace_single"></a>
 
-#### line_trace_single
+#### line\_trace\_single
 
 ```python
 def line_trace_single(origin: Vector, direction: Vector, radius: float,
@@ -874,7 +874,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.line_trace_multi"></a>
 
-#### line_trace_multi
+#### line\_trace\_multi
 
 ```python
 def line_trace_multi(
@@ -902,7 +902,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.has_points_in_sphere"></a>
 
-#### has_points_in_sphere
+#### has\_points\_in\_sphere
 
 ```python
 def has_points_in_sphere(center: Vector, radius: float,
@@ -922,7 +922,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.has_points_in_box"></a>
 
-#### has_points_in_box
+#### has\_points\_in\_box
 
 ```python
 def has_points_in_box(center: Vector, extent: Vector,
@@ -942,7 +942,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.has_points_by_ray"></a>
 
-#### has_points_by_ray
+#### has\_points\_by\_ray
 
 ```python
 def has_points_by_ray(origin: Vector, direction: Vector, radius: float,
@@ -963,7 +963,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.get_points_in_sphere_as_copies"></a>
 
-#### get_points_in_sphere_as_copies
+#### get\_points\_in\_sphere\_as\_copies
 
 ```python
 def get_points_in_sphere_as_copies(
@@ -986,7 +986,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.get_points_in_box_as_copies"></a>
 
-#### get_points_in_box_as_copies
+#### get\_points\_in\_box\_as\_copies
 
 ```python
 def get_points_in_box_as_copies(
@@ -1009,7 +1009,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.get_point_shape"></a>
 
-#### get_point_shape
+#### get\_point\_shape
 
 ```python
 def get_point_shape() -> LidarPointCloudSpriteShape
@@ -1023,7 +1023,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.get_point_cloud"></a>
 
-#### get_point_cloud
+#### get\_point\_cloud
 
 ```python
 def get_point_cloud() -> LidarPointCloud
@@ -1037,7 +1037,7 @@ Returns:
 
 <a id="unreal.LidarPointCloudComponent.apply_rendering_parameters"></a>
 
-#### apply_rendering_parameters
+#### apply\_rendering\_parameters
 
 ```python
 def apply_rendering_parameters() -> None
@@ -1048,7 +1048,7 @@ Applies specified rendering parameters (Brightness, Saturation, etc) to the sele
 
 <a id="unreal.LidarPointCloudComponent.apply_color_to_points_in_sphere"></a>
 
-#### apply_color_to_points_in_sphere
+#### apply\_color\_to\_points\_in\_sphere
 
 ```python
 def apply_color_to_points_in_sphere(new_color: Color, center: Vector,
@@ -1066,7 +1066,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.apply_color_to_points_in_box"></a>
 
-#### apply_color_to_points_in_box
+#### apply\_color\_to\_points\_in\_box
 
 ```python
 def apply_color_to_points_in_box(new_color: Color, center: Vector,
@@ -1084,7 +1084,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.apply_color_to_points_by_ray"></a>
 
-#### apply_color_to_points_by_ray
+#### apply\_color\_to\_points\_by\_ray
 
 ```python
 def apply_color_to_points_by_ray(new_color: Color, origin: Vector,
@@ -1104,7 +1104,7 @@ Args:
 
 <a id="unreal.LidarPointCloudComponent.apply_color_to_first_point_by_ray"></a>
 
-#### apply_color_to_first_point_by_ray
+#### apply\_color\_to\_first\_point\_by\_ray
 
 ```python
 def apply_color_to_first_point_by_ray(new_color: Color, origin: Vector,

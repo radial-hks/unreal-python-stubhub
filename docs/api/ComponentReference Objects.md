@@ -21,7 +21,7 @@ If just an Actor is specified, will return RootComponent of that Actor.
 
 <a id="unreal.ComponentReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component_property: Name = "None",
@@ -30,7 +30,7 @@ def __init__(component_property: Name = "None",
 
 <a id="unreal.ComponentReference.other_actor"></a>
 
-#### other_actor
+#### other\_actor
 
 ```python
 @property
@@ -42,7 +42,7 @@ If this is not provided the reference refers to a component on this / the same a
 
 <a id="unreal.ComponentReference.other_actor"></a>
 
-#### other_actor
+#### other\_actor
 
 ```python
 @other_actor.setter

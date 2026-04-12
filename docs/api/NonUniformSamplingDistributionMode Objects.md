@@ -14,19 +14,19 @@ ENon Uniform Sampling Distribution Mode
 
 <a id="unreal.NonUniformSamplingDistributionMode.E_NON_UNIFORM_SAMPLING_DISTRIBUTION_MODE_UNIFORM"></a>
 
-#### E_NON_UNIFORM_SAMPLING_DISTRIBUTION_MODE_UNIFORM
+#### E\_NON\_UNIFORM\_SAMPLING\_DISTRIBUTION\_MODE\_UNIFORM
 
 0: Uniform distribution of sizes, ie all equally likely
 
 <a id="unreal.NonUniformSamplingDistributionMode.E_NON_UNIFORM_SAMPLING_DISTRIBUTION_MODE_SMALLER"></a>
 
-#### E_NON_UNIFORM_SAMPLING_DISTRIBUTION_MODE_SMALLER
+#### E\_NON\_UNIFORM\_SAMPLING\_DISTRIBUTION\_MODE\_SMALLER
 
 1: Distribution is weighted towards smaller points
 
 <a id="unreal.NonUniformSamplingDistributionMode.E_NON_UNIFORM_SAMPLING_DISTRIBUTION_MODE_LARGER"></a>
 
-#### E_NON_UNIFORM_SAMPLING_DISTRIBUTION_MODE_LARGER
+#### E\_NON\_UNIFORM\_SAMPLING\_DISTRIBUTION\_MODE\_LARGER
 
 2: Distribution is weighted towards larger points
 

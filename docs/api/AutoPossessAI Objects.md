@@ -19,7 +19,7 @@ Specifies if an AI pawn will automatically be possessed by an AI controller
 
 <a id="unreal.AutoPossessAI.PLACED_IN_WORLD"></a>
 
-#### PLACED_IN_WORLD
+#### PLACED\_IN\_WORLD
 
 1: Only possess by an AI Controller if Pawn is placed in the world.
 
@@ -31,7 +31,7 @@ Specifies if an AI pawn will automatically be possessed by an AI controller
 
 <a id="unreal.AutoPossessAI.PLACED_IN_WORLD_OR_SPAWNED"></a>
 
-#### PLACED_IN_WORLD_OR_SPAWNED
+#### PLACED\_IN\_WORLD\_OR\_SPAWNED
 
 3: Pawn is automatically possessed by an AI Controller whenever it is created.
 

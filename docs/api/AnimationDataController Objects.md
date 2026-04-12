@@ -13,7 +13,7 @@ Animation Data Controller
 
 <a id="unreal.AnimationDataController.update_curve_names_from_skeleton"></a>
 
-#### update_curve_names_from_skeleton
+#### update\_curve\_names\_from\_skeleton
 
 ```python
 def update_curve_names_from_skeleton(skeleton: Skeleton,
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.AnimationDataController.set_transform_curve_keys"></a>
 
-#### set_transform_curve_keys
+#### set\_transform\_curve\_keys
 
 ```python
 def set_transform_curve_keys(curve_id: AnimationCurveIdentifier,
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.set_transform_curve_key"></a>
 
-#### set_transform_curve_key
+#### set\_transform\_curve\_key
 
 ```python
 def set_transform_curve_key(curve_id: AnimationCurveIdentifier,
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.set_play_length"></a>
 
-#### set_play_length
+#### set\_play\_length
 
 ```python
 def set_play_length(length: float, should_transact: bool = True) -> None
@@ -95,7 +95,7 @@ Args:
 
 <a id="unreal.AnimationDataController.set_number_of_frames"></a>
 
-#### set_number_of_frames
+#### set\_number\_of\_frames
 
 ```python
 def set_number_of_frames(new_length_in_frames: FrameNumber,
@@ -112,7 +112,7 @@ Args:
 
 <a id="unreal.AnimationDataController.set_model"></a>
 
-#### set_model
+#### set\_model
 
 ```python
 def set_model(model: AnimationDataModel) -> None
@@ -126,7 +126,7 @@ Args:
 
 <a id="unreal.AnimationDataController.set_frame_rate"></a>
 
-#### set_frame_rate
+#### set\_frame\_rate
 
 ```python
 def set_frame_rate(frame_rate: FrameRate,
@@ -143,7 +143,7 @@ Args:
 
 <a id="unreal.AnimationDataController.set_curve_keys"></a>
 
-#### set_curve_keys
+#### set\_curve\_keys
 
 ```python
 def set_curve_keys(curve_id: AnimationCurveIdentifier,
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.set_curve_key"></a>
 
-#### set_curve_key
+#### set\_curve\_key
 
 ```python
 def set_curve_key(curve_id: AnimationCurveIdentifier,
@@ -186,7 +186,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.set_curve_flags"></a>
 
-#### set_curve_flags
+#### set\_curve\_flags
 
 ```python
 def set_curve_flags(curve_id: AnimationCurveIdentifier,
@@ -207,7 +207,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.set_curve_flag"></a>
 
-#### set_curve_flag
+#### set\_curve\_flag
 
 ```python
 def set_curve_flag(curve_id: AnimationCurveIdentifier,
@@ -230,7 +230,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.set_curve_comment"></a>
 
-#### set_curve_comment
+#### set\_curve\_comment
 
 ```python
 def set_curve_comment(
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.set_curve_color"></a>
 
-#### set_curve_color
+#### set\_curve\_color
 
 ```python
 def set_curve_color(curve_id: AnimationCurveIdentifier,
@@ -276,7 +276,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.set_bone_track_keys"></a>
 
-#### set_bone_track_keys
+#### set\_bone\_track\_keys
 
 ```python
 def set_bone_track_keys(bone_name: Name,
@@ -302,7 +302,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.scale_curve"></a>
 
-#### scale_curve
+#### scale\_curve
 
 ```python
 def scale_curve(curve_id: AnimationCurveIdentifier,
@@ -325,7 +325,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.resize_play_length"></a>
 
-#### resize_play_length
+#### resize\_play\_length
 
 ```python
 def resize_play_length(new_length: float,
@@ -346,7 +346,7 @@ Args:
 
 <a id="unreal.AnimationDataController.resize_number_of_frames"></a>
 
-#### resize_number_of_frames
+#### resize\_number\_of\_frames
 
 ```python
 def resize_number_of_frames(new_length_in_frames: FrameNumber,
@@ -369,7 +369,7 @@ Args:
 
 <a id="unreal.AnimationDataController.resize_in_frames"></a>
 
-#### resize_in_frames
+#### resize\_in\_frames
 
 ```python
 def resize_in_frames(new_length_in_frames: FrameNumber,
@@ -414,7 +414,7 @@ Args:
 
 <a id="unreal.AnimationDataController.rename_curve"></a>
 
-#### rename_curve
+#### rename\_curve
 
 ```python
 def rename_curve(curve_to_rename_id: AnimationCurveIdentifier,
@@ -435,7 +435,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.remove_transform_curve_key"></a>
 
-#### remove_transform_curve_key
+#### remove\_transform\_curve\_key
 
 ```python
 def remove_transform_curve_key(curve_id: AnimationCurveIdentifier,
@@ -456,7 +456,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.remove_curve_key"></a>
 
-#### remove_curve_key
+#### remove\_curve\_key
 
 ```python
 def remove_curve_key(curve_id: AnimationCurveIdentifier,
@@ -477,7 +477,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.remove_curve"></a>
 
-#### remove_curve
+#### remove\_curve
 
 ```python
 def remove_curve(curve_id: AnimationCurveIdentifier,
@@ -496,7 +496,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.remove_bone_track"></a>
 
-#### remove_bone_track
+#### remove\_bone\_track
 
 ```python
 def remove_bone_track(bone_name: Name, should_transact: bool = True) -> bool
@@ -514,7 +514,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.remove_attribute_key"></a>
 
-#### remove_attribute_key
+#### remove\_attribute\_key
 
 ```python
 def remove_attribute_key(attribute_identifier: AnimationAttributeIdentifier,
@@ -535,7 +535,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.remove_attribute"></a>
 
-#### remove_attribute
+#### remove\_attribute
 
 ```python
 def remove_attribute(attribute_identifier: AnimationAttributeIdentifier,
@@ -554,7 +554,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.remove_all_curves_of_type"></a>
 
-#### remove_all_curves_of_type
+#### remove\_all\_curves\_of\_type
 
 ```python
 def remove_all_curves_of_type(supported_curve_type: RawCurveTrackTypes,
@@ -570,7 +570,7 @@ Args:
 
 <a id="unreal.AnimationDataController.remove_all_bone_tracks"></a>
 
-#### remove_all_bone_tracks
+#### remove\_all\_bone\_tracks
 
 ```python
 def remove_all_bone_tracks(should_transact: bool = True) -> None
@@ -584,7 +584,7 @@ Args:
 
 <a id="unreal.AnimationDataController.remove_all_attributes_for_bone"></a>
 
-#### remove_all_attributes_for_bone
+#### remove\_all\_attributes\_for\_bone
 
 ```python
 def remove_all_attributes_for_bone(bone_name: Name,
@@ -603,7 +603,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.remove_all_attributes"></a>
 
-#### remove_all_attributes
+#### remove\_all\_attributes
 
 ```python
 def remove_all_attributes(should_transact: bool = True) -> int
@@ -620,7 +620,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.open_bracket"></a>
 
-#### open_bracket
+#### open\_bracket
 
 ```python
 def open_bracket(title: Text, should_transact: bool = True) -> None
@@ -636,7 +636,7 @@ Args:
 
 <a id="unreal.AnimationDataController.insert_bone_track"></a>
 
-#### insert_bone_track
+#### insert\_bone\_track
 
 ```python
 def insert_bone_track(bone_name: Name,
@@ -658,7 +658,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.get_model_interface"></a>
 
-#### get_model_interface
+#### get\_model\_interface
 
 ```python
 def get_model_interface() -> AnimationDataModel
@@ -672,7 +672,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.find_or_add_curve_names_on_skeleton"></a>
 
-#### find_or_add_curve_names_on_skeleton
+#### find\_or\_add\_curve\_names\_on\_skeleton
 
 ```python
 def find_or_add_curve_names_on_skeleton(
@@ -692,7 +692,7 @@ Args:
 
 <a id="unreal.AnimationDataController.duplicate_curve"></a>
 
-#### duplicate_curve
+#### duplicate\_curve
 
 ```python
 def duplicate_curve(copy_curve_id: AnimationCurveIdentifier,
@@ -713,7 +713,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.duplicate_attribute"></a>
 
-#### duplicate_attribute
+#### duplicate\_attribute
 
 ```python
 def duplicate_attribute(attribute_identifier: AnimationAttributeIdentifier,
@@ -734,7 +734,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.close_bracket"></a>
 
-#### close_bracket
+#### close\_bracket
 
 ```python
 def close_bracket(should_transact: bool = True) -> None
@@ -748,7 +748,7 @@ Args:
 
 <a id="unreal.AnimationDataController.add_curve"></a>
 
-#### add_curve
+#### add\_curve
 
 ```python
 def add_curve(curve_id: AnimationCurveIdentifier,
@@ -769,7 +769,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.add_bone_track"></a>
 
-#### add_bone_track
+#### add\_bone\_track
 
 ```python
 def add_bone_track(bone_name: Name, should_transact: bool = True) -> int
@@ -788,7 +788,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.add_bone_curve"></a>
 
-#### add_bone_curve
+#### add\_bone\_curve
 
 ```python
 def add_bone_curve(bone_name: Name, should_transact: bool = True) -> bool
@@ -806,7 +806,7 @@ Returns:
 
 <a id="unreal.AnimationDataController.add_attribute"></a>
 
-#### add_attribute
+#### add\_attribute
 
 ```python
 def add_attribute(attribute_identifier: AnimationAttributeIdentifier,

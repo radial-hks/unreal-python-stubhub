@@ -20,7 +20,7 @@ A layer will consist of a bunch of these
 
 <a id="unreal.AnimLayerSelectionSet.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bound_object: Object = None,
@@ -29,7 +29,7 @@ def __init__(bound_object: Object = None,
 
 <a id="unreal.AnimLayerSelectionSet.bound_object"></a>
 
-#### bound_object
+#### bound\_object
 
 ```python
 @property
@@ -40,7 +40,7 @@ def bound_object() -> Object
 
 <a id="unreal.AnimLayerSelectionSet.bound_object"></a>
 
-#### bound_object
+#### bound\_object
 
 ```python
 @bound_object.setter

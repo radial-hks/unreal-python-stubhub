@@ -14,13 +14,13 @@ Goal types for Uniform Remeshing
 
 <a id="unreal.GeometryScriptUniformRemeshTargetType.TRIANGLE_COUNT"></a>
 
-#### TRIANGLE_COUNT
+#### TRIANGLE\_COUNT
 
 0: Approximate Desired Triangle Count. This is used to compute a Target Edge Length, and is not an explicit target
 
 <a id="unreal.GeometryScriptUniformRemeshTargetType.TARGET_EDGE_LENGTH"></a>
 
-#### TARGET_EDGE_LENGTH
+#### TARGET\_EDGE\_LENGTH
 
 1: Attempt to Remesh such that all edges have approximately this length
 

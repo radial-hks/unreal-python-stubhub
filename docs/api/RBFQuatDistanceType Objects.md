@@ -21,19 +21,19 @@ Function to use for computing distance between the input and target
 
 <a id="unreal.RBFQuatDistanceType.ARC_LENGTH"></a>
 
-#### ARC_LENGTH
+#### ARC\_LENGTH
 
 1
 
 <a id="unreal.RBFQuatDistanceType.SWING_ANGLE"></a>
 
-#### SWING_ANGLE
+#### SWING\_ANGLE
 
 2
 
 <a id="unreal.RBFQuatDistanceType.TWIST_ANGLE"></a>
 
-#### TWIST_ANGLE
+#### TWIST\_ANGLE
 
 3
 

@@ -14,7 +14,7 @@ PCGOctree Queries
 
 <a id="unreal.PCGOctreeQueries.get_points_inside_sphere"></a>
 
-#### get_points_inside_sphere
+#### get\_points\_inside\_sphere
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.PCGOctreeQueries.get_points_inside_bounds"></a>
 
-#### get_points_inside_bounds
+#### get\_points\_inside\_bounds
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.PCGOctreeQueries.get_farthest_point_from_other_point"></a>
 
-#### get_farthest_point_from_other_point
+#### get\_farthest\_point\_from\_other\_point
 
 ```python
 @classmethod
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.PCGOctreeQueries.get_farthest_point"></a>
 
-#### get_farthest_point
+#### get\_farthest\_point
 
 ```python
 @classmethod
@@ -111,7 +111,7 @@ Returns:
 
 <a id="unreal.PCGOctreeQueries.get_closest_point_from_other_point"></a>
 
-#### get_closest_point_from_other_point
+#### get\_closest\_point\_from\_other\_point
 
 ```python
 @classmethod
@@ -139,7 +139,7 @@ Returns:
 
 <a id="unreal.PCGOctreeQueries.get_closest_point"></a>
 
-#### get_closest_point
+#### get\_closest\_point
 
 ```python
 @classmethod

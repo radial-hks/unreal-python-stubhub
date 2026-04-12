@@ -51,7 +51,7 @@ class BoxReflectionCaptureComponent(ReflectionCaptureComponent)
 
 <a id="unreal.BoxReflectionCaptureComponent.box_transition_distance"></a>
 
-#### box_transition_distance
+#### box\_transition\_distance
 
 ```python
 @property
@@ -62,7 +62,7 @@ def box_transition_distance() -> float
 
 <a id="unreal.BoxReflectionCaptureComponent.box_transition_distance"></a>
 
-#### box_transition_distance
+#### box\_transition\_distance
 
 ```python
 @box_transition_distance.setter

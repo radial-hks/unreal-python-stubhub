@@ -13,7 +13,7 @@ Blueprint library for Media related functions.
 
 <a id="unreal.MediaLibrary.enumerate_webcam_capture_devices"></a>
 
-#### enumerate_webcam_capture_devices
+#### enumerate\_webcam\_capture\_devices
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.MediaLibrary.enumerate_video_capture_devices"></a>
 
-#### enumerate_video_capture_devices
+#### enumerate\_video\_capture\_devices
 
 ```python
 @classmethod
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.MediaLibrary.enumerate_audio_capture_devices"></a>
 
-#### enumerate_audio_capture_devices
+#### enumerate\_audio\_capture\_devices
 
 ```python
 @classmethod

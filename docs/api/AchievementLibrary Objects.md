@@ -14,7 +14,7 @@ Library of synchronous achievement calls
 
 <a id="unreal.AchievementLibrary.get_cached_achievement_progress"></a>
 
-#### get_cached_achievement_progress
+#### get\_cached\_achievement\_progress
 
 ```python
 @classmethod
@@ -40,7 +40,7 @@ Returns:
 
 <a id="unreal.AchievementLibrary.get_cached_achievement_description"></a>
 
-#### get_cached_achievement_description
+#### get\_cached\_achievement\_description
 
 ```python
 @classmethod

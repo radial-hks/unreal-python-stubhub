@@ -13,25 +13,25 @@ ETexture Render Target Sample Count
 
 <a id="unreal.TextureRenderTargetSampleCount.RTSC_1"></a>
 
-#### RTSC_1
+#### RTSC\_1
 
 0
 
 <a id="unreal.TextureRenderTargetSampleCount.RTSC_2"></a>
 
-#### RTSC_2
+#### RTSC\_2
 
 1
 
 <a id="unreal.TextureRenderTargetSampleCount.RTSC_4"></a>
 
-#### RTSC_4
+#### RTSC\_4
 
 2
 
 <a id="unreal.TextureRenderTargetSampleCount.RTSC_8"></a>
 
-#### RTSC_8
+#### RTSC\_8
 
 3
 

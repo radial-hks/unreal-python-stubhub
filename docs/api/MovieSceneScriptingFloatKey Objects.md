@@ -15,7 +15,7 @@ Stores a reference to the data so changes to this class are forwarded onto the u
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_value"></a>
 
-#### set_value
+#### set\_value
 
 ```python
 def set_value(new_value: float) -> None
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_time"></a>
 
-#### set_time
+#### set\_time
 
 ```python
 def set_time(
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_tangent_weight_mode"></a>
 
-#### set_tangent_weight_mode
+#### set\_tangent\_weight\_mode
 
 ```python
 def set_tangent_weight_mode(new_value: RichCurveTangentWeightMode) -> None
@@ -63,7 +63,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_tangent_mode"></a>
 
-#### set_tangent_mode
+#### set\_tangent\_mode
 
 ```python
 def set_tangent_mode(new_value: RichCurveTangentMode) -> None
@@ -77,7 +77,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_leave_tangent_weight"></a>
 
-#### set_leave_tangent_weight
+#### set\_leave\_tangent\_weight
 
 ```python
 def set_leave_tangent_weight(new_value: float) -> None
@@ -91,7 +91,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_leave_tangent"></a>
 
-#### set_leave_tangent
+#### set\_leave\_tangent
 
 ```python
 def set_leave_tangent(new_value: float) -> None
@@ -105,7 +105,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_interpolation_mode"></a>
 
-#### set_interpolation_mode
+#### set\_interpolation\_mode
 
 ```python
 def set_interpolation_mode(new_value: RichCurveInterpMode) -> None
@@ -119,7 +119,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_arrive_tangent_weight"></a>
 
-#### set_arrive_tangent_weight
+#### set\_arrive\_tangent\_weight
 
 ```python
 def set_arrive_tangent_weight(new_value: float) -> None
@@ -133,7 +133,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.set_arrive_tangent"></a>
 
-#### set_arrive_tangent
+#### set\_arrive\_tangent
 
 ```python
 def set_arrive_tangent(new_value: float) -> None
@@ -147,7 +147,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_value"></a>
 
-#### get_value
+#### get\_value
 
 ```python
 def get_value() -> float
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_time"></a>
 
-#### get_time
+#### get\_time
 
 ```python
 def get_time(
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_tangent_weight_mode"></a>
 
-#### get_tangent_weight_mode
+#### get\_tangent\_weight\_mode
 
 ```python
 def get_tangent_weight_mode() -> RichCurveTangentWeightMode
@@ -194,7 +194,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_tangent_mode"></a>
 
-#### get_tangent_mode
+#### get\_tangent\_mode
 
 ```python
 def get_tangent_mode() -> RichCurveTangentMode
@@ -208,7 +208,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_leave_tangent_weight"></a>
 
-#### get_leave_tangent_weight
+#### get\_leave\_tangent\_weight
 
 ```python
 def get_leave_tangent_weight() -> float
@@ -222,7 +222,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_leave_tangent"></a>
 
-#### get_leave_tangent
+#### get\_leave\_tangent
 
 ```python
 def get_leave_tangent() -> float
@@ -236,7 +236,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_interpolation_mode"></a>
 
-#### get_interpolation_mode
+#### get\_interpolation\_mode
 
 ```python
 def get_interpolation_mode() -> RichCurveInterpMode
@@ -250,7 +250,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_arrive_tangent_weight"></a>
 
-#### get_arrive_tangent_weight
+#### get\_arrive\_tangent\_weight
 
 ```python
 def get_arrive_tangent_weight() -> float
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatKey.get_arrive_tangent"></a>
 
-#### get_arrive_tangent
+#### get\_arrive\_tangent
 
 ```python
 def get_arrive_tangent() -> float

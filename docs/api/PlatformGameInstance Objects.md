@@ -41,7 +41,7 @@ UObject based class for handling mobile events. Having this object as an option 
 
 <a id="unreal.PlatformGameInstance.application_will_deactivate_delegate"></a>
 
-#### application_will_deactivate_delegate
+#### application\_will\_deactivate\_delegate
 
 ```python
 @property
@@ -53,7 +53,7 @@ The game should be paused if possible, etc...
 
 <a id="unreal.PlatformGameInstance.application_will_deactivate_delegate"></a>
 
-#### application_will_deactivate_delegate
+#### application\_will\_deactivate\_delegate
 
 ```python
 @application_will_deactivate_delegate.setter
@@ -62,7 +62,7 @@ def application_will_deactivate_delegate(value: PlatformDelegate) -> None
 
 <a id="unreal.PlatformGameInstance.application_has_reactivated_delegate"></a>
 
-#### application_has_reactivated_delegate
+#### application\_has\_reactivated\_delegate
 
 ```python
 @property
@@ -73,7 +73,7 @@ def application_has_reactivated_delegate() -> PlatformDelegate
 
 <a id="unreal.PlatformGameInstance.application_has_reactivated_delegate"></a>
 
-#### application_has_reactivated_delegate
+#### application\_has\_reactivated\_delegate
 
 ```python
 @application_has_reactivated_delegate.setter
@@ -82,7 +82,7 @@ def application_has_reactivated_delegate(value: PlatformDelegate) -> None
 
 <a id="unreal.PlatformGameInstance.application_will_enter_background_delegate"></a>
 
-#### application_will_enter_background_delegate
+#### application\_will\_enter\_background\_delegate
 
 ```python
 @property
@@ -96,7 +96,7 @@ terminated from the background state without any further warning.
 
 <a id="unreal.PlatformGameInstance.application_will_enter_background_delegate"></a>
 
-#### application_will_enter_background_delegate
+#### application\_will\_enter\_background\_delegate
 
 ```python
 @application_will_enter_background_delegate.setter
@@ -106,7 +106,7 @@ def application_will_enter_background_delegate(
 
 <a id="unreal.PlatformGameInstance.application_has_entered_foreground_delegate"></a>
 
-#### application_has_entered_foreground_delegate
+#### application\_has\_entered\_foreground\_delegate
 
 ```python
 @property
@@ -117,7 +117,7 @@ def application_has_entered_foreground_delegate() -> PlatformDelegate
 
 <a id="unreal.PlatformGameInstance.application_has_entered_foreground_delegate"></a>
 
-#### application_has_entered_foreground_delegate
+#### application\_has\_entered\_foreground\_delegate
 
 ```python
 @application_has_entered_foreground_delegate.setter
@@ -127,7 +127,7 @@ def application_has_entered_foreground_delegate(
 
 <a id="unreal.PlatformGameInstance.application_will_terminate_delegate"></a>
 
-#### application_will_terminate_delegate
+#### application\_will\_terminate\_delegate
 
 ```python
 @property
@@ -140,7 +140,7 @@ save state when ApplicationWillEnterBackgroundDelegate is called instead.
 
 <a id="unreal.PlatformGameInstance.application_will_terminate_delegate"></a>
 
-#### application_will_terminate_delegate
+#### application\_will\_terminate\_delegate
 
 ```python
 @application_will_terminate_delegate.setter
@@ -149,7 +149,7 @@ def application_will_terminate_delegate(value: PlatformDelegate) -> None
 
 <a id="unreal.PlatformGameInstance.application_should_unload_resources_delegate"></a>
 
-#### application_should_unload_resources_delegate
+#### application\_should\_unload\_resources\_delegate
 
 ```python
 @property
@@ -160,7 +160,7 @@ def application_should_unload_resources_delegate() -> PlatformDelegate
 
 <a id="unreal.PlatformGameInstance.application_should_unload_resources_delegate"></a>
 
-#### application_should_unload_resources_delegate
+#### application\_should\_unload\_resources\_delegate
 
 ```python
 @application_should_unload_resources_delegate.setter
@@ -170,7 +170,7 @@ def application_should_unload_resources_delegate(
 
 <a id="unreal.PlatformGameInstance.application_received_startup_arguments_delegate"></a>
 
-#### application_received_startup_arguments_delegate
+#### application\_received\_startup\_arguments\_delegate
 
 ```python
 @property
@@ -182,7 +182,7 @@ def application_received_startup_arguments_delegate(
 
 <a id="unreal.PlatformGameInstance.application_received_startup_arguments_delegate"></a>
 
-#### application_received_startup_arguments_delegate
+#### application\_received\_startup\_arguments\_delegate
 
 ```python
 @application_received_startup_arguments_delegate.setter
@@ -192,7 +192,7 @@ def application_received_startup_arguments_delegate(
 
 <a id="unreal.PlatformGameInstance.application_registered_for_remote_notifications_delegate"></a>
 
-#### application_registered_for_remote_notifications_delegate
+#### application\_registered\_for\_remote\_notifications\_delegate
 
 ```python
 @property
@@ -204,7 +204,7 @@ def application_registered_for_remote_notifications_delegate(
 
 <a id="unreal.PlatformGameInstance.application_registered_for_remote_notifications_delegate"></a>
 
-#### application_registered_for_remote_notifications_delegate
+#### application\_registered\_for\_remote\_notifications\_delegate
 
 ```python
 @application_registered_for_remote_notifications_delegate.setter
@@ -214,7 +214,7 @@ def application_registered_for_remote_notifications_delegate(
 
 <a id="unreal.PlatformGameInstance.application_registered_for_user_notifications_delegate"></a>
 
-#### application_registered_for_user_notifications_delegate
+#### application\_registered\_for\_user\_notifications\_delegate
 
 ```python
 @property
@@ -226,7 +226,7 @@ def application_registered_for_user_notifications_delegate(
 
 <a id="unreal.PlatformGameInstance.application_registered_for_user_notifications_delegate"></a>
 
-#### application_registered_for_user_notifications_delegate
+#### application\_registered\_for\_user\_notifications\_delegate
 
 ```python
 @application_registered_for_user_notifications_delegate.setter
@@ -236,7 +236,7 @@ def application_registered_for_user_notifications_delegate(
 
 <a id="unreal.PlatformGameInstance.application_failed_to_register_for_remote_notifications_delegate"></a>
 
-#### application_failed_to_register_for_remote_notifications_delegate
+#### application\_failed\_to\_register\_for\_remote\_notifications\_delegate
 
 ```python
 @property
@@ -248,7 +248,7 @@ def application_failed_to_register_for_remote_notifications_delegate(
 
 <a id="unreal.PlatformGameInstance.application_failed_to_register_for_remote_notifications_delegate"></a>
 
-#### application_failed_to_register_for_remote_notifications_delegate
+#### application\_failed\_to\_register\_for\_remote\_notifications\_delegate
 
 ```python
 @application_failed_to_register_for_remote_notifications_delegate.setter
@@ -258,7 +258,7 @@ def application_failed_to_register_for_remote_notifications_delegate(
 
 <a id="unreal.PlatformGameInstance.application_received_remote_notification_delegate"></a>
 
-#### application_received_remote_notification_delegate
+#### application\_received\_remote\_notification\_delegate
 
 ```python
 @property
@@ -270,7 +270,7 @@ def application_received_remote_notification_delegate(
 
 <a id="unreal.PlatformGameInstance.application_received_remote_notification_delegate"></a>
 
-#### application_received_remote_notification_delegate
+#### application\_received\_remote\_notification\_delegate
 
 ```python
 @application_received_remote_notification_delegate.setter
@@ -280,7 +280,7 @@ def application_received_remote_notification_delegate(
 
 <a id="unreal.PlatformGameInstance.application_received_local_notification_delegate"></a>
 
-#### application_received_local_notification_delegate
+#### application\_received\_local\_notification\_delegate
 
 ```python
 @property
@@ -292,7 +292,7 @@ def application_received_local_notification_delegate(
 
 <a id="unreal.PlatformGameInstance.application_received_local_notification_delegate"></a>
 
-#### application_received_local_notification_delegate
+#### application\_received\_local\_notification\_delegate
 
 ```python
 @application_received_local_notification_delegate.setter
@@ -302,7 +302,7 @@ def application_received_local_notification_delegate(
 
 <a id="unreal.PlatformGameInstance.application_received_screen_orientation_changed_notification_delegate"></a>
 
-#### application_received_screen_orientation_changed_notification_delegate
+#### application\_received\_screen\_orientation\_changed\_notification\_delegate
 
 ```python
 @property
@@ -314,7 +314,7 @@ def application_received_screen_orientation_changed_notification_delegate(
 
 <a id="unreal.PlatformGameInstance.application_received_screen_orientation_changed_notification_delegate"></a>
 
-#### application_received_screen_orientation_changed_notification_delegate
+#### application\_received\_screen\_orientation\_changed\_notification\_delegate
 
 ```python
 @application_received_screen_orientation_changed_notification_delegate.setter

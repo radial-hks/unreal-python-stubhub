@@ -19,7 +19,7 @@ Anim Layer Control Rig Object
 
 <a id="unreal.AnimLayerControlRigObject.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(control_rig: ControlRig = None,
@@ -28,7 +28,7 @@ def __init__(control_rig: ControlRig = None,
 
 <a id="unreal.AnimLayerControlRigObject.control_rig"></a>
 
-#### control_rig
+#### control\_rig
 
 ```python
 @property
@@ -39,7 +39,7 @@ def control_rig() -> ControlRig
 
 <a id="unreal.AnimLayerControlRigObject.control_rig"></a>
 
-#### control_rig
+#### control\_rig
 
 ```python
 @control_rig.setter
@@ -48,7 +48,7 @@ def control_rig(value: ControlRig) -> None
 
 <a id="unreal.AnimLayerControlRigObject.control_names"></a>
 
-#### control_names
+#### control\_names
 
 ```python
 @property
@@ -59,7 +59,7 @@ def control_names() -> Array[Name]
 
 <a id="unreal.AnimLayerControlRigObject.control_names"></a>
 
-#### control_names
+#### control\_names
 
 ```python
 @control_names.setter

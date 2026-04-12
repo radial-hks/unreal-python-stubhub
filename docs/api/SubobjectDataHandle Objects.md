@@ -16,7 +16,7 @@ data has validated that it has a good context.
 
 <a id="unreal.SubobjectDataHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

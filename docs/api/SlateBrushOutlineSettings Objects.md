@@ -21,7 +21,7 @@ Possible options for rounded box brush image
 
 <a id="unreal.SlateBrushOutlineSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(corner_radii: Vector4 = [0.000000, 0.000000, 0.000000, 0.000000],
@@ -35,7 +35,7 @@ def __init__(corner_radii: Vector4 = [0.000000, 0.000000, 0.000000, 0.000000],
 
 <a id="unreal.SlateBrushOutlineSettings.corner_radii"></a>
 
-#### corner_radii
+#### corner\_radii
 
 ```python
 @property
@@ -46,7 +46,7 @@ def corner_radii() -> Vector4
 
 <a id="unreal.SlateBrushOutlineSettings.corner_radii"></a>
 
-#### corner_radii
+#### corner\_radii
 
 ```python
 @corner_radii.setter
@@ -95,7 +95,7 @@ def width(value: float) -> None
 
 <a id="unreal.SlateBrushOutlineSettings.rounding_type"></a>
 
-#### rounding_type
+#### rounding\_type
 
 ```python
 @property
@@ -106,7 +106,7 @@ def rounding_type() -> SlateBrushRoundingType
 
 <a id="unreal.SlateBrushOutlineSettings.rounding_type"></a>
 
-#### rounding_type
+#### rounding\_type
 
 ```python
 @rounding_type.setter
@@ -115,7 +115,7 @@ def rounding_type(value: SlateBrushRoundingType) -> None
 
 <a id="unreal.SlateBrushOutlineSettings.use_brush_transparency"></a>
 
-#### use_brush_transparency
+#### use\_brush\_transparency
 
 ```python
 @property
@@ -126,7 +126,7 @@ def use_brush_transparency() -> bool
 
 <a id="unreal.SlateBrushOutlineSettings.use_brush_transparency"></a>
 
-#### use_brush_transparency
+#### use\_brush\_transparency
 
 ```python
 @use_brush_transparency.setter

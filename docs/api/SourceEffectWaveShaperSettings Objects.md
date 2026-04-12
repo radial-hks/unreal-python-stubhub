@@ -19,7 +19,7 @@ Source Effect Wave Shaper Settings
 
 <a id="unreal.SourceEffectWaveShaperSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(amount: float = 0.000000,
@@ -48,7 +48,7 @@ def amount(value: float) -> None
 
 <a id="unreal.SourceEffectWaveShaperSettings.output_gain_db"></a>
 
-#### output_gain_db
+#### output\_gain\_db
 
 ```python
 @property
@@ -59,7 +59,7 @@ def output_gain_db() -> float
 
 <a id="unreal.SourceEffectWaveShaperSettings.output_gain_db"></a>
 
-#### output_gain_db
+#### output\_gain\_db
 
 ```python
 @output_gain_db.setter

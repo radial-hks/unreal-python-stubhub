@@ -43,7 +43,7 @@ The definition of a "mesh object" is implementation-specific.
 
 <a id="unreal.CreateMeshObjectParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -51,7 +51,7 @@ def __init__() -> None
 
 <a id="unreal.CreateMeshObjectParams.nanite_proxy_triangle_percent"></a>
 
-#### nanite_proxy_triangle_percent
+#### nanite\_proxy\_triangle\_percent
 
 ```python
 @property
@@ -63,7 +63,7 @@ deprecated: Replaced NaniteProxyTrianglePercent with usage of Engine FMeshNanite
 
 <a id="unreal.CreateMeshObjectParams.nanite_proxy_triangle_percent"></a>
 
-#### nanite_proxy_triangle_percent
+#### nanite\_proxy\_triangle\_percent
 
 ```python
 @nanite_proxy_triangle_percent.setter

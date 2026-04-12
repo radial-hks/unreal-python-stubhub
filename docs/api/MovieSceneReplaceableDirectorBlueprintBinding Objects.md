@@ -22,7 +22,7 @@ for spawning, or a MovieSceneSpawnableActorBinding to spawn from an actor templa
 
 <a id="unreal.MovieSceneReplaceableDirectorBlueprintBinding.preview_spawnable_type"></a>
 
-#### preview_spawnable_type
+#### preview\_spawnable\_type
 
 ```python
 @property
@@ -33,7 +33,7 @@ def preview_spawnable_type() -> Class
 
 <a id="unreal.MovieSceneReplaceableDirectorBlueprintBinding.preview_spawnable_type"></a>
 
-#### preview_spawnable_type
+#### preview\_spawnable\_type
 
 ```python
 @preview_spawnable_type.setter

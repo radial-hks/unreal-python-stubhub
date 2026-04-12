@@ -23,7 +23,7 @@ this is anim segment that defines what animation and how *
 
 <a id="unreal.AnimSegment.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

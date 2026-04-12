@@ -18,7 +18,7 @@ Base class for the hard/soft component reference structs
 
 <a id="unreal.BaseComponentReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component_property: Name = "None") -> None
@@ -26,7 +26,7 @@ def __init__(component_property: Name = "None") -> None
 
 <a id="unreal.BaseComponentReference.component_property"></a>
 
-#### component_property
+#### component\_property
 
 ```python
 @property
@@ -37,7 +37,7 @@ def component_property() -> Name
 
 <a id="unreal.BaseComponentReference.component_property"></a>
 
-#### component_property
+#### component\_property
 
 ```python
 @component_property.setter

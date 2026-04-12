@@ -13,19 +13,19 @@ EProperty Editor Test Enum
 
 <a id="unreal.PropertyEditorTestEnum.PROPERTY_EDITOR_TEST_ENUM2"></a>
 
-#### PROPERTY_EDITOR_TEST_ENUM2
+#### PROPERTY\_EDITOR\_TEST\_ENUM2
 
 1: This comment should appear above enum 2
 
 <a id="unreal.PropertyEditorTestEnum.PROPERTY_EDITOR_TEST_ENUM4"></a>
 
-#### PROPERTY_EDITOR_TEST_ENUM4
+#### PROPERTY\_EDITOR\_TEST\_ENUM4
 
 3: This comment should appear above enum 4
 
 <a id="unreal.PropertyEditorTestEnum.PROPERTY_EDITOR_TEST_ENUM6"></a>
 
-#### PROPERTY_EDITOR_TEST_ENUM6
+#### PROPERTY\_EDITOR\_TEST\_ENUM6
 
 5: This comment should appear above enum 6
 

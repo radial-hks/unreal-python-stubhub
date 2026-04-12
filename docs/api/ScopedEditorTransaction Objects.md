@@ -8,7 +8,7 @@ Type used to create and managed a scoped editor transaction in Python
 
 <a id="unreal.ScopedEditorTransaction.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(desc: Union[Text, str]) -> None
@@ -16,7 +16,7 @@ def __init__(desc: Union[Text, str]) -> None
 
 <a id="unreal.ScopedEditorTransaction.__enter__"></a>
 
-#### __enter__
+#### \_\_enter\_\_
 
 ```python
 def __enter__() -> ScopedEditorTransaction
@@ -26,7 +26,7 @@ __enter__(self) -> ScopedEditorTransaction -- begin this transaction
 
 <a id="unreal.ScopedEditorTransaction.__exit__"></a>
 
-#### __exit__
+#### \_\_exit\_\_
 
 ```python
 def __exit__(type: Optional[Type[BaseException]],

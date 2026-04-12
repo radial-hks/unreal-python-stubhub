@@ -24,7 +24,7 @@ Settings to control camera focus
 
 <a id="unreal.CameraFocusSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -40,7 +40,7 @@ def __init__(
 
 <a id="unreal.CameraFocusSettings.focus_method"></a>
 
-#### focus_method
+#### focus\_method
 
 ```python
 @property
@@ -51,7 +51,7 @@ def focus_method() -> CameraFocusMethod
 
 <a id="unreal.CameraFocusSettings.focus_method"></a>
 
-#### focus_method
+#### focus\_method
 
 ```python
 @focus_method.setter
@@ -60,7 +60,7 @@ def focus_method(value: CameraFocusMethod) -> None
 
 <a id="unreal.CameraFocusSettings.manual_focus_distance"></a>
 
-#### manual_focus_distance
+#### manual\_focus\_distance
 
 ```python
 @property
@@ -71,7 +71,7 @@ def manual_focus_distance() -> float
 
 <a id="unreal.CameraFocusSettings.manual_focus_distance"></a>
 
-#### manual_focus_distance
+#### manual\_focus\_distance
 
 ```python
 @manual_focus_distance.setter
@@ -80,7 +80,7 @@ def manual_focus_distance(value: float) -> None
 
 <a id="unreal.CameraFocusSettings.tracking_focus_settings"></a>
 
-#### tracking_focus_settings
+#### tracking\_focus\_settings
 
 ```python
 @property
@@ -91,7 +91,7 @@ def tracking_focus_settings() -> CameraTrackingFocusSettings
 
 <a id="unreal.CameraFocusSettings.tracking_focus_settings"></a>
 
-#### tracking_focus_settings
+#### tracking\_focus\_settings
 
 ```python
 @tracking_focus_settings.setter
@@ -100,7 +100,7 @@ def tracking_focus_settings(value: CameraTrackingFocusSettings) -> None
 
 <a id="unreal.CameraFocusSettings.smooth_focus_changes"></a>
 
-#### smooth_focus_changes
+#### smooth\_focus\_changes
 
 ```python
 @property
@@ -111,7 +111,7 @@ def smooth_focus_changes() -> bool
 
 <a id="unreal.CameraFocusSettings.smooth_focus_changes"></a>
 
-#### smooth_focus_changes
+#### smooth\_focus\_changes
 
 ```python
 @smooth_focus_changes.setter
@@ -120,7 +120,7 @@ def smooth_focus_changes(value: bool) -> None
 
 <a id="unreal.CameraFocusSettings.focus_smoothing_interp_speed"></a>
 
-#### focus_smoothing_interp_speed
+#### focus\_smoothing\_interp\_speed
 
 ```python
 @property
@@ -131,7 +131,7 @@ def focus_smoothing_interp_speed() -> float
 
 <a id="unreal.CameraFocusSettings.focus_smoothing_interp_speed"></a>
 
-#### focus_smoothing_interp_speed
+#### focus\_smoothing\_interp\_speed
 
 ```python
 @focus_smoothing_interp_speed.setter
@@ -140,7 +140,7 @@ def focus_smoothing_interp_speed(value: float) -> None
 
 <a id="unreal.CameraFocusSettings.focus_offset"></a>
 
-#### focus_offset
+#### focus\_offset
 
 ```python
 @property
@@ -151,7 +151,7 @@ def focus_offset() -> float
 
 <a id="unreal.CameraFocusSettings.focus_offset"></a>
 
-#### focus_offset
+#### focus\_offset
 
 ```python
 @focus_offset.setter

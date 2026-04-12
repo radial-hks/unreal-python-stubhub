@@ -19,7 +19,7 @@ Chaos Removal Event
 
 <a id="unreal.ChaosRemovalEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component: PrimitiveComponent = None,

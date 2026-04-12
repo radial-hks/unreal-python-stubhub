@@ -25,7 +25,7 @@ ETexture Downscale Options
 
 <a id="unreal.TextureDownscaleOptions.SIMPLE_AVERAGE"></a>
 
-#### SIMPLE_AVERAGE
+#### SIMPLE\_AVERAGE
 
 2: Average, default for the "texture group"
 
@@ -95,4 +95,4 @@ ETexture Downscale Options
 
 13: 8x8 with sharpening: 0=no sharpening but better quality which is softer, 1=little, 5=medium, 10=extreme.
 
-<a id="unreal.TextureAvailability"></a>
+<a id="unreal.CompositeTextureMode"></a>

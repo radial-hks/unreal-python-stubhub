@@ -16,7 +16,7 @@ signatures to better match Blueprints / Python workflow
 
 <a id="unreal.Paths.video_capture_dir"></a>
 
-#### video_capture_dir
+#### video\_capture\_dir
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.Paths.validate_path"></a>
 
-#### validate_path
+#### validate\_path
 
 ```python
 @classmethod
@@ -78,7 +78,7 @@ Returns:
 
 <a id="unreal.Paths.source_config_dir"></a>
 
-#### source_config_dir
+#### source\_config\_dir
 
 ```python
 @classmethod
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.Paths.should_save_to_user_dir"></a>
 
-#### should_save_to_user_dir
+#### should\_save\_to\_user\_dir
 
 ```python
 @classmethod
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.Paths.shader_working_dir"></a>
 
-#### shader_working_dir
+#### shader\_working\_dir
 
 ```python
 @classmethod
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.Paths.set_project_file_path"></a>
 
-#### set_project_file_path
+#### set\_project\_file\_path
 
 ```python
 @classmethod
@@ -139,7 +139,7 @@ Args:
 
 <a id="unreal.Paths.set_extension"></a>
 
-#### set_extension
+#### set\_extension
 
 ```python
 @classmethod
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.Paths.screen_shot_dir"></a>
 
-#### screen_shot_dir
+#### screen\_shot\_dir
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.Paths.sandboxes_dir"></a>
 
-#### sandboxes_dir
+#### sandboxes\_dir
 
 ```python
 @classmethod
@@ -188,7 +188,7 @@ Returns:
 
 <a id="unreal.Paths.root_dir"></a>
 
-#### root_dir
+#### root\_dir
 
 ```python
 @classmethod
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.Paths.remove_duplicate_slashes"></a>
 
-#### remove_duplicate_slashes
+#### remove\_duplicate\_slashes
 
 ```python
 @classmethod
@@ -228,7 +228,7 @@ Returns:
 
 <a id="unreal.Paths.project_user_dir"></a>
 
-#### project_user_dir
+#### project\_user\_dir
 
 ```python
 @classmethod
@@ -243,7 +243,7 @@ Returns:
 
 <a id="unreal.Paths.project_saved_dir"></a>
 
-#### project_saved_dir
+#### project\_saved\_dir
 
 ```python
 @classmethod
@@ -258,7 +258,7 @@ Returns:
 
 <a id="unreal.Paths.project_plugins_dir"></a>
 
-#### project_plugins_dir
+#### project\_plugins\_dir
 
 ```python
 @classmethod
@@ -273,7 +273,7 @@ Returns:
 
 <a id="unreal.Paths.project_persistent_download_dir"></a>
 
-#### project_persistent_download_dir
+#### project\_persistent\_download\_dir
 
 ```python
 @classmethod
@@ -288,7 +288,7 @@ Returns:
 
 <a id="unreal.Paths.project_mods_dir"></a>
 
-#### project_mods_dir
+#### project\_mods\_dir
 
 ```python
 @classmethod
@@ -303,7 +303,7 @@ Returns:
 
 <a id="unreal.Paths.project_log_dir"></a>
 
-#### project_log_dir
+#### project\_log\_dir
 
 ```python
 @classmethod
@@ -320,7 +320,7 @@ Returns:
 
 <a id="unreal.Paths.project_intermediate_dir"></a>
 
-#### project_intermediate_dir
+#### project\_intermediate\_dir
 
 ```python
 @classmethod
@@ -335,7 +335,7 @@ Returns:
 
 <a id="unreal.Paths.project_dir"></a>
 
-#### project_dir
+#### project\_dir
 
 ```python
 @classmethod
@@ -353,7 +353,7 @@ Returns:
 
 <a id="unreal.Paths.project_content_dir"></a>
 
-#### project_content_dir
+#### project\_content\_dir
 
 ```python
 @classmethod
@@ -368,7 +368,7 @@ Returns:
 
 <a id="unreal.Paths.project_config_dir"></a>
 
-#### project_config_dir
+#### project\_config\_dir
 
 ```python
 @classmethod
@@ -383,7 +383,7 @@ Returns:
 
 <a id="unreal.Paths.profiling_dir"></a>
 
-#### profiling_dir
+#### profiling\_dir
 
 ```python
 @classmethod
@@ -398,7 +398,7 @@ Returns:
 
 <a id="unreal.Paths.normalize_filename"></a>
 
-#### normalize_filename
+#### normalize\_filename
 
 ```python
 @classmethod
@@ -418,7 +418,7 @@ Returns:
 
 <a id="unreal.Paths.normalize_directory_name"></a>
 
-#### normalize_directory_name
+#### normalize\_directory\_name
 
 ```python
 @classmethod
@@ -438,7 +438,7 @@ Returns:
 
 <a id="unreal.Paths.make_valid_file_name"></a>
 
-#### make_valid_file_name
+#### make\_valid\_file\_name
 
 ```python
 @classmethod
@@ -460,7 +460,7 @@ Returns:
 
 <a id="unreal.Paths.make_standard_filename"></a>
 
-#### make_standard_filename
+#### make\_standard\_filename
 
 ```python
 @classmethod
@@ -484,7 +484,7 @@ Returns:
 
 <a id="unreal.Paths.make_platform_filename"></a>
 
-#### make_platform_filename
+#### make\_platform\_filename
 
 ```python
 @classmethod
@@ -504,7 +504,7 @@ Returns:
 
 <a id="unreal.Paths.make_path_relative_to"></a>
 
-#### make_path_relative_to
+#### make\_path\_relative\_to
 
 ```python
 @classmethod
@@ -525,7 +525,7 @@ Returns:
 
 <a id="unreal.Paths.launch_dir"></a>
 
-#### launch_dir
+#### launch\_dir
 
 ```python
 @classmethod
@@ -540,7 +540,7 @@ Returns:
 
 <a id="unreal.Paths.is_same_path"></a>
 
-#### is_same_path
+#### is\_same\_path
 
 ```python
 @classmethod
@@ -559,7 +559,7 @@ Returns:
 
 <a id="unreal.Paths.is_restricted_path"></a>
 
-#### is_restricted_path
+#### is\_restricted\_path
 
 ```python
 @classmethod
@@ -577,7 +577,7 @@ Returns:
 
 <a id="unreal.Paths.is_relative"></a>
 
-#### is_relative
+#### is\_relative
 
 ```python
 @classmethod
@@ -595,7 +595,7 @@ Returns:
 
 <a id="unreal.Paths.is_project_file_path_set"></a>
 
-#### is_project_file_path_set
+#### is\_project\_file\_path\_set
 
 ```python
 @classmethod
@@ -610,7 +610,7 @@ Returns:
 
 <a id="unreal.Paths.is_drive"></a>
 
-#### is_drive
+#### is\_drive
 
 ```python
 @classmethod
@@ -628,7 +628,7 @@ Returns:
 
 <a id="unreal.Paths.has_project_persistent_download_dir"></a>
 
-#### has_project_persistent_download_dir
+#### has\_project\_persistent\_download\_dir
 
 ```python
 @classmethod
@@ -643,7 +643,7 @@ Returns:
 
 <a id="unreal.Paths.get_tool_tip_localization_paths"></a>
 
-#### get_tool_tip_localization_paths
+#### get\_tool\_tip\_localization\_paths
 
 ```python
 @classmethod
@@ -658,7 +658,7 @@ Returns:
 
 <a id="unreal.Paths.get_restricted_folder_names"></a>
 
-#### get_restricted_folder_names
+#### get\_restricted\_folder\_names
 
 ```python
 @classmethod
@@ -673,7 +673,7 @@ Returns:
 
 <a id="unreal.Paths.get_relative_path_to_root"></a>
 
-#### get_relative_path_to_root
+#### get\_relative\_path\_to\_root
 
 ```python
 @classmethod
@@ -688,7 +688,7 @@ Returns:
 
 <a id="unreal.Paths.get_property_name_localization_paths"></a>
 
-#### get_property_name_localization_paths
+#### get\_property\_name\_localization\_paths
 
 ```python
 @classmethod
@@ -703,7 +703,7 @@ Returns:
 
 <a id="unreal.Paths.get_project_file_path"></a>
 
-#### get_project_file_path
+#### get\_project\_file\_path
 
 ```python
 @classmethod
@@ -718,7 +718,7 @@ Returns:
 
 <a id="unreal.Paths.get_path"></a>
 
-#### get_path
+#### get\_path
 
 ```python
 @classmethod
@@ -736,7 +736,7 @@ Returns:
 
 <a id="unreal.Paths.get_invalid_file_system_chars"></a>
 
-#### get_invalid_file_system_chars
+#### get\_invalid\_file\_system\_chars
 
 ```python
 @classmethod
@@ -751,7 +751,7 @@ Returns:
 
 <a id="unreal.Paths.get_game_localization_paths"></a>
 
-#### get_game_localization_paths
+#### get\_game\_localization\_paths
 
 ```python
 @classmethod
@@ -766,7 +766,7 @@ Returns:
 
 <a id="unreal.Paths.get_extension"></a>
 
-#### get_extension
+#### get\_extension
 
 ```python
 @classmethod
@@ -785,7 +785,7 @@ Returns:
 
 <a id="unreal.Paths.get_engine_localization_paths"></a>
 
-#### get_engine_localization_paths
+#### get\_engine\_localization\_paths
 
 ```python
 @classmethod
@@ -800,7 +800,7 @@ Returns:
 
 <a id="unreal.Paths.get_editor_localization_paths"></a>
 
-#### get_editor_localization_paths
+#### get\_editor\_localization\_paths
 
 ```python
 @classmethod
@@ -815,7 +815,7 @@ Returns:
 
 <a id="unreal.Paths.get_clean_filename"></a>
 
-#### get_clean_filename
+#### get\_clean\_filename
 
 ```python
 @classmethod
@@ -833,7 +833,7 @@ Returns:
 
 <a id="unreal.Paths.get_base_filename"></a>
 
-#### get_base_filename
+#### get\_base\_filename
 
 ```python
 @classmethod
@@ -852,7 +852,7 @@ Returns:
 
 <a id="unreal.Paths.generated_config_dir"></a>
 
-#### generated_config_dir
+#### generated\_config\_dir
 
 ```python
 @classmethod
@@ -867,7 +867,7 @@ Returns:
 
 <a id="unreal.Paths.game_user_developer_dir"></a>
 
-#### game_user_developer_dir
+#### game\_user\_developer\_dir
 
 ```python
 @classmethod
@@ -882,7 +882,7 @@ Returns:
 
 <a id="unreal.Paths.game_source_dir"></a>
 
-#### game_source_dir
+#### game\_source\_dir
 
 ```python
 @classmethod
@@ -897,7 +897,7 @@ Returns:
 
 <a id="unreal.Paths.game_developers_dir"></a>
 
-#### game_developers_dir
+#### game\_developers\_dir
 
 ```python
 @classmethod
@@ -912,7 +912,7 @@ Returns:
 
 <a id="unreal.Paths.game_agnostic_saved_dir"></a>
 
-#### game_agnostic_saved_dir
+#### game\_agnostic\_saved\_dir
 
 ```python
 @classmethod
@@ -928,7 +928,7 @@ Returns:
 
 <a id="unreal.Paths.file_exists"></a>
 
-#### file_exists
+#### file\_exists
 
 ```python
 @classmethod
@@ -946,7 +946,7 @@ Returns:
 
 <a id="unreal.Paths.feature_pack_dir"></a>
 
-#### feature_pack_dir
+#### feature\_pack\_dir
 
 ```python
 @classmethod
@@ -961,7 +961,7 @@ Returns:
 
 <a id="unreal.Paths.enterprise_plugins_dir"></a>
 
-#### enterprise_plugins_dir
+#### enterprise\_plugins\_dir
 
 ```python
 @classmethod
@@ -976,7 +976,7 @@ Returns:
 
 <a id="unreal.Paths.enterprise_feature_pack_dir"></a>
 
-#### enterprise_feature_pack_dir
+#### enterprise\_feature\_pack\_dir
 
 ```python
 @classmethod
@@ -991,7 +991,7 @@ Returns:
 
 <a id="unreal.Paths.enterprise_dir"></a>
 
-#### enterprise_dir
+#### enterprise\_dir
 
 ```python
 @classmethod
@@ -1006,7 +1006,7 @@ Returns:
 
 <a id="unreal.Paths.engine_version_agnostic_user_dir"></a>
 
-#### engine_version_agnostic_user_dir
+#### engine\_version\_agnostic\_user\_dir
 
 ```python
 @classmethod
@@ -1021,7 +1021,7 @@ Returns:
 
 <a id="unreal.Paths.engine_user_dir"></a>
 
-#### engine_user_dir
+#### engine\_user\_dir
 
 ```python
 @classmethod
@@ -1036,7 +1036,7 @@ Returns:
 
 <a id="unreal.Paths.engine_source_dir"></a>
 
-#### engine_source_dir
+#### engine\_source\_dir
 
 ```python
 @classmethod
@@ -1051,7 +1051,7 @@ Returns:
 
 <a id="unreal.Paths.engine_saved_dir"></a>
 
-#### engine_saved_dir
+#### engine\_saved\_dir
 
 ```python
 @classmethod
@@ -1066,7 +1066,7 @@ Returns:
 
 <a id="unreal.Paths.engine_plugins_dir"></a>
 
-#### engine_plugins_dir
+#### engine\_plugins\_dir
 
 ```python
 @classmethod
@@ -1081,7 +1081,7 @@ Returns:
 
 <a id="unreal.Paths.engine_intermediate_dir"></a>
 
-#### engine_intermediate_dir
+#### engine\_intermediate\_dir
 
 ```python
 @classmethod
@@ -1096,7 +1096,7 @@ Returns:
 
 <a id="unreal.Paths.engine_dir"></a>
 
-#### engine_dir
+#### engine\_dir
 
 ```python
 @classmethod
@@ -1113,7 +1113,7 @@ Returns:
 
 <a id="unreal.Paths.engine_content_dir"></a>
 
-#### engine_content_dir
+#### engine\_content\_dir
 
 ```python
 @classmethod
@@ -1129,7 +1129,7 @@ Returns:
 
 <a id="unreal.Paths.engine_config_dir"></a>
 
-#### engine_config_dir
+#### engine\_config\_dir
 
 ```python
 @classmethod
@@ -1144,7 +1144,7 @@ Returns:
 
 <a id="unreal.Paths.directory_exists"></a>
 
-#### directory_exists
+#### directory\_exists
 
 ```python
 @classmethod
@@ -1162,7 +1162,7 @@ Returns:
 
 <a id="unreal.Paths.diff_dir"></a>
 
-#### diff_dir
+#### diff\_dir
 
 ```python
 @classmethod
@@ -1177,7 +1177,7 @@ Returns:
 
 <a id="unreal.Paths.create_temp_filename"></a>
 
-#### create_temp_filename
+#### create\_temp\_filename
 
 ```python
 @classmethod
@@ -1200,7 +1200,7 @@ Returns:
 
 <a id="unreal.Paths.convert_to_sandbox_path"></a>
 
-#### convert_to_sandbox_path
+#### convert\_to\_sandbox\_path
 
 ```python
 @classmethod
@@ -1219,7 +1219,7 @@ Returns:
 
 <a id="unreal.Paths.convert_relative_path_to_full"></a>
 
-#### convert_relative_path_to_full
+#### convert\_relative\_path\_to\_full
 
 ```python
 @classmethod
@@ -1239,7 +1239,7 @@ Returns:
 
 <a id="unreal.Paths.convert_from_sandbox_path"></a>
 
-#### convert_from_sandbox_path
+#### convert\_from\_sandbox\_path
 
 ```python
 @classmethod
@@ -1276,7 +1276,7 @@ Returns:
 
 <a id="unreal.Paths.collapse_relative_directories"></a>
 
-#### collapse_relative_directories
+#### collapse\_relative\_directories
 
 ```python
 @classmethod
@@ -1301,7 +1301,7 @@ Returns:
 
 <a id="unreal.Paths.cloud_dir"></a>
 
-#### cloud_dir
+#### cloud\_dir
 
 ```python
 @classmethod
@@ -1316,7 +1316,7 @@ Returns:
 
 <a id="unreal.Paths.change_extension"></a>
 
-#### change_extension
+#### change\_extension
 
 ```python
 @classmethod
@@ -1335,7 +1335,7 @@ Returns:
 
 <a id="unreal.Paths.bug_it_dir"></a>
 
-#### bug_it_dir
+#### bug\_it\_dir
 
 ```python
 @classmethod
@@ -1350,7 +1350,7 @@ Returns:
 
 <a id="unreal.Paths.automation_transient_dir"></a>
 
-#### automation_transient_dir
+#### automation\_transient\_dir
 
 ```python
 @classmethod
@@ -1365,7 +1365,7 @@ Returns:
 
 <a id="unreal.Paths.automation_log_dir"></a>
 
-#### automation_log_dir
+#### automation\_log\_dir
 
 ```python
 @classmethod
@@ -1380,7 +1380,7 @@ Returns:
 
 <a id="unreal.Paths.automation_dir"></a>
 
-#### automation_dir
+#### automation\_dir
 
 ```python
 @classmethod

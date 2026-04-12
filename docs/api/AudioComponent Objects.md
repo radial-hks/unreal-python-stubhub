@@ -134,7 +134,7 @@ def sound(value: SoundBase) -> None
 
 <a id="unreal.AudioComponent.default_parameters"></a>
 
-#### default_parameters
+#### default\_parameters
 
 ```python
 @property
@@ -147,7 +147,7 @@ by parameters set via the actor interface if set, or the instance parameters.
 
 <a id="unreal.AudioComponent.default_parameters"></a>
 
-#### default_parameters
+#### default\_parameters
 
 ```python
 @default_parameters.setter
@@ -156,7 +156,7 @@ def default_parameters(value: Array[AudioParameter]) -> None
 
 <a id="unreal.AudioComponent.instance_parameters"></a>
 
-#### instance_parameters
+#### instance\_parameters
 
 ```python
 @property
@@ -167,7 +167,7 @@ deprecated: 'instance_parameters' was renamed to 'default_parameters'.
 
 <a id="unreal.AudioComponent.instance_parameters"></a>
 
-#### instance_parameters
+#### instance\_parameters
 
 ```python
 @instance_parameters.setter
@@ -176,7 +176,7 @@ def instance_parameters(value: Array[AudioParameter]) -> None
 
 <a id="unreal.AudioComponent.allow_spatialization"></a>
 
-#### allow_spatialization
+#### allow\_spatialization
 
 ```python
 @property
@@ -187,7 +187,7 @@ def allow_spatialization() -> bool
 
 <a id="unreal.AudioComponent.allow_spatialization"></a>
 
-#### allow_spatialization
+#### allow\_spatialization
 
 ```python
 @allow_spatialization.setter
@@ -196,7 +196,7 @@ def allow_spatialization(value: bool) -> None
 
 <a id="unreal.AudioComponent.override_attenuation"></a>
 
-#### override_attenuation
+#### override\_attenuation
 
 ```python
 @property
@@ -207,7 +207,7 @@ def override_attenuation() -> bool
 
 <a id="unreal.AudioComponent.override_attenuation"></a>
 
-#### override_attenuation
+#### override\_attenuation
 
 ```python
 @override_attenuation.setter
@@ -216,7 +216,7 @@ def override_attenuation(value: bool) -> None
 
 <a id="unreal.AudioComponent.override_subtitle_priority"></a>
 
-#### override_subtitle_priority
+#### override\_subtitle\_priority
 
 ```python
 @property
@@ -227,7 +227,7 @@ def override_subtitle_priority() -> bool
 
 <a id="unreal.AudioComponent.override_subtitle_priority"></a>
 
-#### override_subtitle_priority
+#### override\_subtitle\_priority
 
 ```python
 @override_subtitle_priority.setter
@@ -236,7 +236,7 @@ def override_subtitle_priority(value: bool) -> None
 
 <a id="unreal.AudioComponent.is_ui_sound"></a>
 
-#### is_ui_sound
+#### is\_ui\_sound
 
 ```python
 @property
@@ -247,7 +247,7 @@ def is_ui_sound() -> bool
 
 <a id="unreal.AudioComponent.is_ui_sound"></a>
 
-#### is_ui_sound
+#### is\_ui\_sound
 
 ```python
 @is_ui_sound.setter
@@ -256,7 +256,7 @@ def is_ui_sound(value: bool) -> None
 
 <a id="unreal.AudioComponent.enable_low_pass_filter"></a>
 
-#### enable_low_pass_filter
+#### enable\_low\_pass\_filter
 
 ```python
 @property
@@ -267,7 +267,7 @@ def enable_low_pass_filter() -> bool
 
 <a id="unreal.AudioComponent.enable_low_pass_filter"></a>
 
-#### enable_low_pass_filter
+#### enable\_low\_pass\_filter
 
 ```python
 @enable_low_pass_filter.setter
@@ -276,7 +276,7 @@ def enable_low_pass_filter(value: bool) -> None
 
 <a id="unreal.AudioComponent.enable_high_pass_filter"></a>
 
-#### enable_high_pass_filter
+#### enable\_high\_pass\_filter
 
 ```python
 @property
@@ -287,7 +287,7 @@ def enable_high_pass_filter() -> bool
 
 <a id="unreal.AudioComponent.enable_high_pass_filter"></a>
 
-#### enable_high_pass_filter
+#### enable\_high\_pass\_filter
 
 ```python
 @enable_high_pass_filter.setter
@@ -296,7 +296,7 @@ def enable_high_pass_filter(value: bool) -> None
 
 <a id="unreal.AudioComponent.override_priority"></a>
 
-#### override_priority
+#### override\_priority
 
 ```python
 @property
@@ -307,7 +307,7 @@ def override_priority() -> bool
 
 <a id="unreal.AudioComponent.override_priority"></a>
 
-#### override_priority
+#### override\_priority
 
 ```python
 @override_priority.setter
@@ -316,7 +316,7 @@ def override_priority(value: bool) -> None
 
 <a id="unreal.AudioComponent.suppress_subtitles"></a>
 
-#### suppress_subtitles
+#### suppress\_subtitles
 
 ```python
 @property
@@ -327,7 +327,7 @@ def suppress_subtitles() -> bool
 
 <a id="unreal.AudioComponent.suppress_subtitles"></a>
 
-#### suppress_subtitles
+#### suppress\_subtitles
 
 ```python
 @suppress_subtitles.setter
@@ -336,7 +336,7 @@ def suppress_subtitles(value: bool) -> None
 
 <a id="unreal.AudioComponent.can_play_multiple_instances"></a>
 
-#### can_play_multiple_instances
+#### can\_play\_multiple\_instances
 
 ```python
 @property
@@ -349,7 +349,7 @@ will not take effect until the AudioComponent is stopped and restarted.
 
 <a id="unreal.AudioComponent.can_play_multiple_instances"></a>
 
-#### can_play_multiple_instances
+#### can\_play\_multiple\_instances
 
 ```python
 @can_play_multiple_instances.setter
@@ -358,7 +358,7 @@ def can_play_multiple_instances(value: bool) -> None
 
 <a id="unreal.AudioComponent.disable_parameter_updates_while_playing"></a>
 
-#### disable_parameter_updates_while_playing
+#### disable\_parameter\_updates\_while\_playing
 
 ```python
 @property
@@ -369,7 +369,7 @@ def disable_parameter_updates_while_playing() -> bool
 
 <a id="unreal.AudioComponent.disable_parameter_updates_while_playing"></a>
 
-#### disable_parameter_updates_while_playing
+#### disable\_parameter\_updates\_while\_playing
 
 ```python
 @disable_parameter_updates_while_playing.setter
@@ -378,7 +378,7 @@ def disable_parameter_updates_while_playing(value: bool) -> None
 
 <a id="unreal.AudioComponent.auto_manage_attachment"></a>
 
-#### auto_manage_attachment
+#### auto\_manage\_attachment
 
 ```python
 @property
@@ -395,7 +395,7 @@ see: AutoAttachParent, AutoAttachSocketName, AutoAttachLocationType
 
 <a id="unreal.AudioComponent.pitch_modulation_min"></a>
 
-#### pitch_modulation_min
+#### pitch\_modulation\_min
 
 ```python
 @property
@@ -406,7 +406,7 @@ def pitch_modulation_min() -> float
 
 <a id="unreal.AudioComponent.pitch_modulation_min"></a>
 
-#### pitch_modulation_min
+#### pitch\_modulation\_min
 
 ```python
 @pitch_modulation_min.setter
@@ -415,7 +415,7 @@ def pitch_modulation_min(value: float) -> None
 
 <a id="unreal.AudioComponent.pitch_multiplier_min"></a>
 
-#### pitch_multiplier_min
+#### pitch\_multiplier\_min
 
 ```python
 @property
@@ -426,7 +426,7 @@ deprecated: 'pitch_multiplier_min' was renamed to 'pitch_modulation_min'.
 
 <a id="unreal.AudioComponent.pitch_multiplier_min"></a>
 
-#### pitch_multiplier_min
+#### pitch\_multiplier\_min
 
 ```python
 @pitch_multiplier_min.setter
@@ -435,7 +435,7 @@ def pitch_multiplier_min(value: float) -> None
 
 <a id="unreal.AudioComponent.pitch_modulation_max"></a>
 
-#### pitch_modulation_max
+#### pitch\_modulation\_max
 
 ```python
 @property
@@ -446,7 +446,7 @@ def pitch_modulation_max() -> float
 
 <a id="unreal.AudioComponent.pitch_modulation_max"></a>
 
-#### pitch_modulation_max
+#### pitch\_modulation\_max
 
 ```python
 @pitch_modulation_max.setter
@@ -455,7 +455,7 @@ def pitch_modulation_max(value: float) -> None
 
 <a id="unreal.AudioComponent.pitch_multiplier_max"></a>
 
-#### pitch_multiplier_max
+#### pitch\_multiplier\_max
 
 ```python
 @property
@@ -466,7 +466,7 @@ deprecated: 'pitch_multiplier_max' was renamed to 'pitch_modulation_max'.
 
 <a id="unreal.AudioComponent.pitch_multiplier_max"></a>
 
-#### pitch_multiplier_max
+#### pitch\_multiplier\_max
 
 ```python
 @pitch_multiplier_max.setter
@@ -475,7 +475,7 @@ def pitch_multiplier_max(value: float) -> None
 
 <a id="unreal.AudioComponent.volume_modulation_min"></a>
 
-#### volume_modulation_min
+#### volume\_modulation\_min
 
 ```python
 @property
@@ -486,7 +486,7 @@ def volume_modulation_min() -> float
 
 <a id="unreal.AudioComponent.volume_modulation_min"></a>
 
-#### volume_modulation_min
+#### volume\_modulation\_min
 
 ```python
 @volume_modulation_min.setter
@@ -495,7 +495,7 @@ def volume_modulation_min(value: float) -> None
 
 <a id="unreal.AudioComponent.volume_multiplier_min"></a>
 
-#### volume_multiplier_min
+#### volume\_multiplier\_min
 
 ```python
 @property
@@ -506,7 +506,7 @@ deprecated: 'volume_multiplier_min' was renamed to 'volume_modulation_min'.
 
 <a id="unreal.AudioComponent.volume_multiplier_min"></a>
 
-#### volume_multiplier_min
+#### volume\_multiplier\_min
 
 ```python
 @volume_multiplier_min.setter
@@ -515,7 +515,7 @@ def volume_multiplier_min(value: float) -> None
 
 <a id="unreal.AudioComponent.volume_modulation_max"></a>
 
-#### volume_modulation_max
+#### volume\_modulation\_max
 
 ```python
 @property
@@ -526,7 +526,7 @@ def volume_modulation_max() -> float
 
 <a id="unreal.AudioComponent.volume_modulation_max"></a>
 
-#### volume_modulation_max
+#### volume\_modulation\_max
 
 ```python
 @volume_modulation_max.setter
@@ -535,7 +535,7 @@ def volume_modulation_max(value: float) -> None
 
 <a id="unreal.AudioComponent.volume_multiplier_max"></a>
 
-#### volume_multiplier_max
+#### volume\_multiplier\_max
 
 ```python
 @property
@@ -546,7 +546,7 @@ deprecated: 'volume_multiplier_max' was renamed to 'volume_modulation_max'.
 
 <a id="unreal.AudioComponent.volume_multiplier_max"></a>
 
-#### volume_multiplier_max
+#### volume\_multiplier\_max
 
 ```python
 @volume_multiplier_max.setter
@@ -555,7 +555,7 @@ def volume_multiplier_max(value: float) -> None
 
 <a id="unreal.AudioComponent.volume_multiplier"></a>
 
-#### volume_multiplier
+#### volume\_multiplier
 
 ```python
 @property
@@ -566,7 +566,7 @@ def volume_multiplier() -> float
 
 <a id="unreal.AudioComponent.volume_multiplier"></a>
 
-#### volume_multiplier
+#### volume\_multiplier
 
 ```python
 @volume_multiplier.setter
@@ -575,7 +575,7 @@ def volume_multiplier(value: float) -> None
 
 <a id="unreal.AudioComponent.envelope_follower_attack_time"></a>
 
-#### envelope_follower_attack_time
+#### envelope\_follower\_attack\_time
 
 ```python
 @property
@@ -587,7 +587,7 @@ envelope value of sounds played with this audio component.
 
 <a id="unreal.AudioComponent.envelope_follower_attack_time"></a>
 
-#### envelope_follower_attack_time
+#### envelope\_follower\_attack\_time
 
 ```python
 @envelope_follower_attack_time.setter
@@ -596,7 +596,7 @@ def envelope_follower_attack_time(value: int) -> None
 
 <a id="unreal.AudioComponent.envelope_follower_release_time"></a>
 
-#### envelope_follower_release_time
+#### envelope\_follower\_release\_time
 
 ```python
 @property
@@ -608,7 +608,7 @@ envelope value of sounds played with this audio component.
 
 <a id="unreal.AudioComponent.envelope_follower_release_time"></a>
 
-#### envelope_follower_release_time
+#### envelope\_follower\_release\_time
 
 ```python
 @envelope_follower_release_time.setter
@@ -637,7 +637,7 @@ def priority(value: float) -> None
 
 <a id="unreal.AudioComponent.subtitle_priority"></a>
 
-#### subtitle_priority
+#### subtitle\_priority
 
 ```python
 @property
@@ -648,7 +648,7 @@ def subtitle_priority() -> float
 
 <a id="unreal.AudioComponent.subtitle_priority"></a>
 
-#### subtitle_priority
+#### subtitle\_priority
 
 ```python
 @subtitle_priority.setter
@@ -657,7 +657,7 @@ def subtitle_priority(value: float) -> None
 
 <a id="unreal.AudioComponent.source_effect_chain"></a>
 
-#### source_effect_chain
+#### source\_effect\_chain
 
 ```python
 @property
@@ -668,7 +668,7 @@ def source_effect_chain() -> SoundEffectSourcePresetChain
 
 <a id="unreal.AudioComponent.source_effect_chain"></a>
 
-#### source_effect_chain
+#### source\_effect\_chain
 
 ```python
 @source_effect_chain.setter
@@ -677,7 +677,7 @@ def source_effect_chain(value: SoundEffectSourcePresetChain) -> None
 
 <a id="unreal.AudioComponent.pitch_multiplier"></a>
 
-#### pitch_multiplier
+#### pitch\_multiplier
 
 ```python
 @property
@@ -688,7 +688,7 @@ def pitch_multiplier() -> float
 
 <a id="unreal.AudioComponent.pitch_multiplier"></a>
 
-#### pitch_multiplier
+#### pitch\_multiplier
 
 ```python
 @pitch_multiplier.setter
@@ -697,7 +697,7 @@ def pitch_multiplier(value: float) -> None
 
 <a id="unreal.AudioComponent.low_pass_filter_frequency"></a>
 
-#### low_pass_filter_frequency
+#### low\_pass\_filter\_frequency
 
 ```python
 @property
@@ -708,7 +708,7 @@ def low_pass_filter_frequency() -> float
 
 <a id="unreal.AudioComponent.low_pass_filter_frequency"></a>
 
-#### low_pass_filter_frequency
+#### low\_pass\_filter\_frequency
 
 ```python
 @low_pass_filter_frequency.setter
@@ -717,7 +717,7 @@ def low_pass_filter_frequency(value: float) -> None
 
 <a id="unreal.AudioComponent.high_pass_filter_frequency"></a>
 
-#### high_pass_filter_frequency
+#### high\_pass\_filter\_frequency
 
 ```python
 @property
@@ -728,7 +728,7 @@ def high_pass_filter_frequency() -> float
 
 <a id="unreal.AudioComponent.high_pass_filter_frequency"></a>
 
-#### high_pass_filter_frequency
+#### high\_pass\_filter\_frequency
 
 ```python
 @high_pass_filter_frequency.setter
@@ -737,7 +737,7 @@ def high_pass_filter_frequency(value: float) -> None
 
 <a id="unreal.AudioComponent.attenuation_settings"></a>
 
-#### attenuation_settings
+#### attenuation\_settings
 
 ```python
 @property
@@ -748,7 +748,7 @@ def attenuation_settings() -> SoundAttenuation
 
 <a id="unreal.AudioComponent.attenuation_settings"></a>
 
-#### attenuation_settings
+#### attenuation\_settings
 
 ```python
 @attenuation_settings.setter
@@ -757,7 +757,7 @@ def attenuation_settings(value: SoundAttenuation) -> None
 
 <a id="unreal.AudioComponent.attenuation_overrides"></a>
 
-#### attenuation_overrides
+#### attenuation\_overrides
 
 ```python
 @property
@@ -768,7 +768,7 @@ def attenuation_overrides() -> SoundAttenuationSettings
 
 <a id="unreal.AudioComponent.attenuation_overrides"></a>
 
-#### attenuation_overrides
+#### attenuation\_overrides
 
 ```python
 @attenuation_overrides.setter
@@ -777,7 +777,7 @@ def attenuation_overrides(value: SoundAttenuationSettings) -> None
 
 <a id="unreal.AudioComponent.concurrency_set"></a>
 
-#### concurrency_set
+#### concurrency\_set
 
 ```python
 @property
@@ -788,7 +788,7 @@ def concurrency_set() -> Set[SoundConcurrency]
 
 <a id="unreal.AudioComponent.concurrency_set"></a>
 
-#### concurrency_set
+#### concurrency\_set
 
 ```python
 @concurrency_set.setter
@@ -797,7 +797,7 @@ def concurrency_set(value: Set[SoundConcurrency]) -> None
 
 <a id="unreal.AudioComponent.auto_attach_location_rule"></a>
 
-#### auto_attach_location_rule
+#### auto\_attach\_location\_rule
 
 ```python
 @property
@@ -809,7 +809,7 @@ see: bAutoManageAttachment, EAttachmentRule
 
 <a id="unreal.AudioComponent.auto_attach_location_rule"></a>
 
-#### auto_attach_location_rule
+#### auto\_attach\_location\_rule
 
 ```python
 @auto_attach_location_rule.setter
@@ -818,7 +818,7 @@ def auto_attach_location_rule(value: AttachmentRule) -> None
 
 <a id="unreal.AudioComponent.auto_attach_rotation_rule"></a>
 
-#### auto_attach_rotation_rule
+#### auto\_attach\_rotation\_rule
 
 ```python
 @property
@@ -830,7 +830,7 @@ see: bAutoManageAttachment, EAttachmentRule
 
 <a id="unreal.AudioComponent.auto_attach_rotation_rule"></a>
 
-#### auto_attach_rotation_rule
+#### auto\_attach\_rotation\_rule
 
 ```python
 @auto_attach_rotation_rule.setter
@@ -839,7 +839,7 @@ def auto_attach_rotation_rule(value: AttachmentRule) -> None
 
 <a id="unreal.AudioComponent.auto_attach_scale_rule"></a>
 
-#### auto_attach_scale_rule
+#### auto\_attach\_scale\_rule
 
 ```python
 @property
@@ -851,7 +851,7 @@ see: bAutoManageAttachment, EAttachmentRule
 
 <a id="unreal.AudioComponent.auto_attach_scale_rule"></a>
 
-#### auto_attach_scale_rule
+#### auto\_attach\_scale\_rule
 
 ```python
 @auto_attach_scale_rule.setter
@@ -860,7 +860,7 @@ def auto_attach_scale_rule(value: AttachmentRule) -> None
 
 <a id="unreal.AudioComponent.modulation_routing"></a>
 
-#### modulation_routing
+#### modulation\_routing
 
 ```python
 @property
@@ -871,7 +871,7 @@ def modulation_routing() -> SoundModulationDefaultRoutingSettings
 
 <a id="unreal.AudioComponent.modulation_routing"></a>
 
-#### modulation_routing
+#### modulation\_routing
 
 ```python
 @modulation_routing.setter
@@ -880,7 +880,7 @@ def modulation_routing(value: SoundModulationDefaultRoutingSettings) -> None
 
 <a id="unreal.AudioComponent.on_audio_play_state_changed"></a>
 
-#### on_audio_play_state_changed
+#### on\_audio\_play\_state\_changed
 
 ```python
 @property
@@ -896,7 +896,7 @@ Fading Out, if the sound is in the process of Fading Out.
 
 <a id="unreal.AudioComponent.on_audio_play_state_changed"></a>
 
-#### on_audio_play_state_changed
+#### on\_audio\_play\_state\_changed
 
 ```python
 @on_audio_play_state_changed.setter
@@ -905,7 +905,7 @@ def on_audio_play_state_changed(value: OnAudioPlayStateChanged) -> None
 
 <a id="unreal.AudioComponent.on_audio_virtualization_changed"></a>
 
-#### on_audio_virtualization_changed
+#### on\_audio\_virtualization\_changed
 
 ```python
 @property
@@ -916,7 +916,7 @@ def on_audio_virtualization_changed() -> OnAudioVirtualizationChanged
 
 <a id="unreal.AudioComponent.on_audio_virtualization_changed"></a>
 
-#### on_audio_virtualization_changed
+#### on\_audio\_virtualization\_changed
 
 ```python
 @on_audio_virtualization_changed.setter
@@ -926,7 +926,7 @@ def on_audio_virtualization_changed(
 
 <a id="unreal.AudioComponent.on_audio_finished"></a>
 
-#### on_audio_finished
+#### on\_audio\_finished
 
 ```python
 @property
@@ -937,7 +937,7 @@ def on_audio_finished() -> OnAudioFinished
 
 <a id="unreal.AudioComponent.on_audio_finished"></a>
 
-#### on_audio_finished
+#### on\_audio\_finished
 
 ```python
 @on_audio_finished.setter
@@ -946,7 +946,7 @@ def on_audio_finished(value: OnAudioFinished) -> None
 
 <a id="unreal.AudioComponent.on_audio_playback_percent"></a>
 
-#### on_audio_playback_percent
+#### on\_audio\_playback\_percent
 
 ```python
 @property
@@ -959,7 +959,7 @@ Not currently implemented on all platforms.
 
 <a id="unreal.AudioComponent.on_audio_playback_percent"></a>
 
-#### on_audio_playback_percent
+#### on\_audio\_playback\_percent
 
 ```python
 @on_audio_playback_percent.setter
@@ -968,7 +968,7 @@ def on_audio_playback_percent(value: OnAudioPlaybackPercent) -> None
 
 <a id="unreal.AudioComponent.on_audio_single_envelope_value"></a>
 
-#### on_audio_single_envelope_value
+#### on\_audio\_single\_envelope\_value
 
 ```python
 @property
@@ -979,7 +979,7 @@ def on_audio_single_envelope_value() -> OnAudioSingleEnvelopeValue
 
 <a id="unreal.AudioComponent.on_audio_single_envelope_value"></a>
 
-#### on_audio_single_envelope_value
+#### on\_audio\_single\_envelope\_value
 
 ```python
 @on_audio_single_envelope_value.setter
@@ -988,7 +988,7 @@ def on_audio_single_envelope_value(value: OnAudioSingleEnvelopeValue) -> None
 
 <a id="unreal.AudioComponent.on_audio_multi_envelope_value"></a>
 
-#### on_audio_multi_envelope_value
+#### on\_audio\_multi\_envelope\_value
 
 ```python
 @property
@@ -999,7 +999,7 @@ def on_audio_multi_envelope_value() -> OnAudioMultiEnvelopeValue
 
 <a id="unreal.AudioComponent.on_audio_multi_envelope_value"></a>
 
-#### on_audio_multi_envelope_value
+#### on\_audio\_multi\_envelope\_value
 
 ```python
 @on_audio_multi_envelope_value.setter
@@ -1008,7 +1008,7 @@ def on_audio_multi_envelope_value(value: OnAudioMultiEnvelopeValue) -> None
 
 <a id="unreal.AudioComponent.auto_attach_parent"></a>
 
-#### auto_attach_parent
+#### auto\_attach\_parent
 
 ```python
 @property
@@ -1021,7 +1021,7 @@ see: bAutoManageAttachment
 
 <a id="unreal.AudioComponent.auto_attach_socket_name"></a>
 
-#### auto_attach_socket_name
+#### auto\_attach\_socket\_name
 
 ```python
 @property
@@ -1033,7 +1033,7 @@ see: bAutoManageAttachment
 
 <a id="unreal.AudioComponent.auto_attach_socket_name"></a>
 
-#### auto_attach_socket_name
+#### auto\_attach\_socket\_name
 
 ```python
 @auto_attach_socket_name.setter
@@ -1042,7 +1042,7 @@ def auto_attach_socket_name(value: Name) -> None
 
 <a id="unreal.AudioComponent.stop_delayed"></a>
 
-#### stop_delayed
+#### stop\_delayed
 
 ```python
 def stop_delayed(delay_time: float) -> None
@@ -1067,7 +1067,7 @@ Stop an audio component's sound, issue any delegates if needed
 
 <a id="unreal.AudioComponent.set_wave_parameter"></a>
 
-#### set_wave_parameter
+#### set\_wave\_parameter
 
 ```python
 def set_wave_parameter(name: Name, wave: SoundWave) -> None
@@ -1084,7 +1084,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_volume_multiplier"></a>
 
-#### set_volume_multiplier
+#### set\_volume\_multiplier
 
 ```python
 def set_volume_multiplier(new_volume_multiplier: float) -> None
@@ -1098,7 +1098,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_ui_sound"></a>
 
-#### set_ui_sound
+#### set\_ui\_sound
 
 ```python
 def set_ui_sound(ui_sound: bool) -> None
@@ -1112,7 +1112,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_submix_send"></a>
 
-#### set_submix_send
+#### set\_submix\_send
 
 ```python
 def set_submix_send(submix: SoundSubmixBase, send_level: float) -> None
@@ -1127,7 +1127,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_source_bus_send_pre_effect"></a>
 
-#### set_source_bus_send_pre_effect
+#### set\_source\_bus\_send\_pre\_effect
 
 ```python
 def set_source_bus_send_pre_effect(sound_source_bus: SoundSourceBus,
@@ -1145,7 +1145,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_source_bus_send_post_effect"></a>
 
-#### set_source_bus_send_post_effect
+#### set\_source\_bus\_send\_post\_effect
 
 ```python
 def set_source_bus_send_post_effect(sound_source_bus: SoundSourceBus,
@@ -1163,7 +1163,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_sound"></a>
 
-#### set_sound
+#### set\_sound
 
 ```python
 def set_sound(new_sound: SoundBase) -> None
@@ -1177,7 +1177,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_pitch_multiplier"></a>
 
-#### set_pitch_multiplier
+#### set\_pitch\_multiplier
 
 ```python
 def set_pitch_multiplier(new_pitch_multiplier: float) -> None
@@ -1191,7 +1191,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_paused"></a>
 
-#### set_paused
+#### set\_paused
 
 ```python
 def set_paused(pause: bool) -> None
@@ -1205,7 +1205,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_output_to_bus_only"></a>
 
-#### set_output_to_bus_only
+#### set\_output\_to\_bus\_only
 
 ```python
 def set_output_to_bus_only(output_to_bus_only: bool) -> None
@@ -1219,7 +1219,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_modulation_routing"></a>
 
-#### set_modulation_routing
+#### set\_modulation\_routing
 
 ```python
 def set_modulation_routing(
@@ -1239,7 +1239,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_low_pass_filter_frequency"></a>
 
-#### set_low_pass_filter_frequency
+#### set\_low\_pass\_filter\_frequency
 
 ```python
 def set_low_pass_filter_frequency(low_pass_filter_frequency: float) -> None
@@ -1254,7 +1254,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_low_pass_filter_enabled"></a>
 
-#### set_low_pass_filter_enabled
+#### set\_low\_pass\_filter\_enabled
 
 ```python
 def set_low_pass_filter_enabled(low_pass_filter_enabled: bool) -> None
@@ -1270,7 +1270,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_int_parameter"></a>
 
-#### set_int_parameter
+#### set\_int\_parameter
 
 ```python
 def set_int_parameter(name: Name, int: int) -> None
@@ -1285,7 +1285,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_high_pass_filter_frequency"></a>
 
-#### set_high_pass_filter_frequency
+#### set\_high\_pass\_filter\_frequency
 
 ```python
 def set_high_pass_filter_frequency(high_pass_filter_frequency: float) -> None
@@ -1300,7 +1300,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_high_pass_filter_enabled"></a>
 
-#### set_high_pass_filter_enabled
+#### set\_high\_pass\_filter\_enabled
 
 ```python
 def set_high_pass_filter_enabled(high_pass_filter_enabled: bool) -> None
@@ -1316,7 +1316,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_float_parameter"></a>
 
-#### set_float_parameter
+#### set\_float\_parameter
 
 ```python
 def set_float_parameter(name: Name, float: float) -> None
@@ -1331,7 +1331,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_bool_parameter"></a>
 
-#### set_bool_parameter
+#### set\_bool\_parameter
 
 ```python
 def set_bool_parameter(name: Name, bool: bool) -> None
@@ -1346,7 +1346,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_audio_bus_send_pre_effect"></a>
 
-#### set_audio_bus_send_pre_effect
+#### set\_audio\_bus\_send\_pre\_effect
 
 ```python
 def set_audio_bus_send_pre_effect(audio_bus: AudioBus,
@@ -1363,7 +1363,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_audio_bus_send_post_effect"></a>
 
-#### set_audio_bus_send_post_effect
+#### set\_audio\_bus\_send\_post\_effect
 
 ```python
 def set_audio_bus_send_post_effect(audio_bus: AudioBus,
@@ -1380,7 +1380,7 @@ Args:
 
 <a id="unreal.AudioComponent.remove_modulation_routing"></a>
 
-#### remove_modulation_routing
+#### remove\_modulation\_routing
 
 ```python
 def remove_modulation_routing(modulators: Set[SoundModulatorBase],
@@ -1397,7 +1397,7 @@ Args:
 
 <a id="unreal.AudioComponent.play_quantized"></a>
 
-#### play_quantized
+#### play\_quantized
 
 ```python
 def play_quantized(
@@ -1448,7 +1448,7 @@ Args:
 
 <a id="unreal.AudioComponent.is_virtualized"></a>
 
-#### is_virtualized
+#### is\_virtualized
 
 ```python
 def is_virtualized() -> bool
@@ -1462,7 +1462,7 @@ Returns:
 
 <a id="unreal.AudioComponent.is_playing"></a>
 
-#### is_playing
+#### is\_playing
 
 ```python
 def is_playing() -> bool
@@ -1477,7 +1477,7 @@ Returns:
 
 <a id="unreal.AudioComponent.has_cooked_fft_data"></a>
 
-#### has_cooked_fft_data
+#### has\_cooked\_fft\_data
 
 ```python
 def has_cooked_fft_data() -> bool
@@ -1491,7 +1491,7 @@ Returns:
 
 <a id="unreal.AudioComponent.has_cooked_amplitude_envelope_data"></a>
 
-#### has_cooked_amplitude_envelope_data
+#### has\_cooked\_amplitude\_envelope\_data
 
 ```python
 def has_cooked_amplitude_envelope_data() -> bool
@@ -1505,7 +1505,7 @@ Returns:
 
 <a id="unreal.AudioComponent.get_play_state"></a>
 
-#### get_play_state
+#### get\_play\_state
 
 ```python
 def get_play_state() -> AudioComponentPlayState
@@ -1519,7 +1519,7 @@ Returns:
 
 <a id="unreal.AudioComponent.get_modulators"></a>
 
-#### get_modulators
+#### get\_modulators
 
 ```python
 def get_modulators(
@@ -1537,7 +1537,7 @@ Returns:
 
 <a id="unreal.AudioComponent.get_cooked_fft_data_for_all_playing_sounds"></a>
 
-#### get_cooked_fft_data_for_all_playing_sounds
+#### get\_cooked\_fft\_data\_for\_all\_playing\_sounds
 
 ```python
 def get_cooked_fft_data_for_all_playing_sounds(
@@ -1556,7 +1556,7 @@ Returns:
 
 <a id="unreal.AudioComponent.get_cooked_fft_data"></a>
 
-#### get_cooked_fft_data
+#### get\_cooked\_fft\_data
 
 ```python
 def get_cooked_fft_data(
@@ -1579,7 +1579,7 @@ Returns:
 
 <a id="unreal.AudioComponent.get_cooked_envelope_data_for_all_playing_sounds"></a>
 
-#### get_cooked_envelope_data_for_all_playing_sounds
+#### get\_cooked\_envelope\_data\_for\_all\_playing\_sounds
 
 ```python
 def get_cooked_envelope_data_for_all_playing_sounds(
@@ -1598,7 +1598,7 @@ Returns:
 
 <a id="unreal.AudioComponent.get_cooked_envelope_data"></a>
 
-#### get_cooked_envelope_data
+#### get\_cooked\_envelope\_data
 
 ```python
 def get_cooked_envelope_data() -> Optional[float]
@@ -1616,7 +1616,7 @@ Returns:
 
 <a id="unreal.AudioComponent.fade_out"></a>
 
-#### fade_out
+#### fade\_out
 
 ```python
 def fade_out(fade_out_duration: float,
@@ -1635,7 +1635,7 @@ Args:
 
 <a id="unreal.AudioComponent.fade_in"></a>
 
-#### fade_in
+#### fade\_in
 
 ```python
 def fade_in(fade_in_duration: float,
@@ -1656,7 +1656,7 @@ Args:
 
 <a id="unreal.AudioComponent.get_attenuation_settings_to_apply"></a>
 
-#### get_attenuation_settings_to_apply
+#### get\_attenuation\_settings\_to\_apply
 
 ```python
 def get_attenuation_settings_to_apply() -> Optional[SoundAttenuationSettings]
@@ -1673,7 +1673,7 @@ Returns:
 
 <a id="unreal.AudioComponent.adjust_volume"></a>
 
-#### adjust_volume
+#### adjust\_volume
 
 ```python
 def adjust_volume(
@@ -1692,7 +1692,7 @@ Args:
 
 <a id="unreal.AudioComponent.adjust_attenuation"></a>
 
-#### adjust_attenuation
+#### adjust\_attenuation
 
 ```python
 def adjust_attenuation(attenuation_settings: SoundAttenuationSettings) -> None
@@ -1706,7 +1706,7 @@ Args:
 
 <a id="unreal.AudioComponent.add_modulation_routing"></a>
 
-#### add_modulation_routing
+#### add\_modulation\_routing
 
 ```python
 def add_modulation_routing(modulators: Set[SoundModulatorBase],
@@ -1724,7 +1724,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_trigger_parameter"></a>
 
-#### set_trigger_parameter
+#### set\_trigger\_parameter
 
 ```python
 def set_trigger_parameter(name: Name) -> None
@@ -1741,7 +1741,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_string_parameter"></a>
 
-#### set_string_parameter
+#### set\_string\_parameter
 
 ```python
 def set_string_parameter(name: Name, value: str) -> None
@@ -1756,7 +1756,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_string_array_parameter"></a>
 
-#### set_string_array_parameter
+#### set\_string\_array\_parameter
 
 ```python
 def set_string_array_parameter(name: Name, value: Array[str]) -> None
@@ -1771,7 +1771,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_parameters_blueprint"></a>
 
-#### set_parameters_blueprint
+#### set\_parameters\_blueprint
 
 ```python
 def set_parameters_blueprint(parameters: Array[AudioParameter]) -> None
@@ -1785,7 +1785,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_object_parameter"></a>
 
-#### set_object_parameter
+#### set\_object\_parameter
 
 ```python
 def set_object_parameter(name: Name, value: Object) -> None
@@ -1800,7 +1800,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_object_array_parameter"></a>
 
-#### set_object_array_parameter
+#### set\_object\_array\_parameter
 
 ```python
 def set_object_array_parameter(name: Name, value: Array[Object]) -> None
@@ -1815,7 +1815,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_int_array_parameter"></a>
 
-#### set_int_array_parameter
+#### set\_int\_array\_parameter
 
 ```python
 def set_int_array_parameter(name: Name, value: Array[int]) -> None
@@ -1830,7 +1830,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_float_array_parameter"></a>
 
-#### set_float_array_parameter
+#### set\_float\_array\_parameter
 
 ```python
 def set_float_array_parameter(name: Name, value: Array[float]) -> None
@@ -1845,7 +1845,7 @@ Args:
 
 <a id="unreal.AudioComponent.set_bool_array_parameter"></a>
 
-#### set_bool_array_parameter
+#### set\_bool\_array\_parameter
 
 ```python
 def set_bool_array_parameter(name: Name, value: Array[bool]) -> None
@@ -1860,7 +1860,7 @@ Args:
 
 <a id="unreal.AudioComponent.reset_parameters"></a>
 
-#### reset_parameters
+#### reset\_parameters
 
 ```python
 def reset_parameters() -> None

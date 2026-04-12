@@ -22,7 +22,7 @@ Hair Simulation Settings
 
 <a id="unreal.HairSimulationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -43,7 +43,7 @@ def __init__(
 
 <a id="unreal.HairSimulationSettings.override_settings"></a>
 
-#### override_settings
+#### override\_settings
 
 ```python
 @property
@@ -54,7 +54,7 @@ def override_settings() -> bool
 
 <a id="unreal.HairSimulationSettings.override_settings"></a>
 
-#### override_settings
+#### override\_settings
 
 ```python
 @override_settings.setter
@@ -63,7 +63,7 @@ def override_settings(value: bool) -> None
 
 <a id="unreal.HairSimulationSettings.simulation_setup"></a>
 
-#### simulation_setup
+#### simulation\_setup
 
 ```python
 @property
@@ -74,7 +74,7 @@ def simulation_setup() -> HairSimulationSetup
 
 <a id="unreal.HairSimulationSettings.simulation_setup"></a>
 
-#### simulation_setup
+#### simulation\_setup
 
 ```python
 @simulation_setup.setter
@@ -83,7 +83,7 @@ def simulation_setup(value: HairSimulationSetup) -> None
 
 <a id="unreal.HairSimulationSettings.solver_settings"></a>
 
-#### solver_settings
+#### solver\_settings
 
 ```python
 @property
@@ -94,7 +94,7 @@ def solver_settings() -> HairSimulationSolver
 
 <a id="unreal.HairSimulationSettings.solver_settings"></a>
 
-#### solver_settings
+#### solver\_settings
 
 ```python
 @solver_settings.setter
@@ -103,7 +103,7 @@ def solver_settings(value: HairSimulationSolver) -> None
 
 <a id="unreal.HairSimulationSettings.external_forces"></a>
 
-#### external_forces
+#### external\_forces
 
 ```python
 @property
@@ -114,7 +114,7 @@ def external_forces() -> HairSimulationForces
 
 <a id="unreal.HairSimulationSettings.external_forces"></a>
 
-#### external_forces
+#### external\_forces
 
 ```python
 @external_forces.setter
@@ -123,7 +123,7 @@ def external_forces(value: HairSimulationForces) -> None
 
 <a id="unreal.HairSimulationSettings.material_constraints"></a>
 
-#### material_constraints
+#### material\_constraints
 
 ```python
 @property
@@ -134,7 +134,7 @@ def material_constraints() -> HairSimulationConstraints
 
 <a id="unreal.HairSimulationSettings.material_constraints"></a>
 
-#### material_constraints
+#### material\_constraints
 
 ```python
 @material_constraints.setter

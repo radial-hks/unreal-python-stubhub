@@ -21,7 +21,7 @@ Geometry Script Primitive Options
 
 <a id="unreal.GeometryScriptPrimitiveOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptPrimitiveOptions.polygroup_mode"></a>
 
-#### polygroup_mode
+#### polygroup\_mode
 
 ```python
 @property
@@ -47,7 +47,7 @@ def polygroup_mode() -> GeometryScriptPrimitivePolygroupMode
 
 <a id="unreal.GeometryScriptPrimitiveOptions.polygroup_mode"></a>
 
-#### polygroup_mode
+#### polygroup\_mode
 
 ```python
 @polygroup_mode.setter
@@ -56,7 +56,7 @@ def polygroup_mode(value: GeometryScriptPrimitivePolygroupMode) -> None
 
 <a id="unreal.GeometryScriptPrimitiveOptions.flip_orientation"></a>
 
-#### flip_orientation
+#### flip\_orientation
 
 ```python
 @property
@@ -67,7 +67,7 @@ def flip_orientation() -> bool
 
 <a id="unreal.GeometryScriptPrimitiveOptions.flip_orientation"></a>
 
-#### flip_orientation
+#### flip\_orientation
 
 ```python
 @flip_orientation.setter
@@ -76,7 +76,7 @@ def flip_orientation(value: bool) -> None
 
 <a id="unreal.GeometryScriptPrimitiveOptions.uv_mode"></a>
 
-#### uv_mode
+#### uv\_mode
 
 ```python
 @property
@@ -87,7 +87,7 @@ def uv_mode() -> GeometryScriptPrimitiveUVMode
 
 <a id="unreal.GeometryScriptPrimitiveOptions.uv_mode"></a>
 
-#### uv_mode
+#### uv\_mode
 
 ```python
 @uv_mode.setter
@@ -96,7 +96,7 @@ def uv_mode(value: GeometryScriptPrimitiveUVMode) -> None
 
 <a id="unreal.GeometryScriptPrimitiveOptions.material_id"></a>
 
-#### material_id
+#### material\_id
 
 ```python
 @property
@@ -107,7 +107,7 @@ def material_id() -> int
 
 <a id="unreal.GeometryScriptPrimitiveOptions.material_id"></a>
 
-#### material_id
+#### material\_id
 
 ```python
 @material_id.setter

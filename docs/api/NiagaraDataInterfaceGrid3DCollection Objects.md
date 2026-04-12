@@ -30,7 +30,7 @@ Niagara Data Interface Grid 3DCollection
 
 <a id="unreal.NiagaraDataInterfaceGrid3DCollection.get_texture_size"></a>
 
-#### get_texture_size
+#### get\_texture\_size
 
 ```python
 def get_texture_size(component: NiagaraComponent) -> Tuple[int, int, int]
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.NiagaraDataInterfaceGrid3DCollection.get_raw_texture_size"></a>
 
-#### get_raw_texture_size
+#### get\_raw\_texture\_size
 
 ```python
 def get_raw_texture_size(component: NiagaraComponent) -> Tuple[int, int, int]
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.NiagaraDataInterfaceGrid3DCollection.fill_volume_texture"></a>
 
-#### fill_volume_texture
+#### fill\_volume\_texture
 
 ```python
 def fill_volume_texture(component: NiagaraComponent, dest: VolumeTexture,
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.NiagaraDataInterfaceGrid3DCollection.fill_raw_volume_texture"></a>
 
-#### fill_raw_volume_texture
+#### fill\_raw\_volume\_texture
 
 ```python
 def fill_raw_volume_texture(

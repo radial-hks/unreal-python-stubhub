@@ -13,7 +13,7 @@ Movie Scene Binding Event Receiver Interface
 
 <a id="unreal.MovieSceneBindingEventReceiverInterface.on_object_unbound_by_sequencer"></a>
 
-#### on_object_unbound_by_sequencer
+#### on\_object\_unbound\_by\_sequencer
 
 ```python
 def on_object_unbound_by_sequencer(
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingEventReceiverInterface.on_object_bound_by_sequencer"></a>
 
-#### on_object_bound_by_sequencer
+#### on\_object\_bound\_by\_sequencer
 
 ```python
 def on_object_bound_by_sequencer(

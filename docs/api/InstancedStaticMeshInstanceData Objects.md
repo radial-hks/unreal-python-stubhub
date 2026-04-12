@@ -17,7 +17,7 @@ Instanced Static Mesh Instance Data
 
 <a id="unreal.InstancedStaticMeshInstanceData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -63,7 +63,7 @@ Text 3DCharacter Transform
 
 <a id="unreal.Text3DCharacterTransform.location_enabled"></a>
 
-#### location_enabled
+#### location\_enabled
 
 ```python
 @property
@@ -74,7 +74,7 @@ def location_enabled() -> bool
 
 <a id="unreal.Text3DCharacterTransform.location_enabled"></a>
 
-#### location_enabled
+#### location\_enabled
 
 ```python
 @location_enabled.setter
@@ -83,7 +83,7 @@ def location_enabled(value: bool) -> None
 
 <a id="unreal.Text3DCharacterTransform.location_progress"></a>
 
-#### location_progress
+#### location\_progress
 
 ```python
 @property
@@ -94,7 +94,7 @@ def location_progress() -> float
 
 <a id="unreal.Text3DCharacterTransform.location_progress"></a>
 
-#### location_progress
+#### location\_progress
 
 ```python
 @location_progress.setter
@@ -103,7 +103,7 @@ def location_progress(value: float) -> None
 
 <a id="unreal.Text3DCharacterTransform.location_order"></a>
 
-#### location_order
+#### location\_order
 
 ```python
 @property
@@ -114,7 +114,7 @@ def location_order() -> Text3DCharacterEffectOrder
 
 <a id="unreal.Text3DCharacterTransform.location_order"></a>
 
-#### location_order
+#### location\_order
 
 ```python
 @location_order.setter
@@ -123,7 +123,7 @@ def location_order(value: Text3DCharacterEffectOrder) -> None
 
 <a id="unreal.Text3DCharacterTransform.location_range"></a>
 
-#### location_range
+#### location\_range
 
 ```python
 @property
@@ -134,7 +134,7 @@ def location_range() -> float
 
 <a id="unreal.Text3DCharacterTransform.location_range"></a>
 
-#### location_range
+#### location\_range
 
 ```python
 @location_range.setter
@@ -143,7 +143,7 @@ def location_range(value: float) -> None
 
 <a id="unreal.Text3DCharacterTransform.location_distance"></a>
 
-#### location_distance
+#### location\_distance
 
 ```python
 @property
@@ -154,7 +154,7 @@ def location_distance() -> Vector
 
 <a id="unreal.Text3DCharacterTransform.location_distance"></a>
 
-#### location_distance
+#### location\_distance
 
 ```python
 @location_distance.setter
@@ -163,7 +163,7 @@ def location_distance(value: Vector) -> None
 
 <a id="unreal.Text3DCharacterTransform.scale_enabled"></a>
 
-#### scale_enabled
+#### scale\_enabled
 
 ```python
 @property
@@ -174,7 +174,7 @@ def scale_enabled() -> bool
 
 <a id="unreal.Text3DCharacterTransform.scale_enabled"></a>
 
-#### scale_enabled
+#### scale\_enabled
 
 ```python
 @scale_enabled.setter
@@ -183,7 +183,7 @@ def scale_enabled(value: bool) -> None
 
 <a id="unreal.Text3DCharacterTransform.scale_progress"></a>
 
-#### scale_progress
+#### scale\_progress
 
 ```python
 @property
@@ -194,7 +194,7 @@ def scale_progress() -> float
 
 <a id="unreal.Text3DCharacterTransform.scale_progress"></a>
 
-#### scale_progress
+#### scale\_progress
 
 ```python
 @scale_progress.setter
@@ -203,7 +203,7 @@ def scale_progress(value: float) -> None
 
 <a id="unreal.Text3DCharacterTransform.scale_order"></a>
 
-#### scale_order
+#### scale\_order
 
 ```python
 @property
@@ -214,7 +214,7 @@ def scale_order() -> Text3DCharacterEffectOrder
 
 <a id="unreal.Text3DCharacterTransform.scale_order"></a>
 
-#### scale_order
+#### scale\_order
 
 ```python
 @scale_order.setter
@@ -223,7 +223,7 @@ def scale_order(value: Text3DCharacterEffectOrder) -> None
 
 <a id="unreal.Text3DCharacterTransform.scale_range"></a>
 
-#### scale_range
+#### scale\_range
 
 ```python
 @property
@@ -234,7 +234,7 @@ def scale_range() -> float
 
 <a id="unreal.Text3DCharacterTransform.scale_range"></a>
 
-#### scale_range
+#### scale\_range
 
 ```python
 @scale_range.setter
@@ -243,7 +243,7 @@ def scale_range(value: float) -> None
 
 <a id="unreal.Text3DCharacterTransform.scale_begin"></a>
 
-#### scale_begin
+#### scale\_begin
 
 ```python
 @property
@@ -254,7 +254,7 @@ def scale_begin() -> Vector
 
 <a id="unreal.Text3DCharacterTransform.scale_begin"></a>
 
-#### scale_begin
+#### scale\_begin
 
 ```python
 @scale_begin.setter
@@ -263,7 +263,7 @@ def scale_begin(value: Vector) -> None
 
 <a id="unreal.Text3DCharacterTransform.scale_end"></a>
 
-#### scale_end
+#### scale\_end
 
 ```python
 @property
@@ -274,7 +274,7 @@ def scale_end() -> Vector
 
 <a id="unreal.Text3DCharacterTransform.scale_end"></a>
 
-#### scale_end
+#### scale\_end
 
 ```python
 @scale_end.setter
@@ -283,7 +283,7 @@ def scale_end(value: Vector) -> None
 
 <a id="unreal.Text3DCharacterTransform.rotate_enabled"></a>
 
-#### rotate_enabled
+#### rotate\_enabled
 
 ```python
 @property
@@ -294,7 +294,7 @@ def rotate_enabled() -> bool
 
 <a id="unreal.Text3DCharacterTransform.rotate_enabled"></a>
 
-#### rotate_enabled
+#### rotate\_enabled
 
 ```python
 @rotate_enabled.setter
@@ -303,7 +303,7 @@ def rotate_enabled(value: bool) -> None
 
 <a id="unreal.Text3DCharacterTransform.rotate_progress"></a>
 
-#### rotate_progress
+#### rotate\_progress
 
 ```python
 @property
@@ -314,7 +314,7 @@ def rotate_progress() -> float
 
 <a id="unreal.Text3DCharacterTransform.rotate_progress"></a>
 
-#### rotate_progress
+#### rotate\_progress
 
 ```python
 @rotate_progress.setter
@@ -323,7 +323,7 @@ def rotate_progress(value: float) -> None
 
 <a id="unreal.Text3DCharacterTransform.rotate_order"></a>
 
-#### rotate_order
+#### rotate\_order
 
 ```python
 @property
@@ -334,7 +334,7 @@ def rotate_order() -> Text3DCharacterEffectOrder
 
 <a id="unreal.Text3DCharacterTransform.rotate_order"></a>
 
-#### rotate_order
+#### rotate\_order
 
 ```python
 @rotate_order.setter
@@ -343,7 +343,7 @@ def rotate_order(value: Text3DCharacterEffectOrder) -> None
 
 <a id="unreal.Text3DCharacterTransform.rotate_range"></a>
 
-#### rotate_range
+#### rotate\_range
 
 ```python
 @property
@@ -354,7 +354,7 @@ def rotate_range() -> float
 
 <a id="unreal.Text3DCharacterTransform.rotate_range"></a>
 
-#### rotate_range
+#### rotate\_range
 
 ```python
 @rotate_range.setter
@@ -363,7 +363,7 @@ def rotate_range(value: float) -> None
 
 <a id="unreal.Text3DCharacterTransform.rotate_begin"></a>
 
-#### rotate_begin
+#### rotate\_begin
 
 ```python
 @property
@@ -374,7 +374,7 @@ def rotate_begin() -> Rotator
 
 <a id="unreal.Text3DCharacterTransform.rotate_begin"></a>
 
-#### rotate_begin
+#### rotate\_begin
 
 ```python
 @rotate_begin.setter
@@ -383,7 +383,7 @@ def rotate_begin(value: Rotator) -> None
 
 <a id="unreal.Text3DCharacterTransform.rotate_end"></a>
 
-#### rotate_end
+#### rotate\_end
 
 ```python
 @property
@@ -394,7 +394,7 @@ def rotate_end() -> Rotator
 
 <a id="unreal.Text3DCharacterTransform.rotate_end"></a>
 
-#### rotate_end
+#### rotate\_end
 
 ```python
 @rotate_end.setter
@@ -403,7 +403,7 @@ def rotate_end(value: Rotator) -> None
 
 <a id="unreal.Text3DCharacterTransform.set_scale_range"></a>
 
-#### set_scale_range
+#### set\_scale\_range
 
 ```python
 def set_scale_range(range: float) -> None
@@ -417,7 +417,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_scale_progress"></a>
 
-#### set_scale_progress
+#### set\_scale\_progress
 
 ```python
 def set_scale_progress(progress: float) -> None
@@ -431,7 +431,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_scale_order"></a>
 
-#### set_scale_order
+#### set\_scale\_order
 
 ```python
 def set_scale_order(order: Text3DCharacterEffectOrder) -> None
@@ -445,7 +445,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_scale_end"></a>
 
-#### set_scale_end
+#### set\_scale\_end
 
 ```python
 def set_scale_end(value: Vector) -> None
@@ -459,7 +459,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_scale_enabled"></a>
 
-#### set_scale_enabled
+#### set\_scale\_enabled
 
 ```python
 def set_scale_enabled(enabled: bool) -> None
@@ -473,7 +473,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_scale_begin"></a>
 
-#### set_scale_begin
+#### set\_scale\_begin
 
 ```python
 def set_scale_begin(value: Vector) -> None
@@ -487,7 +487,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_rotate_range"></a>
 
-#### set_rotate_range
+#### set\_rotate\_range
 
 ```python
 def set_rotate_range(range: float) -> None
@@ -501,7 +501,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_rotate_progress"></a>
 
-#### set_rotate_progress
+#### set\_rotate\_progress
 
 ```python
 def set_rotate_progress(progress: float) -> None
@@ -515,7 +515,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_rotate_order"></a>
 
-#### set_rotate_order
+#### set\_rotate\_order
 
 ```python
 def set_rotate_order(order: Text3DCharacterEffectOrder) -> None
@@ -529,7 +529,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_rotate_end"></a>
 
-#### set_rotate_end
+#### set\_rotate\_end
 
 ```python
 def set_rotate_end(value: Rotator) -> None
@@ -543,7 +543,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_rotate_enabled"></a>
 
-#### set_rotate_enabled
+#### set\_rotate\_enabled
 
 ```python
 def set_rotate_enabled(enabled: bool) -> None
@@ -557,7 +557,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_rotate_begin"></a>
 
-#### set_rotate_begin
+#### set\_rotate\_begin
 
 ```python
 def set_rotate_begin(value: Rotator) -> None
@@ -571,7 +571,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_location_range"></a>
 
-#### set_location_range
+#### set\_location\_range
 
 ```python
 def set_location_range(range: float) -> None
@@ -585,7 +585,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_location_progress"></a>
 
-#### set_location_progress
+#### set\_location\_progress
 
 ```python
 def set_location_progress(progress: float) -> None
@@ -599,7 +599,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_location_order"></a>
 
-#### set_location_order
+#### set\_location\_order
 
 ```python
 def set_location_order(order: Text3DCharacterEffectOrder) -> None
@@ -613,7 +613,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_location_enabled"></a>
 
-#### set_location_enabled
+#### set\_location\_enabled
 
 ```python
 def set_location_enabled(enabled: bool) -> None
@@ -627,7 +627,7 @@ Args:
 
 <a id="unreal.Text3DCharacterTransform.set_location_distance"></a>
 
-#### set_location_distance
+#### set\_location\_distance
 
 ```python
 def set_location_distance(distance: Vector) -> None

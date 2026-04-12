@@ -20,7 +20,7 @@ Niagara Data Interface Array Position
 
 <a id="unreal.NiagaraDataInterfaceArrayPosition.position_data"></a>
 
-#### position_data
+#### position\_data
 
 ```python
 @property
@@ -31,7 +31,7 @@ def position_data() -> Array[NiagaraPosition]
 
 <a id="unreal.NiagaraDataInterfaceArrayPosition.position_data"></a>
 
-#### position_data
+#### position\_data
 
 ```python
 @position_data.setter

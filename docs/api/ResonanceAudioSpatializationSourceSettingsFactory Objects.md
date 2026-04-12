@@ -24,4 +24,4 @@ Resonance Audio Spatialization Source Settings Factory
 - ``supported_class`` (type(Class)):  [Read-Write] The class manufactured by this factory.
 - ``text`` (bool):  [Read-Write] true if the factory imports objects from text.
 
-<a id="unreal.SunPositionFunctionLibrary"></a>
+<a id="unreal.SmartObjectDefinitionFactory"></a>

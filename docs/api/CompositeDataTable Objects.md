@@ -25,7 +25,7 @@ Data table composed of a stack of other data tables.
 
 <a id="unreal.CompositeDataTable.parent_tables"></a>
 
-#### parent_tables
+#### parent\_tables
 
 ```python
 @property

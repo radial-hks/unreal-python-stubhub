@@ -74,7 +74,7 @@ def orientation(value: Orientation) -> None
 
 <a id="unreal.StackBox.replace_stack_box_child_at"></a>
 
-#### replace_stack_box_child_at
+#### replace\_stack\_box\_child\_at
 
 ```python
 def replace_stack_box_child_at(index: int, content: Widget) -> bool
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.StackBox.add_child_to_stack_box"></a>
 
-#### add_child_to_stack_box
+#### add\_child\_to\_stack\_box
 
 ```python
 def add_child_to_stack_box(content: Widget) -> StackBoxSlot

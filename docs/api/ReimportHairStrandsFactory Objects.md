@@ -24,4 +24,4 @@ Reimport Hair Strands Factory
 - ``supported_class`` (type(Class)):  [Read-Write] The class manufactured by this factory.
 - ``text`` (bool):  [Read-Write] true if the factory imports objects from text.
 
-<a id="unreal.MobileInstalledContent"></a>
+<a id="unreal.MassLODCollectorTrait"></a>

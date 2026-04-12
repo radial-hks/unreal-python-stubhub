@@ -39,7 +39,7 @@ def graph() -> PCGGraphInterface
 
 <a id="unreal.PCGGraphInstance.override_description"></a>
 
-#### override_description
+#### override\_description
 
 ```python
 @property
@@ -50,7 +50,7 @@ def override_description() -> bool
 
 <a id="unreal.PCGGraphInstance.override_description"></a>
 
-#### override_description
+#### override\_description
 
 ```python
 @override_description.setter
@@ -79,7 +79,7 @@ def description(value: Text) -> None
 
 <a id="unreal.PCGGraphInstance.override_category"></a>
 
-#### override_category
+#### override\_category
 
 ```python
 @property
@@ -90,7 +90,7 @@ def override_category() -> bool
 
 <a id="unreal.PCGGraphInstance.override_category"></a>
 
-#### override_category
+#### override\_category
 
 ```python
 @override_category.setter

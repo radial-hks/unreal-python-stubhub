@@ -14,7 +14,7 @@ Method for initializing an output pin.
 
 <a id="unreal.PCGPinInitMode.FROM_INPUT_PINS"></a>
 
-#### FROM_INPUT_PINS
+#### FROM\_INPUT\_PINS
 
 0: Initialize from one or more input pins.
 

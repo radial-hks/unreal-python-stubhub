@@ -60,7 +60,7 @@ def slot() -> PanelSlot
 
 <a id="unreal.Widget.tool_tip_text"></a>
 
-#### tool_tip_text
+#### tool\_tip\_text
 
 ```python
 @property
@@ -71,7 +71,7 @@ def tool_tip_text() -> Text
 
 <a id="unreal.Widget.tool_tip_text"></a>
 
-#### tool_tip_text
+#### tool\_tip\_text
 
 ```python
 @tool_tip_text.setter
@@ -80,7 +80,7 @@ def tool_tip_text(value: Text) -> None
 
 <a id="unreal.Widget.tool_tip_widget"></a>
 
-#### tool_tip_widget
+#### tool\_tip\_widget
 
 ```python
 @property
@@ -91,7 +91,7 @@ def tool_tip_widget() -> Widget
 
 <a id="unreal.Widget.render_transform"></a>
 
-#### render_transform
+#### render\_transform
 
 ```python
 @property
@@ -102,7 +102,7 @@ def render_transform() -> WidgetTransform
 
 <a id="unreal.Widget.render_transform"></a>
 
-#### render_transform
+#### render\_transform
 
 ```python
 @render_transform.setter
@@ -111,7 +111,7 @@ def render_transform(value: WidgetTransform) -> None
 
 <a id="unreal.Widget.render_transform_pivot"></a>
 
-#### render_transform_pivot
+#### render\_transform\_pivot
 
 ```python
 @property
@@ -123,7 +123,7 @@ This value is a normalized coordinate about which things like rotations will occ
 
 <a id="unreal.Widget.render_transform_pivot"></a>
 
-#### render_transform_pivot
+#### render\_transform\_pivot
 
 ```python
 @render_transform_pivot.setter
@@ -132,7 +132,7 @@ def render_transform_pivot(value: Vector2D) -> None
 
 <a id="unreal.Widget.flow_direction_preference"></a>
 
-#### flow_direction_preference
+#### flow\_direction\_preference
 
 ```python
 @property
@@ -143,7 +143,7 @@ def flow_direction_preference() -> FlowDirectionPreference
 
 <a id="unreal.Widget.flow_direction_preference"></a>
 
-#### flow_direction_preference
+#### flow\_direction\_preference
 
 ```python
 @flow_direction_preference.setter
@@ -152,7 +152,7 @@ def flow_direction_preference(value: FlowDirectionPreference) -> None
 
 <a id="unreal.Widget.is_enabled"></a>
 
-#### is_enabled
+#### is\_enabled
 
 ```python
 @property
@@ -163,7 +163,7 @@ def is_enabled() -> bool
 
 <a id="unreal.Widget.is_enabled"></a>
 
-#### is_enabled
+#### is\_enabled
 
 ```python
 @is_enabled.setter
@@ -172,7 +172,7 @@ def is_enabled(value: bool) -> None
 
 <a id="unreal.Widget.is_volatile"></a>
 
-#### is_volatile
+#### is\_volatile
 
 ```python
 @property
@@ -232,7 +232,7 @@ def clipping(value: WidgetClipping) -> None
 
 <a id="unreal.Widget.clip_to_bounds"></a>
 
-#### clip_to_bounds
+#### clip\_to\_bounds
 
 ```python
 @property
@@ -243,7 +243,7 @@ deprecated: 'clip_to_bounds' was renamed to 'clipping'.
 
 <a id="unreal.Widget.clip_to_bounds"></a>
 
-#### clip_to_bounds
+#### clip\_to\_bounds
 
 ```python
 @clip_to_bounds.setter
@@ -292,7 +292,7 @@ def visiblity(value: SlateVisibility) -> None
 
 <a id="unreal.Widget.pixel_snapping"></a>
 
-#### pixel_snapping
+#### pixel\_snapping
 
 ```python
 @property
@@ -303,7 +303,7 @@ def pixel_snapping() -> WidgetPixelSnapping
 
 <a id="unreal.Widget.pixel_snapping"></a>
 
-#### pixel_snapping
+#### pixel\_snapping
 
 ```python
 @pixel_snapping.setter
@@ -312,7 +312,7 @@ def pixel_snapping(value: WidgetPixelSnapping) -> None
 
 <a id="unreal.Widget.render_opacity"></a>
 
-#### render_opacity
+#### render\_opacity
 
 ```python
 @property
@@ -323,7 +323,7 @@ def render_opacity() -> float
 
 <a id="unreal.Widget.render_opacity"></a>
 
-#### render_opacity
+#### render\_opacity
 
 ```python
 @render_opacity.setter
@@ -365,7 +365,7 @@ can occur between widgets.
 
 <a id="unreal.Widget.set_visibility"></a>
 
-#### set_visibility
+#### set\_visibility
 
 ```python
 def set_visibility(visibility: SlateVisibility) -> None
@@ -379,7 +379,7 @@ Args:
 
 <a id="unreal.Widget.set_user_focus"></a>
 
-#### set_user_focus
+#### set\_user\_focus
 
 ```python
 def set_user_focus(player_controller: PlayerController) -> None
@@ -393,7 +393,7 @@ Args:
 
 <a id="unreal.Widget.set_tool_tip_text"></a>
 
-#### set_tool_tip_text
+#### set\_tool\_tip\_text
 
 ```python
 def set_tool_tip_text(tool_tip_text: Text) -> None
@@ -407,7 +407,7 @@ Args:
 
 <a id="unreal.Widget.set_tool_tip"></a>
 
-#### set_tool_tip
+#### set\_tool\_tip
 
 ```python
 def set_tool_tip(widget: Widget) -> None
@@ -421,7 +421,7 @@ Args:
 
 <a id="unreal.Widget.set_render_translation"></a>
 
-#### set_render_translation
+#### set\_render\_translation
 
 ```python
 def set_render_translation(translation: Vector2D) -> None
@@ -435,7 +435,7 @@ Args:
 
 <a id="unreal.Widget.set_render_transform_pivot"></a>
 
-#### set_render_transform_pivot
+#### set\_render\_transform\_pivot
 
 ```python
 def set_render_transform_pivot(pivot: Vector2D) -> None
@@ -449,7 +449,7 @@ Args:
 
 <a id="unreal.Widget.set_render_transform_angle"></a>
 
-#### set_render_transform_angle
+#### set\_render\_transform\_angle
 
 ```python
 def set_render_transform_angle(angle: float) -> None
@@ -463,7 +463,7 @@ Args:
 
 <a id="unreal.Widget.set_render_angle"></a>
 
-#### set_render_angle
+#### set\_render\_angle
 
 ```python
 def set_render_angle(angle: float) -> None
@@ -473,7 +473,7 @@ deprecated: 'set_render_angle' was renamed to 'set_render_transform_angle'.
 
 <a id="unreal.Widget.set_render_transform"></a>
 
-#### set_render_transform
+#### set\_render\_transform
 
 ```python
 def set_render_transform(transform: WidgetTransform) -> None
@@ -487,7 +487,7 @@ Args:
 
 <a id="unreal.Widget.set_render_shear"></a>
 
-#### set_render_shear
+#### set\_render\_shear
 
 ```python
 def set_render_shear(shear: Vector2D) -> None
@@ -501,7 +501,7 @@ Args:
 
 <a id="unreal.Widget.set_render_scale"></a>
 
-#### set_render_scale
+#### set\_render\_scale
 
 ```python
 def set_render_scale(scale: Vector2D) -> None
@@ -515,7 +515,7 @@ Args:
 
 <a id="unreal.Widget.set_render_opacity"></a>
 
-#### set_render_opacity
+#### set\_render\_opacity
 
 ```python
 def set_render_opacity(opacity: float) -> None
@@ -529,7 +529,7 @@ Args:
 
 <a id="unreal.Widget.set_opacity"></a>
 
-#### set_opacity
+#### set\_opacity
 
 ```python
 def set_opacity(opacity: float) -> None
@@ -539,7 +539,7 @@ deprecated: 'set_opacity' was renamed to 'set_render_opacity'.
 
 <a id="unreal.Widget.set_navigation_rule_explicit"></a>
 
-#### set_navigation_rule_explicit
+#### set\_navigation\_rule\_explicit
 
 ```python
 def set_navigation_rule_explicit(direction: UINavigation,
@@ -555,7 +555,7 @@ Args:
 
 <a id="unreal.Widget.set_navigation_rule_custom_boundary"></a>
 
-#### set_navigation_rule_custom_boundary
+#### set\_navigation\_rule\_custom\_boundary
 
 ```python
 def set_navigation_rule_custom_boundary(
@@ -572,7 +572,7 @@ Args:
 
 <a id="unreal.Widget.set_navigation_rule_custom"></a>
 
-#### set_navigation_rule_custom
+#### set\_navigation\_rule\_custom
 
 ```python
 def set_navigation_rule_custom(
@@ -589,7 +589,7 @@ Args:
 
 <a id="unreal.Widget.set_navigation_rule_base"></a>
 
-#### set_navigation_rule_base
+#### set\_navigation\_rule\_base
 
 ```python
 def set_navigation_rule_base(direction: UINavigation,
@@ -605,7 +605,7 @@ Args:
 
 <a id="unreal.Widget.set_navigation_rule"></a>
 
-#### set_navigation_rule
+#### set\_navigation\_rule
 
 ```python
 def set_navigation_rule(direction: UINavigation, rule: UINavigationRule,
@@ -623,7 +623,7 @@ Args:
 
 <a id="unreal.Widget.set_keyboard_focus"></a>
 
-#### set_keyboard_focus
+#### set\_keyboard\_focus
 
 ```python
 def set_keyboard_focus() -> None
@@ -634,7 +634,7 @@ Sets the focus to this widget.
 
 <a id="unreal.Widget.set_is_enabled"></a>
 
-#### set_is_enabled
+#### set\_is\_enabled
 
 ```python
 def set_is_enabled(is_enabled: bool) -> None
@@ -648,7 +648,7 @@ Args:
 
 <a id="unreal.Widget.set_focus"></a>
 
-#### set_focus
+#### set\_focus
 
 ```python
 def set_focus() -> None
@@ -659,7 +659,7 @@ Sets the focus to this widget for the owning user
 
 <a id="unreal.Widget.set_cursor"></a>
 
-#### set_cursor
+#### set\_cursor
 
 ```python
 def set_cursor(cursor: MouseCursor) -> None
@@ -673,7 +673,7 @@ Args:
 
 <a id="unreal.Widget.set_clipping"></a>
 
-#### set_clipping
+#### set\_clipping
 
 ```python
 def set_clipping(clipping: WidgetClipping) -> None
@@ -687,7 +687,7 @@ Args:
 
 <a id="unreal.Widget.set_all_navigation_rules"></a>
 
-#### set_all_navigation_rules
+#### set\_all\_navigation\_rules
 
 ```python
 def set_all_navigation_rules(rule: UINavigationRule,
@@ -703,7 +703,7 @@ Args:
 
 <a id="unreal.Widget.reset_cursor"></a>
 
-#### reset_cursor
+#### reset\_cursor
 
 ```python
 def reset_cursor() -> None
@@ -714,7 +714,7 @@ Resets the cursor to use on the widget, removing any customization for it.
 
 <a id="unreal.Widget.remove_from_parent"></a>
 
-#### remove_from_parent
+#### remove\_from\_parent
 
 ```python
 def remove_from_parent() -> None
@@ -726,7 +726,7 @@ it will also be removed from those containers.
 
 <a id="unreal.Widget.remove_field_value_changed_delegate"></a>
 
-#### remove_field_value_changed_delegate
+#### remove\_field\_value\_changed\_delegate
 
 ```python
 def remove_field_value_changed_delegate(
@@ -743,7 +743,7 @@ Args:
 
 <a id="unreal.Widget.broadcast_field_value_changed"></a>
 
-#### broadcast_field_value_changed
+#### broadcast\_field\_value\_changed
 
 ```python
 def broadcast_field_value_changed(field_id: FieldNotificationId) -> None
@@ -757,7 +757,7 @@ Args:
 
 <a id="unreal.Widget.add_field_value_changed_delegate"></a>
 
-#### add_field_value_changed_delegate
+#### add\_field\_value\_changed\_delegate
 
 ```python
 def add_field_value_changed_delegate(
@@ -774,7 +774,7 @@ Args:
 
 <a id="unreal.Widget.is_visible"></a>
 
-#### is_visible
+#### is\_visible
 
 ```python
 def is_visible() -> bool
@@ -788,7 +788,7 @@ Returns:
 
 <a id="unreal.Widget.is_rendered"></a>
 
-#### is_rendered
+#### is\_rendered
 
 ```python
 def is_rendered() -> bool
@@ -802,7 +802,7 @@ Returns:
 
 <a id="unreal.Widget.is_in_viewport"></a>
 
-#### is_in_viewport
+#### is\_in\_viewport
 
 ```python
 def is_in_viewport() -> bool
@@ -816,7 +816,7 @@ Returns:
 
 <a id="unreal.Widget.is_hovered"></a>
 
-#### is_hovered
+#### is\_hovered
 
 ```python
 def is_hovered() -> bool
@@ -830,7 +830,7 @@ Returns:
 
 <a id="unreal.Widget.invalidate_layout_and_volatility"></a>
 
-#### invalidate_layout_and_volatility
+#### invalidate\_layout\_and\_volatility
 
 ```python
 def invalidate_layout_and_volatility() -> None
@@ -842,7 +842,7 @@ will force the owning widget to redraw and cache children on the next paint pass
 
 <a id="unreal.Widget.has_user_focused_descendants"></a>
 
-#### has_user_focused_descendants
+#### has\_user\_focused\_descendants
 
 ```python
 def has_user_focused_descendants(player_controller: PlayerController) -> bool
@@ -859,7 +859,7 @@ Returns:
 
 <a id="unreal.Widget.has_user_focus"></a>
 
-#### has_user_focus
+#### has\_user\_focus
 
 ```python
 def has_user_focus(player_controller: PlayerController) -> bool
@@ -876,7 +876,7 @@ Returns:
 
 <a id="unreal.Widget.has_mouse_capture_by_user"></a>
 
-#### has_mouse_capture_by_user
+#### has\_mouse\_capture\_by\_user
 
 ```python
 def has_mouse_capture_by_user(user_index: int,
@@ -895,7 +895,7 @@ Returns:
 
 <a id="unreal.Widget.has_mouse_capture"></a>
 
-#### has_mouse_capture
+#### has\_mouse\_capture
 
 ```python
 def has_mouse_capture() -> bool
@@ -909,7 +909,7 @@ Returns:
 
 <a id="unreal.Widget.has_keyboard_focus"></a>
 
-#### has_keyboard_focus
+#### has\_keyboard\_focus
 
 ```python
 def has_keyboard_focus() -> bool
@@ -923,7 +923,7 @@ Returns:
 
 <a id="unreal.Widget.has_focused_descendants"></a>
 
-#### has_focused_descendants
+#### has\_focused\_descendants
 
 ```python
 def has_focused_descendants() -> bool
@@ -937,7 +937,7 @@ Returns:
 
 <a id="unreal.Widget.has_any_user_focus"></a>
 
-#### has_any_user_focus
+#### has\_any\_user\_focus
 
 ```python
 def has_any_user_focus() -> bool
@@ -951,7 +951,7 @@ Returns:
 
 <a id="unreal.Widget.get_visibility"></a>
 
-#### get_visibility
+#### get\_visibility
 
 ```python
 def get_visibility() -> SlateVisibility
@@ -965,7 +965,7 @@ Returns:
 
 <a id="unreal.Widget.get_tick_space_geometry"></a>
 
-#### get_tick_space_geometry
+#### get\_tick\_space\_geometry
 
 ```python
 def get_tick_space_geometry() -> Geometry
@@ -979,7 +979,7 @@ Returns:
 
 <a id="unreal.Widget.get_render_transform_angle"></a>
 
-#### get_render_transform_angle
+#### get\_render\_transform\_angle
 
 ```python
 def get_render_transform_angle() -> float
@@ -993,7 +993,7 @@ Returns:
 
 <a id="unreal.Widget.get_render_opacity"></a>
 
-#### get_render_opacity
+#### get\_render\_opacity
 
 ```python
 def get_render_opacity() -> float
@@ -1007,7 +1007,7 @@ Returns:
 
 <a id="unreal.Widget.get_opacity"></a>
 
-#### get_opacity
+#### get\_opacity
 
 ```python
 def get_opacity() -> float
@@ -1017,7 +1017,7 @@ deprecated: 'get_opacity' was renamed to 'get_render_opacity'.
 
 <a id="unreal.Widget.get_parent"></a>
 
-#### get_parent
+#### get\_parent
 
 ```python
 def get_parent() -> PanelWidget
@@ -1031,7 +1031,7 @@ Returns:
 
 <a id="unreal.Widget.get_paint_space_geometry"></a>
 
-#### get_paint_space_geometry
+#### get\_paint\_space\_geometry
 
 ```python
 def get_paint_space_geometry() -> Geometry
@@ -1045,7 +1045,7 @@ Returns:
 
 <a id="unreal.Widget.get_owning_player"></a>
 
-#### get_owning_player
+#### get\_owning\_player
 
 ```python
 def get_owning_player() -> PlayerController
@@ -1059,7 +1059,7 @@ Returns:
 
 <a id="unreal.Widget.get_owning_local_player"></a>
 
-#### get_owning_local_player
+#### get\_owning\_local\_player
 
 ```python
 def get_owning_local_player() -> LocalPlayer
@@ -1073,7 +1073,7 @@ Returns:
 
 <a id="unreal.Widget.get_is_enabled"></a>
 
-#### get_is_enabled
+#### get\_is\_enabled
 
 ```python
 def get_is_enabled() -> bool
@@ -1087,7 +1087,7 @@ Returns:
 
 <a id="unreal.Widget.get_game_instance"></a>
 
-#### get_game_instance
+#### get\_game\_instance
 
 ```python
 def get_game_instance() -> GameInstance
@@ -1101,7 +1101,7 @@ Returns:
 
 <a id="unreal.Widget.get_desired_size"></a>
 
-#### get_desired_size
+#### get\_desired\_size
 
 ```python
 def get_desired_size() -> Vector2D
@@ -1117,7 +1117,7 @@ Returns:
 
 <a id="unreal.Widget.get_clipping"></a>
 
-#### get_clipping
+#### get\_clipping
 
 ```python
 def get_clipping() -> WidgetClipping
@@ -1131,7 +1131,7 @@ Returns:
 
 <a id="unreal.Widget.get_cached_geometry"></a>
 
-#### get_cached_geometry
+#### get\_cached\_geometry
 
 ```python
 def get_cached_geometry() -> Geometry
@@ -1151,7 +1151,7 @@ Returns:
 
 <a id="unreal.Widget.get_accessible_text"></a>
 
-#### get_accessible_text
+#### get\_accessible\_text
 
 ```python
 def get_accessible_text() -> Text
@@ -1165,7 +1165,7 @@ Returns:
 
 <a id="unreal.Widget.get_accessible_summary_text"></a>
 
-#### get_accessible_summary_text
+#### get\_accessible\_summary\_text
 
 ```python
 def get_accessible_summary_text() -> Text
@@ -1179,7 +1179,7 @@ Returns:
 
 <a id="unreal.Widget.force_volatile"></a>
 
-#### force_volatile
+#### force\_volatile
 
 ```python
 def force_volatile(force: bool) -> None
@@ -1193,7 +1193,7 @@ Args:
 
 <a id="unreal.Widget.force_layout_prepass"></a>
 
-#### force_layout_prepass
+#### force\_layout\_prepass
 
 ```python
 def force_layout_prepass() -> None

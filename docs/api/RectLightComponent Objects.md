@@ -146,7 +146,7 @@ A light component which emits light from a rectangle.
 
 <a id="unreal.RectLightComponent.source_width"></a>
 
-#### source_width
+#### source\_width
 
 ```python
 @property
@@ -158,7 +158,7 @@ Note that light sources shapes which intersect shadow casting geometry can cause
 
 <a id="unreal.RectLightComponent.source_height"></a>
 
-#### source_height
+#### source\_height
 
 ```python
 @property
@@ -170,7 +170,7 @@ Note that light sources shapes which intersect shadow casting geometry can cause
 
 <a id="unreal.RectLightComponent.barn_door_angle"></a>
 
-#### barn_door_angle
+#### barn\_door\_angle
 
 ```python
 @property
@@ -181,7 +181,7 @@ def barn_door_angle() -> float
 
 <a id="unreal.RectLightComponent.barn_door_length"></a>
 
-#### barn_door_length
+#### barn\_door\_length
 
 ```python
 @property
@@ -192,7 +192,7 @@ def barn_door_length() -> float
 
 <a id="unreal.RectLightComponent.light_function_cone_angle"></a>
 
-#### light_function_cone_angle
+#### light\_function\_cone\_angle
 
 ```python
 @property
@@ -204,7 +204,7 @@ If 0, an orthographic projection is used instead.
 
 <a id="unreal.RectLightComponent.source_texture"></a>
 
-#### source_texture
+#### source\_texture
 
 ```python
 @property
@@ -215,7 +215,7 @@ def source_texture() -> Texture
 
 <a id="unreal.RectLightComponent.set_source_width"></a>
 
-#### set_source_width
+#### set\_source\_width
 
 ```python
 def set_source_width(new_value: float) -> None
@@ -229,7 +229,7 @@ Args:
 
 <a id="unreal.RectLightComponent.set_source_texture"></a>
 
-#### set_source_texture
+#### set\_source\_texture
 
 ```python
 def set_source_texture(new_value: Texture) -> None
@@ -243,7 +243,7 @@ Args:
 
 <a id="unreal.RectLightComponent.set_source_height"></a>
 
-#### set_source_height
+#### set\_source\_height
 
 ```python
 def set_source_height(new_value: float) -> None
@@ -257,7 +257,7 @@ Args:
 
 <a id="unreal.RectLightComponent.set_barn_door_length"></a>
 
-#### set_barn_door_length
+#### set\_barn\_door\_length
 
 ```python
 def set_barn_door_length(new_value: float) -> None
@@ -271,7 +271,7 @@ Args:
 
 <a id="unreal.RectLightComponent.set_barn_door_angle"></a>
 
-#### set_barn_door_angle
+#### set\_barn\_door\_angle
 
 ```python
 def set_barn_door_angle(new_value: float) -> None

@@ -19,7 +19,7 @@ Datasmith Reimport Options
 
 <a id="unreal.DatasmithReimportOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(update_actors: bool = False,
@@ -28,7 +28,7 @@ def __init__(update_actors: bool = False,
 
 <a id="unreal.DatasmithReimportOptions.update_actors"></a>
 
-#### update_actors
+#### update\_actors
 
 ```python
 @property
@@ -39,7 +39,7 @@ def update_actors() -> bool
 
 <a id="unreal.DatasmithReimportOptions.update_actors"></a>
 
-#### update_actors
+#### update\_actors
 
 ```python
 @update_actors.setter
@@ -48,7 +48,7 @@ def update_actors(value: bool) -> None
 
 <a id="unreal.DatasmithReimportOptions.respawn_deleted_actors"></a>
 
-#### respawn_deleted_actors
+#### respawn\_deleted\_actors
 
 ```python
 @property
@@ -59,7 +59,7 @@ def respawn_deleted_actors() -> bool
 
 <a id="unreal.DatasmithReimportOptions.respawn_deleted_actors"></a>
 
-#### respawn_deleted_actors
+#### respawn\_deleted\_actors
 
 ```python
 @respawn_deleted_actors.setter

@@ -49,55 +49,55 @@ Enumeration specifying the control type and channel
 
 <a id="unreal.FControlRigChannelEnum.POSITION_X"></a>
 
-#### POSITION_X
+#### POSITION\_X
 
 6: Position.X
 
 <a id="unreal.FControlRigChannelEnum.POSITION_Y"></a>
 
-#### POSITION_Y
+#### POSITION\_Y
 
 7: Position.Y
 
 <a id="unreal.FControlRigChannelEnum.POSITION_Z"></a>
 
-#### POSITION_Z
+#### POSITION\_Z
 
 8: Position.Z
 
 <a id="unreal.FControlRigChannelEnum.ROTATOR_X"></a>
 
-#### ROTATOR_X
+#### ROTATOR\_X
 
 9: Rotator.X
 
 <a id="unreal.FControlRigChannelEnum.ROTATOR_Y"></a>
 
-#### ROTATOR_Y
+#### ROTATOR\_Y
 
 10: Rotator.Y
 
 <a id="unreal.FControlRigChannelEnum.ROTATOR_Z"></a>
 
-#### ROTATOR_Z
+#### ROTATOR\_Z
 
 11: Rotator.Z
 
 <a id="unreal.FControlRigChannelEnum.SCALE_X"></a>
 
-#### SCALE_X
+#### SCALE\_X
 
 12: Scale.X
 
 <a id="unreal.FControlRigChannelEnum.SCALE_Y"></a>
 
-#### SCALE_Y
+#### SCALE\_Y
 
 13: Scale.Y
 
 <a id="unreal.FControlRigChannelEnum.SCALE_Z"></a>
 
-#### SCALE_Z
+#### SCALE\_Z
 
 14: Scale.Z
 

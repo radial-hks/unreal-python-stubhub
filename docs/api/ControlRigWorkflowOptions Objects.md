@@ -61,7 +61,7 @@ def selection(value: Array[RigElementKey]) -> None
 
 <a id="unreal.ControlRigWorkflowOptions.ensure_at_least_one_rig_element_selected"></a>
 
-#### ensure_at_least_one_rig_element_selected
+#### ensure\_at\_least\_one\_rig\_element\_selected
 
 ```python
 def ensure_at_least_one_rig_element_selected() -> bool

@@ -18,7 +18,7 @@ Compute Framework Data Provider for reading animation attributes on skeletal mes
 
 <a id="unreal.OptimusAnimAttributeDataProvider.skeletal_mesh"></a>
 
-#### skeletal_mesh
+#### skeletal\_mesh
 
 ```python
 @property
@@ -29,7 +29,7 @@ def skeletal_mesh() -> SkeletalMeshComponent
 
 <a id="unreal.OptimusAnimAttributeDataProvider.skeletal_mesh"></a>
 
-#### skeletal_mesh
+#### skeletal\_mesh
 
 ```python
 @skeletal_mesh.setter

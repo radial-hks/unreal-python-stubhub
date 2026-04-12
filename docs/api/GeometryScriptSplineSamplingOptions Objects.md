@@ -24,7 +24,7 @@ Geometry Script Spline Sampling Options
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -42,7 +42,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.num_samples"></a>
 
-#### num_samples
+#### num\_samples
 
 ```python
 @property
@@ -53,7 +53,7 @@ def num_samples() -> int
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.num_samples"></a>
 
-#### num_samples
+#### num\_samples
 
 ```python
 @num_samples.setter
@@ -62,7 +62,7 @@ def num_samples(value: int) -> None
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.error_tolerance"></a>
 
-#### error_tolerance
+#### error\_tolerance
 
 ```python
 @property
@@ -73,7 +73,7 @@ def error_tolerance() -> float
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.error_tolerance"></a>
 
-#### error_tolerance
+#### error\_tolerance
 
 ```python
 @error_tolerance.setter
@@ -82,7 +82,7 @@ def error_tolerance(value: float) -> None
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.sample_spacing"></a>
 
-#### sample_spacing
+#### sample\_spacing
 
 ```python
 @property
@@ -93,7 +93,7 @@ def sample_spacing() -> GeometryScriptSampleSpacing
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.sample_spacing"></a>
 
-#### sample_spacing
+#### sample\_spacing
 
 ```python
 @sample_spacing.setter
@@ -102,7 +102,7 @@ def sample_spacing(value: GeometryScriptSampleSpacing) -> None
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.coordinate_space"></a>
 
-#### coordinate_space
+#### coordinate\_space
 
 ```python
 @property
@@ -113,7 +113,7 @@ def coordinate_space() -> SplineCoordinateSpace
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.coordinate_space"></a>
 
-#### coordinate_space
+#### coordinate\_space
 
 ```python
 @coordinate_space.setter
@@ -122,7 +122,7 @@ def coordinate_space(value: SplineCoordinateSpace) -> None
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.range_method"></a>
 
-#### range_method
+#### range\_method
 
 ```python
 @property
@@ -133,7 +133,7 @@ def range_method() -> GeometryScriptEvaluateSplineRange
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.range_method"></a>
 
-#### range_method
+#### range\_method
 
 ```python
 @range_method.setter
@@ -142,7 +142,7 @@ def range_method(value: GeometryScriptEvaluateSplineRange) -> None
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.range_start"></a>
 
-#### range_start
+#### range\_start
 
 ```python
 @property
@@ -153,7 +153,7 @@ def range_start() -> float
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.range_start"></a>
 
-#### range_start
+#### range\_start
 
 ```python
 @range_start.setter
@@ -162,7 +162,7 @@ def range_start(value: float) -> None
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.range_end"></a>
 
-#### range_end
+#### range\_end
 
 ```python
 @property
@@ -173,7 +173,7 @@ def range_end() -> float
 
 <a id="unreal.GeometryScriptSplineSamplingOptions.range_end"></a>
 
-#### range_end
+#### range\_end
 
 ```python
 @range_end.setter

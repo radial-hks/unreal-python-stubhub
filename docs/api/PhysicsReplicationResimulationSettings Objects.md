@@ -24,7 +24,7 @@ Default settings for physics replication using EPhysicsReplicationMode::Resimula
 
 <a id="unreal.PhysicsReplicationResimulationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

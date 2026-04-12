@@ -14,7 +14,7 @@ PCGInstance Data Packer Base
 
 <a id="unreal.PCGInstanceDataPackerBase.pack_instances"></a>
 
-#### pack_instances
+#### pack\_instances
 
 ```python
 def pack_instances(
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.PCGInstanceDataPackerBase.pack_custom_data_from_attributes"></a>
 
-#### pack_custom_data_from_attributes
+#### pack\_custom\_data\_from\_attributes
 
 ```python
 def pack_custom_data_from_attributes(
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.PCGInstanceDataPackerBase.add_type_to_packing"></a>
 
-#### add_type_to_packing
+#### add\_type\_to\_packing
 
 ```python
 def add_type_to_packing(type_id: int) -> Optional[PCGPackedCustomData]

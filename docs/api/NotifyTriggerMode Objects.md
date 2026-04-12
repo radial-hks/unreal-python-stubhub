@@ -13,13 +13,13 @@ ENotify Trigger Mode
 
 <a id="unreal.NotifyTriggerMode.ALL_ANIMATIONS"></a>
 
-#### ALL_ANIMATIONS
+#### ALL\_ANIMATIONS
 
 0
 
 <a id="unreal.NotifyTriggerMode.HIGHEST_WEIGHTED_ANIMATION"></a>
 
-#### HIGHEST_WEIGHTED_ANIMATION
+#### HIGHEST\_WEIGHTED\_ANIMATION
 
 1
 

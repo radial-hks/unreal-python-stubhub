@@ -25,7 +25,7 @@ Represents the appearance of an SSpinBox
 
 <a id="unreal.SpinBoxStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -116,7 +116,7 @@ def __init__(
 
 <a id="unreal.SpinBoxStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @property
@@ -127,7 +127,7 @@ def background_brush() -> SlateBrush
 
 <a id="unreal.SpinBoxStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @background_brush.setter
@@ -136,7 +136,7 @@ def background_brush(value: SlateBrush) -> None
 
 <a id="unreal.SpinBoxStyle.active_background_brush"></a>
 
-#### active_background_brush
+#### active\_background\_brush
 
 ```python
 @property
@@ -147,7 +147,7 @@ def active_background_brush() -> SlateBrush
 
 <a id="unreal.SpinBoxStyle.active_background_brush"></a>
 
-#### active_background_brush
+#### active\_background\_brush
 
 ```python
 @active_background_brush.setter
@@ -156,7 +156,7 @@ def active_background_brush(value: SlateBrush) -> None
 
 <a id="unreal.SpinBoxStyle.hovered_background_brush"></a>
 
-#### hovered_background_brush
+#### hovered\_background\_brush
 
 ```python
 @property
@@ -167,7 +167,7 @@ def hovered_background_brush() -> SlateBrush
 
 <a id="unreal.SpinBoxStyle.hovered_background_brush"></a>
 
-#### hovered_background_brush
+#### hovered\_background\_brush
 
 ```python
 @hovered_background_brush.setter
@@ -176,7 +176,7 @@ def hovered_background_brush(value: SlateBrush) -> None
 
 <a id="unreal.SpinBoxStyle.active_fill_brush"></a>
 
-#### active_fill_brush
+#### active\_fill\_brush
 
 ```python
 @property
@@ -187,7 +187,7 @@ def active_fill_brush() -> SlateBrush
 
 <a id="unreal.SpinBoxStyle.active_fill_brush"></a>
 
-#### active_fill_brush
+#### active\_fill\_brush
 
 ```python
 @active_fill_brush.setter
@@ -196,7 +196,7 @@ def active_fill_brush(value: SlateBrush) -> None
 
 <a id="unreal.SpinBoxStyle.hovered_fill_brush"></a>
 
-#### hovered_fill_brush
+#### hovered\_fill\_brush
 
 ```python
 @property
@@ -207,7 +207,7 @@ def hovered_fill_brush() -> SlateBrush
 
 <a id="unreal.SpinBoxStyle.hovered_fill_brush"></a>
 
-#### hovered_fill_brush
+#### hovered\_fill\_brush
 
 ```python
 @hovered_fill_brush.setter
@@ -216,7 +216,7 @@ def hovered_fill_brush(value: SlateBrush) -> None
 
 <a id="unreal.SpinBoxStyle.inactive_fill_brush"></a>
 
-#### inactive_fill_brush
+#### inactive\_fill\_brush
 
 ```python
 @property
@@ -227,7 +227,7 @@ def inactive_fill_brush() -> SlateBrush
 
 <a id="unreal.SpinBoxStyle.inactive_fill_brush"></a>
 
-#### inactive_fill_brush
+#### inactive\_fill\_brush
 
 ```python
 @inactive_fill_brush.setter
@@ -236,7 +236,7 @@ def inactive_fill_brush(value: SlateBrush) -> None
 
 <a id="unreal.SpinBoxStyle.arrows_image"></a>
 
-#### arrows_image
+#### arrows\_image
 
 ```python
 @property
@@ -247,7 +247,7 @@ def arrows_image() -> SlateBrush
 
 <a id="unreal.SpinBoxStyle.arrows_image"></a>
 
-#### arrows_image
+#### arrows\_image
 
 ```python
 @arrows_image.setter
@@ -256,7 +256,7 @@ def arrows_image(value: SlateBrush) -> None
 
 <a id="unreal.SpinBoxStyle.text_padding"></a>
 
-#### text_padding
+#### text\_padding
 
 ```python
 @property
@@ -267,7 +267,7 @@ def text_padding() -> Margin
 
 <a id="unreal.SpinBoxStyle.text_padding"></a>
 
-#### text_padding
+#### text\_padding
 
 ```python
 @text_padding.setter
@@ -276,7 +276,7 @@ def text_padding(value: Margin) -> None
 
 <a id="unreal.SpinBoxStyle.inset_padding"></a>
 
-#### inset_padding
+#### inset\_padding
 
 ```python
 @property
@@ -287,7 +287,7 @@ def inset_padding() -> Margin
 
 <a id="unreal.SpinBoxStyle.inset_padding"></a>
 
-#### inset_padding
+#### inset\_padding
 
 ```python
 @inset_padding.setter

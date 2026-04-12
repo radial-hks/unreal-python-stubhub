@@ -30,7 +30,7 @@ Also used by Lightmass, so be sure to update Lightmass::FSplineMeshParams and th
 
 <a id="unreal.SplineMeshParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

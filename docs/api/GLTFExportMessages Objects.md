@@ -20,7 +20,7 @@ GLTFExport Messages
 
 <a id="unreal.GLTFExportMessages.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(suggestions: Array[str] = [],

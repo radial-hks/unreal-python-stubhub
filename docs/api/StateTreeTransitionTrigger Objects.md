@@ -14,31 +14,31 @@ Transitions trigger.
 
 <a id="unreal.StateTreeTransitionTrigger.ON_STATE_COMPLETED"></a>
 
-#### ON_STATE_COMPLETED
+#### ON\_STATE\_COMPLETED
 
 3: Try trigger transition when a state succeeded or failed.
 
 <a id="unreal.StateTreeTransitionTrigger.ON_STATE_SUCCEEDED"></a>
 
-#### ON_STATE_SUCCEEDED
+#### ON\_STATE\_SUCCEEDED
 
 1: Try trigger transition when a state succeeded.
 
 <a id="unreal.StateTreeTransitionTrigger.ON_STATE_FAILED"></a>
 
-#### ON_STATE_FAILED
+#### ON\_STATE\_FAILED
 
 2: Try trigger transition when a state failed.
 
 <a id="unreal.StateTreeTransitionTrigger.ON_TICK"></a>
 
-#### ON_TICK
+#### ON\_TICK
 
 4: Try trigger transition each State Tree tick.
 
 <a id="unreal.StateTreeTransitionTrigger.ON_EVENT"></a>
 
-#### ON_EVENT
+#### ON\_EVENT
 
 8: Try trigger transition on specific State Tree event.
 

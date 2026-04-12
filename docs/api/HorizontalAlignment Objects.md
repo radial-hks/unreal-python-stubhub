@@ -13,25 +13,25 @@ Enumerates horizontal alignment options, i.e. for widget slots.
 
 <a id="unreal.HorizontalAlignment.H_ALIGN_FILL"></a>
 
-#### H_ALIGN_FILL
+#### H\_ALIGN\_FILL
 
 0: Fill the entire width.
 
 <a id="unreal.HorizontalAlignment.H_ALIGN_LEFT"></a>
 
-#### H_ALIGN_LEFT
+#### H\_ALIGN\_LEFT
 
 1: Left-align.
 
 <a id="unreal.HorizontalAlignment.H_ALIGN_CENTER"></a>
 
-#### H_ALIGN_CENTER
+#### H\_ALIGN\_CENTER
 
 2: Center-align.
 
 <a id="unreal.HorizontalAlignment.H_ALIGN_RIGHT"></a>
 
-#### H_ALIGN_RIGHT
+#### H\_ALIGN\_RIGHT
 
 3: Right-align.
 

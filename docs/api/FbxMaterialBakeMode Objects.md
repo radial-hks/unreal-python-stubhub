@@ -25,7 +25,7 @@ EFbx Material Bake Mode
 
 <a id="unreal.FbxMaterialBakeMode.USE_MESH_DATA"></a>
 
-#### USE_MESH_DATA
+#### USE\_MESH\_DATA
 
 2: Allow usage of the mesh data if a material input needs to be baked out with vertex data.
 

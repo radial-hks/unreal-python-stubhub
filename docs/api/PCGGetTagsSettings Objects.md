@@ -34,7 +34,7 @@ Extracts tags on data to an attribute set with one entry per tag.
 
 <a id="unreal.PCGGetTagsSettings.extract_tag_values"></a>
 
-#### extract_tag_values
+#### extract\_tag\_values
 
 ```python
 @property
@@ -45,7 +45,7 @@ def extract_tag_values() -> bool
 
 <a id="unreal.PCGGetTagsSettings.extract_tag_values"></a>
 
-#### extract_tag_values
+#### extract\_tag\_values
 
 ```python
 @extract_tag_values.setter

@@ -14,7 +14,7 @@ EBrush Blend Mode
 
 <a id="unreal.BrushBlendMode.ALPHA_BLEND"></a>
 
-#### ALPHA_BLEND
+#### ALPHA\_BLEND
 
 0
 
@@ -36,4 +36,4 @@ EBrush Blend Mode
 
 3
 
-<a id="unreal.PropertyAnimatorClockMode"></a>
+<a id="unreal.TextureRotationDirection"></a>

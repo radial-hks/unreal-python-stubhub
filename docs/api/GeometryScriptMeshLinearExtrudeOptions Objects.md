@@ -24,7 +24,7 @@ Geometry Script Mesh Linear Extrude Options
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -65,7 +65,7 @@ def distance(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.direction_mode"></a>
 
-#### direction_mode
+#### direction\_mode
 
 ```python
 @property
@@ -76,7 +76,7 @@ def direction_mode() -> GeometryScriptLinearExtrudeDirection
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.direction_mode"></a>
 
-#### direction_mode
+#### direction\_mode
 
 ```python
 @direction_mode.setter
@@ -105,7 +105,7 @@ def direction(value: Vector) -> None
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.area_mode"></a>
 
-#### area_mode
+#### area\_mode
 
 ```python
 @property
@@ -116,7 +116,7 @@ def area_mode() -> GeometryScriptPolyOperationArea
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.area_mode"></a>
 
-#### area_mode
+#### area\_mode
 
 ```python
 @area_mode.setter
@@ -125,7 +125,7 @@ def area_mode(value: GeometryScriptPolyOperationArea) -> None
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.group_options"></a>
 
-#### group_options
+#### group\_options
 
 ```python
 @property
@@ -136,7 +136,7 @@ def group_options() -> GeometryScriptMeshEditPolygroupOptions
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.group_options"></a>
 
-#### group_options
+#### group\_options
 
 ```python
 @group_options.setter
@@ -145,7 +145,7 @@ def group_options(value: GeometryScriptMeshEditPolygroupOptions) -> None
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @property
@@ -156,7 +156,7 @@ def uv_scale() -> float
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @uv_scale.setter
@@ -165,7 +165,7 @@ def uv_scale(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.solids_to_shells"></a>
 
-#### solids_to_shells
+#### solids\_to\_shells
 
 ```python
 @property
@@ -176,7 +176,7 @@ def solids_to_shells() -> bool
 
 <a id="unreal.GeometryScriptMeshLinearExtrudeOptions.solids_to_shells"></a>
 
-#### solids_to_shells
+#### solids\_to\_shells
 
 ```python
 @solids_to_shells.setter

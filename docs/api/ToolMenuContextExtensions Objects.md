@@ -13,7 +13,7 @@ Tool Menu Context Extensions
 
 <a id="unreal.ToolMenuContextExtensions.find_by_class"></a>
 
-#### find_by_class
+#### find\_by\_class
 
 ```python
 @classmethod

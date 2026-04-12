@@ -19,7 +19,7 @@ Anim Detail Proxy Vector 2D
 
 <a id="unreal.AnimDetailProxyVector2D.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: float = 0.000000, y: float = 0.000000) -> None

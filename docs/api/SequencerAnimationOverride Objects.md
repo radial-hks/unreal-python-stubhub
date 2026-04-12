@@ -13,7 +13,7 @@ Sequencer Animation Override
 
 <a id="unreal.SequencerAnimationOverride.get_sequencer_anim_slot_names"></a>
 
-#### get_sequencer_anim_slot_names
+#### get\_sequencer\_anim\_slot\_names
 
 ```python
 def get_sequencer_anim_slot_names() -> Array[Name]
@@ -29,7 +29,7 @@ Returns:
 
 <a id="unreal.SequencerAnimationOverride.allows_cinematic_override"></a>
 
-#### allows_cinematic_override
+#### allows\_cinematic\_override
 
 ```python
 def allows_cinematic_override() -> bool

@@ -14,7 +14,7 @@ Chaos VDSky Sphere Interface
 
 <a id="unreal.ChaosVDSkySphereInterface.set_directional_light_source"></a>
 
-#### set_directional_light_source
+#### set\_directional\_light\_source
 
 ```python
 def set_directional_light_source(new_light_source: DirectionalLight) -> None

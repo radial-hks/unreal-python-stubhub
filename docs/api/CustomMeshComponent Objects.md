@@ -195,7 +195,7 @@ Component that allows you to specify custom triangle mesh geometry
 
 <a id="unreal.CustomMeshComponent.set_custom_mesh_triangles"></a>
 
-#### set_custom_mesh_triangles
+#### set\_custom\_mesh\_triangles
 
 ```python
 def set_custom_mesh_triangles(triangles: Array[CustomMeshTriangle]) -> bool
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.CustomMeshComponent.clear_custom_mesh_triangles"></a>
 
-#### clear_custom_mesh_triangles
+#### clear\_custom\_mesh\_triangles
 
 ```python
 def clear_custom_mesh_triangles() -> None
@@ -223,7 +223,7 @@ Removes all geometry from this triangle mesh.  Does not deallocate memory, allow
 
 <a id="unreal.CustomMeshComponent.add_custom_mesh_triangles"></a>
 
-#### add_custom_mesh_triangles
+#### add\_custom\_mesh\_triangles
 
 ```python
 def add_custom_mesh_triangles(triangles: Array[CustomMeshTriangle]) -> None
@@ -235,4 +235,4 @@ Add to the geometry to use on this triangle mesh.  This may cause an allocation.
 Args:
     triangles (Array[CustomMeshTriangle]):
 
-<a id="unreal.OctreeDynamicMeshComponent"></a>
+<a id="unreal.DataRegistrySubsystem"></a>

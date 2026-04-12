@@ -19,25 +19,25 @@ Methods of dragging objects around in VR
 
 <a id="unreal.ViewportInteractionDraggingMode.TRANSFORMABLES_WITH_GIZMO"></a>
 
-#### TRANSFORMABLES_WITH_GIZMO
+#### TRANSFORMABLES\_WITH\_GIZMO
 
 1: Dragging transformables (e.g. actors, components, geometry elements) around using the transform gizmo
 
 <a id="unreal.ViewportInteractionDraggingMode.TRANSFORMABLES_AT_LASER_IMPACT"></a>
 
-#### TRANSFORMABLES_AT_LASER_IMPACT
+#### TRANSFORMABLES\_AT\_LASER\_IMPACT
 
 2: Transformables locked to the impact point under the laser
 
 <a id="unreal.ViewportInteractionDraggingMode.ASSISTING_DRAG"></a>
 
-#### ASSISTING_DRAG
+#### ASSISTING\_DRAG
 
 3: We're grabbing an object (or the world) that was already grabbed by the other hand
 
 <a id="unreal.ViewportInteractionDraggingMode.TRANSFORMABLES_FREELY"></a>
 
-#### TRANSFORMABLES_FREELY
+#### TRANSFORMABLES\_FREELY
 
 4: Freely moving, rotating and scaling transformables with one or two hands
 

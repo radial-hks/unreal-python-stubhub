@@ -18,7 +18,7 @@ Location Services Impl
 
 <a id="unreal.LocationServicesImpl.on_location_changed"></a>
 
-#### on_location_changed
+#### on\_location\_changed
 
 ```python
 @property
@@ -29,7 +29,7 @@ def on_location_changed() -> LocationServicesData_OnLocationChanged
 
 <a id="unreal.LocationServicesImpl.on_location_changed"></a>
 
-#### on_location_changed
+#### on\_location\_changed
 
 ```python
 @on_location_changed.setter

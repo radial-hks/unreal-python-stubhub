@@ -18,7 +18,7 @@ Animation Sharing Manager
 
 <a id="unreal.AnimationSharingManager.register_actor_with_skeleton_bp"></a>
 
-#### register_actor_with_skeleton_bp
+#### register\_actor\_with\_skeleton\_bp
 
 ```python
 def register_actor_with_skeleton_bp(actor: Actor,
@@ -34,7 +34,7 @@ Args:
 
 <a id="unreal.AnimationSharingManager.get_animation_sharing_manager"></a>
 
-#### get_animation_sharing_manager
+#### get\_animation\_sharing\_manager
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.AnimationSharingManager.create_animation_sharing_manager"></a>
 
-#### create_animation_sharing_manager
+#### create\_animation\_sharing\_manager
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.AnimationSharingManager.animation_sharing_enabled"></a>
 
-#### animation_sharing_enabled
+#### animation\_sharing\_enabled
 
 ```python
 @classmethod

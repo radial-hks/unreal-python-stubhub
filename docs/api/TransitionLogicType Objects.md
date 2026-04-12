@@ -13,20 +13,20 @@ TODO:: Document
 
 <a id="unreal.TransitionLogicType.TLT_STANDARD_BLEND"></a>
 
-#### TLT_STANDARD_BLEND
+#### TLT\_STANDARD\_BLEND
 
 0
 
 <a id="unreal.TransitionLogicType.TLT_INERTIALIZATION"></a>
 
-#### TLT_INERTIALIZATION
+#### TLT\_INERTIALIZATION
 
 1
 
 <a id="unreal.TransitionLogicType.TLT_CUSTOM"></a>
 
-#### TLT_CUSTOM
+#### TLT\_CUSTOM
 
 2
 
-<a id="unreal.RootMotionRootLock"></a>
+<a id="unreal.AdditiveBasePoseType"></a>

@@ -49,7 +49,7 @@ Allows widgets to be stacked on top of each other, uses simple flow layout for c
 
 <a id="unreal.Overlay.replace_overlay_child_at"></a>
 
-#### replace_overlay_child_at
+#### replace\_overlay\_child\_at
 
 ```python
 def replace_overlay_child_at(index: int, content: Widget) -> bool
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.Overlay.add_child_to_overlay"></a>
 
-#### add_child_to_overlay
+#### add\_child\_to\_overlay
 
 ```python
 def add_child_to_overlay(content: Widget) -> OverlaySlot

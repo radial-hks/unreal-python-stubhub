@@ -61,7 +61,7 @@ Knob is rendered by using material instead of texture.
 
 <a id="unreal.AudioMaterialKnob.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -72,7 +72,7 @@ def widget_style() -> AudioMaterialKnobStyle
 
 <a id="unreal.AudioMaterialKnob.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -81,7 +81,7 @@ def widget_style(value: AudioMaterialKnobStyle) -> None
 
 <a id="unreal.AudioMaterialKnob.on_knob_value_changed"></a>
 
-#### on_knob_value_changed
+#### on\_knob\_value\_changed
 
 ```python
 @property
@@ -92,7 +92,7 @@ def on_knob_value_changed() -> OnKnobValueChangedEvent
 
 <a id="unreal.AudioMaterialKnob.on_knob_value_changed"></a>
 
-#### on_knob_value_changed
+#### on\_knob\_value\_changed
 
 ```python
 @on_knob_value_changed.setter
@@ -121,7 +121,7 @@ def value(value: float) -> None
 
 <a id="unreal.AudioMaterialKnob.tune_speed"></a>
 
-#### tune_speed
+#### tune\_speed
 
 ```python
 @property
@@ -132,7 +132,7 @@ def tune_speed() -> float
 
 <a id="unreal.AudioMaterialKnob.tune_speed"></a>
 
-#### tune_speed
+#### tune\_speed
 
 ```python
 @tune_speed.setter
@@ -141,7 +141,7 @@ def tune_speed(value: float) -> None
 
 <a id="unreal.AudioMaterialKnob.fine_tune_speed"></a>
 
-#### fine_tune_speed
+#### fine\_tune\_speed
 
 ```python
 @property
@@ -152,7 +152,7 @@ def fine_tune_speed() -> float
 
 <a id="unreal.AudioMaterialKnob.fine_tune_speed"></a>
 
-#### fine_tune_speed
+#### fine\_tune\_speed
 
 ```python
 @fine_tune_speed.setter
@@ -181,7 +181,7 @@ def locked(value: bool) -> None
 
 <a id="unreal.AudioMaterialKnob.mouse_uses_step"></a>
 
-#### mouse_uses_step
+#### mouse\_uses\_step
 
 ```python
 @property
@@ -192,7 +192,7 @@ def mouse_uses_step() -> bool
 
 <a id="unreal.AudioMaterialKnob.mouse_uses_step"></a>
 
-#### mouse_uses_step
+#### mouse\_uses\_step
 
 ```python
 @mouse_uses_step.setter
@@ -201,7 +201,7 @@ def mouse_uses_step(value: bool) -> None
 
 <a id="unreal.AudioMaterialKnob.step_size"></a>
 
-#### step_size
+#### step\_size
 
 ```python
 @property
@@ -212,7 +212,7 @@ def step_size() -> float
 
 <a id="unreal.AudioMaterialKnob.step_size"></a>
 
-#### step_size
+#### step\_size
 
 ```python
 @step_size.setter
@@ -221,7 +221,7 @@ def step_size(value: float) -> None
 
 <a id="unreal.AudioMaterialKnob.set_value"></a>
 
-#### set_value
+#### set\_value
 
 ```python
 def set_value(value: float) -> None
@@ -235,7 +235,7 @@ Args:
 
 <a id="unreal.AudioMaterialKnob.set_tune_speed"></a>
 
-#### set_tune_speed
+#### set\_tune\_speed
 
 ```python
 def set_tune_speed(value: float) -> None
@@ -249,7 +249,7 @@ Args:
 
 <a id="unreal.AudioMaterialKnob.set_step_size"></a>
 
-#### set_step_size
+#### set\_step\_size
 
 ```python
 def set_step_size(value: float) -> None
@@ -263,7 +263,7 @@ Args:
 
 <a id="unreal.AudioMaterialKnob.set_mouse_uses_step"></a>
 
-#### set_mouse_uses_step
+#### set\_mouse\_uses\_step
 
 ```python
 def set_mouse_uses_step(uses_step: bool) -> None
@@ -277,7 +277,7 @@ Args:
 
 <a id="unreal.AudioMaterialKnob.set_locked"></a>
 
-#### set_locked
+#### set\_locked
 
 ```python
 def set_locked(locked: bool) -> None
@@ -291,7 +291,7 @@ Args:
 
 <a id="unreal.AudioMaterialKnob.set_fine_tune_speed"></a>
 
-#### set_fine_tune_speed
+#### set\_fine\_tune\_speed
 
 ```python
 def set_fine_tune_speed(value: float) -> None
@@ -305,7 +305,7 @@ Args:
 
 <a id="unreal.AudioMaterialKnob.get_value"></a>
 
-#### get_value
+#### get\_value
 
 ```python
 def get_value() -> float
@@ -319,7 +319,7 @@ Returns:
 
 <a id="unreal.AudioMaterialKnob.get_tune_speed"></a>
 
-#### get_tune_speed
+#### get\_tune\_speed
 
 ```python
 def get_tune_speed() -> float
@@ -333,7 +333,7 @@ Returns:
 
 <a id="unreal.AudioMaterialKnob.get_step_size"></a>
 
-#### get_step_size
+#### get\_step\_size
 
 ```python
 def get_step_size() -> float
@@ -347,7 +347,7 @@ Returns:
 
 <a id="unreal.AudioMaterialKnob.get_mouse_uses_step"></a>
 
-#### get_mouse_uses_step
+#### get\_mouse\_uses\_step
 
 ```python
 def get_mouse_uses_step() -> bool
@@ -361,7 +361,7 @@ Returns:
 
 <a id="unreal.AudioMaterialKnob.get_is_locked"></a>
 
-#### get_is_locked
+#### get\_is\_locked
 
 ```python
 def get_is_locked() -> bool
@@ -375,7 +375,7 @@ Returns:
 
 <a id="unreal.AudioMaterialKnob.get_fine_tune_speed"></a>
 
-#### get_fine_tune_speed
+#### get\_fine\_tune\_speed
 
 ```python
 def get_fine_tune_speed() -> float

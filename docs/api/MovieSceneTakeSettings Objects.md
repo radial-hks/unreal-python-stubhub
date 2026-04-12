@@ -24,7 +24,7 @@ Universal take recorder settings that apply to a whole take
 
 <a id="unreal.MovieSceneTakeSettings.hours_name"></a>
 
-#### hours_name
+#### hours\_name
 
 ```python
 @property
@@ -35,7 +35,7 @@ def hours_name() -> str
 
 <a id="unreal.MovieSceneTakeSettings.hours_name"></a>
 
-#### hours_name
+#### hours\_name
 
 ```python
 @hours_name.setter
@@ -44,7 +44,7 @@ def hours_name(value: str) -> None
 
 <a id="unreal.MovieSceneTakeSettings.minutes_name"></a>
 
-#### minutes_name
+#### minutes\_name
 
 ```python
 @property
@@ -55,7 +55,7 @@ def minutes_name() -> str
 
 <a id="unreal.MovieSceneTakeSettings.minutes_name"></a>
 
-#### minutes_name
+#### minutes\_name
 
 ```python
 @minutes_name.setter
@@ -64,7 +64,7 @@ def minutes_name(value: str) -> None
 
 <a id="unreal.MovieSceneTakeSettings.seconds_name"></a>
 
-#### seconds_name
+#### seconds\_name
 
 ```python
 @property
@@ -75,7 +75,7 @@ def seconds_name() -> str
 
 <a id="unreal.MovieSceneTakeSettings.seconds_name"></a>
 
-#### seconds_name
+#### seconds\_name
 
 ```python
 @seconds_name.setter
@@ -84,7 +84,7 @@ def seconds_name(value: str) -> None
 
 <a id="unreal.MovieSceneTakeSettings.frames_name"></a>
 
-#### frames_name
+#### frames\_name
 
 ```python
 @property
@@ -95,7 +95,7 @@ def frames_name() -> str
 
 <a id="unreal.MovieSceneTakeSettings.frames_name"></a>
 
-#### frames_name
+#### frames\_name
 
 ```python
 @frames_name.setter
@@ -104,7 +104,7 @@ def frames_name(value: str) -> None
 
 <a id="unreal.MovieSceneTakeSettings.sub_frames_name"></a>
 
-#### sub_frames_name
+#### sub\_frames\_name
 
 ```python
 @property
@@ -115,7 +115,7 @@ def sub_frames_name() -> str
 
 <a id="unreal.MovieSceneTakeSettings.sub_frames_name"></a>
 
-#### sub_frames_name
+#### sub\_frames\_name
 
 ```python
 @sub_frames_name.setter
@@ -124,7 +124,7 @@ def sub_frames_name(value: str) -> None
 
 <a id="unreal.MovieSceneTakeSettings.rate_name"></a>
 
-#### rate_name
+#### rate\_name
 
 ```python
 @property
@@ -135,7 +135,7 @@ def rate_name() -> str
 
 <a id="unreal.MovieSceneTakeSettings.rate_name"></a>
 
-#### rate_name
+#### rate\_name
 
 ```python
 @rate_name.setter
@@ -144,7 +144,7 @@ def rate_name(value: str) -> None
 
 <a id="unreal.MovieSceneTakeSettings.slate_name"></a>
 
-#### slate_name
+#### slate\_name
 
 ```python
 @property
@@ -155,7 +155,7 @@ def slate_name() -> str
 
 <a id="unreal.MovieSceneTakeSettings.slate_name"></a>
 
-#### slate_name
+#### slate\_name
 
 ```python
 @slate_name.setter

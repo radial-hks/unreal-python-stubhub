@@ -19,7 +19,7 @@ Canvas Panel Slot
 
 <a id="unreal.CanvasPanelSlot.layout_data"></a>
 
-#### layout_data
+#### layout\_data
 
 ```python
 @property
@@ -30,7 +30,7 @@ def layout_data() -> AnchorData
 
 <a id="unreal.CanvasPanelSlot.layout_data"></a>
 
-#### layout_data
+#### layout\_data
 
 ```python
 @layout_data.setter
@@ -39,7 +39,7 @@ def layout_data(value: AnchorData) -> None
 
 <a id="unreal.CanvasPanelSlot.auto_size"></a>
 
-#### auto_size
+#### auto\_size
 
 ```python
 @property
@@ -50,7 +50,7 @@ def auto_size() -> bool
 
 <a id="unreal.CanvasPanelSlot.auto_size"></a>
 
-#### auto_size
+#### auto\_size
 
 ```python
 @auto_size.setter
@@ -59,7 +59,7 @@ def auto_size(value: bool) -> None
 
 <a id="unreal.CanvasPanelSlot.z_order"></a>
 
-#### z_order
+#### z\_order
 
 ```python
 @property
@@ -70,7 +70,7 @@ def z_order() -> int
 
 <a id="unreal.CanvasPanelSlot.z_order"></a>
 
-#### z_order
+#### z\_order
 
 ```python
 @z_order.setter
@@ -79,7 +79,7 @@ def z_order(value: int) -> None
 
 <a id="unreal.CanvasPanelSlot.set_z_order"></a>
 
-#### set_z_order
+#### set\_z\_order
 
 ```python
 def set_z_order(z_order: int) -> None
@@ -93,7 +93,7 @@ Args:
 
 <a id="unreal.CanvasPanelSlot.set_size"></a>
 
-#### set_size
+#### set\_size
 
 ```python
 def set_size(size: Vector2D) -> None
@@ -107,7 +107,7 @@ Args:
 
 <a id="unreal.CanvasPanelSlot.set_position"></a>
 
-#### set_position
+#### set\_position
 
 ```python
 def set_position(position: Vector2D) -> None
@@ -121,7 +121,7 @@ Args:
 
 <a id="unreal.CanvasPanelSlot.set_offsets"></a>
 
-#### set_offsets
+#### set\_offsets
 
 ```python
 def set_offsets(offset: Margin) -> None
@@ -135,7 +135,7 @@ Args:
 
 <a id="unreal.CanvasPanelSlot.set_layout"></a>
 
-#### set_layout
+#### set\_layout
 
 ```python
 def set_layout(layout_data: AnchorData) -> None
@@ -149,7 +149,7 @@ Args:
 
 <a id="unreal.CanvasPanelSlot.set_auto_size"></a>
 
-#### set_auto_size
+#### set\_auto\_size
 
 ```python
 def set_auto_size(inb_auto_size: bool) -> None
@@ -163,7 +163,7 @@ Args:
 
 <a id="unreal.CanvasPanelSlot.set_anchors"></a>
 
-#### set_anchors
+#### set\_anchors
 
 ```python
 def set_anchors(anchors: Anchors) -> None
@@ -177,7 +177,7 @@ Args:
 
 <a id="unreal.CanvasPanelSlot.set_alignment"></a>
 
-#### set_alignment
+#### set\_alignment
 
 ```python
 def set_alignment(alignment: Vector2D) -> None
@@ -191,7 +191,7 @@ Args:
 
 <a id="unreal.CanvasPanelSlot.get_z_order"></a>
 
-#### get_z_order
+#### get\_z\_order
 
 ```python
 def get_z_order() -> int
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.CanvasPanelSlot.get_size"></a>
 
-#### get_size
+#### get\_size
 
 ```python
 def get_size() -> Vector2D
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.CanvasPanelSlot.get_position"></a>
 
-#### get_position
+#### get\_position
 
 ```python
 def get_position() -> Vector2D
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.CanvasPanelSlot.get_offsets"></a>
 
-#### get_offsets
+#### get\_offsets
 
 ```python
 def get_offsets() -> Margin
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.CanvasPanelSlot.get_layout"></a>
 
-#### get_layout
+#### get\_layout
 
 ```python
 def get_layout() -> AnchorData
@@ -261,7 +261,7 @@ Returns:
 
 <a id="unreal.CanvasPanelSlot.get_auto_size"></a>
 
-#### get_auto_size
+#### get\_auto\_size
 
 ```python
 def get_auto_size() -> bool
@@ -275,7 +275,7 @@ Returns:
 
 <a id="unreal.CanvasPanelSlot.get_anchors"></a>
 
-#### get_anchors
+#### get\_anchors
 
 ```python
 def get_anchors() -> Anchors
@@ -289,7 +289,7 @@ Returns:
 
 <a id="unreal.CanvasPanelSlot.get_alignment"></a>
 
-#### get_alignment
+#### get\_alignment
 
 ```python
 def get_alignment() -> Vector2D

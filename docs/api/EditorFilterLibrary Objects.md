@@ -14,7 +14,7 @@ Utility class to filter a list of objects. Object should be in the World Editor.
 
 <a id="unreal.EditorFilterLibrary.by_selection"></a>
 
-#### by_selection
+#### by\_selection
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.EditorFilterLibrary.by_level_name"></a>
 
-#### by_level_name
+#### by\_level\_name
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.EditorFilterLibrary.by_layer"></a>
 
-#### by_layer
+#### by\_layer
 
 ```python
 @classmethod
@@ -87,7 +87,7 @@ Returns:
 
 <a id="unreal.EditorFilterLibrary.by_id_name"></a>
 
-#### by_id_name
+#### by\_id\_name
 
 ```python
 @classmethod
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.EditorFilterLibrary.by_class"></a>
 
-#### by_class
+#### by\_class
 
 ```python
 @classmethod
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.EditorFilterLibrary.by_actor_tag"></a>
 
-#### by_actor_tag
+#### by\_actor\_tag
 
 ```python
 @classmethod
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.EditorFilterLibrary.by_actor_label"></a>
 
-#### by_actor_label
+#### by\_actor\_label
 
 ```python
 @classmethod

@@ -8,7 +8,7 @@ deprecated: 'HapticFeedbackDetails' was renamed to 'HapticFeedbackDetails_Curve'
 
 <a id="unreal.HapticFeedbackDetails.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

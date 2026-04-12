@@ -8,7 +8,7 @@ deprecated: 'EditorScriptingCreateProxyMeshActorOptions' was renamed to 'CreateP
 
 <a id="unreal.EditorScriptingCreateProxyMeshActorOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

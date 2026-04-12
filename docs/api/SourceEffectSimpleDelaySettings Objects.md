@@ -24,7 +24,7 @@ Source Effect Simple Delay Settings
 
 <a id="unreal.SourceEffectSimpleDelaySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(speed_of_sound: float = 0.000000,
@@ -38,7 +38,7 @@ def __init__(speed_of_sound: float = 0.000000,
 
 <a id="unreal.SourceEffectSimpleDelaySettings.speed_of_sound"></a>
 
-#### speed_of_sound
+#### speed\_of\_sound
 
 ```python
 @property
@@ -49,7 +49,7 @@ def speed_of_sound() -> float
 
 <a id="unreal.SourceEffectSimpleDelaySettings.speed_of_sound"></a>
 
-#### speed_of_sound
+#### speed\_of\_sound
 
 ```python
 @speed_of_sound.setter
@@ -58,7 +58,7 @@ def speed_of_sound(value: float) -> None
 
 <a id="unreal.SourceEffectSimpleDelaySettings.delay_amount"></a>
 
-#### delay_amount
+#### delay\_amount
 
 ```python
 @property
@@ -69,7 +69,7 @@ def delay_amount() -> float
 
 <a id="unreal.SourceEffectSimpleDelaySettings.delay_amount"></a>
 
-#### delay_amount
+#### delay\_amount
 
 ```python
 @delay_amount.setter
@@ -78,7 +78,7 @@ def delay_amount(value: float) -> None
 
 <a id="unreal.SourceEffectSimpleDelaySettings.dry_amount"></a>
 
-#### dry_amount
+#### dry\_amount
 
 ```python
 @property
@@ -89,7 +89,7 @@ def dry_amount() -> float
 
 <a id="unreal.SourceEffectSimpleDelaySettings.dry_amount"></a>
 
-#### dry_amount
+#### dry\_amount
 
 ```python
 @dry_amount.setter
@@ -98,7 +98,7 @@ def dry_amount(value: float) -> None
 
 <a id="unreal.SourceEffectSimpleDelaySettings.wet_amount"></a>
 
-#### wet_amount
+#### wet\_amount
 
 ```python
 @property
@@ -109,7 +109,7 @@ def wet_amount() -> float
 
 <a id="unreal.SourceEffectSimpleDelaySettings.wet_amount"></a>
 
-#### wet_amount
+#### wet\_amount
 
 ```python
 @wet_amount.setter
@@ -138,7 +138,7 @@ def feedback(value: float) -> None
 
 <a id="unreal.SourceEffectSimpleDelaySettings.delay_based_on_distance"></a>
 
-#### delay_based_on_distance
+#### delay\_based\_on\_distance
 
 ```python
 @property
@@ -149,7 +149,7 @@ def delay_based_on_distance() -> bool
 
 <a id="unreal.SourceEffectSimpleDelaySettings.delay_based_on_distance"></a>
 
-#### delay_based_on_distance
+#### delay\_based\_on\_distance
 
 ```python
 @delay_based_on_distance.setter
@@ -158,7 +158,7 @@ def delay_based_on_distance(value: bool) -> None
 
 <a id="unreal.SourceEffectSimpleDelaySettings.use_distance_override"></a>
 
-#### use_distance_override
+#### use\_distance\_override
 
 ```python
 @property
@@ -169,7 +169,7 @@ def use_distance_override() -> bool
 
 <a id="unreal.SourceEffectSimpleDelaySettings.use_distance_override"></a>
 
-#### use_distance_override
+#### use\_distance\_override
 
 ```python
 @use_distance_override.setter

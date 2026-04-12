@@ -149,7 +149,7 @@ Control Rig Control Actor
 
 <a id="unreal.ControlRigControlActor.actor_to_track"></a>
 
-#### actor_to_track
+#### actor\_to\_track
 
 ```python
 @property
@@ -160,7 +160,7 @@ def actor_to_track() -> Actor
 
 <a id="unreal.ControlRigControlActor.actor_to_track"></a>
 
-#### actor_to_track
+#### actor\_to\_track
 
 ```python
 @actor_to_track.setter
@@ -169,7 +169,7 @@ def actor_to_track(value: Actor) -> None
 
 <a id="unreal.ControlRigControlActor.control_rig_class"></a>
 
-#### control_rig_class
+#### control\_rig\_class
 
 ```python
 @property
@@ -180,7 +180,7 @@ def control_rig_class() -> Class
 
 <a id="unreal.ControlRigControlActor.control_rig_class"></a>
 
-#### control_rig_class
+#### control\_rig\_class
 
 ```python
 @control_rig_class.setter
@@ -189,7 +189,7 @@ def control_rig_class(value: Class) -> None
 
 <a id="unreal.ControlRigControlActor.refresh_on_tick"></a>
 
-#### refresh_on_tick
+#### refresh\_on\_tick
 
 ```python
 @property
@@ -200,7 +200,7 @@ def refresh_on_tick() -> bool
 
 <a id="unreal.ControlRigControlActor.refresh_on_tick"></a>
 
-#### refresh_on_tick
+#### refresh\_on\_tick
 
 ```python
 @refresh_on_tick.setter
@@ -209,7 +209,7 @@ def refresh_on_tick(value: bool) -> None
 
 <a id="unreal.ControlRigControlActor.is_selectable"></a>
 
-#### is_selectable
+#### is\_selectable
 
 ```python
 @property
@@ -220,7 +220,7 @@ def is_selectable() -> bool
 
 <a id="unreal.ControlRigControlActor.is_selectable"></a>
 
-#### is_selectable
+#### is\_selectable
 
 ```python
 @is_selectable.setter
@@ -229,7 +229,7 @@ def is_selectable(value: bool) -> None
 
 <a id="unreal.ControlRigControlActor.material_override"></a>
 
-#### material_override
+#### material\_override
 
 ```python
 @property
@@ -240,7 +240,7 @@ def material_override() -> MaterialInterface
 
 <a id="unreal.ControlRigControlActor.material_override"></a>
 
-#### material_override
+#### material\_override
 
 ```python
 @material_override.setter
@@ -249,7 +249,7 @@ def material_override(value: MaterialInterface) -> None
 
 <a id="unreal.ControlRigControlActor.color_parameter"></a>
 
-#### color_parameter
+#### color\_parameter
 
 ```python
 @property
@@ -260,7 +260,7 @@ def color_parameter() -> str
 
 <a id="unreal.ControlRigControlActor.color_parameter"></a>
 
-#### color_parameter
+#### color\_parameter
 
 ```python
 @color_parameter.setter
@@ -269,7 +269,7 @@ def color_parameter(value: str) -> None
 
 <a id="unreal.ControlRigControlActor.cast_shadows"></a>
 
-#### cast_shadows
+#### cast\_shadows
 
 ```python
 @property
@@ -280,7 +280,7 @@ def cast_shadows() -> bool
 
 <a id="unreal.ControlRigControlActor.cast_shadows"></a>
 
-#### cast_shadows
+#### cast\_shadows
 
 ```python
 @cast_shadows.setter
@@ -289,7 +289,7 @@ def cast_shadows(value: bool) -> None
 
 <a id="unreal.ControlRigControlActor.reset_control_actor"></a>
 
-#### reset_control_actor
+#### reset\_control\_actor
 
 ```python
 def reset_control_actor() -> None

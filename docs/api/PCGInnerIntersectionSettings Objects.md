@@ -35,7 +35,7 @@ PCGInner Intersection Settings
 
 <a id="unreal.PCGInnerIntersectionSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -46,7 +46,7 @@ def density_function() -> PCGIntersectionDensityFunction
 
 <a id="unreal.PCGInnerIntersectionSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter
@@ -55,7 +55,7 @@ def density_function(value: PCGIntersectionDensityFunction) -> None
 
 <a id="unreal.PCGInnerIntersectionSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @property
@@ -66,7 +66,7 @@ def keep_zero_density_points() -> bool
 
 <a id="unreal.PCGInnerIntersectionSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @keep_zero_density_points.setter

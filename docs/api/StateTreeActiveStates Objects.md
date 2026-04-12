@@ -19,7 +19,7 @@ Describes an array of active states in a State Tree.
 
 <a id="unreal.StateTreeActiveStates.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

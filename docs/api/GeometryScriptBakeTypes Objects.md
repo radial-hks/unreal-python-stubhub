@@ -20,25 +20,25 @@ EGeometry Script Bake Types
 
 <a id="unreal.GeometryScriptBakeTypes.TANGENT_SPACE_NORMAL"></a>
 
-#### TANGENT_SPACE_NORMAL
+#### TANGENT\_SPACE\_NORMAL
 
 1: Normals in tangent space
 
 <a id="unreal.GeometryScriptBakeTypes.OBJECT_SPACE_NORMAL"></a>
 
-#### OBJECT_SPACE_NORMAL
+#### OBJECT\_SPACE\_NORMAL
 
 2: Interpolated normals in object space
 
 <a id="unreal.GeometryScriptBakeTypes.FACE_NORMAL"></a>
 
-#### FACE_NORMAL
+#### FACE\_NORMAL
 
 3: Geometric face normals in object space
 
 <a id="unreal.GeometryScriptBakeTypes.BENT_NORMAL"></a>
 
-#### BENT_NORMAL
+#### BENT\_NORMAL
 
 4: Normals skewed towards the least occluded direction
 
@@ -56,7 +56,7 @@ EGeometry Script Bake Types
 
 <a id="unreal.GeometryScriptBakeTypes.AMBIENT_OCCLUSION"></a>
 
-#### AMBIENT_OCCLUSION
+#### AMBIENT\_OCCLUSION
 
 7: Ambient occlusion sampled across the hemisphere
 
@@ -68,19 +68,19 @@ EGeometry Script Bake Types
 
 <a id="unreal.GeometryScriptBakeTypes.MULTI_TEXTURE"></a>
 
-#### MULTI_TEXTURE
+#### MULTI\_TEXTURE
 
 9: Transfer a texture per material ID
 
 <a id="unreal.GeometryScriptBakeTypes.VERTEX_COLOR"></a>
 
-#### VERTEX_COLOR
+#### VERTEX\_COLOR
 
 10: Interpolated vertex colors
 
 <a id="unreal.GeometryScriptBakeTypes.MATERIAL_ID"></a>
 
-#### MATERIAL_ID
+#### MATERIAL\_ID
 
 11: Material IDs as unique colors
 
@@ -92,7 +92,7 @@ EGeometry Script Bake Types
 
 <a id="unreal.GeometryScriptBakeTypes.UV_SHELL"></a>
 
-#### UV_SHELL
+#### UV\_SHELL
 
 13: UV Shell
 

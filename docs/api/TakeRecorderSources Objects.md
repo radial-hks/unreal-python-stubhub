@@ -14,7 +14,7 @@ A list of sources to record for any given take. Stored as meta-data on ULevelSeq
 
 <a id="unreal.TakeRecorderSources.start_recording_source"></a>
 
-#### start_recording_source
+#### start\_recording\_source
 
 ```python
 def start_recording_source(sources: Array[TakeRecorderSource],
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.TakeRecorderSources.remove_source"></a>
 
-#### remove_source
+#### remove\_source
 
 ```python
 def remove_source(source: TakeRecorderSource) -> None
@@ -44,7 +44,7 @@ Args:
 
 <a id="unreal.TakeRecorderSources.get_sources_copy"></a>
 
-#### get_sources_copy
+#### get\_sources\_copy
 
 ```python
 def get_sources_copy() -> Array[TakeRecorderSource]
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.TakeRecorderSources.add_source"></a>
 
-#### add_source
+#### add\_source
 
 ```python
 def add_source(source_type: Class) -> TakeRecorderSource

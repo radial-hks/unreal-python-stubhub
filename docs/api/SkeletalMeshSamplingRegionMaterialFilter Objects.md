@@ -17,7 +17,7 @@ Filter to include triangles in a sampling region based on their material.
 
 <a id="unreal.SkeletalMeshSamplingRegionMaterialFilter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

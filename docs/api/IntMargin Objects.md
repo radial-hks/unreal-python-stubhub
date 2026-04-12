@@ -21,7 +21,7 @@ Describes the space around a 2D area on an integer grid.
 
 <a id="unreal.IntMargin.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(left: int = 0,

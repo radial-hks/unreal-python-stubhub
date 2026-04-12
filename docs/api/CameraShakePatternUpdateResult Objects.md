@@ -13,7 +13,7 @@ The result of a camera shake pattern update.
 
 <a id="unreal.CameraShakePatternUpdateResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

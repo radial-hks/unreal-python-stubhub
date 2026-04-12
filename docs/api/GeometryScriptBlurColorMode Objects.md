@@ -20,13 +20,13 @@ EGeometry Script Blur Color Mode
 
 <a id="unreal.GeometryScriptBlurColorMode.EDGE_LENGTH"></a>
 
-#### EDGE_LENGTH
+#### EDGE\_LENGTH
 
 1: Blur the attributes where each neighbor is weighted proportionally to the shared edge length.
 
 <a id="unreal.GeometryScriptBlurColorMode.COTAN_WEIGHTS"></a>
 
-#### COTAN_WEIGHTS
+#### COTAN\_WEIGHTS
 
 2: Blur the attributes where each neighbor is weighted proportionally to the cotangent weight of the shared edge.
 

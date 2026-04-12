@@ -20,7 +20,7 @@ Tool Dynamic UIAction
 
 <a id="unreal.ToolDynamicUIAction.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -37,7 +37,7 @@ def __init__(
 
 <a id="unreal.ToolDynamicUIAction.execute_action"></a>
 
-#### execute_action
+#### execute\_action
 
 ```python
 @property
@@ -48,7 +48,7 @@ def execute_action() -> ToolMenuDynamicExecuteAction
 
 <a id="unreal.ToolDynamicUIAction.execute_action"></a>
 
-#### execute_action
+#### execute\_action
 
 ```python
 @execute_action.setter
@@ -57,7 +57,7 @@ def execute_action(value: ToolMenuDynamicExecuteAction) -> None
 
 <a id="unreal.ToolDynamicUIAction.can_execute_action"></a>
 
-#### can_execute_action
+#### can\_execute\_action
 
 ```python
 @property
@@ -68,7 +68,7 @@ def can_execute_action() -> ToolMenuDynamicCanExecuteAction
 
 <a id="unreal.ToolDynamicUIAction.can_execute_action"></a>
 
-#### can_execute_action
+#### can\_execute\_action
 
 ```python
 @can_execute_action.setter
@@ -77,7 +77,7 @@ def can_execute_action(value: ToolMenuDynamicCanExecuteAction) -> None
 
 <a id="unreal.ToolDynamicUIAction.get_action_check_state"></a>
 
-#### get_action_check_state
+#### get\_action\_check\_state
 
 ```python
 @property
@@ -88,7 +88,7 @@ def get_action_check_state() -> ToolMenuDynamicGetActionCheckState
 
 <a id="unreal.ToolDynamicUIAction.get_action_check_state"></a>
 
-#### get_action_check_state
+#### get\_action\_check\_state
 
 ```python
 @get_action_check_state.setter
@@ -97,7 +97,7 @@ def get_action_check_state(value: ToolMenuDynamicGetActionCheckState) -> None
 
 <a id="unreal.ToolDynamicUIAction.is_action_visible_delegate"></a>
 
-#### is_action_visible_delegate
+#### is\_action\_visible\_delegate
 
 ```python
 @property
@@ -108,7 +108,7 @@ def is_action_visible_delegate() -> ToolMenuDynamicIsActionButtonVisible
 
 <a id="unreal.ToolDynamicUIAction.is_action_visible_delegate"></a>
 
-#### is_action_visible_delegate
+#### is\_action\_visible\_delegate
 
 ```python
 @is_action_visible_delegate.setter

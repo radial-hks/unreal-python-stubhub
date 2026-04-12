@@ -143,7 +143,7 @@ Level Variant Sets Actor
 
 <a id="unreal.LevelVariantSetsActor.level_variant_sets"></a>
 
-#### level_variant_sets
+#### level\_variant\_sets
 
 ```python
 @property
@@ -154,7 +154,7 @@ def level_variant_sets() -> SoftObjectPath
 
 <a id="unreal.LevelVariantSetsActor.switch_on_variant_by_name"></a>
 
-#### switch_on_variant_by_name
+#### switch\_on\_variant\_by\_name
 
 ```python
 def switch_on_variant_by_name(variant_set_name: str,
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.LevelVariantSetsActor.switch_on_variant_by_index"></a>
 
-#### switch_on_variant_by_index
+#### switch\_on\_variant\_by\_index
 
 ```python
 def switch_on_variant_by_index(variant_set_index: int,
@@ -192,7 +192,7 @@ Returns:
 
 <a id="unreal.LevelVariantSetsActor.set_level_variant_sets"></a>
 
-#### set_level_variant_sets
+#### set\_level\_variant\_sets
 
 ```python
 def set_level_variant_sets(variant_sets: LevelVariantSets) -> None
@@ -206,7 +206,7 @@ Args:
 
 <a id="unreal.LevelVariantSetsActor.get_level_variant_sets"></a>
 
-#### get_level_variant_sets
+#### get\_level\_variant\_sets
 
 ```python
 def get_level_variant_sets(load: bool = False) -> LevelVariantSets

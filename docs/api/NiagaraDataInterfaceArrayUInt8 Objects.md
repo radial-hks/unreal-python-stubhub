@@ -20,7 +20,7 @@ Niagara Data Interface Array UInt 8
 
 <a id="unreal.NiagaraDataInterfaceArrayUInt8.int_data"></a>
 
-#### int_data
+#### int\_data
 
 ```python
 @property
@@ -31,7 +31,7 @@ def int_data() -> Array[int]
 
 <a id="unreal.NiagaraDataInterfaceArrayUInt8.int_data"></a>
 
-#### int_data
+#### int\_data
 
 ```python
 @int_data.setter

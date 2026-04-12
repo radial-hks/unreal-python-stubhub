@@ -228,7 +228,7 @@ Water Body Ocean Component
 
 <a id="unreal.WaterBodyOceanComponent.collision_extents"></a>
 
-#### collision_extents
+#### collision\_extents
 
 ```python
 @property
@@ -239,7 +239,7 @@ def collision_extents() -> Vector
 
 <a id="unreal.WaterBodyOceanComponent.ocean_extents"></a>
 
-#### ocean_extents
+#### ocean\_extents
 
 ```python
 @property

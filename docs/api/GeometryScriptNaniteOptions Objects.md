@@ -20,7 +20,7 @@ Configuration settings for Nanite Rendering on StaticMesh Assets
 
 <a id="unreal.GeometryScriptNaniteOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enabled: bool = False,
@@ -50,7 +50,7 @@ def enabled(value: bool) -> None
 
 <a id="unreal.GeometryScriptNaniteOptions.fallback_percent_triangles"></a>
 
-#### fallback_percent_triangles
+#### fallback\_percent\_triangles
 
 ```python
 @property
@@ -61,7 +61,7 @@ def fallback_percent_triangles() -> float
 
 <a id="unreal.GeometryScriptNaniteOptions.fallback_percent_triangles"></a>
 
-#### fallback_percent_triangles
+#### fallback\_percent\_triangles
 
 ```python
 @fallback_percent_triangles.setter
@@ -70,7 +70,7 @@ def fallback_percent_triangles(value: float) -> None
 
 <a id="unreal.GeometryScriptNaniteOptions.fallback_relative_error"></a>
 
-#### fallback_relative_error
+#### fallback\_relative\_error
 
 ```python
 @property
@@ -81,7 +81,7 @@ def fallback_relative_error() -> float
 
 <a id="unreal.GeometryScriptNaniteOptions.fallback_relative_error"></a>
 
-#### fallback_relative_error
+#### fallback\_relative\_error
 
 ```python
 @fallback_relative_error.setter

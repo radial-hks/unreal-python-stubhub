@@ -20,31 +20,31 @@ behaviors for the nested sub-sequence.
 
 <a id="unreal.MovieSceneSubSectionFlags.OVERRIDE_KEEP_STATE"></a>
 
-#### OVERRIDE_KEEP_STATE
+#### OVERRIDE\_KEEP\_STATE
 
 1: When set, everything within the sub-section (including further sub-sections) should be keep-state. Mutually exclusive with OverrideRestoreState.
 
 <a id="unreal.MovieSceneSubSectionFlags.OVERRIDE_RESTORE_STATE"></a>
 
-#### OVERRIDE_RESTORE_STATE
+#### OVERRIDE\_RESTORE\_STATE
 
 2: When set, everything within the sub-section (including further sub-sections) should be restore-state. Mutually exclusive with OverrideKeepState.
 
 <a id="unreal.MovieSceneSubSectionFlags.IGNORE_HIERARCHICAL_BIAS"></a>
 
-#### IGNORE_HIERARCHICAL_BIAS
+#### IGNORE\_HIERARCHICAL\_BIAS
 
 4: Everything inside this sub-sequence should ignore hierarchical bias and always be relevant
 
 <a id="unreal.MovieSceneSubSectionFlags.BLEND_HIERARCHICAL_BIAS"></a>
 
-#### BLEND_HIERARCHICAL_BIAS
+#### BLEND\_HIERARCHICAL\_BIAS
 
 8: Blend this sub sequence's hierarchical bias level using a higher -> lower override. Values from higher biases will override those in lower biases until a combined weight of 1 is reached.
 
 <a id="unreal.MovieSceneSubSectionFlags.ANY_RESTORE_STATE_OVERRIDE"></a>
 
-#### ANY_RESTORE_STATE_OVERRIDE
+#### ANY\_RESTORE\_STATE\_OVERRIDE
 
 3
 

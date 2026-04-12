@@ -22,7 +22,7 @@ Movie Scene Dynamic Binding Resolve Result
 
 <a id="unreal.MovieSceneDynamicBindingResolveResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(object: Object = None, is_possessed_object: bool = False) -> None
@@ -50,7 +50,7 @@ def object(value: Object) -> None
 
 <a id="unreal.MovieSceneDynamicBindingResolveResult.is_possessed_object"></a>
 
-#### is_possessed_object
+#### is\_possessed\_object
 
 ```python
 @property
@@ -65,7 +65,7 @@ when the spawnable track ends, or the sequence finishes.
 
 <a id="unreal.MovieSceneDynamicBindingResolveResult.is_possessed_object"></a>
 
-#### is_possessed_object
+#### is\_possessed\_object
 
 ```python
 @is_possessed_object.setter

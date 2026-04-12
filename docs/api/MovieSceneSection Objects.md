@@ -26,7 +26,7 @@ Base class for movie scene sections
 
 <a id="unreal.MovieSceneSection.set_row_index"></a>
 
-#### set_row_index
+#### set\_row\_index
 
 ```python
 def set_row_index(new_row_index: int) -> None
@@ -40,7 +40,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_pre_roll_frames"></a>
 
-#### set_pre_roll_frames
+#### set\_pre\_roll\_frames
 
 ```python
 def set_pre_roll_frames(pre_roll_frames: int) -> None
@@ -54,7 +54,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_post_roll_frames"></a>
 
-#### set_post_roll_frames
+#### set\_post\_roll\_frames
 
 ```python
 def set_post_roll_frames(post_roll_frames: int) -> None
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_overlap_priority"></a>
 
-#### set_overlap_priority
+#### set\_overlap\_priority
 
 ```python
 def set_overlap_priority(new_priority: int) -> None
@@ -82,7 +82,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_is_locked"></a>
 
-#### set_is_locked
+#### set\_is\_locked
 
 ```python
 def set_is_locked(is_locked: bool) -> None
@@ -96,7 +96,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_is_active"></a>
 
-#### set_is_active
+#### set\_is\_active
 
 ```python
 def set_is_active(is_active: bool) -> None
@@ -110,7 +110,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_completion_mode"></a>
 
-#### set_completion_mode
+#### set\_completion\_mode
 
 ```python
 def set_completion_mode(completion_mode: MovieSceneCompletionMode) -> None
@@ -124,7 +124,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_color_tint"></a>
 
-#### set_color_tint
+#### set\_color\_tint
 
 ```python
 def set_color_tint(color_tint: Color) -> None
@@ -138,7 +138,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_blend_type"></a>
 
-#### set_blend_type
+#### set\_blend\_type
 
 ```python
 def set_blend_type(blend_type: MovieSceneBlendType) -> None
@@ -152,7 +152,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.is_locked"></a>
 
-#### is_locked
+#### is\_locked
 
 ```python
 def is_locked() -> bool
@@ -166,7 +166,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.is_active"></a>
 
-#### is_active
+#### is\_active
 
 ```python
 def is_active() -> bool
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_row_index"></a>
 
-#### get_row_index
+#### get\_row\_index
 
 ```python
 def get_row_index() -> int
@@ -194,7 +194,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_pre_roll_frames"></a>
 
-#### get_pre_roll_frames
+#### get\_pre\_roll\_frames
 
 ```python
 def get_pre_roll_frames() -> int
@@ -208,7 +208,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_post_roll_frames"></a>
 
-#### get_post_roll_frames
+#### get\_post\_roll\_frames
 
 ```python
 def get_post_roll_frames() -> int
@@ -222,7 +222,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_overlap_priority"></a>
 
-#### get_overlap_priority
+#### get\_overlap\_priority
 
 ```python
 def get_overlap_priority() -> int
@@ -236,7 +236,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_completion_mode"></a>
 
-#### get_completion_mode
+#### get\_completion\_mode
 
 ```python
 def get_completion_mode() -> MovieSceneCompletionMode
@@ -250,7 +250,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_color_tint"></a>
 
-#### get_color_tint
+#### get\_color\_tint
 
 ```python
 def get_color_tint() -> Color
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_blend_type"></a>
 
-#### get_blend_type
+#### get\_blend\_type
 
 ```python
 def get_blend_type() -> OptionalMovieSceneBlendType
@@ -278,7 +278,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.set_start_frame_seconds"></a>
 
-#### set_start_frame_seconds
+#### set\_start\_frame\_seconds
 
 ```python
 def set_start_frame_seconds(start_time: float) -> None
@@ -292,7 +292,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_start_frame_bounded"></a>
 
-#### set_start_frame_bounded
+#### set\_start\_frame\_bounded
 
 ```python
 def set_start_frame_bounded(is_bounded: bool) -> None
@@ -306,7 +306,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_start_frame"></a>
 
-#### set_start_frame
+#### set\_start\_frame
 
 ```python
 def set_start_frame(start_frame: int) -> None
@@ -320,7 +320,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_range_seconds"></a>
 
-#### set_range_seconds
+#### set\_range\_seconds
 
 ```python
 def set_range_seconds(start_time: float, end_time: float) -> None
@@ -335,7 +335,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_range"></a>
 
-#### set_range
+#### set\_range
 
 ```python
 def set_range(start_frame: int, end_frame: int) -> None
@@ -350,7 +350,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_end_frame_seconds"></a>
 
-#### set_end_frame_seconds
+#### set\_end\_frame\_seconds
 
 ```python
 def set_end_frame_seconds(end_time: float) -> None
@@ -364,7 +364,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_end_frame_bounded"></a>
 
-#### set_end_frame_bounded
+#### set\_end\_frame\_bounded
 
 ```python
 def set_end_frame_bounded(is_bounded: bool) -> None
@@ -378,7 +378,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.set_end_frame"></a>
 
-#### set_end_frame
+#### set\_end\_frame
 
 ```python
 def set_end_frame(end_frame: int) -> None
@@ -392,7 +392,7 @@ Args:
 
 <a id="unreal.MovieSceneSection.has_start_frame"></a>
 
-#### has_start_frame
+#### has\_start\_frame
 
 ```python
 def has_start_frame() -> bool
@@ -406,7 +406,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.has_end_frame"></a>
 
-#### has_end_frame
+#### has\_end\_frame
 
 ```python
 def has_end_frame() -> bool
@@ -420,7 +420,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_start_frame_seconds"></a>
 
-#### get_start_frame_seconds
+#### get\_start\_frame\_seconds
 
 ```python
 def get_start_frame_seconds() -> float
@@ -434,7 +434,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_start_frame"></a>
 
-#### get_start_frame
+#### get\_start\_frame
 
 ```python
 def get_start_frame() -> int
@@ -448,7 +448,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_end_frame_seconds"></a>
 
-#### get_end_frame_seconds
+#### get\_end\_frame\_seconds
 
 ```python
 def get_end_frame_seconds() -> float
@@ -462,7 +462,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_end_frame"></a>
 
-#### get_end_frame
+#### get\_end\_frame
 
 ```python
 def get_end_frame() -> int
@@ -476,7 +476,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_channels_by_type"></a>
 
-#### get_channels_by_type
+#### get\_channels\_by\_type
 
 ```python
 def get_channels_by_type(
@@ -495,7 +495,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_channel"></a>
 
-#### get_channel
+#### get\_channel
 
 ```python
 def get_channel(channel_name: Name) -> MovieSceneScriptingChannel
@@ -512,7 +512,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_auto_size_start_frame_seconds"></a>
 
-#### get_auto_size_start_frame_seconds
+#### get\_auto\_size\_start\_frame\_seconds
 
 ```python
 def get_auto_size_start_frame_seconds() -> float
@@ -526,7 +526,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_auto_size_start_frame"></a>
 
-#### get_auto_size_start_frame
+#### get\_auto\_size\_start\_frame
 
 ```python
 def get_auto_size_start_frame() -> int
@@ -540,7 +540,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_auto_size_has_start_frame"></a>
 
-#### get_auto_size_has_start_frame
+#### get\_auto\_size\_has\_start\_frame
 
 ```python
 def get_auto_size_has_start_frame() -> bool
@@ -554,7 +554,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_auto_size_has_end_frame"></a>
 
-#### get_auto_size_has_end_frame
+#### get\_auto\_size\_has\_end\_frame
 
 ```python
 def get_auto_size_has_end_frame() -> bool
@@ -568,7 +568,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_auto_size_end_frame_seconds"></a>
 
-#### get_auto_size_end_frame_seconds
+#### get\_auto\_size\_end\_frame\_seconds
 
 ```python
 def get_auto_size_end_frame_seconds() -> float
@@ -582,7 +582,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_auto_size_end_frame"></a>
 
-#### get_auto_size_end_frame
+#### get\_auto\_size\_end\_frame
 
 ```python
 def get_auto_size_end_frame() -> int
@@ -596,7 +596,7 @@ Returns:
 
 <a id="unreal.MovieSceneSection.get_all_channels"></a>
 
-#### get_all_channels
+#### get\_all\_channels
 
 ```python
 def get_all_channels() -> Array[MovieSceneScriptingChannel]

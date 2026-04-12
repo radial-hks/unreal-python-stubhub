@@ -20,7 +20,7 @@ Paste tracks params
 
 <a id="unreal.MovieScenePasteTracksParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sequence: MovieSceneSequence = None,
@@ -71,7 +71,7 @@ def bindings(value: Array[MovieSceneBindingProxy]) -> None
 
 <a id="unreal.MovieScenePasteTracksParams.parent_folder"></a>
 
-#### parent_folder
+#### parent\_folder
 
 ```python
 @property
@@ -82,7 +82,7 @@ def parent_folder() -> MovieSceneFolder
 
 <a id="unreal.MovieScenePasteTracksParams.parent_folder"></a>
 
-#### parent_folder
+#### parent\_folder
 
 ```python
 @parent_folder.setter

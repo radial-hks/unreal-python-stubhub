@@ -13,7 +13,7 @@ A Blueprint handle to a specific LiveLink Source
 
 <a id="unreal.LiveLinkSourceHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -145,7 +145,7 @@ An actor used to represent a rig control
 
 <a id="unreal.ControlRigShapeActor.static_mesh_component"></a>
 
-#### static_mesh_component
+#### static\_mesh\_component
 
 ```python
 @property
@@ -196,7 +196,7 @@ def hovered(value: bool) -> None
 
 <a id="unreal.ControlRigShapeActor.set_global_transform"></a>
 
-#### set_global_transform
+#### set\_global\_transform
 
 ```python
 def set_global_transform(transform: Transform) -> None
@@ -211,7 +211,7 @@ Args:
 
 <a id="unreal.ControlRigShapeActor.on_transform_changed"></a>
 
-#### on_transform_changed
+#### on\_transform\_changed
 
 ```python
 def on_transform_changed(new_transform: Transform) -> None
@@ -225,7 +225,7 @@ Args:
 
 <a id="unreal.ControlRigShapeActor.on_selection_changed"></a>
 
-#### on_selection_changed
+#### on\_selection\_changed
 
 ```python
 def on_selection_changed(is_selected: bool) -> None
@@ -239,7 +239,7 @@ Args:
 
 <a id="unreal.ControlRigShapeActor.on_manipulating_changed"></a>
 
-#### on_manipulating_changed
+#### on\_manipulating\_changed
 
 ```python
 def on_manipulating_changed(is_manipulating: bool) -> None
@@ -253,7 +253,7 @@ Args:
 
 <a id="unreal.ControlRigShapeActor.on_hovered_changed"></a>
 
-#### on_hovered_changed
+#### on\_hovered\_changed
 
 ```python
 def on_hovered_changed(is_selected: bool) -> None
@@ -267,7 +267,7 @@ Args:
 
 <a id="unreal.ControlRigShapeActor.on_enabled_changed"></a>
 
-#### on_enabled_changed
+#### on\_enabled\_changed
 
 ```python
 def on_enabled_changed(is_enabled: bool) -> None
@@ -281,7 +281,7 @@ Args:
 
 <a id="unreal.ControlRigShapeActor.get_global_transform"></a>
 
-#### get_global_transform
+#### get\_global\_transform
 
 ```python
 def get_global_transform() -> Transform

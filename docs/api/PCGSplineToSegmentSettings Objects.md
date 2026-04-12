@@ -38,7 +38,7 @@ The point position will be in the middle of those 2 control points, and the exte
 
 <a id="unreal.PCGSplineToSegmentSettings.extract_tangents"></a>
 
-#### extract_tangents
+#### extract\_tangents
 
 ```python
 @property
@@ -49,7 +49,7 @@ def extract_tangents() -> bool
 
 <a id="unreal.PCGSplineToSegmentSettings.extract_tangents"></a>
 
-#### extract_tangents
+#### extract\_tangents
 
 ```python
 @extract_tangents.setter
@@ -58,7 +58,7 @@ def extract_tangents(value: bool) -> None
 
 <a id="unreal.PCGSplineToSegmentSettings.extract_angles"></a>
 
-#### extract_angles
+#### extract\_angles
 
 ```python
 @property
@@ -69,7 +69,7 @@ def extract_angles() -> bool
 
 <a id="unreal.PCGSplineToSegmentSettings.extract_angles"></a>
 
-#### extract_angles
+#### extract\_angles
 
 ```python
 @extract_angles.setter
@@ -78,7 +78,7 @@ def extract_angles(value: bool) -> None
 
 <a id="unreal.PCGSplineToSegmentSettings.extract_connectivity_info"></a>
 
-#### extract_connectivity_info
+#### extract\_connectivity\_info
 
 ```python
 @property
@@ -89,7 +89,7 @@ def extract_connectivity_info() -> bool
 
 <a id="unreal.PCGSplineToSegmentSettings.extract_connectivity_info"></a>
 
-#### extract_connectivity_info
+#### extract\_connectivity\_info
 
 ```python
 @extract_connectivity_info.setter
@@ -98,7 +98,7 @@ def extract_connectivity_info(value: bool) -> None
 
 <a id="unreal.PCGSplineToSegmentSettings.extract_clockwise_info"></a>
 
-#### extract_clockwise_info
+#### extract\_clockwise\_info
 
 ```python
 @property
@@ -109,7 +109,7 @@ def extract_clockwise_info() -> bool
 
 <a id="unreal.PCGSplineToSegmentSettings.extract_clockwise_info"></a>
 
-#### extract_clockwise_info
+#### extract\_clockwise\_info
 
 ```python
 @extract_clockwise_info.setter

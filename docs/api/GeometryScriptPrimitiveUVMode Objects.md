@@ -20,7 +20,7 @@ EGeometry Script Primitive UVMode
 
 <a id="unreal.GeometryScriptPrimitiveUVMode.SCALE_TO_FILL"></a>
 
-#### SCALE_TO_FILL
+#### SCALE\_TO\_FILL
 
 1
 

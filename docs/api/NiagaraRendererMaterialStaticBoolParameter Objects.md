@@ -19,7 +19,7 @@ Niagara Renderer Material Static Bool Parameter
 
 <a id="unreal.NiagaraRendererMaterialStaticBoolParameter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

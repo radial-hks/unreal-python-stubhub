@@ -14,7 +14,7 @@ ESpline Type
 
 <a id="unreal.SplineType.B_SPLINE"></a>
 
-#### B_SPLINE
+#### B\_SPLINE
 
 0: The smooth curve will pass through the first and last control points
 
@@ -24,4 +24,4 @@ ESpline Type
 
 1: The curve will pass through the control points
 
-<a id="unreal.ParamType"></a>
+<a id="unreal.InputResourceName"></a>

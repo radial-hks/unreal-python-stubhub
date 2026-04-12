@@ -14,13 +14,13 @@ EPCGMetadata Make Vector 3
 
 <a id="unreal.PCGMetadataMakeVector3.THREE_VALUES"></a>
 
-#### THREE_VALUES
+#### THREE\_VALUES
 
 0
 
 <a id="unreal.PCGMetadataMakeVector3.VECTOR2_AND_VALUE"></a>
 
-#### VECTOR2_AND_VALUE
+#### VECTOR2\_AND\_VALUE
 
 1
 

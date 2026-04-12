@@ -45,7 +45,7 @@ PCGSurface Sampler Settings
 
 <a id="unreal.PCGSurfaceSamplerSettings.points_per_squared_meter"></a>
 
-#### points_per_squared_meter
+#### points\_per\_squared\_meter
 
 ```python
 @property
@@ -56,7 +56,7 @@ def points_per_squared_meter() -> float
 
 <a id="unreal.PCGSurfaceSamplerSettings.points_per_squared_meter"></a>
 
-#### points_per_squared_meter
+#### points\_per\_squared\_meter
 
 ```python
 @points_per_squared_meter.setter
@@ -65,7 +65,7 @@ def points_per_squared_meter(value: float) -> None
 
 <a id="unreal.PCGSurfaceSamplerSettings.point_extents"></a>
 
-#### point_extents
+#### point\_extents
 
 ```python
 @property
@@ -76,7 +76,7 @@ def point_extents() -> Vector
 
 <a id="unreal.PCGSurfaceSamplerSettings.point_extents"></a>
 
-#### point_extents
+#### point\_extents
 
 ```python
 @point_extents.setter
@@ -127,7 +127,7 @@ def unbounded(value: bool) -> None
 
 <a id="unreal.PCGSurfaceSamplerSettings.apply_density_to_points"></a>
 
-#### apply_density_to_points
+#### apply\_density\_to\_points
 
 ```python
 @property
@@ -138,7 +138,7 @@ def apply_density_to_points() -> bool
 
 <a id="unreal.PCGSurfaceSamplerSettings.apply_density_to_points"></a>
 
-#### apply_density_to_points
+#### apply\_density\_to\_points
 
 ```python
 @apply_density_to_points.setter
@@ -147,7 +147,7 @@ def apply_density_to_points(value: bool) -> None
 
 <a id="unreal.PCGSurfaceSamplerSettings.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @property
@@ -161,7 +161,7 @@ represent a binary box function with the size of the point's bounds.
 
 <a id="unreal.PCGSurfaceSamplerSettings.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @point_steepness.setter
@@ -170,7 +170,7 @@ def point_steepness(value: float) -> None
 
 <a id="unreal.PCGSurfaceSamplerSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @property
@@ -181,7 +181,7 @@ def keep_zero_density_points() -> bool
 
 <a id="unreal.PCGSurfaceSamplerSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @keep_zero_density_points.setter

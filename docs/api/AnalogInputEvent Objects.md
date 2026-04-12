@@ -14,7 +14,7 @@ It is passed to event handlers dealing with analog keys.
 
 <a id="unreal.AnalogInputEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -13,7 +13,7 @@ Property Path Test Struct
 
 <a id="unreal.PropertyPathTestStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

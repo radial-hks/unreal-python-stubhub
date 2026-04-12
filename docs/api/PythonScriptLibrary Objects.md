@@ -14,7 +14,7 @@ Python Script Library
 
 <a id="unreal.PythonScriptLibrary.is_python_available"></a>
 
-#### is_python_available
+#### is\_python\_available
 
 ```python
 @classmethod
@@ -29,7 +29,7 @@ Returns:
 
 <a id="unreal.PythonScriptLibrary.execute_python_command_ex"></a>
 
-#### execute_python_command_ex
+#### execute\_python\_command\_ex
 
 ```python
 @classmethod
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.PythonScriptLibrary.execute_python_command"></a>
 
-#### execute_python_command
+#### execute\_python\_command
 
 ```python
 @classmethod

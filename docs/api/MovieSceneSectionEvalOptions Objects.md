@@ -17,7 +17,7 @@ Movie Scene Section Eval Options
 
 <a id="unreal.MovieSceneSectionEvalOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

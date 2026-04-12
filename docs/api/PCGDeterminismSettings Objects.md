@@ -20,7 +20,7 @@ PCGDeterminism Settings
 
 <a id="unreal.PCGDeterminismSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(native_tests: bool = False,
@@ -30,7 +30,7 @@ def __init__(native_tests: bool = False,
 
 <a id="unreal.PCGDeterminismSettings.native_tests"></a>
 
-#### native_tests
+#### native\_tests
 
 ```python
 @property
@@ -41,7 +41,7 @@ def native_tests() -> bool
 
 <a id="unreal.PCGDeterminismSettings.native_tests"></a>
 
-#### native_tests
+#### native\_tests
 
 ```python
 @native_tests.setter
@@ -50,7 +50,7 @@ def native_tests(value: bool) -> None
 
 <a id="unreal.PCGDeterminismSettings.use_blueprint_determinism_test"></a>
 
-#### use_blueprint_determinism_test
+#### use\_blueprint\_determinism\_test
 
 ```python
 @property
@@ -61,7 +61,7 @@ def use_blueprint_determinism_test() -> bool
 
 <a id="unreal.PCGDeterminismSettings.use_blueprint_determinism_test"></a>
 
-#### use_blueprint_determinism_test
+#### use\_blueprint\_determinism\_test
 
 ```python
 @use_blueprint_determinism_test.setter
@@ -70,7 +70,7 @@ def use_blueprint_determinism_test(value: bool) -> None
 
 <a id="unreal.PCGDeterminismSettings.determinism_test_blueprint"></a>
 
-#### determinism_test_blueprint
+#### determinism\_test\_blueprint
 
 ```python
 @property

@@ -31,7 +31,7 @@ def properties() -> SoundClassProperties
 
 <a id="unreal.SoundClass.child_classes"></a>
 
-#### child_classes
+#### child\_classes
 
 ```python
 @property
@@ -42,7 +42,7 @@ def child_classes() -> Array[SoundClass]
 
 <a id="unreal.SoundClass.passive_sound_mix_modifiers"></a>
 
-#### passive_sound_mix_modifiers
+#### passive\_sound\_mix\_modifiers
 
 ```python
 @property
@@ -53,7 +53,7 @@ def passive_sound_mix_modifiers() -> Array[PassiveSoundMixModifier]
 
 <a id="unreal.SoundClass.parent_class"></a>
 
-#### parent_class
+#### parent\_class
 
 ```python
 @property

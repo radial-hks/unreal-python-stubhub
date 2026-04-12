@@ -16,13 +16,13 @@ Orient To Target Transforms
 
 <a id="unreal.AimMode.AIM_AT_TARGET"></a>
 
-#### AIM_AT_TARGET
+#### AIM\_AT\_TARGET
 
 0: Aim at Target Transform
 
 <a id="unreal.AimMode.ORIENT_TO_TARGET"></a>
 
-#### ORIENT_TO_TARGET
+#### ORIENT\_TO\_TARGET
 
 1: Orient to Target Transform
 

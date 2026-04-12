@@ -45,7 +45,7 @@ Movie Scene Animation Track Recorder Editor Settings
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.animation_track_name"></a>
 
-#### animation_track_name
+#### animation\_track\_name
 
 ```python
 @property
@@ -56,7 +56,7 @@ def animation_track_name() -> Text
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.animation_track_name"></a>
 
-#### animation_track_name
+#### animation\_track\_name
 
 ```python
 @animation_track_name.setter
@@ -65,7 +65,7 @@ def animation_track_name(value: Text) -> None
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.animation_asset_name"></a>
 
-#### animation_asset_name
+#### animation\_asset\_name
 
 ```python
 @property
@@ -86,7 +86,7 @@ Supports any of the following format specifiers that will be substituted when a 
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.animation_asset_name"></a>
 
-#### animation_asset_name
+#### animation\_asset\_name
 
 ```python
 @animation_asset_name.setter
@@ -95,7 +95,7 @@ def animation_asset_name(value: str) -> None
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.animation_sub_directory"></a>
 
-#### animation_sub_directory
+#### animation\_sub\_directory
 
 ```python
 @property
@@ -116,7 +116,7 @@ Supports any of the following format specifiers that will be substituted when a 
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.animation_sub_directory"></a>
 
-#### animation_sub_directory
+#### animation\_sub\_directory
 
 ```python
 @animation_sub_directory.setter
@@ -125,7 +125,7 @@ def animation_sub_directory(value: str) -> None
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.remove_root_animation"></a>
 
-#### remove_root_animation
+#### remove\_root\_animation
 
 ```python
 @property
@@ -136,7 +136,7 @@ def remove_root_animation() -> bool
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.remove_root_animation"></a>
 
-#### remove_root_animation
+#### remove\_root\_animation
 
 ```python
 @remove_root_animation.setter
@@ -145,7 +145,7 @@ def remove_root_animation(value: bool) -> None
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.timecode_bone_method"></a>
 
-#### timecode_bone_method
+#### timecode\_bone\_method
 
 ```python
 @property
@@ -156,7 +156,7 @@ def timecode_bone_method() -> TimecodeBoneMethod
 
 <a id="unreal.MovieSceneAnimationTrackRecorderEditorSettings.timecode_bone_method"></a>
 
-#### timecode_bone_method
+#### timecode\_bone\_method
 
 ```python
 @timecode_bone_method.setter

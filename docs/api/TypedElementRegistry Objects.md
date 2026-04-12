@@ -13,7 +13,7 @@ Registry of element types and their associated interfaces, along with the elemen
 
 <a id="unreal.TypedElementRegistry.get_default_typed_element_registry"></a>
 
-#### get_default_typed_element_registry
+#### get\_default\_typed\_element\_registry
 
 ```python
 @classmethod
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.TypedElementRegistry.get_element_interface"></a>
 
-#### get_element_interface
+#### get\_element\_interface
 
 ```python
 def get_element_interface(element_handle: ScriptTypedElementHandle,
@@ -47,7 +47,7 @@ Returns:
 
 <a id="unreal.TypedElementRegistry.create_element_list"></a>
 
-#### create_element_list
+#### create\_element\_list
 
 ```python
 def create_element_list() -> TypedElementList

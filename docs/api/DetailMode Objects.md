@@ -13,25 +13,25 @@ Detail mode for scene component rendering, corresponds with the integer value of
 
 <a id="unreal.DetailMode.DM_LOW"></a>
 
-#### DM_LOW
+#### DM\_LOW
 
 0
 
 <a id="unreal.DetailMode.DM_MEDIUM"></a>
 
-#### DM_MEDIUM
+#### DM\_MEDIUM
 
 1
 
 <a id="unreal.DetailMode.DM_HIGH"></a>
 
-#### DM_HIGH
+#### DM\_HIGH
 
 2
 
 <a id="unreal.DetailMode.DM_EPIC"></a>
 
-#### DM_EPIC
+#### DM\_EPIC
 
 3
 

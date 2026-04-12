@@ -20,7 +20,7 @@ EGeometry Script Init KMeans Method
 
 <a id="unreal.GeometryScriptInitKMeansMethod.UNIFORM_SPACING"></a>
 
-#### UNIFORM_SPACING
+#### UNIFORM\_SPACING
 
 1
 

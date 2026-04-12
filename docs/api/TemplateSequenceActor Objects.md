@@ -146,7 +146,7 @@ Actor responsible for controlling a specific template sequence in the world.
 
 <a id="unreal.TemplateSequenceActor.playback_settings"></a>
 
-#### playback_settings
+#### playback\_settings
 
 ```python
 @property
@@ -157,7 +157,7 @@ def playback_settings() -> MovieSceneSequencePlaybackSettings
 
 <a id="unreal.TemplateSequenceActor.sequence_player"></a>
 
-#### sequence_player
+#### sequence\_player
 
 ```python
 @property
@@ -168,7 +168,7 @@ def sequence_player() -> TemplateSequencePlayer
 
 <a id="unreal.TemplateSequenceActor.template_sequence"></a>
 
-#### template_sequence
+#### template\_sequence
 
 ```python
 @property
@@ -179,7 +179,7 @@ def template_sequence() -> SoftObjectPath
 
 <a id="unreal.TemplateSequenceActor.binding_override"></a>
 
-#### binding_override
+#### binding\_override
 
 ```python
 @property
@@ -190,7 +190,7 @@ def binding_override() -> TemplateSequenceBindingOverrideData
 
 <a id="unreal.TemplateSequenceActor.set_sequence"></a>
 
-#### set_sequence
+#### set\_sequence
 
 ```python
 def set_sequence(sequence: TemplateSequence) -> None
@@ -204,7 +204,7 @@ Args:
 
 <a id="unreal.TemplateSequenceActor.set_binding"></a>
 
-#### set_binding
+#### set\_binding
 
 ```python
 def set_binding(actor: Actor, overrides_default: bool = True) -> None
@@ -220,7 +220,7 @@ Args:
 
 <a id="unreal.TemplateSequenceActor.load_sequence"></a>
 
-#### load_sequence
+#### load\_sequence
 
 ```python
 def load_sequence() -> TemplateSequence
@@ -234,7 +234,7 @@ Returns:
 
 <a id="unreal.TemplateSequenceActor.get_sequence"></a>
 
-#### get_sequence
+#### get\_sequence
 
 ```python
 def get_sequence() -> TemplateSequence

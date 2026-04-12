@@ -18,7 +18,7 @@ Typed Element Selection Normalization Options
 
 <a id="unreal.TypedElementSelectionNormalizationOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(expand_groups: bool = False,
@@ -27,7 +27,7 @@ def __init__(expand_groups: bool = False,
 
 <a id="unreal.TypedElementSelectionNormalizationOptions.expand_groups"></a>
 
-#### expand_groups
+#### expand\_groups
 
 ```python
 @property
@@ -38,7 +38,7 @@ def expand_groups() -> bool
 
 <a id="unreal.TypedElementSelectionNormalizationOptions.expand_groups"></a>
 
-#### expand_groups
+#### expand\_groups
 
 ```python
 @expand_groups.setter
@@ -47,7 +47,7 @@ def expand_groups(value: bool) -> None
 
 <a id="unreal.TypedElementSelectionNormalizationOptions.follow_attachment"></a>
 
-#### follow_attachment
+#### follow\_attachment
 
 ```python
 @property
@@ -58,7 +58,7 @@ def follow_attachment() -> bool
 
 <a id="unreal.TypedElementSelectionNormalizationOptions.follow_attachment"></a>
 
-#### follow_attachment
+#### follow\_attachment
 
 ```python
 @follow_attachment.setter

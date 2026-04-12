@@ -29,7 +29,7 @@ def settings() -> SourceEffectChorusSettings
 
 <a id="unreal.SourceEffectChorusPreset.set_wet_modulators"></a>
 
-#### set_wet_modulators
+#### set\_wet\_modulators
 
 ```python
 def set_wet_modulators(modulators: Set[SoundModulatorBase]) -> None
@@ -43,7 +43,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_wet_modulator"></a>
 
-#### set_wet_modulator
+#### set\_wet\_modulator
 
 ```python
 def set_wet_modulator(modulator: SoundModulatorBase) -> None
@@ -57,7 +57,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_wet"></a>
 
-#### set_wet
+#### set\_wet
 
 ```python
 def set_wet(wet_amount: float) -> None
@@ -71,7 +71,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_spread_modulators"></a>
 
-#### set_spread_modulators
+#### set\_spread\_modulators
 
 ```python
 def set_spread_modulators(modulators: Set[SoundModulatorBase]) -> None
@@ -85,7 +85,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_spread_modulator"></a>
 
-#### set_spread_modulator
+#### set\_spread\_modulator
 
 ```python
 def set_spread_modulator(modulator: SoundModulatorBase) -> None
@@ -99,7 +99,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_spread"></a>
 
-#### set_spread
+#### set\_spread
 
 ```python
 def set_spread(spread: float) -> None
@@ -113,7 +113,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectChorusBaseSettings) -> None
@@ -127,7 +127,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_modulation_settings"></a>
 
-#### set_modulation_settings
+#### set\_modulation\_settings
 
 ```python
 def set_modulation_settings(
@@ -142,7 +142,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_frequency_modulators"></a>
 
-#### set_frequency_modulators
+#### set\_frequency\_modulators
 
 ```python
 def set_frequency_modulators(modulators: Set[SoundModulatorBase]) -> None
@@ -156,7 +156,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_frequency_modulator"></a>
 
-#### set_frequency_modulator
+#### set\_frequency\_modulator
 
 ```python
 def set_frequency_modulator(modulator: SoundModulatorBase) -> None
@@ -170,7 +170,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_frequency"></a>
 
-#### set_frequency
+#### set\_frequency
 
 ```python
 def set_frequency(frequency: float) -> None
@@ -184,7 +184,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_feedback_modulators"></a>
 
-#### set_feedback_modulators
+#### set\_feedback\_modulators
 
 ```python
 def set_feedback_modulators(modulators: Set[SoundModulatorBase]) -> None
@@ -198,7 +198,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_feedback_modulator"></a>
 
-#### set_feedback_modulator
+#### set\_feedback\_modulator
 
 ```python
 def set_feedback_modulator(modulator: SoundModulatorBase) -> None
@@ -212,7 +212,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_feedback"></a>
 
-#### set_feedback
+#### set\_feedback
 
 ```python
 def set_feedback(feedback: float) -> None
@@ -226,7 +226,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_dry_modulators"></a>
 
-#### set_dry_modulators
+#### set\_dry\_modulators
 
 ```python
 def set_dry_modulators(modulators: Set[SoundModulatorBase]) -> None
@@ -240,7 +240,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_dry_modulator"></a>
 
-#### set_dry_modulator
+#### set\_dry\_modulator
 
 ```python
 def set_dry_modulator(modulator: SoundModulatorBase) -> None
@@ -254,7 +254,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_dry"></a>
 
-#### set_dry
+#### set\_dry
 
 ```python
 def set_dry(dry_amount: float) -> None
@@ -268,7 +268,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_depth_modulators"></a>
 
-#### set_depth_modulators
+#### set\_depth\_modulators
 
 ```python
 def set_depth_modulators(modulators: Set[SoundModulatorBase]) -> None
@@ -282,7 +282,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_depth_modulator"></a>
 
-#### set_depth_modulator
+#### set\_depth\_modulator
 
 ```python
 def set_depth_modulator(modulator: SoundModulatorBase) -> None
@@ -296,7 +296,7 @@ Args:
 
 <a id="unreal.SourceEffectChorusPreset.set_depth"></a>
 
-#### set_depth
+#### set\_depth
 
 ```python
 def set_depth(depth: float) -> None

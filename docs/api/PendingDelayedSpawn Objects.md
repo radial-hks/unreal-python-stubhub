@@ -15,7 +15,7 @@ Struct defining a pending spawn request within a AFunctionalAITestBase.
 
 <a id="unreal.PendingDelayedSpawn.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

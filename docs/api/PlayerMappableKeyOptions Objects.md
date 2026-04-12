@@ -23,7 +23,7 @@ for use in UI.
 
 <a id="unreal.PlayerMappableKeyOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(metadata: Object = None,
@@ -74,7 +74,7 @@ def name(value: Name) -> None
 
 <a id="unreal.PlayerMappableKeyOptions.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property
@@ -85,7 +85,7 @@ def display_name() -> Text
 
 <a id="unreal.PlayerMappableKeyOptions.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @display_name.setter
@@ -94,7 +94,7 @@ def display_name(value: Text) -> None
 
 <a id="unreal.PlayerMappableKeyOptions.display_category"></a>
 
-#### display_category
+#### display\_category
 
 ```python
 @property
@@ -105,7 +105,7 @@ def display_category() -> Text
 
 <a id="unreal.PlayerMappableKeyOptions.display_category"></a>
 
-#### display_category
+#### display\_category
 
 ```python
 @display_category.setter

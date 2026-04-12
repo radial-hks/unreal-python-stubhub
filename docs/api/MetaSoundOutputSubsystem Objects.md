@@ -14,7 +14,7 @@ Provides access to a playing Metasound generator's outputs
 
 <a id="unreal.MetaSoundOutputSubsystem.watch_output"></a>
 
-#### watch_output
+#### watch\_output
 
 ```python
 def watch_output(audio_component: AudioComponent,

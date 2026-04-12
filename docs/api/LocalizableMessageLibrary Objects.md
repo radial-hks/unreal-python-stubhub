@@ -14,7 +14,7 @@ BlueprintFunctionLibrary for LocalizableMessage
 
 <a id="unreal.LocalizableMessageLibrary.reset_localizable_message"></a>
 
-#### reset_localizable_message
+#### reset\_localizable\_message
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.LocalizableMessageLibrary.is_empty_localizable_message"></a>
 
-#### is_empty_localizable_message
+#### is\_empty\_localizable\_message
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.LocalizableMessageLibrary.conv_localizable_message_to_text"></a>
 
-#### conv_localizable_message_to_text
+#### conv\_localizable\_message\_to\_text
 
 ```python
 @classmethod
@@ -71,4 +71,4 @@ Args:
 Returns:
     Text:
 
-<a id="unreal.LandmassActor"></a>
+<a id="unreal.Text3DActor"></a>

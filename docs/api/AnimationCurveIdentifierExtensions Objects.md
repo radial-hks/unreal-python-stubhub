@@ -13,7 +13,7 @@ Script-exposed functionality for wrapping native functionality and constructing 
 
 <a id="unreal.AnimationCurveIdentifierExtensions.set_curve_identifier"></a>
 
-#### set_curve_identifier
+#### set\_curve\_identifier
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifierExtensions.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @classmethod
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifierExtensions.get_type"></a>
 
-#### get_type
+#### get\_type
 
 ```python
 @classmethod
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifierExtensions.get_transform_child_curve_identifier"></a>
 
-#### get_transform_child_curve_identifier
+#### get\_transform\_child\_curve\_identifier
 
 ```python
 @classmethod
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifierExtensions.get_name"></a>
 
-#### get_name
+#### get\_name
 
 ```python
 @classmethod
@@ -128,7 +128,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifierExtensions.get_curve_identifiers"></a>
 
-#### get_curve_identifiers
+#### get\_curve\_identifiers
 
 ```python
 @classmethod
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifierExtensions.get_curve_identifier"></a>
 
-#### get_curve_identifier
+#### get\_curve\_identifier
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifierExtensions.find_curve_identifier"></a>
 
-#### find_curve_identifier
+#### find\_curve\_identifier
 
 ```python
 @classmethod

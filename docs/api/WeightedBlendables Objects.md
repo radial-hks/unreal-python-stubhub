@@ -17,7 +17,7 @@ for easier detail customization, needed?
 
 <a id="unreal.WeightedBlendables.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(array: Array[WeightedBlendable] = []) -> None

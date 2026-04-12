@@ -18,7 +18,7 @@ Time Stretch Curve Marker
 
 <a id="unreal.TimeStretchCurveMarker.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

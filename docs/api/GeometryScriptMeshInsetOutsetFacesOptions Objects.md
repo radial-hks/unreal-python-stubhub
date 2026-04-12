@@ -25,7 +25,7 @@ Geometry Script Mesh Inset Outset Faces Options
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(distance: float = 0.000000,
@@ -84,7 +84,7 @@ def reproject(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.boundary_only"></a>
 
-#### boundary_only
+#### boundary\_only
 
 ```python
 @property
@@ -95,7 +95,7 @@ def boundary_only() -> bool
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.boundary_only"></a>
 
-#### boundary_only
+#### boundary\_only
 
 ```python
 @boundary_only.setter
@@ -124,7 +124,7 @@ def softness(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.area_scale"></a>
 
-#### area_scale
+#### area\_scale
 
 ```python
 @property
@@ -135,7 +135,7 @@ def area_scale() -> float
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.area_scale"></a>
 
-#### area_scale
+#### area\_scale
 
 ```python
 @area_scale.setter
@@ -144,7 +144,7 @@ def area_scale(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.area_mode"></a>
 
-#### area_mode
+#### area\_mode
 
 ```python
 @property
@@ -155,7 +155,7 @@ def area_mode() -> GeometryScriptPolyOperationArea
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.area_mode"></a>
 
-#### area_mode
+#### area\_mode
 
 ```python
 @area_mode.setter
@@ -164,7 +164,7 @@ def area_mode(value: GeometryScriptPolyOperationArea) -> None
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.group_options"></a>
 
-#### group_options
+#### group\_options
 
 ```python
 @property
@@ -175,7 +175,7 @@ def group_options() -> GeometryScriptMeshEditPolygroupOptions
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.group_options"></a>
 
-#### group_options
+#### group\_options
 
 ```python
 @group_options.setter
@@ -184,7 +184,7 @@ def group_options(value: GeometryScriptMeshEditPolygroupOptions) -> None
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @property
@@ -195,7 +195,7 @@ def uv_scale() -> float
 
 <a id="unreal.GeometryScriptMeshInsetOutsetFacesOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @uv_scale.setter

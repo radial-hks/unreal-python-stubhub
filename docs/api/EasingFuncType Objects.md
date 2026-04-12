@@ -31,73 +31,73 @@ An easing type defining how to ease float values.
 
 <a id="unreal.EasingFuncType.QUADRATIC_IN_OUT"></a>
 
-#### QUADRATIC_IN_OUT
+#### QUADRATIC\_IN\_OUT
 
 3: Quadratic version of the value (in and out)
 
 <a id="unreal.EasingFuncType.CUBIC_IN_OUT"></a>
 
-#### CUBIC_IN_OUT
+#### CUBIC\_IN\_OUT
 
 4: Cubic version of the value (in and out)
 
 <a id="unreal.EasingFuncType.HERMITE_CUBIC"></a>
 
-#### HERMITE_CUBIC
+#### HERMITE\_CUBIC
 
 5: Easing using a cubic hermite function
 
 <a id="unreal.EasingFuncType.QUARTIC_IN_OUT"></a>
 
-#### QUARTIC_IN_OUT
+#### QUARTIC\_IN\_OUT
 
 6: Quartic version of the value (in and out)
 
 <a id="unreal.EasingFuncType.QUINTIC_IN_OUT"></a>
 
-#### QUINTIC_IN_OUT
+#### QUINTIC\_IN\_OUT
 
 7: Quintic version of the value (in and out)
 
 <a id="unreal.EasingFuncType.CIRCULAR_IN"></a>
 
-#### CIRCULAR_IN
+#### CIRCULAR\_IN
 
 8: Circular easing (only in)
 
 <a id="unreal.EasingFuncType.CIRCULAR_OUT"></a>
 
-#### CIRCULAR_OUT
+#### CIRCULAR\_OUT
 
 9: Circular easing (only out)
 
 <a id="unreal.EasingFuncType.CIRCULAR_IN_OUT"></a>
 
-#### CIRCULAR_IN_OUT
+#### CIRCULAR\_IN\_OUT
 
 10: Circular easing (in and out)
 
 <a id="unreal.EasingFuncType.EXP_IN"></a>
 
-#### EXP_IN
+#### EXP\_IN
 
 11: Exponential easing (only in)
 
 <a id="unreal.EasingFuncType.EXP_OUT"></a>
 
-#### EXP_OUT
+#### EXP\_OUT
 
 12: Exponential easing (only out)
 
 <a id="unreal.EasingFuncType.EXP_IN_OUT"></a>
 
-#### EXP_IN_OUT
+#### EXP\_IN\_OUT
 
 13: Exponential easing (in and out)
 
 <a id="unreal.EasingFuncType.CUSTOM_CURVE"></a>
 
-#### CUSTOM_CURVE
+#### CUSTOM\_CURVE
 
 14: Custom - based on an optional Curve
 

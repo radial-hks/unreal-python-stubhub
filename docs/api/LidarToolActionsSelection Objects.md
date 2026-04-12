@@ -24,7 +24,7 @@ Lidar Tool Actions Selection
 
 <a id="unreal.LidarToolActionsSelection.noise_tolerance"></a>
 
-#### noise_tolerance
+#### noise\_tolerance
 
 ```python
 @property
@@ -37,7 +37,7 @@ NOTE: setting this too low will cause visual artifacts and geometry holes in noi
 
 <a id="unreal.LidarToolActionsSelection.noise_tolerance"></a>
 
-#### noise_tolerance
+#### noise\_tolerance
 
 ```python
 @noise_tolerance.setter

@@ -20,7 +20,7 @@ Runs logic for mapping input data to transforms (the "Rig")
 
 <a id="unreal.ControlRig.on_control_selected_bp"></a>
 
-#### on_control_selected_bp
+#### on\_control\_selected\_bp
 
 ```python
 @property
@@ -31,7 +31,7 @@ def on_control_selected_bp() -> OnControlSelectedBP
 
 <a id="unreal.ControlRig.on_control_selected_bp"></a>
 
-#### on_control_selected_bp
+#### on\_control\_selected\_bp
 
 ```python
 @on_control_selected_bp.setter
@@ -40,7 +40,7 @@ def on_control_selected_bp(value: OnControlSelectedBP) -> None
 
 <a id="unreal.ControlRig.supports_backwards_solve"></a>
 
-#### supports_backwards_solve
+#### supports\_backwards\_solve
 
 ```python
 def supports_backwards_solve() -> bool
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.ControlRig.select_control"></a>
 
-#### select_control
+#### select\_control
 
 ```python
 def select_control(control_name: Name, select: bool = True) -> None
@@ -69,7 +69,7 @@ Args:
 
 <a id="unreal.ControlRig.request_construction"></a>
 
-#### request_construction
+#### request\_construction
 
 ```python
 def request_construction() -> None
@@ -80,7 +80,7 @@ Requests to perform construction during the next execution
 
 <a id="unreal.ControlRig.is_control_selected"></a>
 
-#### is_control_selected
+#### is\_control\_selected
 
 ```python
 def is_control_selected(control_name: Name) -> bool
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.ControlRig.get_hosting_actor"></a>
 
-#### get_hosting_actor
+#### get\_hosting\_actor
 
 ```python
 def get_hosting_actor() -> Actor
@@ -111,7 +111,7 @@ Returns:
 
 <a id="unreal.ControlRig.get_hierarchy"></a>
 
-#### get_hierarchy
+#### get\_hierarchy
 
 ```python
 def get_hierarchy() -> RigHierarchy
@@ -125,7 +125,7 @@ Returns:
 
 <a id="unreal.ControlRig.find_control_rigs"></a>
 
-#### find_control_rigs
+#### find\_control\_rigs
 
 ```python
 @classmethod
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.ControlRig.current_control_selection"></a>
 
-#### current_control_selection
+#### current\_control\_selection
 
 ```python
 def current_control_selection() -> Array[Name]
@@ -159,7 +159,7 @@ Returns:
 
 <a id="unreal.ControlRig.create_transformable_control_handle"></a>
 
-#### create_transformable_control_handle
+#### create\_transformable\_control\_handle
 
 ```python
 def create_transformable_control_handle(
@@ -178,7 +178,7 @@ Returns:
 
 <a id="unreal.ControlRig.clear_control_selection"></a>
 
-#### clear_control_selection
+#### clear\_control\_selection
 
 ```python
 def clear_control_selection() -> bool
@@ -192,7 +192,7 @@ Returns:
 
 <a id="unreal.ControlRig.add_physics_solver"></a>
 
-#### add_physics_solver
+#### add\_physics\_solver
 
 ```python
 def add_physics_solver(

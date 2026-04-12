@@ -52,7 +52,7 @@ Material Proxy Settings
 
 <a id="unreal.MaterialProxySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(texture_sizing_type: TextureSizingType = TextureSizingType.
@@ -95,7 +95,7 @@ def __init__(texture_sizing_type: TextureSizingType = TextureSizingType.
 
 <a id="unreal.MaterialProxySettings.texture_sizing_type"></a>
 
-#### texture_sizing_type
+#### texture\_sizing\_type
 
 ```python
 @property
@@ -106,7 +106,7 @@ def texture_sizing_type() -> TextureSizingType
 
 <a id="unreal.MaterialProxySettings.texture_sizing_type"></a>
 
-#### texture_sizing_type
+#### texture\_sizing\_type
 
 ```python
 @texture_sizing_type.setter
@@ -115,7 +115,7 @@ def texture_sizing_type(value: TextureSizingType) -> None
 
 <a id="unreal.MaterialProxySettings.target_texel_density_per_meter"></a>
 
-#### target_texel_density_per_meter
+#### target\_texel\_density\_per\_meter
 
 ```python
 @property
@@ -126,7 +126,7 @@ def target_texel_density_per_meter() -> float
 
 <a id="unreal.MaterialProxySettings.target_texel_density_per_meter"></a>
 
-#### target_texel_density_per_meter
+#### target\_texel\_density\_per\_meter
 
 ```python
 @target_texel_density_per_meter.setter
@@ -135,7 +135,7 @@ def target_texel_density_per_meter(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.mesh_max_screen_size_percent"></a>
 
-#### mesh_max_screen_size_percent
+#### mesh\_max\_screen\_size\_percent
 
 ```python
 @property
@@ -146,7 +146,7 @@ def mesh_max_screen_size_percent() -> float
 
 <a id="unreal.MaterialProxySettings.mesh_max_screen_size_percent"></a>
 
-#### mesh_max_screen_size_percent
+#### mesh\_max\_screen\_size\_percent
 
 ```python
 @mesh_max_screen_size_percent.setter
@@ -155,7 +155,7 @@ def mesh_max_screen_size_percent(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.mesh_min_draw_distance"></a>
 
-#### mesh_min_draw_distance
+#### mesh\_min\_draw\_distance
 
 ```python
 @property
@@ -166,7 +166,7 @@ def mesh_min_draw_distance() -> float
 
 <a id="unreal.MaterialProxySettings.mesh_min_draw_distance"></a>
 
-#### mesh_min_draw_distance
+#### mesh\_min\_draw\_distance
 
 ```python
 @mesh_min_draw_distance.setter
@@ -175,7 +175,7 @@ def mesh_min_draw_distance(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.gutter_space"></a>
 
-#### gutter_space
+#### gutter\_space
 
 ```python
 @property
@@ -186,7 +186,7 @@ def gutter_space() -> float
 
 <a id="unreal.MaterialProxySettings.gutter_space"></a>
 
-#### gutter_space
+#### gutter\_space
 
 ```python
 @gutter_space.setter
@@ -195,7 +195,7 @@ def gutter_space(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.metallic_constant"></a>
 
-#### metallic_constant
+#### metallic\_constant
 
 ```python
 @property
@@ -206,7 +206,7 @@ def metallic_constant() -> float
 
 <a id="unreal.MaterialProxySettings.metallic_constant"></a>
 
-#### metallic_constant
+#### metallic\_constant
 
 ```python
 @metallic_constant.setter
@@ -215,7 +215,7 @@ def metallic_constant(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.roughness_constant"></a>
 
-#### roughness_constant
+#### roughness\_constant
 
 ```python
 @property
@@ -226,7 +226,7 @@ def roughness_constant() -> float
 
 <a id="unreal.MaterialProxySettings.roughness_constant"></a>
 
-#### roughness_constant
+#### roughness\_constant
 
 ```python
 @roughness_constant.setter
@@ -235,7 +235,7 @@ def roughness_constant(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.anisotropy_constant"></a>
 
-#### anisotropy_constant
+#### anisotropy\_constant
 
 ```python
 @property
@@ -246,7 +246,7 @@ def anisotropy_constant() -> float
 
 <a id="unreal.MaterialProxySettings.anisotropy_constant"></a>
 
-#### anisotropy_constant
+#### anisotropy\_constant
 
 ```python
 @anisotropy_constant.setter
@@ -255,7 +255,7 @@ def anisotropy_constant(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.specular_constant"></a>
 
-#### specular_constant
+#### specular\_constant
 
 ```python
 @property
@@ -266,7 +266,7 @@ def specular_constant() -> float
 
 <a id="unreal.MaterialProxySettings.specular_constant"></a>
 
-#### specular_constant
+#### specular\_constant
 
 ```python
 @specular_constant.setter
@@ -275,7 +275,7 @@ def specular_constant(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.opacity_constant"></a>
 
-#### opacity_constant
+#### opacity\_constant
 
 ```python
 @property
@@ -286,7 +286,7 @@ def opacity_constant() -> float
 
 <a id="unreal.MaterialProxySettings.opacity_constant"></a>
 
-#### opacity_constant
+#### opacity\_constant
 
 ```python
 @opacity_constant.setter
@@ -295,7 +295,7 @@ def opacity_constant(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.opacity_mask_constant"></a>
 
-#### opacity_mask_constant
+#### opacity\_mask\_constant
 
 ```python
 @property
@@ -306,7 +306,7 @@ def opacity_mask_constant() -> float
 
 <a id="unreal.MaterialProxySettings.opacity_mask_constant"></a>
 
-#### opacity_mask_constant
+#### opacity\_mask\_constant
 
 ```python
 @opacity_mask_constant.setter
@@ -315,7 +315,7 @@ def opacity_mask_constant(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.ambient_occlusion_constant"></a>
 
-#### ambient_occlusion_constant
+#### ambient\_occlusion\_constant
 
 ```python
 @property
@@ -326,7 +326,7 @@ def ambient_occlusion_constant() -> float
 
 <a id="unreal.MaterialProxySettings.ambient_occlusion_constant"></a>
 
-#### ambient_occlusion_constant
+#### ambient\_occlusion\_constant
 
 ```python
 @ambient_occlusion_constant.setter
@@ -335,7 +335,7 @@ def ambient_occlusion_constant(value: float) -> None
 
 <a id="unreal.MaterialProxySettings.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @property
@@ -346,7 +346,7 @@ def blend_mode() -> BlendMode
 
 <a id="unreal.MaterialProxySettings.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @blend_mode.setter
@@ -355,7 +355,7 @@ def blend_mode(value: BlendMode) -> None
 
 <a id="unreal.MaterialProxySettings.allow_two_sided_material"></a>
 
-#### allow_two_sided_material
+#### allow\_two\_sided\_material
 
 ```python
 @property
@@ -366,7 +366,7 @@ def allow_two_sided_material() -> bool
 
 <a id="unreal.MaterialProxySettings.allow_two_sided_material"></a>
 
-#### allow_two_sided_material
+#### allow\_two\_sided\_material
 
 ```python
 @allow_two_sided_material.setter
@@ -375,7 +375,7 @@ def allow_two_sided_material(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.normal_map"></a>
 
-#### normal_map
+#### normal\_map
 
 ```python
 @property
@@ -386,7 +386,7 @@ def normal_map() -> bool
 
 <a id="unreal.MaterialProxySettings.normal_map"></a>
 
-#### normal_map
+#### normal\_map
 
 ```python
 @normal_map.setter
@@ -395,7 +395,7 @@ def normal_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.tangent_map"></a>
 
-#### tangent_map
+#### tangent\_map
 
 ```python
 @property
@@ -406,7 +406,7 @@ def tangent_map() -> bool
 
 <a id="unreal.MaterialProxySettings.tangent_map"></a>
 
-#### tangent_map
+#### tangent\_map
 
 ```python
 @tangent_map.setter
@@ -415,7 +415,7 @@ def tangent_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.metallic_map"></a>
 
-#### metallic_map
+#### metallic\_map
 
 ```python
 @property
@@ -426,7 +426,7 @@ def metallic_map() -> bool
 
 <a id="unreal.MaterialProxySettings.metallic_map"></a>
 
-#### metallic_map
+#### metallic\_map
 
 ```python
 @metallic_map.setter
@@ -435,7 +435,7 @@ def metallic_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.roughness_map"></a>
 
-#### roughness_map
+#### roughness\_map
 
 ```python
 @property
@@ -446,7 +446,7 @@ def roughness_map() -> bool
 
 <a id="unreal.MaterialProxySettings.roughness_map"></a>
 
-#### roughness_map
+#### roughness\_map
 
 ```python
 @roughness_map.setter
@@ -455,7 +455,7 @@ def roughness_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.anisotropy_map"></a>
 
-#### anisotropy_map
+#### anisotropy\_map
 
 ```python
 @property
@@ -466,7 +466,7 @@ def anisotropy_map() -> bool
 
 <a id="unreal.MaterialProxySettings.anisotropy_map"></a>
 
-#### anisotropy_map
+#### anisotropy\_map
 
 ```python
 @anisotropy_map.setter
@@ -475,7 +475,7 @@ def anisotropy_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.specular_map"></a>
 
-#### specular_map
+#### specular\_map
 
 ```python
 @property
@@ -486,7 +486,7 @@ def specular_map() -> bool
 
 <a id="unreal.MaterialProxySettings.specular_map"></a>
 
-#### specular_map
+#### specular\_map
 
 ```python
 @specular_map.setter
@@ -495,7 +495,7 @@ def specular_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.emissive_map"></a>
 
-#### emissive_map
+#### emissive\_map
 
 ```python
 @property
@@ -506,7 +506,7 @@ def emissive_map() -> bool
 
 <a id="unreal.MaterialProxySettings.emissive_map"></a>
 
-#### emissive_map
+#### emissive\_map
 
 ```python
 @emissive_map.setter
@@ -515,7 +515,7 @@ def emissive_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.opacity_map"></a>
 
-#### opacity_map
+#### opacity\_map
 
 ```python
 @property
@@ -526,7 +526,7 @@ def opacity_map() -> bool
 
 <a id="unreal.MaterialProxySettings.opacity_map"></a>
 
-#### opacity_map
+#### opacity\_map
 
 ```python
 @opacity_map.setter
@@ -535,7 +535,7 @@ def opacity_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.opacity_mask_map"></a>
 
-#### opacity_mask_map
+#### opacity\_mask\_map
 
 ```python
 @property
@@ -546,7 +546,7 @@ def opacity_mask_map() -> bool
 
 <a id="unreal.MaterialProxySettings.opacity_mask_map"></a>
 
-#### opacity_mask_map
+#### opacity\_mask\_map
 
 ```python
 @opacity_mask_map.setter
@@ -555,7 +555,7 @@ def opacity_mask_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.ambient_occlusion_map"></a>
 
-#### ambient_occlusion_map
+#### ambient\_occlusion\_map
 
 ```python
 @property
@@ -566,7 +566,7 @@ def ambient_occlusion_map() -> bool
 
 <a id="unreal.MaterialProxySettings.ambient_occlusion_map"></a>
 
-#### ambient_occlusion_map
+#### ambient\_occlusion\_map
 
 ```python
 @ambient_occlusion_map.setter
@@ -575,7 +575,7 @@ def ambient_occlusion_map(value: bool) -> None
 
 <a id="unreal.MaterialProxySettings.diffuse_texture_size"></a>
 
-#### diffuse_texture_size
+#### diffuse\_texture\_size
 
 ```python
 @property
@@ -586,7 +586,7 @@ def diffuse_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.diffuse_texture_size"></a>
 
-#### diffuse_texture_size
+#### diffuse\_texture\_size
 
 ```python
 @diffuse_texture_size.setter
@@ -595,7 +595,7 @@ def diffuse_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.normal_texture_size"></a>
 
-#### normal_texture_size
+#### normal\_texture\_size
 
 ```python
 @property
@@ -606,7 +606,7 @@ def normal_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.normal_texture_size"></a>
 
-#### normal_texture_size
+#### normal\_texture\_size
 
 ```python
 @normal_texture_size.setter
@@ -615,7 +615,7 @@ def normal_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.tangent_texture_size"></a>
 
-#### tangent_texture_size
+#### tangent\_texture\_size
 
 ```python
 @property
@@ -626,7 +626,7 @@ def tangent_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.tangent_texture_size"></a>
 
-#### tangent_texture_size
+#### tangent\_texture\_size
 
 ```python
 @tangent_texture_size.setter
@@ -635,7 +635,7 @@ def tangent_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.metallic_texture_size"></a>
 
-#### metallic_texture_size
+#### metallic\_texture\_size
 
 ```python
 @property
@@ -646,7 +646,7 @@ def metallic_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.metallic_texture_size"></a>
 
-#### metallic_texture_size
+#### metallic\_texture\_size
 
 ```python
 @metallic_texture_size.setter
@@ -655,7 +655,7 @@ def metallic_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.roughness_texture_size"></a>
 
-#### roughness_texture_size
+#### roughness\_texture\_size
 
 ```python
 @property
@@ -666,7 +666,7 @@ def roughness_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.roughness_texture_size"></a>
 
-#### roughness_texture_size
+#### roughness\_texture\_size
 
 ```python
 @roughness_texture_size.setter
@@ -675,7 +675,7 @@ def roughness_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.anisotropy_texture_size"></a>
 
-#### anisotropy_texture_size
+#### anisotropy\_texture\_size
 
 ```python
 @property
@@ -686,7 +686,7 @@ def anisotropy_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.anisotropy_texture_size"></a>
 
-#### anisotropy_texture_size
+#### anisotropy\_texture\_size
 
 ```python
 @anisotropy_texture_size.setter
@@ -695,7 +695,7 @@ def anisotropy_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.specular_texture_size"></a>
 
-#### specular_texture_size
+#### specular\_texture\_size
 
 ```python
 @property
@@ -706,7 +706,7 @@ def specular_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.specular_texture_size"></a>
 
-#### specular_texture_size
+#### specular\_texture\_size
 
 ```python
 @specular_texture_size.setter
@@ -715,7 +715,7 @@ def specular_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.emissive_texture_size"></a>
 
-#### emissive_texture_size
+#### emissive\_texture\_size
 
 ```python
 @property
@@ -726,7 +726,7 @@ def emissive_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.emissive_texture_size"></a>
 
-#### emissive_texture_size
+#### emissive\_texture\_size
 
 ```python
 @emissive_texture_size.setter
@@ -735,7 +735,7 @@ def emissive_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.opacity_texture_size"></a>
 
-#### opacity_texture_size
+#### opacity\_texture\_size
 
 ```python
 @property
@@ -746,7 +746,7 @@ def opacity_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.opacity_texture_size"></a>
 
-#### opacity_texture_size
+#### opacity\_texture\_size
 
 ```python
 @opacity_texture_size.setter
@@ -755,7 +755,7 @@ def opacity_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.opacity_mask_texture_size"></a>
 
-#### opacity_mask_texture_size
+#### opacity\_mask\_texture\_size
 
 ```python
 @property
@@ -766,7 +766,7 @@ def opacity_mask_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.opacity_mask_texture_size"></a>
 
-#### opacity_mask_texture_size
+#### opacity\_mask\_texture\_size
 
 ```python
 @opacity_mask_texture_size.setter
@@ -775,7 +775,7 @@ def opacity_mask_texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialProxySettings.ambient_occlusion_texture_size"></a>
 
-#### ambient_occlusion_texture_size
+#### ambient\_occlusion\_texture\_size
 
 ```python
 @property
@@ -786,7 +786,7 @@ def ambient_occlusion_texture_size() -> IntPoint
 
 <a id="unreal.MaterialProxySettings.ambient_occlusion_texture_size"></a>
 
-#### ambient_occlusion_texture_size
+#### ambient\_occlusion\_texture\_size
 
 ```python
 @ambient_occlusion_texture_size.setter

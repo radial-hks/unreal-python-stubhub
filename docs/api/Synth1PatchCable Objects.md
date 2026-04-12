@@ -19,7 +19,7 @@ Synth 1Patch Cable
 
 <a id="unreal.Synth1PatchCable.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

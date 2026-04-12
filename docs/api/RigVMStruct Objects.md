@@ -14,7 +14,7 @@ The base class for all RigVM enabled structs.
 
 <a id="unreal.RigVMStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

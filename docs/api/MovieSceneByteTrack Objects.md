@@ -22,7 +22,7 @@ Handles manipulation of byte properties in a movie scene
 
 <a id="unreal.MovieSceneByteTrack.set_byte_track_enum"></a>
 
-#### set_byte_track_enum
+#### set\_byte\_track\_enum
 
 ```python
 def set_byte_track_enum(enum: Enum) -> None
@@ -36,7 +36,7 @@ Args:
 
 <a id="unreal.MovieSceneByteTrack.get_byte_track_enum"></a>
 
-#### get_byte_track_enum
+#### get\_byte\_track\_enum
 
 ```python
 def get_byte_track_enum() -> Enum

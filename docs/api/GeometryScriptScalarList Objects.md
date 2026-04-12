@@ -14,7 +14,7 @@ Geometry Script Scalar List
 
 <a id="unreal.GeometryScriptScalarList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptScalarList.set_scalar_list_item"></a>
 
-#### set_scalar_list_item
+#### set\_scalar\_list\_item
 
 ```python
 def set_scalar_list_item(index: int, new_value: float) -> bool
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.get_scalar_list_length"></a>
 
-#### get_scalar_list_length
+#### get\_scalar\_list\_length
 
 ```python
 def get_scalar_list_length() -> int
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.get_scalar_list_last_index"></a>
 
-#### get_scalar_list_last_index
+#### get\_scalar\_list\_last\_index
 
 ```python
 def get_scalar_list_last_index() -> int
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.get_scalar_list_item"></a>
 
-#### get_scalar_list_item
+#### get\_scalar\_list\_item
 
 ```python
 def get_scalar_list_item(index: int) -> Tuple[float, bool]
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.duplicate_scalar_list"></a>
 
-#### duplicate_scalar_list
+#### duplicate\_scalar\_list
 
 ```python
 def duplicate_scalar_list() -> GeometryScriptScalarList
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.convert_scalar_list_to_array"></a>
 
-#### convert_scalar_list_to_array
+#### convert\_scalar\_list\_to\_array
 
 ```python
 def convert_scalar_list_to_array() -> Array[float]
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.clear_scalar_list"></a>
 
-#### clear_scalar_list
+#### clear\_scalar\_list
 
 ```python
 def clear_scalar_list(clear_value: float = 0.000000) -> None
@@ -138,7 +138,7 @@ Args:
 
 <a id="unreal.GeometryScriptScalarList.scalar_vector_multiply_in_place"></a>
 
-#### scalar_vector_multiply_in_place
+#### scalar\_vector\_multiply\_in\_place
 
 ```python
 def scalar_vector_multiply_in_place(
@@ -160,7 +160,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.scalar_vector_multiply"></a>
 
-#### scalar_vector_multiply
+#### scalar\_vector\_multiply
 
 ```python
 def scalar_vector_multiply(
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.scalar_multiply_in_place"></a>
 
-#### scalar_multiply_in_place
+#### scalar\_multiply\_in\_place
 
 ```python
 def scalar_multiply_in_place(
@@ -204,7 +204,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.scalar_multiply"></a>
 
-#### scalar_multiply
+#### scalar\_multiply
 
 ```python
 def scalar_multiply(
@@ -226,7 +226,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.scalar_invert_in_place"></a>
 
-#### scalar_invert_in_place
+#### scalar\_invert\_in\_place
 
 ```python
 def scalar_invert_in_place(numerator: float = 1.000000,
@@ -245,7 +245,7 @@ Args:
 
 <a id="unreal.GeometryScriptScalarList.scalar_invert"></a>
 
-#### scalar_invert
+#### scalar\_invert
 
 ```python
 def scalar_invert(numerator: float = 1.000000,
@@ -267,7 +267,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.scalar_blend_in_place"></a>
 
-#### scalar_blend_in_place
+#### scalar\_blend\_in\_place
 
 ```python
 def scalar_blend_in_place(
@@ -293,7 +293,7 @@ Returns:
 
 <a id="unreal.GeometryScriptScalarList.scalar_blend"></a>
 
-#### scalar_blend
+#### scalar\_blend
 
 ```python
 def scalar_blend(scalar_list_b: GeometryScriptScalarList,

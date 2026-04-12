@@ -13,7 +13,7 @@ UAssetEditorSubsystem
 
 <a id="unreal.AssetEditorSubsystem.open_editor_for_assets"></a>
 
-#### open_editor_for_assets
+#### open\_editor\_for\_assets
 
 ```python
 def open_editor_for_assets(
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.AssetEditorSubsystem.close_all_editors_for_asset"></a>
 
-#### close_all_editors_for_asset
+#### close\_all\_editors\_for\_asset
 
 ```python
 def close_all_editors_for_asset(asset: Object) -> int

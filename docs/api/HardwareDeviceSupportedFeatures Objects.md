@@ -49,7 +49,7 @@ A bitmask of supported features that a hardware device has.
 
 <a id="unreal.HardwareDeviceSupportedFeatures.MOTION_TRACKING"></a>
 
-#### MOTION_TRACKING
+#### MOTION\_TRACKING
 
 32: Can this device track motion in a 3D space? (VR controllers, headset, etc)
 
@@ -61,19 +61,19 @@ A bitmask of supported features that a hardware device has.
 
 <a id="unreal.HardwareDeviceSupportedFeatures.TRIGGER_HAPTICS"></a>
 
-#### TRIGGER_HAPTICS
+#### TRIGGER\_HAPTICS
 
 128: Does this device have trigger haptics available?
 
 <a id="unreal.HardwareDeviceSupportedFeatures.FORCE_FEEDBACK"></a>
 
-#### FORCE_FEEDBACK
+#### FORCE\_FEEDBACK
 
 256: Flagged true if this device supports force feedback
 
 <a id="unreal.HardwareDeviceSupportedFeatures.AUDIO_BASED_VIBRATIONS"></a>
 
-#### AUDIO_BASED_VIBRATIONS
+#### AUDIO\_BASED\_VIBRATIONS
 
 512: Does this device support vibrations sourced from an audio file?
 
@@ -115,25 +115,25 @@ A bitmask of supported features that a hardware device has.
 
 <a id="unreal.HardwareDeviceSupportedFeatures.CUSTOM_A"></a>
 
-#### CUSTOM_A
+#### CUSTOM\_A
 
 16777216: Some custom flags that can be used in your game if you have custom hardware!
 
 <a id="unreal.HardwareDeviceSupportedFeatures.CUSTOM_B"></a>
 
-#### CUSTOM_B
+#### CUSTOM\_B
 
 33554432
 
 <a id="unreal.HardwareDeviceSupportedFeatures.CUSTOM_C"></a>
 
-#### CUSTOM_C
+#### CUSTOM\_C
 
 67108864
 
 <a id="unreal.HardwareDeviceSupportedFeatures.CUSTOM_D"></a>
 
-#### CUSTOM_D
+#### CUSTOM\_D
 
 134217728
 

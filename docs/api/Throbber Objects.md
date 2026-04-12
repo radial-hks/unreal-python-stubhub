@@ -54,7 +54,7 @@ A Throbber widget that shows several zooming circles in a row.
 
 <a id="unreal.Throbber.number_of_pieces"></a>
 
-#### number_of_pieces
+#### number\_of\_pieces
 
 ```python
 @property
@@ -65,7 +65,7 @@ def number_of_pieces() -> int
 
 <a id="unreal.Throbber.number_of_pieces"></a>
 
-#### number_of_pieces
+#### number\_of\_pieces
 
 ```python
 @number_of_pieces.setter
@@ -74,7 +74,7 @@ def number_of_pieces(value: int) -> None
 
 <a id="unreal.Throbber.animate_horizontally"></a>
 
-#### animate_horizontally
+#### animate\_horizontally
 
 ```python
 @property
@@ -85,7 +85,7 @@ def animate_horizontally() -> bool
 
 <a id="unreal.Throbber.animate_horizontally"></a>
 
-#### animate_horizontally
+#### animate\_horizontally
 
 ```python
 @animate_horizontally.setter
@@ -94,7 +94,7 @@ def animate_horizontally(value: bool) -> None
 
 <a id="unreal.Throbber.animate_vertically"></a>
 
-#### animate_vertically
+#### animate\_vertically
 
 ```python
 @property
@@ -105,7 +105,7 @@ def animate_vertically() -> bool
 
 <a id="unreal.Throbber.animate_vertically"></a>
 
-#### animate_vertically
+#### animate\_vertically
 
 ```python
 @animate_vertically.setter
@@ -114,7 +114,7 @@ def animate_vertically(value: bool) -> None
 
 <a id="unreal.Throbber.animate_opacity"></a>
 
-#### animate_opacity
+#### animate\_opacity
 
 ```python
 @property
@@ -125,7 +125,7 @@ def animate_opacity() -> bool
 
 <a id="unreal.Throbber.animate_opacity"></a>
 
-#### animate_opacity
+#### animate\_opacity
 
 ```python
 @animate_opacity.setter
@@ -154,7 +154,7 @@ def image(value: SlateBrush) -> None
 
 <a id="unreal.Throbber.set_number_of_pieces"></a>
 
-#### set_number_of_pieces
+#### set\_number\_of\_pieces
 
 ```python
 def set_number_of_pieces(number_of_pieces: int) -> None
@@ -168,7 +168,7 @@ Args:
 
 <a id="unreal.Throbber.set_animate_vertically"></a>
 
-#### set_animate_vertically
+#### set\_animate\_vertically
 
 ```python
 def set_animate_vertically(animate_vertically: bool) -> None
@@ -182,7 +182,7 @@ Args:
 
 <a id="unreal.Throbber.set_animate_opacity"></a>
 
-#### set_animate_opacity
+#### set\_animate\_opacity
 
 ```python
 def set_animate_opacity(animate_opacity: bool) -> None
@@ -196,7 +196,7 @@ Args:
 
 <a id="unreal.Throbber.set_animate_horizontally"></a>
 
-#### set_animate_horizontally
+#### set\_animate\_horizontally
 
 ```python
 def set_animate_horizontally(animate_horizontally: bool) -> None

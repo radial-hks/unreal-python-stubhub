@@ -20,13 +20,13 @@ ENiagara Mip Map Generation
 
 <a id="unreal.NiagaraMipMapGeneration.POST_STAGE"></a>
 
-#### POST_STAGE
+#### POST\_STAGE
 
 1: Mips will be generated after each stage where the interfaces is written to.
 
 <a id="unreal.NiagaraMipMapGeneration.POST_SIMULATE"></a>
 
-#### POST_SIMULATE
+#### POST\_SIMULATE
 
 2: Mips will be generated after all stages have been run if the interface was written to.
 

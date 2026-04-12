@@ -14,7 +14,7 @@ Niagara Type Definition Handle
 
 <a id="unreal.NiagaraTypeDefinitionHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

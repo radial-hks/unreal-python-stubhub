@@ -24,7 +24,7 @@ Datasmith Retessellation Options
 
 <a id="unreal.DatasmithRetessellationOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -43,7 +43,7 @@ def __init__(
 
 <a id="unreal.DatasmithRetessellationOptions.retessellation_rule"></a>
 
-#### retessellation_rule
+#### retessellation\_rule
 
 ```python
 @property
@@ -54,7 +54,7 @@ def retessellation_rule() -> DatasmithCADRetessellationRule
 
 <a id="unreal.DatasmithRetessellationOptions.retessellation_rule"></a>
 
-#### retessellation_rule
+#### retessellation\_rule
 
 ```python
 @retessellation_rule.setter

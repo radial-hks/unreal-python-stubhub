@@ -24,7 +24,7 @@ UModelingObjectsCreationAPI::CreateNewActor().
 
 <a id="unreal.CreateActorParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -32,7 +32,7 @@ def __init__() -> None
 
 <a id="unreal.CreateActorParams.template_actor"></a>
 
-#### template_actor
+#### template\_actor
 
 ```python
 @property
@@ -44,7 +44,7 @@ deprecated: TemplateActor is being deprecated. Please use TemplateAsset instead.
 
 <a id="unreal.CreateActorParams.template_actor"></a>
 
-#### template_actor
+#### template\_actor
 
 ```python
 @template_actor.setter

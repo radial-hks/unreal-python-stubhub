@@ -13,7 +13,7 @@ ENavigation Invoker Priority
 
 <a id="unreal.NavigationInvokerPriority.VERY_LOW"></a>
 
-#### VERY_LOW
+#### VERY\_LOW
 
 1: Enum values are used (keep in ascending order)
 
@@ -37,7 +37,7 @@ ENavigation Invoker Priority
 
 <a id="unreal.NavigationInvokerPriority.VERY_HIGH"></a>
 
-#### VERY_HIGH
+#### VERY\_HIGH
 
 5
 

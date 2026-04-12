@@ -13,55 +13,55 @@ Enumeration specifying the transfrom channel
 
 <a id="unreal.FTransformChannelEnum.TRANSLATE_X"></a>
 
-#### TRANSLATE_X
+#### TRANSLATE\_X
 
 0
 
 <a id="unreal.FTransformChannelEnum.TRANSLATE_Y"></a>
 
-#### TRANSLATE_Y
+#### TRANSLATE\_Y
 
 1
 
 <a id="unreal.FTransformChannelEnum.TRANSLATE_Z"></a>
 
-#### TRANSLATE_Z
+#### TRANSLATE\_Z
 
 2
 
 <a id="unreal.FTransformChannelEnum.ROTATE_X"></a>
 
-#### ROTATE_X
+#### ROTATE\_X
 
 3
 
 <a id="unreal.FTransformChannelEnum.ROTATE_Y"></a>
 
-#### ROTATE_Y
+#### ROTATE\_Y
 
 4
 
 <a id="unreal.FTransformChannelEnum.ROTATE_Z"></a>
 
-#### ROTATE_Z
+#### ROTATE\_Z
 
 5
 
 <a id="unreal.FTransformChannelEnum.SCALE_X"></a>
 
-#### SCALE_X
+#### SCALE\_X
 
 6
 
 <a id="unreal.FTransformChannelEnum.SCALE_Y"></a>
 
-#### SCALE_Y
+#### SCALE\_Y
 
 7
 
 <a id="unreal.FTransformChannelEnum.SCALE_Z"></a>
 
-#### SCALE_Z
+#### SCALE\_Z
 
 8
 

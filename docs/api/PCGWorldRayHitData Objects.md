@@ -23,7 +23,7 @@ Executes collision queries against world collision.
 
 <a id="unreal.PCGWorldRayHitData.query_params"></a>
 
-#### query_params
+#### query\_params
 
 ```python
 @property
@@ -34,7 +34,7 @@ def query_params() -> PCGWorldRayHitQueryParams
 
 <a id="unreal.PCGWorldRayHitData.query_params"></a>
 
-#### query_params
+#### query\_params
 
 ```python
 @query_params.setter

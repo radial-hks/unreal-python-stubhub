@@ -14,13 +14,13 @@ Errors/Debugging
 
 <a id="unreal.GeometryScriptDebugMessageType.ERROR_MESSAGE"></a>
 
-#### ERROR_MESSAGE
+#### ERROR\_MESSAGE
 
 0
 
 <a id="unreal.GeometryScriptDebugMessageType.WARNING_MESSAGE"></a>
 
-#### WARNING_MESSAGE
+#### WARNING\_MESSAGE
 
 1
 

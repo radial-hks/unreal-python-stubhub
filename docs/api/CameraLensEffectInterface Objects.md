@@ -13,7 +13,7 @@ Camera Lens Effect Interface
 
 <a id="unreal.CameraLensEffectInterface.get_primary_particle_component"></a>
 
-#### get_primary_particle_component
+#### get\_primary\_particle\_component
 
 ```python
 def get_primary_particle_component() -> FXSystemComponent
@@ -27,7 +27,7 @@ Returns:
 
 <a id="unreal.CameraLensEffectInterface.get_particle_components"></a>
 
-#### get_particle_components
+#### get\_particle\_components
 
 ```python
 def get_particle_components() -> Array[FXSystemComponent]

@@ -31,13 +31,13 @@ Permitted spline point types for SplineComponent.
 
 <a id="unreal.SplinePointType.CURVE_CLAMPED"></a>
 
-#### CURVE_CLAMPED
+#### CURVE\_CLAMPED
 
 3
 
 <a id="unreal.SplinePointType.CURVE_CUSTOM_TANGENT"></a>
 
-#### CURVE_CUSTOM_TANGENT
+#### CURVE\_CUSTOM\_TANGENT
 
 4
 

@@ -19,7 +19,7 @@ Ticking method for AnimNotifies in AnimMontages.
 
 <a id="unreal.MontageNotifyTickType.BRANCHING_POINT"></a>
 
-#### BRANCHING_POINT
+#### BRANCHING\_POINT
 
 1: Trigger notifies as they are encountered (Slower). Suitable for changing sections or montage position.
 

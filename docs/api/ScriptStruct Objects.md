@@ -13,7 +13,7 @@ Script Struct
 
 <a id="unreal.ScriptStruct.get_struct_path_name"></a>
 
-#### get_struct_path_name
+#### get\_struct\_path\_name
 
 ```python
 def get_struct_path_name() -> TopLevelAssetPath

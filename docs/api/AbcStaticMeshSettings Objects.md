@@ -20,7 +20,7 @@ Abc Static Mesh Settings
 
 <a id="unreal.AbcStaticMeshSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(merge_meshes: bool = False,
@@ -30,7 +30,7 @@ def __init__(merge_meshes: bool = False,
 
 <a id="unreal.AbcStaticMeshSettings.merge_meshes"></a>
 
-#### merge_meshes
+#### merge\_meshes
 
 ```python
 @property
@@ -41,7 +41,7 @@ def merge_meshes() -> bool
 
 <a id="unreal.AbcStaticMeshSettings.merge_meshes"></a>
 
-#### merge_meshes
+#### merge\_meshes
 
 ```python
 @merge_meshes.setter
@@ -50,7 +50,7 @@ def merge_meshes(value: bool) -> None
 
 <a id="unreal.AbcStaticMeshSettings.propagate_matrix_transformations"></a>
 
-#### propagate_matrix_transformations
+#### propagate\_matrix\_transformations
 
 ```python
 @property
@@ -61,7 +61,7 @@ def propagate_matrix_transformations() -> bool
 
 <a id="unreal.AbcStaticMeshSettings.propagate_matrix_transformations"></a>
 
-#### propagate_matrix_transformations
+#### propagate\_matrix\_transformations
 
 ```python
 @propagate_matrix_transformations.setter
@@ -70,7 +70,7 @@ def propagate_matrix_transformations(value: bool) -> None
 
 <a id="unreal.AbcStaticMeshSettings.generate_lightmap_u_vs"></a>
 
-#### generate_lightmap_u_vs
+#### generate\_lightmap\_u\_vs
 
 ```python
 @property
@@ -81,7 +81,7 @@ def generate_lightmap_u_vs() -> bool
 
 <a id="unreal.AbcStaticMeshSettings.generate_lightmap_u_vs"></a>
 
-#### generate_lightmap_u_vs
+#### generate\_lightmap\_u\_vs
 
 ```python
 @generate_lightmap_u_vs.setter

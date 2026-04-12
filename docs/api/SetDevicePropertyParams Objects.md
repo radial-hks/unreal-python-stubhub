@@ -8,7 +8,7 @@ deprecated: 'SetDevicePropertyParams' was renamed to 'ActivateDevicePropertyPara
 
 <a id="unreal.SetDevicePropertyParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(user_id: PlatformUserId = [],

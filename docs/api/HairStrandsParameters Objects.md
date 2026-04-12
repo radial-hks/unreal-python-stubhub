@@ -23,7 +23,7 @@ Hair Strands Parameters
 
 <a id="unreal.HairStrandsParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

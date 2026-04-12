@@ -14,7 +14,7 @@ Function library containing methods that relate to time-warp within Sequencer
 
 <a id="unreal.MovieSceneTimeWarpExtensions.to_fixed_play_rate"></a>
 
-#### to_fixed_play_rate
+#### to\_fixed\_play\_rate
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.MovieSceneTimeWarpExtensions.set_fixed_play_rate"></a>
 
-#### set_fixed_play_rate
+#### set\_fixed\_play\_rate
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.MovieSceneTimeWarpExtensions.make_time_warp"></a>
 
-#### make_time_warp
+#### make\_time\_warp
 
 ```python
 @classmethod
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.MovieSceneTimeWarpExtensions.conv_time_warp_variant_to_play_rate"></a>
 
-#### conv_time_warp_variant_to_play_rate
+#### conv\_time\_warp\_variant\_to\_play\_rate
 
 ```python
 @classmethod
@@ -91,7 +91,7 @@ Returns:
 
 <a id="unreal.MovieSceneTimeWarpExtensions.conv_play_rate_to_time_warp_variant"></a>
 
-#### conv_play_rate_to_time_warp_variant
+#### conv\_play\_rate\_to\_time\_warp\_variant
 
 ```python
 @classmethod
@@ -110,7 +110,7 @@ Returns:
 
 <a id="unreal.MovieSceneTimeWarpExtensions.break_time_warp"></a>
 
-#### break_time_warp
+#### break\_time\_warp
 
 ```python
 @classmethod

@@ -17,7 +17,7 @@ Json Stringify Options
 
 <a id="unreal.JsonStringifyOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(flags: JsonStringifyFlags = JsonStringifyFlags.DEFAULT) -> None

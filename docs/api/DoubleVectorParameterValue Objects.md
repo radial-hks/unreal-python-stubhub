@@ -18,7 +18,7 @@ Editable vector parameter.
 
 <a id="unreal.DoubleVectorParameterValue.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -30,7 +30,7 @@ def __init__(
 
 <a id="unreal.DoubleVectorParameterValue.parameter_info"></a>
 
-#### parameter_info
+#### parameter\_info
 
 ```python
 @property
@@ -41,7 +41,7 @@ def parameter_info() -> MaterialParameterInfo
 
 <a id="unreal.DoubleVectorParameterValue.parameter_info"></a>
 
-#### parameter_info
+#### parameter\_info
 
 ```python
 @parameter_info.setter

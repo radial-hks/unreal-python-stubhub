@@ -37,7 +37,7 @@ def data(value: ToolMenuEntryScriptData) -> None
 
 <a id="unreal.ToolMenuEntryScript.register_menu_entry"></a>
 
-#### register_menu_entry
+#### register\_menu\_entry
 
 ```python
 def register_menu_entry() -> None
@@ -48,7 +48,7 @@ Register Menu Entry
 
 <a id="unreal.ToolMenuEntryScript.is_visible"></a>
 
-#### is_visible
+#### is\_visible
 
 ```python
 def is_visible(context: ToolMenuContext) -> bool
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryScript.init_entry"></a>
 
-#### init_entry
+#### init\_entry
 
 ```python
 def init_entry(owner_name: Name,
@@ -89,7 +89,7 @@ Args:
 
 <a id="unreal.ToolMenuEntryScript.get_tool_tip"></a>
 
-#### get_tool_tip
+#### get\_tool\_tip
 
 ```python
 def get_tool_tip(context: ToolMenuContext) -> Text
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryScript.get_label"></a>
 
-#### get_label
+#### get\_label
 
 ```python
 def get_label(context: ToolMenuContext) -> Text
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryScript.get_icon"></a>
 
-#### get_icon
+#### get\_icon
 
 ```python
 def get_icon(context: ToolMenuContext) -> ScriptSlateIcon
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.ToolMenuEntryScript.get_check_state"></a>
 
-#### get_check_state
+#### get\_check\_state
 
 ```python
 def get_check_state(context: ToolMenuContext) -> CheckBoxState
@@ -171,7 +171,7 @@ Args:
 
 <a id="unreal.ToolMenuEntryScript.construct_menu_entry"></a>
 
-#### construct_menu_entry
+#### construct\_menu\_entry
 
 ```python
 def construct_menu_entry(menu: ToolMenu, section_name: Name,
@@ -188,7 +188,7 @@ Args:
 
 <a id="unreal.ToolMenuEntryScript.can_execute"></a>
 
-#### can_execute
+#### can\_execute
 
 ```python
 def can_execute(context: ToolMenuContext) -> bool

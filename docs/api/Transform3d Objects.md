@@ -20,7 +20,7 @@ note: This is implemented in either TransformVectorized.h or TransformNonVectori
 
 <a id="unreal.Transform3d.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

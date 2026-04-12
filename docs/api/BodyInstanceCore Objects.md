@@ -26,7 +26,7 @@ Body Instance Core
 
 <a id="unreal.BodyInstanceCore.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(simulate_physics: bool = False,
@@ -40,7 +40,7 @@ def __init__(simulate_physics: bool = False,
 
 <a id="unreal.BodyInstanceCore.simulate_physics"></a>
 
-#### simulate_physics
+#### simulate\_physics
 
 ```python
 @property
@@ -53,7 +53,7 @@ For a Static Mesh Component, simulating requires simple collision to be setup on
 
 <a id="unreal.BodyInstanceCore.simulate_physics"></a>
 
-#### simulate_physics
+#### simulate\_physics
 
 ```python
 @simulate_physics.setter
@@ -62,7 +62,7 @@ def simulate_physics(value: bool) -> None
 
 <a id="unreal.BodyInstanceCore.enable_gravity"></a>
 
-#### enable_gravity
+#### enable\_gravity
 
 ```python
 @property
@@ -73,7 +73,7 @@ def enable_gravity() -> bool
 
 <a id="unreal.BodyInstanceCore.update_kinematic_from_simulation"></a>
 
-#### update_kinematic_from_simulation
+#### update\_kinematic\_from\_simulation
 
 ```python
 @property
@@ -84,7 +84,7 @@ def update_kinematic_from_simulation() -> bool
 
 <a id="unreal.BodyInstanceCore.auto_weld"></a>
 
-#### auto_weld
+#### auto\_weld
 
 ```python
 @property
@@ -95,7 +95,7 @@ def auto_weld() -> bool
 
 <a id="unreal.BodyInstanceCore.auto_weld"></a>
 
-#### auto_weld
+#### auto\_weld
 
 ```python
 @auto_weld.setter
@@ -104,7 +104,7 @@ def auto_weld(value: bool) -> None
 
 <a id="unreal.BodyInstanceCore.start_awake"></a>
 
-#### start_awake
+#### start\_awake
 
 ```python
 @property
@@ -115,7 +115,7 @@ def start_awake() -> bool
 
 <a id="unreal.BodyInstanceCore.generate_wake_events"></a>
 
-#### generate_wake_events
+#### generate\_wake\_events
 
 ```python
 @property
@@ -126,7 +126,7 @@ def generate_wake_events() -> bool
 
 <a id="unreal.BodyInstanceCore.update_mass_when_scale_changes"></a>
 
-#### update_mass_when_scale_changes
+#### update\_mass\_when\_scale\_changes
 
 ```python
 @property
@@ -137,7 +137,7 @@ def update_mass_when_scale_changes() -> bool
 
 <a id="unreal.BodyInstanceCore.update_mass_when_scale_changes"></a>
 
-#### update_mass_when_scale_changes
+#### update\_mass\_when\_scale\_changes
 
 ```python
 @update_mass_when_scale_changes.setter

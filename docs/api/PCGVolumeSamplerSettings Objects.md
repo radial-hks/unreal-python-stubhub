@@ -41,7 +41,7 @@ PCGVolume Sampler Settings
 
 <a id="unreal.PCGVolumeSamplerSettings.voxel_size"></a>
 
-#### voxel_size
+#### voxel\_size
 
 ```python
 @property
@@ -52,7 +52,7 @@ def voxel_size() -> Vector
 
 <a id="unreal.PCGVolumeSamplerSettings.voxel_size"></a>
 
-#### voxel_size
+#### voxel\_size
 
 ```python
 @voxel_size.setter
@@ -83,7 +83,7 @@ def unbounded(value: bool) -> None
 
 <a id="unreal.PCGVolumeSamplerSettings.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @property
@@ -97,7 +97,7 @@ represent a binary box function with the size of the point's bounds.
 
 <a id="unreal.PCGVolumeSamplerSettings.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @point_steepness.setter

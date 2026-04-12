@@ -18,7 +18,7 @@ Struct containing info needed to update a particular buffer
 
 <a id="unreal.SlatePostBufferUpdateInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

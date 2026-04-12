@@ -20,7 +20,7 @@ Geometry Script Determine Mesh Occlusion Options
 
 <a id="unreal.GeometryScriptDetermineMeshOcclusionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sampling_density: float = 0.000000,
@@ -30,7 +30,7 @@ def __init__(sampling_density: float = 0.000000,
 
 <a id="unreal.GeometryScriptDetermineMeshOcclusionOptions.sampling_density"></a>
 
-#### sampling_density
+#### sampling\_density
 
 ```python
 @property
@@ -41,7 +41,7 @@ def sampling_density() -> float
 
 <a id="unreal.GeometryScriptDetermineMeshOcclusionOptions.sampling_density"></a>
 
-#### sampling_density
+#### sampling\_density
 
 ```python
 @sampling_density.setter
@@ -50,7 +50,7 @@ def sampling_density(value: float) -> None
 
 <a id="unreal.GeometryScriptDetermineMeshOcclusionOptions.double_sided"></a>
 
-#### double_sided
+#### double\_sided
 
 ```python
 @property
@@ -61,7 +61,7 @@ def double_sided() -> bool
 
 <a id="unreal.GeometryScriptDetermineMeshOcclusionOptions.double_sided"></a>
 
-#### double_sided
+#### double\_sided
 
 ```python
 @double_sided.setter
@@ -70,7 +70,7 @@ def double_sided(value: bool) -> None
 
 <a id="unreal.GeometryScriptDetermineMeshOcclusionOptions.num_search_directions"></a>
 
-#### num_search_directions
+#### num\_search\_directions
 
 ```python
 @property
@@ -81,7 +81,7 @@ def num_search_directions() -> int
 
 <a id="unreal.GeometryScriptDetermineMeshOcclusionOptions.num_search_directions"></a>
 
-#### num_search_directions
+#### num\_search\_directions
 
 ```python
 @num_search_directions.setter

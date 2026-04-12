@@ -94,7 +94,7 @@ def priority(value: float) -> None
 
 <a id="unreal.PostProcessComponent.blend_radius"></a>
 
-#### blend_radius
+#### blend\_radius
 
 ```python
 @property
@@ -105,7 +105,7 @@ def blend_radius() -> float
 
 <a id="unreal.PostProcessComponent.blend_radius"></a>
 
-#### blend_radius
+#### blend\_radius
 
 ```python
 @blend_radius.setter
@@ -114,7 +114,7 @@ def blend_radius(value: float) -> None
 
 <a id="unreal.PostProcessComponent.blend_weight"></a>
 
-#### blend_weight
+#### blend\_weight
 
 ```python
 @property
@@ -125,7 +125,7 @@ def blend_weight() -> float
 
 <a id="unreal.PostProcessComponent.blend_weight"></a>
 
-#### blend_weight
+#### blend\_weight
 
 ```python
 @blend_weight.setter
@@ -174,7 +174,7 @@ def unbound(value: bool) -> None
 
 <a id="unreal.PostProcessComponent.add_or_update_blendable"></a>
 
-#### add_or_update_blendable
+#### add\_or\_update\_blendable
 
 ```python
 def add_or_update_blendable(blendable_object: BlendableInterface,

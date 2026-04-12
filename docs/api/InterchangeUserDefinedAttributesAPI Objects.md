@@ -15,7 +15,7 @@ The value type must be supported by the UE::Interchange::EAttributeTypes enumera
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.remove_user_defined_attribute"></a>
 
-#### remove_user_defined_attribute
+#### remove\_user\_defined\_attribute
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.get_user_defined_attribute_infos"></a>
 
-#### get_user_defined_attribute_infos
+#### get\_user\_defined\_attribute\_infos
 
 ```python
 @classmethod
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.get_user_defined_attribute_int32"></a>
 
-#### get_user_defined_attribute_int32
+#### get\_user\_defined\_attribute\_int32
 
 ```python
 @classmethod
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.get_user_defined_attribute_f_string"></a>
 
-#### get_user_defined_attribute_f_string
+#### get\_user\_defined\_attribute\_f\_string
 
 ```python
 @classmethod
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.get_user_defined_attribute_float"></a>
 
-#### get_user_defined_attribute_float
+#### get\_user\_defined\_attribute\_float
 
 ```python
 @classmethod
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.get_user_defined_attribute_double"></a>
 
-#### get_user_defined_attribute_double
+#### get\_user\_defined\_attribute\_double
 
 ```python
 @classmethod
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.get_user_defined_attribute_boolean"></a>
 
-#### get_user_defined_attribute_boolean
+#### get\_user\_defined\_attribute\_boolean
 
 ```python
 @classmethod
@@ -182,7 +182,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.duplicate_all_user_defined_attribute"></a>
 
-#### duplicate_all_user_defined_attribute
+#### duplicate\_all\_user\_defined\_attribute
 
 ```python
 @classmethod
@@ -202,7 +202,7 @@ Args:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.create_user_defined_attribute_int32"></a>
 
-#### create_user_defined_attribute_int32
+#### create\_user\_defined\_attribute\_int32
 
 ```python
 @classmethod
@@ -230,7 +230,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.create_user_defined_attribute_f_string"></a>
 
-#### create_user_defined_attribute_f_string
+#### create\_user\_defined\_attribute\_f\_string
 
 ```python
 @classmethod
@@ -258,7 +258,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.create_user_defined_attribute_float"></a>
 
-#### create_user_defined_attribute_float
+#### create\_user\_defined\_attribute\_float
 
 ```python
 @classmethod
@@ -286,7 +286,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.create_user_defined_attribute_double"></a>
 
-#### create_user_defined_attribute_double
+#### create\_user\_defined\_attribute\_double
 
 ```python
 @classmethod
@@ -314,7 +314,7 @@ Returns:
 
 <a id="unreal.InterchangeUserDefinedAttributesAPI.create_user_defined_attribute_boolean"></a>
 
-#### create_user_defined_attribute_boolean
+#### create\_user\_defined\_attribute\_boolean
 
 ```python
 @classmethod

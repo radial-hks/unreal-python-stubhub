@@ -19,7 +19,7 @@ PCGData Collection
 
 <a id="unreal.PCGDataCollection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tagged_data: Array[PCGTaggedData] = [],
@@ -28,7 +28,7 @@ def __init__(tagged_data: Array[PCGTaggedData] = [],
 
 <a id="unreal.PCGDataCollection.tagged_data"></a>
 
-#### tagged_data
+#### tagged\_data
 
 ```python
 @property
@@ -39,7 +39,7 @@ def tagged_data() -> Array[PCGTaggedData]
 
 <a id="unreal.PCGDataCollection.tagged_data"></a>
 
-#### tagged_data
+#### tagged\_data
 
 ```python
 @tagged_data.setter
@@ -48,7 +48,7 @@ def tagged_data(value: Array[PCGTaggedData]) -> None
 
 <a id="unreal.PCGDataCollection.cancel_execution_on_empty"></a>
 
-#### cancel_execution_on_empty
+#### cancel\_execution\_on\_empty
 
 ```python
 @property
@@ -59,7 +59,7 @@ def cancel_execution_on_empty() -> bool
 
 <a id="unreal.PCGDataCollection.cancel_execution_on_empty"></a>
 
-#### cancel_execution_on_empty
+#### cancel\_execution\_on\_empty
 
 ```python
 @cancel_execution_on_empty.setter
@@ -68,7 +68,7 @@ def cancel_execution_on_empty(value: bool) -> None
 
 <a id="unreal.PCGDataCollection.get_typed_inputs_by_tag"></a>
 
-#### get_typed_inputs_by_tag
+#### get\_typed\_inputs\_by\_tag
 
 ```python
 def get_typed_inputs_by_tag(
@@ -91,7 +91,7 @@ Returns:
 
 <a id="unreal.PCGDataCollection.get_typed_inputs_by_pin_label"></a>
 
-#### get_typed_inputs_by_pin_label
+#### get\_typed\_inputs\_by\_pin\_label
 
 ```python
 def get_typed_inputs_by_pin_label(
@@ -114,7 +114,7 @@ Returns:
 
 <a id="unreal.PCGDataCollection.get_typed_inputs_by_pin"></a>
 
-#### get_typed_inputs_by_pin
+#### get\_typed\_inputs\_by\_pin
 
 ```python
 def get_typed_inputs_by_pin(
@@ -137,7 +137,7 @@ Returns:
 
 <a id="unreal.PCGDataCollection.get_typed_inputs"></a>
 
-#### get_typed_inputs
+#### get\_typed\_inputs
 
 ```python
 def get_typed_inputs(
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.PCGDataCollection.add_to_collection"></a>
 
-#### add_to_collection
+#### add\_to\_collection
 
 ```python
 def add_to_collection(data: PCGData, pin_label: Name,

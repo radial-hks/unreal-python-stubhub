@@ -60,7 +60,7 @@ class SceneCaptureComponent(SceneComponent)
 
 <a id="unreal.SceneCaptureComponent.primitive_render_mode"></a>
 
-#### primitive_render_mode
+#### primitive\_render\_mode
 
 ```python
 @property
@@ -71,7 +71,7 @@ def primitive_render_mode() -> SceneCapturePrimitiveRenderMode
 
 <a id="unreal.SceneCaptureComponent.primitive_render_mode"></a>
 
-#### primitive_render_mode
+#### primitive\_render\_mode
 
 ```python
 @primitive_render_mode.setter
@@ -80,7 +80,7 @@ def primitive_render_mode(value: SceneCapturePrimitiveRenderMode) -> None
 
 <a id="unreal.SceneCaptureComponent.capture_source"></a>
 
-#### capture_source
+#### capture\_source
 
 ```python
 @property
@@ -91,7 +91,7 @@ def capture_source() -> SceneCaptureSource
 
 <a id="unreal.SceneCaptureComponent.capture_source"></a>
 
-#### capture_source
+#### capture\_source
 
 ```python
 @capture_source.setter
@@ -100,7 +100,7 @@ def capture_source(value: SceneCaptureSource) -> None
 
 <a id="unreal.SceneCaptureComponent.capture_every_frame"></a>
 
-#### capture_every_frame
+#### capture\_every\_frame
 
 ```python
 @property
@@ -111,7 +111,7 @@ def capture_every_frame() -> bool
 
 <a id="unreal.SceneCaptureComponent.capture_every_frame"></a>
 
-#### capture_every_frame
+#### capture\_every\_frame
 
 ```python
 @capture_every_frame.setter
@@ -120,7 +120,7 @@ def capture_every_frame(value: bool) -> None
 
 <a id="unreal.SceneCaptureComponent.capture_on_movement"></a>
 
-#### capture_on_movement
+#### capture\_on\_movement
 
 ```python
 @property
@@ -131,7 +131,7 @@ def capture_on_movement() -> bool
 
 <a id="unreal.SceneCaptureComponent.capture_on_movement"></a>
 
-#### capture_on_movement
+#### capture\_on\_movement
 
 ```python
 @capture_on_movement.setter
@@ -140,7 +140,7 @@ def capture_on_movement(value: bool) -> None
 
 <a id="unreal.SceneCaptureComponent.capture_gpu_next_render"></a>
 
-#### capture_gpu_next_render
+#### capture\_gpu\_next\_render
 
 ```python
 @property
@@ -151,7 +151,7 @@ def capture_gpu_next_render() -> bool
 
 <a id="unreal.SceneCaptureComponent.capture_gpu_next_render"></a>
 
-#### capture_gpu_next_render
+#### capture\_gpu\_next\_render
 
 ```python
 @capture_gpu_next_render.setter
@@ -160,7 +160,7 @@ def capture_gpu_next_render(value: bool) -> None
 
 <a id="unreal.SceneCaptureComponent.dump_gpu_next_render"></a>
 
-#### dump_gpu_next_render
+#### dump\_gpu\_next\_render
 
 ```python
 @property
@@ -171,7 +171,7 @@ def dump_gpu_next_render() -> bool
 
 <a id="unreal.SceneCaptureComponent.dump_gpu_next_render"></a>
 
-#### dump_gpu_next_render
+#### dump\_gpu\_next\_render
 
 ```python
 @dump_gpu_next_render.setter
@@ -180,7 +180,7 @@ def dump_gpu_next_render(value: bool) -> None
 
 <a id="unreal.SceneCaptureComponent.always_persist_rendering_state"></a>
 
-#### always_persist_rendering_state
+#### always\_persist\_rendering\_state
 
 ```python
 @property
@@ -191,7 +191,7 @@ def always_persist_rendering_state() -> bool
 
 <a id="unreal.SceneCaptureComponent.always_persist_rendering_state"></a>
 
-#### always_persist_rendering_state
+#### always\_persist\_rendering\_state
 
 ```python
 @always_persist_rendering_state.setter
@@ -200,7 +200,7 @@ def always_persist_rendering_state(value: bool) -> None
 
 <a id="unreal.SceneCaptureComponent.hidden_actors"></a>
 
-#### hidden_actors
+#### hidden\_actors
 
 ```python
 @property
@@ -211,7 +211,7 @@ def hidden_actors() -> Array[Actor]
 
 <a id="unreal.SceneCaptureComponent.hidden_actors"></a>
 
-#### hidden_actors
+#### hidden\_actors
 
 ```python
 @hidden_actors.setter
@@ -220,7 +220,7 @@ def hidden_actors(value: Array[Actor]) -> None
 
 <a id="unreal.SceneCaptureComponent.show_only_actors"></a>
 
-#### show_only_actors
+#### show\_only\_actors
 
 ```python
 @property
@@ -231,7 +231,7 @@ def show_only_actors() -> Array[Actor]
 
 <a id="unreal.SceneCaptureComponent.show_only_actors"></a>
 
-#### show_only_actors
+#### show\_only\_actors
 
 ```python
 @show_only_actors.setter
@@ -240,7 +240,7 @@ def show_only_actors(value: Array[Actor]) -> None
 
 <a id="unreal.SceneCaptureComponent.max_view_distance_override"></a>
 
-#### max_view_distance_override
+#### max\_view\_distance\_override
 
 ```python
 @property
@@ -251,7 +251,7 @@ def max_view_distance_override() -> float
 
 <a id="unreal.SceneCaptureComponent.max_view_distance_override"></a>
 
-#### max_view_distance_override
+#### max\_view\_distance\_override
 
 ```python
 @max_view_distance_override.setter
@@ -260,7 +260,7 @@ def max_view_distance_override(value: float) -> None
 
 <a id="unreal.SceneCaptureComponent.capture_sort_priority"></a>
 
-#### capture_sort_priority
+#### capture\_sort\_priority
 
 ```python
 @property
@@ -271,7 +271,7 @@ def capture_sort_priority() -> int
 
 <a id="unreal.SceneCaptureComponent.use_ray_tracing_if_enabled"></a>
 
-#### use_ray_tracing_if_enabled
+#### use\_ray\_tracing\_if\_enabled
 
 ```python
 @property
@@ -282,7 +282,7 @@ def use_ray_tracing_if_enabled() -> bool
 
 <a id="unreal.SceneCaptureComponent.use_ray_tracing_if_enabled"></a>
 
-#### use_ray_tracing_if_enabled
+#### use\_ray\_tracing\_if\_enabled
 
 ```python
 @use_ray_tracing_if_enabled.setter
@@ -291,7 +291,7 @@ def use_ray_tracing_if_enabled(value: bool) -> None
 
 <a id="unreal.SceneCaptureComponent.show_flag_settings"></a>
 
-#### show_flag_settings
+#### show\_flag\_settings
 
 ```python
 @property
@@ -302,7 +302,7 @@ def show_flag_settings() -> Array[EngineShowFlagsSetting]
 
 <a id="unreal.SceneCaptureComponent.show_flag_settings"></a>
 
-#### show_flag_settings
+#### show\_flag\_settings
 
 ```python
 @show_flag_settings.setter
@@ -311,7 +311,7 @@ def show_flag_settings(value: Array[EngineShowFlagsSetting]) -> None
 
 <a id="unreal.SceneCaptureComponent.profiling_event_name"></a>
 
-#### profiling_event_name
+#### profiling\_event\_name
 
 ```python
 @property
@@ -322,7 +322,7 @@ def profiling_event_name() -> str
 
 <a id="unreal.SceneCaptureComponent.profiling_event_name"></a>
 
-#### profiling_event_name
+#### profiling\_event\_name
 
 ```python
 @profiling_event_name.setter
@@ -331,7 +331,7 @@ def profiling_event_name(value: str) -> None
 
 <a id="unreal.SceneCaptureComponent.show_only_component"></a>
 
-#### show_only_component
+#### show\_only\_component
 
 ```python
 def show_only_component(component: PrimitiveComponent) -> None
@@ -345,7 +345,7 @@ Args:
 
 <a id="unreal.SceneCaptureComponent.show_only_actor_components"></a>
 
-#### show_only_actor_components
+#### show\_only\_actor\_components
 
 ```python
 def show_only_actor_components(actor: Actor,
@@ -362,7 +362,7 @@ Args:
 
 <a id="unreal.SceneCaptureComponent.set_capture_sort_priority"></a>
 
-#### set_capture_sort_priority
+#### set\_capture\_sort\_priority
 
 ```python
 def set_capture_sort_priority(new_capture_sort_priority: int) -> None
@@ -376,7 +376,7 @@ Args:
 
 <a id="unreal.SceneCaptureComponent.remove_show_only_component"></a>
 
-#### remove_show_only_component
+#### remove\_show\_only\_component
 
 ```python
 def remove_show_only_component(component: PrimitiveComponent) -> None
@@ -390,7 +390,7 @@ Args:
 
 <a id="unreal.SceneCaptureComponent.remove_show_only_actor_components"></a>
 
-#### remove_show_only_actor_components
+#### remove\_show\_only\_actor\_components
 
 ```python
 def remove_show_only_actor_components(actor: Actor,
@@ -407,7 +407,7 @@ Args:
 
 <a id="unreal.SceneCaptureComponent.hide_component"></a>
 
-#### hide_component
+#### hide\_component
 
 ```python
 def hide_component(component: PrimitiveComponent) -> None
@@ -421,7 +421,7 @@ Args:
 
 <a id="unreal.SceneCaptureComponent.hide_actor_components"></a>
 
-#### hide_actor_components
+#### hide\_actor\_components
 
 ```python
 def hide_actor_components(actor: Actor,
@@ -437,7 +437,7 @@ Args:
 
 <a id="unreal.SceneCaptureComponent.clear_show_only_components"></a>
 
-#### clear_show_only_components
+#### clear\_show\_only\_components
 
 ```python
 def clear_show_only_components() -> None
@@ -448,7 +448,7 @@ Clears the Show Only list.
 
 <a id="unreal.SceneCaptureComponent.clear_hidden_components"></a>
 
-#### clear_hidden_components
+#### clear\_hidden\_components
 
 ```python
 def clear_hidden_components() -> None

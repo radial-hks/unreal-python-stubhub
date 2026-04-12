@@ -13,7 +13,7 @@ Game Viewport Subsystem
 
 <a id="unreal.GameViewportSubsystem.set_widget_slot_position"></a>
 
-#### set_widget_slot_position
+#### set\_widget\_slot\_position
 
 ```python
 @classmethod
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.GameViewportSubsystem.set_widget_slot_desired_size"></a>
 
-#### set_widget_slot_desired_size
+#### set\_widget\_slot\_desired\_size
 
 ```python
 @classmethod
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.GameViewportSubsystem.set_widget_slot"></a>
 
-#### set_widget_slot
+#### set\_widget\_slot
 
 ```python
 def set_widget_slot(widget: Widget, slot: GameViewportWidgetSlot) -> None
@@ -71,7 +71,7 @@ Args:
 
 <a id="unreal.GameViewportSubsystem.remove_widget"></a>
 
-#### remove_widget
+#### remove\_widget
 
 ```python
 def remove_widget(widget: Widget) -> None
@@ -85,7 +85,7 @@ Args:
 
 <a id="unreal.GameViewportSubsystem.is_widget_added"></a>
 
-#### is_widget_added
+#### is\_widget\_added
 
 ```python
 def is_widget_added(widget: Widget) -> bool
@@ -102,7 +102,7 @@ Returns:
 
 <a id="unreal.GameViewportSubsystem.get_widget_slot"></a>
 
-#### get_widget_slot
+#### get\_widget\_slot
 
 ```python
 def get_widget_slot(widget: Widget) -> GameViewportWidgetSlot
@@ -119,7 +119,7 @@ Returns:
 
 <a id="unreal.GameViewportSubsystem.add_widget_for_player"></a>
 
-#### add_widget_for_player
+#### add\_widget\_for\_player
 
 ```python
 def add_widget_for_player(widget: Widget, player: LocalPlayer,
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.GameViewportSubsystem.add_widget"></a>
 
-#### add_widget
+#### add\_widget
 
 ```python
 def add_widget(widget: Widget, slot: GameViewportWidgetSlot) -> bool

@@ -14,391 +14,391 @@ The code for a single operation within the RigVM
 
 <a id="unreal.RigVMOpCode.EXECUTE_0_OPERANDS"></a>
 
-#### EXECUTE_0_OPERANDS
+#### EXECUTE\_0\_OPERANDS
 
 0
 
 <a id="unreal.RigVMOpCode.EXECUTE_1_OPERANDS"></a>
 
-#### EXECUTE_1_OPERANDS
+#### EXECUTE\_1\_OPERANDS
 
 1: (DEPRECATED) execute a rig function with 0 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_2_OPERANDS"></a>
 
-#### EXECUTE_2_OPERANDS
+#### EXECUTE\_2\_OPERANDS
 
 2: (DEPRECATED) execute a rig function with 1 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_3_OPERANDS"></a>
 
-#### EXECUTE_3_OPERANDS
+#### EXECUTE\_3\_OPERANDS
 
 3: (DEPRECATED) execute a rig function with 2 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_4_OPERANDS"></a>
 
-#### EXECUTE_4_OPERANDS
+#### EXECUTE\_4\_OPERANDS
 
 4: (DEPRECATED) execute a rig function with 3 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_5_OPERANDS"></a>
 
-#### EXECUTE_5_OPERANDS
+#### EXECUTE\_5\_OPERANDS
 
 5: (DEPRECATED) execute a rig function with 4 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_6_OPERANDS"></a>
 
-#### EXECUTE_6_OPERANDS
+#### EXECUTE\_6\_OPERANDS
 
 6: (DEPRECATED) execute a rig function with 5 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_7_OPERANDS"></a>
 
-#### EXECUTE_7_OPERANDS
+#### EXECUTE\_7\_OPERANDS
 
 7: (DEPRECATED) execute a rig function with 6 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_8_OPERANDS"></a>
 
-#### EXECUTE_8_OPERANDS
+#### EXECUTE\_8\_OPERANDS
 
 8: (DEPRECATED) execute a rig function with 7 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_9_OPERANDS"></a>
 
-#### EXECUTE_9_OPERANDS
+#### EXECUTE\_9\_OPERANDS
 
 9: (DEPRECATED) execute a rig function with 8 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_10_OPERANDS"></a>
 
-#### EXECUTE_10_OPERANDS
+#### EXECUTE\_10\_OPERANDS
 
 10: (DEPRECATED) execute a rig function with 9 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_11_OPERANDS"></a>
 
-#### EXECUTE_11_OPERANDS
+#### EXECUTE\_11\_OPERANDS
 
 11: (DEPRECATED) execute a rig function with 10 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_12_OPERANDS"></a>
 
-#### EXECUTE_12_OPERANDS
+#### EXECUTE\_12\_OPERANDS
 
 12: (DEPRECATED) execute a rig function with 11 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_13_OPERANDS"></a>
 
-#### EXECUTE_13_OPERANDS
+#### EXECUTE\_13\_OPERANDS
 
 13: (DEPRECATED) execute a rig function with 12 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_14_OPERANDS"></a>
 
-#### EXECUTE_14_OPERANDS
+#### EXECUTE\_14\_OPERANDS
 
 14: (DEPRECATED) execute a rig function with 13 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_15_OPERANDS"></a>
 
-#### EXECUTE_15_OPERANDS
+#### EXECUTE\_15\_OPERANDS
 
 15: (DEPRECATED) execute a rig function with 14 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_16_OPERANDS"></a>
 
-#### EXECUTE_16_OPERANDS
+#### EXECUTE\_16\_OPERANDS
 
 16: (DEPRECATED) execute a rig function with 15 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_17_OPERANDS"></a>
 
-#### EXECUTE_17_OPERANDS
+#### EXECUTE\_17\_OPERANDS
 
 17: (DEPRECATED) execute a rig function with 16 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_18_OPERANDS"></a>
 
-#### EXECUTE_18_OPERANDS
+#### EXECUTE\_18\_OPERANDS
 
 18: (DEPRECATED) execute a rig function with 17 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_19_OPERANDS"></a>
 
-#### EXECUTE_19_OPERANDS
+#### EXECUTE\_19\_OPERANDS
 
 19: (DEPRECATED) execute a rig function with 18 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_20_OPERANDS"></a>
 
-#### EXECUTE_20_OPERANDS
+#### EXECUTE\_20\_OPERANDS
 
 20: (DEPRECATED) execute a rig function with 19 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_21_OPERANDS"></a>
 
-#### EXECUTE_21_OPERANDS
+#### EXECUTE\_21\_OPERANDS
 
 21: (DEPRECATED) execute a rig function with 20 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_22_OPERANDS"></a>
 
-#### EXECUTE_22_OPERANDS
+#### EXECUTE\_22\_OPERANDS
 
 22: (DEPRECATED) execute a rig function with 21 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_23_OPERANDS"></a>
 
-#### EXECUTE_23_OPERANDS
+#### EXECUTE\_23\_OPERANDS
 
 23: (DEPRECATED) execute a rig function with 22 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_24_OPERANDS"></a>
 
-#### EXECUTE_24_OPERANDS
+#### EXECUTE\_24\_OPERANDS
 
 24: (DEPRECATED) execute a rig function with 23 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_25_OPERANDS"></a>
 
-#### EXECUTE_25_OPERANDS
+#### EXECUTE\_25\_OPERANDS
 
 25: (DEPRECATED) execute a rig function with 24 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_26_OPERANDS"></a>
 
-#### EXECUTE_26_OPERANDS
+#### EXECUTE\_26\_OPERANDS
 
 26: (DEPRECATED) execute a rig function with 25 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_27_OPERANDS"></a>
 
-#### EXECUTE_27_OPERANDS
+#### EXECUTE\_27\_OPERANDS
 
 27: (DEPRECATED) execute a rig function with 26 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_28_OPERANDS"></a>
 
-#### EXECUTE_28_OPERANDS
+#### EXECUTE\_28\_OPERANDS
 
 28: (DEPRECATED) execute a rig function with 27 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_29_OPERANDS"></a>
 
-#### EXECUTE_29_OPERANDS
+#### EXECUTE\_29\_OPERANDS
 
 29: (DEPRECATED) execute a rig function with 28 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_30_OPERANDS"></a>
 
-#### EXECUTE_30_OPERANDS
+#### EXECUTE\_30\_OPERANDS
 
 30: (DEPRECATED) execute a rig function with 29 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_31_OPERANDS"></a>
 
-#### EXECUTE_31_OPERANDS
+#### EXECUTE\_31\_OPERANDS
 
 31: (DEPRECATED) execute a rig function with 30 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_32_OPERANDS"></a>
 
-#### EXECUTE_32_OPERANDS
+#### EXECUTE\_32\_OPERANDS
 
 32: (DEPRECATED) execute a rig function with 31 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_33_OPERANDS"></a>
 
-#### EXECUTE_33_OPERANDS
+#### EXECUTE\_33\_OPERANDS
 
 33: (DEPRECATED) execute a rig function with 32 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_34_OPERANDS"></a>
 
-#### EXECUTE_34_OPERANDS
+#### EXECUTE\_34\_OPERANDS
 
 34: (DEPRECATED) execute a rig function with 33 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_35_OPERANDS"></a>
 
-#### EXECUTE_35_OPERANDS
+#### EXECUTE\_35\_OPERANDS
 
 35: (DEPRECATED) execute a rig function with 34 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_36_OPERANDS"></a>
 
-#### EXECUTE_36_OPERANDS
+#### EXECUTE\_36\_OPERANDS
 
 36: (DEPRECATED) execute a rig function with 35 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_37_OPERANDS"></a>
 
-#### EXECUTE_37_OPERANDS
+#### EXECUTE\_37\_OPERANDS
 
 37: (DEPRECATED) execute a rig function with 36 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_38_OPERANDS"></a>
 
-#### EXECUTE_38_OPERANDS
+#### EXECUTE\_38\_OPERANDS
 
 38: (DEPRECATED) execute a rig function with 37 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_39_OPERANDS"></a>
 
-#### EXECUTE_39_OPERANDS
+#### EXECUTE\_39\_OPERANDS
 
 39: (DEPRECATED) execute a rig function with 38 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_40_OPERANDS"></a>
 
-#### EXECUTE_40_OPERANDS
+#### EXECUTE\_40\_OPERANDS
 
 40: (DEPRECATED) execute a rig function with 39 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_41_OPERANDS"></a>
 
-#### EXECUTE_41_OPERANDS
+#### EXECUTE\_41\_OPERANDS
 
 41: (DEPRECATED) execute a rig function with 40 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_42_OPERANDS"></a>
 
-#### EXECUTE_42_OPERANDS
+#### EXECUTE\_42\_OPERANDS
 
 42: (DEPRECATED) execute a rig function with 41 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_43_OPERANDS"></a>
 
-#### EXECUTE_43_OPERANDS
+#### EXECUTE\_43\_OPERANDS
 
 43: (DEPRECATED) execute a rig function with 42 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_44_OPERANDS"></a>
 
-#### EXECUTE_44_OPERANDS
+#### EXECUTE\_44\_OPERANDS
 
 44: (DEPRECATED) execute a rig function with 43 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_45_OPERANDS"></a>
 
-#### EXECUTE_45_OPERANDS
+#### EXECUTE\_45\_OPERANDS
 
 45: (DEPRECATED) execute a rig function with 44 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_46_OPERANDS"></a>
 
-#### EXECUTE_46_OPERANDS
+#### EXECUTE\_46\_OPERANDS
 
 46: (DEPRECATED) execute a rig function with 45 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_47_OPERANDS"></a>
 
-#### EXECUTE_47_OPERANDS
+#### EXECUTE\_47\_OPERANDS
 
 47: (DEPRECATED) execute a rig function with 46 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_48_OPERANDS"></a>
 
-#### EXECUTE_48_OPERANDS
+#### EXECUTE\_48\_OPERANDS
 
 48: (DEPRECATED) execute a rig function with 47 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_49_OPERANDS"></a>
 
-#### EXECUTE_49_OPERANDS
+#### EXECUTE\_49\_OPERANDS
 
 49: (DEPRECATED) execute a rig function with 48 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_50_OPERANDS"></a>
 
-#### EXECUTE_50_OPERANDS
+#### EXECUTE\_50\_OPERANDS
 
 50: (DEPRECATED) execute a rig function with 49 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_51_OPERANDS"></a>
 
-#### EXECUTE_51_OPERANDS
+#### EXECUTE\_51\_OPERANDS
 
 51: (DEPRECATED) execute a rig function with 50 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_52_OPERANDS"></a>
 
-#### EXECUTE_52_OPERANDS
+#### EXECUTE\_52\_OPERANDS
 
 52: (DEPRECATED) execute a rig function with 51 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_53_OPERANDS"></a>
 
-#### EXECUTE_53_OPERANDS
+#### EXECUTE\_53\_OPERANDS
 
 53: (DEPRECATED) execute a rig function with 52 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_54_OPERANDS"></a>
 
-#### EXECUTE_54_OPERANDS
+#### EXECUTE\_54\_OPERANDS
 
 54: (DEPRECATED) execute a rig function with 53 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_55_OPERANDS"></a>
 
-#### EXECUTE_55_OPERANDS
+#### EXECUTE\_55\_OPERANDS
 
 55: (DEPRECATED) execute a rig function with 54 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_56_OPERANDS"></a>
 
-#### EXECUTE_56_OPERANDS
+#### EXECUTE\_56\_OPERANDS
 
 56: (DEPRECATED) execute a rig function with 55 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_57_OPERANDS"></a>
 
-#### EXECUTE_57_OPERANDS
+#### EXECUTE\_57\_OPERANDS
 
 57: (DEPRECATED) execute a rig function with 56 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_58_OPERANDS"></a>
 
-#### EXECUTE_58_OPERANDS
+#### EXECUTE\_58\_OPERANDS
 
 58: (DEPRECATED) execute a rig function with 57 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_59_OPERANDS"></a>
 
-#### EXECUTE_59_OPERANDS
+#### EXECUTE\_59\_OPERANDS
 
 59: (DEPRECATED) execute a rig function with 58 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_60_OPERANDS"></a>
 
-#### EXECUTE_60_OPERANDS
+#### EXECUTE\_60\_OPERANDS
 
 60: (DEPRECATED) execute a rig function with 59 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_61_OPERANDS"></a>
 
-#### EXECUTE_61_OPERANDS
+#### EXECUTE\_61\_OPERANDS
 
 61: (DEPRECATED) execute a rig function with 60 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_62_OPERANDS"></a>
 
-#### EXECUTE_62_OPERANDS
+#### EXECUTE\_62\_OPERANDS
 
 62: (DEPRECATED) execute a rig function with 61 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_63_OPERANDS"></a>
 
-#### EXECUTE_63_OPERANDS
+#### EXECUTE\_63\_OPERANDS
 
 63: (DEPRECATED) execute a rig function with 62 operands
 
 <a id="unreal.RigVMOpCode.EXECUTE_64_OPERANDS"></a>
 
-#### EXECUTE_64_OPERANDS
+#### EXECUTE\_64\_OPERANDS
 
 64: (DEPRECATED) execute a rig function with 63 operands
 
@@ -410,13 +410,13 @@ The code for a single operation within the RigVM
 
 <a id="unreal.RigVMOpCode.BOOL_FALSE"></a>
 
-#### BOOL_FALSE
+#### BOOL\_FALSE
 
 66: zero the memory of a given register
 
 <a id="unreal.RigVMOpCode.BOOL_TRUE"></a>
 
-#### BOOL_TRUE
+#### BOOL\_TRUE
 
 67: set a given register to false
 
@@ -446,49 +446,49 @@ The code for a single operation within the RigVM
 
 <a id="unreal.RigVMOpCode.NOT_EQUALS"></a>
 
-#### NOT_EQUALS
+#### NOT\_EQUALS
 
 72: fill a bool register with the result of (A == B)
 
 <a id="unreal.RigVMOpCode.JUMP_ABSOLUTE"></a>
 
-#### JUMP_ABSOLUTE
+#### JUMP\_ABSOLUTE
 
 73: fill a bool register with the result of (A != B)
 
 <a id="unreal.RigVMOpCode.JUMP_FORWARD"></a>
 
-#### JUMP_FORWARD
+#### JUMP\_FORWARD
 
 74: jump to an absolute instruction index
 
 <a id="unreal.RigVMOpCode.JUMP_BACKWARD"></a>
 
-#### JUMP_BACKWARD
+#### JUMP\_BACKWARD
 
 75: jump forwards given a relative instruction index offset
 
 <a id="unreal.RigVMOpCode.JUMP_ABSOLUTE_IF"></a>
 
-#### JUMP_ABSOLUTE_IF
+#### JUMP\_ABSOLUTE\_IF
 
 76: jump backwards given a relative instruction index offset
 
 <a id="unreal.RigVMOpCode.JUMP_FORWARD_IF"></a>
 
-#### JUMP_FORWARD_IF
+#### JUMP\_FORWARD\_IF
 
 77: jump to an absolute instruction index based on a condition register
 
 <a id="unreal.RigVMOpCode.JUMP_BACKWARD_IF"></a>
 
-#### JUMP_BACKWARD_IF
+#### JUMP\_BACKWARD\_IF
 
 78: jump forwards given a relative instruction index offset based on a condition register
 
 <a id="unreal.RigVMOpCode.CHANGE_TYPE"></a>
 
-#### CHANGE_TYPE
+#### CHANGE\_TYPE
 
 79: jump backwards given a relative instruction index offset based on a condition register
 
@@ -500,121 +500,121 @@ The code for a single operation within the RigVM
 
 <a id="unreal.RigVMOpCode.BEGIN_BLOCK"></a>
 
-#### BEGIN_BLOCK
+#### BEGIN\_BLOCK
 
 81: exit the execution loop
 
 <a id="unreal.RigVMOpCode.END_BLOCK"></a>
 
-#### END_BLOCK
+#### END\_BLOCK
 
 82: begins a new memory slice / block
 
 <a id="unreal.RigVMOpCode.ARRAY_RESET"></a>
 
-#### ARRAY_RESET
+#### ARRAY\_RESET
 
 83: ends the last memory slice / block
 
 <a id="unreal.RigVMOpCode.ARRAY_GET_NUM"></a>
 
-#### ARRAY_GET_NUM
+#### ARRAY\_GET\_NUM
 
 84: (DEPRECATED) clears an array and resets its content
 
 <a id="unreal.RigVMOpCode.ARRAY_SET_NUM"></a>
 
-#### ARRAY_SET_NUM
+#### ARRAY\_SET\_NUM
 
 85: (DEPRECATED) reads and returns the size of an array (binary op, in array, out int32)
 
 <a id="unreal.RigVMOpCode.ARRAY_GET_AT_INDEX"></a>
 
-#### ARRAY_GET_AT_INDEX
+#### ARRAY\_GET\_AT\_INDEX
 
 86: (DEPRECATED) resizes an array (binary op, in out array, in int32)
 
 <a id="unreal.RigVMOpCode.ARRAY_SET_AT_INDEX"></a>
 
-#### ARRAY_SET_AT_INDEX
+#### ARRAY\_SET\_AT\_INDEX
 
 87: (DEPRECATED) returns an array element by index (ternary op, in array, in int32, out element)
 
 <a id="unreal.RigVMOpCode.ARRAY_ADD"></a>
 
-#### ARRAY_ADD
+#### ARRAY\_ADD
 
 88: (DEPRECATED) sets an array element by index (ternary op, in out array, in int32, in element)
 
 <a id="unreal.RigVMOpCode.ARRAY_INSERT"></a>
 
-#### ARRAY_INSERT
+#### ARRAY\_INSERT
 
 89: (DEPRECATED) adds an element to an array (ternary op, in out array, in element, out int32 index)
 
 <a id="unreal.RigVMOpCode.ARRAY_REMOVE"></a>
 
-#### ARRAY_REMOVE
+#### ARRAY\_REMOVE
 
 90: (DEPRECATED) inserts an element to an array (ternary op, in out array, in int32, in element)
 
 <a id="unreal.RigVMOpCode.ARRAY_FIND"></a>
 
-#### ARRAY_FIND
+#### ARRAY\_FIND
 
 91: (DEPRECATED) removes an element from an array (binary op, in out array, in inindex)
 
 <a id="unreal.RigVMOpCode.ARRAY_APPEND"></a>
 
-#### ARRAY_APPEND
+#### ARRAY\_APPEND
 
 92: (DEPRECATED) finds and returns the index of an element (quaternery op, in array, in element, out int32 index, out bool success)
 
 <a id="unreal.RigVMOpCode.ARRAY_CLONE"></a>
 
-#### ARRAY_CLONE
+#### ARRAY\_CLONE
 
 93: (DEPRECATED) appends an array to another (binary op, in out array, in array)
 
 <a id="unreal.RigVMOpCode.ARRAY_ITERATOR"></a>
 
-#### ARRAY_ITERATOR
+#### ARRAY\_ITERATOR
 
 94: (DEPRECATED) clones an array (binary op, in array, out array)
 
 <a id="unreal.RigVMOpCode.ARRAY_UNION"></a>
 
-#### ARRAY_UNION
+#### ARRAY\_UNION
 
 95: (DEPRECATED) iterates over an array (senary op, in array, out element, out index, out count, out ratio, out continue)
 
 <a id="unreal.RigVMOpCode.ARRAY_DIFFERENCE"></a>
 
-#### ARRAY_DIFFERENCE
+#### ARRAY\_DIFFERENCE
 
 96: (DEPRECATED) merges two arrays while avoiding duplicates (binary op, in out array, in other array)
 
 <a id="unreal.RigVMOpCode.ARRAY_INTERSECTION"></a>
 
-#### ARRAY_INTERSECTION
+#### ARRAY\_INTERSECTION
 
 97: (DEPRECATED) returns a new array containing elements only found in one array (ternary op, in array, in array, out result)
 
 <a id="unreal.RigVMOpCode.ARRAY_REVERSE"></a>
 
-#### ARRAY_REVERSE
+#### ARRAY\_REVERSE
 
 98: (DEPRECATED) returns a new array containing elements found in both of the input arrays (ternary op, in array, in array, out result)
 
 <a id="unreal.RigVMOpCode.INVOKE_ENTRY"></a>
 
-#### INVOKE_ENTRY
+#### INVOKE\_ENTRY
 
 99: (DEPRECATED) returns the reverse of the input array (unary op, in out array)
 
 <a id="unreal.RigVMOpCode.JUMP_TO_BRANCH"></a>
 
-#### JUMP_TO_BRANCH
+#### JUMP\_TO\_BRANCH
 
 100: invokes an entry from the entry list
 
@@ -626,13 +626,13 @@ The code for a single operation within the RigVM
 
 <a id="unreal.RigVMOpCode.RUN_INSTRUCTIONS"></a>
 
-#### RUN_INSTRUCTIONS
+#### RUN\_INSTRUCTIONS
 
 102: single execute op (formerly Execute_0_Operands to Execute_64_Operands)
 
 <a id="unreal.RigVMOpCode.SETUP_TRAITS"></a>
 
-#### SETUP_TRAITS
+#### SETUP\_TRAITS
 
 103: runs a set of instructions lazily
 
@@ -644,13 +644,13 @@ The code for a single operation within the RigVM
 
 <a id="unreal.RigVMOpCode.FIRST_ARRAY_OP_CODE"></a>
 
-#### FIRST_ARRAY_OP_CODE
+#### FIRST\_ARRAY\_OP\_CODE
 
 83
 
 <a id="unreal.RigVMOpCode.LAST_ARRAY_OP_CODE"></a>
 
-#### LAST_ARRAY_OP_CODE
+#### LAST\_ARRAY\_OP\_CODE
 
 98
 

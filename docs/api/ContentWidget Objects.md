@@ -49,7 +49,7 @@ Content Widget
 
 <a id="unreal.ContentWidget.set_content"></a>
 
-#### set_content
+#### set\_content
 
 ```python
 def set_content(content: Widget) -> PanelSlot
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.ContentWidget.get_content_slot"></a>
 
-#### get_content_slot
+#### get\_content\_slot
 
 ```python
 def get_content_slot() -> PanelSlot
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.ContentWidget.get_content"></a>
 
-#### get_content
+#### get\_content
 
 ```python
 def get_content() -> Widget

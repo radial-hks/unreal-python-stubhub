@@ -13,10 +13,10 @@ Mass Processing Context
 
 <a id="unreal.MassProcessingContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.FarmVisualDataRow"></a>
+<a id="unreal.MassSpawnedEntityType"></a>

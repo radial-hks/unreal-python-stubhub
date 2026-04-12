@@ -19,7 +19,7 @@ Anim Phys Planar Limit
 
 <a id="unreal.AnimPhysPlanarLimit.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

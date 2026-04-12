@@ -13,7 +13,7 @@ Base structure for widget styles.
 
 <a id="unreal.SlateWidgetStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

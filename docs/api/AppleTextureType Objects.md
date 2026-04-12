@@ -26,7 +26,7 @@ EApple Texture Type
 
 <a id="unreal.AppleTextureType.PIXEL_BUFFER"></a>
 
-#### PIXEL_BUFFER
+#### PIXEL\_BUFFER
 
 2
 
@@ -38,8 +38,8 @@ EApple Texture Type
 
 <a id="unreal.AppleTextureType.METAL_TEXTURE"></a>
 
-#### METAL_TEXTURE
+#### METAL\_TEXTURE
 
 4
 
-<a id="unreal.PlanetShape"></a>
+<a id="unreal.GeometryScriptRGBAChannel"></a>

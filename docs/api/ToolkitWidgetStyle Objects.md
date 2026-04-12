@@ -23,7 +23,7 @@ FToolkitWidgetStyle is the FSlateWidgetStyle that defines the styling of a Toolk
 
 <a id="unreal.ToolkitWidgetStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -69,7 +69,7 @@ def __init__(
 
 <a id="unreal.ToolkitWidgetStyle.title_background_brush"></a>
 
-#### title_background_brush
+#### title\_background\_brush
 
 ```python
 @property
@@ -80,7 +80,7 @@ def title_background_brush() -> SlateBrush
 
 <a id="unreal.ToolkitWidgetStyle.title_background_brush"></a>
 
-#### title_background_brush
+#### title\_background\_brush
 
 ```python
 @title_background_brush.setter
@@ -89,7 +89,7 @@ def title_background_brush(value: SlateBrush) -> None
 
 <a id="unreal.ToolkitWidgetStyle.tool_details_background_brush"></a>
 
-#### tool_details_background_brush
+#### tool\_details\_background\_brush
 
 ```python
 @property
@@ -100,7 +100,7 @@ def tool_details_background_brush() -> SlateBrush
 
 <a id="unreal.ToolkitWidgetStyle.tool_details_background_brush"></a>
 
-#### tool_details_background_brush
+#### tool\_details\_background\_brush
 
 ```python
 @tool_details_background_brush.setter
@@ -109,7 +109,7 @@ def tool_details_background_brush(value: SlateBrush) -> None
 
 <a id="unreal.ToolkitWidgetStyle.title_foreground_color"></a>
 
-#### title_foreground_color
+#### title\_foreground\_color
 
 ```python
 @property
@@ -120,7 +120,7 @@ def title_foreground_color() -> SlateColor
 
 <a id="unreal.ToolkitWidgetStyle.title_foreground_color"></a>
 
-#### title_foreground_color
+#### title\_foreground\_color
 
 ```python
 @title_foreground_color.setter
@@ -129,7 +129,7 @@ def title_foreground_color(value: SlateColor) -> None
 
 <a id="unreal.ToolkitWidgetStyle.title_padding"></a>
 
-#### title_padding
+#### title\_padding
 
 ```python
 @property
@@ -140,7 +140,7 @@ def title_padding() -> Margin
 
 <a id="unreal.ToolkitWidgetStyle.title_padding"></a>
 
-#### title_padding
+#### title\_padding
 
 ```python
 @title_padding.setter
@@ -149,7 +149,7 @@ def title_padding(value: Margin) -> None
 
 <a id="unreal.ToolkitWidgetStyle.active_tool_title_border_padding"></a>
 
-#### active_tool_title_border_padding
+#### active\_tool\_title\_border\_padding
 
 ```python
 @property
@@ -160,7 +160,7 @@ def active_tool_title_border_padding() -> Margin
 
 <a id="unreal.ToolkitWidgetStyle.active_tool_title_border_padding"></a>
 
-#### active_tool_title_border_padding
+#### active\_tool\_title\_border\_padding
 
 ```python
 @active_tool_title_border_padding.setter
@@ -169,7 +169,7 @@ def active_tool_title_border_padding(value: Margin) -> None
 
 <a id="unreal.ToolkitWidgetStyle.tool_context_text_block_padding"></a>
 
-#### tool_context_text_block_padding
+#### tool\_context\_text\_block\_padding
 
 ```python
 @property
@@ -180,7 +180,7 @@ def tool_context_text_block_padding() -> Margin
 
 <a id="unreal.ToolkitWidgetStyle.tool_context_text_block_padding"></a>
 
-#### tool_context_text_block_padding
+#### tool\_context\_text\_block\_padding
 
 ```python
 @tool_context_text_block_padding.setter
@@ -189,7 +189,7 @@ def tool_context_text_block_padding(value: Margin) -> None
 
 <a id="unreal.ToolkitWidgetStyle.title_font"></a>
 
-#### title_font
+#### title\_font
 
 ```python
 @property
@@ -200,7 +200,7 @@ def title_font() -> SlateFontInfo
 
 <a id="unreal.ToolkitWidgetStyle.title_font"></a>
 
-#### title_font
+#### title\_font
 
 ```python
 @title_font.setter

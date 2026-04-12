@@ -14,7 +14,7 @@ Utility Blueprint functions for camera variable tables.
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_vector4_camera_variable"></a>
 
-#### set_vector4_camera_variable
+#### set\_vector4\_camera\_variable
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_vector3_camera_variable"></a>
 
-#### set_vector3_camera_variable
+#### set\_vector3\_camera\_variable
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_vector2_camera_variable"></a>
 
-#### set_vector2_camera_variable
+#### set\_vector2\_camera\_variable
 
 ```python
 @classmethod
@@ -74,7 +74,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_transform_camera_variable"></a>
 
-#### set_transform_camera_variable
+#### set\_transform\_camera\_variable
 
 ```python
 @classmethod
@@ -94,7 +94,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_rotator_camera_variable"></a>
 
-#### set_rotator_camera_variable
+#### set\_rotator\_camera\_variable
 
 ```python
 @classmethod
@@ -114,7 +114,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_integer32_camera_variable"></a>
 
-#### set_integer32_camera_variable
+#### set\_integer32\_camera\_variable
 
 ```python
 @classmethod
@@ -134,7 +134,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_float_camera_variable"></a>
 
-#### set_float_camera_variable
+#### set\_float\_camera\_variable
 
 ```python
 @classmethod
@@ -154,7 +154,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_double_camera_variable"></a>
 
-#### set_double_camera_variable
+#### set\_double\_camera\_variable
 
 ```python
 @classmethod
@@ -174,7 +174,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.set_boolean_camera_variable"></a>
 
-#### set_boolean_camera_variable
+#### set\_boolean\_camera\_variable
 
 ```python
 @classmethod
@@ -194,7 +194,7 @@ Args:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_vector4_camera_variable"></a>
 
-#### get_vector4_camera_variable
+#### get\_vector4\_camera\_variable
 
 ```python
 @classmethod
@@ -215,7 +215,7 @@ Returns:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_vector3_camera_variable"></a>
 
-#### get_vector3_camera_variable
+#### get\_vector3\_camera\_variable
 
 ```python
 @classmethod
@@ -236,7 +236,7 @@ Returns:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_vector2_camera_variable"></a>
 
-#### get_vector2_camera_variable
+#### get\_vector2\_camera\_variable
 
 ```python
 @classmethod
@@ -257,7 +257,7 @@ Returns:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_transform_camera_variable"></a>
 
-#### get_transform_camera_variable
+#### get\_transform\_camera\_variable
 
 ```python
 @classmethod
@@ -278,7 +278,7 @@ Returns:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_rotator_camera_variable"></a>
 
-#### get_rotator_camera_variable
+#### get\_rotator\_camera\_variable
 
 ```python
 @classmethod
@@ -299,7 +299,7 @@ Returns:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_integer32_camera_variable"></a>
 
-#### get_integer32_camera_variable
+#### get\_integer32\_camera\_variable
 
 ```python
 @classmethod
@@ -320,7 +320,7 @@ Returns:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_float_camera_variable"></a>
 
-#### get_float_camera_variable
+#### get\_float\_camera\_variable
 
 ```python
 @classmethod
@@ -341,7 +341,7 @@ Returns:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_double_camera_variable"></a>
 
-#### get_double_camera_variable
+#### get\_double\_camera\_variable
 
 ```python
 @classmethod
@@ -362,7 +362,7 @@ Returns:
 
 <a id="unreal.BlueprintCameraVariableTableFunctionLibrary.get_boolean_camera_variable"></a>
 
-#### get_boolean_camera_variable
+#### get\_boolean\_camera\_variable
 
 ```python
 @classmethod

@@ -20,7 +20,7 @@ Sound Submix Spectral Analysis Band Settings
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(band_frequency: float = 0.000000,
@@ -31,7 +31,7 @@ def __init__(band_frequency: float = 0.000000,
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.band_frequency"></a>
 
-#### band_frequency
+#### band\_frequency
 
 ```python
 @property
@@ -42,7 +42,7 @@ def band_frequency() -> float
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.band_frequency"></a>
 
-#### band_frequency
+#### band\_frequency
 
 ```python
 @band_frequency.setter
@@ -51,7 +51,7 @@ def band_frequency(value: float) -> None
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.attack_time_msec"></a>
 
-#### attack_time_msec
+#### attack\_time\_msec
 
 ```python
 @property
@@ -62,7 +62,7 @@ def attack_time_msec() -> int
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.attack_time_msec"></a>
 
-#### attack_time_msec
+#### attack\_time\_msec
 
 ```python
 @attack_time_msec.setter
@@ -71,7 +71,7 @@ def attack_time_msec(value: int) -> None
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.release_time_msec"></a>
 
-#### release_time_msec
+#### release\_time\_msec
 
 ```python
 @property
@@ -82,7 +82,7 @@ def release_time_msec() -> int
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.release_time_msec"></a>
 
-#### release_time_msec
+#### release\_time\_msec
 
 ```python
 @release_time_msec.setter
@@ -91,7 +91,7 @@ def release_time_msec(value: int) -> None
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.q_factor"></a>
 
-#### q_factor
+#### q\_factor
 
 ```python
 @property
@@ -102,7 +102,7 @@ def q_factor() -> float
 
 <a id="unreal.SoundSubmixSpectralAnalysisBandSettings.q_factor"></a>
 
-#### q_factor
+#### q\_factor
 
 ```python
 @q_factor.setter

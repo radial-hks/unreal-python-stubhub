@@ -14,7 +14,7 @@ PCGMetadata Accessor Helpers
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_vector_attribute_by_metadata_key"></a>
 
-#### set_vector_attribute_by_metadata_key
+#### set\_vector\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_vector_attribute"></a>
 
-#### set_vector_attribute
+#### set\_vector\_attribute
 
 ```python
 @classmethod
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_vector4_attribute_by_metadata_key"></a>
 
-#### set_vector4_attribute_by_metadata_key
+#### set\_vector4\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_vector4_attribute"></a>
 
-#### set_vector4_attribute
+#### set\_vector4\_attribute
 
 ```python
 @classmethod
@@ -112,7 +112,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_vector2_attribute_by_metadata_key"></a>
 
-#### set_vector2_attribute_by_metadata_key
+#### set\_vector2\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -137,7 +137,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_vector2_attribute"></a>
 
-#### set_vector2_attribute
+#### set\_vector2\_attribute
 
 ```python
 @classmethod
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_transform_attribute_by_metadata_key"></a>
 
-#### set_transform_attribute_by_metadata_key
+#### set\_transform\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -187,7 +187,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_transform_attribute"></a>
 
-#### set_transform_attribute
+#### set\_transform\_attribute
 
 ```python
 @classmethod
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_string_attribute_by_metadata_key"></a>
 
-#### set_string_attribute_by_metadata_key
+#### set\_string\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_string_attribute"></a>
 
-#### set_string_attribute
+#### set\_string\_attribute
 
 ```python
 @classmethod
@@ -261,7 +261,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_soft_object_path_attribute_by_metadata_key"></a>
 
-#### set_soft_object_path_attribute_by_metadata_key
+#### set\_soft\_object\_path\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -286,7 +286,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_soft_object_path_attribute"></a>
 
-#### set_soft_object_path_attribute
+#### set\_soft\_object\_path\_attribute
 
 ```python
 @classmethod
@@ -311,7 +311,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_soft_class_path_attribute_by_metadata_key"></a>
 
-#### set_soft_class_path_attribute_by_metadata_key
+#### set\_soft\_class\_path\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -337,7 +337,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_soft_class_path_attribute"></a>
 
-#### set_soft_class_path_attribute
+#### set\_soft\_class\_path\_attribute
 
 ```python
 @classmethod
@@ -362,7 +362,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_rotator_attribute_by_metadata_key"></a>
 
-#### set_rotator_attribute_by_metadata_key
+#### set\_rotator\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -387,7 +387,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_rotator_attribute"></a>
 
-#### set_rotator_attribute
+#### set\_rotator\_attribute
 
 ```python
 @classmethod
@@ -411,7 +411,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_quat_attribute_by_metadata_key"></a>
 
-#### set_quat_attribute_by_metadata_key
+#### set\_quat\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -436,7 +436,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_quat_attribute"></a>
 
-#### set_quat_attribute
+#### set\_quat\_attribute
 
 ```python
 @classmethod
@@ -460,7 +460,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_name_attribute"></a>
 
-#### set_name_attribute
+#### set\_name\_attribute
 
 ```python
 @classmethod
@@ -484,7 +484,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_integer64_attribute_by_metadata_key"></a>
 
-#### set_integer64_attribute_by_metadata_key
+#### set\_integer64\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -510,7 +510,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_integer64_attribute"></a>
 
-#### set_integer64_attribute
+#### set\_integer64\_attribute
 
 ```python
 @classmethod
@@ -534,7 +534,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_integer32_attribute_by_metadata_key"></a>
 
-#### set_integer32_attribute_by_metadata_key
+#### set\_integer32\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -560,7 +560,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_integer32_attribute"></a>
 
-#### set_integer32_attribute
+#### set\_integer32\_attribute
 
 ```python
 @classmethod
@@ -584,7 +584,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_float_attribute_by_metadata_key"></a>
 
-#### set_float_attribute_by_metadata_key
+#### set\_float\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -609,7 +609,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_float_attribute"></a>
 
-#### set_float_attribute
+#### set\_float\_attribute
 
 ```python
 @classmethod
@@ -633,7 +633,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_double_attribute_by_metadata_key"></a>
 
-#### set_double_attribute_by_metadata_key
+#### set\_double\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -658,7 +658,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_double_attribute"></a>
 
-#### set_double_attribute
+#### set\_double\_attribute
 
 ```python
 @classmethod
@@ -682,7 +682,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_bool_attribute_by_metadata_key"></a>
 
-#### set_bool_attribute_by_metadata_key
+#### set\_bool\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -707,7 +707,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_bool_attribute"></a>
 
-#### set_bool_attribute
+#### set\_bool\_attribute
 
 ```python
 @classmethod
@@ -731,7 +731,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.set_attribute_from_property_by_metadata_key"></a>
 
-#### set_attribute_from_property_by_metadata_key
+#### set\_attribute\_from\_property\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -757,7 +757,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.initialize_metadata"></a>
 
-#### initialize_metadata
+#### initialize\_metadata
 
 ```python
 @classmethod
@@ -784,7 +784,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.has_attribute_set_by_metadata_key"></a>
 
-#### has_attribute_set_by_metadata_key
+#### has\_attribute\_set\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -805,7 +805,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.has_attribute_set"></a>
 
-#### has_attribute_set
+#### has\_attribute\_set
 
 ```python
 @classmethod
@@ -826,7 +826,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_vector_attribute_by_metadata_key"></a>
 
-#### get_vector_attribute_by_metadata_key
+#### get\_vector\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -847,7 +847,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_vector_attribute"></a>
 
-#### get_vector_attribute
+#### get\_vector\_attribute
 
 ```python
 @classmethod
@@ -868,7 +868,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_vector4_attribute_by_metadata_key"></a>
 
-#### get_vector4_attribute_by_metadata_key
+#### get\_vector4\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -889,7 +889,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_vector4_attribute"></a>
 
-#### get_vector4_attribute
+#### get\_vector4\_attribute
 
 ```python
 @classmethod
@@ -910,7 +910,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_vector2_attribute_by_metadata_key"></a>
 
-#### get_vector2_attribute_by_metadata_key
+#### get\_vector2\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -931,7 +931,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_vector2_attribute"></a>
 
-#### get_vector2_attribute
+#### get\_vector2\_attribute
 
 ```python
 @classmethod
@@ -952,7 +952,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_transform_attribute_by_metadata_key"></a>
 
-#### get_transform_attribute_by_metadata_key
+#### get\_transform\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -974,7 +974,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_transform_attribute"></a>
 
-#### get_transform_attribute
+#### get\_transform\_attribute
 
 ```python
 @classmethod
@@ -995,7 +995,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_string_attribute_by_metadata_key"></a>
 
-#### get_string_attribute_by_metadata_key
+#### get\_string\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1016,7 +1016,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_string_attribute"></a>
 
-#### get_string_attribute
+#### get\_string\_attribute
 
 ```python
 @classmethod
@@ -1037,7 +1037,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_soft_object_path_attribute_by_metadata_key"></a>
 
-#### get_soft_object_path_attribute_by_metadata_key
+#### get\_soft\_object\_path\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1059,7 +1059,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_soft_object_path_attribute"></a>
 
-#### get_soft_object_path_attribute
+#### get\_soft\_object\_path\_attribute
 
 ```python
 @classmethod
@@ -1080,7 +1080,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_soft_class_path_attribute_by_metadata_key"></a>
 
-#### get_soft_class_path_attribute_by_metadata_key
+#### get\_soft\_class\_path\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1102,7 +1102,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_soft_class_path_attribute"></a>
 
-#### get_soft_class_path_attribute
+#### get\_soft\_class\_path\_attribute
 
 ```python
 @classmethod
@@ -1123,7 +1123,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_rotator_attribute_by_metadata_key"></a>
 
-#### get_rotator_attribute_by_metadata_key
+#### get\_rotator\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1144,7 +1144,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_rotator_attribute"></a>
 
-#### get_rotator_attribute
+#### get\_rotator\_attribute
 
 ```python
 @classmethod
@@ -1165,7 +1165,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_quat_attribute_by_metadata_key"></a>
 
-#### get_quat_attribute_by_metadata_key
+#### get\_quat\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1186,7 +1186,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_quat_attribute"></a>
 
-#### get_quat_attribute
+#### get\_quat\_attribute
 
 ```python
 @classmethod
@@ -1207,7 +1207,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_name_attribute"></a>
 
-#### get_name_attribute
+#### get\_name\_attribute
 
 ```python
 @classmethod
@@ -1228,7 +1228,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_integer64_attribute_by_metadata_key"></a>
 
-#### get_integer64_attribute_by_metadata_key
+#### get\_integer64\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1250,7 +1250,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_integer64_attribute"></a>
 
-#### get_integer64_attribute
+#### get\_integer64\_attribute
 
 ```python
 @classmethod
@@ -1271,7 +1271,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_integer32_attribute_by_metadata_key"></a>
 
-#### get_integer32_attribute_by_metadata_key
+#### get\_integer32\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1293,7 +1293,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_integer32_attribute"></a>
 
-#### get_integer32_attribute
+#### get\_integer32\_attribute
 
 ```python
 @classmethod
@@ -1314,7 +1314,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_float_attribute_by_metadata_key"></a>
 
-#### get_float_attribute_by_metadata_key
+#### get\_float\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1335,7 +1335,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_float_attribute"></a>
 
-#### get_float_attribute
+#### get\_float\_attribute
 
 ```python
 @classmethod
@@ -1356,7 +1356,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_double_attribute_by_metadata_key"></a>
 
-#### get_double_attribute_by_metadata_key
+#### get\_double\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1377,7 +1377,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_double_attribute"></a>
 
-#### get_double_attribute
+#### get\_double\_attribute
 
 ```python
 @classmethod
@@ -1398,7 +1398,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_bool_attribute_by_metadata_key"></a>
 
-#### get_bool_attribute_by_metadata_key
+#### get\_bool\_attribute\_by\_metadata\_key
 
 ```python
 @classmethod
@@ -1419,7 +1419,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.get_bool_attribute"></a>
 
-#### get_bool_attribute
+#### get\_bool\_attribute
 
 ```python
 @classmethod
@@ -1440,7 +1440,7 @@ Returns:
 
 <a id="unreal.PCGMetadataAccessorHelpers.copy_point"></a>
 
-#### copy_point
+#### copy\_point
 
 ```python
 @classmethod

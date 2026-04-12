@@ -20,7 +20,7 @@ AISense
 
 <a id="unreal.AISense.notify_type"></a>
 
-#### notify_type
+#### notify\_type
 
 ```python
 @property
@@ -31,7 +31,7 @@ def notify_type() -> AISenseNotifyType
 
 <a id="unreal.AISense.wants_new_pawn_notification"></a>
 
-#### wants_new_pawn_notification
+#### wants\_new\_pawn\_notification
 
 ```python
 @property
@@ -43,7 +43,7 @@ def wants_new_pawn_notification() -> bool
 
 <a id="unreal.AISense.auto_register_all_pawns_as_sources"></a>
 
-#### auto_register_all_pawns_as_sources
+#### auto\_register\_all\_pawns\_as\_sources
 
 ```python
 @property

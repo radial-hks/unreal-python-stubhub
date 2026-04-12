@@ -18,7 +18,7 @@ Allows the user to specify non-uniform beat durations in odd meters
 
 <a id="unreal.QuartzPulseOverrideStep.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -29,7 +29,7 @@ def __init__(
 
 <a id="unreal.QuartzPulseOverrideStep.number_of_pulses"></a>
 
-#### number_of_pulses
+#### number\_of\_pulses
 
 ```python
 @property
@@ -40,7 +40,7 @@ def number_of_pulses() -> int
 
 <a id="unreal.QuartzPulseOverrideStep.number_of_pulses"></a>
 
-#### number_of_pulses
+#### number\_of\_pulses
 
 ```python
 @number_of_pulses.setter
@@ -49,7 +49,7 @@ def number_of_pulses(value: int) -> None
 
 <a id="unreal.QuartzPulseOverrideStep.pulse_duration"></a>
 
-#### pulse_duration
+#### pulse\_duration
 
 ```python
 @property
@@ -60,7 +60,7 @@ def pulse_duration() -> QuartzCommandQuantization
 
 <a id="unreal.QuartzPulseOverrideStep.pulse_duration"></a>
 
-#### pulse_duration
+#### pulse\_duration
 
 ```python
 @pulse_duration.setter

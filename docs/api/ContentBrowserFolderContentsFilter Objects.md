@@ -19,7 +19,7 @@ class ContentBrowserFolderContentsFilter(StructBase)
 
 <a id="unreal.ContentBrowserFolderContentsFilter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.ContentBrowserFolderContentsFilter.item_type_filter"></a>
 
-#### item_type_filter
+#### item\_type\_filter
 
 ```python
 @property
@@ -47,7 +47,7 @@ def item_type_filter() -> ContentBrowserItemTypeFilter
 
 <a id="unreal.ContentBrowserFolderContentsFilter.item_type_filter"></a>
 
-#### item_type_filter
+#### item\_type\_filter
 
 ```python
 @item_type_filter.setter
@@ -56,7 +56,7 @@ def item_type_filter(value: ContentBrowserItemTypeFilter) -> None
 
 <a id="unreal.ContentBrowserFolderContentsFilter.item_category_filter"></a>
 
-#### item_category_filter
+#### item\_category\_filter
 
 ```python
 @property
@@ -67,7 +67,7 @@ def item_category_filter() -> ContentBrowserItemCategoryFilter
 
 <a id="unreal.ContentBrowserFolderContentsFilter.item_category_filter"></a>
 
-#### item_category_filter
+#### item\_category\_filter
 
 ```python
 @item_category_filter.setter
@@ -76,7 +76,7 @@ def item_category_filter(value: ContentBrowserItemCategoryFilter) -> None
 
 <a id="unreal.ContentBrowserFolderContentsFilter.item_attribute_filter"></a>
 
-#### item_attribute_filter
+#### item\_attribute\_filter
 
 ```python
 @property
@@ -87,7 +87,7 @@ def item_attribute_filter() -> ContentBrowserItemAttributeFilter
 
 <a id="unreal.ContentBrowserFolderContentsFilter.item_attribute_filter"></a>
 
-#### item_attribute_filter
+#### item\_attribute\_filter
 
 ```python
 @item_attribute_filter.setter

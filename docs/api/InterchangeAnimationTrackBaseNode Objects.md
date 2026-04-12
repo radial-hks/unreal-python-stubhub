@@ -14,7 +14,7 @@ Abstract class providing the minimal services required for an animation track no
 
 <a id="unreal.InterchangeAnimationTrackBaseNode.set_custom_completion_mode"></a>
 
-#### set_custom_completion_mode
+#### set\_custom\_completion\_mode
 
 ```python
 def set_custom_completion_mode(attribute_value: int) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeAnimationTrackBaseNode.get_custom_completion_mode"></a>
 
-#### get_custom_completion_mode
+#### get\_custom\_completion\_mode
 
 ```python
 def get_custom_completion_mode() -> Optional[int]

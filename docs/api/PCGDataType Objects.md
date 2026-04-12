@@ -30,13 +30,13 @@ WARNING: Please be mindful that combination of flags that are not explicitly def
 
 <a id="unreal.PCGDataType.LANDSCAPE_SPLINE"></a>
 
-#### LANDSCAPE_SPLINE
+#### LANDSCAPE\_SPLINE
 
 8
 
 <a id="unreal.PCGDataType.POLY_LINE"></a>
 
-#### POLY_LINE
+#### POLY\_LINE
 
 12
 
@@ -54,7 +54,7 @@ WARNING: Please be mindful that combination of flags that are not explicitly def
 
 <a id="unreal.PCGDataType.RENDER_TARGET"></a>
 
-#### RENDER_TARGET
+#### RENDER\_TARGET
 
 64
 
@@ -78,7 +78,7 @@ WARNING: Please be mindful that combination of flags that are not explicitly def
 
 <a id="unreal.PCGDataType.DYNAMIC_MESH"></a>
 
-#### DYNAMIC_MESH
+#### DYNAMIC\_MESH
 
 1024
 
@@ -102,7 +102,7 @@ WARNING: Please be mindful that combination of flags that are not explicitly def
 
 <a id="unreal.PCGDataType.POINT_OR_PARAM"></a>
 
-#### POINT_OR_PARAM
+#### POINT\_OR\_PARAM
 
 134217730: Combination of Param and Point, necessary for named-based serialization of enums.
 

@@ -31,7 +31,7 @@ EDynamic Box Type
 
 <a id="unreal.DynamicBoxType.VERTICAL_WRAP"></a>
 
-#### VERTICAL_WRAP
+#### VERTICAL\_WRAP
 
 3
 

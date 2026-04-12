@@ -143,7 +143,7 @@ Datasmith Imported Sequences Actor
 
 <a id="unreal.DatasmithImportedSequencesActor.imported_sequences"></a>
 
-#### imported_sequences
+#### imported\_sequences
 
 ```python
 @property
@@ -154,7 +154,7 @@ def imported_sequences() -> Array[LevelSequence]
 
 <a id="unreal.DatasmithImportedSequencesActor.imported_sequences"></a>
 
-#### imported_sequences
+#### imported\_sequences
 
 ```python
 @imported_sequences.setter
@@ -163,7 +163,7 @@ def imported_sequences(value: Array[LevelSequence]) -> None
 
 <a id="unreal.DatasmithImportedSequencesActor.play_level_sequence"></a>
 
-#### play_level_sequence
+#### play\_level\_sequence
 
 ```python
 def play_level_sequence(sequence_to_play: LevelSequence) -> None

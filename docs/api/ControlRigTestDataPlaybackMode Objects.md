@@ -20,13 +20,13 @@ EControl Rig Test Data Playback Mode
 
 <a id="unreal.ControlRigTestDataPlaybackMode.REPLAY_INPUTS"></a>
 
-#### REPLAY_INPUTS
+#### REPLAY\_INPUTS
 
 1
 
 <a id="unreal.ControlRigTestDataPlaybackMode.GROUND_TRUTH"></a>
 
-#### GROUND_TRUTH
+#### GROUND\_TRUTH
 
 2
 

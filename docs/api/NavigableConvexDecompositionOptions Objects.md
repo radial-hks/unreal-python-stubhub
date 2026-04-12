@@ -25,7 +25,7 @@ Note: this is similar to FComputeNegativeSpaceOptions, but with better default b
 
 <a id="unreal.NavigableConvexDecompositionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min_radius: float = 0.000000,
@@ -37,7 +37,7 @@ def __init__(min_radius: float = 0.000000,
 
 <a id="unreal.NavigableConvexDecompositionOptions.min_radius"></a>
 
-#### min_radius
+#### min\_radius
 
 ```python
 @property
@@ -48,7 +48,7 @@ def min_radius() -> float
 
 <a id="unreal.NavigableConvexDecompositionOptions.min_radius"></a>
 
-#### min_radius
+#### min\_radius
 
 ```python
 @min_radius.setter
@@ -77,7 +77,7 @@ def tolerance(value: float) -> None
 
 <a id="unreal.NavigableConvexDecompositionOptions.ignore_unreachable_internal_space"></a>
 
-#### ignore_unreachable_internal_space
+#### ignore\_unreachable\_internal\_space
 
 ```python
 @property
@@ -88,7 +88,7 @@ def ignore_unreachable_internal_space() -> bool
 
 <a id="unreal.NavigableConvexDecompositionOptions.ignore_unreachable_internal_space"></a>
 
-#### ignore_unreachable_internal_space
+#### ignore\_unreachable\_internal\_space
 
 ```python
 @ignore_unreachable_internal_space.setter
@@ -97,7 +97,7 @@ def ignore_unreachable_internal_space(value: bool) -> None
 
 <a id="unreal.NavigableConvexDecompositionOptions.custom_navigable_positions"></a>
 
-#### custom_navigable_positions
+#### custom\_navigable\_positions
 
 ```python
 @property
@@ -108,7 +108,7 @@ def custom_navigable_positions() -> Array[Vector]
 
 <a id="unreal.NavigableConvexDecompositionOptions.custom_navigable_positions"></a>
 
-#### custom_navigable_positions
+#### custom\_navigable\_positions
 
 ```python
 @custom_navigable_positions.setter
@@ -117,7 +117,7 @@ def custom_navigable_positions(value: Array[Vector]) -> None
 
 <a id="unreal.NavigableConvexDecompositionOptions.unreachable_planes"></a>
 
-#### unreachable_planes
+#### unreachable\_planes
 
 ```python
 @property
@@ -129,7 +129,7 @@ Use this for example to specify a ground plane, if a mesh will always be placed 
 
 <a id="unreal.NavigableConvexDecompositionOptions.unreachable_planes"></a>
 
-#### unreachable_planes
+#### unreachable\_planes
 
 ```python
 @unreachable_planes.setter

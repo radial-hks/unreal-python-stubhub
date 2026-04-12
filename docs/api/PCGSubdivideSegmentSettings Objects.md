@@ -59,7 +59,7 @@ PCGSubdivide Segment Settings
 
 <a id="unreal.PCGSubdivideSegmentSettings.subdivision_axis"></a>
 
-#### subdivision_axis
+#### subdivision\_axis
 
 ```python
 @property
@@ -70,7 +70,7 @@ def subdivision_axis() -> PCGSplitAxis
 
 <a id="unreal.PCGSubdivideSegmentSettings.subdivision_axis"></a>
 
-#### subdivision_axis
+#### subdivision\_axis
 
 ```python
 @subdivision_axis.setter
@@ -79,7 +79,7 @@ def subdivision_axis(value: PCGSplitAxis) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.flip_axis_as_attribute"></a>
 
-#### flip_axis_as_attribute
+#### flip\_axis\_as\_attribute
 
 ```python
 @property
@@ -90,7 +90,7 @@ def flip_axis_as_attribute() -> bool
 
 <a id="unreal.PCGSubdivideSegmentSettings.flip_axis_as_attribute"></a>
 
-#### flip_axis_as_attribute
+#### flip\_axis\_as\_attribute
 
 ```python
 @flip_axis_as_attribute.setter
@@ -99,7 +99,7 @@ def flip_axis_as_attribute(value: bool) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.should_flip_axis"></a>
 
-#### should_flip_axis
+#### should\_flip\_axis
 
 ```python
 @property
@@ -110,7 +110,7 @@ def should_flip_axis() -> bool
 
 <a id="unreal.PCGSubdivideSegmentSettings.should_flip_axis"></a>
 
-#### should_flip_axis
+#### should\_flip\_axis
 
 ```python
 @should_flip_axis.setter
@@ -119,7 +119,7 @@ def should_flip_axis(value: bool) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.flip_axis_attribute"></a>
 
-#### flip_axis_attribute
+#### flip\_axis\_attribute
 
 ```python
 @property
@@ -130,7 +130,7 @@ def flip_axis_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGSubdivideSegmentSettings.flip_axis_attribute"></a>
 
-#### flip_axis_attribute
+#### flip\_axis\_attribute
 
 ```python
 @flip_axis_attribute.setter
@@ -139,7 +139,7 @@ def flip_axis_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.accept_incomplete_subdivision"></a>
 
-#### accept_incomplete_subdivision
+#### accept\_incomplete\_subdivision
 
 ```python
 @property
@@ -150,7 +150,7 @@ def accept_incomplete_subdivision() -> bool
 
 <a id="unreal.PCGSubdivideSegmentSettings.accept_incomplete_subdivision"></a>
 
-#### accept_incomplete_subdivision
+#### accept\_incomplete\_subdivision
 
 ```python
 @accept_incomplete_subdivision.setter
@@ -159,7 +159,7 @@ def accept_incomplete_subdivision(value: bool) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.output_module_index_attribute"></a>
 
-#### output_module_index_attribute
+#### output\_module\_index\_attribute
 
 ```python
 @property
@@ -170,7 +170,7 @@ def output_module_index_attribute() -> bool
 
 <a id="unreal.PCGSubdivideSegmentSettings.output_module_index_attribute"></a>
 
-#### output_module_index_attribute
+#### output\_module\_index\_attribute
 
 ```python
 @output_module_index_attribute.setter
@@ -179,7 +179,7 @@ def output_module_index_attribute(value: bool) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.module_index_attribute_name"></a>
 
-#### module_index_attribute_name
+#### module\_index\_attribute\_name
 
 ```python
 @property
@@ -190,7 +190,7 @@ def module_index_attribute_name() -> Name
 
 <a id="unreal.PCGSubdivideSegmentSettings.module_index_attribute_name"></a>
 
-#### module_index_attribute_name
+#### module\_index\_attribute\_name
 
 ```python
 @module_index_attribute_name.setter
@@ -199,7 +199,7 @@ def module_index_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.output_extremity_attributes"></a>
 
-#### output_extremity_attributes
+#### output\_extremity\_attributes
 
 ```python
 @property
@@ -210,7 +210,7 @@ def output_extremity_attributes() -> bool
 
 <a id="unreal.PCGSubdivideSegmentSettings.output_extremity_attributes"></a>
 
-#### output_extremity_attributes
+#### output\_extremity\_attributes
 
 ```python
 @output_extremity_attributes.setter
@@ -219,7 +219,7 @@ def output_extremity_attributes(value: bool) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.is_first_attribute_name"></a>
 
-#### is_first_attribute_name
+#### is\_first\_attribute\_name
 
 ```python
 @property
@@ -230,7 +230,7 @@ def is_first_attribute_name() -> Name
 
 <a id="unreal.PCGSubdivideSegmentSettings.is_first_attribute_name"></a>
 
-#### is_first_attribute_name
+#### is\_first\_attribute\_name
 
 ```python
 @is_first_attribute_name.setter
@@ -239,7 +239,7 @@ def is_first_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.is_final_attribute_name"></a>
 
-#### is_final_attribute_name
+#### is\_final\_attribute\_name
 
 ```python
 @property
@@ -250,7 +250,7 @@ def is_final_attribute_name() -> Name
 
 <a id="unreal.PCGSubdivideSegmentSettings.is_final_attribute_name"></a>
 
-#### is_final_attribute_name
+#### is\_final\_attribute\_name
 
 ```python
 @is_final_attribute_name.setter
@@ -259,7 +259,7 @@ def is_final_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.output_extremity_neighbor_index_attribute"></a>
 
-#### output_extremity_neighbor_index_attribute
+#### output\_extremity\_neighbor\_index\_attribute
 
 ```python
 @property
@@ -270,7 +270,7 @@ def output_extremity_neighbor_index_attribute() -> bool
 
 <a id="unreal.PCGSubdivideSegmentSettings.output_extremity_neighbor_index_attribute"></a>
 
-#### output_extremity_neighbor_index_attribute
+#### output\_extremity\_neighbor\_index\_attribute
 
 ```python
 @output_extremity_neighbor_index_attribute.setter
@@ -279,7 +279,7 @@ def output_extremity_neighbor_index_attribute(value: bool) -> None
 
 <a id="unreal.PCGSubdivideSegmentSettings.extremity_neighbor_index_attribute_name"></a>
 
-#### extremity_neighbor_index_attribute_name
+#### extremity\_neighbor\_index\_attribute\_name
 
 ```python
 @property
@@ -290,7 +290,7 @@ def extremity_neighbor_index_attribute_name() -> Name
 
 <a id="unreal.PCGSubdivideSegmentSettings.extremity_neighbor_index_attribute_name"></a>
 
-#### extremity_neighbor_index_attribute_name
+#### extremity\_neighbor\_index\_attribute\_name
 
 ```python
 @extremity_neighbor_index_attribute_name.setter

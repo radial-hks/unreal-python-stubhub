@@ -18,7 +18,7 @@ Rig Tag Connection Rule
 
 <a id="unreal.RigTagConnectionRule.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tag: Name = "None") -> None

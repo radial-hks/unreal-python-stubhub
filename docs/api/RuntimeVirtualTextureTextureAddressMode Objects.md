@@ -13,13 +13,13 @@ Defines texture addressing behavior.
 
 <a id="unreal.RuntimeVirtualTextureTextureAddressMode.RVTTA_CLAMP"></a>
 
-#### RVTTA_CLAMP
+#### RVTTA\_CLAMP
 
 0: Clamp mode.
 
 <a id="unreal.RuntimeVirtualTextureTextureAddressMode.RVTTA_WRAP"></a>
 
-#### RVTTA_WRAP
+#### RVTTA\_WRAP
 
 1: Wrap mode.
 

@@ -57,7 +57,7 @@ A throbber widget that orients images in a spinning circle.
 
 <a id="unreal.CircularThrobber.number_of_pieces"></a>
 
-#### number_of_pieces
+#### number\_of\_pieces
 
 ```python
 @property
@@ -68,7 +68,7 @@ def number_of_pieces() -> int
 
 <a id="unreal.CircularThrobber.number_of_pieces"></a>
 
-#### number_of_pieces
+#### number\_of\_pieces
 
 ```python
 @number_of_pieces.setter
@@ -137,7 +137,7 @@ def image(value: SlateBrush) -> None
 
 <a id="unreal.CircularThrobber.set_radius"></a>
 
-#### set_radius
+#### set\_radius
 
 ```python
 def set_radius(radius: float) -> None
@@ -151,7 +151,7 @@ Args:
 
 <a id="unreal.CircularThrobber.set_period"></a>
 
-#### set_period
+#### set\_period
 
 ```python
 def set_period(period: float) -> None
@@ -165,7 +165,7 @@ Args:
 
 <a id="unreal.CircularThrobber.set_number_of_pieces"></a>
 
-#### set_number_of_pieces
+#### set\_number\_of\_pieces
 
 ```python
 def set_number_of_pieces(number_of_pieces: int) -> None

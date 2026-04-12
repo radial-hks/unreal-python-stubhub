@@ -17,7 +17,7 @@ Interchange User Defined Attribute Info
 
 <a id="unreal.InterchangeUserDefinedAttributeInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: str = "") -> None

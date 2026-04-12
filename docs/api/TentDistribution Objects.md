@@ -19,7 +19,7 @@ Tent Distribution
 
 <a id="unreal.TentDistribution.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tip_altitude: float = 0.000000,
@@ -29,7 +29,7 @@ def __init__(tip_altitude: float = 0.000000,
 
 <a id="unreal.TentDistribution.tip_altitude"></a>
 
-#### tip_altitude
+#### tip\_altitude
 
 ```python
 @property
@@ -40,7 +40,7 @@ def tip_altitude() -> float
 
 <a id="unreal.TentDistribution.tip_value"></a>
 
-#### tip_value
+#### tip\_value
 
 ```python
 @property

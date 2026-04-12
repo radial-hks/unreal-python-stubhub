@@ -13,19 +13,19 @@ Describes rules for network replicating a vector efficiently
 
 <a id="unreal.VectorQuantization.ROUND_WHOLE_NUMBER"></a>
 
-#### ROUND_WHOLE_NUMBER
+#### ROUND\_WHOLE\_NUMBER
 
 0: Each vector component will be rounded to the nearest whole number.
 
 <a id="unreal.VectorQuantization.ROUND_ONE_DECIMAL"></a>
 
-#### ROUND_ONE_DECIMAL
+#### ROUND\_ONE\_DECIMAL
 
 1: Each vector component will be rounded, preserving one decimal place.
 
 <a id="unreal.VectorQuantization.ROUND_TWO_DECIMALS"></a>
 
-#### ROUND_TWO_DECIMALS
+#### ROUND\_TWO\_DECIMALS
 
 2: Each vector component will be rounded, preserving two decimal places.
 

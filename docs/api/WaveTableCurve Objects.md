@@ -20,7 +20,7 @@ EWave Table Curve
 
 <a id="unreal.WaveTableCurve.LINEAR_INV"></a>
 
-#### LINEAR_INV
+#### LINEAR\_INV
 
 1
 
@@ -32,7 +32,7 @@ EWave Table Curve
 
 <a id="unreal.WaveTableCurve.EXP_INVERSE"></a>
 
-#### EXP_INVERSE
+#### EXP\_INVERSE
 
 3
 
@@ -50,13 +50,13 @@ EWave Table Curve
 
 <a id="unreal.WaveTableCurve.SIN_FULL"></a>
 
-#### SIN_FULL
+#### SIN\_FULL
 
 6
 
 <a id="unreal.WaveTableCurve.S_CURVE"></a>
 
-#### S_CURVE
+#### S\_CURVE
 
 7
 

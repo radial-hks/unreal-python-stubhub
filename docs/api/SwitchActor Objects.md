@@ -145,7 +145,7 @@ to expose this capability as a property capture
 
 <a id="unreal.SwitchActor.select_option"></a>
 
-#### select_option
+#### select\_option
 
 ```python
 def select_option(option_index: int) -> None
@@ -159,7 +159,7 @@ Args:
 
 <a id="unreal.SwitchActor.get_selected_option"></a>
 
-#### get_selected_option
+#### get\_selected\_option
 
 ```python
 def get_selected_option() -> int
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.SwitchActor.get_options"></a>
 
-#### get_options
+#### get\_options
 
 ```python
 def get_options() -> Array[Actor]

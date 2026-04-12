@@ -8,7 +8,7 @@ Type for all Unreal exposed array instances
 
 <a id="unreal.Array.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: type) -> None
@@ -16,7 +16,7 @@ def __init__(type: type) -> None
 
 <a id="unreal.Array.__setitem__"></a>
 
-#### __setitem__
+#### \_\_setitem\_\_
 
 ```python
 def __setitem__(index: int, value: _ElemType) -> None
@@ -24,7 +24,7 @@ def __setitem__(index: int, value: _ElemType) -> None
 
 <a id="unreal.Array.__getitem__"></a>
 
-#### __getitem__
+#### \_\_getitem\_\_
 
 ```python
 def __getitem__(index: int) -> _ElemType
@@ -32,7 +32,7 @@ def __getitem__(index: int) -> _ElemType
 
 <a id="unreal.Array.__class_getitem__"></a>
 
-#### __class_getitem__
+#### \_\_class\_getitem\_\_
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ cast(cls, type: Type[_ElemType], obj: object) -> Array[_ElemType] -- cast the gi
 
 <a id="unreal.Array.__copy__"></a>
 
-#### __copy__
+#### \_\_copy\_\_
 
 ```python
 def __copy__() -> Array[_ElemType]

@@ -16,7 +16,7 @@ A typical process for capture consits of the following process:
 
 <a id="unreal.MovieSceneCaptureProtocolBase.is_capturing"></a>
 
-#### is_capturing
+#### is\_capturing
 
 ```python
 def is_capturing() -> bool
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.MovieSceneCaptureProtocolBase.get_state"></a>
 
-#### get_state
+#### get\_state
 
 ```python
 def get_state() -> MovieSceneCaptureProtocolState

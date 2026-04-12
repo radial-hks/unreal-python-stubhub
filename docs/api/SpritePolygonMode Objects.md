@@ -14,25 +14,25 @@ Method of specifying polygons for a sprite's render or collision data
 
 <a id="unreal.SpritePolygonMode.SOURCE_BOUNDING_BOX"></a>
 
-#### SOURCE_BOUNDING_BOX
+#### SOURCE\_BOUNDING\_BOX
 
 0: Use the bounding box of the source sprite (no optimization)
 
 <a id="unreal.SpritePolygonMode.TIGHT_BOUNDING_BOX"></a>
 
-#### TIGHT_BOUNDING_BOX
+#### TIGHT\_BOUNDING\_BOX
 
 1: Tighten the bounding box around the sprite to exclude fully transparent areas (the default)
 
 <a id="unreal.SpritePolygonMode.SHRINK_WRAPPED"></a>
 
-#### SHRINK_WRAPPED
+#### SHRINK\_WRAPPED
 
 2: Shrink-wrapped geometry
 
 <a id="unreal.SpritePolygonMode.FULLY_CUSTOM"></a>
 
-#### FULLY_CUSTOM
+#### FULLY\_CUSTOM
 
 3: Fully custom geometry; edited by hand
 

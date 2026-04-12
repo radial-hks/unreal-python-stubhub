@@ -35,7 +35,7 @@ In the UE Editor this is generally a UTexture2D
 
 <a id="unreal.CreateTextureObjectParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -23,7 +23,7 @@ Current State of a physical Mouse device at a point in time.
 
 <a id="unreal.MouseInputDeviceState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -100,7 +100,7 @@ def right(value: DeviceButtonState) -> None
 
 <a id="unreal.MouseInputDeviceState.wheel_delta"></a>
 
-#### wheel_delta
+#### wheel\_delta
 
 ```python
 @property
@@ -111,7 +111,7 @@ def wheel_delta() -> float
 
 <a id="unreal.MouseInputDeviceState.wheel_delta"></a>
 
-#### wheel_delta
+#### wheel\_delta
 
 ```python
 @wheel_delta.setter
@@ -160,7 +160,7 @@ def delta2d(value: Vector2D) -> None
 
 <a id="unreal.MouseInputDeviceState.world_ray"></a>
 
-#### world_ray
+#### world\_ray
 
 ```python
 @property
@@ -171,7 +171,7 @@ def world_ray() -> Ray
 
 <a id="unreal.MouseInputDeviceState.world_ray"></a>
 
-#### world_ray
+#### world\_ray
 
 ```python
 @world_ray.setter

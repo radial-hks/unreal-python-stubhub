@@ -34,7 +34,7 @@ Audio Material Envelope Settings
 
 <a id="unreal.AudioMaterialEnvelopeSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(attack_curve: float = 0.000000,
@@ -49,7 +49,7 @@ def __init__(attack_curve: float = 0.000000,
 
 <a id="unreal.AudioMaterialEnvelopeSettings.attack_curve"></a>
 
-#### attack_curve
+#### attack\_curve
 
 ```python
 @property
@@ -61,7 +61,7 @@ Attack is the time taken for the rise of the level from zero to a given value.
 
 <a id="unreal.AudioMaterialEnvelopeSettings.attack_curve"></a>
 
-#### attack_curve
+#### attack\_curve
 
 ```python
 @attack_curve.setter
@@ -70,7 +70,7 @@ def attack_curve(value: float) -> None
 
 <a id="unreal.AudioMaterialEnvelopeSettings.attack_value"></a>
 
-#### attack_value
+#### attack\_value
 
 ```python
 @property
@@ -82,7 +82,7 @@ Attack is the time taken for the rise of the level from zero to a given value.
 
 <a id="unreal.AudioMaterialEnvelopeSettings.attack_value"></a>
 
-#### attack_value
+#### attack\_value
 
 ```python
 @attack_value.setter
@@ -91,7 +91,7 @@ def attack_value(value: float) -> None
 
 <a id="unreal.AudioMaterialEnvelopeSettings.attack_time"></a>
 
-#### attack_time
+#### attack\_time
 
 ```python
 @property
@@ -103,7 +103,7 @@ Attack is the time taken for the rise of the level from zero to a given value.
 
 <a id="unreal.AudioMaterialEnvelopeSettings.attack_time"></a>
 
-#### attack_time
+#### attack\_time
 
 ```python
 @attack_time.setter
@@ -112,7 +112,7 @@ def attack_time(value: float) -> None
 
 <a id="unreal.AudioMaterialEnvelopeSettings.decay_curve"></a>
 
-#### decay_curve
+#### decay\_curve
 
 ```python
 @property
@@ -124,7 +124,7 @@ Decay is the time taken for the level to reduce from the attack level to the sus
 
 <a id="unreal.AudioMaterialEnvelopeSettings.decay_curve"></a>
 
-#### decay_curve
+#### decay\_curve
 
 ```python
 @decay_curve.setter
@@ -133,7 +133,7 @@ def decay_curve(value: float) -> None
 
 <a id="unreal.AudioMaterialEnvelopeSettings.decay_time"></a>
 
-#### decay_time
+#### decay\_time
 
 ```python
 @property
@@ -145,7 +145,7 @@ Decay is the time taken for the level to reduce from the attack level to the sus
 
 <a id="unreal.AudioMaterialEnvelopeSettings.decay_time"></a>
 
-#### decay_time
+#### decay\_time
 
 ```python
 @decay_time.setter
@@ -154,7 +154,7 @@ def decay_time(value: float) -> None
 
 <a id="unreal.AudioMaterialEnvelopeSettings.sustain_value"></a>
 
-#### sustain_value
+#### sustain\_value
 
 ```python
 @property
@@ -166,7 +166,7 @@ Sustain is the level maintained until release stage.
 
 <a id="unreal.AudioMaterialEnvelopeSettings.sustain_value"></a>
 
-#### sustain_value
+#### sustain\_value
 
 ```python
 @sustain_value.setter
@@ -175,7 +175,7 @@ def sustain_value(value: float) -> None
 
 <a id="unreal.AudioMaterialEnvelopeSettings.release_curve"></a>
 
-#### release_curve
+#### release\_curve
 
 ```python
 @property
@@ -187,7 +187,7 @@ Release is the time taken for the level to decay from sustain to zero.
 
 <a id="unreal.AudioMaterialEnvelopeSettings.release_curve"></a>
 
-#### release_curve
+#### release\_curve
 
 ```python
 @release_curve.setter
@@ -196,7 +196,7 @@ def release_curve(value: float) -> None
 
 <a id="unreal.AudioMaterialEnvelopeSettings.release_time"></a>
 
-#### release_time
+#### release\_time
 
 ```python
 @property
@@ -208,7 +208,7 @@ Release is the time taken for the level to decay from sustain to zero.
 
 <a id="unreal.AudioMaterialEnvelopeSettings.release_time"></a>
 
-#### release_time
+#### release\_time
 
 ```python
 @release_time.setter

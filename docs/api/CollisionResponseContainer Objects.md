@@ -15,13 +15,8 @@ Container for indicating a set of collision channels that this object will colli
 
 - ``camera`` (CollisionResponseType):  [Read-Write] 3
 - ``destructible`` (CollisionResponseType):  [Read-Write] 6
-- ``engine_trace_channel1`` (CollisionResponseType):  [Read-Write] Unspecified Engine Trace Channels
-- ``engine_trace_channel2`` (CollisionResponseType):  [Read-Write] 8
-- ``engine_trace_channel3`` (CollisionResponseType):  [Read-Write] 9
-- ``engine_trace_channel4`` (CollisionResponseType):  [Read-Write] 10
-- ``engine_trace_channel5`` (CollisionResponseType):  [Read-Write] 11
-- ``engine_trace_channel6`` (CollisionResponseType):  [Read-Write] 12
-- ``game_trace_channel1`` (CollisionResponseType):  [Read-Write] in order to use this custom channels
+- ``ecc_custom_api`` (CollisionResponseType):  [Read-Write] 15
+- ``ecc_projectile`` (CollisionResponseType):  [Read-Write] in order to use this custom channels
   we recommend to define in your local file
   - i.e. #define COLLISION_WEAPON               ECC_GameTraceChannel1
   and make sure you customize these it in INI file by
@@ -34,6 +29,12 @@ Container for indicating a set of collision channels that this object will colli
   also in the INI file, you can override collision profiles that are defined by simply redefining
   note that Weapon isn't defined in the BaseEngine.ini file, but "Trigger" is defined in Engine
   +Profiles=(Name="Trigger",CollisionEnabled=QueryOnly,ObjectTypeName=WorldDynamic, DefaultResponse=ECR_Overlap, CustomResponses=((Channel=Visibility, Response=ECR_Ignore), (Channel=Weapon, Response=ECR_Ignore)))
+- ``engine_trace_channel1`` (CollisionResponseType):  [Read-Write] Unspecified Engine Trace Channels
+- ``engine_trace_channel2`` (CollisionResponseType):  [Read-Write] 8
+- ``engine_trace_channel3`` (CollisionResponseType):  [Read-Write] 9
+- ``engine_trace_channel4`` (CollisionResponseType):  [Read-Write] 10
+- ``engine_trace_channel5`` (CollisionResponseType):  [Read-Write] 11
+- ``engine_trace_channel6`` (CollisionResponseType):  [Read-Write] 12
 - ``game_trace_channel10`` (CollisionResponseType):  [Read-Write] 22
 - ``game_trace_channel11`` (CollisionResponseType):  [Read-Write] 23
 - ``game_trace_channel12`` (CollisionResponseType):  [Read-Write] 24
@@ -44,7 +45,6 @@ Container for indicating a set of collision channels that this object will colli
 - ``game_trace_channel17`` (CollisionResponseType):  [Read-Write] 28
 - ``game_trace_channel18`` (CollisionResponseType):  [Read-Write] 30
 - ``game_trace_channel2`` (CollisionResponseType):  [Read-Write] 14
-- ``game_trace_channel3`` (CollisionResponseType):  [Read-Write] 15
 - ``game_trace_channel4`` (CollisionResponseType):  [Read-Write] 16
 - ``game_trace_channel5`` (CollisionResponseType):  [Read-Write] 17
 - ``game_trace_channel6`` (CollisionResponseType):  [Read-Write] 18
@@ -64,7 +64,7 @@ Container for indicating a set of collision channels that this object will colli
 
 <a id="unreal.CollisionResponseContainer.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -88,12 +88,10 @@ def __init__(
     ECR_IGNORE,
     engine_trace_channel6: CollisionResponseType = CollisionResponseType.
     ECR_IGNORE,
-    game_trace_channel1: CollisionResponseType = CollisionResponseType.
-    ECR_IGNORE,
+    ecc_projectile: CollisionResponseType = CollisionResponseType.ECR_IGNORE,
     game_trace_channel2: CollisionResponseType = CollisionResponseType.
     ECR_IGNORE,
-    game_trace_channel3: CollisionResponseType = CollisionResponseType.
-    ECR_IGNORE,
+    ecc_custom_api: CollisionResponseType = CollisionResponseType.ECR_IGNORE,
     game_trace_channel4: CollisionResponseType = CollisionResponseType.
     ECR_IGNORE,
     game_trace_channel5: CollisionResponseType = CollisionResponseType.
@@ -129,7 +127,7 @@ def __init__(
 
 <a id="unreal.CollisionResponseContainer.world_static"></a>
 
-#### world_static
+#### world\_static
 
 ```python
 @property
@@ -155,7 +153,7 @@ deprecated: 'static' was renamed to 'world_static'.
 
 <a id="unreal.CollisionResponseContainer.world_dynamic"></a>
 
-#### world_dynamic
+#### world\_dynamic
 
 ```python
 @property
@@ -210,7 +208,7 @@ def camera() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.physics_body"></a>
 
-#### physics_body
+#### physics\_body
 
 ```python
 @property
@@ -221,7 +219,7 @@ def physics_body() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.rigid_body"></a>
 
-#### rigid_body
+#### rigid\_body
 
 ```python
 @property
@@ -254,7 +252,7 @@ def destructible() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.engine_trace_channel1"></a>
 
-#### engine_trace_channel1
+#### engine\_trace\_channel1
 
 ```python
 @property
@@ -265,7 +263,7 @@ def engine_trace_channel1() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.engine_trace_channel2"></a>
 
-#### engine_trace_channel2
+#### engine\_trace\_channel2
 
 ```python
 @property
@@ -276,7 +274,7 @@ def engine_trace_channel2() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.engine_trace_channel3"></a>
 
-#### engine_trace_channel3
+#### engine\_trace\_channel3
 
 ```python
 @property
@@ -287,7 +285,7 @@ def engine_trace_channel3() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.engine_trace_channel4"></a>
 
-#### engine_trace_channel4
+#### engine\_trace\_channel4
 
 ```python
 @property
@@ -298,7 +296,7 @@ def engine_trace_channel4() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.engine_trace_channel5"></a>
 
-#### engine_trace_channel5
+#### engine\_trace\_channel5
 
 ```python
 @property
@@ -309,7 +307,7 @@ def engine_trace_channel5() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.engine_trace_channel6"></a>
 
-#### engine_trace_channel6
+#### engine\_trace\_channel6
 
 ```python
 @property
@@ -318,13 +316,13 @@ def engine_trace_channel6() -> CollisionResponseType
 
 (CollisionResponseType):  [Read-Only] 12
 
-<a id="unreal.CollisionResponseContainer.game_trace_channel1"></a>
+<a id="unreal.CollisionResponseContainer.ecc_projectile"></a>
 
-#### game_trace_channel1
+#### ecc\_projectile
 
 ```python
 @property
-def game_trace_channel1() -> CollisionResponseType
+def ecc_projectile() -> CollisionResponseType
 ```
 
 (CollisionResponseType):  [Read-Only] in order to use this custom channels
@@ -343,7 +341,7 @@ note that Weapon isn't defined in the BaseEngine.ini file, but "Trigger" is defi
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel2"></a>
 
-#### game_trace_channel2
+#### game\_trace\_channel2
 
 ```python
 @property
@@ -352,20 +350,20 @@ def game_trace_channel2() -> CollisionResponseType
 
 (CollisionResponseType):  [Read-Only] 14
 
-<a id="unreal.CollisionResponseContainer.game_trace_channel3"></a>
+<a id="unreal.CollisionResponseContainer.ecc_custom_api"></a>
 
-#### game_trace_channel3
+#### ecc\_custom\_api
 
 ```python
 @property
-def game_trace_channel3() -> CollisionResponseType
+def ecc_custom_api() -> CollisionResponseType
 ```
 
 (CollisionResponseType):  [Read-Only] 15
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel4"></a>
 
-#### game_trace_channel4
+#### game\_trace\_channel4
 
 ```python
 @property
@@ -376,7 +374,7 @@ def game_trace_channel4() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel5"></a>
 
-#### game_trace_channel5
+#### game\_trace\_channel5
 
 ```python
 @property
@@ -387,7 +385,7 @@ def game_trace_channel5() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel6"></a>
 
-#### game_trace_channel6
+#### game\_trace\_channel6
 
 ```python
 @property
@@ -398,7 +396,7 @@ def game_trace_channel6() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel7"></a>
 
-#### game_trace_channel7
+#### game\_trace\_channel7
 
 ```python
 @property
@@ -409,7 +407,7 @@ def game_trace_channel7() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel8"></a>
 
-#### game_trace_channel8
+#### game\_trace\_channel8
 
 ```python
 @property
@@ -420,7 +418,7 @@ def game_trace_channel8() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel9"></a>
 
-#### game_trace_channel9
+#### game\_trace\_channel9
 
 ```python
 @property
@@ -431,7 +429,7 @@ def game_trace_channel9() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel10"></a>
 
-#### game_trace_channel10
+#### game\_trace\_channel10
 
 ```python
 @property
@@ -442,7 +440,7 @@ def game_trace_channel10() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel11"></a>
 
-#### game_trace_channel11
+#### game\_trace\_channel11
 
 ```python
 @property
@@ -453,7 +451,7 @@ def game_trace_channel11() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel12"></a>
 
-#### game_trace_channel12
+#### game\_trace\_channel12
 
 ```python
 @property
@@ -464,7 +462,7 @@ def game_trace_channel12() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel13"></a>
 
-#### game_trace_channel13
+#### game\_trace\_channel13
 
 ```python
 @property
@@ -475,7 +473,7 @@ def game_trace_channel13() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel14"></a>
 
-#### game_trace_channel14
+#### game\_trace\_channel14
 
 ```python
 @property
@@ -486,7 +484,7 @@ def game_trace_channel14() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel15"></a>
 
-#### game_trace_channel15
+#### game\_trace\_channel15
 
 ```python
 @property
@@ -497,7 +495,7 @@ def game_trace_channel15() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel16"></a>
 
-#### game_trace_channel16
+#### game\_trace\_channel16
 
 ```python
 @property
@@ -508,7 +506,7 @@ def game_trace_channel16() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel17"></a>
 
-#### game_trace_channel17
+#### game\_trace\_channel17
 
 ```python
 @property
@@ -519,7 +517,7 @@ def game_trace_channel17() -> CollisionResponseType
 
 <a id="unreal.CollisionResponseContainer.game_trace_channel18"></a>
 
-#### game_trace_channel18
+#### game\_trace\_channel18
 
 ```python
 @property

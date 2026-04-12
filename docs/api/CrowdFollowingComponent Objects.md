@@ -31,7 +31,7 @@ Crowd Following Component
 
 <a id="unreal.CrowdFollowingComponent.suspend_crowd_steering"></a>
 
-#### suspend_crowd_steering
+#### suspend\_crowd\_steering
 
 ```python
 def suspend_crowd_steering(suspend: bool) -> None

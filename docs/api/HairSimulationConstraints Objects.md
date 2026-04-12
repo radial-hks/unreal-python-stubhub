@@ -25,7 +25,7 @@ Hair Simulation Constraints
 
 <a id="unreal.HairSimulationConstraints.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bend_damping: float = 0.000000,
@@ -40,7 +40,7 @@ def __init__(bend_damping: float = 0.000000,
 
 <a id="unreal.HairSimulationConstraints.bend_damping"></a>
 
-#### bend_damping
+#### bend\_damping
 
 ```python
 @property
@@ -51,7 +51,7 @@ def bend_damping() -> float
 
 <a id="unreal.HairSimulationConstraints.bend_damping"></a>
 
-#### bend_damping
+#### bend\_damping
 
 ```python
 @bend_damping.setter
@@ -60,7 +60,7 @@ def bend_damping(value: float) -> None
 
 <a id="unreal.HairSimulationConstraints.bend_stiffness"></a>
 
-#### bend_stiffness
+#### bend\_stiffness
 
 ```python
 @property
@@ -71,7 +71,7 @@ def bend_stiffness() -> float
 
 <a id="unreal.HairSimulationConstraints.bend_stiffness"></a>
 
-#### bend_stiffness
+#### bend\_stiffness
 
 ```python
 @bend_stiffness.setter
@@ -80,7 +80,7 @@ def bend_stiffness(value: float) -> None
 
 <a id="unreal.HairSimulationConstraints.stretch_damping"></a>
 
-#### stretch_damping
+#### stretch\_damping
 
 ```python
 @property
@@ -91,7 +91,7 @@ def stretch_damping() -> float
 
 <a id="unreal.HairSimulationConstraints.stretch_damping"></a>
 
-#### stretch_damping
+#### stretch\_damping
 
 ```python
 @stretch_damping.setter
@@ -100,7 +100,7 @@ def stretch_damping(value: float) -> None
 
 <a id="unreal.HairSimulationConstraints.stretch_stiffness"></a>
 
-#### stretch_stiffness
+#### stretch\_stiffness
 
 ```python
 @property
@@ -111,7 +111,7 @@ def stretch_stiffness() -> float
 
 <a id="unreal.HairSimulationConstraints.stretch_stiffness"></a>
 
-#### stretch_stiffness
+#### stretch\_stiffness
 
 ```python
 @stretch_stiffness.setter
@@ -120,7 +120,7 @@ def stretch_stiffness(value: float) -> None
 
 <a id="unreal.HairSimulationConstraints.static_friction"></a>
 
-#### static_friction
+#### static\_friction
 
 ```python
 @property
@@ -131,7 +131,7 @@ def static_friction() -> float
 
 <a id="unreal.HairSimulationConstraints.static_friction"></a>
 
-#### static_friction
+#### static\_friction
 
 ```python
 @static_friction.setter
@@ -140,7 +140,7 @@ def static_friction(value: float) -> None
 
 <a id="unreal.HairSimulationConstraints.kinetic_friction"></a>
 
-#### kinetic_friction
+#### kinetic\_friction
 
 ```python
 @property
@@ -151,7 +151,7 @@ def kinetic_friction() -> float
 
 <a id="unreal.HairSimulationConstraints.kinetic_friction"></a>
 
-#### kinetic_friction
+#### kinetic\_friction
 
 ```python
 @kinetic_friction.setter
@@ -160,7 +160,7 @@ def kinetic_friction(value: float) -> None
 
 <a id="unreal.HairSimulationConstraints.strands_viscosity"></a>
 
-#### strands_viscosity
+#### strands\_viscosity
 
 ```python
 @property
@@ -171,7 +171,7 @@ def strands_viscosity() -> float
 
 <a id="unreal.HairSimulationConstraints.strands_viscosity"></a>
 
-#### strands_viscosity
+#### strands\_viscosity
 
 ```python
 @strands_viscosity.setter
@@ -180,7 +180,7 @@ def strands_viscosity(value: float) -> None
 
 <a id="unreal.HairSimulationConstraints.collision_radius"></a>
 
-#### collision_radius
+#### collision\_radius
 
 ```python
 @property
@@ -191,7 +191,7 @@ def collision_radius() -> float
 
 <a id="unreal.HairSimulationConstraints.collision_radius"></a>
 
-#### collision_radius
+#### collision\_radius
 
 ```python
 @collision_radius.setter

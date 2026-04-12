@@ -14,7 +14,7 @@ Wrapper for a module from the emitter stack.
 
 <a id="unreal.NiagaraPythonModule.get_object"></a>
 
-#### get_object
+#### get\_object
 
 ```python
 def get_object() -> NiagaraStackModuleItem

@@ -17,4 +17,4 @@ HLODBuilder Mesh Simplify Settings
 - ``hlod_material`` (MaterialInterface):  [Read-Write] Material that will be used by the generated HLOD static mesh
 - ``mesh_simplify_settings`` (MeshProxySettings):  [Read-Write] Simplified mesh generation settings
 
-<a id="unreal.BasicLineSetComponentBase"></a>
+<a id="unreal.InterchangeEditorPipelineBase"></a>

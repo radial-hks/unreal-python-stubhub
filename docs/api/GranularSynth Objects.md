@@ -67,7 +67,7 @@ Granular Synth
 
 <a id="unreal.GranularSynth.set_sustain_gain"></a>
 
-#### set_sustain_gain
+#### set\_sustain\_gain
 
 ```python
 def set_sustain_gain(sustain_gain: float) -> None
@@ -81,7 +81,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_sound_wave"></a>
 
-#### set_sound_wave
+#### set\_sound\_wave
 
 ```python
 def set_sound_wave(sound_wave: SoundWave) -> None
@@ -95,7 +95,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_scrub_mode"></a>
 
-#### set_scrub_mode
+#### set\_scrub\_mode
 
 ```python
 def set_scrub_mode(scrub_mode: bool) -> None
@@ -109,7 +109,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_release_time_msec"></a>
 
-#### set_release_time_msec
+#### set\_release\_time\_msec
 
 ```python
 def set_release_time_msec(release_time_msec: float) -> None
@@ -123,7 +123,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_playhead_time"></a>
 
-#### set_playhead_time
+#### set\_playhead\_time
 
 ```python
 def set_playhead_time(
@@ -143,7 +143,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_playback_speed"></a>
 
-#### set_playback_speed
+#### set\_playback\_speed
 
 ```python
 def set_playback_speed(playhead_rate: float) -> None
@@ -157,7 +157,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_grain_volume"></a>
 
-#### set_grain_volume
+#### set\_grain\_volume
 
 ```python
 def set_grain_volume(base_volume: float,
@@ -173,7 +173,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_grains_per_second"></a>
 
-#### set_grains_per_second
+#### set\_grains\_per\_second
 
 ```python
 def set_grains_per_second(grains_per_second: float) -> None
@@ -187,7 +187,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_grain_probability"></a>
 
-#### set_grain_probability
+#### set\_grain\_probability
 
 ```python
 def set_grain_probability(grain_probability: float) -> None
@@ -201,7 +201,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_grain_pitch"></a>
 
-#### set_grain_pitch
+#### set\_grain\_pitch
 
 ```python
 def set_grain_pitch(base_pitch: float,
@@ -217,7 +217,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_grain_pan"></a>
 
-#### set_grain_pan
+#### set\_grain\_pan
 
 ```python
 def set_grain_pan(base_pan: float,
@@ -233,7 +233,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_grain_envelope_type"></a>
 
-#### set_grain_envelope_type
+#### set\_grain\_envelope\_type
 
 ```python
 def set_grain_envelope_type(envelope_type: GranularSynthEnvelopeType) -> None
@@ -247,7 +247,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_grain_duration"></a>
 
-#### set_grain_duration
+#### set\_grain\_duration
 
 ```python
 def set_grain_duration(
@@ -264,7 +264,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_decay_time"></a>
 
-#### set_decay_time
+#### set\_decay\_time
 
 ```python
 def set_decay_time(decay_time_msec: float) -> None
@@ -278,7 +278,7 @@ Args:
 
 <a id="unreal.GranularSynth.set_attack_time"></a>
 
-#### set_attack_time
+#### set\_attack\_time
 
 ```python
 def set_attack_time(attack_time_msec: float) -> None
@@ -292,7 +292,7 @@ Args:
 
 <a id="unreal.GranularSynth.note_on"></a>
 
-#### note_on
+#### note\_on
 
 ```python
 def note_on(note: float, velocity: int, duration: float = -1.000000) -> None
@@ -308,7 +308,7 @@ Args:
 
 <a id="unreal.GranularSynth.note_off"></a>
 
-#### note_off
+#### note\_off
 
 ```python
 def note_off(note: float, kill: bool = False) -> None
@@ -323,7 +323,7 @@ Args:
 
 <a id="unreal.GranularSynth.is_loaded"></a>
 
-#### is_loaded
+#### is\_loaded
 
 ```python
 def is_loaded() -> bool
@@ -337,7 +337,7 @@ Returns:
 
 <a id="unreal.GranularSynth.get_sample_duration"></a>
 
-#### get_sample_duration
+#### get\_sample\_duration
 
 ```python
 def get_sample_duration() -> float
@@ -351,7 +351,7 @@ Returns:
 
 <a id="unreal.GranularSynth.get_current_playhead_time"></a>
 
-#### get_current_playhead_time
+#### get\_current\_playhead\_time
 
 ```python
 def get_current_playhead_time() -> float

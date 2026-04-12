@@ -14,7 +14,7 @@ Rig Hierarchy Controller
 
 <a id="unreal.RigHierarchyController.set_selection"></a>
 
-#### set_selection
+#### set\_selection
 
 ```python
 def set_selection(keys: Array[RigElementKey],
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.set_parent"></a>
 
-#### set_parent
+#### set\_parent
 
 ```python
 def set_parent(child: RigElementKey,
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.set_hierarchy"></a>
 
-#### set_hierarchy
+#### set\_hierarchy
 
 ```python
 def set_hierarchy(hierarchy: RigHierarchy) -> None
@@ -72,7 +72,7 @@ Args:
 
 <a id="unreal.RigHierarchyController.set_display_name"></a>
 
-#### set_display_name
+#### set\_display\_name
 
 ```python
 def set_display_name(control: RigElementKey,
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.set_control_settings"></a>
 
-#### set_control_settings
+#### set\_control\_settings
 
 ```python
 def set_control_settings(key: RigElementKey,
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.set_available_space_index"></a>
 
-#### set_available_space_index
+#### set\_available\_space\_index
 
 ```python
 def set_available_space_index(control: RigElementKey,
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.select_element"></a>
 
-#### select_element
+#### select\_element
 
 ```python
 def select_element(key: RigElementKey,
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.reorder_element"></a>
 
-#### reorder_element
+#### reorder\_element
 
 ```python
 def reorder_element(element: RigElementKey,
@@ -187,7 +187,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.rename_element"></a>
 
-#### rename_element
+#### rename\_element
 
 ```python
 def rename_element(element: RigElementKey,
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.remove_parent"></a>
 
-#### remove_parent
+#### remove\_parent
 
 ```python
 def remove_parent(child: RigElementKey,
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.remove_element"></a>
 
-#### remove_element
+#### remove\_element
 
 ```python
 def remove_element(element: RigElementKey,
@@ -258,7 +258,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.remove_channel_host"></a>
 
-#### remove_channel_host
+#### remove\_channel\_host
 
 ```python
 def remove_channel_host(channel: RigElementKey,
@@ -282,7 +282,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.remove_available_space"></a>
 
-#### remove_available_space
+#### remove\_available\_space
 
 ```python
 def remove_available_space(control: RigElementKey,
@@ -305,7 +305,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.remove_all_parents"></a>
 
-#### remove_all_parents
+#### remove\_all\_parents
 
 ```python
 def remove_all_parents(child: RigElementKey,
@@ -328,7 +328,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.mirror_elements"></a>
 
-#### mirror_elements
+#### mirror\_elements
 
 ```python
 def mirror_elements(
@@ -354,7 +354,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.import_from_text"></a>
 
-#### import_from_text
+#### import\_from\_text
 
 ```python
 def import_from_text(
@@ -380,7 +380,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.import_curves_from_skeletal_mesh"></a>
 
-#### import_curves_from_skeletal_mesh
+#### import\_curves\_from\_skeletal\_mesh
 
 ```python
 def import_curves_from_skeletal_mesh(
@@ -406,7 +406,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.import_curves_from_asset"></a>
 
-#### import_curves_from_asset
+#### import\_curves\_from\_asset
 
 ```python
 def import_curves_from_asset(asset_path: str,
@@ -429,7 +429,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.import_curves"></a>
 
-#### import_curves
+#### import\_curves
 
 ```python
 def import_curves(skeleton: Skeleton,
@@ -454,7 +454,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.import_bones_from_asset"></a>
 
-#### import_bones_from_asset
+#### import\_bones\_from\_asset
 
 ```python
 def import_bones_from_asset(asset_path: str,
@@ -481,7 +481,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.import_bones"></a>
 
-#### import_bones
+#### import\_bones
 
 ```python
 def import_bones(skeleton: Skeleton,
@@ -510,7 +510,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.get_hierarchy"></a>
 
-#### get_hierarchy
+#### get\_hierarchy
 
 ```python
 def get_hierarchy() -> RigHierarchy
@@ -524,7 +524,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.get_control_settings"></a>
 
-#### get_control_settings
+#### get\_control\_settings
 
 ```python
 def get_control_settings(key: RigElementKey) -> RigControlSettings
@@ -541,7 +541,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.generate_python_commands"></a>
 
-#### generate_python_commands
+#### generate\_python\_commands
 
 ```python
 def generate_python_commands() -> Array[str]
@@ -555,7 +555,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.export_to_text"></a>
 
-#### export_to_text
+#### export\_to\_text
 
 ```python
 def export_to_text(keys: Array[RigElementKey]) -> str
@@ -572,7 +572,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.export_selection_to_text"></a>
 
-#### export_selection_to_text
+#### export\_selection\_to\_text
 
 ```python
 def export_selection_to_text() -> str
@@ -586,7 +586,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.duplicate_elements"></a>
 
-#### duplicate_elements
+#### duplicate\_elements
 
 ```python
 def duplicate_elements(
@@ -610,7 +610,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.deselect_element"></a>
 
-#### deselect_element
+#### deselect\_element
 
 ```python
 def deselect_element(key: RigElementKey) -> bool
@@ -627,7 +627,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.clear_selection"></a>
 
-#### clear_selection
+#### clear\_selection
 
 ```python
 def clear_selection() -> bool
@@ -641,7 +641,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_socket"></a>
 
-#### add_socket
+#### add\_socket
 
 ```python
 def add_socket(name: Name,
@@ -672,7 +672,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_physics_element"></a>
 
-#### add_physics_element
+#### add\_physics\_element
 
 ```python
 def add_physics_element(name: Name,
@@ -701,7 +701,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_parent"></a>
 
-#### add_parent
+#### add\_parent
 
 ```python
 def add_parent(child: RigElementKey,
@@ -726,7 +726,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_null"></a>
 
-#### add_null
+#### add\_null
 
 ```python
 def add_null(name: Name,
@@ -753,7 +753,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_curve"></a>
 
-#### add_curve
+#### add\_curve
 
 ```python
 def add_curve(name: Name,
@@ -776,7 +776,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_control"></a>
 
-#### add_control
+#### add\_control
 
 ```python
 def add_control(name: Name,
@@ -803,7 +803,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_connector"></a>
 
-#### add_connector
+#### add\_connector
 
 ```python
 def add_connector(name: Name,
@@ -828,7 +828,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_channel_host"></a>
 
-#### add_channel_host
+#### add\_channel\_host
 
 ```python
 def add_channel_host(channel: RigElementKey,
@@ -852,7 +852,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_bone"></a>
 
-#### add_bone
+#### add\_bone
 
 ```python
 def add_bone(name: Name,
@@ -881,7 +881,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_available_space"></a>
 
-#### add_available_space
+#### add\_available\_space
 
 ```python
 def add_available_space(control: RigElementKey,
@@ -904,7 +904,7 @@ Returns:
 
 <a id="unreal.RigHierarchyController.add_animation_channel"></a>
 
-#### add_animation_channel
+#### add\_animation\_channel
 
 ```python
 def add_animation_channel(name: Name,

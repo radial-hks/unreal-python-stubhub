@@ -14,25 +14,25 @@ which skeleton are we referring to?
 
 <a id="unreal.PinBoneType.FULL_TRANSFORM"></a>
 
-#### FULL_TRANSFORM
+#### FULL\_TRANSFORM
 
 0
 
 <a id="unreal.PinBoneType.TRANSLATE_ONLY"></a>
 
-#### TRANSLATE_ONLY
+#### TRANSLATE\_ONLY
 
 1
 
 <a id="unreal.PinBoneType.ROTATE_ONLY"></a>
 
-#### ROTATE_ONLY
+#### ROTATE\_ONLY
 
 2
 
 <a id="unreal.PinBoneType.SCALE_ONLY"></a>
 
-#### SCALE_ONLY
+#### SCALE\_ONLY
 
 3
 

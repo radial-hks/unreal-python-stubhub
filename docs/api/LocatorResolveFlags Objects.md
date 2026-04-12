@@ -40,13 +40,13 @@ ELocator Resolve Flags
 
 <a id="unreal.LocatorResolveFlags.WILL_WAIT"></a>
 
-#### WILL_WAIT
+#### WILL\_WAIT
 
 8: Indicates the calling code is going to block waiting for the result.
 
 <a id="unreal.LocatorResolveFlags.ASYNC_WAIT"></a>
 
-#### ASYNC_WAIT
+#### ASYNC\_WAIT
 
 12: Combination of Async and WillWait.
 

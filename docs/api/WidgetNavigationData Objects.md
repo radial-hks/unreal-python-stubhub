@@ -18,7 +18,7 @@ Widget Navigation Data
 
 <a id="unreal.WidgetNavigationData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(rule: UINavigationRule = UINavigationRule.ESCAPE,
@@ -38,7 +38,7 @@ def rule() -> UINavigationRule
 
 <a id="unreal.WidgetNavigationData.widget_to_focus"></a>
 
-#### widget_to_focus
+#### widget\_to\_focus
 
 ```python
 @property

@@ -14,13 +14,13 @@ EGranular Synth Seek Type
 
 <a id="unreal.GranularSynthSeekType.FROM_BEGINNING"></a>
 
-#### FROM_BEGINNING
+#### FROM\_BEGINNING
 
 0
 
 <a id="unreal.GranularSynthSeekType.FROM_CURRENT_POSITION"></a>
 
-#### FROM_CURRENT_POSITION
+#### FROM\_CURRENT\_POSITION
 
 1
 

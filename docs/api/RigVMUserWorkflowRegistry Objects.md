@@ -14,7 +14,7 @@ Rig VMUser Workflow Registry
 
 <a id="unreal.RigVMUserWorkflowRegistry.unregister_provider"></a>
 
-#### unregister_provider
+#### unregister\_provider
 
 ```python
 def unregister_provider(handle: int) -> None
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.RigVMUserWorkflowRegistry.register_provider"></a>
 
-#### register_provider
+#### register\_provider
 
 ```python
 def register_provider(struct: ScriptStruct,
@@ -47,7 +47,7 @@ Returns:
 
 <a id="unreal.RigVMUserWorkflowRegistry.get_workflows"></a>
 
-#### get_workflows
+#### get\_workflows
 
 ```python
 def get_workflows(type: RigVMUserWorkflowType, struct: ScriptStruct,

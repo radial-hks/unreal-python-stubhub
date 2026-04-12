@@ -13,7 +13,7 @@ Ways in which touch interactions trigger a "Clicked" event.
 
 <a id="unreal.ButtonTouchMethod.DOWN_AND_UP"></a>
 
-#### DOWN_AND_UP
+#### DOWN\_AND\_UP
 
 0: Most buttons behave this way.
 
@@ -25,7 +25,7 @@ Ways in which touch interactions trigger a "Clicked" event.
 
 <a id="unreal.ButtonTouchMethod.PRECISE_TAP"></a>
 
-#### PRECISE_TAP
+#### PRECISE\_TAP
 
 2: Inside a list, buttons can only be clicked with precise tap.
 Moving the pointer will scroll the list.

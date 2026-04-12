@@ -52,7 +52,7 @@ def friction() -> float
 
 <a id="unreal.PhysicalMaterial.static_friction"></a>
 
-#### static_friction
+#### static\_friction
 
 ```python
 @property
@@ -63,7 +63,7 @@ def static_friction() -> float
 
 <a id="unreal.PhysicalMaterial.friction_combine_mode"></a>
 
-#### friction_combine_mode
+#### friction\_combine\_mode
 
 ```python
 @property
@@ -74,7 +74,7 @@ def friction_combine_mode() -> FrictionCombineMode
 
 <a id="unreal.PhysicalMaterial.override_friction_combine_mode"></a>
 
-#### override_friction_combine_mode
+#### override\_friction\_combine\_mode
 
 ```python
 @property
@@ -85,7 +85,7 @@ def override_friction_combine_mode() -> bool
 
 <a id="unreal.PhysicalMaterial.override_friction_combine_mode"></a>
 
-#### override_friction_combine_mode
+#### override\_friction\_combine\_mode
 
 ```python
 @override_friction_combine_mode.setter
@@ -105,7 +105,7 @@ def restitution() -> float
 
 <a id="unreal.PhysicalMaterial.restitution_combine_mode"></a>
 
-#### restitution_combine_mode
+#### restitution\_combine\_mode
 
 ```python
 @property
@@ -116,7 +116,7 @@ def restitution_combine_mode() -> FrictionCombineMode
 
 <a id="unreal.PhysicalMaterial.override_restitution_combine_mode"></a>
 
-#### override_restitution_combine_mode
+#### override\_restitution\_combine\_mode
 
 ```python
 @property
@@ -127,7 +127,7 @@ def override_restitution_combine_mode() -> bool
 
 <a id="unreal.PhysicalMaterial.override_restitution_combine_mode"></a>
 
-#### override_restitution_combine_mode
+#### override\_restitution\_combine\_mode
 
 ```python
 @override_restitution_combine_mode.setter
@@ -147,7 +147,7 @@ def density() -> float
 
 <a id="unreal.PhysicalMaterial.sleep_linear_velocity_threshold"></a>
 
-#### sleep_linear_velocity_threshold
+#### sleep\_linear\_velocity\_threshold
 
 ```python
 @property
@@ -158,7 +158,7 @@ def sleep_linear_velocity_threshold() -> float
 
 <a id="unreal.PhysicalMaterial.sleep_angular_velocity_threshold"></a>
 
-#### sleep_angular_velocity_threshold
+#### sleep\_angular\_velocity\_threshold
 
 ```python
 @property
@@ -169,7 +169,7 @@ def sleep_angular_velocity_threshold() -> float
 
 <a id="unreal.PhysicalMaterial.sleep_counter_threshold"></a>
 
-#### sleep_counter_threshold
+#### sleep\_counter\_threshold
 
 ```python
 @property
@@ -180,7 +180,7 @@ def sleep_counter_threshold() -> int
 
 <a id="unreal.PhysicalMaterial.raise_mass_to_power"></a>
 
-#### raise_mass_to_power
+#### raise\_mass\_to\_power
 
 ```python
 @property
@@ -193,7 +193,7 @@ Values are clamped to 1 or less.
 
 <a id="unreal.PhysicalMaterial.surface_type"></a>
 
-#### surface_type
+#### surface\_type
 
 ```python
 @property
@@ -215,7 +215,7 @@ def strength() -> PhysicalMaterialStrength
 
 <a id="unreal.PhysicalMaterial.damage_modifier"></a>
 
-#### damage_modifier
+#### damage\_modifier
 
 ```python
 @property

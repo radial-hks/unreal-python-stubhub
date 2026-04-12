@@ -21,7 +21,7 @@ then looks up its entries to find a match; if there is one, then it sets it valu
 
 <a id="unreal.PCGMatchAndSetByAttribute.match_source_attribute"></a>
 
-#### match_source_attribute
+#### match\_source\_attribute
 
 ```python
 @property
@@ -32,7 +32,7 @@ def match_source_attribute() -> Name
 
 <a id="unreal.PCGMatchAndSetByAttribute.match_source_attribute"></a>
 
-#### match_source_attribute
+#### match\_source\_attribute
 
 ```python
 @match_source_attribute.setter
@@ -41,7 +41,7 @@ def match_source_attribute(value: Name) -> None
 
 <a id="unreal.PCGMatchAndSetByAttribute.match_source_type"></a>
 
-#### match_source_type
+#### match\_source\_type
 
 ```python
 @property
@@ -52,7 +52,7 @@ def match_source_type() -> PCGMetadataTypes
 
 <a id="unreal.PCGMatchAndSetByAttribute.match_source_type"></a>
 
-#### match_source_type
+#### match\_source\_type
 
 ```python
 @match_source_type.setter

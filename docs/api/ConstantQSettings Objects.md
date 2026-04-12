@@ -30,7 +30,7 @@ Settings for a UConstantQ analyzer.
 
 <a id="unreal.ConstantQSettings.starting_frequency_hz"></a>
 
-#### starting_frequency_hz
+#### starting\_frequency\_hz
 
 ```python
 @property
@@ -41,7 +41,7 @@ def starting_frequency_hz() -> float
 
 <a id="unreal.ConstantQSettings.num_bands"></a>
 
-#### num_bands
+#### num\_bands
 
 ```python
 @property
@@ -52,7 +52,7 @@ def num_bands() -> int
 
 <a id="unreal.ConstantQSettings.num_bands_per_octave"></a>
 
-#### num_bands_per_octave
+#### num\_bands\_per\_octave
 
 ```python
 @property
@@ -63,7 +63,7 @@ def num_bands_per_octave() -> float
 
 <a id="unreal.ConstantQSettings.analysis_period_in_seconds"></a>
 
-#### analysis_period_in_seconds
+#### analysis\_period\_in\_seconds
 
 ```python
 @property
@@ -74,7 +74,7 @@ def analysis_period_in_seconds() -> float
 
 <a id="unreal.ConstantQSettings.downmix_to_mono"></a>
 
-#### downmix_to_mono
+#### downmix\_to\_mono
 
 ```python
 @property
@@ -85,7 +85,7 @@ def downmix_to_mono() -> bool
 
 <a id="unreal.ConstantQSettings.fft_size"></a>
 
-#### fft_size
+#### fft\_size
 
 ```python
 @property
@@ -96,7 +96,7 @@ def fft_size() -> ConstantQFFTSizeEnum
 
 <a id="unreal.ConstantQSettings.window_type"></a>
 
-#### window_type
+#### window\_type
 
 ```python
 @property
@@ -107,7 +107,7 @@ def window_type() -> FFTWindowType
 
 <a id="unreal.ConstantQSettings.spectrum_type"></a>
 
-#### spectrum_type
+#### spectrum\_type
 
 ```python
 @property
@@ -118,7 +118,7 @@ def spectrum_type() -> AudioSpectrumType
 
 <a id="unreal.ConstantQSettings.band_width_stretch"></a>
 
-#### band_width_stretch
+#### band\_width\_stretch
 
 ```python
 @property
@@ -129,7 +129,7 @@ def band_width_stretch() -> float
 
 <a id="unreal.ConstantQSettings.cqt_normalization"></a>
 
-#### cqt_normalization
+#### cqt\_normalization
 
 ```python
 @property
@@ -140,7 +140,7 @@ def cqt_normalization() -> ConstantQNormalizationEnum
 
 <a id="unreal.ConstantQSettings.noise_floor_db"></a>
 
-#### noise_floor_db
+#### noise\_floor\_db
 
 ```python
 @property

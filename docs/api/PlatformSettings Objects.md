@@ -28,4 +28,4 @@ Step 4) Nothing else needed.  In your system code, you will just call
 - **Module**: DeveloperSettings
 - **File**: PlatformSettings.h
 
-<a id="unreal.LiveLinkSourceSettings"></a>
+<a id="unreal.Function"></a>

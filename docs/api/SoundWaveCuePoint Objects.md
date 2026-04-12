@@ -22,7 +22,7 @@ Struct defining a cue point in a sound wave asset
 
 <a id="unreal.SoundWaveCuePoint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(cue_point_id: int = 0,
@@ -33,7 +33,7 @@ def __init__(cue_point_id: int = 0,
 
 <a id="unreal.SoundWaveCuePoint.cue_point_id"></a>
 
-#### cue_point_id
+#### cue\_point\_id
 
 ```python
 @property
@@ -55,7 +55,7 @@ def label() -> str
 
 <a id="unreal.SoundWaveCuePoint.frame_position"></a>
 
-#### frame_position
+#### frame\_position
 
 ```python
 @property
@@ -66,7 +66,7 @@ def frame_position() -> int
 
 <a id="unreal.SoundWaveCuePoint.frame_length"></a>
 
-#### frame_length
+#### frame\_length
 
 ```python
 @property

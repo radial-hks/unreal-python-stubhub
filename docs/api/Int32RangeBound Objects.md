@@ -20,7 +20,7 @@ note: Fields are private to match the C++ declaration in the header above.
 
 <a id="unreal.Int32RangeBound.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: RangeBoundTypes = RangeBoundTypes.EXCLUSIVE,

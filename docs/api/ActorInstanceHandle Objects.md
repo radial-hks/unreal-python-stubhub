@@ -14,7 +14,7 @@ note: The handle has game thread constraints related to UObjects and should be u
 
 <a id="unreal.ActorInstanceHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

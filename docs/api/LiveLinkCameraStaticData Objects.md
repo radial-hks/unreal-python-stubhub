@@ -29,7 +29,7 @@ Static data for Camera data.
 
 <a id="unreal.LiveLinkCameraStaticData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(property_names: Array[Name] = [],
@@ -49,7 +49,7 @@ def __init__(property_names: Array[Name] = [],
 
 <a id="unreal.LiveLinkCameraStaticData.is_field_of_view_supported"></a>
 
-#### is_field_of_view_supported
+#### is\_field\_of\_view\_supported
 
 ```python
 @property
@@ -60,7 +60,7 @@ def is_field_of_view_supported() -> bool
 
 <a id="unreal.LiveLinkCameraStaticData.is_field_of_view_supported"></a>
 
-#### is_field_of_view_supported
+#### is\_field\_of\_view\_supported
 
 ```python
 @is_field_of_view_supported.setter
@@ -69,7 +69,7 @@ def is_field_of_view_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkCameraStaticData.is_aspect_ratio_supported"></a>
 
-#### is_aspect_ratio_supported
+#### is\_aspect\_ratio\_supported
 
 ```python
 @property
@@ -80,7 +80,7 @@ def is_aspect_ratio_supported() -> bool
 
 <a id="unreal.LiveLinkCameraStaticData.is_aspect_ratio_supported"></a>
 
-#### is_aspect_ratio_supported
+#### is\_aspect\_ratio\_supported
 
 ```python
 @is_aspect_ratio_supported.setter
@@ -89,7 +89,7 @@ def is_aspect_ratio_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkCameraStaticData.is_focal_length_supported"></a>
 
-#### is_focal_length_supported
+#### is\_focal\_length\_supported
 
 ```python
 @property
@@ -100,7 +100,7 @@ def is_focal_length_supported() -> bool
 
 <a id="unreal.LiveLinkCameraStaticData.is_focal_length_supported"></a>
 
-#### is_focal_length_supported
+#### is\_focal\_length\_supported
 
 ```python
 @is_focal_length_supported.setter
@@ -109,7 +109,7 @@ def is_focal_length_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkCameraStaticData.is_projection_mode_supported"></a>
 
-#### is_projection_mode_supported
+#### is\_projection\_mode\_supported
 
 ```python
 @property
@@ -120,7 +120,7 @@ def is_projection_mode_supported() -> bool
 
 <a id="unreal.LiveLinkCameraStaticData.is_projection_mode_supported"></a>
 
-#### is_projection_mode_supported
+#### is\_projection\_mode\_supported
 
 ```python
 @is_projection_mode_supported.setter
@@ -129,7 +129,7 @@ def is_projection_mode_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkCameraStaticData.film_back_width"></a>
 
-#### film_back_width
+#### film\_back\_width
 
 ```python
 @property
@@ -140,7 +140,7 @@ def film_back_width() -> float
 
 <a id="unreal.LiveLinkCameraStaticData.film_back_width"></a>
 
-#### film_back_width
+#### film\_back\_width
 
 ```python
 @film_back_width.setter
@@ -149,7 +149,7 @@ def film_back_width(value: float) -> None
 
 <a id="unreal.LiveLinkCameraStaticData.film_back_height"></a>
 
-#### film_back_height
+#### film\_back\_height
 
 ```python
 @property
@@ -160,7 +160,7 @@ def film_back_height() -> float
 
 <a id="unreal.LiveLinkCameraStaticData.film_back_height"></a>
 
-#### film_back_height
+#### film\_back\_height
 
 ```python
 @film_back_height.setter
@@ -169,7 +169,7 @@ def film_back_height(value: float) -> None
 
 <a id="unreal.LiveLinkCameraStaticData.is_aperture_supported"></a>
 
-#### is_aperture_supported
+#### is\_aperture\_supported
 
 ```python
 @property
@@ -180,7 +180,7 @@ def is_aperture_supported() -> bool
 
 <a id="unreal.LiveLinkCameraStaticData.is_aperture_supported"></a>
 
-#### is_aperture_supported
+#### is\_aperture\_supported
 
 ```python
 @is_aperture_supported.setter
@@ -189,7 +189,7 @@ def is_aperture_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkCameraStaticData.is_focus_distance_supported"></a>
 
-#### is_focus_distance_supported
+#### is\_focus\_distance\_supported
 
 ```python
 @property
@@ -200,7 +200,7 @@ def is_focus_distance_supported() -> bool
 
 <a id="unreal.LiveLinkCameraStaticData.is_focus_distance_supported"></a>
 
-#### is_focus_distance_supported
+#### is\_focus\_distance\_supported
 
 ```python
 @is_focus_distance_supported.setter
@@ -209,7 +209,7 @@ def is_focus_distance_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkCameraStaticData.is_depth_of_field_supported"></a>
 
-#### is_depth_of_field_supported
+#### is\_depth\_of\_field\_supported
 
 ```python
 @property
@@ -220,7 +220,7 @@ def is_depth_of_field_supported() -> bool
 
 <a id="unreal.LiveLinkCameraStaticData.is_depth_of_field_supported"></a>
 
-#### is_depth_of_field_supported
+#### is\_depth\_of\_field\_supported
 
 ```python
 @is_depth_of_field_supported.setter

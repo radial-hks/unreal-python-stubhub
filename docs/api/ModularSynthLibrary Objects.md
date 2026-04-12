@@ -14,7 +14,7 @@ Modular Synth Library
 
 <a id="unreal.ModularSynthLibrary.add_modular_synth_preset_to_bank_asset"></a>
 
-#### add_modular_synth_preset_to_bank_asset
+#### add\_modular\_synth\_preset\_to\_bank\_asset
 
 ```python
 @classmethod

@@ -13,7 +13,7 @@ Anim Graph Node Customization Interface
 
 <a id="unreal.AnimGraphNodeCustomizationInterface.get_title_color"></a>
 
-#### get_title_color
+#### get\_title\_color
 
 ```python
 def get_title_color() -> LinearColor

@@ -23,7 +23,7 @@ Geometry Script Mesh Offset Options
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(offset_distance: float = 0.000000,
@@ -36,7 +36,7 @@ def __init__(offset_distance: float = 0.000000,
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.offset_distance"></a>
 
-#### offset_distance
+#### offset\_distance
 
 ```python
 @property
@@ -47,7 +47,7 @@ def offset_distance() -> float
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.offset_distance"></a>
 
-#### offset_distance
+#### offset\_distance
 
 ```python
 @offset_distance.setter
@@ -56,7 +56,7 @@ def offset_distance(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.fixed_boundary"></a>
 
-#### fixed_boundary
+#### fixed\_boundary
 
 ```python
 @property
@@ -67,7 +67,7 @@ def fixed_boundary() -> bool
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.fixed_boundary"></a>
 
-#### fixed_boundary
+#### fixed\_boundary
 
 ```python
 @fixed_boundary.setter
@@ -76,7 +76,7 @@ def fixed_boundary(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.solve_steps"></a>
 
-#### solve_steps
+#### solve\_steps
 
 ```python
 @property
@@ -87,7 +87,7 @@ def solve_steps() -> int
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.solve_steps"></a>
 
-#### solve_steps
+#### solve\_steps
 
 ```python
 @solve_steps.setter
@@ -96,7 +96,7 @@ def solve_steps(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.smooth_alpha"></a>
 
-#### smooth_alpha
+#### smooth\_alpha
 
 ```python
 @property
@@ -107,7 +107,7 @@ def smooth_alpha() -> float
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.smooth_alpha"></a>
 
-#### smooth_alpha
+#### smooth\_alpha
 
 ```python
 @smooth_alpha.setter
@@ -116,7 +116,7 @@ def smooth_alpha(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.reproject_during_smoothing"></a>
 
-#### reproject_during_smoothing
+#### reproject\_during\_smoothing
 
 ```python
 @property
@@ -127,7 +127,7 @@ def reproject_during_smoothing() -> bool
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.reproject_during_smoothing"></a>
 
-#### reproject_during_smoothing
+#### reproject\_during\_smoothing
 
 ```python
 @reproject_during_smoothing.setter
@@ -136,7 +136,7 @@ def reproject_during_smoothing(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.boundary_alpha"></a>
 
-#### boundary_alpha
+#### boundary\_alpha
 
 ```python
 @property
@@ -147,7 +147,7 @@ def boundary_alpha() -> float
 
 <a id="unreal.GeometryScriptMeshOffsetOptions.boundary_alpha"></a>
 
-#### boundary_alpha
+#### boundary\_alpha
 
 ```python
 @boundary_alpha.setter

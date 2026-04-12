@@ -13,7 +13,7 @@ Shared Image Const Ref Blueprint Fns
 
 <a id="unreal.SharedImageConstRefBlueprintFns.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.SharedImageConstRefBlueprintFns.get_width"></a>
 
-#### get_width
+#### get\_width
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.SharedImageConstRefBlueprintFns.get_size"></a>
 
-#### get_size
+#### get\_size
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.SharedImageConstRefBlueprintFns.get_pixel_value"></a>
 
-#### get_pixel_value
+#### get\_pixel\_value
 
 ```python
 @classmethod
@@ -102,7 +102,7 @@ Returns:
 
 <a id="unreal.SharedImageConstRefBlueprintFns.get_pixel_linear_color"></a>
 
-#### get_pixel_linear_color
+#### get\_pixel\_linear\_color
 
 ```python
 @classmethod
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.SharedImageConstRefBlueprintFns.get_height"></a>
 
-#### get_height
+#### get\_height
 
 ```python
 @classmethod

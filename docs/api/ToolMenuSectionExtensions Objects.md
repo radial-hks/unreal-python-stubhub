@@ -13,7 +13,7 @@ Tool Menu Section Extensions
 
 <a id="unreal.ToolMenuSectionExtensions.set_label"></a>
 
-#### set_label
+#### set\_label
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.ToolMenuSectionExtensions.get_label"></a>
 
-#### get_label
+#### get\_label
 
 ```python
 @classmethod
@@ -52,7 +52,7 @@ Returns:
 
 <a id="unreal.ToolMenuSectionExtensions.add_entry_object"></a>
 
-#### add_entry_object
+#### add\_entry\_object
 
 ```python
 @classmethod
@@ -74,7 +74,7 @@ Returns:
 
 <a id="unreal.ToolMenuSectionExtensions.add_entry"></a>
 
-#### add_entry
+#### add\_entry
 
 ```python
 @classmethod

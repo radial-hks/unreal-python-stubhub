@@ -18,7 +18,7 @@ The Data Stored For Each Pose and associated Functions to Store and Paste It
 
 <a id="unreal.ControlRigControlPose.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(copy_of_controls: Array[RigControlCopy] = []) -> None
@@ -26,7 +26,7 @@ def __init__(copy_of_controls: Array[RigControlCopy] = []) -> None
 
 <a id="unreal.ControlRigControlPose.copy_of_controls"></a>
 
-#### copy_of_controls
+#### copy\_of\_controls
 
 ```python
 @property
@@ -37,7 +37,7 @@ def copy_of_controls() -> Array[RigControlCopy]
 
 <a id="unreal.ControlRigControlPose.copy_of_controls"></a>
 
-#### copy_of_controls
+#### copy\_of\_controls
 
 ```python
 @copy_of_controls.setter

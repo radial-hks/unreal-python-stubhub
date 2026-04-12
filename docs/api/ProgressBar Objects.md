@@ -58,7 +58,7 @@ The progress bar widget is a simple bar that fills up that can be restyled to fi
 
 <a id="unreal.ProgressBar.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -69,7 +69,7 @@ def widget_style() -> ProgressBarStyle
 
 <a id="unreal.ProgressBar.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -98,7 +98,7 @@ def percent(value: float) -> None
 
 <a id="unreal.ProgressBar.bar_fill_type"></a>
 
-#### bar_fill_type
+#### bar\_fill\_type
 
 ```python
 @property
@@ -109,7 +109,7 @@ def bar_fill_type() -> ProgressBarFillType
 
 <a id="unreal.ProgressBar.bar_fill_type"></a>
 
-#### bar_fill_type
+#### bar\_fill\_type
 
 ```python
 @bar_fill_type.setter
@@ -118,7 +118,7 @@ def bar_fill_type(value: ProgressBarFillType) -> None
 
 <a id="unreal.ProgressBar.bar_fill_style"></a>
 
-#### bar_fill_style
+#### bar\_fill\_style
 
 ```python
 @property
@@ -129,7 +129,7 @@ def bar_fill_style() -> ProgressBarFillStyle
 
 <a id="unreal.ProgressBar.bar_fill_style"></a>
 
-#### bar_fill_style
+#### bar\_fill\_style
 
 ```python
 @bar_fill_style.setter
@@ -138,7 +138,7 @@ def bar_fill_style(value: ProgressBarFillStyle) -> None
 
 <a id="unreal.ProgressBar.is_marquee"></a>
 
-#### is_marquee
+#### is\_marquee
 
 ```python
 @property
@@ -149,7 +149,7 @@ def is_marquee() -> bool
 
 <a id="unreal.ProgressBar.is_marquee"></a>
 
-#### is_marquee
+#### is\_marquee
 
 ```python
 @is_marquee.setter
@@ -158,7 +158,7 @@ def is_marquee(value: bool) -> None
 
 <a id="unreal.ProgressBar.border_padding"></a>
 
-#### border_padding
+#### border\_padding
 
 ```python
 @property
@@ -169,7 +169,7 @@ def border_padding() -> Vector2D
 
 <a id="unreal.ProgressBar.border_padding"></a>
 
-#### border_padding
+#### border\_padding
 
 ```python
 @border_padding.setter
@@ -178,7 +178,7 @@ def border_padding(value: Vector2D) -> None
 
 <a id="unreal.ProgressBar.fill_color_and_opacity"></a>
 
-#### fill_color_and_opacity
+#### fill\_color\_and\_opacity
 
 ```python
 @property
@@ -189,7 +189,7 @@ def fill_color_and_opacity() -> LinearColor
 
 <a id="unreal.ProgressBar.fill_color_and_opacity"></a>
 
-#### fill_color_and_opacity
+#### fill\_color\_and\_opacity
 
 ```python
 @fill_color_and_opacity.setter
@@ -198,7 +198,7 @@ def fill_color_and_opacity(value: LinearColor) -> None
 
 <a id="unreal.ProgressBar.set_percent"></a>
 
-#### set_percent
+#### set\_percent
 
 ```python
 def set_percent(percent: float) -> None
@@ -212,7 +212,7 @@ Args:
 
 <a id="unreal.ProgressBar.set_is_marquee"></a>
 
-#### set_is_marquee
+#### set\_is\_marquee
 
 ```python
 def set_is_marquee(inb_is_marquee: bool) -> None
@@ -226,7 +226,7 @@ Args:
 
 <a id="unreal.ProgressBar.set_fill_color_and_opacity"></a>
 
-#### set_fill_color_and_opacity
+#### set\_fill\_color\_and\_opacity
 
 ```python
 def set_fill_color_and_opacity(color: LinearColor) -> None

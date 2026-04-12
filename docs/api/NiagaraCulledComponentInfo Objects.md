@@ -14,7 +14,7 @@ Info on a culled Niagara Component for use by it's cull proxy.
 
 <a id="unreal.NiagaraCulledComponentInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -71,7 +71,7 @@ def position(value: Vector) -> None
 
 <a id="unreal.RadialVector.set_radial_vector"></a>
 
-#### set_radial_vector
+#### set\_radial\_vector
 
 ```python
 def set_radial_vector(magnitude: float = 1.000000,

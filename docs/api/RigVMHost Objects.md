@@ -19,7 +19,7 @@ set this to something larger than 0 to profile N runs
 
 <a id="unreal.RigVMHost.supports_event"></a>
 
-#### supports_event
+#### supports\_event
 
 ```python
 def supports_event(event_name: Name) -> bool
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.RigVMHost.set_variable_from_string"></a>
 
-#### set_variable_from_string
+#### set\_variable\_from\_string
 
 ```python
 def set_variable_from_string(variable_name: Name, value: str) -> bool
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.RigVMHost.set_frames_per_second"></a>
 
-#### set_frames_per_second
+#### set\_frames\_per\_second
 
 ```python
 def set_frames_per_second(frames_per_second: float) -> None
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.RigVMHost.set_delta_time"></a>
 
-#### set_delta_time
+#### set\_delta\_time
 
 ```python
 def set_delta_time(delta_time: float) -> None
@@ -82,7 +82,7 @@ Args:
 
 <a id="unreal.RigVMHost.set_absolute_time"></a>
 
-#### set_absolute_time
+#### set\_absolute\_time
 
 ```python
 def set_absolute_time(absolute_time: float,
@@ -98,7 +98,7 @@ Args:
 
 <a id="unreal.RigVMHost.set_absolute_and_delta_time"></a>
 
-#### set_absolute_and_delta_time
+#### set\_absolute\_and\_delta\_time
 
 ```python
 def set_absolute_and_delta_time(absolute_time: float,
@@ -114,7 +114,7 @@ Args:
 
 <a id="unreal.RigVMHost.request_run_once_event"></a>
 
-#### request_run_once_event
+#### request\_run\_once\_event
 
 ```python
 def request_run_once_event(event_name: Name, event_index: int = -1) -> None
@@ -129,7 +129,7 @@ Args:
 
 <a id="unreal.RigVMHost.request_init"></a>
 
-#### request_init
+#### request\_init
 
 ```python
 def request_init() -> None
@@ -140,7 +140,7 @@ Requests to perform an init during the next execution
 
 <a id="unreal.RigVMHost.remove_run_once_event"></a>
 
-#### remove_run_once_event
+#### remove\_run\_once\_event
 
 ```python
 def remove_run_once_event(event_name: Name) -> bool
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.RigVMHost.is_init_required"></a>
 
-#### is_init_required
+#### is\_init\_required
 
 ```python
 def is_init_required() -> bool
@@ -171,7 +171,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_vm"></a>
 
-#### get_vm
+#### get\_vm
 
 ```python
 def get_vm() -> RigVM
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_variable_type"></a>
 
-#### get_variable_type
+#### get\_variable\_type
 
 ```python
 def get_variable_type(variable_name: Name) -> Name
@@ -202,7 +202,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_variable_as_string"></a>
 
-#### get_variable_as_string
+#### get\_variable\_as\_string
 
 ```python
 def get_variable_as_string(variable_name: Name) -> str
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_supported_events"></a>
 
-#### get_supported_events
+#### get\_supported\_events
 
 ```python
 def get_supported_events() -> Array[Name]
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_script_accessible_variables"></a>
 
-#### get_script_accessible_variables
+#### get\_script\_accessible\_variables
 
 ```python
 def get_script_accessible_variables() -> Array[Name]
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_extended_execute_context"></a>
 
-#### get_extended_execute_context
+#### get\_extended\_execute\_context
 
 ```python
 def get_extended_execute_context() -> RigVMExtendedExecuteContext
@@ -262,7 +262,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_delta_time"></a>
 
-#### get_delta_time
+#### get\_delta\_time
 
 ```python
 def get_delta_time() -> float
@@ -276,7 +276,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_current_frames_per_second"></a>
 
-#### get_current_frames_per_second
+#### get\_current\_frames\_per\_second
 
 ```python
 def get_current_frames_per_second() -> float
@@ -290,7 +290,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_absolute_time"></a>
 
-#### get_absolute_time
+#### get\_absolute\_time
 
 ```python
 def get_absolute_time() -> float
@@ -304,7 +304,7 @@ Returns:
 
 <a id="unreal.RigVMHost.find_rig_vm_hosts"></a>
 
-#### find_rig_vm_hosts
+#### find\_rig\_vm\_hosts
 
 ```python
 @classmethod
@@ -324,7 +324,7 @@ Returns:
 
 <a id="unreal.RigVMHost.execute_event"></a>
 
-#### execute_event
+#### execute\_event
 
 ```python
 def execute_event(event_name: Name) -> bool
@@ -358,7 +358,7 @@ Returns:
 
 <a id="unreal.RigVMHost.can_execute"></a>
 
-#### can_execute
+#### can\_execute
 
 ```python
 def can_execute() -> bool
@@ -372,7 +372,7 @@ Returns:
 
 <a id="unreal.RigVMHost.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -389,7 +389,7 @@ Returns:
 
 <a id="unreal.RigVMHost.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -406,7 +406,7 @@ Returns:
 
 <a id="unreal.RigVMHost.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

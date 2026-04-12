@@ -25,13 +25,13 @@ Types of user interfaces that can be associated with a user interface action
 
 <a id="unreal.UserInterfaceActionType.TOGGLE_BUTTON"></a>
 
-#### TOGGLE_BUTTON
+#### TOGGLE\_BUTTON
 
 2: Toggleable buttons or menu items that store on/off state.  These support enable state, and execute a delegate when toggled.
 
 <a id="unreal.UserInterfaceActionType.RADIO_BUTTON"></a>
 
-#### RADIO_BUTTON
+#### RADIO\_BUTTON
 
 3: Radio buttons are similar to toggle buttons in that they are for menu items that store on/off state.  However they should be used to indicate that menu items in a group can only be in one state
 
@@ -43,7 +43,7 @@ Types of user interfaces that can be associated with a user interface action
 
 <a id="unreal.UserInterfaceActionType.COLLAPSED_BUTTON"></a>
 
-#### COLLAPSED_BUTTON
+#### COLLAPSED\_BUTTON
 
 5: Similar to Button but has the checkbox area collapsed
 

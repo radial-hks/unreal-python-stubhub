@@ -21,10 +21,10 @@ Sprite Instance Data
 
 <a id="unreal.SpriteInstanceData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.AnimationCurveMetaData"></a>
+<a id="unreal.MaterialPairData"></a>

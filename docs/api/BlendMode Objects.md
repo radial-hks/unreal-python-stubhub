@@ -15,49 +15,49 @@ warning: Check UMaterialInstance::Serialize if changed!!
 
 <a id="unreal.BlendMode.BLEND_OPAQUE"></a>
 
-#### BLEND_OPAQUE
+#### BLEND\_OPAQUE
 
 0
 
 <a id="unreal.BlendMode.BLEND_MASKED"></a>
 
-#### BLEND_MASKED
+#### BLEND\_MASKED
 
 1
 
 <a id="unreal.BlendMode.BLEND_TRANSLUCENT"></a>
 
-#### BLEND_TRANSLUCENT
+#### BLEND\_TRANSLUCENT
 
 2
 
 <a id="unreal.BlendMode.BLEND_ADDITIVE"></a>
 
-#### BLEND_ADDITIVE
+#### BLEND\_ADDITIVE
 
 3
 
 <a id="unreal.BlendMode.BLEND_MODULATE"></a>
 
-#### BLEND_MODULATE
+#### BLEND\_MODULATE
 
 4
 
 <a id="unreal.BlendMode.BLEND_ALPHA_COMPOSITE"></a>
 
-#### BLEND_ALPHA_COMPOSITE
+#### BLEND\_ALPHA\_COMPOSITE
 
 5
 
 <a id="unreal.BlendMode.BLEND_ALPHA_HOLDOUT"></a>
 
-#### BLEND_ALPHA_HOLDOUT
+#### BLEND\_ALPHA\_HOLDOUT
 
 6
 
 <a id="unreal.BlendMode.BLEND_TRANSLUCENT_COLORED_TRANSMITTANCE"></a>
 
-#### BLEND_TRANSLUCENT_COLORED_TRANSMITTANCE
+#### BLEND\_TRANSLUCENT\_COLORED\_TRANSMITTANCE
 
 7
 

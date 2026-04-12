@@ -26,7 +26,7 @@ Represents the appearance of an SScrollBar
 
 <a id="unreal.ScrollBarStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(horizontal_background_image: SlateBrush = [
@@ -132,7 +132,7 @@ def __init__(horizontal_background_image: SlateBrush = [
 
 <a id="unreal.ScrollBarStyle.horizontal_background_image"></a>
 
-#### horizontal_background_image
+#### horizontal\_background\_image
 
 ```python
 @property
@@ -143,7 +143,7 @@ def horizontal_background_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.horizontal_background_image"></a>
 
-#### horizontal_background_image
+#### horizontal\_background\_image
 
 ```python
 @horizontal_background_image.setter
@@ -152,7 +152,7 @@ def horizontal_background_image(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBarStyle.vertical_background_image"></a>
 
-#### vertical_background_image
+#### vertical\_background\_image
 
 ```python
 @property
@@ -163,7 +163,7 @@ def vertical_background_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.vertical_background_image"></a>
 
-#### vertical_background_image
+#### vertical\_background\_image
 
 ```python
 @vertical_background_image.setter
@@ -172,7 +172,7 @@ def vertical_background_image(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBarStyle.vertical_top_slot_image"></a>
 
-#### vertical_top_slot_image
+#### vertical\_top\_slot\_image
 
 ```python
 @property
@@ -183,7 +183,7 @@ def vertical_top_slot_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.vertical_top_slot_image"></a>
 
-#### vertical_top_slot_image
+#### vertical\_top\_slot\_image
 
 ```python
 @vertical_top_slot_image.setter
@@ -192,7 +192,7 @@ def vertical_top_slot_image(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBarStyle.horizontal_top_slot_image"></a>
 
-#### horizontal_top_slot_image
+#### horizontal\_top\_slot\_image
 
 ```python
 @property
@@ -203,7 +203,7 @@ def horizontal_top_slot_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.horizontal_top_slot_image"></a>
 
-#### horizontal_top_slot_image
+#### horizontal\_top\_slot\_image
 
 ```python
 @horizontal_top_slot_image.setter
@@ -212,7 +212,7 @@ def horizontal_top_slot_image(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBarStyle.vertical_bottom_slot_image"></a>
 
-#### vertical_bottom_slot_image
+#### vertical\_bottom\_slot\_image
 
 ```python
 @property
@@ -223,7 +223,7 @@ def vertical_bottom_slot_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.vertical_bottom_slot_image"></a>
 
-#### vertical_bottom_slot_image
+#### vertical\_bottom\_slot\_image
 
 ```python
 @vertical_bottom_slot_image.setter
@@ -232,7 +232,7 @@ def vertical_bottom_slot_image(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBarStyle.horizontal_bottom_slot_image"></a>
 
-#### horizontal_bottom_slot_image
+#### horizontal\_bottom\_slot\_image
 
 ```python
 @property
@@ -243,7 +243,7 @@ def horizontal_bottom_slot_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.horizontal_bottom_slot_image"></a>
 
-#### horizontal_bottom_slot_image
+#### horizontal\_bottom\_slot\_image
 
 ```python
 @horizontal_bottom_slot_image.setter
@@ -252,7 +252,7 @@ def horizontal_bottom_slot_image(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBarStyle.normal_thumb_image"></a>
 
-#### normal_thumb_image
+#### normal\_thumb\_image
 
 ```python
 @property
@@ -263,7 +263,7 @@ def normal_thumb_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.normal_thumb_image"></a>
 
-#### normal_thumb_image
+#### normal\_thumb\_image
 
 ```python
 @normal_thumb_image.setter
@@ -272,7 +272,7 @@ def normal_thumb_image(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBarStyle.hovered_thumb_image"></a>
 
-#### hovered_thumb_image
+#### hovered\_thumb\_image
 
 ```python
 @property
@@ -283,7 +283,7 @@ def hovered_thumb_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.hovered_thumb_image"></a>
 
-#### hovered_thumb_image
+#### hovered\_thumb\_image
 
 ```python
 @hovered_thumb_image.setter
@@ -292,7 +292,7 @@ def hovered_thumb_image(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBarStyle.dragged_thumb_image"></a>
 
-#### dragged_thumb_image
+#### dragged\_thumb\_image
 
 ```python
 @property
@@ -303,7 +303,7 @@ def dragged_thumb_image() -> SlateBrush
 
 <a id="unreal.ScrollBarStyle.dragged_thumb_image"></a>
 
-#### dragged_thumb_image
+#### dragged\_thumb\_image
 
 ```python
 @dragged_thumb_image.setter

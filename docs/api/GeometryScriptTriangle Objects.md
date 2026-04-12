@@ -20,7 +20,7 @@ Triangles
 
 <a id="unreal.GeometryScriptTriangle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(vector0: Vector = [0.000000, 0.000000, 0.000000],

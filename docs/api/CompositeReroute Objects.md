@@ -31,7 +31,7 @@ Utilizes reroute expressions to ensure zero overhead in the compiled material.
 
 <a id="unreal.CompositeReroute.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

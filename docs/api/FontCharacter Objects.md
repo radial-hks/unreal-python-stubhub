@@ -22,7 +22,7 @@ This struct is serialized using native serialization so any changes to it requir
 
 <a id="unreal.FontCharacter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

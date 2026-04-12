@@ -19,19 +19,19 @@ Additional information about a text committal
 
 <a id="unreal.TextCommit.ON_ENTER"></a>
 
-#### ON_ENTER
+#### ON\_ENTER
 
 1: User committed via the enter key
 
 <a id="unreal.TextCommit.ON_USER_MOVED_FOCUS"></a>
 
-#### ON_USER_MOVED_FOCUS
+#### ON\_USER\_MOVED\_FOCUS
 
 2: User committed via tabbing away or moving focus explicitly away
 
 <a id="unreal.TextCommit.ON_CLEARED"></a>
 
-#### ON_CLEARED
+#### ON\_CLEARED
 
 3: Keyboard focus was explicitly cleared via the escape key or other similar action
 

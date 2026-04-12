@@ -18,7 +18,7 @@ Rig VMFunction Reference Array
 
 <a id="unreal.RigVMFunctionReferenceArray.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

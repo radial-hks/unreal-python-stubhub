@@ -19,7 +19,7 @@ Optimus Loop Terminal Info
 
 <a id="unreal.OptimusLoopTerminalInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

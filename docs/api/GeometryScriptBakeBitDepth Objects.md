@@ -14,13 +14,13 @@ EGeometry Script Bake Bit Depth
 
 <a id="unreal.GeometryScriptBakeBitDepth.CHANNEL_BITS8"></a>
 
-#### CHANNEL_BITS8
+#### CHANNEL\_BITS8
 
 0
 
 <a id="unreal.GeometryScriptBakeBitDepth.CHANNEL_BITS16"></a>
 
-#### CHANNEL_BITS16
+#### CHANNEL\_BITS16
 
 1
 

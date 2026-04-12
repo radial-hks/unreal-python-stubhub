@@ -22,7 +22,7 @@ Wrapping the attribute name, bone name and index, and underlying data type for u
 
 <a id="unreal.AnimationAttributeIdentifier.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -45,7 +45,7 @@ def name() -> Name
 
 <a id="unreal.AnimationAttributeIdentifier.bone_name"></a>
 
-#### bone_name
+#### bone\_name
 
 ```python
 @property
@@ -56,7 +56,7 @@ def bone_name() -> Name
 
 <a id="unreal.AnimationAttributeIdentifier.bone_index"></a>
 
-#### bone_index
+#### bone\_index
 
 ```python
 @property
@@ -67,7 +67,7 @@ def bone_index() -> int
 
 <a id="unreal.AnimationAttributeIdentifier.script_struct"></a>
 
-#### script_struct
+#### script\_struct
 
 ```python
 @property
@@ -78,7 +78,7 @@ def script_struct() -> ScriptStruct
 
 <a id="unreal.AnimationAttributeIdentifier.script_struct_path"></a>
 
-#### script_struct_path
+#### script\_struct\_path
 
 ```python
 @property
@@ -89,7 +89,7 @@ def script_struct_path() -> SoftObjectPath
 
 <a id="unreal.AnimationAttributeIdentifier.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool

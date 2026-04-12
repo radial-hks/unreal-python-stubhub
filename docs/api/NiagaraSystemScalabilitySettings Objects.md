@@ -34,7 +34,7 @@ Scalability settings for Niagara Systems for a particular platform set (unless o
 
 <a id="unreal.NiagaraSystemScalabilitySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

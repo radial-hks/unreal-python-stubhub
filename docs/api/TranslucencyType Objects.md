@@ -19,7 +19,7 @@ ETranslucency Type
 
 <a id="unreal.TranslucencyType.RAY_TRACING"></a>
 
-#### RAY_TRACING
+#### RAY\_TRACING
 
 1
 

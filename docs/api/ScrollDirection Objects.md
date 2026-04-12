@@ -13,13 +13,13 @@ Enumerates scroll directions.
 
 <a id="unreal.ScrollDirection.SCROLL_DOWN"></a>
 
-#### SCROLL_DOWN
+#### SCROLL\_DOWN
 
 0: Scroll down.
 
 <a id="unreal.ScrollDirection.SCROLL_UP"></a>
 
-#### SCROLL_UP
+#### SCROLL\_UP
 
 1: Scroll up.
 

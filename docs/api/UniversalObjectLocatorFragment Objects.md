@@ -29,7 +29,7 @@ Aligned to 8 bytes, 32 (runtime) or 64 (editor) bytes big.
 
 <a id="unreal.UniversalObjectLocatorFragment.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -40,7 +40,7 @@ def entries(value: Array[PCGMatchAndSetWeightedEntry]) -> None
 
 <a id="unreal.PCGMatchAndSetWeighted.should_mutate_seed"></a>
 
-#### should_mutate_seed
+#### should\_mutate\_seed
 
 ```python
 @property
@@ -51,7 +51,7 @@ def should_mutate_seed() -> bool
 
 <a id="unreal.PCGMatchAndSetWeighted.should_mutate_seed"></a>
 
-#### should_mutate_seed
+#### should\_mutate\_seed
 
 ```python
 @should_mutate_seed.setter

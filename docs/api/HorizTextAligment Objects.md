@@ -13,19 +13,19 @@ EHoriz Text Aligment
 
 <a id="unreal.HorizTextAligment.EHTA_LEFT"></a>
 
-#### EHTA_LEFT
+#### EHTA\_LEFT
 
 0
 
 <a id="unreal.HorizTextAligment.EHTA_CENTER"></a>
 
-#### EHTA_CENTER
+#### EHTA\_CENTER
 
 1
 
 <a id="unreal.HorizTextAligment.EHTA_RIGHT"></a>
 
-#### EHTA_RIGHT
+#### EHTA\_RIGHT
 
 2
 

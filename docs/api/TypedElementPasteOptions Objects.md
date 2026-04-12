@@ -19,7 +19,7 @@ Typed Element Paste Options
 
 <a id="unreal.TypedElementPasteOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(selection_set_to_modify: TypedElementSelectionSet = None,
@@ -29,7 +29,7 @@ def __init__(selection_set_to_modify: TypedElementSelectionSet = None,
 
 <a id="unreal.TypedElementPasteOptions.selection_set_to_modify"></a>
 
-#### selection_set_to_modify
+#### selection\_set\_to\_modify
 
 ```python
 @property
@@ -40,7 +40,7 @@ def selection_set_to_modify() -> TypedElementSelectionSet
 
 <a id="unreal.TypedElementPasteOptions.selection_set_to_modify"></a>
 
-#### selection_set_to_modify
+#### selection\_set\_to\_modify
 
 ```python
 @selection_set_to_modify.setter
@@ -49,7 +49,7 @@ def selection_set_to_modify(value: TypedElementSelectionSet) -> None
 
 <a id="unreal.TypedElementPasteOptions.paste_at_location"></a>
 
-#### paste_at_location
+#### paste\_at\_location
 
 ```python
 @property
@@ -60,7 +60,7 @@ def paste_at_location() -> bool
 
 <a id="unreal.TypedElementPasteOptions.paste_at_location"></a>
 
-#### paste_at_location
+#### paste\_at\_location
 
 ```python
 @paste_at_location.setter
@@ -69,7 +69,7 @@ def paste_at_location(value: bool) -> None
 
 <a id="unreal.TypedElementPasteOptions.paste_location"></a>
 
-#### paste_location
+#### paste\_location
 
 ```python
 @property
@@ -80,7 +80,7 @@ def paste_location() -> Vector
 
 <a id="unreal.TypedElementPasteOptions.paste_location"></a>
 
-#### paste_location
+#### paste\_location
 
 ```python
 @paste_location.setter

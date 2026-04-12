@@ -8,7 +8,7 @@ Type for iterating Unreal class types
 
 <a id="unreal.ClassIterator.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: type) -> None
@@ -16,7 +16,7 @@ def __init__(type: type) -> None
 
 <a id="unreal.ClassIterator.__iter__"></a>
 
-#### __iter__
+#### \_\_iter\_\_
 
 ```python
 def __iter__() -> Iterator[Class]

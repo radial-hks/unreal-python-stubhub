@@ -21,7 +21,7 @@ Defines oscillation of a single number.
 
 <a id="unreal.FOscillator.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

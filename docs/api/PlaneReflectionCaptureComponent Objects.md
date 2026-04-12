@@ -51,7 +51,7 @@ class PlaneReflectionCaptureComponent(ReflectionCaptureComponent)
 
 <a id="unreal.PlaneReflectionCaptureComponent.influence_radius_scale"></a>
 
-#### influence_radius_scale
+#### influence\_radius\_scale
 
 ```python
 @property
@@ -62,7 +62,7 @@ def influence_radius_scale() -> float
 
 <a id="unreal.PlaneReflectionCaptureComponent.influence_radius_scale"></a>
 
-#### influence_radius_scale
+#### influence\_radius\_scale
 
 ```python
 @influence_radius_scale.setter

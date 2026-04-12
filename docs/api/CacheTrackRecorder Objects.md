@@ -14,7 +14,7 @@ Cache Track Recorder
 
 <a id="unreal.CacheTrackRecorder.get_state"></a>
 
-#### get_state
+#### get\_state
 
 ```python
 def get_state() -> CacheTrackRecorderState
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.CacheTrackRecorder.get_sequence"></a>
 
-#### get_sequence
+#### get\_sequence
 
 ```python
 def get_sequence() -> LevelSequence

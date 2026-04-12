@@ -13,7 +13,7 @@ Clothing Simulation Interactor Nv
 
 <a id="unreal.ClothingSimulationInteractorNv.set_anim_drive_damper_stiffness"></a>
 
-#### set_anim_drive_damper_stiffness
+#### set\_anim\_drive\_damper\_stiffness
 
 ```python
 def set_anim_drive_damper_stiffness(stiffness: float) -> None

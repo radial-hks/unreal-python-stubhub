@@ -25,7 +25,7 @@ keep in sync with rcRegionPartitioning enum!
 
 <a id="unreal.RecastPartitioning.CHUNKY_MONOTONE"></a>
 
-#### CHUNKY_MONOTONE
+#### CHUNKY\_MONOTONE
 
 2
 

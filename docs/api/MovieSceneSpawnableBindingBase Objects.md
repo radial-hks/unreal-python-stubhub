@@ -22,7 +22,7 @@ or they could choose to fully override SpawnObject and DestroySpawnedObject and 
 
 <a id="unreal.MovieSceneSpawnableBindingBase.spawn_ownership"></a>
 
-#### spawn_ownership
+#### spawn\_ownership
 
 ```python
 @property
@@ -33,7 +33,7 @@ def spawn_ownership() -> SpawnOwnership
 
 <a id="unreal.MovieSceneSpawnableBindingBase.spawn_ownership"></a>
 
-#### spawn_ownership
+#### spawn\_ownership
 
 ```python
 @spawn_ownership.setter
@@ -42,7 +42,7 @@ def spawn_ownership(value: SpawnOwnership) -> None
 
 <a id="unreal.MovieSceneSpawnableBindingBase.continuously_respawn"></a>
 
-#### continuously_respawn
+#### continuously\_respawn
 
 ```python
 @property
@@ -53,7 +53,7 @@ def continuously_respawn() -> bool
 
 <a id="unreal.MovieSceneSpawnableBindingBase.continuously_respawn"></a>
 
-#### continuously_respawn
+#### continuously\_respawn
 
 ```python
 @continuously_respawn.setter

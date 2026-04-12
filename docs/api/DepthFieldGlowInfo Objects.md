@@ -22,7 +22,7 @@ Info for glow when using depth field rendering
 
 <a id="unreal.DepthFieldGlowInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enable_glow: bool = False,
@@ -35,7 +35,7 @@ def __init__(enable_glow: bool = False,
 
 <a id="unreal.DepthFieldGlowInfo.enable_glow"></a>
 
-#### enable_glow
+#### enable\_glow
 
 ```python
 @property
@@ -46,7 +46,7 @@ def enable_glow() -> bool
 
 <a id="unreal.DepthFieldGlowInfo.enable_glow"></a>
 
-#### enable_glow
+#### enable\_glow
 
 ```python
 @enable_glow.setter
@@ -55,7 +55,7 @@ def enable_glow(value: bool) -> None
 
 <a id="unreal.DepthFieldGlowInfo.glow_color"></a>
 
-#### glow_color
+#### glow\_color
 
 ```python
 @property
@@ -66,7 +66,7 @@ def glow_color() -> LinearColor
 
 <a id="unreal.DepthFieldGlowInfo.glow_color"></a>
 
-#### glow_color
+#### glow\_color
 
 ```python
 @glow_color.setter
@@ -75,7 +75,7 @@ def glow_color(value: LinearColor) -> None
 
 <a id="unreal.DepthFieldGlowInfo.glow_outer_radius"></a>
 
-#### glow_outer_radius
+#### glow\_outer\_radius
 
 ```python
 @property
@@ -87,7 +87,7 @@ glow influence will be 0 at GlowOuterRadius.X and 1 at GlowOuterRadius.Y
 
 <a id="unreal.DepthFieldGlowInfo.glow_outer_radius"></a>
 
-#### glow_outer_radius
+#### glow\_outer\_radius
 
 ```python
 @glow_outer_radius.setter
@@ -96,7 +96,7 @@ def glow_outer_radius(value: Vector2D) -> None
 
 <a id="unreal.DepthFieldGlowInfo.glow_inner_radius"></a>
 
-#### glow_inner_radius
+#### glow\_inner\_radius
 
 ```python
 @property
@@ -108,7 +108,7 @@ glow influence will be 1 at GlowInnerRadius.X and 0 at GlowInnerRadius.Y
 
 <a id="unreal.DepthFieldGlowInfo.glow_inner_radius"></a>
 
-#### glow_inner_radius
+#### glow\_inner\_radius
 
 ```python
 @glow_inner_radius.setter

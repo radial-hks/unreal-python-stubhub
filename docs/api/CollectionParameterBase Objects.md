@@ -17,7 +17,7 @@ Base struct for collection parameters
 
 <a id="unreal.CollectionParameterBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

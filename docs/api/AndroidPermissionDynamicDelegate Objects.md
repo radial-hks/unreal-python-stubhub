@@ -18,10 +18,10 @@ Args:
 
 <a id="unreal.AndroidPermissionDynamicDelegate.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None
 ```
 
-<a id="unreal.OnAudioInputDevicesObtained"></a>
+<a id="unreal.AppleImageConversionDelegate"></a>

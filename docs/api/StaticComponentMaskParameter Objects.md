@@ -13,7 +13,7 @@ Holds the information for a static component mask parameter
 
 <a id="unreal.StaticComponentMaskParameter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

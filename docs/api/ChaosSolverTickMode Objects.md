@@ -25,13 +25,13 @@ EChaos Solver Tick Mode
 
 <a id="unreal.ChaosSolverTickMode.VARIABLE_CAPPED"></a>
 
-#### VARIABLE_CAPPED
+#### VARIABLE\_CAPPED
 
 2
 
 <a id="unreal.ChaosSolverTickMode.VARIABLE_CAPPED_WITH_TARGET"></a>
 
-#### VARIABLE_CAPPED_WITH_TARGET
+#### VARIABLE\_CAPPED\_WITH\_TARGET
 
 3
 

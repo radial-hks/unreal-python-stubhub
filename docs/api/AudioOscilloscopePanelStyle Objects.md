@@ -21,7 +21,7 @@ Represents the appearance of an SAudioOscilloscopePanelWidget
 
 <a id="unreal.AudioOscilloscopePanelStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -102,7 +102,7 @@ def __init__(
 
 <a id="unreal.AudioOscilloscopePanelStyle.time_ruler_style"></a>
 
-#### time_ruler_style
+#### time\_ruler\_style
 
 ```python
 @property
@@ -113,7 +113,7 @@ def time_ruler_style() -> FixedSampleSequenceRulerStyle
 
 <a id="unreal.AudioOscilloscopePanelStyle.time_ruler_style"></a>
 
-#### time_ruler_style
+#### time\_ruler\_style
 
 ```python
 @time_ruler_style.setter
@@ -122,7 +122,7 @@ def time_ruler_style(value: FixedSampleSequenceRulerStyle) -> None
 
 <a id="unreal.AudioOscilloscopePanelStyle.value_grid_style"></a>
 
-#### value_grid_style
+#### value\_grid\_style
 
 ```python
 @property
@@ -133,7 +133,7 @@ def value_grid_style() -> SampledSequenceValueGridOverlayStyle
 
 <a id="unreal.AudioOscilloscopePanelStyle.value_grid_style"></a>
 
-#### value_grid_style
+#### value\_grid\_style
 
 ```python
 @value_grid_style.setter
@@ -142,7 +142,7 @@ def value_grid_style(value: SampledSequenceValueGridOverlayStyle) -> None
 
 <a id="unreal.AudioOscilloscopePanelStyle.wave_viewer_style"></a>
 
-#### wave_viewer_style
+#### wave\_viewer\_style
 
 ```python
 @property
@@ -153,7 +153,7 @@ def wave_viewer_style() -> SampledSequenceViewerStyle
 
 <a id="unreal.AudioOscilloscopePanelStyle.wave_viewer_style"></a>
 
-#### wave_viewer_style
+#### wave\_viewer\_style
 
 ```python
 @wave_viewer_style.setter
@@ -162,7 +162,7 @@ def wave_viewer_style(value: SampledSequenceViewerStyle) -> None
 
 <a id="unreal.AudioOscilloscopePanelStyle.trigger_threshold_line_style"></a>
 
-#### trigger_threshold_line_style
+#### trigger\_threshold\_line\_style
 
 ```python
 @property
@@ -173,7 +173,7 @@ def trigger_threshold_line_style() -> TriggerThresholdLineStyle
 
 <a id="unreal.AudioOscilloscopePanelStyle.trigger_threshold_line_style"></a>
 
-#### trigger_threshold_line_style
+#### trigger\_threshold\_line\_style
 
 ```python
 @trigger_threshold_line_style.setter

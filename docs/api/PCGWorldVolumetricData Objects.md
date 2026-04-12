@@ -23,7 +23,7 @@ Queries volume for presence of world collision or not. Can be used to voxelize e
 
 <a id="unreal.PCGWorldVolumetricData.query_params"></a>
 
-#### query_params
+#### query\_params
 
 ```python
 @property
@@ -34,7 +34,7 @@ def query_params() -> PCGWorldVolumetricQueryParams
 
 <a id="unreal.PCGWorldVolumetricData.query_params"></a>
 
-#### query_params
+#### query\_params
 
 ```python
 @query_params.setter

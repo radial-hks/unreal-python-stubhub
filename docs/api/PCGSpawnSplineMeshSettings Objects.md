@@ -38,7 +38,7 @@ Create a USplineMeshComponent for each segment along a given spline.
 
 <a id="unreal.PCGSpawnSplineMeshSettings.post_process_function_names"></a>
 
-#### post_process_function_names
+#### post\_process\_function\_names
 
 ```python
 @property
@@ -49,7 +49,7 @@ def post_process_function_names() -> Array[Name]
 
 <a id="unreal.PCGSpawnSplineMeshSettings.post_process_function_names"></a>
 
-#### post_process_function_names
+#### post\_process\_function\_names
 
 ```python
 @post_process_function_names.setter
@@ -58,7 +58,7 @@ def post_process_function_names(value: Array[Name]) -> None
 
 <a id="unreal.PCGSpawnSplineMeshSettings.synchronous_load"></a>
 
-#### synchronous_load
+#### synchronous\_load
 
 ```python
 @property
@@ -69,7 +69,7 @@ def synchronous_load() -> bool
 
 <a id="unreal.PCGSpawnSplineMeshSettings.synchronous_load"></a>
 
-#### synchronous_load
+#### synchronous\_load
 
 ```python
 @synchronous_load.setter
@@ -78,7 +78,7 @@ def synchronous_load(value: bool) -> None
 
 <a id="unreal.PCGSpawnSplineMeshSettings.spline_mesh_override_descriptions"></a>
 
-#### spline_mesh_override_descriptions
+#### spline\_mesh\_override\_descriptions
 
 ```python
 @property
@@ -90,7 +90,7 @@ def spline_mesh_override_descriptions(
 
 <a id="unreal.PCGSpawnSplineMeshSettings.spline_mesh_override_descriptions"></a>
 
-#### spline_mesh_override_descriptions
+#### spline\_mesh\_override\_descriptions
 
 ```python
 @spline_mesh_override_descriptions.setter

@@ -168,7 +168,7 @@ If you want a simpler base, inherit from GameModeBase instead.
 
 <a id="unreal.GameMode.delayed_start"></a>
 
-#### delayed_start
+#### delayed\_start
 
 ```python
 @property
@@ -179,7 +179,7 @@ def delayed_start() -> bool
 
 <a id="unreal.GameMode.num_spectators"></a>
 
-#### num_spectators
+#### num\_spectators
 
 ```python
 @property
@@ -190,7 +190,7 @@ def num_spectators() -> int
 
 <a id="unreal.GameMode.num_players"></a>
 
-#### num_players
+#### num\_players
 
 ```python
 @property
@@ -201,7 +201,7 @@ def num_players() -> int
 
 <a id="unreal.GameMode.num_bots"></a>
 
-#### num_bots
+#### num\_bots
 
 ```python
 @property
@@ -212,7 +212,7 @@ def num_bots() -> int
 
 <a id="unreal.GameMode.min_respawn_delay"></a>
 
-#### min_respawn_delay
+#### min\_respawn\_delay
 
 ```python
 @property
@@ -223,7 +223,7 @@ def min_respawn_delay() -> float
 
 <a id="unreal.GameMode.num_travelling_players"></a>
 
-#### num_travelling_players
+#### num\_travelling\_players
 
 ```python
 @property
@@ -234,7 +234,7 @@ def num_travelling_players() -> int
 
 <a id="unreal.GameMode.start_match"></a>
 
-#### start_match
+#### start\_match
 
 ```python
 def start_match() -> None
@@ -259,7 +259,7 @@ Args:
 
 <a id="unreal.GameMode.restart_game"></a>
 
-#### restart_game
+#### restart\_game
 
 ```python
 def restart_game() -> None
@@ -270,7 +270,7 @@ Restart the game, by default travel to the current map
 
 <a id="unreal.GameMode.ready_to_start_match"></a>
 
-#### ready_to_start_match
+#### ready\_to\_start\_match
 
 ```python
 def ready_to_start_match() -> bool
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.GameMode.ready_to_end_match"></a>
 
-#### ready_to_end_match
+#### ready\_to\_end\_match
 
 ```python
 def ready_to_end_match() -> bool
@@ -298,7 +298,7 @@ Returns:
 
 <a id="unreal.GameMode.on_set_match_state"></a>
 
-#### on_set_match_state
+#### on\_set\_match\_state
 
 ```python
 def on_set_match_state(new_state: Name) -> None
@@ -312,7 +312,7 @@ Args:
 
 <a id="unreal.GameMode.is_match_in_progress"></a>
 
-#### is_match_in_progress
+#### is\_match\_in\_progress
 
 ```python
 def is_match_in_progress() -> bool
@@ -326,7 +326,7 @@ Returns:
 
 <a id="unreal.GameMode.get_match_state"></a>
 
-#### get_match_state
+#### get\_match\_state
 
 ```python
 def get_match_state() -> Name
@@ -340,7 +340,7 @@ Returns:
 
 <a id="unreal.GameMode.end_match"></a>
 
-#### end_match
+#### end\_match
 
 ```python
 def end_match() -> None
@@ -351,7 +351,7 @@ Transition from InProgress to WaitingPostMatch. You can call this manually, will
 
 <a id="unreal.GameMode.abort_match"></a>
 
-#### abort_match
+#### abort\_match
 
 ```python
 def abort_match() -> None

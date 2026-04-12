@@ -19,7 +19,7 @@ class MovieSceneConditionContext(StructBase)
 
 <a id="unreal.MovieSceneConditionContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(world_context: Object = None,
@@ -29,7 +29,7 @@ def __init__(world_context: Object = None,
 
 <a id="unreal.MovieSceneConditionContext.world_context"></a>
 
-#### world_context
+#### world\_context
 
 ```python
 @property
@@ -40,7 +40,7 @@ def world_context() -> Object
 
 <a id="unreal.MovieSceneConditionContext.world_context"></a>
 
-#### world_context
+#### world\_context
 
 ```python
 @world_context.setter
@@ -69,7 +69,7 @@ def binding(value: MovieSceneBindingProxy) -> None
 
 <a id="unreal.MovieSceneConditionContext.bound_objects"></a>
 
-#### bound_objects
+#### bound\_objects
 
 ```python
 @property
@@ -80,7 +80,7 @@ def bound_objects() -> Array[Object]
 
 <a id="unreal.MovieSceneConditionContext.bound_objects"></a>
 
-#### bound_objects
+#### bound\_objects
 
 ```python
 @bound_objects.setter

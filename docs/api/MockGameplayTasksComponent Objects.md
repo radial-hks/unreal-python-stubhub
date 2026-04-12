@@ -28,4 +28,4 @@ a Testing-time component that is a way to access UGameplayTasksComponent's prote
   When false the replication system will instead call the virtual ReplicateSubObjects() function where the subobjects need to be manually replicated.
 - ``replicates`` (bool):  [Read-Write] Is this component currently replicating? Should the network code consider it for replication? Owning Actor must be replicating first!
 
-<a id="unreal.MassEntityTestFarmPlot"></a>
+<a id="unreal.MassEntityTraitBase"></a>

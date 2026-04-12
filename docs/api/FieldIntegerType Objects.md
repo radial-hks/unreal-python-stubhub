@@ -13,19 +13,19 @@ EField Integer Type
 
 <a id="unreal.FieldIntegerType.INTEGER_DYNAMIC_STATE"></a>
 
-#### INTEGER_DYNAMIC_STATE
+#### INTEGER\_DYNAMIC\_STATE
 
 0: Set the dynamic state of a particle (static, dynamic, kinematic...)
 
 <a id="unreal.FieldIntegerType.INTEGER_ACTIVATE_DISABLED"></a>
 
-#### INTEGER_ACTIVATE_DISABLED
+#### INTEGER\_ACTIVATE\_DISABLED
 
 1: Activate all the disabled particles for which the field value will be 0
 
 <a id="unreal.FieldIntegerType.INTEGER_COLLISION_GROUP"></a>
 
-#### INTEGER_COLLISION_GROUP
+#### INTEGER\_COLLISION\_GROUP
 
 2: Set the particles collision group.
 

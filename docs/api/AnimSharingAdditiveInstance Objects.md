@@ -30,7 +30,7 @@ Anim Sharing Additive Instance
 
 <a id="unreal.AnimSharingAdditiveInstance.base_component"></a>
 
-#### base_component
+#### base\_component
 
 ```python
 @property
@@ -41,7 +41,7 @@ def base_component() -> SkeletalMeshComponent
 
 <a id="unreal.AnimSharingAdditiveInstance.additive_animation"></a>
 
-#### additive_animation
+#### additive\_animation
 
 ```python
 @property
@@ -63,7 +63,7 @@ def alpha() -> float
 
 <a id="unreal.AnimSharingAdditiveInstance.state_bool"></a>
 
-#### state_bool
+#### state\_bool
 
 ```python
 @property

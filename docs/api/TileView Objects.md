@@ -100,7 +100,7 @@ To make a widget usable as an entry in a TileView, it must inherit from the IUse
 
 <a id="unreal.TileView.set_entry_width"></a>
 
-#### set_entry_width
+#### set\_entry\_width
 
 ```python
 def set_entry_width(new_width: float) -> None
@@ -114,7 +114,7 @@ Args:
 
 <a id="unreal.TileView.set_entry_height"></a>
 
-#### set_entry_height
+#### set\_entry\_height
 
 ```python
 def set_entry_height(new_height: float) -> None
@@ -128,7 +128,7 @@ Args:
 
 <a id="unreal.TileView.get_entry_width"></a>
 
-#### get_entry_width
+#### get\_entry\_width
 
 ```python
 def get_entry_width() -> float
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.TileView.get_entry_height"></a>
 
-#### get_entry_height
+#### get\_entry\_height
 
 ```python
 def get_entry_height() -> float

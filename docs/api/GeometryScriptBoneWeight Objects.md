@@ -19,7 +19,7 @@ Geometry Script Bone Weight
 
 <a id="unreal.GeometryScriptBoneWeight.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bone_index: int = 0, weight: float = 0.000000) -> None
@@ -27,7 +27,7 @@ def __init__(bone_index: int = 0, weight: float = 0.000000) -> None
 
 <a id="unreal.GeometryScriptBoneWeight.bone_index"></a>
 
-#### bone_index
+#### bone\_index
 
 ```python
 @property
@@ -38,7 +38,7 @@ def bone_index() -> int
 
 <a id="unreal.GeometryScriptBoneWeight.bone_index"></a>
 
-#### bone_index
+#### bone\_index
 
 ```python
 @bone_index.setter

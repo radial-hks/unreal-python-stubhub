@@ -32,19 +32,19 @@ EInterchange Mesh Collision
 
 <a id="unreal.InterchangeMeshCollision.CONVEX10DOP_X"></a>
 
-#### CONVEX10DOP_X
+#### CONVEX10DOP\_X
 
 3: Generates a new axis-aligned box collision mesh with the 4 X-axis aligned edges beveled (10 total sides) encompassing the static mesh
 
 <a id="unreal.InterchangeMeshCollision.CONVEX10DOP_Y"></a>
 
-#### CONVEX10DOP_Y
+#### CONVEX10DOP\_Y
 
 4: Generates a new axis-aligned box collision mesh with the 4 Y-axis aligned edges beveled (10 total sides) encompassing the static mesh
 
 <a id="unreal.InterchangeMeshCollision.CONVEX10DOP_Z"></a>
 
-#### CONVEX10DOP_Z
+#### CONVEX10DOP\_Z
 
 5: Generates a new axis-aligned box collision mesh with the 4 Z-axis aligned edges beveled (10 total sides) encompassing the static mesh
 

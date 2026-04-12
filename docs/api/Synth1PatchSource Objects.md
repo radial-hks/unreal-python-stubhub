@@ -32,7 +32,7 @@ ESynth 1Patch Source
 
 <a id="unreal.Synth1PatchSource.BIAS_ENVELOPE"></a>
 
-#### BIAS_ENVELOPE
+#### BIAS\_ENVELOPE
 
 3
 

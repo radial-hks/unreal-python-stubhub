@@ -14,7 +14,7 @@ Composite subsytem used as an interface to the (private) scene view extension.
 
 <a id="unreal.HoldoutCompositeSubsystem.unregister_primitive"></a>
 
-#### unregister_primitive
+#### unregister\_primitive
 
 ```python
 def unregister_primitive(primitive_component: PrimitiveComponent,
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.HoldoutCompositeSubsystem.register_primitive"></a>
 
-#### register_primitive
+#### register\_primitive
 
 ```python
 def register_primitive(primitive_component: PrimitiveComponent,

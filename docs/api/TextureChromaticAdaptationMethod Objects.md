@@ -13,20 +13,20 @@ List of chromatic adaptation methods, matching the list in ColorManagementDefine
 
 <a id="unreal.TextureChromaticAdaptationMethod.TCAM_NONE"></a>
 
-#### TCAM_NONE
+#### TCAM\_NONE
 
 0: No chromatic adaptation is applied.
 
 <a id="unreal.TextureChromaticAdaptationMethod.TCAM_BRADFORD"></a>
 
-#### TCAM_BRADFORD
+#### TCAM\_BRADFORD
 
 1: Chromatic adaptation is applied using the Bradford method.
 
 <a id="unreal.TextureChromaticAdaptationMethod.TCAM_CAT02"></a>
 
-#### TCAM_CAT02
+#### TCAM\_CAT02
 
 2: Chromatic adaptation is applied using the CAT02 method.
 
-<a id="unreal.ExposedFieldType"></a>
+<a id="unreal.EarthSelectGrammarComparator"></a>

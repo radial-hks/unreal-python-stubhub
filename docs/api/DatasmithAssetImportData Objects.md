@@ -21,7 +21,7 @@ Datasmith Asset Import Data
 
 <a id="unreal.DatasmithAssetImportData.asset_import_options"></a>
 
-#### asset_import_options
+#### asset\_import\_options
 
 ```python
 @property
@@ -32,7 +32,7 @@ def asset_import_options() -> DatasmithAssetImportOptions
 
 <a id="unreal.DatasmithAssetImportData.asset_import_options"></a>
 
-#### asset_import_options
+#### asset\_import\_options
 
 ```python
 @asset_import_options.setter

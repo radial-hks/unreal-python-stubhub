@@ -22,7 +22,7 @@ Material Expression Function Output
 
 <a id="unreal.MaterialExpressionFunctionOutput.output_name"></a>
 
-#### output_name
+#### output\_name
 
 ```python
 @property
@@ -33,7 +33,7 @@ def output_name() -> Name
 
 <a id="unreal.MaterialExpressionFunctionOutput.output_name"></a>
 
-#### output_name
+#### output\_name
 
 ```python
 @output_name.setter

@@ -26,7 +26,7 @@ ERig VMTag Display Mode
 
 <a id="unreal.RigVMTagDisplayMode.DEPRECATION_ONLY"></a>
 
-#### DEPRECATION_ONLY
+#### DEPRECATION\_ONLY
 
 2
 

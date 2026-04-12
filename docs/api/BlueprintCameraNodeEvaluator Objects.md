@@ -21,7 +21,7 @@ The base class for Blueprint camera node evaluators.
 
 <a id="unreal.BlueprintCameraNodeEvaluator.is_first_frame"></a>
 
-#### is_first_frame
+#### is\_first\_frame
 
 ```python
 @property
@@ -32,7 +32,7 @@ def is_first_frame() -> bool
 
 <a id="unreal.BlueprintCameraNodeEvaluator.evaluation_context_owner"></a>
 
-#### evaluation_context_owner
+#### evaluation\_context\_owner
 
 ```python
 @property
@@ -43,7 +43,7 @@ def evaluation_context_owner() -> Object
 
 <a id="unreal.BlueprintCameraNodeEvaluator.camera_pose"></a>
 
-#### camera_pose
+#### camera\_pose
 
 ```python
 @property
@@ -54,7 +54,7 @@ def camera_pose() -> BlueprintCameraPose
 
 <a id="unreal.BlueprintCameraNodeEvaluator.camera_pose"></a>
 
-#### camera_pose
+#### camera\_pose
 
 ```python
 @camera_pose.setter
@@ -63,7 +63,7 @@ def camera_pose(value: BlueprintCameraPose) -> None
 
 <a id="unreal.BlueprintCameraNodeEvaluator.variable_table"></a>
 
-#### variable_table
+#### variable\_table
 
 ```python
 @property
@@ -74,7 +74,7 @@ def variable_table() -> BlueprintCameraVariableTable
 
 <a id="unreal.BlueprintCameraNodeEvaluator.variable_table"></a>
 
-#### variable_table
+#### variable\_table
 
 ```python
 @variable_table.setter
@@ -83,7 +83,7 @@ def variable_table(value: BlueprintCameraVariableTable) -> None
 
 <a id="unreal.BlueprintCameraNodeEvaluator.tick_camera_node"></a>
 
-#### tick_camera_node
+#### tick\_camera\_node
 
 ```python
 def tick_camera_node(delta_time: float) -> None
@@ -97,7 +97,7 @@ Args:
 
 <a id="unreal.BlueprintCameraNodeEvaluator.find_evaluation_context_owner_actor"></a>
 
-#### find_evaluation_context_owner_actor
+#### find\_evaluation\_context\_owner\_actor
 
 ```python
 def find_evaluation_context_owner_actor(actor_class: Class) -> Actor
@@ -114,4 +114,4 @@ Args:
 Returns:
     Actor:
 
-<a id="unreal.OpenColorIOConfigurationFactoryNew"></a>
+<a id="unreal.SparseVolumeTextureFactory"></a>

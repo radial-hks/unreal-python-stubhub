@@ -18,7 +18,7 @@ FPerPlatformBool - bool property with per-platform overrides
 
 <a id="unreal.PerPlatformBool.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -37,7 +37,7 @@ IKRig Goal
 
 <a id="unreal.IKRigGoal.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -74,7 +74,7 @@ def name(value: Name) -> None
 
 <a id="unreal.IKRigGoal.transform_source"></a>
 
-#### transform_source
+#### transform\_source
 
 ```python
 @property
@@ -88,7 +88,7 @@ def transform_source() -> IKRigGoalTransformSource
 
 <a id="unreal.IKRigGoal.transform_source"></a>
 
-#### transform_source
+#### transform\_source
 
 ```python
 @transform_source.setter
@@ -137,7 +137,7 @@ def rotation(value: Rotator) -> None
 
 <a id="unreal.IKRigGoal.position_alpha"></a>
 
-#### position_alpha
+#### position\_alpha
 
 ```python
 @property
@@ -148,7 +148,7 @@ def position_alpha() -> float
 
 <a id="unreal.IKRigGoal.position_alpha"></a>
 
-#### position_alpha
+#### position\_alpha
 
 ```python
 @position_alpha.setter
@@ -157,7 +157,7 @@ def position_alpha(value: float) -> None
 
 <a id="unreal.IKRigGoal.rotation_alpha"></a>
 
-#### rotation_alpha
+#### rotation\_alpha
 
 ```python
 @property
@@ -168,7 +168,7 @@ def rotation_alpha() -> float
 
 <a id="unreal.IKRigGoal.rotation_alpha"></a>
 
-#### rotation_alpha
+#### rotation\_alpha
 
 ```python
 @rotation_alpha.setter
@@ -177,7 +177,7 @@ def rotation_alpha(value: float) -> None
 
 <a id="unreal.IKRigGoal.position_space"></a>
 
-#### position_space
+#### position\_space
 
 ```python
 @property
@@ -191,7 +191,7 @@ def position_space() -> IKRigGoalSpace
 
 <a id="unreal.IKRigGoal.position_space"></a>
 
-#### position_space
+#### position\_space
 
 ```python
 @position_space.setter
@@ -200,7 +200,7 @@ def position_space(value: IKRigGoalSpace) -> None
 
 <a id="unreal.IKRigGoal.rotation_space"></a>
 
-#### rotation_space
+#### rotation\_space
 
 ```python
 @property
@@ -214,7 +214,7 @@ def rotation_space() -> IKRigGoalSpace
 
 <a id="unreal.IKRigGoal.rotation_space"></a>
 
-#### rotation_space
+#### rotation\_space
 
 ```python
 @rotation_space.setter

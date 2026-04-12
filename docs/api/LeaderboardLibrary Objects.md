@@ -14,7 +14,7 @@ A beacon host used for taking reservations for an existing game session
 
 <a id="unreal.LeaderboardLibrary.write_leaderboard_integer"></a>
 
-#### write_leaderboard_integer
+#### write\_leaderboard\_integer
 
 ```python
 @classmethod

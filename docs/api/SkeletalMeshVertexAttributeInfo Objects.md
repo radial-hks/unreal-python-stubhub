@@ -19,7 +19,7 @@ A structure to store user-controllable settings for attributes
 
 <a id="unreal.SkeletalMeshVertexAttributeInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

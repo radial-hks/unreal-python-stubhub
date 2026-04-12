@@ -66,7 +66,7 @@ def mode(value: PCGAttractMode) -> None
 
 <a id="unreal.PCGAttractSettings.attractor_index_attribute"></a>
 
-#### attractor_index_attribute
+#### attractor\_index\_attribute
 
 ```python
 @property
@@ -77,7 +77,7 @@ def attractor_index_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAttractSettings.attractor_index_attribute"></a>
 
-#### attractor_index_attribute
+#### attractor\_index\_attribute
 
 ```python
 @attractor_index_attribute.setter
@@ -107,7 +107,7 @@ def distance(value: float) -> None
 
 <a id="unreal.PCGAttractSettings.remove_unattracted_points"></a>
 
-#### remove_unattracted_points
+#### remove\_unattracted\_points
 
 ```python
 @property
@@ -118,7 +118,7 @@ def remove_unattracted_points() -> bool
 
 <a id="unreal.PCGAttractSettings.remove_unattracted_points"></a>
 
-#### remove_unattracted_points
+#### remove\_unattracted\_points
 
 ```python
 @remove_unattracted_points.setter
@@ -127,7 +127,7 @@ def remove_unattracted_points(value: bool) -> None
 
 <a id="unreal.PCGAttractSettings.target_attribute"></a>
 
-#### target_attribute
+#### target\_attribute
 
 ```python
 @property
@@ -138,7 +138,7 @@ def target_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAttractSettings.target_attribute"></a>
 
-#### target_attribute
+#### target\_attribute
 
 ```python
 @target_attribute.setter
@@ -147,7 +147,7 @@ def target_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGAttractSettings.use_source_weight"></a>
 
-#### use_source_weight
+#### use\_source\_weight
 
 ```python
 @property
@@ -158,7 +158,7 @@ def use_source_weight() -> bool
 
 <a id="unreal.PCGAttractSettings.use_source_weight"></a>
 
-#### use_source_weight
+#### use\_source\_weight
 
 ```python
 @use_source_weight.setter
@@ -167,7 +167,7 @@ def use_source_weight(value: bool) -> None
 
 <a id="unreal.PCGAttractSettings.source_weight_attribute"></a>
 
-#### source_weight_attribute
+#### source\_weight\_attribute
 
 ```python
 @property
@@ -178,7 +178,7 @@ def source_weight_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAttractSettings.source_weight_attribute"></a>
 
-#### source_weight_attribute
+#### source\_weight\_attribute
 
 ```python
 @source_weight_attribute.setter
@@ -187,7 +187,7 @@ def source_weight_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGAttractSettings.use_target_weight"></a>
 
-#### use_target_weight
+#### use\_target\_weight
 
 ```python
 @property
@@ -198,7 +198,7 @@ def use_target_weight() -> bool
 
 <a id="unreal.PCGAttractSettings.use_target_weight"></a>
 
-#### use_target_weight
+#### use\_target\_weight
 
 ```python
 @use_target_weight.setter
@@ -207,7 +207,7 @@ def use_target_weight(value: bool) -> None
 
 <a id="unreal.PCGAttractSettings.target_weight_attribute"></a>
 
-#### target_weight_attribute
+#### target\_weight\_attribute
 
 ```python
 @property
@@ -218,7 +218,7 @@ def target_weight_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAttractSettings.target_weight_attribute"></a>
 
-#### target_weight_attribute
+#### target\_weight\_attribute
 
 ```python
 @target_weight_attribute.setter
@@ -247,7 +247,7 @@ def weight(value: float) -> None
 
 <a id="unreal.PCGAttractSettings.source_and_target_attribute_mapping"></a>
 
-#### source_and_target_attribute_mapping
+#### source\_and\_target\_attribute\_mapping
 
 ```python
 @property
@@ -259,7 +259,7 @@ def source_and_target_attribute_mapping(
 
 <a id="unreal.PCGAttractSettings.source_and_target_attribute_mapping"></a>
 
-#### source_and_target_attribute_mapping
+#### source\_and\_target\_attribute\_mapping
 
 ```python
 @source_and_target_attribute_mapping.setter
@@ -271,7 +271,7 @@ def source_and_target_attribute_mapping(
 
 <a id="unreal.PCGAttractSettings.output_attract_index"></a>
 
-#### output_attract_index
+#### output\_attract\_index
 
 ```python
 @property
@@ -282,7 +282,7 @@ def output_attract_index() -> bool
 
 <a id="unreal.PCGAttractSettings.output_attract_index"></a>
 
-#### output_attract_index
+#### output\_attract\_index
 
 ```python
 @output_attract_index.setter
@@ -291,7 +291,7 @@ def output_attract_index(value: bool) -> None
 
 <a id="unreal.PCGAttractSettings.output_attract_index_attribute"></a>
 
-#### output_attract_index_attribute
+#### output\_attract\_index\_attribute
 
 ```python
 @property
@@ -303,7 +303,7 @@ def output_attract_index_attribute(
 
 <a id="unreal.PCGAttractSettings.output_attract_index_attribute"></a>
 
-#### output_attract_index_attribute
+#### output\_attract\_index\_attribute
 
 ```python
 @output_attract_index_attribute.setter

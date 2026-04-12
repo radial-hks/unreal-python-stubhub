@@ -18,7 +18,7 @@ You can filter the gameplay tags displayed in the editor using, meta = (Categori
 
 <a id="unreal.GameplayTag.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: GameplayTag = ["None"]) -> None

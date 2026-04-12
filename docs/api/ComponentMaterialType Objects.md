@@ -19,25 +19,25 @@ EComponent Material Type
 
 <a id="unreal.ComponentMaterialType.INDEXED_MATERIAL"></a>
 
-#### INDEXED_MATERIAL
+#### INDEXED\_MATERIAL
 
 1: A material in one of the indexed slots on a primitive component
 
 <a id="unreal.ComponentMaterialType.OVERLAY_MATERIAL"></a>
 
-#### OVERLAY_MATERIAL
+#### OVERLAY\_MATERIAL
 
 2: An overlay material on a mesh component
 
 <a id="unreal.ComponentMaterialType.DECAL_MATERIAL"></a>
 
-#### DECAL_MATERIAL
+#### DECAL\_MATERIAL
 
 3: A decal material
 
 <a id="unreal.ComponentMaterialType.VOLUMETRIC_CLOUD_MATERIAL"></a>
 
-#### VOLUMETRIC_CLOUD_MATERIAL
+#### VOLUMETRIC\_CLOUD\_MATERIAL
 
 4: Volumetric Cloud Material
 

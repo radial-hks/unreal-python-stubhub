@@ -143,7 +143,7 @@ Light
 
 <a id="unreal.Light.light_component"></a>
 
-#### light_component
+#### light\_component
 
 ```python
 @property
@@ -155,7 +155,7 @@ todo: document
 
 <a id="unreal.Light.toggle_enabled"></a>
 
-#### toggle_enabled
+#### toggle\_enabled
 
 ```python
 def toggle_enabled() -> None
@@ -167,7 +167,7 @@ deprecated: Function 'ToggleEnabled' is deprecated.
 
 <a id="unreal.Light.set_light_function_scale"></a>
 
-#### set_light_function_scale
+#### set\_light\_function\_scale
 
 ```python
 def set_light_function_scale(new_light_function_scale: Vector) -> None
@@ -182,7 +182,7 @@ Args:
 
 <a id="unreal.Light.set_light_function_material"></a>
 
-#### set_light_function_material
+#### set\_light\_function\_material
 
 ```python
 def set_light_function_material(
@@ -198,7 +198,7 @@ Args:
 
 <a id="unreal.Light.set_light_function_fade_distance"></a>
 
-#### set_light_function_fade_distance
+#### set\_light\_function\_fade\_distance
 
 ```python
 def set_light_function_fade_distance(
@@ -214,7 +214,7 @@ Args:
 
 <a id="unreal.Light.set_light_color"></a>
 
-#### set_light_color
+#### set\_light\_color
 
 ```python
 def set_light_color(new_light_color: LinearColor) -> None
@@ -229,7 +229,7 @@ Args:
 
 <a id="unreal.Light.set_enabled"></a>
 
-#### set_enabled
+#### set\_enabled
 
 ```python
 def set_enabled(set_enabled: bool) -> None
@@ -244,7 +244,7 @@ Args:
 
 <a id="unreal.Light.set_cast_shadows"></a>
 
-#### set_cast_shadows
+#### set\_cast\_shadows
 
 ```python
 def set_cast_shadows(new_value: bool) -> None
@@ -259,7 +259,7 @@ Args:
 
 <a id="unreal.Light.set_brightness"></a>
 
-#### set_brightness
+#### set\_brightness
 
 ```python
 def set_brightness(new_brightness: float) -> None
@@ -274,7 +274,7 @@ Args:
 
 <a id="unreal.Light.set_affect_translucent_lighting"></a>
 
-#### set_affect_translucent_lighting
+#### set\_affect\_translucent\_lighting
 
 ```python
 def set_affect_translucent_lighting(new_value: bool) -> None
@@ -289,7 +289,7 @@ Args:
 
 <a id="unreal.Light.is_enabled"></a>
 
-#### is_enabled
+#### is\_enabled
 
 ```python
 def is_enabled() -> bool
@@ -304,7 +304,7 @@ Returns:
 
 <a id="unreal.Light.get_light_color"></a>
 
-#### get_light_color
+#### get\_light\_color
 
 ```python
 def get_light_color() -> LinearColor
@@ -319,7 +319,7 @@ Returns:
 
 <a id="unreal.Light.get_brightness"></a>
 
-#### get_brightness
+#### get\_brightness
 
 ```python
 def get_brightness() -> float

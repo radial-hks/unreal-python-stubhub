@@ -26,7 +26,7 @@ Per Bone Interpolation
 
 <a id="unreal.PerBoneInterpolation.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

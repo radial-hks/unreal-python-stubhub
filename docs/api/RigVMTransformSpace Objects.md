@@ -14,13 +14,13 @@ ERig VMTransform Space
 
 <a id="unreal.RigVMTransformSpace.LOCAL_SPACE"></a>
 
-#### LOCAL_SPACE
+#### LOCAL\_SPACE
 
 0: Apply in parent space
 
 <a id="unreal.RigVMTransformSpace.GLOBAL_SPACE"></a>
 
-#### GLOBAL_SPACE
+#### GLOBAL\_SPACE
 
 1: Apply in rig space
 

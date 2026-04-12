@@ -20,7 +20,7 @@ Actor Recorded Property
 
 <a id="unreal.ActorRecordedProperty.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(property_name: Name = "None", enabled: bool = False) -> None
@@ -28,7 +28,7 @@ def __init__(property_name: Name = "None", enabled: bool = False) -> None
 
 <a id="unreal.ActorRecordedProperty.property_name"></a>
 
-#### property_name
+#### property\_name
 
 ```python
 @property
@@ -39,7 +39,7 @@ def property_name() -> Name
 
 <a id="unreal.ActorRecordedProperty.property_name"></a>
 
-#### property_name
+#### property\_name
 
 ```python
 @property_name.setter

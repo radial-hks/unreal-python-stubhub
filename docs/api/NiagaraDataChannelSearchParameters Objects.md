@@ -23,7 +23,7 @@ It will return to users the correct data for their location based on these param
 
 <a id="unreal.NiagaraDataChannelSearchParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(owning_component: SceneComponent = None,
@@ -33,7 +33,7 @@ def __init__(owning_component: SceneComponent = None,
 
 <a id="unreal.NiagaraDataChannelSearchParameters.owning_component"></a>
 
-#### owning_component
+#### owning\_component
 
 ```python
 @property
@@ -44,7 +44,7 @@ def owning_component() -> SceneComponent
 
 <a id="unreal.NiagaraDataChannelSearchParameters.owning_component"></a>
 
-#### owning_component
+#### owning\_component
 
 ```python
 @owning_component.setter
@@ -73,7 +73,7 @@ def location(value: Vector) -> None
 
 <a id="unreal.NiagaraDataChannelSearchParameters.override_location"></a>
 
-#### override_location
+#### override\_location
 
 ```python
 @property
@@ -84,7 +84,7 @@ def override_location() -> bool
 
 <a id="unreal.NiagaraDataChannelSearchParameters.override_location"></a>
 
-#### override_location
+#### override\_location
 
 ```python
 @override_location.setter

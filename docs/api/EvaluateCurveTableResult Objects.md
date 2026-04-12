@@ -13,13 +13,13 @@ Enum used to indicate success or failure of EvaluateCurveTableRow.
 
 <a id="unreal.EvaluateCurveTableResult.ROW_FOUND"></a>
 
-#### ROW_FOUND
+#### ROW\_FOUND
 
 0: Found the row successfully.
 
 <a id="unreal.EvaluateCurveTableResult.ROW_NOT_FOUND"></a>
 
-#### ROW_NOT_FOUND
+#### ROW\_NOT\_FOUND
 
 1: Failed to find the row.
 

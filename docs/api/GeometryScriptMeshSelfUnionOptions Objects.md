@@ -22,7 +22,7 @@ Geometry Script Mesh Self Union Options
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(fill_holes: bool = False,
@@ -34,7 +34,7 @@ def __init__(fill_holes: bool = False,
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.fill_holes"></a>
 
-#### fill_holes
+#### fill\_holes
 
 ```python
 @property
@@ -45,7 +45,7 @@ def fill_holes() -> bool
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.fill_holes"></a>
 
-#### fill_holes
+#### fill\_holes
 
 ```python
 @fill_holes.setter
@@ -54,7 +54,7 @@ def fill_holes(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.trim_flaps"></a>
 
-#### trim_flaps
+#### trim\_flaps
 
 ```python
 @property
@@ -65,7 +65,7 @@ def trim_flaps() -> bool
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.trim_flaps"></a>
 
-#### trim_flaps
+#### trim\_flaps
 
 ```python
 @trim_flaps.setter
@@ -74,7 +74,7 @@ def trim_flaps(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.simplify_output"></a>
 
-#### simplify_output
+#### simplify\_output
 
 ```python
 @property
@@ -85,7 +85,7 @@ def simplify_output() -> bool
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.simplify_output"></a>
 
-#### simplify_output
+#### simplify\_output
 
 ```python
 @simplify_output.setter
@@ -94,7 +94,7 @@ def simplify_output(value: bool) -> None
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.simplify_planar_tolerance"></a>
 
-#### simplify_planar_tolerance
+#### simplify\_planar\_tolerance
 
 ```python
 @property
@@ -105,7 +105,7 @@ def simplify_planar_tolerance() -> float
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.simplify_planar_tolerance"></a>
 
-#### simplify_planar_tolerance
+#### simplify\_planar\_tolerance
 
 ```python
 @simplify_planar_tolerance.setter
@@ -114,7 +114,7 @@ def simplify_planar_tolerance(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.winding_threshold"></a>
 
-#### winding_threshold
+#### winding\_threshold
 
 ```python
 @property
@@ -125,7 +125,7 @@ def winding_threshold() -> float
 
 <a id="unreal.GeometryScriptMeshSelfUnionOptions.winding_threshold"></a>
 
-#### winding_threshold
+#### winding\_threshold
 
 ```python
 @winding_threshold.setter

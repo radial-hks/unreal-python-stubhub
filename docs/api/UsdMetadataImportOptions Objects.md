@@ -35,7 +35,7 @@ Usd Metadata Import Options
 
 <a id="unreal.UsdMetadataImportOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(collect_metadata: bool = False,
@@ -47,7 +47,7 @@ def __init__(collect_metadata: bool = False,
 
 <a id="unreal.UsdMetadataImportOptions.collect_metadata"></a>
 
-#### collect_metadata
+#### collect\_metadata
 
 ```python
 @property
@@ -58,7 +58,7 @@ def collect_metadata() -> bool
 
 <a id="unreal.UsdMetadataImportOptions.collect_metadata"></a>
 
-#### collect_metadata
+#### collect\_metadata
 
 ```python
 @collect_metadata.setter
@@ -67,7 +67,7 @@ def collect_metadata(value: bool) -> None
 
 <a id="unreal.UsdMetadataImportOptions.collect_from_entire_subtrees"></a>
 
-#### collect_from_entire_subtrees
+#### collect\_from\_entire\_subtrees
 
 ```python
 @property
@@ -79,7 +79,7 @@ when apropriate. This is useful when used together with collapsing settings, for
 
 <a id="unreal.UsdMetadataImportOptions.collect_from_entire_subtrees"></a>
 
-#### collect_from_entire_subtrees
+#### collect\_from\_entire\_subtrees
 
 ```python
 @collect_from_entire_subtrees.setter
@@ -88,7 +88,7 @@ def collect_from_entire_subtrees(value: bool) -> None
 
 <a id="unreal.UsdMetadataImportOptions.collect_on_components"></a>
 
-#### collect_on_components
+#### collect\_on\_components
 
 ```python
 @property
@@ -105,7 +105,7 @@ still be collected on the components with this option.
 
 <a id="unreal.UsdMetadataImportOptions.collect_on_components"></a>
 
-#### collect_on_components
+#### collect\_on\_components
 
 ```python
 @collect_on_components.setter
@@ -114,7 +114,7 @@ def collect_on_components(value: bool) -> None
 
 <a id="unreal.UsdMetadataImportOptions.blocked_prefix_filters"></a>
 
-#### blocked_prefix_filters
+#### blocked\_prefix\_filters
 
 ```python
 @property
@@ -128,7 +128,7 @@ Note that you can use the ":" separator for nested dictionaries, so for example 
 
 <a id="unreal.UsdMetadataImportOptions.blocked_prefix_filters"></a>
 
-#### blocked_prefix_filters
+#### blocked\_prefix\_filters
 
 ```python
 @blocked_prefix_filters.setter
@@ -137,7 +137,7 @@ def blocked_prefix_filters(value: Array[str]) -> None
 
 <a id="unreal.UsdMetadataImportOptions.invert_filters"></a>
 
-#### invert_filters
+#### invert\_filters
 
 ```python
 @property
@@ -151,7 +151,7 @@ In that case, entries are only allowed and collected if they match at least one 
 
 <a id="unreal.UsdMetadataImportOptions.invert_filters"></a>
 
-#### invert_filters
+#### invert\_filters
 
 ```python
 @invert_filters.setter

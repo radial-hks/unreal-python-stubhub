@@ -20,13 +20,13 @@ EPCGAttribute Property Selection
 
 <a id="unreal.PCGAttributePropertySelection.POINT_PROPERTY"></a>
 
-#### POINT_PROPERTY
+#### POINT\_PROPERTY
 
 1
 
 <a id="unreal.PCGAttributePropertySelection.EXTRA_PROPERTY"></a>
 
-#### EXTRA_PROPERTY
+#### EXTRA\_PROPERTY
 
 2
 

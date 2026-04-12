@@ -24,7 +24,7 @@ The full C++ struct is located here: Engine\Source\Runtime\Core\Public\Internati
 
 <a id="unreal.FormatArgumentData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(argument_name: str = "",
@@ -38,7 +38,7 @@ def __init__(argument_name: str = "",
 
 <a id="unreal.FormatArgumentData.argument_name"></a>
 
-#### argument_name
+#### argument\_name
 
 ```python
 @property
@@ -49,7 +49,7 @@ def argument_name() -> str
 
 <a id="unreal.FormatArgumentData.argument_name"></a>
 
-#### argument_name
+#### argument\_name
 
 ```python
 @argument_name.setter
@@ -58,7 +58,7 @@ def argument_name(value: str) -> None
 
 <a id="unreal.FormatArgumentData.argument_value_type"></a>
 
-#### argument_value_type
+#### argument\_value\_type
 
 ```python
 @property
@@ -69,7 +69,7 @@ def argument_value_type() -> FormatArgumentType
 
 <a id="unreal.FormatArgumentData.argument_value_type"></a>
 
-#### argument_value_type
+#### argument\_value\_type
 
 ```python
 @argument_value_type.setter
@@ -78,7 +78,7 @@ def argument_value_type(value: FormatArgumentType) -> None
 
 <a id="unreal.FormatArgumentData.argument_value"></a>
 
-#### argument_value
+#### argument\_value
 
 ```python
 @property
@@ -89,7 +89,7 @@ def argument_value() -> Text
 
 <a id="unreal.FormatArgumentData.argument_value"></a>
 
-#### argument_value
+#### argument\_value
 
 ```python
 @argument_value.setter
@@ -98,7 +98,7 @@ def argument_value(value: Text) -> None
 
 <a id="unreal.FormatArgumentData.text_value"></a>
 
-#### text_value
+#### text\_value
 
 ```python
 @property
@@ -109,7 +109,7 @@ deprecated: 'text_value' was renamed to 'argument_value'.
 
 <a id="unreal.FormatArgumentData.text_value"></a>
 
-#### text_value
+#### text\_value
 
 ```python
 @text_value.setter
@@ -118,7 +118,7 @@ def text_value(value: Text) -> None
 
 <a id="unreal.FormatArgumentData.argument_value_int"></a>
 
-#### argument_value_int
+#### argument\_value\_int
 
 ```python
 @property
@@ -129,7 +129,7 @@ def argument_value_int() -> int
 
 <a id="unreal.FormatArgumentData.argument_value_int"></a>
 
-#### argument_value_int
+#### argument\_value\_int
 
 ```python
 @argument_value_int.setter
@@ -138,7 +138,7 @@ def argument_value_int(value: int) -> None
 
 <a id="unreal.FormatArgumentData.argument_value_float"></a>
 
-#### argument_value_float
+#### argument\_value\_float
 
 ```python
 @property
@@ -149,7 +149,7 @@ def argument_value_float() -> float
 
 <a id="unreal.FormatArgumentData.argument_value_float"></a>
 
-#### argument_value_float
+#### argument\_value\_float
 
 ```python
 @argument_value_float.setter
@@ -158,7 +158,7 @@ def argument_value_float(value: float) -> None
 
 <a id="unreal.FormatArgumentData.argument_value_double"></a>
 
-#### argument_value_double
+#### argument\_value\_double
 
 ```python
 @property
@@ -169,7 +169,7 @@ def argument_value_double() -> float
 
 <a id="unreal.FormatArgumentData.argument_value_double"></a>
 
-#### argument_value_double
+#### argument\_value\_double
 
 ```python
 @argument_value_double.setter
@@ -178,7 +178,7 @@ def argument_value_double(value: float) -> None
 
 <a id="unreal.FormatArgumentData.argument_value_gender"></a>
 
-#### argument_value_gender
+#### argument\_value\_gender
 
 ```python
 @property
@@ -189,7 +189,7 @@ def argument_value_gender() -> TextGender
 
 <a id="unreal.FormatArgumentData.argument_value_gender"></a>
 
-#### argument_value_gender
+#### argument\_value\_gender
 
 ```python
 @argument_value_gender.setter

@@ -20,7 +20,7 @@ EWave Spectrum Type
 
 <a id="unreal.WaveSpectrumType.PIERSON_MOSKOWITZ"></a>
 
-#### PIERSON_MOSKOWITZ
+#### PIERSON\_MOSKOWITZ
 
 1
 

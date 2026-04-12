@@ -18,7 +18,7 @@ Live Link Frame Rate
 
 <a id="unreal.LiveLinkFrameRate.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(numerator: int = 0, denominator: int = 0) -> None

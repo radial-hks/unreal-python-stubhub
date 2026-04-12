@@ -18,7 +18,7 @@ Compute Kernel Permutation Set
 
 <a id="unreal.ComputeKernelPermutationSet.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

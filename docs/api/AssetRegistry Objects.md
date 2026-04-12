@@ -13,7 +13,7 @@ Asset Registry
 
 <a id="unreal.AssetRegistry.wait_for_package"></a>
 
-#### wait_for_package
+#### wait\_for\_package
 
 ```python
 def wait_for_package(package_name: str) -> None
@@ -27,7 +27,7 @@ Args:
 
 <a id="unreal.AssetRegistry.wait_for_completion"></a>
 
-#### wait_for_completion
+#### wait\_for\_completion
 
 ```python
 def wait_for_completion() -> None
@@ -39,7 +39,7 @@ not-yet-loaded plugin modules, WaitForCompletion will return silently with those
 
 <a id="unreal.AssetRegistry.use_filter_to_exclude_assets"></a>
 
-#### use_filter_to_exclude_assets
+#### use\_filter\_to\_exclude\_assets
 
 ```python
 def use_filter_to_exclude_assets(asset_data_list: Array[AssetData],
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.search_all_assets"></a>
 
-#### search_all_assets
+#### search\_all\_assets
 
 ```python
 def search_all_assets(synchronous_search: bool) -> None
@@ -74,7 +74,7 @@ Args:
 
 <a id="unreal.AssetRegistry.scan_paths_synchronous"></a>
 
-#### scan_paths_synchronous
+#### scan\_paths\_synchronous
 
 ```python
 def scan_paths_synchronous(
@@ -93,7 +93,7 @@ Args:
 
 <a id="unreal.AssetRegistry.scan_modified_asset_files"></a>
 
-#### scan_modified_asset_files
+#### scan\_modified\_asset\_files
 
 ```python
 def scan_modified_asset_files(file_paths: Array[str]) -> None
@@ -107,7 +107,7 @@ Args:
 
 <a id="unreal.AssetRegistry.scan_files_synchronous"></a>
 
-#### scan_files_synchronous
+#### scan\_files\_synchronous
 
 ```python
 def scan_files_synchronous(file_paths: Array[str],
@@ -123,7 +123,7 @@ Args:
 
 <a id="unreal.AssetRegistry.run_assets_through_filter"></a>
 
-#### run_assets_through_filter
+#### run\_assets\_through\_filter
 
 ```python
 def run_assets_through_filter(asset_data_list: Array[AssetData],
@@ -144,7 +144,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.prioritize_search_path"></a>
 
-#### prioritize_search_path
+#### prioritize\_search\_path
 
 ```python
 def prioritize_search_path(path_to_prioritize: str) -> None
@@ -158,7 +158,7 @@ Args:
 
 <a id="unreal.AssetRegistry.get_referencers"></a>
 
-#### get_referencers
+#### get\_referencers
 
 ```python
 def get_referencers(
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_dependencies"></a>
 
-#### get_dependencies
+#### get\_dependencies
 
 ```python
 def get_dependencies(
@@ -202,7 +202,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.k2_get_asset_by_object_path"></a>
 
-#### k2_get_asset_by_object_path
+#### k2\_get\_asset\_by\_object\_path
 
 ```python
 def k2_get_asset_by_object_path(
@@ -225,7 +225,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.is_search_async"></a>
 
-#### is_search_async
+#### is\_search\_async
 
 ```python
 def is_search_async() -> bool
@@ -239,7 +239,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.is_search_all_assets"></a>
 
-#### is_search_all_assets
+#### is\_search\_all\_assets
 
 ```python
 def is_search_all_assets() -> bool
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.is_loading_assets"></a>
 
-#### is_loading_assets
+#### is\_loading\_assets
 
 ```python
 def is_loading_assets() -> bool
@@ -268,7 +268,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.has_assets"></a>
 
-#### has_assets
+#### has\_assets
 
 ```python
 def has_assets(package_path: Name, recursive: bool = False) -> bool
@@ -286,7 +286,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_sub_paths"></a>
 
-#### get_sub_paths
+#### get\_sub\_paths
 
 ```python
 def get_sub_paths(base_path: str, recurse: bool) -> Array[str]
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_in_memory_assets"></a>
 
-#### get_in_memory_assets
+#### get\_in\_memory\_assets
 
 ```python
 def get_in_memory_assets(
@@ -330,7 +330,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_derived_class_names"></a>
 
-#### get_derived_class_names
+#### get\_derived\_class\_names
 
 ```python
 def get_derived_class_names(
@@ -353,7 +353,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_assets_by_paths"></a>
 
-#### get_assets_by_paths
+#### get\_assets\_by\_paths
 
 ```python
 def get_assets_by_paths(
@@ -379,7 +379,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_assets_by_path"></a>
 
-#### get_assets_by_path
+#### get\_assets\_by\_path
 
 ```python
 def get_assets_by_path(
@@ -405,7 +405,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_assets_by_package_name"></a>
 
-#### get_assets_by_package_name
+#### get\_assets\_by\_package\_name
 
 ```python
 def get_assets_by_package_name(
@@ -430,7 +430,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_assets_by_class"></a>
 
-#### get_assets_by_class
+#### get\_assets\_by\_class
 
 ```python
 def get_assets_by_class(
@@ -452,7 +452,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_assets"></a>
 
-#### get_assets
+#### get\_assets
 
 ```python
 def get_assets(
@@ -476,7 +476,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_asset_by_object_path"></a>
 
-#### get_asset_by_object_path
+#### get\_asset\_by\_object\_path
 
 ```python
 def get_asset_by_object_path(
@@ -496,7 +496,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_ancestor_class_names"></a>
 
-#### get_ancestor_class_names
+#### get\_ancestor\_class\_names
 
 ```python
 def get_ancestor_class_names(
@@ -517,7 +517,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_all_cached_paths"></a>
 
-#### get_all_cached_paths
+#### get\_all\_cached\_paths
 
 ```python
 def get_all_cached_paths() -> Array[str]
@@ -533,7 +533,7 @@ Returns:
 
 <a id="unreal.AssetRegistry.get_all_assets"></a>
 
-#### get_all_assets
+#### get\_all\_assets
 
 ```python
 def get_all_assets(

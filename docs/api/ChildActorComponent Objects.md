@@ -50,7 +50,7 @@ A component that spawns an Actor when registered, and destroys it when unregiste
 
 <a id="unreal.ChildActorComponent.child_actor_class"></a>
 
-#### child_actor_class
+#### child\_actor\_class
 
 ```python
 @property
@@ -61,7 +61,7 @@ def child_actor_class() -> Class
 
 <a id="unreal.ChildActorComponent.child_actor"></a>
 
-#### child_actor
+#### child\_actor
 
 ```python
 @property
@@ -72,7 +72,7 @@ def child_actor() -> Actor
 
 <a id="unreal.ChildActorComponent.set_child_actor_class"></a>
 
-#### set_child_actor_class
+#### set\_child\_actor\_class
 
 ```python
 def set_child_actor_class(class_: Class) -> None

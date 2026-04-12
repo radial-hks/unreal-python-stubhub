@@ -14,19 +14,19 @@ EPCGUnion Type
 
 <a id="unreal.PCGUnionType.LEFT_TO_RIGHT_PRIORITY"></a>
 
-#### LEFT_TO_RIGHT_PRIORITY
+#### LEFT\_TO\_RIGHT\_PRIORITY
 
 0
 
 <a id="unreal.PCGUnionType.RIGHT_TO_LEFT_PRIORITY"></a>
 
-#### RIGHT_TO_LEFT_PRIORITY
+#### RIGHT\_TO\_LEFT\_PRIORITY
 
 1
 
 <a id="unreal.PCGUnionType.KEEP_ALL"></a>
 
-#### KEEP_ALL
+#### KEEP\_ALL
 
 2
 

@@ -29,7 +29,7 @@ def time() -> Timespan
 
 <a id="unreal.MediaTimeStampInfo.sequence_index"></a>
 
-#### sequence_index
+#### sequence\_index
 
 ```python
 @property

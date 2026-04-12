@@ -8,7 +8,7 @@ deprecated: 'ControlRigGizmoDefinition' was renamed to 'ControlRigShapeDefinitio
 
 <a id="unreal.ControlRigGizmoDefinition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

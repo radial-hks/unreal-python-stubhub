@@ -19,7 +19,7 @@ PCGMatch and Set by Attribute Entry
 
 <a id="unreal.PCGMatchAndSetByAttributeEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -46,7 +46,7 @@ def __init__(
 
 <a id="unreal.PCGMatchAndSetByAttributeEntry.value_to_match"></a>
 
-#### value_to_match
+#### value\_to\_match
 
 ```python
 @property
@@ -57,7 +57,7 @@ def value_to_match() -> PCGMetadataTypesConstantStruct
 
 <a id="unreal.PCGMatchAndSetByAttributeEntry.value_to_match"></a>
 
-#### value_to_match
+#### value\_to\_match
 
 ```python
 @value_to_match.setter

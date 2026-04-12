@@ -76,7 +76,7 @@ def operator(value: PCGStringMatchingOperator) -> None
 
 <a id="unreal.PCGFilterByAttributeSettings.ignore_properties"></a>
 
-#### ignore_properties
+#### ignore\_properties
 
 ```python
 @property
@@ -87,7 +87,7 @@ def ignore_properties() -> bool
 
 <a id="unreal.PCGFilterByAttributeSettings.ignore_properties"></a>
 
-#### ignore_properties
+#### ignore\_properties
 
 ```python
 @ignore_properties.setter

@@ -142,7 +142,7 @@ Placed Editor Utility Base
 
 <a id="unreal.PlacedEditorUtilityBase.help_text"></a>
 
-#### help_text
+#### help\_text
 
 ```python
 @property
@@ -153,7 +153,7 @@ def help_text() -> str
 
 <a id="unreal.PlacedEditorUtilityBase.help_text"></a>
 
-#### help_text
+#### help\_text
 
 ```python
 @help_text.setter
@@ -162,7 +162,7 @@ def help_text(value: str) -> None
 
 <a id="unreal.PlacedEditorUtilityBase.set_level_viewport_camera_info"></a>
 
-#### set_level_viewport_camera_info
+#### set\_level\_viewport\_camera\_info
 
 ```python
 def set_level_viewport_camera_info(camera_location: Vector,
@@ -178,7 +178,7 @@ Args:
 
 <a id="unreal.PlacedEditorUtilityBase.set_actor_selection_state"></a>
 
-#### set_actor_selection_state
+#### set\_actor\_selection\_state
 
 ```python
 def set_actor_selection_state(actor: Actor, should_be_selected: bool) -> None
@@ -193,7 +193,7 @@ Args:
 
 <a id="unreal.PlacedEditorUtilityBase.select_nothing"></a>
 
-#### select_nothing
+#### select\_nothing
 
 ```python
 def select_nothing() -> None
@@ -204,7 +204,7 @@ Selects nothing in the editor (another way to clear the selection)
 
 <a id="unreal.PlacedEditorUtilityBase.get_selection_set"></a>
 
-#### get_selection_set
+#### get\_selection\_set
 
 ```python
 def get_selection_set() -> Array[Actor]
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.PlacedEditorUtilityBase.get_level_viewport_camera_info"></a>
 
-#### get_level_viewport_camera_info
+#### get\_level\_viewport\_camera\_info
 
 ```python
 def get_level_viewport_camera_info() -> Optional[Tuple[Vector, Rotator]]
@@ -236,7 +236,7 @@ Returns:
 
 <a id="unreal.PlacedEditorUtilityBase.get_actor_reference"></a>
 
-#### get_actor_reference
+#### get\_actor\_reference
 
 ```python
 def get_actor_reference(path_to_actor: str) -> Actor
@@ -253,7 +253,7 @@ Returns:
 
 <a id="unreal.PlacedEditorUtilityBase.clear_actor_selection_set"></a>
 
-#### clear_actor_selection_set
+#### clear\_actor\_selection\_set
 
 ```python
 def clear_actor_selection_set() -> None

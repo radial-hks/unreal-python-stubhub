@@ -32,7 +32,7 @@ def texture() -> VirtualTexture2D
 
 <a id="unreal.VirtualTextureBuilder.texture_mobile"></a>
 
-#### texture_mobile
+#### texture\_mobile
 
 ```python
 @property

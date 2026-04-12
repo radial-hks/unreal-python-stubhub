@@ -17,7 +17,7 @@ Compressed Image Sequence Protocol
 
 <a id="unreal.CompressedImageSequenceProtocol.compression_quality"></a>
 
-#### compression_quality
+#### compression\_quality
 
 ```python
 @property
@@ -28,7 +28,7 @@ def compression_quality() -> int
 
 <a id="unreal.CompressedImageSequenceProtocol.compression_quality"></a>
 
-#### compression_quality
+#### compression\_quality
 
 ```python
 @compression_quality.setter

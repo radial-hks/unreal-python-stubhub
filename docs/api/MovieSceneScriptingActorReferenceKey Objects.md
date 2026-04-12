@@ -15,7 +15,7 @@ Stores a reference to the data so changes to this class are forwarded onto the u
 
 <a id="unreal.MovieSceneScriptingActorReferenceKey.set_value"></a>
 
-#### set_value
+#### set\_value
 
 ```python
 def set_value(new_value: MovieSceneObjectBindingID) -> None
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingActorReferenceKey.set_time"></a>
 
-#### set_time
+#### set\_time
 
 ```python
 def set_time(
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingActorReferenceKey.get_value"></a>
 
-#### get_value
+#### get\_value
 
 ```python
 def get_value() -> MovieSceneObjectBindingID
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingActorReferenceKey.get_time"></a>
 
-#### get_time
+#### get\_time
 
 ```python
 def get_time(

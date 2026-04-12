@@ -14,25 +14,25 @@ ESet Operation Enum
 
 <a id="unreal.SetOperationEnum.DATAFLOW_SET_OPERATION_AND"></a>
 
-#### DATAFLOW_SET_OPERATION_AND
+#### DATAFLOW\_SET\_OPERATION\_AND
 
 0: Select elements that are selected in both incoming selections (Bitwise AND)
 
 <a id="unreal.SetOperationEnum.DATAFLOW_SET_OPERATION_OR"></a>
 
-#### DATAFLOW_SET_OPERATION_OR
+#### DATAFLOW\_SET\_OPERATION\_OR
 
 1: Select elements that are selected in either incoming selections (Bitwise OR)
 
 <a id="unreal.SetOperationEnum.DATAFLOW_SET_OPERATION_XOR"></a>
 
-#### DATAFLOW_SET_OPERATION_XOR
+#### DATAFLOW\_SET\_OPERATION\_XOR
 
 2: Select elements that are selected in exactly one incoming selection (Bitwise XOR)
 
 <a id="unreal.SetOperationEnum.DATAFLOW_SET_OPERATION_SUBTRACT"></a>
 
-#### DATAFLOW_SET_OPERATION_SUBTRACT
+#### DATAFLOW\_SET\_OPERATION\_SUBTRACT
 
 3: Select elements that are selected in only the first of the incoming selections (Bitwise A AND (NOT B))
 

@@ -27,7 +27,7 @@ Attenuation Submix Send Settings
 
 <a id="unreal.AttenuationSubmixSendSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(send_level_control_method:

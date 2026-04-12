@@ -26,7 +26,7 @@ Tick function that calls AActor::TickActor
 
 <a id="unreal.ActorTickFunction.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

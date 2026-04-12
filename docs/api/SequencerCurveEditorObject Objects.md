@@ -14,7 +14,7 @@ class SequencerCurveEditorObject(Object)
 
 <a id="unreal.SequencerCurveEditorObject.show_curve"></a>
 
-#### show_curve
+#### show\_curve
 
 ```python
 def show_curve(channel: SequencerChannelProxy, show_curve: bool) -> None
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.SequencerCurveEditorObject.set_random_color_for_channels"></a>
 
-#### set_random_color_for_channels
+#### set\_random\_color\_for\_channels
 
 ```python
 def set_random_color_for_channels(class_: Class,
@@ -45,7 +45,7 @@ Args:
 
 <a id="unreal.SequencerCurveEditorObject.set_custom_color_for_channels"></a>
 
-#### set_custom_color_for_channels
+#### set\_custom\_color\_for\_channels
 
 ```python
 def set_custom_color_for_channels(class_: Class, identifiers: Array[str],
@@ -62,7 +62,7 @@ Args:
 
 <a id="unreal.SequencerCurveEditorObject.set_custom_color_for_channel"></a>
 
-#### set_custom_color_for_channel
+#### set\_custom\_color\_for\_channel
 
 ```python
 def set_custom_color_for_channel(class_: Class, identifier: str,
@@ -79,7 +79,7 @@ Args:
 
 <a id="unreal.SequencerCurveEditorObject.select_keys"></a>
 
-#### select_keys
+#### select\_keys
 
 ```python
 def select_keys(channel: SequencerChannelProxy, indices: Array[int]) -> None
@@ -94,7 +94,7 @@ Args:
 
 <a id="unreal.SequencerCurveEditorObject.open_curve_editor"></a>
 
-#### open_curve_editor
+#### open\_curve\_editor
 
 ```python
 def open_curve_editor() -> None
@@ -105,7 +105,7 @@ Open curve editor
 
 <a id="unreal.SequencerCurveEditorObject.is_curve_shown"></a>
 
-#### is_curve_shown
+#### is\_curve\_shown
 
 ```python
 def is_curve_shown(channel: SequencerChannelProxy) -> bool
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.SequencerCurveEditorObject.is_curve_editor_open"></a>
 
-#### is_curve_editor_open
+#### is\_curve\_editor\_open
 
 ```python
 def is_curve_editor_open() -> bool
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.SequencerCurveEditorObject.has_custom_color_for_channel"></a>
 
-#### has_custom_color_for_channel
+#### has\_custom\_color\_for\_channel
 
 ```python
 def has_custom_color_for_channel(class_: Class, identifier: str) -> bool
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.SequencerCurveEditorObject.get_selected_keys"></a>
 
-#### get_selected_keys
+#### get\_selected\_keys
 
 ```python
 def get_selected_keys(channel_proxy: SequencerChannelProxy) -> Array[int]
@@ -171,7 +171,7 @@ Returns:
 
 <a id="unreal.SequencerCurveEditorObject.get_custom_color_for_channel"></a>
 
-#### get_custom_color_for_channel
+#### get\_custom\_color\_for\_channel
 
 ```python
 def get_custom_color_for_channel(class_: Class,
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.SequencerCurveEditorObject.get_channels_with_selected_keys"></a>
 
-#### get_channels_with_selected_keys
+#### get\_channels\_with\_selected\_keys
 
 ```python
 def get_channels_with_selected_keys() -> Array[SequencerChannelProxy]
@@ -204,7 +204,7 @@ Returns:
 
 <a id="unreal.SequencerCurveEditorObject.empty_selection"></a>
 
-#### empty_selection
+#### empty\_selection
 
 ```python
 def empty_selection() -> None
@@ -215,7 +215,7 @@ Empties the current selection.
 
 <a id="unreal.SequencerCurveEditorObject.delete_color_for_channels"></a>
 
-#### delete_color_for_channels
+#### delete\_color\_for\_channels
 
 ```python
 def delete_color_for_channels(class_: Class) -> str
@@ -234,7 +234,7 @@ Returns:
 
 <a id="unreal.SequencerCurveEditorObject.close_curve_editor"></a>
 
-#### close_curve_editor
+#### close\_curve\_editor
 
 ```python
 def close_curve_editor() -> None
@@ -245,7 +245,7 @@ Close curve editor
 
 <a id="unreal.SequencerCurveEditorObject.apply_filter"></a>
 
-#### apply_filter
+#### apply\_filter
 
 ```python
 def apply_filter(filter: CurveEditorFilterBase) -> None

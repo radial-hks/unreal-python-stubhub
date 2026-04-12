@@ -20,7 +20,7 @@ Data Layer Instance
 
 <a id="unreal.DataLayerInstance.is_visible"></a>
 
-#### is_visible
+#### is\_visible
 
 ```python
 def is_visible() -> bool
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.is_server_only"></a>
 
-#### is_server_only
+#### is\_server\_only
 
 ```python
 def is_server_only() -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.is_runtime"></a>
 
-#### is_runtime
+#### is\_runtime
 
 ```python
 def is_runtime() -> bool
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.is_initially_visible"></a>
 
-#### is_initially_visible
+#### is\_initially\_visible
 
 ```python
 def is_initially_visible() -> bool
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.is_effective_visible"></a>
 
-#### is_effective_visible
+#### is\_effective\_visible
 
 ```python
 def is_effective_visible() -> bool
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.is_client_only"></a>
 
-#### is_client_only
+#### is\_client\_only
 
 ```python
 def is_client_only() -> bool
@@ -104,7 +104,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.get_type"></a>
 
-#### get_type
+#### get\_type
 
 ```python
 def get_type() -> DataLayerType
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.get_initial_runtime_state"></a>
 
-#### get_initial_runtime_state
+#### get\_initial\_runtime\_state
 
 ```python
 def get_initial_runtime_state() -> DataLayerRuntimeState
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.get_debug_color"></a>
 
-#### get_debug_color
+#### get\_debug\_color
 
 ```python
 def get_debug_color() -> Color
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.get_data_layer_short_name"></a>
 
-#### get_data_layer_short_name
+#### get\_data\_layer\_short\_name
 
 ```python
 def get_data_layer_short_name() -> str
@@ -160,7 +160,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.get_data_layer_full_name"></a>
 
-#### get_data_layer_full_name
+#### get\_data\_layer\_full\_name
 
 ```python
 def get_data_layer_full_name() -> str
@@ -174,7 +174,7 @@ Returns:
 
 <a id="unreal.DataLayerInstance.get_asset"></a>
 
-#### get_asset
+#### get\_asset
 
 ```python
 def get_asset() -> DataLayerAsset

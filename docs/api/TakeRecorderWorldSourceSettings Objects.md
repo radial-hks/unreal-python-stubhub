@@ -22,7 +22,7 @@ A recording source that records world state
 
 <a id="unreal.TakeRecorderWorldSourceSettings.record_world_settings"></a>
 
-#### record_world_settings
+#### record\_world\_settings
 
 ```python
 @property
@@ -33,7 +33,7 @@ def record_world_settings() -> bool
 
 <a id="unreal.TakeRecorderWorldSourceSettings.record_world_settings"></a>
 
-#### record_world_settings
+#### record\_world\_settings
 
 ```python
 @record_world_settings.setter
@@ -42,7 +42,7 @@ def record_world_settings(value: bool) -> None
 
 <a id="unreal.TakeRecorderWorldSourceSettings.autotrack_actors"></a>
 
-#### autotrack_actors
+#### autotrack\_actors
 
 ```python
 @property
@@ -53,7 +53,7 @@ def autotrack_actors() -> bool
 
 <a id="unreal.TakeRecorderWorldSourceSettings.autotrack_actors"></a>
 
-#### autotrack_actors
+#### autotrack\_actors
 
 ```python
 @autotrack_actors.setter

@@ -20,10 +20,10 @@ of the settings.
 
 <a id="unreal.MediaTextureResourceSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.SVGShapeParameters"></a>
+<a id="unreal.GenerateStaticMeshLODProcess_PreprocessSettings"></a>

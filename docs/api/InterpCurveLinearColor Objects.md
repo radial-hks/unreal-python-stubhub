@@ -20,7 +20,7 @@ note: This is a mirror of TInterpCurve<FLinearColor>, defined in InterpCurve.h
 
 <a id="unreal.InterpCurveLinearColor.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(points: Array[InterpCurvePointLinearColor] = [],
@@ -50,7 +50,7 @@ def points(value: Array[InterpCurvePointLinearColor]) -> None
 
 <a id="unreal.InterpCurveLinearColor.is_looped"></a>
 
-#### is_looped
+#### is\_looped
 
 ```python
 @property
@@ -61,7 +61,7 @@ def is_looped() -> bool
 
 <a id="unreal.InterpCurveLinearColor.is_looped"></a>
 
-#### is_looped
+#### is\_looped
 
 ```python
 @is_looped.setter
@@ -70,7 +70,7 @@ def is_looped(value: bool) -> None
 
 <a id="unreal.InterpCurveLinearColor.loop_key_offset"></a>
 
-#### loop_key_offset
+#### loop\_key\_offset
 
 ```python
 @property
@@ -81,7 +81,7 @@ def loop_key_offset() -> float
 
 <a id="unreal.InterpCurveLinearColor.loop_key_offset"></a>
 
-#### loop_key_offset
+#### loop\_key\_offset
 
 ```python
 @loop_key_offset.setter

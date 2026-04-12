@@ -15,7 +15,7 @@ Simply implement GenerateGerstnerWaves (or GenerateGerstnerWaves_Implementation 
 
 <a id="unreal.GerstnerWaterWaveGeneratorBase.generate_gerstner_waves"></a>
 
-#### generate_gerstner_waves
+#### generate\_gerstner\_waves
 
 ```python
 def generate_gerstner_waves() -> Array[GerstnerWave]

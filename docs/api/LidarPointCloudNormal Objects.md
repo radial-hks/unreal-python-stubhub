@@ -20,7 +20,7 @@ class LidarPointCloudNormal(StructBase)
 
 <a id="unreal.LidarPointCloudNormal.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: int = 0, y: int = 0, z: int = 0) -> None

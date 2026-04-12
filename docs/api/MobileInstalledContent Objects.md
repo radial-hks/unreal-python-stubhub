@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.MobileInstalledContent.get_installed_content_size"></a>
 
-#### get_installed_content_size
+#### get\_installed\_content\_size
 
 ```python
 def get_installed_content_size() -> float
@@ -46,7 +46,7 @@ Returns:
 
 <a id="unreal.MobileInstalledContent.get_disk_free_space"></a>
 
-#### get_disk_free_space
+#### get\_disk\_free\_space
 
 ```python
 def get_disk_free_space() -> float

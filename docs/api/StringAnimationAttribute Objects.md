@@ -17,7 +17,7 @@ Attribute type supporting the legacy TVariant<FString> attributes
 
 <a id="unreal.StringAnimationAttribute.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: str = "") -> None

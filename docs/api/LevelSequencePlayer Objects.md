@@ -25,7 +25,7 @@ an level sequence while its playing.
 
 <a id="unreal.LevelSequencePlayer.on_camera_cut"></a>
 
-#### on_camera_cut
+#### on\_camera\_cut
 
 ```python
 @property
@@ -36,7 +36,7 @@ def on_camera_cut() -> OnLevelSequencePlayerCameraCutEvent
 
 <a id="unreal.LevelSequencePlayer.on_camera_cut"></a>
 
-#### on_camera_cut
+#### on\_camera\_cut
 
 ```python
 @on_camera_cut.setter
@@ -45,7 +45,7 @@ def on_camera_cut(value: OnLevelSequencePlayerCameraCutEvent) -> None
 
 <a id="unreal.LevelSequencePlayer.get_active_camera_component"></a>
 
-#### get_active_camera_component
+#### get\_active\_camera\_component
 
 ```python
 def get_active_camera_component() -> CameraComponent
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.LevelSequencePlayer.create_level_sequence_player"></a>
 
-#### create_level_sequence_player
+#### create\_level\_sequence\_player
 
 ```python
 @classmethod

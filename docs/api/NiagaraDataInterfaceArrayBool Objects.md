@@ -20,7 +20,7 @@ Niagara Data Interface Array Bool
 
 <a id="unreal.NiagaraDataInterfaceArrayBool.bool_data"></a>
 
-#### bool_data
+#### bool\_data
 
 ```python
 @property
@@ -31,7 +31,7 @@ def bool_data() -> Array[bool]
 
 <a id="unreal.NiagaraDataInterfaceArrayBool.bool_data"></a>
 
-#### bool_data
+#### bool\_data
 
 ```python
 @bool_data.setter

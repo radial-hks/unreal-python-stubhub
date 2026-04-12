@@ -21,7 +21,7 @@ Water Body Heightmap Settings
 
 <a id="unreal.WaterBodyHeightmapSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -43,7 +43,7 @@ def __init__(
 
 <a id="unreal.WaterBodyHeightmapSettings.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @property
@@ -54,7 +54,7 @@ def blend_mode() -> WaterBrushBlendType
 
 <a id="unreal.WaterBodyHeightmapSettings.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @blend_mode.setter
@@ -63,7 +63,7 @@ def blend_mode(value: WaterBrushBlendType) -> None
 
 <a id="unreal.WaterBodyHeightmapSettings.invert_shape"></a>
 
-#### invert_shape
+#### invert\_shape
 
 ```python
 @property
@@ -74,7 +74,7 @@ def invert_shape() -> bool
 
 <a id="unreal.WaterBodyHeightmapSettings.invert_shape"></a>
 
-#### invert_shape
+#### invert\_shape
 
 ```python
 @invert_shape.setter
@@ -83,7 +83,7 @@ def invert_shape(value: bool) -> None
 
 <a id="unreal.WaterBodyHeightmapSettings.falloff_settings"></a>
 
-#### falloff_settings
+#### falloff\_settings
 
 ```python
 @property
@@ -94,7 +94,7 @@ def falloff_settings() -> WaterFalloffSettings
 
 <a id="unreal.WaterBodyHeightmapSettings.falloff_settings"></a>
 
-#### falloff_settings
+#### falloff\_settings
 
 ```python
 @falloff_settings.setter

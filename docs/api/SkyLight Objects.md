@@ -143,7 +143,7 @@ Sky Light
 
 <a id="unreal.SkyLight.light_component"></a>
 
-#### light_component
+#### light\_component
 
 ```python
 @property

@@ -13,7 +13,7 @@ Material Import Helpers
 
 <a id="unreal.MaterialImportHelpers.find_existing_material_from_search_location"></a>
 
-#### find_existing_material_from_search_location
+#### find\_existing\_material\_from\_search\_location
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.MaterialImportHelpers.find_existing_material"></a>
 
-#### find_existing_material
+#### find\_existing\_material
 
 ```python
 @classmethod

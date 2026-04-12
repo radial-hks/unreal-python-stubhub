@@ -29,7 +29,7 @@ Async Physics Input Component
 
 <a id="unreal.AsyncPhysicsInputComponent.get_data_to_write"></a>
 
-#### get_data_to_write
+#### get\_data\_to\_write
 
 ```python
 def get_data_to_write() -> AsyncPhysicsData
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.AsyncPhysicsInputComponent.get_data_to_consume"></a>
 
-#### get_data_to_consume
+#### get\_data\_to\_consume
 
 ```python
 def get_data_to_consume() -> AsyncPhysicsData

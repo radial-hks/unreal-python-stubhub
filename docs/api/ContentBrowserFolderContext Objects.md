@@ -21,7 +21,7 @@ Content Browser Folder Context
 
 <a id="unreal.ContentBrowserFolderContext.can_be_modified"></a>
 
-#### can_be_modified
+#### can\_be\_modified
 
 ```python
 @property
@@ -32,7 +32,7 @@ def can_be_modified() -> bool
 
 <a id="unreal.ContentBrowserFolderContext.no_folder_on_disk"></a>
 
-#### no_folder_on_disk
+#### no\_folder\_on\_disk
 
 ```python
 @property
@@ -43,7 +43,7 @@ def no_folder_on_disk() -> bool
 
 <a id="unreal.ContentBrowserFolderContext.num_asset_paths"></a>
 
-#### num_asset_paths
+#### num\_asset\_paths
 
 ```python
 @property
@@ -54,7 +54,7 @@ def num_asset_paths() -> int
 
 <a id="unreal.ContentBrowserFolderContext.num_class_paths"></a>
 
-#### num_class_paths
+#### num\_class\_paths
 
 ```python
 @property
@@ -65,7 +65,7 @@ def num_class_paths() -> int
 
 <a id="unreal.ContentBrowserFolderContext.selected_package_paths"></a>
 
-#### selected_package_paths
+#### selected\_package\_paths
 
 ```python
 @property

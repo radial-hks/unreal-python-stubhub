@@ -14,19 +14,19 @@ EDataflow Transfer Vertex Attribute Node Source Scale
 
 <a id="unreal.DataflowTransferVertexAttributeNodeSourceScale.COMPONENT_EDGE"></a>
 
-#### COMPONENT_EDGE
+#### COMPONENT\_EDGE
 
 0: Bounding volume hierarchy cell size based on max edge length of each geometry group
 
 <a id="unreal.DataflowTransferVertexAttributeNodeSourceScale.ASSET_EDGE"></a>
 
-#### ASSET_EDGE
+#### ASSET\_EDGE
 
 1: Bounding volume hierarchy cell size based on max edge length of the whole asset
 
 <a id="unreal.DataflowTransferVertexAttributeNodeSourceScale.ASSET_BOUND"></a>
 
-#### ASSET_BOUND
+#### ASSET\_BOUND
 
 2: Bounding volume hierarchy cell size based on max length of the bounding box of the whole asset
 

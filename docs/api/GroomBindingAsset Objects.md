@@ -26,7 +26,7 @@ Implements an asset that can be used to store binding information between a groo
 
 <a id="unreal.GroomBindingAsset.groom_binding_type"></a>
 
-#### groom_binding_type
+#### groom\_binding\_type
 
 ```python
 @property
@@ -57,7 +57,7 @@ def groom(value: GroomAsset) -> None
 
 <a id="unreal.GroomBindingAsset.source_skeletal_mesh"></a>
 
-#### source_skeletal_mesh
+#### source\_skeletal\_mesh
 
 ```python
 @property
@@ -68,7 +68,7 @@ def source_skeletal_mesh() -> SkeletalMesh
 
 <a id="unreal.GroomBindingAsset.source_skeletal_mesh"></a>
 
-#### source_skeletal_mesh
+#### source\_skeletal\_mesh
 
 ```python
 @source_skeletal_mesh.setter
@@ -77,7 +77,7 @@ def source_skeletal_mesh(value: SkeletalMesh) -> None
 
 <a id="unreal.GroomBindingAsset.target_skeletal_mesh"></a>
 
-#### target_skeletal_mesh
+#### target\_skeletal\_mesh
 
 ```python
 @property
@@ -88,7 +88,7 @@ def target_skeletal_mesh() -> SkeletalMesh
 
 <a id="unreal.GroomBindingAsset.target_skeletal_mesh"></a>
 
-#### target_skeletal_mesh
+#### target\_skeletal\_mesh
 
 ```python
 @target_skeletal_mesh.setter
@@ -97,7 +97,7 @@ def target_skeletal_mesh(value: SkeletalMesh) -> None
 
 <a id="unreal.GroomBindingAsset.source_geometry_cache"></a>
 
-#### source_geometry_cache
+#### source\_geometry\_cache
 
 ```python
 @property
@@ -108,7 +108,7 @@ def source_geometry_cache() -> GeometryCache
 
 <a id="unreal.GroomBindingAsset.target_geometry_cache"></a>
 
-#### target_geometry_cache
+#### target\_geometry\_cache
 
 ```python
 @property
@@ -119,7 +119,7 @@ def target_geometry_cache() -> GeometryCache
 
 <a id="unreal.GroomBindingAsset.num_interpolation_points"></a>
 
-#### num_interpolation_points
+#### num\_interpolation\_points
 
 ```python
 @property
@@ -130,7 +130,7 @@ def num_interpolation_points() -> int
 
 <a id="unreal.GroomBindingAsset.matching_section"></a>
 
-#### matching_section
+#### matching\_section
 
 ```python
 @property
@@ -141,7 +141,7 @@ def matching_section() -> int
 
 <a id="unreal.GroomBindingAsset.group_infos"></a>
 
-#### group_infos
+#### group\_infos
 
 ```python
 @property
@@ -152,7 +152,7 @@ def group_infos() -> Array[GoomBindingGroupInfo]
 
 <a id="unreal.GroomBindingAsset.group_infos"></a>
 
-#### group_infos
+#### group\_infos
 
 ```python
 @group_infos.setter

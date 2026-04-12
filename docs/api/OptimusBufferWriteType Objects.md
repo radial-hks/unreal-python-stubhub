@@ -20,19 +20,19 @@ Write to buffer operation types.
 
 <a id="unreal.OptimusBufferWriteType.WRITE_ATOMIC_ADD"></a>
 
-#### WRITE_ATOMIC_ADD
+#### WRITE\_ATOMIC\_ADD
 
 1: AtomicAdd the value to the value in the resource buffer.
 
 <a id="unreal.OptimusBufferWriteType.WRITE_ATOMIC_MIN"></a>
 
-#### WRITE_ATOMIC_MIN
+#### WRITE\_ATOMIC\_MIN
 
 2: AtomicMin the value with the value in the resource buffer.
 
 <a id="unreal.OptimusBufferWriteType.WRITE_ATOMIC_MAX"></a>
 
-#### WRITE_ATOMIC_MAX
+#### WRITE\_ATOMIC\_MAX
 
 3: AtomicMax the value with the value in the resource buffer.
 

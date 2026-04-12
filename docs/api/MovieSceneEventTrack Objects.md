@@ -25,7 +25,7 @@ Implements a movie scene track that triggers discrete events during playback.
 
 <a id="unreal.MovieSceneEventTrack.add_event_trigger_section"></a>
 
-#### add_event_trigger_section
+#### add\_event\_trigger\_section
 
 ```python
 def add_event_trigger_section() -> MovieSceneEventTriggerSection
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.MovieSceneEventTrack.add_event_repeater_section"></a>
 
-#### add_event_repeater_section
+#### add\_event\_repeater\_section
 
 ```python
 def add_event_repeater_section() -> MovieSceneEventRepeaterSection

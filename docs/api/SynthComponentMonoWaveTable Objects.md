@@ -70,7 +70,7 @@ Synth Component Mono Wave Table
 
 <a id="unreal.SynthComponentMonoWaveTable.on_table_altered"></a>
 
-#### on_table_altered
+#### on\_table\_altered
 
 ```python
 @property
@@ -81,7 +81,7 @@ def on_table_altered() -> OnTableAltered
 
 <a id="unreal.SynthComponentMonoWaveTable.on_table_altered"></a>
 
-#### on_table_altered
+#### on\_table\_altered
 
 ```python
 @on_table_altered.setter
@@ -90,7 +90,7 @@ def on_table_altered(value: OnTableAltered) -> None
 
 <a id="unreal.SynthComponentMonoWaveTable.on_num_tables_changed"></a>
 
-#### on_num_tables_changed
+#### on\_num\_tables\_changed
 
 ```python
 @property
@@ -101,7 +101,7 @@ def on_num_tables_changed() -> NumTablesChanged
 
 <a id="unreal.SynthComponentMonoWaveTable.on_num_tables_changed"></a>
 
-#### on_num_tables_changed
+#### on\_num\_tables\_changed
 
 ```python
 @on_num_tables_changed.setter
@@ -110,7 +110,7 @@ def on_num_tables_changed(value: NumTablesChanged) -> None
 
 <a id="unreal.SynthComponentMonoWaveTable.set_wave_table_position"></a>
 
-#### set_wave_table_position
+#### set\_wave\_table\_position
 
 ```python
 def set_wave_table_position(position: float) -> None
@@ -124,7 +124,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_sustain_pedal_state"></a>
 
-#### set_sustain_pedal_state
+#### set\_sustain\_pedal\_state
 
 ```python
 def set_sustain_pedal_state(sustain_pedal_state: bool) -> None
@@ -138,7 +138,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_pos_lfo_type"></a>
 
-#### set_pos_lfo_type
+#### set\_pos\_lfo\_type
 
 ```python
 def set_pos_lfo_type(lfo_type: SynthLFOType) -> None
@@ -152,7 +152,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_pos_lfo_frequency"></a>
 
-#### set_pos_lfo_frequency
+#### set\_pos\_lfo\_frequency
 
 ```python
 def set_pos_lfo_frequency(lfo_frequency: float) -> None
@@ -166,7 +166,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_pos_lfo_depth"></a>
 
-#### set_pos_lfo_depth
+#### set\_pos\_lfo\_depth
 
 ```python
 def set_pos_lfo_depth(lfo_depth: float) -> None
@@ -181,7 +181,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_position_envelope_sustain_gain"></a>
 
-#### set_position_envelope_sustain_gain
+#### set\_position\_envelope\_sustain\_gain
 
 ```python
 def set_position_envelope_sustain_gain(sustain_gain: float) -> None
@@ -195,7 +195,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_position_envelope_release_time"></a>
 
-#### set_position_envelope_release_time
+#### set\_position\_envelope\_release\_time
 
 ```python
 def set_position_envelope_release_time(release_time_msec: float) -> None
@@ -209,7 +209,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_position_envelope_invert"></a>
 
-#### set_position_envelope_invert
+#### set\_position\_envelope\_invert
 
 ```python
 def set_position_envelope_invert(invert: bool) -> None
@@ -223,7 +223,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_position_envelope_depth"></a>
 
-#### set_position_envelope_depth
+#### set\_position\_envelope\_depth
 
 ```python
 def set_position_envelope_depth(depth: float) -> None
@@ -237,7 +237,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_position_envelope_decay_time"></a>
 
-#### set_position_envelope_decay_time
+#### set\_position\_envelope\_decay\_time
 
 ```python
 def set_position_envelope_decay_time(decay_time_msec: float) -> None
@@ -251,7 +251,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_position_envelope_bias_invert"></a>
 
-#### set_position_envelope_bias_invert
+#### set\_position\_envelope\_bias\_invert
 
 ```python
 def set_position_envelope_bias_invert(bias_invert: bool) -> None
@@ -265,7 +265,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_position_envelope_bias_depth"></a>
 
-#### set_position_envelope_bias_depth
+#### set\_position\_envelope\_bias\_depth
 
 ```python
 def set_position_envelope_bias_depth(depth: float) -> None
@@ -279,7 +279,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_position_envelope_attack_time"></a>
 
-#### set_position_envelope_attack_time
+#### set\_position\_envelope\_attack\_time
 
 ```python
 def set_position_envelope_attack_time(attack_time_msec: float) -> None
@@ -293,7 +293,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_low_pass_filter_resonance"></a>
 
-#### set_low_pass_filter_resonance
+#### set\_low\_pass\_filter\_resonance
 
 ```python
 def set_low_pass_filter_resonance(new_q: float) -> None
@@ -307,7 +307,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_frequency_with_midi_note"></a>
 
-#### set_frequency_with_midi_note
+#### set\_frequency\_with\_midi\_note
 
 ```python
 def set_frequency_with_midi_note(midi_note: float) -> None
@@ -321,7 +321,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_frequency_pitch_bend"></a>
 
-#### set_frequency_pitch_bend
+#### set\_frequency\_pitch\_bend
 
 ```python
 def set_frequency_pitch_bend(frequency_offset_cents: float) -> None
@@ -335,7 +335,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_frequency"></a>
 
-#### set_frequency
+#### set\_frequency
 
 ```python
 def set_frequency(frequency_hz: float) -> None
@@ -349,7 +349,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_filter_envelope_sustain_gain"></a>
 
-#### set_filter_envelope_sustain_gain
+#### set\_filter\_envelope\_sustain\_gain
 
 ```python
 def set_filter_envelope_sustain_gain(sustain_gain: float) -> None
@@ -363,7 +363,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_filter_envelope_release_time"></a>
 
-#### set_filter_envelope_release_time
+#### set\_filter\_envelope\_release\_time
 
 ```python
 def set_filter_envelope_release_time(release_time_msec: float) -> None
@@ -377,7 +377,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_filter_envelopen_decay_time"></a>
 
-#### set_filter_envelopen_decay_time
+#### set\_filter\_envelopen\_decay\_time
 
 ```python
 def set_filter_envelopen_decay_time(decay_time_msec: float) -> None
@@ -391,7 +391,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_filter_envelope_invert"></a>
 
-#### set_filter_envelope_invert
+#### set\_filter\_envelope\_invert
 
 ```python
 def set_filter_envelope_invert(invert: bool) -> None
@@ -405,7 +405,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_filter_envelope_depth"></a>
 
-#### set_filter_envelope_depth
+#### set\_filter\_envelope\_depth
 
 ```python
 def set_filter_envelope_depth(depth: float) -> None
@@ -419,7 +419,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_filter_envelope_bias_invert"></a>
 
-#### set_filter_envelope_bias_invert
+#### set\_filter\_envelope\_bias\_invert
 
 ```python
 def set_filter_envelope_bias_invert(bias_invert: bool) -> None
@@ -433,7 +433,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_filter_envelope_bias_depth"></a>
 
-#### set_filter_envelope_bias_depth
+#### set\_filter\_envelope\_bias\_depth
 
 ```python
 def set_filter_envelope_bias_depth(depth: float) -> None
@@ -447,7 +447,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_filter_envelope_attack_time"></a>
 
-#### set_filter_envelope_attack_time
+#### set\_filter\_envelope\_attack\_time
 
 ```python
 def set_filter_envelope_attack_time(attack_time_msec: float) -> None
@@ -461,7 +461,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_curve_value"></a>
 
-#### set_curve_value
+#### set\_curve\_value
 
 ```python
 def set_curve_value(table_index: int, keyframe_index: int,
@@ -483,7 +483,7 @@ Returns:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_curve_tangent"></a>
 
-#### set_curve_tangent
+#### set\_curve\_tangent
 
 ```python
 def set_curve_tangent(table_index: int, new_tangent: float) -> bool
@@ -502,7 +502,7 @@ Returns:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_curve_interpolation_type"></a>
 
-#### set_curve_interpolation_type
+#### set\_curve\_interpolation\_type
 
 ```python
 def set_curve_interpolation_type(interpolation_type: CurveInterpolationType,
@@ -522,7 +522,7 @@ Returns:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_amp_envelope_sustain_gain"></a>
 
-#### set_amp_envelope_sustain_gain
+#### set\_amp\_envelope\_sustain\_gain
 
 ```python
 def set_amp_envelope_sustain_gain(sustain_gain: float) -> None
@@ -536,7 +536,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_amp_envelope_release_time"></a>
 
-#### set_amp_envelope_release_time
+#### set\_amp\_envelope\_release\_time
 
 ```python
 def set_amp_envelope_release_time(release_time_msec: float) -> None
@@ -550,7 +550,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_amp_envelope_invert"></a>
 
-#### set_amp_envelope_invert
+#### set\_amp\_envelope\_invert
 
 ```python
 def set_amp_envelope_invert(invert: bool) -> None
@@ -564,7 +564,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_amp_envelope_depth"></a>
 
-#### set_amp_envelope_depth
+#### set\_amp\_envelope\_depth
 
 ```python
 def set_amp_envelope_depth(depth: float) -> None
@@ -578,7 +578,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_amp_envelope_decay_time"></a>
 
-#### set_amp_envelope_decay_time
+#### set\_amp\_envelope\_decay\_time
 
 ```python
 def set_amp_envelope_decay_time(decay_time_msec: float) -> None
@@ -592,7 +592,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_amp_envelope_bias_invert"></a>
 
-#### set_amp_envelope_bias_invert
+#### set\_amp\_envelope\_bias\_invert
 
 ```python
 def set_amp_envelope_bias_invert(bias_invert: bool) -> None
@@ -606,7 +606,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_amp_envelope_bias_depth"></a>
 
-#### set_amp_envelope_bias_depth
+#### set\_amp\_envelope\_bias\_depth
 
 ```python
 def set_amp_envelope_bias_depth(depth: float) -> None
@@ -620,7 +620,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.set_amp_envelope_attack_time"></a>
 
-#### set_amp_envelope_attack_time
+#### set\_amp\_envelope\_attack\_time
 
 ```python
 def set_amp_envelope_attack_time(attack_time_msec: float) -> None
@@ -634,7 +634,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.refresh_wave_table"></a>
 
-#### refresh_wave_table
+#### refresh\_wave\_table
 
 ```python
 def refresh_wave_table(index: int) -> None
@@ -648,7 +648,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.refresh_all_wave_tables"></a>
 
-#### refresh_all_wave_tables
+#### refresh\_all\_wave\_tables
 
 ```python
 def refresh_all_wave_tables() -> None
@@ -659,7 +659,7 @@ Refresh all wavetables (from Game Thread data)
 
 <a id="unreal.SynthComponentMonoWaveTable.note_on"></a>
 
-#### note_on
+#### note\_on
 
 ```python
 def note_on(midi_note: float, velocity: float) -> None
@@ -674,7 +674,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.note_off"></a>
 
-#### note_off
+#### note\_off
 
 ```python
 def note_off(midi_note: float) -> None
@@ -688,7 +688,7 @@ Args:
 
 <a id="unreal.SynthComponentMonoWaveTable.get_num_table_entries"></a>
 
-#### get_num_table_entries
+#### get\_num\_table\_entries
 
 ```python
 def get_num_table_entries() -> int
@@ -702,7 +702,7 @@ Returns:
 
 <a id="unreal.SynthComponentMonoWaveTable.get_max_table_index"></a>
 
-#### get_max_table_index
+#### get\_max\_table\_index
 
 ```python
 def get_max_table_index() -> int
@@ -716,7 +716,7 @@ Returns:
 
 <a id="unreal.SynthComponentMonoWaveTable.get_key_frame_values_for_table"></a>
 
-#### get_key_frame_values_for_table
+#### get\_key\_frame\_values\_for\_table
 
 ```python
 def get_key_frame_values_for_table(table_index: float) -> Array[float]
@@ -733,7 +733,7 @@ Returns:
 
 <a id="unreal.SynthComponentMonoWaveTable.get_curve_tangent"></a>
 
-#### get_curve_tangent
+#### get\_curve\_tangent
 
 ```python
 def get_curve_tangent(table_index: int) -> float

@@ -8,7 +8,7 @@ Type for all Unreal exposed name instances
 
 <a id="unreal.Name.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: Union[Name, str] = "None") -> None
@@ -27,7 +27,7 @@ cast(cls, object: object) -> Name -- cast the given object to this Unreal name t
 
 <a id="unreal.Name.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -37,7 +37,7 @@ is_valid(self) -> bool -- is this Unreal name valid?
 
 <a id="unreal.Name.is_none"></a>
 
-#### is_none
+#### is\_none
 
 ```python
 def is_none() -> bool

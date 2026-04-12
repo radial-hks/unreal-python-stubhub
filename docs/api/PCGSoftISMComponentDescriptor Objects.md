@@ -73,10 +73,10 @@ Convenience PCG-side component descriptor so we can adjust defaults to the most 
 
 <a id="unreal.PCGSoftISMComponentDescriptor.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.MemberReference"></a>
+<a id="unreal.MassStaticMeshInstanceVisualizationMeshDesc"></a>

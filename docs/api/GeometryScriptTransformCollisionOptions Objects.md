@@ -23,7 +23,7 @@ Geometry Script Transform Collision Options
 
 <a id="unreal.GeometryScriptTransformCollisionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(warn_on_invalid_transforms: bool = False,
@@ -32,7 +32,7 @@ def __init__(warn_on_invalid_transforms: bool = False,
 
 <a id="unreal.GeometryScriptTransformCollisionOptions.warn_on_invalid_transforms"></a>
 
-#### warn_on_invalid_transforms
+#### warn\_on\_invalid\_transforms
 
 ```python
 @property
@@ -43,7 +43,7 @@ def warn_on_invalid_transforms() -> bool
 
 <a id="unreal.GeometryScriptTransformCollisionOptions.warn_on_invalid_transforms"></a>
 
-#### warn_on_invalid_transforms
+#### warn\_on\_invalid\_transforms
 
 ```python
 @warn_on_invalid_transforms.setter
@@ -52,7 +52,7 @@ def warn_on_invalid_transforms(value: bool) -> None
 
 <a id="unreal.GeometryScriptTransformCollisionOptions.center_transform_pivot_per_shape"></a>
 
-#### center_transform_pivot_per_shape
+#### center\_transform\_pivot\_per\_shape
 
 ```python
 @property
@@ -67,7 +67,7 @@ If this setting is not enabled, the 2x scale will move the sphere center to (2,2
 
 <a id="unreal.GeometryScriptTransformCollisionOptions.center_transform_pivot_per_shape"></a>
 
-#### center_transform_pivot_per_shape
+#### center\_transform\_pivot\_per\_shape
 
 ```python
 @center_transform_pivot_per_shape.setter

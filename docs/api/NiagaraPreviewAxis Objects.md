@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.NiagaraPreviewAxis.apply_to_preview"></a>
 
-#### apply_to_preview
+#### apply\_to\_preview
 
 ```python
 def apply_to_preview(preview_component: NiagaraComponent, preview_index: int,

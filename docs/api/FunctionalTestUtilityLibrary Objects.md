@@ -14,7 +14,7 @@ in the engine itself.
 
 <a id="unreal.FunctionalTestUtilityLibrary.trace_channel_test_util"></a>
 
-#### trace_channel_test_util
+#### trace\_channel\_test\_util
 
 ```python
 @classmethod

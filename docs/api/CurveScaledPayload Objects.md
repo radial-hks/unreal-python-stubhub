@@ -19,7 +19,7 @@ Curve Scaled Payload
 
 <a id="unreal.CurveScaledPayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(identifier: AnimationCurveIdentifier = [],

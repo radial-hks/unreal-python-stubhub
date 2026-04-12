@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto FMovieSceneBindi
 
 <a id="unreal.MovieSceneBindingExtensions.set_spawnable_binding_id"></a>
 
-#### set_spawnable_binding_id
+#### set\_spawnable\_binding\_id
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingExtensions.set_sorting_order"></a>
 
-#### set_sorting_order
+#### set\_sorting\_order
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingExtensions.set_parent"></a>
 
-#### set_parent
+#### set\_parent
 
 ```python
 @classmethod
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingExtensions.set_name"></a>
 
-#### set_name
+#### set\_name
 
 ```python
 @classmethod
@@ -82,7 +82,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingExtensions.set_display_name"></a>
 
-#### set_display_name
+#### set\_display\_name
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingExtensions.remove_track"></a>
 
-#### remove_track
+#### remove\_track
 
 ```python
 @classmethod
@@ -131,7 +131,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingExtensions.move_binding_contents"></a>
 
-#### move_binding_contents
+#### move\_binding\_contents
 
 ```python
 @classmethod
@@ -149,7 +149,7 @@ Args:
 
 <a id="unreal.MovieSceneBindingExtensions.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @classmethod
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_tracks"></a>
 
-#### get_tracks
+#### get\_tracks
 
 ```python
 @classmethod
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_sorting_order"></a>
 
-#### get_sorting_order
+#### get\_sorting\_order
 
 ```python
 @classmethod
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_possessed_object_class"></a>
 
-#### get_possessed_object_class
+#### get\_possessed\_object\_class
 
 ```python
 @classmethod
@@ -221,7 +221,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_parent"></a>
 
-#### get_parent
+#### get\_parent
 
 ```python
 @classmethod
@@ -239,7 +239,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_object_template"></a>
 
-#### get_object_template
+#### get\_object\_template
 
 ```python
 @classmethod
@@ -257,7 +257,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_name"></a>
 
-#### get_name
+#### get\_name
 
 ```python
 @classmethod
@@ -275,7 +275,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_id"></a>
 
-#### get_id
+#### get\_id
 
 ```python
 @classmethod
@@ -293,7 +293,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 @classmethod
@@ -311,7 +311,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.get_child_possessables"></a>
 
-#### get_child_possessables
+#### get\_child\_possessables
 
 ```python
 @classmethod
@@ -330,7 +330,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.find_tracks_by_type"></a>
 
-#### find_tracks_by_type
+#### find\_tracks\_by\_type
 
 ```python
 @classmethod
@@ -350,7 +350,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.find_tracks_by_exact_type"></a>
 
-#### find_tracks_by_exact_type
+#### find\_tracks\_by\_exact\_type
 
 ```python
 @classmethod
@@ -370,7 +370,7 @@ Returns:
 
 <a id="unreal.MovieSceneBindingExtensions.add_track"></a>
 
-#### add_track
+#### add\_track
 
 ```python
 @classmethod

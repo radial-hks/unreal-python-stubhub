@@ -101,7 +101,7 @@ A source bus is a type of USoundBase and can be "played" like any sound.
 
 <a id="unreal.SoundSourceBus.auto_deactivate_when_silent"></a>
 
-#### auto_deactivate_when_silent
+#### auto\_deactivate\_when\_silent
 
 ```python
 @property
@@ -113,7 +113,7 @@ deprecated: Property 'bAutoDeactivateWhenSilent' is deprecated.
 
 <a id="unreal.SoundSourceBus.auto_deactivate_when_silent"></a>
 
-#### auto_deactivate_when_silent
+#### auto\_deactivate\_when\_silent
 
 ```python
 @auto_deactivate_when_silent.setter

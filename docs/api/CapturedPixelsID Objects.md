@@ -17,7 +17,7 @@ Structure used as an identifier for a particular buffer within a capture.
 
 <a id="unreal.CapturedPixelsID.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(identifiers: Map[Name, Name] = {}) -> None

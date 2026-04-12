@@ -42,7 +42,7 @@ Fbx Static Mesh Import Data
 
 <a id="unreal.FbxStaticMeshImportData.static_mesh_lod_group"></a>
 
-#### static_mesh_lod_group
+#### static\_mesh\_lod\_group
 
 ```python
 @property
@@ -53,7 +53,7 @@ def static_mesh_lod_group() -> Name
 
 <a id="unreal.FbxStaticMeshImportData.static_mesh_lod_group"></a>
 
-#### static_mesh_lod_group
+#### static\_mesh\_lod\_group
 
 ```python
 @static_mesh_lod_group.setter
@@ -62,7 +62,7 @@ def static_mesh_lod_group(value: Name) -> None
 
 <a id="unreal.FbxStaticMeshImportData.vertex_color_import_option"></a>
 
-#### vertex_color_import_option
+#### vertex\_color\_import\_option
 
 ```python
 @property
@@ -73,7 +73,7 @@ def vertex_color_import_option() -> VertexColorImportOption
 
 <a id="unreal.FbxStaticMeshImportData.vertex_color_import_option"></a>
 
-#### vertex_color_import_option
+#### vertex\_color\_import\_option
 
 ```python
 @vertex_color_import_option.setter
@@ -82,7 +82,7 @@ def vertex_color_import_option(value: VertexColorImportOption) -> None
 
 <a id="unreal.FbxStaticMeshImportData.vertex_override_color"></a>
 
-#### vertex_override_color
+#### vertex\_override\_color
 
 ```python
 @property
@@ -93,7 +93,7 @@ def vertex_override_color() -> Color
 
 <a id="unreal.FbxStaticMeshImportData.vertex_override_color"></a>
 
-#### vertex_override_color
+#### vertex\_override\_color
 
 ```python
 @vertex_override_color.setter
@@ -102,7 +102,7 @@ def vertex_override_color(value: Color) -> None
 
 <a id="unreal.FbxStaticMeshImportData.remove_degenerates"></a>
 
-#### remove_degenerates
+#### remove\_degenerates
 
 ```python
 @property
@@ -113,7 +113,7 @@ def remove_degenerates() -> bool
 
 <a id="unreal.FbxStaticMeshImportData.remove_degenerates"></a>
 
-#### remove_degenerates
+#### remove\_degenerates
 
 ```python
 @remove_degenerates.setter
@@ -122,7 +122,7 @@ def remove_degenerates(value: bool) -> None
 
 <a id="unreal.FbxStaticMeshImportData.build_reversed_index_buffer"></a>
 
-#### build_reversed_index_buffer
+#### build\_reversed\_index\_buffer
 
 ```python
 @property
@@ -133,7 +133,7 @@ def build_reversed_index_buffer() -> bool
 
 <a id="unreal.FbxStaticMeshImportData.build_reversed_index_buffer"></a>
 
-#### build_reversed_index_buffer
+#### build\_reversed\_index\_buffer
 
 ```python
 @build_reversed_index_buffer.setter
@@ -142,7 +142,7 @@ def build_reversed_index_buffer(value: bool) -> None
 
 <a id="unreal.FbxStaticMeshImportData.build_nanite"></a>
 
-#### build_nanite
+#### build\_nanite
 
 ```python
 @property
@@ -153,7 +153,7 @@ def build_nanite() -> bool
 
 <a id="unreal.FbxStaticMeshImportData.build_nanite"></a>
 
-#### build_nanite
+#### build\_nanite
 
 ```python
 @build_nanite.setter
@@ -162,7 +162,7 @@ def build_nanite(value: bool) -> None
 
 <a id="unreal.FbxStaticMeshImportData.generate_lightmap_u_vs"></a>
 
-#### generate_lightmap_u_vs
+#### generate\_lightmap\_u\_vs
 
 ```python
 @property
@@ -173,7 +173,7 @@ def generate_lightmap_u_vs() -> bool
 
 <a id="unreal.FbxStaticMeshImportData.generate_lightmap_u_vs"></a>
 
-#### generate_lightmap_u_vs
+#### generate\_lightmap\_u\_vs
 
 ```python
 @generate_lightmap_u_vs.setter
@@ -182,7 +182,7 @@ def generate_lightmap_u_vs(value: bool) -> None
 
 <a id="unreal.FbxStaticMeshImportData.one_convex_hull_per_ucx"></a>
 
-#### one_convex_hull_per_ucx
+#### one\_convex\_hull\_per\_ucx
 
 ```python
 @property
@@ -193,7 +193,7 @@ def one_convex_hull_per_ucx() -> bool
 
 <a id="unreal.FbxStaticMeshImportData.one_convex_hull_per_ucx"></a>
 
-#### one_convex_hull_per_ucx
+#### one\_convex\_hull\_per\_ucx
 
 ```python
 @one_convex_hull_per_ucx.setter
@@ -202,7 +202,7 @@ def one_convex_hull_per_ucx(value: bool) -> None
 
 <a id="unreal.FbxStaticMeshImportData.auto_generate_collision"></a>
 
-#### auto_generate_collision
+#### auto\_generate\_collision
 
 ```python
 @property
@@ -213,7 +213,7 @@ def auto_generate_collision() -> bool
 
 <a id="unreal.FbxStaticMeshImportData.auto_generate_collision"></a>
 
-#### auto_generate_collision
+#### auto\_generate\_collision
 
 ```python
 @auto_generate_collision.setter
@@ -222,7 +222,7 @@ def auto_generate_collision(value: bool) -> None
 
 <a id="unreal.FbxStaticMeshImportData.combine_meshes"></a>
 
-#### combine_meshes
+#### combine\_meshes
 
 ```python
 @property
@@ -233,7 +233,7 @@ def combine_meshes() -> bool
 
 <a id="unreal.FbxStaticMeshImportData.combine_meshes"></a>
 
-#### combine_meshes
+#### combine\_meshes
 
 ```python
 @combine_meshes.setter
@@ -242,7 +242,7 @@ def combine_meshes(value: bool) -> None
 
 <a id="unreal.FbxStaticMeshImportData.distance_field_resolution_scale"></a>
 
-#### distance_field_resolution_scale
+#### distance\_field\_resolution\_scale
 
 ```python
 @property
@@ -254,7 +254,7 @@ The default scale is 1, which is assuming that the mesh will be placed unscaled 
 
 <a id="unreal.FbxStaticMeshImportData.distance_field_resolution_scale"></a>
 
-#### distance_field_resolution_scale
+#### distance\_field\_resolution\_scale
 
 ```python
 @distance_field_resolution_scale.setter

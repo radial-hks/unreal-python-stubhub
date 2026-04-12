@@ -69,7 +69,7 @@ Implementation of a USynthComponent.
 
 <a id="unreal.ModularSynthComponent.voice_count"></a>
 
-#### voice_count
+#### voice\_count
 
 ```python
 @property
@@ -80,7 +80,7 @@ def voice_count() -> int
 
 <a id="unreal.ModularSynthComponent.set_synth_preset"></a>
 
-#### set_synth_preset
+#### set\_synth\_preset
 
 ```python
 def set_synth_preset(synth_preset: ModularSynthPreset) -> None
@@ -94,7 +94,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_sustain_gain"></a>
 
-#### set_sustain_gain
+#### set\_sustain\_gain
 
 ```python
 def set_sustain_gain(sustain_gain: float) -> None
@@ -108,7 +108,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_stereo_delay_wetlevel"></a>
 
-#### set_stereo_delay_wetlevel
+#### set\_stereo\_delay\_wetlevel
 
 ```python
 def set_stereo_delay_wetlevel(delay_wetlevel: float) -> None
@@ -122,7 +122,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_stereo_delay_time"></a>
 
-#### set_stereo_delay_time
+#### set\_stereo\_delay\_time
 
 ```python
 def set_stereo_delay_time(delay_time_msec: float) -> None
@@ -136,7 +136,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_stereo_delay_ratio"></a>
 
-#### set_stereo_delay_ratio
+#### set\_stereo\_delay\_ratio
 
 ```python
 def set_stereo_delay_ratio(delay_ratio: float) -> None
@@ -150,7 +150,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_stereo_delay_mode"></a>
 
-#### set_stereo_delay_mode
+#### set\_stereo\_delay\_mode
 
 ```python
 def set_stereo_delay_mode(stereo_delay_mode: SynthStereoDelayMode) -> None
@@ -164,7 +164,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_stereo_delay_is_enabled"></a>
 
-#### set_stereo_delay_is_enabled
+#### set\_stereo\_delay\_is\_enabled
 
 ```python
 def set_stereo_delay_is_enabled(stereo_delay_enabled: bool) -> None
@@ -178,7 +178,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_stereo_delay_feedback"></a>
 
-#### set_stereo_delay_feedback
+#### set\_stereo\_delay\_feedback
 
 ```python
 def set_stereo_delay_feedback(delay_feedback: float) -> None
@@ -192,7 +192,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_spread"></a>
 
-#### set_spread
+#### set\_spread
 
 ```python
 def set_spread(spread: float) -> None
@@ -206,7 +206,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_release_time"></a>
 
-#### set_release_time
+#### set\_release\_time
 
 ```python
 def set_release_time(release_time_msec: float) -> None
@@ -220,7 +220,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_portamento"></a>
 
-#### set_portamento
+#### set\_portamento
 
 ```python
 def set_portamento(portamento: float) -> None
@@ -234,7 +234,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_pitch_bend"></a>
 
-#### set_pitch_bend
+#### set\_pitch\_bend
 
 ```python
 def set_pitch_bend(pitch_bend: float) -> None
@@ -248,7 +248,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_pan"></a>
 
-#### set_pan
+#### set\_pan
 
 ```python
 def set_pan(pan: float) -> None
@@ -262,7 +262,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_type"></a>
 
-#### set_osc_type
+#### set\_osc\_type
 
 ```python
 def set_osc_type(osc_index: int, osc_type: Synth1OscType) -> None
@@ -277,7 +277,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_sync"></a>
 
-#### set_osc_sync
+#### set\_osc\_sync
 
 ```python
 def set_osc_sync(is_synced: bool) -> None
@@ -291,7 +291,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_semitones"></a>
 
-#### set_osc_semitones
+#### set\_osc\_semitones
 
 ```python
 def set_osc_semitones(osc_index: int, semitones: float) -> None
@@ -306,7 +306,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_pulsewidth"></a>
 
-#### set_osc_pulsewidth
+#### set\_osc\_pulsewidth
 
 ```python
 def set_osc_pulsewidth(osc_index: int, pulsewidth: float) -> None
@@ -321,7 +321,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_octave"></a>
 
-#### set_osc_octave
+#### set\_osc\_octave
 
 ```python
 def set_osc_octave(osc_index: int, octave: float) -> None
@@ -336,7 +336,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_gain_mod"></a>
 
-#### set_osc_gain_mod
+#### set\_osc\_gain\_mod
 
 ```python
 def set_osc_gain_mod(osc_index: int, osc_gain_mod: float) -> None
@@ -351,7 +351,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_gain"></a>
 
-#### set_osc_gain
+#### set\_osc\_gain
 
 ```python
 def set_osc_gain(osc_index: int, osc_gain: float) -> None
@@ -366,7 +366,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_frequency_mod"></a>
 
-#### set_osc_frequency_mod
+#### set\_osc\_frequency\_mod
 
 ```python
 def set_osc_frequency_mod(osc_index: int, osc_freq_mod: float) -> None
@@ -381,7 +381,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_osc_cents"></a>
 
-#### set_osc_cents
+#### set\_osc\_cents
 
 ```python
 def set_osc_cents(osc_index: int, cents: float) -> None
@@ -396,7 +396,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_sustain_gain"></a>
 
-#### set_mod_env_sustain_gain
+#### set\_mod\_env\_sustain\_gain
 
 ```python
 def set_mod_env_sustain_gain(sustain_gain: float) -> None
@@ -410,7 +410,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_release_time"></a>
 
-#### set_mod_env_release_time
+#### set\_mod\_env\_release\_time
 
 ```python
 def set_mod_env_release_time(release: float) -> None
@@ -424,7 +424,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_patch"></a>
 
-#### set_mod_env_patch
+#### set\_mod\_env\_patch
 
 ```python
 def set_mod_env_patch(patch_type: SynthModEnvPatch) -> None
@@ -438,7 +438,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_invert"></a>
 
-#### set_mod_env_invert
+#### set\_mod\_env\_invert
 
 ```python
 def set_mod_env_invert(invert: bool) -> None
@@ -452,7 +452,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_depth"></a>
 
-#### set_mod_env_depth
+#### set\_mod\_env\_depth
 
 ```python
 def set_mod_env_depth(depth: float) -> None
@@ -466,7 +466,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_decay_time"></a>
 
-#### set_mod_env_decay_time
+#### set\_mod\_env\_decay\_time
 
 ```python
 def set_mod_env_decay_time(decay_time_msec: float) -> None
@@ -480,7 +480,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_bias_patch"></a>
 
-#### set_mod_env_bias_patch
+#### set\_mod\_env\_bias\_patch
 
 ```python
 def set_mod_env_bias_patch(patch_type: SynthModEnvBiasPatch) -> None
@@ -494,7 +494,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_bias_invert"></a>
 
-#### set_mod_env_bias_invert
+#### set\_mod\_env\_bias\_invert
 
 ```python
 def set_mod_env_bias_invert(invert: bool) -> None
@@ -508,7 +508,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_mod_env_attack_time"></a>
 
-#### set_mod_env_attack_time
+#### set\_mod\_env\_attack\_time
 
 ```python
 def set_mod_env_attack_time(attack_time_msec: float) -> None
@@ -522,7 +522,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_lfo_type"></a>
 
-#### set_lfo_type
+#### set\_lfo\_type
 
 ```python
 def set_lfo_type(lfo_index: int, lfo_type: SynthLFOType) -> None
@@ -537,7 +537,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_lfo_patch"></a>
 
-#### set_lfo_patch
+#### set\_lfo\_patch
 
 ```python
 def set_lfo_patch(lfo_index: int, lfo_patch_type: SynthLFOPatchType) -> None
@@ -552,7 +552,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_lfo_mode"></a>
 
-#### set_lfo_mode
+#### set\_lfo\_mode
 
 ```python
 def set_lfo_mode(lfo_index: int, lfo_mode: SynthLFOMode) -> None
@@ -567,7 +567,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_lfo_gain_mod"></a>
 
-#### set_lfo_gain_mod
+#### set\_lfo\_gain\_mod
 
 ```python
 def set_lfo_gain_mod(lfo_index: int, gain_mod: float) -> None
@@ -582,7 +582,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_lfo_gain"></a>
 
-#### set_lfo_gain
+#### set\_lfo\_gain
 
 ```python
 def set_lfo_gain(lfo_index: int, gain: float) -> None
@@ -597,7 +597,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_lfo_frequency_mod"></a>
 
-#### set_lfo_frequency_mod
+#### set\_lfo\_frequency\_mod
 
 ```python
 def set_lfo_frequency_mod(lfo_index: int, frequency_mod_hz: float) -> None
@@ -612,7 +612,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_lfo_frequency"></a>
 
-#### set_lfo_frequency
+#### set\_lfo\_frequency
 
 ```python
 def set_lfo_frequency(lfo_index: int, frequency_hz: float) -> None
@@ -627,7 +627,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_gain_db"></a>
 
-#### set_gain_db
+#### set\_gain\_db
 
 ```python
 def set_gain_db(gain_db: float) -> None
@@ -641,7 +641,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_filter_type"></a>
 
-#### set_filter_type
+#### set\_filter\_type
 
 ```python
 def set_filter_type(filter_type: SynthFilterType) -> None
@@ -655,7 +655,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_filter_q_mod"></a>
 
-#### set_filter_q_mod
+#### set\_filter\_q\_mod
 
 ```python
 def set_filter_q_mod(filter_q: float) -> None
@@ -669,7 +669,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_filter_q"></a>
 
-#### set_filter_q
+#### set\_filter\_q
 
 ```python
 def set_filter_q(filter_q: float) -> None
@@ -683,7 +683,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_filter_frequency_mod"></a>
 
-#### set_filter_frequency_mod
+#### set\_filter\_frequency\_mod
 
 ```python
 def set_filter_frequency_mod(filter_frequency_hz: float) -> None
@@ -697,7 +697,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_filter_frequency"></a>
 
-#### set_filter_frequency
+#### set\_filter\_frequency
 
 ```python
 def set_filter_frequency(filter_frequency_hz: float) -> None
@@ -711,7 +711,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_filter_algorithm"></a>
 
-#### set_filter_algorithm
+#### set\_filter\_algorithm
 
 ```python
 def set_filter_algorithm(filter_algorithm: SynthFilterAlgorithm) -> None
@@ -725,7 +725,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_enable_unison"></a>
 
-#### set_enable_unison
+#### set\_enable\_unison
 
 ```python
 def set_enable_unison(enable_unison: bool) -> None
@@ -739,7 +739,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_enable_retrigger"></a>
 
-#### set_enable_retrigger
+#### set\_enable\_retrigger
 
 ```python
 def set_enable_retrigger(retrigger_enabled: bool) -> None
@@ -753,7 +753,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_enable_polyphony"></a>
 
-#### set_enable_polyphony
+#### set\_enable\_polyphony
 
 ```python
 def set_enable_polyphony(enable_polyphony: bool) -> None
@@ -767,7 +767,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_enable_patch"></a>
 
-#### set_enable_patch
+#### set\_enable\_patch
 
 ```python
 def set_enable_patch(patch_id: PatchId, is_enabled: bool) -> bool
@@ -785,7 +785,7 @@ Returns:
 
 <a id="unreal.ModularSynthComponent.set_enable_legato"></a>
 
-#### set_enable_legato
+#### set\_enable\_legato
 
 ```python
 def set_enable_legato(legato_enabled: bool) -> None
@@ -799,7 +799,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_decay_time"></a>
 
-#### set_decay_time
+#### set\_decay\_time
 
 ```python
 def set_decay_time(decay_time_msec: float) -> None
@@ -813,7 +813,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_chorus_frequency"></a>
 
-#### set_chorus_frequency
+#### set\_chorus\_frequency
 
 ```python
 def set_chorus_frequency(frequency: float) -> None
@@ -827,7 +827,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_chorus_feedback"></a>
 
-#### set_chorus_feedback
+#### set\_chorus\_feedback
 
 ```python
 def set_chorus_feedback(feedback: float) -> None
@@ -841,7 +841,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_chorus_enabled"></a>
 
-#### set_chorus_enabled
+#### set\_chorus\_enabled
 
 ```python
 def set_chorus_enabled(enable_chorus: bool) -> None
@@ -855,7 +855,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_chorus_depth"></a>
 
-#### set_chorus_depth
+#### set\_chorus\_depth
 
 ```python
 def set_chorus_depth(depth: float) -> None
@@ -869,7 +869,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.set_attack_time"></a>
 
-#### set_attack_time
+#### set\_attack\_time
 
 ```python
 def set_attack_time(attack_time_msec: float) -> None
@@ -883,7 +883,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.note_on"></a>
 
-#### note_on
+#### note\_on
 
 ```python
 def note_on(note: float, velocity: int, duration: float = -1.000000) -> None
@@ -899,7 +899,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.note_off"></a>
 
-#### note_off
+#### note\_off
 
 ```python
 def note_off(note: float,
@@ -917,7 +917,7 @@ Args:
 
 <a id="unreal.ModularSynthComponent.create_patch"></a>
 
-#### create_patch
+#### create\_patch
 
 ```python
 def create_patch(patch_source: Synth1PatchSource,

@@ -155,7 +155,7 @@ Interactive Foliage Actor
 
 <a id="unreal.InteractiveFoliageActor.foliage_damage_impulse_scale"></a>
 
-#### foliage_damage_impulse_scale
+#### foliage\_damage\_impulse\_scale
 
 ```python
 @property
@@ -166,7 +166,7 @@ def foliage_damage_impulse_scale() -> float
 
 <a id="unreal.InteractiveFoliageActor.foliage_damage_impulse_scale"></a>
 
-#### foliage_damage_impulse_scale
+#### foliage\_damage\_impulse\_scale
 
 ```python
 @foliage_damage_impulse_scale.setter
@@ -175,7 +175,7 @@ def foliage_damage_impulse_scale(value: float) -> None
 
 <a id="unreal.InteractiveFoliageActor.foliage_touch_impulse_scale"></a>
 
-#### foliage_touch_impulse_scale
+#### foliage\_touch\_impulse\_scale
 
 ```python
 @property
@@ -186,7 +186,7 @@ def foliage_touch_impulse_scale() -> float
 
 <a id="unreal.InteractiveFoliageActor.foliage_touch_impulse_scale"></a>
 
-#### foliage_touch_impulse_scale
+#### foliage\_touch\_impulse\_scale
 
 ```python
 @foliage_touch_impulse_scale.setter
@@ -195,7 +195,7 @@ def foliage_touch_impulse_scale(value: float) -> None
 
 <a id="unreal.InteractiveFoliageActor.foliage_stiffness"></a>
 
-#### foliage_stiffness
+#### foliage\_stiffness
 
 ```python
 @property
@@ -206,7 +206,7 @@ def foliage_stiffness() -> float
 
 <a id="unreal.InteractiveFoliageActor.foliage_stiffness"></a>
 
-#### foliage_stiffness
+#### foliage\_stiffness
 
 ```python
 @foliage_stiffness.setter
@@ -215,7 +215,7 @@ def foliage_stiffness(value: float) -> None
 
 <a id="unreal.InteractiveFoliageActor.foliage_stiffness_quadratic"></a>
 
-#### foliage_stiffness_quadratic
+#### foliage\_stiffness\_quadratic
 
 ```python
 @property
@@ -227,7 +227,7 @@ This force is used to prevent the spring from extending past a certain point due
 
 <a id="unreal.InteractiveFoliageActor.foliage_stiffness_quadratic"></a>
 
-#### foliage_stiffness_quadratic
+#### foliage\_stiffness\_quadratic
 
 ```python
 @foliage_stiffness_quadratic.setter
@@ -236,7 +236,7 @@ def foliage_stiffness_quadratic(value: float) -> None
 
 <a id="unreal.InteractiveFoliageActor.foliage_damping"></a>
 
-#### foliage_damping
+#### foliage\_damping
 
 ```python
 @property
@@ -248,7 +248,7 @@ This force is similar to air friction.
 
 <a id="unreal.InteractiveFoliageActor.foliage_damping"></a>
 
-#### foliage_damping
+#### foliage\_damping
 
 ```python
 @foliage_damping.setter
@@ -257,7 +257,7 @@ def foliage_damping(value: float) -> None
 
 <a id="unreal.InteractiveFoliageActor.max_damage_impulse"></a>
 
-#### max_damage_impulse
+#### max\_damage\_impulse
 
 ```python
 @property
@@ -268,7 +268,7 @@ def max_damage_impulse() -> float
 
 <a id="unreal.InteractiveFoliageActor.max_damage_impulse"></a>
 
-#### max_damage_impulse
+#### max\_damage\_impulse
 
 ```python
 @max_damage_impulse.setter
@@ -277,7 +277,7 @@ def max_damage_impulse(value: float) -> None
 
 <a id="unreal.InteractiveFoliageActor.max_touch_impulse"></a>
 
-#### max_touch_impulse
+#### max\_touch\_impulse
 
 ```python
 @property
@@ -288,7 +288,7 @@ def max_touch_impulse() -> float
 
 <a id="unreal.InteractiveFoliageActor.max_touch_impulse"></a>
 
-#### max_touch_impulse
+#### max\_touch\_impulse
 
 ```python
 @max_touch_impulse.setter
@@ -297,7 +297,7 @@ def max_touch_impulse(value: float) -> None
 
 <a id="unreal.InteractiveFoliageActor.max_force"></a>
 
-#### max_force
+#### max\_force
 
 ```python
 @property
@@ -308,7 +308,7 @@ def max_force() -> float
 
 <a id="unreal.InteractiveFoliageActor.max_force"></a>
 
-#### max_force
+#### max\_force
 
 ```python
 @max_force.setter

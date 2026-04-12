@@ -31,7 +31,7 @@ def data() -> PCGDataCollection
 
 <a id="unreal.PCGDataCollectionExporter.asset_description"></a>
 
-#### asset_description
+#### asset\_description
 
 ```python
 @property
@@ -42,7 +42,7 @@ def asset_description() -> str
 
 <a id="unreal.PCGDataCollectionExporter.asset_color"></a>
 
-#### asset_color
+#### asset\_color
 
 ```python
 @property

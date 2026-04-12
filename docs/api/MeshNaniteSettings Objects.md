@@ -42,7 +42,7 @@ Settings applied when building Nanite data.
 
 <a id="unreal.MeshNaniteSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enabled: bool = False,
@@ -83,7 +83,7 @@ def enabled(value: bool) -> None
 
 <a id="unreal.MeshNaniteSettings.preserve_area"></a>
 
-#### preserve_area
+#### preserve\_area
 
 ```python
 @property
@@ -94,7 +94,7 @@ def preserve_area() -> bool
 
 <a id="unreal.MeshNaniteSettings.preserve_area"></a>
 
-#### preserve_area
+#### preserve\_area
 
 ```python
 @preserve_area.setter
@@ -103,7 +103,7 @@ def preserve_area(value: bool) -> None
 
 <a id="unreal.MeshNaniteSettings.explicit_tangents"></a>
 
-#### explicit_tangents
+#### explicit\_tangents
 
 ```python
 @property
@@ -114,7 +114,7 @@ def explicit_tangents() -> bool
 
 <a id="unreal.MeshNaniteSettings.explicit_tangents"></a>
 
-#### explicit_tangents
+#### explicit\_tangents
 
 ```python
 @explicit_tangents.setter
@@ -123,7 +123,7 @@ def explicit_tangents(value: bool) -> None
 
 <a id="unreal.MeshNaniteSettings.lerp_u_vs"></a>
 
-#### lerp_u_vs
+#### lerp\_u\_vs
 
 ```python
 @property
@@ -142,7 +142,7 @@ error due to arbitrary vertex attributes that aren't interpolatable can't be gen
 
 <a id="unreal.MeshNaniteSettings.lerp_u_vs"></a>
 
-#### lerp_u_vs
+#### lerp\_u\_vs
 
 ```python
 @lerp_u_vs.setter
@@ -151,7 +151,7 @@ def lerp_u_vs(value: bool) -> None
 
 <a id="unreal.MeshNaniteSettings.position_precision"></a>
 
-#### position_precision
+#### position\_precision
 
 ```python
 @property
@@ -162,7 +162,7 @@ def position_precision() -> int
 
 <a id="unreal.MeshNaniteSettings.position_precision"></a>
 
-#### position_precision
+#### position\_precision
 
 ```python
 @position_precision.setter
@@ -171,7 +171,7 @@ def position_precision(value: int) -> None
 
 <a id="unreal.MeshNaniteSettings.normal_precision"></a>
 
-#### normal_precision
+#### normal\_precision
 
 ```python
 @property
@@ -182,7 +182,7 @@ def normal_precision() -> int
 
 <a id="unreal.MeshNaniteSettings.normal_precision"></a>
 
-#### normal_precision
+#### normal\_precision
 
 ```python
 @normal_precision.setter
@@ -191,7 +191,7 @@ def normal_precision(value: int) -> None
 
 <a id="unreal.MeshNaniteSettings.tangent_precision"></a>
 
-#### tangent_precision
+#### tangent\_precision
 
 ```python
 @property
@@ -202,7 +202,7 @@ def tangent_precision() -> int
 
 <a id="unreal.MeshNaniteSettings.tangent_precision"></a>
 
-#### tangent_precision
+#### tangent\_precision
 
 ```python
 @tangent_precision.setter
@@ -211,7 +211,7 @@ def tangent_precision(value: int) -> None
 
 <a id="unreal.MeshNaniteSettings.keep_percent_triangles"></a>
 
-#### keep_percent_triangles
+#### keep\_percent\_triangles
 
 ```python
 @property
@@ -222,7 +222,7 @@ def keep_percent_triangles() -> float
 
 <a id="unreal.MeshNaniteSettings.keep_percent_triangles"></a>
 
-#### keep_percent_triangles
+#### keep\_percent\_triangles
 
 ```python
 @keep_percent_triangles.setter
@@ -231,7 +231,7 @@ def keep_percent_triangles(value: float) -> None
 
 <a id="unreal.MeshNaniteSettings.trim_relative_error"></a>
 
-#### trim_relative_error
+#### trim\_relative\_error
 
 ```python
 @property
@@ -242,7 +242,7 @@ def trim_relative_error() -> float
 
 <a id="unreal.MeshNaniteSettings.trim_relative_error"></a>
 
-#### trim_relative_error
+#### trim\_relative\_error
 
 ```python
 @trim_relative_error.setter
@@ -251,7 +251,7 @@ def trim_relative_error(value: float) -> None
 
 <a id="unreal.MeshNaniteSettings.fallback_target"></a>
 
-#### fallback_target
+#### fallback\_target
 
 ```python
 @property
@@ -262,7 +262,7 @@ def fallback_target() -> NaniteFallbackTarget
 
 <a id="unreal.MeshNaniteSettings.fallback_target"></a>
 
-#### fallback_target
+#### fallback\_target
 
 ```python
 @fallback_target.setter
@@ -271,7 +271,7 @@ def fallback_target(value: NaniteFallbackTarget) -> None
 
 <a id="unreal.MeshNaniteSettings.fallback_percent_triangles"></a>
 
-#### fallback_percent_triangles
+#### fallback\_percent\_triangles
 
 ```python
 @property
@@ -282,7 +282,7 @@ def fallback_percent_triangles() -> float
 
 <a id="unreal.MeshNaniteSettings.fallback_percent_triangles"></a>
 
-#### fallback_percent_triangles
+#### fallback\_percent\_triangles
 
 ```python
 @fallback_percent_triangles.setter
@@ -291,7 +291,7 @@ def fallback_percent_triangles(value: float) -> None
 
 <a id="unreal.MeshNaniteSettings.fallback_relative_error"></a>
 
-#### fallback_relative_error
+#### fallback\_relative\_error
 
 ```python
 @property
@@ -302,7 +302,7 @@ def fallback_relative_error() -> float
 
 <a id="unreal.MeshNaniteSettings.fallback_relative_error"></a>
 
-#### fallback_relative_error
+#### fallback\_relative\_error
 
 ```python
 @fallback_relative_error.setter
@@ -311,7 +311,7 @@ def fallback_relative_error(value: float) -> None
 
 <a id="unreal.MeshNaniteSettings.max_edge_length_factor"></a>
 
-#### max_edge_length_factor
+#### max\_edge\_length\_factor
 
 ```python
 @property
@@ -324,7 +324,7 @@ Should be left at default of 0 unless explicitly needed to fix oversimplificatio
 
 <a id="unreal.MeshNaniteSettings.max_edge_length_factor"></a>
 
-#### max_edge_length_factor
+#### max\_edge\_length\_factor
 
 ```python
 @max_edge_length_factor.setter
@@ -333,7 +333,7 @@ def max_edge_length_factor(value: float) -> None
 
 <a id="unreal.MeshNaniteSettings.displacement_uv_channel"></a>
 
-#### displacement_uv_channel
+#### displacement\_uv\_channel
 
 ```python
 @property
@@ -344,7 +344,7 @@ def displacement_uv_channel() -> int
 
 <a id="unreal.MeshNaniteSettings.displacement_uv_channel"></a>
 
-#### displacement_uv_channel
+#### displacement\_uv\_channel
 
 ```python
 @displacement_uv_channel.setter

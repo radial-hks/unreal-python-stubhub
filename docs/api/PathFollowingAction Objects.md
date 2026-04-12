@@ -19,25 +19,25 @@ DEPRECATED, will be removed with GetPathActionType function
 
 <a id="unreal.PathFollowingAction.NO_MOVE"></a>
 
-#### NO_MOVE
+#### NO\_MOVE
 
 1
 
 <a id="unreal.PathFollowingAction.DIRECT_MOVE"></a>
 
-#### DIRECT_MOVE
+#### DIRECT\_MOVE
 
 2
 
 <a id="unreal.PathFollowingAction.PARTIAL_PATH"></a>
 
-#### PARTIAL_PATH
+#### PARTIAL\_PATH
 
 3
 
 <a id="unreal.PathFollowingAction.PATH_TO_GOAL"></a>
 
-#### PATH_TO_GOAL
+#### PATH\_TO\_GOAL
 
 4
 

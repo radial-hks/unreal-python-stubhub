@@ -21,7 +21,7 @@ Color Grade Per Range Settings
 
 <a id="unreal.ColorGradePerRangeSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

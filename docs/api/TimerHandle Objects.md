@@ -13,7 +13,7 @@ Unique handle that can be used to distinguish timers that have identical delegat
 
 <a id="unreal.TimerHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

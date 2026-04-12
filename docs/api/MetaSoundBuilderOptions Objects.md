@@ -22,7 +22,7 @@ Meta Sound Builder Options
 
 <a id="unreal.MetaSoundBuilderOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -52,7 +52,7 @@ def name(value: Name) -> None
 
 <a id="unreal.MetaSoundBuilderOptions.force_unique_class_name"></a>
 
-#### force_unique_class_name
+#### force\_unique\_class\_name
 
 ```python
 @property
@@ -65,7 +65,7 @@ building a new document, option is ignored (new document always generates a uniq
 
 <a id="unreal.MetaSoundBuilderOptions.force_unique_class_name"></a>
 
-#### force_unique_class_name
+#### force\_unique\_class\_name
 
 ```python
 @force_unique_class_name.setter

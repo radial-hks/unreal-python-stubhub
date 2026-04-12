@@ -19,7 +19,7 @@ Niagara Data Interface Emitter Binding
 
 <a id="unreal.NiagaraDataInterfaceEmitterBinding.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

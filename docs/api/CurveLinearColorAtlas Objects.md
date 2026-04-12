@@ -83,7 +83,7 @@ Manages gradient LUT textures for registered actors and assigns them to the corr
 
 <a id="unreal.CurveLinearColorAtlas.get_curve_position"></a>
 
-#### get_curve_position
+#### get\_curve\_position
 
 ```python
 def get_curve_position(curve: CurveLinearColor) -> Optional[float]

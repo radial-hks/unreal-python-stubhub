@@ -19,7 +19,7 @@ Lens Bloom Settings
 
 <a id="unreal.LensBloomSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(gaussian_sum: GaussianSumBloomSettings = [
@@ -40,7 +40,7 @@ def __init__(gaussian_sum: GaussianSumBloomSettings = [
 
 <a id="unreal.LensBloomSettings.gaussian_sum"></a>
 
-#### gaussian_sum
+#### gaussian\_sum
 
 ```python
 @property
@@ -51,7 +51,7 @@ def gaussian_sum() -> GaussianSumBloomSettings
 
 <a id="unreal.LensBloomSettings.gaussian_sum"></a>
 
-#### gaussian_sum
+#### gaussian\_sum
 
 ```python
 @gaussian_sum.setter

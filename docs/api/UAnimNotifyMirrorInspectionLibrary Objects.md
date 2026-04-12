@@ -13,7 +13,7 @@ A library of commonly used functionality for Notifies related to mirroring, expo
 
 <a id="unreal.UAnimNotifyMirrorInspectionLibrary.is_triggered_by_mirrored_animation"></a>
 
-#### is_triggered_by_mirrored_animation
+#### is\_triggered\_by\_mirrored\_animation
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.UAnimNotifyMirrorInspectionLibrary.get_mirror_data_table"></a>
 
-#### get_mirror_data_table
+#### get\_mirror\_data\_table
 
 ```python
 @classmethod

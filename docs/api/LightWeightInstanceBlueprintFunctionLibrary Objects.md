@@ -13,7 +13,7 @@ Light Weight Instance Blueprint Function Library
 
 <a id="unreal.LightWeightInstanceBlueprintFunctionLibrary.create_new_light_weight_instance"></a>
 
-#### create_new_light_weight_instance
+#### create\_new\_light\_weight\_instance
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.LightWeightInstanceBlueprintFunctionLibrary.convert_actor_to_light_weight_instance"></a>
 
-#### convert_actor_to_light_weight_instance
+#### convert\_actor\_to\_light\_weight\_instance
 
 ```python
 @classmethod

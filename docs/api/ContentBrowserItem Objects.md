@@ -16,7 +16,7 @@ and defers back to these internal items to provide its functionality (via the da
 
 <a id="unreal.ContentBrowserItem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -24,7 +24,7 @@ def __init__() -> None
 
 <a id="unreal.ContentBrowserItem.is_folder"></a>
 
-#### is_folder
+#### is\_folder
 
 ```python
 def is_folder() -> bool
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItem.is_file"></a>
 
-#### is_file
+#### is\_file
 
 ```python
 def is_file() -> bool
@@ -52,7 +52,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItem.get_virtual_path"></a>
 
-#### get_virtual_path
+#### get\_virtual\_path
 
 ```python
 def get_virtual_path() -> Name
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItem.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 def get_display_name() -> Text

@@ -13,7 +13,7 @@ Type used to convert from a FFloatRange to a TRange<FFrameNumber>
 
 <a id="unreal.MovieSceneFrameRange.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

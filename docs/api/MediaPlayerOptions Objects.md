@@ -22,7 +22,7 @@ Media Player Options
 
 <a id="unreal.MediaPlayerOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -63,7 +63,7 @@ def tracks(value: MediaPlayerTrackOptions) -> None
 
 <a id="unreal.MediaPlayerOptions.track_selection"></a>
 
-#### track_selection
+#### track\_selection
 
 ```python
 @property
@@ -74,7 +74,7 @@ def track_selection() -> MediaPlayerOptionTrackSelectMode
 
 <a id="unreal.MediaPlayerOptions.track_selection"></a>
 
-#### track_selection
+#### track\_selection
 
 ```python
 @track_selection.setter
@@ -83,7 +83,7 @@ def track_selection(value: MediaPlayerOptionTrackSelectMode) -> None
 
 <a id="unreal.MediaPlayerOptions.seek_time"></a>
 
-#### seek_time
+#### seek\_time
 
 ```python
 @property
@@ -94,7 +94,7 @@ def seek_time() -> Timespan
 
 <a id="unreal.MediaPlayerOptions.seek_time"></a>
 
-#### seek_time
+#### seek\_time
 
 ```python
 @seek_time.setter
@@ -103,7 +103,7 @@ def seek_time(value: Timespan) -> None
 
 <a id="unreal.MediaPlayerOptions.seek_time_type"></a>
 
-#### seek_time_type
+#### seek\_time\_type
 
 ```python
 @property
@@ -114,7 +114,7 @@ def seek_time_type() -> MediaPlayerOptionSeekTimeType
 
 <a id="unreal.MediaPlayerOptions.seek_time_type"></a>
 
-#### seek_time_type
+#### seek\_time\_type
 
 ```python
 @seek_time_type.setter
@@ -123,7 +123,7 @@ def seek_time_type(value: MediaPlayerOptionSeekTimeType) -> None
 
 <a id="unreal.MediaPlayerOptions.play_on_open"></a>
 
-#### play_on_open
+#### play\_on\_open
 
 ```python
 @property
@@ -134,7 +134,7 @@ def play_on_open() -> MediaPlayerOptionBooleanOverride
 
 <a id="unreal.MediaPlayerOptions.play_on_open"></a>
 
-#### play_on_open
+#### play\_on\_open
 
 ```python
 @play_on_open.setter

@@ -22,7 +22,7 @@ Rig Curve Element
 
 <a id="unreal.RigCurveElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: RigElementKey = [RigElementType.NONE, "None"],

@@ -8,7 +8,7 @@ deprecated: 'StateTreeEvaluatorItem' was renamed to 'StateTreeEditorNode'.
 
 <a id="unreal.StateTreeEvaluatorItem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

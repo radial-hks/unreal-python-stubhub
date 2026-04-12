@@ -14,14 +14,14 @@ ETake Recorder Mode
 
 <a id="unreal.TakeRecorderMode.RECORD_NEW_SEQUENCE"></a>
 
-#### RECORD_NEW_SEQUENCE
+#### RECORD\_NEW\_SEQUENCE
 
 0: Record into a new sequence
 
 <a id="unreal.TakeRecorderMode.RECORD_INTO_SEQUENCE"></a>
 
-#### RECORD_INTO_SEQUENCE
+#### RECORD\_INTO\_SEQUENCE
 
 1: Record into an existing sequence
 
-<a id="unreal.RigVMPinDirection"></a>
+<a id="unreal.PBIKLimitType"></a>

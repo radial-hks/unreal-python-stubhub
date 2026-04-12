@@ -20,7 +20,7 @@ Geometry Script Math Warp Options
 
 <a id="unreal.GeometryScriptMathWarpOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(magnitude: float = 0.000000,
@@ -70,7 +70,7 @@ def frequency(value: float) -> None
 
 <a id="unreal.GeometryScriptMathWarpOptions.frequency_shift"></a>
 
-#### frequency_shift
+#### frequency\_shift
 
 ```python
 @property
@@ -81,7 +81,7 @@ def frequency_shift() -> float
 
 <a id="unreal.GeometryScriptMathWarpOptions.frequency_shift"></a>
 
-#### frequency_shift
+#### frequency\_shift
 
 ```python
 @frequency_shift.setter

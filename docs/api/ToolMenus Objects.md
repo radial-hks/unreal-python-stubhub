@@ -19,7 +19,7 @@ Tool Menus
 
 <a id="unreal.ToolMenus.unregister_owner_by_name"></a>
 
-#### unregister_owner_by_name
+#### unregister\_owner\_by\_name
 
 ```python
 def unregister_owner_by_name(owner_name: Name) -> None
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.ToolMenus.set_section_position"></a>
 
-#### set_section_position
+#### set\_section\_position
 
 ```python
 def set_section_position(menu_name: Name, section_name: Name,
@@ -52,7 +52,7 @@ Args:
 
 <a id="unreal.ToolMenus.set_section_label"></a>
 
-#### set_section_label
+#### set\_section\_label
 
 ```python
 def set_section_label(menu_name: Name, section_name: Name,
@@ -69,7 +69,7 @@ Args:
 
 <a id="unreal.ToolMenus.remove_section"></a>
 
-#### remove_section
+#### remove\_section
 
 ```python
 def remove_section(menu_name: Name, section: Name) -> None
@@ -84,7 +84,7 @@ Args:
 
 <a id="unreal.ToolMenus.remove_menu"></a>
 
-#### remove_menu
+#### remove\_menu
 
 ```python
 def remove_menu(menu_name: Name) -> None
@@ -98,7 +98,7 @@ Args:
 
 <a id="unreal.ToolMenus.remove_entry"></a>
 
-#### remove_entry
+#### remove\_entry
 
 ```python
 def remove_entry(menu_name: Name, section: Name, name: Name) -> None
@@ -114,7 +114,7 @@ Args:
 
 <a id="unreal.ToolMenus.register_menu"></a>
 
-#### register_menu
+#### register\_menu
 
 ```python
 def register_menu(name: Name,
@@ -137,7 +137,7 @@ Returns:
 
 <a id="unreal.ToolMenus.refresh_menu_widget"></a>
 
-#### refresh_menu_widget
+#### refresh\_menu\_widget
 
 ```python
 def refresh_menu_widget(name: Name) -> bool
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.ToolMenus.refresh_all_widgets"></a>
 
-#### refresh_all_widgets
+#### refresh\_all\_widgets
 
 ```python
 def refresh_all_widgets() -> None
@@ -165,7 +165,7 @@ Rebuilds all currently generated widgets next tick.
 
 <a id="unreal.ToolMenus.is_menu_registered"></a>
 
-#### is_menu_registered
+#### is\_menu\_registered
 
 ```python
 def is_menu_registered(name: Name) -> bool
@@ -197,7 +197,7 @@ Returns:
 
 <a id="unreal.ToolMenus.find_menu"></a>
 
-#### find_menu
+#### find\_menu
 
 ```python
 def find_menu(name: Name) -> ToolMenu
@@ -214,7 +214,7 @@ Returns:
 
 <a id="unreal.ToolMenus.find_context"></a>
 
-#### find_context
+#### find\_context
 
 ```python
 @classmethod
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.ToolMenus.extend_menu"></a>
 
-#### extend_menu
+#### extend\_menu
 
 ```python
 def extend_menu(name: Name) -> ToolMenu
@@ -250,7 +250,7 @@ Returns:
 
 <a id="unreal.ToolMenus.add_menu_entry_object"></a>
 
-#### add_menu_entry_object
+#### add\_menu\_entry\_object
 
 ```python
 @classmethod

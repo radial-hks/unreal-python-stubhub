@@ -155,7 +155,7 @@ def falloff(value: FieldFalloffType) -> None
 
 <a id="unreal.WaveScalar.set_wave_scalar"></a>
 
-#### set_wave_scalar
+#### set\_wave\_scalar
 
 ```python
 def set_wave_scalar(magnitude: float = 1.000000,

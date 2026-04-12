@@ -17,7 +17,7 @@ Asset Compile Data
 
 <a id="unreal.AssetCompileData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(asset: Object = None) -> None

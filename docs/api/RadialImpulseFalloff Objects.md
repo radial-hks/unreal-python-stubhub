@@ -13,13 +13,13 @@ Enum for controlling the falloff of strength of a radial impulse as a function o
 
 <a id="unreal.RadialImpulseFalloff.RIF_CONSTANT"></a>
 
-#### RIF_CONSTANT
+#### RIF\_CONSTANT
 
 0: Impulse is a constant strength, up to the limit of its range.
 
 <a id="unreal.RadialImpulseFalloff.RIF_LINEAR"></a>
 
-#### RIF_LINEAR
+#### RIF\_LINEAR
 
 1: Impulse should get linearly weaker the further from origin.
 

@@ -31,7 +31,7 @@ Describes the state of a live link subject
 
 <a id="unreal.LiveLinkSubjectState.INVALID_OR_DISABLED"></a>
 
-#### INVALID_OR_DISABLED
+#### INVALID\_OR\_DISABLED
 
 3: The subject is invalid or disabled
 

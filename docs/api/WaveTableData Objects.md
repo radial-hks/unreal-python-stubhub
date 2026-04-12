@@ -18,7 +18,7 @@ Serialized WaveTable data, that supports multiple bit depth formats.
 
 <a id="unreal.WaveTableData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

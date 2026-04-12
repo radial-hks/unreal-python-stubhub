@@ -22,7 +22,7 @@ Geometry Script Non Uniform Point Sampling Options
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -39,7 +39,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.max_sampling_radius"></a>
 
-#### max_sampling_radius
+#### max\_sampling\_radius
 
 ```python
 @property
@@ -50,7 +50,7 @@ def max_sampling_radius() -> float
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.max_sampling_radius"></a>
 
-#### max_sampling_radius
+#### max\_sampling\_radius
 
 ```python
 @max_sampling_radius.setter
@@ -59,7 +59,7 @@ def max_sampling_radius(value: float) -> None
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.size_distribution"></a>
 
-#### size_distribution
+#### size\_distribution
 
 ```python
 @property
@@ -70,7 +70,7 @@ def size_distribution() -> GeometryScriptSamplingDistributionMode
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.size_distribution"></a>
 
-#### size_distribution
+#### size\_distribution
 
 ```python
 @size_distribution.setter
@@ -79,7 +79,7 @@ def size_distribution(value: GeometryScriptSamplingDistributionMode) -> None
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.size_distribution_power"></a>
 
-#### size_distribution_power
+#### size\_distribution\_power
 
 ```python
 @property
@@ -90,7 +90,7 @@ def size_distribution_power() -> float
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.size_distribution_power"></a>
 
-#### size_distribution_power
+#### size\_distribution\_power
 
 ```python
 @size_distribution_power.setter
@@ -99,7 +99,7 @@ def size_distribution_power(value: float) -> None
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.weight_mode"></a>
 
-#### weight_mode
+#### weight\_mode
 
 ```python
 @property
@@ -110,7 +110,7 @@ def weight_mode() -> GeometryScriptSamplingWeightMode
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.weight_mode"></a>
 
-#### weight_mode
+#### weight\_mode
 
 ```python
 @weight_mode.setter
@@ -119,7 +119,7 @@ def weight_mode(value: GeometryScriptSamplingWeightMode) -> None
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.invert_weights"></a>
 
-#### invert_weights
+#### invert\_weights
 
 ```python
 @property
@@ -130,7 +130,7 @@ def invert_weights() -> bool
 
 <a id="unreal.GeometryScriptNonUniformPointSamplingOptions.invert_weights"></a>
 
-#### invert_weights
+#### invert\_weights
 
 ```python
 @invert_weights.setter

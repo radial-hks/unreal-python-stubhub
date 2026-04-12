@@ -20,7 +20,7 @@ note: The 'SubFrame' field is private to match its C++ class declaration in the 
 
 <a id="unreal.FrameTime.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(frame_number: FrameNumber = [0],
@@ -29,7 +29,7 @@ def __init__(frame_number: FrameNumber = [0],
 
 <a id="unreal.FrameTime.frame_number"></a>
 
-#### frame_number
+#### frame\_number
 
 ```python
 @property
@@ -40,7 +40,7 @@ def frame_number() -> FrameNumber
 
 <a id="unreal.FrameTime.frame_number"></a>
 
-#### frame_number
+#### frame\_number
 
 ```python
 @frame_number.setter
@@ -49,7 +49,7 @@ def frame_number(value: FrameNumber) -> None
 
 <a id="unreal.FrameTime.sub_frame"></a>
 
-#### sub_frame
+#### sub\_frame
 
 ```python
 @property
@@ -60,7 +60,7 @@ def sub_frame() -> float
 
 <a id="unreal.FrameTime.sub_frame"></a>
 
-#### sub_frame
+#### sub\_frame
 
 ```python
 @sub_frame.setter

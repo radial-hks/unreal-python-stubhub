@@ -18,7 +18,7 @@ Hair Groups LOD
 
 <a id="unreal.HairGroupsLOD.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

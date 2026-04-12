@@ -19,10 +19,10 @@ Metasound Frontend Graph Class
 
 <a id="unreal.MetasoundFrontendGraphClass.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.MVVMViewClass_SourceKey"></a>
+<a id="unreal.SmartObjectTraceParams"></a>

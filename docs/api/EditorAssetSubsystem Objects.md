@@ -22,7 +22,7 @@ Directory Paths can be represented in the following ways:
 
 <a id="unreal.EditorAssetSubsystem.sort_by_meta_data"></a>
 
-#### sort_by_meta_data
+#### sort\_by\_meta\_data
 
 ```python
 def sort_by_meta_data(
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.set_metadata_tag"></a>
 
-#### set_metadata_tag
+#### set\_metadata\_tag
 
 ```python
 def set_metadata_tag(object: Object, tag: Name, value: str) -> None
@@ -64,7 +64,7 @@ Args:
 
 <a id="unreal.EditorAssetSubsystem.set_dirty_flag"></a>
 
-#### set_dirty_flag
+#### set\_dirty\_flag
 
 ```python
 def set_dirty_flag(object: Object, dirty_state: bool) -> bool
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.save_loaded_assets"></a>
 
-#### save_loaded_assets
+#### save\_loaded\_assets
 
 ```python
 def save_loaded_assets(assets_to_save: Array[Object],
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.save_loaded_asset"></a>
 
-#### save_loaded_asset
+#### save\_loaded\_asset
 
 ```python
 def save_loaded_asset(asset_to_save: Object,
@@ -120,7 +120,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.save_directory"></a>
 
-#### save_directory
+#### save\_directory
 
 ```python
 def save_directory(directory_path: str,
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.save_asset"></a>
 
-#### save_asset
+#### save\_asset
 
 ```python
 def save_asset(asset_to_save: str, only_if_is_dirty: bool = True) -> bool
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.rename_loaded_asset"></a>
 
-#### rename_loaded_asset
+#### rename\_loaded\_asset
 
 ```python
 def rename_loaded_asset(source_asset: Object,
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.rename_directory"></a>
 
-#### rename_directory
+#### rename\_directory
 
 ```python
 def rename_directory(source_directory_path: str,
@@ -201,7 +201,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.rename_asset"></a>
 
-#### rename_asset
+#### rename\_asset
 
 ```python
 def rename_asset(source_asset_path: str, destination_asset_path: str) -> bool
@@ -220,7 +220,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.remove_on_extract_asset_from_file"></a>
 
-#### remove_on_extract_asset_from_file
+#### remove\_on\_extract\_asset\_from\_file
 
 ```python
 def remove_on_extract_asset_from_file(
@@ -235,7 +235,7 @@ Args:
 
 <a id="unreal.EditorAssetSubsystem.remove_metadata_tag"></a>
 
-#### remove_metadata_tag
+#### remove\_metadata\_tag
 
 ```python
 def remove_metadata_tag(object: Object, tag: Name) -> None
@@ -250,7 +250,7 @@ Args:
 
 <a id="unreal.EditorAssetSubsystem.make_directory"></a>
 
-#### make_directory
+#### make\_directory
 
 ```python
 def make_directory(directory_path: str) -> bool
@@ -267,7 +267,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.load_blueprint_class"></a>
 
-#### load_blueprint_class
+#### load\_blueprint\_class
 
 ```python
 def load_blueprint_class(asset_path: str) -> Class
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.load_asset"></a>
 
-#### load_asset
+#### load\_asset
 
 ```python
 def load_asset(asset_path: str) -> Object
@@ -301,7 +301,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.list_assets_by_tag_value"></a>
 
-#### list_assets_by_tag_value
+#### list\_assets\_by\_tag\_value
 
 ```python
 def list_assets_by_tag_value(tag_name: Name, tag_value: str) -> Array[str]
@@ -319,7 +319,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.list_assets"></a>
 
-#### list_assets
+#### list\_assets
 
 ```python
 def list_assets(directory_path: str,
@@ -340,7 +340,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.get_tag_values"></a>
 
-#### get_tag_values
+#### get\_tag\_values
 
 ```python
 def get_tag_values(asset_path: str) -> Map[Name, str]
@@ -357,7 +357,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.get_path_name_for_loaded_asset"></a>
 
-#### get_path_name_for_loaded_asset
+#### get\_path\_name\_for\_loaded\_asset
 
 ```python
 def get_path_name_for_loaded_asset(loaded_asset: Object) -> str
@@ -375,7 +375,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.get_metadata_tag_values"></a>
 
-#### get_metadata_tag_values
+#### get\_metadata\_tag\_values
 
 ```python
 def get_metadata_tag_values(object: Object) -> Map[Name, str]
@@ -392,7 +392,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.get_metadata_tag"></a>
 
-#### get_metadata_tag
+#### get\_metadata\_tag
 
 ```python
 def get_metadata_tag(object: Object, tag: Name) -> str
@@ -410,7 +410,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.get_loaded_asset_filename_length_for_cooking"></a>
 
-#### get_loaded_asset_filename_length_for_cooking
+#### get\_loaded\_asset\_filename\_length\_for\_cooking
 
 ```python
 def get_loaded_asset_filename_length_for_cooking(asset: Object) -> int
@@ -427,7 +427,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.get_asset_filename_length_for_cooking"></a>
 
-#### get_asset_filename_length_for_cooking
+#### get\_asset\_filename\_length\_for\_cooking
 
 ```python
 def get_asset_filename_length_for_cooking(asset_path: str) -> int
@@ -444,7 +444,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.get_all_assets_by_meta_data_tags"></a>
 
-#### get_all_assets_by_meta_data_tags
+#### get\_all\_assets\_by\_meta\_data\_tags
 
 ```python
 def get_all_assets_by_meta_data_tags(
@@ -466,7 +466,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.find_package_referencers_for_asset"></a>
 
-#### find_package_referencers_for_asset
+#### find\_package\_referencers\_for\_asset
 
 ```python
 def find_package_referencers_for_asset(asset_path: str,
@@ -490,7 +490,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.find_asset_data"></a>
 
-#### find_asset_data
+#### find\_asset\_data
 
 ```python
 def find_asset_data(asset_path: str) -> AssetData
@@ -507,7 +507,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.duplicate_loaded_asset"></a>
 
-#### duplicate_loaded_asset
+#### duplicate\_loaded\_asset
 
 ```python
 def duplicate_loaded_asset(source_asset: Object,
@@ -526,7 +526,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.duplicate_directory"></a>
 
-#### duplicate_directory
+#### duplicate\_directory
 
 ```python
 def duplicate_directory(source_directory_path: str,
@@ -546,7 +546,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.duplicate_asset"></a>
 
-#### duplicate_asset
+#### duplicate\_asset
 
 ```python
 def duplicate_asset(source_asset_path: str,
@@ -565,7 +565,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.does_directory_exist"></a>
 
-#### does_directory_exist
+#### does\_directory\_exist
 
 ```python
 def does_directory_exist(directory_path: str) -> bool
@@ -582,7 +582,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.does_directory_contain_assets"></a>
 
-#### does_directory_contain_assets
+#### does\_directory\_contain\_assets
 
 ```python
 def does_directory_contain_assets(directory_path: str,
@@ -601,7 +601,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.does_asset_exist"></a>
 
-#### does_asset_exist
+#### does\_asset\_exist
 
 ```python
 def does_asset_exist(asset_path: str) -> bool
@@ -618,7 +618,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.do_assets_exist"></a>
 
-#### do_assets_exist
+#### do\_assets\_exist
 
 ```python
 def do_assets_exist(asset_paths: Array[str]) -> bool
@@ -635,7 +635,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.delete_loaded_assets"></a>
 
-#### delete_loaded_assets
+#### delete\_loaded\_assets
 
 ```python
 def delete_loaded_assets(assets_to_delete: Array[Object]) -> bool
@@ -655,7 +655,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.delete_loaded_asset"></a>
 
-#### delete_loaded_asset
+#### delete\_loaded\_asset
 
 ```python
 def delete_loaded_asset(asset_to_delete: Object) -> bool
@@ -675,7 +675,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.delete_directory"></a>
 
-#### delete_directory
+#### delete\_directory
 
 ```python
 def delete_directory(directory_path: str) -> bool
@@ -696,7 +696,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.delete_asset"></a>
 
-#### delete_asset
+#### delete\_asset
 
 ```python
 def delete_asset(asset_path_to_delete: str) -> bool
@@ -716,7 +716,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.consolidate_assets"></a>
 
-#### consolidate_assets
+#### consolidate\_assets
 
 ```python
 def consolidate_assets(asset_to_consolidate_to: Object,
@@ -740,7 +740,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.checkout_loaded_assets"></a>
 
-#### checkout_loaded_assets
+#### checkout\_loaded\_assets
 
 ```python
 def checkout_loaded_assets(assets_to_checkout: Array[Object]) -> bool
@@ -757,7 +757,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.checkout_loaded_asset"></a>
 
-#### checkout_loaded_asset
+#### checkout\_loaded\_asset
 
 ```python
 def checkout_loaded_asset(asset_to_checkout: Object) -> bool
@@ -774,7 +774,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.checkout_directory"></a>
 
-#### checkout_directory
+#### checkout\_directory
 
 ```python
 def checkout_directory(directory_path: str, recursive: bool = True) -> bool
@@ -793,7 +793,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.checkout_asset"></a>
 
-#### checkout_asset
+#### checkout\_asset
 
 ```python
 def checkout_asset(asset_to_checkout: str) -> bool
@@ -810,7 +810,7 @@ Returns:
 
 <a id="unreal.EditorAssetSubsystem.add_on_extract_asset_from_file"></a>
 
-#### add_on_extract_asset_from_file
+#### add\_on\_extract\_asset\_from\_file
 
 ```python
 def add_on_extract_asset_from_file(

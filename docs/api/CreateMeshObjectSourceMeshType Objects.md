@@ -14,13 +14,13 @@ Types of possible source meshes stored in FCreateMeshObjectParams
 
 <a id="unreal.CreateMeshObjectSourceMeshType.MESH_DESCRIPTION"></a>
 
-#### MESH_DESCRIPTION
+#### MESH\_DESCRIPTION
 
 0
 
 <a id="unreal.CreateMeshObjectSourceMeshType.DYNAMIC_MESH"></a>
 
-#### DYNAMIC_MESH
+#### DYNAMIC\_MESH
 
 1
 

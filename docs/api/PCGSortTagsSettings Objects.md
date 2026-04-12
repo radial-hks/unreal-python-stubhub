@@ -57,7 +57,7 @@ def tag(value: Name) -> None
 
 <a id="unreal.PCGSortTagsSettings.sort_method"></a>
 
-#### sort_method
+#### sort\_method
 
 ```python
 @property
@@ -68,7 +68,7 @@ def sort_method() -> PCGSortMethod
 
 <a id="unreal.PCGSortTagsSettings.sort_method"></a>
 
-#### sort_method
+#### sort\_method
 
 ```python
 @sort_method.setter

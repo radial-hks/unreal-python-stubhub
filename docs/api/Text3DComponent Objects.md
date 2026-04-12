@@ -73,7 +73,7 @@ Text 3DComponent
 
 <a id="unreal.Text3DComponent.refresh_on_change"></a>
 
-#### refresh_on_change
+#### refresh\_on\_change
 
 ```python
 @property
@@ -84,7 +84,7 @@ def refresh_on_change() -> bool
 
 <a id="unreal.Text3DComponent.refresh_on_change"></a>
 
-#### refresh_on_change
+#### refresh\_on\_change
 
 ```python
 @refresh_on_change.setter
@@ -153,7 +153,7 @@ def bevel(value: float) -> None
 
 <a id="unreal.Text3DComponent.bevel_type"></a>
 
-#### bevel_type
+#### bevel\_type
 
 ```python
 @property
@@ -164,7 +164,7 @@ def bevel_type() -> Text3DBevelType
 
 <a id="unreal.Text3DComponent.bevel_type"></a>
 
-#### bevel_type
+#### bevel\_type
 
 ```python
 @bevel_type.setter
@@ -173,7 +173,7 @@ def bevel_type(value: Text3DBevelType) -> None
 
 <a id="unreal.Text3DComponent.bevel_segments"></a>
 
-#### bevel_segments
+#### bevel\_segments
 
 ```python
 @property
@@ -184,7 +184,7 @@ def bevel_segments() -> int
 
 <a id="unreal.Text3DComponent.bevel_segments"></a>
 
-#### bevel_segments
+#### bevel\_segments
 
 ```python
 @bevel_segments.setter
@@ -213,7 +213,7 @@ def outline(value: bool) -> None
 
 <a id="unreal.Text3DComponent.outline_expand"></a>
 
-#### outline_expand
+#### outline\_expand
 
 ```python
 @property
@@ -224,7 +224,7 @@ def outline_expand() -> float
 
 <a id="unreal.Text3DComponent.outline_expand"></a>
 
-#### outline_expand
+#### outline\_expand
 
 ```python
 @outline_expand.setter
@@ -233,7 +233,7 @@ def outline_expand(value: float) -> None
 
 <a id="unreal.Text3DComponent.front_material"></a>
 
-#### front_material
+#### front\_material
 
 ```python
 @property
@@ -244,7 +244,7 @@ def front_material() -> MaterialInterface
 
 <a id="unreal.Text3DComponent.front_material"></a>
 
-#### front_material
+#### front\_material
 
 ```python
 @front_material.setter
@@ -253,7 +253,7 @@ def front_material(value: MaterialInterface) -> None
 
 <a id="unreal.Text3DComponent.bevel_material"></a>
 
-#### bevel_material
+#### bevel\_material
 
 ```python
 @property
@@ -264,7 +264,7 @@ def bevel_material() -> MaterialInterface
 
 <a id="unreal.Text3DComponent.bevel_material"></a>
 
-#### bevel_material
+#### bevel\_material
 
 ```python
 @bevel_material.setter
@@ -273,7 +273,7 @@ def bevel_material(value: MaterialInterface) -> None
 
 <a id="unreal.Text3DComponent.extrude_material"></a>
 
-#### extrude_material
+#### extrude\_material
 
 ```python
 @property
@@ -284,7 +284,7 @@ def extrude_material() -> MaterialInterface
 
 <a id="unreal.Text3DComponent.extrude_material"></a>
 
-#### extrude_material
+#### extrude\_material
 
 ```python
 @extrude_material.setter
@@ -293,7 +293,7 @@ def extrude_material(value: MaterialInterface) -> None
 
 <a id="unreal.Text3DComponent.back_material"></a>
 
-#### back_material
+#### back\_material
 
 ```python
 @property
@@ -304,7 +304,7 @@ def back_material() -> MaterialInterface
 
 <a id="unreal.Text3DComponent.back_material"></a>
 
-#### back_material
+#### back\_material
 
 ```python
 @back_material.setter
@@ -353,7 +353,7 @@ def typeface(value: Name) -> None
 
 <a id="unreal.Text3DComponent.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @property
@@ -364,7 +364,7 @@ def horizontal_alignment() -> Text3DHorizontalTextAlignment
 
 <a id="unreal.Text3DComponent.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @horizontal_alignment.setter
@@ -373,7 +373,7 @@ def horizontal_alignment(value: Text3DHorizontalTextAlignment) -> None
 
 <a id="unreal.Text3DComponent.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @property
@@ -384,7 +384,7 @@ def vertical_alignment() -> Text3DVerticalTextAlignment
 
 <a id="unreal.Text3DComponent.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @vertical_alignment.setter
@@ -413,7 +413,7 @@ def kerning(value: float) -> None
 
 <a id="unreal.Text3DComponent.line_spacing"></a>
 
-#### line_spacing
+#### line\_spacing
 
 ```python
 @property
@@ -424,7 +424,7 @@ def line_spacing() -> float
 
 <a id="unreal.Text3DComponent.line_spacing"></a>
 
-#### line_spacing
+#### line\_spacing
 
 ```python
 @line_spacing.setter
@@ -433,7 +433,7 @@ def line_spacing(value: float) -> None
 
 <a id="unreal.Text3DComponent.word_spacing"></a>
 
-#### word_spacing
+#### word\_spacing
 
 ```python
 @property
@@ -444,7 +444,7 @@ def word_spacing() -> float
 
 <a id="unreal.Text3DComponent.word_spacing"></a>
 
-#### word_spacing
+#### word\_spacing
 
 ```python
 @word_spacing.setter
@@ -453,7 +453,7 @@ def word_spacing(value: float) -> None
 
 <a id="unreal.Text3DComponent.has_max_width"></a>
 
-#### has_max_width
+#### has\_max\_width
 
 ```python
 @property
@@ -464,7 +464,7 @@ def has_max_width() -> bool
 
 <a id="unreal.Text3DComponent.has_max_width"></a>
 
-#### has_max_width
+#### has\_max\_width
 
 ```python
 @has_max_width.setter
@@ -473,7 +473,7 @@ def has_max_width(value: bool) -> None
 
 <a id="unreal.Text3DComponent.max_width"></a>
 
-#### max_width
+#### max\_width
 
 ```python
 @property
@@ -484,7 +484,7 @@ def max_width() -> float
 
 <a id="unreal.Text3DComponent.max_width"></a>
 
-#### max_width
+#### max\_width
 
 ```python
 @max_width.setter
@@ -493,7 +493,7 @@ def max_width(value: float) -> None
 
 <a id="unreal.Text3DComponent.has_max_height"></a>
 
-#### has_max_height
+#### has\_max\_height
 
 ```python
 @property
@@ -504,7 +504,7 @@ def has_max_height() -> bool
 
 <a id="unreal.Text3DComponent.has_max_height"></a>
 
-#### has_max_height
+#### has\_max\_height
 
 ```python
 @has_max_height.setter
@@ -513,7 +513,7 @@ def has_max_height(value: bool) -> None
 
 <a id="unreal.Text3DComponent.max_width_handling"></a>
 
-#### max_width_handling
+#### max\_width\_handling
 
 ```python
 @property
@@ -524,7 +524,7 @@ def max_width_handling() -> Text3DMaxWidthHandling
 
 <a id="unreal.Text3DComponent.max_width_handling"></a>
 
-#### max_width_handling
+#### max\_width\_handling
 
 ```python
 @max_width_handling.setter
@@ -533,7 +533,7 @@ def max_width_handling(value: Text3DMaxWidthHandling) -> None
 
 <a id="unreal.Text3DComponent.max_height"></a>
 
-#### max_height
+#### max\_height
 
 ```python
 @property
@@ -544,7 +544,7 @@ def max_height() -> float
 
 <a id="unreal.Text3DComponent.max_height"></a>
 
-#### max_height
+#### max\_height
 
 ```python
 @max_height.setter
@@ -553,7 +553,7 @@ def max_height(value: float) -> None
 
 <a id="unreal.Text3DComponent.scale_proportionally"></a>
 
-#### scale_proportionally
+#### scale\_proportionally
 
 ```python
 @property
@@ -564,7 +564,7 @@ def scale_proportionally() -> bool
 
 <a id="unreal.Text3DComponent.scale_proportionally"></a>
 
-#### scale_proportionally
+#### scale\_proportionally
 
 ```python
 @scale_proportionally.setter
@@ -573,7 +573,7 @@ def scale_proportionally(value: bool) -> None
 
 <a id="unreal.Text3DComponent.cast_shadow"></a>
 
-#### cast_shadow
+#### cast\_shadow
 
 ```python
 @property
@@ -584,7 +584,7 @@ def cast_shadow() -> bool
 
 <a id="unreal.Text3DComponent.cast_shadow"></a>
 
-#### cast_shadow
+#### cast\_shadow
 
 ```python
 @cast_shadow.setter
@@ -593,7 +593,7 @@ def cast_shadow(value: bool) -> None
 
 <a id="unreal.Text3DComponent.text_generated_delegate"></a>
 
-#### text_generated_delegate
+#### text\_generated\_delegate
 
 ```python
 @property
@@ -604,7 +604,7 @@ def text_generated_delegate() -> TextGenerated
 
 <a id="unreal.Text3DComponent.text_generated_delegate"></a>
 
-#### text_generated_delegate
+#### text\_generated\_delegate
 
 ```python
 @text_generated_delegate.setter
@@ -613,7 +613,7 @@ def text_generated_delegate(value: TextGenerated) -> None
 
 <a id="unreal.Text3DComponent.set_word_spacing"></a>
 
-#### set_word_spacing
+#### set\_word\_spacing
 
 ```python
 def set_word_spacing(value: float) -> None
@@ -628,7 +628,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_vertical_alignment"></a>
 
-#### set_vertical_alignment
+#### set\_vertical\_alignment
 
 ```python
 def set_vertical_alignment(value: Text3DVerticalTextAlignment) -> None
@@ -643,7 +643,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_text"></a>
 
-#### set_text
+#### set\_text
 
 ```python
 def set_text(value: Text) -> None
@@ -658,7 +658,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_scale_proportionally"></a>
 
-#### set_scale_proportionally
+#### set\_scale\_proportionally
 
 ```python
 def set_scale_proportionally(value: bool) -> None
@@ -673,7 +673,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_outline_expand"></a>
 
-#### set_outline_expand
+#### set\_outline\_expand
 
 ```python
 def set_outline_expand(value: float) -> None
@@ -688,7 +688,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_max_width_handling"></a>
 
-#### set_max_width_handling
+#### set\_max\_width\_handling
 
 ```python
 def set_max_width_handling(value: Text3DMaxWidthHandling) -> None
@@ -703,7 +703,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_max_width"></a>
 
-#### set_max_width
+#### set\_max\_width
 
 ```python
 def set_max_width(value: float) -> None
@@ -718,7 +718,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_max_height"></a>
 
-#### set_max_height
+#### set\_max\_height
 
 ```python
 def set_max_height(value: float) -> None
@@ -733,7 +733,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_line_spacing"></a>
 
-#### set_line_spacing
+#### set\_line\_spacing
 
 ```python
 def set_line_spacing(value: float) -> None
@@ -748,7 +748,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_kerning"></a>
 
-#### set_kerning
+#### set\_kerning
 
 ```python
 def set_kerning(value: float) -> None
@@ -763,7 +763,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_horizontal_alignment"></a>
 
-#### set_horizontal_alignment
+#### set\_horizontal\_alignment
 
 ```python
 def set_horizontal_alignment(value: Text3DHorizontalTextAlignment) -> None
@@ -778,7 +778,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_has_outline"></a>
 
-#### set_has_outline
+#### set\_has\_outline
 
 ```python
 def set_has_outline(value: bool) -> None
@@ -793,7 +793,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_has_max_width"></a>
 
-#### set_has_max_width
+#### set\_has\_max\_width
 
 ```python
 def set_has_max_width(value: bool) -> None
@@ -808,7 +808,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_has_max_height"></a>
 
-#### set_has_max_height
+#### set\_has\_max\_height
 
 ```python
 def set_has_max_height(value: bool) -> None
@@ -823,7 +823,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_front_material"></a>
 
-#### set_front_material
+#### set\_front\_material
 
 ```python
 def set_front_material(value: MaterialInterface) -> None
@@ -838,7 +838,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_freeze"></a>
 
-#### set_freeze
+#### set\_freeze
 
 ```python
 def set_freeze(freeze: bool) -> None
@@ -853,7 +853,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_font"></a>
 
-#### set_font
+#### set\_font
 
 ```python
 def set_font(font: Font) -> None
@@ -868,7 +868,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_extrude_material"></a>
 
-#### set_extrude_material
+#### set\_extrude\_material
 
 ```python
 def set_extrude_material(value: MaterialInterface) -> None
@@ -883,7 +883,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_extrude"></a>
 
-#### set_extrude
+#### set\_extrude
 
 ```python
 def set_extrude(value: float) -> None
@@ -898,7 +898,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_cast_shadow"></a>
 
-#### set_cast_shadow
+#### set\_cast\_shadow
 
 ```python
 def set_cast_shadow(new_cast_shadow: bool) -> None
@@ -913,7 +913,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_bevel_type"></a>
 
-#### set_bevel_type
+#### set\_bevel\_type
 
 ```python
 def set_bevel_type(value: Text3DBevelType) -> None
@@ -928,7 +928,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_bevel_segments"></a>
 
-#### set_bevel_segments
+#### set\_bevel\_segments
 
 ```python
 def set_bevel_segments(value: int) -> None
@@ -943,7 +943,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_bevel_material"></a>
 
-#### set_bevel_material
+#### set\_bevel\_material
 
 ```python
 def set_bevel_material(value: MaterialInterface) -> None
@@ -958,7 +958,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_bevel"></a>
 
-#### set_bevel
+#### set\_bevel
 
 ```python
 def set_bevel(value: float) -> None
@@ -973,7 +973,7 @@ Args:
 
 <a id="unreal.Text3DComponent.set_back_material"></a>
 
-#### set_back_material
+#### set\_back\_material
 
 ```python
 def set_back_material(value: MaterialInterface) -> None
@@ -988,7 +988,7 @@ Args:
 
 <a id="unreal.Text3DComponent.get_text_scale"></a>
 
-#### get_text_scale
+#### get\_text\_scale
 
 ```python
 def get_text_scale() -> Vector
@@ -1002,7 +1002,7 @@ Returns:
 
 <a id="unreal.Text3DComponent.get_glyph_mesh_components"></a>
 
-#### get_glyph_mesh_components
+#### get\_glyph\_mesh\_components
 
 ```python
 def get_glyph_mesh_components() -> Array[StaticMeshComponent]
@@ -1016,7 +1016,7 @@ Returns:
 
 <a id="unreal.Text3DComponent.get_glyph_mesh_component"></a>
 
-#### get_glyph_mesh_component
+#### get\_glyph\_mesh\_component
 
 ```python
 def get_glyph_mesh_component(index: int) -> StaticMeshComponent
@@ -1033,7 +1033,7 @@ Returns:
 
 <a id="unreal.Text3DComponent.get_glyph_kerning_components"></a>
 
-#### get_glyph_kerning_components
+#### get\_glyph\_kerning\_components
 
 ```python
 def get_glyph_kerning_components() -> Array[SceneComponent]
@@ -1047,7 +1047,7 @@ Returns:
 
 <a id="unreal.Text3DComponent.get_glyph_kerning_component"></a>
 
-#### get_glyph_kerning_component
+#### get\_glyph\_kerning\_component
 
 ```python
 def get_glyph_kerning_component(index: int) -> SceneComponent
@@ -1064,7 +1064,7 @@ Returns:
 
 <a id="unreal.Text3DComponent.get_glyph_count"></a>
 
-#### get_glyph_count
+#### get\_glyph\_count
 
 ```python
 def get_glyph_count() -> int
@@ -1078,7 +1078,7 @@ Returns:
 
 <a id="unreal.Text3DComponent.get_formatted_text"></a>
 
-#### get_formatted_text
+#### get\_formatted\_text
 
 ```python
 def get_formatted_text() -> Text
@@ -1093,7 +1093,7 @@ Returns:
 
 <a id="unreal.Text3DComponent.get_bounds"></a>
 
-#### get_bounds
+#### get\_bounds
 
 ```python
 def get_bounds() -> Tuple[Vector, Vector]
@@ -1109,4 +1109,4 @@ Returns:
 
     box_extent (Vector):
 
-<a id="unreal.AvaBaseModifier"></a>
+<a id="unreal.LayersBlueprintLibrary"></a>

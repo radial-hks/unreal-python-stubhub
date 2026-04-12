@@ -21,7 +21,7 @@ One key in a rich, editable float curve
 
 <a id="unreal.RichCurveKey.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.RichCurveKey.interp_mode"></a>
 
-#### interp_mode
+#### interp\_mode
 
 ```python
 @property
@@ -47,7 +47,7 @@ def interp_mode() -> RichCurveInterpMode
 
 <a id="unreal.RichCurveKey.interp_mode"></a>
 
-#### interp_mode
+#### interp\_mode
 
 ```python
 @interp_mode.setter
@@ -56,7 +56,7 @@ def interp_mode(value: RichCurveInterpMode) -> None
 
 <a id="unreal.RichCurveKey.tangent_mode"></a>
 
-#### tangent_mode
+#### tangent\_mode
 
 ```python
 @property
@@ -67,7 +67,7 @@ def tangent_mode() -> RichCurveTangentMode
 
 <a id="unreal.RichCurveKey.tangent_mode"></a>
 
-#### tangent_mode
+#### tangent\_mode
 
 ```python
 @tangent_mode.setter
@@ -76,7 +76,7 @@ def tangent_mode(value: RichCurveTangentMode) -> None
 
 <a id="unreal.RichCurveKey.tangent_weight_mode"></a>
 
-#### tangent_weight_mode
+#### tangent\_weight\_mode
 
 ```python
 @property
@@ -87,7 +87,7 @@ def tangent_weight_mode() -> RichCurveTangentWeightMode
 
 <a id="unreal.RichCurveKey.tangent_weight_mode"></a>
 
-#### tangent_weight_mode
+#### tangent\_weight\_mode
 
 ```python
 @tangent_weight_mode.setter

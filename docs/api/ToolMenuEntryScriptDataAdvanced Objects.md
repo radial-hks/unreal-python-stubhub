@@ -24,7 +24,7 @@ Tool Menu Entry Script Data Advanced
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tutorial_highlight: Name = "None",
@@ -40,7 +40,7 @@ def __init__(tutorial_highlight: Name = "None",
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.tutorial_highlight"></a>
 
-#### tutorial_highlight
+#### tutorial\_highlight
 
 ```python
 @property
@@ -51,7 +51,7 @@ def tutorial_highlight() -> Name
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.tutorial_highlight"></a>
 
-#### tutorial_highlight
+#### tutorial\_highlight
 
 ```python
 @tutorial_highlight.setter
@@ -60,7 +60,7 @@ def tutorial_highlight(value: Name) -> None
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.entry_type"></a>
 
-#### entry_type
+#### entry\_type
 
 ```python
 @property
@@ -71,7 +71,7 @@ def entry_type() -> MultiBlockType
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.entry_type"></a>
 
-#### entry_type
+#### entry\_type
 
 ```python
 @entry_type.setter
@@ -80,7 +80,7 @@ def entry_type(value: MultiBlockType) -> None
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.user_interface_action_type"></a>
 
-#### user_interface_action_type
+#### user\_interface\_action\_type
 
 ```python
 @property
@@ -91,7 +91,7 @@ def user_interface_action_type() -> UserInterfaceActionType
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.user_interface_action_type"></a>
 
-#### user_interface_action_type
+#### user\_interface\_action\_type
 
 ```python
 @user_interface_action_type.setter
@@ -100,7 +100,7 @@ def user_interface_action_type(value: UserInterfaceActionType) -> None
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.style_name_override"></a>
 
-#### style_name_override
+#### style\_name\_override
 
 ```python
 @property
@@ -111,7 +111,7 @@ def style_name_override() -> Name
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.style_name_override"></a>
 
-#### style_name_override
+#### style\_name\_override
 
 ```python
 @style_name_override.setter
@@ -120,7 +120,7 @@ def style_name_override(value: Name) -> None
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.is_sub_menu"></a>
 
-#### is_sub_menu
+#### is\_sub\_menu
 
 ```python
 @property
@@ -131,7 +131,7 @@ def is_sub_menu() -> bool
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.is_sub_menu"></a>
 
-#### is_sub_menu
+#### is\_sub\_menu
 
 ```python
 @is_sub_menu.setter
@@ -140,7 +140,7 @@ def is_sub_menu(value: bool) -> None
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.open_sub_menu_on_click"></a>
 
-#### open_sub_menu_on_click
+#### open\_sub\_menu\_on\_click
 
 ```python
 @property
@@ -151,7 +151,7 @@ def open_sub_menu_on_click() -> bool
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.open_sub_menu_on_click"></a>
 
-#### open_sub_menu_on_click
+#### open\_sub\_menu\_on\_click
 
 ```python
 @open_sub_menu_on_click.setter
@@ -160,7 +160,7 @@ def open_sub_menu_on_click(value: bool) -> None
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.should_close_window_after_menu_selection"></a>
 
-#### should_close_window_after_menu_selection
+#### should\_close\_window\_after\_menu\_selection
 
 ```python
 @property
@@ -171,7 +171,7 @@ def should_close_window_after_menu_selection() -> bool
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.should_close_window_after_menu_selection"></a>
 
-#### should_close_window_after_menu_selection
+#### should\_close\_window\_after\_menu\_selection
 
 ```python
 @should_close_window_after_menu_selection.setter
@@ -180,7 +180,7 @@ def should_close_window_after_menu_selection(value: bool) -> None
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.simple_combo_box"></a>
 
-#### simple_combo_box
+#### simple\_combo\_box
 
 ```python
 @property
@@ -191,7 +191,7 @@ def simple_combo_box() -> bool
 
 <a id="unreal.ToolMenuEntryScriptDataAdvanced.simple_combo_box"></a>
 
-#### simple_combo_box
+#### simple\_combo\_box
 
 ```python
 @simple_combo_box.setter

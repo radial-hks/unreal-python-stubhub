@@ -16,7 +16,7 @@ but for complicated games you will want to subclass this in native code and set 
 
 <a id="unreal.LocalPlayerSaveGame.was_save_requested"></a>
 
-#### was_save_requested
+#### was\_save\_requested
 
 ```python
 def was_save_requested() -> bool
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.was_loaded"></a>
 
-#### was_loaded
+#### was\_loaded
 
 ```python
 def was_loaded() -> bool
@@ -44,7 +44,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.was_last_save_successful"></a>
 
-#### was_last_save_successful
+#### was\_last\_save\_successful
 
 ```python
 def was_last_save_successful() -> bool
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.save_game_to_slot_for_local_player"></a>
 
-#### save_game_to_slot_for_local_player
+#### save\_game\_to\_slot\_for\_local\_player
 
 ```python
 def save_game_to_slot_for_local_player() -> bool
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.reset_to_default"></a>
 
-#### reset_to_default
+#### reset\_to\_default
 
 ```python
 def reset_to_default() -> None
@@ -84,7 +84,7 @@ Resets all saved data to default values, called when the load fails or manually
 
 <a id="unreal.LocalPlayerSaveGame.on_reset_to_default"></a>
 
-#### on_reset_to_default
+#### on\_reset\_to\_default
 
 ```python
 def on_reset_to_default() -> None
@@ -95,7 +95,7 @@ Blueprint event called to reset all saved data to default, called when the load 
 
 <a id="unreal.LocalPlayerSaveGame.on_pre_save"></a>
 
-#### on_pre_save
+#### on\_pre\_save
 
 ```python
 def on_pre_save() -> None
@@ -106,7 +106,7 @@ Blueprint event called before saving, do any game-specific fixup here
 
 <a id="unreal.LocalPlayerSaveGame.on_post_save"></a>
 
-#### on_post_save
+#### on\_post\_save
 
 ```python
 def on_post_save(success: bool) -> None
@@ -120,7 +120,7 @@ Args:
 
 <a id="unreal.LocalPlayerSaveGame.on_post_load"></a>
 
-#### on_post_load
+#### on\_post\_load
 
 ```python
 def on_post_load() -> None
@@ -131,7 +131,7 @@ Blueprint event called after loading, is not called for newly created saves
 
 <a id="unreal.LocalPlayerSaveGame.load_or_create_save_game_for_local_player"></a>
 
-#### load_or_create_save_game_for_local_player
+#### load\_or\_create\_save\_game\_for\_local\_player
 
 ```python
 @classmethod
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.is_save_in_progress"></a>
 
-#### is_save_in_progress
+#### is\_save\_in\_progress
 
 ```python
 def is_save_in_progress() -> bool
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.get_save_slot_name"></a>
 
-#### get_save_slot_name
+#### get\_save\_slot\_name
 
 ```python
 def get_save_slot_name() -> str
@@ -182,7 +182,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.get_saved_data_version"></a>
 
-#### get_saved_data_version
+#### get\_saved\_data\_version
 
 ```python
 def get_saved_data_version() -> int
@@ -196,7 +196,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.get_platform_user_index"></a>
 
-#### get_platform_user_index
+#### get\_platform\_user\_index
 
 ```python
 def get_platform_user_index() -> int
@@ -210,7 +210,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.get_platform_user_id"></a>
 
-#### get_platform_user_id
+#### get\_platform\_user\_id
 
 ```python
 def get_platform_user_id() -> PlatformUserId
@@ -224,7 +224,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.get_local_player_controller"></a>
 
-#### get_local_player_controller
+#### get\_local\_player\_controller
 
 ```python
 def get_local_player_controller() -> PlayerController
@@ -238,7 +238,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.get_latest_data_version"></a>
 
-#### get_latest_data_version
+#### get\_latest\_data\_version
 
 ```python
 def get_latest_data_version() -> int
@@ -252,7 +252,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.get_invalid_data_version"></a>
 
-#### get_invalid_data_version
+#### get\_invalid\_data\_version
 
 ```python
 def get_invalid_data_version() -> int
@@ -266,7 +266,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.async_save_game_to_slot_for_local_player"></a>
 
-#### async_save_game_to_slot_for_local_player
+#### async\_save\_game\_to\_slot\_for\_local\_player
 
 ```python
 def async_save_game_to_slot_for_local_player() -> bool
@@ -281,7 +281,7 @@ Returns:
 
 <a id="unreal.LocalPlayerSaveGame.async_load_or_create_save_game_for_local_player"></a>
 
-#### async_load_or_create_save_game_for_local_player
+#### async\_load\_or\_create\_save\_game\_for\_local\_player
 
 ```python
 @classmethod

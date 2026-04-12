@@ -17,7 +17,7 @@ Replay Subsystem
 
 <a id="unreal.ReplaySubsystem.request_checkpoint"></a>
 
-#### request_checkpoint
+#### request\_checkpoint
 
 ```python
 def request_checkpoint() -> None
@@ -28,7 +28,7 @@ Request a checkpoint write, if currently recording.
 
 <a id="unreal.ReplaySubsystem.is_recording"></a>
 
-#### is_recording
+#### is\_recording
 
 ```python
 def is_recording() -> bool
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.ReplaySubsystem.is_playing"></a>
 
-#### is_playing
+#### is\_playing
 
 ```python
 def is_playing() -> bool
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.ReplaySubsystem.get_replay_current_time"></a>
 
-#### get_replay_current_time
+#### get\_replay\_current\_time
 
 ```python
 def get_replay_current_time() -> float
@@ -70,7 +70,7 @@ Returns:
 
 <a id="unreal.ReplaySubsystem.get_active_replay_name"></a>
 
-#### get_active_replay_name
+#### get\_active\_replay\_name
 
 ```python
 def get_active_replay_name() -> str

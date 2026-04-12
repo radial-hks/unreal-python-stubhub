@@ -20,7 +20,7 @@ EFOVScaling Type
 
 <a id="unreal.FOVScalingType.UE4_BACK_COMPAT"></a>
 
-#### UE4_BACK_COMPAT
+#### UE4\_BACK\_COMPAT
 
 1: FOV scaling was incorrectly calculated in UE4's UPlayerInput::MassageAxisInput. This implementation is intended to aid backwards compatibility, but should not be used by new projects.
 

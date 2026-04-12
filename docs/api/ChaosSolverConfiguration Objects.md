@@ -44,7 +44,7 @@ Chaos Solver Configuration
 
 <a id="unreal.ChaosSolverConfiguration.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

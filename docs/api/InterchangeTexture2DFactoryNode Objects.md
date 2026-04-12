@@ -14,7 +14,7 @@ ns UE::Interchange
 
 <a id="unreal.InterchangeTexture2DFactoryNode.set_source_blocks"></a>
 
-#### set_source_blocks
+#### set\_source\_blocks
 
 ```python
 def set_source_blocks(source_blocks: Map[int, str]) -> None
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.set_source_block_by_coordinates"></a>
 
-#### set_source_block_by_coordinates
+#### set\_source\_block\_by\_coordinates
 
 ```python
 def set_source_block_by_coordinates(x: int, y: int, source_file: str) -> None
@@ -45,7 +45,7 @@ Args:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.set_source_block"></a>
 
-#### set_source_block
+#### set\_source\_block
 
 ```python
 def set_source_block(block_index: int, source_file: str) -> None
@@ -60,7 +60,7 @@ Args:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.set_custom_address_y"></a>
 
-#### set_custom_address_y
+#### set\_custom\_address\_y
 
 ```python
 def set_custom_address_y(attribute_value: TextureAddress,
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.set_custom_address_x"></a>
 
-#### set_custom_address_x
+#### set\_custom\_address\_x
 
 ```python
 def set_custom_address_x(attribute_value: TextureAddress,
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.get_source_blocks"></a>
 
-#### get_source_blocks
+#### get\_source\_blocks
 
 ```python
 def get_source_blocks() -> Map[int, str]
@@ -113,7 +113,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.get_source_block_by_coordinates"></a>
 
-#### get_source_block_by_coordinates
+#### get\_source\_block\_by\_coordinates
 
 ```python
 def get_source_block_by_coordinates(x: int, y: int) -> Optional[str]
@@ -133,7 +133,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.get_source_block"></a>
 
-#### get_source_block
+#### get\_source\_block
 
 ```python
 def get_source_block(block_index: int) -> Optional[str]
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.get_custom_address_y"></a>
 
-#### get_custom_address_y
+#### get\_custom\_address\_y
 
 ```python
 def get_custom_address_y() -> Optional[TextureAddress]
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.InterchangeTexture2DFactoryNode.get_custom_address_x"></a>
 
-#### get_custom_address_x
+#### get\_custom\_address\_x
 
 ```python
 def get_custom_address_x() -> Optional[TextureAddress]

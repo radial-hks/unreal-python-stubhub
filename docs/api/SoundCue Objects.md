@@ -50,7 +50,7 @@ The behavior of audio playback is defined within Sound Cues.
 
 <a id="unreal.SoundCue.first_node"></a>
 
-#### first_node
+#### first\_node
 
 ```python
 @property
@@ -61,7 +61,7 @@ def first_node() -> SoundNode
 
 <a id="unreal.SoundCue.volume_multiplier"></a>
 
-#### volume_multiplier
+#### volume\_multiplier
 
 ```python
 @property
@@ -72,7 +72,7 @@ def volume_multiplier() -> float
 
 <a id="unreal.SoundCue.pitch_multiplier"></a>
 
-#### pitch_multiplier
+#### pitch\_multiplier
 
 ```python
 @property

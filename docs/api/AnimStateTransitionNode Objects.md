@@ -32,7 +32,7 @@ Anim State Transition Node
 
 <a id="unreal.AnimStateTransitionNode.logic_type"></a>
 
-#### logic_type
+#### logic\_type
 
 ```python
 @property
@@ -43,7 +43,7 @@ def logic_type() -> TransitionLogicType
 
 <a id="unreal.AnimStateTransitionNode.logic_type"></a>
 
-#### logic_type
+#### logic\_type
 
 ```python
 @logic_type.setter

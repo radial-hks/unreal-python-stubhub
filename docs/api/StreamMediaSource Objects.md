@@ -18,7 +18,7 @@ Stream Media Source
 
 <a id="unreal.StreamMediaSource.stream_url"></a>
 
-#### stream_url
+#### stream\_url
 
 ```python
 @property
@@ -29,7 +29,7 @@ def stream_url() -> str
 
 <a id="unreal.StreamMediaSource.stream_url"></a>
 
-#### stream_url
+#### stream\_url
 
 ```python
 @stream_url.setter

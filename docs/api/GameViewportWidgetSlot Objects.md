@@ -22,7 +22,7 @@ The default value fills the entire screen / player region.
 
 <a id="unreal.GameViewportWidgetSlot.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(anchors: Anchors = [[0.000000, 0.000000], [0.000000, 0.000000]],
@@ -94,7 +94,7 @@ def alignment(value: Vector2D) -> None
 
 <a id="unreal.GameViewportWidgetSlot.z_order"></a>
 
-#### z_order
+#### z\_order
 
 ```python
 @property
@@ -105,7 +105,7 @@ def z_order() -> int
 
 <a id="unreal.GameViewportWidgetSlot.z_order"></a>
 
-#### z_order
+#### z\_order
 
 ```python
 @z_order.setter
@@ -114,7 +114,7 @@ def z_order(value: int) -> None
 
 <a id="unreal.GameViewportWidgetSlot.auto_remove_on_world_removed"></a>
 
-#### auto_remove_on_world_removed
+#### auto\_remove\_on\_world\_removed
 
 ```python
 @property
@@ -126,7 +126,7 @@ note: The Widget is added to the GameViewportClient of the Widget's World. The G
 
 <a id="unreal.GameViewportWidgetSlot.auto_remove_on_world_removed"></a>
 
-#### auto_remove_on_world_removed
+#### auto\_remove\_on\_world\_removed
 
 ```python
 @auto_remove_on_world_removed.setter

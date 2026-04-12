@@ -19,7 +19,7 @@ An existing FStateTreeEditorColor instance can be found via UStateTreeEditorData
 
 <a id="unreal.StateTreeEditorColorRef.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

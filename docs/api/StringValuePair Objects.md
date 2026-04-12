@@ -18,7 +18,7 @@ String Value Pair
 
 <a id="unreal.StringValuePair.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: str = "", value: str = "") -> None

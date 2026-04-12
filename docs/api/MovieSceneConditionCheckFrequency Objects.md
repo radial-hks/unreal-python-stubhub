@@ -20,7 +20,7 @@ Defines how often a condition needs to be checked.
 
 <a id="unreal.MovieSceneConditionCheckFrequency.ON_TICK"></a>
 
-#### ON_TICK
+#### ON\_TICK
 
 1: Condition result may change during sequence playback and should be checked per tick.
 

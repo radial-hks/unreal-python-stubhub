@@ -13,43 +13,43 @@ ESpeed Tree Wind Type
 
 <a id="unreal.SpeedTreeWindType.STW_NONE"></a>
 
-#### STW_NONE
+#### STW\_NONE
 
 0
 
 <a id="unreal.SpeedTreeWindType.STW_FASTEST"></a>
 
-#### STW_FASTEST
+#### STW\_FASTEST
 
 1
 
 <a id="unreal.SpeedTreeWindType.STW_FAST"></a>
 
-#### STW_FAST
+#### STW\_FAST
 
 2
 
 <a id="unreal.SpeedTreeWindType.STW_BETTER"></a>
 
-#### STW_BETTER
+#### STW\_BETTER
 
 3
 
 <a id="unreal.SpeedTreeWindType.STW_BEST"></a>
 
-#### STW_BEST
+#### STW\_BEST
 
 4
 
 <a id="unreal.SpeedTreeWindType.STW_PALM"></a>
 
-#### STW_PALM
+#### STW\_PALM
 
 5
 
 <a id="unreal.SpeedTreeWindType.STW_BEST_PLUS"></a>
 
-#### STW_BEST_PLUS
+#### STW\_BEST\_PLUS
 
 6
 

@@ -31,7 +31,7 @@ Enumerates supported font rasterization modes.
 
 <a id="unreal.FontRasterizationMode.SDF_APPROXIMATION"></a>
 
-#### SDF_APPROXIMATION
+#### SDF\_APPROXIMATION
 
 3: Glyphs are rasterized into approximate distance fields, which are size and skew agnostic. More memory and computationally efficient but lower quality.
 

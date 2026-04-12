@@ -62,7 +62,7 @@ and should be summoned from.
 
 <a id="unreal.MenuAnchor.menu_class"></a>
 
-#### menu_class
+#### menu\_class
 
 ```python
 @property
@@ -95,7 +95,7 @@ def placement(value: MenuPlacement) -> None
 
 <a id="unreal.MenuAnchor.should_fit_in_window"></a>
 
-#### should_fit_in_window
+#### should\_fit\_in\_window
 
 ```python
 @property
@@ -106,7 +106,7 @@ def should_fit_in_window() -> bool
 
 <a id="unreal.MenuAnchor.should_fit_in_window"></a>
 
-#### should_fit_in_window
+#### should\_fit\_in\_window
 
 ```python
 @should_fit_in_window.setter
@@ -115,7 +115,7 @@ def should_fit_in_window(value: bool) -> None
 
 <a id="unreal.MenuAnchor.should_defer_painting_after_window_content"></a>
 
-#### should_defer_painting_after_window_content
+#### should\_defer\_painting\_after\_window\_content
 
 ```python
 @property
@@ -126,7 +126,7 @@ def should_defer_painting_after_window_content() -> bool
 
 <a id="unreal.MenuAnchor.use_application_menu_stack"></a>
 
-#### use_application_menu_stack
+#### use\_application\_menu\_stack
 
 ```python
 @property
@@ -137,7 +137,7 @@ def use_application_menu_stack() -> bool
 
 <a id="unreal.MenuAnchor.on_menu_open_changed"></a>
 
-#### on_menu_open_changed
+#### on\_menu\_open\_changed
 
 ```python
 @property
@@ -148,7 +148,7 @@ def on_menu_open_changed() -> OnMenuOpenChangedEvent
 
 <a id="unreal.MenuAnchor.on_menu_open_changed"></a>
 
-#### on_menu_open_changed
+#### on\_menu\_open\_changed
 
 ```python
 @on_menu_open_changed.setter
@@ -157,7 +157,7 @@ def on_menu_open_changed(value: OnMenuOpenChangedEvent) -> None
 
 <a id="unreal.MenuAnchor.toggle_open"></a>
 
-#### toggle_open
+#### toggle\_open
 
 ```python
 def toggle_open(focus_on_open: bool) -> None
@@ -171,7 +171,7 @@ Args:
 
 <a id="unreal.MenuAnchor.should_open_due_to_click"></a>
 
-#### should_open_due_to_click
+#### should\_open\_due\_to\_click
 
 ```python
 def should_open_due_to_click() -> bool
@@ -187,7 +187,7 @@ Returns:
 
 <a id="unreal.MenuAnchor.set_placement"></a>
 
-#### set_placement
+#### set\_placement
 
 ```python
 def set_placement(placement: MenuPlacement) -> None
@@ -215,7 +215,7 @@ Args:
 
 <a id="unreal.MenuAnchor.is_open"></a>
 
-#### is_open
+#### is\_open
 
 ```python
 def is_open() -> bool
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.MenuAnchor.has_open_sub_menus"></a>
 
-#### has_open_sub_menus
+#### has\_open\_sub\_menus
 
 ```python
 def has_open_sub_menus() -> bool
@@ -243,7 +243,7 @@ Returns:
 
 <a id="unreal.MenuAnchor.get_menu_position"></a>
 
-#### get_menu_position
+#### get\_menu\_position
 
 ```python
 def get_menu_position() -> Vector2D
@@ -257,7 +257,7 @@ Returns:
 
 <a id="unreal.MenuAnchor.fit_in_window"></a>
 
-#### fit_in_window
+#### fit\_in\_window
 
 ```python
 def fit_in_window(fit: bool) -> None

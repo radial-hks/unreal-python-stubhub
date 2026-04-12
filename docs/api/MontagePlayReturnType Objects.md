@@ -13,7 +13,7 @@ EMontage Play Return Type
 
 <a id="unreal.MontagePlayReturnType.MONTAGE_LENGTH"></a>
 
-#### MONTAGE_LENGTH
+#### MONTAGE\_LENGTH
 
 0: Return value is the length of the montage (in seconds)
 

@@ -51,7 +51,7 @@ Base of property view allows you to display the value of an object properties.
 
 <a id="unreal.PropertyViewBase.on_property_changed"></a>
 
-#### on_property_changed
+#### on\_property\_changed
 
 ```python
 @property
@@ -62,7 +62,7 @@ def on_property_changed() -> OnPropertyValueChanged
 
 <a id="unreal.PropertyViewBase.on_property_changed"></a>
 
-#### on_property_changed
+#### on\_property\_changed
 
 ```python
 @on_property_changed.setter
@@ -71,7 +71,7 @@ def on_property_changed(value: OnPropertyValueChanged) -> None
 
 <a id="unreal.PropertyViewBase.set_object"></a>
 
-#### set_object
+#### set\_object
 
 ```python
 def set_object(new_object: Object) -> None
@@ -85,7 +85,7 @@ Args:
 
 <a id="unreal.PropertyViewBase.get_object"></a>
 
-#### get_object
+#### get\_object
 
 ```python
 def get_object() -> Object

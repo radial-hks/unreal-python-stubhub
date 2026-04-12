@@ -18,7 +18,7 @@ Simple struct for a table row in the gameplay tag table and element in the ini l
 
 <a id="unreal.GameplayTagTableRow.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tag: Name = "None", dev_comment: str = "") -> None
@@ -37,7 +37,7 @@ def tag() -> Name
 
 <a id="unreal.GameplayTagTableRow.dev_comment"></a>
 
-#### dev_comment
+#### dev\_comment
 
 ```python
 @property

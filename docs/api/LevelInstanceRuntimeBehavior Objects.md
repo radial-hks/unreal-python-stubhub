@@ -19,7 +19,7 @@ ELevel Instance Runtime Behavior
 
 <a id="unreal.LevelInstanceRuntimeBehavior.LEVEL_STREAMING"></a>
 
-#### LEVEL_STREAMING
+#### LEVEL\_STREAMING
 
 3: Use level streaming to load level instance actors
 

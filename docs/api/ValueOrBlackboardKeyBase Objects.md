@@ -17,7 +17,7 @@ Base struct to simplify edition in the editor, shouldn't be used elsewhere
 
 <a id="unreal.ValueOrBlackboardKeyBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -23,7 +23,7 @@ Rig Module Settings
 
 <a id="unreal.RigModuleSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(identifier: RigModuleIdentifier = ["", "Module"],
@@ -136,7 +136,7 @@ def description(value: str) -> None
 
 <a id="unreal.RigModuleSettings.exposed_connectors"></a>
 
-#### exposed_connectors
+#### exposed\_connectors
 
 ```python
 @property

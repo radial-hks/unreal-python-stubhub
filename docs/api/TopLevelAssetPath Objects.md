@@ -19,7 +19,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\CoreUObject\Publ
 
 <a id="unreal.TopLevelAssetPath.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(package_name: str = "", asset_name: str = "") -> None
@@ -27,7 +27,7 @@ def __init__(package_name: str = "", asset_name: str = "") -> None
 
 <a id="unreal.TopLevelAssetPath.package_name"></a>
 
-#### package_name
+#### package\_name
 
 ```python
 @property
@@ -38,7 +38,7 @@ def package_name() -> Name
 
 <a id="unreal.TopLevelAssetPath.package_name"></a>
 
-#### package_name
+#### package\_name
 
 ```python
 @package_name.setter
@@ -47,7 +47,7 @@ def package_name(value: Name) -> None
 
 <a id="unreal.TopLevelAssetPath.asset_name"></a>
 
-#### asset_name
+#### asset\_name
 
 ```python
 @property
@@ -58,7 +58,7 @@ def asset_name() -> Name
 
 <a id="unreal.TopLevelAssetPath.asset_name"></a>
 
-#### asset_name
+#### asset\_name
 
 ```python
 @asset_name.setter

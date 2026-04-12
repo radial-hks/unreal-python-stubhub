@@ -20,7 +20,7 @@ Trajectory Sample
 
 <a id="unreal.TrajectorySample.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(accumulated_seconds: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(accumulated_seconds: float = 0.000000,
 
 <a id="unreal.TrajectorySample.accumulated_seconds"></a>
 
-#### accumulated_seconds
+#### accumulated\_seconds
 
 ```python
 @property
@@ -44,7 +44,7 @@ Zero value for instantaneous, negative values for the past, and positive values 
 
 <a id="unreal.TrajectorySample.accumulated_seconds"></a>
 
-#### accumulated_seconds
+#### accumulated\_seconds
 
 ```python
 @accumulated_seconds.setter
@@ -73,7 +73,7 @@ def transform(value: Transform) -> None
 
 <a id="unreal.TrajectorySample.linear_velocity"></a>
 
-#### linear_velocity
+#### linear\_velocity
 
 ```python
 @property
@@ -84,7 +84,7 @@ def linear_velocity() -> Vector
 
 <a id="unreal.TrajectorySample.linear_velocity"></a>
 
-#### linear_velocity
+#### linear\_velocity
 
 ```python
 @linear_velocity.setter

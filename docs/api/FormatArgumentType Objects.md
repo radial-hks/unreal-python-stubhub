@@ -19,7 +19,7 @@ EFormat Argument Type
 
 <a id="unreal.FormatArgumentType.U_INT"></a>
 
-#### U_INT
+#### U\_INT
 
 1
 

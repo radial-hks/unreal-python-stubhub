@@ -64,7 +64,7 @@ Base class for level sequence burn ins
 
 <a id="unreal.LevelSequenceBurnIn.frame_information"></a>
 
-#### frame_information
+#### frame\_information
 
 ```python
 @property
@@ -75,7 +75,7 @@ def frame_information() -> LevelSequencePlayerSnapshot
 
 <a id="unreal.LevelSequenceBurnIn.level_sequence_actor"></a>
 
-#### level_sequence_actor
+#### level\_sequence\_actor
 
 ```python
 @property
@@ -86,7 +86,7 @@ def level_sequence_actor() -> LevelSequenceActor
 
 <a id="unreal.LevelSequenceBurnIn.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: Object) -> None
@@ -100,7 +100,7 @@ Args:
 
 <a id="unreal.LevelSequenceBurnIn.get_settings_class"></a>
 
-#### get_settings_class
+#### get\_settings\_class
 
 ```python
 def get_settings_class() -> Class

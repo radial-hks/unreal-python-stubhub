@@ -33,7 +33,7 @@ This component is intended to exist on either a Pawn or its Controller. It does 
 
 <a id="unreal.PawnNoiseEmitterComponent.noise_lifetime"></a>
 
-#### noise_lifetime
+#### noise\_lifetime
 
 ```python
 @property
@@ -44,7 +44,7 @@ def noise_lifetime() -> float
 
 <a id="unreal.PawnNoiseEmitterComponent.noise_lifetime"></a>
 
-#### noise_lifetime
+#### noise\_lifetime
 
 ```python
 @noise_lifetime.setter
@@ -53,7 +53,7 @@ def noise_lifetime(value: float) -> None
 
 <a id="unreal.PawnNoiseEmitterComponent.make_noise"></a>
 
-#### make_noise
+#### make\_noise
 
 ```python
 def make_noise(noise_maker: Actor, loudness: float,

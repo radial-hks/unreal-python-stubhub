@@ -21,7 +21,7 @@ in the grid.
 
 <a id="unreal.UniformGridSlot.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @property
@@ -32,7 +32,7 @@ def horizontal_alignment() -> HorizontalAlignment
 
 <a id="unreal.UniformGridSlot.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @horizontal_alignment.setter
@@ -41,7 +41,7 @@ def horizontal_alignment(value: HorizontalAlignment) -> None
 
 <a id="unreal.UniformGridSlot.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @property
@@ -52,7 +52,7 @@ def vertical_alignment() -> VerticalAlignment
 
 <a id="unreal.UniformGridSlot.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @vertical_alignment.setter
@@ -101,7 +101,7 @@ def column(value: int) -> None
 
 <a id="unreal.UniformGridSlot.set_vertical_alignment"></a>
 
-#### set_vertical_alignment
+#### set\_vertical\_alignment
 
 ```python
 def set_vertical_alignment(vertical_alignment: VerticalAlignment) -> None
@@ -115,7 +115,7 @@ Args:
 
 <a id="unreal.UniformGridSlot.set_row"></a>
 
-#### set_row
+#### set\_row
 
 ```python
 def set_row(row: int) -> None
@@ -129,7 +129,7 @@ Args:
 
 <a id="unreal.UniformGridSlot.set_horizontal_alignment"></a>
 
-#### set_horizontal_alignment
+#### set\_horizontal\_alignment
 
 ```python
 def set_horizontal_alignment(
@@ -144,7 +144,7 @@ Args:
 
 <a id="unreal.UniformGridSlot.set_column"></a>
 
-#### set_column
+#### set\_column
 
 ```python
 def set_column(column: int) -> None

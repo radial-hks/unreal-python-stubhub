@@ -19,7 +19,7 @@ Paste sections params
 
 <a id="unreal.MovieScenePasteSectionsParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tracks: Array[MovieSceneTrack] = [],
@@ -49,7 +49,7 @@ def tracks(value: Array[MovieSceneTrack]) -> None
 
 <a id="unreal.MovieScenePasteSectionsParams.track_row_indices"></a>
 
-#### track_row_indices
+#### track\_row\_indices
 
 ```python
 @property
@@ -60,7 +60,7 @@ def track_row_indices() -> Array[int]
 
 <a id="unreal.MovieScenePasteSectionsParams.track_row_indices"></a>
 
-#### track_row_indices
+#### track\_row\_indices
 
 ```python
 @track_row_indices.setter

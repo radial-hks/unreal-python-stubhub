@@ -25,7 +25,7 @@ ENavigation Ledge Slope Filter Mode
 
 <a id="unreal.NavigationLedgeSlopeFilterMode.USE_STEP_HEIGHT_FROM_AGENT_MAX_SLOPE"></a>
 
-#### USE_STEP_HEIGHT_FROM_AGENT_MAX_SLOPE
+#### USE\_STEP\_HEIGHT\_FROM\_AGENT\_MAX\_SLOPE
 
 2: Skip slope filtering
 

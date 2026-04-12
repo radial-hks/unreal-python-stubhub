@@ -14,13 +14,13 @@ PCGDistance Shape
 
 <a id="unreal.PCGDistanceShape.SPHERE_BOUNDS"></a>
 
-#### SPHERE_BOUNDS
+#### SPHERE\_BOUNDS
 
 0
 
 <a id="unreal.PCGDistanceShape.BOX_BOUNDS"></a>
 
-#### BOX_BOUNDS
+#### BOX\_BOUNDS
 
 1
 

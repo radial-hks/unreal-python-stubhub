@@ -14,7 +14,7 @@ deprecated: 'SubmixSendMethod' was renamed to 'SendLevelControlMethod'.
 
 <a id="unreal.SubmixSendMethod.CUSTOM_CURVE"></a>
 
-#### CUSTOM_CURVE
+#### CUSTOM\_CURVE
 
 1: A send based on a supplied curve
 

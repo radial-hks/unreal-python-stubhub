@@ -14,7 +14,7 @@ Geographic Coordinates Function Library
 
 <a id="unreal.GeographicCoordinatesFunctionLibrary.to_separate_texts"></a>
 
-#### to_separate_texts
+#### to\_separate\_texts
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.GeographicCoordinatesFunctionLibrary.to_lat_long_alt_vector"></a>
 
-#### to_lat_long_alt_vector
+#### to\_lat\_long\_alt\_vector
 
 ```python
 @classmethod
@@ -74,7 +74,7 @@ Returns:
 
 <a id="unreal.GeographicCoordinatesFunctionLibrary.to_full_text"></a>
 
-#### to_full_text
+#### to\_full\_text
 
 ```python
 @classmethod
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.GeographicCoordinatesFunctionLibrary.to_compact_text"></a>
 
-#### to_compact_text
+#### to\_compact\_text
 
 ```python
 @classmethod
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.GeographicCoordinatesFunctionLibrary.make_geographic_coordinates"></a>
 
-#### make_geographic_coordinates
+#### make\_geographic\_coordinates
 
 ```python
 @classmethod

@@ -18,7 +18,7 @@ Container struct for an array of emitter scalability overrides. Enables details 
 
 <a id="unreal.NiagaraEmitterScalabilityOverrides.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

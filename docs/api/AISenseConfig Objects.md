@@ -19,7 +19,7 @@ AISense Config
 
 <a id="unreal.AISenseConfig.debug_color"></a>
 
-#### debug_color
+#### debug\_color
 
 ```python
 @property
@@ -30,7 +30,7 @@ def debug_color() -> Color
 
 <a id="unreal.AISenseConfig.max_age"></a>
 
-#### max_age
+#### max\_age
 
 ```python
 @property
@@ -41,7 +41,7 @@ def max_age() -> float
 
 <a id="unreal.AISenseConfig.starts_enabled"></a>
 
-#### starts_enabled
+#### starts\_enabled
 
 ```python
 @property

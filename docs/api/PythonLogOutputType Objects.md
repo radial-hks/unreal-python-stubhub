@@ -30,4 +30,4 @@ Types of log output that Python can give.
 
 2: This log was an error.
 
-<a id="unreal.BlendStack_BlendspaceUpdateMode"></a>
+<a id="unreal.GameplayEffectGrantedAbilityRemovePolicy"></a>

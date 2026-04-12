@@ -17,7 +17,7 @@ Stores user settings for a game (for example graphics and sound settings), with 
 
 <a id="unreal.GameUserSettings.on_game_user_settings_ui_needs_update"></a>
 
-#### on_game_user_settings_ui_needs_update
+#### on\_game\_user\_settings\_ui\_needs\_update
 
 ```python
 @property
@@ -28,7 +28,7 @@ def on_game_user_settings_ui_needs_update() -> OnGameUserSettingsUINeedsUpdate
 
 <a id="unreal.GameUserSettings.on_game_user_settings_ui_needs_update"></a>
 
-#### on_game_user_settings_ui_needs_update
+#### on\_game\_user\_settings\_ui\_needs\_update
 
 ```python
 @on_game_user_settings_ui_needs_update.setter
@@ -38,7 +38,7 @@ def on_game_user_settings_ui_needs_update(
 
 <a id="unreal.GameUserSettings.validate_settings"></a>
 
-#### validate_settings
+#### validate\_settings
 
 ```python
 def validate_settings() -> None
@@ -49,7 +49,7 @@ Validates and resets bad user settings to default. Deletes stale user settings f
 
 <a id="unreal.GameUserSettings.supports_hdr_display_output"></a>
 
-#### supports_hdr_display_output
+#### supports\_hdr\_display\_output
 
 ```python
 def supports_hdr_display_output() -> bool
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.set_v_sync_enabled"></a>
 
-#### set_v_sync_enabled
+#### set\_v\_sync\_enabled
 
 ```python
 def set_v_sync_enabled(enable: bool) -> None
@@ -77,7 +77,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_visual_effect_quality"></a>
 
-#### set_visual_effect_quality
+#### set\_visual\_effect\_quality
 
 ```python
 def set_visual_effect_quality(value: int) -> None
@@ -91,7 +91,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_view_distance_quality"></a>
 
-#### set_view_distance_quality
+#### set\_view\_distance\_quality
 
 ```python
 def set_view_distance_quality(value: int) -> None
@@ -105,7 +105,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_to_defaults"></a>
 
-#### set_to_defaults
+#### set\_to\_defaults
 
 ```python
 def set_to_defaults() -> None
@@ -116,7 +116,7 @@ Set to Defaults
 
 <a id="unreal.GameUserSettings.set_texture_quality"></a>
 
-#### set_texture_quality
+#### set\_texture\_quality
 
 ```python
 def set_texture_quality(value: int) -> None
@@ -130,7 +130,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_shadow_quality"></a>
 
-#### set_shadow_quality
+#### set\_shadow\_quality
 
 ```python
 def set_shadow_quality(value: int) -> None
@@ -144,7 +144,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_shading_quality"></a>
 
-#### set_shading_quality
+#### set\_shading\_quality
 
 ```python
 def set_shading_quality(value: int) -> None
@@ -158,7 +158,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_screen_resolution"></a>
 
-#### set_screen_resolution
+#### set\_screen\_resolution
 
 ```python
 def set_screen_resolution(resolution: IntPoint) -> None
@@ -172,7 +172,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_resolution_scale_value_ex"></a>
 
-#### set_resolution_scale_value_ex
+#### set\_resolution\_scale\_value\_ex
 
 ```python
 def set_resolution_scale_value_ex(new_scale_value: float) -> None
@@ -186,7 +186,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_resolution_scale_normalized"></a>
 
-#### set_resolution_scale_normalized
+#### set\_resolution\_scale\_normalized
 
 ```python
 def set_resolution_scale_normalized(new_scale_normalized: float) -> None
@@ -200,7 +200,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_reflection_quality"></a>
 
-#### set_reflection_quality
+#### set\_reflection\_quality
 
 ```python
 def set_reflection_quality(value: int) -> None
@@ -214,7 +214,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_post_processing_quality"></a>
 
-#### set_post_processing_quality
+#### set\_post\_processing\_quality
 
 ```python
 def set_post_processing_quality(value: int) -> None
@@ -228,7 +228,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_overall_scalability_level"></a>
 
-#### set_overall_scalability_level
+#### set\_overall\_scalability\_level
 
 ```python
 def set_overall_scalability_level(value: int) -> None
@@ -242,7 +242,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_global_illumination_quality"></a>
 
-#### set_global_illumination_quality
+#### set\_global\_illumination\_quality
 
 ```python
 def set_global_illumination_quality(value: int) -> None
@@ -256,7 +256,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_fullscreen_mode"></a>
 
-#### set_fullscreen_mode
+#### set\_fullscreen\_mode
 
 ```python
 def set_fullscreen_mode(fullscreen_mode: WindowMode) -> None
@@ -270,7 +270,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_frame_rate_limit"></a>
 
-#### set_frame_rate_limit
+#### set\_frame\_rate\_limit
 
 ```python
 def set_frame_rate_limit(new_limit: float) -> None
@@ -284,7 +284,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_foliage_quality"></a>
 
-#### set_foliage_quality
+#### set\_foliage\_quality
 
 ```python
 def set_foliage_quality(value: int) -> None
@@ -298,7 +298,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_dynamic_resolution_enabled"></a>
 
-#### set_dynamic_resolution_enabled
+#### set\_dynamic\_resolution\_enabled
 
 ```python
 def set_dynamic_resolution_enabled(enable: bool) -> None
@@ -312,7 +312,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_benchmark_fallback_values"></a>
 
-#### set_benchmark_fallback_values
+#### set\_benchmark\_fallback\_values
 
 ```python
 def set_benchmark_fallback_values() -> None
@@ -323,7 +323,7 @@ Set scalability settings to sensible fallback values, for use when the benchmark
 
 <a id="unreal.GameUserSettings.set_audio_quality_level"></a>
 
-#### set_audio_quality_level
+#### set\_audio\_quality\_level
 
 ```python
 def set_audio_quality_level(quality_level: int) -> None
@@ -337,7 +337,7 @@ Args:
 
 <a id="unreal.GameUserSettings.set_anti_aliasing_quality"></a>
 
-#### set_anti_aliasing_quality
+#### set\_anti\_aliasing\_quality
 
 ```python
 def set_anti_aliasing_quality(value: int) -> None
@@ -351,7 +351,7 @@ Args:
 
 <a id="unreal.GameUserSettings.save_settings"></a>
 
-#### save_settings
+#### save\_settings
 
 ```python
 def save_settings() -> None
@@ -362,7 +362,7 @@ Save the user settings to persistent storage (automatically happens as part of A
 
 <a id="unreal.GameUserSettings.run_hardware_benchmark"></a>
 
-#### run_hardware_benchmark
+#### run\_hardware\_benchmark
 
 ```python
 def run_hardware_benchmark(work_scale: int = 10,
@@ -380,7 +380,7 @@ Args:
 
 <a id="unreal.GameUserSettings.revert_video_mode"></a>
 
-#### revert_video_mode
+#### revert\_video\_mode
 
 ```python
 def revert_video_mode() -> None
@@ -391,7 +391,7 @@ Revert video mode (fullscreenmode/resolution) back to the last user confirmed va
 
 <a id="unreal.GameUserSettings.reset_to_current_settings"></a>
 
-#### reset_to_current_settings
+#### reset\_to\_current\_settings
 
 ```python
 def reset_to_current_settings() -> None
@@ -402,7 +402,7 @@ This function resets all settings to the current system settings
 
 <a id="unreal.GameUserSettings.load_settings"></a>
 
-#### load_settings
+#### load\_settings
 
 ```python
 def load_settings(force_reload: bool = False) -> None
@@ -416,7 +416,7 @@ Args:
 
 <a id="unreal.GameUserSettings.is_v_sync_enabled"></a>
 
-#### is_v_sync_enabled
+#### is\_v\_sync\_enabled
 
 ```python
 def is_v_sync_enabled() -> bool
@@ -430,7 +430,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.is_v_sync_dirty"></a>
 
-#### is_v_sync_dirty
+#### is\_v\_sync\_dirty
 
 ```python
 def is_v_sync_dirty() -> bool
@@ -444,7 +444,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.is_screen_resolution_dirty"></a>
 
-#### is_screen_resolution_dirty
+#### is\_screen\_resolution\_dirty
 
 ```python
 def is_screen_resolution_dirty() -> bool
@@ -458,7 +458,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.is_hdr_enabled"></a>
 
-#### is_hdr_enabled
+#### is\_hdr\_enabled
 
 ```python
 def is_hdr_enabled() -> bool
@@ -472,7 +472,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.is_fullscreen_mode_dirty"></a>
 
-#### is_fullscreen_mode_dirty
+#### is\_fullscreen\_mode\_dirty
 
 ```python
 def is_fullscreen_mode_dirty() -> bool
@@ -486,7 +486,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.is_dynamic_resolution_enabled"></a>
 
-#### is_dynamic_resolution_enabled
+#### is\_dynamic\_resolution\_enabled
 
 ```python
 def is_dynamic_resolution_enabled() -> bool
@@ -500,7 +500,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.is_dynamic_resolution_dirty"></a>
 
-#### is_dynamic_resolution_dirty
+#### is\_dynamic\_resolution\_dirty
 
 ```python
 def is_dynamic_resolution_dirty() -> bool
@@ -514,7 +514,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.is_dirty"></a>
 
-#### is_dirty
+#### is\_dirty
 
 ```python
 def is_dirty() -> bool
@@ -528,7 +528,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_visual_effect_quality"></a>
 
-#### get_visual_effect_quality
+#### get\_visual\_effect\_quality
 
 ```python
 def get_visual_effect_quality() -> int
@@ -542,7 +542,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_view_distance_quality"></a>
 
-#### get_view_distance_quality
+#### get\_view\_distance\_quality
 
 ```python
 def get_view_distance_quality() -> int
@@ -556,7 +556,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_texture_quality"></a>
 
-#### get_texture_quality
+#### get\_texture\_quality
 
 ```python
 def get_texture_quality() -> int
@@ -570,7 +570,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_sync_interval"></a>
 
-#### get_sync_interval
+#### get\_sync\_interval
 
 ```python
 @classmethod
@@ -585,7 +585,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_shadow_quality"></a>
 
-#### get_shadow_quality
+#### get\_shadow\_quality
 
 ```python
 def get_shadow_quality() -> int
@@ -599,7 +599,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_shading_quality"></a>
 
-#### get_shading_quality
+#### get\_shading\_quality
 
 ```python
 def get_shading_quality() -> int
@@ -613,7 +613,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_screen_resolution"></a>
 
-#### get_screen_resolution
+#### get\_screen\_resolution
 
 ```python
 def get_screen_resolution() -> IntPoint
@@ -627,7 +627,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_resolution_scale_normalized"></a>
 
-#### get_resolution_scale_normalized
+#### get\_resolution\_scale\_normalized
 
 ```python
 def get_resolution_scale_normalized() -> float
@@ -641,7 +641,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_resolution_scale_information_ex"></a>
 
-#### get_resolution_scale_information_ex
+#### get\_resolution\_scale\_information\_ex
 
 ```python
 def get_resolution_scale_information_ex() -> Tuple[float, float, float, float]
@@ -663,7 +663,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_reflection_quality"></a>
 
-#### get_reflection_quality
+#### get\_reflection\_quality
 
 ```python
 def get_reflection_quality() -> int
@@ -677,7 +677,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_recommended_resolution_scale"></a>
 
-#### get_recommended_resolution_scale
+#### get\_recommended\_resolution\_scale
 
 ```python
 def get_recommended_resolution_scale() -> float
@@ -691,7 +691,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_preferred_fullscreen_mode"></a>
 
-#### get_preferred_fullscreen_mode
+#### get\_preferred\_fullscreen\_mode
 
 ```python
 def get_preferred_fullscreen_mode() -> WindowMode
@@ -705,7 +705,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_post_processing_quality"></a>
 
-#### get_post_processing_quality
+#### get\_post\_processing\_quality
 
 ```python
 def get_post_processing_quality() -> int
@@ -719,7 +719,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_overall_scalability_level"></a>
 
-#### get_overall_scalability_level
+#### get\_overall\_scalability\_level
 
 ```python
 def get_overall_scalability_level() -> int
@@ -733,7 +733,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_last_confirmed_screen_resolution"></a>
 
-#### get_last_confirmed_screen_resolution
+#### get\_last\_confirmed\_screen\_resolution
 
 ```python
 def get_last_confirmed_screen_resolution() -> IntPoint
@@ -747,7 +747,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_last_confirmed_fullscreen_mode"></a>
 
-#### get_last_confirmed_fullscreen_mode
+#### get\_last\_confirmed\_fullscreen\_mode
 
 ```python
 def get_last_confirmed_fullscreen_mode() -> WindowMode
@@ -761,7 +761,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_global_illumination_quality"></a>
 
-#### get_global_illumination_quality
+#### get\_global\_illumination\_quality
 
 ```python
 def get_global_illumination_quality() -> int
@@ -775,7 +775,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_game_user_settings"></a>
 
-#### get_game_user_settings
+#### get\_game\_user\_settings
 
 ```python
 @classmethod
@@ -790,7 +790,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_fullscreen_mode"></a>
 
-#### get_fullscreen_mode
+#### get\_fullscreen\_mode
 
 ```python
 def get_fullscreen_mode() -> WindowMode
@@ -804,7 +804,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_frame_rate_limit"></a>
 
-#### get_frame_rate_limit
+#### get\_frame\_rate\_limit
 
 ```python
 def get_frame_rate_limit() -> float
@@ -818,7 +818,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_frame_pace"></a>
 
-#### get_frame_pace
+#### get\_frame\_pace
 
 ```python
 @classmethod
@@ -833,7 +833,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_foliage_quality"></a>
 
-#### get_foliage_quality
+#### get\_foliage\_quality
 
 ```python
 def get_foliage_quality() -> int
@@ -847,7 +847,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_desktop_resolution"></a>
 
-#### get_desktop_resolution
+#### get\_desktop\_resolution
 
 ```python
 def get_desktop_resolution() -> IntPoint
@@ -861,7 +861,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_default_window_position"></a>
 
-#### get_default_window_position
+#### get\_default\_window\_position
 
 ```python
 @classmethod
@@ -876,7 +876,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_default_window_mode"></a>
 
-#### get_default_window_mode
+#### get\_default\_window\_mode
 
 ```python
 @classmethod
@@ -891,7 +891,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_default_resolution_scale"></a>
 
-#### get_default_resolution_scale
+#### get\_default\_resolution\_scale
 
 ```python
 def get_default_resolution_scale() -> float
@@ -905,7 +905,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_default_resolution"></a>
 
-#### get_default_resolution
+#### get\_default\_resolution
 
 ```python
 @classmethod
@@ -920,7 +920,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_current_hdr_display_nits"></a>
 
-#### get_current_hdr_display_nits
+#### get\_current\_hdr\_display\_nits
 
 ```python
 def get_current_hdr_display_nits() -> int
@@ -934,7 +934,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_audio_quality_level"></a>
 
-#### get_audio_quality_level
+#### get\_audio\_quality\_level
 
 ```python
 def get_audio_quality_level() -> int
@@ -948,7 +948,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.get_anti_aliasing_quality"></a>
 
-#### get_anti_aliasing_quality
+#### get\_anti\_aliasing\_quality
 
 ```python
 def get_anti_aliasing_quality() -> int
@@ -962,7 +962,7 @@ Returns:
 
 <a id="unreal.GameUserSettings.enable_hdr_display_output"></a>
 
-#### enable_hdr_display_output
+#### enable\_hdr\_display\_output
 
 ```python
 def enable_hdr_display_output(enable: bool, display_nits: int = 1000) -> None
@@ -977,7 +977,7 @@ Args:
 
 <a id="unreal.GameUserSettings.confirm_video_mode"></a>
 
-#### confirm_video_mode
+#### confirm\_video\_mode
 
 ```python
 def confirm_video_mode() -> None
@@ -988,7 +988,7 @@ Mark current video mode settings (fullscreenmode/resolution) as being confirmed 
 
 <a id="unreal.GameUserSettings.apply_settings"></a>
 
-#### apply_settings
+#### apply\_settings
 
 ```python
 def apply_settings(check_for_command_line_overrides: bool = True) -> None
@@ -1002,7 +1002,7 @@ Args:
 
 <a id="unreal.GameUserSettings.apply_resolution_settings"></a>
 
-#### apply_resolution_settings
+#### apply\_resolution\_settings
 
 ```python
 def apply_resolution_settings(check_for_command_line_overrides: bool) -> None
@@ -1016,7 +1016,7 @@ Args:
 
 <a id="unreal.GameUserSettings.apply_non_resolution_settings"></a>
 
-#### apply_non_resolution_settings
+#### apply\_non\_resolution\_settings
 
 ```python
 def apply_non_resolution_settings() -> None
@@ -1027,7 +1027,7 @@ Apply Non Resolution Settings
 
 <a id="unreal.GameUserSettings.apply_hardware_benchmark_results"></a>
 
-#### apply_hardware_benchmark_results
+#### apply\_hardware\_benchmark\_results
 
 ```python
 def apply_hardware_benchmark_results() -> None

@@ -36,7 +36,7 @@ Settings used to reduce a mesh.
 
 <a id="unreal.MeshReductionSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -66,7 +66,7 @@ def __init__(
 
 <a id="unreal.MeshReductionSettings.percent_triangles"></a>
 
-#### percent_triangles
+#### percent\_triangles
 
 ```python
 @property
@@ -77,7 +77,7 @@ def percent_triangles() -> float
 
 <a id="unreal.MeshReductionSettings.percent_triangles"></a>
 
-#### percent_triangles
+#### percent\_triangles
 
 ```python
 @percent_triangles.setter
@@ -86,7 +86,7 @@ def percent_triangles(value: float) -> None
 
 <a id="unreal.MeshReductionSettings.percent_vertices"></a>
 
-#### percent_vertices
+#### percent\_vertices
 
 ```python
 @property
@@ -97,7 +97,7 @@ def percent_vertices() -> float
 
 <a id="unreal.MeshReductionSettings.percent_vertices"></a>
 
-#### percent_vertices
+#### percent\_vertices
 
 ```python
 @percent_vertices.setter
@@ -106,7 +106,7 @@ def percent_vertices(value: float) -> None
 
 <a id="unreal.MeshReductionSettings.max_deviation"></a>
 
-#### max_deviation
+#### max\_deviation
 
 ```python
 @property
@@ -117,7 +117,7 @@ def max_deviation() -> float
 
 <a id="unreal.MeshReductionSettings.max_deviation"></a>
 
-#### max_deviation
+#### max\_deviation
 
 ```python
 @max_deviation.setter
@@ -126,7 +126,7 @@ def max_deviation(value: float) -> None
 
 <a id="unreal.MeshReductionSettings.pixel_error"></a>
 
-#### pixel_error
+#### pixel\_error
 
 ```python
 @property
@@ -137,7 +137,7 @@ def pixel_error() -> float
 
 <a id="unreal.MeshReductionSettings.pixel_error"></a>
 
-#### pixel_error
+#### pixel\_error
 
 ```python
 @pixel_error.setter
@@ -146,7 +146,7 @@ def pixel_error(value: float) -> None
 
 <a id="unreal.MeshReductionSettings.welding_threshold"></a>
 
-#### welding_threshold
+#### welding\_threshold
 
 ```python
 @property
@@ -157,7 +157,7 @@ def welding_threshold() -> float
 
 <a id="unreal.MeshReductionSettings.welding_threshold"></a>
 
-#### welding_threshold
+#### welding\_threshold
 
 ```python
 @welding_threshold.setter
@@ -166,7 +166,7 @@ def welding_threshold(value: float) -> None
 
 <a id="unreal.MeshReductionSettings.hard_angle_threshold"></a>
 
-#### hard_angle_threshold
+#### hard\_angle\_threshold
 
 ```python
 @property
@@ -177,7 +177,7 @@ def hard_angle_threshold() -> float
 
 <a id="unreal.MeshReductionSettings.hard_angle_threshold"></a>
 
-#### hard_angle_threshold
+#### hard\_angle\_threshold
 
 ```python
 @hard_angle_threshold.setter
@@ -186,7 +186,7 @@ def hard_angle_threshold(value: float) -> None
 
 <a id="unreal.MeshReductionSettings.base_lod_model"></a>
 
-#### base_lod_model
+#### base\_lod\_model
 
 ```python
 @property
@@ -197,7 +197,7 @@ def base_lod_model() -> int
 
 <a id="unreal.MeshReductionSettings.base_lod_model"></a>
 
-#### base_lod_model
+#### base\_lod\_model
 
 ```python
 @base_lod_model.setter
@@ -206,7 +206,7 @@ def base_lod_model(value: int) -> None
 
 <a id="unreal.MeshReductionSettings.silhouette_importance"></a>
 
-#### silhouette_importance
+#### silhouette\_importance
 
 ```python
 @property
@@ -217,7 +217,7 @@ def silhouette_importance() -> MeshFeatureImportance
 
 <a id="unreal.MeshReductionSettings.silhouette_importance"></a>
 
-#### silhouette_importance
+#### silhouette\_importance
 
 ```python
 @silhouette_importance.setter
@@ -226,7 +226,7 @@ def silhouette_importance(value: MeshFeatureImportance) -> None
 
 <a id="unreal.MeshReductionSettings.texture_importance"></a>
 
-#### texture_importance
+#### texture\_importance
 
 ```python
 @property
@@ -237,7 +237,7 @@ def texture_importance() -> MeshFeatureImportance
 
 <a id="unreal.MeshReductionSettings.texture_importance"></a>
 
-#### texture_importance
+#### texture\_importance
 
 ```python
 @texture_importance.setter
@@ -246,7 +246,7 @@ def texture_importance(value: MeshFeatureImportance) -> None
 
 <a id="unreal.MeshReductionSettings.shading_importance"></a>
 
-#### shading_importance
+#### shading\_importance
 
 ```python
 @property
@@ -257,7 +257,7 @@ def shading_importance() -> MeshFeatureImportance
 
 <a id="unreal.MeshReductionSettings.shading_importance"></a>
 
-#### shading_importance
+#### shading\_importance
 
 ```python
 @shading_importance.setter
@@ -266,7 +266,7 @@ def shading_importance(value: MeshFeatureImportance) -> None
 
 <a id="unreal.MeshReductionSettings.recalculate_normals"></a>
 
-#### recalculate_normals
+#### recalculate\_normals
 
 ```python
 @property
@@ -277,7 +277,7 @@ def recalculate_normals() -> bool
 
 <a id="unreal.MeshReductionSettings.recalculate_normals"></a>
 
-#### recalculate_normals
+#### recalculate\_normals
 
 ```python
 @recalculate_normals.setter
@@ -286,7 +286,7 @@ def recalculate_normals(value: bool) -> None
 
 <a id="unreal.MeshReductionSettings.generate_unique_lightmap_u_vs"></a>
 
-#### generate_unique_lightmap_u_vs
+#### generate\_unique\_lightmap\_u\_vs
 
 ```python
 @property
@@ -297,7 +297,7 @@ def generate_unique_lightmap_u_vs() -> bool
 
 <a id="unreal.MeshReductionSettings.generate_unique_lightmap_u_vs"></a>
 
-#### generate_unique_lightmap_u_vs
+#### generate\_unique\_lightmap\_u\_vs
 
 ```python
 @generate_unique_lightmap_u_vs.setter
@@ -306,7 +306,7 @@ def generate_unique_lightmap_u_vs(value: bool) -> None
 
 <a id="unreal.MeshReductionSettings.keep_symmetry"></a>
 
-#### keep_symmetry
+#### keep\_symmetry
 
 ```python
 @property
@@ -317,7 +317,7 @@ def keep_symmetry() -> bool
 
 <a id="unreal.MeshReductionSettings.keep_symmetry"></a>
 
-#### keep_symmetry
+#### keep\_symmetry
 
 ```python
 @keep_symmetry.setter
@@ -326,7 +326,7 @@ def keep_symmetry(value: bool) -> None
 
 <a id="unreal.MeshReductionSettings.visibility_aided"></a>
 
-#### visibility_aided
+#### visibility\_aided
 
 ```python
 @property
@@ -337,7 +337,7 @@ def visibility_aided() -> bool
 
 <a id="unreal.MeshReductionSettings.visibility_aided"></a>
 
-#### visibility_aided
+#### visibility\_aided
 
 ```python
 @visibility_aided.setter
@@ -346,7 +346,7 @@ def visibility_aided(value: bool) -> None
 
 <a id="unreal.MeshReductionSettings.cull_occluded"></a>
 
-#### cull_occluded
+#### cull\_occluded
 
 ```python
 @property
@@ -357,7 +357,7 @@ def cull_occluded() -> bool
 
 <a id="unreal.MeshReductionSettings.cull_occluded"></a>
 
-#### cull_occluded
+#### cull\_occluded
 
 ```python
 @cull_occluded.setter
@@ -366,7 +366,7 @@ def cull_occluded(value: bool) -> None
 
 <a id="unreal.MeshReductionSettings.termination_criterion"></a>
 
-#### termination_criterion
+#### termination\_criterion
 
 ```python
 @property
@@ -377,7 +377,7 @@ def termination_criterion() -> StaticMeshReductionTerimationCriterion
 
 <a id="unreal.MeshReductionSettings.termination_criterion"></a>
 
-#### termination_criterion
+#### termination\_criterion
 
 ```python
 @termination_criterion.setter
@@ -387,7 +387,7 @@ def termination_criterion(
 
 <a id="unreal.MeshReductionSettings.visibility_aggressiveness"></a>
 
-#### visibility_aggressiveness
+#### visibility\_aggressiveness
 
 ```python
 @property
@@ -398,7 +398,7 @@ def visibility_aggressiveness() -> MeshFeatureImportance
 
 <a id="unreal.MeshReductionSettings.visibility_aggressiveness"></a>
 
-#### visibility_aggressiveness
+#### visibility\_aggressiveness
 
 ```python
 @visibility_aggressiveness.setter
@@ -407,7 +407,7 @@ def visibility_aggressiveness(value: MeshFeatureImportance) -> None
 
 <a id="unreal.MeshReductionSettings.vertex_color_importance"></a>
 
-#### vertex_color_importance
+#### vertex\_color\_importance
 
 ```python
 @property
@@ -418,7 +418,7 @@ def vertex_color_importance() -> MeshFeatureImportance
 
 <a id="unreal.MeshReductionSettings.vertex_color_importance"></a>
 
-#### vertex_color_importance
+#### vertex\_color\_importance
 
 ```python
 @vertex_color_importance.setter

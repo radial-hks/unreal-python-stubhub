@@ -13,7 +13,7 @@ UMGSequence Player
 
 <a id="unreal.UMGSequencePlayer.set_user_tag"></a>
 
-#### set_user_tag
+#### set\_user\_tag
 
 ```python
 def set_user_tag(user_tag: Name) -> None
@@ -27,7 +27,7 @@ Args:
 
 <a id="unreal.UMGSequencePlayer.get_user_tag"></a>
 
-#### get_user_tag
+#### get\_user\_tag
 
 ```python
 def get_user_tag() -> Name

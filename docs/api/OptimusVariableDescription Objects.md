@@ -24,7 +24,7 @@ Optimus Variable Description
 
 <a id="unreal.OptimusVariableDescription.value_data"></a>
 
-#### value_data
+#### value\_data
 
 ```python
 @property
@@ -36,7 +36,7 @@ deprecated: Use CachedShaderValue instead
 
 <a id="unreal.OptimusVariableDescription.value_data"></a>
 
-#### value_data
+#### value\_data
 
 ```python
 @value_data.setter
@@ -45,7 +45,7 @@ def value_data(value: Array[int]) -> None
 
 <a id="unreal.OptimusVariableDescription.default_value"></a>
 
-#### default_value
+#### default\_value
 
 ```python
 @property
@@ -57,7 +57,7 @@ deprecated: use DefaultValueStruct instead
 
 <a id="unreal.OptimusVariableDescription.default_value"></a>
 
-#### default_value
+#### default\_value
 
 ```python
 @default_value.setter

@@ -15,7 +15,7 @@ If you want to support types introduced in other plugins, create a blueprint lib
 
 <a id="unreal.MetasoundOutputBlueprintAccess.is_time"></a>
 
-#### is_time
+#### is\_time
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.is_string"></a>
 
-#### is_string
+#### is\_string
 
 ```python
 @classmethod
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.is_int32"></a>
 
-#### is_int32
+#### is\_int32
 
 ```python
 @classmethod
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.is_float"></a>
 
-#### is_float
+#### is\_float
 
 ```python
 @classmethod
@@ -87,7 +87,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.is_bool"></a>
 
-#### is_bool
+#### is\_bool
 
 ```python
 @classmethod
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.get_time_seconds"></a>
 
-#### get_time_seconds
+#### get\_time\_seconds
 
 ```python
 @classmethod
@@ -125,7 +125,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.get_string"></a>
 
-#### get_string
+#### get\_string
 
 ```python
 @classmethod
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.get_int32"></a>
 
-#### get_int32
+#### get\_int32
 
 ```python
 @classmethod
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.get_float"></a>
 
-#### get_float
+#### get\_float
 
 ```python
 @classmethod
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.MetasoundOutputBlueprintAccess.get_bool"></a>
 
-#### get_bool
+#### get\_bool
 
 ```python
 @classmethod

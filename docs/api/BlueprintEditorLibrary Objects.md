@@ -13,7 +13,7 @@ Blueprint Editor Library
 
 <a id="unreal.BlueprintEditorLibrary.upgrade_operator_nodes"></a>
 
-#### upgrade_operator_nodes
+#### upgrade\_operator\_nodes
 
 ```python
 @classmethod
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.set_blueprint_variable_instance_editable"></a>
 
-#### set_blueprint_variable_instance_editable
+#### set\_blueprint\_variable\_instance\_editable
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.set_blueprint_variable_expose_to_cinematics"></a>
 
-#### set_blueprint_variable_expose_to_cinematics
+#### set\_blueprint\_variable\_expose\_to\_cinematics
 
 ```python
 @classmethod
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.set_blueprint_variable_expose_on_spawn"></a>
 
-#### set_blueprint_variable_expose_on_spawn
+#### set\_blueprint\_variable\_expose\_on\_spawn
 
 ```python
 @classmethod
@@ -87,7 +87,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.replace_variable_references"></a>
 
-#### replace_variable_references
+#### replace\_variable\_references
 
 ```python
 @classmethod
@@ -105,7 +105,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.reparent_blueprint"></a>
 
-#### reparent_blueprint
+#### reparent\_blueprint
 
 ```python
 @classmethod
@@ -122,7 +122,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.rename_graph"></a>
 
-#### rename_graph
+#### rename\_graph
 
 ```python
 @classmethod
@@ -138,7 +138,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.remove_unused_variables"></a>
 
-#### remove_unused_variables
+#### remove\_unused\_variables
 
 ```python
 @classmethod
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.remove_unused_nodes"></a>
 
-#### remove_unused_nodes
+#### remove\_unused\_nodes
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.remove_graph"></a>
 
-#### remove_graph
+#### remove\_graph
 
 ```python
 @classmethod
@@ -189,7 +189,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.remove_function_graph"></a>
 
-#### remove_function_graph
+#### remove\_function\_graph
 
 ```python
 @classmethod
@@ -205,7 +205,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.refresh_open_editors_for_blueprint"></a>
 
-#### refresh_open_editors_for_blueprint
+#### refresh\_open\_editors\_for\_blueprint
 
 ```python
 @classmethod
@@ -220,7 +220,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.refresh_all_open_blueprint_editors"></a>
 
-#### refresh_all_open_blueprint_editors
+#### refresh\_all\_open\_blueprint\_editors
 
 ```python
 @classmethod
@@ -232,7 +232,7 @@ Refresh any open blueprint editors
 
 <a id="unreal.BlueprintEditorLibrary.get_struct_type"></a>
 
-#### get_struct_type
+#### get\_struct\_type
 
 ```python
 @classmethod
@@ -250,7 +250,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.get_set_type"></a>
 
-#### get_set_type
+#### get\_set\_type
 
 ```python
 @classmethod
@@ -268,7 +268,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.get_object_reference_type"></a>
 
-#### get_object_reference_type
+#### get\_object\_reference\_type
 
 ```python
 @classmethod
@@ -286,7 +286,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.get_map_type"></a>
 
-#### get_map_type
+#### get\_map\_type
 
 ```python
 @classmethod
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.get_class_reference_type"></a>
 
-#### get_class_reference_type
+#### get\_class\_reference\_type
 
 ```python
 @classmethod
@@ -324,7 +324,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.get_blueprint_asset"></a>
 
-#### get_blueprint_asset
+#### get\_blueprint\_asset
 
 ```python
 @classmethod
@@ -343,7 +343,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.get_basic_type_by_name"></a>
 
-#### get_basic_type_by_name
+#### get\_basic\_type\_by\_name
 
 ```python
 @classmethod
@@ -361,7 +361,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.get_array_type"></a>
 
-#### get_array_type
+#### get\_array\_type
 
 ```python
 @classmethod
@@ -379,7 +379,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.generated_class"></a>
 
-#### generated_class
+#### generated\_class
 
 ```python
 @classmethod
@@ -397,7 +397,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.find_graph"></a>
 
-#### find_graph
+#### find\_graph
 
 ```python
 @classmethod
@@ -416,7 +416,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.find_event_graph"></a>
 
-#### find_event_graph
+#### find\_event\_graph
 
 ```python
 @classmethod
@@ -435,7 +435,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.create_blueprint_asset_with_parent"></a>
 
-#### create_blueprint_asset_with_parent
+#### create\_blueprint\_asset\_with\_parent
 
 ```python
 @classmethod
@@ -455,7 +455,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.compile_blueprint"></a>
 
-#### compile_blueprint
+#### compile\_blueprint
 
 ```python
 @classmethod
@@ -470,7 +470,7 @@ Args:
 
 <a id="unreal.BlueprintEditorLibrary.add_member_variable"></a>
 
-#### add_member_variable
+#### add\_member\_variable
 
 ```python
 @classmethod
@@ -491,7 +491,7 @@ Returns:
 
 <a id="unreal.BlueprintEditorLibrary.add_function_graph"></a>
 
-#### add_function_graph
+#### add\_function\_graph
 
 ```python
 @classmethod

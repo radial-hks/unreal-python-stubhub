@@ -14,13 +14,13 @@ EPCGProjection Color Blend Mode
 
 <a id="unreal.PCGProjectionColorBlendMode.SOURCE_VALUE"></a>
 
-#### SOURCE_VALUE
+#### SOURCE\_VALUE
 
 0
 
 <a id="unreal.PCGProjectionColorBlendMode.TARGET_VALUE"></a>
 
-#### TARGET_VALUE
+#### TARGET\_VALUE
 
 1
 

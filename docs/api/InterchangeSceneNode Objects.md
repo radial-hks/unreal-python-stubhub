@@ -15,7 +15,7 @@ Scene nodes can have user-defined attributes. Use UInterchangeUserDefinedAttribu
 
 <a id="unreal.InterchangeSceneNode.set_slot_material_dependency_uid"></a>
 
-#### set_slot_material_dependency_uid
+#### set\_slot\_material\_dependency\_uid
 
 ```python
 def set_slot_material_dependency_uid(slot_name: str,
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_morph_target_curve_weight"></a>
 
-#### set_morph_target_curve_weight
+#### set\_morph\_target\_curve\_weight
 
 ```python
 def set_morph_target_curve_weight(morph_target_name: str,
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_global_bind_pose_reference_for_mesh_ui_ds"></a>
 
-#### set_global_bind_pose_reference_for_mesh_ui_ds
+#### set\_global\_bind\_pose\_reference\_for\_mesh\_ui\_ds
 
 ```python
 def set_global_bind_pose_reference_for_mesh_ui_ds(
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.InterchangeSceneNode.set_custom_time_zero_local_transform"></a>
 
-#### set_custom_time_zero_local_transform
+#### set\_custom\_time\_zero\_local\_transform
 
 ```python
 def set_custom_time_zero_local_transform(
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_custom_pivot_node_transform"></a>
 
-#### set_custom_pivot_node_transform
+#### set\_custom\_pivot\_node\_transform
 
 ```python
 def set_custom_pivot_node_transform(attribute_value: Transform) -> bool
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_custom_local_transform"></a>
 
-#### set_custom_local_transform
+#### set\_custom\_local\_transform
 
 ```python
 def set_custom_local_transform(
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_custom_has_bind_pose"></a>
 
-#### set_custom_has_bind_pose
+#### set\_custom\_has\_bind\_pose
 
 ```python
 def set_custom_has_bind_pose(has_bind_pose: bool) -> bool
@@ -147,7 +147,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_custom_geometric_transform"></a>
 
-#### set_custom_geometric_transform
+#### set\_custom\_geometric\_transform
 
 ```python
 def set_custom_geometric_transform(attribute_value: Transform) -> bool
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_custom_bind_pose_local_transform"></a>
 
-#### set_custom_bind_pose_local_transform
+#### set\_custom\_bind\_pose\_local\_transform
 
 ```python
 def set_custom_bind_pose_local_transform(
@@ -186,7 +186,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_custom_asset_instance_uid"></a>
 
-#### set_custom_asset_instance_uid
+#### set\_custom\_asset\_instance\_uid
 
 ```python
 def set_custom_asset_instance_uid(attribute_value: str) -> bool
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.set_custom_animation_asset_uid_to_play"></a>
 
-#### set_custom_animation_asset_uid_to_play
+#### set\_custom\_animation\_asset\_uid\_to\_play
 
 ```python
 def set_custom_animation_asset_uid_to_play(attribute_value: str) -> bool
@@ -220,7 +220,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.remove_specialized_type"></a>
 
-#### remove_specialized_type
+#### remove\_specialized\_type
 
 ```python
 def remove_specialized_type(specialized_type: str) -> bool
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.remove_slot_material_dependency_uid"></a>
 
-#### remove_slot_material_dependency_uid
+#### remove\_slot\_material\_dependency\_uid
 
 ```python
 def remove_slot_material_dependency_uid(slot_name: str) -> bool
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.is_specialized_type_contains"></a>
 
-#### is_specialized_type_contains
+#### is\_specialized\_type\_contains
 
 ```python
 def is_specialized_type_contains(specialized_type: str) -> bool
@@ -271,7 +271,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_specialized_types"></a>
 
-#### get_specialized_types
+#### get\_specialized\_types
 
 ```python
 def get_specialized_types() -> Array[str]
@@ -287,7 +287,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_specialized_type_count"></a>
 
-#### get_specialized_type_count
+#### get\_specialized\_type\_count
 
 ```python
 def get_specialized_type_count() -> int
@@ -301,7 +301,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_specialized_type"></a>
 
-#### get_specialized_type
+#### get\_specialized\_type
 
 ```python
 def get_specialized_type(index: int) -> str
@@ -320,7 +320,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_slot_material_dependency_uid"></a>
 
-#### get_slot_material_dependency_uid
+#### get\_slot\_material\_dependency\_uid
 
 ```python
 def get_slot_material_dependency_uid(slot_name: str) -> Optional[str]
@@ -339,7 +339,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_slot_material_dependencies"></a>
 
-#### get_slot_material_dependencies
+#### get\_slot\_material\_dependencies
 
 ```python
 def get_slot_material_dependencies() -> Map[str, str]
@@ -355,7 +355,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_morph_target_curve_weights"></a>
 
-#### get_morph_target_curve_weights
+#### get\_morph\_target\_curve\_weights
 
 ```python
 def get_morph_target_curve_weights() -> Map[str, float]
@@ -371,7 +371,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_global_bind_pose_reference_for_mesh_uid"></a>
 
-#### get_global_bind_pose_reference_for_mesh_uid
+#### get\_global\_bind\_pose\_reference\_for\_mesh\_uid
 
 ```python
 def get_global_bind_pose_reference_for_mesh_uid(
@@ -391,7 +391,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_time_zero_local_transform"></a>
 
-#### get_custom_time_zero_local_transform
+#### get\_custom\_time\_zero\_local\_transform
 
 ```python
 def get_custom_time_zero_local_transform() -> Optional[Transform]
@@ -407,7 +407,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_time_zero_global_transform"></a>
 
-#### get_custom_time_zero_global_transform
+#### get\_custom\_time\_zero\_global\_transform
 
 ```python
 def get_custom_time_zero_global_transform(
@@ -431,7 +431,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_pivot_node_transform"></a>
 
-#### get_custom_pivot_node_transform
+#### get\_custom\_pivot\_node\_transform
 
 ```python
 def get_custom_pivot_node_transform() -> Optional[Transform]
@@ -447,7 +447,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_local_transform"></a>
 
-#### get_custom_local_transform
+#### get\_custom\_local\_transform
 
 ```python
 def get_custom_local_transform() -> Optional[Transform]
@@ -464,7 +464,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_has_bind_pose"></a>
 
-#### get_custom_has_bind_pose
+#### get\_custom\_has\_bind\_pose
 
 ```python
 def get_custom_has_bind_pose() -> Optional[bool]
@@ -480,7 +480,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_global_transform"></a>
 
-#### get_custom_global_transform
+#### get\_custom\_global\_transform
 
 ```python
 def get_custom_global_transform(
@@ -504,7 +504,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_geometric_transform"></a>
 
-#### get_custom_geometric_transform
+#### get\_custom\_geometric\_transform
 
 ```python
 def get_custom_geometric_transform() -> Optional[Transform]
@@ -520,7 +520,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_bind_pose_local_transform"></a>
 
-#### get_custom_bind_pose_local_transform
+#### get\_custom\_bind\_pose\_local\_transform
 
 ```python
 def get_custom_bind_pose_local_transform() -> Optional[Transform]
@@ -536,7 +536,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_bind_pose_global_transform"></a>
 
-#### get_custom_bind_pose_global_transform
+#### get\_custom\_bind\_pose\_global\_transform
 
 ```python
 def get_custom_bind_pose_global_transform(
@@ -560,7 +560,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_asset_instance_uid"></a>
 
-#### get_custom_asset_instance_uid
+#### get\_custom\_asset\_instance\_uid
 
 ```python
 def get_custom_asset_instance_uid() -> Optional[str]
@@ -576,7 +576,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.get_custom_animation_asset_uid_to_play"></a>
 
-#### get_custom_animation_asset_uid_to_play
+#### get\_custom\_animation\_asset\_uid\_to\_play
 
 ```python
 def get_custom_animation_asset_uid_to_play() -> Optional[str]
@@ -592,7 +592,7 @@ Returns:
 
 <a id="unreal.InterchangeSceneNode.add_specialized_type"></a>
 
-#### add_specialized_type
+#### add\_specialized\_type
 
 ```python
 def add_specialized_type(specialized_type: str) -> bool

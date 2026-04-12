@@ -39,7 +39,7 @@ E.g. for a given point, if it matches with something in the Match & Set object, 
 
 <a id="unreal.PCGPointMatchAndSetSettings.match_and_set_type"></a>
 
-#### match_and_set_type
+#### match\_and\_set\_type
 
 ```python
 @property
@@ -50,7 +50,7 @@ def match_and_set_type() -> Class
 
 <a id="unreal.PCGPointMatchAndSetSettings.match_and_set_instance"></a>
 
-#### match_and_set_instance
+#### match\_and\_set\_instance
 
 ```python
 @property
@@ -61,7 +61,7 @@ def match_and_set_instance() -> PCGMatchAndSetBase
 
 <a id="unreal.PCGPointMatchAndSetSettings.set_target"></a>
 
-#### set_target
+#### set\_target
 
 ```python
 @property
@@ -72,7 +72,7 @@ def set_target() -> PCGAttributePropertyOutputSelector
 
 <a id="unreal.PCGPointMatchAndSetSettings.set_target"></a>
 
-#### set_target
+#### set\_target
 
 ```python
 @set_target.setter
@@ -81,7 +81,7 @@ def set_target(value: PCGAttributePropertyOutputSelector) -> None
 
 <a id="unreal.PCGPointMatchAndSetSettings.set_target_type"></a>
 
-#### set_target_type
+#### set\_target\_type
 
 ```python
 @property
@@ -92,7 +92,7 @@ def set_target_type() -> PCGMetadataTypes
 
 <a id="unreal.PCGPointMatchAndSetSettings.set_target_type"></a>
 
-#### set_target_type
+#### set\_target\_type
 
 ```python
 @set_target_type.setter
@@ -101,7 +101,7 @@ def set_target_type(value: PCGMetadataTypes) -> None
 
 <a id="unreal.PCGPointMatchAndSetSettings.set_match_and_set_type"></a>
 
-#### set_match_and_set_type
+#### set\_match\_and\_set\_type
 
 ```python
 def set_match_and_set_type(match_and_set_type: Class) -> None

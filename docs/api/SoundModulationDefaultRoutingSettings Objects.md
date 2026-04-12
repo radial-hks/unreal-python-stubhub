@@ -24,7 +24,7 @@ Default parameter destination settings for source audio object.
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -49,7 +49,7 @@ def __init__(
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.volume_routing"></a>
 
-#### volume_routing
+#### volume\_routing
 
 ```python
 @property
@@ -60,7 +60,7 @@ def volume_routing() -> ModulationRouting
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.volume_routing"></a>
 
-#### volume_routing
+#### volume\_routing
 
 ```python
 @volume_routing.setter
@@ -69,7 +69,7 @@ def volume_routing(value: ModulationRouting) -> None
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.pitch_routing"></a>
 
-#### pitch_routing
+#### pitch\_routing
 
 ```python
 @property
@@ -80,7 +80,7 @@ def pitch_routing() -> ModulationRouting
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.pitch_routing"></a>
 
-#### pitch_routing
+#### pitch\_routing
 
 ```python
 @pitch_routing.setter
@@ -89,7 +89,7 @@ def pitch_routing(value: ModulationRouting) -> None
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.highpass_routing"></a>
 
-#### highpass_routing
+#### highpass\_routing
 
 ```python
 @property
@@ -100,7 +100,7 @@ def highpass_routing() -> ModulationRouting
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.highpass_routing"></a>
 
-#### highpass_routing
+#### highpass\_routing
 
 ```python
 @highpass_routing.setter
@@ -109,7 +109,7 @@ def highpass_routing(value: ModulationRouting) -> None
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.lowpass_routing"></a>
 
-#### lowpass_routing
+#### lowpass\_routing
 
 ```python
 @property
@@ -120,7 +120,7 @@ def lowpass_routing() -> ModulationRouting
 
 <a id="unreal.SoundModulationDefaultRoutingSettings.lowpass_routing"></a>
 
-#### lowpass_routing
+#### lowpass\_routing
 
 ```python
 @lowpass_routing.setter

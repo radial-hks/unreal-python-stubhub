@@ -13,13 +13,13 @@ Selects the texture property to output
 
 <a id="unreal.MaterialExposedTextureProperty.TMTM_TEXTURE_SIZE"></a>
 
-#### TMTM_TEXTURE_SIZE
+#### TMTM\_TEXTURE\_SIZE
 
 0: The texture's size.
 
 <a id="unreal.MaterialExposedTextureProperty.TMTM_TEXEL_SIZE"></a>
 
-#### TMTM_TEXEL_SIZE
+#### TMTM\_TEXEL\_SIZE
 
 1: The texture's texel size in the UV space (1 / Texture Size)
 

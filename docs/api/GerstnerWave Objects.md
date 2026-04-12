@@ -21,7 +21,7 @@ Raw wave parameters for one gerstner wave
 
 <a id="unreal.GerstnerWave.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(wave_length: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(wave_length: float = 0.000000,
 
 <a id="unreal.GerstnerWave.wave_length"></a>
 
-#### wave_length
+#### wave\_length
 
 ```python
 @property
@@ -43,7 +43,7 @@ def wave_length() -> float
 
 <a id="unreal.GerstnerWave.wave_length"></a>
 
-#### wave_length
+#### wave\_length
 
 ```python
 @wave_length.setter

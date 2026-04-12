@@ -18,7 +18,7 @@ class MovieSceneBindingResolveContext(StructBase)
 
 <a id="unreal.MovieSceneBindingResolveContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(world_context: Object = None,
@@ -27,7 +27,7 @@ def __init__(world_context: Object = None,
 
 <a id="unreal.MovieSceneBindingResolveContext.world_context"></a>
 
-#### world_context
+#### world\_context
 
 ```python
 @property
@@ -38,7 +38,7 @@ def world_context() -> Object
 
 <a id="unreal.MovieSceneBindingResolveContext.world_context"></a>
 
-#### world_context
+#### world\_context
 
 ```python
 @world_context.setter

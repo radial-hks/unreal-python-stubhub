@@ -22,7 +22,7 @@ Criteria to compare against an input value for conditionally selecting a grammar
 
 <a id="unreal.PCGSelectGrammarCriterion.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: Name = "None",
@@ -74,7 +74,7 @@ def comparator(value: PCGSelectGrammarComparator) -> None
 
 <a id="unreal.PCGSelectGrammarCriterion.first_value"></a>
 
-#### first_value
+#### first\_value
 
 ```python
 @property
@@ -85,7 +85,7 @@ def first_value() -> float
 
 <a id="unreal.PCGSelectGrammarCriterion.first_value"></a>
 
-#### first_value
+#### first\_value
 
 ```python
 @first_value.setter
@@ -94,7 +94,7 @@ def first_value(value: float) -> None
 
 <a id="unreal.PCGSelectGrammarCriterion.second_value"></a>
 
-#### second_value
+#### second\_value
 
 ```python
 @property
@@ -105,7 +105,7 @@ def second_value() -> float
 
 <a id="unreal.PCGSelectGrammarCriterion.second_value"></a>
 
-#### second_value
+#### second\_value
 
 ```python
 @second_value.setter

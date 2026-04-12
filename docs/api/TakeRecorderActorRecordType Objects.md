@@ -26,8 +26,8 @@ ETake Recorder Actor Record Type
 
 <a id="unreal.TakeRecorderActorRecordType.PROJECT_DEFAULT"></a>
 
-#### PROJECT_DEFAULT
+#### PROJECT\_DEFAULT
 
 2
 
-<a id="unreal.RootMotionModifierState"></a>
+<a id="unreal.ViewPointType"></a>

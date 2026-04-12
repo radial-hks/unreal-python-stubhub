@@ -32,19 +32,19 @@ ENiagara Renderer Pixel Coverage Mode
 
 <a id="unreal.NiagaraRendererPixelCoverageMode.ENABLED_RGBA"></a>
 
-#### ENABLED_RGBA
+#### ENABLED\_RGBA
 
 3: Enable pixel coverage and adjust the RGBA channels according to coverage.
 
 <a id="unreal.NiagaraRendererPixelCoverageMode.ENABLED_RGB"></a>
 
-#### ENABLED_RGB
+#### ENABLED\_RGB
 
 4: Enable pixel coverage and adjust the RGB channels according to coverage.
 
 <a id="unreal.NiagaraRendererPixelCoverageMode.ENABLED_A"></a>
 
-#### ENABLED_A
+#### ENABLED\_A
 
 5: Enable pixel coverage and adjust the Alpha channel only according to coverage.
 

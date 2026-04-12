@@ -14,7 +14,7 @@ A shader graph has its own set of inputs on which shader nodes can be connected 
 
 <a id="unreal.InterchangeShaderGraphNode.set_custom_two_sided_transmission"></a>
 
-#### set_custom_two_sided_transmission
+#### set\_custom\_two\_sided\_transmission
 
 ```python
 def set_custom_two_sided_transmission(attribute_value: bool) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.set_custom_two_sided"></a>
 
-#### set_custom_two_sided
+#### set\_custom\_two\_sided
 
 ```python
 def set_custom_two_sided(attribute_value: bool) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.set_custom_screen_space_reflections"></a>
 
-#### set_custom_screen_space_reflections
+#### set\_custom\_screen\_space\_reflections
 
 ```python
 def set_custom_screen_space_reflections(attribute_value: bool) -> bool
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.set_custom_opacity_mask_clip_value"></a>
 
-#### set_custom_opacity_mask_clip_value
+#### set\_custom\_opacity\_mask\_clip\_value
 
 ```python
 def set_custom_opacity_mask_clip_value(attribute_value: float,
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.set_custom_is_a_shader_function"></a>
 
-#### set_custom_is_a_shader_function
+#### set\_custom\_is\_a\_shader\_function
 
 ```python
 def set_custom_is_a_shader_function(attribute_value: bool) -> bool
@@ -102,7 +102,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.set_custom_blend_mode"></a>
 
-#### set_custom_blend_mode
+#### set\_custom\_blend\_mode
 
 ```python
 def set_custom_blend_mode(attribute_value: int) -> bool
@@ -119,7 +119,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.get_custom_two_sided_transmission"></a>
 
-#### get_custom_two_sided_transmission
+#### get\_custom\_two\_sided\_transmission
 
 ```python
 def get_custom_two_sided_transmission() -> Optional[bool]
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.get_custom_two_sided"></a>
 
-#### get_custom_two_sided
+#### get\_custom\_two\_sided
 
 ```python
 def get_custom_two_sided() -> Optional[bool]
@@ -151,7 +151,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.get_custom_screen_space_reflections"></a>
 
-#### get_custom_screen_space_reflections
+#### get\_custom\_screen\_space\_reflections
 
 ```python
 def get_custom_screen_space_reflections() -> Optional[bool]
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.get_custom_opacity_mask_clip_value"></a>
 
-#### get_custom_opacity_mask_clip_value
+#### get\_custom\_opacity\_mask\_clip\_value
 
 ```python
 def get_custom_opacity_mask_clip_value() -> Optional[float]
@@ -183,7 +183,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.get_custom_is_a_shader_function"></a>
 
-#### get_custom_is_a_shader_function
+#### get\_custom\_is\_a\_shader\_function
 
 ```python
 def get_custom_is_a_shader_function() -> Optional[bool]
@@ -199,7 +199,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderGraphNode.get_custom_blend_mode"></a>
 
-#### get_custom_blend_mode
+#### get\_custom\_blend\_mode
 
 ```python
 def get_custom_blend_mode() -> Optional[int]

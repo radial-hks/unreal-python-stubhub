@@ -14,7 +14,7 @@ Groom Blueprint Library
 
 <a id="unreal.GroomLibrary.is_hair_strands_supported_in_world"></a>
 
-#### is_hair_strands_supported_in_world
+#### is\_hair\_strands\_supported\_in\_world
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.GroomLibrary.create_new_groom_binding_asset_with_path"></a>
 
-#### create_new_groom_binding_asset_with_path
+#### create\_new\_groom\_binding\_asset\_with\_path
 
 ```python
 @classmethod
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.GroomLibrary.create_new_groom_binding_asset"></a>
 
-#### create_new_groom_binding_asset
+#### create\_new\_groom\_binding\_asset
 
 ```python
 @classmethod
@@ -91,7 +91,7 @@ Returns:
 
 <a id="unreal.GroomLibrary.create_new_geometry_cache_groom_binding_asset_with_path"></a>
 
-#### create_new_geometry_cache_groom_binding_asset_with_path
+#### create\_new\_geometry\_cache\_groom\_binding\_asset\_with\_path
 
 ```python
 @classmethod
@@ -121,7 +121,7 @@ Returns:
 
 <a id="unreal.GroomLibrary.create_new_geometry_cache_groom_binding_asset"></a>
 
-#### create_new_geometry_cache_groom_binding_asset
+#### create\_new\_geometry\_cache\_groom\_binding\_asset
 
 ```python
 @classmethod

@@ -17,4 +17,4 @@ Class responsible for loading HLSL text and parsing any metadata available.
 - ``additional_sources`` (Array[ComputeSource]):  [Read-Write] Array of additional source objects. This allows us to specify source dependencies.
 - ``source_file`` (FilePath):  [Read-Write] Filepath to the source file containing the kernel entry points and all options for parsing.
 
-<a id="unreal.LevelVariantSets"></a>
+<a id="unreal.GeometryCache"></a>

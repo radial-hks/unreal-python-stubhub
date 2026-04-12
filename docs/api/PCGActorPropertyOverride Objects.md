@@ -19,7 +19,7 @@ PCGActor Property Override
 
 <a id="unreal.PCGActorPropertyOverride.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

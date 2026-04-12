@@ -15,7 +15,7 @@ The ExposedAsyncProxy metadata specifies the blueprint node will return this obj
 
 <a id="unreal.CancellableAsyncAction.is_active"></a>
 
-#### is_active
+#### is\_active
 
 ```python
 def is_active() -> bool

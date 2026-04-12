@@ -18,7 +18,7 @@ Anim Sync Marker
 
 <a id="unreal.AnimSyncMarker.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(marker_name: Name = "None", time: float = 0.000000) -> None
@@ -26,7 +26,7 @@ def __init__(marker_name: Name = "None", time: float = 0.000000) -> None
 
 <a id="unreal.AnimSyncMarker.marker_name"></a>
 
-#### marker_name
+#### marker\_name
 
 ```python
 @property

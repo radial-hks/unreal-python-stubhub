@@ -41,7 +41,7 @@ Sound Class Properties
 
 <a id="unreal.SoundClassProperties.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -94,7 +94,7 @@ def pitch() -> float
 
 <a id="unreal.SoundClassProperties.low_pass_filter_frequency"></a>
 
-#### low_pass_filter_frequency
+#### low\_pass\_filter\_frequency
 
 ```python
 @property
@@ -105,7 +105,7 @@ def low_pass_filter_frequency() -> float
 
 <a id="unreal.SoundClassProperties.attenuation_distance_scale"></a>
 
-#### attenuation_distance_scale
+#### attenuation\_distance\_scale
 
 ```python
 @property
@@ -119,7 +119,7 @@ Allows adjusting attenuation settings dynamically.
 
 <a id="unreal.SoundClassProperties.lfe_bleed"></a>
 
-#### lfe_bleed
+#### lfe\_bleed
 
 ```python
 @property
@@ -130,7 +130,7 @@ def lfe_bleed() -> float
 
 <a id="unreal.SoundClassProperties.voice_center_channel_volume"></a>
 
-#### voice_center_channel_volume
+#### voice\_center\_channel\_volume
 
 ```python
 @property
@@ -141,7 +141,7 @@ def voice_center_channel_volume() -> float
 
 <a id="unreal.SoundClassProperties.radio_filter_volume"></a>
 
-#### radio_filter_volume
+#### radio\_filter\_volume
 
 ```python
 @property
@@ -152,7 +152,7 @@ def radio_filter_volume() -> float
 
 <a id="unreal.SoundClassProperties.radio_filter_volume_threshold"></a>
 
-#### radio_filter_volume_threshold
+#### radio\_filter\_volume\_threshold
 
 ```python
 @property
@@ -163,7 +163,7 @@ def radio_filter_volume_threshold() -> float
 
 <a id="unreal.SoundClassProperties.apply_effects"></a>
 
-#### apply_effects
+#### apply\_effects
 
 ```python
 @property
@@ -174,7 +174,7 @@ def apply_effects() -> bool
 
 <a id="unreal.SoundClassProperties.always_play"></a>
 
-#### always_play
+#### always\_play
 
 ```python
 @property
@@ -185,7 +185,7 @@ def always_play() -> bool
 
 <a id="unreal.SoundClassProperties.is_ui_sound"></a>
 
-#### is_ui_sound
+#### is\_ui\_sound
 
 ```python
 @property
@@ -196,7 +196,7 @@ def is_ui_sound() -> bool
 
 <a id="unreal.SoundClassProperties.is_music"></a>
 
-#### is_music
+#### is\_music
 
 ```python
 @property
@@ -207,7 +207,7 @@ def is_music() -> bool
 
 <a id="unreal.SoundClassProperties.center_channel_only"></a>
 
-#### center_channel_only
+#### center\_channel\_only
 
 ```python
 @property
@@ -218,7 +218,7 @@ def center_channel_only() -> bool
 
 <a id="unreal.SoundClassProperties.apply_ambient_volumes"></a>
 
-#### apply_ambient_volumes
+#### apply\_ambient\_volumes
 
 ```python
 @property
@@ -240,7 +240,7 @@ def reverb() -> bool
 
 <a id="unreal.SoundClassProperties.default2d_reverb_send_amount"></a>
 
-#### default2d_reverb_send_amount
+#### default2d\_reverb\_send\_amount
 
 ```python
 @property
@@ -251,7 +251,7 @@ def default2d_reverb_send_amount() -> float
 
 <a id="unreal.SoundClassProperties.modulation_settings"></a>
 
-#### modulation_settings
+#### modulation\_settings
 
 ```python
 @property
@@ -262,7 +262,7 @@ def modulation_settings() -> SoundModulationDefaultSettings
 
 <a id="unreal.SoundClassProperties.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @property
@@ -273,7 +273,7 @@ def output_target() -> AudioOutputTarget
 
 <a id="unreal.SoundClassProperties.loading_behavior"></a>
 
-#### loading_behavior
+#### loading\_behavior
 
 ```python
 @property
@@ -284,7 +284,7 @@ def loading_behavior() -> SoundWaveLoadingBehavior
 
 <a id="unreal.SoundClassProperties.default_submix"></a>
 
-#### default_submix
+#### default\_submix
 
 ```python
 @property

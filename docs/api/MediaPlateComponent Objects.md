@@ -54,7 +54,7 @@ This is a component for AMediaPlate that can play and show media in the world.
 
 <a id="unreal.MediaPlateComponent.play_on_open"></a>
 
-#### play_on_open
+#### play\_on\_open
 
 ```python
 @property
@@ -65,7 +65,7 @@ def play_on_open() -> bool
 
 <a id="unreal.MediaPlateComponent.play_on_open"></a>
 
-#### play_on_open
+#### play\_on\_open
 
 ```python
 @play_on_open.setter
@@ -74,7 +74,7 @@ def play_on_open(value: bool) -> None
 
 <a id="unreal.MediaPlateComponent.start_time"></a>
 
-#### start_time
+#### start\_time
 
 ```python
 @property
@@ -85,7 +85,7 @@ def start_time() -> float
 
 <a id="unreal.MediaPlateComponent.start_time"></a>
 
-#### start_time
+#### start\_time
 
 ```python
 @start_time.setter
@@ -94,7 +94,7 @@ def start_time(value: float) -> None
 
 <a id="unreal.MediaPlateComponent.media_playlist"></a>
 
-#### media_playlist
+#### media\_playlist
 
 ```python
 @property
@@ -106,7 +106,7 @@ deprecated: Use MediaPlateResource instead
 
 <a id="unreal.MediaPlateComponent.media_playlist"></a>
 
-#### media_playlist
+#### media\_playlist
 
 ```python
 @media_playlist.setter
@@ -115,7 +115,7 @@ def media_playlist(value: MediaPlaylist) -> None
 
 <a id="unreal.MediaPlateComponent.media_plate_resource"></a>
 
-#### media_plate_resource
+#### media\_plate\_resource
 
 ```python
 @property
@@ -126,7 +126,7 @@ def media_plate_resource() -> MediaPlateResource
 
 <a id="unreal.MediaPlateComponent.media_plate_resource"></a>
 
-#### media_plate_resource
+#### media\_plate\_resource
 
 ```python
 @media_plate_resource.setter
@@ -135,7 +135,7 @@ def media_plate_resource(value: MediaPlateResource) -> None
 
 <a id="unreal.MediaPlateComponent.playlist_index"></a>
 
-#### playlist_index
+#### playlist\_index
 
 ```python
 @property
@@ -146,7 +146,7 @@ def playlist_index() -> int
 
 <a id="unreal.MediaPlateComponent.playlist_index"></a>
 
-#### playlist_index
+#### playlist\_index
 
 ```python
 @playlist_index.setter
@@ -155,7 +155,7 @@ def playlist_index(value: int) -> None
 
 <a id="unreal.MediaPlateComponent.is_media_plate_playing"></a>
 
-#### is_media_plate_playing
+#### is\_media\_plate\_playing
 
 ```python
 @property
@@ -168,7 +168,7 @@ bPlayOnlyWhenVisible = true and the plate is not visible.
 
 <a id="unreal.MediaPlateComponent.play_only_when_visible"></a>
 
-#### play_only_when_visible
+#### play\_only\_when\_visible
 
 ```python
 @property
@@ -199,7 +199,7 @@ def loop(value: bool) -> None
 
 <a id="unreal.MediaPlateComponent.is_aspect_ratio_auto"></a>
 
-#### is_aspect_ratio_auto
+#### is\_aspect\_ratio\_auto
 
 ```python
 @property
@@ -210,7 +210,7 @@ def is_aspect_ratio_auto() -> bool
 
 <a id="unreal.MediaPlateComponent.is_aspect_ratio_auto"></a>
 
-#### is_aspect_ratio_auto
+#### is\_aspect\_ratio\_auto
 
 ```python
 @is_aspect_ratio_auto.setter
@@ -219,7 +219,7 @@ def is_aspect_ratio_auto(value: bool) -> None
 
 <a id="unreal.MediaPlateComponent.set_play_only_when_visible"></a>
 
-#### set_play_only_when_visible
+#### set\_play\_only\_when\_visible
 
 ```python
 def set_play_only_when_visible(play_only_when_visible: bool) -> None
@@ -233,7 +233,7 @@ Args:
 
 <a id="unreal.MediaPlateComponent.set_mesh_range"></a>
 
-#### set_mesh_range
+#### set\_mesh\_range
 
 ```python
 def set_mesh_range(mesh_range: Vector2D) -> None
@@ -247,7 +247,7 @@ Args:
 
 <a id="unreal.MediaPlateComponent.set_letterbox_aspect_ratio"></a>
 
-#### set_letterbox_aspect_ratio
+#### set\_letterbox\_aspect\_ratio
 
 ```python
 def set_letterbox_aspect_ratio(aspect_ratio: float) -> None
@@ -261,7 +261,7 @@ Args:
 
 <a id="unreal.MediaPlateComponent.set_is_aspect_ratio_auto"></a>
 
-#### set_is_aspect_ratio_auto
+#### set\_is\_aspect\_ratio\_auto
 
 ```python
 def set_is_aspect_ratio_auto(is_aspect_ratio_auto: bool) -> None
@@ -343,7 +343,7 @@ Call this to open the media.
 
 <a id="unreal.MediaPlateComponent.get_mesh_range"></a>
 
-#### get_mesh_range
+#### get\_mesh\_range
 
 ```python
 def get_mesh_range() -> Vector2D
@@ -357,7 +357,7 @@ Returns:
 
 <a id="unreal.MediaPlateComponent.get_media_texture"></a>
 
-#### get_media_texture
+#### get\_media\_texture
 
 ```python
 def get_media_texture(index: int = 0) -> MediaTexture
@@ -374,7 +374,7 @@ Returns:
 
 <a id="unreal.MediaPlateComponent.get_media_player"></a>
 
-#### get_media_player
+#### get\_media\_player
 
 ```python
 def get_media_player() -> MediaPlayer
@@ -388,7 +388,7 @@ Returns:
 
 <a id="unreal.MediaPlateComponent.get_letterbox_aspect_ratio"></a>
 
-#### get_letterbox_aspect_ratio
+#### get\_letterbox\_aspect\_ratio
 
 ```python
 def get_letterbox_aspect_ratio() -> float
@@ -402,7 +402,7 @@ Returns:
 
 <a id="unreal.MediaPlateComponent.get_is_aspect_ratio_auto"></a>
 
-#### get_is_aspect_ratio_auto
+#### get\_is\_aspect\_ratio\_auto
 
 ```python
 def get_is_aspect_ratio_auto() -> bool
@@ -425,4 +425,4 @@ def close() -> None
 x.close() -> None
 Call this to close the media.
 
-<a id="unreal.AvaEditorSettings"></a>
+<a id="unreal.MediaPlayerEditorMediaContext"></a>

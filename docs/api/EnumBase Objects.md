@@ -8,7 +8,7 @@ Type for all Unreal exposed enum instances
 
 <a id="unreal.EnumBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -27,7 +27,7 @@ cast(cls: Type[_T], object: object) -> _T -- cast the given object to this Unrea
 
 <a id="unreal.EnumBase.static_enum"></a>
 
-#### static_enum
+#### static\_enum
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ static_enum(cls) -> Enum -- get the Unreal enum of this type
 
 <a id="unreal.EnumBase.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 def get_display_name() -> Text

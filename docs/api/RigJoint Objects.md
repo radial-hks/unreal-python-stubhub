@@ -8,7 +8,7 @@ deprecated: 'RigJoint' was renamed to 'RigBone'.
 
 <a id="unreal.RigJoint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",

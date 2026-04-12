@@ -19,7 +19,7 @@ Blend Target
 
 <a id="unreal.BlendTarget.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

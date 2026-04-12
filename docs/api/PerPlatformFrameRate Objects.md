@@ -18,7 +18,7 @@ FPerPlatformFrameRate - FFrameRate property with per-platform overrides
 
 <a id="unreal.PerPlatformFrameRate.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -14,19 +14,19 @@ ERig Control Transform Channel
 
 <a id="unreal.RigControlTransformChannel.TRANSLATION_X"></a>
 
-#### TRANSLATION_X
+#### TRANSLATION\_X
 
 0
 
 <a id="unreal.RigControlTransformChannel.TRANSLATION_Y"></a>
 
-#### TRANSLATION_Y
+#### TRANSLATION\_Y
 
 1
 
 <a id="unreal.RigControlTransformChannel.TRANSLATION_Z"></a>
 
-#### TRANSLATION_Z
+#### TRANSLATION\_Z
 
 2
 
@@ -50,19 +50,19 @@ ERig Control Transform Channel
 
 <a id="unreal.RigControlTransformChannel.SCALE_X"></a>
 
-#### SCALE_X
+#### SCALE\_X
 
 6
 
 <a id="unreal.RigControlTransformChannel.SCALE_Y"></a>
 
-#### SCALE_Y
+#### SCALE\_Y
 
 7
 
 <a id="unreal.RigControlTransformChannel.SCALE_Z"></a>
 
-#### SCALE_Z
+#### SCALE\_Z
 
 8
 

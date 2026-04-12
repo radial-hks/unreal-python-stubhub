@@ -20,38 +20,38 @@ FOrientOptions
 
 <a id="unreal.OrientAxis.POSITIVE_X"></a>
 
-#### POSITIVE_X
+#### POSITIVE\_X
 
 1: Orients axis in the positive X direction
 
 <a id="unreal.OrientAxis.POSITIVE_Y"></a>
 
-#### POSITIVE_Y
+#### POSITIVE\_Y
 
 2: Orients axis in the positive Y direction
 
 <a id="unreal.OrientAxis.POSITIVE_Z"></a>
 
-#### POSITIVE_Z
+#### POSITIVE\_Z
 
 3: Orients axis in the positive Z direction
 
 <a id="unreal.OrientAxis.NEGATIVE_X"></a>
 
-#### NEGATIVE_X
+#### NEGATIVE\_X
 
 4: Orients axis in the negative X direction
 
 <a id="unreal.OrientAxis.NEGATIVE_Y"></a>
 
-#### NEGATIVE_Y
+#### NEGATIVE\_Y
 
 5: Orients axis in the negative Y direction
 
 <a id="unreal.OrientAxis.NEGATIVE_Z"></a>
 
-#### NEGATIVE_Z
+#### NEGATIVE\_Z
 
 6: Orients axis in the negative Z direction
 
-<a id="unreal.InputResourceName"></a>
+<a id="unreal.MassEntityDebugShape"></a>

@@ -19,7 +19,7 @@ Handle to a particular set of rows in a table
 
 <a id="unreal.DataTableCategoryHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(data_table: DataTable = None,
@@ -29,7 +29,7 @@ def __init__(data_table: DataTable = None,
 
 <a id="unreal.DataTableCategoryHandle.data_table"></a>
 
-#### data_table
+#### data\_table
 
 ```python
 @property
@@ -40,7 +40,7 @@ def data_table() -> DataTable
 
 <a id="unreal.DataTableCategoryHandle.data_table"></a>
 
-#### data_table
+#### data\_table
 
 ```python
 @data_table.setter
@@ -49,7 +49,7 @@ def data_table(value: DataTable) -> None
 
 <a id="unreal.DataTableCategoryHandle.column_name"></a>
 
-#### column_name
+#### column\_name
 
 ```python
 @property
@@ -60,7 +60,7 @@ def column_name() -> Name
 
 <a id="unreal.DataTableCategoryHandle.column_name"></a>
 
-#### column_name
+#### column\_name
 
 ```python
 @column_name.setter
@@ -69,7 +69,7 @@ def column_name(value: Name) -> None
 
 <a id="unreal.DataTableCategoryHandle.row_contents"></a>
 
-#### row_contents
+#### row\_contents
 
 ```python
 @property
@@ -80,7 +80,7 @@ def row_contents() -> Name
 
 <a id="unreal.DataTableCategoryHandle.row_contents"></a>
 
-#### row_contents
+#### row\_contents
 
 ```python
 @row_contents.setter

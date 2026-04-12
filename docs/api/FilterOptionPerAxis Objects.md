@@ -21,7 +21,7 @@ This is used to filter per axis for constraint options
 
 <a id="unreal.FilterOptionPerAxis.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: bool = False, y: bool = False, z: bool = False) -> None

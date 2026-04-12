@@ -18,7 +18,7 @@ Niagara User Parameter Binding
 
 <a id="unreal.NiagaraUserParameterBinding.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

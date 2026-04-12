@@ -20,7 +20,7 @@ these types from USD.
 
 <a id="unreal.Matrix2D.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(row0: Vector2D = [0.000000, 0.000000],

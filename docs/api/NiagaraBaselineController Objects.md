@@ -21,7 +21,7 @@ Base class for baseline controllers. These can are responsible for spawning and 
 
 <a id="unreal.NiagaraBaselineController.test_duration"></a>
 
-#### test_duration
+#### test\_duration
 
 ```python
 @property
@@ -32,7 +32,7 @@ def test_duration() -> float
 
 <a id="unreal.NiagaraBaselineController.test_duration"></a>
 
-#### test_duration
+#### test\_duration
 
 ```python
 @test_duration.setter
@@ -41,7 +41,7 @@ def test_duration(value: float) -> None
 
 <a id="unreal.NiagaraBaselineController.effect_type"></a>
 
-#### effect_type
+#### effect\_type
 
 ```python
 @property
@@ -63,7 +63,7 @@ def owner() -> NiagaraPerfBaselineActor
 
 <a id="unreal.NiagaraBaselineController.on_tick_test"></a>
 
-#### on_tick_test
+#### on\_tick\_test
 
 ```python
 def on_tick_test() -> bool
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.NiagaraBaselineController.on_owner_tick"></a>
 
-#### on_owner_tick
+#### on\_owner\_tick
 
 ```python
 def on_owner_tick(delta_time: float) -> None
@@ -91,7 +91,7 @@ Args:
 
 <a id="unreal.NiagaraBaselineController.on_end_test"></a>
 
-#### on_end_test
+#### on\_end\_test
 
 ```python
 def on_end_test(stats: NiagaraPerfBaselineStats) -> None
@@ -105,7 +105,7 @@ Args:
 
 <a id="unreal.NiagaraBaselineController.on_begin_test"></a>
 
-#### on_begin_test
+#### on\_begin\_test
 
 ```python
 def on_begin_test() -> None
@@ -116,7 +116,7 @@ Called from the stats system when we begin gathering stats for the given System 
 
 <a id="unreal.NiagaraBaselineController.get_system"></a>
 
-#### get_system
+#### get\_system
 
 ```python
 def get_system() -> NiagaraSystem

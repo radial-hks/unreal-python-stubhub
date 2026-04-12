@@ -18,7 +18,7 @@ PN Tessellate options
 
 <a id="unreal.GeometryScriptPNTessellateOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(recompute_normals: bool = False) -> None
@@ -26,7 +26,7 @@ def __init__(recompute_normals: bool = False) -> None
 
 <a id="unreal.GeometryScriptPNTessellateOptions.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 @property
@@ -37,7 +37,7 @@ def recompute_normals() -> bool
 
 <a id="unreal.GeometryScriptPNTessellateOptions.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 @recompute_normals.setter

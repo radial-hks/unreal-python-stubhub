@@ -15,7 +15,7 @@ A material expression that outputs a grayscale image containing the luminance of
 
 <a id="unreal.MaterialXLuminanceMode.ACE_SCG"></a>
 
-#### ACE_SCG
+#### ACE\_SCG
 
 0
 

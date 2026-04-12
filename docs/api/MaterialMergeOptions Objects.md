@@ -17,7 +17,7 @@ Material merge options object
 
 <a id="unreal.MaterialMergeOptions.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @property
@@ -28,7 +28,7 @@ def blend_mode() -> BlendMode
 
 <a id="unreal.MaterialMergeOptions.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @blend_mode.setter

@@ -39,7 +39,7 @@ Routes data from the input pin, to a specific output pin based on a selection cr
 
 <a id="unreal.PCGSwitchSettings.selection_mode"></a>
 
-#### selection_mode
+#### selection\_mode
 
 ```python
 @property
@@ -50,7 +50,7 @@ def selection_mode() -> PCGControlFlowSelectionMode
 
 <a id="unreal.PCGSwitchSettings.selection_mode"></a>
 
-#### selection_mode
+#### selection\_mode
 
 ```python
 @selection_mode.setter
@@ -59,7 +59,7 @@ def selection_mode(value: PCGControlFlowSelectionMode) -> None
 
 <a id="unreal.PCGSwitchSettings.integer_selection"></a>
 
-#### integer_selection
+#### integer\_selection
 
 ```python
 @property
@@ -70,7 +70,7 @@ def integer_selection() -> int
 
 <a id="unreal.PCGSwitchSettings.integer_selection"></a>
 
-#### integer_selection
+#### integer\_selection
 
 ```python
 @integer_selection.setter
@@ -79,7 +79,7 @@ def integer_selection(value: int) -> None
 
 <a id="unreal.PCGSwitchSettings.int_options"></a>
 
-#### int_options
+#### int\_options
 
 ```python
 @property
@@ -90,7 +90,7 @@ def int_options() -> Array[int]
 
 <a id="unreal.PCGSwitchSettings.int_options"></a>
 
-#### int_options
+#### int\_options
 
 ```python
 @int_options.setter
@@ -99,7 +99,7 @@ def int_options(value: Array[int]) -> None
 
 <a id="unreal.PCGSwitchSettings.string_selection"></a>
 
-#### string_selection
+#### string\_selection
 
 ```python
 @property
@@ -110,7 +110,7 @@ def string_selection() -> str
 
 <a id="unreal.PCGSwitchSettings.string_selection"></a>
 
-#### string_selection
+#### string\_selection
 
 ```python
 @string_selection.setter
@@ -119,7 +119,7 @@ def string_selection(value: str) -> None
 
 <a id="unreal.PCGSwitchSettings.string_options"></a>
 
-#### string_options
+#### string\_options
 
 ```python
 @property
@@ -130,7 +130,7 @@ def string_options() -> Array[str]
 
 <a id="unreal.PCGSwitchSettings.string_options"></a>
 
-#### string_options
+#### string\_options
 
 ```python
 @string_options.setter
@@ -139,7 +139,7 @@ def string_options(value: Array[str]) -> None
 
 <a id="unreal.PCGSwitchSettings.enum_selection"></a>
 
-#### enum_selection
+#### enum\_selection
 
 ```python
 @property
@@ -150,7 +150,7 @@ def enum_selection() -> EnumSelector
 
 <a id="unreal.PCGSwitchSettings.enum_selection"></a>
 
-#### enum_selection
+#### enum\_selection
 
 ```python
 @enum_selection.setter

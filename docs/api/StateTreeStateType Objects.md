@@ -32,7 +32,7 @@ EState Tree State Type
 
 <a id="unreal.StateTreeStateType.LINKED_ASSET"></a>
 
-#### LINKED_ASSET
+#### LINKED\_ASSET
 
 3: A State that is linked to another StateTree asset (the execution continues on the Root state of the linked asset).
 

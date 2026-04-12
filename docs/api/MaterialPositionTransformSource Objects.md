@@ -13,19 +13,19 @@ EMaterial Position Transform Source
 
 <a id="unreal.MaterialPositionTransformSource.TRANSFORMPOSSOURCE_LOCAL"></a>
 
-#### TRANSFORMPOSSOURCE_LOCAL
+#### TRANSFORMPOSSOURCE\_LOCAL
 
 0: Local space
 
 <a id="unreal.MaterialPositionTransformSource.TRANSFORMPOSSOURCE_WORLD"></a>
 
-#### TRANSFORMPOSSOURCE_WORLD
+#### TRANSFORMPOSSOURCE\_WORLD
 
 1: Absolute world space
 
 <a id="unreal.MaterialPositionTransformSource.TRANSFORMPOSSOURCE_PERIODIC_WORLD"></a>
 
-#### TRANSFORMPOSSOURCE_PERIODIC_WORLD
+#### TRANSFORMPOSSOURCE\_PERIODIC\_WORLD
 
 2: Like absolute world space, but the world origin is moved to the center of the tile the camera is in.
 Logically similar to `fmod(CameraAbsoluteWorldPosition, TileSize) + CameraRelativeWorldPosition`.
@@ -35,25 +35,25 @@ Works best when the tile size is a power of two.
 
 <a id="unreal.MaterialPositionTransformSource.TRANSFORMPOSSOURCE_TRANSLATED_WORLD"></a>
 
-#### TRANSFORMPOSSOURCE_TRANSLATED_WORLD
+#### TRANSFORMPOSSOURCE\_TRANSLATED\_WORLD
 
 3: Translated world space, i.e. world space rotation and scale but with a position relative to the camera
 
 <a id="unreal.MaterialPositionTransformSource.TRANSFORMPOSSOURCE_VIEW"></a>
 
-#### TRANSFORMPOSSOURCE_VIEW
+#### TRANSFORMPOSSOURCE\_VIEW
 
 4: View space (differs from camera space in the shadow passes)
 
 <a id="unreal.MaterialPositionTransformSource.TRANSFORMPOSSOURCE_CAMERA"></a>
 
-#### TRANSFORMPOSSOURCE_CAMERA
+#### TRANSFORMPOSSOURCE\_CAMERA
 
 5: Camera space
 
 <a id="unreal.MaterialPositionTransformSource.TRANSFORMPOSSOURCE_INSTANCE"></a>
 
-#### TRANSFORMPOSSOURCE_INSTANCE
+#### TRANSFORMPOSSOURCE\_INSTANCE
 
 7: Instance space (used to provide per instance transform, i.e. for Instanced Static Mesh / Particles).
 

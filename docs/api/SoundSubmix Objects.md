@@ -32,7 +32,7 @@ Sound Submix class meant for applying an effect to the downmixed sum of multiple
 
 <a id="unreal.SoundSubmix.mute_when_backgrounded"></a>
 
-#### mute_when_backgrounded
+#### mute\_when\_backgrounded
 
 ```python
 @property
@@ -43,7 +43,7 @@ def mute_when_backgrounded() -> bool
 
 <a id="unreal.SoundSubmix.submix_effect_chain"></a>
 
-#### submix_effect_chain
+#### submix\_effect\_chain
 
 ```python
 @property
@@ -54,7 +54,7 @@ def submix_effect_chain() -> Array[SoundEffectSubmixPreset]
 
 <a id="unreal.SoundSubmix.ambisonics_plugin_settings"></a>
 
-#### ambisonics_plugin_settings
+#### ambisonics\_plugin\_settings
 
 ```python
 @property
@@ -65,7 +65,7 @@ def ambisonics_plugin_settings() -> SoundfieldEncodingSettingsBase
 
 <a id="unreal.SoundSubmix.ambisonics_plugin_settings"></a>
 
-#### ambisonics_plugin_settings
+#### ambisonics\_plugin\_settings
 
 ```python
 @ambisonics_plugin_settings.setter
@@ -74,7 +74,7 @@ def ambisonics_plugin_settings(value: SoundfieldEncodingSettingsBase) -> None
 
 <a id="unreal.SoundSubmix.envelope_follower_attack_time"></a>
 
-#### envelope_follower_attack_time
+#### envelope\_follower\_attack\_time
 
 ```python
 @property
@@ -85,7 +85,7 @@ def envelope_follower_attack_time() -> int
 
 <a id="unreal.SoundSubmix.envelope_follower_attack_time"></a>
 
-#### envelope_follower_attack_time
+#### envelope\_follower\_attack\_time
 
 ```python
 @envelope_follower_attack_time.setter
@@ -94,7 +94,7 @@ def envelope_follower_attack_time(value: int) -> None
 
 <a id="unreal.SoundSubmix.envelope_follower_release_time"></a>
 
-#### envelope_follower_release_time
+#### envelope\_follower\_release\_time
 
 ```python
 @property
@@ -105,7 +105,7 @@ def envelope_follower_release_time() -> int
 
 <a id="unreal.SoundSubmix.envelope_follower_release_time"></a>
 
-#### envelope_follower_release_time
+#### envelope\_follower\_release\_time
 
 ```python
 @envelope_follower_release_time.setter
@@ -114,7 +114,7 @@ def envelope_follower_release_time(value: int) -> None
 
 <a id="unreal.SoundSubmix.output_volume_modulation"></a>
 
-#### output_volume_modulation
+#### output\_volume\_modulation
 
 ```python
 @property
@@ -125,7 +125,7 @@ def output_volume_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SoundSubmix.output_volume_modulation"></a>
 
-#### output_volume_modulation
+#### output\_volume\_modulation
 
 ```python
 @output_volume_modulation.setter
@@ -135,7 +135,7 @@ def output_volume_modulation(
 
 <a id="unreal.SoundSubmix.wet_level_modulation"></a>
 
-#### wet_level_modulation
+#### wet\_level\_modulation
 
 ```python
 @property
@@ -146,7 +146,7 @@ def wet_level_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SoundSubmix.wet_level_modulation"></a>
 
-#### wet_level_modulation
+#### wet\_level\_modulation
 
 ```python
 @wet_level_modulation.setter
@@ -155,7 +155,7 @@ def wet_level_modulation(value: SoundModulationDestinationSettings) -> None
 
 <a id="unreal.SoundSubmix.dry_level_modulation"></a>
 
-#### dry_level_modulation
+#### dry\_level\_modulation
 
 ```python
 @property
@@ -166,7 +166,7 @@ def dry_level_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SoundSubmix.dry_level_modulation"></a>
 
-#### dry_level_modulation
+#### dry\_level\_modulation
 
 ```python
 @dry_level_modulation.setter
@@ -175,7 +175,7 @@ def dry_level_modulation(value: SoundModulationDestinationSettings) -> None
 
 <a id="unreal.SoundSubmix.send_to_audio_link"></a>
 
-#### send_to_audio_link
+#### send\_to\_audio\_link
 
 ```python
 @property
@@ -186,7 +186,7 @@ def send_to_audio_link() -> bool
 
 <a id="unreal.SoundSubmix.send_to_audio_link"></a>
 
-#### send_to_audio_link
+#### send\_to\_audio\_link
 
 ```python
 @send_to_audio_link.setter
@@ -195,7 +195,7 @@ def send_to_audio_link(value: bool) -> None
 
 <a id="unreal.SoundSubmix.audio_link_settings"></a>
 
-#### audio_link_settings
+#### audio\_link\_settings
 
 ```python
 @property
@@ -206,7 +206,7 @@ def audio_link_settings() -> AudioLinkSettingsAbstract
 
 <a id="unreal.SoundSubmix.audio_link_settings"></a>
 
-#### audio_link_settings
+#### audio\_link\_settings
 
 ```python
 @audio_link_settings.setter
@@ -215,7 +215,7 @@ def audio_link_settings(value: AudioLinkSettingsAbstract) -> None
 
 <a id="unreal.SoundSubmix.on_submix_recorded_file_done"></a>
 
-#### on_submix_recorded_file_done
+#### on\_submix\_recorded\_file\_done
 
 ```python
 @property
@@ -226,7 +226,7 @@ def on_submix_recorded_file_done() -> OnSubmixRecordedFileDone
 
 <a id="unreal.SoundSubmix.on_submix_recorded_file_done"></a>
 
-#### on_submix_recorded_file_done
+#### on\_submix\_recorded\_file\_done
 
 ```python
 @on_submix_recorded_file_done.setter
@@ -235,7 +235,7 @@ def on_submix_recorded_file_done(value: OnSubmixRecordedFileDone) -> None
 
 <a id="unreal.SoundSubmix.stop_spectral_analysis"></a>
 
-#### stop_spectral_analysis
+#### stop\_spectral\_analysis
 
 ```python
 def stop_spectral_analysis(world_context_object: Object) -> None
@@ -249,7 +249,7 @@ Args:
 
 <a id="unreal.SoundSubmix.stop_recording_output"></a>
 
-#### stop_recording_output
+#### stop\_recording\_output
 
 ```python
 def stop_recording_output(
@@ -272,7 +272,7 @@ Args:
 
 <a id="unreal.SoundSubmix.stop_envelope_following"></a>
 
-#### stop_envelope_following
+#### stop\_envelope\_following
 
 ```python
 def stop_envelope_following(world_context_object: Object) -> None
@@ -286,7 +286,7 @@ Args:
 
 <a id="unreal.SoundSubmix.start_spectral_analysis"></a>
 
-#### start_spectral_analysis
+#### start\_spectral\_analysis
 
 ```python
 def start_spectral_analysis(
@@ -313,7 +313,7 @@ Args:
 
 <a id="unreal.SoundSubmix.start_recording_output"></a>
 
-#### start_recording_output
+#### start\_recording\_output
 
 ```python
 def start_recording_output(world_context_object: Object,
@@ -329,7 +329,7 @@ Args:
 
 <a id="unreal.SoundSubmix.start_envelope_following"></a>
 
-#### start_envelope_following
+#### start\_envelope\_following
 
 ```python
 def start_envelope_following(world_context_object: Object) -> None
@@ -343,7 +343,7 @@ Args:
 
 <a id="unreal.SoundSubmix.set_submix_wet_level"></a>
 
-#### set_submix_wet_level
+#### set\_submix\_wet\_level
 
 ```python
 def set_submix_wet_level(world_context_object: Object,
@@ -359,7 +359,7 @@ Args:
 
 <a id="unreal.SoundSubmix.set_submix_output_volume"></a>
 
-#### set_submix_output_volume
+#### set\_submix\_output\_volume
 
 ```python
 def set_submix_output_volume(world_context_object: Object,
@@ -375,7 +375,7 @@ Args:
 
 <a id="unreal.SoundSubmix.set_submix_dry_level"></a>
 
-#### set_submix_dry_level
+#### set\_submix\_dry\_level
 
 ```python
 def set_submix_dry_level(world_context_object: Object,
@@ -391,7 +391,7 @@ Args:
 
 <a id="unreal.SoundSubmix.remove_spectral_analysis_delegate"></a>
 
-#### remove_spectral_analysis_delegate
+#### remove\_spectral\_analysis\_delegate
 
 ```python
 def remove_spectral_analysis_delegate(
@@ -408,7 +408,7 @@ Args:
 
 <a id="unreal.SoundSubmix.remove_envelope_follower_delegate"></a>
 
-#### remove_envelope_follower_delegate
+#### remove\_envelope\_follower\_delegate
 
 ```python
 def remove_envelope_follower_delegate(
@@ -425,7 +425,7 @@ Args:
 
 <a id="unreal.SoundSubmix.add_spectral_analysis_delegate"></a>
 
-#### add_spectral_analysis_delegate
+#### add\_spectral\_analysis\_delegate
 
 ```python
 def add_spectral_analysis_delegate(
@@ -456,7 +456,7 @@ Args:
 
 <a id="unreal.SoundSubmix.add_envelope_follower_delegate"></a>
 
-#### add_envelope_follower_delegate
+#### add\_envelope\_follower\_delegate
 
 ```python
 def add_envelope_follower_delegate(

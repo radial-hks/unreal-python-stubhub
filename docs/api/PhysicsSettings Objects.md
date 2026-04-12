@@ -66,7 +66,7 @@ Default physics settings.
 
 <a id="unreal.PhysicsSettings.get_physics_history_count"></a>
 
-#### get_physics_history_count
+#### get\_physics\_history\_count
 
 ```python
 def get_physics_history_count() -> int

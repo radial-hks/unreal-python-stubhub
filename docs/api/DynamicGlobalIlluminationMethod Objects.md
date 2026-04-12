@@ -25,7 +25,7 @@ Note: Must match r.DynamicGlobalIlluminationMethod, this is used in URendererSet
 
 <a id="unreal.DynamicGlobalIlluminationMethod.SCREEN_SPACE"></a>
 
-#### SCREEN_SPACE
+#### SCREEN\_SPACE
 
 2: Standalone Screen Space Global Illumination.  Low cost, but limited by screen space information.
 

@@ -14,10 +14,10 @@ This provides customized editing of SequencePath.
 
 <a id="unreal.ImgMediaSourceCustomizationSequenceProxy.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.EncodeRootBoneWeightedBone"></a>
+<a id="unreal.MediaTextureResourceSettings"></a>

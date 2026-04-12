@@ -13,7 +13,7 @@ Animation Sequence Browser Context Menu Context
 
 <a id="unreal.AnimationSequenceBrowserContextMenuContext.get_selected_objects"></a>
 
-#### get_selected_objects
+#### get\_selected\_objects
 
 ```python
 def get_selected_objects() -> Array[Object]

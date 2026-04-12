@@ -21,7 +21,7 @@ FStateTreeBlueprintPropertyRef is a PropertyRef intended to be used in State Tre
 
 <a id="unreal.StateTreeBlueprintPropertyRef.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

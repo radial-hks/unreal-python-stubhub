@@ -24,7 +24,7 @@ PCGSelf Pruning Parameters
 
 <a id="unreal.PCGSelfPruningParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -40,7 +40,7 @@ def __init__(
 
 <a id="unreal.PCGSelfPruningParameters.pruning_type"></a>
 
-#### pruning_type
+#### pruning\_type
 
 ```python
 @property
@@ -51,7 +51,7 @@ def pruning_type() -> PCGSelfPruningType
 
 <a id="unreal.PCGSelfPruningParameters.pruning_type"></a>
 
-#### pruning_type
+#### pruning\_type
 
 ```python
 @pruning_type.setter
@@ -60,7 +60,7 @@ def pruning_type(value: PCGSelfPruningType) -> None
 
 <a id="unreal.PCGSelfPruningParameters.comparison_source"></a>
 
-#### comparison_source
+#### comparison\_source
 
 ```python
 @property
@@ -71,7 +71,7 @@ def comparison_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGSelfPruningParameters.comparison_source"></a>
 
-#### comparison_source
+#### comparison\_source
 
 ```python
 @comparison_source.setter
@@ -80,7 +80,7 @@ def comparison_source(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGSelfPruningParameters.radius_similarity_factor"></a>
 
-#### radius_similarity_factor
+#### radius\_similarity\_factor
 
 ```python
 @property
@@ -91,7 +91,7 @@ def radius_similarity_factor() -> float
 
 <a id="unreal.PCGSelfPruningParameters.radius_similarity_factor"></a>
 
-#### radius_similarity_factor
+#### radius\_similarity\_factor
 
 ```python
 @radius_similarity_factor.setter
@@ -100,7 +100,7 @@ def radius_similarity_factor(value: float) -> None
 
 <a id="unreal.PCGSelfPruningParameters.randomized_pruning"></a>
 
-#### randomized_pruning
+#### randomized\_pruning
 
 ```python
 @property
@@ -111,7 +111,7 @@ def randomized_pruning() -> bool
 
 <a id="unreal.PCGSelfPruningParameters.randomized_pruning"></a>
 
-#### randomized_pruning
+#### randomized\_pruning
 
 ```python
 @randomized_pruning.setter
@@ -120,7 +120,7 @@ def randomized_pruning(value: bool) -> None
 
 <a id="unreal.PCGSelfPruningParameters.use_collision_attribute"></a>
 
-#### use_collision_attribute
+#### use\_collision\_attribute
 
 ```python
 @property
@@ -131,7 +131,7 @@ def use_collision_attribute() -> bool
 
 <a id="unreal.PCGSelfPruningParameters.use_collision_attribute"></a>
 
-#### use_collision_attribute
+#### use\_collision\_attribute
 
 ```python
 @use_collision_attribute.setter
@@ -140,7 +140,7 @@ def use_collision_attribute(value: bool) -> None
 
 <a id="unreal.PCGSelfPruningParameters.collision_attribute"></a>
 
-#### collision_attribute
+#### collision\_attribute
 
 ```python
 @property
@@ -151,7 +151,7 @@ def collision_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGSelfPruningParameters.collision_attribute"></a>
 
-#### collision_attribute
+#### collision\_attribute
 
 ```python
 @collision_attribute.setter
@@ -160,7 +160,7 @@ def collision_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGSelfPruningParameters.collision_query_flag"></a>
 
-#### collision_query_flag
+#### collision\_query\_flag
 
 ```python
 @property
@@ -171,7 +171,7 @@ def collision_query_flag() -> PCGCollisionQueryFlag
 
 <a id="unreal.PCGSelfPruningParameters.collision_query_flag"></a>
 
-#### collision_query_flag
+#### collision\_query\_flag
 
 ```python
 @collision_query_flag.setter

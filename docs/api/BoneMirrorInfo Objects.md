@@ -18,7 +18,7 @@ Bone Mirror Info
 
 <a id="unreal.BoneMirrorInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

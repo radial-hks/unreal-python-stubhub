@@ -33,7 +33,7 @@ Represents the Point Cloud asset
 
 <a id="unreal.LidarPointCloud.max_collision_error"></a>
 
-#### max_collision_error
+#### max\_collision\_error
 
 ```python
 @property
@@ -46,7 +46,7 @@ Rebuild collision for the changes to take effect.
 
 <a id="unreal.LidarPointCloud.max_collision_error"></a>
 
-#### max_collision_error
+#### max\_collision\_error
 
 ```python
 @max_collision_error.setter
@@ -55,7 +55,7 @@ def max_collision_error(value: float) -> None
 
 <a id="unreal.LidarPointCloud.collision_accuracy"></a>
 
-#### collision_accuracy
+#### collision\_accuracy
 
 ```python
 @property
@@ -67,7 +67,7 @@ deprecated: Use MaxCollisionError instead.
 
 <a id="unreal.LidarPointCloud.collision_accuracy"></a>
 
-#### collision_accuracy
+#### collision\_accuracy
 
 ```python
 @collision_accuracy.setter
@@ -76,7 +76,7 @@ def collision_accuracy(value: float) -> None
 
 <a id="unreal.LidarPointCloud.normals_quality"></a>
 
-#### normals_quality
+#### normals\_quality
 
 ```python
 @property
@@ -87,7 +87,7 @@ def normals_quality() -> int
 
 <a id="unreal.LidarPointCloud.normals_quality"></a>
 
-#### normals_quality
+#### normals\_quality
 
 ```python
 @normals_quality.setter
@@ -96,7 +96,7 @@ def normals_quality(value: int) -> None
 
 <a id="unreal.LidarPointCloud.normals_noise_tolerance"></a>
 
-#### normals_noise_tolerance
+#### normals\_noise\_tolerance
 
 ```python
 @property
@@ -109,7 +109,7 @@ NOTE: setting this too low will cause visual artifacts and geometry holes in noi
 
 <a id="unreal.LidarPointCloud.normals_noise_tolerance"></a>
 
-#### normals_noise_tolerance
+#### normals\_noise\_tolerance
 
 ```python
 @normals_noise_tolerance.setter
@@ -118,7 +118,7 @@ def normals_noise_tolerance(value: float) -> None
 
 <a id="unreal.LidarPointCloud.original_coordinates"></a>
 
-#### original_coordinates
+#### original\_coordinates
 
 ```python
 @property
@@ -129,7 +129,7 @@ def original_coordinates() -> Vector
 
 <a id="unreal.LidarPointCloud.unhide_all"></a>
 
-#### unhide_all
+#### unhide\_all
 
 ```python
 def unhide_all() -> None
@@ -140,7 +140,7 @@ Marks all points visible
 
 <a id="unreal.LidarPointCloud.set_visibility_of_points_in_sphere"></a>
 
-#### set_visibility_of_points_in_sphere
+#### set\_visibility\_of\_points\_in\_sphere
 
 ```python
 def set_visibility_of_points_in_sphere(new_visibility: bool, center: Vector,
@@ -157,7 +157,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.set_visibility_of_points_in_box"></a>
 
-#### set_visibility_of_points_in_box
+#### set\_visibility\_of\_points\_in\_box
 
 ```python
 def set_visibility_of_points_in_box(new_visibility: bool, center: Vector,
@@ -174,7 +174,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.set_visibility_of_points_by_ray"></a>
 
-#### set_visibility_of_points_by_ray
+#### set\_visibility\_of\_points\_by\_ray
 
 ```python
 def set_visibility_of_points_by_ray(new_visibility: bool, origin: Vector,
@@ -192,7 +192,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.set_visibility_of_first_point_by_ray"></a>
 
-#### set_visibility_of_first_point_by_ray
+#### set\_visibility\_of\_first\_point\_by\_ray
 
 ```python
 def set_visibility_of_first_point_by_ray(new_visibility: bool, origin: Vector,
@@ -211,7 +211,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.set_source_path"></a>
 
-#### set_source_path
+#### set\_source\_path
 
 ```python
 def set_source_path(new_source_path: str) -> None
@@ -225,7 +225,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.set_optimized_for_dynamic_data"></a>
 
-#### set_optimized_for_dynamic_data
+#### set\_optimized\_for\_dynamic\_data
 
 ```python
 def set_optimized_for_dynamic_data(
@@ -240,7 +240,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.set_optimal_collision_error"></a>
 
-#### set_optimal_collision_error
+#### set\_optimal\_collision\_error
 
 ```python
 def set_optimal_collision_error() -> None
@@ -251,7 +251,7 @@ Set Optimal Collision Error
 
 <a id="unreal.LidarPointCloud.set_location_offset"></a>
 
-#### set_location_offset
+#### set\_location\_offset
 
 ```python
 def set_location_offset(offset: Vector) -> None
@@ -265,7 +265,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.set_data"></a>
 
-#### set_data
+#### set\_data
 
 ```python
 def set_data(points: Array[LidarPointCloudPoint]) -> bool
@@ -282,7 +282,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.restore_original_coordinates"></a>
 
-#### restore_original_coordinates
+#### restore\_original\_coordinates
 
 ```python
 def restore_original_coordinates() -> None
@@ -293,7 +293,7 @@ Restores original coordinates
 
 <a id="unreal.LidarPointCloud.remove_points_in_sphere"></a>
 
-#### remove_points_in_sphere
+#### remove\_points\_in\_sphere
 
 ```python
 def remove_points_in_sphere(center: Vector, radius: float,
@@ -310,7 +310,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.remove_points_in_box"></a>
 
-#### remove_points_in_box
+#### remove\_points\_in\_box
 
 ```python
 def remove_points_in_box(center: Vector, extent: Vector,
@@ -327,7 +327,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.remove_points_by_ray"></a>
 
-#### remove_points_by_ray
+#### remove\_points\_by\_ray
 
 ```python
 def remove_points_by_ray(origin: Vector, direction: Vector, radius: float,
@@ -345,7 +345,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.remove_point"></a>
 
-#### remove_point
+#### remove\_point
 
 ```python
 def remove_point(point: LidarPointCloudPoint) -> None
@@ -359,7 +359,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.remove_hidden_points"></a>
 
-#### remove_hidden_points
+#### remove\_hidden\_points
 
 ```python
 def remove_hidden_points() -> None
@@ -370,7 +370,7 @@ Removes all hidden points
 
 <a id="unreal.LidarPointCloud.remove_first_point_by_ray"></a>
 
-#### remove_first_point_by_ray
+#### remove\_first\_point\_by\_ray
 
 ```python
 def remove_first_point_by_ray(origin: Vector, direction: Vector, radius: float,
@@ -388,7 +388,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.remove_collision"></a>
 
-#### remove_collision
+#### remove\_collision
 
 ```python
 def remove_collision() -> None
@@ -425,7 +425,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.refresh_rendering"></a>
 
-#### refresh_rendering
+#### refresh\_rendering
 
 ```python
 def refresh_rendering() -> None
@@ -436,7 +436,7 @@ Refresh Rendering
 
 <a id="unreal.LidarPointCloud.refresh_bounds"></a>
 
-#### refresh_bounds
+#### refresh\_bounds
 
 ```python
 def refresh_bounds() -> None
@@ -447,7 +447,7 @@ Recalculates and updates points bounds.
 
 <a id="unreal.LidarPointCloud.merge_single"></a>
 
-#### merge_single
+#### merge\_single
 
 ```python
 def merge_single(point_cloud_to_merge: LidarPointCloud) -> None
@@ -475,7 +475,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.mark_point_visibility_dirty"></a>
 
-#### mark_point_visibility_dirty
+#### mark\_point\_visibility\_dirty
 
 ```python
 def mark_point_visibility_dirty() -> None
@@ -487,7 +487,7 @@ If not marked dirty, the rendering may work sub-optimally.
 
 <a id="unreal.LidarPointCloud.load_all_nodes"></a>
 
-#### load_all_nodes
+#### load\_all\_nodes
 
 ```python
 def load_all_nodes() -> None
@@ -498,7 +498,7 @@ Persistently loads all nodes.
 
 <a id="unreal.LidarPointCloud.line_trace_single"></a>
 
-#### line_trace_single
+#### line\_trace\_single
 
 ```python
 def line_trace_single(origin: Vector, direction: Vector, radius: float,
@@ -521,7 +521,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.line_trace_multi"></a>
 
-#### line_trace_multi
+#### line\_trace\_multi
 
 ```python
 def line_trace_multi(
@@ -549,7 +549,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.is_optimized_for_dynamic_data"></a>
 
-#### is_optimized_for_dynamic_data
+#### is\_optimized\_for\_dynamic\_data
 
 ```python
 def is_optimized_for_dynamic_data() -> bool
@@ -563,7 +563,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.is_fully_loaded"></a>
 
-#### is_fully_loaded
+#### is\_fully\_loaded
 
 ```python
 def is_fully_loaded() -> bool
@@ -577,7 +577,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.is_centered"></a>
 
-#### is_centered
+#### is\_centered
 
 ```python
 def is_centered() -> bool
@@ -591,7 +591,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.insert_points"></a>
 
-#### insert_points
+#### insert\_points
 
 ```python
 def insert_points(points: Array[LidarPointCloudPoint],
@@ -611,7 +611,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.insert_point"></a>
 
-#### insert_point
+#### insert\_point
 
 ```python
 def insert_point(point: LidarPointCloudPoint,
@@ -646,7 +646,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.hide_all"></a>
 
-#### hide_all
+#### hide\_all
 
 ```python
 def hide_all() -> None
@@ -657,7 +657,7 @@ Marks all points hidden
 
 <a id="unreal.LidarPointCloud.has_points_in_sphere"></a>
 
-#### has_points_in_sphere
+#### has\_points\_in\_sphere
 
 ```python
 def has_points_in_sphere(center: Vector, radius: float,
@@ -677,7 +677,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.has_points_in_box"></a>
 
-#### has_points_in_box
+#### has\_points\_in\_box
 
 ```python
 def has_points_in_box(center: Vector, extent: Vector,
@@ -697,7 +697,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.has_points_by_ray"></a>
 
-#### has_points_by_ray
+#### has\_points\_by\_ray
 
 ```python
 def has_points_by_ray(origin: Vector, direction: Vector, radius: float,
@@ -718,7 +718,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.has_collision_data"></a>
 
-#### has_collision_data
+#### has\_collision\_data
 
 ```python
 def has_collision_data() -> bool
@@ -732,7 +732,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_source_path"></a>
 
-#### get_source_path
+#### get\_source\_path
 
 ```python
 def get_source_path() -> str
@@ -746,7 +746,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_points_in_sphere_as_copies"></a>
 
-#### get_points_in_sphere_as_copies
+#### get\_points\_in\_sphere\_as\_copies
 
 ```python
 def get_points_in_sphere_as_copies(
@@ -769,7 +769,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_points_in_box_as_copies"></a>
 
-#### get_points_in_box_as_copies
+#### get\_points\_in\_box\_as\_copies
 
 ```python
 def get_points_in_box_as_copies(
@@ -792,7 +792,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_points_as_copies"></a>
 
-#### get_points_as_copies
+#### get\_points\_as\_copies
 
 ```python
 def get_points_as_copies(return_world_space: bool,
@@ -814,7 +814,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_num_visible_points"></a>
 
-#### get_num_visible_points
+#### get\_num\_visible\_points
 
 ```python
 def get_num_visible_points() -> int
@@ -828,7 +828,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_num_points"></a>
 
-#### get_num_points
+#### get\_num\_points
 
 ```python
 def get_num_points() -> int
@@ -842,7 +842,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_num_nodes"></a>
 
-#### get_num_nodes
+#### get\_num\_nodes
 
 ```python
 def get_num_nodes() -> int
@@ -856,7 +856,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_num_lo_ds"></a>
 
-#### get_num_lo_ds
+#### get\_num\_lo\_ds
 
 ```python
 def get_num_lo_ds() -> int
@@ -870,7 +870,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_estimated_point_spacing"></a>
 
-#### get_estimated_point_spacing
+#### get\_estimated\_point\_spacing
 
 ```python
 def get_estimated_point_spacing() -> float
@@ -884,7 +884,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_data_size"></a>
 
-#### get_data_size
+#### get\_data\_size
 
 ```python
 def get_data_size() -> int
@@ -898,7 +898,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_collider_polys"></a>
 
-#### get_collider_polys
+#### get\_collider\_polys
 
 ```python
 def get_collider_polys() -> int
@@ -912,7 +912,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.get_bounds"></a>
 
-#### get_bounds
+#### get\_bounds
 
 ```python
 def get_bounds(use_original_coordinates: bool = False) -> Box
@@ -948,7 +948,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.center_points"></a>
 
-#### center_points
+#### center\_points
 
 ```python
 def center_points() -> None
@@ -959,7 +959,7 @@ Centers this cloud
 
 <a id="unreal.LidarPointCloud.calculate_normals"></a>
 
-#### calculate_normals
+#### calculate\_normals
 
 ```python
 def calculate_normals(latent_info: LatentActionInfo) -> None
@@ -973,7 +973,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.build_collision_with_callback"></a>
 
-#### build_collision_with_callback
+#### build\_collision\_with\_callback
 
 ```python
 def build_collision_with_callback(world_context_object: Object,
@@ -994,7 +994,7 @@ Returns:
 
 <a id="unreal.LidarPointCloud.build_collision"></a>
 
-#### build_collision
+#### build\_collision
 
 ```python
 def build_collision() -> None
@@ -1005,7 +1005,7 @@ Builds collision mesh for the cloud, using current collision settings
 
 <a id="unreal.LidarPointCloud.apply_color_to_points_in_sphere"></a>
 
-#### apply_color_to_points_in_sphere
+#### apply\_color\_to\_points\_in\_sphere
 
 ```python
 def apply_color_to_points_in_sphere(new_color: Color, center: Vector,
@@ -1023,7 +1023,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.apply_color_to_points_in_box"></a>
 
-#### apply_color_to_points_in_box
+#### apply\_color\_to\_points\_in\_box
 
 ```python
 def apply_color_to_points_in_box(new_color: Color, center: Vector,
@@ -1041,7 +1041,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.apply_color_to_points_by_ray"></a>
 
-#### apply_color_to_points_by_ray
+#### apply\_color\_to\_points\_by\_ray
 
 ```python
 def apply_color_to_points_by_ray(new_color: Color, origin: Vector,
@@ -1061,7 +1061,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.apply_color_to_first_point_by_ray"></a>
 
-#### apply_color_to_first_point_by_ray
+#### apply\_color\_to\_first\_point\_by\_ray
 
 ```python
 def apply_color_to_first_point_by_ray(new_color: Color, origin: Vector,
@@ -1081,7 +1081,7 @@ Args:
 
 <a id="unreal.LidarPointCloud.apply_color_to_all_points"></a>
 
-#### apply_color_to_all_points
+#### apply\_color\_to\_all\_points
 
 ```python
 def apply_color_to_all_points(new_color: Color, visible_only: bool) -> None

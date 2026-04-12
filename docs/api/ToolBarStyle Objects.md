@@ -47,7 +47,7 @@ Represents the appearance of a toolbar
 
 <a id="unreal.ToolBarStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -786,7 +786,7 @@ def __init__(
 
 <a id="unreal.ToolBarStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @property
@@ -797,7 +797,7 @@ def background_brush() -> SlateBrush
 
 <a id="unreal.ToolBarStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @background_brush.setter
@@ -806,7 +806,7 @@ def background_brush(value: SlateBrush) -> None
 
 <a id="unreal.ToolBarStyle.expand_brush"></a>
 
-#### expand_brush
+#### expand\_brush
 
 ```python
 @property
@@ -817,7 +817,7 @@ def expand_brush() -> SlateBrush
 
 <a id="unreal.ToolBarStyle.expand_brush"></a>
 
-#### expand_brush
+#### expand\_brush
 
 ```python
 @expand_brush.setter
@@ -826,7 +826,7 @@ def expand_brush(value: SlateBrush) -> None
 
 <a id="unreal.ToolBarStyle.separator_brush"></a>
 
-#### separator_brush
+#### separator\_brush
 
 ```python
 @property
@@ -837,7 +837,7 @@ def separator_brush() -> SlateBrush
 
 <a id="unreal.ToolBarStyle.separator_brush"></a>
 
-#### separator_brush
+#### separator\_brush
 
 ```python
 @separator_brush.setter
@@ -846,7 +846,7 @@ def separator_brush(value: SlateBrush) -> None
 
 <a id="unreal.ToolBarStyle.label_style"></a>
 
-#### label_style
+#### label\_style
 
 ```python
 @property
@@ -857,7 +857,7 @@ def label_style() -> TextBlockStyle
 
 <a id="unreal.ToolBarStyle.label_style"></a>
 
-#### label_style
+#### label\_style
 
 ```python
 @label_style.setter
@@ -866,7 +866,7 @@ def label_style(value: TextBlockStyle) -> None
 
 <a id="unreal.ToolBarStyle.editable_text_style"></a>
 
-#### editable_text_style
+#### editable\_text\_style
 
 ```python
 @property
@@ -877,7 +877,7 @@ def editable_text_style() -> EditableTextBoxStyle
 
 <a id="unreal.ToolBarStyle.editable_text_style"></a>
 
-#### editable_text_style
+#### editable\_text\_style
 
 ```python
 @editable_text_style.setter
@@ -886,7 +886,7 @@ def editable_text_style(value: EditableTextBoxStyle) -> None
 
 <a id="unreal.ToolBarStyle.toggle_button"></a>
 
-#### toggle_button
+#### toggle\_button
 
 ```python
 @property
@@ -897,7 +897,7 @@ def toggle_button() -> CheckBoxStyle
 
 <a id="unreal.ToolBarStyle.toggle_button"></a>
 
-#### toggle_button
+#### toggle\_button
 
 ```python
 @toggle_button.setter
@@ -906,7 +906,7 @@ def toggle_button(value: CheckBoxStyle) -> None
 
 <a id="unreal.ToolBarStyle.combo_button_style"></a>
 
-#### combo_button_style
+#### combo\_button\_style
 
 ```python
 @property
@@ -917,7 +917,7 @@ def combo_button_style() -> ComboButtonStyle
 
 <a id="unreal.ToolBarStyle.combo_button_style"></a>
 
-#### combo_button_style
+#### combo\_button\_style
 
 ```python
 @combo_button_style.setter
@@ -926,7 +926,7 @@ def combo_button_style(value: ComboButtonStyle) -> None
 
 <a id="unreal.ToolBarStyle.settings_button_style"></a>
 
-#### settings_button_style
+#### settings\_button\_style
 
 ```python
 @property
@@ -937,7 +937,7 @@ def settings_button_style() -> ButtonStyle
 
 <a id="unreal.ToolBarStyle.settings_button_style"></a>
 
-#### settings_button_style
+#### settings\_button\_style
 
 ```python
 @settings_button_style.setter
@@ -946,7 +946,7 @@ def settings_button_style(value: ButtonStyle) -> None
 
 <a id="unreal.ToolBarStyle.settings_combo_button"></a>
 
-#### settings_combo_button
+#### settings\_combo\_button
 
 ```python
 @property
@@ -957,7 +957,7 @@ def settings_combo_button() -> ComboButtonStyle
 
 <a id="unreal.ToolBarStyle.settings_combo_button"></a>
 
-#### settings_combo_button
+#### settings\_combo\_button
 
 ```python
 @settings_combo_button.setter
@@ -966,7 +966,7 @@ def settings_combo_button(value: ComboButtonStyle) -> None
 
 <a id="unreal.ToolBarStyle.settings_toggle_button"></a>
 
-#### settings_toggle_button
+#### settings\_toggle\_button
 
 ```python
 @property
@@ -977,7 +977,7 @@ def settings_toggle_button() -> CheckBoxStyle
 
 <a id="unreal.ToolBarStyle.settings_toggle_button"></a>
 
-#### settings_toggle_button
+#### settings\_toggle\_button
 
 ```python
 @settings_toggle_button.setter
@@ -986,7 +986,7 @@ def settings_toggle_button(value: CheckBoxStyle) -> None
 
 <a id="unreal.ToolBarStyle.button_style"></a>
 
-#### button_style
+#### button\_style
 
 ```python
 @property
@@ -997,7 +997,7 @@ def button_style() -> ButtonStyle
 
 <a id="unreal.ToolBarStyle.button_style"></a>
 
-#### button_style
+#### button\_style
 
 ```python
 @button_style.setter
@@ -1006,7 +1006,7 @@ def button_style(value: ButtonStyle) -> None
 
 <a id="unreal.ToolBarStyle.label_padding"></a>
 
-#### label_padding
+#### label\_padding
 
 ```python
 @property
@@ -1017,7 +1017,7 @@ def label_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.label_padding"></a>
 
-#### label_padding
+#### label\_padding
 
 ```python
 @label_padding.setter
@@ -1026,7 +1026,7 @@ def label_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.uniform_block_width"></a>
 
-#### uniform_block_width
+#### uniform\_block\_width
 
 ```python
 @property
@@ -1037,7 +1037,7 @@ def uniform_block_width() -> float
 
 <a id="unreal.ToolBarStyle.uniform_block_width"></a>
 
-#### uniform_block_width
+#### uniform\_block\_width
 
 ```python
 @uniform_block_width.setter
@@ -1046,7 +1046,7 @@ def uniform_block_width(value: float) -> None
 
 <a id="unreal.ToolBarStyle.uniform_block_height"></a>
 
-#### uniform_block_height
+#### uniform\_block\_height
 
 ```python
 @property
@@ -1057,7 +1057,7 @@ def uniform_block_height() -> float
 
 <a id="unreal.ToolBarStyle.uniform_block_height"></a>
 
-#### uniform_block_height
+#### uniform\_block\_height
 
 ```python
 @uniform_block_height.setter
@@ -1066,7 +1066,7 @@ def uniform_block_height(value: float) -> None
 
 <a id="unreal.ToolBarStyle.num_columns"></a>
 
-#### num_columns
+#### num\_columns
 
 ```python
 @property
@@ -1077,7 +1077,7 @@ def num_columns() -> int
 
 <a id="unreal.ToolBarStyle.num_columns"></a>
 
-#### num_columns
+#### num\_columns
 
 ```python
 @num_columns.setter
@@ -1086,7 +1086,7 @@ def num_columns(value: int) -> None
 
 <a id="unreal.ToolBarStyle.icon_padding"></a>
 
-#### icon_padding
+#### icon\_padding
 
 ```python
 @property
@@ -1097,7 +1097,7 @@ def icon_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.icon_padding"></a>
 
-#### icon_padding
+#### icon\_padding
 
 ```python
 @icon_padding.setter
@@ -1106,7 +1106,7 @@ def icon_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.separator_padding"></a>
 
-#### separator_padding
+#### separator\_padding
 
 ```python
 @property
@@ -1117,7 +1117,7 @@ def separator_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.separator_padding"></a>
 
-#### separator_padding
+#### separator\_padding
 
 ```python
 @separator_padding.setter
@@ -1126,7 +1126,7 @@ def separator_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.separator_thickness"></a>
 
-#### separator_thickness
+#### separator\_thickness
 
 ```python
 @property
@@ -1137,7 +1137,7 @@ def separator_thickness() -> float
 
 <a id="unreal.ToolBarStyle.separator_thickness"></a>
 
-#### separator_thickness
+#### separator\_thickness
 
 ```python
 @separator_thickness.setter
@@ -1146,7 +1146,7 @@ def separator_thickness(value: float) -> None
 
 <a id="unreal.ToolBarStyle.combo_button_padding"></a>
 
-#### combo_button_padding
+#### combo\_button\_padding
 
 ```python
 @property
@@ -1157,7 +1157,7 @@ def combo_button_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.combo_button_padding"></a>
 
-#### combo_button_padding
+#### combo\_button\_padding
 
 ```python
 @combo_button_padding.setter
@@ -1166,7 +1166,7 @@ def combo_button_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.button_padding"></a>
 
-#### button_padding
+#### button\_padding
 
 ```python
 @property
@@ -1177,7 +1177,7 @@ def button_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.button_padding"></a>
 
-#### button_padding
+#### button\_padding
 
 ```python
 @button_padding.setter
@@ -1186,7 +1186,7 @@ def button_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.check_box_padding"></a>
 
-#### check_box_padding
+#### check\_box\_padding
 
 ```python
 @property
@@ -1197,7 +1197,7 @@ def check_box_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.check_box_padding"></a>
 
-#### check_box_padding
+#### check\_box\_padding
 
 ```python
 @check_box_padding.setter
@@ -1206,7 +1206,7 @@ def check_box_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.block_padding"></a>
 
-#### block_padding
+#### block\_padding
 
 ```python
 @property
@@ -1217,7 +1217,7 @@ def block_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.block_padding"></a>
 
-#### block_padding
+#### block\_padding
 
 ```python
 @block_padding.setter
@@ -1226,7 +1226,7 @@ def block_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.indented_block_padding"></a>
 
-#### indented_block_padding
+#### indented\_block\_padding
 
 ```python
 @property
@@ -1237,7 +1237,7 @@ def indented_block_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.indented_block_padding"></a>
 
-#### indented_block_padding
+#### indented\_block\_padding
 
 ```python
 @indented_block_padding.setter
@@ -1246,7 +1246,7 @@ def indented_block_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.background_padding"></a>
 
-#### background_padding
+#### background\_padding
 
 ```python
 @property
@@ -1257,7 +1257,7 @@ def background_padding() -> Margin
 
 <a id="unreal.ToolBarStyle.background_padding"></a>
 
-#### background_padding
+#### background\_padding
 
 ```python
 @background_padding.setter
@@ -1266,7 +1266,7 @@ def background_padding(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.icon_size"></a>
 
-#### icon_size
+#### icon\_size
 
 ```python
 @property
@@ -1277,7 +1277,7 @@ def icon_size() -> DeprecateSlateVector2D
 
 <a id="unreal.ToolBarStyle.icon_size"></a>
 
-#### icon_size
+#### icon\_size
 
 ```python
 @icon_size.setter
@@ -1286,7 +1286,7 @@ def icon_size(value: DeprecateSlateVector2D) -> None
 
 <a id="unreal.ToolBarStyle.show_labels"></a>
 
-#### show_labels
+#### show\_labels
 
 ```python
 @property
@@ -1297,7 +1297,7 @@ def show_labels() -> bool
 
 <a id="unreal.ToolBarStyle.show_labels"></a>
 
-#### show_labels
+#### show\_labels
 
 ```python
 @show_labels.setter
@@ -1306,7 +1306,7 @@ def show_labels(value: bool) -> None
 
 <a id="unreal.ToolBarStyle.button_content_max_width"></a>
 
-#### button_content_max_width
+#### button\_content\_max\_width
 
 ```python
 @property
@@ -1317,7 +1317,7 @@ def button_content_max_width() -> float
 
 <a id="unreal.ToolBarStyle.button_content_max_width"></a>
 
-#### button_content_max_width
+#### button\_content\_max\_width
 
 ```python
 @button_content_max_width.setter
@@ -1326,7 +1326,7 @@ def button_content_max_width(value: float) -> None
 
 <a id="unreal.ToolBarStyle.button_content_fill_width"></a>
 
-#### button_content_fill_width
+#### button\_content\_fill\_width
 
 ```python
 @property
@@ -1337,7 +1337,7 @@ def button_content_fill_width() -> float
 
 <a id="unreal.ToolBarStyle.button_content_fill_width"></a>
 
-#### button_content_fill_width
+#### button\_content\_fill\_width
 
 ```python
 @button_content_fill_width.setter
@@ -1346,7 +1346,7 @@ def button_content_fill_width(value: float) -> None
 
 <a id="unreal.ToolBarStyle.icon_padding_with_visible_label"></a>
 
-#### icon_padding_with_visible_label
+#### icon\_padding\_with\_visible\_label
 
 ```python
 @property
@@ -1357,7 +1357,7 @@ def icon_padding_with_visible_label() -> Margin
 
 <a id="unreal.ToolBarStyle.icon_padding_with_visible_label"></a>
 
-#### icon_padding_with_visible_label
+#### icon\_padding\_with\_visible\_label
 
 ```python
 @icon_padding_with_visible_label.setter
@@ -1366,7 +1366,7 @@ def icon_padding_with_visible_label(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.icon_padding_with_collapsed_label"></a>
 
-#### icon_padding_with_collapsed_label
+#### icon\_padding\_with\_collapsed\_label
 
 ```python
 @property
@@ -1377,7 +1377,7 @@ def icon_padding_with_collapsed_label() -> Margin
 
 <a id="unreal.ToolBarStyle.icon_padding_with_collapsed_label"></a>
 
-#### icon_padding_with_collapsed_label
+#### icon\_padding\_with\_collapsed\_label
 
 ```python
 @icon_padding_with_collapsed_label.setter
@@ -1386,7 +1386,7 @@ def icon_padding_with_collapsed_label(value: Margin) -> None
 
 <a id="unreal.ToolBarStyle.vertical_alignment_override"></a>
 
-#### vertical_alignment_override
+#### vertical\_alignment\_override
 
 ```python
 @property
@@ -1397,7 +1397,7 @@ def vertical_alignment_override() -> type
 
 <a id="unreal.ToolBarStyle.vertical_alignment_override"></a>
 
-#### vertical_alignment_override
+#### vertical\_alignment\_override
 
 ```python
 @vertical_alignment_override.setter

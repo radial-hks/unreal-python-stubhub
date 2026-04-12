@@ -29,7 +29,7 @@ Static data for Light data.
 
 <a id="unreal.LiveLinkLightStaticData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(property_names: Array[Name] = [],
@@ -49,7 +49,7 @@ def __init__(property_names: Array[Name] = [],
 
 <a id="unreal.LiveLinkLightStaticData.is_temperature_supported"></a>
 
-#### is_temperature_supported
+#### is\_temperature\_supported
 
 ```python
 @property
@@ -60,7 +60,7 @@ def is_temperature_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_temperature_supported"></a>
 
-#### is_temperature_supported
+#### is\_temperature\_supported
 
 ```python
 @is_temperature_supported.setter
@@ -69,7 +69,7 @@ def is_temperature_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkLightStaticData.is_intensity_supported"></a>
 
-#### is_intensity_supported
+#### is\_intensity\_supported
 
 ```python
 @property
@@ -80,7 +80,7 @@ def is_intensity_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_intensity_supported"></a>
 
-#### is_intensity_supported
+#### is\_intensity\_supported
 
 ```python
 @is_intensity_supported.setter
@@ -89,7 +89,7 @@ def is_intensity_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkLightStaticData.is_light_color_supported"></a>
 
-#### is_light_color_supported
+#### is\_light\_color\_supported
 
 ```python
 @property
@@ -100,7 +100,7 @@ def is_light_color_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_light_color_supported"></a>
 
-#### is_light_color_supported
+#### is\_light\_color\_supported
 
 ```python
 @is_light_color_supported.setter
@@ -109,7 +109,7 @@ def is_light_color_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkLightStaticData.is_inner_cone_angle_supported"></a>
 
-#### is_inner_cone_angle_supported
+#### is\_inner\_cone\_angle\_supported
 
 ```python
 @property
@@ -120,7 +120,7 @@ def is_inner_cone_angle_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_inner_cone_angle_supported"></a>
 
-#### is_inner_cone_angle_supported
+#### is\_inner\_cone\_angle\_supported
 
 ```python
 @is_inner_cone_angle_supported.setter
@@ -129,7 +129,7 @@ def is_inner_cone_angle_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkLightStaticData.is_outer_cone_angle_supported"></a>
 
-#### is_outer_cone_angle_supported
+#### is\_outer\_cone\_angle\_supported
 
 ```python
 @property
@@ -140,7 +140,7 @@ def is_outer_cone_angle_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_outer_cone_angle_supported"></a>
 
-#### is_outer_cone_angle_supported
+#### is\_outer\_cone\_angle\_supported
 
 ```python
 @is_outer_cone_angle_supported.setter
@@ -149,7 +149,7 @@ def is_outer_cone_angle_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkLightStaticData.is_attenuation_radius_supported"></a>
 
-#### is_attenuation_radius_supported
+#### is\_attenuation\_radius\_supported
 
 ```python
 @property
@@ -160,7 +160,7 @@ def is_attenuation_radius_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_attenuation_radius_supported"></a>
 
-#### is_attenuation_radius_supported
+#### is\_attenuation\_radius\_supported
 
 ```python
 @is_attenuation_radius_supported.setter
@@ -169,7 +169,7 @@ def is_attenuation_radius_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkLightStaticData.is_source_lenght_supported"></a>
 
-#### is_source_lenght_supported
+#### is\_source\_lenght\_supported
 
 ```python
 @property
@@ -180,7 +180,7 @@ def is_source_lenght_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_source_lenght_supported"></a>
 
-#### is_source_lenght_supported
+#### is\_source\_lenght\_supported
 
 ```python
 @is_source_lenght_supported.setter
@@ -189,7 +189,7 @@ def is_source_lenght_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkLightStaticData.is_source_radius_supported"></a>
 
-#### is_source_radius_supported
+#### is\_source\_radius\_supported
 
 ```python
 @property
@@ -200,7 +200,7 @@ def is_source_radius_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_source_radius_supported"></a>
 
-#### is_source_radius_supported
+#### is\_source\_radius\_supported
 
 ```python
 @is_source_radius_supported.setter
@@ -209,7 +209,7 @@ def is_source_radius_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkLightStaticData.is_soft_source_radius_supported"></a>
 
-#### is_soft_source_radius_supported
+#### is\_soft\_source\_radius\_supported
 
 ```python
 @property
@@ -220,7 +220,7 @@ def is_soft_source_radius_supported() -> bool
 
 <a id="unreal.LiveLinkLightStaticData.is_soft_source_radius_supported"></a>
 
-#### is_soft_source_radius_supported
+#### is\_soft\_source\_radius\_supported
 
 ```python
 @is_soft_source_radius_supported.setter

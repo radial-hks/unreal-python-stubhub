@@ -13,7 +13,7 @@ Typed Element Hierarchy Interface
 
 <a id="unreal.TypedElementHierarchyInterface.get_parent_element"></a>
 
-#### get_parent_element
+#### get\_parent\_element
 
 ```python
 def get_parent_element(element_handle: ScriptTypedElementHandle,
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.TypedElementHierarchyInterface.get_child_elements"></a>
 
-#### get_child_elements
+#### get\_child\_elements
 
 ```python
 def get_child_elements(

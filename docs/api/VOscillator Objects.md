@@ -20,7 +20,7 @@ Defines FVector oscillation.
 
 <a id="unreal.VOscillator.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

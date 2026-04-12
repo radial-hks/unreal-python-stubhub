@@ -22,7 +22,7 @@ A property that effect the triggers on a gamepad
 
 <a id="unreal.InputDeviceTriggerEffect.base_trigger_data"></a>
 
-#### base_trigger_data
+#### base\_trigger\_data
 
 ```python
 @property
@@ -33,7 +33,7 @@ def base_trigger_data() -> DeviceTriggerBaseData
 
 <a id="unreal.InputDeviceTriggerEffect.base_trigger_data"></a>
 
-#### base_trigger_data
+#### base\_trigger\_data
 
 ```python
 @base_trigger_data.setter

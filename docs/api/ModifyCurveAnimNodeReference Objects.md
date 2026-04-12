@@ -13,7 +13,7 @@ Modify Curve Anim Node Reference
 
 <a id="unreal.ModifyCurveAnimNodeReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

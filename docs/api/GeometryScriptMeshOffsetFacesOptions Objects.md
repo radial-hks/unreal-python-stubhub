@@ -23,7 +23,7 @@ Geometry Script Mesh Offset Faces Options
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(distance: float = 0.000000,
@@ -62,7 +62,7 @@ def distance(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.offset_type"></a>
 
-#### offset_type
+#### offset\_type
 
 ```python
 @property
@@ -73,7 +73,7 @@ def offset_type() -> GeometryScriptOffsetFacesType
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.offset_type"></a>
 
-#### offset_type
+#### offset\_type
 
 ```python
 @offset_type.setter
@@ -82,7 +82,7 @@ def offset_type(value: GeometryScriptOffsetFacesType) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.area_mode"></a>
 
-#### area_mode
+#### area\_mode
 
 ```python
 @property
@@ -93,7 +93,7 @@ def area_mode() -> GeometryScriptPolyOperationArea
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.area_mode"></a>
 
-#### area_mode
+#### area\_mode
 
 ```python
 @area_mode.setter
@@ -102,7 +102,7 @@ def area_mode(value: GeometryScriptPolyOperationArea) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.group_options"></a>
 
-#### group_options
+#### group\_options
 
 ```python
 @property
@@ -113,7 +113,7 @@ def group_options() -> GeometryScriptMeshEditPolygroupOptions
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.group_options"></a>
 
-#### group_options
+#### group\_options
 
 ```python
 @group_options.setter
@@ -122,7 +122,7 @@ def group_options(value: GeometryScriptMeshEditPolygroupOptions) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @property
@@ -133,7 +133,7 @@ def uv_scale() -> float
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @uv_scale.setter
@@ -142,7 +142,7 @@ def uv_scale(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.solids_to_shells"></a>
 
-#### solids_to_shells
+#### solids\_to\_shells
 
 ```python
 @property
@@ -153,7 +153,7 @@ def solids_to_shells() -> bool
 
 <a id="unreal.GeometryScriptMeshOffsetFacesOptions.solids_to_shells"></a>
 
-#### solids_to_shells
+#### solids\_to\_shells
 
 ```python
 @solids_to_shells.setter

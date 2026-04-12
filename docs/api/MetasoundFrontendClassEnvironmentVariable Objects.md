@@ -14,7 +14,7 @@ Metasound Frontend Class Environment Variable
 
 <a id="unreal.MetasoundFrontendClassEnvironmentVariable.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

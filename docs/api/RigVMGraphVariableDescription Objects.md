@@ -23,7 +23,7 @@ Nodes can share the same variable description.
 
 <a id="unreal.RigVMGraphVariableDescription.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -45,7 +45,7 @@ def name() -> Name
 
 <a id="unreal.RigVMGraphVariableDescription.cpp_type"></a>
 
-#### cpp_type
+#### cpp\_type
 
 ```python
 @property
@@ -56,7 +56,7 @@ def cpp_type() -> str
 
 <a id="unreal.RigVMGraphVariableDescription.cpp_type_object"></a>
 
-#### cpp_type_object
+#### cpp\_type\_object
 
 ```python
 @property
@@ -67,7 +67,7 @@ def cpp_type_object() -> Object
 
 <a id="unreal.RigVMGraphVariableDescription.default_value"></a>
 
-#### default_value
+#### default\_value
 
 ```python
 @property

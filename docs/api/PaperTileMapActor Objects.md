@@ -146,7 +146,7 @@ it is just a thin wrapper around a UPaperTileMapComponent that actually referenc
 
 <a id="unreal.PaperTileMapActor.render_component"></a>
 
-#### render_component
+#### render\_component
 
 ```python
 @property

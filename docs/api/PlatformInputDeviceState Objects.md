@@ -18,7 +18,7 @@ Data about an input device's current state
 
 <a id="unreal.PlatformInputDeviceState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -30,7 +30,7 @@ def __init__(
 
 <a id="unreal.PlatformInputDeviceState.owning_platform_user"></a>
 
-#### owning_platform_user
+#### owning\_platform\_user
 
 ```python
 @property
@@ -41,7 +41,7 @@ def owning_platform_user() -> PlatformUserId
 
 <a id="unreal.PlatformInputDeviceState.connection_state"></a>
 
-#### connection_state
+#### connection\_state
 
 ```python
 @property

@@ -17,7 +17,7 @@ Represent a Widget present in the Tree Widget of the UserWidget
 
 <a id="unreal.WidgetChild.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -18,7 +18,7 @@ Movie Scene Scripting Float Channel
 
 <a id="unreal.MovieSceneScriptingFloatChannel.set_pre_infinity_extrapolation"></a>
 
-#### set_pre_infinity_extrapolation
+#### set\_pre\_infinity\_extrapolation
 
 ```python
 def set_pre_infinity_extrapolation(
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.set_post_infinity_extrapolation"></a>
 
-#### set_post_infinity_extrapolation
+#### set\_post\_infinity\_extrapolation
 
 ```python
 def set_post_infinity_extrapolation(
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.set_default"></a>
 
-#### set_default
+#### set\_default
 
 ```python
 def set_default(default_value: float) -> None
@@ -63,7 +63,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.remove_key"></a>
 
-#### remove_key
+#### remove\_key
 
 ```python
 def remove_key(key: MovieSceneScriptingKey) -> None
@@ -77,7 +77,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.remove_default"></a>
 
-#### remove_default
+#### remove\_default
 
 ```python
 def remove_default() -> None
@@ -88,7 +88,7 @@ Remove this channel's default value causing the channel to have no effect where 
 
 <a id="unreal.MovieSceneScriptingFloatChannel.has_default"></a>
 
-#### has_default
+#### has\_default
 
 ```python
 def has_default() -> bool
@@ -102,7 +102,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.get_pre_infinity_extrapolation"></a>
 
-#### get_pre_infinity_extrapolation
+#### get\_pre\_infinity\_extrapolation
 
 ```python
 def get_pre_infinity_extrapolation() -> RichCurveExtrapolation
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.get_post_infinity_extrapolation"></a>
 
-#### get_post_infinity_extrapolation
+#### get\_post\_infinity\_extrapolation
 
 ```python
 def get_post_infinity_extrapolation() -> RichCurveExtrapolation
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.get_num_keys"></a>
 
-#### get_num_keys
+#### get\_num\_keys
 
 ```python
 def get_num_keys() -> int
@@ -144,7 +144,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.get_keys_by_index"></a>
 
-#### get_keys_by_index
+#### get\_keys\_by\_index
 
 ```python
 def get_keys_by_index(indices: Array[int]) -> Array[MovieSceneScriptingKey]
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.get_keys"></a>
 
-#### get_keys
+#### get\_keys
 
 ```python
 def get_keys() -> Array[MovieSceneScriptingKey]
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.get_default"></a>
 
-#### get_default
+#### get\_default
 
 ```python
 def get_default() -> float
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.evaluate_keys"></a>
 
-#### evaluate_keys
+#### evaluate\_keys
 
 ```python
 def evaluate_keys(range: SequencerScriptingRange,
@@ -210,7 +210,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.compute_effective_range"></a>
 
-#### compute_effective_range
+#### compute\_effective\_range
 
 ```python
 def compute_effective_range() -> SequencerScriptingRange
@@ -224,7 +224,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingFloatChannel.add_key"></a>
 
-#### add_key
+#### add\_key
 
 ```python
 def add_key(

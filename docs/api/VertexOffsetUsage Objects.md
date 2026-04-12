@@ -17,7 +17,7 @@ Vertex Offset Usage
 
 <a id="unreal.VertexOffsetUsage.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

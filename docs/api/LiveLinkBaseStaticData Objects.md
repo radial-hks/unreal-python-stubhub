@@ -19,7 +19,7 @@ note: subclass can't contains reference to UObject
 
 <a id="unreal.LiveLinkBaseStaticData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(property_names: Array[Name] = []) -> None
@@ -27,7 +27,7 @@ def __init__(property_names: Array[Name] = []) -> None
 
 <a id="unreal.LiveLinkBaseStaticData.property_names"></a>
 
-#### property_names
+#### property\_names
 
 ```python
 @property
@@ -38,7 +38,7 @@ def property_names() -> Array[Name]
 
 <a id="unreal.LiveLinkBaseStaticData.property_names"></a>
 
-#### property_names
+#### property\_names
 
 ```python
 @property_names.setter

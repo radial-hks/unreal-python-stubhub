@@ -27,7 +27,7 @@ Base class for 3D constraint section
 
 <a id="unreal.MovieScene3DConstraintSection.set_constraint_binding_id"></a>
 
-#### set_constraint_binding_id
+#### set\_constraint\_binding\_id
 
 ```python
 def set_constraint_binding_id(
@@ -42,7 +42,7 @@ Args:
 
 <a id="unreal.MovieScene3DConstraintSection.get_constraint_binding_id"></a>
 
-#### get_constraint_binding_id
+#### get\_constraint\_binding\_id
 
 ```python
 def get_constraint_binding_id() -> MovieSceneObjectBindingID

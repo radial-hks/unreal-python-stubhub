@@ -28,7 +28,7 @@ Represents the appearance of a Sampled Sequence Viewer
 
 <a id="unreal.SampledSequenceViewerStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sequence_color: SlateColor = [[
@@ -66,7 +66,7 @@ def __init__(sequence_color: SlateColor = [[
 
 <a id="unreal.SampledSequenceViewerStyle.sequence_color"></a>
 
-#### sequence_color
+#### sequence\_color
 
 ```python
 @property
@@ -77,7 +77,7 @@ def sequence_color() -> SlateColor
 
 <a id="unreal.SampledSequenceViewerStyle.sequence_color"></a>
 
-#### sequence_color
+#### sequence\_color
 
 ```python
 @sequence_color.setter
@@ -86,7 +86,7 @@ def sequence_color(value: SlateColor) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.sequence_line_thickness"></a>
 
-#### sequence_line_thickness
+#### sequence\_line\_thickness
 
 ```python
 @property
@@ -97,7 +97,7 @@ def sequence_line_thickness() -> float
 
 <a id="unreal.SampledSequenceViewerStyle.sequence_line_thickness"></a>
 
-#### sequence_line_thickness
+#### sequence\_line\_thickness
 
 ```python
 @sequence_line_thickness.setter
@@ -106,7 +106,7 @@ def sequence_line_thickness(value: float) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.major_grid_line_color"></a>
 
-#### major_grid_line_color
+#### major\_grid\_line\_color
 
 ```python
 @property
@@ -117,7 +117,7 @@ def major_grid_line_color() -> SlateColor
 
 <a id="unreal.SampledSequenceViewerStyle.major_grid_line_color"></a>
 
-#### major_grid_line_color
+#### major\_grid\_line\_color
 
 ```python
 @major_grid_line_color.setter
@@ -126,7 +126,7 @@ def major_grid_line_color(value: SlateColor) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.minor_grid_line_color"></a>
 
-#### minor_grid_line_color
+#### minor\_grid\_line\_color
 
 ```python
 @property
@@ -137,7 +137,7 @@ def minor_grid_line_color() -> SlateColor
 
 <a id="unreal.SampledSequenceViewerStyle.minor_grid_line_color"></a>
 
-#### minor_grid_line_color
+#### minor\_grid\_line\_color
 
 ```python
 @minor_grid_line_color.setter
@@ -146,7 +146,7 @@ def minor_grid_line_color(value: SlateColor) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.zero_crossing_line_color"></a>
 
-#### zero_crossing_line_color
+#### zero\_crossing\_line\_color
 
 ```python
 @property
@@ -157,7 +157,7 @@ def zero_crossing_line_color() -> SlateColor
 
 <a id="unreal.SampledSequenceViewerStyle.zero_crossing_line_color"></a>
 
-#### zero_crossing_line_color
+#### zero\_crossing\_line\_color
 
 ```python
 @zero_crossing_line_color.setter
@@ -166,7 +166,7 @@ def zero_crossing_line_color(value: SlateColor) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.zero_crossing_line_thickness"></a>
 
-#### zero_crossing_line_thickness
+#### zero\_crossing\_line\_thickness
 
 ```python
 @property
@@ -177,7 +177,7 @@ def zero_crossing_line_thickness() -> float
 
 <a id="unreal.SampledSequenceViewerStyle.zero_crossing_line_thickness"></a>
 
-#### zero_crossing_line_thickness
+#### zero\_crossing\_line\_thickness
 
 ```python
 @zero_crossing_line_thickness.setter
@@ -186,7 +186,7 @@ def zero_crossing_line_thickness(value: float) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.sample_markers_size"></a>
 
-#### sample_markers_size
+#### sample\_markers\_size
 
 ```python
 @property
@@ -197,7 +197,7 @@ def sample_markers_size() -> float
 
 <a id="unreal.SampledSequenceViewerStyle.sample_markers_size"></a>
 
-#### sample_markers_size
+#### sample\_markers\_size
 
 ```python
 @sample_markers_size.setter
@@ -206,7 +206,7 @@ def sample_markers_size(value: float) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.sequence_background_color"></a>
 
-#### sequence_background_color
+#### sequence\_background\_color
 
 ```python
 @property
@@ -217,7 +217,7 @@ def sequence_background_color() -> SlateColor
 
 <a id="unreal.SampledSequenceViewerStyle.sequence_background_color"></a>
 
-#### sequence_background_color
+#### sequence\_background\_color
 
 ```python
 @sequence_background_color.setter
@@ -226,7 +226,7 @@ def sequence_background_color(value: SlateColor) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @property
@@ -237,7 +237,7 @@ def background_brush() -> SlateBrush
 
 <a id="unreal.SampledSequenceViewerStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @background_brush.setter
@@ -246,7 +246,7 @@ def background_brush(value: SlateBrush) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.desired_width"></a>
 
-#### desired_width
+#### desired\_width
 
 ```python
 @property
@@ -257,7 +257,7 @@ def desired_width() -> float
 
 <a id="unreal.SampledSequenceViewerStyle.desired_width"></a>
 
-#### desired_width
+#### desired\_width
 
 ```python
 @desired_width.setter
@@ -266,7 +266,7 @@ def desired_width(value: float) -> None
 
 <a id="unreal.SampledSequenceViewerStyle.desired_height"></a>
 
-#### desired_height
+#### desired\_height
 
 ```python
 @property
@@ -277,7 +277,7 @@ def desired_height() -> float
 
 <a id="unreal.SampledSequenceViewerStyle.desired_height"></a>
 
-#### desired_height
+#### desired\_height
 
 ```python
 @desired_height.setter

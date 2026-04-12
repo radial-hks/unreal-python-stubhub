@@ -97,7 +97,7 @@ To make a widget usable as an entry in a TreeView, it must inherit from the IUse
 
 <a id="unreal.TreeView.bp_on_item_expansion_changed"></a>
 
-#### bp_on_item_expansion_changed
+#### bp\_on\_item\_expansion\_changed
 
 ```python
 @property
@@ -108,7 +108,7 @@ def bp_on_item_expansion_changed() -> OnItemExpansionChangedDynamic
 
 <a id="unreal.TreeView.bp_on_item_expansion_changed"></a>
 
-#### bp_on_item_expansion_changed
+#### bp\_on\_item\_expansion\_changed
 
 ```python
 @bp_on_item_expansion_changed.setter
@@ -117,7 +117,7 @@ def bp_on_item_expansion_changed(value: OnItemExpansionChangedDynamic) -> None
 
 <a id="unreal.TreeView.set_item_expansion"></a>
 
-#### set_item_expansion
+#### set\_item\_expansion
 
 ```python
 def set_item_expansion(item: Object, expand_item: bool) -> None
@@ -132,7 +132,7 @@ Args:
 
 <a id="unreal.TreeView.expand_all"></a>
 
-#### expand_all
+#### expand\_all
 
 ```python
 def expand_all() -> None
@@ -143,7 +143,7 @@ Expands all items with children
 
 <a id="unreal.TreeView.collapse_all"></a>
 
-#### collapse_all
+#### collapse\_all
 
 ```python
 def collapse_all() -> None

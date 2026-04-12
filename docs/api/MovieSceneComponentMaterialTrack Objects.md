@@ -24,7 +24,7 @@ A material track which is specialized for animation materials which are owned by
 
 <a id="unreal.MovieSceneComponentMaterialTrack.material_index"></a>
 
-#### material_index
+#### material\_index
 
 ```python
 @property
@@ -36,7 +36,7 @@ deprecated: Use MaterialInfo instead.
 
 <a id="unreal.MovieSceneComponentMaterialTrack.material_index"></a>
 
-#### material_index
+#### material\_index
 
 ```python
 @material_index.setter
@@ -45,7 +45,7 @@ def material_index(value: int) -> None
 
 <a id="unreal.MovieSceneComponentMaterialTrack.set_material_info"></a>
 
-#### set_material_info
+#### set\_material\_info
 
 ```python
 def set_material_info(material_info: ComponentMaterialInfo) -> None
@@ -59,7 +59,7 @@ Args:
 
 <a id="unreal.MovieSceneComponentMaterialTrack.set_material_index"></a>
 
-#### set_material_index
+#### set\_material\_index
 
 ```python
 def set_material_index(material_index: int) -> None
@@ -74,7 +74,7 @@ Args:
 
 <a id="unreal.MovieSceneComponentMaterialTrack.get_material_info"></a>
 
-#### get_material_info
+#### get\_material\_info
 
 ```python
 def get_material_info() -> ComponentMaterialInfo
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.MovieSceneComponentMaterialTrack.get_material_index"></a>
 
-#### get_material_index
+#### get\_material\_index
 
 ```python
 def get_material_index() -> int

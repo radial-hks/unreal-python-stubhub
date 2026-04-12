@@ -145,7 +145,7 @@ A ConcertClientPresenceActor is a transient actor representing other client pres
 
 <a id="unreal.ConcertClientPresenceActor.presence_device_type"></a>
 
-#### presence_device_type
+#### presence\_device\_type
 
 ```python
 @property
@@ -156,7 +156,7 @@ def presence_device_type() -> Name
 
 <a id="unreal.ConcertClientPresenceActor.presence_mesh_component"></a>
 
-#### presence_mesh_component
+#### presence\_mesh\_component
 
 ```python
 @property
@@ -167,7 +167,7 @@ def presence_mesh_component() -> StaticMeshComponent
 
 <a id="unreal.ConcertClientPresenceActor.presence_text_component"></a>
 
-#### presence_text_component
+#### presence\_text\_component
 
 ```python
 @property

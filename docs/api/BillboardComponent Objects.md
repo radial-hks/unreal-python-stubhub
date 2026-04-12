@@ -219,7 +219,7 @@ def sprite(value: Texture2D) -> None
 
 <a id="unreal.BillboardComponent.is_screen_size_scaled"></a>
 
-#### is_screen_size_scaled
+#### is\_screen\_size\_scaled
 
 ```python
 @property
@@ -230,7 +230,7 @@ def is_screen_size_scaled() -> bool
 
 <a id="unreal.BillboardComponent.is_screen_size_scaled"></a>
 
-#### is_screen_size_scaled
+#### is\_screen\_size\_scaled
 
 ```python
 @is_screen_size_scaled.setter
@@ -239,7 +239,7 @@ def is_screen_size_scaled(value: bool) -> None
 
 <a id="unreal.BillboardComponent.screen_size"></a>
 
-#### screen_size
+#### screen\_size
 
 ```python
 @property
@@ -250,7 +250,7 @@ def screen_size() -> float
 
 <a id="unreal.BillboardComponent.screen_size"></a>
 
-#### screen_size
+#### screen\_size
 
 ```python
 @screen_size.setter
@@ -339,7 +339,7 @@ def vl(value: float) -> None
 
 <a id="unreal.BillboardComponent.opacity_mask_ref_val"></a>
 
-#### opacity_mask_ref_val
+#### opacity\_mask\_ref\_val
 
 ```python
 @property
@@ -350,7 +350,7 @@ def opacity_mask_ref_val() -> float
 
 <a id="unreal.BillboardComponent.opacity_mask_ref_val"></a>
 
-#### opacity_mask_ref_val
+#### opacity\_mask\_ref\_val
 
 ```python
 @opacity_mask_ref_val.setter
@@ -359,7 +359,7 @@ def opacity_mask_ref_val(value: float) -> None
 
 <a id="unreal.BillboardComponent.use_in_editor_scaling"></a>
 
-#### use_in_editor_scaling
+#### use\_in\_editor\_scaling
 
 ```python
 @property
@@ -370,7 +370,7 @@ def use_in_editor_scaling() -> bool
 
 <a id="unreal.BillboardComponent.use_in_editor_scaling"></a>
 
-#### use_in_editor_scaling
+#### use\_in\_editor\_scaling
 
 ```python
 @use_in_editor_scaling.setter
@@ -379,7 +379,7 @@ def use_in_editor_scaling(value: bool) -> None
 
 <a id="unreal.BillboardComponent.set_uv"></a>
 
-#### set_uv
+#### set\_uv
 
 ```python
 def set_uv(new_u: int, new_ul: int, new_v: int, new_vl: int) -> None
@@ -396,7 +396,7 @@ Args:
 
 <a id="unreal.BillboardComponent.set_sprite_and_uv"></a>
 
-#### set_sprite_and_uv
+#### set\_sprite\_and\_uv
 
 ```python
 def set_sprite_and_uv(new_sprite: Texture2D, new_u: int, new_ul: int,
@@ -415,7 +415,7 @@ Args:
 
 <a id="unreal.BillboardComponent.set_sprite"></a>
 
-#### set_sprite
+#### set\_sprite
 
 ```python
 def set_sprite(new_sprite: Texture2D) -> None
@@ -429,7 +429,7 @@ Args:
 
 <a id="unreal.BillboardComponent.set_opacity_mask_ref_val"></a>
 
-#### set_opacity_mask_ref_val
+#### set\_opacity\_mask\_ref\_val
 
 ```python
 def set_opacity_mask_ref_val(ref_val: float) -> None

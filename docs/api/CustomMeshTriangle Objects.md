@@ -20,7 +20,7 @@ Custom Mesh Triangle
 
 <a id="unreal.CustomMeshTriangle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(vertex0: Vector = [0.000000, 0.000000, 0.000000],
@@ -88,4 +88,4 @@ def vertex2() -> Vector
 def vertex2(value: Vector) -> None
 ```
 
-<a id="unreal.ModelingToolsAxisFilter"></a>
+<a id="unreal.DataRegistryLookup"></a>

@@ -14,19 +14,19 @@ List of niagara solvers
 
 <a id="unreal.GroomNiagaraSolvers.COSSERAT_RODS"></a>
 
-#### COSSERAT_RODS
+#### COSSERAT\_RODS
 
 2
 
 <a id="unreal.GroomNiagaraSolvers.ANGULAR_SPRINGS"></a>
 
-#### ANGULAR_SPRINGS
+#### ANGULAR\_SPRINGS
 
 4
 
 <a id="unreal.GroomNiagaraSolvers.CUSTOM_SOLVER"></a>
 
-#### CUSTOM_SOLVER
+#### CUSTOM\_SOLVER
 
 8
 

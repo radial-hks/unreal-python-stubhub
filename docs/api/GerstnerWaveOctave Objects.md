@@ -22,7 +22,7 @@ Gerstner Wave Octave
 
 <a id="unreal.GerstnerWaveOctave.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(num_waves: int = 0,
@@ -34,7 +34,7 @@ def __init__(num_waves: int = 0,
 
 <a id="unreal.GerstnerWaveOctave.num_waves"></a>
 
-#### num_waves
+#### num\_waves
 
 ```python
 @property
@@ -45,7 +45,7 @@ def num_waves() -> int
 
 <a id="unreal.GerstnerWaveOctave.num_waves"></a>
 
-#### num_waves
+#### num\_waves
 
 ```python
 @num_waves.setter
@@ -54,7 +54,7 @@ def num_waves(value: int) -> None
 
 <a id="unreal.GerstnerWaveOctave.amplitude_scale"></a>
 
-#### amplitude_scale
+#### amplitude\_scale
 
 ```python
 @property
@@ -65,7 +65,7 @@ def amplitude_scale() -> float
 
 <a id="unreal.GerstnerWaveOctave.amplitude_scale"></a>
 
-#### amplitude_scale
+#### amplitude\_scale
 
 ```python
 @amplitude_scale.setter
@@ -74,7 +74,7 @@ def amplitude_scale(value: float) -> None
 
 <a id="unreal.GerstnerWaveOctave.main_direction"></a>
 
-#### main_direction
+#### main\_direction
 
 ```python
 @property
@@ -85,7 +85,7 @@ def main_direction() -> float
 
 <a id="unreal.GerstnerWaveOctave.main_direction"></a>
 
-#### main_direction
+#### main\_direction
 
 ```python
 @main_direction.setter
@@ -94,7 +94,7 @@ def main_direction(value: float) -> None
 
 <a id="unreal.GerstnerWaveOctave.spread_angle"></a>
 
-#### spread_angle
+#### spread\_angle
 
 ```python
 @property
@@ -105,7 +105,7 @@ def spread_angle() -> float
 
 <a id="unreal.GerstnerWaveOctave.spread_angle"></a>
 
-#### spread_angle
+#### spread\_angle
 
 ```python
 @spread_angle.setter
@@ -114,7 +114,7 @@ def spread_angle(value: float) -> None
 
 <a id="unreal.GerstnerWaveOctave.uniform_spread"></a>
 
-#### uniform_spread
+#### uniform\_spread
 
 ```python
 @property
@@ -125,7 +125,7 @@ def uniform_spread() -> bool
 
 <a id="unreal.GerstnerWaveOctave.uniform_spread"></a>
 
-#### uniform_spread
+#### uniform\_spread
 
 ```python
 @uniform_spread.setter

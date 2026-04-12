@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto UMovieSceneSeque
 
 <a id="unreal.MovieSceneSequenceExtensions.sort_marked_frames"></a>
 
-#### sort_marked_frames
+#### sort\_marked\_frames
 
 ```python
 @classmethod
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_work_range_start"></a>
 
-#### set_work_range_start
+#### set\_work\_range\_start
 
 ```python
 @classmethod
@@ -46,7 +46,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_work_range_end"></a>
 
-#### set_work_range_end
+#### set\_work\_range\_end
 
 ```python
 @classmethod
@@ -63,7 +63,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_view_range_start"></a>
 
-#### set_view_range_start
+#### set\_view\_range\_start
 
 ```python
 @classmethod
@@ -80,7 +80,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_view_range_end"></a>
 
-#### set_view_range_end
+#### set\_view\_range\_end
 
 ```python
 @classmethod
@@ -97,7 +97,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_tick_resolution_directly"></a>
 
-#### set_tick_resolution_directly
+#### set\_tick\_resolution\_directly
 
 ```python
 @classmethod
@@ -114,7 +114,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_tick_resolution"></a>
 
-#### set_tick_resolution
+#### set\_tick\_resolution
 
 ```python
 @classmethod
@@ -131,7 +131,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_read_only"></a>
 
-#### set_read_only
+#### set\_read\_only
 
 ```python
 @classmethod
@@ -150,7 +150,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_playback_start_seconds"></a>
 
-#### set_playback_start_seconds
+#### set\_playback\_start\_seconds
 
 ```python
 @classmethod
@@ -167,7 +167,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_playback_start"></a>
 
-#### set_playback_start
+#### set\_playback\_start
 
 ```python
 @classmethod
@@ -184,7 +184,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_playback_range_locked"></a>
 
-#### set_playback_range_locked
+#### set\_playback\_range\_locked
 
 ```python
 @classmethod
@@ -204,7 +204,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_playback_end_seconds"></a>
 
-#### set_playback_end_seconds
+#### set\_playback\_end\_seconds
 
 ```python
 @classmethod
@@ -221,7 +221,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_playback_end"></a>
 
-#### set_playback_end
+#### set\_playback\_end
 
 ```python
 @classmethod
@@ -238,7 +238,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_marked_frames_locked"></a>
 
-#### set_marked_frames_locked
+#### set\_marked\_frames\_locked
 
 ```python
 @classmethod
@@ -258,7 +258,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_marked_frame_in_sequence"></a>
 
-#### set_marked_frame_in_sequence
+#### set\_marked\_frame\_in\_sequence
 
 ```python
 @classmethod
@@ -286,7 +286,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_marked_frame"></a>
 
-#### set_marked_frame
+#### set\_marked\_frame
 
 ```python
 @classmethod
@@ -305,7 +305,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_evaluation_type"></a>
 
-#### set_evaluation_type
+#### set\_evaluation\_type
 
 ```python
 @classmethod
@@ -322,7 +322,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_display_rate"></a>
 
-#### set_display_rate
+#### set\_display\_rate
 
 ```python
 @classmethod
@@ -339,7 +339,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.set_clock_source"></a>
 
-#### set_clock_source
+#### set\_clock\_source
 
 ```python
 @classmethod
@@ -356,7 +356,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.resolve_binding_id"></a>
 
-#### resolve_binding_id
+#### resolve\_binding\_id
 
 ```python
 @classmethod
@@ -378,7 +378,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.remove_track"></a>
 
-#### remove_track
+#### remove\_track
 
 ```python
 @classmethod
@@ -398,7 +398,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.remove_root_folder_from_sequence"></a>
 
-#### remove_root_folder_from_sequence
+#### remove\_root\_folder\_from\_sequence
 
 ```python
 @classmethod
@@ -415,7 +415,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.make_range_seconds"></a>
 
-#### make_range_seconds
+#### make\_range\_seconds
 
 ```python
 @classmethod
@@ -436,7 +436,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.make_range"></a>
 
-#### make_range
+#### make\_range
 
 ```python
 @classmethod
@@ -457,7 +457,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.locate_bound_objects"></a>
 
-#### locate_bound_objects
+#### locate\_bound\_objects
 
 ```python
 @classmethod
@@ -479,7 +479,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.is_read_only"></a>
 
-#### is_read_only
+#### is\_read\_only
 
 ```python
 @classmethod
@@ -499,7 +499,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.is_playback_range_locked"></a>
 
-#### is_playback_range_locked
+#### is\_playback\_range\_locked
 
 ```python
 @classmethod
@@ -519,7 +519,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_work_range_start"></a>
 
-#### get_work_range_start
+#### get\_work\_range\_start
 
 ```python
 @classmethod
@@ -537,7 +537,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_work_range_end"></a>
 
-#### get_work_range_end
+#### get\_work\_range\_end
 
 ```python
 @classmethod
@@ -555,7 +555,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_view_range_start"></a>
 
-#### get_view_range_start
+#### get\_view\_range\_start
 
 ```python
 @classmethod
@@ -573,7 +573,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_view_range_end"></a>
 
-#### get_view_range_end
+#### get\_view\_range\_end
 
 ```python
 @classmethod
@@ -591,7 +591,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_tracks"></a>
 
-#### get_tracks
+#### get\_tracks
 
 ```python
 @classmethod
@@ -609,7 +609,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_tick_resolution"></a>
 
-#### get_tick_resolution
+#### get\_tick\_resolution
 
 ```python
 @classmethod
@@ -627,7 +627,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_spawnables"></a>
 
-#### get_spawnables
+#### get\_spawnables
 
 ```python
 @classmethod
@@ -646,7 +646,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_root_folders_in_sequence"></a>
 
-#### get_root_folders_in_sequence
+#### get\_root\_folders\_in\_sequence
 
 ```python
 @classmethod
@@ -665,7 +665,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_possessables"></a>
 
-#### get_possessables
+#### get\_possessables
 
 ```python
 @classmethod
@@ -684,7 +684,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_portable_binding_id"></a>
 
-#### get_portable_binding_id
+#### get\_portable\_binding\_id
 
 ```python
 @classmethod
@@ -709,7 +709,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_playback_start_seconds"></a>
 
-#### get_playback_start_seconds
+#### get\_playback\_start\_seconds
 
 ```python
 @classmethod
@@ -727,7 +727,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_playback_start"></a>
 
-#### get_playback_start
+#### get\_playback\_start
 
 ```python
 @classmethod
@@ -745,7 +745,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_playback_range"></a>
 
-#### get_playback_range
+#### get\_playback\_range
 
 ```python
 @classmethod
@@ -764,7 +764,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_playback_end_seconds"></a>
 
-#### get_playback_end_seconds
+#### get\_playback\_end\_seconds
 
 ```python
 @classmethod
@@ -782,7 +782,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_playback_end"></a>
 
-#### get_playback_end
+#### get\_playback\_end
 
 ```python
 @classmethod
@@ -800,7 +800,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_movie_scene"></a>
 
-#### get_movie_scene
+#### get\_movie\_scene
 
 ```python
 @classmethod
@@ -818,7 +818,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_marked_frames_from_sequence"></a>
 
-#### get_marked_frames_from_sequence
+#### get\_marked\_frames\_from\_sequence
 
 ```python
 @classmethod
@@ -843,7 +843,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_marked_frames"></a>
 
-#### get_marked_frames
+#### get\_marked\_frames
 
 ```python
 @classmethod
@@ -863,7 +863,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_evaluation_type"></a>
 
-#### get_evaluation_type
+#### get\_evaluation\_type
 
 ```python
 @classmethod
@@ -882,7 +882,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_display_rate"></a>
 
-#### get_display_rate
+#### get\_display\_rate
 
 ```python
 @classmethod
@@ -900,7 +900,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_clock_source"></a>
 
-#### get_clock_source
+#### get\_clock\_source
 
 ```python
 @classmethod
@@ -918,7 +918,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_bindings"></a>
 
-#### get_bindings
+#### get\_bindings
 
 ```python
 @classmethod
@@ -937,7 +937,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.get_binding_id"></a>
 
-#### get_binding_id
+#### get\_binding\_id
 
 ```python
 @classmethod
@@ -959,7 +959,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_tracks_by_type"></a>
 
-#### find_tracks_by_type
+#### find\_tracks\_by\_type
 
 ```python
 @classmethod
@@ -979,7 +979,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_tracks_by_exact_type"></a>
 
-#### find_tracks_by_exact_type
+#### find\_tracks\_by\_exact\_type
 
 ```python
 @classmethod
@@ -999,7 +999,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_next_marked_frame_in_sequence"></a>
 
-#### find_next_marked_frame_in_sequence
+#### find\_next\_marked\_frame\_in\_sequence
 
 ```python
 @classmethod
@@ -1030,7 +1030,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_next_marked_frame"></a>
 
-#### find_next_marked_frame
+#### find\_next\_marked\_frame
 
 ```python
 @classmethod
@@ -1052,7 +1052,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_marked_frame_by_label"></a>
 
-#### find_marked_frame_by_label
+#### find\_marked\_frame\_by\_label
 
 ```python
 @classmethod
@@ -1075,7 +1075,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_marked_frame_by_frame_number_in_sequence"></a>
 
-#### find_marked_frame_by_frame_number_in_sequence
+#### find\_marked\_frame\_by\_frame\_number\_in\_sequence
 
 ```python
 @classmethod
@@ -1103,7 +1103,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_marked_frame_by_frame_number"></a>
 
-#### find_marked_frame_by_frame_number
+#### find\_marked\_frame\_by\_frame\_number
 
 ```python
 @classmethod
@@ -1124,7 +1124,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_binding_by_name"></a>
 
-#### find_binding_by_name
+#### find\_binding\_by\_name
 
 ```python
 @classmethod
@@ -1144,7 +1144,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.find_binding_by_id"></a>
 
-#### find_binding_by_id
+#### find\_binding\_by\_id
 
 ```python
 @classmethod
@@ -1164,7 +1164,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.delete_marked_frames"></a>
 
-#### delete_marked_frames
+#### delete\_marked\_frames
 
 ```python
 @classmethod
@@ -1179,7 +1179,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.delete_marked_frame"></a>
 
-#### delete_marked_frame
+#### delete\_marked\_frame
 
 ```python
 @classmethod
@@ -1199,7 +1199,7 @@ Args:
 
 <a id="unreal.MovieSceneSequenceExtensions.are_marked_frames_locked"></a>
 
-#### are_marked_frames_locked
+#### are\_marked\_frames\_locked
 
 ```python
 @classmethod
@@ -1219,7 +1219,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.add_track"></a>
 
-#### add_track
+#### add\_track
 
 ```python
 @classmethod
@@ -1239,7 +1239,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.add_spawnable_from_instance"></a>
 
-#### add_spawnable_from_instance
+#### add\_spawnable\_from\_instance
 
 ```python
 @classmethod
@@ -1261,7 +1261,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.add_spawnable_from_class"></a>
 
-#### add_spawnable_from_class
+#### add\_spawnable\_from\_class
 
 ```python
 @classmethod
@@ -1282,7 +1282,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.add_root_folder_to_sequence"></a>
 
-#### add_root_folder_to_sequence
+#### add\_root\_folder\_to\_sequence
 
 ```python
 @classmethod
@@ -1302,7 +1302,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.add_possessable"></a>
 
-#### add_possessable
+#### add\_possessable
 
 ```python
 @classmethod
@@ -1322,7 +1322,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.add_marked_frame_to_sequence"></a>
 
-#### add_marked_frame_to_sequence
+#### add\_marked\_frame\_to\_sequence
 
 ```python
 @classmethod
@@ -1351,7 +1351,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequenceExtensions.add_marked_frame"></a>
 
-#### add_marked_frame
+#### add\_marked\_frame
 
 ```python
 @classmethod

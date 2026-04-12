@@ -19,7 +19,7 @@ Submix Effect Dynamic Processor Filter Settings
 
 <a id="unreal.SubmixEffectDynamicProcessorFilterSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enabled: bool = False,
@@ -69,7 +69,7 @@ def cutoff(value: float) -> None
 
 <a id="unreal.SubmixEffectDynamicProcessorFilterSettings.gain_db"></a>
 
-#### gain_db
+#### gain\_db
 
 ```python
 @property
@@ -80,7 +80,7 @@ def gain_db() -> float
 
 <a id="unreal.SubmixEffectDynamicProcessorFilterSettings.gain_db"></a>
 
-#### gain_db
+#### gain\_db
 
 ```python
 @gain_db.setter

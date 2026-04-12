@@ -29,7 +29,7 @@ Brain Component
 
 <a id="unreal.BrainComponent.stop_logic"></a>
 
-#### stop_logic
+#### stop\_logic
 
 ```python
 def stop_logic(reason: str) -> None
@@ -43,7 +43,7 @@ Args:
 
 <a id="unreal.BrainComponent.start_logic"></a>
 
-#### start_logic
+#### start\_logic
 
 ```python
 def start_logic() -> None
@@ -54,7 +54,7 @@ Starts brain logic. If brain is already running, will not do anything.
 
 <a id="unreal.BrainComponent.restart_logic"></a>
 
-#### restart_logic
+#### restart\_logic
 
 ```python
 def restart_logic() -> None
@@ -65,7 +65,7 @@ Restarts currently running or previously ran brain logic.
 
 <a id="unreal.BrainComponent.is_running"></a>
 
-#### is_running
+#### is\_running
 
 ```python
 def is_running() -> bool
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.BrainComponent.is_paused"></a>
 
-#### is_paused
+#### is\_paused
 
 ```python
 def is_paused() -> bool

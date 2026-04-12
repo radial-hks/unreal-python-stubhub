@@ -14,7 +14,7 @@ EOnline Proxy Store Offer Discount Type
 
 <a id="unreal.OnlineProxyStoreOfferDiscountType.NOT_ON_SALE"></a>
 
-#### NOT_ON_SALE
+#### NOT\_ON\_SALE
 
 0: Offer isn't on sale
 
@@ -26,13 +26,13 @@ EOnline Proxy Store Offer Discount Type
 
 <a id="unreal.OnlineProxyStoreOfferDiscountType.DISCOUNT_AMOUNT"></a>
 
-#### DISCOUNT_AMOUNT
+#### DISCOUNT\_AMOUNT
 
 2: Offer price should be displayed as an amount off regular price
 
 <a id="unreal.OnlineProxyStoreOfferDiscountType.PAY_AMOUNT"></a>
 
-#### PAY_AMOUNT
+#### PAY\_AMOUNT
 
 3: Offer price should be displayed as a new price
 

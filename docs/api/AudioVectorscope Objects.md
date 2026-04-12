@@ -60,7 +60,7 @@ Supports displaying waveforms in 2D (Left channel X axis, Right channel Y axis) 
 
 <a id="unreal.AudioVectorscope.vectorscope_style"></a>
 
-#### vectorscope_style
+#### vectorscope\_style
 
 ```python
 @property
@@ -71,7 +71,7 @@ def vectorscope_style() -> AudioVectorscopePanelStyle
 
 <a id="unreal.AudioVectorscope.audio_bus"></a>
 
-#### audio_bus
+#### audio\_bus
 
 ```python
 @property
@@ -82,7 +82,7 @@ def audio_bus() -> AudioBus
 
 <a id="unreal.AudioVectorscope.show_grid"></a>
 
-#### show_grid
+#### show\_grid
 
 ```python
 @property
@@ -93,7 +93,7 @@ def show_grid() -> bool
 
 <a id="unreal.AudioVectorscope.grid_divisions"></a>
 
-#### grid_divisions
+#### grid\_divisions
 
 ```python
 @property
@@ -104,7 +104,7 @@ def grid_divisions() -> int
 
 <a id="unreal.AudioVectorscope.max_display_persistence_ms"></a>
 
-#### max_display_persistence_ms
+#### max\_display\_persistence\_ms
 
 ```python
 @property
@@ -115,7 +115,7 @@ def max_display_persistence_ms() -> float
 
 <a id="unreal.AudioVectorscope.display_persistence_ms"></a>
 
-#### display_persistence_ms
+#### display\_persistence\_ms
 
 ```python
 @property
@@ -137,7 +137,7 @@ def scale() -> float
 
 <a id="unreal.AudioVectorscope.panel_layout_type"></a>
 
-#### panel_layout_type
+#### panel\_layout\_type
 
 ```python
 @property
@@ -148,7 +148,7 @@ def panel_layout_type() -> AudioPanelLayoutType
 
 <a id="unreal.AudioVectorscope.stop_processing"></a>
 
-#### stop_processing
+#### stop\_processing
 
 ```python
 def stop_processing() -> None
@@ -159,7 +159,7 @@ Stops the vectorscope processing.
 
 <a id="unreal.AudioVectorscope.start_processing"></a>
 
-#### start_processing
+#### start\_processing
 
 ```python
 def start_processing() -> None

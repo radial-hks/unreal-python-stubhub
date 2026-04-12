@@ -18,7 +18,7 @@ Struct to allow testing of class sparse data on a Python exposed type.
 
 <a id="unreal.PyTestClassSparseData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(int_from_sparse_data: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(int_from_sparse_data: int = 0) -> None
 
 <a id="unreal.PyTestClassSparseData.int_from_sparse_data"></a>
 
-#### int_from_sparse_data
+#### int\_from\_sparse\_data
 
 ```python
 @property
@@ -35,4 +35,4 @@ def int_from_sparse_data() -> int
 
 (int32):  [Read-Only]
 
-<a id="unreal.InterchangeAnimationPayLoadKey"></a>
+<a id="unreal.BlueprintJsonObject"></a>

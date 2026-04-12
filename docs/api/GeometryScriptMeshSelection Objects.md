@@ -24,7 +24,7 @@ they are only transient data structures, that can be created and used Blueprint 
 
 <a id="unreal.GeometryScriptMeshSelection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -32,7 +32,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptMeshSelection.get_mesh_selection_info"></a>
 
-#### get_mesh_selection_info
+#### get\_mesh\_selection\_info
 
 ```python
 def get_mesh_selection_info() -> Tuple[GeometryScriptMeshSelectionType, int]
@@ -52,7 +52,7 @@ Returns:
 
 <a id="unreal.GeometryScriptMeshSelection.debug_print_mesh_selection"></a>
 
-#### debug_print_mesh_selection
+#### debug\_print\_mesh\_selection
 
 ```python
 def debug_print_mesh_selection(disable: bool = False) -> None
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.GeometryScriptMeshSelection.combine_mesh_selections"></a>
 
-#### combine_mesh_selections
+#### combine\_mesh\_selections
 
 ```python
 def combine_mesh_selections(

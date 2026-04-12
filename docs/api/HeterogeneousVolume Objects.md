@@ -142,7 +142,7 @@ A placeable actor that represents a heterogeneous volume.
 
 <a id="unreal.HeterogeneousVolume.heterogeneous_volume_component"></a>
 
-#### heterogeneous_volume_component
+#### heterogeneous\_volume\_component
 
 ```python
 @property

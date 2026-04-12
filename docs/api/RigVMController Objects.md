@@ -27,7 +27,7 @@ able to react to topological changes of the Graph there.
 
 <a id="unreal.RigVMController.modified_event"></a>
 
-#### modified_event
+#### modified\_event
 
 ```python
 @property
@@ -38,7 +38,7 @@ def modified_event() -> RigVMGraphModifiedDynamicEvent
 
 <a id="unreal.RigVMController.upgrade_nodes"></a>
 
-#### upgrade_nodes
+#### upgrade\_nodes
 
 ```python
 def upgrade_nodes(node_names: Array[Name],
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.RigVMController.unresolve_template_nodes"></a>
 
-#### unresolve_template_nodes
+#### unresolve\_template\_nodes
 
 ```python
 def unresolve_template_nodes(node_names: Array[Name],
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.RigVMController.unbind_pin_from_variable"></a>
 
-#### unbind_pin_from_variable
+#### unbind\_pin\_from\_variable
 
 ```python
 def unbind_pin_from_variable(pin_path: str,
@@ -120,7 +120,7 @@ Returns:
 
 <a id="unreal.RigVMController.swap_function_reference_by_name"></a>
 
-#### swap_function_reference_by_name
+#### swap\_function\_reference\_by\_name
 
 ```python
 def swap_function_reference_by_name(
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.RigVMController.swap_function_reference"></a>
 
-#### swap_function_reference
+#### swap\_function\_reference
 
 ```python
 def swap_function_reference(
@@ -172,7 +172,7 @@ Returns:
 
 <a id="unreal.RigVMController.swap_all_function_references"></a>
 
-#### swap_all_function_references
+#### swap\_all\_function\_references
 
 ```python
 def swap_all_function_references(
@@ -198,7 +198,7 @@ Returns:
 
 <a id="unreal.RigVMController.split_function_variant"></a>
 
-#### split_function_variant
+#### split\_function\_variant
 
 ```python
 def split_function_variant(function_name: Name,
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_unit_node_defaults"></a>
 
-#### set_unit_node_defaults
+#### set\_unit\_node\_defaults
 
 ```python
 def set_unit_node_defaults(node: RigVMUnitNode,
@@ -244,7 +244,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_schema_class"></a>
 
-#### set_schema_class
+#### set\_schema\_class
 
 ```python
 def set_schema_class(schema_class: Class) -> None
@@ -258,7 +258,7 @@ Args:
 
 <a id="unreal.RigVMController.set_schema"></a>
 
-#### set_schema
+#### set\_schema
 
 ```python
 def set_schema(schema: RigVMSchema) -> None
@@ -273,7 +273,7 @@ Args:
 
 <a id="unreal.RigVMController.set_remapped_variable"></a>
 
-#### set_remapped_variable
+#### set\_remapped\_variable
 
 ```python
 def set_remapped_variable(function_ref_node: RigVMFunctionReferenceNode,
@@ -296,7 +296,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_pin_is_watched"></a>
 
-#### set_pin_is_watched
+#### set\_pin\_is\_watched
 
 ```python
 def set_pin_is_watched(pin_path: str,
@@ -318,7 +318,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_pin_index_in_category"></a>
 
-#### set_pin_index_in_category
+#### set\_pin\_index\_in\_category
 
 ```python
 def set_pin_index_in_category(pin_path: str,
@@ -342,7 +342,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_pin_expansion"></a>
 
-#### set_pin_expansion
+#### set\_pin\_expansion
 
 ```python
 def set_pin_expansion(pin_path: str,
@@ -366,7 +366,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_pin_display_name"></a>
 
-#### set_pin_display_name
+#### set\_pin\_display\_name
 
 ```python
 def set_pin_display_name(pin_path: str,
@@ -389,7 +389,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_pin_default_value"></a>
 
-#### set_pin_default_value
+#### set\_pin\_default\_value
 
 ```python
 def set_pin_default_value(pin_path: str,
@@ -419,7 +419,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_pin_category_index"></a>
 
-#### set_pin_category_index
+#### set\_pin\_category\_index
 
 ```python
 def set_pin_category_index(node_name: Name,
@@ -445,7 +445,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_pin_category_expansion"></a>
 
-#### set_pin_category_expansion
+#### set\_pin\_category\_expansion
 
 ```python
 def set_pin_category_expansion(node_name: Name,
@@ -471,7 +471,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_pin_category"></a>
 
-#### set_pin_category
+#### set\_pin\_category
 
 ```python
 def set_pin_category(pin_path: str,
@@ -495,7 +495,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_size_by_name"></a>
 
-#### set_node_size_by_name
+#### set\_node\_size\_by\_name
 
 ```python
 def set_node_size_by_name(node_name: Name,
@@ -521,7 +521,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_size"></a>
 
-#### set_node_size
+#### set\_node\_size
 
 ```python
 def set_node_size(node: RigVMNode,
@@ -547,7 +547,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_selection"></a>
 
-#### set_node_selection
+#### set\_node\_selection
 
 ```python
 def set_node_selection(node_names: Array[Name],
@@ -569,7 +569,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_position_by_name"></a>
 
-#### set_node_position_by_name
+#### set\_node\_position\_by\_name
 
 ```python
 def set_node_position_by_name(node_name: Name,
@@ -595,7 +595,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_position"></a>
 
-#### set_node_position
+#### set\_node\_position
 
 ```python
 def set_node_position(node: RigVMNode,
@@ -621,7 +621,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_layout"></a>
 
-#### set_node_layout
+#### set\_node\_layout
 
 ```python
 def set_node_layout(node_name: Name,
@@ -644,7 +644,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_keywords_by_name"></a>
 
-#### set_node_keywords_by_name
+#### set\_node\_keywords\_by\_name
 
 ```python
 def set_node_keywords_by_name(node_name: Name,
@@ -668,7 +668,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_keywords"></a>
 
-#### set_node_keywords
+#### set\_node\_keywords
 
 ```python
 def set_node_keywords(node: RigVMCollapseNode,
@@ -694,7 +694,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_description_by_name"></a>
 
-#### set_node_description_by_name
+#### set\_node\_description\_by\_name
 
 ```python
 def set_node_description_by_name(node_name: Name,
@@ -718,7 +718,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_description"></a>
 
-#### set_node_description
+#### set\_node\_description
 
 ```python
 def set_node_description(node: RigVMCollapseNode,
@@ -744,7 +744,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_color_by_name"></a>
 
-#### set_node_color_by_name
+#### set\_node\_color\_by\_name
 
 ```python
 def set_node_color_by_name(node_name: Name,
@@ -768,7 +768,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_color"></a>
 
-#### set_node_color
+#### set\_node\_color
 
 ```python
 def set_node_color(node: RigVMNode,
@@ -794,7 +794,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_category_by_name"></a>
 
-#### set_node_category_by_name
+#### set\_node\_category\_by\_name
 
 ```python
 def set_node_category_by_name(node_name: Name,
@@ -818,7 +818,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_node_category"></a>
 
-#### set_node_category
+#### set\_node\_category
 
 ```python
 def set_node_category(node: RigVMCollapseNode,
@@ -844,7 +844,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_local_variable_type_from_object_path"></a>
 
-#### set_local_variable_type_from_object_path
+#### set\_local\_variable\_type\_from\_object\_path
 
 ```python
 def set_local_variable_type_from_object_path(
@@ -870,7 +870,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_local_variable_type"></a>
 
-#### set_local_variable_type
+#### set\_local\_variable\_type
 
 ```python
 def set_local_variable_type(variable_name: Name,
@@ -895,7 +895,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_local_variable_default_value"></a>
 
-#### set_local_variable_default_value
+#### set\_local\_variable\_default\_value
 
 ```python
 def set_local_variable_default_value(
@@ -919,7 +919,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_is_running_unit_test"></a>
 
-#### set_is_running_unit_test
+#### set\_is\_running\_unit\_test
 
 ```python
 def set_is_running_unit_test(is_running: bool) -> None
@@ -933,7 +933,7 @@ Args:
 
 <a id="unreal.RigVMController.set_graph"></a>
 
-#### set_graph
+#### set\_graph
 
 ```python
 def set_graph(graph: RigVMGraph) -> None
@@ -949,7 +949,7 @@ Args:
 
 <a id="unreal.RigVMController.set_exposed_pin_index"></a>
 
-#### set_exposed_pin_index
+#### set\_exposed\_pin\_index
 
 ```python
 def set_exposed_pin_index(pin_name: Name,
@@ -972,7 +972,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_comment_text_by_name"></a>
 
-#### set_comment_text_by_name
+#### set\_comment\_text\_by\_name
 
 ```python
 def set_comment_text_by_name(node_name: Name,
@@ -1002,7 +1002,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_comment_text"></a>
 
-#### set_comment_text
+#### set\_comment\_text
 
 ```python
 def set_comment_text(node: RigVMNode,
@@ -1032,7 +1032,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_array_pin_size"></a>
 
-#### set_array_pin_size
+#### set\_array\_pin\_size
 
 ```python
 def set_array_pin_size(array_pin_path: str,
@@ -1058,7 +1058,7 @@ Returns:
 
 <a id="unreal.RigVMController.set_action_stack"></a>
 
-#### set_action_stack
+#### set\_action\_stack
 
 ```python
 def set_action_stack(action_stack: RigVMActionStack) -> None
@@ -1072,7 +1072,7 @@ Args:
 
 <a id="unreal.RigVMController.select_node_by_name"></a>
 
-#### select_node_by_name
+#### select\_node\_by\_name
 
 ```python
 def select_node_by_name(node_name: Name,
@@ -1094,7 +1094,7 @@ Returns:
 
 <a id="unreal.RigVMController.select_node"></a>
 
-#### select_node
+#### select\_node
 
 ```python
 def select_node(node: RigVMNode,
@@ -1118,7 +1118,7 @@ Returns:
 
 <a id="unreal.RigVMController.resolve_wild_card_pin"></a>
 
-#### resolve_wild_card_pin
+#### resolve\_wild\_card\_pin
 
 ```python
 def resolve_wild_card_pin(pin_path: str,
@@ -1143,7 +1143,7 @@ Returns:
 
 <a id="unreal.RigVMController.reset_pin_default_value"></a>
 
-#### reset_pin_default_value
+#### reset\_pin\_default\_value
 
 ```python
 def reset_pin_default_value(pin_path: str,
@@ -1165,7 +1165,7 @@ Returns:
 
 <a id="unreal.RigVMController.replace_parameter_node_with_variable"></a>
 
-#### replace_parameter_node_with_variable
+#### replace\_parameter\_node\_with\_variable
 
 ```python
 def replace_parameter_node_with_variable(
@@ -1188,7 +1188,7 @@ Returns:
 
 <a id="unreal.RigVMController.rename_variable"></a>
 
-#### rename_variable
+#### rename\_variable
 
 ```python
 def rename_variable(old_name: Name,
@@ -1211,7 +1211,7 @@ Returns:
 
 <a id="unreal.RigVMController.rename_pin_category"></a>
 
-#### rename_pin_category
+#### rename\_pin\_category
 
 ```python
 def rename_pin_category(node_name: Name,
@@ -1237,7 +1237,7 @@ Returns:
 
 <a id="unreal.RigVMController.rename_parameter"></a>
 
-#### rename_parameter
+#### rename\_parameter
 
 ```python
 def rename_parameter(old_name: Name,
@@ -1260,7 +1260,7 @@ Returns:
 
 <a id="unreal.RigVMController.rename_node"></a>
 
-#### rename_node
+#### rename\_node
 
 ```python
 def rename_node(node: RigVMNode,
@@ -1284,7 +1284,7 @@ Returns:
 
 <a id="unreal.RigVMController.rename_local_variable"></a>
 
-#### rename_local_variable
+#### rename\_local\_variable
 
 ```python
 def rename_local_variable(variable_name: Name,
@@ -1307,7 +1307,7 @@ Returns:
 
 <a id="unreal.RigVMController.rename_function"></a>
 
-#### rename_function
+#### rename\_function
 
 ```python
 def rename_function(old_function_name: Name,
@@ -1328,7 +1328,7 @@ Returns:
 
 <a id="unreal.RigVMController.rename_exposed_pin"></a>
 
-#### rename_exposed_pin
+#### rename\_exposed\_pin
 
 ```python
 def rename_exposed_pin(old_pin_name: Name,
@@ -1351,7 +1351,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_trait"></a>
 
-#### remove_trait
+#### remove\_trait
 
 ```python
 def remove_trait(node_name: Name,
@@ -1374,7 +1374,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_tag_from_function_variant"></a>
 
-#### remove_tag_from_function_variant
+#### remove\_tag\_from\_function\_variant
 
 ```python
 def remove_tag_from_function_variant(
@@ -1398,7 +1398,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_pin_category"></a>
 
-#### remove_pin_category
+#### remove\_pin\_category
 
 ```python
 def remove_pin_category(node_name: Name,
@@ -1422,7 +1422,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_nodes_by_name"></a>
 
-#### remove_nodes_by_name
+#### remove\_nodes\_by\_name
 
 ```python
 def remove_nodes_by_name(node_names: Array[Name],
@@ -1444,7 +1444,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_nodes"></a>
 
-#### remove_nodes
+#### remove\_nodes
 
 ```python
 def remove_nodes(nodes: Array[RigVMNode],
@@ -1466,7 +1466,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_node_by_name"></a>
 
-#### remove_node_by_name
+#### remove\_node\_by\_name
 
 ```python
 def remove_node_by_name(node_name: Name,
@@ -1488,7 +1488,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_node"></a>
 
-#### remove_node
+#### remove\_node
 
 ```python
 def remove_node(node: RigVMNode,
@@ -1510,7 +1510,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_local_variable"></a>
 
-#### remove_local_variable
+#### remove\_local\_variable
 
 ```python
 def remove_local_variable(variable_name: Name,
@@ -1531,7 +1531,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_injected_node"></a>
 
-#### remove_injected_node
+#### remove\_injected\_node
 
 ```python
 def remove_injected_node(pin_path: str,
@@ -1555,7 +1555,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_function_from_library"></a>
 
-#### remove_function_from_library
+#### remove\_function\_from\_library
 
 ```python
 def remove_function_from_library(function_name: Name,
@@ -1574,7 +1574,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_exposed_pin"></a>
 
-#### remove_exposed_pin
+#### remove\_exposed\_pin
 
 ```python
 def remove_exposed_pin(pin_name: Name,
@@ -1595,7 +1595,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_array_pin"></a>
 
-#### remove_array_pin
+#### remove\_array\_pin
 
 ```python
 def remove_array_pin(array_element_pin_path: str,
@@ -1617,7 +1617,7 @@ Returns:
 
 <a id="unreal.RigVMController.remove_aggregate_pin"></a>
 
-#### remove_aggregate_pin
+#### remove\_aggregate\_pin
 
 ```python
 def remove_aggregate_pin(pin_path: str,
@@ -1638,7 +1638,7 @@ Returns:
 
 <a id="unreal.RigVMController.refresh_variable_node"></a>
 
-#### refresh_variable_node
+#### refresh\_variable\_node
 
 ```python
 def refresh_variable_node(node_name: Name,
@@ -1678,7 +1678,7 @@ Returns:
 
 <a id="unreal.RigVMController.push_graph"></a>
 
-#### push_graph
+#### push\_graph
 
 ```python
 def push_graph(graph: RigVMGraph, setup_undo_redo: bool = True) -> bool
@@ -1698,7 +1698,7 @@ Returns:
 
 <a id="unreal.RigVMController.promote_pin_to_variable"></a>
 
-#### promote_pin_to_variable
+#### promote\_pin\_to\_variable
 
 ```python
 def promote_pin_to_variable(pin_path: str,
@@ -1723,7 +1723,7 @@ Returns:
 
 <a id="unreal.RigVMController.promote_function_reference_node_to_collapse_node"></a>
 
-#### promote_function_reference_node_to_collapse_node
+#### promote\_function\_reference\_node\_to\_collapse\_node
 
 ```python
 def promote_function_reference_node_to_collapse_node(
@@ -1747,7 +1747,7 @@ Returns:
 
 <a id="unreal.RigVMController.promote_collapse_node_to_function_reference_node"></a>
 
-#### promote_collapse_node_to_function_reference_node
+#### promote\_collapse\_node\_to\_function\_reference\_node
 
 ```python
 def promote_collapse_node_to_function_reference_node(
@@ -1771,7 +1771,7 @@ Returns:
 
 <a id="unreal.RigVMController.pop_graph"></a>
 
-#### pop_graph
+#### pop\_graph
 
 ```python
 def pop_graph(setup_undo_redo: bool = True) -> RigVMGraph
@@ -1790,7 +1790,7 @@ Returns:
 
 <a id="unreal.RigVMController.perform_user_workflow"></a>
 
-#### perform_user_workflow
+#### perform\_user\_workflow
 
 ```python
 def perform_user_workflow(workflow: RigVMUserWorkflow,
@@ -1811,7 +1811,7 @@ Returns:
 
 <a id="unreal.RigVMController.open_undo_bracket"></a>
 
-#### open_undo_bracket
+#### open\_undo\_bracket
 
 ```python
 def open_undo_bracket(title: str) -> bool
@@ -1831,7 +1831,7 @@ Returns:
 
 <a id="unreal.RigVMController.mark_function_as_public"></a>
 
-#### mark_function_as_public
+#### mark\_function\_as\_public
 
 ```python
 def mark_function_as_public(function_name: Name,
@@ -1854,7 +1854,7 @@ Returns:
 
 <a id="unreal.RigVMController.make_variable_node_from_binding"></a>
 
-#### make_variable_node_from_binding
+#### make\_variable\_node\_from\_binding
 
 ```python
 def make_variable_node_from_binding(
@@ -1878,7 +1878,7 @@ Returns:
 
 <a id="unreal.RigVMController.make_options_for_workflow"></a>
 
-#### make_options_for_workflow
+#### make\_options\_for\_workflow
 
 ```python
 def make_options_for_workflow(
@@ -1898,7 +1898,7 @@ Returns:
 
 <a id="unreal.RigVMController.make_bindings_from_variable_node"></a>
 
-#### make_bindings_from_variable_node
+#### make\_bindings\_from\_variable\_node
 
 ```python
 def make_bindings_from_variable_node(
@@ -1920,7 +1920,7 @@ Returns:
 
 <a id="unreal.RigVMController.localize_functions"></a>
 
-#### localize_functions
+#### localize\_functions
 
 ```python
 def localize_functions(
@@ -1945,7 +1945,7 @@ Returns:
 
 <a id="unreal.RigVMController.localize_function_from_path"></a>
 
-#### localize_function_from_path
+#### localize\_function\_from\_path
 
 ```python
 def localize_function_from_path(
@@ -1971,7 +1971,7 @@ Returns:
 
 <a id="unreal.RigVMController.localize_function"></a>
 
-#### localize_function
+#### localize\_function
 
 ```python
 def localize_function(function_definition: RigVMGraphFunctionIdentifier,
@@ -1994,7 +1994,7 @@ Returns:
 
 <a id="unreal.RigVMController.join_function_variant"></a>
 
-#### join_function_variant
+#### join\_function\_variant
 
 ```python
 def join_function_variant(function_name: Name,
@@ -2017,7 +2017,7 @@ Returns:
 
 <a id="unreal.RigVMController.is_transacting"></a>
 
-#### is_transacting
+#### is\_transacting
 
 ```python
 def is_transacting() -> bool
@@ -2031,7 +2031,7 @@ Returns:
 
 <a id="unreal.RigVMController.is_reporting_enabled"></a>
 
-#### is_reporting_enabled
+#### is\_reporting\_enabled
 
 ```python
 def is_reporting_enabled() -> bool
@@ -2045,7 +2045,7 @@ Returns:
 
 <a id="unreal.RigVMController.is_function_public"></a>
 
-#### is_function_public
+#### is\_function\_public
 
 ```python
 def is_function_public(function_name: Name) -> bool
@@ -2062,7 +2062,7 @@ Returns:
 
 <a id="unreal.RigVMController.insert_array_pin"></a>
 
-#### insert_array_pin
+#### insert\_array\_pin
 
 ```python
 def insert_array_pin(array_pin_path: str,
@@ -2088,7 +2088,7 @@ Returns:
 
 <a id="unreal.RigVMController.import_nodes_from_text"></a>
 
-#### import_nodes_from_text
+#### import\_nodes\_from\_text
 
 ```python
 def import_nodes_from_text(text: str,
@@ -2109,7 +2109,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_unit_structs_for_template"></a>
 
-#### get_unit_structs_for_template
+#### get\_unit\_structs\_for\_template
 
 ```python
 @classmethod
@@ -2127,7 +2127,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_top_level_graph"></a>
 
-#### get_top_level_graph
+#### get\_top\_level\_graph
 
 ```python
 def get_top_level_graph() -> RigVMGraph
@@ -2141,7 +2141,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_template_for_unit_struct"></a>
 
-#### get_template_for_unit_struct
+#### get\_template\_for\_unit\_struct
 
 ```python
 @classmethod
@@ -2162,7 +2162,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_schema"></a>
 
-#### get_schema
+#### get\_schema
 
 ```python
 def get_schema() -> RigVMSchema
@@ -2176,7 +2176,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_registered_unit_structs"></a>
 
-#### get_registered_unit_structs
+#### get\_registered\_unit\_structs
 
 ```python
 @classmethod
@@ -2191,7 +2191,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_registered_templates"></a>
 
-#### get_registered_templates
+#### get\_registered\_templates
 
 ```python
 @classmethod
@@ -2206,7 +2206,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_pin_default_value"></a>
 
-#### get_pin_default_value
+#### get\_pin\_default\_value
 
 ```python
 def get_pin_default_value(pin_path: str) -> str
@@ -2223,7 +2223,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_graph"></a>
 
-#### get_graph
+#### get\_graph
 
 ```python
 def get_graph() -> RigVMGraph
@@ -2237,7 +2237,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_controller_for_graph"></a>
 
-#### get_controller_for_graph
+#### get\_controller\_for\_graph
 
 ```python
 def get_controller_for_graph(graph: RigVMGraph) -> RigVMController
@@ -2254,7 +2254,7 @@ Returns:
 
 <a id="unreal.RigVMController.get_action_stack"></a>
 
-#### get_action_stack
+#### get\_action\_stack
 
 ```python
 def get_action_stack() -> RigVMActionStack
@@ -2268,7 +2268,7 @@ Returns:
 
 <a id="unreal.RigVMController.generate_python_commands"></a>
 
-#### generate_python_commands
+#### generate\_python\_commands
 
 ```python
 def generate_python_commands() -> Array[str]
@@ -2282,7 +2282,7 @@ Returns:
 
 <a id="unreal.RigVMController.find_variants_of_function"></a>
 
-#### find_variants_of_function
+#### find\_variants\_of\_function
 
 ```python
 def find_variants_of_function(function_name: Name) -> Array[RigVMVariantRef]
@@ -2299,7 +2299,7 @@ Returns:
 
 <a id="unreal.RigVMController.find_graph_function_identifier"></a>
 
-#### find_graph_function_identifier
+#### find\_graph\_function\_identifier
 
 ```python
 def find_graph_function_identifier(
@@ -2318,7 +2318,7 @@ Returns:
 
 <a id="unreal.RigVMController.find_graph_function_header_by_name"></a>
 
-#### find_graph_function_header_by_name
+#### find\_graph\_function\_header\_by\_name
 
 ```python
 def find_graph_function_header_by_name(
@@ -2337,7 +2337,7 @@ Returns:
 
 <a id="unreal.RigVMController.find_graph_function_header"></a>
 
-#### find_graph_function_header
+#### find\_graph\_function\_header
 
 ```python
 def find_graph_function_header(
@@ -2356,7 +2356,7 @@ Returns:
 
 <a id="unreal.RigVMController.export_selected_nodes_to_text"></a>
 
-#### export_selected_nodes_to_text
+#### export\_selected\_nodes\_to\_text
 
 ```python
 def export_selected_nodes_to_text(include_exterior_links: bool = False) -> str
@@ -2373,7 +2373,7 @@ Returns:
 
 <a id="unreal.RigVMController.export_nodes_to_text"></a>
 
-#### export_nodes_to_text
+#### export\_nodes\_to\_text
 
 ```python
 def export_nodes_to_text(node_names: Array[Name],
@@ -2392,7 +2392,7 @@ Returns:
 
 <a id="unreal.RigVMController.expand_library_node"></a>
 
-#### expand_library_node
+#### expand\_library\_node
 
 ```python
 def expand_library_node(
@@ -2414,7 +2414,7 @@ Returns:
 
 <a id="unreal.RigVMController.enable_reporting"></a>
 
-#### enable_reporting
+#### enable\_reporting
 
 ```python
 def enable_reporting(enabled: bool = True) -> None
@@ -2428,7 +2428,7 @@ Args:
 
 <a id="unreal.RigVMController.eject_node_from_pin"></a>
 
-#### eject_node_from_pin
+#### eject\_node\_from\_pin
 
 ```python
 def eject_node_from_pin(pin_path: str,
@@ -2449,7 +2449,7 @@ Returns:
 
 <a id="unreal.RigVMController.duplicate_array_pin"></a>
 
-#### duplicate_array_pin
+#### duplicate\_array\_pin
 
 ```python
 def duplicate_array_pin(array_element_pin_path: str,
@@ -2471,7 +2471,7 @@ Returns:
 
 <a id="unreal.RigVMController.create_function_variant"></a>
 
-#### create_function_variant
+#### create\_function\_variant
 
 ```python
 def create_function_variant(
@@ -2495,7 +2495,7 @@ Returns:
 
 <a id="unreal.RigVMController.collapse_nodes"></a>
 
-#### collapse_nodes
+#### collapse\_nodes
 
 ```python
 def collapse_nodes(node_names: Array[Name],
@@ -2520,7 +2520,7 @@ Returns:
 
 <a id="unreal.RigVMController.close_undo_bracket"></a>
 
-#### close_undo_bracket
+#### close\_undo\_bracket
 
 ```python
 def close_undo_bracket() -> bool
@@ -2536,7 +2536,7 @@ Returns:
 
 <a id="unreal.RigVMController.clear_pin_category"></a>
 
-#### clear_pin_category
+#### clear\_pin\_category
 
 ```python
 def clear_pin_category(pin_path: str,
@@ -2558,7 +2558,7 @@ Returns:
 
 <a id="unreal.RigVMController.clear_node_selection"></a>
 
-#### clear_node_selection
+#### clear\_node\_selection
 
 ```python
 def clear_node_selection(setup_undo_redo: bool = True,
@@ -2578,7 +2578,7 @@ Returns:
 
 <a id="unreal.RigVMController.clear_node_layout"></a>
 
-#### clear_node_layout
+#### clear\_node\_layout
 
 ```python
 def clear_node_layout(node_name: Name,
@@ -2599,7 +2599,7 @@ Returns:
 
 <a id="unreal.RigVMController.clear_array_pin"></a>
 
-#### clear_array_pin
+#### clear\_array\_pin
 
 ```python
 def clear_array_pin(array_pin_path: str,
@@ -2621,7 +2621,7 @@ Returns:
 
 <a id="unreal.RigVMController.change_exposed_pin_type"></a>
 
-#### change_exposed_pin_type
+#### change\_exposed\_pin\_type
 
 ```python
 def change_exposed_pin_type(
@@ -2651,7 +2651,7 @@ Returns:
 
 <a id="unreal.RigVMController.can_import_nodes_from_text"></a>
 
-#### can_import_nodes_from_text
+#### can\_import\_nodes\_from\_text
 
 ```python
 def can_import_nodes_from_text(text: str) -> bool
@@ -2668,7 +2668,7 @@ Returns:
 
 <a id="unreal.RigVMController.cancel_undo_bracket"></a>
 
-#### cancel_undo_bracket
+#### cancel\_undo\_bracket
 
 ```python
 def cancel_undo_bracket() -> bool
@@ -2684,7 +2684,7 @@ Returns:
 
 <a id="unreal.RigVMController.break_link"></a>
 
-#### break_link
+#### break\_link
 
 ```python
 def break_link(output_pin_path: str,
@@ -2708,7 +2708,7 @@ Returns:
 
 <a id="unreal.RigVMController.break_all_links"></a>
 
-#### break_all_links
+#### break\_all\_links
 
 ```python
 def break_all_links(pin_path: str,
@@ -2732,7 +2732,7 @@ Returns:
 
 <a id="unreal.RigVMController.bind_pin_to_variable"></a>
 
-#### bind_pin_to_variable
+#### bind\_pin\_to\_variable
 
 ```python
 def bind_pin_to_variable(pin_path: str,
@@ -2756,7 +2756,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_variable_node_from_object_path"></a>
 
-#### add_variable_node_from_object_path
+#### add\_variable\_node\_from\_object\_path
 
 ```python
 def add_variable_node_from_object_path(
@@ -2793,7 +2793,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_variable_node"></a>
 
-#### add_variable_node
+#### add\_variable\_node
 
 ```python
 def add_variable_node(variable_name: Name,
@@ -2829,7 +2829,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_unit_node_with_defaults"></a>
 
-#### add_unit_node_with_defaults
+#### add\_unit\_node\_with\_defaults
 
 ```python
 def add_unit_node_with_defaults(
@@ -2861,7 +2861,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_unit_node_from_struct_path"></a>
 
-#### add_unit_node_from_struct_path
+#### add\_unit\_node\_from\_struct\_path
 
 ```python
 def add_unit_node_from_struct_path(
@@ -2891,7 +2891,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_unit_node"></a>
 
-#### add_unit_node
+#### add\_unit\_node
 
 ```python
 def add_unit_node(script_struct: ScriptStruct,
@@ -2920,7 +2920,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_trait"></a>
 
-#### add_trait
+#### add\_trait
 
 ```python
 def add_trait(node_name: Name,
@@ -2949,7 +2949,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_template_node"></a>
 
-#### add_template_node
+#### add\_template\_node
 
 ```python
 def add_template_node(notation: Name,
@@ -2974,7 +2974,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_tag_to_function_variant"></a>
 
-#### add_tag_to_function_variant
+#### add\_tag\_to\_function\_variant
 
 ```python
 def add_tag_to_function_variant(function_name: Name,
@@ -2997,7 +2997,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_select_node_from_struct"></a>
 
-#### add_select_node_from_struct
+#### add\_select\_node\_from\_struct
 
 ```python
 def add_select_node_from_struct(script_struct: ScriptStruct,
@@ -3020,7 +3020,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_select_node"></a>
 
-#### add_select_node
+#### add\_select\_node
 
 ```python
 def add_select_node(cpp_type: str,
@@ -3048,7 +3048,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_reroute_node_on_pin"></a>
 
-#### add_reroute_node_on_pin
+#### add\_reroute\_node\_on\_pin
 
 ```python
 def add_reroute_node_on_pin(
@@ -3079,7 +3079,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_reroute_node_on_link_path"></a>
 
-#### add_reroute_node_on_link_path
+#### add\_reroute\_node\_on\_link\_path
 
 ```python
 def add_reroute_node_on_link_path(
@@ -3108,7 +3108,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_reroute_node_on_link"></a>
 
-#### add_reroute_node_on_link
+#### add\_reroute\_node\_on\_link
 
 ```python
 def add_reroute_node_on_link(
@@ -3137,7 +3137,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_parameter_node_from_object_path"></a>
 
-#### add_parameter_node_from_object_path
+#### add\_parameter\_node\_from\_object\_path
 
 ```python
 def add_parameter_node_from_object_path(
@@ -3175,7 +3175,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_parameter_node"></a>
 
-#### add_parameter_node
+#### add\_parameter\_node
 
 ```python
 def add_parameter_node(
@@ -3213,7 +3213,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_local_variable_from_object_path"></a>
 
-#### add_local_variable_from_object_path
+#### add\_local\_variable\_from\_object\_path
 
 ```python
 def add_local_variable_from_object_path(
@@ -3239,7 +3239,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_local_variable"></a>
 
-#### add_local_variable
+#### add\_local\_variable
 
 ```python
 def add_local_variable(
@@ -3267,7 +3267,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_link"></a>
 
-#### add_link
+#### add\_link
 
 ```python
 def add_link(output_pin_path: str,
@@ -3295,7 +3295,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_invoke_entry_node"></a>
 
-#### add_invoke_entry_node
+#### add\_invoke\_entry\_node
 
 ```python
 def add_invoke_entry_node(
@@ -3322,7 +3322,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_injected_node_from_struct_path"></a>
 
-#### add_injected_node_from_struct_path
+#### add\_injected\_node\_from\_struct\_path
 
 ```python
 def add_injected_node_from_struct_path(
@@ -3356,7 +3356,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_injected_node"></a>
 
-#### add_injected_node
+#### add\_injected\_node
 
 ```python
 def add_injected_node(
@@ -3392,7 +3392,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_if_node_from_struct"></a>
 
-#### add_if_node_from_struct
+#### add\_if\_node\_from\_struct
 
 ```python
 def add_if_node_from_struct(script_struct: ScriptStruct,
@@ -3415,7 +3415,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_if_node"></a>
 
-#### add_if_node
+#### add\_if\_node
 
 ```python
 def add_if_node(cpp_type: str,
@@ -3443,7 +3443,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_function_to_library"></a>
 
-#### add_function_to_library
+#### add\_function\_to\_library
 
 ```python
 def add_function_to_library(
@@ -3469,7 +3469,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_function_reference_node_from_description"></a>
 
-#### add_function_reference_node_from_description
+#### add\_function\_reference\_node\_from\_description
 
 ```python
 def add_function_reference_node_from_description(
@@ -3495,7 +3495,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_function_reference_node"></a>
 
-#### add_function_reference_node
+#### add\_function\_reference\_node
 
 ```python
 def add_function_reference_node(
@@ -3521,7 +3521,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_free_reroute_node"></a>
 
-#### add_free_reroute_node
+#### add\_free\_reroute\_node
 
 ```python
 def add_free_reroute_node(cpp_type: str,
@@ -3552,7 +3552,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_external_function_reference_node"></a>
 
-#### add_external_function_reference_node
+#### add\_external\_function\_reference\_node
 
 ```python
 def add_external_function_reference_node(
@@ -3580,7 +3580,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_exposed_pin"></a>
 
-#### add_exposed_pin
+#### add\_exposed\_pin
 
 ```python
 def add_exposed_pin(pin_name: Name,
@@ -3609,7 +3609,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_enum_node"></a>
 
-#### add_enum_node
+#### add\_enum\_node
 
 ```python
 def add_enum_node(cpp_type_object_path: Name,
@@ -3635,7 +3635,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_empty_pin_category"></a>
 
-#### add_empty_pin_category
+#### add\_empty\_pin\_category
 
 ```python
 def add_empty_pin_category(node_name: Name,
@@ -3659,7 +3659,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_default_tag_to_function_variant"></a>
 
-#### add_default_tag_to_function_variant
+#### add\_default\_tag\_to\_function\_variant
 
 ```python
 def add_default_tag_to_function_variant(
@@ -3683,7 +3683,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_comment_node"></a>
 
-#### add_comment_node
+#### add\_comment\_node
 
 ```python
 def add_comment_node(comment_text: str,
@@ -3716,7 +3716,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_branch_node"></a>
 
-#### add_branch_node
+#### add\_branch\_node
 
 ```python
 def add_branch_node(position: Vector2D = [0.000000, 0.000000],
@@ -3741,7 +3741,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_array_pin"></a>
 
-#### add_array_pin
+#### add\_array\_pin
 
 ```python
 def add_array_pin(array_pin_path: str,
@@ -3765,7 +3765,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_array_node_from_object_path"></a>
 
-#### add_array_node_from_object_path
+#### add\_array\_node\_from\_object\_path
 
 ```python
 def add_array_node_from_object_path(op_code: RigVMOpCode,
@@ -3797,7 +3797,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_array_node"></a>
 
-#### add_array_node
+#### add\_array\_node
 
 ```python
 def add_array_node(op_code: RigVMOpCode,
@@ -3829,7 +3829,7 @@ Returns:
 
 <a id="unreal.RigVMController.add_aggregate_pin"></a>
 
-#### add_aggregate_pin
+#### add\_aggregate\_pin
 
 ```python
 def add_aggregate_pin(node_name: str,

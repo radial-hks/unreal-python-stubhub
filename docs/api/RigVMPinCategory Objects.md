@@ -20,7 +20,7 @@ Rig VMPin Category
 
 <a id="unreal.RigVMPinCategory.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(path: str = "",
@@ -52,7 +52,7 @@ def elements() -> Array[str]
 
 <a id="unreal.RigVMPinCategory.expanded_by_default"></a>
 
-#### expanded_by_default
+#### expanded\_by\_default
 
 ```python
 @property

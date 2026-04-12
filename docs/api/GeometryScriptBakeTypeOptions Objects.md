@@ -18,7 +18,7 @@ Opaque struct for storing bake type options.
 
 <a id="unreal.GeometryScriptBakeTypeOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -28,7 +28,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptBakeTypeOptions.bake_type"></a>
 
-#### bake_type
+#### bake\_type
 
 ```python
 @property

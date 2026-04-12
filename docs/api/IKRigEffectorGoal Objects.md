@@ -31,7 +31,7 @@ IKRig Effector Goal
 
 <a id="unreal.IKRigEffectorGoal.goal_name"></a>
 
-#### goal_name
+#### goal\_name
 
 ```python
 @property
@@ -43,7 +43,7 @@ This is the name to use when referring to this Goal from Blueprint, Anim Graph, 
 
 <a id="unreal.IKRigEffectorGoal.bone_name"></a>
 
-#### bone_name
+#### bone\_name
 
 ```python
 @property
@@ -54,7 +54,7 @@ def bone_name() -> Name
 
 <a id="unreal.IKRigEffectorGoal.position_alpha"></a>
 
-#### position_alpha
+#### position\_alpha
 
 ```python
 @property
@@ -65,7 +65,7 @@ def position_alpha() -> float
 
 <a id="unreal.IKRigEffectorGoal.position_alpha"></a>
 
-#### position_alpha
+#### position\_alpha
 
 ```python
 @position_alpha.setter
@@ -74,7 +74,7 @@ def position_alpha(value: float) -> None
 
 <a id="unreal.IKRigEffectorGoal.rotation_alpha"></a>
 
-#### rotation_alpha
+#### rotation\_alpha
 
 ```python
 @property
@@ -85,7 +85,7 @@ def rotation_alpha() -> float
 
 <a id="unreal.IKRigEffectorGoal.rotation_alpha"></a>
 
-#### rotation_alpha
+#### rotation\_alpha
 
 ```python
 @rotation_alpha.setter
@@ -94,7 +94,7 @@ def rotation_alpha(value: float) -> None
 
 <a id="unreal.IKRigEffectorGoal.current_transform"></a>
 
-#### current_transform
+#### current\_transform
 
 ```python
 @property
@@ -105,7 +105,7 @@ def current_transform() -> Transform
 
 <a id="unreal.IKRigEffectorGoal.current_transform"></a>
 
-#### current_transform
+#### current\_transform
 
 ```python
 @current_transform.setter
@@ -114,7 +114,7 @@ def current_transform(value: Transform) -> None
 
 <a id="unreal.IKRigEffectorGoal.initial_transform"></a>
 
-#### initial_transform
+#### initial\_transform
 
 ```python
 @property
@@ -125,7 +125,7 @@ def initial_transform() -> Transform
 
 <a id="unreal.IKRigEffectorGoal.preview_mode"></a>
 
-#### preview_mode
+#### preview\_mode
 
 ```python
 @property
@@ -138,7 +138,7 @@ def preview_mode() -> IKRigGoalPreviewMode
 
 <a id="unreal.IKRigEffectorGoal.preview_mode"></a>
 
-#### preview_mode
+#### preview\_mode
 
 ```python
 @preview_mode.setter
@@ -147,7 +147,7 @@ def preview_mode(value: IKRigGoalPreviewMode) -> None
 
 <a id="unreal.IKRigEffectorGoal.size_multiplier"></a>
 
-#### size_multiplier
+#### size\_multiplier
 
 ```python
 @property
@@ -158,7 +158,7 @@ def size_multiplier() -> float
 
 <a id="unreal.IKRigEffectorGoal.size_multiplier"></a>
 
-#### size_multiplier
+#### size\_multiplier
 
 ```python
 @size_multiplier.setter
@@ -167,7 +167,7 @@ def size_multiplier(value: float) -> None
 
 <a id="unreal.IKRigEffectorGoal.thickness_multiplier"></a>
 
-#### thickness_multiplier
+#### thickness\_multiplier
 
 ```python
 @property
@@ -178,7 +178,7 @@ def thickness_multiplier() -> float
 
 <a id="unreal.IKRigEffectorGoal.thickness_multiplier"></a>
 
-#### thickness_multiplier
+#### thickness\_multiplier
 
 ```python
 @thickness_multiplier.setter
@@ -187,7 +187,7 @@ def thickness_multiplier(value: float) -> None
 
 <a id="unreal.IKRigEffectorGoal.expose_position"></a>
 
-#### expose_position
+#### expose\_position
 
 ```python
 @property
@@ -198,7 +198,7 @@ def expose_position() -> bool
 
 <a id="unreal.IKRigEffectorGoal.expose_position"></a>
 
-#### expose_position
+#### expose\_position
 
 ```python
 @expose_position.setter
@@ -207,7 +207,7 @@ def expose_position(value: bool) -> None
 
 <a id="unreal.IKRigEffectorGoal.expose_rotation"></a>
 
-#### expose_rotation
+#### expose\_rotation
 
 ```python
 @property
@@ -218,7 +218,7 @@ def expose_rotation() -> bool
 
 <a id="unreal.IKRigEffectorGoal.expose_rotation"></a>
 
-#### expose_rotation
+#### expose\_rotation
 
 ```python
 @expose_rotation.setter

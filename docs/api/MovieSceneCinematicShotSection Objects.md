@@ -29,7 +29,7 @@ Implements a cinematic shot section.
 
 <a id="unreal.MovieSceneCinematicShotSection.set_shot_display_name"></a>
 
-#### set_shot_display_name
+#### set\_shot\_display\_name
 
 ```python
 def set_shot_display_name(shot_display_name: str) -> None
@@ -43,7 +43,7 @@ Args:
 
 <a id="unreal.MovieSceneCinematicShotSection.get_shot_display_name"></a>
 
-#### get_shot_display_name
+#### get\_shot\_display\_name
 
 ```python
 def get_shot_display_name() -> str

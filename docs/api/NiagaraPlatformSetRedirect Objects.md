@@ -23,7 +23,7 @@ Helpful when dealing with changes to device profile structure.
 
 <a id="unreal.NiagaraPlatformSetRedirect.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

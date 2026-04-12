@@ -22,7 +22,7 @@ Base class for tracks that animate an object property
 
 <a id="unreal.MovieScenePropertyTrack.set_property_name_and_path"></a>
 
-#### set_property_name_and_path
+#### set\_property\_name\_and\_path
 
 ```python
 def set_property_name_and_path(property_name: Name,
@@ -38,7 +38,7 @@ Args:
 
 <a id="unreal.MovieScenePropertyTrack.get_unique_track_name"></a>
 
-#### get_unique_track_name
+#### get\_unique\_track\_name
 
 ```python
 def get_unique_track_name() -> Name
@@ -52,7 +52,7 @@ Returns:
 
 <a id="unreal.MovieScenePropertyTrack.get_property_path"></a>
 
-#### get_property_path
+#### get\_property\_path
 
 ```python
 def get_property_path() -> str
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.MovieScenePropertyTrack.get_property_name"></a>
 
-#### get_property_name
+#### get\_property\_name
 
 ```python
 def get_property_name() -> Name

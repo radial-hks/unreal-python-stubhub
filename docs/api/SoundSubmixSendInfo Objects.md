@@ -28,7 +28,7 @@ Sound Submix Send Info
 
 <a id="unreal.SoundSubmixSendInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -48,7 +48,7 @@ def __init__(
 
 <a id="unreal.SoundSubmixSendInfo.send_stage"></a>
 
-#### send_stage
+#### send\_stage
 
 ```python
 @property
@@ -59,7 +59,7 @@ def send_stage() -> SubmixSendStage
 
 <a id="unreal.SoundSubmixSendInfo.send_stage"></a>
 
-#### send_stage
+#### send\_stage
 
 ```python
 @send_stage.setter

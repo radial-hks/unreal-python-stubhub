@@ -14,13 +14,13 @@ EPCGSpline Sampling Seeding Mode
 
 <a id="unreal.PCGSplineSamplingSeedingMode.SEED_FROM_POSITION"></a>
 
-#### SEED_FROM_POSITION
+#### SEED\_FROM\_POSITION
 
 0: Compute seed from sample position.
 
 <a id="unreal.PCGSplineSamplingSeedingMode.SEED_FROM_INDEX"></a>
 
-#### SEED_FROM_INDEX
+#### SEED\_FROM\_INDEX
 
 1: Compute seed from sample index.
 

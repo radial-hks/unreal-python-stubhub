@@ -20,7 +20,7 @@ Struct defining the time synth global quantization settings
 
 <a id="unreal.AudioCaptureDeviceInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(device_name: Name = "None",
@@ -30,7 +30,7 @@ def __init__(device_name: Name = "None",
 
 <a id="unreal.AudioCaptureDeviceInfo.device_name"></a>
 
-#### device_name
+#### device\_name
 
 ```python
 @property
@@ -41,7 +41,7 @@ def device_name() -> Name
 
 <a id="unreal.AudioCaptureDeviceInfo.num_input_channels"></a>
 
-#### num_input_channels
+#### num\_input\_channels
 
 ```python
 @property
@@ -52,7 +52,7 @@ def num_input_channels() -> int
 
 <a id="unreal.AudioCaptureDeviceInfo.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @property

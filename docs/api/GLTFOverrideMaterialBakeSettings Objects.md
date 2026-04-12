@@ -23,7 +23,7 @@ GLTFOverride Material Bake Settings
 
 <a id="unreal.GLTFOverrideMaterialBakeSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(override_size: bool = False,
@@ -36,7 +36,7 @@ def __init__(override_size: bool = False,
 
 <a id="unreal.GLTFOverrideMaterialBakeSettings.override_size"></a>
 
-#### override_size
+#### override\_size
 
 ```python
 @property
@@ -47,7 +47,7 @@ def override_size() -> bool
 
 <a id="unreal.GLTFOverrideMaterialBakeSettings.override_size"></a>
 
-#### override_size
+#### override\_size
 
 ```python
 @override_size.setter
@@ -76,7 +76,7 @@ def size(value: GLTFMaterialBakeSize) -> None
 
 <a id="unreal.GLTFOverrideMaterialBakeSettings.override_filter"></a>
 
-#### override_filter
+#### override\_filter
 
 ```python
 @property
@@ -87,7 +87,7 @@ def override_filter() -> bool
 
 <a id="unreal.GLTFOverrideMaterialBakeSettings.override_filter"></a>
 
-#### override_filter
+#### override\_filter
 
 ```python
 @override_filter.setter
@@ -116,7 +116,7 @@ def filter(value: TextureFilter) -> None
 
 <a id="unreal.GLTFOverrideMaterialBakeSettings.override_tiling"></a>
 
-#### override_tiling
+#### override\_tiling
 
 ```python
 @property
@@ -127,7 +127,7 @@ def override_tiling() -> bool
 
 <a id="unreal.GLTFOverrideMaterialBakeSettings.override_tiling"></a>
 
-#### override_tiling
+#### override\_tiling
 
 ```python
 @override_tiling.setter

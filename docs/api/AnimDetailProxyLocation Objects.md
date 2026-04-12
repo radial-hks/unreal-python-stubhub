@@ -20,7 +20,7 @@ Anim Detail Proxy Location
 
 <a id="unreal.AnimDetailProxyLocation.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(lx: float = 0.000000,

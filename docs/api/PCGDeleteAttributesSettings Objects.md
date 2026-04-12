@@ -80,7 +80,7 @@ def operator(value: PCGStringMatchingOperator) -> None
 
 <a id="unreal.PCGDeleteAttributesSettings.selected_attributes"></a>
 
-#### selected_attributes
+#### selected\_attributes
 
 ```python
 @property
@@ -91,7 +91,7 @@ def selected_attributes() -> str
 
 <a id="unreal.PCGDeleteAttributesSettings.selected_attributes"></a>
 
-#### selected_attributes
+#### selected\_attributes
 
 ```python
 @selected_attributes.setter

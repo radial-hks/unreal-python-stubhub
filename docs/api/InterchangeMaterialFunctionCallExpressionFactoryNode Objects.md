@@ -15,7 +15,7 @@ Interchange Material Function Call Expression Factory Node
 
 <a id="unreal.InterchangeMaterialFunctionCallExpressionFactoryNode.set_custom_material_function_dependency"></a>
 
-#### set_custom_material_function_dependency
+#### set\_custom\_material\_function\_dependency
 
 ```python
 def set_custom_material_function_dependency(attribute_value: str) -> bool
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialFunctionCallExpressionFactoryNode.get_custom_material_function_dependency"></a>
 
-#### get_custom_material_function_dependency
+#### get\_custom\_material\_function\_dependency
 
 ```python
 def get_custom_material_function_dependency() -> Optional[str]

@@ -15,13 +15,13 @@ see: UCharacterMovementComponent::GetWalkableFloorAngle(), UCharacterMovementCom
 
 <a id="unreal.WalkableSlopeBehavior.WALKABLE_SLOPE_DEFAULT"></a>
 
-#### WALKABLE_SLOPE_DEFAULT
+#### WALKABLE\_SLOPE\_DEFAULT
 
 0: Don't affect the walkable slope. Walkable slope angle will be ignored.
 
 <a id="unreal.WalkableSlopeBehavior.WALKABLE_SLOPE_INCREASE"></a>
 
-#### WALKABLE_SLOPE_INCREASE
+#### WALKABLE\_SLOPE\_INCREASE
 
 1: Increase walkable slope.
 Makes it easier to walk up a surface, by allowing traversal over higher-than-usual angles.
@@ -29,7 +29,7 @@ see: FWalkableSlopeOverride::WalkableSlopeAngle
 
 <a id="unreal.WalkableSlopeBehavior.WALKABLE_SLOPE_DECREASE"></a>
 
-#### WALKABLE_SLOPE_DECREASE
+#### WALKABLE\_SLOPE\_DECREASE
 
 2: Decrease walkable slope.
 Makes it harder to walk up a surface, by restricting traversal to lower-than-usual angles.
@@ -37,7 +37,7 @@ see: FWalkableSlopeOverride::WalkableSlopeAngle
 
 <a id="unreal.WalkableSlopeBehavior.WALKABLE_SLOPE_UNWALKABLE"></a>
 
-#### WALKABLE_SLOPE_UNWALKABLE
+#### WALKABLE\_SLOPE\_UNWALKABLE
 
 3: Make surface unwalkable.
 Note: WalkableSlopeAngle will be ignored.

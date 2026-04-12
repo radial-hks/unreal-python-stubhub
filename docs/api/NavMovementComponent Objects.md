@@ -69,7 +69,7 @@ NavMovementComponent defines base functionality for MovementComponents that move
 
 <a id="unreal.NavMovementComponent.fixed_path_braking_distance"></a>
 
-#### fixed_path_braking_distance
+#### fixed\_path\_braking\_distance
 
 ```python
 @property
@@ -81,7 +81,7 @@ deprecated: FixedPathBrakingDistance is deprecated, please use NavMovementProper
 
 <a id="unreal.NavMovementComponent.fixed_path_braking_distance"></a>
 
-#### fixed_path_braking_distance
+#### fixed\_path\_braking\_distance
 
 ```python
 @fixed_path_braking_distance.setter
@@ -90,7 +90,7 @@ def fixed_path_braking_distance(value: float) -> None
 
 <a id="unreal.NavMovementComponent.update_nav_agent_with_owners_collision"></a>
 
-#### update_nav_agent_with_owners_collision
+#### update\_nav\_agent\_with\_owners\_collision
 
 ```python
 @property
@@ -102,7 +102,7 @@ deprecated: bUpdateNavAgentWithOwnersCollision is deprecated, please use NavMove
 
 <a id="unreal.NavMovementComponent.update_nav_agent_with_owners_collision"></a>
 
-#### update_nav_agent_with_owners_collision
+#### update\_nav\_agent\_with\_owners\_collision
 
 ```python
 @update_nav_agent_with_owners_collision.setter
@@ -111,7 +111,7 @@ def update_nav_agent_with_owners_collision(value: bool) -> None
 
 <a id="unreal.NavMovementComponent.use_acceleration_for_paths"></a>
 
-#### use_acceleration_for_paths
+#### use\_acceleration\_for\_paths
 
 ```python
 @property
@@ -123,7 +123,7 @@ deprecated: bUseAccelerationForPaths is deprecated, please use NavMovementProper
 
 <a id="unreal.NavMovementComponent.use_acceleration_for_paths"></a>
 
-#### use_acceleration_for_paths
+#### use\_acceleration\_for\_paths
 
 ```python
 @use_acceleration_for_paths.setter
@@ -132,7 +132,7 @@ def use_acceleration_for_paths(value: bool) -> None
 
 <a id="unreal.NavMovementComponent.use_fixed_braking_distance_for_paths"></a>
 
-#### use_fixed_braking_distance_for_paths
+#### use\_fixed\_braking\_distance\_for\_paths
 
 ```python
 @property
@@ -144,7 +144,7 @@ deprecated: bUseFixedBrakingDistanceForPaths is deprecated, please use NavMoveme
 
 <a id="unreal.NavMovementComponent.use_fixed_braking_distance_for_paths"></a>
 
-#### use_fixed_braking_distance_for_paths
+#### use\_fixed\_braking\_distance\_for\_paths
 
 ```python
 @use_fixed_braking_distance_for_paths.setter
@@ -153,7 +153,7 @@ def use_fixed_braking_distance_for_paths(value: bool) -> None
 
 <a id="unreal.NavMovementComponent.nav_agent_props"></a>
 
-#### nav_agent_props
+#### nav\_agent\_props
 
 ```python
 @property
@@ -164,7 +164,7 @@ def nav_agent_props() -> NavAgentProperties
 
 <a id="unreal.NavMovementComponent.nav_agent_props"></a>
 
-#### nav_agent_props
+#### nav\_agent\_props
 
 ```python
 @nav_agent_props.setter
@@ -173,7 +173,7 @@ def nav_agent_props(value: NavAgentProperties) -> None
 
 <a id="unreal.NavMovementComponent.is_swimming"></a>
 
-#### is_swimming
+#### is\_swimming
 
 ```python
 def is_swimming() -> bool
@@ -187,7 +187,7 @@ Returns:
 
 <a id="unreal.NavMovementComponent.is_moving_on_ground"></a>
 
-#### is_moving_on_ground
+#### is\_moving\_on\_ground
 
 ```python
 def is_moving_on_ground() -> bool
@@ -201,7 +201,7 @@ Returns:
 
 <a id="unreal.NavMovementComponent.is_flying"></a>
 
-#### is_flying
+#### is\_flying
 
 ```python
 def is_flying() -> bool
@@ -215,7 +215,7 @@ Returns:
 
 <a id="unreal.NavMovementComponent.is_falling"></a>
 
-#### is_falling
+#### is\_falling
 
 ```python
 def is_falling() -> bool
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.NavMovementComponent.is_crouching"></a>
 
-#### is_crouching
+#### is\_crouching
 
 ```python
 def is_crouching() -> bool
@@ -243,7 +243,7 @@ Returns:
 
 <a id="unreal.NavMovementComponent.get_velocity_for_nav_movement"></a>
 
-#### get_velocity_for_nav_movement
+#### get\_velocity\_for\_nav\_movement
 
 ```python
 def get_velocity_for_nav_movement() -> Vector
@@ -257,7 +257,7 @@ Returns:
 
 <a id="unreal.NavMovementComponent.stop_movement_keep_pathing"></a>
 
-#### stop_movement_keep_pathing
+#### stop\_movement\_keep\_pathing
 
 ```python
 def stop_movement_keep_pathing() -> None
@@ -268,7 +268,7 @@ Stops movement immediately (reset velocity) but keeps following current path
 
 <a id="unreal.NavMovementComponent.stop_active_movement"></a>
 
-#### stop_active_movement
+#### stop\_active\_movement
 
 ```python
 def stop_active_movement() -> None
@@ -279,7 +279,7 @@ Stops applying further movement (usually zeros acceleration).
 
 <a id="unreal.NavMovementComponent.request_path_move"></a>
 
-#### request_path_move
+#### request\_path\_move
 
 ```python
 def request_path_move(move_input: Vector) -> None
@@ -293,7 +293,7 @@ Args:
 
 <a id="unreal.NavMovementComponent.request_direct_move"></a>
 
-#### request_direct_move
+#### request\_direct\_move
 
 ```python
 def request_direct_move(move_velocity: Vector, force_max_speed: bool) -> None
@@ -308,7 +308,7 @@ Args:
 
 <a id="unreal.NavMovementComponent.get_max_speed_for_nav_movement"></a>
 
-#### get_max_speed_for_nav_movement
+#### get\_max\_speed\_for\_nav\_movement
 
 ```python
 def get_max_speed_for_nav_movement() -> float

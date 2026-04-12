@@ -8,7 +8,7 @@ deprecated: 'RigMirrorSettings' was renamed to 'RigVMMirrorSettings'.
 
 <a id="unreal.RigMirrorSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mirror_axis: AxisType = AxisType.NONE,

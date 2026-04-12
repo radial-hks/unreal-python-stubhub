@@ -20,7 +20,7 @@ Method for combining two or more data counts.
 
 <a id="unreal.PCGDataMultiplicity.CARTESIAN_PRODUCT"></a>
 
-#### CARTESIAN_PRODUCT
+#### CARTESIAN\_PRODUCT
 
 1: If there are two input pins with N and M data items respectively, the output will have NxM data items.
 

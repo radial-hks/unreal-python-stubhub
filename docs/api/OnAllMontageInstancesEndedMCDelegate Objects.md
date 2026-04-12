@@ -13,7 +13,7 @@ Delegate for when all montage instances have ended.
 
 <a id="unreal.OnAllMontageInstancesEndedMCDelegate.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

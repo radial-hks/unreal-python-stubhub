@@ -20,7 +20,7 @@ Source Effect Foldback Distortion Settings
 
 <a id="unreal.SourceEffectFoldbackDistortionSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(input_gain_db: float = 0.000000,
@@ -30,7 +30,7 @@ def __init__(input_gain_db: float = 0.000000,
 
 <a id="unreal.SourceEffectFoldbackDistortionSettings.input_gain_db"></a>
 
-#### input_gain_db
+#### input\_gain\_db
 
 ```python
 @property
@@ -41,7 +41,7 @@ def input_gain_db() -> float
 
 <a id="unreal.SourceEffectFoldbackDistortionSettings.input_gain_db"></a>
 
-#### input_gain_db
+#### input\_gain\_db
 
 ```python
 @input_gain_db.setter
@@ -50,7 +50,7 @@ def input_gain_db(value: float) -> None
 
 <a id="unreal.SourceEffectFoldbackDistortionSettings.threshold_db"></a>
 
-#### threshold_db
+#### threshold\_db
 
 ```python
 @property
@@ -61,7 +61,7 @@ def threshold_db() -> float
 
 <a id="unreal.SourceEffectFoldbackDistortionSettings.threshold_db"></a>
 
-#### threshold_db
+#### threshold\_db
 
 ```python
 @threshold_db.setter
@@ -70,7 +70,7 @@ def threshold_db(value: float) -> None
 
 <a id="unreal.SourceEffectFoldbackDistortionSettings.output_gain_db"></a>
 
-#### output_gain_db
+#### output\_gain\_db
 
 ```python
 @property
@@ -81,7 +81,7 @@ def output_gain_db() -> float
 
 <a id="unreal.SourceEffectFoldbackDistortionSettings.output_gain_db"></a>
 
-#### output_gain_db
+#### output\_gain\_db
 
 ```python
 @output_gain_db.setter

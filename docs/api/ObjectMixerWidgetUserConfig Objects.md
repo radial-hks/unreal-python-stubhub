@@ -18,7 +18,7 @@ User Configurable Variables
 
 <a id="unreal.ObjectMixerWidgetUserConfig.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(default_filter_class: Class = None) -> None
@@ -26,7 +26,7 @@ def __init__(default_filter_class: Class = None) -> None
 
 <a id="unreal.ObjectMixerWidgetUserConfig.default_filter_class"></a>
 
-#### default_filter_class
+#### default\_filter\_class
 
 ```python
 @property
@@ -37,11 +37,11 @@ def default_filter_class() -> Class
 
 <a id="unreal.ObjectMixerWidgetUserConfig.default_filter_class"></a>
 
-#### default_filter_class
+#### default\_filter\_class
 
 ```python
 @default_filter_class.setter
 def default_filter_class(value: Class) -> None
 ```
 
-<a id="unreal.AnimLayerPropertyAndChannels"></a>
+<a id="unreal.MirrorOptions"></a>

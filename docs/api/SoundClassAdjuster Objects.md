@@ -22,7 +22,7 @@ Elements of data for sound group volume control
 
 <a id="unreal.SoundClassAdjuster.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sound_class_object: SoundClass = None,
@@ -35,7 +35,7 @@ def __init__(sound_class_object: SoundClass = None,
 
 <a id="unreal.SoundClassAdjuster.sound_class_object"></a>
 
-#### sound_class_object
+#### sound\_class\_object
 
 ```python
 @property
@@ -46,7 +46,7 @@ def sound_class_object() -> SoundClass
 
 <a id="unreal.SoundClassAdjuster.volume_adjuster"></a>
 
-#### volume_adjuster
+#### volume\_adjuster
 
 ```python
 @property
@@ -57,7 +57,7 @@ def volume_adjuster() -> float
 
 <a id="unreal.SoundClassAdjuster.pitch_adjuster"></a>
 
-#### pitch_adjuster
+#### pitch\_adjuster
 
 ```python
 @property
@@ -68,7 +68,7 @@ def pitch_adjuster() -> float
 
 <a id="unreal.SoundClassAdjuster.low_pass_filter_frequency"></a>
 
-#### low_pass_filter_frequency
+#### low\_pass\_filter\_frequency
 
 ```python
 @property
@@ -79,7 +79,7 @@ def low_pass_filter_frequency() -> float
 
 <a id="unreal.SoundClassAdjuster.apply_to_children"></a>
 
-#### apply_to_children
+#### apply\_to\_children
 
 ```python
 @property
@@ -90,7 +90,7 @@ def apply_to_children() -> bool
 
 <a id="unreal.SoundClassAdjuster.voice_center_channel_volume_adjuster"></a>
 
-#### voice_center_channel_volume_adjuster
+#### voice\_center\_channel\_volume\_adjuster
 
 ```python
 @property

@@ -23,7 +23,7 @@ Source Effect Ring Modulation Settings
 
 <a id="unreal.SourceEffectRingModulationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -38,7 +38,7 @@ def __init__(
 
 <a id="unreal.SourceEffectRingModulationSettings.modulator_type"></a>
 
-#### modulator_type
+#### modulator\_type
 
 ```python
 @property
@@ -49,7 +49,7 @@ def modulator_type() -> RingModulatorTypeSourceEffect
 
 <a id="unreal.SourceEffectRingModulationSettings.modulator_type"></a>
 
-#### modulator_type
+#### modulator\_type
 
 ```python
 @modulator_type.setter
@@ -98,7 +98,7 @@ def depth(value: float) -> None
 
 <a id="unreal.SourceEffectRingModulationSettings.dry_level"></a>
 
-#### dry_level
+#### dry\_level
 
 ```python
 @property
@@ -109,7 +109,7 @@ def dry_level() -> float
 
 <a id="unreal.SourceEffectRingModulationSettings.dry_level"></a>
 
-#### dry_level
+#### dry\_level
 
 ```python
 @dry_level.setter
@@ -118,7 +118,7 @@ def dry_level(value: float) -> None
 
 <a id="unreal.SourceEffectRingModulationSettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @property
@@ -129,7 +129,7 @@ def wet_level() -> float
 
 <a id="unreal.SourceEffectRingModulationSettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @wet_level.setter
@@ -138,7 +138,7 @@ def wet_level(value: float) -> None
 
 <a id="unreal.SourceEffectRingModulationSettings.audio_bus_modulator"></a>
 
-#### audio_bus_modulator
+#### audio\_bus\_modulator
 
 ```python
 @property
@@ -149,7 +149,7 @@ def audio_bus_modulator() -> AudioBus
 
 <a id="unreal.SourceEffectRingModulationSettings.audio_bus_modulator"></a>
 
-#### audio_bus_modulator
+#### audio\_bus\_modulator
 
 ```python
 @audio_bus_modulator.setter

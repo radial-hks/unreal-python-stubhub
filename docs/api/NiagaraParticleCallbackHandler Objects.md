@@ -14,7 +14,7 @@ Niagara Particle Callback Handler
 
 <a id="unreal.NiagaraParticleCallbackHandler.receive_particle_data"></a>
 
-#### receive_particle_data
+#### receive\_particle\_data
 
 ```python
 def receive_particle_data(data: Array[BasicParticleData],

@@ -53,31 +53,31 @@ For MetaSounds, use a specific Type instead of this one.
 
 <a id="unreal.AudioParameterType.BOOLEAN_ARRAY"></a>
 
-#### BOOLEAN_ARRAY
+#### BOOLEAN\_ARRAY
 
 7: Array of boolean values (not supported by legacy SoundCue system)
 
 <a id="unreal.AudioParameterType.INTEGER_ARRAY"></a>
 
-#### INTEGER_ARRAY
+#### INTEGER\_ARRAY
 
 8: Array of integer values (not supported by legacy SoundCue system)
 
 <a id="unreal.AudioParameterType.FLOAT_ARRAY"></a>
 
-#### FLOAT_ARRAY
+#### FLOAT\_ARRAY
 
 9: Array of float values (not supported by legacy SoundCue system)
 
 <a id="unreal.AudioParameterType.STRING_ARRAY"></a>
 
-#### STRING_ARRAY
+#### STRING\_ARRAY
 
 10: Array of string values (not supported by legacy SoundCue system)
 
 <a id="unreal.AudioParameterType.OBJECT_ARRAY"></a>
 
-#### OBJECT_ARRAY
+#### OBJECT\_ARRAY
 
 11: Array of object values (not supported by legacy SoundCue system)
 

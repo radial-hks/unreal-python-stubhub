@@ -26,7 +26,7 @@ ESynth Stereo Delay Mode
 
 <a id="unreal.SynthStereoDelayMode.PING_PONG"></a>
 
-#### PING_PONG
+#### PING\_PONG
 
 2
 

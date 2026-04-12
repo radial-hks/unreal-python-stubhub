@@ -29,7 +29,7 @@ Implements a movie scene section for media playback on a UMediaPlayer.
 
 <a id="unreal.MovieSceneMediaPlayerPropertySection.media_source"></a>
 
-#### media_source
+#### media\_source
 
 ```python
 @property
@@ -40,7 +40,7 @@ def media_source() -> MediaSource
 
 <a id="unreal.MovieSceneMediaPlayerPropertySection.media_source"></a>
 
-#### media_source
+#### media\_source
 
 ```python
 @media_source.setter

@@ -13,20 +13,20 @@ EPhysics Type
 
 <a id="unreal.PhysicsType.PHYS_TYPE_DEFAULT"></a>
 
-#### PHYS_TYPE_DEFAULT
+#### PHYS\_TYPE\_DEFAULT
 
 0: Follow owner.
 
 <a id="unreal.PhysicsType.PHYS_TYPE_KINEMATIC"></a>
 
-#### PHYS_TYPE_KINEMATIC
+#### PHYS\_TYPE\_KINEMATIC
 
 1: Do not follow owner, but make kinematic.
 
 <a id="unreal.PhysicsType.PHYS_TYPE_SIMULATED"></a>
 
-#### PHYS_TYPE_SIMULATED
+#### PHYS\_TYPE\_SIMULATED
 
 2: Do not follow owner, but simulate.
 
-<a id="unreal.BodyCollisionResponse"></a>
+<a id="unreal.EglTFRuntimePhysicsAssetAutoBodyCollisionType"></a>

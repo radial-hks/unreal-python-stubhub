@@ -22,7 +22,7 @@ to make it easier to select from a pre-defined list of execution domains.
 
 <a id="unreal.OptimusExecutionDomain.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -152,7 +152,7 @@ Both simple and smart links on a single ANavLinkProxy instance, can be set / ena
 
 <a id="unreal.NavLinkProxy.point_links"></a>
 
-#### point_links
+#### point\_links
 
 ```python
 @property
@@ -163,7 +163,7 @@ def point_links() -> Array[NavigationLink]
 
 <a id="unreal.NavLinkProxy.nav_links"></a>
 
-#### nav_links
+#### nav\_links
 
 ```python
 @property
@@ -174,7 +174,7 @@ deprecated: 'nav_links' was renamed to 'point_links'.
 
 <a id="unreal.NavLinkProxy.on_smart_link_reached"></a>
 
-#### on_smart_link_reached
+#### on\_smart\_link\_reached
 
 ```python
 @property
@@ -185,7 +185,7 @@ def on_smart_link_reached() -> SmartLinkReachedSignature
 
 <a id="unreal.NavLinkProxy.on_smart_link_reached"></a>
 
-#### on_smart_link_reached
+#### on\_smart\_link\_reached
 
 ```python
 @on_smart_link_reached.setter
@@ -194,7 +194,7 @@ def on_smart_link_reached(value: SmartLinkReachedSignature) -> None
 
 <a id="unreal.NavLinkProxy.set_smart_link_enabled"></a>
 
-#### set_smart_link_enabled
+#### set\_smart\_link\_enabled
 
 ```python
 def set_smart_link_enabled(enabled: bool) -> None
@@ -208,7 +208,7 @@ Args:
 
 <a id="unreal.NavLinkProxy.resume_path_following"></a>
 
-#### resume_path_following
+#### resume\_path\_following
 
 ```python
 def resume_path_following(agent: Actor) -> None
@@ -222,7 +222,7 @@ Args:
 
 <a id="unreal.NavLinkProxy.receive_smart_link_reached"></a>
 
-#### receive_smart_link_reached
+#### receive\_smart\_link\_reached
 
 ```python
 def receive_smart_link_reached(agent: Actor, destination: Vector) -> None
@@ -237,7 +237,7 @@ Args:
 
 <a id="unreal.NavLinkProxy.is_smart_link_enabled"></a>
 
-#### is_smart_link_enabled
+#### is\_smart\_link\_enabled
 
 ```python
 def is_smart_link_enabled() -> bool
@@ -251,7 +251,7 @@ Returns:
 
 <a id="unreal.NavLinkProxy.has_moving_agents"></a>
 
-#### has_moving_agents
+#### has\_moving\_agents
 
 ```python
 def has_moving_agents() -> bool

@@ -31,7 +31,7 @@ See UEditorModelingObjectsCreationAPI for an example implementation suitable for
 
 <a id="unreal.ModelingObjectsCreationAPI.create_texture_object"></a>
 
-#### create_texture_object
+#### create\_texture\_object
 
 ```python
 def create_texture_object(
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.ModelingObjectsCreationAPI.create_new_actor"></a>
 
-#### create_new_actor
+#### create\_new\_actor
 
 ```python
 def create_new_actor(
@@ -68,7 +68,7 @@ Returns:
 
 <a id="unreal.ModelingObjectsCreationAPI.create_mesh_object"></a>
 
-#### create_mesh_object
+#### create\_mesh\_object
 
 ```python
 def create_mesh_object(
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.ModelingObjectsCreationAPI.create_material_object"></a>
 
-#### create_material_object
+#### create\_material\_object
 
 ```python
 def create_material_object(

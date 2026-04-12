@@ -146,7 +146,7 @@ Chaos Solver Actor
 
 <a id="unreal.ChaosSolverActor.set_solver_active"></a>
 
-#### set_solver_active
+#### set\_solver\_active
 
 ```python
 def set_solver_active(active: bool) -> None
@@ -160,7 +160,7 @@ Args:
 
 <a id="unreal.ChaosSolverActor.set_as_current_world_solver"></a>
 
-#### set_as_current_world_solver
+#### set\_as\_current\_world\_solver
 
 ```python
 def set_as_current_world_solver() -> None

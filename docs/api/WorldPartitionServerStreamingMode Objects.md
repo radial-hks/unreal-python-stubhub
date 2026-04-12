@@ -13,7 +13,7 @@ EWorld Partition Server Streaming Mode
 
 <a id="unreal.WorldPartitionServerStreamingMode.PROJECT_DEFAULT"></a>
 
-#### PROJECT_DEFAULT
+#### PROJECT\_DEFAULT
 
 0: Use project default (wp.Runtime.EnableServerStreaming)
 
@@ -31,7 +31,7 @@ EWorld Partition Server Streaming Mode
 
 <a id="unreal.WorldPartitionServerStreamingMode.ENABLED_IN_PIE"></a>
 
-#### ENABLED_IN_PIE
+#### ENABLED\_IN\_PIE
 
 3: Server streaming is only enabled in PIE
 

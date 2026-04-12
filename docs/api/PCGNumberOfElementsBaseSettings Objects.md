@@ -36,7 +36,7 @@ except for getting the number of elements, it is factorized in a base class.
 
 <a id="unreal.PCGNumberOfElementsBaseSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @property
@@ -47,7 +47,7 @@ def output_attribute_name() -> Name
 
 <a id="unreal.PCGNumberOfElementsBaseSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @output_attribute_name.setter

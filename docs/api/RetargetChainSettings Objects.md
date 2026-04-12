@@ -20,7 +20,7 @@ Retarget Chain Settings
 
 <a id="unreal.RetargetChainSettings.source_chain"></a>
 
-#### source_chain
+#### source\_chain
 
 ```python
 @property
@@ -31,7 +31,7 @@ def source_chain() -> Name
 
 <a id="unreal.RetargetChainSettings.target_chain"></a>
 
-#### target_chain
+#### target\_chain
 
 ```python
 @property

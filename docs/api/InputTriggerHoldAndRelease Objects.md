@@ -31,7 +31,7 @@ UInputTriggerHoldAndRelease
 
 <a id="unreal.InputTriggerHoldAndRelease.hold_time_threshold"></a>
 
-#### hold_time_threshold
+#### hold\_time\_threshold
 
 ```python
 @property
@@ -42,7 +42,7 @@ def hold_time_threshold() -> float
 
 <a id="unreal.InputTriggerHoldAndRelease.hold_time_threshold"></a>
 
-#### hold_time_threshold
+#### hold\_time\_threshold
 
 ```python
 @hold_time_threshold.setter

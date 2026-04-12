@@ -54,7 +54,7 @@ def target(value: Actor) -> None
 
 <a id="unreal.TakeRecorderActorSource.record_type"></a>
 
-#### record_type
+#### record\_type
 
 ```python
 @property
@@ -66,7 +66,7 @@ will not create a Spawnable copy of this object and instead will possess this ob
 
 <a id="unreal.TakeRecorderActorSource.record_type"></a>
 
-#### record_type
+#### record\_type
 
 ```python
 @record_type.setter
@@ -75,7 +75,7 @@ def record_type(value: TakeRecorderActorRecordType) -> None
 
 <a id="unreal.TakeRecorderActorSource.record_parent_hierarchy"></a>
 
-#### record_parent_hierarchy
+#### record\_parent\_hierarchy
 
 ```python
 @property
@@ -89,7 +89,7 @@ since the child will not be attached to the parent in the level.
 
 <a id="unreal.TakeRecorderActorSource.record_parent_hierarchy"></a>
 
-#### record_parent_hierarchy
+#### record\_parent\_hierarchy
 
 ```python
 @record_parent_hierarchy.setter
@@ -98,7 +98,7 @@ def record_parent_hierarchy(value: bool) -> None
 
 <a id="unreal.TakeRecorderActorSource.reduce_keys"></a>
 
-#### reduce_keys
+#### reduce\_keys
 
 ```python
 @property
@@ -109,7 +109,7 @@ def reduce_keys() -> bool
 
 <a id="unreal.TakeRecorderActorSource.reduce_keys"></a>
 
-#### reduce_keys
+#### reduce\_keys
 
 ```python
 @reduce_keys.setter
@@ -118,7 +118,7 @@ def reduce_keys(value: bool) -> None
 
 <a id="unreal.TakeRecorderActorSource.recorded_properties"></a>
 
-#### recorded_properties
+#### recorded\_properties
 
 ```python
 @property
@@ -130,7 +130,7 @@ recorded into a track in the resulting Level Sequence.
 
 <a id="unreal.TakeRecorderActorSource.recorded_properties"></a>
 
-#### recorded_properties
+#### recorded\_properties
 
 ```python
 @recorded_properties.setter
@@ -139,7 +139,7 @@ def recorded_properties(value: ActorRecorderPropertyMap) -> None
 
 <a id="unreal.TakeRecorderActorSource.include_animation_names"></a>
 
-#### include_animation_names
+#### include\_animation\_names
 
 ```python
 @property
@@ -150,7 +150,7 @@ def include_animation_names() -> Array[str]
 
 <a id="unreal.TakeRecorderActorSource.include_animation_names"></a>
 
-#### include_animation_names
+#### include\_animation\_names
 
 ```python
 @include_animation_names.setter
@@ -159,7 +159,7 @@ def include_animation_names(value: Array[str]) -> None
 
 <a id="unreal.TakeRecorderActorSource.exclude_animation_names"></a>
 
-#### exclude_animation_names
+#### exclude\_animation\_names
 
 ```python
 @property
@@ -170,7 +170,7 @@ def exclude_animation_names() -> Array[str]
 
 <a id="unreal.TakeRecorderActorSource.exclude_animation_names"></a>
 
-#### exclude_animation_names
+#### exclude\_animation\_names
 
 ```python
 @exclude_animation_names.setter
@@ -179,7 +179,7 @@ def exclude_animation_names(value: Array[str]) -> None
 
 <a id="unreal.TakeRecorderActorSource.set_source_actor"></a>
 
-#### set_source_actor
+#### set\_source\_actor
 
 ```python
 def set_source_actor(target: Actor) -> None
@@ -193,7 +193,7 @@ Args:
 
 <a id="unreal.TakeRecorderActorSource.remove_actor_from_sources"></a>
 
-#### remove_actor_from_sources
+#### remove\_actor\_from\_sources
 
 ```python
 @classmethod
@@ -212,7 +212,7 @@ Args:
 
 <a id="unreal.TakeRecorderActorSource.get_source_actor"></a>
 
-#### get_source_actor
+#### get\_source\_actor
 
 ```python
 def get_source_actor() -> Actor
@@ -226,7 +226,7 @@ Returns:
 
 <a id="unreal.TakeRecorderActorSource.add_source_for_actor"></a>
 
-#### add_source_for_actor
+#### add\_source\_for\_actor
 
 ```python
 @classmethod

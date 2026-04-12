@@ -22,7 +22,7 @@ Underwater Post Process Settings
 
 <a id="unreal.UnderwaterPostProcessSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enabled: bool = False,
@@ -74,7 +74,7 @@ def priority(value: float) -> None
 
 <a id="unreal.UnderwaterPostProcessSettings.blend_radius"></a>
 
-#### blend_radius
+#### blend\_radius
 
 ```python
 @property
@@ -85,7 +85,7 @@ def blend_radius() -> float
 
 <a id="unreal.UnderwaterPostProcessSettings.blend_radius"></a>
 
-#### blend_radius
+#### blend\_radius
 
 ```python
 @blend_radius.setter
@@ -94,7 +94,7 @@ def blend_radius(value: float) -> None
 
 <a id="unreal.UnderwaterPostProcessSettings.blend_weight"></a>
 
-#### blend_weight
+#### blend\_weight
 
 ```python
 @property
@@ -105,7 +105,7 @@ def blend_weight() -> float
 
 <a id="unreal.UnderwaterPostProcessSettings.blend_weight"></a>
 
-#### blend_weight
+#### blend\_weight
 
 ```python
 @blend_weight.setter
@@ -114,7 +114,7 @@ def blend_weight(value: float) -> None
 
 <a id="unreal.UnderwaterPostProcessSettings.post_process_settings"></a>
 
-#### post_process_settings
+#### post\_process\_settings
 
 ```python
 @property
@@ -125,7 +125,7 @@ def post_process_settings() -> PostProcessSettings
 
 <a id="unreal.UnderwaterPostProcessSettings.post_process_settings"></a>
 
-#### post_process_settings
+#### post\_process\_settings
 
 ```python
 @post_process_settings.setter

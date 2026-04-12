@@ -18,7 +18,7 @@ Geometry Collection Collision Particle Data
 
 <a id="unreal.GeometryCollectionCollisionParticleData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

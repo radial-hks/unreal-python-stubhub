@@ -29,7 +29,7 @@ Source Effect Dynamics Processor Settings
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -52,7 +52,7 @@ def __init__(
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.dynamics_processor_type"></a>
 
-#### dynamics_processor_type
+#### dynamics\_processor\_type
 
 ```python
 @property
@@ -63,7 +63,7 @@ def dynamics_processor_type() -> SourceEffectDynamicsProcessorType
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.dynamics_processor_type"></a>
 
-#### dynamics_processor_type
+#### dynamics\_processor\_type
 
 ```python
 @dynamics_processor_type.setter
@@ -72,7 +72,7 @@ def dynamics_processor_type(value: SourceEffectDynamicsProcessorType) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.peak_mode"></a>
 
-#### peak_mode
+#### peak\_mode
 
 ```python
 @property
@@ -83,7 +83,7 @@ def peak_mode() -> SourceEffectDynamicsPeakMode
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.peak_mode"></a>
 
-#### peak_mode
+#### peak\_mode
 
 ```python
 @peak_mode.setter
@@ -92,7 +92,7 @@ def peak_mode(value: SourceEffectDynamicsPeakMode) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.look_ahead_msec"></a>
 
-#### look_ahead_msec
+#### look\_ahead\_msec
 
 ```python
 @property
@@ -103,7 +103,7 @@ def look_ahead_msec() -> float
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.look_ahead_msec"></a>
 
-#### look_ahead_msec
+#### look\_ahead\_msec
 
 ```python
 @look_ahead_msec.setter
@@ -112,7 +112,7 @@ def look_ahead_msec(value: float) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.attack_time_msec"></a>
 
-#### attack_time_msec
+#### attack\_time\_msec
 
 ```python
 @property
@@ -123,7 +123,7 @@ def attack_time_msec() -> float
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.attack_time_msec"></a>
 
-#### attack_time_msec
+#### attack\_time\_msec
 
 ```python
 @attack_time_msec.setter
@@ -132,7 +132,7 @@ def attack_time_msec(value: float) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.release_time_msec"></a>
 
-#### release_time_msec
+#### release\_time\_msec
 
 ```python
 @property
@@ -143,7 +143,7 @@ def release_time_msec() -> float
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.release_time_msec"></a>
 
-#### release_time_msec
+#### release\_time\_msec
 
 ```python
 @release_time_msec.setter
@@ -152,7 +152,7 @@ def release_time_msec(value: float) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.threshold_db"></a>
 
-#### threshold_db
+#### threshold\_db
 
 ```python
 @property
@@ -163,7 +163,7 @@ def threshold_db() -> float
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.threshold_db"></a>
 
-#### threshold_db
+#### threshold\_db
 
 ```python
 @threshold_db.setter
@@ -192,7 +192,7 @@ def ratio(value: float) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.knee_bandwidth_db"></a>
 
-#### knee_bandwidth_db
+#### knee\_bandwidth\_db
 
 ```python
 @property
@@ -203,7 +203,7 @@ def knee_bandwidth_db() -> float
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.knee_bandwidth_db"></a>
 
-#### knee_bandwidth_db
+#### knee\_bandwidth\_db
 
 ```python
 @knee_bandwidth_db.setter
@@ -212,7 +212,7 @@ def knee_bandwidth_db(value: float) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.input_gain_db"></a>
 
-#### input_gain_db
+#### input\_gain\_db
 
 ```python
 @property
@@ -223,7 +223,7 @@ def input_gain_db() -> float
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.input_gain_db"></a>
 
-#### input_gain_db
+#### input\_gain\_db
 
 ```python
 @input_gain_db.setter
@@ -232,7 +232,7 @@ def input_gain_db(value: float) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.output_gain_db"></a>
 
-#### output_gain_db
+#### output\_gain\_db
 
 ```python
 @property
@@ -243,7 +243,7 @@ def output_gain_db() -> float
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.output_gain_db"></a>
 
-#### output_gain_db
+#### output\_gain\_db
 
 ```python
 @output_gain_db.setter
@@ -252,7 +252,7 @@ def output_gain_db(value: float) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.stereo_linked"></a>
 
-#### stereo_linked
+#### stereo\_linked
 
 ```python
 @property
@@ -263,7 +263,7 @@ def stereo_linked() -> bool
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.stereo_linked"></a>
 
-#### stereo_linked
+#### stereo\_linked
 
 ```python
 @stereo_linked.setter
@@ -272,7 +272,7 @@ def stereo_linked(value: bool) -> None
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.analog_mode"></a>
 
-#### analog_mode
+#### analog\_mode
 
 ```python
 @property
@@ -283,7 +283,7 @@ def analog_mode() -> bool
 
 <a id="unreal.SourceEffectDynamicsProcessorSettings.analog_mode"></a>
 
-#### analog_mode
+#### analog\_mode
 
 ```python
 @analog_mode.setter

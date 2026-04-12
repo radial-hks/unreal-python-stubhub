@@ -13,13 +13,13 @@ As UHT doesnt allow arrays of bools, we need this binary enum :(
 
 <a id="unreal.UVOutput.DO_NOT_OUTPUT_CHANNEL"></a>
 
-#### DO_NOT_OUTPUT_CHANNEL
+#### DO\_NOT\_OUTPUT\_CHANNEL
 
 0
 
 <a id="unreal.UVOutput.OUTPUT_CHANNEL"></a>
 
-#### OUTPUT_CHANNEL
+#### OUTPUT\_CHANNEL
 
 1
 

@@ -18,7 +18,7 @@ Anim Detail Proxy Integer
 
 <a id="unreal.AnimDetailProxyInteger.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(integer: int = 0) -> None

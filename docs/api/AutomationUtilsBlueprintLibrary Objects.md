@@ -14,7 +14,7 @@ Automation Utils Blueprint Library
 
 <a id="unreal.AutomationUtilsBlueprintLibrary.take_gameplay_automation_screenshot"></a>
 
-#### take_gameplay_automation_screenshot
+#### take\_gameplay\_automation\_screenshot
 
 ```python
 @classmethod

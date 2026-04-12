@@ -17,7 +17,7 @@ It can be a lookup, a random process or something more involved.
 
 <a id="unreal.PCGMatchAndSetBase.validate_preconditions"></a>
 
-#### validate_preconditions
+#### validate\_preconditions
 
 ```python
 def validate_preconditions(point_data: PCGPointData) -> bool
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.PCGMatchAndSetBase.match_and_set"></a>
 
-#### match_and_set
+#### match\_and\_set
 
 ```python
 def match_and_set(context: PCGContext, settings: PCGPointMatchAndSetSettings,

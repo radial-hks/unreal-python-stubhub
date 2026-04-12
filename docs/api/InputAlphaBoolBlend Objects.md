@@ -20,7 +20,7 @@ Input Alpha Bool Blend
 
 <a id="unreal.InputAlphaBoolBlend.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(blend_in_time: float = 0.000000,
@@ -31,7 +31,7 @@ def __init__(blend_in_time: float = 0.000000,
 
 <a id="unreal.InputAlphaBoolBlend.blend_in_time"></a>
 
-#### blend_in_time
+#### blend\_in\_time
 
 ```python
 @property
@@ -42,7 +42,7 @@ def blend_in_time() -> float
 
 <a id="unreal.InputAlphaBoolBlend.blend_in_time"></a>
 
-#### blend_in_time
+#### blend\_in\_time
 
 ```python
 @blend_in_time.setter
@@ -51,7 +51,7 @@ def blend_in_time(value: float) -> None
 
 <a id="unreal.InputAlphaBoolBlend.blend_out_time"></a>
 
-#### blend_out_time
+#### blend\_out\_time
 
 ```python
 @property
@@ -62,7 +62,7 @@ def blend_out_time() -> float
 
 <a id="unreal.InputAlphaBoolBlend.blend_out_time"></a>
 
-#### blend_out_time
+#### blend\_out\_time
 
 ```python
 @blend_out_time.setter
@@ -71,7 +71,7 @@ def blend_out_time(value: float) -> None
 
 <a id="unreal.InputAlphaBoolBlend.blend_option"></a>
 
-#### blend_option
+#### blend\_option
 
 ```python
 @property
@@ -82,7 +82,7 @@ def blend_option() -> AlphaBlendOption
 
 <a id="unreal.InputAlphaBoolBlend.blend_option"></a>
 
-#### blend_option
+#### blend\_option
 
 ```python
 @blend_option.setter
@@ -91,7 +91,7 @@ def blend_option(value: AlphaBlendOption) -> None
 
 <a id="unreal.InputAlphaBoolBlend.custom_curve"></a>
 
-#### custom_curve
+#### custom\_curve
 
 ```python
 @property
@@ -102,7 +102,7 @@ def custom_curve() -> CurveFloat
 
 <a id="unreal.InputAlphaBoolBlend.custom_curve"></a>
 
-#### custom_curve
+#### custom\_curve
 
 ```python
 @custom_curve.setter

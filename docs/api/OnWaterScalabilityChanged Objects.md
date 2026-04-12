@@ -14,7 +14,7 @@ On Water Scalability Changed  Delegate Signature
 
 <a id="unreal.OnWaterScalabilityChanged.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

@@ -60,7 +60,7 @@ def mode(value: PCGCreateSplineMode) -> None
 
 <a id="unreal.PCGCreateSplineSettings.closed_loop"></a>
 
-#### closed_loop
+#### closed\_loop
 
 ```python
 @property
@@ -71,7 +71,7 @@ def closed_loop() -> bool
 
 <a id="unreal.PCGCreateSplineSettings.closed_loop"></a>
 
-#### closed_loop
+#### closed\_loop
 
 ```python
 @closed_loop.setter
@@ -100,7 +100,7 @@ def linear(value: bool) -> None
 
 <a id="unreal.PCGCreateSplineSettings.apply_custom_tangents"></a>
 
-#### apply_custom_tangents
+#### apply\_custom\_tangents
 
 ```python
 @property
@@ -111,7 +111,7 @@ def apply_custom_tangents() -> bool
 
 <a id="unreal.PCGCreateSplineSettings.apply_custom_tangents"></a>
 
-#### apply_custom_tangents
+#### apply\_custom\_tangents
 
 ```python
 @apply_custom_tangents.setter
@@ -120,7 +120,7 @@ def apply_custom_tangents(value: bool) -> None
 
 <a id="unreal.PCGCreateSplineSettings.arrive_tangent_attribute"></a>
 
-#### arrive_tangent_attribute
+#### arrive\_tangent\_attribute
 
 ```python
 @property
@@ -131,7 +131,7 @@ def arrive_tangent_attribute() -> Name
 
 <a id="unreal.PCGCreateSplineSettings.arrive_tangent_attribute"></a>
 
-#### arrive_tangent_attribute
+#### arrive\_tangent\_attribute
 
 ```python
 @arrive_tangent_attribute.setter
@@ -140,7 +140,7 @@ def arrive_tangent_attribute(value: Name) -> None
 
 <a id="unreal.PCGCreateSplineSettings.leave_tangent_attribute"></a>
 
-#### leave_tangent_attribute
+#### leave\_tangent\_attribute
 
 ```python
 @property
@@ -151,7 +151,7 @@ def leave_tangent_attribute() -> Name
 
 <a id="unreal.PCGCreateSplineSettings.leave_tangent_attribute"></a>
 
-#### leave_tangent_attribute
+#### leave\_tangent\_attribute
 
 ```python
 @leave_tangent_attribute.setter
@@ -160,7 +160,7 @@ def leave_tangent_attribute(value: Name) -> None
 
 <a id="unreal.PCGCreateSplineSettings.post_process_function_names"></a>
 
-#### post_process_function_names
+#### post\_process\_function\_names
 
 ```python
 @property
@@ -171,7 +171,7 @@ def post_process_function_names() -> Array[Name]
 
 <a id="unreal.PCGCreateSplineSettings.post_process_function_names"></a>
 
-#### post_process_function_names
+#### post\_process\_function\_names
 
 ```python
 @post_process_function_names.setter

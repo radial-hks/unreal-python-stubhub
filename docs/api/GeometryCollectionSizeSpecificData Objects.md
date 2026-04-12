@@ -37,7 +37,7 @@ Geometry Collection Size Specific Data
 
 <a id="unreal.GeometryCollectionSizeSpecificData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -45,7 +45,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.collision_type"></a>
 
-#### collision_type
+#### collision\_type
 
 ```python
 @property
@@ -57,7 +57,7 @@ deprecated: Use Collision.CollisionType instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.collision_type"></a>
 
-#### collision_type
+#### collision\_type
 
 ```python
 @collision_type.setter
@@ -66,7 +66,7 @@ def collision_type(value: CollisionTypeEnum) -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.implicit_type"></a>
 
-#### implicit_type
+#### implicit\_type
 
 ```python
 @property
@@ -78,7 +78,7 @@ deprecated: Use Collision.ImplicitType instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.implicit_type"></a>
 
-#### implicit_type
+#### implicit\_type
 
 ```python
 @implicit_type.setter
@@ -87,7 +87,7 @@ def implicit_type(value: ImplicitTypeEnum) -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.min_level_set_resolution"></a>
 
-#### min_level_set_resolution
+#### min\_level\_set\_resolution
 
 ```python
 @property
@@ -99,7 +99,7 @@ deprecated: Use Collision.LevelSet.MinLevelSetResolution instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.min_level_set_resolution"></a>
 
-#### min_level_set_resolution
+#### min\_level\_set\_resolution
 
 ```python
 @min_level_set_resolution.setter
@@ -108,7 +108,7 @@ def min_level_set_resolution(value: int) -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.max_level_set_resolution"></a>
 
-#### max_level_set_resolution
+#### max\_level\_set\_resolution
 
 ```python
 @property
@@ -120,7 +120,7 @@ deprecated: Use Collision.LevelSet.MaxLevelSetResolution instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.max_level_set_resolution"></a>
 
-#### max_level_set_resolution
+#### max\_level\_set\_resolution
 
 ```python
 @max_level_set_resolution.setter
@@ -129,7 +129,7 @@ def max_level_set_resolution(value: int) -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.min_cluster_level_set_resolution"></a>
 
-#### min_cluster_level_set_resolution
+#### min\_cluster\_level\_set\_resolution
 
 ```python
 @property
@@ -141,7 +141,7 @@ deprecated: Use Collision.LevelSet.MinClusterLevelSetResolution instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.min_cluster_level_set_resolution"></a>
 
-#### min_cluster_level_set_resolution
+#### min\_cluster\_level\_set\_resolution
 
 ```python
 @min_cluster_level_set_resolution.setter
@@ -150,7 +150,7 @@ def min_cluster_level_set_resolution(value: int) -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.max_cluster_level_set_resolution"></a>
 
-#### max_cluster_level_set_resolution
+#### max\_cluster\_level\_set\_resolution
 
 ```python
 @property
@@ -162,7 +162,7 @@ deprecated: Use Collision.LevelSet.MaxClusterLevelSetResolution instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.max_cluster_level_set_resolution"></a>
 
-#### max_cluster_level_set_resolution
+#### max\_cluster\_level\_set\_resolution
 
 ```python
 @max_cluster_level_set_resolution.setter
@@ -171,7 +171,7 @@ def max_cluster_level_set_resolution(value: int) -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.collision_object_reduction_percentage"></a>
 
-#### collision_object_reduction_percentage
+#### collision\_object\_reduction\_percentage
 
 ```python
 @property
@@ -183,7 +183,7 @@ deprecated: Use Collision.CollisionObjectReductionPercentage instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.collision_object_reduction_percentage"></a>
 
-#### collision_object_reduction_percentage
+#### collision\_object\_reduction\_percentage
 
 ```python
 @collision_object_reduction_percentage.setter
@@ -192,7 +192,7 @@ def collision_object_reduction_percentage(value: int) -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.collision_particles_fraction"></a>
 
-#### collision_particles_fraction
+#### collision\_particles\_fraction
 
 ```python
 @property
@@ -204,7 +204,7 @@ deprecated: Use Collision.CollisionParticlesFraction instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.collision_particles_fraction"></a>
 
-#### collision_particles_fraction
+#### collision\_particles\_fraction
 
 ```python
 @collision_particles_fraction.setter
@@ -213,7 +213,7 @@ def collision_particles_fraction(value: float) -> None
 
 <a id="unreal.GeometryCollectionSizeSpecificData.maximum_collision_particles"></a>
 
-#### maximum_collision_particles
+#### maximum\_collision\_particles
 
 ```python
 @property
@@ -225,7 +225,7 @@ deprecated: Use Collision.MaximumCollisionParticles instead.
 
 <a id="unreal.GeometryCollectionSizeSpecificData.maximum_collision_particles"></a>
 
-#### maximum_collision_particles
+#### maximum\_collision\_particles
 
 ```python
 @maximum_collision_particles.setter

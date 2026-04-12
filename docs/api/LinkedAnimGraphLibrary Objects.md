@@ -13,7 +13,7 @@ Exposes operations to be performed on anim node contexts
 
 <a id="unreal.LinkedAnimGraphLibrary.has_linked_anim_instance"></a>
 
-#### has_linked_anim_instance
+#### has\_linked\_anim\_instance
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.LinkedAnimGraphLibrary.get_linked_anim_instance"></a>
 
-#### get_linked_anim_instance
+#### get\_linked\_anim\_instance
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.LinkedAnimGraphLibrary.convert_to_linked_anim_graph_pure"></a>
 
-#### convert_to_linked_anim_graph_pure
+#### convert\_to\_linked\_anim\_graph\_pure
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.LinkedAnimGraphLibrary.convert_to_linked_anim_graph"></a>
 
-#### convert_to_linked_anim_graph
+#### convert\_to\_linked\_anim\_graph
 
 ```python
 @classmethod

@@ -13,7 +13,7 @@ UAutomationEditorTask
 
 <a id="unreal.AutomationEditorTask.is_valid_task"></a>
 
-#### is_valid_task
+#### is\_valid\_task
 
 ```python
 def is_valid_task() -> bool
@@ -27,7 +27,7 @@ Returns:
 
 <a id="unreal.AutomationEditorTask.is_task_done"></a>
 
-#### is_task_done
+#### is\_task\_done
 
 ```python
 def is_task_done() -> bool

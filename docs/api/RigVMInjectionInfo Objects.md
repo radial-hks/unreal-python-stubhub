@@ -16,7 +16,7 @@ nodes on the graph.
 
 <a id="unreal.RigVMInjectionInfo.get_pin"></a>
 
-#### get_pin
+#### get\_pin
 
 ```python
 def get_pin() -> RigVMPin
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.RigVMInjectionInfo.get_graph"></a>
 
-#### get_graph
+#### get\_graph
 
 ```python
 def get_graph() -> RigVMGraph

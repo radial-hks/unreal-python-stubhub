@@ -33,7 +33,7 @@ Movie Scene User Import FBXControl Rig Settings
 
 <a id="unreal.MovieSceneUserImportFBXControlRigSettings.load_control_mappings_from_preset"></a>
 
-#### load_control_mappings_from_preset
+#### load\_control\_mappings\_from\_preset
 
 ```python
 def load_control_mappings_from_preset(meta_human_preset: bool) -> None

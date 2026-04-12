@@ -13,7 +13,7 @@ Importance Sampling Library
 
 <a id="unreal.ImportanceSamplingLibrary.random_sobol_float"></a>
 
-#### random_sobol_float
+#### random\_sobol\_float
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.ImportanceSamplingLibrary.random_sobol_cell3d"></a>
 
-#### random_sobol_cell3d
+#### random\_sobol\_cell3d
 
 ```python
 @classmethod
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.ImportanceSamplingLibrary.random_sobol_cell2d"></a>
 
-#### random_sobol_cell2d
+#### random\_sobol\_cell2d
 
 ```python
 @classmethod
@@ -84,7 +84,7 @@ Returns:
 
 <a id="unreal.ImportanceSamplingLibrary.next_sobol_float"></a>
 
-#### next_sobol_float
+#### next\_sobol\_float
 
 ```python
 @classmethod
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.ImportanceSamplingLibrary.next_sobol_cell3d"></a>
 
-#### next_sobol_cell3d
+#### next\_sobol\_cell3d
 
 ```python
 @classmethod
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.ImportanceSamplingLibrary.next_sobol_cell2d"></a>
 
-#### next_sobol_cell2d
+#### next\_sobol\_cell2d
 
 ```python
 @classmethod
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.ImportanceSamplingLibrary.importance_sample"></a>
 
-#### importance_sample
+#### importance\_sample
 
 ```python
 @classmethod

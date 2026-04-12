@@ -19,7 +19,7 @@ CSVImport Settings
 
 <a id="unreal.CSVImportSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.CSVImportSettings.import_row_struct"></a>
 
-#### import_row_struct
+#### import\_row\_struct
 
 ```python
 @property
@@ -43,7 +43,7 @@ def import_row_struct() -> ScriptStruct
 
 <a id="unreal.CSVImportSettings.import_row_struct"></a>
 
-#### import_row_struct
+#### import\_row\_struct
 
 ```python
 @import_row_struct.setter
@@ -52,7 +52,7 @@ def import_row_struct(value: ScriptStruct) -> None
 
 <a id="unreal.CSVImportSettings.import_type"></a>
 
-#### import_type
+#### import\_type
 
 ```python
 @property
@@ -63,7 +63,7 @@ def import_type() -> CSVImportType
 
 <a id="unreal.CSVImportSettings.import_type"></a>
 
-#### import_type
+#### import\_type
 
 ```python
 @import_type.setter
@@ -72,7 +72,7 @@ def import_type(value: CSVImportType) -> None
 
 <a id="unreal.CSVImportSettings.import_curve_interp_mode"></a>
 
-#### import_curve_interp_mode
+#### import\_curve\_interp\_mode
 
 ```python
 @property
@@ -83,7 +83,7 @@ def import_curve_interp_mode() -> RichCurveInterpMode
 
 <a id="unreal.CSVImportSettings.import_curve_interp_mode"></a>
 
-#### import_curve_interp_mode
+#### import\_curve\_interp\_mode
 
 ```python
 @import_curve_interp_mode.setter

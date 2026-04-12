@@ -19,7 +19,7 @@ UInputDeviceTriggerVibrationProperty
 
 <a id="unreal.DeviceTriggerTriggerVibrationData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(trigger_position_curve: CurveFloat = None,
@@ -29,7 +29,7 @@ def __init__(trigger_position_curve: CurveFloat = None,
 
 <a id="unreal.DeviceTriggerTriggerVibrationData.trigger_position_curve"></a>
 
-#### trigger_position_curve
+#### trigger\_position\_curve
 
 ```python
 @property
@@ -40,7 +40,7 @@ def trigger_position_curve() -> CurveFloat
 
 <a id="unreal.DeviceTriggerTriggerVibrationData.trigger_position_curve"></a>
 
-#### trigger_position_curve
+#### trigger\_position\_curve
 
 ```python
 @trigger_position_curve.setter
@@ -49,7 +49,7 @@ def trigger_position_curve(value: CurveFloat) -> None
 
 <a id="unreal.DeviceTriggerTriggerVibrationData.vibration_frequency_curve"></a>
 
-#### vibration_frequency_curve
+#### vibration\_frequency\_curve
 
 ```python
 @property
@@ -60,7 +60,7 @@ def vibration_frequency_curve() -> CurveFloat
 
 <a id="unreal.DeviceTriggerTriggerVibrationData.vibration_frequency_curve"></a>
 
-#### vibration_frequency_curve
+#### vibration\_frequency\_curve
 
 ```python
 @vibration_frequency_curve.setter
@@ -69,7 +69,7 @@ def vibration_frequency_curve(value: CurveFloat) -> None
 
 <a id="unreal.DeviceTriggerTriggerVibrationData.vibration_amplitude_curve"></a>
 
-#### vibration_amplitude_curve
+#### vibration\_amplitude\_curve
 
 ```python
 @property
@@ -80,7 +80,7 @@ def vibration_amplitude_curve() -> CurveFloat
 
 <a id="unreal.DeviceTriggerTriggerVibrationData.vibration_amplitude_curve"></a>
 
-#### vibration_amplitude_curve
+#### vibration\_amplitude\_curve
 
 ```python
 @vibration_amplitude_curve.setter

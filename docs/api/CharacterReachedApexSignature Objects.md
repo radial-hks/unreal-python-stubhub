@@ -13,7 +13,7 @@ Character Reached Apex Signature  Delegate Signature
 
 <a id="unreal.CharacterReachedApexSignature.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

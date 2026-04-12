@@ -13,13 +13,13 @@ Values for specifying bone space.
 
 <a id="unreal.BoneSpaces.WORLD_SPACE"></a>
 
-#### WORLD_SPACE
+#### WORLD\_SPACE
 
 0: Set absolute position of bone in world space.
 
 <a id="unreal.BoneSpaces.COMPONENT_SPACE"></a>
 
-#### COMPONENT_SPACE
+#### COMPONENT\_SPACE
 
 1: Set position of bone in components reference frame.
 

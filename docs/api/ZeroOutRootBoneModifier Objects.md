@@ -22,7 +22,7 @@ Adjust root motion to be relative to the first frame. Optionally cut the start a
 
 <a id="unreal.ZeroOutRootBoneModifier.clip_start_frames_with_no_motion"></a>
 
-#### clip_start_frames_with_no_motion
+#### clip\_start\_frames\_with\_no\_motion
 
 ```python
 @property
@@ -33,7 +33,7 @@ def clip_start_frames_with_no_motion() -> bool
 
 <a id="unreal.ZeroOutRootBoneModifier.clip_end_frames_with_no_motion"></a>
 
-#### clip_end_frames_with_no_motion
+#### clip\_end\_frames\_with\_no\_motion
 
 ```python
 @property

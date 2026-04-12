@@ -53,7 +53,7 @@ def magnitude(value: float) -> None
 
 <a id="unreal.OperatorField.right_field"></a>
 
-#### right_field
+#### right\_field
 
 ```python
 @property
@@ -64,7 +64,7 @@ def right_field() -> FieldNodeBase
 
 <a id="unreal.OperatorField.right_field"></a>
 
-#### right_field
+#### right\_field
 
 ```python
 @right_field.setter
@@ -73,7 +73,7 @@ def right_field(value: FieldNodeBase) -> None
 
 <a id="unreal.OperatorField.left_field"></a>
 
-#### left_field
+#### left\_field
 
 ```python
 @property
@@ -84,7 +84,7 @@ def left_field() -> FieldNodeBase
 
 <a id="unreal.OperatorField.left_field"></a>
 
-#### left_field
+#### left\_field
 
 ```python
 @left_field.setter
@@ -113,7 +113,7 @@ def operation(value: FieldOperationType) -> None
 
 <a id="unreal.OperatorField.set_operator_field"></a>
 
-#### set_operator_field
+#### set\_operator\_field
 
 ```python
 def set_operator_field(magnitude: float = 1.000000,

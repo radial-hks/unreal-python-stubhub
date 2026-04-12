@@ -20,7 +20,7 @@ Geometry Script Remove Small Component Options
 
 <a id="unreal.GeometryScriptRemoveSmallComponentOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min_volume: float = 0.000000,
@@ -30,7 +30,7 @@ def __init__(min_volume: float = 0.000000,
 
 <a id="unreal.GeometryScriptRemoveSmallComponentOptions.min_volume"></a>
 
-#### min_volume
+#### min\_volume
 
 ```python
 @property
@@ -41,7 +41,7 @@ def min_volume() -> float
 
 <a id="unreal.GeometryScriptRemoveSmallComponentOptions.min_volume"></a>
 
-#### min_volume
+#### min\_volume
 
 ```python
 @min_volume.setter
@@ -50,7 +50,7 @@ def min_volume(value: float) -> None
 
 <a id="unreal.GeometryScriptRemoveSmallComponentOptions.min_area"></a>
 
-#### min_area
+#### min\_area
 
 ```python
 @property
@@ -61,7 +61,7 @@ def min_area() -> float
 
 <a id="unreal.GeometryScriptRemoveSmallComponentOptions.min_area"></a>
 
-#### min_area
+#### min\_area
 
 ```python
 @min_area.setter
@@ -70,7 +70,7 @@ def min_area(value: float) -> None
 
 <a id="unreal.GeometryScriptRemoveSmallComponentOptions.min_triangle_count"></a>
 
-#### min_triangle_count
+#### min\_triangle\_count
 
 ```python
 @property
@@ -81,7 +81,7 @@ def min_triangle_count() -> int
 
 <a id="unreal.GeometryScriptRemoveSmallComponentOptions.min_triangle_count"></a>
 
-#### min_triangle_count
+#### min\_triangle\_count
 
 ```python
 @min_triangle_count.setter

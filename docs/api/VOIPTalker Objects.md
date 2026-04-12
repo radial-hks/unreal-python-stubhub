@@ -50,7 +50,7 @@ def settings(value: VoiceSettings) -> None
 
 <a id="unreal.VOIPTalker.register_with_player_state"></a>
 
-#### register_with_player_state
+#### register\_with\_player\_state
 
 ```python
 def register_with_player_state(owning_state: PlayerState) -> None
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.VOIPTalker.get_voice_level"></a>
 
-#### get_voice_level
+#### get\_voice\_level
 
 ```python
 def get_voice_level() -> float
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.VOIPTalker.create_talker_for_player"></a>
 
-#### create_talker_for_player
+#### create\_talker\_for\_player
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.VOIPTalker.bp_on_talking_end"></a>
 
-#### bp_on_talking_end
+#### bp\_on\_talking\_end
 
 ```python
 def bp_on_talking_end() -> None
@@ -110,7 +110,7 @@ Blueprint native event for when this player stops speaking.
 
 <a id="unreal.VOIPTalker.bp_on_talking_begin"></a>
 
-#### bp_on_talking_begin
+#### bp\_on\_talking\_begin
 
 ```python
 def bp_on_talking_begin(audio_component: AudioComponent) -> None

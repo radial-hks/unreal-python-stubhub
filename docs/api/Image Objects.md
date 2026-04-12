@@ -75,7 +75,7 @@ def brush(value: SlateBrush) -> None
 
 <a id="unreal.Image.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @property
@@ -86,7 +86,7 @@ def color_and_opacity() -> LinearColor
 
 <a id="unreal.Image.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @color_and_opacity.setter
@@ -95,7 +95,7 @@ def color_and_opacity(value: LinearColor) -> None
 
 <a id="unreal.Image.flip_for_right_to_left_flow_direction"></a>
 
-#### flip_for_right_to_left_flow_direction
+#### flip\_for\_right\_to\_left\_flow\_direction
 
 ```python
 @property
@@ -106,7 +106,7 @@ def flip_for_right_to_left_flow_direction() -> bool
 
 <a id="unreal.Image.flip_for_right_to_left_flow_direction"></a>
 
-#### flip_for_right_to_left_flow_direction
+#### flip\_for\_right\_to\_left\_flow\_direction
 
 ```python
 @flip_for_right_to_left_flow_direction.setter
@@ -115,7 +115,7 @@ def flip_for_right_to_left_flow_direction(value: bool) -> None
 
 <a id="unreal.Image.set_opacity"></a>
 
-#### set_opacity
+#### set\_opacity
 
 ```python
 def set_opacity(opacity: float) -> None
@@ -129,7 +129,7 @@ Args:
 
 <a id="unreal.Image.set_desired_size_override"></a>
 
-#### set_desired_size_override
+#### set\_desired\_size\_override
 
 ```python
 def set_desired_size_override(desired_size: Vector2D) -> None
@@ -143,7 +143,7 @@ Args:
 
 <a id="unreal.Image.set_brush_size"></a>
 
-#### set_brush_size
+#### set\_brush\_size
 
 ```python
 def set_brush_size(desired_size: Vector2D) -> None
@@ -153,7 +153,7 @@ deprecated: 'set_brush_size' was renamed to 'set_desired_size_override'.
 
 <a id="unreal.Image.set_color_and_opacity"></a>
 
-#### set_color_and_opacity
+#### set\_color\_and\_opacity
 
 ```python
 def set_color_and_opacity(color_and_opacity: LinearColor) -> None
@@ -167,7 +167,7 @@ Args:
 
 <a id="unreal.Image.set_brush_tint_color"></a>
 
-#### set_brush_tint_color
+#### set\_brush\_tint\_color
 
 ```python
 def set_brush_tint_color(tint_color: SlateColor) -> None
@@ -181,7 +181,7 @@ Args:
 
 <a id="unreal.Image.set_brush_resource_object"></a>
 
-#### set_brush_resource_object
+#### set\_brush\_resource\_object
 
 ```python
 def set_brush_resource_object(resource_object: Object) -> None
@@ -195,7 +195,7 @@ Args:
 
 <a id="unreal.Image.set_brush_from_texture_dynamic"></a>
 
-#### set_brush_from_texture_dynamic
+#### set\_brush\_from\_texture\_dynamic
 
 ```python
 def set_brush_from_texture_dynamic(texture: Texture2DDynamic,
@@ -211,7 +211,7 @@ Args:
 
 <a id="unreal.Image.set_brush_from_texture"></a>
 
-#### set_brush_from_texture
+#### set\_brush\_from\_texture
 
 ```python
 def set_brush_from_texture(texture: Texture2D,
@@ -227,7 +227,7 @@ Args:
 
 <a id="unreal.Image.set_brush_from_soft_texture"></a>
 
-#### set_brush_from_soft_texture
+#### set\_brush\_from\_soft\_texture
 
 ```python
 def set_brush_from_soft_texture(soft_texture: Texture2D,
@@ -243,7 +243,7 @@ Args:
 
 <a id="unreal.Image.set_brush_from_soft_material"></a>
 
-#### set_brush_from_soft_material
+#### set\_brush\_from\_soft\_material
 
 ```python
 def set_brush_from_soft_material(soft_material: MaterialInterface) -> None
@@ -257,7 +257,7 @@ Args:
 
 <a id="unreal.Image.set_brush_from_material"></a>
 
-#### set_brush_from_material
+#### set\_brush\_from\_material
 
 ```python
 def set_brush_from_material(material: MaterialInterface) -> None
@@ -271,7 +271,7 @@ Args:
 
 <a id="unreal.Image.set_brush_from_atlas_interface"></a>
 
-#### set_brush_from_atlas_interface
+#### set\_brush\_from\_atlas\_interface
 
 ```python
 def set_brush_from_atlas_interface(atlas_region: SlateTextureAtlasInterface,
@@ -287,7 +287,7 @@ Args:
 
 <a id="unreal.Image.set_brush_from_asset"></a>
 
-#### set_brush_from_asset
+#### set\_brush\_from\_asset
 
 ```python
 def set_brush_from_asset(asset: SlateBrushAsset) -> None
@@ -301,7 +301,7 @@ Args:
 
 <a id="unreal.Image.set_brush"></a>
 
-#### set_brush
+#### set\_brush
 
 ```python
 def set_brush(brush: SlateBrush) -> None
@@ -315,7 +315,7 @@ Args:
 
 <a id="unreal.Image.get_dynamic_material"></a>
 
-#### get_dynamic_material
+#### get\_dynamic\_material
 
 ```python
 def get_dynamic_material() -> MaterialInstanceDynamic

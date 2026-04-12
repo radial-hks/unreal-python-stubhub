@@ -19,7 +19,7 @@ General purpose version info for Metasound Frontend objects.
 
 <a id="unreal.MetasoundFrontendVersion.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",

@@ -23,7 +23,7 @@ Rig Connector Element
 
 <a id="unreal.RigConnectorElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

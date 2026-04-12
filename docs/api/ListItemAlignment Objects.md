@@ -13,37 +13,37 @@ If the list panel is arranging items as tiles, this enum dictates how the items 
 
 <a id="unreal.ListItemAlignment.EVENLY_DISTRIBUTED"></a>
 
-#### EVENLY_DISTRIBUTED
+#### EVENLY\_DISTRIBUTED
 
 0: Items are distributed evenly along the line (any extra space is added as padding between the items)
 
 <a id="unreal.ListItemAlignment.EVENLY_SIZE"></a>
 
-#### EVENLY_SIZE
+#### EVENLY\_SIZE
 
 1: Items are distributed evenly along the line (any extra space is used to scale up the size of the item proportionally.)
 
 <a id="unreal.ListItemAlignment.EVENLY_WIDE"></a>
 
-#### EVENLY_WIDE
+#### EVENLY\_WIDE
 
 2: Items are distributed evenly along the line, any extra space is used to scale up width of the items proportionally.)
 
 <a id="unreal.ListItemAlignment.LEFT_ALIGNED"></a>
 
-#### LEFT_ALIGNED
+#### LEFT\_ALIGNED
 
 3: Items are left aligned on the line (any extra space is added to the right of the items)
 
 <a id="unreal.ListItemAlignment.RIGHT_ALIGNED"></a>
 
-#### RIGHT_ALIGNED
+#### RIGHT\_ALIGNED
 
 4: Items are right aligned on the line (any extra space is added to the left of the items)
 
 <a id="unreal.ListItemAlignment.CENTER_ALIGNED"></a>
 
-#### CENTER_ALIGNED
+#### CENTER\_ALIGNED
 
 5: Items are center aligned on the line (any extra space is halved and added to the left of the items)
 

@@ -24,7 +24,7 @@ Settings for a USynesthesiaSpectrumAnalysisAnalyzer.
 
 <a id="unreal.SynesthesiaSpectrumAnalysisSettings.analysis_period"></a>
 
-#### analysis_period
+#### analysis\_period
 
 ```python
 @property
@@ -35,7 +35,7 @@ def analysis_period() -> float
 
 <a id="unreal.SynesthesiaSpectrumAnalysisSettings.fft_size"></a>
 
-#### fft_size
+#### fft\_size
 
 ```python
 @property
@@ -46,7 +46,7 @@ def fft_size() -> FFTSize
 
 <a id="unreal.SynesthesiaSpectrumAnalysisSettings.spectrum_type"></a>
 
-#### spectrum_type
+#### spectrum\_type
 
 ```python
 @property
@@ -57,7 +57,7 @@ def spectrum_type() -> AudioSpectrumType
 
 <a id="unreal.SynesthesiaSpectrumAnalysisSettings.window_type"></a>
 
-#### window_type
+#### window\_type
 
 ```python
 @property
@@ -68,7 +68,7 @@ def window_type() -> FFTWindowType
 
 <a id="unreal.SynesthesiaSpectrumAnalysisSettings.downmix_to_mono"></a>
 
-#### downmix_to_mono
+#### downmix\_to\_mono
 
 ```python
 @property

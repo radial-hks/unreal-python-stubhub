@@ -17,7 +17,7 @@ A simple wrapper type to enable content-defined structs to hold soft references 
 
 <a id="unreal.SoftWorldReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(world_asset: World = None) -> None
@@ -25,7 +25,7 @@ def __init__(world_asset: World = None) -> None
 
 <a id="unreal.SoftWorldReference.world_asset"></a>
 
-#### world_asset
+#### world\_asset
 
 ```python
 @property
@@ -36,7 +36,7 @@ def world_asset() -> World
 
 <a id="unreal.SoftWorldReference.world_asset"></a>
 
-#### world_asset
+#### world\_asset
 
 ```python
 @world_asset.setter

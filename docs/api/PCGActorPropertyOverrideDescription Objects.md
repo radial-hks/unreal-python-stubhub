@@ -9,7 +9,7 @@ deprecated: 'PCGActorPropertyOverrideDescription' was renamed to 'PCGObjectPrope
 
 <a id="unreal.PCGActorPropertyOverrideDescription.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

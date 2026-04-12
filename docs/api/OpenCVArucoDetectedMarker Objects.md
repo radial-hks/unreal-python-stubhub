@@ -20,7 +20,7 @@ Open CVAruco Detected Marker
 
 <a id="unreal.OpenCVArucoDetectedMarker.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

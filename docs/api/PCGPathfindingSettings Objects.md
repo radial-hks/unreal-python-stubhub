@@ -51,7 +51,7 @@ location, and a maximum jump distance between points. Can return a partial path.
 
 <a id="unreal.PCGPathfindingSettings.search_distance"></a>
 
-#### search_distance
+#### search\_distance
 
 ```python
 @property
@@ -62,7 +62,7 @@ def search_distance() -> float
 
 <a id="unreal.PCGPathfindingSettings.search_distance"></a>
 
-#### search_distance
+#### search\_distance
 
 ```python
 @search_distance.setter
@@ -71,7 +71,7 @@ def search_distance(value: float) -> None
 
 <a id="unreal.PCGPathfindingSettings.start_locations_as_input"></a>
 
-#### start_locations_as_input
+#### start\_locations\_as\_input
 
 ```python
 @property
@@ -82,7 +82,7 @@ def start_locations_as_input() -> bool
 
 <a id="unreal.PCGPathfindingSettings.start_locations_as_input"></a>
 
-#### start_locations_as_input
+#### start\_locations\_as\_input
 
 ```python
 @start_locations_as_input.setter
@@ -91,7 +91,7 @@ def start_locations_as_input(value: bool) -> None
 
 <a id="unreal.PCGPathfindingSettings.start_location_attribute"></a>
 
-#### start_location_attribute
+#### start\_location\_attribute
 
 ```python
 @property
@@ -102,7 +102,7 @@ def start_location_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGPathfindingSettings.start_location_attribute"></a>
 
-#### start_location_attribute
+#### start\_location\_attribute
 
 ```python
 @start_location_attribute.setter
@@ -131,7 +131,7 @@ def start(value: Vector) -> None
 
 <a id="unreal.PCGPathfindingSettings.goal_locations_as_input"></a>
 
-#### goal_locations_as_input
+#### goal\_locations\_as\_input
 
 ```python
 @property
@@ -142,7 +142,7 @@ def goal_locations_as_input() -> bool
 
 <a id="unreal.PCGPathfindingSettings.goal_locations_as_input"></a>
 
-#### goal_locations_as_input
+#### goal\_locations\_as\_input
 
 ```python
 @goal_locations_as_input.setter
@@ -151,7 +151,7 @@ def goal_locations_as_input(value: bool) -> None
 
 <a id="unreal.PCGPathfindingSettings.goal_location_attribute"></a>
 
-#### goal_location_attribute
+#### goal\_location\_attribute
 
 ```python
 @property
@@ -162,7 +162,7 @@ def goal_location_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGPathfindingSettings.goal_location_attribute"></a>
 
-#### goal_location_attribute
+#### goal\_location\_attribute
 
 ```python
 @goal_location_attribute.setter
@@ -191,7 +191,7 @@ def goal(value: Vector) -> None
 
 <a id="unreal.PCGPathfindingSettings.heuristic_weight"></a>
 
-#### heuristic_weight
+#### heuristic\_weight
 
 ```python
 @property
@@ -202,7 +202,7 @@ def heuristic_weight() -> float
 
 <a id="unreal.PCGPathfindingSettings.heuristic_weight"></a>
 
-#### heuristic_weight
+#### heuristic\_weight
 
 ```python
 @heuristic_weight.setter
@@ -211,7 +211,7 @@ def heuristic_weight(value: float) -> None
 
 <a id="unreal.PCGPathfindingSettings.cost_function_mode"></a>
 
-#### cost_function_mode
+#### cost\_function\_mode
 
 ```python
 @property
@@ -222,7 +222,7 @@ def cost_function_mode() -> PCGPathfindingCostFunctionMode
 
 <a id="unreal.PCGPathfindingSettings.cost_function_mode"></a>
 
-#### cost_function_mode
+#### cost\_function\_mode
 
 ```python
 @cost_function_mode.setter
@@ -231,7 +231,7 @@ def cost_function_mode(value: PCGPathfindingCostFunctionMode) -> None
 
 <a id="unreal.PCGPathfindingSettings.cost_attribute"></a>
 
-#### cost_attribute
+#### cost\_attribute
 
 ```python
 @property
@@ -242,7 +242,7 @@ def cost_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGPathfindingSettings.cost_attribute"></a>
 
-#### cost_attribute
+#### cost\_attribute
 
 ```python
 @cost_attribute.setter
@@ -251,7 +251,7 @@ def cost_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGPathfindingSettings.maximum_fitness_penalty_factor"></a>
 
-#### maximum_fitness_penalty_factor
+#### maximum\_fitness\_penalty\_factor
 
 ```python
 @property
@@ -262,7 +262,7 @@ def maximum_fitness_penalty_factor() -> float
 
 <a id="unreal.PCGPathfindingSettings.maximum_fitness_penalty_factor"></a>
 
-#### maximum_fitness_penalty_factor
+#### maximum\_fitness\_penalty\_factor
 
 ```python
 @maximum_fitness_penalty_factor.setter
@@ -271,7 +271,7 @@ def maximum_fitness_penalty_factor(value: float) -> None
 
 <a id="unreal.PCGPathfindingSettings.use_path_traces"></a>
 
-#### use_path_traces
+#### use\_path\_traces
 
 ```python
 @property
@@ -282,7 +282,7 @@ def use_path_traces() -> bool
 
 <a id="unreal.PCGPathfindingSettings.use_path_traces"></a>
 
-#### use_path_traces
+#### use\_path\_traces
 
 ```python
 @use_path_traces.setter
@@ -291,7 +291,7 @@ def use_path_traces(value: bool) -> None
 
 <a id="unreal.PCGPathfindingSettings.path_trace_params"></a>
 
-#### path_trace_params
+#### path\_trace\_params
 
 ```python
 @property
@@ -302,7 +302,7 @@ def path_trace_params() -> PCGWorldRaycastQueryParams
 
 <a id="unreal.PCGPathfindingSettings.path_trace_params"></a>
 
-#### path_trace_params
+#### path\_trace\_params
 
 ```python
 @path_trace_params.setter
@@ -311,7 +311,7 @@ def path_trace_params(value: PCGWorldRaycastQueryParams) -> None
 
 <a id="unreal.PCGPathfindingSettings.accept_partial_path"></a>
 
-#### accept_partial_path
+#### accept\_partial\_path
 
 ```python
 @property
@@ -322,7 +322,7 @@ def accept_partial_path() -> bool
 
 <a id="unreal.PCGPathfindingSettings.accept_partial_path"></a>
 
-#### accept_partial_path
+#### accept\_partial\_path
 
 ```python
 @accept_partial_path.setter
@@ -331,7 +331,7 @@ def accept_partial_path(value: bool) -> None
 
 <a id="unreal.PCGPathfindingSettings.output_as_spline"></a>
 
-#### output_as_spline
+#### output\_as\_spline
 
 ```python
 @property
@@ -342,7 +342,7 @@ def output_as_spline() -> bool
 
 <a id="unreal.PCGPathfindingSettings.output_as_spline"></a>
 
-#### output_as_spline
+#### output\_as\_spline
 
 ```python
 @output_as_spline.setter
@@ -351,7 +351,7 @@ def output_as_spline(value: bool) -> None
 
 <a id="unreal.PCGPathfindingSettings.spline_mode"></a>
 
-#### spline_mode
+#### spline\_mode
 
 ```python
 @property
@@ -362,7 +362,7 @@ def spline_mode() -> PCGPathfindingSplineMode
 
 <a id="unreal.PCGPathfindingSettings.spline_mode"></a>
 
-#### spline_mode
+#### spline\_mode
 
 ```python
 @spline_mode.setter
@@ -371,7 +371,7 @@ def spline_mode(value: PCGPathfindingSplineMode) -> None
 
 <a id="unreal.PCGPathfindingSettings.copy_originating_points"></a>
 
-#### copy_originating_points
+#### copy\_originating\_points
 
 ```python
 @property
@@ -382,7 +382,7 @@ def copy_originating_points() -> bool
 
 <a id="unreal.PCGPathfindingSettings.copy_originating_points"></a>
 
-#### copy_originating_points
+#### copy\_originating\_points
 
 ```python
 @copy_originating_points.setter

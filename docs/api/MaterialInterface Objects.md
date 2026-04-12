@@ -24,7 +24,7 @@ Material Interface
 
 <a id="unreal.MaterialInterface.subsurface_profile"></a>
 
-#### subsurface_profile
+#### subsurface\_profile
 
 ```python
 @property
@@ -35,7 +35,7 @@ def subsurface_profile() -> SubsurfaceProfile
 
 <a id="unreal.MaterialInterface.neural_profile"></a>
 
-#### neural_profile
+#### neural\_profile
 
 ```python
 @property
@@ -46,7 +46,7 @@ def neural_profile() -> NeuralProfile
 
 <a id="unreal.MaterialInterface.set_force_mip_levels_to_be_resident"></a>
 
-#### set_force_mip_levels_to_be_resident
+#### set\_force\_mip\_levels\_to\_be\_resident
 
 ```python
 def set_force_mip_levels_to_be_resident(
@@ -70,7 +70,7 @@ Args:
 
 <a id="unreal.MaterialInterface.get_physical_material_mask"></a>
 
-#### get_physical_material_mask
+#### get\_physical\_material\_mask
 
 ```python
 def get_physical_material_mask() -> PhysicalMaterialMask
@@ -84,7 +84,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.get_physical_material_from_map"></a>
 
-#### get_physical_material_from_map
+#### get\_physical\_material\_from\_map
 
 ```python
 def get_physical_material_from_map(index: int) -> PhysicalMaterial
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.get_physical_material"></a>
 
-#### get_physical_material
+#### get\_physical\_material
 
 ```python
 def get_physical_material() -> PhysicalMaterial
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.get_parameter_info"></a>
 
-#### get_parameter_info
+#### get\_parameter\_info
 
 ```python
 def get_parameter_info(
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.get_nanite_overide_material"></a>
 
-#### get_nanite_overide_material
+#### get\_nanite\_overide\_material
 
 ```python
 def get_nanite_overide_material() -> MaterialInterface
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.get_blend_mode"></a>
 
-#### get_blend_mode
+#### get\_blend\_mode
 
 ```python
 def get_blend_mode() -> BlendMode
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.get_base_material"></a>
 
-#### get_base_material
+#### get\_base\_material
 
 ```python
 def get_base_material() -> Material
@@ -178,7 +178,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -195,7 +195,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.MaterialInterface.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

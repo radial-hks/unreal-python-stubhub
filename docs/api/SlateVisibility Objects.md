@@ -31,13 +31,13 @@ Is an entity visible?
 
 <a id="unreal.SlateVisibility.HIT_TEST_INVISIBLE"></a>
 
-#### HIT_TEST_INVISIBLE
+#### HIT\_TEST\_INVISIBLE
 
 3: Visible but not hit-testable (cannot interact with cursor) and children in the hierarchy (if any) are also not hit-testable.
 
 <a id="unreal.SlateVisibility.SELF_HIT_TEST_INVISIBLE"></a>
 
-#### SELF_HIT_TEST_INVISIBLE
+#### SELF\_HIT\_TEST\_INVISIBLE
 
 4: Visible but not hit-testable (cannot interact with cursor) and doesn't affect hit-testing on children (if any).
 

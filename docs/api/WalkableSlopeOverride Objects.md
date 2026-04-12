@@ -20,7 +20,7 @@ Struct allowing control over "walkable" normals, by allowing a restriction or re
 
 <a id="unreal.WalkableSlopeOverride.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -31,7 +31,7 @@ def __init__(
 
 <a id="unreal.WalkableSlopeOverride.walkable_slope_behavior"></a>
 
-#### walkable_slope_behavior
+#### walkable\_slope\_behavior
 
 ```python
 @property
@@ -43,7 +43,7 @@ see: GetWalkableSlopeBehavior(), SetWalkableSlopeBehavior()
 
 <a id="unreal.WalkableSlopeOverride.walkable_slope_behavior"></a>
 
-#### walkable_slope_behavior
+#### walkable\_slope\_behavior
 
 ```python
 @walkable_slope_behavior.setter
@@ -52,7 +52,7 @@ def walkable_slope_behavior(value: WalkableSlopeBehavior) -> None
 
 <a id="unreal.WalkableSlopeOverride.walkable_slope_angle"></a>
 
-#### walkable_slope_angle
+#### walkable\_slope\_angle
 
 ```python
 @property
@@ -64,7 +64,7 @@ see: GetWalkableSlopeAngle(), SetWalkableSlopeAngle()
 
 <a id="unreal.WalkableSlopeOverride.walkable_slope_angle"></a>
 
-#### walkable_slope_angle
+#### walkable\_slope\_angle
 
 ```python
 @walkable_slope_angle.setter

@@ -20,13 +20,13 @@ ENiagara Strip Script Byte Code Option
 
 <a id="unreal.NiagaraStripScriptByteCodeOption.STRIP_ORIGINAL"></a>
 
-#### STRIP_ORIGINAL
+#### STRIP\_ORIGINAL
 
 1
 
 <a id="unreal.NiagaraStripScriptByteCodeOption.STRIP_EXPERIMENTAL"></a>
 
-#### STRIP_EXPERIMENTAL
+#### STRIP\_EXPERIMENTAL
 
 2
 

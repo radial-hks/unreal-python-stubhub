@@ -20,7 +20,7 @@ Migration Options
 
 <a id="unreal.MigrationOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -52,7 +52,7 @@ def prompt(value: bool) -> None
 
 <a id="unreal.MigrationOptions.ignore_dependencies"></a>
 
-#### ignore_dependencies
+#### ignore\_dependencies
 
 ```python
 @property
@@ -63,7 +63,7 @@ def ignore_dependencies() -> bool
 
 <a id="unreal.MigrationOptions.ignore_dependencies"></a>
 
-#### ignore_dependencies
+#### ignore\_dependencies
 
 ```python
 @ignore_dependencies.setter
@@ -72,7 +72,7 @@ def ignore_dependencies(value: bool) -> None
 
 <a id="unreal.MigrationOptions.asset_conflict"></a>
 
-#### asset_conflict
+#### asset\_conflict
 
 ```python
 @property
@@ -83,7 +83,7 @@ def asset_conflict() -> AssetMigrationConflict
 
 <a id="unreal.MigrationOptions.asset_conflict"></a>
 
-#### asset_conflict
+#### asset\_conflict
 
 ```python
 @asset_conflict.setter
@@ -92,7 +92,7 @@ def asset_conflict(value: AssetMigrationConflict) -> None
 
 <a id="unreal.MigrationOptions.orphan_folder"></a>
 
-#### orphan_folder
+#### orphan\_folder
 
 ```python
 @property
@@ -103,7 +103,7 @@ def orphan_folder() -> str
 
 <a id="unreal.MigrationOptions.orphan_folder"></a>
 
-#### orphan_folder
+#### orphan\_folder
 
 ```python
 @orphan_folder.setter

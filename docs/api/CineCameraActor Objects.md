@@ -145,7 +145,7 @@ A CineCameraActor is a CameraActor specialized to work like a cinematic camera.
 
 <a id="unreal.CineCameraActor.lookat_tracking_settings"></a>
 
-#### lookat_tracking_settings
+#### lookat\_tracking\_settings
 
 ```python
 @property
@@ -156,7 +156,7 @@ def lookat_tracking_settings() -> CameraLookatTrackingSettings
 
 <a id="unreal.CineCameraActor.lookat_tracking_settings"></a>
 
-#### lookat_tracking_settings
+#### lookat\_tracking\_settings
 
 ```python
 @lookat_tracking_settings.setter
@@ -165,7 +165,7 @@ def lookat_tracking_settings(value: CameraLookatTrackingSettings) -> None
 
 <a id="unreal.CineCameraActor.get_cine_camera_component"></a>
 
-#### get_cine_camera_component
+#### get\_cine\_camera\_component
 
 ```python
 def get_cine_camera_component() -> CineCameraComponent

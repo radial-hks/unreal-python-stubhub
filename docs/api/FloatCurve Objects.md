@@ -13,7 +13,7 @@ Float Curve
 
 <a id="unreal.FloatCurve.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

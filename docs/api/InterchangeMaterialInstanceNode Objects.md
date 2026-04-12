@@ -14,7 +14,7 @@ Interchange Material Instance Node
 
 <a id="unreal.InterchangeMaterialInstanceNode.set_custom_parent"></a>
 
-#### set_custom_parent
+#### set\_custom\_parent
 
 ```python
 def set_custom_parent(attribute_value: str) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.get_vector_parameter_value"></a>
 
-#### get_vector_parameter_value
+#### get\_vector\_parameter\_value
 
 ```python
 def get_vector_parameter_value(parameter_name: str) -> Optional[LinearColor]
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.get_texture_parameter_value"></a>
 
-#### get_texture_parameter_value
+#### get\_texture\_parameter\_value
 
 ```python
 def get_texture_parameter_value(parameter_name: str) -> Optional[str]
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.get_static_switch_parameter_value"></a>
 
-#### get_static_switch_parameter_value
+#### get\_static\_switch\_parameter\_value
 
 ```python
 def get_static_switch_parameter_value(parameter_name: str) -> Optional[bool]
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.get_scalar_parameter_value"></a>
 
-#### get_scalar_parameter_value
+#### get\_scalar\_parameter\_value
 
 ```python
 def get_scalar_parameter_value(parameter_name: str) -> Optional[float]
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.get_custom_parent"></a>
 
-#### get_custom_parent
+#### get\_custom\_parent
 
 ```python
 def get_custom_parent() -> Optional[str]
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.add_vector_parameter_value"></a>
 
-#### add_vector_parameter_value
+#### add\_vector\_parameter\_value
 
 ```python
 def add_vector_parameter_value(parameter_name: str,
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.add_texture_parameter_value"></a>
 
-#### add_texture_parameter_value
+#### add\_texture\_parameter\_value
 
 ```python
 def add_texture_parameter_value(parameter_name: str,
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.add_static_switch_parameter_value"></a>
 
-#### add_static_switch_parameter_value
+#### add\_static\_switch\_parameter\_value
 
 ```python
 def add_static_switch_parameter_value(parameter_name: str,
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceNode.add_scalar_parameter_value"></a>
 
-#### add_scalar_parameter_value
+#### add\_scalar\_parameter\_value
 
 ```python
 def add_scalar_parameter_value(parameter_name: str,

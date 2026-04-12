@@ -24,7 +24,7 @@ Contains data for a group of assets to import
 
 <a id="unreal.AutomatedAssetImportData.group_name"></a>
 
-#### group_name
+#### group\_name
 
 ```python
 @property
@@ -35,7 +35,7 @@ def group_name() -> str
 
 <a id="unreal.AutomatedAssetImportData.group_name"></a>
 
-#### group_name
+#### group\_name
 
 ```python
 @group_name.setter
@@ -64,7 +64,7 @@ def filenames(value: Array[str]) -> None
 
 <a id="unreal.AutomatedAssetImportData.destination_path"></a>
 
-#### destination_path
+#### destination\_path
 
 ```python
 @property
@@ -75,7 +75,7 @@ def destination_path() -> str
 
 <a id="unreal.AutomatedAssetImportData.destination_path"></a>
 
-#### destination_path
+#### destination\_path
 
 ```python
 @destination_path.setter
@@ -84,7 +84,7 @@ def destination_path(value: str) -> None
 
 <a id="unreal.AutomatedAssetImportData.factory_name"></a>
 
-#### factory_name
+#### factory\_name
 
 ```python
 @property
@@ -95,7 +95,7 @@ def factory_name() -> str
 
 <a id="unreal.AutomatedAssetImportData.factory_name"></a>
 
-#### factory_name
+#### factory\_name
 
 ```python
 @factory_name.setter
@@ -104,7 +104,7 @@ def factory_name(value: str) -> None
 
 <a id="unreal.AutomatedAssetImportData.replace_existing"></a>
 
-#### replace_existing
+#### replace\_existing
 
 ```python
 @property
@@ -115,7 +115,7 @@ def replace_existing() -> bool
 
 <a id="unreal.AutomatedAssetImportData.replace_existing"></a>
 
-#### replace_existing
+#### replace\_existing
 
 ```python
 @replace_existing.setter
@@ -124,7 +124,7 @@ def replace_existing(value: bool) -> None
 
 <a id="unreal.AutomatedAssetImportData.skip_read_only"></a>
 
-#### skip_read_only
+#### skip\_read\_only
 
 ```python
 @property
@@ -135,7 +135,7 @@ def skip_read_only() -> bool
 
 <a id="unreal.AutomatedAssetImportData.skip_read_only"></a>
 
-#### skip_read_only
+#### skip\_read\_only
 
 ```python
 @skip_read_only.setter
@@ -164,7 +164,7 @@ def factory(value: Factory) -> None
 
 <a id="unreal.AutomatedAssetImportData.level_to_load"></a>
 
-#### level_to_load
+#### level\_to\_load
 
 ```python
 @property
@@ -175,7 +175,7 @@ def level_to_load() -> str
 
 <a id="unreal.AutomatedAssetImportData.level_to_load"></a>
 
-#### level_to_load
+#### level\_to\_load
 
 ```python
 @level_to_load.setter

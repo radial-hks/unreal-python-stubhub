@@ -19,7 +19,7 @@ Geometry Script Point Flattening Options
 
 <a id="unreal.GeometryScriptPointFlatteningOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(frame: Transform = [[0.000000, 0.000000, 0.000000],
@@ -50,7 +50,7 @@ def frame(value: Transform) -> None
 
 <a id="unreal.GeometryScriptPointFlatteningOptions.drop_axis"></a>
 
-#### drop_axis
+#### drop\_axis
 
 ```python
 @property
@@ -61,7 +61,7 @@ def drop_axis() -> GeometryScriptAxis
 
 <a id="unreal.GeometryScriptPointFlatteningOptions.drop_axis"></a>
 
-#### drop_axis
+#### drop\_axis
 
 ```python
 @drop_axis.setter

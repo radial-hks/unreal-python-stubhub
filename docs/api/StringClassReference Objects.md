@@ -8,7 +8,7 @@ deprecated: 'StringClassReference' was renamed to 'SoftClassPath'.
 
 <a id="unreal.StringClassReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(path_string: str = "") -> None

@@ -18,7 +18,7 @@ Simple wrapper because we're not allowed to have TMap properties with TArray<FSt
 
 <a id="unreal.UsdPrimPathList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(prim_paths: Array[str] = []) -> None
@@ -26,7 +26,7 @@ def __init__(prim_paths: Array[str] = []) -> None
 
 <a id="unreal.UsdPrimPathList.prim_paths"></a>
 
-#### prim_paths
+#### prim\_paths
 
 ```python
 @property
@@ -37,7 +37,7 @@ def prim_paths() -> Array[str]
 
 <a id="unreal.UsdPrimPathList.prim_paths"></a>
 
-#### prim_paths
+#### prim\_paths
 
 ```python
 @prim_paths.setter

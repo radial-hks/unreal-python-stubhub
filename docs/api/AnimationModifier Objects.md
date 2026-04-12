@@ -17,7 +17,7 @@ Animation Modifier
 
 <a id="unreal.AnimationModifier.on_revert"></a>
 
-#### on_revert
+#### on\_revert
 
 ```python
 def on_revert(animation_sequence: AnimSequence) -> None
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.AnimationModifier.on_apply"></a>
 
-#### on_apply
+#### on\_apply
 
 ```python
 def on_apply(animation_sequence: AnimSequence) -> None
@@ -43,4 +43,4 @@ Executed when the Animation is initialized (native event for debugging / testing
 Args:
     animation_sequence (AnimSequence):
 
-<a id="unreal.MovieSceneSpawnableChaosCacheBinding"></a>
+<a id="unreal.EarthLogHelper"></a>

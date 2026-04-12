@@ -143,7 +143,7 @@ An actor that renders a simulated cable
 
 <a id="unreal.CableActor.cable_component"></a>
 
-#### cable_component
+#### cable\_component
 
 ```python
 @property

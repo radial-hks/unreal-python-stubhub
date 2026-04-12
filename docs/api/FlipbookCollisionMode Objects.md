@@ -14,19 +14,19 @@ EFlipbook Collision Mode
 
 <a id="unreal.FlipbookCollisionMode.NO_COLLISION"></a>
 
-#### NO_COLLISION
+#### NO\_COLLISION
 
 0: The flipbook has no collision
 
 <a id="unreal.FlipbookCollisionMode.FIRST_FRAME_COLLISION"></a>
 
-#### FIRST_FRAME_COLLISION
+#### FIRST\_FRAME\_COLLISION
 
 1: The flipbook has non-animated collision based on the first frame of the animation
 
 <a id="unreal.FlipbookCollisionMode.EACH_FRAME_COLLISION"></a>
 
-#### EACH_FRAME_COLLISION
+#### EACH\_FRAME\_COLLISION
 
 2: The flipbook changes collision each frame based on the animation (Note: This setting is not recommended and is very expensive, recreating the physics state every frame)
 

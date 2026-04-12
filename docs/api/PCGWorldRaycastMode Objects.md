@@ -20,13 +20,13 @@ EPCGWorld Raycast Mode
 
 <a id="unreal.PCGWorldRaycastMode.SCALED_VECTOR"></a>
 
-#### SCALED_VECTOR
+#### SCALED\_VECTOR
 
 1: Use the direction vector 'as-is' for casting the ray with its current magnitude.
 
 <a id="unreal.PCGWorldRaycastMode.NORMALIZED_WITH_LENGTH"></a>
 
-#### NORMALIZED_WITH_LENGTH
+#### NORMALIZED\_WITH\_LENGTH
 
 2: Normalize the direction vector and apply the length directly.
 

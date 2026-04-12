@@ -13,7 +13,7 @@ Procedural Foliage Editor Library
 
 <a id="unreal.ProceduralFoliageEditorLibrary.resimulate_procedural_foliage_volumes"></a>
 
-#### resimulate_procedural_foliage_volumes
+#### resimulate\_procedural\_foliage\_volumes
 
 ```python
 @classmethod
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.ProceduralFoliageEditorLibrary.resimulate_procedural_foliage_components"></a>
 
-#### resimulate_procedural_foliage_components
+#### resimulate\_procedural\_foliage\_components
 
 ```python
 @classmethod
@@ -47,7 +47,7 @@ Args:
 
 <a id="unreal.ProceduralFoliageEditorLibrary.clear_procedural_foliage_volumes"></a>
 
-#### clear_procedural_foliage_volumes
+#### clear\_procedural\_foliage\_volumes
 
 ```python
 @classmethod
@@ -64,7 +64,7 @@ Args:
 
 <a id="unreal.ProceduralFoliageEditorLibrary.clear_procedural_foliage_components"></a>
 
-#### clear_procedural_foliage_components
+#### clear\_procedural\_foliage\_components
 
 ```python
 @classmethod

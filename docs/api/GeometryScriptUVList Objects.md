@@ -14,7 +14,7 @@ Geometry Script UVList
 
 <a id="unreal.GeometryScriptUVList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptUVList.set_uv_list_item"></a>
 
-#### set_uv_list_item
+#### set\_uv\_list\_item
 
 ```python
 def set_uv_list_item(index: int, new_uv: Vector2D) -> bool
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.GeometryScriptUVList.get_uv_list_length"></a>
 
-#### get_uv_list_length
+#### get\_uv\_list\_length
 
 ```python
 def get_uv_list_length() -> int
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.GeometryScriptUVList.get_uv_list_last_index"></a>
 
-#### get_uv_list_last_index
+#### get\_uv\_list\_last\_index
 
 ```python
 def get_uv_list_last_index() -> int
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.GeometryScriptUVList.get_uv_list_item"></a>
 
-#### get_uv_list_item
+#### get\_uv\_list\_item
 
 ```python
 def get_uv_list_item(index: int) -> Tuple[Vector2D, bool]
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.GeometryScriptUVList.duplicate_uv_list"></a>
 
-#### duplicate_uv_list
+#### duplicate\_uv\_list
 
 ```python
 def duplicate_uv_list() -> GeometryScriptUVList
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.GeometryScriptUVList.convert_uv_list_to_array"></a>
 
-#### convert_uv_list_to_array
+#### convert\_uv\_list\_to\_array
 
 ```python
 def convert_uv_list_to_array() -> Array[Vector2D]
@@ -124,7 +124,7 @@ Returns:
 
 <a id="unreal.GeometryScriptUVList.clear_uv_list"></a>
 
-#### clear_uv_list
+#### clear\_uv\_list
 
 ```python
 def clear_uv_list(clear_uv: Vector2D) -> None

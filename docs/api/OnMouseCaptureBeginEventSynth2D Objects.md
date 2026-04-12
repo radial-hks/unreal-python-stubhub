@@ -14,7 +14,7 @@ On Mouse Capture Begin Event Synth 2D  Delegate Signature
 
 <a id="unreal.OnMouseCaptureBeginEventSynth2D.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

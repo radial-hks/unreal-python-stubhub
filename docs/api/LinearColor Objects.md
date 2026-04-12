@@ -21,7 +21,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.LinearColor.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(r: float = 0.000000,
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.LinearColor.rgb_into_hsv"></a>
 
-#### rgb_into_hsv
+#### rgb\_into\_hsv
 
 ```python
 def rgb_into_hsv() -> LinearColor
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.LinearColor.rgb_into_hsv_components"></a>
 
-#### rgb_into_hsv_components
+#### rgb\_into\_hsv\_components
 
 ```python
 def rgb_into_hsv_components() -> Tuple[float, float, float, float]
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.LinearColor.rgb_to_hsv"></a>
 
-#### rgb_to_hsv
+#### rgb\_to\_hsv
 
 ```python
 def rgb_to_hsv() -> LinearColor
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.LinearColor.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 def not_equal(b: LinearColor) -> bool
@@ -215,7 +215,7 @@ Returns:
 
 <a id="unreal.LinearColor.multiply_float"></a>
 
-#### multiply_float
+#### multiply\_float
 
 ```python
 def multiply_float(b: float) -> LinearColor
@@ -232,7 +232,7 @@ Returns:
 
 <a id="unreal.LinearColor.lerp_using_hsv_to"></a>
 
-#### lerp_using_hsv_to
+#### lerp\_using\_hsv\_to
 
 ```python
 def lerp_using_hsv_to(b: LinearColor, alpha: float) -> LinearColor
@@ -250,7 +250,7 @@ Returns:
 
 <a id="unreal.LinearColor.lerp_to"></a>
 
-#### lerp_to
+#### lerp\_to
 
 ```python
 def lerp_to(b: LinearColor, alpha: float) -> LinearColor
@@ -268,7 +268,7 @@ Returns:
 
 <a id="unreal.LinearColor.to_rgbe"></a>
 
-#### to_rgbe
+#### to\_rgbe
 
 ```python
 def to_rgbe() -> Color
@@ -282,7 +282,7 @@ Returns:
 
 <a id="unreal.LinearColor.to_new_opacity"></a>
 
-#### to_new_opacity
+#### to\_new\_opacity
 
 ```python
 def to_new_opacity(opacity: float) -> LinearColor
@@ -299,7 +299,7 @@ Returns:
 
 <a id="unreal.LinearColor.set_temperature"></a>
 
-#### set_temperature
+#### set\_temperature
 
 ```python
 def set_temperature(temperature: float) -> None
@@ -313,7 +313,7 @@ Args:
 
 <a id="unreal.LinearColor.set_rgba"></a>
 
-#### set_rgba
+#### set\_rgba
 
 ```python
 def set_rgba(r: float, g: float, b: float, a: float = 1.000000) -> None
@@ -330,7 +330,7 @@ Args:
 
 <a id="unreal.LinearColor.set_random_hue"></a>
 
-#### set_random_hue
+#### set\_random\_hue
 
 ```python
 def set_random_hue() -> None
@@ -341,7 +341,7 @@ Sets to a random color. Choses a quite nice color based on a random hue.
 
 <a id="unreal.LinearColor.set_from_srgb"></a>
 
-#### set_from_srgb
+#### set\_from\_srgb
 
 ```python
 def set_from_srgb(srgb: Color) -> None
@@ -355,7 +355,7 @@ Args:
 
 <a id="unreal.LinearColor.set_from_pow22"></a>
 
-#### set_from_pow22
+#### set\_from\_pow22
 
 ```python
 def set_from_pow22(color: Color) -> None
@@ -369,7 +369,7 @@ Args:
 
 <a id="unreal.LinearColor.set_from_hsv"></a>
 
-#### set_from_hsv
+#### set\_from\_hsv
 
 ```python
 def set_from_hsv(h: float, s: float, v: float, a: float = 1.000000) -> None
@@ -400,7 +400,7 @@ Args:
 
 <a id="unreal.LinearColor.quantize_round"></a>
 
-#### quantize_round
+#### quantize\_round
 
 ```python
 def quantize_round() -> Color
@@ -429,7 +429,7 @@ Returns:
 
 <a id="unreal.LinearColor.is_near_equal"></a>
 
-#### is_near_equal
+#### is\_near\_equal
 
 ```python
 def is_near_equal(b: LinearColor, tolerance: float = 0.000100) -> bool
@@ -447,7 +447,7 @@ Returns:
 
 <a id="unreal.LinearColor.get_min"></a>
 
-#### get_min
+#### get\_min
 
 ```python
 def get_min() -> float
@@ -461,7 +461,7 @@ Returns:
 
 <a id="unreal.LinearColor.get_max"></a>
 
-#### get_max
+#### get\_max
 
 ```python
 def get_max() -> float
@@ -475,7 +475,7 @@ Returns:
 
 <a id="unreal.LinearColor.get_luminance"></a>
 
-#### get_luminance
+#### get\_luminance
 
 ```python
 def get_luminance() -> float
@@ -523,7 +523,7 @@ Returns:
 
 <a id="unreal.LinearColor.hsv_to_rgb"></a>
 
-#### hsv_to_rgb
+#### hsv\_to\_rgb
 
 ```python
 def hsv_to_rgb() -> LinearColor
@@ -537,7 +537,7 @@ Returns:
 
 <a id="unreal.LinearColor.hsv_into_rgb"></a>
 
-#### hsv_into_rgb
+#### hsv\_into\_rgb
 
 ```python
 def hsv_into_rgb() -> LinearColor
@@ -587,7 +587,7 @@ Returns:
 
 <a id="unreal.LinearColor.to_rgb_vector"></a>
 
-#### to_rgb_vector
+#### to\_rgb\_vector
 
 ```python
 def to_rgb_vector() -> Vector
@@ -601,7 +601,7 @@ Returns:
 
 <a id="unreal.LinearColor.to_color"></a>
 
-#### to_color
+#### to\_color
 
 ```python
 def to_color(use_srgb: bool = True) -> Color
@@ -618,7 +618,7 @@ Returns:
 
 <a id="unreal.LinearColor.interpolate_to"></a>
 
-#### interpolate_to
+#### interpolate\_to
 
 ```python
 def interpolate_to(target: LinearColor, delta_time: float,
@@ -655,7 +655,7 @@ Returns:
 
 <a id="unreal.LinearColor.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -668,7 +668,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.LinearColor.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool
@@ -680,7 +680,7 @@ def __ne__(other: object) -> bool
 
 <a id="unreal.LinearColor.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: LinearColor) -> None
@@ -692,7 +692,7 @@ def __add__(other: LinearColor) -> None
 
 <a id="unreal.LinearColor.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: LinearColor) -> None
@@ -704,7 +704,7 @@ def __iadd__(other: LinearColor) -> None
 
 <a id="unreal.LinearColor.__sub__"></a>
 
-#### __sub__
+#### \_\_sub\_\_
 
 ```python
 def __sub__(other: LinearColor) -> None
@@ -716,7 +716,7 @@ def __sub__(other: LinearColor) -> None
 
 <a id="unreal.LinearColor.__isub__"></a>
 
-#### __isub__
+#### \_\_isub\_\_
 
 ```python
 def __isub__(other: LinearColor) -> None
@@ -728,7 +728,7 @@ def __isub__(other: LinearColor) -> None
 
 <a id="unreal.LinearColor.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: LinearColor) -> None
@@ -740,7 +740,7 @@ def __mul__(other: LinearColor) -> None
 
 <a id="unreal.LinearColor.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: LinearColor) -> None
@@ -752,7 +752,7 @@ def __imul__(other: LinearColor) -> None
 
 <a id="unreal.LinearColor.__truediv__"></a>
 
-#### __truediv__
+#### \_\_truediv\_\_
 
 ```python
 def __truediv__(other: LinearColor) -> None

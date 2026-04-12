@@ -34,7 +34,7 @@ IKRig FBIKSolver
 
 <a id="unreal.IKRigFBIKSolver.root_bone"></a>
 
-#### root_bone
+#### root\_bone
 
 ```python
 @property
@@ -69,7 +69,7 @@ def iterations(value: int) -> None
 
 <a id="unreal.IKRigFBIKSolver.sub_iterations"></a>
 
-#### sub_iterations
+#### sub\_iterations
 
 ```python
 @property
@@ -80,7 +80,7 @@ def sub_iterations() -> int
 
 <a id="unreal.IKRigFBIKSolver.sub_iterations"></a>
 
-#### sub_iterations
+#### sub\_iterations
 
 ```python
 @sub_iterations.setter
@@ -89,7 +89,7 @@ def sub_iterations(value: int) -> None
 
 <a id="unreal.IKRigFBIKSolver.mass_multiplier"></a>
 
-#### mass_multiplier
+#### mass\_multiplier
 
 ```python
 @property
@@ -100,7 +100,7 @@ def mass_multiplier() -> float
 
 <a id="unreal.IKRigFBIKSolver.mass_multiplier"></a>
 
-#### mass_multiplier
+#### mass\_multiplier
 
 ```python
 @mass_multiplier.setter
@@ -109,7 +109,7 @@ def mass_multiplier(value: float) -> None
 
 <a id="unreal.IKRigFBIKSolver.allow_stretch"></a>
 
-#### allow_stretch
+#### allow\_stretch
 
 ```python
 @property
@@ -120,7 +120,7 @@ def allow_stretch() -> bool
 
 <a id="unreal.IKRigFBIKSolver.allow_stretch"></a>
 
-#### allow_stretch
+#### allow\_stretch
 
 ```python
 @allow_stretch.setter
@@ -129,7 +129,7 @@ def allow_stretch(value: bool) -> None
 
 <a id="unreal.IKRigFBIKSolver.root_behavior"></a>
 
-#### root_behavior
+#### root\_behavior
 
 ```python
 @property
@@ -143,7 +143,7 @@ Free: treats the root bone like any other and allows it to move freely or accord
 
 <a id="unreal.IKRigFBIKSolver.root_behavior"></a>
 
-#### root_behavior
+#### root\_behavior
 
 ```python
 @root_behavior.setter
@@ -152,7 +152,7 @@ def root_behavior(value: PBIKRootBehavior) -> None
 
 <a id="unreal.IKRigFBIKSolver.pre_pull_root_settings"></a>
 
-#### pre_pull_root_settings
+#### pre\_pull\_root\_settings
 
 ```python
 @property
@@ -163,7 +163,7 @@ def pre_pull_root_settings() -> RootPrePullSettings
 
 <a id="unreal.IKRigFBIKSolver.pre_pull_root_settings"></a>
 
-#### pre_pull_root_settings
+#### pre\_pull\_root\_settings
 
 ```python
 @pre_pull_root_settings.setter
@@ -172,7 +172,7 @@ def pre_pull_root_settings(value: RootPrePullSettings) -> None
 
 <a id="unreal.IKRigFBIKSolver.pull_chain_alpha"></a>
 
-#### pull_chain_alpha
+#### pull\_chain\_alpha
 
 ```python
 @property
@@ -183,7 +183,7 @@ def pull_chain_alpha() -> float
 
 <a id="unreal.IKRigFBIKSolver.pull_chain_alpha"></a>
 
-#### pull_chain_alpha
+#### pull\_chain\_alpha
 
 ```python
 @pull_chain_alpha.setter
@@ -192,7 +192,7 @@ def pull_chain_alpha(value: float) -> None
 
 <a id="unreal.IKRigFBIKSolver.max_angle"></a>
 
-#### max_angle
+#### max\_angle
 
 ```python
 @property
@@ -203,7 +203,7 @@ def max_angle() -> float
 
 <a id="unreal.IKRigFBIKSolver.max_angle"></a>
 
-#### max_angle
+#### max\_angle
 
 ```python
 @max_angle.setter
@@ -212,7 +212,7 @@ def max_angle(value: float) -> None
 
 <a id="unreal.IKRigFBIKSolver.over_relaxation"></a>
 
-#### over_relaxation
+#### over\_relaxation
 
 ```python
 @property
@@ -223,7 +223,7 @@ def over_relaxation() -> float
 
 <a id="unreal.IKRigFBIKSolver.over_relaxation"></a>
 
-#### over_relaxation
+#### over\_relaxation
 
 ```python
 @over_relaxation.setter
@@ -232,7 +232,7 @@ def over_relaxation(value: float) -> None
 
 <a id="unreal.IKRigFBIKSolver.get_effectors"></a>
 
-#### get_effectors
+#### get\_effectors
 
 ```python
 def get_effectors() -> Array[IKRig_FBIKEffector]
@@ -246,7 +246,7 @@ Returns:
 
 <a id="unreal.IKRigFBIKSolver.get_bone_settings"></a>
 
-#### get_bone_settings
+#### get\_bone\_settings
 
 ```python
 def get_bone_settings() -> Array[IKRig_FBIKBoneSettings]

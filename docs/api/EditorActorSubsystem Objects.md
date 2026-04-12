@@ -30,7 +30,7 @@ Subsystem for exposing actor related utilities to scripts,
 
 <a id="unreal.EditorActorSubsystem.on_new_actors_dropped"></a>
 
-#### on_new_actors_dropped
+#### on\_new\_actors\_dropped
 
 ```python
 @property
@@ -41,7 +41,7 @@ def on_new_actors_dropped() -> OnEditNewActorsDropped
 
 <a id="unreal.EditorActorSubsystem.on_new_actors_dropped"></a>
 
-#### on_new_actors_dropped
+#### on\_new\_actors\_dropped
 
 ```python
 @on_new_actors_dropped.setter
@@ -50,7 +50,7 @@ def on_new_actors_dropped(value: OnEditNewActorsDropped) -> None
 
 <a id="unreal.EditorActorSubsystem.on_new_actors_placed"></a>
 
-#### on_new_actors_placed
+#### on\_new\_actors\_placed
 
 ```python
 @property
@@ -61,7 +61,7 @@ def on_new_actors_placed() -> OnEditNewActorsPlaced
 
 <a id="unreal.EditorActorSubsystem.on_new_actors_placed"></a>
 
-#### on_new_actors_placed
+#### on\_new\_actors\_placed
 
 ```python
 @on_new_actors_placed.setter
@@ -70,7 +70,7 @@ def on_new_actors_placed(value: OnEditNewActorsPlaced) -> None
 
 <a id="unreal.EditorActorSubsystem.on_edit_cut_actors_begin"></a>
 
-#### on_edit_cut_actors_begin
+#### on\_edit\_cut\_actors\_begin
 
 ```python
 @property
@@ -81,7 +81,7 @@ def on_edit_cut_actors_begin() -> OnEditCutActorsBegin
 
 <a id="unreal.EditorActorSubsystem.on_edit_cut_actors_begin"></a>
 
-#### on_edit_cut_actors_begin
+#### on\_edit\_cut\_actors\_begin
 
 ```python
 @on_edit_cut_actors_begin.setter
@@ -90,7 +90,7 @@ def on_edit_cut_actors_begin(value: OnEditCutActorsBegin) -> None
 
 <a id="unreal.EditorActorSubsystem.on_edit_cut_actors_end"></a>
 
-#### on_edit_cut_actors_end
+#### on\_edit\_cut\_actors\_end
 
 ```python
 @property
@@ -101,7 +101,7 @@ def on_edit_cut_actors_end() -> OnEditCutActorsEnd
 
 <a id="unreal.EditorActorSubsystem.on_edit_cut_actors_end"></a>
 
-#### on_edit_cut_actors_end
+#### on\_edit\_cut\_actors\_end
 
 ```python
 @on_edit_cut_actors_end.setter
@@ -110,7 +110,7 @@ def on_edit_cut_actors_end(value: OnEditCutActorsEnd) -> None
 
 <a id="unreal.EditorActorSubsystem.on_edit_copy_actors_begin"></a>
 
-#### on_edit_copy_actors_begin
+#### on\_edit\_copy\_actors\_begin
 
 ```python
 @property
@@ -121,7 +121,7 @@ def on_edit_copy_actors_begin() -> OnEditCopyActorsBegin
 
 <a id="unreal.EditorActorSubsystem.on_edit_copy_actors_begin"></a>
 
-#### on_edit_copy_actors_begin
+#### on\_edit\_copy\_actors\_begin
 
 ```python
 @on_edit_copy_actors_begin.setter
@@ -130,7 +130,7 @@ def on_edit_copy_actors_begin(value: OnEditCopyActorsBegin) -> None
 
 <a id="unreal.EditorActorSubsystem.on_edit_copy_actors_end"></a>
 
-#### on_edit_copy_actors_end
+#### on\_edit\_copy\_actors\_end
 
 ```python
 @property
@@ -141,7 +141,7 @@ def on_edit_copy_actors_end() -> OnEditCopyActorsEnd
 
 <a id="unreal.EditorActorSubsystem.on_edit_copy_actors_end"></a>
 
-#### on_edit_copy_actors_end
+#### on\_edit\_copy\_actors\_end
 
 ```python
 @on_edit_copy_actors_end.setter
@@ -150,7 +150,7 @@ def on_edit_copy_actors_end(value: OnEditCopyActorsEnd) -> None
 
 <a id="unreal.EditorActorSubsystem.on_edit_paste_actors_begin"></a>
 
-#### on_edit_paste_actors_begin
+#### on\_edit\_paste\_actors\_begin
 
 ```python
 @property
@@ -161,7 +161,7 @@ def on_edit_paste_actors_begin() -> OnEditPasteActorsBegin
 
 <a id="unreal.EditorActorSubsystem.on_edit_paste_actors_begin"></a>
 
-#### on_edit_paste_actors_begin
+#### on\_edit\_paste\_actors\_begin
 
 ```python
 @on_edit_paste_actors_begin.setter
@@ -170,7 +170,7 @@ def on_edit_paste_actors_begin(value: OnEditPasteActorsBegin) -> None
 
 <a id="unreal.EditorActorSubsystem.on_edit_paste_actors_end"></a>
 
-#### on_edit_paste_actors_end
+#### on\_edit\_paste\_actors\_end
 
 ```python
 @property
@@ -181,7 +181,7 @@ def on_edit_paste_actors_end() -> OnEditPasteActorsEnd
 
 <a id="unreal.EditorActorSubsystem.on_edit_paste_actors_end"></a>
 
-#### on_edit_paste_actors_end
+#### on\_edit\_paste\_actors\_end
 
 ```python
 @on_edit_paste_actors_end.setter
@@ -190,7 +190,7 @@ def on_edit_paste_actors_end(value: OnEditPasteActorsEnd) -> None
 
 <a id="unreal.EditorActorSubsystem.on_duplicate_actors_begin"></a>
 
-#### on_duplicate_actors_begin
+#### on\_duplicate\_actors\_begin
 
 ```python
 @property
@@ -201,7 +201,7 @@ def on_duplicate_actors_begin() -> OnEditCutActorsBegin
 
 <a id="unreal.EditorActorSubsystem.on_duplicate_actors_begin"></a>
 
-#### on_duplicate_actors_begin
+#### on\_duplicate\_actors\_begin
 
 ```python
 @on_duplicate_actors_begin.setter
@@ -210,7 +210,7 @@ def on_duplicate_actors_begin(value: OnEditCutActorsBegin) -> None
 
 <a id="unreal.EditorActorSubsystem.on_duplicate_actors_end"></a>
 
-#### on_duplicate_actors_end
+#### on\_duplicate\_actors\_end
 
 ```python
 @property
@@ -221,7 +221,7 @@ def on_duplicate_actors_end() -> OnDuplicateActorsEnd
 
 <a id="unreal.EditorActorSubsystem.on_duplicate_actors_end"></a>
 
-#### on_duplicate_actors_end
+#### on\_duplicate\_actors\_end
 
 ```python
 @on_duplicate_actors_end.setter
@@ -230,7 +230,7 @@ def on_duplicate_actors_end(value: OnDuplicateActorsEnd) -> None
 
 <a id="unreal.EditorActorSubsystem.on_delete_actors_begin"></a>
 
-#### on_delete_actors_begin
+#### on\_delete\_actors\_begin
 
 ```python
 @property
@@ -241,7 +241,7 @@ def on_delete_actors_begin() -> OnDeleteActorsBegin
 
 <a id="unreal.EditorActorSubsystem.on_delete_actors_begin"></a>
 
-#### on_delete_actors_begin
+#### on\_delete\_actors\_begin
 
 ```python
 @on_delete_actors_begin.setter
@@ -250,7 +250,7 @@ def on_delete_actors_begin(value: OnDeleteActorsBegin) -> None
 
 <a id="unreal.EditorActorSubsystem.on_delete_actors_end"></a>
 
-#### on_delete_actors_end
+#### on\_delete\_actors\_end
 
 ```python
 @property
@@ -261,7 +261,7 @@ def on_delete_actors_end() -> OnDeleteActorsEnd
 
 <a id="unreal.EditorActorSubsystem.on_delete_actors_end"></a>
 
-#### on_delete_actors_end
+#### on\_delete\_actors\_end
 
 ```python
 @on_delete_actors_end.setter
@@ -270,7 +270,7 @@ def on_delete_actors_end(value: OnDeleteActorsEnd) -> None
 
 <a id="unreal.EditorActorSubsystem.on_actor_label_changed"></a>
 
-#### on_actor_label_changed
+#### on\_actor\_label\_changed
 
 ```python
 @property
@@ -281,7 +281,7 @@ def on_actor_label_changed() -> OnActorLabelChanged
 
 <a id="unreal.EditorActorSubsystem.on_actor_label_changed"></a>
 
-#### on_actor_label_changed
+#### on\_actor\_label\_changed
 
 ```python
 @on_actor_label_changed.setter
@@ -290,7 +290,7 @@ def on_actor_label_changed(value: OnActorLabelChanged) -> None
 
 <a id="unreal.EditorActorSubsystem.spawn_actor_from_object"></a>
 
-#### spawn_actor_from_object
+#### spawn\_actor\_from\_object
 
 ```python
 def spawn_actor_from_object(object_to_use: Object,
@@ -314,7 +314,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.spawn_actor_from_class"></a>
 
-#### spawn_actor_from_class
+#### spawn\_actor\_from\_class
 
 ```python
 def spawn_actor_from_class(actor_class: Class,
@@ -338,7 +338,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.set_selected_level_actors"></a>
 
-#### set_selected_level_actors
+#### set\_selected\_level\_actors
 
 ```python
 def set_selected_level_actors(actors_to_select: Array[Actor]) -> None
@@ -352,7 +352,7 @@ Args:
 
 <a id="unreal.EditorActorSubsystem.set_component_transform"></a>
 
-#### set_component_transform
+#### set\_component\_transform
 
 ```python
 def set_component_transform(scene_component: SceneComponent,
@@ -371,7 +371,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.set_actor_transform"></a>
 
-#### set_actor_transform
+#### set\_actor\_transform
 
 ```python
 def set_actor_transform(actor: Actor, world_transform: Transform) -> bool
@@ -389,7 +389,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.set_actor_selection_state"></a>
 
-#### set_actor_selection_state
+#### set\_actor\_selection\_state
 
 ```python
 def set_actor_selection_state(actor: Actor, should_be_selected: bool) -> None
@@ -404,7 +404,7 @@ Args:
 
 <a id="unreal.EditorActorSubsystem.select_nothing"></a>
 
-#### select_nothing
+#### select\_nothing
 
 ```python
 def select_nothing() -> None
@@ -415,7 +415,7 @@ Selects nothing in the editor (another way to clear the selection)
 
 <a id="unreal.EditorActorSubsystem.select_all_children"></a>
 
-#### select_all_children
+#### select\_all\_children
 
 ```python
 def select_all_children(recurse_children: bool) -> None
@@ -429,7 +429,7 @@ Args:
 
 <a id="unreal.EditorActorSubsystem.select_all"></a>
 
-#### select_all
+#### select\_all
 
 ```python
 def select_all(world: World) -> None
@@ -443,7 +443,7 @@ Args:
 
 <a id="unreal.EditorActorSubsystem.invert_selection"></a>
 
-#### invert_selection
+#### invert\_selection
 
 ```python
 def invert_selection(world: World) -> None
@@ -457,7 +457,7 @@ Args:
 
 <a id="unreal.EditorActorSubsystem.get_selected_level_actors"></a>
 
-#### get_selected_level_actors
+#### get\_selected\_level\_actors
 
 ```python
 def get_selected_level_actors() -> Array[Actor]
@@ -471,7 +471,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.get_all_level_actors_components"></a>
 
-#### get_all_level_actors_components
+#### get\_all\_level\_actors\_components
 
 ```python
 def get_all_level_actors_components() -> Array[ActorComponent]
@@ -485,7 +485,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.get_all_level_actors"></a>
 
-#### get_all_level_actors
+#### get\_all\_level\_actors
 
 ```python
 def get_all_level_actors() -> Array[Actor]
@@ -499,7 +499,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.get_actor_reference"></a>
 
-#### get_actor_reference
+#### get\_actor\_reference
 
 ```python
 def get_actor_reference(path_to_actor: str) -> Actor
@@ -516,7 +516,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.duplicate_selected_actors"></a>
 
-#### duplicate_selected_actors
+#### duplicate\_selected\_actors
 
 ```python
 def duplicate_selected_actors(world: World) -> None
@@ -530,7 +530,7 @@ Args:
 
 <a id="unreal.EditorActorSubsystem.duplicate_actors"></a>
 
-#### duplicate_actors
+#### duplicate\_actors
 
 ```python
 def duplicate_actors(
@@ -552,7 +552,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.duplicate_actor"></a>
 
-#### duplicate_actor
+#### duplicate\_actor
 
 ```python
 def duplicate_actor(actor_to_duplicate: Actor,
@@ -573,7 +573,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.destroy_actors"></a>
 
-#### destroy_actors
+#### destroy\_actors
 
 ```python
 def destroy_actors(actors_to_destroy: Array[Actor]) -> bool
@@ -590,7 +590,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.destroy_actor"></a>
 
-#### destroy_actor
+#### destroy\_actor
 
 ```python
 def destroy_actor(actor_to_destroy: Actor) -> bool
@@ -607,7 +607,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.delete_selected_actors"></a>
 
-#### delete_selected_actors
+#### delete\_selected\_actors
 
 ```python
 def delete_selected_actors(world: World) -> None
@@ -621,7 +621,7 @@ Args:
 
 <a id="unreal.EditorActorSubsystem.convert_actors"></a>
 
-#### convert_actors
+#### convert\_actors
 
 ```python
 def convert_actors(actors: Array[Actor], actor_class: Class,
@@ -641,7 +641,7 @@ Returns:
 
 <a id="unreal.EditorActorSubsystem.clear_actor_selection_set"></a>
 
-#### clear_actor_selection_set
+#### clear\_actor\_selection\_set
 
 ```python
 def clear_actor_selection_set() -> None

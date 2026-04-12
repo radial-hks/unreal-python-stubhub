@@ -23,7 +23,7 @@ Movie Scene Sequence Playback Params
 
 <a id="unreal.MovieSceneSequencePlaybackParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -78,7 +78,7 @@ def time(value: float) -> None
 
 <a id="unreal.MovieSceneSequencePlaybackParams.marked_frame"></a>
 
-#### marked_frame
+#### marked\_frame
 
 ```python
 @property
@@ -89,7 +89,7 @@ def marked_frame() -> str
 
 <a id="unreal.MovieSceneSequencePlaybackParams.marked_frame"></a>
 
-#### marked_frame
+#### marked\_frame
 
 ```python
 @marked_frame.setter
@@ -118,7 +118,7 @@ def timecode(value: Timecode) -> None
 
 <a id="unreal.MovieSceneSequencePlaybackParams.position_type"></a>
 
-#### position_type
+#### position\_type
 
 ```python
 @property
@@ -129,7 +129,7 @@ def position_type() -> MovieScenePositionType
 
 <a id="unreal.MovieSceneSequencePlaybackParams.position_type"></a>
 
-#### position_type
+#### position\_type
 
 ```python
 @position_type.setter
@@ -138,7 +138,7 @@ def position_type(value: MovieScenePositionType) -> None
 
 <a id="unreal.MovieSceneSequencePlaybackParams.update_method"></a>
 
-#### update_method
+#### update\_method
 
 ```python
 @property
@@ -149,7 +149,7 @@ def update_method() -> UpdatePositionMethod
 
 <a id="unreal.MovieSceneSequencePlaybackParams.update_method"></a>
 
-#### update_method
+#### update\_method
 
 ```python
 @update_method.setter
@@ -158,7 +158,7 @@ def update_method(value: UpdatePositionMethod) -> None
 
 <a id="unreal.MovieSceneSequencePlaybackParams.has_jumped"></a>
 
-#### has_jumped
+#### has\_jumped
 
 ```python
 @property
@@ -169,7 +169,7 @@ def has_jumped() -> bool
 
 <a id="unreal.MovieSceneSequencePlaybackParams.has_jumped"></a>
 
-#### has_jumped
+#### has\_jumped
 
 ```python
 @has_jumped.setter

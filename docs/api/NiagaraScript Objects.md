@@ -61,7 +61,7 @@ There are three types of scripts:
 
 <a id="unreal.NiagaraScript.module_usage_bitmask"></a>
 
-#### module_usage_bitmask
+#### module\_usage\_bitmask
 
 ```python
 @property
@@ -73,7 +73,7 @@ deprecated: Property 'ModuleUsageBitmask' is deprecated.
 
 <a id="unreal.NiagaraScript.module_usage_bitmask"></a>
 
-#### module_usage_bitmask
+#### module\_usage\_bitmask
 
 ```python
 @module_usage_bitmask.setter
@@ -103,7 +103,7 @@ def category(value: Text) -> None
 
 <a id="unreal.NiagaraScript.provided_dependencies"></a>
 
-#### provided_dependencies
+#### provided\_dependencies
 
 ```python
 @property
@@ -115,7 +115,7 @@ deprecated: Property 'ProvidedDependencies' is deprecated.
 
 <a id="unreal.NiagaraScript.provided_dependencies"></a>
 
-#### provided_dependencies
+#### provided\_dependencies
 
 ```python
 @provided_dependencies.setter
@@ -124,7 +124,7 @@ def provided_dependencies(value: Array[Name]) -> None
 
 <a id="unreal.NiagaraScript.required_dependencies"></a>
 
-#### required_dependencies
+#### required\_dependencies
 
 ```python
 @property
@@ -136,7 +136,7 @@ deprecated: Property 'RequiredDependencies' is deprecated.
 
 <a id="unreal.NiagaraScript.required_dependencies"></a>
 
-#### required_dependencies
+#### required\_dependencies
 
 ```python
 @required_dependencies.setter
@@ -166,7 +166,7 @@ def deprecated(value: bool) -> None
 
 <a id="unreal.NiagaraScript.deprecation_message"></a>
 
-#### deprecation_message
+#### deprecation\_message
 
 ```python
 @property
@@ -178,7 +178,7 @@ deprecated: Property 'DeprecationMessage' is deprecated.
 
 <a id="unreal.NiagaraScript.deprecation_message"></a>
 
-#### deprecation_message
+#### deprecation\_message
 
 ```python
 @deprecation_message.setter
@@ -187,7 +187,7 @@ def deprecation_message(value: Text) -> None
 
 <a id="unreal.NiagaraScript.deprecation_recommendation"></a>
 
-#### deprecation_recommendation
+#### deprecation\_recommendation
 
 ```python
 @property
@@ -199,7 +199,7 @@ deprecated: Property 'DeprecationRecommendation' is deprecated.
 
 <a id="unreal.NiagaraScript.deprecation_recommendation"></a>
 
-#### deprecation_recommendation
+#### deprecation\_recommendation
 
 ```python
 @deprecation_recommendation.setter
@@ -208,7 +208,7 @@ def deprecation_recommendation(value: NiagaraScript) -> None
 
 <a id="unreal.NiagaraScript.conversion_utility"></a>
 
-#### conversion_utility
+#### conversion\_utility
 
 ```python
 @property
@@ -220,7 +220,7 @@ deprecated: Property 'ConversionUtility' is deprecated.
 
 <a id="unreal.NiagaraScript.conversion_utility"></a>
 
-#### conversion_utility
+#### conversion\_utility
 
 ```python
 @conversion_utility.setter
@@ -250,7 +250,7 @@ def experimental(value: bool) -> None
 
 <a id="unreal.NiagaraScript.experimental_message"></a>
 
-#### experimental_message
+#### experimental\_message
 
 ```python
 @property
@@ -262,7 +262,7 @@ deprecated: Property 'ExperimentalMessage' is deprecated.
 
 <a id="unreal.NiagaraScript.experimental_message"></a>
 
-#### experimental_message
+#### experimental\_message
 
 ```python
 @experimental_message.setter
@@ -271,7 +271,7 @@ def experimental_message(value: Text) -> None
 
 <a id="unreal.NiagaraScript.note_message"></a>
 
-#### note_message
+#### note\_message
 
 ```python
 @property
@@ -283,7 +283,7 @@ deprecated: Property 'NoteMessage' is deprecated.
 
 <a id="unreal.NiagaraScript.note_message"></a>
 
-#### note_message
+#### note\_message
 
 ```python
 @note_message.setter
@@ -292,7 +292,7 @@ def note_message(value: Text) -> None
 
 <a id="unreal.NiagaraScript.expose_to_library"></a>
 
-#### expose_to_library
+#### expose\_to\_library
 
 ```python
 @property
@@ -304,7 +304,7 @@ deprecated: Property 'bExposeToLibrary' is deprecated.
 
 <a id="unreal.NiagaraScript.expose_to_library"></a>
 
-#### expose_to_library
+#### expose\_to\_library
 
 ```python
 @expose_to_library.setter
@@ -313,7 +313,7 @@ def expose_to_library(value: bool) -> None
 
 <a id="unreal.NiagaraScript.library_visibility"></a>
 
-#### library_visibility
+#### library\_visibility
 
 ```python
 @property
@@ -325,7 +325,7 @@ deprecated: Property 'LibraryVisibility' is deprecated.
 
 <a id="unreal.NiagaraScript.library_visibility"></a>
 
-#### library_visibility
+#### library\_visibility
 
 ```python
 @library_visibility.setter
@@ -334,7 +334,7 @@ def library_visibility(value: NiagaraScriptLibraryVisibility) -> None
 
 <a id="unreal.NiagaraScript.numeric_output_type_selection_mode"></a>
 
-#### numeric_output_type_selection_mode
+#### numeric\_output\_type\_selection\_mode
 
 ```python
 @property
@@ -347,7 +347,7 @@ deprecated: Property 'NumericOutputTypeSelectionMode' is deprecated.
 
 <a id="unreal.NiagaraScript.numeric_output_type_selection_mode"></a>
 
-#### numeric_output_type_selection_mode
+#### numeric\_output\_type\_selection\_mode
 
 ```python
 @numeric_output_type_selection_mode.setter
@@ -399,7 +399,7 @@ def keywords(value: Text) -> None
 
 <a id="unreal.NiagaraScript.collapsed_view_format"></a>
 
-#### collapsed_view_format
+#### collapsed\_view\_format
 
 ```python
 @property
@@ -411,7 +411,7 @@ deprecated: Property 'CollapsedViewFormat' is deprecated.
 
 <a id="unreal.NiagaraScript.collapsed_view_format"></a>
 
-#### collapsed_view_format
+#### collapsed\_view\_format
 
 ```python
 @collapsed_view_format.setter
@@ -420,7 +420,7 @@ def collapsed_view_format(value: Text) -> None
 
 <a id="unreal.NiagaraScript.script_meta_data"></a>
 
-#### script_meta_data
+#### script\_meta\_data
 
 ```python
 @property
@@ -432,7 +432,7 @@ deprecated: Property 'ScriptMetaData' is deprecated.
 
 <a id="unreal.NiagaraScript.script_meta_data"></a>
 
-#### script_meta_data
+#### script\_meta\_data
 
 ```python
 @script_meta_data.setter

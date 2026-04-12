@@ -14,7 +14,7 @@ Rig VMCompiler
 
 <a id="unreal.RigVMCompiler.compile_vm"></a>
 
-#### compile_vm
+#### compile\_vm
 
 ```python
 def compile_vm(graphs: Array[RigVMGraph], controller: RigVMController,

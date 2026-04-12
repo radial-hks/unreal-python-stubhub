@@ -26,7 +26,7 @@ trace from to try to find a widget under a virtual pointer device.
 
 <a id="unreal.WidgetInteractionSource.CENTER_SCREEN"></a>
 
-#### CENTER_SCREEN
+#### CENTER\_SCREEN
 
 2: Sends trace from the center of the first local player's screen.
 

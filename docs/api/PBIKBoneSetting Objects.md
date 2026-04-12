@@ -44,7 +44,7 @@ PBIKBone Setting
 
 <a id="unreal.PBIKBoneSetting.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -86,7 +86,7 @@ def bone(value: Name) -> None
 
 <a id="unreal.PBIKBoneSetting.rotation_stiffness"></a>
 
-#### rotation_stiffness
+#### rotation\_stiffness
 
 ```python
 @property
@@ -97,7 +97,7 @@ def rotation_stiffness() -> float
 
 <a id="unreal.PBIKBoneSetting.rotation_stiffness"></a>
 
-#### rotation_stiffness
+#### rotation\_stiffness
 
 ```python
 @rotation_stiffness.setter
@@ -106,7 +106,7 @@ def rotation_stiffness(value: float) -> None
 
 <a id="unreal.PBIKBoneSetting.position_stiffness"></a>
 
-#### position_stiffness
+#### position\_stiffness
 
 ```python
 @property
@@ -117,7 +117,7 @@ def position_stiffness() -> float
 
 <a id="unreal.PBIKBoneSetting.position_stiffness"></a>
 
-#### position_stiffness
+#### position\_stiffness
 
 ```python
 @position_stiffness.setter
@@ -149,7 +149,7 @@ def x(value: PBIKLimitType) -> None
 
 <a id="unreal.PBIKBoneSetting.min_x"></a>
 
-#### min_x
+#### min\_x
 
 ```python
 @property
@@ -160,7 +160,7 @@ def min_x() -> float
 
 <a id="unreal.PBIKBoneSetting.min_x"></a>
 
-#### min_x
+#### min\_x
 
 ```python
 @min_x.setter
@@ -169,7 +169,7 @@ def min_x(value: float) -> None
 
 <a id="unreal.PBIKBoneSetting.max_x"></a>
 
-#### max_x
+#### max\_x
 
 ```python
 @property
@@ -180,7 +180,7 @@ def max_x() -> float
 
 <a id="unreal.PBIKBoneSetting.max_x"></a>
 
-#### max_x
+#### max\_x
 
 ```python
 @max_x.setter
@@ -212,7 +212,7 @@ def y(value: PBIKLimitType) -> None
 
 <a id="unreal.PBIKBoneSetting.min_y"></a>
 
-#### min_y
+#### min\_y
 
 ```python
 @property
@@ -223,7 +223,7 @@ def min_y() -> float
 
 <a id="unreal.PBIKBoneSetting.min_y"></a>
 
-#### min_y
+#### min\_y
 
 ```python
 @min_y.setter
@@ -232,7 +232,7 @@ def min_y(value: float) -> None
 
 <a id="unreal.PBIKBoneSetting.max_y"></a>
 
-#### max_y
+#### max\_y
 
 ```python
 @property
@@ -243,7 +243,7 @@ def max_y() -> float
 
 <a id="unreal.PBIKBoneSetting.max_y"></a>
 
-#### max_y
+#### max\_y
 
 ```python
 @max_y.setter
@@ -275,7 +275,7 @@ def z(value: PBIKLimitType) -> None
 
 <a id="unreal.PBIKBoneSetting.min_z"></a>
 
-#### min_z
+#### min\_z
 
 ```python
 @property
@@ -286,7 +286,7 @@ def min_z() -> float
 
 <a id="unreal.PBIKBoneSetting.min_z"></a>
 
-#### min_z
+#### min\_z
 
 ```python
 @min_z.setter
@@ -295,7 +295,7 @@ def min_z(value: float) -> None
 
 <a id="unreal.PBIKBoneSetting.max_z"></a>
 
-#### max_z
+#### max\_z
 
 ```python
 @property
@@ -306,7 +306,7 @@ def max_z() -> float
 
 <a id="unreal.PBIKBoneSetting.max_z"></a>
 
-#### max_z
+#### max\_z
 
 ```python
 @max_z.setter
@@ -315,7 +315,7 @@ def max_z(value: float) -> None
 
 <a id="unreal.PBIKBoneSetting.use_preferred_angles"></a>
 
-#### use_preferred_angles
+#### use\_preferred\_angles
 
 ```python
 @property
@@ -328,7 +328,7 @@ The resulting angles can be visualized on their own by temporarily setting the S
 
 <a id="unreal.PBIKBoneSetting.use_preferred_angles"></a>
 
-#### use_preferred_angles
+#### use\_preferred\_angles
 
 ```python
 @use_preferred_angles.setter
@@ -337,7 +337,7 @@ def use_preferred_angles(value: bool) -> None
 
 <a id="unreal.PBIKBoneSetting.preferred_angles"></a>
 
-#### preferred_angles
+#### preferred\_angles
 
 ```python
 @property
@@ -350,7 +350,7 @@ This can be used to coerce knees and elbows to bend in the anatomically "correct
 
 <a id="unreal.PBIKBoneSetting.preferred_angles"></a>
 
-#### preferred_angles
+#### preferred\_angles
 
 ```python
 @preferred_angles.setter

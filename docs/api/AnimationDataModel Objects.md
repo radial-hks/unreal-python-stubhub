@@ -13,7 +13,7 @@ Animation Data Model
 
 <a id="unreal.AnimationDataModel.is_valid_bone_track_name"></a>
 
-#### is_valid_bone_track_name
+#### is\_valid\_bone\_track\_name
 
 ```python
 def is_valid_bone_track_name(track_name: Name) -> bool
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.is_valid_bone_track_index"></a>
 
-#### is_valid_bone_track_index
+#### is\_valid\_bone\_track\_index
 
 ```python
 def is_valid_bone_track_index(track_index: int) -> bool
@@ -47,7 +47,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_play_length"></a>
 
-#### get_play_length
+#### get\_play\_length
 
 ```python
 def get_play_length() -> float
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_num_bone_tracks"></a>
 
-#### get_num_bone_tracks
+#### get\_num\_bone\_tracks
 
 ```python
 def get_num_bone_tracks() -> int
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_number_of_transform_curves"></a>
 
-#### get_number_of_transform_curves
+#### get\_number\_of\_transform\_curves
 
 ```python
 def get_number_of_transform_curves() -> int
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_number_of_keys"></a>
 
-#### get_number_of_keys
+#### get\_number\_of\_keys
 
 ```python
 def get_number_of_keys() -> int
@@ -103,7 +103,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_number_of_frames"></a>
 
-#### get_number_of_frames
+#### get\_number\_of\_frames
 
 ```python
 def get_number_of_frames() -> int
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_number_of_float_curves"></a>
 
-#### get_number_of_float_curves
+#### get\_number\_of\_float\_curves
 
 ```python
 def get_number_of_float_curves() -> int
@@ -131,7 +131,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_frame_rate"></a>
 
-#### get_frame_rate
+#### get\_frame\_rate
 
 ```python
 def get_frame_rate() -> FrameRate
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_bone_track_names"></a>
 
-#### get_bone_track_names
+#### get\_bone\_track\_names
 
 ```python
 def get_bone_track_names() -> Array[Name]
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_bone_track_index_by_name"></a>
 
-#### get_bone_track_index_by_name
+#### get\_bone\_track\_index\_by\_name
 
 ```python
 def get_bone_track_index_by_name(track_name: Name) -> int
@@ -178,7 +178,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_bone_track_index"></a>
 
-#### get_bone_track_index
+#### get\_bone\_track\_index
 
 ```python
 def get_bone_track_index(track: BoneAnimationTrack) -> int
@@ -195,7 +195,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_bone_track_by_name"></a>
 
-#### get_bone_track_by_name
+#### get\_bone\_track\_by\_name
 
 ```python
 def get_bone_track_by_name(track_name: Name) -> BoneAnimationTrack
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_bone_track_by_index"></a>
 
-#### get_bone_track_by_index
+#### get\_bone\_track\_by\_index
 
 ```python
 def get_bone_track_by_index(track_index: int) -> BoneAnimationTrack
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_bone_animation_tracks"></a>
 
-#### get_bone_animation_tracks
+#### get\_bone\_animation\_tracks
 
 ```python
 def get_bone_animation_tracks() -> Array[BoneAnimationTrack]
@@ -243,7 +243,7 @@ Returns:
 
 <a id="unreal.AnimationDataModel.get_animation_sequence"></a>
 
-#### get_animation_sequence
+#### get\_animation\_sequence
 
 ```python
 def get_animation_sequence() -> AnimSequence

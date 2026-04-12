@@ -23,7 +23,7 @@ Rig VMDraw Instruction
 
 <a id="unreal.RigVMDrawInstruction.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -24,7 +24,7 @@ PCGManaged Actors
 
 <a id="unreal.PCGManagedActors.generated_actors"></a>
 
-#### generated_actors
+#### generated\_actors
 
 ```python
 @property
@@ -35,7 +35,7 @@ def generated_actors() -> Set[Actor]
 
 <a id="unreal.PCGManagedActors.generated_actors"></a>
 
-#### generated_actors
+#### generated\_actors
 
 ```python
 @generated_actors.setter

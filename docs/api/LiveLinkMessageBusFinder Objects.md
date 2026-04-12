@@ -14,7 +14,7 @@ Asset for finding available Message Bus Sources.
 
 <a id="unreal.LiveLinkMessageBusFinder.get_available_providers"></a>
 
-#### get_available_providers
+#### get\_available\_providers
 
 ```python
 def get_available_providers(
@@ -40,7 +40,7 @@ Returns:
 
 <a id="unreal.LiveLinkMessageBusFinder.construct_message_bus_finder"></a>
 
-#### construct_message_bus_finder
+#### construct\_message\_bus\_finder
 
 ```python
 @classmethod
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.LiveLinkMessageBusFinder.connect_to_provider"></a>
 
-#### connect_to_provider
+#### connect\_to\_provider
 
 ```python
 @classmethod

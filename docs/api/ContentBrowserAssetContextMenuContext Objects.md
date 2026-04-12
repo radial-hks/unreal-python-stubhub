@@ -18,7 +18,7 @@ Content Browser Asset Context Menu Context
 
 <a id="unreal.ContentBrowserAssetContextMenuContext.selected_assets"></a>
 
-#### selected_assets
+#### selected\_assets
 
 ```python
 @property
@@ -29,7 +29,7 @@ def selected_assets() -> Array[AssetData]
 
 <a id="unreal.ContentBrowserAssetContextMenuContext.contains_unsupported_assets"></a>
 
-#### contains_unsupported_assets
+#### contains\_unsupported\_assets
 
 ```python
 @property
@@ -40,7 +40,7 @@ def contains_unsupported_assets() -> bool
 
 <a id="unreal.ContentBrowserAssetContextMenuContext.load_selected_objects_if_needed"></a>
 
-#### load_selected_objects_if_needed
+#### load\_selected\_objects\_if\_needed
 
 ```python
 def load_selected_objects_if_needed() -> Array[Object]
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.ContentBrowserAssetContextMenuContext.load_selected_objects"></a>
 
-#### load_selected_objects
+#### load\_selected\_objects
 
 ```python
 def load_selected_objects(load_tags: Set[Name]) -> Array[Object]
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.ContentBrowserAssetContextMenuContext.get_selected_objects"></a>
 
-#### get_selected_objects
+#### get\_selected\_objects
 
 ```python
 def get_selected_objects() -> Array[Object]

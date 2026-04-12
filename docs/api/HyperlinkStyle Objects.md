@@ -19,7 +19,7 @@ Represents the appearance of an SHyperlink
 
 <a id="unreal.HyperlinkStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -118,7 +118,7 @@ def __init__(
 
 <a id="unreal.HyperlinkStyle.underline_style"></a>
 
-#### underline_style
+#### underline\_style
 
 ```python
 @property
@@ -129,7 +129,7 @@ def underline_style() -> ButtonStyle
 
 <a id="unreal.HyperlinkStyle.underline_style"></a>
 
-#### underline_style
+#### underline\_style
 
 ```python
 @underline_style.setter
@@ -138,7 +138,7 @@ def underline_style(value: ButtonStyle) -> None
 
 <a id="unreal.HyperlinkStyle.text_style"></a>
 
-#### text_style
+#### text\_style
 
 ```python
 @property
@@ -149,7 +149,7 @@ def text_style() -> TextBlockStyle
 
 <a id="unreal.HyperlinkStyle.text_style"></a>
 
-#### text_style
+#### text\_style
 
 ```python
 @text_style.setter

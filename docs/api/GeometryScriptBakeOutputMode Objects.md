@@ -20,7 +20,7 @@ EGeometry Script Bake Output Mode
 
 <a id="unreal.GeometryScriptBakeOutputMode.PER_CHANNEL"></a>
 
-#### PER_CHANNEL
+#### PER\_CHANNEL
 
 1
 

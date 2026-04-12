@@ -23,7 +23,7 @@ Geometry Script Bake Vertex Options
 
 <a id="unreal.GeometryScriptBakeVertexOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(split_at_normal_seams: bool = False,
@@ -34,7 +34,7 @@ def __init__(split_at_normal_seams: bool = False,
 
 <a id="unreal.GeometryScriptBakeVertexOptions.split_at_normal_seams"></a>
 
-#### split_at_normal_seams
+#### split\_at\_normal\_seams
 
 ```python
 @property
@@ -45,7 +45,7 @@ def split_at_normal_seams() -> bool
 
 <a id="unreal.GeometryScriptBakeVertexOptions.split_at_normal_seams"></a>
 
-#### split_at_normal_seams
+#### split\_at\_normal\_seams
 
 ```python
 @split_at_normal_seams.setter
@@ -54,7 +54,7 @@ def split_at_normal_seams(value: bool) -> None
 
 <a id="unreal.GeometryScriptBakeVertexOptions.split_at_uv_seams"></a>
 
-#### split_at_uv_seams
+#### split\_at\_uv\_seams
 
 ```python
 @property
@@ -65,7 +65,7 @@ def split_at_uv_seams() -> bool
 
 <a id="unreal.GeometryScriptBakeVertexOptions.split_at_uv_seams"></a>
 
-#### split_at_uv_seams
+#### split\_at\_uv\_seams
 
 ```python
 @split_at_uv_seams.setter
@@ -74,7 +74,7 @@ def split_at_uv_seams(value: bool) -> None
 
 <a id="unreal.GeometryScriptBakeVertexOptions.projection_distance"></a>
 
-#### projection_distance
+#### projection\_distance
 
 ```python
 @property
@@ -86,7 +86,7 @@ This is only relevant if a separate source mesh is provided.
 
 <a id="unreal.GeometryScriptBakeVertexOptions.projection_distance"></a>
 
-#### projection_distance
+#### projection\_distance
 
 ```python
 @projection_distance.setter
@@ -95,7 +95,7 @@ def projection_distance(value: float) -> None
 
 <a id="unreal.GeometryScriptBakeVertexOptions.projection_in_world_space"></a>
 
-#### projection_in_world_space
+#### projection\_in\_world\_space
 
 ```python
 @property
@@ -107,7 +107,7 @@ This is only relevant if a separate source mesh is provided.
 
 <a id="unreal.GeometryScriptBakeVertexOptions.projection_in_world_space"></a>
 
-#### projection_in_world_space
+#### projection\_in\_world\_space
 
 ```python
 @projection_in_world_space.setter

@@ -13,7 +13,7 @@ Tool Menu Context
 
 <a id="unreal.ToolMenuContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -21,7 +21,7 @@ def __init__() -> None
 
 <a id="unreal.ToolMenuContext.find_by_class"></a>
 
-#### find_by_class
+#### find\_by\_class
 
 ```python
 def find_by_class(class_: Class) -> Object

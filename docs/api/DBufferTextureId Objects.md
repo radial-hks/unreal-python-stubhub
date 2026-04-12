@@ -13,19 +13,19 @@ EDBuffer Texture Id
 
 <a id="unreal.DBufferTextureId.DBT_A"></a>
 
-#### DBT_A
+#### DBT\_A
 
 0: DBuffer A (Base Color). RGB is pre-multiplied by alpha. A is one minus alpha.
 
 <a id="unreal.DBufferTextureId.DBT_B"></a>
 
-#### DBT_B
+#### DBT\_B
 
 1: DBuffer B (World Normal). RGB is pre-multiplied by alpha. A is one minus alpha.
 
 <a id="unreal.DBufferTextureId.DBT_C"></a>
 
-#### DBT_C
+#### DBT\_C
 
 2: DBuffer C (Roughness). R is Roughness, G is Metallic, B is Specular,  all pre-multiplied by alpha. A is one minus alpha.
 

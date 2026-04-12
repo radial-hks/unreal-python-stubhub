@@ -13,19 +13,19 @@ namespace UE::Interchange
 
 <a id="unreal.ReimportStrategyFlags.APPLY_NO_PROPERTIES"></a>
 
-#### APPLY_NO_PROPERTIES
+#### APPLY\_NO\_PROPERTIES
 
 0: Do not apply any properties when reimporting. Simply change the source data
 
 <a id="unreal.ReimportStrategyFlags.APPLY_PIPELINE_PROPERTIES"></a>
 
-#### APPLY_PIPELINE_PROPERTIES
+#### APPLY\_PIPELINE\_PROPERTIES
 
 1: Always apply all properties specified by the pipeline.
 
 <a id="unreal.ReimportStrategyFlags.APPLY_EDITOR_CHANGED_PROPERTIES"></a>
 
-#### APPLY_EDITOR_CHANGED_PROPERTIES
+#### APPLY\_EDITOR\_CHANGED\_PROPERTIES
 
 2: Always apply all properties specified by the pipeline, but leave the properties that were modified in the editor since the last import.
 

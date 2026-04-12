@@ -13,7 +13,7 @@ Remap asset for data coming from Live Link. Allows simple application of bone tr
 
 <a id="unreal.LiveLinkRemapAsset.remap_curve_elements"></a>
 
-#### remap_curve_elements
+#### remap\_curve\_elements
 
 ```python
 def remap_curve_elements(curve_items: Map[Name, float]) -> Map[Name, float]
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.LiveLinkRemapAsset.get_remapped_curve_name"></a>
 
-#### get_remapped_curve_name
+#### get\_remapped\_curve\_name
 
 ```python
 def get_remapped_curve_name(curve_name: Name) -> Name
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.LiveLinkRemapAsset.get_remapped_bone_name"></a>
 
-#### get_remapped_bone_name
+#### get\_remapped\_bone\_name
 
 ```python
 def get_remapped_bone_name(bone_name: Name) -> Name

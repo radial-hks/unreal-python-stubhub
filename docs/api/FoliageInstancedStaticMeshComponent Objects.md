@@ -251,7 +251,7 @@ Foliage Instanced Static Mesh Component
 
 <a id="unreal.FoliageInstancedStaticMeshComponent.on_instance_take_point_damage"></a>
 
-#### on_instance_take_point_damage
+#### on\_instance\_take\_point\_damage
 
 ```python
 @property
@@ -262,7 +262,7 @@ def on_instance_take_point_damage() -> InstancePointDamageSignature
 
 <a id="unreal.FoliageInstancedStaticMeshComponent.on_instance_take_point_damage"></a>
 
-#### on_instance_take_point_damage
+#### on\_instance\_take\_point\_damage
 
 ```python
 @on_instance_take_point_damage.setter
@@ -271,7 +271,7 @@ def on_instance_take_point_damage(value: InstancePointDamageSignature) -> None
 
 <a id="unreal.FoliageInstancedStaticMeshComponent.on_instance_take_radial_damage"></a>
 
-#### on_instance_take_radial_damage
+#### on\_instance\_take\_radial\_damage
 
 ```python
 @property
@@ -282,7 +282,7 @@ def on_instance_take_radial_damage() -> InstanceRadialDamageSignature
 
 <a id="unreal.FoliageInstancedStaticMeshComponent.on_instance_take_radial_damage"></a>
 
-#### on_instance_take_radial_damage
+#### on\_instance\_take\_radial\_damage
 
 ```python
 @on_instance_take_radial_damage.setter

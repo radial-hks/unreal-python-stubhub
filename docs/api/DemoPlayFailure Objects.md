@@ -19,7 +19,7 @@ Types of demo play failures broadcast from the engine
 
 <a id="unreal.DemoPlayFailure.DEMO_NOT_FOUND"></a>
 
-#### DEMO_NOT_FOUND
+#### DEMO\_NOT\_FOUND
 
 1: Demo was not found.
 
@@ -31,31 +31,31 @@ Types of demo play failures broadcast from the engine
 
 <a id="unreal.DemoPlayFailure.INVALID_VERSION"></a>
 
-#### INVALID_VERSION
+#### INVALID\_VERSION
 
 3: Invalid version.
 
 <a id="unreal.DemoPlayFailure.INIT_BASE"></a>
 
-#### INIT_BASE
+#### INIT\_BASE
 
 4: InitBase failed.
 
 <a id="unreal.DemoPlayFailure.GAME_SPECIFIC_HEADER"></a>
 
-#### GAME_SPECIFIC_HEADER
+#### GAME\_SPECIFIC\_HEADER
 
 5: Failed to process game specific header.
 
 <a id="unreal.DemoPlayFailure.REPLAY_STREAMER_INTERNAL"></a>
 
-#### REPLAY_STREAMER_INTERNAL
+#### REPLAY\_STREAMER\_INTERNAL
 
 6: Replay streamer had an internal error.
 
 <a id="unreal.DemoPlayFailure.LOAD_MAP"></a>
 
-#### LOAD_MAP
+#### LOAD\_MAP
 
 7: LoadMap failed.
 

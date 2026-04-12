@@ -23,7 +23,7 @@ Target Chain Settings
 
 <a id="unreal.TargetChainSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -86,7 +86,7 @@ def ik(value: TargetChainIKSettings) -> None
 
 <a id="unreal.TargetChainSettings.speed_planting"></a>
 
-#### speed_planting
+#### speed\_planting
 
 ```python
 @property
@@ -98,7 +98,7 @@ Speed planting will pin the IK goal to the location determined by the IK setting
 
 <a id="unreal.TargetChainSettings.speed_planting"></a>
 
-#### speed_planting
+#### speed\_planting
 
 ```python
 @speed_planting.setter

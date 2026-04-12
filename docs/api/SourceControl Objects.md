@@ -14,7 +14,7 @@ note: Many of these source control methods use *smart* file strings which can be
 
 <a id="unreal.SourceControl.sync_files"></a>
 
-#### sync_files
+#### sync\_files
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.SourceControl.sync_file"></a>
 
-#### sync_file
+#### sync\_file
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.SourceControl.revert_unchanged_files"></a>
 
-#### revert_unchanged_files
+#### revert\_unchanged\_files
 
 ```python
 @classmethod
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.SourceControl.revert_unchanged_file"></a>
 
-#### revert_unchanged_file
+#### revert\_unchanged\_file
 
 ```python
 @classmethod
@@ -96,7 +96,7 @@ Returns:
 
 <a id="unreal.SourceControl.revert_files"></a>
 
-#### revert_files
+#### revert\_files
 
 ```python
 @classmethod
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.SourceControl.revert_file"></a>
 
-#### revert_file
+#### revert\_file
 
 ```python
 @classmethod
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.SourceControl.revert_and_reload_packages"></a>
 
-#### revert_and_reload_packages
+#### revert\_and\_reload\_packages
 
 ```python
 @classmethod
@@ -159,7 +159,7 @@ Returns:
 
 <a id="unreal.SourceControl.query_file_state"></a>
 
-#### query_file_state
+#### query\_file\_state
 
 ```python
 @classmethod
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.SourceControl.mark_files_for_delete"></a>
 
-#### mark_files_for_delete
+#### mark\_files\_for\_delete
 
 ```python
 @classmethod
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.SourceControl.mark_files_for_add"></a>
 
-#### mark_files_for_add
+#### mark\_files\_for\_add
 
 ```python
 @classmethod
@@ -223,7 +223,7 @@ Returns:
 
 <a id="unreal.SourceControl.mark_file_for_delete"></a>
 
-#### mark_file_for_delete
+#### mark\_file\_for\_delete
 
 ```python
 @classmethod
@@ -244,7 +244,7 @@ Returns:
 
 <a id="unreal.SourceControl.mark_file_for_add"></a>
 
-#### mark_file_for_add
+#### mark\_file\_for\_add
 
 ```python
 @classmethod
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.SourceControl.last_error_msg"></a>
 
-#### last_error_msg
+#### last\_error\_msg
 
 ```python
 @classmethod
@@ -280,7 +280,7 @@ Returns:
 
 <a id="unreal.SourceControl.is_enabled"></a>
 
-#### is_enabled
+#### is\_enabled
 
 ```python
 @classmethod
@@ -295,7 +295,7 @@ Returns:
 
 <a id="unreal.SourceControl.is_available"></a>
 
-#### is_available
+#### is\_available
 
 ```python
 @classmethod
@@ -311,7 +311,7 @@ Returns:
 
 <a id="unreal.SourceControl.current_provider"></a>
 
-#### current_provider
+#### current\_provider
 
 ```python
 @classmethod
@@ -326,7 +326,7 @@ Returns:
 
 <a id="unreal.SourceControl.copy_file"></a>
 
-#### copy_file
+#### copy\_file
 
 ```python
 @classmethod
@@ -350,7 +350,7 @@ Returns:
 
 <a id="unreal.SourceControl.check_out_or_add_files"></a>
 
-#### check_out_or_add_files
+#### check\_out\_or\_add\_files
 
 ```python
 @classmethod
@@ -372,7 +372,7 @@ Returns:
 
 <a id="unreal.SourceControl.check_out_or_add_file"></a>
 
-#### check_out_or_add_file
+#### check\_out\_or\_add\_file
 
 ```python
 @classmethod
@@ -392,7 +392,7 @@ Returns:
 
 <a id="unreal.SourceControl.check_out_files"></a>
 
-#### check_out_files
+#### check\_out\_files
 
 ```python
 @classmethod
@@ -412,7 +412,7 @@ Returns:
 
 <a id="unreal.SourceControl.check_out_file"></a>
 
-#### check_out_file
+#### check\_out\_file
 
 ```python
 @classmethod
@@ -432,7 +432,7 @@ Returns:
 
 <a id="unreal.SourceControl.check_in_files"></a>
 
-#### check_in_files
+#### check\_in\_files
 
 ```python
 @classmethod
@@ -458,7 +458,7 @@ Returns:
 
 <a id="unreal.SourceControl.check_in_file"></a>
 
-#### check_in_file
+#### check\_in\_file
 
 ```python
 @classmethod
@@ -484,7 +484,7 @@ Returns:
 
 <a id="unreal.SourceControl.async_query_file_state"></a>
 
-#### async_query_file_state
+#### async\_query\_file\_state
 
 ```python
 @classmethod

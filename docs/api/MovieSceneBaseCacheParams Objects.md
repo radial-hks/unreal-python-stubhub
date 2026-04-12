@@ -21,7 +21,7 @@ Base class for the cache parameters that will be used in all the cache sections
 
 <a id="unreal.MovieSceneBaseCacheParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

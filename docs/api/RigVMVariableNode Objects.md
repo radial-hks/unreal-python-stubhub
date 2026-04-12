@@ -17,7 +17,7 @@ are mutable nodes with an execute and input value pin.
 
 <a id="unreal.RigVMVariableNode.is_local_variable"></a>
 
-#### is_local_variable
+#### is\_local\_variable
 
 ```python
 def is_local_variable() -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.RigVMVariableNode.is_input_argument"></a>
 
-#### is_input_argument
+#### is\_input\_argument
 
 ```python
 def is_input_argument() -> bool
@@ -45,7 +45,7 @@ Returns:
 
 <a id="unreal.RigVMVariableNode.is_getter"></a>
 
-#### is_getter
+#### is\_getter
 
 ```python
 def is_getter() -> bool
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.RigVMVariableNode.is_external_variable"></a>
 
-#### is_external_variable
+#### is\_external\_variable
 
 ```python
 def is_external_variable() -> bool
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.RigVMVariableNode.get_variable_name"></a>
 
-#### get_variable_name
+#### get\_variable\_name
 
 ```python
 def get_variable_name() -> Name
@@ -87,7 +87,7 @@ Returns:
 
 <a id="unreal.RigVMVariableNode.get_variable_description"></a>
 
-#### get_variable_description
+#### get\_variable\_description
 
 ```python
 def get_variable_description() -> RigVMGraphVariableDescription
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.RigVMVariableNode.get_default_value"></a>
 
-#### get_default_value
+#### get\_default\_value
 
 ```python
 def get_default_value() -> str
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.RigVMVariableNode.get_cpp_type_object"></a>
 
-#### get_cpp_type_object
+#### get\_cpp\_type\_object
 
 ```python
 def get_cpp_type_object() -> Object
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.RigVMVariableNode.get_cpp_type"></a>
 
-#### get_cpp_type
+#### get\_cpp\_type
 
 ```python
 def get_cpp_type() -> str

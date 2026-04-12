@@ -14,14 +14,14 @@ EUsd Up Axis
 
 <a id="unreal.UsdUpAxis.Y_AXIS"></a>
 
-#### Y_AXIS
+#### Y\_AXIS
 
 0
 
 <a id="unreal.UsdUpAxis.Z_AXIS"></a>
 
-#### Z_AXIS
+#### Z\_AXIS
 
 1
 
-<a id="unreal.InterchangeMaterialXShaders"></a>
+<a id="unreal.RigVMPinDirection"></a>

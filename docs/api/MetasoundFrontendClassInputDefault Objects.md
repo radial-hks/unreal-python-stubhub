@@ -14,7 +14,7 @@ Metasound Frontend Class Input Default
 
 <a id="unreal.MetasoundFrontendClassInputDefault.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

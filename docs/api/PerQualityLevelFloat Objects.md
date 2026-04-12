@@ -18,7 +18,7 @@ Per Quality Level Float
 
 <a id="unreal.PerQualityLevelFloat.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(default: float = 0.000000) -> None

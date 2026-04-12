@@ -97,7 +97,7 @@ To make a widget usable as an entry in a ListView, it must inherit from the IUse
 
 <a id="unreal.ListView.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -108,7 +108,7 @@ def widget_style() -> TableViewStyle
 
 <a id="unreal.ListView.scroll_bar_style"></a>
 
-#### scroll_bar_style
+#### scroll\_bar\_style
 
 ```python
 @property
@@ -132,7 +132,7 @@ Horizontal will scroll horizontally and arrange tiles into columns.
 
 <a id="unreal.ListView.selection_mode"></a>
 
-#### selection_mode
+#### selection\_mode
 
 ```python
 @property
@@ -143,7 +143,7 @@ def selection_mode() -> SelectionMode
 
 <a id="unreal.ListView.consume_mouse_wheel"></a>
 
-#### consume_mouse_wheel
+#### consume\_mouse\_wheel
 
 ```python
 @property
@@ -154,7 +154,7 @@ def consume_mouse_wheel() -> ConsumeMouseWheel
 
 <a id="unreal.ListView.clear_selection_on_click"></a>
 
-#### clear_selection_on_click
+#### clear\_selection\_on\_click
 
 ```python
 @property
@@ -165,7 +165,7 @@ def clear_selection_on_click() -> bool
 
 <a id="unreal.ListView.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @property
@@ -176,7 +176,7 @@ def is_focusable() -> bool
 
 <a id="unreal.ListView.return_focus_to_selection"></a>
 
-#### return_focus_to_selection
+#### return\_focus\_to\_selection
 
 ```python
 @property
@@ -187,7 +187,7 @@ def return_focus_to_selection() -> bool
 
 <a id="unreal.ListView.scroll_into_view_alignment"></a>
 
-#### scroll_into_view_alignment
+#### scroll\_into\_view\_alignment
 
 ```python
 @property
@@ -198,7 +198,7 @@ def scroll_into_view_alignment() -> ScrollIntoViewAlignment
 
 <a id="unreal.ListView.entry_spacing"></a>
 
-#### entry_spacing
+#### entry\_spacing
 
 ```python
 @property
@@ -211,7 +211,7 @@ deprecated: EntrySpacing has been deprecated. Please use HorizontalEntrySpacing 
 
 <a id="unreal.ListView.horizontal_entry_spacing"></a>
 
-#### horizontal_entry_spacing
+#### horizontal\_entry\_spacing
 
 ```python
 @property
@@ -222,7 +222,7 @@ def horizontal_entry_spacing() -> float
 
 <a id="unreal.ListView.vertical_entry_spacing"></a>
 
-#### vertical_entry_spacing
+#### vertical\_entry\_spacing
 
 ```python
 @property
@@ -233,7 +233,7 @@ def vertical_entry_spacing() -> float
 
 <a id="unreal.ListView.scroll_bar_padding"></a>
 
-#### scroll_bar_padding
+#### scroll\_bar\_padding
 
 ```python
 @property
@@ -244,7 +244,7 @@ def scroll_bar_padding() -> Margin
 
 <a id="unreal.ListView.scroll_bar_padding"></a>
 
-#### scroll_bar_padding
+#### scroll\_bar\_padding
 
 ```python
 @scroll_bar_padding.setter
@@ -253,7 +253,7 @@ def scroll_bar_padding(value: Margin) -> None
 
 <a id="unreal.ListView.bp_on_entry_initialized"></a>
 
-#### bp_on_entry_initialized
+#### bp\_on\_entry\_initialized
 
 ```python
 @property
@@ -264,7 +264,7 @@ def bp_on_entry_initialized() -> OnListEntryInitializedDynamic
 
 <a id="unreal.ListView.bp_on_entry_initialized"></a>
 
-#### bp_on_entry_initialized
+#### bp\_on\_entry\_initialized
 
 ```python
 @bp_on_entry_initialized.setter
@@ -273,7 +273,7 @@ def bp_on_entry_initialized(value: OnListEntryInitializedDynamic) -> None
 
 <a id="unreal.ListView.bp_on_item_clicked"></a>
 
-#### bp_on_item_clicked
+#### bp\_on\_item\_clicked
 
 ```python
 @property
@@ -284,7 +284,7 @@ def bp_on_item_clicked() -> SimpleListItemEventDynamic
 
 <a id="unreal.ListView.bp_on_item_clicked"></a>
 
-#### bp_on_item_clicked
+#### bp\_on\_item\_clicked
 
 ```python
 @bp_on_item_clicked.setter
@@ -293,7 +293,7 @@ def bp_on_item_clicked(value: SimpleListItemEventDynamic) -> None
 
 <a id="unreal.ListView.bp_on_item_double_clicked"></a>
 
-#### bp_on_item_double_clicked
+#### bp\_on\_item\_double\_clicked
 
 ```python
 @property
@@ -304,7 +304,7 @@ def bp_on_item_double_clicked() -> SimpleListItemEventDynamic
 
 <a id="unreal.ListView.bp_on_item_double_clicked"></a>
 
-#### bp_on_item_double_clicked
+#### bp\_on\_item\_double\_clicked
 
 ```python
 @bp_on_item_double_clicked.setter
@@ -313,7 +313,7 @@ def bp_on_item_double_clicked(value: SimpleListItemEventDynamic) -> None
 
 <a id="unreal.ListView.bp_on_item_is_hovered_changed"></a>
 
-#### bp_on_item_is_hovered_changed
+#### bp\_on\_item\_is\_hovered\_changed
 
 ```python
 @property
@@ -324,7 +324,7 @@ def bp_on_item_is_hovered_changed() -> OnItemIsHoveredChangedDynamic
 
 <a id="unreal.ListView.bp_on_item_is_hovered_changed"></a>
 
-#### bp_on_item_is_hovered_changed
+#### bp\_on\_item\_is\_hovered\_changed
 
 ```python
 @bp_on_item_is_hovered_changed.setter
@@ -334,7 +334,7 @@ def bp_on_item_is_hovered_changed(
 
 <a id="unreal.ListView.bp_on_item_selection_changed"></a>
 
-#### bp_on_item_selection_changed
+#### bp\_on\_item\_selection\_changed
 
 ```python
 @property
@@ -345,7 +345,7 @@ def bp_on_item_selection_changed() -> OnListItemSelectionChangedDynamic
 
 <a id="unreal.ListView.bp_on_item_selection_changed"></a>
 
-#### bp_on_item_selection_changed
+#### bp\_on\_item\_selection\_changed
 
 ```python
 @bp_on_item_selection_changed.setter
@@ -355,7 +355,7 @@ def bp_on_item_selection_changed(
 
 <a id="unreal.ListView.bp_on_item_scrolled_into_view"></a>
 
-#### bp_on_item_scrolled_into_view
+#### bp\_on\_item\_scrolled\_into\_view
 
 ```python
 @property
@@ -366,7 +366,7 @@ def bp_on_item_scrolled_into_view() -> OnListItemScrolledIntoViewDynamic
 
 <a id="unreal.ListView.bp_on_item_scrolled_into_view"></a>
 
-#### bp_on_item_scrolled_into_view
+#### bp\_on\_item\_scrolled\_into\_view
 
 ```python
 @bp_on_item_scrolled_into_view.setter
@@ -376,7 +376,7 @@ def bp_on_item_scrolled_into_view(
 
 <a id="unreal.ListView.bp_on_list_view_scrolled"></a>
 
-#### bp_on_list_view_scrolled
+#### bp\_on\_list\_view\_scrolled
 
 ```python
 @property
@@ -387,7 +387,7 @@ def bp_on_list_view_scrolled() -> OnListViewScrolledDynamic
 
 <a id="unreal.ListView.bp_on_list_view_scrolled"></a>
 
-#### bp_on_list_view_scrolled
+#### bp\_on\_list\_view\_scrolled
 
 ```python
 @bp_on_list_view_scrolled.setter
@@ -396,7 +396,7 @@ def bp_on_list_view_scrolled(value: OnListViewScrolledDynamic) -> None
 
 <a id="unreal.ListView.set_selection_mode"></a>
 
-#### set_selection_mode
+#### set\_selection\_mode
 
 ```python
 def set_selection_mode(selection_mode: SelectionMode) -> None
@@ -410,7 +410,7 @@ Args:
 
 <a id="unreal.ListView.set_selected_index"></a>
 
-#### set_selected_index
+#### set\_selected\_index
 
 ```python
 def set_selected_index(index: int) -> None
@@ -424,7 +424,7 @@ Args:
 
 <a id="unreal.ListView.set_scroll_into_view_alignment"></a>
 
-#### set_scroll_into_view_alignment
+#### set\_scroll\_into\_view\_alignment
 
 ```python
 def set_scroll_into_view_alignment(
@@ -439,7 +439,7 @@ Args:
 
 <a id="unreal.ListView.scroll_index_into_view"></a>
 
-#### scroll_index_into_view
+#### scroll\_index\_into\_view
 
 ```python
 def scroll_index_into_view(index: int) -> None
@@ -453,7 +453,7 @@ Args:
 
 <a id="unreal.ListView.remove_item"></a>
 
-#### remove_item
+#### remove\_item
 
 ```python
 def remove_item(item: Object) -> None
@@ -467,7 +467,7 @@ Args:
 
 <a id="unreal.ListView.navigate_to_index"></a>
 
-#### navigate_to_index
+#### navigate\_to\_index
 
 ```python
 def navigate_to_index(index: int) -> None
@@ -481,7 +481,7 @@ Args:
 
 <a id="unreal.ListView.is_refresh_pending"></a>
 
-#### is_refresh_pending
+#### is\_refresh\_pending
 
 ```python
 def is_refresh_pending() -> bool
@@ -495,7 +495,7 @@ Returns:
 
 <a id="unreal.ListView.get_vertical_entry_spacing"></a>
 
-#### get_vertical_entry_spacing
+#### get\_vertical\_entry\_spacing
 
 ```python
 def get_vertical_entry_spacing() -> float
@@ -509,7 +509,7 @@ Returns:
 
 <a id="unreal.ListView.get_num_items"></a>
 
-#### get_num_items
+#### get\_num\_items
 
 ```python
 def get_num_items() -> int
@@ -523,7 +523,7 @@ Returns:
 
 <a id="unreal.ListView.get_list_items"></a>
 
-#### get_list_items
+#### get\_list\_items
 
 ```python
 def get_list_items() -> Array[Object]
@@ -538,7 +538,7 @@ Returns:
 
 <a id="unreal.ListView.get_item_at"></a>
 
-#### get_item_at
+#### get\_item\_at
 
 ```python
 def get_item_at(index: int) -> Object
@@ -555,7 +555,7 @@ Returns:
 
 <a id="unreal.ListView.get_index_for_item"></a>
 
-#### get_index_for_item
+#### get\_index\_for\_item
 
 ```python
 def get_index_for_item(item: Object) -> int
@@ -572,7 +572,7 @@ Returns:
 
 <a id="unreal.ListView.get_horizontal_entry_spacing"></a>
 
-#### get_horizontal_entry_spacing
+#### get\_horizontal\_entry\_spacing
 
 ```python
 def get_horizontal_entry_spacing() -> float
@@ -586,7 +586,7 @@ Returns:
 
 <a id="unreal.ListView.clear_list_items"></a>
 
-#### clear_list_items
+#### clear\_list\_items
 
 ```python
 def clear_list_items() -> None
@@ -597,7 +597,7 @@ Removes all items from the list
 
 <a id="unreal.ListView.bp_set_selected_item"></a>
 
-#### bp_set_selected_item
+#### bp\_set\_selected\_item
 
 ```python
 def bp_set_selected_item(item: Object) -> None
@@ -611,7 +611,7 @@ Args:
 
 <a id="unreal.ListView.bp_set_list_items"></a>
 
-#### bp_set_list_items
+#### bp\_set\_list\_items
 
 ```python
 def bp_set_list_items(list_items: Array[Object]) -> None
@@ -625,7 +625,7 @@ Args:
 
 <a id="unreal.ListView.bp_set_item_selection"></a>
 
-#### bp_set_item_selection
+#### bp\_set\_item\_selection
 
 ```python
 def bp_set_item_selection(item: Object, selected: bool) -> None
@@ -640,7 +640,7 @@ Args:
 
 <a id="unreal.ListView.bp_scroll_item_into_view"></a>
 
-#### bp_scroll_item_into_view
+#### bp\_scroll\_item\_into\_view
 
 ```python
 def bp_scroll_item_into_view(item: Object) -> None
@@ -654,7 +654,7 @@ Args:
 
 <a id="unreal.ListView.bp_navigate_to_item"></a>
 
-#### bp_navigate_to_item
+#### bp\_navigate\_to\_item
 
 ```python
 def bp_navigate_to_item(item: Object) -> None
@@ -668,7 +668,7 @@ Args:
 
 <a id="unreal.ListView.bp_is_item_visible"></a>
 
-#### bp_is_item_visible
+#### bp\_is\_item\_visible
 
 ```python
 def bp_is_item_visible(item: Object) -> bool
@@ -685,7 +685,7 @@ Returns:
 
 <a id="unreal.ListView.bp_get_selected_items"></a>
 
-#### bp_get_selected_items
+#### bp\_get\_selected\_items
 
 ```python
 def bp_get_selected_items() -> Optional[Array[Object]]
@@ -701,7 +701,7 @@ Returns:
 
 <a id="unreal.ListView.bp_get_selected_item"></a>
 
-#### bp_get_selected_item
+#### bp\_get\_selected\_item
 
 ```python
 def bp_get_selected_item() -> Object
@@ -715,7 +715,7 @@ Returns:
 
 <a id="unreal.ListView.bp_get_num_items_selected"></a>
 
-#### bp_get_num_items_selected
+#### bp\_get\_num\_items\_selected
 
 ```python
 def bp_get_num_items_selected() -> int
@@ -729,7 +729,7 @@ Returns:
 
 <a id="unreal.ListView.bp_clear_selection"></a>
 
-#### bp_clear_selection
+#### bp\_clear\_selection
 
 ```python
 def bp_clear_selection() -> None
@@ -740,7 +740,7 @@ Clear selection
 
 <a id="unreal.ListView.bp_cancel_scroll_into_view"></a>
 
-#### bp_cancel_scroll_into_view
+#### bp\_cancel\_scroll\_into\_view
 
 ```python
 def bp_cancel_scroll_into_view() -> None
@@ -751,7 +751,7 @@ Cancels a previous request to scroll and item into view.
 
 <a id="unreal.ListView.add_item"></a>
 
-#### add_item
+#### add\_item
 
 ```python
 def add_item(item: Object) -> None

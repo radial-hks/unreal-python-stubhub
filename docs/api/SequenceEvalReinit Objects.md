@@ -13,19 +13,19 @@ ESequence Eval Reinit
 
 <a id="unreal.SequenceEvalReinit.NO_RESET"></a>
 
-#### NO_RESET
+#### NO\_RESET
 
 0: Do not reset InternalTimeAccumulator
 
 <a id="unreal.SequenceEvalReinit.START_POSITION"></a>
 
-#### START_POSITION
+#### START\_POSITION
 
 1: Reset InternalTimeAccumulator to StartPosition
 
 <a id="unreal.SequenceEvalReinit.EXPLICIT_TIME"></a>
 
-#### EXPLICIT_TIME
+#### EXPLICIT\_TIME
 
 2: Reset InternalTimeAccumulator to ExplicitTime
 

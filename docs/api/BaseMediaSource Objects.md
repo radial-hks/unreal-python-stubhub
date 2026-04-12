@@ -17,7 +17,7 @@ Base class for concrete media sources.
 
 <a id="unreal.BaseMediaSource.platform_player_names"></a>
 
-#### platform_player_names
+#### platform\_player\_names
 
 ```python
 @property
@@ -28,7 +28,7 @@ def platform_player_names() -> Map[str, Name]
 
 <a id="unreal.BaseMediaSource.platform_player_names"></a>
 
-#### platform_player_names
+#### platform\_player\_names
 
 ```python
 @platform_player_names.setter

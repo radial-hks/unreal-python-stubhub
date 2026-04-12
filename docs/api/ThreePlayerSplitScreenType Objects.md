@@ -13,13 +13,13 @@ Ways the screen can be split with three players.
 
 <a id="unreal.ThreePlayerSplitScreenType.FAVOR_TOP"></a>
 
-#### FAVOR_TOP
+#### FAVOR\_TOP
 
 0
 
 <a id="unreal.ThreePlayerSplitScreenType.FAVOR_BOTTOM"></a>
 
-#### FAVOR_BOTTOM
+#### FAVOR\_BOTTOM
 
 1
 

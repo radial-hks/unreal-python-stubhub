@@ -14,13 +14,13 @@ EPCGComponent Selection
 
 <a id="unreal.PCGComponentSelection.BY_TAG"></a>
 
-#### BY_TAG
+#### BY\_TAG
 
 0
 
 <a id="unreal.PCGComponentSelection.BY_CLASS"></a>
 
-#### BY_CLASS
+#### BY\_CLASS
 
 1
 

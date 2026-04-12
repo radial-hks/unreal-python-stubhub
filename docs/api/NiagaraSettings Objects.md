@@ -64,7 +64,7 @@ Niagara Settings
 
 <a id="unreal.NiagaraSettings.limit_delta_time"></a>
 
-#### limit_delta_time
+#### limit\_delta\_time
 
 ```python
 @property
@@ -75,7 +75,7 @@ def limit_delta_time() -> bool
 
 <a id="unreal.NiagaraSettings.limit_delta_time"></a>
 
-#### limit_delta_time
+#### limit\_delta\_time
 
 ```python
 @limit_delta_time.setter
@@ -84,7 +84,7 @@ def limit_delta_time(value: bool) -> None
 
 <a id="unreal.NiagaraSettings.max_delta_time_per_tick"></a>
 
-#### max_delta_time_per_tick
+#### max\_delta\_time\_per\_tick
 
 ```python
 @property
@@ -95,7 +95,7 @@ def max_delta_time_per_tick() -> float
 
 <a id="unreal.NiagaraSettings.max_delta_time_per_tick"></a>
 
-#### max_delta_time_per_tick
+#### max\_delta\_time\_per\_tick
 
 ```python
 @max_delta_time_per_tick.setter

@@ -18,7 +18,7 @@ A pair of 3D vectors (mirrored from TwoVectors.h).
 
 <a id="unreal.TwoVectors.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(v1: Vector = [0.000000, 0.000000, 0.000000],

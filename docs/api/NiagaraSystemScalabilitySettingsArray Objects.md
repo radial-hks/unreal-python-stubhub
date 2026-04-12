@@ -18,7 +18,7 @@ Container struct for an array of system scalability settings. Enables details cu
 
 <a id="unreal.NiagaraSystemScalabilitySettingsArray.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

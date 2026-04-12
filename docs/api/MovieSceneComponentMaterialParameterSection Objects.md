@@ -26,7 +26,7 @@ A movie scene section containing data for material parameters.
 
 <a id="unreal.MovieSceneComponentMaterialParameterSection.remove_scalar_parameter"></a>
 
-#### remove_scalar_parameter
+#### remove\_scalar\_parameter
 
 ```python
 def remove_scalar_parameter(parameter_info: MaterialParameterInfo) -> bool
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.MovieSceneComponentMaterialParameterSection.remove_color_parameter"></a>
 
-#### remove_color_parameter
+#### remove\_color\_parameter
 
 ```python
 def remove_color_parameter(parameter_info: MaterialParameterInfo) -> bool
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.MovieSceneComponentMaterialParameterSection.add_scalar_parameter_key"></a>
 
-#### add_scalar_parameter_key
+#### add\_scalar\_parameter\_key
 
 ```python
 def add_scalar_parameter_key(parameter_info: MaterialParameterInfo,
@@ -80,7 +80,7 @@ Args:
 
 <a id="unreal.MovieSceneComponentMaterialParameterSection.add_color_parameter_key"></a>
 
-#### add_color_parameter_key
+#### add\_color\_parameter\_key
 
 ```python
 def add_color_parameter_key(parameter_info: MaterialParameterInfo,

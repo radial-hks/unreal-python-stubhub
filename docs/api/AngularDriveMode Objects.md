@@ -19,7 +19,7 @@ EAngular Drive Mode
 
 <a id="unreal.AngularDriveMode.TWIST_AND_SWING"></a>
 
-#### TWIST_AND_SWING
+#### TWIST\_AND\_SWING
 
 1: Path is decomposed into twist (roll constraint) and swing (cone constraint). Doesn't follow shortest arc and may experience gimbal lock. Does work with locked angular constraints.
 

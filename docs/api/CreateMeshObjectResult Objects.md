@@ -22,7 +22,7 @@ to indicate success/failure and provide information about created mesh objects
 
 <a id="unreal.CreateMeshObjectResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

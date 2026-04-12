@@ -14,13 +14,13 @@ EGeometry Script Texel Density Mode
 
 <a id="unreal.GeometryScriptTexelDensityMode.APPLY_TO_ISLANDS"></a>
 
-#### APPLY_TO_ISLANDS
+#### APPLY\_TO\_ISLANDS
 
 0
 
 <a id="unreal.GeometryScriptTexelDensityMode.APPLY_TO_WHOLE"></a>
 
-#### APPLY_TO_WHOLE
+#### APPLY\_TO\_WHOLE
 
 1
 

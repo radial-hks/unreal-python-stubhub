@@ -13,7 +13,7 @@ Sound Submix Widget Interface
 
 <a id="unreal.SoundSubmixWidgetInterface.on_constructed"></a>
 
-#### on_constructed
+#### on\_constructed
 
 ```python
 def on_constructed(sound_submix: SoundSubmixBase) -> None

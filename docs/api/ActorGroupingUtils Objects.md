@@ -13,7 +13,7 @@ Helper class for grouping actors in the level editor
 
 <a id="unreal.ActorGroupingUtils.unlock_selected_groups"></a>
 
-#### unlock_selected_groups
+#### unlock\_selected\_groups
 
 ```python
 def unlock_selected_groups() -> None
@@ -24,7 +24,7 @@ Unlocks any groups in the current selection
 
 <a id="unreal.ActorGroupingUtils.ungroup_selected"></a>
 
-#### ungroup_selected
+#### ungroup\_selected
 
 ```python
 def ungroup_selected() -> None
@@ -35,7 +35,7 @@ Disbands any groups in the current selection, does not attempt to maintain any h
 
 <a id="unreal.ActorGroupingUtils.ungroup_actors"></a>
 
-#### ungroup_actors
+#### ungroup\_actors
 
 ```python
 def ungroup_actors(actors_to_ungroup: Array[Actor]) -> None
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.ActorGroupingUtils.set_grouping_active"></a>
 
-#### set_grouping_active
+#### set\_grouping\_active
 
 ```python
 @classmethod
@@ -64,7 +64,7 @@ Args:
 
 <a id="unreal.ActorGroupingUtils.remove_selected_from_group"></a>
 
-#### remove_selected_from_group
+#### remove\_selected\_from\_group
 
 ```python
 def remove_selected_from_group() -> None
@@ -76,7 +76,7 @@ If all actors/subgroups are removed, the parent group will be destroyed.
 
 <a id="unreal.ActorGroupingUtils.lock_selected_groups"></a>
 
-#### lock_selected_groups
+#### lock\_selected\_groups
 
 ```python
 def lock_selected_groups() -> None
@@ -87,7 +87,7 @@ Locks any groups in the current selection
 
 <a id="unreal.ActorGroupingUtils.is_grouping_active"></a>
 
-#### is_grouping_active
+#### is\_grouping\_active
 
 ```python
 @classmethod
@@ -102,7 +102,7 @@ Returns:
 
 <a id="unreal.ActorGroupingUtils.group_selected"></a>
 
-#### group_selected
+#### group\_selected
 
 ```python
 def group_selected() -> GroupActor
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.ActorGroupingUtils.group_actors"></a>
 
-#### group_actors
+#### group\_actors
 
 ```python
 def group_actors(actors_to_group: Array[Actor]) -> GroupActor
@@ -148,7 +148,7 @@ Returns:
 
 <a id="unreal.ActorGroupingUtils.can_group_selected_actors"></a>
 
-#### can_group_selected_actors
+#### can\_group\_selected\_actors
 
 ```python
 def can_group_selected_actors() -> bool
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.ActorGroupingUtils.can_group_actors"></a>
 
-#### can_group_actors
+#### can\_group\_actors
 
 ```python
 def can_group_actors(actors_to_group: Array[Actor]) -> bool
@@ -179,7 +179,7 @@ Returns:
 
 <a id="unreal.ActorGroupingUtils.add_selected_to_group"></a>
 
-#### add_selected_to_group
+#### add\_selected\_to\_group
 
 ```python
 def add_selected_to_group() -> None

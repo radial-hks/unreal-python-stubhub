@@ -18,7 +18,7 @@ Compute Framework Data Provider for marshaling compute graph parameters and vari
 
 <a id="unreal.OptimusGraphDataProvider.mesh_component"></a>
 
-#### mesh_component
+#### mesh\_component
 
 ```python
 @property
@@ -29,7 +29,7 @@ def mesh_component() -> MeshComponent
 
 <a id="unreal.OptimusGraphDataProvider.mesh_component"></a>
 
-#### mesh_component
+#### mesh\_component
 
 ```python
 @mesh_component.setter

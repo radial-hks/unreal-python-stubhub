@@ -24,7 +24,7 @@ The projection of a spline onto a surface.
 
 <a id="unreal.PCGSplineProjectionData.projected_position"></a>
 
-#### projected_position
+#### projected\_position
 
 ```python
 @property
@@ -35,7 +35,7 @@ def projected_position() -> InterpCurveVector2D
 
 <a id="unreal.PCGSplineProjectionData.projected_position"></a>
 
-#### projected_position
+#### projected\_position
 
 ```python
 @projected_position.setter

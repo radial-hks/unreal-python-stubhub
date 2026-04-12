@@ -38,13 +38,13 @@ EPCGMetadata Rotator Operation
 
 <a id="unreal.PCGMetadataRotatorOperation.TRANSFORM_ROTATION"></a>
 
-#### TRANSFORM_ROTATION
+#### TRANSFORM\_ROTATION
 
 101
 
 <a id="unreal.PCGMetadataRotatorOperation.INVERSE_TRANSFORM_ROTATION"></a>
 
-#### INVERSE_TRANSFORM_ROTATION
+#### INVERSE\_TRANSFORM\_ROTATION
 
 102
 

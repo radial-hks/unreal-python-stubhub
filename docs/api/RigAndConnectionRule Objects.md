@@ -18,7 +18,7 @@ Rig and Connection Rule
 
 <a id="unreal.RigAndConnectionRule.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(child_rules: Array[RigConnectionRuleStash] = []) -> None
@@ -26,7 +26,7 @@ def __init__(child_rules: Array[RigConnectionRuleStash] = []) -> None
 
 <a id="unreal.RigAndConnectionRule.child_rules"></a>
 
-#### child_rules
+#### child\_rules
 
 ```python
 @property
@@ -37,7 +37,7 @@ def child_rules() -> Array[RigConnectionRuleStash]
 
 <a id="unreal.RigAndConnectionRule.child_rules"></a>
 
-#### child_rules
+#### child\_rules
 
 ```python
 @child_rules.setter

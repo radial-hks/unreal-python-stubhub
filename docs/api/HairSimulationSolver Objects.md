@@ -18,7 +18,7 @@ Hair Simulation Solver
 
 <a id="unreal.HairSimulationSolver.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enable_simulation: bool = False) -> None
@@ -26,7 +26,7 @@ def __init__(enable_simulation: bool = False) -> None
 
 <a id="unreal.HairSimulationSolver.enable_simulation"></a>
 
-#### enable_simulation
+#### enable\_simulation
 
 ```python
 @property
@@ -37,7 +37,7 @@ def enable_simulation() -> bool
 
 <a id="unreal.HairSimulationSolver.enable_simulation"></a>
 
-#### enable_simulation
+#### enable\_simulation
 
 ```python
 @enable_simulation.setter

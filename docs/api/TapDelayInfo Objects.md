@@ -24,7 +24,7 @@ Tap Delay Info
 
 <a id="unreal.TapDelayInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tap_line_mode: TapLineMode = TapLineMode.SEND_TO_CHANNEL,
@@ -36,7 +36,7 @@ def __init__(tap_line_mode: TapLineMode = TapLineMode.SEND_TO_CHANNEL,
 
 <a id="unreal.TapDelayInfo.tap_line_mode"></a>
 
-#### tap_line_mode
+#### tap\_line\_mode
 
 ```python
 @property
@@ -47,7 +47,7 @@ def tap_line_mode() -> TapLineMode
 
 <a id="unreal.TapDelayInfo.tap_line_mode"></a>
 
-#### tap_line_mode
+#### tap\_line\_mode
 
 ```python
 @tap_line_mode.setter
@@ -56,7 +56,7 @@ def tap_line_mode(value: TapLineMode) -> None
 
 <a id="unreal.TapDelayInfo.delay_length"></a>
 
-#### delay_length
+#### delay\_length
 
 ```python
 @property
@@ -67,7 +67,7 @@ def delay_length() -> float
 
 <a id="unreal.TapDelayInfo.delay_length"></a>
 
-#### delay_length
+#### delay\_length
 
 ```python
 @delay_length.setter
@@ -96,7 +96,7 @@ def gain(value: float) -> None
 
 <a id="unreal.TapDelayInfo.output_channel"></a>
 
-#### output_channel
+#### output\_channel
 
 ```python
 @property
@@ -107,7 +107,7 @@ def output_channel() -> int
 
 <a id="unreal.TapDelayInfo.output_channel"></a>
 
-#### output_channel
+#### output\_channel
 
 ```python
 @output_channel.setter
@@ -116,7 +116,7 @@ def output_channel(value: int) -> None
 
 <a id="unreal.TapDelayInfo.pan_in_degrees"></a>
 
-#### pan_in_degrees
+#### pan\_in\_degrees
 
 ```python
 @property
@@ -129,7 +129,7 @@ On Stereo systems, <-90 is fully in the left ear, and >90 is fully in the right 
 
 <a id="unreal.TapDelayInfo.pan_in_degrees"></a>
 
-#### pan_in_degrees
+#### pan\_in\_degrees
 
 ```python
 @pan_in_degrees.setter

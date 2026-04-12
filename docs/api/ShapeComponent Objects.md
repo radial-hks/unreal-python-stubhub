@@ -196,7 +196,7 @@ ShapeComponent is a PrimitiveComponent that is represented by a simple geometric
 
 <a id="unreal.ShapeComponent.shape_color"></a>
 
-#### shape_color
+#### shape\_color
 
 ```python
 @property
@@ -207,7 +207,7 @@ def shape_color() -> Color
 
 <a id="unreal.ShapeComponent.shape_color"></a>
 
-#### shape_color
+#### shape\_color
 
 ```python
 @shape_color.setter
@@ -216,7 +216,7 @@ def shape_color(value: Color) -> None
 
 <a id="unreal.ShapeComponent.line_thickness"></a>
 
-#### line_thickness
+#### line\_thickness
 
 ```python
 @property
@@ -227,7 +227,7 @@ def line_thickness() -> float
 
 <a id="unreal.ShapeComponent.set_line_thickness"></a>
 
-#### set_line_thickness
+#### set\_line\_thickness
 
 ```python
 def set_line_thickness(thickness: float) -> None

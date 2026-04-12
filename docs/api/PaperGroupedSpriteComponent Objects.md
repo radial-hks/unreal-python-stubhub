@@ -197,7 +197,7 @@ see: UPrimitiveComponent, UPaperSprite
 
 <a id="unreal.PaperGroupedSpriteComponent.update_instance_transform"></a>
 
-#### update_instance_transform
+#### update\_instance\_transform
 
 ```python
 def update_instance_transform(instance_index: int,
@@ -222,7 +222,7 @@ Returns:
 
 <a id="unreal.PaperGroupedSpriteComponent.update_instance_color"></a>
 
-#### update_instance_color
+#### update\_instance\_color
 
 ```python
 def update_instance_color(instance_index: int,
@@ -243,7 +243,7 @@ Returns:
 
 <a id="unreal.PaperGroupedSpriteComponent.sort_instances_along_axis"></a>
 
-#### sort_instances_along_axis
+#### sort\_instances\_along\_axis
 
 ```python
 def sort_instances_along_axis(world_space_sort_axis: Vector) -> None
@@ -257,7 +257,7 @@ Args:
 
 <a id="unreal.PaperGroupedSpriteComponent.remove_instance"></a>
 
-#### remove_instance
+#### remove\_instance
 
 ```python
 def remove_instance(instance_index: int) -> bool
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.PaperGroupedSpriteComponent.get_instance_transform"></a>
 
-#### get_instance_transform
+#### get\_instance\_transform
 
 ```python
 def get_instance_transform(instance_index: int,
@@ -295,7 +295,7 @@ Returns:
 
 <a id="unreal.PaperGroupedSpriteComponent.get_instance_count"></a>
 
-#### get_instance_count
+#### get\_instance\_count
 
 ```python
 def get_instance_count() -> int
@@ -309,7 +309,7 @@ Returns:
 
 <a id="unreal.PaperGroupedSpriteComponent.clear_instances"></a>
 
-#### clear_instances
+#### clear\_instances
 
 ```python
 def clear_instances() -> None
@@ -320,7 +320,7 @@ Clear all instances being rendered by this component
 
 <a id="unreal.PaperGroupedSpriteComponent.add_instance"></a>
 
-#### add_instance
+#### add\_instance
 
 ```python
 def add_instance(

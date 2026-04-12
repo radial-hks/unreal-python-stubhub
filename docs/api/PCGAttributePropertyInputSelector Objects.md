@@ -16,7 +16,7 @@ LastCreated: for previously created selectors).
 
 <a id="unreal.PCGAttributePropertyInputSelector.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -24,7 +24,7 @@ def __init__() -> None
 
 <a id="unreal.PCGAttributePropertyInputSelector.copy_and_fix_last"></a>
 
-#### copy_and_fix_last
+#### copy\_and\_fix\_last
 
 ```python
 def copy_and_fix_last(data: PCGData) -> PCGAttributePropertyInputSelector

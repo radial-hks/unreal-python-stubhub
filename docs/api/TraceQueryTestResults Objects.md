@@ -20,7 +20,7 @@ Trace Query Test Results
 
 <a id="unreal.TraceQueryTestResults.channel_results"></a>
 
-#### channel_results
+#### channel\_results
 
 ```python
 @property
@@ -31,7 +31,7 @@ def channel_results() -> TraceQueryTestResultsInner
 
 <a id="unreal.TraceQueryTestResults.channel_results"></a>
 
-#### channel_results
+#### channel\_results
 
 ```python
 @channel_results.setter
@@ -40,7 +40,7 @@ def channel_results(value: TraceQueryTestResultsInner) -> None
 
 <a id="unreal.TraceQueryTestResults.object_results"></a>
 
-#### object_results
+#### object\_results
 
 ```python
 @property
@@ -51,7 +51,7 @@ def object_results() -> TraceQueryTestResultsInner
 
 <a id="unreal.TraceQueryTestResults.object_results"></a>
 
-#### object_results
+#### object\_results
 
 ```python
 @object_results.setter
@@ -60,7 +60,7 @@ def object_results(value: TraceQueryTestResultsInner) -> None
 
 <a id="unreal.TraceQueryTestResults.profile_results"></a>
 
-#### profile_results
+#### profile\_results
 
 ```python
 @property
@@ -71,7 +71,7 @@ def profile_results() -> TraceQueryTestResultsInner
 
 <a id="unreal.TraceQueryTestResults.profile_results"></a>
 
-#### profile_results
+#### profile\_results
 
 ```python
 @profile_results.setter
@@ -80,7 +80,7 @@ def profile_results(value: TraceQueryTestResultsInner) -> None
 
 <a id="unreal.TraceQueryTestResults.batch_options"></a>
 
-#### batch_options
+#### batch\_options
 
 ```python
 @property
@@ -91,7 +91,7 @@ def batch_options() -> TraceChannelTestBatchOptions
 
 <a id="unreal.TraceQueryTestResults.batch_options"></a>
 
-#### batch_options
+#### batch\_options
 
 ```python
 @batch_options.setter
@@ -100,7 +100,7 @@ def batch_options(value: TraceChannelTestBatchOptions) -> None
 
 <a id="unreal.TraceQueryTestResults.to_string"></a>
 
-#### to_string
+#### to\_string
 
 ```python
 def to_string() -> str

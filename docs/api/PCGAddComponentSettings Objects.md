@@ -40,7 +40,7 @@ Creates components and adds them to specified actors.
 
 <a id="unreal.PCGAddComponentSettings.use_class_attribute"></a>
 
-#### use_class_attribute
+#### use\_class\_attribute
 
 ```python
 @property
@@ -51,7 +51,7 @@ def use_class_attribute() -> bool
 
 <a id="unreal.PCGAddComponentSettings.use_class_attribute"></a>
 
-#### use_class_attribute
+#### use\_class\_attribute
 
 ```python
 @use_class_attribute.setter
@@ -60,7 +60,7 @@ def use_class_attribute(value: bool) -> None
 
 <a id="unreal.PCGAddComponentSettings.class_attribute"></a>
 
-#### class_attribute
+#### class\_attribute
 
 ```python
 @property
@@ -71,7 +71,7 @@ def class_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAddComponentSettings.class_attribute"></a>
 
-#### class_attribute
+#### class\_attribute
 
 ```python
 @class_attribute.setter
@@ -80,7 +80,7 @@ def class_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGAddComponentSettings.template_component_class"></a>
 
-#### template_component_class
+#### template\_component\_class
 
 ```python
 @property
@@ -91,7 +91,7 @@ def template_component_class() -> Class
 
 <a id="unreal.PCGAddComponentSettings.allow_template_component_editing"></a>
 
-#### allow_template_component_editing
+#### allow\_template\_component\_editing
 
 ```python
 @property
@@ -102,7 +102,7 @@ def allow_template_component_editing() -> bool
 
 <a id="unreal.PCGAddComponentSettings.allow_template_component_editing"></a>
 
-#### allow_template_component_editing
+#### allow\_template\_component\_editing
 
 ```python
 @allow_template_component_editing.setter
@@ -111,7 +111,7 @@ def allow_template_component_editing(value: bool) -> None
 
 <a id="unreal.PCGAddComponentSettings.template_component"></a>
 
-#### template_component
+#### template\_component
 
 ```python
 @property
@@ -122,7 +122,7 @@ def template_component() -> ActorComponent
 
 <a id="unreal.PCGAddComponentSettings.template_component"></a>
 
-#### template_component
+#### template\_component
 
 ```python
 @template_component.setter
@@ -131,7 +131,7 @@ def template_component(value: ActorComponent) -> None
 
 <a id="unreal.PCGAddComponentSettings.actor_reference_attribute"></a>
 
-#### actor_reference_attribute
+#### actor\_reference\_attribute
 
 ```python
 @property
@@ -142,7 +142,7 @@ def actor_reference_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAddComponentSettings.actor_reference_attribute"></a>
 
-#### actor_reference_attribute
+#### actor\_reference\_attribute
 
 ```python
 @actor_reference_attribute.setter
@@ -152,7 +152,7 @@ def actor_reference_attribute(
 
 <a id="unreal.PCGAddComponentSettings.component_reference_attribute"></a>
 
-#### component_reference_attribute
+#### component\_reference\_attribute
 
 ```python
 @property
@@ -164,7 +164,7 @@ def component_reference_attribute(
 
 <a id="unreal.PCGAddComponentSettings.component_reference_attribute"></a>
 
-#### component_reference_attribute
+#### component\_reference\_attribute
 
 ```python
 @component_reference_attribute.setter

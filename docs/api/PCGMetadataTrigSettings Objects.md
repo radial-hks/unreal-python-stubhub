@@ -58,7 +58,7 @@ def operation(value: PCGMetadataTrigOperation) -> None
 
 <a id="unreal.PCGMetadataTrigSettings.input_source1"></a>
 
-#### input_source1
+#### input\_source1
 
 ```python
 @property
@@ -69,7 +69,7 @@ def input_source1() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataTrigSettings.input_source1"></a>
 
-#### input_source1
+#### input\_source1
 
 ```python
 @input_source1.setter
@@ -78,7 +78,7 @@ def input_source1(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataTrigSettings.input_source2"></a>
 
-#### input_source2
+#### input\_source2
 
 ```python
 @property
@@ -89,7 +89,7 @@ def input_source2() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataTrigSettings.input_source2"></a>
 
-#### input_source2
+#### input\_source2
 
 ```python
 @input_source2.setter

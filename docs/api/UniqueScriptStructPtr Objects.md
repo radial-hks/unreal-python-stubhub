@@ -8,7 +8,7 @@ deprecated: 'UniqueScriptStructPtr' was renamed to 'InstancedStruct'.
 
 <a id="unreal.UniqueScriptStructPtr.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: int = 0) -> None

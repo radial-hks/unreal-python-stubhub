@@ -14,7 +14,7 @@ Rig Influence Map Per Event
 
 <a id="unreal.RigInfluenceMapPerEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

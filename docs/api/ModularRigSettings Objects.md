@@ -18,7 +18,7 @@ Modular Rig Settings
 
 <a id="unreal.ModularRigSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(auto_resolve: bool = False) -> None
@@ -26,7 +26,7 @@ def __init__(auto_resolve: bool = False) -> None
 
 <a id="unreal.ModularRigSettings.auto_resolve"></a>
 
-#### auto_resolve
+#### auto\_resolve
 
 ```python
 @property
@@ -37,7 +37,7 @@ def auto_resolve() -> bool
 
 <a id="unreal.ModularRigSettings.auto_resolve"></a>
 
-#### auto_resolve
+#### auto\_resolve
 
 ```python
 @auto_resolve.setter

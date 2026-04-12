@@ -19,7 +19,7 @@ Represents the appearance of synth UI elements in slate.
 
 <a id="unreal.SynthSlateStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -30,7 +30,7 @@ def __init__(
 
 <a id="unreal.SynthSlateStyle.size_type"></a>
 
-#### size_type
+#### size\_type
 
 ```python
 @property
@@ -41,7 +41,7 @@ def size_type() -> SynthSlateSizeType
 
 <a id="unreal.SynthSlateStyle.size_type"></a>
 
-#### size_type
+#### size\_type
 
 ```python
 @size_type.setter
@@ -50,7 +50,7 @@ def size_type(value: SynthSlateSizeType) -> None
 
 <a id="unreal.SynthSlateStyle.color_style"></a>
 
-#### color_style
+#### color\_style
 
 ```python
 @property
@@ -61,11 +61,11 @@ def color_style() -> SynthSlateColorStyle
 
 <a id="unreal.SynthSlateStyle.color_style"></a>
 
-#### color_style
+#### color\_style
 
 ```python
 @color_style.setter
 def color_style(value: SynthSlateColorStyle) -> None
 ```
 
-<a id="unreal.MotionTrajectorySettings"></a>
+<a id="unreal.IntMargin"></a>

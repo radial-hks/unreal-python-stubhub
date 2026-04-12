@@ -17,7 +17,7 @@ Button Widget Style
 
 <a id="unreal.ButtonWidgetStyle.button_style"></a>
 
-#### button_style
+#### button\_style
 
 ```python
 @property
@@ -28,7 +28,7 @@ def button_style() -> ButtonStyle
 
 <a id="unreal.ButtonWidgetStyle.button_style"></a>
 
-#### button_style
+#### button\_style
 
 ```python
 @button_style.setter

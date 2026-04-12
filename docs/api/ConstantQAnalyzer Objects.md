@@ -43,7 +43,7 @@ def settings(value: ConstantQSettings) -> None
 
 <a id="unreal.ConstantQAnalyzer.on_constant_q_results"></a>
 
-#### on_constant_q_results
+#### on\_constant\_q\_results
 
 ```python
 @property
@@ -54,7 +54,7 @@ def on_constant_q_results() -> OnConstantQResults
 
 <a id="unreal.ConstantQAnalyzer.on_constant_q_results"></a>
 
-#### on_constant_q_results
+#### on\_constant\_q\_results
 
 ```python
 @on_constant_q_results.setter
@@ -63,7 +63,7 @@ def on_constant_q_results(value: OnConstantQResults) -> None
 
 <a id="unreal.ConstantQAnalyzer.on_latest_constant_q_results"></a>
 
-#### on_latest_constant_q_results
+#### on\_latest\_constant\_q\_results
 
 ```python
 @property
@@ -74,7 +74,7 @@ def on_latest_constant_q_results() -> OnLatestConstantQResults
 
 <a id="unreal.ConstantQAnalyzer.on_latest_constant_q_results"></a>
 
-#### on_latest_constant_q_results
+#### on\_latest\_constant\_q\_results
 
 ```python
 @on_latest_constant_q_results.setter
@@ -83,7 +83,7 @@ def on_latest_constant_q_results(value: OnLatestConstantQResults) -> None
 
 <a id="unreal.ConstantQAnalyzer.get_num_center_frequencies"></a>
 
-#### get_num_center_frequencies
+#### get\_num\_center\_frequencies
 
 ```python
 def get_num_center_frequencies() -> int
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.ConstantQAnalyzer.get_center_frequencies"></a>
 
-#### get_center_frequencies
+#### get\_center\_frequencies
 
 ```python
 def get_center_frequencies() -> Array[float]

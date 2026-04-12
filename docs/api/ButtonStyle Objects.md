@@ -31,7 +31,7 @@ Represents the appearance of an SButton
 
 <a id="unreal.ButtonStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(normal: SlateBrush = [[[1.000000, 1.000000, 1.000000, 1.000000],
@@ -194,7 +194,7 @@ def disabled(value: SlateBrush) -> None
 
 <a id="unreal.ButtonStyle.normal_foreground"></a>
 
-#### normal_foreground
+#### normal\_foreground
 
 ```python
 @property
@@ -205,7 +205,7 @@ def normal_foreground() -> SlateColor
 
 <a id="unreal.ButtonStyle.normal_foreground"></a>
 
-#### normal_foreground
+#### normal\_foreground
 
 ```python
 @normal_foreground.setter
@@ -214,7 +214,7 @@ def normal_foreground(value: SlateColor) -> None
 
 <a id="unreal.ButtonStyle.hovered_foreground"></a>
 
-#### hovered_foreground
+#### hovered\_foreground
 
 ```python
 @property
@@ -225,7 +225,7 @@ def hovered_foreground() -> SlateColor
 
 <a id="unreal.ButtonStyle.hovered_foreground"></a>
 
-#### hovered_foreground
+#### hovered\_foreground
 
 ```python
 @hovered_foreground.setter
@@ -234,7 +234,7 @@ def hovered_foreground(value: SlateColor) -> None
 
 <a id="unreal.ButtonStyle.pressed_foreground"></a>
 
-#### pressed_foreground
+#### pressed\_foreground
 
 ```python
 @property
@@ -245,7 +245,7 @@ def pressed_foreground() -> SlateColor
 
 <a id="unreal.ButtonStyle.pressed_foreground"></a>
 
-#### pressed_foreground
+#### pressed\_foreground
 
 ```python
 @pressed_foreground.setter
@@ -254,7 +254,7 @@ def pressed_foreground(value: SlateColor) -> None
 
 <a id="unreal.ButtonStyle.disabled_foreground"></a>
 
-#### disabled_foreground
+#### disabled\_foreground
 
 ```python
 @property
@@ -265,7 +265,7 @@ def disabled_foreground() -> SlateColor
 
 <a id="unreal.ButtonStyle.disabled_foreground"></a>
 
-#### disabled_foreground
+#### disabled\_foreground
 
 ```python
 @disabled_foreground.setter
@@ -274,7 +274,7 @@ def disabled_foreground(value: SlateColor) -> None
 
 <a id="unreal.ButtonStyle.normal_padding"></a>
 
-#### normal_padding
+#### normal\_padding
 
 ```python
 @property
@@ -287,7 +287,7 @@ with the button's border. Use this padding when the button is not pressed.
 
 <a id="unreal.ButtonStyle.normal_padding"></a>
 
-#### normal_padding
+#### normal\_padding
 
 ```python
 @normal_padding.setter
@@ -296,7 +296,7 @@ def normal_padding(value: Margin) -> None
 
 <a id="unreal.ButtonStyle.pressed_padding"></a>
 
-#### pressed_padding
+#### pressed\_padding
 
 ```python
 @property
@@ -308,7 +308,7 @@ any "movement" in the button's border image.
 
 <a id="unreal.ButtonStyle.pressed_padding"></a>
 
-#### pressed_padding
+#### pressed\_padding
 
 ```python
 @pressed_padding.setter
@@ -317,7 +317,7 @@ def pressed_padding(value: Margin) -> None
 
 <a id="unreal.ButtonStyle.pressed_slate_sound"></a>
 
-#### pressed_slate_sound
+#### pressed\_slate\_sound
 
 ```python
 @property
@@ -328,7 +328,7 @@ def pressed_slate_sound() -> SlateSound
 
 <a id="unreal.ButtonStyle.pressed_slate_sound"></a>
 
-#### pressed_slate_sound
+#### pressed\_slate\_sound
 
 ```python
 @pressed_slate_sound.setter
@@ -337,7 +337,7 @@ def pressed_slate_sound(value: SlateSound) -> None
 
 <a id="unreal.ButtonStyle.hovered_slate_sound"></a>
 
-#### hovered_slate_sound
+#### hovered\_slate\_sound
 
 ```python
 @property
@@ -348,7 +348,7 @@ def hovered_slate_sound() -> SlateSound
 
 <a id="unreal.ButtonStyle.hovered_slate_sound"></a>
 
-#### hovered_slate_sound
+#### hovered\_slate\_sound
 
 ```python
 @hovered_slate_sound.setter

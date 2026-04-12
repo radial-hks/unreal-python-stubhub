@@ -20,7 +20,7 @@ Transport Time stamp, used for tracking the musical time stamp on a clock
 
 <a id="unreal.QuartzTransportTimeStamp.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bars: int = 0,
@@ -53,7 +53,7 @@ def beat() -> int
 
 <a id="unreal.QuartzTransportTimeStamp.beat_fraction"></a>
 
-#### beat_fraction
+#### beat\_fraction
 
 ```python
 @property

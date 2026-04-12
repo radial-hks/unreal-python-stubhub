@@ -26,7 +26,7 @@ Base class of shapes used for collision, such as Sphere, Box, Sphyl, Convex, Tap
 
 <a id="unreal.KShapeElem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

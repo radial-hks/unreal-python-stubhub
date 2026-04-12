@@ -27,7 +27,7 @@ Options controlling how collision shapes can be merged together
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -48,7 +48,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.max_shape_count"></a>
 
-#### max_shape_count
+#### max\_shape\_count
 
 ```python
 @property
@@ -59,7 +59,7 @@ def max_shape_count() -> int
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.max_shape_count"></a>
 
-#### max_shape_count
+#### max\_shape\_count
 
 ```python
 @max_shape_count.setter
@@ -68,7 +68,7 @@ def max_shape_count(value: int) -> None
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.error_tolerance"></a>
 
-#### error_tolerance
+#### error\_tolerance
 
 ```python
 @property
@@ -80,7 +80,7 @@ If merging two hulls would increase the volume by more than this ErrorTolerance 
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.error_tolerance"></a>
 
-#### error_tolerance
+#### error\_tolerance
 
 ```python
 @error_tolerance.setter
@@ -89,7 +89,7 @@ def error_tolerance(value: float) -> None
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.min_thickness_tolerance"></a>
 
-#### min_thickness_tolerance
+#### min\_thickness\_tolerance
 
 ```python
 @property
@@ -101,7 +101,7 @@ Note: Negative space, if set, will still prevent merges.
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.min_thickness_tolerance"></a>
 
-#### min_thickness_tolerance
+#### min\_thickness\_tolerance
 
 ```python
 @min_thickness_tolerance.setter
@@ -110,7 +110,7 @@ def min_thickness_tolerance(value: float) -> None
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.consider_all_possible_merges"></a>
 
-#### consider_all_possible_merges
+#### consider\_all\_possible\_merges
 
 ```python
 @property
@@ -121,7 +121,7 @@ def consider_all_possible_merges() -> bool
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.consider_all_possible_merges"></a>
 
-#### consider_all_possible_merges
+#### consider\_all\_possible\_merges
 
 ```python
 @consider_all_possible_merges.setter
@@ -130,7 +130,7 @@ def consider_all_possible_merges(value: bool) -> None
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.precomputed_negative_space"></a>
 
-#### precomputed_negative_space
+#### precomputed\_negative\_space
 
 ```python
 @property
@@ -141,7 +141,7 @@ def precomputed_negative_space() -> GeometryScriptSphereCovering
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.precomputed_negative_space"></a>
 
-#### precomputed_negative_space
+#### precomputed\_negative\_space
 
 ```python
 @precomputed_negative_space.setter
@@ -150,7 +150,7 @@ def precomputed_negative_space(value: GeometryScriptSphereCovering) -> None
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.compute_negative_space"></a>
 
-#### compute_negative_space
+#### compute\_negative\_space
 
 ```python
 @property
@@ -161,7 +161,7 @@ def compute_negative_space() -> bool
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.compute_negative_space"></a>
 
-#### compute_negative_space
+#### compute\_negative\_space
 
 ```python
 @compute_negative_space.setter
@@ -170,7 +170,7 @@ def compute_negative_space(value: bool) -> None
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.compute_negative_space_options"></a>
 
-#### compute_negative_space_options
+#### compute\_negative\_space\_options
 
 ```python
 @property
@@ -181,7 +181,7 @@ def compute_negative_space_options() -> ComputeNegativeSpaceOptions
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.compute_negative_space_options"></a>
 
-#### compute_negative_space_options
+#### compute\_negative\_space\_options
 
 ```python
 @compute_negative_space_options.setter
@@ -190,7 +190,7 @@ def compute_negative_space_options(value: ComputeNegativeSpaceOptions) -> None
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.shape_to_hull_triangulation"></a>
 
-#### shape_to_hull_triangulation
+#### shape\_to\_hull\_triangulation
 
 ```python
 @property
@@ -202,7 +202,7 @@ def shape_to_hull_triangulation(
 
 <a id="unreal.GeometryScriptMergeSimpleCollisionOptions.shape_to_hull_triangulation"></a>
 
-#### shape_to_hull_triangulation
+#### shape\_to\_hull\_triangulation
 
 ```python
 @shape_to_hull_triangulation.setter

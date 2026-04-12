@@ -19,7 +19,7 @@ Structure encapsulating a single bone animation track.
 
 <a id="unreal.BoneAnimationTrack.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(internal_track_data: RawAnimSequenceTrack = [],
@@ -29,7 +29,7 @@ def __init__(internal_track_data: RawAnimSequenceTrack = [],
 
 <a id="unreal.BoneAnimationTrack.internal_track_data"></a>
 
-#### internal_track_data
+#### internal\_track\_data
 
 ```python
 @property
@@ -40,7 +40,7 @@ def internal_track_data() -> RawAnimSequenceTrack
 
 <a id="unreal.BoneAnimationTrack.bone_tree_index"></a>
 
-#### bone_tree_index
+#### bone\_tree\_index
 
 ```python
 @property

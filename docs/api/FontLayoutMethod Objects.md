@@ -19,7 +19,7 @@ EFont Layout Method
 
 <a id="unreal.FontLayoutMethod.BOUNDING_BOX"></a>
 
-#### BOUNDING_BOX
+#### BOUNDING\_BOX
 
 1: Layout the font using the values from its bounding box. This typically yields a larger line height for fonts that have valid metrics, however it can also produce much better results for fonts that have broken or incorrect metrics.
 

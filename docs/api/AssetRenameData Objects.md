@@ -19,7 +19,7 @@ Asset Rename Data
 
 <a id="unreal.AssetRenameData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(asset: Object = None,
@@ -49,7 +49,7 @@ def asset(value: Object) -> None
 
 <a id="unreal.AssetRenameData.new_package_path"></a>
 
-#### new_package_path
+#### new\_package\_path
 
 ```python
 @property
@@ -60,7 +60,7 @@ def new_package_path() -> str
 
 <a id="unreal.AssetRenameData.new_package_path"></a>
 
-#### new_package_path
+#### new\_package\_path
 
 ```python
 @new_package_path.setter
@@ -69,7 +69,7 @@ def new_package_path(value: str) -> None
 
 <a id="unreal.AssetRenameData.new_name"></a>
 
-#### new_name
+#### new\_name
 
 ```python
 @property
@@ -80,7 +80,7 @@ def new_name() -> str
 
 <a id="unreal.AssetRenameData.new_name"></a>
 
-#### new_name
+#### new\_name
 
 ```python
 @new_name.setter

@@ -18,7 +18,7 @@ Anim Notify State
 
 <a id="unreal.AnimNotifyState.notify_color"></a>
 
-#### notify_color
+#### notify\_color
 
 ```python
 @property
@@ -29,7 +29,7 @@ def notify_color() -> Color
 
 <a id="unreal.AnimNotifyState.should_fire_in_editor"></a>
 
-#### should_fire_in_editor
+#### should\_fire\_in\_editor
 
 ```python
 @property
@@ -40,7 +40,7 @@ def should_fire_in_editor() -> bool
 
 <a id="unreal.AnimNotifyState.received_notify_tick"></a>
 
-#### received_notify_tick
+#### received\_notify\_tick
 
 ```python
 def received_notify_tick(mesh_comp: SkeletalMeshComponent,
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.AnimNotifyState.received_notify_end"></a>
 
-#### received_notify_end
+#### received\_notify\_end
 
 ```python
 def received_notify_end(mesh_comp: SkeletalMeshComponent,
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.AnimNotifyState.received_notify_begin"></a>
 
-#### received_notify_begin
+#### received\_notify\_begin
 
 ```python
 def received_notify_begin(mesh_comp: SkeletalMeshComponent,
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.AnimNotifyState.get_notify_name"></a>
 
-#### get_notify_name
+#### get\_notify\_name
 
 ```python
 def get_notify_name() -> str
@@ -119,7 +119,7 @@ Returns:
 
 <a id="unreal.AnimNotifyState.get_default_trigger_weight_threshold"></a>
 
-#### get_default_trigger_weight_threshold
+#### get\_default\_trigger\_weight\_threshold
 
 ```python
 def get_default_trigger_weight_threshold() -> float

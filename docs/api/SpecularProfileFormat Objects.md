@@ -13,13 +13,13 @@ List of niagara solvers
 
 <a id="unreal.SpecularProfileFormat.VIEW_LIGHT_VECTOR"></a>
 
-#### VIEW_LIGHT_VECTOR
+#### VIEW\_LIGHT\_VECTOR
 
 0
 
 <a id="unreal.SpecularProfileFormat.HALF_VECTOR"></a>
 
-#### HALF_VECTOR
+#### HALF\_VECTOR
 
 1
 

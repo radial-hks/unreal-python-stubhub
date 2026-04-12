@@ -210,7 +210,7 @@ Groom Component
 
 <a id="unreal.GroomComponent.groom_asset"></a>
 
-#### groom_asset
+#### groom\_asset
 
 ```python
 @property
@@ -221,7 +221,7 @@ def groom_asset() -> GroomAsset
 
 <a id="unreal.GroomComponent.groom_asset"></a>
 
-#### groom_asset
+#### groom\_asset
 
 ```python
 @groom_asset.setter
@@ -230,7 +230,7 @@ def groom_asset(value: GroomAsset) -> None
 
 <a id="unreal.GroomComponent.hair_strands_asset"></a>
 
-#### hair_strands_asset
+#### hair\_strands\_asset
 
 ```python
 @property
@@ -241,7 +241,7 @@ deprecated: 'hair_strands_asset' was renamed to 'groom_asset'.
 
 <a id="unreal.GroomComponent.hair_strands_asset"></a>
 
-#### hair_strands_asset
+#### hair\_strands\_asset
 
 ```python
 @hair_strands_asset.setter
@@ -250,7 +250,7 @@ def hair_strands_asset(value: GroomAsset) -> None
 
 <a id="unreal.GroomComponent.groom_cache"></a>
 
-#### groom_cache
+#### groom\_cache
 
 ```python
 @property
@@ -261,7 +261,7 @@ def groom_cache() -> GroomCache
 
 <a id="unreal.GroomComponent.groom_cache"></a>
 
-#### groom_cache
+#### groom\_cache
 
 ```python
 @groom_cache.setter
@@ -270,7 +270,7 @@ def groom_cache(value: GroomCache) -> None
 
 <a id="unreal.GroomComponent.binding_asset"></a>
 
-#### binding_asset
+#### binding\_asset
 
 ```python
 @property
@@ -281,7 +281,7 @@ def binding_asset() -> GroomBindingAsset
 
 <a id="unreal.GroomComponent.physics_asset"></a>
 
-#### physics_asset
+#### physics\_asset
 
 ```python
 @property
@@ -292,7 +292,7 @@ def physics_asset() -> PhysicsAsset
 
 <a id="unreal.GroomComponent.physics_asset"></a>
 
-#### physics_asset
+#### physics\_asset
 
 ```python
 @physics_asset.setter
@@ -301,7 +301,7 @@ def physics_asset(value: PhysicsAsset) -> None
 
 <a id="unreal.GroomComponent.simulation_settings"></a>
 
-#### simulation_settings
+#### simulation\_settings
 
 ```python
 @property
@@ -312,7 +312,7 @@ def simulation_settings() -> HairSimulationSettings
 
 <a id="unreal.GroomComponent.simulation_settings"></a>
 
-#### simulation_settings
+#### simulation\_settings
 
 ```python
 @simulation_settings.setter
@@ -321,7 +321,7 @@ def simulation_settings(value: HairSimulationSettings) -> None
 
 <a id="unreal.GroomComponent.mesh_deformer"></a>
 
-#### mesh_deformer
+#### mesh\_deformer
 
 ```python
 @property
@@ -332,7 +332,7 @@ def mesh_deformer() -> MeshDeformer
 
 <a id="unreal.GroomComponent.mesh_deformer_instance"></a>
 
-#### mesh_deformer_instance
+#### mesh\_deformer\_instance
 
 ```python
 @property
@@ -343,7 +343,7 @@ def mesh_deformer_instance() -> MeshDeformerInstance
 
 <a id="unreal.GroomComponent.mesh_deformer_instance_settings"></a>
 
-#### mesh_deformer_instance_settings
+#### mesh\_deformer\_instance\_settings
 
 ```python
 @property
@@ -354,7 +354,7 @@ def mesh_deformer_instance_settings() -> MeshDeformerInstanceSettings
 
 <a id="unreal.GroomComponent.attachment_name"></a>
 
-#### attachment_name
+#### attachment\_name
 
 ```python
 @property
@@ -365,7 +365,7 @@ def attachment_name() -> str
 
 <a id="unreal.GroomComponent.attachment_name"></a>
 
-#### attachment_name
+#### attachment\_name
 
 ```python
 @attachment_name.setter
@@ -374,7 +374,7 @@ def attachment_name(value: str) -> None
 
 <a id="unreal.GroomComponent.groom_groups_desc"></a>
 
-#### groom_groups_desc
+#### groom\_groups\_desc
 
 ```python
 @property
@@ -385,7 +385,7 @@ def groom_groups_desc() -> Array[HairGroupDesc]
 
 <a id="unreal.GroomComponent.groom_groups_desc"></a>
 
-#### groom_groups_desc
+#### groom\_groups\_desc
 
 ```python
 @groom_groups_desc.setter
@@ -394,7 +394,7 @@ def groom_groups_desc(value: Array[HairGroupDesc]) -> None
 
 <a id="unreal.GroomComponent.use_cards"></a>
 
-#### use_cards
+#### use\_cards
 
 ```python
 @property
@@ -405,7 +405,7 @@ def use_cards() -> bool
 
 <a id="unreal.GroomComponent.use_cards"></a>
 
-#### use_cards
+#### use\_cards
 
 ```python
 @use_cards.setter
@@ -414,7 +414,7 @@ def use_cards(value: bool) -> None
 
 <a id="unreal.GroomComponent.set_physics_asset"></a>
 
-#### set_physics_asset
+#### set\_physics\_asset
 
 ```python
 def set_physics_asset(physics_asset: PhysicsAsset) -> None
@@ -428,7 +428,7 @@ Args:
 
 <a id="unreal.GroomComponent.set_mesh_deformer"></a>
 
-#### set_mesh_deformer
+#### set\_mesh\_deformer
 
 ```python
 def set_mesh_deformer(mesh_deformer: MeshDeformer) -> None
@@ -442,7 +442,7 @@ Args:
 
 <a id="unreal.GroomComponent.set_hair_length_scale_enable"></a>
 
-#### set_hair_length_scale_enable
+#### set\_hair\_length\_scale\_enable
 
 ```python
 def set_hair_length_scale_enable(enable: bool) -> None
@@ -456,7 +456,7 @@ Args:
 
 <a id="unreal.GroomComponent.set_hair_length_scale"></a>
 
-#### set_hair_length_scale
+#### set\_hair\_length\_scale
 
 ```python
 def set_hair_length_scale(scale: float) -> None
@@ -470,7 +470,7 @@ Args:
 
 <a id="unreal.GroomComponent.set_groom_cache"></a>
 
-#### set_groom_cache
+#### set\_groom\_cache
 
 ```python
 def set_groom_cache(groom_cache: GroomCache) -> None
@@ -484,7 +484,7 @@ Args:
 
 <a id="unreal.GroomComponent.set_groom_asset"></a>
 
-#### set_groom_asset
+#### set\_groom\_asset
 
 ```python
 def set_groom_asset(asset: GroomAsset) -> None
@@ -498,7 +498,7 @@ Args:
 
 <a id="unreal.GroomComponent.set_enable_simulation"></a>
 
-#### set_enable_simulation
+#### set\_enable\_simulation
 
 ```python
 def set_enable_simulation(enable_simulation: bool) -> None
@@ -512,7 +512,7 @@ Args:
 
 <a id="unreal.GroomComponent.set_binding_asset"></a>
 
-#### set_binding_asset
+#### set\_binding\_asset
 
 ```python
 def set_binding_asset(binding: GroomBindingAsset) -> None
@@ -526,7 +526,7 @@ Args:
 
 <a id="unreal.GroomComponent.reset_simulation"></a>
 
-#### reset_simulation
+#### reset\_simulation
 
 ```python
 def reset_simulation() -> None
@@ -537,7 +537,7 @@ Reset the simulation, if enabled
 
 <a id="unreal.GroomComponent.reset_collision_components"></a>
 
-#### reset_collision_components
+#### reset\_collision\_components
 
 ```python
 def reset_collision_components() -> None
@@ -548,7 +548,7 @@ Reset the collision components
 
 <a id="unreal.GroomComponent.get_niagara_component"></a>
 
-#### get_niagara_component
+#### get\_niagara\_component
 
 ```python
 def get_niagara_component(group_index: int) -> NiagaraComponent
@@ -565,7 +565,7 @@ Returns:
 
 <a id="unreal.GroomComponent.get_is_hair_length_scale_enabled"></a>
 
-#### get_is_hair_length_scale_enabled
+#### get\_is\_hair\_length\_scale\_enabled
 
 ```python
 def get_is_hair_length_scale_enabled() -> bool
@@ -579,7 +579,7 @@ Returns:
 
 <a id="unreal.GroomComponent.add_collision_component"></a>
 
-#### add_collision_component
+#### add\_collision\_component
 
 ```python
 def add_collision_component(

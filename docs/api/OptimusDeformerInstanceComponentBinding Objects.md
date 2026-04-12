@@ -20,7 +20,7 @@ the actor whose deformable component we're bound to.
 
 <a id="unreal.OptimusDeformerInstanceComponentBinding.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

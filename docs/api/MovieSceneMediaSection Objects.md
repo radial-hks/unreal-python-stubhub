@@ -38,7 +38,7 @@ Implements a movie scene section for media playback.
 
 <a id="unreal.MovieSceneMediaSection.media_source"></a>
 
-#### media_source
+#### media\_source
 
 ```python
 @property
@@ -49,7 +49,7 @@ def media_source() -> MediaSource
 
 <a id="unreal.MovieSceneMediaSection.media_source"></a>
 
-#### media_source
+#### media\_source
 
 ```python
 @media_source.setter
@@ -58,7 +58,7 @@ def media_source(value: MediaSource) -> None
 
 <a id="unreal.MovieSceneMediaSection.media_source_proxy_index"></a>
 
-#### media_source_proxy_index
+#### media\_source\_proxy\_index
 
 ```python
 @property
@@ -69,7 +69,7 @@ def media_source_proxy_index() -> int
 
 <a id="unreal.MovieSceneMediaSection.media_source_proxy_index"></a>
 
-#### media_source_proxy_index
+#### media\_source\_proxy\_index
 
 ```python
 @media_source_proxy_index.setter
@@ -98,7 +98,7 @@ def looping(value: bool) -> None
 
 <a id="unreal.MovieSceneMediaSection.start_frame_offset"></a>
 
-#### start_frame_offset
+#### start\_frame\_offset
 
 ```python
 @property
@@ -109,7 +109,7 @@ def start_frame_offset() -> FrameNumber
 
 <a id="unreal.MovieSceneMediaSection.start_frame_offset"></a>
 
-#### start_frame_offset
+#### start\_frame\_offset
 
 ```python
 @start_frame_offset.setter
@@ -118,7 +118,7 @@ def start_frame_offset(value: FrameNumber) -> None
 
 <a id="unreal.MovieSceneMediaSection.media_texture"></a>
 
-#### media_texture
+#### media\_texture
 
 ```python
 @property
@@ -129,7 +129,7 @@ def media_texture() -> MediaTexture
 
 <a id="unreal.MovieSceneMediaSection.media_texture"></a>
 
-#### media_texture
+#### media\_texture
 
 ```python
 @media_texture.setter
@@ -138,7 +138,7 @@ def media_texture(value: MediaTexture) -> None
 
 <a id="unreal.MovieSceneMediaSection.media_sound_component"></a>
 
-#### media_sound_component
+#### media\_sound\_component
 
 ```python
 @property
@@ -149,7 +149,7 @@ def media_sound_component() -> MediaSoundComponent
 
 <a id="unreal.MovieSceneMediaSection.media_sound_component"></a>
 
-#### media_sound_component
+#### media\_sound\_component
 
 ```python
 @media_sound_component.setter
@@ -158,7 +158,7 @@ def media_sound_component(value: MediaSoundComponent) -> None
 
 <a id="unreal.MovieSceneMediaSection.use_external_media_player"></a>
 
-#### use_external_media_player
+#### use\_external\_media\_player
 
 ```python
 @property
@@ -169,7 +169,7 @@ def use_external_media_player() -> bool
 
 <a id="unreal.MovieSceneMediaSection.use_external_media_player"></a>
 
-#### use_external_media_player
+#### use\_external\_media\_player
 
 ```python
 @use_external_media_player.setter
@@ -178,7 +178,7 @@ def use_external_media_player(value: bool) -> None
 
 <a id="unreal.MovieSceneMediaSection.external_media_player"></a>
 
-#### external_media_player
+#### external\_media\_player
 
 ```python
 @property
@@ -189,7 +189,7 @@ def external_media_player() -> MediaPlayer
 
 <a id="unreal.MovieSceneMediaSection.external_media_player"></a>
 
-#### external_media_player
+#### external\_media\_player
 
 ```python
 @external_media_player.setter
@@ -198,7 +198,7 @@ def external_media_player(value: MediaPlayer) -> None
 
 <a id="unreal.MovieSceneMediaSection.cache_settings"></a>
 
-#### cache_settings
+#### cache\_settings
 
 ```python
 @property
@@ -209,7 +209,7 @@ def cache_settings() -> MediaSourceCacheSettings
 
 <a id="unreal.MovieSceneMediaSection.cache_settings"></a>
 
-#### cache_settings
+#### cache\_settings
 
 ```python
 @cache_settings.setter
@@ -218,7 +218,7 @@ def cache_settings(value: MediaSourceCacheSettings) -> None
 
 <a id="unreal.MovieSceneMediaSection.texture_index"></a>
 
-#### texture_index
+#### texture\_index
 
 ```python
 @property
@@ -229,7 +229,7 @@ def texture_index() -> int
 
 <a id="unreal.MovieSceneMediaSection.texture_index"></a>
 
-#### texture_index
+#### texture\_index
 
 ```python
 @texture_index.setter

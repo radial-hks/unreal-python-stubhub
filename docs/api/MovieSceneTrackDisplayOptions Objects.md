@@ -17,7 +17,7 @@ Generic display options for any track
 
 <a id="unreal.MovieSceneTrackDisplayOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

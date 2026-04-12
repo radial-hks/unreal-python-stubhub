@@ -28,7 +28,7 @@ Rig VMGraph Function Header
 
 <a id="unreal.RigVMGraphFunctionHeader.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(library_pointer: RigVMGraphFunctionIdentifier = [[""]],
@@ -46,7 +46,7 @@ def __init__(library_pointer: RigVMGraphFunctionIdentifier = [[""]],
 
 <a id="unreal.RigVMGraphFunctionHeader.library_pointer"></a>
 
-#### library_pointer
+#### library\_pointer
 
 ```python
 @property
@@ -79,7 +79,7 @@ def name() -> Name
 
 <a id="unreal.RigVMGraphFunctionHeader.node_title"></a>
 
-#### node_title
+#### node\_title
 
 ```python
 @property
@@ -90,7 +90,7 @@ def node_title() -> str
 
 <a id="unreal.RigVMGraphFunctionHeader.node_color"></a>
 
-#### node_color
+#### node\_color
 
 ```python
 @property

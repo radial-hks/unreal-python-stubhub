@@ -20,7 +20,7 @@ Material Expression Substrate Eye BSDF
 
 <a id="unreal.MaterialExpressionSubstrateEyeBSDF.subsurface_profile"></a>
 
-#### subsurface_profile
+#### subsurface\_profile
 
 ```python
 @property

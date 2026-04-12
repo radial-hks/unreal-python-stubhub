@@ -148,7 +148,7 @@ Landmass Erosion Brush Base
 
 <a id="unreal.LandmassErosionBrushBase.set_target_landscape"></a>
 
-#### set_target_landscape
+#### set\_target\_landscape
 
 ```python
 def set_target_landscape(owning_landscape: Landscape) -> None
@@ -163,7 +163,7 @@ Args:
 
 <a id="unreal.LandmassErosionBrushBase.get_landscape"></a>
 
-#### get_landscape
+#### get\_landscape
 
 ```python
 def get_landscape() -> Landscape
@@ -177,7 +177,7 @@ Returns:
 
 <a id="unreal.LandmassErosionBrushBase.actor_selection_changed"></a>
 
-#### actor_selection_changed
+#### actor\_selection\_changed
 
 ```python
 def actor_selection_changed(selected: bool) -> None

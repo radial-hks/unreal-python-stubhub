@@ -13,7 +13,7 @@ EXRTracked Device Type
 
 <a id="unreal.XRTrackedDeviceType.HEAD_MOUNTED_DISPLAY"></a>
 
-#### HEAD_MOUNTED_DISPLAY
+#### HEAD\_MOUNTED\_DISPLAY
 
 0: Represents a head mounted display
 
@@ -25,7 +25,7 @@ EXRTracked Device Type
 
 <a id="unreal.XRTrackedDeviceType.TRACKING_REFERENCE"></a>
 
-#### TRACKING_REFERENCE
+#### TRACKING\_REFERENCE
 
 2: Represents a static tracking reference device, such as a Lighthouse or tracking camera
 

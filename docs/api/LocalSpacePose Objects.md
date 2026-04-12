@@ -18,7 +18,7 @@ A pose in local space (i.e. each transform is relative to its parent)
 
 <a id="unreal.LocalSpacePose.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(transforms: Array[Transform] = [],

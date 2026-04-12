@@ -14,7 +14,7 @@ Encapsulate ability to batch duplicate and retarget a set of animation assets
 
 <a id="unreal.IKRetargetBatchOperation.duplicate_and_retarget"></a>
 
-#### duplicate_and_retarget
+#### duplicate\_and\_retarget
 
 ```python
 @classmethod

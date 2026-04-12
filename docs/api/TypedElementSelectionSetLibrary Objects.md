@@ -15,7 +15,7 @@ Note: These functions should only be used for scripting purposes only as they co
 
 <a id="unreal.TypedElementSelectionSetLibrary.set_selection_from_list"></a>
 
-#### set_selection_from_list
+#### set\_selection\_from\_list
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSetLibrary.select_elements_from_list"></a>
 
-#### select_elements_from_list
+#### select\_elements\_from\_list
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSetLibrary.get_normalized_selection"></a>
 
-#### get_normalized_selection
+#### get\_normalized\_selection
 
 ```python
 @classmethod
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSetLibrary.get_normalized_element_list"></a>
 
-#### get_normalized_element_list
+#### get\_normalized\_element\_list
 
 ```python
 @classmethod
@@ -110,7 +110,7 @@ Returns:
 
 <a id="unreal.TypedElementSelectionSetLibrary.deselect_elements_from_list"></a>
 
-#### deselect_elements_from_list
+#### deselect\_elements\_from\_list
 
 ```python
 @classmethod

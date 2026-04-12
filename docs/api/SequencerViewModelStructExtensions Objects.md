@@ -13,7 +13,7 @@ Function library containing methods that should be hoisted onto FSequencerScript
 
 <a id="unreal.SequencerViewModelStructExtensions.get_path"></a>
 
-#### get_path
+#### get\_path
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.SequencerViewModelStructExtensions.get_label"></a>
 
-#### get_label
+#### get\_label
 
 ```python
 @classmethod

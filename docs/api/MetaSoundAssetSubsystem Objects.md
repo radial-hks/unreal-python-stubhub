@@ -14,7 +14,7 @@ namespace Metasound::Engine
 
 <a id="unreal.MetaSoundAssetSubsystem.unregister_asset_classes_in_directories"></a>
 
-#### unregister_asset_classes_in_directories
+#### unregister\_asset\_classes\_in\_directories
 
 ```python
 def unregister_asset_classes_in_directories(
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.MetaSoundAssetSubsystem.replace_references_in_directory"></a>
 
-#### replace_references_in_directory
+#### replace\_references\_in\_directory
 
 ```python
 def replace_references_in_directory(
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.MetaSoundAssetSubsystem.register_asset_classes_in_directories"></a>
 
-#### register_asset_classes_in_directories
+#### register\_asset\_classes\_in\_directories
 
 ```python
 def register_asset_classes_in_directories(
@@ -72,7 +72,7 @@ Args:
 
 <a id="unreal.MetaSoundAssetSubsystem.reassign_class_name"></a>
 
-#### reassign_class_name
+#### reassign\_class\_name
 
 ```python
 def reassign_class_name(doc_interface: MetaSoundDocumentInterface) -> bool

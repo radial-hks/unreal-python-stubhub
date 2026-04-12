@@ -20,7 +20,7 @@ Geometry Script Snap Boundaries Options
 
 <a id="unreal.GeometryScriptSnapBoundariesOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tolerance: float = 0.000000,
@@ -50,7 +50,7 @@ def tolerance(value: float) -> None
 
 <a id="unreal.GeometryScriptSnapBoundariesOptions.snap_to_edges"></a>
 
-#### snap_to_edges
+#### snap\_to\_edges
 
 ```python
 @property
@@ -61,7 +61,7 @@ def snap_to_edges() -> bool
 
 <a id="unreal.GeometryScriptSnapBoundariesOptions.snap_to_edges"></a>
 
-#### snap_to_edges
+#### snap\_to\_edges
 
 ```python
 @snap_to_edges.setter
@@ -70,7 +70,7 @@ def snap_to_edges(value: bool) -> None
 
 <a id="unreal.GeometryScriptSnapBoundariesOptions.max_iterations"></a>
 
-#### max_iterations
+#### max\_iterations
 
 ```python
 @property
@@ -81,7 +81,7 @@ def max_iterations() -> int
 
 <a id="unreal.GeometryScriptSnapBoundariesOptions.max_iterations"></a>
 
-#### max_iterations
+#### max\_iterations
 
 ```python
 @max_iterations.setter

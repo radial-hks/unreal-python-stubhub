@@ -21,7 +21,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Quat.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: float = 0.000000,
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.Quat.interp_spring_to"></a>
 
-#### interp_spring_to
+#### interp\_spring\_to
 
 ```python
 def interp_spring_to(
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.Quat.vector_up"></a>
 
-#### vector_up
+#### vector\_up
 
 ```python
 def vector_up() -> Vector
@@ -178,7 +178,7 @@ Returns:
 
 <a id="unreal.Quat.vector_right"></a>
 
-#### vector_right
+#### vector\_right
 
 ```python
 def vector_right() -> Vector
@@ -192,7 +192,7 @@ Returns:
 
 <a id="unreal.Quat.vector_forward"></a>
 
-#### vector_forward
+#### vector\_forward
 
 ```python
 def vector_forward() -> Vector
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.Quat.unrotate_vector"></a>
 
-#### unrotate_vector
+#### unrotate\_vector
 
 ```python
 def unrotate_vector(v: Vector) -> Vector
@@ -223,7 +223,7 @@ Returns:
 
 <a id="unreal.Quat.slerp_quat"></a>
 
-#### slerp_quat
+#### slerp\_quat
 
 ```python
 def slerp_quat(b: Quat, alpha: float) -> Quat
@@ -241,7 +241,7 @@ Returns:
 
 <a id="unreal.Quat.size_squared"></a>
 
-#### size_squared
+#### size\_squared
 
 ```python
 def size_squared() -> float
@@ -269,7 +269,7 @@ Returns:
 
 <a id="unreal.Quat.set_from_euler"></a>
 
-#### set_from_euler
+#### set\_from\_euler
 
 ```python
 def set_from_euler(euler: Vector) -> None
@@ -283,7 +283,7 @@ Args:
 
 <a id="unreal.Quat.set_components"></a>
 
-#### set_components
+#### set\_components
 
 ```python
 def set_components(x: float, y: float, z: float, w: float) -> None
@@ -314,7 +314,7 @@ Returns:
 
 <a id="unreal.Quat.rotate_vector"></a>
 
-#### rotate_vector
+#### rotate\_vector
 
 ```python
 def rotate_vector(v: Vector) -> Vector
@@ -378,7 +378,7 @@ Returns:
 
 <a id="unreal.Quat.is_normalized"></a>
 
-#### is_normalized
+#### is\_normalized
 
 ```python
 def is_normalized() -> bool
@@ -392,7 +392,7 @@ Returns:
 
 <a id="unreal.Quat.is_non_finite"></a>
 
-#### is_non_finite
+#### is\_non\_finite
 
 ```python
 def is_non_finite() -> bool
@@ -406,7 +406,7 @@ Returns:
 
 <a id="unreal.Quat.is_identity"></a>
 
-#### is_identity
+#### is\_identity
 
 ```python
 def is_identity(tolerance: float = 0.000100) -> bool
@@ -424,7 +424,7 @@ Returns:
 
 <a id="unreal.Quat.is_finite"></a>
 
-#### is_finite
+#### is\_finite
 
 ```python
 def is_finite() -> bool
@@ -452,7 +452,7 @@ Returns:
 
 <a id="unreal.Quat.get_rotation_axis"></a>
 
-#### get_rotation_axis
+#### get\_rotation\_axis
 
 ```python
 def get_rotation_axis() -> Vector
@@ -468,7 +468,7 @@ Returns:
 
 <a id="unreal.Quat.get_axis_z"></a>
 
-#### get_axis_z
+#### get\_axis\_z
 
 ```python
 def get_axis_z() -> Vector
@@ -482,7 +482,7 @@ Returns:
 
 <a id="unreal.Quat.get_axis_y"></a>
 
-#### get_axis_y
+#### get\_axis\_y
 
 ```python
 def get_axis_y() -> Vector
@@ -496,7 +496,7 @@ Returns:
 
 <a id="unreal.Quat.get_axis_x"></a>
 
-#### get_axis_x
+#### get\_axis\_x
 
 ```python
 def get_axis_x() -> Vector
@@ -510,7 +510,7 @@ Returns:
 
 <a id="unreal.Quat.get_angle"></a>
 
-#### get_angle
+#### get\_angle
 
 ```python
 def get_angle() -> float
@@ -554,7 +554,7 @@ Returns:
 
 <a id="unreal.Quat.ensure_shortest_arc_to"></a>
 
-#### ensure_shortest_arc_to
+#### ensure\_shortest\_arc\_to
 
 ```python
 def ensure_shortest_arc_to(b: Quat) -> None
@@ -568,7 +568,7 @@ Args:
 
 <a id="unreal.Quat.angular_distance"></a>
 
-#### angular_distance
+#### angular\_distance
 
 ```python
 def angular_distance(b: Quat) -> float
@@ -585,7 +585,7 @@ Returns:
 
 <a id="unreal.Quat.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 def not_equal(b: Quat, error_tolerance: float = 0.000100) -> bool
@@ -658,7 +658,7 @@ Returns:
 
 <a id="unreal.Quat.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -670,7 +670,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.Quat.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool
@@ -682,7 +682,7 @@ def __ne__(other: object) -> bool
 
 <a id="unreal.Quat.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: Quat) -> None
@@ -694,7 +694,7 @@ def __add__(other: Quat) -> None
 
 <a id="unreal.Quat.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: Quat) -> None
@@ -706,7 +706,7 @@ def __iadd__(other: Quat) -> None
 
 <a id="unreal.Quat.__sub__"></a>
 
-#### __sub__
+#### \_\_sub\_\_
 
 ```python
 def __sub__(other: Quat) -> None
@@ -718,7 +718,7 @@ def __sub__(other: Quat) -> None
 
 <a id="unreal.Quat.__isub__"></a>
 
-#### __isub__
+#### \_\_isub\_\_
 
 ```python
 def __isub__(other: Quat) -> None
@@ -730,7 +730,7 @@ def __isub__(other: Quat) -> None
 
 <a id="unreal.Quat.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: Quat) -> None
@@ -748,7 +748,7 @@ def __mul__(other: Quat) -> None
 
 <a id="unreal.Quat.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: Quat) -> None

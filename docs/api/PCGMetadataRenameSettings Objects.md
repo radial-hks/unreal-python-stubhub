@@ -35,7 +35,7 @@ PCGMetadata Rename Settings
 
 <a id="unreal.PCGMetadataRenameSettings.attribute_to_rename"></a>
 
-#### attribute_to_rename
+#### attribute\_to\_rename
 
 ```python
 @property
@@ -46,7 +46,7 @@ def attribute_to_rename() -> Name
 
 <a id="unreal.PCGMetadataRenameSettings.attribute_to_rename"></a>
 
-#### attribute_to_rename
+#### attribute\_to\_rename
 
 ```python
 @attribute_to_rename.setter
@@ -55,7 +55,7 @@ def attribute_to_rename(value: Name) -> None
 
 <a id="unreal.PCGMetadataRenameSettings.new_attribute_name"></a>
 
-#### new_attribute_name
+#### new\_attribute\_name
 
 ```python
 @property
@@ -66,7 +66,7 @@ def new_attribute_name() -> Name
 
 <a id="unreal.PCGMetadataRenameSettings.new_attribute_name"></a>
 
-#### new_attribute_name
+#### new\_attribute\_name
 
 ```python
 @new_attribute_name.setter

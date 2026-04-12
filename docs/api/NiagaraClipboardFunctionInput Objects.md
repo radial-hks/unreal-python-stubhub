@@ -12,4 +12,4 @@ Niagara Clipboard Function Input
 - **Module**: NiagaraEditor
 - **File**: NiagaraClipboard.h
 
-<a id="unreal.UserDefinedStruct"></a>
+<a id="unreal.UserDefinedEnum"></a>

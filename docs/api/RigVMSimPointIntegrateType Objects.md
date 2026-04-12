@@ -20,7 +20,7 @@ ERig VMSim Point Integrate Type
 
 <a id="unreal.RigVMSimPointIntegrateType.SEMI_EXPLICIT_EULER"></a>
 
-#### SEMI_EXPLICIT_EULER
+#### SEMI\_EXPLICIT\_EULER
 
 1
 

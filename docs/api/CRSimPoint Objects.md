@@ -8,7 +8,7 @@ deprecated: 'CRSimPoint' was renamed to 'RigVMSimPoint'.
 
 <a id="unreal.CRSimPoint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

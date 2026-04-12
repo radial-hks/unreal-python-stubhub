@@ -20,7 +20,7 @@ Media Metadata Item BPT
 
 <a id="unreal.MediaMetadataItemBPT.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(language_code: str = "",
@@ -31,7 +31,7 @@ def __init__(language_code: str = "",
 
 <a id="unreal.MediaMetadataItemBPT.language_code"></a>
 
-#### language_code
+#### language\_code
 
 ```python
 @property
@@ -42,7 +42,7 @@ def language_code() -> str
 
 <a id="unreal.MediaMetadataItemBPT.mime_type"></a>
 
-#### mime_type
+#### mime\_type
 
 ```python
 @property
@@ -53,7 +53,7 @@ def mime_type() -> str
 
 <a id="unreal.MediaMetadataItemBPT.string_data"></a>
 
-#### string_data
+#### string\_data
 
 ```python
 @property
@@ -64,7 +64,7 @@ def string_data() -> str
 
 <a id="unreal.MediaMetadataItemBPT.binary_data"></a>
 
-#### binary_data
+#### binary\_data
 
 ```python
 @property

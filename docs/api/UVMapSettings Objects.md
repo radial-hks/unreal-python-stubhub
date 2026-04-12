@@ -21,7 +21,7 @@ UV map generation settings that are exposed to the user for scripting and throug
 
 <a id="unreal.UVMapSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(size: Vector = [0.000000, 0.000000, 0.000000],
@@ -53,7 +53,7 @@ def size(value: Vector) -> None
 
 <a id="unreal.UVMapSettings.uv_tile"></a>
 
-#### uv_tile
+#### uv\_tile
 
 ```python
 @property
@@ -64,7 +64,7 @@ def uv_tile() -> Vector2D
 
 <a id="unreal.UVMapSettings.uv_tile"></a>
 
-#### uv_tile
+#### uv\_tile
 
 ```python
 @uv_tile.setter

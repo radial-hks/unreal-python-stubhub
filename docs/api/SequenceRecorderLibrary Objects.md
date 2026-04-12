@@ -13,7 +13,7 @@ Sequence Recorder Blueprint Library
 
 <a id="unreal.SequenceRecorderLibrary.stop_recording_sequence"></a>
 
-#### stop_recording_sequence
+#### stop\_recording\_sequence
 
 ```python
 @classmethod
@@ -25,7 +25,7 @@ Stop recording the current sequence, if any
 
 <a id="unreal.SequenceRecorderLibrary.start_recording_sequence"></a>
 
-#### start_recording_sequence
+#### start\_recording\_sequence
 
 ```python
 @classmethod
@@ -40,7 +40,7 @@ Args:
 
 <a id="unreal.SequenceRecorderLibrary.is_recording_sequence"></a>
 
-#### is_recording_sequence
+#### is\_recording\_sequence
 
 ```python
 @classmethod

@@ -18,7 +18,7 @@ Live Link Subject Representation
 
 <a id="unreal.LiveLinkSubjectRepresentation.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(subject: LiveLinkSubjectName = ["None"],

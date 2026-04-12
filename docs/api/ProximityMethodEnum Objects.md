@@ -14,13 +14,13 @@ EProximity Method Enum
 
 <a id="unreal.ProximityMethodEnum.DATAFLOW_PROXIMITY_METHOD_PRECISE"></a>
 
-#### DATAFLOW_PROXIMITY_METHOD_PRECISE
+#### DATAFLOW\_PROXIMITY\_METHOD\_PRECISE
 
 0: Precise proximity mode looks for geometry with touching vertices or touching, coplanar, opposite - facing triangles.This works well with geometry fractured using our fracture tools.
 
 <a id="unreal.ProximityMethodEnum.DATAFLOW_PROXIMITY_METHOD_CONVEX_HULL"></a>
 
-#### DATAFLOW_PROXIMITY_METHOD_CONVEX_HULL
+#### DATAFLOW\_PROXIMITY\_METHOD\_CONVEX\_HULL
 
 1: Convex Hull proximity mode looks for geometry with overlapping convex hulls(with an optional offset)
 

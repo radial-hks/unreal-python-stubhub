@@ -25,7 +25,7 @@ Type of fade to use when adjusting the audio component's volume.
 
 <a id="unreal.AudioFaderCurve.S_CURVE"></a>
 
-#### S_CURVE
+#### S\_CURVE
 
 2: S-Curve, Sinusoidal Fade
 

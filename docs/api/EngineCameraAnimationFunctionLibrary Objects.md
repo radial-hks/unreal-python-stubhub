@@ -15,7 +15,7 @@ This prevents breaking Blueprints now that APlayerCameraManager::StartCameraShak
 
 <a id="unreal.EngineCameraAnimationFunctionLibrary.conv_camera_shake_play_space"></a>
 
-#### conv_camera_shake_play_space
+#### conv\_camera\_shake\_play\_space
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.EngineCameraAnimationFunctionLibrary.conv_camera_animation_play_space"></a>
 
-#### conv_camera_animation_play_space
+#### conv\_camera\_animation\_play\_space
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.EngineCameraAnimationFunctionLibrary.conv_camera_animation_camera_modifier"></a>
 
-#### conv_camera_animation_camera_modifier
+#### conv\_camera\_animation\_camera\_modifier
 
 ```python
 @classmethod

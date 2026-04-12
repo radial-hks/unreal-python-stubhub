@@ -20,13 +20,13 @@ ESet Resolution Method
 
 <a id="unreal.SetResolutionMethod.MAX_AXIS"></a>
 
-#### MAX_AXIS
+#### MAX\_AXIS
 
 1
 
 <a id="unreal.SetResolutionMethod.CELL_SIZE"></a>
 
-#### CELL_SIZE
+#### CELL\_SIZE
 
 2
 

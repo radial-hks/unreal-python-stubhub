@@ -14,7 +14,7 @@ C++ and Blueprint library for accessing array types
 
 <a id="unreal.NiagaraDIRigidMeshCollisionFunctionLibrary.set_source_actors"></a>
 
-#### set_source_actors
+#### set\_source\_actors
 
 ```python
 @classmethod

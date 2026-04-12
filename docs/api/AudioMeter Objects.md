@@ -66,7 +66,7 @@ Internal values are stored and interacted with as linear volume values.
 
 <a id="unreal.AudioMeter.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -77,7 +77,7 @@ def widget_style() -> AudioMeterStyle
 
 <a id="unreal.AudioMeter.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -97,7 +97,7 @@ def orientation() -> Orientation
 
 <a id="unreal.AudioMeter.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @property
@@ -108,7 +108,7 @@ def background_color() -> LinearColor
 
 <a id="unreal.AudioMeter.meter_background_color"></a>
 
-#### meter_background_color
+#### meter\_background\_color
 
 ```python
 @property
@@ -119,7 +119,7 @@ def meter_background_color() -> LinearColor
 
 <a id="unreal.AudioMeter.meter_value_color"></a>
 
-#### meter_value_color
+#### meter\_value\_color
 
 ```python
 @property
@@ -130,7 +130,7 @@ def meter_value_color() -> LinearColor
 
 <a id="unreal.AudioMeter.meter_peak_color"></a>
 
-#### meter_peak_color
+#### meter\_peak\_color
 
 ```python
 @property
@@ -141,7 +141,7 @@ def meter_peak_color() -> LinearColor
 
 <a id="unreal.AudioMeter.meter_clipping_color"></a>
 
-#### meter_clipping_color
+#### meter\_clipping\_color
 
 ```python
 @property
@@ -152,7 +152,7 @@ def meter_clipping_color() -> LinearColor
 
 <a id="unreal.AudioMeter.meter_scale_color"></a>
 
-#### meter_scale_color
+#### meter\_scale\_color
 
 ```python
 @property
@@ -163,7 +163,7 @@ def meter_scale_color() -> LinearColor
 
 <a id="unreal.AudioMeter.meter_scale_label_color"></a>
 
-#### meter_scale_label_color
+#### meter\_scale\_label\_color
 
 ```python
 @property
@@ -174,7 +174,7 @@ def meter_scale_label_color() -> LinearColor
 
 <a id="unreal.AudioMeter.set_meter_value_color"></a>
 
-#### set_meter_value_color
+#### set\_meter\_value\_color
 
 ```python
 def set_meter_value_color(value: LinearColor) -> None
@@ -188,7 +188,7 @@ Args:
 
 <a id="unreal.AudioMeter.set_meter_scale_label_color"></a>
 
-#### set_meter_scale_label_color
+#### set\_meter\_scale\_label\_color
 
 ```python
 def set_meter_scale_label_color(value: LinearColor) -> None
@@ -202,7 +202,7 @@ Args:
 
 <a id="unreal.AudioMeter.set_meter_scale_color"></a>
 
-#### set_meter_scale_color
+#### set\_meter\_scale\_color
 
 ```python
 def set_meter_scale_color(value: LinearColor) -> None
@@ -216,7 +216,7 @@ Args:
 
 <a id="unreal.AudioMeter.set_meter_peak_color"></a>
 
-#### set_meter_peak_color
+#### set\_meter\_peak\_color
 
 ```python
 def set_meter_peak_color(value: LinearColor) -> None
@@ -230,7 +230,7 @@ Args:
 
 <a id="unreal.AudioMeter.set_meter_clipping_color"></a>
 
-#### set_meter_clipping_color
+#### set\_meter\_clipping\_color
 
 ```python
 def set_meter_clipping_color(value: LinearColor) -> None
@@ -244,7 +244,7 @@ Args:
 
 <a id="unreal.AudioMeter.set_meter_channel_info"></a>
 
-#### set_meter_channel_info
+#### set\_meter\_channel\_info
 
 ```python
 def set_meter_channel_info(
@@ -259,7 +259,7 @@ Args:
 
 <a id="unreal.AudioMeter.set_meter_background_color"></a>
 
-#### set_meter_background_color
+#### set\_meter\_background\_color
 
 ```python
 def set_meter_background_color(value: LinearColor) -> None
@@ -273,7 +273,7 @@ Args:
 
 <a id="unreal.AudioMeter.set_background_color"></a>
 
-#### set_background_color
+#### set\_background\_color
 
 ```python
 def set_background_color(value: LinearColor) -> None
@@ -287,7 +287,7 @@ Args:
 
 <a id="unreal.AudioMeter.get_meter_channel_info"></a>
 
-#### get_meter_channel_info
+#### get\_meter\_channel\_info
 
 ```python
 def get_meter_channel_info() -> Array[MeterChannelInfo]

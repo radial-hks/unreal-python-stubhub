@@ -14,7 +14,7 @@ Function library containing methods for interacting with editor layers
 
 <a id="unreal.LayersBlueprintLibrary.remove_actor_from_layer"></a>
 
-#### remove_actor_from_layer
+#### remove\_actor\_from\_layer
 
 ```python
 @classmethod
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.LayersBlueprintLibrary.get_actors"></a>
 
-#### get_actors
+#### get\_actors
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.LayersBlueprintLibrary.add_actor_to_layer"></a>
 
-#### add_actor_to_layer
+#### add\_actor\_to\_layer
 
 ```python
 @classmethod
@@ -64,4 +64,4 @@ Args:
     actor (Actor): 
     layer (ActorLayer):
 
-<a id="unreal.DisplayClusterConfigurationData_Base"></a>
+<a id="unreal.AndroidPermissionCallbackProxy"></a>

@@ -13,7 +13,7 @@ Used to determine how we should handle mouse wheel input events when someone scr
 
 <a id="unreal.ConsumeMouseWheel.WHEN_SCROLLING_POSSIBLE"></a>
 
-#### WHEN_SCROLLING_POSSIBLE
+#### WHEN\_SCROLLING\_POSSIBLE
 
 0: Only consume the mouse wheel event when we actually scroll some amount.
 

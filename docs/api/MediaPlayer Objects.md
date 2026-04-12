@@ -100,7 +100,7 @@ Implements a media player asset that can play movies and other media sources.
 
 <a id="unreal.MediaPlayer.on_end_reached"></a>
 
-#### on_end_reached
+#### on\_end\_reached
 
 ```python
 @property
@@ -111,7 +111,7 @@ def on_end_reached() -> OnMediaPlayerMediaEvent
 
 <a id="unreal.MediaPlayer.on_end_reached"></a>
 
-#### on_end_reached
+#### on\_end\_reached
 
 ```python
 @on_end_reached.setter
@@ -120,7 +120,7 @@ def on_end_reached(value: OnMediaPlayerMediaEvent) -> None
 
 <a id="unreal.MediaPlayer.on_media_closed"></a>
 
-#### on_media_closed
+#### on\_media\_closed
 
 ```python
 @property
@@ -131,7 +131,7 @@ def on_media_closed() -> OnMediaPlayerMediaEvent
 
 <a id="unreal.MediaPlayer.on_media_closed"></a>
 
-#### on_media_closed
+#### on\_media\_closed
 
 ```python
 @on_media_closed.setter
@@ -140,7 +140,7 @@ def on_media_closed(value: OnMediaPlayerMediaEvent) -> None
 
 <a id="unreal.MediaPlayer.on_media_opened"></a>
 
-#### on_media_opened
+#### on\_media\_opened
 
 ```python
 @property
@@ -156,7 +156,7 @@ see: OnMediaOpenFailed, OnTracksChanged
 
 <a id="unreal.MediaPlayer.on_media_opened"></a>
 
-#### on_media_opened
+#### on\_media\_opened
 
 ```python
 @on_media_opened.setter
@@ -165,7 +165,7 @@ def on_media_opened(value: OnMediaPlayerMediaOpened) -> None
 
 <a id="unreal.MediaPlayer.on_media_open_failed"></a>
 
-#### on_media_open_failed
+#### on\_media\_open\_failed
 
 ```python
 @property
@@ -181,7 +181,7 @@ see: OnMediaOpened
 
 <a id="unreal.MediaPlayer.on_media_open_failed"></a>
 
-#### on_media_open_failed
+#### on\_media\_open\_failed
 
 ```python
 @on_media_open_failed.setter
@@ -190,7 +190,7 @@ def on_media_open_failed(value: OnMediaPlayerMediaOpenFailed) -> None
 
 <a id="unreal.MediaPlayer.on_playback_resumed"></a>
 
-#### on_playback_resumed
+#### on\_playback\_resumed
 
 ```python
 @property
@@ -202,7 +202,7 @@ see: OnPlaybackSuspended
 
 <a id="unreal.MediaPlayer.on_playback_resumed"></a>
 
-#### on_playback_resumed
+#### on\_playback\_resumed
 
 ```python
 @on_playback_resumed.setter
@@ -211,7 +211,7 @@ def on_playback_resumed(value: OnMediaPlayerMediaEvent) -> None
 
 <a id="unreal.MediaPlayer.on_playback_suspended"></a>
 
-#### on_playback_suspended
+#### on\_playback\_suspended
 
 ```python
 @property
@@ -223,7 +223,7 @@ see: OnPlaybackResumed
 
 <a id="unreal.MediaPlayer.on_playback_suspended"></a>
 
-#### on_playback_suspended
+#### on\_playback\_suspended
 
 ```python
 @on_playback_suspended.setter
@@ -232,7 +232,7 @@ def on_playback_suspended(value: OnMediaPlayerMediaEvent) -> None
 
 <a id="unreal.MediaPlayer.on_seek_completed"></a>
 
-#### on_seek_completed
+#### on\_seek\_completed
 
 ```python
 @property
@@ -247,7 +247,7 @@ after the call to Seek returns.
 
 <a id="unreal.MediaPlayer.on_seek_completed"></a>
 
-#### on_seek_completed
+#### on\_seek\_completed
 
 ```python
 @on_seek_completed.setter
@@ -256,7 +256,7 @@ def on_seek_completed(value: OnMediaPlayerMediaEvent) -> None
 
 <a id="unreal.MediaPlayer.on_tracks_changed"></a>
 
-#### on_tracks_changed
+#### on\_tracks\_changed
 
 ```python
 @property
@@ -268,7 +268,7 @@ see: OnMediaOpened
 
 <a id="unreal.MediaPlayer.on_tracks_changed"></a>
 
-#### on_tracks_changed
+#### on\_tracks\_changed
 
 ```python
 @on_tracks_changed.setter
@@ -277,7 +277,7 @@ def on_tracks_changed(value: OnMediaPlayerMediaEvent) -> None
 
 <a id="unreal.MediaPlayer.on_metadata_changed"></a>
 
-#### on_metadata_changed
+#### on\_metadata\_changed
 
 ```python
 @property
@@ -289,7 +289,7 @@ see: OnMediaOpened
 
 <a id="unreal.MediaPlayer.on_metadata_changed"></a>
 
-#### on_metadata_changed
+#### on\_metadata\_changed
 
 ```python
 @on_metadata_changed.setter
@@ -298,7 +298,7 @@ def on_metadata_changed(value: OnMediaPlayerMediaEvent) -> None
 
 <a id="unreal.MediaPlayer.cache_ahead"></a>
 
-#### cache_ahead
+#### cache\_ahead
 
 ```python
 @property
@@ -310,7 +310,7 @@ see: CacheBehind, CacheBehindGame
 
 <a id="unreal.MediaPlayer.cache_ahead"></a>
 
-#### cache_ahead
+#### cache\_ahead
 
 ```python
 @cache_ahead.setter
@@ -319,7 +319,7 @@ def cache_ahead(value: Timespan) -> None
 
 <a id="unreal.MediaPlayer.cache_behind"></a>
 
-#### cache_behind
+#### cache\_behind
 
 ```python
 @property
@@ -331,7 +331,7 @@ see: CacheAhead, CacheBehindGame
 
 <a id="unreal.MediaPlayer.cache_behind"></a>
 
-#### cache_behind
+#### cache\_behind
 
 ```python
 @cache_behind.setter
@@ -340,7 +340,7 @@ def cache_behind(value: Timespan) -> None
 
 <a id="unreal.MediaPlayer.cache_behind_game"></a>
 
-#### cache_behind_game
+#### cache\_behind\_game
 
 ```python
 @property
@@ -352,7 +352,7 @@ see: CacheAhead, CacheBehind
 
 <a id="unreal.MediaPlayer.cache_behind_game"></a>
 
-#### cache_behind_game
+#### cache\_behind\_game
 
 ```python
 @cache_behind_game.setter
@@ -361,7 +361,7 @@ def cache_behind_game(value: Timespan) -> None
 
 <a id="unreal.MediaPlayer.native_audio_out"></a>
 
-#### native_audio_out
+#### native\_audio\_out
 
 ```python
 @property
@@ -377,7 +377,7 @@ see: SetNativeVolume
 
 <a id="unreal.MediaPlayer.native_audio_out"></a>
 
-#### native_audio_out
+#### native\_audio\_out
 
 ```python
 @native_audio_out.setter
@@ -386,7 +386,7 @@ def native_audio_out(value: bool) -> None
 
 <a id="unreal.MediaPlayer.play_on_open"></a>
 
-#### play_on_open
+#### play\_on\_open
 
 ```python
 @property
@@ -401,7 +401,7 @@ see: OpenFile, OpenPlaylist, OpenPlaylistIndex, OpenSource, OpenUrl, Play
 
 <a id="unreal.MediaPlayer.play_on_open"></a>
 
-#### play_on_open
+#### play\_on\_open
 
 ```python
 @play_on_open.setter
@@ -459,7 +459,7 @@ see: OpenPlaylist, OpenPlaylistIndex
 
 <a id="unreal.MediaPlayer.playlist_index"></a>
 
-#### playlist_index
+#### playlist\_index
 
 ```python
 @property
@@ -473,7 +473,7 @@ see: Next, Previous
 
 <a id="unreal.MediaPlayer.time_delay"></a>
 
-#### time_delay
+#### time\_delay
 
 ```python
 @property
@@ -485,7 +485,7 @@ see: SetTimeDelay, GetTimeDelay
 
 <a id="unreal.MediaPlayer.affected_by_pie_handling"></a>
 
-#### affected_by_pie_handling
+#### affected\_by\_pie\_handling
 
 ```python
 @property
@@ -496,7 +496,7 @@ def affected_by_pie_handling() -> bool
 
 <a id="unreal.MediaPlayer.affected_by_pie_handling"></a>
 
-#### affected_by_pie_handling
+#### affected\_by\_pie\_handling
 
 ```python
 @affected_by_pie_handling.setter
@@ -505,7 +505,7 @@ def affected_by_pie_handling(value: bool) -> None
 
 <a id="unreal.MediaPlayer.supports_seeking"></a>
 
-#### supports_seeking
+#### supports\_seeking
 
 ```python
 def supports_seeking() -> bool
@@ -520,7 +520,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.supports_scrubbing"></a>
 
-#### supports_scrubbing
+#### supports\_scrubbing
 
 ```python
 def supports_scrubbing() -> bool
@@ -535,7 +535,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.supports_rate"></a>
 
-#### supports_rate
+#### supports\_rate
 
 ```python
 def supports_rate(rate: float, unthinned: bool) -> bool
@@ -554,7 +554,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.supports_playback_time_range"></a>
 
-#### supports_playback_time_range
+#### supports\_playback\_time\_range
 
 ```python
 def supports_playback_time_range() -> bool
@@ -569,7 +569,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_view_rotation"></a>
 
-#### set_view_rotation
+#### set\_view\_rotation
 
 ```python
 def set_view_rotation(rotation: Rotator, absolute: bool) -> bool
@@ -588,7 +588,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_view_field"></a>
 
-#### set_view_field
+#### set\_view\_field
 
 ```python
 def set_view_field(horizontal: float, vertical: float, absolute: bool) -> bool
@@ -608,7 +608,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_video_track_frame_rate"></a>
 
-#### set_video_track_frame_rate
+#### set\_video\_track\_frame\_rate
 
 ```python
 def set_video_track_frame_rate(track_index: int, format_index: int,
@@ -629,7 +629,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_track_format"></a>
 
-#### set_track_format
+#### set\_track\_format
 
 ```python
 def set_track_format(track_type: MediaPlayerTrack, track_index: int,
@@ -654,7 +654,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_time_delay"></a>
 
-#### set_time_delay
+#### set\_time\_delay
 
 ```python
 def set_time_delay(time_delay: Timespan) -> None
@@ -673,7 +673,7 @@ Args:
 
 <a id="unreal.MediaPlayer.set_rate"></a>
 
-#### set_rate
+#### set\_rate
 
 ```python
 def set_rate(rate: float) -> bool
@@ -691,7 +691,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_playback_time_range"></a>
 
-#### set_playback_time_range
+#### set\_playback\_time\_range
 
 ```python
 def set_playback_time_range(time_range: FloatInterval) -> bool
@@ -710,7 +710,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_native_volume"></a>
 
-#### set_native_volume
+#### set\_native\_volume
 
 ```python
 def set_native_volume(volume: float) -> bool
@@ -731,7 +731,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_media_options"></a>
 
-#### set_media_options
+#### set\_media\_options
 
 ```python
 def set_media_options(options: MediaSource) -> None
@@ -745,7 +745,7 @@ Args:
 
 <a id="unreal.MediaPlayer.set_looping"></a>
 
-#### set_looping
+#### set\_looping
 
 ```python
 def set_looping(looping: bool) -> bool
@@ -763,7 +763,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.set_desired_player_name"></a>
 
-#### set_desired_player_name
+#### set\_desired\_player\_name
 
 ```python
 def set_desired_player_name(player_name: Name) -> None
@@ -778,7 +778,7 @@ Args:
 
 <a id="unreal.MediaPlayer.set_block_on_time"></a>
 
-#### set_block_on_time
+#### set\_block\_on\_time
 
 ```python
 def set_block_on_time(time: Timespan) -> None
@@ -795,7 +795,7 @@ Args:
 
 <a id="unreal.MediaPlayer.select_track"></a>
 
-#### select_track
+#### select\_track
 
 ```python
 def select_track(track_type: MediaPlayerTrack, track_index: int) -> bool
@@ -886,7 +886,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.play_and_seek"></a>
 
-#### play_and_seek
+#### play\_and\_seek
 
 ```python
 def play_and_seek() -> None
@@ -931,7 +931,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.open_url"></a>
 
-#### open_url
+#### open\_url
 
 ```python
 def open_url(url: str) -> bool
@@ -954,7 +954,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.open_source_with_options"></a>
 
-#### open_source_with_options
+#### open\_source\_with\_options
 
 ```python
 def open_source_with_options(media_source: MediaSource,
@@ -979,7 +979,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.open_source_latent"></a>
 
-#### open_source_latent
+#### open\_source\_latent
 
 ```python
 def open_source_latent(world_context_object: Object,
@@ -1007,7 +1007,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.open_source"></a>
 
-#### open_source
+#### open\_source
 
 ```python
 def open_source(media_source: MediaSource) -> bool
@@ -1030,7 +1030,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.open_playlist_index"></a>
 
-#### open_playlist_index
+#### open\_playlist\_index
 
 ```python
 def open_playlist_index(playlist: MediaPlaylist, index: int) -> bool
@@ -1049,7 +1049,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.open_playlist"></a>
 
-#### open_playlist
+#### open\_playlist
 
 ```python
 def open_playlist(playlist: MediaPlaylist) -> bool
@@ -1067,7 +1067,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.open_file"></a>
 
-#### open_file
+#### open\_file
 
 ```python
 def open_file(file_path: str) -> bool
@@ -1108,7 +1108,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.is_ready"></a>
 
-#### is_ready
+#### is\_ready
 
 ```python
 def is_ready() -> bool
@@ -1126,7 +1126,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.is_preparing"></a>
 
-#### is_preparing
+#### is\_preparing
 
 ```python
 def is_preparing() -> bool
@@ -1141,7 +1141,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.is_playing"></a>
 
-#### is_playing
+#### is\_playing
 
 ```python
 def is_playing() -> bool
@@ -1156,7 +1156,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.is_paused"></a>
 
-#### is_paused
+#### is\_paused
 
 ```python
 def is_paused() -> bool
@@ -1171,7 +1171,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.is_looping"></a>
 
-#### is_looping
+#### is\_looping
 
 ```python
 def is_looping() -> bool
@@ -1186,7 +1186,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.is_connecting"></a>
 
-#### is_connecting
+#### is\_connecting
 
 ```python
 def is_connecting() -> bool
@@ -1201,7 +1201,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.is_closed"></a>
 
-#### is_closed
+#### is\_closed
 
 ```python
 def is_closed() -> bool
@@ -1215,7 +1215,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.is_buffering"></a>
 
-#### is_buffering
+#### is\_buffering
 
 ```python
 def is_buffering() -> bool
@@ -1230,7 +1230,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.has_error"></a>
 
-#### has_error
+#### has\_error
 
 ```python
 def has_error() -> bool
@@ -1250,7 +1250,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_view_rotation"></a>
 
-#### get_view_rotation
+#### get\_view\_rotation
 
 ```python
 def get_view_rotation() -> Rotator
@@ -1265,7 +1265,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_video_track_type"></a>
 
-#### get_video_track_type
+#### get\_video\_track\_type
 
 ```python
 def get_video_track_type(track_index: int, format_index: int) -> str
@@ -1284,7 +1284,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_video_track_frame_rates"></a>
 
-#### get_video_track_frame_rates
+#### get\_video\_track\_frame\_rates
 
 ```python
 def get_video_track_frame_rates(track_index: int,
@@ -1304,7 +1304,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_video_track_frame_rate"></a>
 
-#### get_video_track_frame_rate
+#### get\_video\_track\_frame\_rate
 
 ```python
 def get_video_track_frame_rate(track_index: int, format_index: int) -> float
@@ -1323,7 +1323,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_video_track_dimensions"></a>
 
-#### get_video_track_dimensions
+#### get\_video\_track\_dimensions
 
 ```python
 def get_video_track_dimensions(track_index: int,
@@ -1343,7 +1343,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_video_track_aspect_ratio"></a>
 
-#### get_video_track_aspect_ratio
+#### get\_video\_track\_aspect\_ratio
 
 ```python
 def get_video_track_aspect_ratio(track_index: int, format_index: int) -> float
@@ -1362,7 +1362,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_vertical_field_of_view"></a>
 
-#### get_vertical_field_of_view
+#### get\_vertical\_field\_of\_view
 
 ```python
 def get_vertical_field_of_view() -> float
@@ -1377,7 +1377,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_url"></a>
 
-#### get_url
+#### get\_url
 
 ```python
 def get_url() -> str
@@ -1392,7 +1392,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_track_language"></a>
 
-#### get_track_language
+#### get\_track\_language
 
 ```python
 def get_track_language(track_type: MediaPlayerTrack, track_index: int) -> str
@@ -1411,7 +1411,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_track_format"></a>
 
-#### get_track_format
+#### get\_track\_format
 
 ```python
 def get_track_format(track_type: MediaPlayerTrack, track_index: int) -> int
@@ -1430,7 +1430,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_track_display_name"></a>
 
-#### get_track_display_name
+#### get\_track\_display\_name
 
 ```python
 def get_track_display_name(track_type: MediaPlayerTrack,
@@ -1450,7 +1450,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_time_stamp"></a>
 
-#### get_time_stamp
+#### get\_time\_stamp
 
 ```python
 def get_time_stamp() -> MediaTimeStampInfo
@@ -1465,7 +1465,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_time_delay"></a>
 
-#### get_time_delay
+#### get\_time\_delay
 
 ```python
 def get_time_delay() -> Timespan
@@ -1480,7 +1480,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_time"></a>
 
-#### get_time
+#### get\_time
 
 ```python
 def get_time() -> Timespan
@@ -1495,7 +1495,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_supported_rates"></a>
 
-#### get_supported_rates
+#### get\_supported\_rates
 
 ```python
 def get_supported_rates(unthinned: bool) -> Array[FloatRange]
@@ -1515,7 +1515,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_selected_track"></a>
 
-#### get_selected_track
+#### get\_selected\_track
 
 ```python
 def get_selected_track(track_type: MediaPlayerTrack) -> int
@@ -1533,7 +1533,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_rate"></a>
 
-#### get_rate
+#### get\_rate
 
 ```python
 def get_rate() -> float
@@ -1548,7 +1548,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_playlist_index"></a>
 
-#### get_playlist_index
+#### get\_playlist\_index
 
 ```python
 def get_playlist_index() -> int
@@ -1563,7 +1563,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_playlist"></a>
 
-#### get_playlist
+#### get\_playlist
 
 ```python
 def get_playlist() -> MediaPlaylist
@@ -1581,7 +1581,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_player_name"></a>
 
-#### get_player_name
+#### get\_player\_name
 
 ```python
 def get_player_name() -> Name
@@ -1596,7 +1596,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_playback_time_range"></a>
 
-#### get_playback_time_range
+#### get\_playback\_time\_range
 
 ```python
 def get_playback_time_range(
@@ -1616,7 +1616,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_num_tracks"></a>
 
-#### get_num_tracks
+#### get\_num\_tracks
 
 ```python
 def get_num_tracks(track_type: MediaPlayerTrack) -> int
@@ -1634,7 +1634,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_num_track_formats"></a>
 
-#### get_num_track_formats
+#### get\_num\_track\_formats
 
 ```python
 def get_num_track_formats(track_type: MediaPlayerTrack,
@@ -1654,7 +1654,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_media_name"></a>
 
-#### get_media_name
+#### get\_media\_name
 
 ```python
 def get_media_name() -> Text
@@ -1669,7 +1669,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_media_metadata_items"></a>
 
-#### get_media_metadata_items
+#### get\_media\_metadata\_items
 
 ```python
 def get_media_metadata_items() -> Map[str, MediaMetadataItemsBPT]
@@ -1684,7 +1684,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_horizontal_field_of_view"></a>
 
-#### get_horizontal_field_of_view
+#### get\_horizontal\_field\_of\_view
 
 ```python
 def get_horizontal_field_of_view() -> float
@@ -1699,7 +1699,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_duration"></a>
 
-#### get_duration
+#### get\_duration
 
 ```python
 def get_duration() -> Timespan
@@ -1714,7 +1714,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_display_time_stamp"></a>
 
-#### get_display_time_stamp
+#### get\_display\_time\_stamp
 
 ```python
 def get_display_time_stamp() -> MediaTimeStampInfo
@@ -1729,7 +1729,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_display_time"></a>
 
-#### get_display_time
+#### get\_display\_time
 
 ```python
 def get_display_time() -> Timespan
@@ -1744,7 +1744,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_desired_player_name"></a>
 
-#### get_desired_player_name
+#### get\_desired\_player\_name
 
 ```python
 def get_desired_player_name() -> Name
@@ -1759,7 +1759,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_audio_track_type"></a>
 
-#### get_audio_track_type
+#### get\_audio\_track\_type
 
 ```python
 def get_audio_track_type(track_index: int, format_index: int) -> str
@@ -1778,7 +1778,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_audio_track_sample_rate"></a>
 
-#### get_audio_track_sample_rate
+#### get\_audio\_track\_sample\_rate
 
 ```python
 def get_audio_track_sample_rate(track_index: int, format_index: int) -> int
@@ -1797,7 +1797,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.get_audio_track_channels"></a>
 
-#### get_audio_track_channels
+#### get\_audio\_track\_channels
 
 ```python
 def get_audio_track_channels(track_index: int, format_index: int) -> int
@@ -1828,7 +1828,7 @@ see: OnMediaClosed, OpenPlaylist, OpenPlaylistIndex, OpenSource, OpenUrl, Pause,
 
 <a id="unreal.MediaPlayer.can_play_url"></a>
 
-#### can_play_url
+#### can\_play\_url
 
 ```python
 def can_play_url(url: str) -> bool
@@ -1849,7 +1849,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.can_play_source"></a>
 
-#### can_play_source
+#### can\_play\_source
 
 ```python
 def can_play_source(media_source: MediaSource) -> bool
@@ -1870,7 +1870,7 @@ Returns:
 
 <a id="unreal.MediaPlayer.can_pause"></a>
 
-#### can_pause
+#### can\_pause
 
 ```python
 def can_pause() -> bool

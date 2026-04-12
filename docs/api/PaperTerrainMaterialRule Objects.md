@@ -26,10 +26,10 @@ Rule for a single section of a terrain material
 
 <a id="unreal.PaperTerrainMaterialRule.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.BlendStackAnimNodeReference"></a>
+<a id="unreal.OptimusDataTypeRef"></a>

@@ -20,7 +20,7 @@ EPCGSpline Sampling Interior Orientation
 
 <a id="unreal.PCGSplineSamplingInteriorOrientation.FOLLOW_CURVATURE"></a>
 
-#### FOLLOW_CURVATURE
+#### FOLLOW\_CURVATURE
 
 1
 

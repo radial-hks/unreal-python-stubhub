@@ -78,7 +78,7 @@ def stretch(value: Stretch) -> None
 
 <a id="unreal.ScaleBox.stretch_direction"></a>
 
-#### stretch_direction
+#### stretch\_direction
 
 ```python
 @property
@@ -89,7 +89,7 @@ def stretch_direction() -> StretchDirection
 
 <a id="unreal.ScaleBox.stretch_direction"></a>
 
-#### stretch_direction
+#### stretch\_direction
 
 ```python
 @stretch_direction.setter
@@ -98,7 +98,7 @@ def stretch_direction(value: StretchDirection) -> None
 
 <a id="unreal.ScaleBox.user_specified_scale"></a>
 
-#### user_specified_scale
+#### user\_specified\_scale
 
 ```python
 @property
@@ -109,7 +109,7 @@ def user_specified_scale() -> float
 
 <a id="unreal.ScaleBox.user_specified_scale"></a>
 
-#### user_specified_scale
+#### user\_specified\_scale
 
 ```python
 @user_specified_scale.setter
@@ -118,7 +118,7 @@ def user_specified_scale(value: float) -> None
 
 <a id="unreal.ScaleBox.ignore_inherited_scale"></a>
 
-#### ignore_inherited_scale
+#### ignore\_inherited\_scale
 
 ```python
 @property
@@ -129,7 +129,7 @@ def ignore_inherited_scale() -> bool
 
 <a id="unreal.ScaleBox.ignore_inherited_scale"></a>
 
-#### ignore_inherited_scale
+#### ignore\_inherited\_scale
 
 ```python
 @ignore_inherited_scale.setter
@@ -138,7 +138,7 @@ def ignore_inherited_scale(value: bool) -> None
 
 <a id="unreal.ScaleBox.set_user_specified_scale"></a>
 
-#### set_user_specified_scale
+#### set\_user\_specified\_scale
 
 ```python
 def set_user_specified_scale(user_specified_scale: float) -> None
@@ -152,7 +152,7 @@ Args:
 
 <a id="unreal.ScaleBox.set_stretch_direction"></a>
 
-#### set_stretch_direction
+#### set\_stretch\_direction
 
 ```python
 def set_stretch_direction(stretch_direction: StretchDirection) -> None
@@ -166,7 +166,7 @@ Args:
 
 <a id="unreal.ScaleBox.set_stretch"></a>
 
-#### set_stretch
+#### set\_stretch
 
 ```python
 def set_stretch(stretch: Stretch) -> None
@@ -180,7 +180,7 @@ Args:
 
 <a id="unreal.ScaleBox.set_ignore_inherited_scale"></a>
 
-#### set_ignore_inherited_scale
+#### set\_ignore\_inherited\_scale
 
 ```python
 def set_ignore_inherited_scale(ignore_inherited_scale: bool) -> None

@@ -20,7 +20,7 @@ Variant Dependency
 
 <a id="unreal.VariantDependency.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(variant_set: VariantSet = None,
@@ -30,7 +30,7 @@ def __init__(variant_set: VariantSet = None,
 
 <a id="unreal.VariantDependency.variant_set"></a>
 
-#### variant_set
+#### variant\_set
 
 ```python
 @property

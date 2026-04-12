@@ -20,7 +20,7 @@ the current system Timecode and Framerate.
 
 <a id="unreal.TimecodeProvider.get_timecode"></a>
 
-#### get_timecode
+#### get\_timecode
 
 ```python
 def get_timecode() -> Timecode
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.TimecodeProvider.get_synchronization_state"></a>
 
-#### get_synchronization_state
+#### get\_synchronization\_state
 
 ```python
 def get_synchronization_state() -> TimecodeProviderSynchronizationState
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.TimecodeProvider.get_qualified_frame_time"></a>
 
-#### get_qualified_frame_time
+#### get\_qualified\_frame\_time
 
 ```python
 def get_qualified_frame_time() -> QualifiedTime
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.TimecodeProvider.get_frame_rate"></a>
 
-#### get_frame_rate
+#### get\_frame\_rate
 
 ```python
 def get_frame_rate() -> FrameRate
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.TimecodeProvider.get_delayed_timecode"></a>
 
-#### get_delayed_timecode
+#### get\_delayed\_timecode
 
 ```python
 def get_delayed_timecode() -> Timecode
@@ -91,7 +91,7 @@ Returns:
 
 <a id="unreal.TimecodeProvider.get_delayed_qualified_frame_time"></a>
 
-#### get_delayed_qualified_frame_time
+#### get\_delayed\_qualified\_frame\_time
 
 ```python
 def get_delayed_qualified_frame_time() -> QualifiedTime
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.TimecodeProvider.fetch_timecode"></a>
 
-#### fetch_timecode
+#### fetch\_timecode
 
 ```python
 def fetch_timecode() -> Optional[QualifiedTime]
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.TimecodeProvider.fetch_and_update"></a>
 
-#### fetch_and_update
+#### fetch\_and\_update
 
 ```python
 def fetch_and_update() -> None

@@ -14,13 +14,13 @@ Methods to simplify convex hulls, used by FGeometryScriptConvexHullSimplificatio
 
 <a id="unreal.GeometryScriptConvexHullSimplifyMethod.MESH_Q_SLIM"></a>
 
-#### MESH_Q_SLIM
+#### MESH\_Q\_SLIM
 
 0: Simplify convex hulls using a general mesh-based simplifier, and taking the convex hull of the simplified mesh
 
 <a id="unreal.GeometryScriptConvexHullSimplifyMethod.ANGLE_TOLERANCE"></a>
 
-#### ANGLE_TOLERANCE
+#### ANGLE\_TOLERANCE
 
 1: Simplify convex hulls by merging hull faces that have similar normals
 

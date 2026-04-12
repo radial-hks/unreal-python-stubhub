@@ -14,7 +14,7 @@ IKGoal Creator Interface
 
 <a id="unreal.IKGoalCreatorInterface.add_ik_goals"></a>
 
-#### add_ik_goals
+#### add\_ik\_goals
 
 ```python
 def add_ik_goals() -> Map[Name, IKRigGoal]

@@ -19,7 +19,7 @@ note: This is a mirror of TInterval<int32>, defined in Interval.h
 
 <a id="unreal.Int32Interval.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min: int = 0, max: int = 0) -> None

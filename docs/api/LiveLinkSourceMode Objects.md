@@ -20,7 +20,7 @@ This mode will not attempt any type of interpolation or time synchronization.
 
 <a id="unreal.LiveLinkSourceMode.ENGINE_TIME"></a>
 
-#### ENGINE_TIME
+#### ENGINE\_TIME
 
 1: The source will use the engine's time to evaluate its subjects.
 This mode is most useful when smooth animation is desired.
@@ -35,4 +35,4 @@ multiple other external inputs
 (such as video or other time synchronized sources).
 Should not be used when the engine isn't setup with a Timecode provider.
 
-<a id="unreal.MVVMBlueprintPinStatus"></a>
+<a id="unreal.NiagaraModuleDependencyType"></a>

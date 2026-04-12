@@ -44,7 +44,7 @@ Gaussian Sum Bloom Settings
 
 <a id="unreal.GaussianSumBloomSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -109,7 +109,7 @@ def threshold(value: float) -> None
 
 <a id="unreal.GaussianSumBloomSettings.size_scale"></a>
 
-#### size_scale
+#### size\_scale
 
 ```python
 @property
@@ -120,7 +120,7 @@ def size_scale() -> float
 
 <a id="unreal.GaussianSumBloomSettings.size_scale"></a>
 
-#### size_scale
+#### size\_scale
 
 ```python
 @size_scale.setter
@@ -129,7 +129,7 @@ def size_scale(value: float) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter1_size"></a>
 
-#### filter1_size
+#### filter1\_size
 
 ```python
 @property
@@ -142,7 +142,7 @@ def filter1_size() -> float
 
 <a id="unreal.GaussianSumBloomSettings.filter1_size"></a>
 
-#### filter1_size
+#### filter1\_size
 
 ```python
 @filter1_size.setter
@@ -151,7 +151,7 @@ def filter1_size(value: float) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter2_size"></a>
 
-#### filter2_size
+#### filter2\_size
 
 ```python
 @property
@@ -164,7 +164,7 @@ def filter2_size() -> float
 
 <a id="unreal.GaussianSumBloomSettings.filter2_size"></a>
 
-#### filter2_size
+#### filter2\_size
 
 ```python
 @filter2_size.setter
@@ -173,7 +173,7 @@ def filter2_size(value: float) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter3_size"></a>
 
-#### filter3_size
+#### filter3\_size
 
 ```python
 @property
@@ -186,7 +186,7 @@ def filter3_size() -> float
 
 <a id="unreal.GaussianSumBloomSettings.filter3_size"></a>
 
-#### filter3_size
+#### filter3\_size
 
 ```python
 @filter3_size.setter
@@ -195,7 +195,7 @@ def filter3_size(value: float) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter4_size"></a>
 
-#### filter4_size
+#### filter4\_size
 
 ```python
 @property
@@ -208,7 +208,7 @@ def filter4_size() -> float
 
 <a id="unreal.GaussianSumBloomSettings.filter4_size"></a>
 
-#### filter4_size
+#### filter4\_size
 
 ```python
 @filter4_size.setter
@@ -217,7 +217,7 @@ def filter4_size(value: float) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter5_size"></a>
 
-#### filter5_size
+#### filter5\_size
 
 ```python
 @property
@@ -230,7 +230,7 @@ def filter5_size() -> float
 
 <a id="unreal.GaussianSumBloomSettings.filter5_size"></a>
 
-#### filter5_size
+#### filter5\_size
 
 ```python
 @filter5_size.setter
@@ -239,7 +239,7 @@ def filter5_size(value: float) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter6_size"></a>
 
-#### filter6_size
+#### filter6\_size
 
 ```python
 @property
@@ -252,7 +252,7 @@ def filter6_size() -> float
 
 <a id="unreal.GaussianSumBloomSettings.filter6_size"></a>
 
-#### filter6_size
+#### filter6\_size
 
 ```python
 @filter6_size.setter
@@ -261,7 +261,7 @@ def filter6_size(value: float) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter1_tint"></a>
 
-#### filter1_tint
+#### filter1\_tint
 
 ```python
 @property
@@ -272,7 +272,7 @@ def filter1_tint() -> LinearColor
 
 <a id="unreal.GaussianSumBloomSettings.filter1_tint"></a>
 
-#### filter1_tint
+#### filter1\_tint
 
 ```python
 @filter1_tint.setter
@@ -281,7 +281,7 @@ def filter1_tint(value: LinearColor) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter2_tint"></a>
 
-#### filter2_tint
+#### filter2\_tint
 
 ```python
 @property
@@ -292,7 +292,7 @@ def filter2_tint() -> LinearColor
 
 <a id="unreal.GaussianSumBloomSettings.filter2_tint"></a>
 
-#### filter2_tint
+#### filter2\_tint
 
 ```python
 @filter2_tint.setter
@@ -301,7 +301,7 @@ def filter2_tint(value: LinearColor) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter3_tint"></a>
 
-#### filter3_tint
+#### filter3\_tint
 
 ```python
 @property
@@ -312,7 +312,7 @@ def filter3_tint() -> LinearColor
 
 <a id="unreal.GaussianSumBloomSettings.filter3_tint"></a>
 
-#### filter3_tint
+#### filter3\_tint
 
 ```python
 @filter3_tint.setter
@@ -321,7 +321,7 @@ def filter3_tint(value: LinearColor) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter4_tint"></a>
 
-#### filter4_tint
+#### filter4\_tint
 
 ```python
 @property
@@ -332,7 +332,7 @@ def filter4_tint() -> LinearColor
 
 <a id="unreal.GaussianSumBloomSettings.filter4_tint"></a>
 
-#### filter4_tint
+#### filter4\_tint
 
 ```python
 @filter4_tint.setter
@@ -341,7 +341,7 @@ def filter4_tint(value: LinearColor) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter5_tint"></a>
 
-#### filter5_tint
+#### filter5\_tint
 
 ```python
 @property
@@ -352,7 +352,7 @@ def filter5_tint() -> LinearColor
 
 <a id="unreal.GaussianSumBloomSettings.filter5_tint"></a>
 
-#### filter5_tint
+#### filter5\_tint
 
 ```python
 @filter5_tint.setter
@@ -361,7 +361,7 @@ def filter5_tint(value: LinearColor) -> None
 
 <a id="unreal.GaussianSumBloomSettings.filter6_tint"></a>
 
-#### filter6_tint
+#### filter6\_tint
 
 ```python
 @property
@@ -372,7 +372,7 @@ def filter6_tint() -> LinearColor
 
 <a id="unreal.GaussianSumBloomSettings.filter6_tint"></a>
 
-#### filter6_tint
+#### filter6\_tint
 
 ```python
 @filter6_tint.setter

@@ -21,7 +21,7 @@ Cache settings to pass to the player.
 
 <a id="unreal.MediaSourceCacheSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

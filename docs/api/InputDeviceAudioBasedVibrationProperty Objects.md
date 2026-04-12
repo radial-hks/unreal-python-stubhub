@@ -45,7 +45,7 @@ def data(value: AudioBasedVibrationData) -> None
 
 <a id="unreal.InputDeviceAudioBasedVibrationProperty.device_override_data"></a>
 
-#### device_override_data
+#### device\_override\_data
 
 ```python
 @property
@@ -56,7 +56,7 @@ def device_override_data() -> Map[Name, AudioBasedVibrationData]
 
 <a id="unreal.InputDeviceAudioBasedVibrationProperty.device_override_data"></a>
 
-#### device_override_data
+#### device\_override\_data
 
 ```python
 @device_override_data.setter

@@ -32,20 +32,20 @@ EBasic Axis
 
 <a id="unreal.BasicAxis.NEG_X"></a>
 
-#### NEG_X
+#### NEG\_X
 
 3
 
 <a id="unreal.BasicAxis.NEG_Y"></a>
 
-#### NEG_Y
+#### NEG\_Y
 
 4
 
 <a id="unreal.BasicAxis.NEG_Z"></a>
 
-#### NEG_Z
+#### NEG\_Z
 
 5
 
-<a id="unreal.MotionMatchingInteractionEvaluationMode"></a>
+<a id="unreal.InitialOscillatorOffset"></a>

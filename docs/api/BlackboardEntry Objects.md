@@ -21,7 +21,7 @@ blackboard entry definition
 
 <a id="unreal.BlackboardEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

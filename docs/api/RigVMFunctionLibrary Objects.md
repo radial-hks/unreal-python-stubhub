@@ -15,7 +15,7 @@ the sub graphs used for functions.
 
 <a id="unreal.RigVMFunctionLibrary.get_references_for_function"></a>
 
-#### get_references_for_function
+#### get\_references\_for\_function
 
 ```python
 def get_references_for_function(
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.RigVMFunctionLibrary.get_reference_paths_for_function"></a>
 
-#### get_reference_paths_for_function
+#### get\_reference\_paths\_for\_function
 
 ```python
 def get_reference_paths_for_function(function_name: Name) -> Array[str]
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.RigVMFunctionLibrary.get_functions"></a>
 
-#### get_functions
+#### get\_functions
 
 ```python
 def get_functions() -> Array[RigVMLibraryNode]
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.RigVMFunctionLibrary.find_function_for_node"></a>
 
-#### find_function_for_node
+#### find\_function\_for\_node
 
 ```python
 def find_function_for_node(node: RigVMNode) -> RigVMLibraryNode
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.RigVMFunctionLibrary.find_function"></a>
 
-#### find_function
+#### find\_function
 
 ```python
 def find_function(function_name: Name) -> RigVMLibraryNode

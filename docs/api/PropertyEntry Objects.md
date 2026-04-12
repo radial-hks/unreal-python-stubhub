@@ -21,7 +21,7 @@ Structure to represent a single property the user wants to bake out for a given 
 
 <a id="unreal.PropertyEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(property_: MaterialProperty = MaterialProperty.MP_EMISSIVE_COLOR,
@@ -33,7 +33,7 @@ def __init__(property_: MaterialProperty = MaterialProperty.MP_EMISSIVE_COLOR,
 
 <a id="unreal.PropertyEntry.property_"></a>
 
-#### property_
+#### property\_
 
 ```python
 @property
@@ -44,7 +44,7 @@ def property_() -> MaterialProperty
 
 <a id="unreal.PropertyEntry.property_"></a>
 
-#### property_
+#### property\_
 
 ```python
 @property_.setter
@@ -53,7 +53,7 @@ def property_(value: MaterialProperty) -> None
 
 <a id="unreal.PropertyEntry.use_custom_size"></a>
 
-#### use_custom_size
+#### use\_custom\_size
 
 ```python
 @property
@@ -64,7 +64,7 @@ def use_custom_size() -> bool
 
 <a id="unreal.PropertyEntry.use_custom_size"></a>
 
-#### use_custom_size
+#### use\_custom\_size
 
 ```python
 @use_custom_size.setter
@@ -73,7 +73,7 @@ def use_custom_size(value: bool) -> None
 
 <a id="unreal.PropertyEntry.custom_size"></a>
 
-#### custom_size
+#### custom\_size
 
 ```python
 @property
@@ -84,7 +84,7 @@ def custom_size() -> IntPoint
 
 <a id="unreal.PropertyEntry.custom_size"></a>
 
-#### custom_size
+#### custom\_size
 
 ```python
 @custom_size.setter
@@ -93,7 +93,7 @@ def custom_size(value: IntPoint) -> None
 
 <a id="unreal.PropertyEntry.use_constant_value"></a>
 
-#### use_constant_value
+#### use\_constant\_value
 
 ```python
 @property
@@ -104,7 +104,7 @@ def use_constant_value() -> bool
 
 <a id="unreal.PropertyEntry.use_constant_value"></a>
 
-#### use_constant_value
+#### use\_constant\_value
 
 ```python
 @use_constant_value.setter
@@ -113,7 +113,7 @@ def use_constant_value(value: bool) -> None
 
 <a id="unreal.PropertyEntry.constant_value"></a>
 
-#### constant_value
+#### constant\_value
 
 ```python
 @property
@@ -124,7 +124,7 @@ def constant_value() -> float
 
 <a id="unreal.PropertyEntry.constant_value"></a>
 
-#### constant_value
+#### constant\_value
 
 ```python
 @constant_value.setter

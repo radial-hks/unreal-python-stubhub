@@ -20,7 +20,7 @@ Foliage Vertex Color Channel Mask
 
 <a id="unreal.FoliageVertexColorChannelMask.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

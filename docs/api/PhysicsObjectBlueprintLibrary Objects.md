@@ -13,7 +13,7 @@ Physics Object Blueprint Library
 
 <a id="unreal.PhysicsObjectBlueprintLibrary.get_physics_object_world_transform"></a>
 
-#### get_physics_object_world_transform
+#### get\_physics\_object\_world\_transform
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.PhysicsObjectBlueprintLibrary.get_closest_physics_object_from_world_location"></a>
 
-#### get_closest_physics_object_from_world_location
+#### get\_closest\_physics\_object\_from\_world\_location
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.PhysicsObjectBlueprintLibrary.extract_closest_physics_object_results"></a>
 
-#### extract_closest_physics_object_results
+#### extract\_closest\_physics\_object\_results
 
 ```python
 @classmethod
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.PhysicsObjectBlueprintLibrary.apply_radial_impulse"></a>
 
-#### apply_radial_impulse
+#### apply\_radial\_impulse
 
 ```python
 @classmethod

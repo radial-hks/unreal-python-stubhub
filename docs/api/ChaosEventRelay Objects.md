@@ -20,7 +20,7 @@ An object managing events
 
 <a id="unreal.ChaosEventRelay.on_collision_event"></a>
 
-#### on_collision_event
+#### on\_collision\_event
 
 ```python
 @property
@@ -31,7 +31,7 @@ def on_collision_event() -> CollisionEventSignature
 
 <a id="unreal.ChaosEventRelay.on_collision_event"></a>
 
-#### on_collision_event
+#### on\_collision\_event
 
 ```python
 @on_collision_event.setter
@@ -40,7 +40,7 @@ def on_collision_event(value: CollisionEventSignature) -> None
 
 <a id="unreal.ChaosEventRelay.on_break_event"></a>
 
-#### on_break_event
+#### on\_break\_event
 
 ```python
 @property
@@ -51,7 +51,7 @@ def on_break_event() -> BreakEventSignature
 
 <a id="unreal.ChaosEventRelay.on_break_event"></a>
 
-#### on_break_event
+#### on\_break\_event
 
 ```python
 @on_break_event.setter
@@ -60,7 +60,7 @@ def on_break_event(value: BreakEventSignature) -> None
 
 <a id="unreal.ChaosEventRelay.on_removal_event"></a>
 
-#### on_removal_event
+#### on\_removal\_event
 
 ```python
 @property
@@ -71,7 +71,7 @@ def on_removal_event() -> RemovalEventSignature
 
 <a id="unreal.ChaosEventRelay.on_removal_event"></a>
 
-#### on_removal_event
+#### on\_removal\_event
 
 ```python
 @on_removal_event.setter
@@ -80,7 +80,7 @@ def on_removal_event(value: RemovalEventSignature) -> None
 
 <a id="unreal.ChaosEventRelay.on_crumbling_event"></a>
 
-#### on_crumbling_event
+#### on\_crumbling\_event
 
 ```python
 @property
@@ -91,7 +91,7 @@ def on_crumbling_event() -> CrumblingEventSignature
 
 <a id="unreal.ChaosEventRelay.on_crumbling_event"></a>
 
-#### on_crumbling_event
+#### on\_crumbling\_event
 
 ```python
 @on_crumbling_event.setter

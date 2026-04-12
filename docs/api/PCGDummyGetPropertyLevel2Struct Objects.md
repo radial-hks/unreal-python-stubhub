@@ -18,7 +18,7 @@ PCGDummy Get Property Level 2Struct
 
 <a id="unreal.PCGDummyGetPropertyLevel2Struct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(double_array_property: Array[float] = []) -> None
@@ -26,7 +26,7 @@ def __init__(double_array_property: Array[float] = []) -> None
 
 <a id="unreal.PCGDummyGetPropertyLevel2Struct.double_array_property"></a>
 
-#### double_array_property
+#### double\_array\_property
 
 ```python
 @property

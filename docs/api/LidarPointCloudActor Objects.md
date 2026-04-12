@@ -143,7 +143,7 @@ Lidar Point Cloud Actor
 
 <a id="unreal.LidarPointCloudActor.point_cloud_component"></a>
 
-#### point_cloud_component
+#### point\_cloud\_component
 
 ```python
 @property
@@ -154,7 +154,7 @@ def point_cloud_component() -> LidarPointCloudComponent
 
 <a id="unreal.LidarPointCloudActor.set_point_cloud"></a>
 
-#### set_point_cloud
+#### set\_point\_cloud
 
 ```python
 def set_point_cloud(point_cloud: LidarPointCloud) -> None
@@ -168,7 +168,7 @@ Args:
 
 <a id="unreal.LidarPointCloudActor.get_point_cloud"></a>
 
-#### get_point_cloud
+#### get\_point\_cloud
 
 ```python
 def get_point_cloud() -> LidarPointCloud

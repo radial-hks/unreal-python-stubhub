@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.MediaPlaylist.remove_at"></a>
 
-#### remove_at
+#### remove\_at
 
 ```python
 def remove_at(index: int) -> bool
@@ -102,7 +102,7 @@ Args:
 
 <a id="unreal.MediaPlaylist.get_random"></a>
 
-#### get_random
+#### get\_random
 
 ```python
 def get_random() -> Tuple[MediaSource, int]
@@ -119,7 +119,7 @@ Returns:
 
 <a id="unreal.MediaPlaylist.get_previous"></a>
 
-#### get_previous
+#### get\_previous
 
 ```python
 def get_previous() -> Tuple[MediaSource, int]
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.MediaPlaylist.get_next"></a>
 
-#### get_next
+#### get\_next
 
 ```python
 def get_next() -> Tuple[MediaSource, int]
@@ -171,7 +171,7 @@ Returns:
 
 <a id="unreal.MediaPlaylist.add_url"></a>
 
-#### add_url
+#### add\_url
 
 ```python
 def add_url(url: str) -> bool
@@ -189,7 +189,7 @@ Returns:
 
 <a id="unreal.MediaPlaylist.add_file"></a>
 
-#### add_file
+#### add\_file
 
 ```python
 def add_file(file_path: str) -> bool

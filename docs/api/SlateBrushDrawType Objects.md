@@ -13,7 +13,7 @@ Enumerates ways in which an image can be drawn.
 
 <a id="unreal.SlateBrushDrawType.NO_DRAW_TYPE"></a>
 
-#### NO_DRAW_TYPE
+#### NO\_DRAW\_TYPE
 
 0: Don't do anything
 
@@ -37,7 +37,7 @@ Enumerates ways in which an image can be drawn.
 
 <a id="unreal.SlateBrushDrawType.ROUNDED_BOX"></a>
 
-#### ROUNDED_BOX
+#### ROUNDED\_BOX
 
 4: Draw a solid rectangle with an outline and corner radius
 

@@ -19,7 +19,7 @@ Sound Submix Base
 
 <a id="unreal.SoundSubmixBase.auto_disable"></a>
 
-#### auto_disable
+#### auto\_disable
 
 ```python
 @property
@@ -30,7 +30,7 @@ def auto_disable() -> bool
 
 <a id="unreal.SoundSubmixBase.auto_disable_time"></a>
 
-#### auto_disable_time
+#### auto\_disable\_time
 
 ```python
 @property
@@ -41,7 +41,7 @@ def auto_disable_time() -> float
 
 <a id="unreal.SoundSubmixBase.auto_disable_time"></a>
 
-#### auto_disable_time
+#### auto\_disable\_time
 
 ```python
 @auto_disable_time.setter
@@ -50,7 +50,7 @@ def auto_disable_time(value: float) -> None
 
 <a id="unreal.SoundSubmixBase.child_submixes"></a>
 
-#### child_submixes
+#### child\_submixes
 
 ```python
 @property
@@ -61,7 +61,7 @@ def child_submixes() -> Array[SoundSubmixBase]
 
 <a id="unreal.SoundSubmixBase.find_dynamic_ancestor"></a>
 
-#### find_dynamic_ancestor
+#### find\_dynamic\_ancestor
 
 ```python
 def find_dynamic_ancestor() -> SoundSubmixBase
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.SoundSubmixBase.dynamic_disconnect"></a>
 
-#### dynamic_disconnect
+#### dynamic\_disconnect
 
 ```python
 def dynamic_disconnect(world_context_object: Object) -> bool
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.SoundSubmixBase.dynamic_connect"></a>
 
-#### dynamic_connect
+#### dynamic\_connect
 
 ```python
 def dynamic_connect(world_context_object: Object,

@@ -67,7 +67,7 @@ A simple widget that shows a sliding bar with a handle that allows you to contro
 
 <a id="unreal.SynthKnob.step_size"></a>
 
-#### step_size
+#### step\_size
 
 ```python
 @property
@@ -78,7 +78,7 @@ def step_size() -> float
 
 <a id="unreal.SynthKnob.mouse_speed"></a>
 
-#### mouse_speed
+#### mouse\_speed
 
 ```python
 @property
@@ -89,7 +89,7 @@ def mouse_speed() -> float
 
 <a id="unreal.SynthKnob.mouse_fine_tune_speed"></a>
 
-#### mouse_fine_tune_speed
+#### mouse\_fine\_tune\_speed
 
 ```python
 @property
@@ -100,7 +100,7 @@ def mouse_fine_tune_speed() -> float
 
 <a id="unreal.SynthKnob.show_tooltip_info"></a>
 
-#### show_tooltip_info
+#### show\_tooltip\_info
 
 ```python
 @property
@@ -111,7 +111,7 @@ def show_tooltip_info() -> bool
 
 <a id="unreal.SynthKnob.parameter_name"></a>
 
-#### parameter_name
+#### parameter\_name
 
 ```python
 @property
@@ -122,7 +122,7 @@ def parameter_name() -> Text
 
 <a id="unreal.SynthKnob.parameter_units"></a>
 
-#### parameter_units
+#### parameter\_units
 
 ```python
 @property
@@ -133,7 +133,7 @@ def parameter_units() -> Text
 
 <a id="unreal.SynthKnob.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -144,7 +144,7 @@ def widget_style() -> SynthKnobStyle
 
 <a id="unreal.SynthKnob.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -164,7 +164,7 @@ def locked() -> bool
 
 <a id="unreal.SynthKnob.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @property
@@ -175,7 +175,7 @@ def is_focusable() -> bool
 
 <a id="unreal.SynthKnob.on_mouse_capture_begin"></a>
 
-#### on_mouse_capture_begin
+#### on\_mouse\_capture\_begin
 
 ```python
 @property
@@ -186,7 +186,7 @@ def on_mouse_capture_begin() -> OnMouseCaptureBeginEvent
 
 <a id="unreal.SynthKnob.on_mouse_capture_begin"></a>
 
-#### on_mouse_capture_begin
+#### on\_mouse\_capture\_begin
 
 ```python
 @on_mouse_capture_begin.setter
@@ -195,7 +195,7 @@ def on_mouse_capture_begin(value: OnMouseCaptureBeginEvent) -> None
 
 <a id="unreal.SynthKnob.on_mouse_capture_end"></a>
 
-#### on_mouse_capture_end
+#### on\_mouse\_capture\_end
 
 ```python
 @property
@@ -206,7 +206,7 @@ def on_mouse_capture_end() -> OnMouseCaptureEndEvent
 
 <a id="unreal.SynthKnob.on_mouse_capture_end"></a>
 
-#### on_mouse_capture_end
+#### on\_mouse\_capture\_end
 
 ```python
 @on_mouse_capture_end.setter
@@ -215,7 +215,7 @@ def on_mouse_capture_end(value: OnMouseCaptureEndEvent) -> None
 
 <a id="unreal.SynthKnob.on_controller_capture_begin"></a>
 
-#### on_controller_capture_begin
+#### on\_controller\_capture\_begin
 
 ```python
 @property
@@ -226,7 +226,7 @@ def on_controller_capture_begin() -> OnControllerCaptureBeginEvent
 
 <a id="unreal.SynthKnob.on_controller_capture_begin"></a>
 
-#### on_controller_capture_begin
+#### on\_controller\_capture\_begin
 
 ```python
 @on_controller_capture_begin.setter
@@ -235,7 +235,7 @@ def on_controller_capture_begin(value: OnControllerCaptureBeginEvent) -> None
 
 <a id="unreal.SynthKnob.on_controller_capture_end"></a>
 
-#### on_controller_capture_end
+#### on\_controller\_capture\_end
 
 ```python
 @property
@@ -246,7 +246,7 @@ def on_controller_capture_end() -> OnControllerCaptureEndEvent
 
 <a id="unreal.SynthKnob.on_controller_capture_end"></a>
 
-#### on_controller_capture_end
+#### on\_controller\_capture\_end
 
 ```python
 @on_controller_capture_end.setter
@@ -255,7 +255,7 @@ def on_controller_capture_end(value: OnControllerCaptureEndEvent) -> None
 
 <a id="unreal.SynthKnob.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @property
@@ -266,7 +266,7 @@ def on_value_changed() -> OnFloatValueChangedEvent
 
 <a id="unreal.SynthKnob.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @on_value_changed.setter
@@ -275,7 +275,7 @@ def on_value_changed(value: OnFloatValueChangedEvent) -> None
 
 <a id="unreal.SynthKnob.set_value"></a>
 
-#### set_value
+#### set\_value
 
 ```python
 def set_value(value: float) -> None
@@ -289,7 +289,7 @@ Args:
 
 <a id="unreal.SynthKnob.set_step_size"></a>
 
-#### set_step_size
+#### set\_step\_size
 
 ```python
 def set_step_size(value: float) -> None
@@ -303,7 +303,7 @@ Args:
 
 <a id="unreal.SynthKnob.set_locked"></a>
 
-#### set_locked
+#### set\_locked
 
 ```python
 def set_locked(value: bool) -> None
@@ -317,7 +317,7 @@ Args:
 
 <a id="unreal.SynthKnob.get_value"></a>
 
-#### get_value
+#### get\_value
 
 ```python
 def get_value() -> float
@@ -329,4 +329,4 @@ Gets the current value of the slider.
 Returns:
     float:
 
-<a id="unreal.CharacterTrajectoryComponent"></a>
+<a id="unreal.PaperCharacter"></a>

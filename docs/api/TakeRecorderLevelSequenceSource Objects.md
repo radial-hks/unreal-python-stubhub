@@ -21,7 +21,7 @@ Plays level sequence actors when recording starts
 
 <a id="unreal.TakeRecorderLevelSequenceSource.level_sequences_to_trigger"></a>
 
-#### level_sequences_to_trigger
+#### level\_sequences\_to\_trigger
 
 ```python
 @property
@@ -32,7 +32,7 @@ def level_sequences_to_trigger() -> Array[LevelSequence]
 
 <a id="unreal.TakeRecorderLevelSequenceSource.level_sequences_to_trigger"></a>
 
-#### level_sequences_to_trigger
+#### level\_sequences\_to\_trigger
 
 ```python
 @level_sequences_to_trigger.setter

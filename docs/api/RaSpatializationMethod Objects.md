@@ -14,7 +14,7 @@ ERa Spatialization Method
 
 <a id="unreal.RaSpatializationMethod.STEREO_PANNING"></a>
 
-#### STEREO_PANNING
+#### STEREO\_PANNING
 
 0: Stereo panning.
 

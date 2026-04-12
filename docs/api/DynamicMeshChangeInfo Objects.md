@@ -20,7 +20,7 @@ This struct is emitted by the UDynamicMesh OnPreMeshChanged() and OnMeshChanged(
 
 <a id="unreal.DynamicMeshChangeInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -54,7 +54,7 @@ def flags() -> DynamicMeshAttributeChangeFlags
 
 <a id="unreal.DynamicMeshChangeInfo.is_revert_change"></a>
 
-#### is_revert_change
+#### is\_revert\_change
 
 ```python
 @property
@@ -63,4 +63,4 @@ def is_revert_change() -> bool
 
 (bool):  [Read-Only] for changes that are an FChange, indicates whether this is an 'Apply' or 'Revert' of the FChange
 
-<a id="unreal.AvaMark"></a>
+<a id="unreal.ZoneGraphTag"></a>

@@ -33,7 +33,7 @@ Constraint setup struct, holds data required to build a physics constraint
 
 <a id="unreal.AnimPhysConstraintSetup.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

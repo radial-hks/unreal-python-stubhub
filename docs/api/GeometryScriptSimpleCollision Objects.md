@@ -14,7 +14,7 @@ Holds simple shapes that can be used for collision
 
 <a id="unreal.GeometryScriptSimpleCollision.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptSimpleCollision.simplify_convex_hulls"></a>
 
-#### simplify_convex_hulls
+#### simplify\_convex\_hulls
 
 ```python
 def simplify_convex_hulls(
@@ -44,7 +44,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimpleCollision.get_simple_collision_shape_count"></a>
 
-#### get_simple_collision_shape_count
+#### get\_simple\_collision\_shape\_count
 
 ```python
 def get_simple_collision_shape_count() -> int
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.GeometryScriptSimpleCollision.combine_simple_collision"></a>
 
-#### combine_simple_collision
+#### combine\_simple\_collision
 
 ```python
 def combine_simple_collision(append_collision: GeometryScriptSimpleCollision,
@@ -74,7 +74,7 @@ Args:
 
 <a id="unreal.GeometryScriptSimpleCollision.approximate_convex_hulls_with_simpler_collision_shapes"></a>
 
-#### approximate_convex_hulls_with_simpler_collision_shapes
+#### approximate\_convex\_hulls\_with\_simpler\_collision\_shapes
 
 ```python
 def approximate_convex_hulls_with_simpler_collision_shapes(

@@ -26,7 +26,7 @@ Represents the appearance of an Audio Material Button
 
 <a id="unreal.AudioMaterialButtonStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -56,7 +56,7 @@ def __init__(
 
 <a id="unreal.AudioMaterialButtonStyle.button_main_color"></a>
 
-#### button_main_color
+#### button\_main\_color
 
 ```python
 @property
@@ -67,7 +67,7 @@ def button_main_color() -> LinearColor
 
 <a id="unreal.AudioMaterialButtonStyle.button_main_color"></a>
 
-#### button_main_color
+#### button\_main\_color
 
 ```python
 @button_main_color.setter
@@ -76,7 +76,7 @@ def button_main_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialButtonStyle.button_main_color_tint_1"></a>
 
-#### button_main_color_tint_1
+#### button\_main\_color\_tint\_1
 
 ```python
 @property
@@ -87,7 +87,7 @@ def button_main_color_tint_1() -> LinearColor
 
 <a id="unreal.AudioMaterialButtonStyle.button_main_color_tint_1"></a>
 
-#### button_main_color_tint_1
+#### button\_main\_color\_tint\_1
 
 ```python
 @button_main_color_tint_1.setter
@@ -96,7 +96,7 @@ def button_main_color_tint_1(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialButtonStyle.button_main_color_tint_2"></a>
 
-#### button_main_color_tint_2
+#### button\_main\_color\_tint\_2
 
 ```python
 @property
@@ -107,7 +107,7 @@ def button_main_color_tint_2() -> LinearColor
 
 <a id="unreal.AudioMaterialButtonStyle.button_main_color_tint_2"></a>
 
-#### button_main_color_tint_2
+#### button\_main\_color\_tint\_2
 
 ```python
 @button_main_color_tint_2.setter
@@ -116,7 +116,7 @@ def button_main_color_tint_2(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialButtonStyle.button_accent_color"></a>
 
-#### button_accent_color
+#### button\_accent\_color
 
 ```python
 @property
@@ -127,7 +127,7 @@ def button_accent_color() -> LinearColor
 
 <a id="unreal.AudioMaterialButtonStyle.button_accent_color"></a>
 
-#### button_accent_color
+#### button\_accent\_color
 
 ```python
 @button_accent_color.setter
@@ -136,7 +136,7 @@ def button_accent_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialButtonStyle.button_shadow_color"></a>
 
-#### button_shadow_color
+#### button\_shadow\_color
 
 ```python
 @property
@@ -147,7 +147,7 @@ def button_shadow_color() -> LinearColor
 
 <a id="unreal.AudioMaterialButtonStyle.button_shadow_color"></a>
 
-#### button_shadow_color
+#### button\_shadow\_color
 
 ```python
 @button_shadow_color.setter
@@ -156,7 +156,7 @@ def button_shadow_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialButtonStyle.button_unpressed_outline_color"></a>
 
-#### button_unpressed_outline_color
+#### button\_unpressed\_outline\_color
 
 ```python
 @property
@@ -167,7 +167,7 @@ def button_unpressed_outline_color() -> LinearColor
 
 <a id="unreal.AudioMaterialButtonStyle.button_unpressed_outline_color"></a>
 
-#### button_unpressed_outline_color
+#### button\_unpressed\_outline\_color
 
 ```python
 @button_unpressed_outline_color.setter
@@ -176,7 +176,7 @@ def button_unpressed_outline_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialButtonStyle.button_pressed_outline_color"></a>
 
-#### button_pressed_outline_color
+#### button\_pressed\_outline\_color
 
 ```python
 @property
@@ -187,7 +187,7 @@ def button_pressed_outline_color() -> LinearColor
 
 <a id="unreal.AudioMaterialButtonStyle.button_pressed_outline_color"></a>
 
-#### button_pressed_outline_color
+#### button\_pressed\_outline\_color
 
 ```python
 @button_pressed_outline_color.setter

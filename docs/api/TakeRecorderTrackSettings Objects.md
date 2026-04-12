@@ -20,7 +20,7 @@ Take Recorder Track Settings
 
 <a id="unreal.TakeRecorderTrackSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

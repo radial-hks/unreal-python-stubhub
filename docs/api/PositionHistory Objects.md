@@ -22,7 +22,7 @@ reuse of entries (instead of appending to the array all the time).
 
 <a id="unreal.PositionHistory.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

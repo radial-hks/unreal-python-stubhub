@@ -67,7 +67,7 @@ Collision testing is not performed during movement.
 
 <a id="unreal.RotatingMovementComponent.rotation_rate"></a>
 
-#### rotation_rate
+#### rotation\_rate
 
 ```python
 @property
@@ -78,7 +78,7 @@ def rotation_rate() -> Rotator
 
 <a id="unreal.RotatingMovementComponent.rotation_rate"></a>
 
-#### rotation_rate
+#### rotation\_rate
 
 ```python
 @rotation_rate.setter
@@ -87,7 +87,7 @@ def rotation_rate(value: Rotator) -> None
 
 <a id="unreal.RotatingMovementComponent.pivot_translation"></a>
 
-#### pivot_translation
+#### pivot\_translation
 
 ```python
 @property
@@ -101,7 +101,7 @@ rather than around the object's origin (the default).
 
 <a id="unreal.RotatingMovementComponent.pivot_translation"></a>
 
-#### pivot_translation
+#### pivot\_translation
 
 ```python
 @pivot_translation.setter
@@ -110,7 +110,7 @@ def pivot_translation(value: Vector) -> None
 
 <a id="unreal.RotatingMovementComponent.rotation_in_local_space"></a>
 
-#### rotation_in_local_space
+#### rotation\_in\_local\_space
 
 ```python
 @property
@@ -121,7 +121,7 @@ def rotation_in_local_space() -> bool
 
 <a id="unreal.RotatingMovementComponent.rotation_in_local_space"></a>
 
-#### rotation_in_local_space
+#### rotation\_in\_local\_space
 
 ```python
 @rotation_in_local_space.setter

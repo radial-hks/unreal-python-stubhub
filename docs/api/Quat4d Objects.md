@@ -21,10 +21,10 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Quat4d.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.DaySequenceConditionSet"></a>
+<a id="unreal.GeometryCollectionLevelSetData"></a>

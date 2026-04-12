@@ -14,7 +14,7 @@ Input Action Value
 
 <a id="unreal.InputActionValue.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

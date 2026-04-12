@@ -13,7 +13,7 @@ Value or BBKey Blueprint Utility
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_vector"></a>
 
-#### get_vector
+#### get\_vector
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_struct"></a>
 
-#### get_struct
+#### get\_struct
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_string"></a>
 
-#### get_string
+#### get\_string
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_rotator"></a>
 
-#### get_rotator
+#### get\_rotator
 
 ```python
 @classmethod
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_object"></a>
 
-#### get_object
+#### get\_object
 
 ```python
 @classmethod
@@ -113,7 +113,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_name"></a>
 
-#### get_name
+#### get\_name
 
 ```python
 @classmethod
@@ -133,7 +133,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_int32"></a>
 
-#### get_int32
+#### get\_int32
 
 ```python
 @classmethod
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_float"></a>
 
-#### get_float
+#### get\_float
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_enum"></a>
 
-#### get_enum
+#### get\_enum
 
 ```python
 @classmethod
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_class"></a>
 
-#### get_class
+#### get\_class
 
 ```python
 @classmethod
@@ -213,7 +213,7 @@ Returns:
 
 <a id="unreal.ValueOrBBKeyBlueprintUtility.get_bool"></a>
 
-#### get_bool
+#### get\_bool
 
 ```python
 @classmethod

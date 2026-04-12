@@ -29,7 +29,7 @@ Note: This will only trigger for one frame before resetting the combo trigger's 
 
 <a id="unreal.InputTriggerCombo.current_combo_step_index"></a>
 
-#### current_combo_step_index
+#### current\_combo\_step\_index
 
 ```python
 @property
@@ -40,7 +40,7 @@ def current_combo_step_index() -> int
 
 <a id="unreal.InputTriggerCombo.current_time_between_combo_steps"></a>
 
-#### current_time_between_combo_steps
+#### current\_time\_between\_combo\_steps
 
 ```python
 @property
@@ -51,7 +51,7 @@ def current_time_between_combo_steps() -> float
 
 <a id="unreal.InputTriggerCombo.combo_actions"></a>
 
-#### combo_actions
+#### combo\_actions
 
 ```python
 @property
@@ -63,7 +63,7 @@ Input actions must be triggered in order (starting at index 0) to count towards 
 
 <a id="unreal.InputTriggerCombo.combo_actions"></a>
 
-#### combo_actions
+#### combo\_actions
 
 ```python
 @combo_actions.setter
@@ -72,7 +72,7 @@ def combo_actions(value: Array[InputComboStepData]) -> None
 
 <a id="unreal.InputTriggerCombo.input_cancel_actions"></a>
 
-#### input_cancel_actions
+#### input\_cancel\_actions
 
 ```python
 @property
@@ -83,7 +83,7 @@ def input_cancel_actions() -> Array[InputCancelAction]
 
 <a id="unreal.InputTriggerCombo.input_cancel_actions"></a>
 
-#### input_cancel_actions
+#### input\_cancel\_actions
 
 ```python
 @input_cancel_actions.setter

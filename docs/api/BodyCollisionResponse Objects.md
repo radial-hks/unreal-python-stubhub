@@ -13,13 +13,13 @@ EBody Collision Response
 
 <a id="unreal.BodyCollisionResponse.BODY_COLLISION_ENABLED"></a>
 
-#### BODY_COLLISION_ENABLED
+#### BODY\_COLLISION\_ENABLED
 
 0
 
 <a id="unreal.BodyCollisionResponse.BODY_COLLISION_DISABLED"></a>
 
-#### BODY_COLLISION_DISABLED
+#### BODY\_COLLISION\_DISABLED
 
 1
 

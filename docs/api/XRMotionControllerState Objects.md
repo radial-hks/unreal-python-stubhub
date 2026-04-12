@@ -25,7 +25,7 @@ XRMotion Controller State
 
 <a id="unreal.XRMotionControllerState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -54,7 +54,7 @@ def valid() -> bool
 
 <a id="unreal.XRMotionControllerState.device_name"></a>
 
-#### device_name
+#### device\_name
 
 ```python
 @property
@@ -65,7 +65,7 @@ def device_name() -> Name
 
 <a id="unreal.XRMotionControllerState.application_instance_id"></a>
 
-#### application_instance_id
+#### application\_instance\_id
 
 ```python
 @property
@@ -76,7 +76,7 @@ def application_instance_id() -> Guid
 
 <a id="unreal.XRMotionControllerState.xr_space_type"></a>
 
-#### xr_space_type
+#### xr\_space\_type
 
 ```python
 @property
@@ -98,7 +98,7 @@ def hand() -> ControllerHand
 
 <a id="unreal.XRMotionControllerState.tracking_status"></a>
 
-#### tracking_status
+#### tracking\_status
 
 ```python
 @property
@@ -109,7 +109,7 @@ def tracking_status() -> TrackingStatus
 
 <a id="unreal.XRMotionControllerState.xr_controller_pose_type"></a>
 
-#### xr_controller_pose_type
+#### xr\_controller\_pose\_type
 
 ```python
 @property
@@ -120,7 +120,7 @@ def xr_controller_pose_type() -> XRControllerPoseType
 
 <a id="unreal.XRMotionControllerState.controller_location"></a>
 
-#### controller_location
+#### controller\_location
 
 ```python
 @property
@@ -131,7 +131,7 @@ def controller_location() -> Vector
 
 <a id="unreal.XRMotionControllerState.controller_rotation"></a>
 
-#### controller_rotation
+#### controller\_rotation
 
 ```python
 @property

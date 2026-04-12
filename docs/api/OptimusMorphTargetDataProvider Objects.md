@@ -18,7 +18,7 @@ Compute Framework Data Provider for reading skeletal mesh.
 
 <a id="unreal.OptimusMorphTargetDataProvider.skinned_mesh"></a>
 
-#### skinned_mesh
+#### skinned\_mesh
 
 ```python
 @property
@@ -29,7 +29,7 @@ def skinned_mesh() -> SkinnedMeshComponent
 
 <a id="unreal.OptimusMorphTargetDataProvider.skinned_mesh"></a>
 
-#### skinned_mesh
+#### skinned\_mesh
 
 ```python
 @skinned_mesh.setter

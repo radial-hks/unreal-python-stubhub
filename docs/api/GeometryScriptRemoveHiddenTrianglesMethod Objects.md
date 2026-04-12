@@ -14,13 +14,13 @@ EGeometry Script Remove Hidden Triangles Method
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesMethod.FAST_WINDING_NUMBER"></a>
 
-#### FAST_WINDING_NUMBER
+#### FAST\_WINDING\_NUMBER
 
 0
 
 <a id="unreal.GeometryScriptRemoveHiddenTrianglesMethod.RAYCAST_OCCLUSION_TEST"></a>
 
-#### RAYCAST_OCCLUSION_TEST
+#### RAYCAST\_OCCLUSION\_TEST
 
 1
 

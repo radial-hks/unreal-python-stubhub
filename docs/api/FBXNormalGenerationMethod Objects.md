@@ -13,13 +13,13 @@ EFBXNormal Generation Method
 
 <a id="unreal.FBXNormalGenerationMethod.BUILT_IN"></a>
 
-#### BUILT_IN
+#### BUILT\_IN
 
 0: Use the legacy built in method to generate normals (faster in some cases)
 
 <a id="unreal.FBXNormalGenerationMethod.MIKK_T_SPACE"></a>
 
-#### MIKK_T_SPACE
+#### MIKK\_T\_SPACE
 
 1: Use MikkTSpace to generate normals and tangents
 

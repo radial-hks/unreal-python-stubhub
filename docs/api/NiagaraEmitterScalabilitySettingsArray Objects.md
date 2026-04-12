@@ -18,7 +18,7 @@ Container struct for an array of emitter scalability settings. Enables details c
 
 <a id="unreal.NiagaraEmitterScalabilitySettingsArray.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

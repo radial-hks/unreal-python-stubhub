@@ -24,7 +24,7 @@ Procedural Foliage Spawner
 
 <a id="unreal.ProceduralFoliageSpawner.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @property
@@ -35,7 +35,7 @@ def random_seed() -> int
 
 <a id="unreal.ProceduralFoliageSpawner.tile_size"></a>
 
-#### tile_size
+#### tile\_size
 
 ```python
 @property
@@ -46,7 +46,7 @@ def tile_size() -> float
 
 <a id="unreal.ProceduralFoliageSpawner.num_unique_tiles"></a>
 
-#### num_unique_tiles
+#### num\_unique\_tiles
 
 ```python
 @property
@@ -57,7 +57,7 @@ def num_unique_tiles() -> int
 
 <a id="unreal.ProceduralFoliageSpawner.minimum_quad_tree_size"></a>
 
-#### minimum_quad_tree_size
+#### minimum\_quad\_tree\_size
 
 ```python
 @property

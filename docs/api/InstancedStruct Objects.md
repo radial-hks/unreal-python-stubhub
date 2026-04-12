@@ -21,7 +21,7 @@ Example:
 
 <a id="unreal.InstancedStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: int = 0) -> None

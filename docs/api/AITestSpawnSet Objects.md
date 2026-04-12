@@ -22,7 +22,7 @@ Generic AI Test Spawn Set that is used in regular AFunctionalAITest tests.
 
 <a id="unreal.AITestSpawnSet.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -33,7 +33,7 @@ def __init__(name: Name = "None",
 
 <a id="unreal.AITestSpawnSet.spawn_info_container"></a>
 
-#### spawn_info_container
+#### spawn\_info\_container
 
 ```python
 @property
@@ -44,7 +44,7 @@ def spawn_info_container() -> Array[AITestSpawnInfo]
 
 <a id="unreal.AITestSpawnSet.spawn_info_container"></a>
 
-#### spawn_info_container
+#### spawn\_info\_container
 
 ```python
 @spawn_info_container.setter

@@ -20,7 +20,7 @@ ERetarget Translation Mode
 
 <a id="unreal.RetargetTranslationMode.GLOBALLY_SCALED"></a>
 
-#### GLOBALLY_SCALED
+#### GLOBALLY\_SCALED
 
 1
 

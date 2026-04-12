@@ -18,7 +18,7 @@ Interchange Stack Info
 
 <a id="unreal.InterchangeStackInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(stack_name: Name = "None",
@@ -27,7 +27,7 @@ def __init__(stack_name: Name = "None",
 
 <a id="unreal.InterchangeStackInfo.stack_name"></a>
 
-#### stack_name
+#### stack\_name
 
 ```python
 @property
@@ -38,7 +38,7 @@ def stack_name() -> Name
 
 <a id="unreal.InterchangeStackInfo.stack_name"></a>
 
-#### stack_name
+#### stack\_name
 
 ```python
 @stack_name.setter

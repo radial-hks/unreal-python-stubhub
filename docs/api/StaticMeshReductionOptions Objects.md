@@ -19,7 +19,7 @@ Static Mesh Reduction Options
 
 <a id="unreal.StaticMeshReductionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -29,7 +29,7 @@ def __init__(
 
 <a id="unreal.StaticMeshReductionOptions.auto_compute_lod_screen_size"></a>
 
-#### auto_compute_lod_screen_size
+#### auto\_compute\_lod\_screen\_size
 
 ```python
 @property
@@ -41,7 +41,7 @@ note: that this is displayed as 'Auto Compute LOD Distances' in the UI
 
 <a id="unreal.StaticMeshReductionOptions.auto_compute_lod_screen_size"></a>
 
-#### auto_compute_lod_screen_size
+#### auto\_compute\_lod\_screen\_size
 
 ```python
 @auto_compute_lod_screen_size.setter
@@ -50,7 +50,7 @@ def auto_compute_lod_screen_size(value: bool) -> None
 
 <a id="unreal.StaticMeshReductionOptions.reduction_settings"></a>
 
-#### reduction_settings
+#### reduction\_settings
 
 ```python
 @property
@@ -61,7 +61,7 @@ def reduction_settings() -> Array[StaticMeshReductionSettings]
 
 <a id="unreal.StaticMeshReductionOptions.reduction_settings"></a>
 
-#### reduction_settings
+#### reduction\_settings
 
 ```python
 @reduction_settings.setter

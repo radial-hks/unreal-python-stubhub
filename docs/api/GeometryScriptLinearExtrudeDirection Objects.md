@@ -14,13 +14,13 @@ EGeometry Script Linear Extrude Direction
 
 <a id="unreal.GeometryScriptLinearExtrudeDirection.FIXED_DIRECTION"></a>
 
-#### FIXED_DIRECTION
+#### FIXED\_DIRECTION
 
 0
 
 <a id="unreal.GeometryScriptLinearExtrudeDirection.AVERAGE_FACE_NORMAL"></a>
 
-#### AVERAGE_FACE_NORMAL
+#### AVERAGE\_FACE\_NORMAL
 
 1
 

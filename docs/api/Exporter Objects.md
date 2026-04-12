@@ -21,7 +21,7 @@ Exporter
 
 <a id="unreal.Exporter.supported_class"></a>
 
-#### supported_class
+#### supported\_class
 
 ```python
 @property
@@ -32,7 +32,7 @@ def supported_class() -> Class
 
 <a id="unreal.Exporter.supported_class"></a>
 
-#### supported_class
+#### supported\_class
 
 ```python
 @supported_class.setter
@@ -41,7 +41,7 @@ def supported_class(value: Class) -> None
 
 <a id="unreal.Exporter.format_extension"></a>
 
-#### format_extension
+#### format\_extension
 
 ```python
 @property
@@ -52,7 +52,7 @@ def format_extension() -> Array[str]
 
 <a id="unreal.Exporter.format_extension"></a>
 
-#### format_extension
+#### format\_extension
 
 ```python
 @format_extension.setter
@@ -61,7 +61,7 @@ def format_extension(value: Array[str]) -> None
 
 <a id="unreal.Exporter.format_description"></a>
 
-#### format_description
+#### format\_description
 
 ```python
 @property
@@ -72,7 +72,7 @@ def format_description() -> Array[str]
 
 <a id="unreal.Exporter.format_description"></a>
 
-#### format_description
+#### format\_description
 
 ```python
 @format_description.setter
@@ -101,7 +101,7 @@ def text(value: bool) -> None
 
 <a id="unreal.Exporter.export_task"></a>
 
-#### export_task
+#### export\_task
 
 ```python
 @property
@@ -112,7 +112,7 @@ def export_task() -> AssetExportTask
 
 <a id="unreal.Exporter.export_task"></a>
 
-#### export_task
+#### export\_task
 
 ```python
 @export_task.setter
@@ -121,7 +121,7 @@ def export_task(value: AssetExportTask) -> None
 
 <a id="unreal.Exporter.script_run_asset_export_task"></a>
 
-#### script_run_asset_export_task
+#### script\_run\_asset\_export\_task
 
 ```python
 def script_run_asset_export_task(task: AssetExportTask) -> bool
@@ -138,7 +138,7 @@ Returns:
 
 <a id="unreal.Exporter.run_asset_export_tasks"></a>
 
-#### run_asset_export_tasks
+#### run\_asset\_export\_tasks
 
 ```python
 @classmethod
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.Exporter.run_asset_export_task"></a>
 
-#### run_asset_export_task
+#### run\_asset\_export\_task
 
 ```python
 @classmethod

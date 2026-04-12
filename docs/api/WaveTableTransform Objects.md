@@ -27,7 +27,7 @@ Wave Table Transform
 
 <a id="unreal.WaveTableTransform.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(curve: WaveTableCurve = WaveTableCurve.LINEAR,
@@ -80,7 +80,7 @@ def scalar(value: float) -> None
 
 <a id="unreal.WaveTableTransform.curve_shared"></a>
 
-#### curve_shared
+#### curve\_shared
 
 ```python
 @property
@@ -91,7 +91,7 @@ def curve_shared() -> CurveFloat
 
 <a id="unreal.WaveTableTransform.curve_shared"></a>
 
-#### curve_shared
+#### curve\_shared
 
 ```python
 @curve_shared.setter

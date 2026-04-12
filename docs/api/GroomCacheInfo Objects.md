@@ -19,7 +19,7 @@ Information about the GroomCache itself
 
 <a id="unreal.GroomCacheInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

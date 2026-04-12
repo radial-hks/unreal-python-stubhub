@@ -19,7 +19,7 @@ Live Link Source Preset
 
 <a id="unreal.LiveLinkSourcePreset.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

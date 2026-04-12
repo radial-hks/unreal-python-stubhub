@@ -22,7 +22,7 @@ Table row base for temporal denoiser input mapping
 
 <a id="unreal.NNEDenoiserTemporalInputMappingData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -55,7 +55,7 @@ def resource(value: TemporalInputResourceName) -> None
 
 <a id="unreal.NNEDenoiserTemporalInputMappingData.frame_index"></a>
 
-#### frame_index
+#### frame\_index
 
 ```python
 @property
@@ -66,7 +66,7 @@ def frame_index() -> int
 
 <a id="unreal.NNEDenoiserTemporalInputMappingData.frame_index"></a>
 
-#### frame_index
+#### frame\_index
 
 ```python
 @frame_index.setter

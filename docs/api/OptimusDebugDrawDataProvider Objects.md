@@ -18,7 +18,7 @@ Compute Framework Data Provider for writing skinned mesh.
 
 <a id="unreal.OptimusDebugDrawDataProvider.primitive_component"></a>
 
-#### primitive_component
+#### primitive\_component
 
 ```python
 @property
@@ -29,7 +29,7 @@ def primitive_component() -> PrimitiveComponent
 
 <a id="unreal.OptimusDebugDrawDataProvider.primitive_component"></a>
 
-#### primitive_component
+#### primitive\_component
 
 ```python
 @primitive_component.setter

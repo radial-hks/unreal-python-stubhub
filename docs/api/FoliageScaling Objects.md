@@ -25,19 +25,19 @@ EFoliage Scaling
 
 <a id="unreal.FoliageScaling.LOCK_XY"></a>
 
-#### LOCK_XY
+#### LOCK\_XY
 
 2: Locks the X and Y axis scale.
 
 <a id="unreal.FoliageScaling.LOCK_XZ"></a>
 
-#### LOCK_XZ
+#### LOCK\_XZ
 
 3: Locks the X and Z axis scale.
 
 <a id="unreal.FoliageScaling.LOCK_YZ"></a>
 
-#### LOCK_YZ
+#### LOCK\_YZ
 
 4: Locks the Y and Z axis scale.
 

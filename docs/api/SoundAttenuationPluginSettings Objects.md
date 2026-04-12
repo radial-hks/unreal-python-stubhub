@@ -20,7 +20,7 @@ Sound Attenuation Plugin Settings
 
 <a id="unreal.SoundAttenuationPluginSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.SoundAttenuationPluginSettings.spatialization_plugin_settings_array"></a>
 
-#### spatialization_plugin_settings_array
+#### spatialization\_plugin\_settings\_array
 
 ```python
 @property
@@ -48,7 +48,7 @@ def spatialization_plugin_settings_array(
 
 <a id="unreal.SoundAttenuationPluginSettings.spatialization_plugin_settings_array"></a>
 
-#### spatialization_plugin_settings_array
+#### spatialization\_plugin\_settings\_array
 
 ```python
 @spatialization_plugin_settings_array.setter
@@ -58,7 +58,7 @@ def spatialization_plugin_settings_array(
 
 <a id="unreal.SoundAttenuationPluginSettings.occlusion_plugin_settings_array"></a>
 
-#### occlusion_plugin_settings_array
+#### occlusion\_plugin\_settings\_array
 
 ```python
 @property
@@ -70,7 +70,7 @@ def occlusion_plugin_settings_array(
 
 <a id="unreal.SoundAttenuationPluginSettings.occlusion_plugin_settings_array"></a>
 
-#### occlusion_plugin_settings_array
+#### occlusion\_plugin\_settings\_array
 
 ```python
 @occlusion_plugin_settings_array.setter
@@ -80,7 +80,7 @@ def occlusion_plugin_settings_array(
 
 <a id="unreal.SoundAttenuationPluginSettings.reverb_plugin_settings_array"></a>
 
-#### reverb_plugin_settings_array
+#### reverb\_plugin\_settings\_array
 
 ```python
 @property
@@ -91,7 +91,7 @@ def reverb_plugin_settings_array() -> Array[ReverbPluginSourceSettingsBase]
 
 <a id="unreal.SoundAttenuationPluginSettings.reverb_plugin_settings_array"></a>
 
-#### reverb_plugin_settings_array
+#### reverb\_plugin\_settings\_array
 
 ```python
 @reverb_plugin_settings_array.setter
@@ -101,7 +101,7 @@ def reverb_plugin_settings_array(
 
 <a id="unreal.SoundAttenuationPluginSettings.source_data_override_plugin_settings_array"></a>
 
-#### source_data_override_plugin_settings_array
+#### source\_data\_override\_plugin\_settings\_array
 
 ```python
 @property
@@ -113,7 +113,7 @@ def source_data_override_plugin_settings_array(
 
 <a id="unreal.SoundAttenuationPluginSettings.source_data_override_plugin_settings_array"></a>
 
-#### source_data_override_plugin_settings_array
+#### source\_data\_override\_plugin\_settings\_array
 
 ```python
 @source_data_override_plugin_settings_array.setter

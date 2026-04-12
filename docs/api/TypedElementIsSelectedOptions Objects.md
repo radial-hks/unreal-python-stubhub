@@ -17,7 +17,7 @@ Typed Element Is Selected Options
 
 <a id="unreal.TypedElementIsSelectedOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(allow_indirect: bool = False) -> None
@@ -25,7 +25,7 @@ def __init__(allow_indirect: bool = False) -> None
 
 <a id="unreal.TypedElementIsSelectedOptions.allow_indirect"></a>
 
-#### allow_indirect
+#### allow\_indirect
 
 ```python
 @property
@@ -36,7 +36,7 @@ def allow_indirect() -> bool
 
 <a id="unreal.TypedElementIsSelectedOptions.allow_indirect"></a>
 
-#### allow_indirect
+#### allow\_indirect
 
 ```python
 @allow_indirect.setter

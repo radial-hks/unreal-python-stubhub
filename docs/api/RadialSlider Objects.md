@@ -98,7 +98,7 @@ def value(value: float) -> None
 
 <a id="unreal.RadialSlider.slider_range"></a>
 
-#### slider_range
+#### slider\_range
 
 ```python
 @property
@@ -109,7 +109,7 @@ def slider_range() -> RuntimeFloatCurve
 
 <a id="unreal.RadialSlider.value_tags"></a>
 
-#### value_tags
+#### value\_tags
 
 ```python
 @property
@@ -120,7 +120,7 @@ def value_tags() -> Array[float]
 
 <a id="unreal.RadialSlider.slider_handle_start_angle"></a>
 
-#### slider_handle_start_angle
+#### slider\_handle\_start\_angle
 
 ```python
 @property
@@ -131,7 +131,7 @@ def slider_handle_start_angle() -> float
 
 <a id="unreal.RadialSlider.slider_handle_end_angle"></a>
 
-#### slider_handle_end_angle
+#### slider\_handle\_end\_angle
 
 ```python
 @property
@@ -142,7 +142,7 @@ def slider_handle_end_angle() -> float
 
 <a id="unreal.RadialSlider.angular_offset"></a>
 
-#### angular_offset
+#### angular\_offset
 
 ```python
 @property
@@ -153,7 +153,7 @@ def angular_offset() -> float
 
 <a id="unreal.RadialSlider.hand_start_end_ratio"></a>
 
-#### hand_start_end_ratio
+#### hand\_start\_end\_ratio
 
 ```python
 @property
@@ -164,7 +164,7 @@ def hand_start_end_ratio() -> Vector2D
 
 <a id="unreal.RadialSlider.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -175,7 +175,7 @@ def widget_style() -> SliderStyle
 
 <a id="unreal.RadialSlider.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -184,7 +184,7 @@ def widget_style(value: SliderStyle) -> None
 
 <a id="unreal.RadialSlider.slider_bar_color"></a>
 
-#### slider_bar_color
+#### slider\_bar\_color
 
 ```python
 @property
@@ -195,7 +195,7 @@ def slider_bar_color() -> LinearColor
 
 <a id="unreal.RadialSlider.slider_progress_color"></a>
 
-#### slider_progress_color
+#### slider\_progress\_color
 
 ```python
 @property
@@ -206,7 +206,7 @@ def slider_progress_color() -> LinearColor
 
 <a id="unreal.RadialSlider.slider_handle_color"></a>
 
-#### slider_handle_color
+#### slider\_handle\_color
 
 ```python
 @property
@@ -217,7 +217,7 @@ def slider_handle_color() -> LinearColor
 
 <a id="unreal.RadialSlider.center_background_color"></a>
 
-#### center_background_color
+#### center\_background\_color
 
 ```python
 @property
@@ -239,7 +239,7 @@ def locked() -> bool
 
 <a id="unreal.RadialSlider.mouse_uses_step"></a>
 
-#### mouse_uses_step
+#### mouse\_uses\_step
 
 ```python
 @property
@@ -250,7 +250,7 @@ def mouse_uses_step() -> bool
 
 <a id="unreal.RadialSlider.requires_controller_lock"></a>
 
-#### requires_controller_lock
+#### requires\_controller\_lock
 
 ```python
 @property
@@ -261,7 +261,7 @@ def requires_controller_lock() -> bool
 
 <a id="unreal.RadialSlider.step_size"></a>
 
-#### step_size
+#### step\_size
 
 ```python
 @property
@@ -272,7 +272,7 @@ def step_size() -> float
 
 <a id="unreal.RadialSlider.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @property
@@ -283,7 +283,7 @@ def is_focusable() -> bool
 
 <a id="unreal.RadialSlider.use_vertical_drag"></a>
 
-#### use_vertical_drag
+#### use\_vertical\_drag
 
 ```python
 @property
@@ -294,7 +294,7 @@ def use_vertical_drag() -> bool
 
 <a id="unreal.RadialSlider.use_vertical_drag"></a>
 
-#### use_vertical_drag
+#### use\_vertical\_drag
 
 ```python
 @use_vertical_drag.setter
@@ -303,7 +303,7 @@ def use_vertical_drag(value: bool) -> None
 
 <a id="unreal.RadialSlider.show_slider_handle"></a>
 
-#### show_slider_handle
+#### show\_slider\_handle
 
 ```python
 @property
@@ -314,7 +314,7 @@ def show_slider_handle() -> bool
 
 <a id="unreal.RadialSlider.show_slider_handle"></a>
 
-#### show_slider_handle
+#### show\_slider\_handle
 
 ```python
 @show_slider_handle.setter
@@ -323,7 +323,7 @@ def show_slider_handle(value: bool) -> None
 
 <a id="unreal.RadialSlider.show_slider_hand"></a>
 
-#### show_slider_hand
+#### show\_slider\_hand
 
 ```python
 @property
@@ -334,7 +334,7 @@ def show_slider_hand() -> bool
 
 <a id="unreal.RadialSlider.show_slider_hand"></a>
 
-#### show_slider_hand
+#### show\_slider\_hand
 
 ```python
 @show_slider_hand.setter
@@ -343,7 +343,7 @@ def show_slider_hand(value: bool) -> None
 
 <a id="unreal.RadialSlider.on_mouse_capture_begin"></a>
 
-#### on_mouse_capture_begin
+#### on\_mouse\_capture\_begin
 
 ```python
 @property
@@ -354,7 +354,7 @@ def on_mouse_capture_begin() -> OnMouseCaptureBeginEvent
 
 <a id="unreal.RadialSlider.on_mouse_capture_begin"></a>
 
-#### on_mouse_capture_begin
+#### on\_mouse\_capture\_begin
 
 ```python
 @on_mouse_capture_begin.setter
@@ -363,7 +363,7 @@ def on_mouse_capture_begin(value: OnMouseCaptureBeginEvent) -> None
 
 <a id="unreal.RadialSlider.on_mouse_capture_end"></a>
 
-#### on_mouse_capture_end
+#### on\_mouse\_capture\_end
 
 ```python
 @property
@@ -374,7 +374,7 @@ def on_mouse_capture_end() -> OnMouseCaptureEndEvent
 
 <a id="unreal.RadialSlider.on_mouse_capture_end"></a>
 
-#### on_mouse_capture_end
+#### on\_mouse\_capture\_end
 
 ```python
 @on_mouse_capture_end.setter
@@ -383,7 +383,7 @@ def on_mouse_capture_end(value: OnMouseCaptureEndEvent) -> None
 
 <a id="unreal.RadialSlider.on_controller_capture_begin"></a>
 
-#### on_controller_capture_begin
+#### on\_controller\_capture\_begin
 
 ```python
 @property
@@ -394,7 +394,7 @@ def on_controller_capture_begin() -> OnControllerCaptureBeginEvent
 
 <a id="unreal.RadialSlider.on_controller_capture_begin"></a>
 
-#### on_controller_capture_begin
+#### on\_controller\_capture\_begin
 
 ```python
 @on_controller_capture_begin.setter
@@ -403,7 +403,7 @@ def on_controller_capture_begin(value: OnControllerCaptureBeginEvent) -> None
 
 <a id="unreal.RadialSlider.on_controller_capture_end"></a>
 
-#### on_controller_capture_end
+#### on\_controller\_capture\_end
 
 ```python
 @property
@@ -414,7 +414,7 @@ def on_controller_capture_end() -> OnControllerCaptureEndEvent
 
 <a id="unreal.RadialSlider.on_controller_capture_end"></a>
 
-#### on_controller_capture_end
+#### on\_controller\_capture\_end
 
 ```python
 @on_controller_capture_end.setter
@@ -423,7 +423,7 @@ def on_controller_capture_end(value: OnControllerCaptureEndEvent) -> None
 
 <a id="unreal.RadialSlider.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @property
@@ -434,7 +434,7 @@ def on_value_changed() -> OnFloatValueChangedEvent
 
 <a id="unreal.RadialSlider.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @on_value_changed.setter
@@ -443,7 +443,7 @@ def on_value_changed(value: OnFloatValueChangedEvent) -> None
 
 <a id="unreal.RadialSlider.set_value_tags"></a>
 
-#### set_value_tags
+#### set\_value\_tags
 
 ```python
 def set_value_tags(value_tags: Array[float]) -> None
@@ -457,7 +457,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_value"></a>
 
-#### set_value
+#### set\_value
 
 ```python
 def set_value(value: float) -> None
@@ -471,7 +471,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_use_vertical_drag"></a>
 
-#### set_use_vertical_drag
+#### set\_use\_vertical\_drag
 
 ```python
 def set_use_vertical_drag(use_vertical_drag: bool) -> None
@@ -485,7 +485,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_step_size"></a>
 
-#### set_step_size
+#### set\_step\_size
 
 ```python
 def set_step_size(value: float) -> None
@@ -499,7 +499,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_slider_range"></a>
 
-#### set_slider_range
+#### set\_slider\_range
 
 ```python
 def set_slider_range(slider_range: RuntimeFloatCurve) -> None
@@ -513,7 +513,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_slider_progress_color"></a>
 
-#### set_slider_progress_color
+#### set\_slider\_progress\_color
 
 ```python
 def set_slider_progress_color(value: LinearColor) -> None
@@ -527,7 +527,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_slider_handle_start_angle"></a>
 
-#### set_slider_handle_start_angle
+#### set\_slider\_handle\_start\_angle
 
 ```python
 def set_slider_handle_start_angle(value: float) -> None
@@ -541,7 +541,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_slider_handle_end_angle"></a>
 
-#### set_slider_handle_end_angle
+#### set\_slider\_handle\_end\_angle
 
 ```python
 def set_slider_handle_end_angle(value: float) -> None
@@ -555,7 +555,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_slider_handle_color"></a>
 
-#### set_slider_handle_color
+#### set\_slider\_handle\_color
 
 ```python
 def set_slider_handle_color(value: LinearColor) -> None
@@ -569,7 +569,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_slider_bar_color"></a>
 
-#### set_slider_bar_color
+#### set\_slider\_bar\_color
 
 ```python
 def set_slider_bar_color(value: LinearColor) -> None
@@ -583,7 +583,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_show_slider_handle"></a>
 
-#### set_show_slider_handle
+#### set\_show\_slider\_handle
 
 ```python
 def set_show_slider_handle(show_slider_handle: bool) -> None
@@ -597,7 +597,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_show_slider_hand"></a>
 
-#### set_show_slider_hand
+#### set\_show\_slider\_hand
 
 ```python
 def set_show_slider_hand(show_slider_hand: bool) -> None
@@ -611,7 +611,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_locked"></a>
 
-#### set_locked
+#### set\_locked
 
 ```python
 def set_locked(value: bool) -> None
@@ -625,7 +625,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_hand_start_end_ratio"></a>
 
-#### set_hand_start_end_ratio
+#### set\_hand\_start\_end\_ratio
 
 ```python
 def set_hand_start_end_ratio(value: Vector2D) -> None
@@ -639,7 +639,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_custom_default_value"></a>
 
-#### set_custom_default_value
+#### set\_custom\_default\_value
 
 ```python
 def set_custom_default_value(value: float) -> None
@@ -653,7 +653,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_center_background_color"></a>
 
-#### set_center_background_color
+#### set\_center\_background\_color
 
 ```python
 def set_center_background_color(value: LinearColor) -> None
@@ -667,7 +667,7 @@ Args:
 
 <a id="unreal.RadialSlider.set_angular_offset"></a>
 
-#### set_angular_offset
+#### set\_angular\_offset
 
 ```python
 def set_angular_offset(value: float) -> None
@@ -681,7 +681,7 @@ Args:
 
 <a id="unreal.RadialSlider.get_value"></a>
 
-#### get_value
+#### get\_value
 
 ```python
 def get_value() -> float
@@ -695,7 +695,7 @@ Returns:
 
 <a id="unreal.RadialSlider.get_normalized_slider_handle_position"></a>
 
-#### get_normalized_slider_handle_position
+#### get\_normalized\_slider\_handle\_position
 
 ```python
 def get_normalized_slider_handle_position() -> float
@@ -709,7 +709,7 @@ Returns:
 
 <a id="unreal.RadialSlider.get_custom_default_value"></a>
 
-#### get_custom_default_value
+#### get\_custom\_default\_value
 
 ```python
 def get_custom_default_value() -> float

@@ -19,7 +19,7 @@ Geometry Script Mesh Edit Polygroup Options
 
 <a id="unreal.GeometryScriptMeshEditPolygroupOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -31,7 +31,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptMeshEditPolygroupOptions.group_mode"></a>
 
-#### group_mode
+#### group\_mode
 
 ```python
 @property
@@ -42,7 +42,7 @@ def group_mode() -> GeometryScriptMeshEditPolygroupMode
 
 <a id="unreal.GeometryScriptMeshEditPolygroupOptions.group_mode"></a>
 
-#### group_mode
+#### group\_mode
 
 ```python
 @group_mode.setter
@@ -51,7 +51,7 @@ def group_mode(value: GeometryScriptMeshEditPolygroupMode) -> None
 
 <a id="unreal.GeometryScriptMeshEditPolygroupOptions.constant_group"></a>
 
-#### constant_group
+#### constant\_group
 
 ```python
 @property
@@ -62,7 +62,7 @@ def constant_group() -> int
 
 <a id="unreal.GeometryScriptMeshEditPolygroupOptions.constant_group"></a>
 
-#### constant_group
+#### constant\_group
 
 ```python
 @constant_group.setter

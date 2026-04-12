@@ -14,13 +14,13 @@ note: Mirrored from Engine\Source\Runtime\Core\Public\Containers\UnrealString.h
 
 <a id="unreal.SearchCase.CASE_SENSITIVE"></a>
 
-#### CASE_SENSITIVE
+#### CASE\_SENSITIVE
 
 0
 
 <a id="unreal.SearchCase.IGNORE_CASE"></a>
 
-#### IGNORE_CASE
+#### IGNORE\_CASE
 
 1
 

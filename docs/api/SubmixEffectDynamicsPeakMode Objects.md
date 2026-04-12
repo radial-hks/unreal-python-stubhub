@@ -13,13 +13,13 @@ ESubmix Effect Dynamics Peak Mode
 
 <a id="unreal.SubmixEffectDynamicsPeakMode.MEAN_SQUARED"></a>
 
-#### MEAN_SQUARED
+#### MEAN\_SQUARED
 
 0
 
 <a id="unreal.SubmixEffectDynamicsPeakMode.ROOT_MEAN_SQUARED"></a>
 
-#### ROOT_MEAN_SQUARED
+#### ROOT\_MEAN\_SQUARED
 
 1
 

@@ -16,7 +16,7 @@ struct UPROPERTY members.
 
 <a id="unreal.RigVMUnitNode.get_struct_default_value"></a>
 
-#### get_struct_default_value
+#### get\_struct\_default\_value
 
 ```python
 def get_struct_default_value() -> str
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.RigVMUnitNode.get_method_name"></a>
 
-#### get_method_name
+#### get\_method\_name
 
 ```python
 def get_method_name() -> Name

@@ -20,7 +20,7 @@ Material Expression Material Function Call
 
 <a id="unreal.MaterialExpressionMaterialFunctionCall.set_material_function"></a>
 
-#### set_material_function
+#### set\_material\_function
 
 ```python
 def set_material_function(

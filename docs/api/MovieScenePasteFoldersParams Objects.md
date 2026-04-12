@@ -18,7 +18,7 @@ Paste folders params
 
 <a id="unreal.MovieScenePasteFoldersParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sequence: MovieSceneSequence = None,
@@ -47,7 +47,7 @@ def sequence(value: MovieSceneSequence) -> None
 
 <a id="unreal.MovieScenePasteFoldersParams.parent_folder"></a>
 
-#### parent_folder
+#### parent\_folder
 
 ```python
 @property
@@ -58,7 +58,7 @@ def parent_folder() -> MovieSceneFolder
 
 <a id="unreal.MovieScenePasteFoldersParams.parent_folder"></a>
 
-#### parent_folder
+#### parent\_folder
 
 ```python
 @parent_folder.setter

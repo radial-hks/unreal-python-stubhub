@@ -72,7 +72,7 @@ def resolution(value: IntPoint) -> None
 
 <a id="unreal.AssetThumbnailWidget.thumbnail_settings"></a>
 
-#### thumbnail_settings
+#### thumbnail\_settings
 
 ```python
 @property
@@ -83,7 +83,7 @@ def thumbnail_settings() -> AssetThumbnailWidgetSettings
 
 <a id="unreal.AssetThumbnailWidget.thumbnail_settings"></a>
 
-#### thumbnail_settings
+#### thumbnail\_settings
 
 ```python
 @thumbnail_settings.setter
@@ -92,7 +92,7 @@ def thumbnail_settings(value: AssetThumbnailWidgetSettings) -> None
 
 <a id="unreal.AssetThumbnailWidget.set_thumbnail_settings"></a>
 
-#### set_thumbnail_settings
+#### set\_thumbnail\_settings
 
 ```python
 def set_thumbnail_settings(
@@ -107,7 +107,7 @@ Args:
 
 <a id="unreal.AssetThumbnailWidget.set_resolution"></a>
 
-#### set_resolution
+#### set\_resolution
 
 ```python
 def set_resolution(resolution: IntPoint) -> None
@@ -121,7 +121,7 @@ Args:
 
 <a id="unreal.AssetThumbnailWidget.set_asset_by_object"></a>
 
-#### set_asset_by_object
+#### set\_asset\_by\_object
 
 ```python
 def set_asset_by_object(object: Object) -> None
@@ -135,7 +135,7 @@ Args:
 
 <a id="unreal.AssetThumbnailWidget.set_asset"></a>
 
-#### set_asset
+#### set\_asset
 
 ```python
 def set_asset(asset_data: AssetData) -> None
@@ -149,7 +149,7 @@ Args:
 
 <a id="unreal.AssetThumbnailWidget.get_resolution"></a>
 
-#### get_resolution
+#### get\_resolution
 
 ```python
 def get_resolution() -> IntPoint

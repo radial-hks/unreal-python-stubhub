@@ -37,7 +37,7 @@ Convert a string to a numerical value.
 
 <a id="unreal.PCGParseStringSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -48,7 +48,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGParseStringSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter
@@ -57,7 +57,7 @@ def input_source(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGParseStringSettings.target_type"></a>
 
-#### target_type
+#### target\_type
 
 ```python
 @property
@@ -68,7 +68,7 @@ def target_type() -> PCGMetadataTypes
 
 <a id="unreal.PCGParseStringSettings.target_type"></a>
 
-#### target_type
+#### target\_type
 
 ```python
 @target_type.setter

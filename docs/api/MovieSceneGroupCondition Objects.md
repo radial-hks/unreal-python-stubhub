@@ -40,7 +40,7 @@ def operator(value: MovieSceneGroupConditionOperator) -> None
 
 <a id="unreal.MovieSceneGroupCondition.sub_conditions"></a>
 
-#### sub_conditions
+#### sub\_conditions
 
 ```python
 @property
@@ -51,7 +51,7 @@ def sub_conditions() -> Array[MovieSceneConditionContainer]
 
 <a id="unreal.MovieSceneGroupCondition.sub_conditions"></a>
 
-#### sub_conditions
+#### sub\_conditions
 
 ```python
 @sub_conditions.setter

@@ -86,7 +86,7 @@ for rendering as well as rendered as a regular cube texture resource.
 
 <a id="unreal.TextureRenderTargetCube.size_x"></a>
 
-#### size_x
+#### size\_x
 
 ```python
 @property
@@ -97,7 +97,7 @@ def size_x() -> int
 
 <a id="unreal.TextureRenderTargetCube.size_x"></a>
 
-#### size_x
+#### size\_x
 
 ```python
 @size_x.setter
@@ -118,7 +118,7 @@ def hdr() -> bool
 
 <a id="unreal.TextureRenderTargetCube.supports_uav"></a>
 
-#### supports_uav
+#### supports\_uav
 
 ```python
 @property
@@ -129,7 +129,7 @@ def supports_uav() -> bool
 
 <a id="unreal.TextureRenderTargetCube.auto_generate_mips"></a>
 
-#### auto_generate_mips
+#### auto\_generate\_mips
 
 ```python
 @property
@@ -140,7 +140,7 @@ def auto_generate_mips() -> bool
 
 <a id="unreal.TextureRenderTargetCube.mips_sampler_filter"></a>
 
-#### mips_sampler_filter
+#### mips\_sampler\_filter
 
 ```python
 @property

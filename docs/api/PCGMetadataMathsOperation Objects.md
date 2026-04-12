@@ -62,7 +62,7 @@ EPCGMetadata Maths Operation
 
 <a id="unreal.PCGMetadataMathsOperation.ONE_MINUS"></a>
 
-#### ONE_MINUS
+#### ONE\_MINUS
 
 1033: 1 - X operation
 
@@ -128,13 +128,13 @@ EPCGMetadata Maths Operation
 
 <a id="unreal.PCGMetadataMathsOperation.CLAMP_MIN"></a>
 
-#### CLAMP_MIN
+#### CLAMP\_MIN
 
 2056
 
 <a id="unreal.PCGMetadataMathsOperation.CLAMP_MAX"></a>
 
-#### CLAMP_MAX
+#### CLAMP\_MAX
 
 2057
 

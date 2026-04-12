@@ -13,7 +13,7 @@ Audio Properties Sheet Asset Base
 
 <a id="unreal.AudioPropertiesSheetAssetBase.copy_to_object_properties"></a>
 
-#### copy_to_object_properties
+#### copy\_to\_object\_properties
 
 ```python
 def copy_to_object_properties(target_object: Object) -> bool

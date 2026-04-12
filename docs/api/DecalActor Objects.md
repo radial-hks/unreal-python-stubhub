@@ -155,7 +155,7 @@ def decal() -> DecalComponent
 
 <a id="unreal.DecalActor.set_decal_material"></a>
 
-#### set_decal_material
+#### set\_decal\_material
 
 ```python
 def set_decal_material(new_decal_material: MaterialInterface) -> None
@@ -170,7 +170,7 @@ Args:
 
 <a id="unreal.DecalActor.get_decal_material"></a>
 
-#### get_decal_material
+#### get\_decal\_material
 
 ```python
 def get_decal_material() -> MaterialInterface
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.DecalActor.create_dynamic_material_instance"></a>
 
-#### create_dynamic_material_instance
+#### create\_dynamic\_material\_instance
 
 ```python
 def create_dynamic_material_instance() -> MaterialInstanceDynamic
@@ -200,7 +200,7 @@ Returns:
 
 <a id="unreal.DecalActor.create_mid_for_decal"></a>
 
-#### create_mid_for_decal
+#### create\_mid\_for\_decal
 
 ```python
 def create_mid_for_decal() -> MaterialInstanceDynamic

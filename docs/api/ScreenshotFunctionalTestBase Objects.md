@@ -181,7 +181,7 @@ def notes() -> str
 
 <a id="unreal.ScreenshotFunctionalTestBase.screenshot_camera"></a>
 
-#### screenshot_camera
+#### screenshot\_camera
 
 ```python
 @property
@@ -192,7 +192,7 @@ def screenshot_camera() -> CameraComponent
 
 <a id="unreal.ScreenshotFunctionalTestBase.screenshot_options"></a>
 
-#### screenshot_options
+#### screenshot\_options
 
 ```python
 @property

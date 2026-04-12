@@ -14,13 +14,13 @@ EOutliner Item Name Enum
 
 <a id="unreal.OutlinerItemNameEnum.BONE_NAME"></a>
 
-#### BONE_NAME
+#### BONE\_NAME
 
 0
 
 <a id="unreal.OutlinerItemNameEnum.BONE_INDEX"></a>
 
-#### BONE_INDEX
+#### BONE\_INDEX
 
 1
 

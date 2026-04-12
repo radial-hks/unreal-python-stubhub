@@ -18,7 +18,7 @@ Geometry Script Create New Texture 2DAsset Options
 
 <a id="unreal.GeometryScriptCreateNewTexture2DAssetOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(overwrite_if_exists: bool = False) -> None
@@ -26,7 +26,7 @@ def __init__(overwrite_if_exists: bool = False) -> None
 
 <a id="unreal.GeometryScriptCreateNewTexture2DAssetOptions.overwrite_if_exists"></a>
 
-#### overwrite_if_exists
+#### overwrite\_if\_exists
 
 ```python
 @property
@@ -37,11 +37,11 @@ def overwrite_if_exists() -> bool
 
 <a id="unreal.GeometryScriptCreateNewTexture2DAssetOptions.overwrite_if_exists"></a>
 
-#### overwrite_if_exists
+#### overwrite\_if\_exists
 
 ```python
 @overwrite_if_exists.setter
 def overwrite_if_exists(value: bool) -> None
 ```
 
-<a id="unreal.SVGPathPolygon"></a>
+<a id="unreal.Ellipsoid"></a>

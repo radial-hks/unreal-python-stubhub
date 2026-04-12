@@ -53,7 +53,7 @@ Invalidate
 
 <a id="unreal.InvalidationBox.can_cache"></a>
 
-#### can_cache
+#### can\_cache
 
 ```python
 @property
@@ -65,7 +65,7 @@ panel stops acting like an invalidation panel, just becomes a simple container w
 
 <a id="unreal.InvalidationBox.can_cache"></a>
 
-#### can_cache
+#### can\_cache
 
 ```python
 @can_cache.setter
@@ -74,7 +74,7 @@ def can_cache(value: bool) -> None
 
 <a id="unreal.InvalidationBox.set_can_cache"></a>
 
-#### set_can_cache
+#### set\_can\_cache
 
 ```python
 def set_can_cache(can_cache: bool) -> None
@@ -89,7 +89,7 @@ Args:
 
 <a id="unreal.InvalidationBox.invalidate_cache"></a>
 
-#### invalidate_cache
+#### invalidate\_cache
 
 ```python
 def invalidate_cache() -> None
@@ -101,7 +101,7 @@ deprecated: Function 'InvalidateCache' is deprecated.
 
 <a id="unreal.InvalidationBox.get_can_cache"></a>
 
-#### get_can_cache
+#### get\_can\_cache
 
 ```python
 def get_can_cache() -> bool

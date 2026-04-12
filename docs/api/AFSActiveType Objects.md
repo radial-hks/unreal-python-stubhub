@@ -20,13 +20,13 @@ EAFSActive Type
 
 <a id="unreal.AFSActiveType.USB_ONLY"></a>
 
-#### USB_ONLY
+#### USB\_ONLY
 
 1
 
 <a id="unreal.AFSActiveType.NETWORK_ONLY"></a>
 
-#### NETWORK_ONLY
+#### NETWORK\_ONLY
 
 2
 
@@ -36,4 +36,4 @@ EAFSActive Type
 
 3
 
-<a id="unreal.TakeRecorderPanelMode"></a>
+<a id="unreal.SpeedUnit"></a>

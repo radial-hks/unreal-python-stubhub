@@ -26,7 +26,7 @@ PCGSpatial Noise Mask 2DMode
 
 <a id="unreal.PCGSpatialNoiseMask2DMode.FRACTIONAL_BROWNIAN"></a>
 
-#### FRACTIONAL_BROWNIAN
+#### FRACTIONAL\_BROWNIAN
 
 2: Based on fractional brownian motion.
 

@@ -82,7 +82,7 @@ Implements a sound component for playing a media player's audio output.
 
 <a id="unreal.MediaSoundComponent.set_spectral_analysis_settings"></a>
 
-#### set_spectral_analysis_settings
+#### set\_spectral\_analysis\_settings
 
 ```python
 def set_spectral_analysis_settings(
@@ -101,7 +101,7 @@ Args:
 
 <a id="unreal.MediaSoundComponent.set_media_player"></a>
 
-#### set_media_player
+#### set\_media\_player
 
 ```python
 def set_media_player(new_media_player: MediaPlayer) -> None
@@ -116,7 +116,7 @@ Args:
 
 <a id="unreal.MediaSoundComponent.set_envelope_followingsettings"></a>
 
-#### set_envelope_followingsettings
+#### set\_envelope\_followingsettings
 
 ```python
 def set_envelope_followingsettings(attack_time_msec: int,
@@ -132,7 +132,7 @@ Args:
 
 <a id="unreal.MediaSoundComponent.set_enable_spectral_analysis"></a>
 
-#### set_enable_spectral_analysis
+#### set\_enable\_spectral\_analysis
 
 ```python
 def set_enable_spectral_analysis(spectral_analysis_enabled: bool) -> None
@@ -146,7 +146,7 @@ Args:
 
 <a id="unreal.MediaSoundComponent.set_enable_envelope_following"></a>
 
-#### set_enable_envelope_following
+#### set\_enable\_envelope\_following
 
 ```python
 def set_enable_envelope_following(envelope_following: bool) -> None
@@ -160,7 +160,7 @@ Args:
 
 <a id="unreal.MediaSoundComponent.get_spectral_data"></a>
 
-#### get_spectral_data
+#### get\_spectral\_data
 
 ```python
 def get_spectral_data() -> Array[MediaSoundComponentSpectralData]
@@ -174,7 +174,7 @@ Returns:
 
 <a id="unreal.MediaSoundComponent.get_normalized_spectral_data"></a>
 
-#### get_normalized_spectral_data
+#### get\_normalized\_spectral\_data
 
 ```python
 def get_normalized_spectral_data() -> Array[MediaSoundComponentSpectralData]
@@ -188,7 +188,7 @@ Returns:
 
 <a id="unreal.MediaSoundComponent.get_media_player"></a>
 
-#### get_media_player
+#### get\_media\_player
 
 ```python
 def get_media_player() -> MediaPlayer
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.MediaSoundComponent.get_envelope_value"></a>
 
-#### get_envelope_value
+#### get\_envelope\_value
 
 ```python
 def get_envelope_value() -> float
@@ -217,7 +217,7 @@ Returns:
 
 <a id="unreal.MediaSoundComponent.get_attenuation_settings_to_apply"></a>
 
-#### get_attenuation_settings_to_apply
+#### get\_attenuation\_settings\_to\_apply
 
 ```python
 def get_attenuation_settings_to_apply() -> Optional[SoundAttenuationSettings]

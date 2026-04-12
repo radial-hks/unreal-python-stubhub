@@ -14,7 +14,7 @@ namespace UE
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_lod_screen_sizes"></a>
 
-#### set_lod_screen_sizes
+#### set\_lod\_screen\_sizes
 
 ```python
 def set_lod_screen_sizes(lod_screen_sizes: Array[float]) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_support_face_remap"></a>
 
-#### set_custom_support_face_remap
+#### set\_custom\_support\_face\_remap
 
 ```python
 def set_custom_support_face_remap(attribute_value: bool,
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_src_lightmap_index"></a>
 
-#### set_custom_src_lightmap_index
+#### set\_custom\_src\_lightmap\_index
 
 ```python
 def set_custom_src_lightmap_index(attribute_value: int,
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_min_lightmap_resolution"></a>
 
-#### set_custom_min_lightmap_resolution
+#### set\_custom\_min\_lightmap\_resolution
 
 ```python
 def set_custom_min_lightmap_resolution(attribute_value: int,
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_max_lumen_mesh_cards"></a>
 
-#### set_custom_max_lumen_mesh_cards
+#### set\_custom\_max\_lumen\_mesh\_cards
 
 ```python
 def set_custom_max_lumen_mesh_cards(attribute_value: int,
@@ -111,7 +111,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_generate_lightmap_u_vs"></a>
 
-#### set_custom_generate_lightmap_u_vs
+#### set\_custom\_generate\_lightmap\_u\_vs
 
 ```python
 def set_custom_generate_lightmap_u_vs(attribute_value: bool,
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_generate_distance_field_as_if_two_sided"></a>
 
-#### set_custom_generate_distance_field_as_if_two_sided
+#### set\_custom\_generate\_distance\_field\_as\_if\_two\_sided
 
 ```python
 def set_custom_generate_distance_field_as_if_two_sided(
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_dst_lightmap_index"></a>
 
-#### set_custom_dst_lightmap_index
+#### set\_custom\_dst\_lightmap\_index
 
 ```python
 def set_custom_dst_lightmap_index(attribute_value: int,
@@ -169,7 +169,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_distance_field_resolution_scale"></a>
 
-#### set_custom_distance_field_resolution_scale
+#### set\_custom\_distance\_field\_resolution\_scale
 
 ```python
 def set_custom_distance_field_resolution_scale(attribute_value: float,
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_distance_field_replacement_mesh"></a>
 
-#### set_custom_distance_field_replacement_mesh
+#### set\_custom\_distance\_field\_replacement\_mesh
 
 ```python
 def set_custom_distance_field_replacement_mesh(
@@ -210,7 +210,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_build_scale3d"></a>
 
-#### set_custom_build_scale3d
+#### set\_custom\_build\_scale3d
 
 ```python
 def set_custom_build_scale3d(attribute_value: Vector,
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_build_reversed_index_buffer"></a>
 
-#### set_custom_build_reversed_index_buffer
+#### set\_custom\_build\_reversed\_index\_buffer
 
 ```python
 def set_custom_build_reversed_index_buffer(attribute_value: bool,
@@ -249,7 +249,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_build_nanite"></a>
 
-#### set_custom_build_nanite
+#### set\_custom\_build\_nanite
 
 ```python
 def set_custom_build_nanite(attribute_value: bool,
@@ -268,7 +268,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.set_custom_auto_compute_lod_screen_sizes"></a>
 
-#### set_custom_auto_compute_lod_screen_sizes
+#### set\_custom\_auto\_compute\_lod\_screen\_sizes
 
 ```python
 def set_custom_auto_compute_lod_screen_sizes(attribute_value: bool) -> bool
@@ -285,7 +285,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.remove_socket_ud"></a>
 
-#### remove_socket_ud
+#### remove\_socket\_ud
 
 ```python
 def remove_socket_ud(socket_uid: str) -> bool
@@ -302,7 +302,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.initialize_static_mesh_node"></a>
 
-#### initialize_static_mesh_node
+#### initialize\_static\_mesh\_node
 
 ```python
 def initialize_static_mesh_node(unique_id: str, display_label: str,
@@ -319,7 +319,7 @@ Args:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_socket_uids"></a>
 
-#### get_socket_uids
+#### get\_socket\_uids
 
 ```python
 def get_socket_uids() -> Array[str]
@@ -335,7 +335,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_socket_uid_count"></a>
 
-#### get_socket_uid_count
+#### get\_socket\_uid\_count
 
 ```python
 def get_socket_uid_count() -> int
@@ -349,7 +349,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_object_class"></a>
 
-#### get_object_class
+#### get\_object\_class
 
 ```python
 def get_object_class() -> Class
@@ -363,7 +363,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_lod_screen_sizes"></a>
 
-#### get_lod_screen_sizes
+#### get\_lod\_screen\_sizes
 
 ```python
 def get_lod_screen_sizes() -> Array[float]
@@ -379,7 +379,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_lod_screen_size_count"></a>
 
-#### get_lod_screen_size_count
+#### get\_lod\_screen\_size\_count
 
 ```python
 def get_lod_screen_size_count() -> int
@@ -393,7 +393,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_support_face_remap"></a>
 
-#### get_custom_support_face_remap
+#### get\_custom\_support\_face\_remap
 
 ```python
 def get_custom_support_face_remap() -> Optional[bool]
@@ -409,7 +409,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_src_lightmap_index"></a>
 
-#### get_custom_src_lightmap_index
+#### get\_custom\_src\_lightmap\_index
 
 ```python
 def get_custom_src_lightmap_index() -> Optional[int]
@@ -425,7 +425,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_min_lightmap_resolution"></a>
 
-#### get_custom_min_lightmap_resolution
+#### get\_custom\_min\_lightmap\_resolution
 
 ```python
 def get_custom_min_lightmap_resolution() -> Optional[int]
@@ -441,7 +441,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_max_lumen_mesh_cards"></a>
 
-#### get_custom_max_lumen_mesh_cards
+#### get\_custom\_max\_lumen\_mesh\_cards
 
 ```python
 def get_custom_max_lumen_mesh_cards() -> Optional[int]
@@ -460,7 +460,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_generate_lightmap_u_vs"></a>
 
-#### get_custom_generate_lightmap_u_vs
+#### get\_custom\_generate\_lightmap\_u\_vs
 
 ```python
 def get_custom_generate_lightmap_u_vs() -> Optional[bool]
@@ -476,7 +476,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_generate_distance_field_as_if_two_sided"></a>
 
-#### get_custom_generate_distance_field_as_if_two_sided
+#### get\_custom\_generate\_distance\_field\_as\_if\_two\_sided
 
 ```python
 def get_custom_generate_distance_field_as_if_two_sided() -> Optional[bool]
@@ -493,7 +493,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_dst_lightmap_index"></a>
 
-#### get_custom_dst_lightmap_index
+#### get\_custom\_dst\_lightmap\_index
 
 ```python
 def get_custom_dst_lightmap_index() -> Optional[int]
@@ -509,7 +509,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_distance_field_resolution_scale"></a>
 
-#### get_custom_distance_field_resolution_scale
+#### get\_custom\_distance\_field\_resolution\_scale
 
 ```python
 def get_custom_distance_field_resolution_scale() -> Optional[float]
@@ -526,7 +526,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_distance_field_replacement_mesh"></a>
 
-#### get_custom_distance_field_replacement_mesh
+#### get\_custom\_distance\_field\_replacement\_mesh
 
 ```python
 def get_custom_distance_field_replacement_mesh() -> Optional[SoftObjectPath]
@@ -542,7 +542,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_build_scale3d"></a>
 
-#### get_custom_build_scale3d
+#### get\_custom\_build\_scale3d
 
 ```python
 def get_custom_build_scale3d() -> Optional[Vector]
@@ -558,7 +558,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_build_reversed_index_buffer"></a>
 
-#### get_custom_build_reversed_index_buffer
+#### get\_custom\_build\_reversed\_index\_buffer
 
 ```python
 def get_custom_build_reversed_index_buffer() -> Optional[bool]
@@ -574,7 +574,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_build_nanite"></a>
 
-#### get_custom_build_nanite
+#### get\_custom\_build\_nanite
 
 ```python
 def get_custom_build_nanite() -> Optional[bool]
@@ -590,7 +590,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.get_custom_auto_compute_lod_screen_sizes"></a>
 
-#### get_custom_auto_compute_lod_screen_sizes
+#### get\_custom\_auto\_compute\_lod\_screen\_sizes
 
 ```python
 def get_custom_auto_compute_lod_screen_sizes() -> Optional[bool]
@@ -606,7 +606,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.add_socket_uids"></a>
 
-#### add_socket_uids
+#### add\_socket\_uids
 
 ```python
 def add_socket_uids(socket_uids: Array[str]) -> bool
@@ -623,7 +623,7 @@ Returns:
 
 <a id="unreal.InterchangeStaticMeshFactoryNode.add_socket_uid"></a>
 
-#### add_socket_uid
+#### add\_socket\_uid
 
 ```python
 def add_socket_uid(socket_uid: str) -> bool

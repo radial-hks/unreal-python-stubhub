@@ -24,7 +24,7 @@ Rules for how to scan the asset registry for assets matching path and type descr
 
 <a id="unreal.AssetManagerSearchRules.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(asset_scan_paths: Array[str] = [],
@@ -39,7 +39,7 @@ def __init__(asset_scan_paths: Array[str] = [],
 
 <a id="unreal.AssetManagerSearchRules.asset_scan_paths"></a>
 
-#### asset_scan_paths
+#### asset\_scan\_paths
 
 ```python
 @property
@@ -50,7 +50,7 @@ def asset_scan_paths() -> Array[str]
 
 <a id="unreal.AssetManagerSearchRules.asset_scan_paths"></a>
 
-#### asset_scan_paths
+#### asset\_scan\_paths
 
 ```python
 @asset_scan_paths.setter
@@ -59,7 +59,7 @@ def asset_scan_paths(value: Array[str]) -> None
 
 <a id="unreal.AssetManagerSearchRules.include_patterns"></a>
 
-#### include_patterns
+#### include\_patterns
 
 ```python
 @property
@@ -70,7 +70,7 @@ def include_patterns() -> Array[str]
 
 <a id="unreal.AssetManagerSearchRules.include_patterns"></a>
 
-#### include_patterns
+#### include\_patterns
 
 ```python
 @include_patterns.setter
@@ -79,7 +79,7 @@ def include_patterns(value: Array[str]) -> None
 
 <a id="unreal.AssetManagerSearchRules.exclude_patterns"></a>
 
-#### exclude_patterns
+#### exclude\_patterns
 
 ```python
 @property
@@ -90,7 +90,7 @@ def exclude_patterns() -> Array[str]
 
 <a id="unreal.AssetManagerSearchRules.exclude_patterns"></a>
 
-#### exclude_patterns
+#### exclude\_patterns
 
 ```python
 @exclude_patterns.setter
@@ -99,7 +99,7 @@ def exclude_patterns(value: Array[str]) -> None
 
 <a id="unreal.AssetManagerSearchRules.asset_base_class"></a>
 
-#### asset_base_class
+#### asset\_base\_class
 
 ```python
 @property
@@ -110,7 +110,7 @@ def asset_base_class() -> Class
 
 <a id="unreal.AssetManagerSearchRules.asset_base_class"></a>
 
-#### asset_base_class
+#### asset\_base\_class
 
 ```python
 @asset_base_class.setter
@@ -119,7 +119,7 @@ def asset_base_class(value: Class) -> None
 
 <a id="unreal.AssetManagerSearchRules.has_blueprint_classes"></a>
 
-#### has_blueprint_classes
+#### has\_blueprint\_classes
 
 ```python
 @property
@@ -130,7 +130,7 @@ def has_blueprint_classes() -> bool
 
 <a id="unreal.AssetManagerSearchRules.has_blueprint_classes"></a>
 
-#### has_blueprint_classes
+#### has\_blueprint\_classes
 
 ```python
 @has_blueprint_classes.setter
@@ -139,7 +139,7 @@ def has_blueprint_classes(value: bool) -> None
 
 <a id="unreal.AssetManagerSearchRules.force_synchronous_scan"></a>
 
-#### force_synchronous_scan
+#### force\_synchronous\_scan
 
 ```python
 @property
@@ -150,7 +150,7 @@ def force_synchronous_scan() -> bool
 
 <a id="unreal.AssetManagerSearchRules.force_synchronous_scan"></a>
 
-#### force_synchronous_scan
+#### force\_synchronous\_scan
 
 ```python
 @force_synchronous_scan.setter
@@ -159,7 +159,7 @@ def force_synchronous_scan(value: bool) -> None
 
 <a id="unreal.AssetManagerSearchRules.skip_virtual_path_expansion"></a>
 
-#### skip_virtual_path_expansion
+#### skip\_virtual\_path\_expansion
 
 ```python
 @property
@@ -170,7 +170,7 @@ def skip_virtual_path_expansion() -> bool
 
 <a id="unreal.AssetManagerSearchRules.skip_virtual_path_expansion"></a>
 
-#### skip_virtual_path_expansion
+#### skip\_virtual\_path\_expansion
 
 ```python
 @skip_virtual_path_expansion.setter
@@ -179,7 +179,7 @@ def skip_virtual_path_expansion(value: bool) -> None
 
 <a id="unreal.AssetManagerSearchRules.skip_manager_include_check"></a>
 
-#### skip_manager_include_check
+#### skip\_manager\_include\_check
 
 ```python
 @property
@@ -190,7 +190,7 @@ def skip_manager_include_check() -> bool
 
 <a id="unreal.AssetManagerSearchRules.skip_manager_include_check"></a>
 
-#### skip_manager_include_check
+#### skip\_manager\_include\_check
 
 ```python
 @skip_manager_include_check.setter

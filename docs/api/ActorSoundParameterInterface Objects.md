@@ -13,7 +13,7 @@ Actor Sound Parameter Interface
 
 <a id="unreal.ActorSoundParameterInterface.get_actor_sound_params"></a>
 
-#### get_actor_sound_params
+#### get\_actor\_sound\_params
 
 ```python
 def get_actor_sound_params() -> Array[AudioParameter]

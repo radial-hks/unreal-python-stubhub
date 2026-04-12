@@ -13,13 +13,13 @@ EVirtual Keyboard Trigger
 
 <a id="unreal.VirtualKeyboardTrigger.ON_FOCUS_BY_POINTER"></a>
 
-#### ON_FOCUS_BY_POINTER
+#### ON\_FOCUS\_BY\_POINTER
 
 0: Display the virtual keyboard when the widget gains keyboard focus by a pointer action.
 
 <a id="unreal.VirtualKeyboardTrigger.ON_ALL_FOCUS_EVENTS"></a>
 
-#### ON_ALL_FOCUS_EVENTS
+#### ON\_ALL\_FOCUS\_EVENTS
 
 1: Display the virtual keyboard when the widget gains keyboard focus by any means.
 

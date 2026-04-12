@@ -20,13 +20,13 @@ Method to distribute sampling spheres, used by FComputeNegativeSpaceOptions
 
 <a id="unreal.NegativeSpaceSampleMethod.VOXEL_SEARCH"></a>
 
-#### VOXEL_SEARCH
+#### VOXEL\_SEARCH
 
 1: Use voxel-based subtraction and offsetting methods to specifically target concavities
 
 <a id="unreal.NegativeSpaceSampleMethod.NAVIGABLE_VOXEL_SEARCH"></a>
 
-#### NAVIGABLE_VOXEL_SEARCH
+#### NAVIGABLE\_VOXEL\_SEARCH
 
 2: A more-principled version of VoxelSearch that attempts to target specifically the space that is reachable by characters at least as large as a MinRadius sphere
 

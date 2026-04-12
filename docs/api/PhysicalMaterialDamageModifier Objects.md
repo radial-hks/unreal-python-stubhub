@@ -19,7 +19,7 @@ Damage threshold modifiers, used by the Chaos destruction system
 
 <a id="unreal.PhysicalMaterialDamageModifier.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(damage_threshold_multiplier: float = 0.000000) -> None
@@ -27,7 +27,7 @@ def __init__(damage_threshold_multiplier: float = 0.000000) -> None
 
 <a id="unreal.PhysicalMaterialDamageModifier.damage_threshold_multiplier"></a>
 
-#### damage_threshold_multiplier
+#### damage\_threshold\_multiplier
 
 ```python
 @property

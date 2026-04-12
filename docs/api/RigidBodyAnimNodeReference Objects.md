@@ -13,7 +13,7 @@ Rigid Body Anim Node Reference
 
 <a id="unreal.RigidBodyAnimNodeReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

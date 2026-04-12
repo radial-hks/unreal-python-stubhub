@@ -26,7 +26,7 @@ included as menu options when right-clicking on a group of assets in the content
 
 <a id="unreal.AssetActionUtility.is_action_for_blueprints"></a>
 
-#### is_action_for_blueprints
+#### is\_action\_for\_blueprints
 
 ```python
 def is_action_for_blueprints() -> bool
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.AssetActionUtility.get_supported_classes"></a>
 
-#### get_supported_classes
+#### get\_supported\_classes
 
 ```python
 def get_supported_classes() -> Array[Class]
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.AssetActionUtility.get_supported_class"></a>
 
-#### get_supported_class
+#### get\_supported\_class
 
 ```python
 def get_supported_class() -> Class

@@ -19,7 +19,7 @@ Rig Connection Rule Stash
 
 <a id="unreal.RigConnectionRuleStash.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(script_struct_path: str = "", exported_text: str = "") -> None
@@ -27,7 +27,7 @@ def __init__(script_struct_path: str = "", exported_text: str = "") -> None
 
 <a id="unreal.RigConnectionRuleStash.script_struct_path"></a>
 
-#### script_struct_path
+#### script\_struct\_path
 
 ```python
 @property
@@ -38,7 +38,7 @@ def script_struct_path() -> str
 
 <a id="unreal.RigConnectionRuleStash.script_struct_path"></a>
 
-#### script_struct_path
+#### script\_struct\_path
 
 ```python
 @script_struct_path.setter
@@ -47,7 +47,7 @@ def script_struct_path(value: str) -> None
 
 <a id="unreal.RigConnectionRuleStash.exported_text"></a>
 
-#### exported_text
+#### exported\_text
 
 ```python
 @property
@@ -58,7 +58,7 @@ def exported_text() -> str
 
 <a id="unreal.RigConnectionRuleStash.exported_text"></a>
 
-#### exported_text
+#### exported\_text
 
 ```python
 @exported_text.setter

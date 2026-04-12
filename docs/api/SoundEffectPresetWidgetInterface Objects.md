@@ -13,7 +13,7 @@ Sound Effect Preset Widget Interface
 
 <a id="unreal.SoundEffectPresetWidgetInterface.on_property_changed"></a>
 
-#### on_property_changed
+#### on\_property\_changed
 
 ```python
 def on_property_changed(preset: SoundEffectPreset,
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.SoundEffectPresetWidgetInterface.on_constructed"></a>
 
-#### on_constructed
+#### on\_constructed
 
 ```python
 def on_constructed(preset: SoundEffectPreset) -> None
@@ -43,7 +43,7 @@ Args:
 
 <a id="unreal.SoundEffectPresetWidgetInterface.get_class"></a>
 
-#### get_class
+#### get\_class
 
 ```python
 def get_class() -> Class

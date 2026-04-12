@@ -19,13 +19,13 @@ MegaLights Shadow type for a light component.
 
 <a id="unreal.MegaLightsShadowMethod.RAY_TRACING"></a>
 
-#### RAY_TRACING
+#### RAY\_TRACING
 
 1: Preferred method, which guarantees fixed MegaLights cost and correct area shadows, but is dependent on the BVH representation quality.
 
 <a id="unreal.MegaLightsShadowMethod.VIRTUAL_SHADOW_MAP"></a>
 
-#### VIRTUAL_SHADOW_MAP
+#### VIRTUAL\_SHADOW\_MAP
 
 2: Has a significant per light cost, but can cast shadows directly from the Nanite geometry using rasterization.
 

@@ -152,7 +152,7 @@ A spot light component emits a directional cone shaped light (Eg a Torch).
 
 <a id="unreal.SpotLightComponent.inner_cone_angle"></a>
 
-#### inner_cone_angle
+#### inner\_cone\_angle
 
 ```python
 @property
@@ -163,7 +163,7 @@ def inner_cone_angle() -> float
 
 <a id="unreal.SpotLightComponent.outer_cone_angle"></a>
 
-#### outer_cone_angle
+#### outer\_cone\_angle
 
 ```python
 @property
@@ -174,7 +174,7 @@ def outer_cone_angle() -> float
 
 <a id="unreal.SpotLightComponent.set_outer_cone_angle"></a>
 
-#### set_outer_cone_angle
+#### set\_outer\_cone\_angle
 
 ```python
 def set_outer_cone_angle(new_outer_cone_angle: float) -> None
@@ -188,7 +188,7 @@ Args:
 
 <a id="unreal.SpotLightComponent.set_inner_cone_angle"></a>
 
-#### set_inner_cone_angle
+#### set\_inner\_cone\_angle
 
 ```python
 def set_inner_cone_angle(new_inner_cone_angle: float) -> None

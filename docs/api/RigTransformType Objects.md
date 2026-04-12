@@ -14,32 +14,32 @@ ERig Transform Type
 
 <a id="unreal.RigTransformType.INITIAL_LOCAL"></a>
 
-#### INITIAL_LOCAL
+#### INITIAL\_LOCAL
 
 0
 
 <a id="unreal.RigTransformType.CURRENT_LOCAL"></a>
 
-#### CURRENT_LOCAL
+#### CURRENT\_LOCAL
 
 1
 
 <a id="unreal.RigTransformType.INITIAL_GLOBAL"></a>
 
-#### INITIAL_GLOBAL
+#### INITIAL\_GLOBAL
 
 2
 
 <a id="unreal.RigTransformType.CURRENT_GLOBAL"></a>
 
-#### CURRENT_GLOBAL
+#### CURRENT\_GLOBAL
 
 3
 
 <a id="unreal.RigTransformType.NUM_TRANSFORM_TYPES"></a>
 
-#### NUM_TRANSFORM_TYPES
+#### NUM\_TRANSFORM\_TYPES
 
 4
 
-<a id="unreal.PythonCommandExecutionMode"></a>
+<a id="unreal.MaterialXLuminanceMode"></a>

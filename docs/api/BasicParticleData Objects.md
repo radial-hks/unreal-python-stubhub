@@ -20,7 +20,7 @@ Basic Particle Data
 
 <a id="unreal.BasicParticleData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(position: Vector = [0.000000, 0.000000, 0.000000],

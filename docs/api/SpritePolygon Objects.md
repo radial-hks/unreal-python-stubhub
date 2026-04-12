@@ -8,7 +8,7 @@ deprecated: 'SpritePolygon' was renamed to 'SpriteGeometryShape'.
 
 <a id="unreal.SpritePolygon.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

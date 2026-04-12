@@ -19,7 +19,7 @@ Show Login UICallback Proxy
 
 <a id="unreal.ShowLoginUICallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_success() -> OnlineShowLoginUIResult
 
 <a id="unreal.ShowLoginUICallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -39,7 +39,7 @@ def on_success(value: OnlineShowLoginUIResult) -> None
 
 <a id="unreal.ShowLoginUICallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_failure() -> OnlineShowLoginUIResult
 
 <a id="unreal.ShowLoginUICallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @on_failure.setter

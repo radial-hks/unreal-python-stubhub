@@ -25,7 +25,7 @@ Geometry Script Smooth Bone Weights Options
 
 <a id="unreal.GeometryScriptSmoothBoneWeightsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -39,7 +39,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptSmoothBoneWeightsOptions.distance_weighing_type"></a>
 
-#### distance_weighing_type
+#### distance\_weighing\_type
 
 ```python
 @property
@@ -50,7 +50,7 @@ def distance_weighing_type() -> GeometryScriptSmoothBoneWeightsType
 
 <a id="unreal.GeometryScriptSmoothBoneWeightsOptions.distance_weighing_type"></a>
 
-#### distance_weighing_type
+#### distance\_weighing\_type
 
 ```python
 @distance_weighing_type.setter
@@ -80,7 +80,7 @@ def stiffness(value: float) -> None
 
 <a id="unreal.GeometryScriptSmoothBoneWeightsOptions.max_influences"></a>
 
-#### max_influences
+#### max\_influences
 
 ```python
 @property
@@ -92,7 +92,7 @@ to have more distant bones make additional contributions to the deformation at e
 
 <a id="unreal.GeometryScriptSmoothBoneWeightsOptions.max_influences"></a>
 
-#### max_influences
+#### max\_influences
 
 ```python
 @max_influences.setter
@@ -101,7 +101,7 @@ def max_influences(value: int) -> None
 
 <a id="unreal.GeometryScriptSmoothBoneWeightsOptions.voxel_resolution"></a>
 
-#### voxel_resolution
+#### voxel\_resolution
 
 ```python
 @property
@@ -114,7 +114,7 @@ more memory usage.
 
 <a id="unreal.GeometryScriptSmoothBoneWeightsOptions.voxel_resolution"></a>
 
-#### voxel_resolution
+#### voxel\_resolution
 
 ```python
 @voxel_resolution.setter

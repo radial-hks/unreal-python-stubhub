@@ -17,7 +17,7 @@ Live Link Curve Conversion Settings
 
 <a id="unreal.LiveLinkCurveConversionSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -21,7 +21,7 @@ Level Editor Context Menu Context
 
 <a id="unreal.LevelEditorContextMenuContext.context_type"></a>
 
-#### context_type
+#### context\_type
 
 ```python
 @property
@@ -32,7 +32,7 @@ def context_type() -> LevelEditorMenuContext
 
 <a id="unreal.LevelEditorContextMenuContext.current_selection"></a>
 
-#### current_selection
+#### current\_selection
 
 ```python
 @property
@@ -43,7 +43,7 @@ def current_selection() -> TypedElementSelectionSet
 
 <a id="unreal.LevelEditorContextMenuContext.cursor_world_location"></a>
 
-#### cursor_world_location
+#### cursor\_world\_location
 
 ```python
 @property
@@ -54,7 +54,7 @@ def cursor_world_location() -> Vector
 
 <a id="unreal.LevelEditorContextMenuContext.selected_components"></a>
 
-#### selected_components
+#### selected\_components
 
 ```python
 @property
@@ -65,7 +65,7 @@ def selected_components() -> Array[ActorComponent]
 
 <a id="unreal.LevelEditorContextMenuContext.hit_proxy_actor"></a>
 
-#### hit_proxy_actor
+#### hit\_proxy\_actor
 
 ```python
 @property
@@ -76,7 +76,7 @@ def hit_proxy_actor() -> Actor
 
 <a id="unreal.LevelEditorContextMenuContext.get_hit_proxy_element"></a>
 
-#### get_hit_proxy_element
+#### get\_hit\_proxy\_element
 
 ```python
 def get_hit_proxy_element() -> ScriptTypedElementHandle

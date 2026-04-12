@@ -67,7 +67,7 @@ The combobox allows you to display a list of options to the user in a dropdown m
 
 <a id="unreal.ComboBoxString.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -78,7 +78,7 @@ def widget_style() -> ComboBoxStyle
 
 <a id="unreal.ComboBoxString.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -87,7 +87,7 @@ def widget_style(value: ComboBoxStyle) -> None
 
 <a id="unreal.ComboBoxString.item_style"></a>
 
-#### item_style
+#### item\_style
 
 ```python
 @property
@@ -98,7 +98,7 @@ def item_style() -> TableRowStyle
 
 <a id="unreal.ComboBoxString.item_style"></a>
 
-#### item_style
+#### item\_style
 
 ```python
 @item_style.setter
@@ -107,7 +107,7 @@ def item_style(value: TableRowStyle) -> None
 
 <a id="unreal.ComboBoxString.scroll_bar_style"></a>
 
-#### scroll_bar_style
+#### scroll\_bar\_style
 
 ```python
 @property
@@ -118,7 +118,7 @@ def scroll_bar_style() -> ScrollBarStyle
 
 <a id="unreal.ComboBoxString.content_padding"></a>
 
-#### content_padding
+#### content\_padding
 
 ```python
 @property
@@ -129,7 +129,7 @@ def content_padding() -> Margin
 
 <a id="unreal.ComboBoxString.content_padding"></a>
 
-#### content_padding
+#### content\_padding
 
 ```python
 @content_padding.setter
@@ -138,7 +138,7 @@ def content_padding(value: Margin) -> None
 
 <a id="unreal.ComboBoxString.max_list_height"></a>
 
-#### max_list_height
+#### max\_list\_height
 
 ```python
 @property
@@ -149,7 +149,7 @@ def max_list_height() -> float
 
 <a id="unreal.ComboBoxString.max_list_height"></a>
 
-#### max_list_height
+#### max\_list\_height
 
 ```python
 @max_list_height.setter
@@ -158,7 +158,7 @@ def max_list_height(value: float) -> None
 
 <a id="unreal.ComboBoxString.has_down_arrow"></a>
 
-#### has_down_arrow
+#### has\_down\_arrow
 
 ```python
 @property
@@ -170,7 +170,7 @@ to make their own visual hint that this is a drop down.
 
 <a id="unreal.ComboBoxString.has_down_arrow"></a>
 
-#### has_down_arrow
+#### has\_down\_arrow
 
 ```python
 @has_down_arrow.setter
@@ -179,7 +179,7 @@ def has_down_arrow(value: bool) -> None
 
 <a id="unreal.ComboBoxString.enable_gamepad_navigation_mode"></a>
 
-#### enable_gamepad_navigation_mode
+#### enable\_gamepad\_navigation\_mode
 
 ```python
 @property
@@ -191,7 +191,7 @@ must be activated and will only capture arrow input while activated.
 
 <a id="unreal.ComboBoxString.enable_gamepad_navigation_mode"></a>
 
-#### enable_gamepad_navigation_mode
+#### enable\_gamepad\_navigation\_mode
 
 ```python
 @enable_gamepad_navigation_mode.setter
@@ -212,7 +212,7 @@ to factory each new entry.
 
 <a id="unreal.ComboBoxString.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @property
@@ -223,7 +223,7 @@ def foreground_color() -> SlateColor
 
 <a id="unreal.ComboBoxString.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @property
@@ -234,7 +234,7 @@ def is_focusable() -> bool
 
 <a id="unreal.ComboBoxString.on_selection_changed"></a>
 
-#### on_selection_changed
+#### on\_selection\_changed
 
 ```python
 @property
@@ -245,7 +245,7 @@ def on_selection_changed() -> OnSelectionChangedEvent
 
 <a id="unreal.ComboBoxString.on_selection_changed"></a>
 
-#### on_selection_changed
+#### on\_selection\_changed
 
 ```python
 @on_selection_changed.setter
@@ -254,7 +254,7 @@ def on_selection_changed(value: OnSelectionChangedEvent) -> None
 
 <a id="unreal.ComboBoxString.on_opening"></a>
 
-#### on_opening
+#### on\_opening
 
 ```python
 @property
@@ -265,7 +265,7 @@ def on_opening() -> OnOpeningEvent
 
 <a id="unreal.ComboBoxString.on_opening"></a>
 
-#### on_opening
+#### on\_opening
 
 ```python
 @on_opening.setter
@@ -274,7 +274,7 @@ def on_opening(value: OnOpeningEvent) -> None
 
 <a id="unreal.ComboBoxString.set_selected_option"></a>
 
-#### set_selected_option
+#### set\_selected\_option
 
 ```python
 def set_selected_option(option: str) -> None
@@ -288,7 +288,7 @@ Args:
 
 <a id="unreal.ComboBoxString.set_selected_index"></a>
 
-#### set_selected_index
+#### set\_selected\_index
 
 ```python
 def set_selected_index(index: int) -> None
@@ -302,7 +302,7 @@ Args:
 
 <a id="unreal.ComboBoxString.remove_option"></a>
 
-#### remove_option
+#### remove\_option
 
 ```python
 def remove_option(option: str) -> bool
@@ -319,7 +319,7 @@ Returns:
 
 <a id="unreal.ComboBoxString.refresh_options"></a>
 
-#### refresh_options
+#### refresh\_options
 
 ```python
 def refresh_options() -> None
@@ -331,7 +331,7 @@ currently being displayed use this.
 
 <a id="unreal.ComboBoxString.is_open"></a>
 
-#### is_open
+#### is\_open
 
 ```python
 def is_open() -> bool
@@ -345,7 +345,7 @@ Returns:
 
 <a id="unreal.ComboBoxString.get_selected_option"></a>
 
-#### get_selected_option
+#### get\_selected\_option
 
 ```python
 def get_selected_option() -> str
@@ -359,7 +359,7 @@ Returns:
 
 <a id="unreal.ComboBoxString.get_selected_index"></a>
 
-#### get_selected_index
+#### get\_selected\_index
 
 ```python
 def get_selected_index() -> int
@@ -373,7 +373,7 @@ Returns:
 
 <a id="unreal.ComboBoxString.get_option_count"></a>
 
-#### get_option_count
+#### get\_option\_count
 
 ```python
 def get_option_count() -> int
@@ -387,7 +387,7 @@ Returns:
 
 <a id="unreal.ComboBoxString.get_option_at_index"></a>
 
-#### get_option_at_index
+#### get\_option\_at\_index
 
 ```python
 def get_option_at_index(index: int) -> str
@@ -404,7 +404,7 @@ Returns:
 
 <a id="unreal.ComboBoxString.find_option_index"></a>
 
-#### find_option_index
+#### find\_option\_index
 
 ```python
 def find_option_index(option: str) -> int
@@ -421,7 +421,7 @@ Returns:
 
 <a id="unreal.ComboBoxString.clear_selection"></a>
 
-#### clear_selection
+#### clear\_selection
 
 ```python
 def clear_selection() -> None
@@ -432,7 +432,7 @@ Clear Selection
 
 <a id="unreal.ComboBoxString.clear_options"></a>
 
-#### clear_options
+#### clear\_options
 
 ```python
 def clear_options() -> None
@@ -443,7 +443,7 @@ Clear Options
 
 <a id="unreal.ComboBoxString.add_option"></a>
 
-#### add_option
+#### add\_option
 
 ```python
 def add_option(option: str) -> None

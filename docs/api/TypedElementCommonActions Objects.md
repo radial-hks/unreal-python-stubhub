@@ -14,7 +14,7 @@ but asset editors can customize this behavior via FTypedElementCommonActionsCust
 
 <a id="unreal.TypedElementCommonActions.paste_normalized_elements_from_string"></a>
 
-#### paste_normalized_elements_from_string
+#### paste\_normalized\_elements\_from\_string
 
 ```python
 def paste_normalized_elements_from_string(
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.paste_elements_from_string"></a>
 
-#### paste_elements_from_string
+#### paste\_elements\_from\_string
 
 ```python
 def paste_elements_from_string(
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.paste_normalized_elements"></a>
 
-#### paste_normalized_elements
+#### paste\_normalized\_elements
 
 ```python
 def paste_normalized_elements(
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.paste_elements"></a>
 
-#### paste_elements
+#### paste\_elements
 
 ```python
 def paste_elements(
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.duplicate_selected_elements"></a>
 
-#### duplicate_selected_elements
+#### duplicate\_selected\_elements
 
 ```python
 def duplicate_selected_elements(
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.duplicate_normalized_elements"></a>
 
-#### duplicate_normalized_elements
+#### duplicate\_normalized\_elements
 
 ```python
 def duplicate_normalized_elements(
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.delete_selected_elements"></a>
 
-#### delete_selected_elements
+#### delete\_selected\_elements
 
 ```python
 def delete_selected_elements(
@@ -174,7 +174,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.delete_normalized_elements"></a>
 
-#### delete_normalized_elements
+#### delete\_normalized\_elements
 
 ```python
 def delete_normalized_elements(
@@ -198,7 +198,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.copy_selected_elements_to_string"></a>
 
-#### copy_selected_elements_to_string
+#### copy\_selected\_elements\_to\_string
 
 ```python
 def copy_selected_elements_to_string(
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.copy_selected_elements"></a>
 
-#### copy_selected_elements
+#### copy\_selected\_elements
 
 ```python
 def copy_selected_elements(selection_set: TypedElementSelectionSet) -> bool
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.copy_normalized_elements_to_string"></a>
 
-#### copy_normalized_elements_to_string
+#### copy\_normalized\_elements\_to\_string
 
 ```python
 def copy_normalized_elements_to_string(
@@ -259,7 +259,7 @@ Returns:
 
 <a id="unreal.TypedElementCommonActions.copy_normalized_elements"></a>
 
-#### copy_normalized_elements
+#### copy\_normalized\_elements
 
 ```python
 def copy_normalized_elements(element_list: TypedElementList) -> bool

@@ -20,7 +20,7 @@ Material Expression Sparse Volume Texture Base
 
 <a id="unreal.MaterialExpressionSparseVolumeTextureBase.sparse_volume_texture"></a>
 
-#### sparse_volume_texture
+#### sparse\_volume\_texture
 
 ```python
 @property
@@ -31,7 +31,7 @@ def sparse_volume_texture() -> SparseVolumeTexture
 
 <a id="unreal.MaterialExpressionSparseVolumeTextureBase.sparse_volume_texture"></a>
 
-#### sparse_volume_texture
+#### sparse\_volume\_texture
 
 ```python
 @sparse_volume_texture.setter

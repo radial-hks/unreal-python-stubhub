@@ -22,7 +22,7 @@ Example: Maths operations: Add, Mul, etc...
 
 <a id="unreal.PCGPreConfiguredSettingsInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(preconfigured_index: int = 0, label: Text = "") -> None
@@ -30,7 +30,7 @@ def __init__(preconfigured_index: int = 0, label: Text = "") -> None
 
 <a id="unreal.PCGPreConfiguredSettingsInfo.preconfigured_index"></a>
 
-#### preconfigured_index
+#### preconfigured\_index
 
 ```python
 @property
@@ -41,7 +41,7 @@ def preconfigured_index() -> int
 
 <a id="unreal.PCGPreConfiguredSettingsInfo.preconfigured_index"></a>
 
-#### preconfigured_index
+#### preconfigured\_index
 
 ```python
 @preconfigured_index.setter

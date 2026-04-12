@@ -20,7 +20,7 @@ A globally unique identifier (mirrored from Guid.h)
 
 <a id="unreal.Guid.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -28,7 +28,7 @@ def __init__() -> None
 
 <a id="unreal.Guid.to_string"></a>
 
-#### to_string
+#### to\_string
 
 ```python
 def to_string() -> str

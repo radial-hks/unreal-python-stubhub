@@ -19,25 +19,25 @@ Describes how textures are sampled for materials
 
 <a id="unreal.TextureCollectionMemberType.TEXTURE_CUBE"></a>
 
-#### TEXTURE_CUBE
+#### TEXTURE\_CUBE
 
 1
 
 <a id="unreal.TextureCollectionMemberType.TEXTURE2D_ARRAY"></a>
 
-#### TEXTURE2D_ARRAY
+#### TEXTURE2D\_ARRAY
 
 2
 
 <a id="unreal.TextureCollectionMemberType.TEXTURE_CUBE_ARRAY"></a>
 
-#### TEXTURE_CUBE_ARRAY
+#### TEXTURE\_CUBE\_ARRAY
 
 3
 
 <a id="unreal.TextureCollectionMemberType.TEXTURE_VOLUME"></a>
 
-#### TEXTURE_VOLUME
+#### TEXTURE\_VOLUME
 
 4
 

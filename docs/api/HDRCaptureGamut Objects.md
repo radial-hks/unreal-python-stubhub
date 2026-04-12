@@ -13,37 +13,37 @@ Used by UCompositionGraphCaptureSettings. Matches gamut order in EDisplayColorGa
 
 <a id="unreal.HDRCaptureGamut.HCGM_REC709"></a>
 
-#### HCGM_REC709
+#### HCGM\_REC709
 
 0
 
 <a id="unreal.HDRCaptureGamut.HCGM_P3DCI"></a>
 
-#### HCGM_P3DCI
+#### HCGM\_P3DCI
 
 1
 
 <a id="unreal.HDRCaptureGamut.HCGM_REC2020"></a>
 
-#### HCGM_REC2020
+#### HCGM\_REC2020
 
 2
 
 <a id="unreal.HDRCaptureGamut.HCGM_ACES"></a>
 
-#### HCGM_ACES
+#### HCGM\_ACES
 
 3
 
 <a id="unreal.HDRCaptureGamut.HCGM_ACE_SCG"></a>
 
-#### HCGM_ACE_SCG
+#### HCGM\_ACE\_SCG
 
 4
 
 <a id="unreal.HDRCaptureGamut.HCGM_LINEAR"></a>
 
-#### HCGM_LINEAR
+#### HCGM\_LINEAR
 
 5
 

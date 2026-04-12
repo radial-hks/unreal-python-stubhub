@@ -22,7 +22,7 @@ Abc Normal Generation Settings
 
 <a id="unreal.AbcNormalGenerationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(force_one_smoothing_group_per_object: bool = False,
@@ -34,7 +34,7 @@ def __init__(force_one_smoothing_group_per_object: bool = False,
 
 <a id="unreal.AbcNormalGenerationSettings.force_one_smoothing_group_per_object"></a>
 
-#### force_one_smoothing_group_per_object
+#### force\_one\_smoothing\_group\_per\_object
 
 ```python
 @property
@@ -45,7 +45,7 @@ def force_one_smoothing_group_per_object() -> bool
 
 <a id="unreal.AbcNormalGenerationSettings.force_one_smoothing_group_per_object"></a>
 
-#### force_one_smoothing_group_per_object
+#### force\_one\_smoothing\_group\_per\_object
 
 ```python
 @force_one_smoothing_group_per_object.setter
@@ -54,7 +54,7 @@ def force_one_smoothing_group_per_object(value: bool) -> None
 
 <a id="unreal.AbcNormalGenerationSettings.hard_edge_angle_threshold"></a>
 
-#### hard_edge_angle_threshold
+#### hard\_edge\_angle\_threshold
 
 ```python
 @property
@@ -65,7 +65,7 @@ def hard_edge_angle_threshold() -> float
 
 <a id="unreal.AbcNormalGenerationSettings.hard_edge_angle_threshold"></a>
 
-#### hard_edge_angle_threshold
+#### hard\_edge\_angle\_threshold
 
 ```python
 @hard_edge_angle_threshold.setter
@@ -74,7 +74,7 @@ def hard_edge_angle_threshold(value: float) -> None
 
 <a id="unreal.AbcNormalGenerationSettings.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 @property
@@ -85,7 +85,7 @@ def recompute_normals() -> bool
 
 <a id="unreal.AbcNormalGenerationSettings.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 @recompute_normals.setter
@@ -94,7 +94,7 @@ def recompute_normals(value: bool) -> None
 
 <a id="unreal.AbcNormalGenerationSettings.ignore_degenerate_triangles"></a>
 
-#### ignore_degenerate_triangles
+#### ignore\_degenerate\_triangles
 
 ```python
 @property
@@ -105,7 +105,7 @@ def ignore_degenerate_triangles() -> bool
 
 <a id="unreal.AbcNormalGenerationSettings.ignore_degenerate_triangles"></a>
 
-#### ignore_degenerate_triangles
+#### ignore\_degenerate\_triangles
 
 ```python
 @ignore_degenerate_triangles.setter
@@ -114,7 +114,7 @@ def ignore_degenerate_triangles(value: bool) -> None
 
 <a id="unreal.AbcNormalGenerationSettings.skip_computing_tangents"></a>
 
-#### skip_computing_tangents
+#### skip\_computing\_tangents
 
 ```python
 @property
@@ -125,7 +125,7 @@ def skip_computing_tangents() -> bool
 
 <a id="unreal.AbcNormalGenerationSettings.skip_computing_tangents"></a>
 
-#### skip_computing_tangents
+#### skip\_computing\_tangents
 
 ```python
 @skip_computing_tangents.setter

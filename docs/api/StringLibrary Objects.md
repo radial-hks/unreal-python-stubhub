@@ -13,7 +13,7 @@ Kismet String Library
 
 <a id="unreal.StringLibrary.trim_trailing"></a>
 
-#### trim_trailing
+#### trim\_trailing
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.StringLibrary.to_upper"></a>
 
-#### to_upper
+#### to\_upper
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.StringLibrary.to_lower"></a>
 
-#### to_lower
+#### to\_lower
 
 ```python
 @classmethod
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.StringLibrary.time_seconds_to_string"></a>
 
-#### time_seconds_to_string
+#### time\_seconds\_to\_string
 
 ```python
 @classmethod
@@ -103,7 +103,7 @@ Returns:
 
 <a id="unreal.StringLibrary.starts_with"></a>
 
-#### starts_with
+#### starts\_with
 
 ```python
 @classmethod
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.StringLibrary.right_pad"></a>
 
-#### right_pad
+#### right\_pad
 
 ```python
 @classmethod
@@ -177,7 +177,7 @@ Returns:
 
 <a id="unreal.StringLibrary.right_chop"></a>
 
-#### right_chop
+#### right\_chop
 
 ```python
 @classmethod
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.StringLibrary.replace_inline"></a>
 
-#### replace_inline
+#### replace\_inline
 
 ```python
 @classmethod
@@ -286,7 +286,7 @@ Returns:
 
 <a id="unreal.StringLibrary.parse_into_array"></a>
 
-#### parse_into_array
+#### parse\_into\_array
 
 ```python
 @classmethod
@@ -309,7 +309,7 @@ Returns:
 
 <a id="unreal.StringLibrary.not_equal_str_str"></a>
 
-#### not_equal_str_str
+#### not\_equal\_str\_str
 
 ```python
 @classmethod
@@ -328,7 +328,7 @@ Returns:
 
 <a id="unreal.StringLibrary.not_equal_stri_stri"></a>
 
-#### not_equal_stri_stri
+#### not\_equal\_stri\_stri
 
 ```python
 @classmethod
@@ -367,7 +367,7 @@ Returns:
 
 <a id="unreal.StringLibrary.matches_wildcard"></a>
 
-#### matches_wildcard
+#### matches\_wildcard
 
 ```python
 @classmethod
@@ -409,7 +409,7 @@ Returns:
 
 <a id="unreal.StringLibrary.left_pad"></a>
 
-#### left_pad
+#### left\_pad
 
 ```python
 @classmethod
@@ -429,7 +429,7 @@ Returns:
 
 <a id="unreal.StringLibrary.left_chop"></a>
 
-#### left_chop
+#### left\_chop
 
 ```python
 @classmethod
@@ -467,7 +467,7 @@ Returns:
 
 <a id="unreal.StringLibrary.join_string_array"></a>
 
-#### join_string_array
+#### join\_string\_array
 
 ```python
 @classmethod
@@ -488,7 +488,7 @@ Returns:
 
 <a id="unreal.StringLibrary.is_numeric"></a>
 
-#### is_numeric
+#### is\_numeric
 
 ```python
 @classmethod
@@ -507,7 +507,7 @@ Returns:
 
 <a id="unreal.StringLibrary.is_empty"></a>
 
-#### is_empty
+#### is\_empty
 
 ```python
 @classmethod
@@ -525,7 +525,7 @@ Returns:
 
 <a id="unreal.StringLibrary.get_substring"></a>
 
-#### get_substring
+#### get\_substring
 
 ```python
 @classmethod
@@ -548,7 +548,7 @@ Returns:
 
 <a id="unreal.StringLibrary.get_character_as_number"></a>
 
-#### get_character_as_number
+#### get\_character\_as\_number
 
 ```python
 @classmethod
@@ -567,7 +567,7 @@ Returns:
 
 <a id="unreal.StringLibrary.get_character_array_from_string"></a>
 
-#### get_character_array_from_string
+#### get\_character\_array\_from\_string
 
 ```python
 @classmethod
@@ -585,7 +585,7 @@ Returns:
 
 <a id="unreal.StringLibrary.find_substring"></a>
 
-#### find_substring
+#### find\_substring
 
 ```python
 @classmethod
@@ -612,7 +612,7 @@ Returns:
 
 <a id="unreal.StringLibrary.equal_equal_str_str"></a>
 
-#### equal_equal_str_str
+#### equal\_equal\_str\_str
 
 ```python
 @classmethod
@@ -631,7 +631,7 @@ Returns:
 
 <a id="unreal.StringLibrary.equal_equal_stri_stri"></a>
 
-#### equal_equal_stri_stri
+#### equal\_equal\_stri\_stri
 
 ```python
 @classmethod
@@ -650,7 +650,7 @@ Returns:
 
 <a id="unreal.StringLibrary.ends_with"></a>
 
-#### ends_with
+#### ends\_with
 
 ```python
 @classmethod
@@ -673,7 +673,7 @@ Returns:
 
 <a id="unreal.StringLibrary.cull_array"></a>
 
-#### cull_array
+#### cull\_array
 
 ```python
 @classmethod
@@ -693,7 +693,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_vector_to_string"></a>
 
-#### conv_vector_to_string
+#### conv\_vector\_to\_string
 
 ```python
 @classmethod
@@ -711,7 +711,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_vector3f_to_string"></a>
 
-#### conv_vector3f_to_string
+#### conv\_vector3f\_to\_string
 
 ```python
 @classmethod
@@ -729,7 +729,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_vector2d_to_string"></a>
 
-#### conv_vector2d_to_string
+#### conv\_vector2d\_to\_string
 
 ```python
 @classmethod
@@ -747,7 +747,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_transform_to_string"></a>
 
-#### conv_transform_to_string
+#### conv\_transform\_to\_string
 
 ```python
 @classmethod
@@ -765,7 +765,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_vector3f"></a>
 
-#### conv_string_to_vector3f
+#### conv\_string\_to\_vector3f
 
 ```python
 @classmethod
@@ -787,7 +787,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_vector2d"></a>
 
-#### conv_string_to_vector2d
+#### conv\_string\_to\_vector2d
 
 ```python
 @classmethod
@@ -809,7 +809,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_vector"></a>
 
-#### conv_string_to_vector
+#### conv\_string\_to\_vector
 
 ```python
 @classmethod
@@ -831,7 +831,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_rotator"></a>
 
-#### conv_string_to_rotator
+#### conv\_string\_to\_rotator
 
 ```python
 @classmethod
@@ -853,7 +853,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_name"></a>
 
-#### conv_string_to_name
+#### conv\_string\_to\_name
 
 ```python
 @classmethod
@@ -871,7 +871,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_int64"></a>
 
-#### conv_string_to_int64
+#### conv\_string\_to\_int64
 
 ```python
 @classmethod
@@ -889,7 +889,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_int"></a>
 
-#### conv_string_to_int
+#### conv\_string\_to\_int
 
 ```python
 @classmethod
@@ -907,7 +907,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_double"></a>
 
-#### conv_string_to_double
+#### conv\_string\_to\_double
 
 ```python
 @classmethod
@@ -925,7 +925,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_string_to_float"></a>
 
-#### conv_string_to_float
+#### conv\_string\_to\_float
 
 ```python
 @classmethod
@@ -936,7 +936,7 @@ deprecated: 'conv_string_to_float' was renamed to 'conv_string_to_double'.
 
 <a id="unreal.StringLibrary.conv_string_to_color"></a>
 
-#### conv_string_to_color
+#### conv\_string\_to\_color
 
 ```python
 @classmethod
@@ -958,7 +958,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_rotator_to_string"></a>
 
-#### conv_rotator_to_string
+#### conv\_rotator\_to\_string
 
 ```python
 @classmethod
@@ -976,7 +976,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_platform_user_id_to_string"></a>
 
-#### conv_platform_user_id_to_string
+#### conv\_platform\_user\_id\_to\_string
 
 ```python
 @classmethod
@@ -995,7 +995,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_object_to_string"></a>
 
-#### conv_object_to_string
+#### conv\_object\_to\_string
 
 ```python
 @classmethod
@@ -1013,7 +1013,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_name_to_string"></a>
 
-#### conv_name_to_string
+#### conv\_name\_to\_string
 
 ```python
 @classmethod
@@ -1031,7 +1031,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_matrix_to_string"></a>
 
-#### conv_matrix_to_string
+#### conv\_matrix\_to\_string
 
 ```python
 @classmethod
@@ -1049,7 +1049,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_int_vector_to_string"></a>
 
-#### conv_int_vector_to_string
+#### conv\_int\_vector\_to\_string
 
 ```python
 @classmethod
@@ -1067,7 +1067,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_int_to_string"></a>
 
-#### conv_int_to_string
+#### conv\_int\_to\_string
 
 ```python
 @classmethod
@@ -1085,7 +1085,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_int_point_to_string"></a>
 
-#### conv_int_point_to_string
+#### conv\_int\_point\_to\_string
 
 ```python
 @classmethod
@@ -1103,7 +1103,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_int64_to_string"></a>
 
-#### conv_int64_to_string
+#### conv\_int64\_to\_string
 
 ```python
 @classmethod
@@ -1121,7 +1121,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_input_device_id_to_string"></a>
 
-#### conv_input_device_id_to_string
+#### conv\_input\_device\_id\_to\_string
 
 ```python
 @classmethod
@@ -1139,7 +1139,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_double_to_string"></a>
 
-#### conv_double_to_string
+#### conv\_double\_to\_string
 
 ```python
 @classmethod
@@ -1157,7 +1157,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_float_to_string"></a>
 
-#### conv_float_to_string
+#### conv\_float\_to\_string
 
 ```python
 @classmethod
@@ -1168,7 +1168,7 @@ deprecated: 'conv_float_to_string' was renamed to 'conv_double_to_string'.
 
 <a id="unreal.StringLibrary.conv_color_to_string"></a>
 
-#### conv_color_to_string
+#### conv\_color\_to\_string
 
 ```python
 @classmethod
@@ -1186,7 +1186,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_byte_to_string"></a>
 
-#### conv_byte_to_string
+#### conv\_byte\_to\_string
 
 ```python
 @classmethod
@@ -1204,7 +1204,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_box_to_string"></a>
 
-#### conv_box_to_string
+#### conv\_box\_to\_string
 
 ```python
 @classmethod
@@ -1222,7 +1222,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_box_center_and_extents_to_string"></a>
 
-#### conv_box_center_and_extents_to_string
+#### conv\_box\_center\_and\_extents\_to\_string
 
 ```python
 @classmethod
@@ -1240,7 +1240,7 @@ Returns:
 
 <a id="unreal.StringLibrary.conv_bool_to_string"></a>
 
-#### conv_bool_to_string
+#### conv\_bool\_to\_string
 
 ```python
 @classmethod
@@ -1283,7 +1283,7 @@ Returns:
 
 <a id="unreal.StringLibrary.concat_str_str"></a>
 
-#### concat_str_str
+#### concat\_str\_str
 
 ```python
 @classmethod
@@ -1302,7 +1302,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_vector2d"></a>
 
-#### build_string_vector2d
+#### build\_string\_vector2d
 
 ```python
 @classmethod
@@ -1324,7 +1324,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_vector"></a>
 
-#### build_string_vector
+#### build\_string\_vector
 
 ```python
 @classmethod
@@ -1346,7 +1346,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_rotator"></a>
 
-#### build_string_rotator
+#### build\_string\_rotator
 
 ```python
 @classmethod
@@ -1368,7 +1368,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_object"></a>
 
-#### build_string_object
+#### build\_string\_object
 
 ```python
 @classmethod
@@ -1390,7 +1390,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_name"></a>
 
-#### build_string_name
+#### build\_string\_name
 
 ```python
 @classmethod
@@ -1412,7 +1412,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_int_vector"></a>
 
-#### build_string_int_vector
+#### build\_string\_int\_vector
 
 ```python
 @classmethod
@@ -1434,7 +1434,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_int"></a>
 
-#### build_string_int
+#### build\_string\_int
 
 ```python
 @classmethod
@@ -1456,7 +1456,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_double"></a>
 
-#### build_string_double
+#### build\_string\_double
 
 ```python
 @classmethod
@@ -1478,7 +1478,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_float"></a>
 
-#### build_string_float
+#### build\_string\_float
 
 ```python
 @classmethod
@@ -1490,7 +1490,7 @@ deprecated: 'build_string_float' was renamed to 'build_string_double'.
 
 <a id="unreal.StringLibrary.build_string_color"></a>
 
-#### build_string_color
+#### build\_string\_color
 
 ```python
 @classmethod
@@ -1512,7 +1512,7 @@ Returns:
 
 <a id="unreal.StringLibrary.build_string_bool"></a>
 
-#### build_string_bool
+#### build\_string\_bool
 
 ```python
 @classmethod

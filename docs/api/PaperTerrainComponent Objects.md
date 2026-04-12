@@ -201,7 +201,7 @@ This takes a 2D terrain material and instances sprite geometry along the spline 
 
 <a id="unreal.PaperTerrainComponent.terrain_material"></a>
 
-#### terrain_material
+#### terrain\_material
 
 ```python
 @property
@@ -212,7 +212,7 @@ def terrain_material() -> PaperTerrainMaterial
 
 <a id="unreal.PaperTerrainComponent.closed_spline"></a>
 
-#### closed_spline
+#### closed\_spline
 
 ```python
 @property
@@ -223,7 +223,7 @@ def closed_spline() -> bool
 
 <a id="unreal.PaperTerrainComponent.filled_spline"></a>
 
-#### filled_spline
+#### filled\_spline
 
 ```python
 @property
@@ -234,7 +234,7 @@ def filled_spline() -> bool
 
 <a id="unreal.PaperTerrainComponent.terrain_color"></a>
 
-#### terrain_color
+#### terrain\_color
 
 ```python
 @property
@@ -245,7 +245,7 @@ def terrain_color() -> LinearColor
 
 <a id="unreal.PaperTerrainComponent.set_terrain_color"></a>
 
-#### set_terrain_color
+#### set\_terrain\_color
 
 ```python
 def set_terrain_color(new_color: LinearColor) -> None

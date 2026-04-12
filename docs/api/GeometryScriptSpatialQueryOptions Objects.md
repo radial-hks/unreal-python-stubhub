@@ -20,7 +20,7 @@ Geometry Script Spatial Query Options
 
 <a id="unreal.GeometryScriptSpatialQueryOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(max_distance: float = 0.000000,
@@ -30,7 +30,7 @@ def __init__(max_distance: float = 0.000000,
 
 <a id="unreal.GeometryScriptSpatialQueryOptions.max_distance"></a>
 
-#### max_distance
+#### max\_distance
 
 ```python
 @property
@@ -41,7 +41,7 @@ def max_distance() -> float
 
 <a id="unreal.GeometryScriptSpatialQueryOptions.max_distance"></a>
 
-#### max_distance
+#### max\_distance
 
 ```python
 @max_distance.setter
@@ -50,7 +50,7 @@ def max_distance(value: float) -> None
 
 <a id="unreal.GeometryScriptSpatialQueryOptions.allow_unsafe_modified_queries"></a>
 
-#### allow_unsafe_modified_queries
+#### allow\_unsafe\_modified\_queries
 
 ```python
 @property
@@ -61,7 +61,7 @@ def allow_unsafe_modified_queries() -> bool
 
 <a id="unreal.GeometryScriptSpatialQueryOptions.allow_unsafe_modified_queries"></a>
 
-#### allow_unsafe_modified_queries
+#### allow\_unsafe\_modified\_queries
 
 ```python
 @allow_unsafe_modified_queries.setter
@@ -70,7 +70,7 @@ def allow_unsafe_modified_queries(value: bool) -> None
 
 <a id="unreal.GeometryScriptSpatialQueryOptions.winding_iso_threshold"></a>
 
-#### winding_iso_threshold
+#### winding\_iso\_threshold
 
 ```python
 @property
@@ -81,7 +81,7 @@ def winding_iso_threshold() -> float
 
 <a id="unreal.GeometryScriptSpatialQueryOptions.winding_iso_threshold"></a>
 
-#### winding_iso_threshold
+#### winding\_iso\_threshold
 
 ```python
 @winding_iso_threshold.setter

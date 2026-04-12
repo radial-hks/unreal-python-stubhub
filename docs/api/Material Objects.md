@@ -191,7 +191,7 @@ Warning: Creating new materials directly increases shader compile times!  Consid
 
 <a id="unreal.Material.material_domain"></a>
 
-#### material_domain
+#### material\_domain
 
 ```python
 @property
@@ -203,7 +203,7 @@ Certain pieces of material functionality are only valid in certain domains, for 
 
 <a id="unreal.Material.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @property
@@ -214,7 +214,7 @@ def blend_mode() -> BlendMode
 
 <a id="unreal.Material.decal_blend_mode"></a>
 
-#### decal_blend_mode
+#### decal\_blend\_mode
 
 ```python
 @property
@@ -226,7 +226,7 @@ deprecated: No longer used.
 
 <a id="unreal.Material.decal_blend_mode"></a>
 
-#### decal_blend_mode
+#### decal\_blend\_mode
 
 ```python
 @decal_blend_mode.setter
@@ -235,7 +235,7 @@ def decal_blend_mode(value: DecalBlendMode) -> None
 
 <a id="unreal.Material.material_decal_response"></a>
 
-#### material_decal_response
+#### material\_decal\_response
 
 ```python
 @property
@@ -247,7 +247,7 @@ Non DBuffer Decals can be disabled on the primitive (e.g. static mesh)
 
 <a id="unreal.Material.displacement_scaling"></a>
 
-#### displacement_scaling
+#### displacement\_scaling
 
 ```python
 @property
@@ -258,7 +258,7 @@ def displacement_scaling() -> DisplacementScaling
 
 <a id="unreal.Material.displacement_scaling"></a>
 
-#### displacement_scaling
+#### displacement\_scaling
 
 ```python
 @displacement_scaling.setter
@@ -267,7 +267,7 @@ def displacement_scaling(value: DisplacementScaling) -> None
 
 <a id="unreal.Material.displacement_fade_range"></a>
 
-#### displacement_fade_range
+#### displacement\_fade\_range
 
 ```python
 @property
@@ -278,7 +278,7 @@ def displacement_fade_range() -> DisplacementFadeRange
 
 <a id="unreal.Material.displacement_fade_range"></a>
 
-#### displacement_fade_range
+#### displacement\_fade\_range
 
 ```python
 @displacement_fade_range.setter
@@ -287,7 +287,7 @@ def displacement_fade_range(value: DisplacementFadeRange) -> None
 
 <a id="unreal.Material.use_emissive_for_dynamic_area_lighting"></a>
 
-#### use_emissive_for_dynamic_area_lighting
+#### use\_emissive\_for\_dynamic\_area\_lighting
 
 ```python
 @property
@@ -298,7 +298,7 @@ def use_emissive_for_dynamic_area_lighting() -> bool
 
 <a id="unreal.Material.use_emissive_for_dynamic_area_lighting"></a>
 
-#### use_emissive_for_dynamic_area_lighting
+#### use\_emissive\_for\_dynamic\_area\_lighting
 
 ```python
 @use_emissive_for_dynamic_area_lighting.setter
@@ -307,7 +307,7 @@ def use_emissive_for_dynamic_area_lighting(value: bool) -> None
 
 <a id="unreal.Material.used_with_skeletal_mesh"></a>
 
-#### used_with_skeletal_mesh
+#### used\_with\_skeletal\_mesh
 
 ```python
 @property
@@ -319,7 +319,7 @@ This will result in the shaders required to support skeletal meshes being compil
 
 <a id="unreal.Material.used_with_editor_compositing"></a>
 
-#### used_with_editor_compositing
+#### used\_with\_editor\_compositing
 
 ```python
 @property
@@ -331,7 +331,7 @@ This will result in the shaders required to support editor compositing being com
 
 <a id="unreal.Material.used_with_particle_sprites"></a>
 
-#### used_with_particle_sprites
+#### used\_with\_particle\_sprites
 
 ```python
 @property
@@ -343,7 +343,7 @@ This will result in the shaders required to support particle sprites being compi
 
 <a id="unreal.Material.used_with_beam_trails"></a>
 
-#### used_with_beam_trails
+#### used\_with\_beam\_trails
 
 ```python
 @property
@@ -355,7 +355,7 @@ This will result in the shaders required to support beam trails being compiled w
 
 <a id="unreal.Material.used_with_mesh_particles"></a>
 
-#### used_with_mesh_particles
+#### used\_with\_mesh\_particles
 
 ```python
 @property
@@ -367,7 +367,7 @@ This will result in the shaders required to support mesh particles being compile
 
 <a id="unreal.Material.used_with_niagara_sprites"></a>
 
-#### used_with_niagara_sprites
+#### used\_with\_niagara\_sprites
 
 ```python
 @property
@@ -379,7 +379,7 @@ This will result in the shaders required to support Niagara sprites being compil
 
 <a id="unreal.Material.used_with_niagara_ribbons"></a>
 
-#### used_with_niagara_ribbons
+#### used\_with\_niagara\_ribbons
 
 ```python
 @property
@@ -390,7 +390,7 @@ def used_with_niagara_ribbons() -> bool
 
 <a id="unreal.Material.used_with_niagara_mesh_particles"></a>
 
-#### used_with_niagara_mesh_particles
+#### used\_with\_niagara\_mesh\_particles
 
 ```python
 @property
@@ -401,7 +401,7 @@ def used_with_niagara_mesh_particles() -> bool
 
 <a id="unreal.Material.used_with_geometry_cache"></a>
 
-#### used_with_geometry_cache
+#### used\_with\_geometry\_cache
 
 ```python
 @property
@@ -412,7 +412,7 @@ def used_with_geometry_cache() -> bool
 
 <a id="unreal.Material.used_with_static_lighting"></a>
 
-#### used_with_static_lighting
+#### used\_with\_static\_lighting
 
 ```python
 @property
@@ -424,7 +424,7 @@ This will result in the shaders required to support static lighting being compil
 
 <a id="unreal.Material.used_with_morph_targets"></a>
 
-#### used_with_morph_targets
+#### used\_with\_morph\_targets
 
 ```python
 @property
@@ -436,7 +436,7 @@ This will result in the shaders required to support morph targets being compiled
 
 <a id="unreal.Material.used_with_spline_meshes"></a>
 
-#### used_with_spline_meshes
+#### used\_with\_spline\_meshes
 
 ```python
 @property
@@ -448,7 +448,7 @@ This will result in the shaders required to support spline meshes being compiled
 
 <a id="unreal.Material.used_with_instanced_static_meshes"></a>
 
-#### used_with_instanced_static_meshes
+#### used\_with\_instanced\_static\_meshes
 
 ```python
 @property
@@ -460,7 +460,7 @@ This will result in the shaders required to support instanced static meshes bein
 
 <a id="unreal.Material.used_with_geometry_collections"></a>
 
-#### used_with_geometry_collections
+#### used\_with\_geometry\_collections
 
 ```python
 @property
@@ -472,7 +472,7 @@ This will result in the shaders required to support geometry collections being c
 
 <a id="unreal.Material.used_with_clothing"></a>
 
-#### used_with_clothing
+#### used\_with\_clothing
 
 ```python
 @property
@@ -484,7 +484,7 @@ This will result in the shaders required to support clothing being compiled whic
 
 <a id="unreal.Material.used_with_water"></a>
 
-#### used_with_water
+#### used\_with\_water
 
 ```python
 @property
@@ -496,7 +496,7 @@ This will result in the shaders required to support water meshes being compiled 
 
 <a id="unreal.Material.used_with_hair_strands"></a>
 
-#### used_with_hair_strands
+#### used\_with\_hair\_strands
 
 ```python
 @property
@@ -508,7 +508,7 @@ This will result in the shaders required to support hair strands geometries bein
 
 <a id="unreal.Material.used_with_lidar_point_cloud"></a>
 
-#### used_with_lidar_point_cloud
+#### used\_with\_lidar\_point\_cloud
 
 ```python
 @property
@@ -520,7 +520,7 @@ This will result in the shaders required to support LiDAR Point Cloud geometries
 
 <a id="unreal.Material.used_with_virtual_heightfield_mesh"></a>
 
-#### used_with_virtual_heightfield_mesh
+#### used\_with\_virtual\_heightfield\_mesh
 
 ```python
 @property
@@ -532,7 +532,7 @@ This will result in the shaders required to support Virtual Heightfield Mesh geo
 
 <a id="unreal.Material.used_with_nanite"></a>
 
-#### used_with_nanite
+#### used\_with\_nanite
 
 ```python
 @property
@@ -544,7 +544,7 @@ This will result in the shaders required to support Nanite geometries being comp
 
 <a id="unreal.Material.used_with_volumetric_cloud"></a>
 
-#### used_with_volumetric_cloud
+#### used\_with\_volumetric\_cloud
 
 ```python
 @property
@@ -556,7 +556,7 @@ This will result in the shaders required to support Volumetric Cloud rendering b
 
 <a id="unreal.Material.used_with_heterogeneous_volumes"></a>
 
-#### used_with_heterogeneous_volumes
+#### used\_with\_heterogeneous\_volumes
 
 ```python
 @property
@@ -568,7 +568,7 @@ This will result in the shaders required to support Heterogeneous Volumes render
 
 <a id="unreal.Material.automatically_set_usage_in_editor"></a>
 
-#### automatically_set_usage_in_editor
+#### automatically\_set\_usage\_in\_editor
 
 ```python
 @property
@@ -580,7 +580,7 @@ It can be useful to disable this on a base material with many instances, where a
 
 <a id="unreal.Material.fully_rough"></a>
 
-#### fully_rough
+#### fully\_rough
 
 ```python
 @property
@@ -591,7 +591,7 @@ def fully_rough() -> bool
 
 <a id="unreal.Material.float_precision_mode"></a>
 
-#### float_precision_mode
+#### float\_precision\_mode
 
 ```python
 @property
@@ -605,7 +605,7 @@ This setting has no effect on older mobile devices that do not support high prec
 
 <a id="unreal.Material.use_lightmap_directionality"></a>
 
-#### use_lightmap_directionality
+#### use\_lightmap\_directionality
 
 ```python
 @property
@@ -616,7 +616,7 @@ def use_lightmap_directionality() -> bool
 
 <a id="unreal.Material.mobile_enable_high_quality_brdf"></a>
 
-#### mobile_enable_high_quality_brdf
+#### mobile\_enable\_high\_quality\_brdf
 
 ```python
 @property
@@ -627,7 +627,7 @@ def mobile_enable_high_quality_brdf() -> bool
 
 <a id="unreal.Material.use_alpha_to_coverage"></a>
 
-#### use_alpha_to_coverage
+#### use\_alpha\_to\_coverage
 
 ```python
 @property
@@ -638,7 +638,7 @@ def use_alpha_to_coverage() -> bool
 
 <a id="unreal.Material.forward_render_use_preintegrated_gf_for_simple_ibl"></a>
 
-#### forward_render_use_preintegrated_gf_for_simple_ibl
+#### forward\_render\_use\_preintegrated\_gf\_for\_simple\_ibl
 
 ```python
 @property
@@ -649,7 +649,7 @@ def forward_render_use_preintegrated_gf_for_simple_ibl() -> bool
 
 <a id="unreal.Material.use_hq_forward_reflections"></a>
 
-#### use_hq_forward_reflections
+#### use\_hq\_forward\_reflections
 
 ```python
 @property
@@ -660,7 +660,7 @@ def use_hq_forward_reflections() -> bool
 
 <a id="unreal.Material.forward_blends_sky_light_cubemaps"></a>
 
-#### forward_blends_sky_light_cubemaps
+#### forward\_blends\_sky\_light\_cubemaps
 
 ```python
 @property
@@ -671,7 +671,7 @@ def forward_blends_sky_light_cubemaps() -> bool
 
 <a id="unreal.Material.use_planar_forward_reflections"></a>
 
-#### use_planar_forward_reflections
+#### use\_planar\_forward\_reflections
 
 ```python
 @property
@@ -682,7 +682,7 @@ def use_planar_forward_reflections() -> bool
 
 <a id="unreal.Material.normal_curvature_to_roughness"></a>
 
-#### normal_curvature_to_roughness
+#### normal\_curvature\_to\_roughness
 
 ```python
 @property
@@ -693,7 +693,7 @@ def normal_curvature_to_roughness() -> bool
 
 <a id="unreal.Material.blendable_location"></a>
 
-#### blendable_location
+#### blendable\_location
 
 ```python
 @property
@@ -704,7 +704,7 @@ def blendable_location() -> BlendableLocation
 
 <a id="unreal.Material.blendable_location"></a>
 
-#### blendable_location
+#### blendable\_location
 
 ```python
 @blendable_location.setter
@@ -713,7 +713,7 @@ def blendable_location(value: BlendableLocation) -> None
 
 <a id="unreal.Material.blendable_output_alpha"></a>
 
-#### blendable_output_alpha
+#### blendable\_output\_alpha
 
 ```python
 @property
@@ -724,7 +724,7 @@ def blendable_output_alpha() -> bool
 
 <a id="unreal.Material.blendable_output_alpha"></a>
 
-#### blendable_output_alpha
+#### blendable\_output\_alpha
 
 ```python
 @blendable_output_alpha.setter
@@ -733,7 +733,7 @@ def blendable_output_alpha(value: bool) -> None
 
 <a id="unreal.Material.user_scene_texture"></a>
 
-#### user_scene_texture
+#### user\_scene\_texture
 
 ```python
 @property
@@ -744,7 +744,7 @@ def user_scene_texture() -> Name
 
 <a id="unreal.Material.user_scene_texture"></a>
 
-#### user_scene_texture
+#### user\_scene\_texture
 
 ```python
 @user_scene_texture.setter
@@ -753,7 +753,7 @@ def user_scene_texture(value: Name) -> None
 
 <a id="unreal.Material.user_texture_divisor"></a>
 
-#### user_texture_divisor
+#### user\_texture\_divisor
 
 ```python
 @property
@@ -764,7 +764,7 @@ def user_texture_divisor() -> IntPoint
 
 <a id="unreal.Material.user_texture_divisor"></a>
 
-#### user_texture_divisor
+#### user\_texture\_divisor
 
 ```python
 @user_texture_divisor.setter
@@ -773,7 +773,7 @@ def user_texture_divisor(value: IntPoint) -> None
 
 <a id="unreal.Material.resolution_relative_to_input"></a>
 
-#### resolution_relative_to_input
+#### resolution\_relative\_to\_input
 
 ```python
 @property
@@ -784,7 +784,7 @@ def resolution_relative_to_input() -> Name
 
 <a id="unreal.Material.resolution_relative_to_input"></a>
 
-#### resolution_relative_to_input
+#### resolution\_relative\_to\_input
 
 ```python
 @resolution_relative_to_input.setter
@@ -793,7 +793,7 @@ def resolution_relative_to_input(value: Name) -> None
 
 <a id="unreal.Material.blendable_priority"></a>
 
-#### blendable_priority
+#### blendable\_priority
 
 ```python
 @property
@@ -804,7 +804,7 @@ def blendable_priority() -> int
 
 <a id="unreal.Material.blendable_priority"></a>
 
-#### blendable_priority
+#### blendable\_priority
 
 ```python
 @blendable_priority.setter
@@ -813,7 +813,7 @@ def blendable_priority(value: int) -> None
 
 <a id="unreal.Material.is_blendable"></a>
 
-#### is_blendable
+#### is\_blendable
 
 ```python
 @property
@@ -824,7 +824,7 @@ def is_blendable() -> bool
 
 <a id="unreal.Material.is_blendable"></a>
 
-#### is_blendable
+#### is\_blendable
 
 ```python
 @is_blendable.setter
@@ -833,7 +833,7 @@ def is_blendable(value: bool) -> None
 
 <a id="unreal.Material.max_world_position_offset_displacement"></a>
 
-#### max_world_position_offset_displacement
+#### max\_world\_position\_offset\_displacement
 
 ```python
 @property
@@ -846,7 +846,7 @@ NOTE: A value of 0.0 effectively means "no maximum", and will not clamp the offs
 
 <a id="unreal.Material.max_world_position_offset_displacement"></a>
 
-#### max_world_position_offset_displacement
+#### max\_world\_position\_offset\_displacement
 
 ```python
 @max_world_position_offset_displacement.setter
@@ -855,7 +855,7 @@ def max_world_position_offset_displacement(value: float) -> None
 
 <a id="unreal.Material.max_world_position_offset_distance"></a>
 
-#### max_world_position_offset_distance
+#### max\_world\_position\_offset\_distance
 
 ```python
 @property
@@ -866,7 +866,7 @@ deprecated: 'max_world_position_offset_distance' was renamed to 'max_world_posit
 
 <a id="unreal.Material.max_world_position_offset_distance"></a>
 
-#### max_world_position_offset_distance
+#### max\_world\_position\_offset\_distance
 
 ```python
 @max_world_position_offset_distance.setter
@@ -875,7 +875,7 @@ def max_world_position_offset_distance(value: float) -> None
 
 <a id="unreal.Material.always_evaluate_world_position_offset"></a>
 
-#### always_evaluate_world_position_offset
+#### always\_evaluate\_world\_position\_offset
 
 ```python
 @property
@@ -887,7 +887,7 @@ via "Evaluate World Position Offset" or "World Position Offset Disable Distance"
 
 <a id="unreal.Material.always_evaluate_world_position_offset"></a>
 
-#### always_evaluate_world_position_offset
+#### always\_evaluate\_world\_position\_offset
 
 ```python
 @always_evaluate_world_position_offset.setter
@@ -896,7 +896,7 @@ def always_evaluate_world_position_offset(value: bool) -> None
 
 <a id="unreal.Material.parameter_group_data"></a>
 
-#### parameter_group_data
+#### parameter\_group\_data
 
 ```python
 @property
@@ -908,7 +908,7 @@ deprecated: GetEditorOnlyData().ParameterGroupData
 
 <a id="unreal.Material.parameter_group_data"></a>
 
-#### parameter_group_data
+#### parameter\_group\_data
 
 ```python
 @parameter_group_data.setter

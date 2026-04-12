@@ -17,7 +17,7 @@ Structure for directory paths that are displayed in the editor with a picker UI.
 
 <a id="unreal.DirectoryPath.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(path: str = "") -> None

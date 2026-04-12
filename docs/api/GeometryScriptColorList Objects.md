@@ -14,7 +14,7 @@ Geometry Script Color List
 
 <a id="unreal.GeometryScriptColorList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptColorList.set_color_list_item"></a>
 
-#### set_color_list_item
+#### set\_color\_list\_item
 
 ```python
 def set_color_list_item(index: int, new_color: LinearColor) -> bool
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.GeometryScriptColorList.get_color_list_length"></a>
 
-#### get_color_list_length
+#### get\_color\_list\_length
 
 ```python
 def get_color_list_length() -> int
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.GeometryScriptColorList.get_color_list_last_index"></a>
 
-#### get_color_list_last_index
+#### get\_color\_list\_last\_index
 
 ```python
 def get_color_list_last_index() -> int
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.GeometryScriptColorList.get_color_list_item"></a>
 
-#### get_color_list_item
+#### get\_color\_list\_item
 
 ```python
 def get_color_list_item(index: int) -> Tuple[LinearColor, bool]
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.GeometryScriptColorList.extract_color_list_channels"></a>
 
-#### extract_color_list_channels
+#### extract\_color\_list\_channels
 
 ```python
 def extract_color_list_channels(
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.GeometryScriptColorList.extract_color_list_channel"></a>
 
-#### extract_color_list_channel
+#### extract\_color\_list\_channel
 
 ```python
 def extract_color_list_channel(
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.GeometryScriptColorList.duplicate_color_list"></a>
 
-#### duplicate_color_list
+#### duplicate\_color\_list
 
 ```python
 def duplicate_color_list() -> GeometryScriptColorList
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.GeometryScriptColorList.convert_color_list_to_array"></a>
 
-#### convert_color_list_to_array
+#### convert\_color\_list\_to\_array
 
 ```python
 def convert_color_list_to_array() -> Array[LinearColor]
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.GeometryScriptColorList.clear_color_list"></a>
 
-#### clear_color_list
+#### clear\_color\_list
 
 ```python
 def clear_color_list(clear_color: LinearColor) -> None

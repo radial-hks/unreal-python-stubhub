@@ -30,7 +30,7 @@ Niagara Data Interface Grid 2DCollection
 
 <a id="unreal.NiagaraDataInterfaceGrid2DCollection.get_texture_size"></a>
 
-#### get_texture_size
+#### get\_texture\_size
 
 ```python
 def get_texture_size(component: NiagaraComponent) -> Tuple[int, int]
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.NiagaraDataInterfaceGrid2DCollection.get_raw_texture_size"></a>
 
-#### get_raw_texture_size
+#### get\_raw\_texture\_size
 
 ```python
 def get_raw_texture_size(component: NiagaraComponent) -> Tuple[int, int]
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.NiagaraDataInterfaceGrid2DCollection.fill_texture2d"></a>
 
-#### fill_texture2d
+#### fill\_texture2d
 
 ```python
 def fill_texture2d(component: NiagaraComponent, dest: TextureRenderTarget2D,
@@ -95,7 +95,7 @@ Returns:
 
 <a id="unreal.NiagaraDataInterfaceGrid2DCollection.fill_raw_texture2d"></a>
 
-#### fill_raw_texture2d
+#### fill\_raw\_texture2d
 
 ```python
 def fill_raw_texture2d(

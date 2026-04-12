@@ -19,7 +19,7 @@ Selection from the UI to Snap To. Contains a set of Actors and/or Control Rigs t
 
 <a id="unreal.ControlRigSnapperSelection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(actors: Array[ActorForWorldTransforms] = [],
@@ -48,7 +48,7 @@ def actors(value: Array[ActorForWorldTransforms]) -> None
 
 <a id="unreal.ControlRigSnapperSelection.control_rigs"></a>
 
-#### control_rigs
+#### control\_rigs
 
 ```python
 @property
@@ -59,7 +59,7 @@ def control_rigs() -> Array[ControlRigForWorldTransforms]
 
 <a id="unreal.ControlRigSnapperSelection.control_rigs"></a>
 
-#### control_rigs
+#### control\_rigs
 
 ```python
 @control_rigs.setter

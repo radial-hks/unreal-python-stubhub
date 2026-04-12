@@ -14,7 +14,7 @@ Optimus Node
 
 <a id="unreal.OptimusNode.set_graph_position"></a>
 
-#### set_graph_position
+#### set\_graph\_position
 
 ```python
 def set_graph_position(position: Vector2D) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.OptimusNode.get_node_name"></a>
 
-#### get_node_name
+#### get\_node\_name
 
 ```python
 def get_node_name() -> Name
@@ -45,7 +45,7 @@ Returns:
 
 <a id="unreal.OptimusNode.get_node_category"></a>
 
-#### get_node_category
+#### get\_node\_category
 
 ```python
 def get_node_category() -> Name
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.OptimusNode.get_graph_position"></a>
 
-#### get_graph_position
+#### get\_graph\_position
 
 ```python
 def get_graph_position() -> Vector2D
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.OptimusNode.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 def get_display_name() -> Text

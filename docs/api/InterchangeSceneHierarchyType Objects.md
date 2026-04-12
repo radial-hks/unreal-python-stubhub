@@ -14,14 +14,14 @@ EInterchange Scene Hierarchy Type
 
 <a id="unreal.InterchangeSceneHierarchyType.CREATE_LEVEL_ACTORS"></a>
 
-#### CREATE_LEVEL_ACTORS
+#### CREATE\_LEVEL\_ACTORS
 
 0: Create actors in the current editor world for all scene nodes in the source hierarchy.
 
 <a id="unreal.InterchangeSceneHierarchyType.CREATE_LEVEL_INSTANCE_ACTOR"></a>
 
-#### CREATE_LEVEL_INSTANCE_ACTOR
+#### CREATE\_LEVEL\_INSTANCE\_ACTOR
 
 1: Create a world containing all scene nodes in the source hierarchy and reference the world has a level instance actor in the current editor world.
 
-<a id="unreal.RigVMBlueprintLoadLogSeverity"></a>
+<a id="unreal.TakeRecorderState"></a>

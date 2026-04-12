@@ -34,7 +34,7 @@ Settings applied when building a mesh.
 
 <a id="unreal.SkeletalMeshBuildSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(recompute_normals: bool = False,
@@ -55,7 +55,7 @@ def __init__(recompute_normals: bool = False,
 
 <a id="unreal.SkeletalMeshBuildSettings.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 @property
@@ -66,7 +66,7 @@ def recompute_normals() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.recompute_normals"></a>
 
-#### recompute_normals
+#### recompute\_normals
 
 ```python
 @recompute_normals.setter
@@ -75,7 +75,7 @@ def recompute_normals(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.recompute_tangents"></a>
 
-#### recompute_tangents
+#### recompute\_tangents
 
 ```python
 @property
@@ -86,7 +86,7 @@ def recompute_tangents() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.recompute_tangents"></a>
 
-#### recompute_tangents
+#### recompute\_tangents
 
 ```python
 @recompute_tangents.setter
@@ -95,7 +95,7 @@ def recompute_tangents(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.use_mikk_t_space"></a>
 
-#### use_mikk_t_space
+#### use\_mikk\_t\_space
 
 ```python
 @property
@@ -106,7 +106,7 @@ def use_mikk_t_space() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.use_mikk_t_space"></a>
 
-#### use_mikk_t_space
+#### use\_mikk\_t\_space
 
 ```python
 @use_mikk_t_space.setter
@@ -115,7 +115,7 @@ def use_mikk_t_space(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.compute_weighted_normals"></a>
 
-#### compute_weighted_normals
+#### compute\_weighted\_normals
 
 ```python
 @property
@@ -126,7 +126,7 @@ def compute_weighted_normals() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.compute_weighted_normals"></a>
 
-#### compute_weighted_normals
+#### compute\_weighted\_normals
 
 ```python
 @compute_weighted_normals.setter
@@ -135,7 +135,7 @@ def compute_weighted_normals(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.remove_degenerates"></a>
 
-#### remove_degenerates
+#### remove\_degenerates
 
 ```python
 @property
@@ -146,7 +146,7 @@ def remove_degenerates() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.remove_degenerates"></a>
 
-#### remove_degenerates
+#### remove\_degenerates
 
 ```python
 @remove_degenerates.setter
@@ -155,7 +155,7 @@ def remove_degenerates(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.use_high_precision_tangent_basis"></a>
 
-#### use_high_precision_tangent_basis
+#### use\_high\_precision\_tangent\_basis
 
 ```python
 @property
@@ -166,7 +166,7 @@ def use_high_precision_tangent_basis() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.use_high_precision_tangent_basis"></a>
 
-#### use_high_precision_tangent_basis
+#### use\_high\_precision\_tangent\_basis
 
 ```python
 @use_high_precision_tangent_basis.setter
@@ -175,7 +175,7 @@ def use_high_precision_tangent_basis(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.use_high_precision_skin_weights"></a>
 
-#### use_high_precision_skin_weights
+#### use\_high\_precision\_skin\_weights
 
 ```python
 @property
@@ -186,7 +186,7 @@ def use_high_precision_skin_weights() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.use_high_precision_skin_weights"></a>
 
-#### use_high_precision_skin_weights
+#### use\_high\_precision\_skin\_weights
 
 ```python
 @use_high_precision_skin_weights.setter
@@ -195,7 +195,7 @@ def use_high_precision_skin_weights(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.use_full_precision_u_vs"></a>
 
-#### use_full_precision_u_vs
+#### use\_full\_precision\_u\_vs
 
 ```python
 @property
@@ -206,7 +206,7 @@ def use_full_precision_u_vs() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.use_full_precision_u_vs"></a>
 
-#### use_full_precision_u_vs
+#### use\_full\_precision\_u\_vs
 
 ```python
 @use_full_precision_u_vs.setter
@@ -215,7 +215,7 @@ def use_full_precision_u_vs(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.use_backwards_compatible_f16_trunc_u_vs"></a>
 
-#### use_backwards_compatible_f16_trunc_u_vs
+#### use\_backwards\_compatible\_f16\_trunc\_u\_vs
 
 ```python
 @property
@@ -226,7 +226,7 @@ def use_backwards_compatible_f16_trunc_u_vs() -> bool
 
 <a id="unreal.SkeletalMeshBuildSettings.use_backwards_compatible_f16_trunc_u_vs"></a>
 
-#### use_backwards_compatible_f16_trunc_u_vs
+#### use\_backwards\_compatible\_f16\_trunc\_u\_vs
 
 ```python
 @use_backwards_compatible_f16_trunc_u_vs.setter
@@ -235,7 +235,7 @@ def use_backwards_compatible_f16_trunc_u_vs(value: bool) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.threshold_position"></a>
 
-#### threshold_position
+#### threshold\_position
 
 ```python
 @property
@@ -246,7 +246,7 @@ def threshold_position() -> float
 
 <a id="unreal.SkeletalMeshBuildSettings.threshold_position"></a>
 
-#### threshold_position
+#### threshold\_position
 
 ```python
 @threshold_position.setter
@@ -255,7 +255,7 @@ def threshold_position(value: float) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.threshold_tangent_normal"></a>
 
-#### threshold_tangent_normal
+#### threshold\_tangent\_normal
 
 ```python
 @property
@@ -266,7 +266,7 @@ def threshold_tangent_normal() -> float
 
 <a id="unreal.SkeletalMeshBuildSettings.threshold_tangent_normal"></a>
 
-#### threshold_tangent_normal
+#### threshold\_tangent\_normal
 
 ```python
 @threshold_tangent_normal.setter
@@ -275,7 +275,7 @@ def threshold_tangent_normal(value: float) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.threshold_uv"></a>
 
-#### threshold_uv
+#### threshold\_uv
 
 ```python
 @property
@@ -286,7 +286,7 @@ def threshold_uv() -> float
 
 <a id="unreal.SkeletalMeshBuildSettings.threshold_uv"></a>
 
-#### threshold_uv
+#### threshold\_uv
 
 ```python
 @threshold_uv.setter
@@ -295,7 +295,7 @@ def threshold_uv(value: float) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.morph_threshold_position"></a>
 
-#### morph_threshold_position
+#### morph\_threshold\_position
 
 ```python
 @property
@@ -306,7 +306,7 @@ def morph_threshold_position() -> float
 
 <a id="unreal.SkeletalMeshBuildSettings.morph_threshold_position"></a>
 
-#### morph_threshold_position
+#### morph\_threshold\_position
 
 ```python
 @morph_threshold_position.setter
@@ -315,7 +315,7 @@ def morph_threshold_position(value: float) -> None
 
 <a id="unreal.SkeletalMeshBuildSettings.bone_influence_limit"></a>
 
-#### bone_influence_limit
+#### bone\_influence\_limit
 
 ```python
 @property
@@ -330,7 +330,7 @@ If set to 0, the value is taken from the DefaultBoneInfluenceLimit project setti
 
 <a id="unreal.SkeletalMeshBuildSettings.bone_influence_limit"></a>
 
-#### bone_influence_limit
+#### bone\_influence\_limit
 
 ```python
 @bone_influence_limit.setter

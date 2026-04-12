@@ -45,7 +45,7 @@ Properties from the base material that can be overridden in material instances.
 
 <a id="unreal.MaterialInstanceBasePropertyOverrides.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

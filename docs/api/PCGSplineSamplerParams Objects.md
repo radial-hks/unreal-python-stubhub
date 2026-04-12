@@ -64,7 +64,7 @@ PCGSpline Sampler Params
 
 <a id="unreal.PCGSplineSamplerParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -176,7 +176,7 @@ def fill(value: PCGSplineSamplingFill) -> None
 
 <a id="unreal.PCGSplineSamplerParams.subdivisions_per_segment"></a>
 
-#### subdivisions_per_segment
+#### subdivisions\_per\_segment
 
 ```python
 @property
@@ -187,7 +187,7 @@ def subdivisions_per_segment() -> int
 
 <a id="unreal.PCGSplineSamplerParams.subdivisions_per_segment"></a>
 
-#### subdivisions_per_segment
+#### subdivisions\_per\_segment
 
 ```python
 @subdivisions_per_segment.setter
@@ -196,7 +196,7 @@ def subdivisions_per_segment(value: int) -> None
 
 <a id="unreal.PCGSplineSamplerParams.distance_increment"></a>
 
-#### distance_increment
+#### distance\_increment
 
 ```python
 @property
@@ -207,7 +207,7 @@ def distance_increment() -> float
 
 <a id="unreal.PCGSplineSamplerParams.distance_increment"></a>
 
-#### distance_increment
+#### distance\_increment
 
 ```python
 @distance_increment.setter
@@ -216,7 +216,7 @@ def distance_increment(value: float) -> None
 
 <a id="unreal.PCGSplineSamplerParams.num_samples"></a>
 
-#### num_samples
+#### num\_samples
 
 ```python
 @property
@@ -227,7 +227,7 @@ def num_samples() -> int
 
 <a id="unreal.PCGSplineSamplerParams.num_samples"></a>
 
-#### num_samples
+#### num\_samples
 
 ```python
 @num_samples.setter
@@ -236,7 +236,7 @@ def num_samples(value: int) -> None
 
 <a id="unreal.PCGSplineSamplerParams.num_planar_subdivisions"></a>
 
-#### num_planar_subdivisions
+#### num\_planar\_subdivisions
 
 ```python
 @property
@@ -247,7 +247,7 @@ def num_planar_subdivisions() -> int
 
 <a id="unreal.PCGSplineSamplerParams.num_planar_subdivisions"></a>
 
-#### num_planar_subdivisions
+#### num\_planar\_subdivisions
 
 ```python
 @num_planar_subdivisions.setter
@@ -256,7 +256,7 @@ def num_planar_subdivisions(value: int) -> None
 
 <a id="unreal.PCGSplineSamplerParams.num_height_subdivisions"></a>
 
-#### num_height_subdivisions
+#### num\_height\_subdivisions
 
 ```python
 @property
@@ -267,7 +267,7 @@ def num_height_subdivisions() -> int
 
 <a id="unreal.PCGSplineSamplerParams.num_height_subdivisions"></a>
 
-#### num_height_subdivisions
+#### num\_height\_subdivisions
 
 ```python
 @num_height_subdivisions.setter
@@ -276,7 +276,7 @@ def num_height_subdivisions(value: int) -> None
 
 <a id="unreal.PCGSplineSamplerParams.start_offset"></a>
 
-#### start_offset
+#### start\_offset
 
 ```python
 @property
@@ -287,7 +287,7 @@ def start_offset() -> float
 
 <a id="unreal.PCGSplineSamplerParams.start_offset"></a>
 
-#### start_offset
+#### start\_offset
 
 ```python
 @start_offset.setter
@@ -296,7 +296,7 @@ def start_offset(value: float) -> None
 
 <a id="unreal.PCGSplineSamplerParams.end_offset"></a>
 
-#### end_offset
+#### end\_offset
 
 ```python
 @property
@@ -307,7 +307,7 @@ def end_offset() -> float
 
 <a id="unreal.PCGSplineSamplerParams.end_offset"></a>
 
-#### end_offset
+#### end\_offset
 
 ```python
 @end_offset.setter
@@ -316,7 +316,7 @@ def end_offset(value: float) -> None
 
 <a id="unreal.PCGSplineSamplerParams.max_random_offset_normalized"></a>
 
-#### max_random_offset_normalized
+#### max\_random\_offset\_normalized
 
 ```python
 @property
@@ -327,7 +327,7 @@ def max_random_offset_normalized() -> float
 
 <a id="unreal.PCGSplineSamplerParams.max_random_offset_normalized"></a>
 
-#### max_random_offset_normalized
+#### max\_random\_offset\_normalized
 
 ```python
 @max_random_offset_normalized.setter
@@ -336,7 +336,7 @@ def max_random_offset_normalized(value: float) -> None
 
 <a id="unreal.PCGSplineSamplerParams.fit_to_curve"></a>
 
-#### fit_to_curve
+#### fit\_to\_curve
 
 ```python
 @property
@@ -348,7 +348,7 @@ the DistanceIncrement to be rounded up to the nearest value which would yield ev
 
 <a id="unreal.PCGSplineSamplerParams.fit_to_curve"></a>
 
-#### fit_to_curve
+#### fit\_to\_curve
 
 ```python
 @fit_to_curve.setter
@@ -357,7 +357,7 @@ def fit_to_curve(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.interior_sample_spacing"></a>
 
-#### interior_sample_spacing
+#### interior\_sample\_spacing
 
 ```python
 @property
@@ -368,7 +368,7 @@ def interior_sample_spacing() -> float
 
 <a id="unreal.PCGSplineSamplerParams.interior_sample_spacing"></a>
 
-#### interior_sample_spacing
+#### interior\_sample\_spacing
 
 ```python
 @interior_sample_spacing.setter
@@ -377,7 +377,7 @@ def interior_sample_spacing(value: float) -> None
 
 <a id="unreal.PCGSplineSamplerParams.interior_border_sample_spacing"></a>
 
-#### interior_border_sample_spacing
+#### interior\_border\_sample\_spacing
 
 ```python
 @property
@@ -388,7 +388,7 @@ def interior_border_sample_spacing() -> float
 
 <a id="unreal.PCGSplineSamplerParams.interior_border_sample_spacing"></a>
 
-#### interior_border_sample_spacing
+#### interior\_border\_sample\_spacing
 
 ```python
 @interior_border_sample_spacing.setter
@@ -397,7 +397,7 @@ def interior_border_sample_spacing(value: float) -> None
 
 <a id="unreal.PCGSplineSamplerParams.treat_spline_as_polyline"></a>
 
-#### treat_spline_as_polyline
+#### treat\_spline\_as\_polyline
 
 ```python
 @property
@@ -408,7 +408,7 @@ def treat_spline_as_polyline() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.treat_spline_as_polyline"></a>
 
-#### treat_spline_as_polyline
+#### treat\_spline\_as\_polyline
 
 ```python
 @treat_spline_as_polyline.setter
@@ -417,7 +417,7 @@ def treat_spline_as_polyline(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.interior_orientation"></a>
 
-#### interior_orientation
+#### interior\_orientation
 
 ```python
 @property
@@ -428,7 +428,7 @@ def interior_orientation() -> PCGSplineSamplingInteriorOrientation
 
 <a id="unreal.PCGSplineSamplerParams.interior_orientation"></a>
 
-#### interior_orientation
+#### interior\_orientation
 
 ```python
 @interior_orientation.setter
@@ -437,7 +437,7 @@ def interior_orientation(value: PCGSplineSamplingInteriorOrientation) -> None
 
 <a id="unreal.PCGSplineSamplerParams.project_onto_surface"></a>
 
-#### project_onto_surface
+#### project\_onto\_surface
 
 ```python
 @property
@@ -448,7 +448,7 @@ def project_onto_surface() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.project_onto_surface"></a>
 
-#### project_onto_surface
+#### project\_onto\_surface
 
 ```python
 @project_onto_surface.setter
@@ -457,7 +457,7 @@ def project_onto_surface(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.interior_density_falloff_curve"></a>
 
-#### interior_density_falloff_curve
+#### interior\_density\_falloff\_curve
 
 ```python
 @property
@@ -468,7 +468,7 @@ def interior_density_falloff_curve() -> RuntimeFloatCurve
 
 <a id="unreal.PCGSplineSamplerParams.interior_density_falloff_curve"></a>
 
-#### interior_density_falloff_curve
+#### interior\_density\_falloff\_curve
 
 ```python
 @interior_density_falloff_curve.setter
@@ -477,7 +477,7 @@ def interior_density_falloff_curve(value: RuntimeFloatCurve) -> None
 
 <a id="unreal.PCGSplineSamplerParams.compute_direction_delta"></a>
 
-#### compute_direction_delta
+#### compute\_direction\_delta
 
 ```python
 @property
@@ -488,7 +488,7 @@ def compute_direction_delta() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.compute_direction_delta"></a>
 
-#### compute_direction_delta
+#### compute\_direction\_delta
 
 ```python
 @compute_direction_delta.setter
@@ -497,7 +497,7 @@ def compute_direction_delta(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.next_direction_delta_attribute"></a>
 
-#### next_direction_delta_attribute
+#### next\_direction\_delta\_attribute
 
 ```python
 @property
@@ -508,7 +508,7 @@ def next_direction_delta_attribute() -> Name
 
 <a id="unreal.PCGSplineSamplerParams.next_direction_delta_attribute"></a>
 
-#### next_direction_delta_attribute
+#### next\_direction\_delta\_attribute
 
 ```python
 @next_direction_delta_attribute.setter
@@ -517,7 +517,7 @@ def next_direction_delta_attribute(value: Name) -> None
 
 <a id="unreal.PCGSplineSamplerParams.compute_curvature"></a>
 
-#### compute_curvature
+#### compute\_curvature
 
 ```python
 @property
@@ -528,7 +528,7 @@ def compute_curvature() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.compute_curvature"></a>
 
-#### compute_curvature
+#### compute\_curvature
 
 ```python
 @compute_curvature.setter
@@ -537,7 +537,7 @@ def compute_curvature(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.curvature_attribute"></a>
 
-#### curvature_attribute
+#### curvature\_attribute
 
 ```python
 @property
@@ -548,7 +548,7 @@ def curvature_attribute() -> Name
 
 <a id="unreal.PCGSplineSamplerParams.curvature_attribute"></a>
 
-#### curvature_attribute
+#### curvature\_attribute
 
 ```python
 @curvature_attribute.setter
@@ -557,7 +557,7 @@ def curvature_attribute(value: Name) -> None
 
 <a id="unreal.PCGSplineSamplerParams.compute_segment_index"></a>
 
-#### compute_segment_index
+#### compute\_segment\_index
 
 ```python
 @property
@@ -568,7 +568,7 @@ def compute_segment_index() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.compute_segment_index"></a>
 
-#### compute_segment_index
+#### compute\_segment\_index
 
 ```python
 @compute_segment_index.setter
@@ -577,7 +577,7 @@ def compute_segment_index(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.segment_index_attribute"></a>
 
-#### segment_index_attribute
+#### segment\_index\_attribute
 
 ```python
 @property
@@ -588,7 +588,7 @@ def segment_index_attribute() -> Name
 
 <a id="unreal.PCGSplineSamplerParams.segment_index_attribute"></a>
 
-#### segment_index_attribute
+#### segment\_index\_attribute
 
 ```python
 @segment_index_attribute.setter
@@ -597,7 +597,7 @@ def segment_index_attribute(value: Name) -> None
 
 <a id="unreal.PCGSplineSamplerParams.compute_subsegment_index"></a>
 
-#### compute_subsegment_index
+#### compute\_subsegment\_index
 
 ```python
 @property
@@ -608,7 +608,7 @@ def compute_subsegment_index() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.compute_subsegment_index"></a>
 
-#### compute_subsegment_index
+#### compute\_subsegment\_index
 
 ```python
 @compute_subsegment_index.setter
@@ -617,7 +617,7 @@ def compute_subsegment_index(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.subsegment_index_attribute"></a>
 
-#### subsegment_index_attribute
+#### subsegment\_index\_attribute
 
 ```python
 @property
@@ -628,7 +628,7 @@ def subsegment_index_attribute() -> Name
 
 <a id="unreal.PCGSplineSamplerParams.subsegment_index_attribute"></a>
 
-#### subsegment_index_attribute
+#### subsegment\_index\_attribute
 
 ```python
 @subsegment_index_attribute.setter
@@ -637,7 +637,7 @@ def subsegment_index_attribute(value: Name) -> None
 
 <a id="unreal.PCGSplineSamplerParams.compute_tangents"></a>
 
-#### compute_tangents
+#### compute\_tangents
 
 ```python
 @property
@@ -648,7 +648,7 @@ def compute_tangents() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.compute_tangents"></a>
 
-#### compute_tangents
+#### compute\_tangents
 
 ```python
 @compute_tangents.setter
@@ -657,7 +657,7 @@ def compute_tangents(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.arrive_tangent_attribute"></a>
 
-#### arrive_tangent_attribute
+#### arrive\_tangent\_attribute
 
 ```python
 @property
@@ -668,7 +668,7 @@ def arrive_tangent_attribute() -> Name
 
 <a id="unreal.PCGSplineSamplerParams.arrive_tangent_attribute"></a>
 
-#### arrive_tangent_attribute
+#### arrive\_tangent\_attribute
 
 ```python
 @arrive_tangent_attribute.setter
@@ -677,7 +677,7 @@ def arrive_tangent_attribute(value: Name) -> None
 
 <a id="unreal.PCGSplineSamplerParams.leave_tangent_attribute"></a>
 
-#### leave_tangent_attribute
+#### leave\_tangent\_attribute
 
 ```python
 @property
@@ -688,7 +688,7 @@ def leave_tangent_attribute() -> Name
 
 <a id="unreal.PCGSplineSamplerParams.leave_tangent_attribute"></a>
 
-#### leave_tangent_attribute
+#### leave\_tangent\_attribute
 
 ```python
 @leave_tangent_attribute.setter
@@ -697,7 +697,7 @@ def leave_tangent_attribute(value: Name) -> None
 
 <a id="unreal.PCGSplineSamplerParams.compute_alpha"></a>
 
-#### compute_alpha
+#### compute\_alpha
 
 ```python
 @property
@@ -708,7 +708,7 @@ def compute_alpha() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.compute_alpha"></a>
 
-#### compute_alpha
+#### compute\_alpha
 
 ```python
 @compute_alpha.setter
@@ -717,7 +717,7 @@ def compute_alpha(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.alpha_attribute"></a>
 
-#### alpha_attribute
+#### alpha\_attribute
 
 ```python
 @property
@@ -729,7 +729,7 @@ For example, if there are three segments, each segment will take up 0.333... of 
 
 <a id="unreal.PCGSplineSamplerParams.alpha_attribute"></a>
 
-#### alpha_attribute
+#### alpha\_attribute
 
 ```python
 @alpha_attribute.setter
@@ -738,7 +738,7 @@ def alpha_attribute(value: Name) -> None
 
 <a id="unreal.PCGSplineSamplerParams.compute_distance"></a>
 
-#### compute_distance
+#### compute\_distance
 
 ```python
 @property
@@ -749,7 +749,7 @@ def compute_distance() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.compute_distance"></a>
 
-#### compute_distance
+#### compute\_distance
 
 ```python
 @compute_distance.setter
@@ -758,7 +758,7 @@ def compute_distance(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.distance_attribute"></a>
 
-#### distance_attribute
+#### distance\_attribute
 
 ```python
 @property
@@ -769,7 +769,7 @@ def distance_attribute() -> Name
 
 <a id="unreal.PCGSplineSamplerParams.distance_attribute"></a>
 
-#### distance_attribute
+#### distance\_attribute
 
 ```python
 @distance_attribute.setter
@@ -778,7 +778,7 @@ def distance_attribute(value: Name) -> None
 
 <a id="unreal.PCGSplineSamplerParams.compute_input_key"></a>
 
-#### compute_input_key
+#### compute\_input\_key
 
 ```python
 @property
@@ -789,7 +789,7 @@ def compute_input_key() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.compute_input_key"></a>
 
-#### compute_input_key
+#### compute\_input\_key
 
 ```python
 @compute_input_key.setter
@@ -798,7 +798,7 @@ def compute_input_key(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.input_key_attribute"></a>
 
-#### input_key_attribute
+#### input\_key\_attribute
 
 ```python
 @property
@@ -809,7 +809,7 @@ def input_key_attribute() -> Name
 
 <a id="unreal.PCGSplineSamplerParams.input_key_attribute"></a>
 
-#### input_key_attribute
+#### input\_key\_attribute
 
 ```python
 @input_key_attribute.setter
@@ -840,7 +840,7 @@ def unbounded(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @property
@@ -854,7 +854,7 @@ represent a binary box function with the size of the point's bounds.
 
 <a id="unreal.PCGSplineSamplerParams.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @point_steepness.setter
@@ -863,7 +863,7 @@ def point_steepness(value: float) -> None
 
 <a id="unreal.PCGSplineSamplerParams.seeding_mode"></a>
 
-#### seeding_mode
+#### seeding\_mode
 
 ```python
 @property
@@ -874,7 +874,7 @@ def seeding_mode() -> PCGSplineSamplingSeedingMode
 
 <a id="unreal.PCGSplineSamplerParams.seeding_mode"></a>
 
-#### seeding_mode
+#### seeding\_mode
 
 ```python
 @seeding_mode.setter
@@ -883,7 +883,7 @@ def seeding_mode(value: PCGSplineSamplingSeedingMode) -> None
 
 <a id="unreal.PCGSplineSamplerParams.seed_from_local_position"></a>
 
-#### seed_from_local_position
+#### seed\_from\_local\_position
 
 ```python
 @property
@@ -894,7 +894,7 @@ def seed_from_local_position() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.seed_from_local_position"></a>
 
-#### seed_from_local_position
+#### seed\_from\_local\_position
 
 ```python
 @seed_from_local_position.setter
@@ -903,7 +903,7 @@ def seed_from_local_position(value: bool) -> None
 
 <a id="unreal.PCGSplineSamplerParams.seed_from2d_position"></a>
 
-#### seed_from2d_position
+#### seed\_from2d\_position
 
 ```python
 @property
@@ -914,7 +914,7 @@ def seed_from2d_position() -> bool
 
 <a id="unreal.PCGSplineSamplerParams.seed_from2d_position"></a>
 
-#### seed_from2d_position
+#### seed\_from2d\_position
 
 ```python
 @seed_from2d_position.setter

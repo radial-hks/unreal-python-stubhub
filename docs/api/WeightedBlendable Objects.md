@@ -18,7 +18,7 @@ Weighted Blendable
 
 <a id="unreal.WeightedBlendable.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(weight: float = 0.000000, object: Object = None) -> None

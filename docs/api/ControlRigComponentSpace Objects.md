@@ -14,32 +14,32 @@ Enum for controlling which space a transform is applied in.
 
 <a id="unreal.ControlRigComponentSpace.WORLD_SPACE"></a>
 
-#### WORLD_SPACE
+#### WORLD\_SPACE
 
 0: World space transform
 
 <a id="unreal.ControlRigComponentSpace.ACTOR_SPACE"></a>
 
-#### ACTOR_SPACE
+#### ACTOR\_SPACE
 
 1: The space below the actor's root transform
 
 <a id="unreal.ControlRigComponentSpace.COMPONENT_SPACE"></a>
 
-#### COMPONENT_SPACE
+#### COMPONENT\_SPACE
 
 2: The space defined by the Control Rig Component
 
 <a id="unreal.ControlRigComponentSpace.RIG_SPACE"></a>
 
-#### RIG_SPACE
+#### RIG\_SPACE
 
 3: The space within the rig. Currently the same as Component Space.
 Inside of control rig this is called 'Global Space'.
 
 <a id="unreal.ControlRigComponentSpace.LOCAL_SPACE"></a>
 
-#### LOCAL_SPACE
+#### LOCAL\_SPACE
 
 4: The space defined by each element's parent (bone, control etc)
 

@@ -15,13 +15,13 @@ There are specific cases where raw XRTrackingSpace coordinates may be useful, pa
 
 <a id="unreal.XRSpaceType.UNREAL_WORLD_SPACE"></a>
 
-#### UNREAL_WORLD_SPACE
+#### UNREAL\_WORLD\_SPACE
 
 0: The unreal coordinate system.  Affected by world scaling and the TrackingToWorldTransform.
 
 <a id="unreal.XRSpaceType.XR_TRACKING_SPACE"></a>
 
-#### XR_TRACKING_SPACE
+#### XR\_TRACKING\_SPACE
 
 1: The coordinate system the XR Device is tracking itself in.  Should be fixed relative to the real world over short timescales, not affected by world scaling or the TrackingToWorldTransoform.  May change relationship to the physical world through recentering or similar events.
 

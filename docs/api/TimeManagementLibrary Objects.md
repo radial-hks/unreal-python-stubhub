@@ -13,7 +13,7 @@ Time Management Blueprint Library
 
 <a id="unreal.TimeManagementLibrary.transform_time"></a>
 
-#### transform_time
+#### transform\_time
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.subtract_frame_number_integer"></a>
 
-#### subtract_frame_number_integer
+#### subtract\_frame\_number\_integer
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.subtract_frame_number_frame_number"></a>
 
-#### subtract_frame_number_frame_number
+#### subtract\_frame\_number\_frame\_number
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.snap_frame_time_to_rate"></a>
 
-#### snap_frame_time_to_rate
+#### snap\_frame\_time\_to\_rate
 
 ```python
 @classmethod
@@ -95,7 +95,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.multiply_seconds_frame_rate"></a>
 
-#### multiply_seconds_frame_rate
+#### multiply\_seconds\_frame\_rate
 
 ```python
 @classmethod
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.multiply_frame_number_integer"></a>
 
-#### multiply_frame_number_integer
+#### multiply\_frame\_number\_integer
 
 ```python
 @classmethod
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.is_valid_multiple_of"></a>
 
-#### is_valid_multiple_of
+#### is\_valid\_multiple\_of
 
 ```python
 @classmethod
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.is_valid_framerate"></a>
 
-#### is_valid_framerate
+#### is\_valid\_framerate
 
 ```python
 @classmethod
@@ -172,7 +172,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.get_timecode_frame_rate"></a>
 
-#### get_timecode_frame_rate
+#### get\_timecode\_frame\_rate
 
 ```python
 @classmethod
@@ -187,7 +187,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.get_timecode"></a>
 
-#### get_timecode
+#### get\_timecode
 
 ```python
 @classmethod
@@ -202,7 +202,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.divide_frame_number_integer"></a>
 
-#### divide_frame_number_integer
+#### divide\_frame\_number\_integer
 
 ```python
 @classmethod
@@ -221,7 +221,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.conv_timecode_to_string"></a>
 
-#### conv_timecode_to_string
+#### conv\_timecode\_to\_string
 
 ```python
 @classmethod
@@ -242,7 +242,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.conv_qualified_frame_time_to_seconds"></a>
 
-#### conv_qualified_frame_time_to_seconds
+#### conv\_qualified\_frame\_time\_to\_seconds
 
 ```python
 @classmethod
@@ -261,7 +261,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.conv_frame_rate_to_seconds"></a>
 
-#### conv_frame_rate_to_seconds
+#### conv\_frame\_rate\_to\_seconds
 
 ```python
 @classmethod
@@ -280,7 +280,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.conv_frame_rate_to_interval"></a>
 
-#### conv_frame_rate_to_interval
+#### conv\_frame\_rate\_to\_interval
 
 ```python
 @classmethod
@@ -298,7 +298,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.frame_number_to_integer"></a>
 
-#### frame_number_to_integer
+#### frame\_number\_to\_integer
 
 ```python
 @classmethod
@@ -316,7 +316,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.add_frame_number_integer"></a>
 
-#### add_frame_number_integer
+#### add\_frame\_number\_integer
 
 ```python
 @classmethod
@@ -335,7 +335,7 @@ Returns:
 
 <a id="unreal.TimeManagementLibrary.add_frame_number_frame_number"></a>
 
-#### add_frame_number_frame_number
+#### add\_frame\_number\_frame\_number
 
 ```python
 @classmethod

@@ -23,7 +23,7 @@ Geometry Script UVTexel Density Options
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(texel_density_mode:
@@ -38,7 +38,7 @@ def __init__(texel_density_mode:
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.texel_density_mode"></a>
 
-#### texel_density_mode
+#### texel\_density\_mode
 
 ```python
 @property
@@ -49,7 +49,7 @@ def texel_density_mode() -> GeometryScriptTexelDensityMode
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.texel_density_mode"></a>
 
-#### texel_density_mode
+#### texel\_density\_mode
 
 ```python
 @texel_density_mode.setter
@@ -58,7 +58,7 @@ def texel_density_mode(value: GeometryScriptTexelDensityMode) -> None
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.target_world_units"></a>
 
-#### target_world_units
+#### target\_world\_units
 
 ```python
 @property
@@ -69,7 +69,7 @@ def target_world_units() -> float
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.target_world_units"></a>
 
-#### target_world_units
+#### target\_world\_units
 
 ```python
 @target_world_units.setter
@@ -78,7 +78,7 @@ def target_world_units(value: float) -> None
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.target_pixel_count"></a>
 
-#### target_pixel_count
+#### target\_pixel\_count
 
 ```python
 @property
@@ -89,7 +89,7 @@ def target_pixel_count() -> float
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.target_pixel_count"></a>
 
-#### target_pixel_count
+#### target\_pixel\_count
 
 ```python
 @target_pixel_count.setter
@@ -98,7 +98,7 @@ def target_pixel_count(value: float) -> None
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.texture_resolution"></a>
 
-#### texture_resolution
+#### texture\_resolution
 
 ```python
 @property
@@ -109,7 +109,7 @@ def texture_resolution() -> float
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.texture_resolution"></a>
 
-#### texture_resolution
+#### texture\_resolution
 
 ```python
 @texture_resolution.setter
@@ -118,7 +118,7 @@ def texture_resolution(value: float) -> None
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.enable_udim_layout"></a>
 
-#### enable_udim_layout
+#### enable\_udim\_layout
 
 ```python
 @property
@@ -129,7 +129,7 @@ def enable_udim_layout() -> bool
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.enable_udim_layout"></a>
 
-#### enable_udim_layout
+#### enable\_udim\_layout
 
 ```python
 @enable_udim_layout.setter
@@ -138,7 +138,7 @@ def enable_udim_layout(value: bool) -> None
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.udim_resolutions"></a>
 
-#### udim_resolutions
+#### udim\_resolutions
 
 ```python
 @property
@@ -149,7 +149,7 @@ def udim_resolutions() -> Map[int, int]
 
 <a id="unreal.GeometryScriptUVTexelDensityOptions.udim_resolutions"></a>
 
-#### udim_resolutions
+#### udim\_resolutions
 
 ```python
 @udim_resolutions.setter

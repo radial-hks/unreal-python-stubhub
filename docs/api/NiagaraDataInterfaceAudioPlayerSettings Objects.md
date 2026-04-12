@@ -21,7 +21,7 @@ Niagara Data Interface Audio Player Settings
 
 <a id="unreal.NiagaraDataInterfaceAudioPlayerSettings.override_concurrency"></a>
 
-#### override_concurrency
+#### override\_concurrency
 
 ```python
 @property
@@ -32,7 +32,7 @@ def override_concurrency() -> bool
 
 <a id="unreal.NiagaraDataInterfaceAudioPlayerSettings.override_concurrency"></a>
 
-#### override_concurrency
+#### override\_concurrency
 
 ```python
 @override_concurrency.setter
@@ -61,7 +61,7 @@ def concurrency(value: SoundConcurrency) -> None
 
 <a id="unreal.NiagaraDataInterfaceAudioPlayerSettings.override_attenuation_settings"></a>
 
-#### override_attenuation_settings
+#### override\_attenuation\_settings
 
 ```python
 @property
@@ -72,7 +72,7 @@ def override_attenuation_settings() -> bool
 
 <a id="unreal.NiagaraDataInterfaceAudioPlayerSettings.override_attenuation_settings"></a>
 
-#### override_attenuation_settings
+#### override\_attenuation\_settings
 
 ```python
 @override_attenuation_settings.setter
@@ -81,7 +81,7 @@ def override_attenuation_settings(value: bool) -> None
 
 <a id="unreal.NiagaraDataInterfaceAudioPlayerSettings.attenuation_settings"></a>
 
-#### attenuation_settings
+#### attenuation\_settings
 
 ```python
 @property
@@ -92,7 +92,7 @@ def attenuation_settings() -> SoundAttenuationSettings
 
 <a id="unreal.NiagaraDataInterfaceAudioPlayerSettings.attenuation_settings"></a>
 
-#### attenuation_settings
+#### attenuation\_settings
 
 ```python
 @attenuation_settings.setter

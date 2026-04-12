@@ -20,13 +20,13 @@ Niagara supported buffer formats on the GPU.
 
 <a id="unreal.NiagaraGpuBufferFormat.HALF_FLOAT"></a>
 
-#### HALF_FLOAT
+#### HALF\_FLOAT
 
 1: 16-bit per channel floating point, range [-65504, 65504]
 
 <a id="unreal.NiagaraGpuBufferFormat.UNSIGNED_NORMALIZED_BYTE"></a>
 
-#### UNSIGNED_NORMALIZED_BYTE
+#### UNSIGNED\_NORMALIZED\_BYTE
 
 2: 8-bit per channel fixed point, range [0, 1].
 

@@ -14,13 +14,13 @@ EFix Tiny Geo Geometry Selection Method
 
 <a id="unreal.FixTinyGeoGeometrySelectionMethod.VOLUME_CUBE_ROOT"></a>
 
-#### VOLUME_CUBE_ROOT
+#### VOLUME\_CUBE\_ROOT
 
 0: Select by cube root of volume
 
 <a id="unreal.FixTinyGeoGeometrySelectionMethod.RELATIVE_VOLUME"></a>
 
-#### RELATIVE_VOLUME
+#### RELATIVE\_VOLUME
 
 1: Select by cube root of volume relative to the overall shape's cube root of volume
 

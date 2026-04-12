@@ -58,7 +58,7 @@ Arranges widgets left-to-right or top-to-bottom dependently of the orientation. 
 
 <a id="unreal.WrapBox.inner_slot_padding"></a>
 
-#### inner_slot_padding
+#### inner\_slot\_padding
 
 ```python
 @property
@@ -69,7 +69,7 @@ def inner_slot_padding() -> Vector2D
 
 <a id="unreal.WrapBox.inner_slot_padding"></a>
 
-#### inner_slot_padding
+#### inner\_slot\_padding
 
 ```python
 @inner_slot_padding.setter
@@ -78,7 +78,7 @@ def inner_slot_padding(value: Vector2D) -> None
 
 <a id="unreal.WrapBox.wrap_size"></a>
 
-#### wrap_size
+#### wrap\_size
 
 ```python
 @property
@@ -89,7 +89,7 @@ def wrap_size() -> float
 
 <a id="unreal.WrapBox.wrap_size"></a>
 
-#### wrap_size
+#### wrap\_size
 
 ```python
 @wrap_size.setter
@@ -98,7 +98,7 @@ def wrap_size(value: float) -> None
 
 <a id="unreal.WrapBox.explicit_wrap_size"></a>
 
-#### explicit_wrap_size
+#### explicit\_wrap\_size
 
 ```python
 @property
@@ -109,7 +109,7 @@ def explicit_wrap_size() -> bool
 
 <a id="unreal.WrapBox.explicit_wrap_size"></a>
 
-#### explicit_wrap_size
+#### explicit\_wrap\_size
 
 ```python
 @explicit_wrap_size.setter
@@ -118,7 +118,7 @@ def explicit_wrap_size(value: bool) -> None
 
 <a id="unreal.WrapBox.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @property
@@ -129,7 +129,7 @@ def horizontal_alignment() -> HorizontalAlignment
 
 <a id="unreal.WrapBox.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @horizontal_alignment.setter
@@ -158,7 +158,7 @@ def orientation(value: Orientation) -> None
 
 <a id="unreal.WrapBox.set_inner_slot_padding"></a>
 
-#### set_inner_slot_padding
+#### set\_inner\_slot\_padding
 
 ```python
 def set_inner_slot_padding(padding: Vector2D) -> None
@@ -172,7 +172,7 @@ Args:
 
 <a id="unreal.WrapBox.set_horizontal_alignment"></a>
 
-#### set_horizontal_alignment
+#### set\_horizontal\_alignment
 
 ```python
 def set_horizontal_alignment(
@@ -187,7 +187,7 @@ Args:
 
 <a id="unreal.WrapBox.add_child_to_wrap_box"></a>
 
-#### add_child_to_wrap_box
+#### add\_child\_to\_wrap\_box
 
 ```python
 def add_child_to_wrap_box(content: Widget) -> WrapBoxSlot
@@ -204,7 +204,7 @@ Returns:
 
 <a id="unreal.WrapBox.add_child_wrap_box"></a>
 
-#### add_child_wrap_box
+#### add\_child\_wrap\_box
 
 ```python
 def add_child_wrap_box(content: Widget) -> WrapBoxSlot

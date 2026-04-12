@@ -18,7 +18,7 @@ Configurable properties for control axes.
 
 <a id="unreal.InputAxisConfigEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

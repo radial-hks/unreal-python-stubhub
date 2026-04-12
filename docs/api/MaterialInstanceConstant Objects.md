@@ -46,7 +46,7 @@ predefined material parameters. The parameters are statically defined in the com
 
 <a id="unreal.MaterialInstanceConstant.set_nanite_override_material"></a>
 
-#### set_nanite_override_material
+#### set\_nanite\_override\_material
 
 ```python
 def set_nanite_override_material(enable_override: bool,
@@ -62,7 +62,7 @@ Args:
 
 <a id="unreal.MaterialInstanceConstant.get_vector_parameter_value"></a>
 
-#### get_vector_parameter_value
+#### get\_vector\_parameter\_value
 
 ```python
 def get_vector_parameter_value(parameter_name: Name) -> LinearColor
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceConstant.get_texture_parameter_value"></a>
 
-#### get_texture_parameter_value
+#### get\_texture\_parameter\_value
 
 ```python
 def get_texture_parameter_value(parameter_name: Name) -> Texture
@@ -96,7 +96,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceConstant.get_scalar_parameter_value"></a>
 
-#### get_scalar_parameter_value
+#### get\_scalar\_parameter\_value
 
 ```python
 def get_scalar_parameter_value(parameter_name: Name) -> float

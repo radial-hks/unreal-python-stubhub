@@ -20,7 +20,7 @@ override values.
 
 <a id="unreal.CameraRigAssetReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

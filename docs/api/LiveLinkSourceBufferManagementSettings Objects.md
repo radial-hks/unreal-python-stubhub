@@ -38,10 +38,10 @@ Live Link Source Buffer Management Settings
 
 <a id="unreal.LiveLinkSourceBufferManagementSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.MVVMBlueprintPinId"></a>
+<a id="unreal.Quat4d"></a>

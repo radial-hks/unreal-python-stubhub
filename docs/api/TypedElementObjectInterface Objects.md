@@ -13,7 +13,7 @@ Typed Element Object Interface
 
 <a id="unreal.TypedElementObjectInterface.get_object_class"></a>
 
-#### get_object_class
+#### get\_object\_class
 
 ```python
 def get_object_class(element_handle: ScriptTypedElementHandle) -> Class
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.TypedElementObjectInterface.get_object"></a>
 
-#### get_object
+#### get\_object
 
 ```python
 def get_object(element_handle: ScriptTypedElementHandle) -> Object

@@ -19,7 +19,7 @@ Information used in font rendering
 
 <a id="unreal.FontRenderInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -34,7 +34,7 @@ def __init__(
 
 <a id="unreal.FontRenderInfo.clip_text"></a>
 
-#### clip_text
+#### clip\_text
 
 ```python
 @property
@@ -45,7 +45,7 @@ def clip_text() -> bool
 
 <a id="unreal.FontRenderInfo.clip_text"></a>
 
-#### clip_text
+#### clip\_text
 
 ```python
 @clip_text.setter
@@ -54,7 +54,7 @@ def clip_text(value: bool) -> None
 
 <a id="unreal.FontRenderInfo.enable_shadow"></a>
 
-#### enable_shadow
+#### enable\_shadow
 
 ```python
 @property
@@ -65,7 +65,7 @@ def enable_shadow() -> bool
 
 <a id="unreal.FontRenderInfo.enable_shadow"></a>
 
-#### enable_shadow
+#### enable\_shadow
 
 ```python
 @enable_shadow.setter
@@ -74,7 +74,7 @@ def enable_shadow(value: bool) -> None
 
 <a id="unreal.FontRenderInfo.glow_info"></a>
 
-#### glow_info
+#### glow\_info
 
 ```python
 @property
@@ -85,7 +85,7 @@ def glow_info() -> DepthFieldGlowInfo
 
 <a id="unreal.FontRenderInfo.glow_info"></a>
 
-#### glow_info
+#### glow\_info
 
 ```python
 @glow_info.setter

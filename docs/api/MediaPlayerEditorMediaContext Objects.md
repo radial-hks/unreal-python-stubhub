@@ -19,7 +19,7 @@ Media Player Editor Media Context
 
 <a id="unreal.MediaPlayerEditorMediaContext.selected_asset"></a>
 
-#### selected_asset
+#### selected\_asset
 
 ```python
 @property
@@ -30,7 +30,7 @@ def selected_asset() -> Object
 
 <a id="unreal.MediaPlayerEditorMediaContext.selected_asset"></a>
 
-#### selected_asset
+#### selected\_asset
 
 ```python
 @selected_asset.setter
@@ -39,7 +39,7 @@ def selected_asset(value: Object) -> None
 
 <a id="unreal.MediaPlayerEditorMediaContext.style_set_name"></a>
 
-#### style_set_name
+#### style\_set\_name
 
 ```python
 @property
@@ -50,7 +50,7 @@ def style_set_name() -> Name
 
 <a id="unreal.MediaPlayerEditorMediaContext.style_set_name"></a>
 
-#### style_set_name
+#### style\_set\_name
 
 ```python
 @style_set_name.setter

@@ -19,7 +19,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\CoreUObject\Publ
 
 <a id="unreal.PrimaryAssetId.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(primary_asset_type: PrimaryAssetType = ["None"],
@@ -28,7 +28,7 @@ def __init__(primary_asset_type: PrimaryAssetType = ["None"],
 
 <a id="unreal.PrimaryAssetId.primary_asset_type"></a>
 
-#### primary_asset_type
+#### primary\_asset\_type
 
 ```python
 @property
@@ -39,7 +39,7 @@ def primary_asset_type() -> PrimaryAssetType
 
 <a id="unreal.PrimaryAssetId.primary_asset_type"></a>
 
-#### primary_asset_type
+#### primary\_asset\_type
 
 ```python
 @primary_asset_type.setter
@@ -48,7 +48,7 @@ def primary_asset_type(value: PrimaryAssetType) -> None
 
 <a id="unreal.PrimaryAssetId.primary_asset_name"></a>
 
-#### primary_asset_name
+#### primary\_asset\_name
 
 ```python
 @property
@@ -59,7 +59,7 @@ def primary_asset_name() -> Name
 
 <a id="unreal.PrimaryAssetId.primary_asset_name"></a>
 
-#### primary_asset_name
+#### primary\_asset\_name
 
 ```python
 @primary_asset_name.setter
@@ -79,7 +79,7 @@ Unloads a primary asset, which allows it to be garbage collected if nothing else
 
 <a id="unreal.PrimaryAssetId.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetId.get_soft_object_reference"></a>
 
-#### get_soft_object_reference
+#### get\_soft\_object\_reference
 
 ```python
 def get_soft_object_reference() -> Object
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetId.get_soft_class_reference"></a>
 
-#### get_soft_class_reference
+#### get\_soft\_class\_reference
 
 ```python
 def get_soft_class_reference() -> Class
@@ -121,7 +121,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetId.get_object"></a>
 
-#### get_object
+#### get\_object
 
 ```python
 def get_object() -> Object
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetId.get_current_bundle_state"></a>
 
-#### get_current_bundle_state
+#### get\_current\_bundle\_state
 
 ```python
 def get_current_bundle_state(
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetId.get_class"></a>
 
-#### get_class
+#### get\_class
 
 ```python
 def get_class() -> Class
@@ -170,7 +170,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetId.to_string"></a>
 
-#### to_string
+#### to\_string
 
 ```python
 def to_string() -> str
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.PrimaryAssetId.__bool__"></a>
 
-#### __bool__
+#### \_\_bool\_\_
 
 ```python
 def __bool__() -> bool
@@ -194,7 +194,7 @@ Returns true if the Primary Asset Id is valid
 
 <a id="unreal.PrimaryAssetId.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -206,7 +206,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.PrimaryAssetId.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool

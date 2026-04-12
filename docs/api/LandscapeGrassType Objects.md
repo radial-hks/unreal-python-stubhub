@@ -19,7 +19,7 @@ Landscape Grass Type
 
 <a id="unreal.LandscapeGrassType.grass_varieties"></a>
 
-#### grass_varieties
+#### grass\_varieties
 
 ```python
 @property
@@ -30,7 +30,7 @@ def grass_varieties() -> Array[GrassVariety]
 
 <a id="unreal.LandscapeGrassType.enable_density_scaling"></a>
 
-#### enable_density_scaling
+#### enable\_density\_scaling
 
 ```python
 @property

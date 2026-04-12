@@ -14,7 +14,7 @@ allow script code to override OnPaint behavior.
 
 <a id="unreal.PaintContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

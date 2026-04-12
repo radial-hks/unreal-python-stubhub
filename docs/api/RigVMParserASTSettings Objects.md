@@ -22,7 +22,7 @@ class RigVMParserASTSettings(StructBase)
 
 <a id="unreal.RigVMParserASTSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(setup_traits: bool = False) -> None
@@ -30,7 +30,7 @@ def __init__(setup_traits: bool = False) -> None
 
 <a id="unreal.RigVMParserASTSettings.setup_traits"></a>
 
-#### setup_traits
+#### setup\_traits
 
 ```python
 @property
@@ -41,7 +41,7 @@ def setup_traits() -> bool
 
 <a id="unreal.RigVMParserASTSettings.setup_traits"></a>
 
-#### setup_traits
+#### setup\_traits
 
 ```python
 @setup_traits.setter

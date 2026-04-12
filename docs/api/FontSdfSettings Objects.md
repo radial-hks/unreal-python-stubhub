@@ -17,7 +17,7 @@ Settings for signed distance field fonts.
 
 <a id="unreal.FontSdfSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

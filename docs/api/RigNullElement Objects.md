@@ -22,7 +22,7 @@ Rig Null Element
 
 <a id="unreal.RigNullElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: RigElementKey = [RigElementType.NONE, "None"],

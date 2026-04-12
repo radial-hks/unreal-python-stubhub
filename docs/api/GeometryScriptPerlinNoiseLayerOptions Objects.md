@@ -21,7 +21,7 @@ Geometry Script Perlin Noise Layer Options
 
 <a id="unreal.GeometryScriptPerlinNoiseLayerOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(magnitude: float = 0.000000,
@@ -72,7 +72,7 @@ def frequency(value: float) -> None
 
 <a id="unreal.GeometryScriptPerlinNoiseLayerOptions.frequency_shift"></a>
 
-#### frequency_shift
+#### frequency\_shift
 
 ```python
 @property
@@ -83,7 +83,7 @@ def frequency_shift() -> Vector
 
 <a id="unreal.GeometryScriptPerlinNoiseLayerOptions.frequency_shift"></a>
 
-#### frequency_shift
+#### frequency\_shift
 
 ```python
 @frequency_shift.setter
@@ -92,7 +92,7 @@ def frequency_shift(value: Vector) -> None
 
 <a id="unreal.GeometryScriptPerlinNoiseLayerOptions.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @property
@@ -103,7 +103,7 @@ def random_seed() -> int
 
 <a id="unreal.GeometryScriptPerlinNoiseLayerOptions.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @random_seed.setter

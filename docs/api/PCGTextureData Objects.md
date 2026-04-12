@@ -52,7 +52,7 @@ def texture() -> Texture
 
 <a id="unreal.PCGTextureData.texture_index"></a>
 
-#### texture_index
+#### texture\_index
 
 ```python
 @property
@@ -63,7 +63,7 @@ def texture_index() -> int
 
 <a id="unreal.PCGTextureData.successfully_initialized"></a>
 
-#### successfully_initialized
+#### successfully\_initialized
 
 ```python
 @property
@@ -74,7 +74,7 @@ def successfully_initialized() -> bool
 
 <a id="unreal.PCGTextureData.readback_from_gpu_initiated"></a>
 
-#### readback_from_gpu_initiated
+#### readback\_from\_gpu\_initiated
 
 ```python
 @property

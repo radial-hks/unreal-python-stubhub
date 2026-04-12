@@ -20,7 +20,7 @@ This structs properties should be pushed out to categories inside its parent cat
 
 <a id="unreal.PropertyEditorTestBasicStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

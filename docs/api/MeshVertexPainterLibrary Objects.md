@@ -13,7 +13,7 @@ Mesh Vertex Painter Kismet Library
 
 <a id="unreal.MeshVertexPainterLibrary.remove_painted_vertices"></a>
 
-#### remove_painted_vertices
+#### remove\_painted\_vertices
 
 ```python
 @classmethod
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.MeshVertexPainterLibrary.paint_vertices_single_color"></a>
 
-#### paint_vertices_single_color
+#### paint\_vertices\_single\_color
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.MeshVertexPainterLibrary.paint_vertices_lerp_along_axis"></a>
 
-#### paint_vertices_lerp_along_axis
+#### paint\_vertices\_lerp\_along\_axis
 
 ```python
 @classmethod

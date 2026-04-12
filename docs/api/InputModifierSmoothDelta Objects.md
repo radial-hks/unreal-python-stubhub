@@ -25,7 +25,7 @@ Boolean input values will be returned as is.
 
 <a id="unreal.InputModifierSmoothDelta.smoothing_method"></a>
 
-#### smoothing_method
+#### smoothing\_method
 
 ```python
 @property
@@ -36,7 +36,7 @@ def smoothing_method() -> NormalizeInputSmoothingType
 
 <a id="unreal.InputModifierSmoothDelta.smoothing_method"></a>
 
-#### smoothing_method
+#### smoothing\_method
 
 ```python
 @smoothing_method.setter
@@ -65,7 +65,7 @@ def speed(value: float) -> None
 
 <a id="unreal.InputModifierSmoothDelta.easing_exponent"></a>
 
-#### easing_exponent
+#### easing\_exponent
 
 ```python
 @property
@@ -78,7 +78,7 @@ This only affects the Interp_Ease_In, Interp_Ease_Out, and Interp_Ease_In_Out sm
 
 <a id="unreal.InputModifierSmoothDelta.easing_exponent"></a>
 
-#### easing_exponent
+#### easing\_exponent
 
 ```python
 @easing_exponent.setter

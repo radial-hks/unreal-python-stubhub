@@ -17,7 +17,7 @@ Polygon Group ID
 
 <a id="unreal.PolygonGroupID.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(id_value: int = 0) -> None

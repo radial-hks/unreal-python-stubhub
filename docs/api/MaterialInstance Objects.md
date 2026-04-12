@@ -43,7 +43,7 @@ Material Instance
 
 <a id="unreal.MaterialInstance.phys_material"></a>
 
-#### phys_material
+#### phys\_material
 
 ```python
 @property
@@ -54,7 +54,7 @@ def phys_material() -> PhysicalMaterial
 
 <a id="unreal.MaterialInstance.phys_material"></a>
 
-#### phys_material
+#### phys\_material
 
 ```python
 @phys_material.setter
@@ -74,7 +74,7 @@ def parent() -> MaterialInterface
 
 <a id="unreal.MaterialInstance.override_subsurface_profile"></a>
 
-#### override_subsurface_profile
+#### override\_subsurface\_profile
 
 ```python
 @property
@@ -85,7 +85,7 @@ def override_subsurface_profile() -> bool
 
 <a id="unreal.MaterialInstance.override_blendable_location"></a>
 
-#### override_blendable_location
+#### override\_blendable\_location
 
 ```python
 @property
@@ -96,7 +96,7 @@ def override_blendable_location() -> bool
 
 <a id="unreal.MaterialInstance.override_blendable_location"></a>
 
-#### override_blendable_location
+#### override\_blendable\_location
 
 ```python
 @override_blendable_location.setter
@@ -105,7 +105,7 @@ def override_blendable_location(value: bool) -> None
 
 <a id="unreal.MaterialInstance.override_blendable_priority"></a>
 
-#### override_blendable_priority
+#### override\_blendable\_priority
 
 ```python
 @property
@@ -116,7 +116,7 @@ def override_blendable_priority() -> bool
 
 <a id="unreal.MaterialInstance.override_blendable_priority"></a>
 
-#### override_blendable_priority
+#### override\_blendable\_priority
 
 ```python
 @override_blendable_priority.setter
@@ -125,7 +125,7 @@ def override_blendable_priority(value: bool) -> None
 
 <a id="unreal.MaterialInstance.blendable_location_override"></a>
 
-#### blendable_location_override
+#### blendable\_location\_override
 
 ```python
 @property
@@ -136,7 +136,7 @@ def blendable_location_override() -> BlendableLocation
 
 <a id="unreal.MaterialInstance.blendable_location_override"></a>
 
-#### blendable_location_override
+#### blendable\_location\_override
 
 ```python
 @blendable_location_override.setter
@@ -145,7 +145,7 @@ def blendable_location_override(value: BlendableLocation) -> None
 
 <a id="unreal.MaterialInstance.blendable_priority_override"></a>
 
-#### blendable_priority_override
+#### blendable\_priority\_override
 
 ```python
 @property
@@ -156,7 +156,7 @@ def blendable_priority_override() -> int
 
 <a id="unreal.MaterialInstance.blendable_priority_override"></a>
 
-#### blendable_priority_override
+#### blendable\_priority\_override
 
 ```python
 @blendable_priority_override.setter
@@ -165,7 +165,7 @@ def blendable_priority_override(value: int) -> None
 
 <a id="unreal.MaterialInstance.scalar_parameter_values"></a>
 
-#### scalar_parameter_values
+#### scalar\_parameter\_values
 
 ```python
 @property
@@ -176,7 +176,7 @@ def scalar_parameter_values() -> Array[ScalarParameterValue]
 
 <a id="unreal.MaterialInstance.vector_parameter_values"></a>
 
-#### vector_parameter_values
+#### vector\_parameter\_values
 
 ```python
 @property
@@ -187,7 +187,7 @@ def vector_parameter_values() -> Array[VectorParameterValue]
 
 <a id="unreal.MaterialInstance.double_vector_parameter_values"></a>
 
-#### double_vector_parameter_values
+#### double\_vector\_parameter\_values
 
 ```python
 @property
@@ -198,7 +198,7 @@ def double_vector_parameter_values() -> Array[DoubleVectorParameterValue]
 
 <a id="unreal.MaterialInstance.texture_parameter_values"></a>
 
-#### texture_parameter_values
+#### texture\_parameter\_values
 
 ```python
 @property
@@ -209,7 +209,7 @@ def texture_parameter_values() -> Array[TextureParameterValue]
 
 <a id="unreal.MaterialInstance.texture_collection_parameter_values"></a>
 
-#### texture_collection_parameter_values
+#### texture\_collection\_parameter\_values
 
 ```python
 @property
@@ -221,7 +221,7 @@ def texture_collection_parameter_values(
 
 <a id="unreal.MaterialInstance.runtime_virtual_texture_parameter_values"></a>
 
-#### runtime_virtual_texture_parameter_values
+#### runtime\_virtual\_texture\_parameter\_values
 
 ```python
 @property
@@ -233,7 +233,7 @@ def runtime_virtual_texture_parameter_values(
 
 <a id="unreal.MaterialInstance.sparse_volume_texture_parameter_values"></a>
 
-#### sparse_volume_texture_parameter_values
+#### sparse\_volume\_texture\_parameter\_values
 
 ```python
 @property
@@ -245,7 +245,7 @@ def sparse_volume_texture_parameter_values(
 
 <a id="unreal.MaterialInstance.font_parameter_values"></a>
 
-#### font_parameter_values
+#### font\_parameter\_values
 
 ```python
 @property

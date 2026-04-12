@@ -21,10 +21,10 @@ FBIKBone Limit
 
 <a id="unreal.FBIKBoneLimit.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.SpriteGeometryCollection"></a>
+<a id="unreal.GameplayEffectModifierMagnitude"></a>

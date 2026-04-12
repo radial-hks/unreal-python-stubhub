@@ -35,7 +35,7 @@ Anim Sequence Base
 
 <a id="unreal.AnimSequenceBase.sequence_length"></a>
 
-#### sequence_length
+#### sequence\_length
 
 ```python
 @property
@@ -46,7 +46,7 @@ def sequence_length() -> float
 
 <a id="unreal.AnimSequenceBase.data_model"></a>
 
-#### data_model
+#### data\_model
 
 ```python
 @property
@@ -57,7 +57,7 @@ def data_model() -> AnimDataModel
 
 <a id="unreal.AnimSequenceBase.data_model_interface"></a>
 
-#### data_model_interface
+#### data\_model\_interface
 
 ```python
 @property
@@ -79,7 +79,7 @@ def controller() -> AnimationDataController
 
 <a id="unreal.AnimSequenceBase.get_anim_pose_at_time"></a>
 
-#### get_anim_pose_at_time
+#### get\_anim\_pose\_at\_time
 
 ```python
 def get_anim_pose_at_time(
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.AnimSequenceBase.get_anim_pose_at_frame"></a>
 
-#### get_anim_pose_at_frame
+#### get\_anim\_pose\_at\_frame
 
 ```python
 def get_anim_pose_at_frame(
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.AnimSequenceBase.add_transform_attribute"></a>
 
-#### add_transform_attribute
+#### add\_transform\_attribute
 
 ```python
 def add_transform_attribute(attribute_name: Name, bone_name: Name,

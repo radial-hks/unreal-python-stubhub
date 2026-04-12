@@ -24,4 +24,4 @@ ELidar Point Cloud Sprite Shape
 
 1
 
-<a id="unreal.GroomCacheImportType"></a>
+<a id="unreal.NiagaraSimCacheAttributeCaptureMode"></a>

@@ -17,7 +17,7 @@ Platform specific settings for Sound Wave cloud streaming.
 
 <a id="unreal.SoundWaveCloudStreamingPlatformSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

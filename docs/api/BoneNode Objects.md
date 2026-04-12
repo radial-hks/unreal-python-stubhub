@@ -17,7 +17,7 @@ Each Bone node in BoneTree
 
 <a id="unreal.BoneNode.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

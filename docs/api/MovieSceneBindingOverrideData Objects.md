@@ -19,7 +19,7 @@ Movie scene binding override data
 
 <a id="unreal.MovieSceneBindingOverrideData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -13,7 +13,7 @@ EAIRequest Priority
 
 <a id="unreal.AIRequestPriority.SOFT_SCRIPT"></a>
 
-#### SOFT_SCRIPT
+#### SOFT\_SCRIPT
 
 0: Actions requested by Level Designers by placing AI-hinting elements on the map.
 
@@ -25,7 +25,7 @@ EAIRequest Priority
 
 <a id="unreal.AIRequestPriority.HARD_SCRIPT"></a>
 
-#### HARD_SCRIPT
+#### HARD\_SCRIPT
 
 2: Actions LDs really want AI to perform.
 

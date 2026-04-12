@@ -50,7 +50,7 @@ A widget switcher is like a tab control, but without tabs. At most one widget is
 
 <a id="unreal.WidgetSwitcher.active_widget_index"></a>
 
-#### active_widget_index
+#### active\_widget\_index
 
 ```python
 @property
@@ -61,7 +61,7 @@ def active_widget_index() -> int
 
 <a id="unreal.WidgetSwitcher.active_widget_index"></a>
 
-#### active_widget_index
+#### active\_widget\_index
 
 ```python
 @active_widget_index.setter
@@ -70,7 +70,7 @@ def active_widget_index(value: int) -> None
 
 <a id="unreal.WidgetSwitcher.set_active_widget_index"></a>
 
-#### set_active_widget_index
+#### set\_active\_widget\_index
 
 ```python
 def set_active_widget_index(index: int) -> None
@@ -84,7 +84,7 @@ Args:
 
 <a id="unreal.WidgetSwitcher.set_active_widget"></a>
 
-#### set_active_widget
+#### set\_active\_widget
 
 ```python
 def set_active_widget(widget: Widget) -> None
@@ -98,7 +98,7 @@ Args:
 
 <a id="unreal.WidgetSwitcher.get_widget_at_index"></a>
 
-#### get_widget_at_index
+#### get\_widget\_at\_index
 
 ```python
 def get_widget_at_index(index: int) -> Widget
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.WidgetSwitcher.get_num_widgets"></a>
 
-#### get_num_widgets
+#### get\_num\_widgets
 
 ```python
 def get_num_widgets() -> int
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.WidgetSwitcher.get_active_widget_index"></a>
 
-#### get_active_widget_index
+#### get\_active\_widget\_index
 
 ```python
 def get_active_widget_index() -> int
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.WidgetSwitcher.get_active_widget"></a>
 
-#### get_active_widget
+#### get\_active\_widget
 
 ```python
 def get_active_widget() -> Widget

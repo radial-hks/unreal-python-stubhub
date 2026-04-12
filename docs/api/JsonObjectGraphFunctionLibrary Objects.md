@@ -13,7 +13,7 @@ Json Object Graph Function Library
 
 <a id="unreal.JsonObjectGraphFunctionLibrary.write_package_to_temp_file"></a>
 
-#### write_package_to_temp_file
+#### write\_package\_to\_temp\_file
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.JsonObjectGraphFunctionLibrary.write_blueprint_class_to_temp_file"></a>
 
-#### write_blueprint_class_to_temp_file
+#### write\_blueprint\_class\_to\_temp\_file
 
 ```python
 @classmethod

@@ -20,7 +20,7 @@ Base class representing a kernel that will be run as a shader on the GPU.
 
 <a id="unreal.ComputeKernel.kernel_flags"></a>
 
-#### kernel_flags
+#### kernel\_flags
 
 ```python
 @property

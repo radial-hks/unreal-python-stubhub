@@ -25,7 +25,7 @@ PCGGrammar Selection
 
 <a id="unreal.PCGGrammarSelection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.PCGGrammarSelection.grammar_as_attribute"></a>
 
-#### grammar_as_attribute
+#### grammar\_as\_attribute
 
 ```python
 @property
@@ -52,7 +52,7 @@ Grammar syntax:
 
 <a id="unreal.PCGGrammarSelection.grammar_as_attribute"></a>
 
-#### grammar_as_attribute
+#### grammar\_as\_attribute
 
 ```python
 @grammar_as_attribute.setter
@@ -61,7 +61,7 @@ def grammar_as_attribute(value: bool) -> None
 
 <a id="unreal.PCGGrammarSelection.grammar_string"></a>
 
-#### grammar_string
+#### grammar\_string
 
 ```python
 @property
@@ -72,7 +72,7 @@ def grammar_string() -> str
 
 <a id="unreal.PCGGrammarSelection.grammar_string"></a>
 
-#### grammar_string
+#### grammar\_string
 
 ```python
 @grammar_string.setter
@@ -81,7 +81,7 @@ def grammar_string(value: str) -> None
 
 <a id="unreal.PCGGrammarSelection.grammar_attribute"></a>
 
-#### grammar_attribute
+#### grammar\_attribute
 
 ```python
 @property
@@ -92,7 +92,7 @@ def grammar_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGGrammarSelection.grammar_attribute"></a>
 
-#### grammar_attribute
+#### grammar\_attribute
 
 ```python
 @grammar_attribute.setter

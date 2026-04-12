@@ -14,37 +14,37 @@ EDatasmith Import Lightmap Min
 
 <a id="unreal.DatasmithImportLightmapMin.LIGHTMAP_16"></a>
 
-#### LIGHTMAP_16
+#### LIGHTMAP\_16
 
 0
 
 <a id="unreal.DatasmithImportLightmapMin.LIGHTMAP_32"></a>
 
-#### LIGHTMAP_32
+#### LIGHTMAP\_32
 
 1
 
 <a id="unreal.DatasmithImportLightmapMin.LIGHTMAP_64"></a>
 
-#### LIGHTMAP_64
+#### LIGHTMAP\_64
 
 2
 
 <a id="unreal.DatasmithImportLightmapMin.LIGHTMAP_128"></a>
 
-#### LIGHTMAP_128
+#### LIGHTMAP\_128
 
 3
 
 <a id="unreal.DatasmithImportLightmapMin.LIGHTMAP_256"></a>
 
-#### LIGHTMAP_256
+#### LIGHTMAP\_256
 
 4
 
 <a id="unreal.DatasmithImportLightmapMin.LIGHTMAP_512"></a>
 
-#### LIGHTMAP_512
+#### LIGHTMAP\_512
 
 5
 

@@ -8,7 +8,7 @@ deprecated: 'PCGPointFilterThresholdSettings' was renamed to 'PCGAttributeFilter
 
 <a id="unreal.PCGPointFilterThresholdSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

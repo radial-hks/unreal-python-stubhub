@@ -32,7 +32,7 @@ EPCGActor Filter
 
 <a id="unreal.PCGActorFilter.ALL_WORLD_ACTORS"></a>
 
-#### ALL_WORLD_ACTORS
+#### ALL\_WORLD\_ACTORS
 
 3: All actors in world.
 
@@ -44,7 +44,7 @@ EPCGActor Filter
 
 <a id="unreal.PCGActorFilter.FROM_INPUT"></a>
 
-#### FROM_INPUT
+#### FROM\_INPUT
 
 5: Consider only the provided list of actors
 

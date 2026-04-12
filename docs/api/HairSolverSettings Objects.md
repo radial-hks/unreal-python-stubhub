@@ -24,7 +24,7 @@ Hair Solver Settings
 
 <a id="unreal.HairSolverSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

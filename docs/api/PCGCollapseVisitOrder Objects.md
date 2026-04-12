@@ -26,13 +26,13 @@ EPCGCollapse Visit Order
 
 <a id="unreal.PCGCollapseVisitOrder.MIN_ATTRIBUTE"></a>
 
-#### MIN_ATTRIBUTE
+#### MIN\_ATTRIBUTE
 
 2: Will create pairs according to attribute value order (minimum value first).
 
 <a id="unreal.PCGCollapseVisitOrder.MAX_ATTRIBUTE"></a>
 
-#### MAX_ATTRIBUTE
+#### MAX\_ATTRIBUTE
 
 3: Will create pairs according to attribute value order (maximum value first).
 

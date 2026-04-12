@@ -43,7 +43,7 @@ Material Instance Dynamic
 
 <a id="unreal.MaterialInstanceDynamic.set_vector_parameter_value_by_info"></a>
 
-#### set_vector_parameter_value_by_info
+#### set\_vector\_parameter\_value\_by\_info
 
 ```python
 def set_vector_parameter_value_by_info(parameter_info: MaterialParameterInfo,
@@ -59,7 +59,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_vector_parameter_value"></a>
 
-#### set_vector_parameter_value
+#### set\_vector\_parameter\_value
 
 ```python
 def set_vector_parameter_value(parameter_name: Name,
@@ -75,7 +75,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_texture_parameter_value_by_info"></a>
 
-#### set_texture_parameter_value_by_info
+#### set\_texture\_parameter\_value\_by\_info
 
 ```python
 def set_texture_parameter_value_by_info(parameter_info: MaterialParameterInfo,
@@ -91,7 +91,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_texture_parameter_value"></a>
 
-#### set_texture_parameter_value
+#### set\_texture\_parameter\_value
 
 ```python
 def set_texture_parameter_value(parameter_name: Name, value: Texture) -> None
@@ -106,7 +106,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_sparse_volume_texture_parameter_value"></a>
 
-#### set_sparse_volume_texture_parameter_value
+#### set\_sparse\_volume\_texture\_parameter\_value
 
 ```python
 def set_sparse_volume_texture_parameter_value(
@@ -122,7 +122,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_scalar_parameter_value_by_info"></a>
 
-#### set_scalar_parameter_value_by_info
+#### set\_scalar\_parameter\_value\_by\_info
 
 ```python
 def set_scalar_parameter_value_by_info(parameter_info: MaterialParameterInfo,
@@ -138,7 +138,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_scalar_parameter_value"></a>
 
-#### set_scalar_parameter_value
+#### set\_scalar\_parameter\_value
 
 ```python
 def set_scalar_parameter_value(parameter_name: Name, value: float) -> None
@@ -153,7 +153,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_scalar_parameter_by_index"></a>
 
-#### set_scalar_parameter_by_index
+#### set\_scalar\_parameter\_by\_index
 
 ```python
 def set_scalar_parameter_by_index(parameter_index: int, value: float) -> bool
@@ -174,7 +174,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceDynamic.set_runtime_virtual_texture_parameter_value_by_info"></a>
 
-#### set_runtime_virtual_texture_parameter_value_by_info
+#### set\_runtime\_virtual\_texture\_parameter\_value\_by\_info
 
 ```python
 def set_runtime_virtual_texture_parameter_value_by_info(
@@ -191,7 +191,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_runtime_virtual_texture_parameter_value"></a>
 
-#### set_runtime_virtual_texture_parameter_value
+#### set\_runtime\_virtual\_texture\_parameter\_value
 
 ```python
 def set_runtime_virtual_texture_parameter_value(
@@ -207,7 +207,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.set_double_vector_parameter_value"></a>
 
-#### set_double_vector_parameter_value
+#### set\_double\_vector\_parameter\_value
 
 ```python
 def set_double_vector_parameter_value(parameter_name: Name,
@@ -223,7 +223,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.interpolate_material_instance_parameters"></a>
 
-#### interpolate_material_instance_parameters
+#### interpolate\_material\_instance\_parameters
 
 ```python
 def interpolate_material_instance_parameters(source_a: MaterialInstance,
@@ -244,7 +244,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.get_vector_parameter_value_by_info"></a>
 
-#### get_vector_parameter_value_by_info
+#### get\_vector\_parameter\_value\_by\_info
 
 ```python
 def get_vector_parameter_value_by_info(
@@ -262,7 +262,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceDynamic.get_vector_parameter_value"></a>
 
-#### get_vector_parameter_value
+#### get\_vector\_parameter\_value
 
 ```python
 def get_vector_parameter_value(parameter_name: Name) -> LinearColor
@@ -279,7 +279,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceDynamic.get_texture_parameter_value_by_info"></a>
 
-#### get_texture_parameter_value_by_info
+#### get\_texture\_parameter\_value\_by\_info
 
 ```python
 def get_texture_parameter_value_by_info(
@@ -297,7 +297,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceDynamic.get_texture_parameter_value"></a>
 
-#### get_texture_parameter_value
+#### get\_texture\_parameter\_value
 
 ```python
 def get_texture_parameter_value(parameter_name: Name) -> Texture
@@ -314,7 +314,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceDynamic.get_scalar_parameter_value_by_info"></a>
 
-#### get_scalar_parameter_value_by_info
+#### get\_scalar\_parameter\_value\_by\_info
 
 ```python
 def get_scalar_parameter_value_by_info(
@@ -332,7 +332,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceDynamic.get_scalar_parameter_value"></a>
 
-#### get_scalar_parameter_value
+#### get\_scalar\_parameter\_value
 
 ```python
 def get_scalar_parameter_value(parameter_name: Name) -> float
@@ -349,7 +349,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceDynamic.copy_material_instance_parameters"></a>
 
-#### copy_material_instance_parameters
+#### copy\_material\_instance\_parameters
 
 ```python
 def copy_material_instance_parameters(
@@ -369,7 +369,7 @@ Args:
 
 <a id="unreal.MaterialInstanceDynamic.initialize_scalar_parameter_and_get_index"></a>
 
-#### initialize_scalar_parameter_and_get_index
+#### initialize\_scalar\_parameter\_and\_get\_index
 
 ```python
 def initialize_scalar_parameter_and_get_index(parameter_name: Name,
@@ -395,7 +395,7 @@ Returns:
 
 <a id="unreal.MaterialInstanceDynamic.copy_parameter_overrides"></a>
 
-#### copy_parameter_overrides
+#### copy\_parameter\_overrides
 
 ```python
 def copy_parameter_overrides(material_instance: MaterialInstance) -> None

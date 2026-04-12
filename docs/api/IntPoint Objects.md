@@ -19,7 +19,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.IntPoint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: int = 0, y: int = 0) -> None
@@ -84,7 +84,7 @@ Returns:
 
 <a id="unreal.IntPoint.subtract_int"></a>
 
-#### subtract_int
+#### subtract\_int
 
 ```python
 def subtract_int(b: int) -> IntPoint
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.IntPoint.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 def not_equal(b: IntPoint) -> bool
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.IntPoint.multiply_int"></a>
 
-#### multiply_int
+#### multiply\_int
 
 ```python
 def multiply_int(b: int) -> IntPoint
@@ -186,7 +186,7 @@ Returns:
 
 <a id="unreal.IntPoint.divide_int"></a>
 
-#### divide_int
+#### divide\_int
 
 ```python
 def divide_int(b: int) -> IntPoint
@@ -234,7 +234,7 @@ Returns:
 
 <a id="unreal.IntPoint.add_int"></a>
 
-#### add_int
+#### add\_int
 
 ```python
 def add_int(b: int) -> IntPoint
@@ -251,7 +251,7 @@ Returns:
 
 <a id="unreal.IntPoint.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -264,7 +264,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.IntPoint.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: IntPoint) -> None
@@ -277,7 +277,7 @@ def __add__(other: IntPoint) -> None
 
 <a id="unreal.IntPoint.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: IntPoint) -> None
@@ -290,7 +290,7 @@ def __iadd__(other: IntPoint) -> None
 
 <a id="unreal.IntPoint.__sub__"></a>
 
-#### __sub__
+#### \_\_sub\_\_
 
 ```python
 def __sub__(other: IntPoint) -> None
@@ -303,7 +303,7 @@ def __sub__(other: IntPoint) -> None
 
 <a id="unreal.IntPoint.__isub__"></a>
 
-#### __isub__
+#### \_\_isub\_\_
 
 ```python
 def __isub__(other: IntPoint) -> None
@@ -316,7 +316,7 @@ def __isub__(other: IntPoint) -> None
 
 <a id="unreal.IntPoint.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: IntPoint) -> None
@@ -329,7 +329,7 @@ def __mul__(other: IntPoint) -> None
 
 <a id="unreal.IntPoint.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: IntPoint) -> None
@@ -342,7 +342,7 @@ def __imul__(other: IntPoint) -> None
 
 <a id="unreal.IntPoint.__truediv__"></a>
 
-#### __truediv__
+#### \_\_truediv\_\_
 
 ```python
 def __truediv__(other: IntPoint) -> None

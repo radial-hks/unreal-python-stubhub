@@ -8,10 +8,10 @@ deprecated: 'ControlRigDrawInstruction' was renamed to 'RigVMDrawInstruction'.
 
 <a id="unreal.ControlRigDrawInstruction.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.AnimationStateEntry"></a>
+<a id="unreal.GenerateStaticMeshLODProcess_UVSettings_PatchBuilder"></a>

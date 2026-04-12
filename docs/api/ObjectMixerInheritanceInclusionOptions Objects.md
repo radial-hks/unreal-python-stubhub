@@ -20,49 +20,49 @@ EObject Mixer Inheritance Inclusion Options
 
 <a id="unreal.ObjectMixerInheritanceInclusionOptions.INCLUDE_ONLY_IMMEDIATE_PARENT"></a>
 
-#### INCLUDE_ONLY_IMMEDIATE_PARENT
+#### INCLUDE\_ONLY\_IMMEDIATE\_PARENT
 
 1: Get properties from the class that the specified classes immediately derive from, but not the parents' parents + Specified Classes
 
 <a id="unreal.ObjectMixerInheritanceInclusionOptions.INCLUDE_ONLY_IMMEDIATE_CHILDREN"></a>
 
-#### INCLUDE_ONLY_IMMEDIATE_CHILDREN
+#### INCLUDE\_ONLY\_IMMEDIATE\_CHILDREN
 
 2: Get properties from child classes but not child classes of child classes + Specified Classes
 
 <a id="unreal.ObjectMixerInheritanceInclusionOptions.INCLUDE_ONLY_IMMEDIATE_PARENT_AND_CHILDREN"></a>
 
-#### INCLUDE_ONLY_IMMEDIATE_PARENT_AND_CHILDREN
+#### INCLUDE\_ONLY\_IMMEDIATE\_PARENT\_AND\_CHILDREN
 
 3: IncludeOnlyImmediateParent + IncludeOnlyImmediateChildren + Specified Classes
 
 <a id="unreal.ObjectMixerInheritanceInclusionOptions.INCLUDE_ALL_PARENTS"></a>
 
-#### INCLUDE_ALL_PARENTS
+#### INCLUDE\_ALL\_PARENTS
 
 4: Go up the chain of parent classes to get all properties in the specified classes' ancestries + Specified Classes
 
 <a id="unreal.ObjectMixerInheritanceInclusionOptions.INCLUDE_ALL_CHILDREN"></a>
 
-#### INCLUDE_ALL_CHILDREN
+#### INCLUDE\_ALL\_CHILDREN
 
 5: Get properties from all derived classes recursively + Specified Classes
 
 <a id="unreal.ObjectMixerInheritanceInclusionOptions.INCLUDE_ALL_PARENTS_AND_CHILDREN"></a>
 
-#### INCLUDE_ALL_PARENTS_AND_CHILDREN
+#### INCLUDE\_ALL\_PARENTS\_AND\_CHILDREN
 
 6: IncludeAllParents + IncludeAllChildren + Specified Classes
 
 <a id="unreal.ObjectMixerInheritanceInclusionOptions.INCLUDE_ALL_PARENTS_AND_ONLY_IMMEDIATE_CHILDREN"></a>
 
-#### INCLUDE_ALL_PARENTS_AND_ONLY_IMMEDIATE_CHILDREN
+#### INCLUDE\_ALL\_PARENTS\_AND\_ONLY\_IMMEDIATE\_CHILDREN
 
 7: IncludeAllParents + IncludeOnlyImmediateChildren + Specified Classes
 
 <a id="unreal.ObjectMixerInheritanceInclusionOptions.INCLUDE_ONLY_IMMEDIATE_PARENT_AND_ALL_CHILDREN"></a>
 
-#### INCLUDE_ONLY_IMMEDIATE_PARENT_AND_ALL_CHILDREN
+#### INCLUDE\_ONLY\_IMMEDIATE\_PARENT\_AND\_ALL\_CHILDREN
 
 8: IncludeOnlyImmediateParent + IncludeAllChildren + Specified Classes
 

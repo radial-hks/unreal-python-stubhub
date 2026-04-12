@@ -141,7 +141,7 @@ Phased Automation Actor Base
 
 <a id="unreal.PhasedAutomationActorBase.on_functional_testing_complete"></a>
 
-#### on_functional_testing_complete
+#### on\_functional\_testing\_complete
 
 ```python
 def on_functional_testing_complete() -> None
@@ -152,7 +152,7 @@ On Functional Testing Complete
 
 <a id="unreal.PhasedAutomationActorBase.on_functional_testing_begin"></a>
 
-#### on_functional_testing_begin
+#### on\_functional\_testing\_begin
 
 ```python
 def on_functional_testing_begin() -> None

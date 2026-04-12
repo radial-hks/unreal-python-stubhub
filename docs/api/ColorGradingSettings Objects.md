@@ -23,7 +23,7 @@ Color Grading Settings
 
 <a id="unreal.ColorGradingSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(global_: ColorGradePerRangeSettings = [
@@ -61,7 +61,7 @@ def __init__(global_: ColorGradePerRangeSettings = [
 
 <a id="unreal.ColorGradingSettings.global_"></a>
 
-#### global_
+#### global\_
 
 ```python
 @property
@@ -72,7 +72,7 @@ def global_() -> ColorGradePerRangeSettings
 
 <a id="unreal.ColorGradingSettings.global_"></a>
 
-#### global_
+#### global\_
 
 ```python
 @global_.setter
@@ -141,7 +141,7 @@ def highlights(value: ColorGradePerRangeSettings) -> None
 
 <a id="unreal.ColorGradingSettings.shadows_max"></a>
 
-#### shadows_max
+#### shadows\_max
 
 ```python
 @property
@@ -152,7 +152,7 @@ def shadows_max() -> float
 
 <a id="unreal.ColorGradingSettings.shadows_max"></a>
 
-#### shadows_max
+#### shadows\_max
 
 ```python
 @shadows_max.setter
@@ -161,7 +161,7 @@ def shadows_max(value: float) -> None
 
 <a id="unreal.ColorGradingSettings.highlights_min"></a>
 
-#### highlights_min
+#### highlights\_min
 
 ```python
 @property
@@ -172,7 +172,7 @@ def highlights_min() -> float
 
 <a id="unreal.ColorGradingSettings.highlights_min"></a>
 
-#### highlights_min
+#### highlights\_min
 
 ```python
 @highlights_min.setter
@@ -181,7 +181,7 @@ def highlights_min(value: float) -> None
 
 <a id="unreal.ColorGradingSettings.highlights_max"></a>
 
-#### highlights_max
+#### highlights\_max
 
 ```python
 @property
@@ -192,7 +192,7 @@ def highlights_max() -> float
 
 <a id="unreal.ColorGradingSettings.highlights_max"></a>
 
-#### highlights_max
+#### highlights\_max
 
 ```python
 @highlights_max.setter

@@ -143,7 +143,7 @@ Scene Capture 2D
 
 <a id="unreal.SceneCapture2D.capture_component2d"></a>
 
-#### capture_component2d
+#### capture\_component2d
 
 ```python
 @property
@@ -154,7 +154,7 @@ def capture_component2d() -> SceneCaptureComponent2D
 
 <a id="unreal.SceneCapture2D.on_interp_toggle"></a>
 
-#### on_interp_toggle
+#### on\_interp\_toggle
 
 ```python
 def on_interp_toggle(enable: bool) -> None

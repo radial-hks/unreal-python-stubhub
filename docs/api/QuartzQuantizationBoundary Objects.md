@@ -23,7 +23,7 @@ struct used to specify the quantization boundary of an event
 
 <a id="unreal.QuartzQuantizationBoundary.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -80,7 +80,7 @@ def multiplier(value: float) -> None
 
 <a id="unreal.QuartzQuantizationBoundary.counting_reference_point"></a>
 
-#### counting_reference_point
+#### counting\_reference\_point
 
 ```python
 @property
@@ -91,7 +91,7 @@ def counting_reference_point() -> QuarztQuantizationReference
 
 <a id="unreal.QuartzQuantizationBoundary.counting_reference_point"></a>
 
-#### counting_reference_point
+#### counting\_reference\_point
 
 ```python
 @counting_reference_point.setter
@@ -100,7 +100,7 @@ def counting_reference_point(value: QuarztQuantizationReference) -> None
 
 <a id="unreal.QuartzQuantizationBoundary.fire_on_clock_start"></a>
 
-#### fire_on_clock_start
+#### fire\_on\_clock\_start
 
 ```python
 @property
@@ -111,7 +111,7 @@ def fire_on_clock_start() -> bool
 
 <a id="unreal.QuartzQuantizationBoundary.fire_on_clock_start"></a>
 
-#### fire_on_clock_start
+#### fire\_on\_clock\_start
 
 ```python
 @fire_on_clock_start.setter
@@ -120,7 +120,7 @@ def fire_on_clock_start(value: bool) -> None
 
 <a id="unreal.QuartzQuantizationBoundary.cancel_command_if_clock_is_not_running"></a>
 
-#### cancel_command_if_clock_is_not_running
+#### cancel\_command\_if\_clock\_is\_not\_running
 
 ```python
 @property
@@ -131,7 +131,7 @@ def cancel_command_if_clock_is_not_running() -> bool
 
 <a id="unreal.QuartzQuantizationBoundary.cancel_command_if_clock_is_not_running"></a>
 
-#### cancel_command_if_clock_is_not_running
+#### cancel\_command\_if\_clock\_is\_not\_running
 
 ```python
 @cancel_command_if_clock_is_not_running.setter
@@ -140,7 +140,7 @@ def cancel_command_if_clock_is_not_running(value: bool) -> None
 
 <a id="unreal.QuartzQuantizationBoundary.reset_clock_on_queued"></a>
 
-#### reset_clock_on_queued
+#### reset\_clock\_on\_queued
 
 ```python
 @property
@@ -151,7 +151,7 @@ def reset_clock_on_queued() -> bool
 
 <a id="unreal.QuartzQuantizationBoundary.reset_clock_on_queued"></a>
 
-#### reset_clock_on_queued
+#### reset\_clock\_on\_queued
 
 ```python
 @reset_clock_on_queued.setter
@@ -160,7 +160,7 @@ def reset_clock_on_queued(value: bool) -> None
 
 <a id="unreal.QuartzQuantizationBoundary.resume_clock_on_queued"></a>
 
-#### resume_clock_on_queued
+#### resume\_clock\_on\_queued
 
 ```python
 @property
@@ -171,7 +171,7 @@ def resume_clock_on_queued() -> bool
 
 <a id="unreal.QuartzQuantizationBoundary.resume_clock_on_queued"></a>
 
-#### resume_clock_on_queued
+#### resume\_clock\_on\_queued
 
 ```python
 @resume_clock_on_queued.setter

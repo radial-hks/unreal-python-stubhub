@@ -24,7 +24,7 @@ Rig Physics Element
 
 <a id="unreal.RigPhysicsElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: RigElementKey = [RigElementType.NONE, "None"],

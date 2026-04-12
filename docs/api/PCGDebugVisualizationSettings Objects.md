@@ -21,7 +21,7 @@ PCGDebug Visualization Settings
 
 <a id="unreal.PCGDebugVisualizationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -33,7 +33,7 @@ def __init__(
 
 <a id="unreal.PCGDebugVisualizationSettings.point_scale"></a>
 
-#### point_scale
+#### point\_scale
 
 ```python
 @property
@@ -44,7 +44,7 @@ def point_scale() -> float
 
 <a id="unreal.PCGDebugVisualizationSettings.point_scale"></a>
 
-#### point_scale
+#### point\_scale
 
 ```python
 @point_scale.setter
@@ -53,7 +53,7 @@ def point_scale(value: float) -> None
 
 <a id="unreal.PCGDebugVisualizationSettings.scale_method"></a>
 
-#### scale_method
+#### scale\_method
 
 ```python
 @property
@@ -64,7 +64,7 @@ def scale_method() -> PCGDebugVisScaleMethod
 
 <a id="unreal.PCGDebugVisualizationSettings.scale_method"></a>
 
-#### scale_method
+#### scale\_method
 
 ```python
 @scale_method.setter
@@ -73,7 +73,7 @@ def scale_method(value: PCGDebugVisScaleMethod) -> None
 
 <a id="unreal.PCGDebugVisualizationSettings.point_mesh"></a>
 
-#### point_mesh
+#### point\_mesh
 
 ```python
 @property
@@ -84,7 +84,7 @@ def point_mesh() -> StaticMesh
 
 <a id="unreal.PCGDebugVisualizationSettings.point_mesh"></a>
 
-#### point_mesh
+#### point\_mesh
 
 ```python
 @point_mesh.setter
@@ -93,7 +93,7 @@ def point_mesh(value: StaticMesh) -> None
 
 <a id="unreal.PCGDebugVisualizationSettings.material_override"></a>
 
-#### material_override
+#### material\_override
 
 ```python
 @property
@@ -104,7 +104,7 @@ def material_override() -> MaterialInterface
 
 <a id="unreal.PCGDebugVisualizationSettings.material_override"></a>
 
-#### material_override
+#### material\_override
 
 ```python
 @material_override.setter

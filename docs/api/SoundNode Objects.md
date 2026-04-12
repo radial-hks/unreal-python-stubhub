@@ -17,7 +17,7 @@ Sound Node
 
 <a id="unreal.SoundNode.child_nodes"></a>
 
-#### child_nodes
+#### child\_nodes
 
 ```python
 @property

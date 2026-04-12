@@ -24,7 +24,7 @@ Geometry Script Solidify Options
 
 <a id="unreal.GeometryScriptSolidifyOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(grid_parameters: GeometryScript3DGridParameters = [
@@ -40,7 +40,7 @@ def __init__(grid_parameters: GeometryScript3DGridParameters = [
 
 <a id="unreal.GeometryScriptSolidifyOptions.grid_parameters"></a>
 
-#### grid_parameters
+#### grid\_parameters
 
 ```python
 @property
@@ -51,7 +51,7 @@ def grid_parameters() -> GeometryScript3DGridParameters
 
 <a id="unreal.GeometryScriptSolidifyOptions.grid_parameters"></a>
 
-#### grid_parameters
+#### grid\_parameters
 
 ```python
 @grid_parameters.setter
@@ -60,7 +60,7 @@ def grid_parameters(value: GeometryScript3DGridParameters) -> None
 
 <a id="unreal.GeometryScriptSolidifyOptions.winding_threshold"></a>
 
-#### winding_threshold
+#### winding\_threshold
 
 ```python
 @property
@@ -71,7 +71,7 @@ def winding_threshold() -> float
 
 <a id="unreal.GeometryScriptSolidifyOptions.winding_threshold"></a>
 
-#### winding_threshold
+#### winding\_threshold
 
 ```python
 @winding_threshold.setter
@@ -80,7 +80,7 @@ def winding_threshold(value: float) -> None
 
 <a id="unreal.GeometryScriptSolidifyOptions.solid_at_boundaries"></a>
 
-#### solid_at_boundaries
+#### solid\_at\_boundaries
 
 ```python
 @property
@@ -91,7 +91,7 @@ def solid_at_boundaries() -> bool
 
 <a id="unreal.GeometryScriptSolidifyOptions.solid_at_boundaries"></a>
 
-#### solid_at_boundaries
+#### solid\_at\_boundaries
 
 ```python
 @solid_at_boundaries.setter
@@ -100,7 +100,7 @@ def solid_at_boundaries(value: bool) -> None
 
 <a id="unreal.GeometryScriptSolidifyOptions.extend_bounds"></a>
 
-#### extend_bounds
+#### extend\_bounds
 
 ```python
 @property
@@ -111,7 +111,7 @@ def extend_bounds() -> float
 
 <a id="unreal.GeometryScriptSolidifyOptions.extend_bounds"></a>
 
-#### extend_bounds
+#### extend\_bounds
 
 ```python
 @extend_bounds.setter
@@ -120,7 +120,7 @@ def extend_bounds(value: float) -> None
 
 <a id="unreal.GeometryScriptSolidifyOptions.surface_search_steps"></a>
 
-#### surface_search_steps
+#### surface\_search\_steps
 
 ```python
 @property
@@ -131,7 +131,7 @@ def surface_search_steps() -> int
 
 <a id="unreal.GeometryScriptSolidifyOptions.surface_search_steps"></a>
 
-#### surface_search_steps
+#### surface\_search\_steps
 
 ```python
 @surface_search_steps.setter
@@ -140,7 +140,7 @@ def surface_search_steps(value: int) -> None
 
 <a id="unreal.GeometryScriptSolidifyOptions.thicken_shells"></a>
 
-#### thicken_shells
+#### thicken\_shells
 
 ```python
 @property
@@ -151,7 +151,7 @@ def thicken_shells() -> bool
 
 <a id="unreal.GeometryScriptSolidifyOptions.thicken_shells"></a>
 
-#### thicken_shells
+#### thicken\_shells
 
 ```python
 @thicken_shells.setter
@@ -160,7 +160,7 @@ def thicken_shells(value: bool) -> None
 
 <a id="unreal.GeometryScriptSolidifyOptions.shell_thickness"></a>
 
-#### shell_thickness
+#### shell\_thickness
 
 ```python
 @property
@@ -171,7 +171,7 @@ def shell_thickness() -> float
 
 <a id="unreal.GeometryScriptSolidifyOptions.shell_thickness"></a>
 
-#### shell_thickness
+#### shell\_thickness
 
 ```python
 @shell_thickness.setter

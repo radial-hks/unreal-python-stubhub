@@ -15,13 +15,13 @@ and when the particles using the texture will be few and large.
 
 <a id="unreal.SubUVBoundingVertexCount.BVC_FOUR_VERTICES"></a>
 
-#### BVC_FOUR_VERTICES
+#### BVC\_FOUR\_VERTICES
 
 0
 
 <a id="unreal.SubUVBoundingVertexCount.BVC_EIGHT_VERTICES"></a>
 
-#### BVC_EIGHT_VERTICES
+#### BVC\_EIGHT\_VERTICES
 
 1
 

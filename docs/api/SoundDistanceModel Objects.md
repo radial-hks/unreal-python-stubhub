@@ -26,13 +26,13 @@ deprecated: 'SoundDistanceModel' was renamed to 'AttenuationDistanceModel'.
 
 <a id="unreal.SoundDistanceModel.LOG_REVERSE"></a>
 
-#### LOG_REVERSE
+#### LOG\_REVERSE
 
 3
 
 <a id="unreal.SoundDistanceModel.NATURAL_SOUND"></a>
 
-#### NATURAL_SOUND
+#### NATURAL\_SOUND
 
 4
 

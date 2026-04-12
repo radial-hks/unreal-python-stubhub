@@ -31,7 +31,7 @@ Media Component
 
 <a id="unreal.MediaComponent.media_texture"></a>
 
-#### media_texture
+#### media\_texture
 
 ```python
 @property
@@ -42,7 +42,7 @@ def media_texture() -> MediaTexture
 
 <a id="unreal.MediaComponent.media_player"></a>
 
-#### media_player
+#### media\_player
 
 ```python
 @property
@@ -53,7 +53,7 @@ def media_player() -> MediaPlayer
 
 <a id="unreal.MediaComponent.get_media_texture"></a>
 
-#### get_media_texture
+#### get\_media\_texture
 
 ```python
 def get_media_texture() -> MediaTexture
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.MediaComponent.get_media_player"></a>
 
-#### get_media_player
+#### get\_media\_player
 
 ```python
 def get_media_player() -> MediaPlayer

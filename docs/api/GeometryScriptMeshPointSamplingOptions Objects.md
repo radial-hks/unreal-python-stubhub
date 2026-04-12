@@ -21,7 +21,7 @@ Geometry Script Mesh Point Sampling Options
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sampling_radius: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(sampling_radius: float = 0.000000,
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.sampling_radius"></a>
 
-#### sampling_radius
+#### sampling\_radius
 
 ```python
 @property
@@ -43,7 +43,7 @@ def sampling_radius() -> float
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.sampling_radius"></a>
 
-#### sampling_radius
+#### sampling\_radius
 
 ```python
 @sampling_radius.setter
@@ -52,7 +52,7 @@ def sampling_radius(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.max_num_samples"></a>
 
-#### max_num_samples
+#### max\_num\_samples
 
 ```python
 @property
@@ -63,7 +63,7 @@ def max_num_samples() -> int
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.max_num_samples"></a>
 
-#### max_num_samples
+#### max\_num\_samples
 
 ```python
 @max_num_samples.setter
@@ -72,7 +72,7 @@ def max_num_samples(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @property
@@ -83,7 +83,7 @@ def random_seed() -> int
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @random_seed.setter
@@ -92,7 +92,7 @@ def random_seed(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.sub_sample_density"></a>
 
-#### sub_sample_density
+#### sub\_sample\_density
 
 ```python
 @property
@@ -103,7 +103,7 @@ def sub_sample_density() -> float
 
 <a id="unreal.GeometryScriptMeshPointSamplingOptions.sub_sample_density"></a>
 
-#### sub_sample_density
+#### sub\_sample\_density
 
 ```python
 @sub_sample_density.setter

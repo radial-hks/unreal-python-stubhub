@@ -14,7 +14,7 @@ Subsystem for exposing static mesh functionality to scripts
 
 <a id="unreal.StaticMeshEditorSubsystem.set_nanite_settings"></a>
 
-#### set_nanite_settings
+#### set\_nanite\_settings
 
 ```python
 def set_nanite_settings(static_mesh: StaticMesh,
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_lods_with_notification"></a>
 
-#### set_lods_with_notification
+#### set\_lods\_with\_notification
 
 ```python
 def set_lods_with_notification(static_mesh: StaticMesh,
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_lod_screen_sizes"></a>
 
-#### set_lod_screen_sizes
+#### set\_lod\_screen\_sizes
 
 ```python
 def set_lod_screen_sizes(static_mesh: StaticMesh,
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_lods"></a>
 
-#### set_lods
+#### set\_lods
 
 ```python
 def set_lods(static_mesh: StaticMesh,
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_lod_reduction_settings"></a>
 
-#### set_lod_reduction_settings
+#### set\_lod\_reduction\_settings
 
 ```python
 def set_lod_reduction_settings(
@@ -112,7 +112,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_lod_material_slot"></a>
 
-#### set_lod_material_slot
+#### set\_lod\_material\_slot
 
 ```python
 def set_lod_material_slot(static_mesh: StaticMesh, material_slot_index: int,
@@ -130,7 +130,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_lod_group"></a>
 
-#### set_lod_group
+#### set\_lod\_group
 
 ```python
 def set_lod_group(static_mesh: StaticMesh,
@@ -151,7 +151,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_lod_from_static_mesh"></a>
 
-#### set_lod_from_static_mesh
+#### set\_lod\_from\_static\_mesh
 
 ```python
 def set_lod_from_static_mesh(destination_static_mesh: StaticMesh,
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_lod_build_settings"></a>
 
-#### set_lod_build_settings
+#### set\_lod\_build\_settings
 
 ```python
 def set_lod_build_settings(static_mesh: StaticMesh, lod_index: int,
@@ -193,7 +193,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_generate_lightmap_uv"></a>
 
-#### set_generate_lightmap_uv
+#### set\_generate\_lightmap\_uv
 
 ```python
 def set_generate_lightmap_uv(static_mesh: StaticMesh,
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_convex_decomposition_collisions_with_notification"></a>
 
-#### set_convex_decomposition_collisions_with_notification
+#### set\_convex\_decomposition\_collisions\_with\_notification
 
 ```python
 def set_convex_decomposition_collisions_with_notification(
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_convex_decomposition_collisions"></a>
 
-#### set_convex_decomposition_collisions
+#### set\_convex\_decomposition\_collisions
 
 ```python
 def set_convex_decomposition_collisions(static_mesh: StaticMesh,
@@ -259,7 +259,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.set_allow_cpu_access"></a>
 
-#### set_allow_cpu_access
+#### set\_allow\_cpu\_access
 
 ```python
 def set_allow_cpu_access(static_mesh: StaticMesh,
@@ -275,7 +275,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.replace_mesh_components_meshes_on_actors"></a>
 
-#### replace_mesh_components_meshes_on_actors
+#### replace\_mesh\_components\_meshes\_on\_actors
 
 ```python
 def replace_mesh_components_meshes_on_actors(actors: Array[Actor],
@@ -293,7 +293,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.replace_mesh_components_meshes"></a>
 
-#### replace_mesh_components_meshes
+#### replace\_mesh\_components\_meshes
 
 ```python
 def replace_mesh_components_meshes(mesh_components: Array[StaticMeshComponent],
@@ -312,7 +312,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.replace_mesh_components_materials_on_actors"></a>
 
-#### replace_mesh_components_materials_on_actors
+#### replace\_mesh\_components\_materials\_on\_actors
 
 ```python
 def replace_mesh_components_materials_on_actors(
@@ -330,7 +330,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.replace_mesh_components_materials"></a>
 
-#### replace_mesh_components_materials
+#### replace\_mesh\_components\_materials
 
 ```python
 def replace_mesh_components_materials(
@@ -349,7 +349,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.remove_uv_channel"></a>
 
-#### remove_uv_channel
+#### remove\_uv\_channel
 
 ```python
 def remove_uv_channel(static_mesh: StaticMesh, lod_index: int,
@@ -369,7 +369,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.remove_lods"></a>
 
-#### remove_lods
+#### remove\_lods
 
 ```python
 def remove_lods(static_mesh: StaticMesh) -> bool
@@ -386,7 +386,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.remove_collisions_with_notification"></a>
 
-#### remove_collisions_with_notification
+#### remove\_collisions\_with\_notification
 
 ```python
 def remove_collisions_with_notification(static_mesh: StaticMesh,
@@ -406,7 +406,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.remove_collisions"></a>
 
-#### remove_collisions
+#### remove\_collisions
 
 ```python
 def remove_collisions(static_mesh: StaticMesh) -> bool
@@ -423,7 +423,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.reimport_all_custom_lo_ds"></a>
 
-#### reimport_all_custom_lo_ds
+#### reimport\_all\_custom\_lo\_ds
 
 ```python
 def reimport_all_custom_lo_ds(static_mesh: StaticMesh) -> bool
@@ -440,7 +440,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.merge_static_mesh_actors"></a>
 
-#### merge_static_mesh_actors
+#### merge\_static\_mesh\_actors
 
 ```python
 def merge_static_mesh_actors(
@@ -465,7 +465,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.join_static_mesh_actors"></a>
 
-#### join_static_mesh_actors
+#### join\_static\_mesh\_actors
 
 ```python
 def join_static_mesh_actors(
@@ -487,7 +487,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.is_section_collision_enabled"></a>
 
-#### is_section_collision_enabled
+#### is\_section\_collision\_enabled
 
 ```python
 def is_section_collision_enabled(static_mesh: StaticMesh, lod_index: int,
@@ -507,7 +507,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.insert_uv_channel"></a>
 
-#### insert_uv_channel
+#### insert\_uv\_channel
 
 ```python
 def insert_uv_channel(static_mesh: StaticMesh, lod_index: int,
@@ -527,7 +527,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.import_lod"></a>
 
-#### import_lod
+#### import\_lod
 
 ```python
 def import_lod(base_static_mesh: StaticMesh, lod_index: int,
@@ -547,7 +547,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.has_vertex_colors"></a>
 
-#### has_vertex_colors
+#### has\_vertex\_colors
 
 ```python
 def has_vertex_colors(static_mesh: StaticMesh) -> bool
@@ -564,7 +564,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.has_instance_vertex_colors"></a>
 
-#### has_instance_vertex_colors
+#### has\_instance\_vertex\_colors
 
 ```python
 def has_instance_vertex_colors(
@@ -582,7 +582,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_simple_collision_count"></a>
 
-#### get_simple_collision_count
+#### get\_simple\_collision\_count
 
 ```python
 def get_simple_collision_count(static_mesh: StaticMesh) -> int
@@ -599,7 +599,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_num_uv_channels"></a>
 
-#### get_num_uv_channels
+#### get\_num\_uv\_channels
 
 ```python
 def get_num_uv_channels(static_mesh: StaticMesh, lod_index: int) -> int
@@ -617,7 +617,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_number_verts"></a>
 
-#### get_number_verts
+#### get\_number\_verts
 
 ```python
 def get_number_verts(static_mesh: StaticMesh, lod_index: int) -> int
@@ -635,7 +635,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_number_materials"></a>
 
-#### get_number_materials
+#### get\_number\_materials
 
 ```python
 def get_number_materials(static_mesh: StaticMesh) -> int
@@ -652,7 +652,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_nanite_settings"></a>
 
-#### get_nanite_settings
+#### get\_nanite\_settings
 
 ```python
 def get_nanite_settings(static_mesh: StaticMesh) -> MeshNaniteSettings
@@ -669,7 +669,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_lod_screen_sizes"></a>
 
-#### get_lod_screen_sizes
+#### get\_lod\_screen\_sizes
 
 ```python
 def get_lod_screen_sizes(static_mesh: StaticMesh) -> Array[float]
@@ -686,7 +686,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_lod_reduction_settings"></a>
 
-#### get_lod_reduction_settings
+#### get\_lod\_reduction\_settings
 
 ```python
 def get_lod_reduction_settings(static_mesh: StaticMesh,
@@ -707,7 +707,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_lod_material_slot"></a>
 
-#### get_lod_material_slot
+#### get\_lod\_material\_slot
 
 ```python
 def get_lod_material_slot(static_mesh: StaticMesh, lod_index: int,
@@ -727,7 +727,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_lod_group"></a>
 
-#### get_lod_group
+#### get\_lod\_group
 
 ```python
 def get_lod_group(static_mesh: StaticMesh) -> Name
@@ -744,7 +744,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_lod_count"></a>
 
-#### get_lod_count
+#### get\_lod\_count
 
 ```python
 def get_lod_count(static_mesh: StaticMesh) -> int
@@ -761,7 +761,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_lod_build_settings"></a>
 
-#### get_lod_build_settings
+#### get\_lod\_build\_settings
 
 ```python
 def get_lod_build_settings(static_mesh: StaticMesh,
@@ -782,7 +782,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_convex_collision_count"></a>
 
-#### get_convex_collision_count
+#### get\_convex\_collision\_count
 
 ```python
 def get_convex_collision_count(static_mesh: StaticMesh) -> int
@@ -799,7 +799,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.get_collision_complexity"></a>
 
-#### get_collision_complexity
+#### get\_collision\_complexity
 
 ```python
 def get_collision_complexity(static_mesh: StaticMesh) -> CollisionTraceFlag
@@ -816,7 +816,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.generate_planar_uv_channel"></a>
 
-#### generate_planar_uv_channel
+#### generate\_planar\_uv\_channel
 
 ```python
 def generate_planar_uv_channel(static_mesh: StaticMesh, lod_index: int,
@@ -840,7 +840,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.generate_cylindrical_uv_channel"></a>
 
-#### generate_cylindrical_uv_channel
+#### generate\_cylindrical\_uv\_channel
 
 ```python
 def generate_cylindrical_uv_channel(static_mesh: StaticMesh, lod_index: int,
@@ -865,7 +865,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.generate_box_uv_channel"></a>
 
-#### generate_box_uv_channel
+#### generate\_box\_uv\_channel
 
 ```python
 def generate_box_uv_channel(static_mesh: StaticMesh, lod_index: int,
@@ -889,7 +889,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.enable_section_collision"></a>
 
-#### enable_section_collision
+#### enable\_section\_collision
 
 ```python
 def enable_section_collision(static_mesh: StaticMesh, collision_enabled: bool,
@@ -907,7 +907,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.enable_section_cast_shadow"></a>
 
-#### enable_section_cast_shadow
+#### enable\_section\_cast\_shadow
 
 ```python
 def enable_section_cast_shadow(static_mesh: StaticMesh, cast_shadow: bool,
@@ -925,7 +925,7 @@ Args:
 
 <a id="unreal.StaticMeshEditorSubsystem.create_proxy_mesh_actor"></a>
 
-#### create_proxy_mesh_actor
+#### create\_proxy\_mesh\_actor
 
 ```python
 def create_proxy_mesh_actor(
@@ -948,7 +948,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.bulk_set_convex_decomposition_collisions_with_notification"></a>
 
-#### bulk_set_convex_decomposition_collisions_with_notification
+#### bulk\_set\_convex\_decomposition\_collisions\_with\_notification
 
 ```python
 def bulk_set_convex_decomposition_collisions_with_notification(
@@ -973,7 +973,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.bulk_set_convex_decomposition_collisions"></a>
 
-#### bulk_set_convex_decomposition_collisions
+#### bulk\_set\_convex\_decomposition\_collisions
 
 ```python
 def bulk_set_convex_decomposition_collisions(static_meshes: Array[StaticMesh],
@@ -996,7 +996,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.add_uv_channel"></a>
 
-#### add_uv_channel
+#### add\_uv\_channel
 
 ```python
 def add_uv_channel(static_mesh: StaticMesh, lod_index: int) -> bool
@@ -1014,7 +1014,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.add_simple_collisions_with_notification"></a>
 
-#### add_simple_collisions_with_notification
+#### add\_simple\_collisions\_with\_notification
 
 ```python
 def add_simple_collisions_with_notification(
@@ -1036,7 +1036,7 @@ Returns:
 
 <a id="unreal.StaticMeshEditorSubsystem.add_simple_collisions"></a>
 
-#### add_simple_collisions
+#### add\_simple\_collisions
 
 ```python
 def add_simple_collisions(static_mesh: StaticMesh,

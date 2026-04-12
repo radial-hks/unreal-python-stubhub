@@ -57,7 +57,7 @@ A geometry layer within the stereo rendered viewport.
 
 <a id="unreal.StereoLayerComponent.live_texture"></a>
 
-#### live_texture
+#### live\_texture
 
 ```python
 @property
@@ -68,7 +68,7 @@ def live_texture() -> bool
 
 <a id="unreal.StereoLayerComponent.live_texture"></a>
 
-#### live_texture
+#### live\_texture
 
 ```python
 @live_texture.setter
@@ -77,7 +77,7 @@ def live_texture(value: bool) -> None
 
 <a id="unreal.StereoLayerComponent.supports_depth"></a>
 
-#### supports_depth
+#### supports\_depth
 
 ```python
 @property
@@ -88,7 +88,7 @@ def supports_depth() -> bool
 
 <a id="unreal.StereoLayerComponent.supports_depth"></a>
 
-#### supports_depth
+#### supports\_depth
 
 ```python
 @supports_depth.setter
@@ -97,7 +97,7 @@ def supports_depth(value: bool) -> None
 
 <a id="unreal.StereoLayerComponent.no_alpha_channel"></a>
 
-#### no_alpha_channel
+#### no\_alpha\_channel
 
 ```python
 @property
@@ -108,7 +108,7 @@ def no_alpha_channel() -> bool
 
 <a id="unreal.StereoLayerComponent.no_alpha_channel"></a>
 
-#### no_alpha_channel
+#### no\_alpha\_channel
 
 ```python
 @no_alpha_channel.setter
@@ -128,7 +128,7 @@ def texture() -> Texture
 
 <a id="unreal.StereoLayerComponent.left_texture"></a>
 
-#### left_texture
+#### left\_texture
 
 ```python
 @property
@@ -139,7 +139,7 @@ def left_texture() -> Texture
 
 <a id="unreal.StereoLayerComponent.quad_preserve_texture_ratio"></a>
 
-#### quad_preserve_texture_ratio
+#### quad\_preserve\_texture\_ratio
 
 ```python
 @property
@@ -150,7 +150,7 @@ def quad_preserve_texture_ratio() -> bool
 
 <a id="unreal.StereoLayerComponent.quad_preserve_texture_ratio"></a>
 
-#### quad_preserve_texture_ratio
+#### quad\_preserve\_texture\_ratio
 
 ```python
 @quad_preserve_texture_ratio.setter
@@ -159,7 +159,7 @@ def quad_preserve_texture_ratio(value: bool) -> None
 
 <a id="unreal.StereoLayerComponent.additional_flags"></a>
 
-#### additional_flags
+#### additional\_flags
 
 ```python
 @property
@@ -170,7 +170,7 @@ def additional_flags() -> Array[Name]
 
 <a id="unreal.StereoLayerComponent.quad_size"></a>
 
-#### quad_size
+#### quad\_size
 
 ```python
 @property
@@ -181,7 +181,7 @@ def quad_size() -> Vector2D
 
 <a id="unreal.StereoLayerComponent.uv_rect"></a>
 
-#### uv_rect
+#### uv\_rect
 
 ```python
 @property
@@ -192,7 +192,7 @@ def uv_rect() -> Box2D
 
 <a id="unreal.StereoLayerComponent.stereo_layer_type"></a>
 
-#### stereo_layer_type
+#### stereo\_layer\_type
 
 ```python
 @property
@@ -225,7 +225,7 @@ def priority() -> int
 
 <a id="unreal.StereoLayerComponent.set_uv_rect"></a>
 
-#### set_uv_rect
+#### set\_uv\_rect
 
 ```python
 def set_uv_rect(uv_rect: Box2D) -> None
@@ -239,7 +239,7 @@ Args:
 
 <a id="unreal.StereoLayerComponent.set_texture"></a>
 
-#### set_texture
+#### set\_texture
 
 ```python
 def set_texture(texture: Texture) -> None
@@ -255,7 +255,7 @@ Args:
 
 <a id="unreal.StereoLayerComponent.set_quad_size"></a>
 
-#### set_quad_size
+#### set\_quad\_size
 
 ```python
 def set_quad_size(quad_size: Vector2D) -> None
@@ -269,7 +269,7 @@ Args:
 
 <a id="unreal.StereoLayerComponent.set_priority"></a>
 
-#### set_priority
+#### set\_priority
 
 ```python
 def set_priority(priority: int) -> None
@@ -283,7 +283,7 @@ Args:
 
 <a id="unreal.StereoLayerComponent.set_left_texture"></a>
 
-#### set_left_texture
+#### set\_left\_texture
 
 ```python
 def set_left_texture(texture: Texture) -> None
@@ -297,7 +297,7 @@ Args:
 
 <a id="unreal.StereoLayerComponent.set_equirect_props"></a>
 
-#### set_equirect_props
+#### set\_equirect\_props
 
 ```python
 def set_equirect_props(equirect_props: EquirectProps) -> None
@@ -312,7 +312,7 @@ Args:
 
 <a id="unreal.StereoLayerComponent.mark_texture_for_update"></a>
 
-#### mark_texture_for_update
+#### mark\_texture\_for\_update
 
 ```python
 def mark_texture_for_update() -> None
@@ -323,7 +323,7 @@ Manually mark the stereo layer texture for updating
 
 <a id="unreal.StereoLayerComponent.get_uv_rect"></a>
 
-#### get_uv_rect
+#### get\_uv\_rect
 
 ```python
 def get_uv_rect() -> Box2D
@@ -337,7 +337,7 @@ Returns:
 
 <a id="unreal.StereoLayerComponent.get_texture"></a>
 
-#### get_texture
+#### get\_texture
 
 ```python
 def get_texture() -> Texture
@@ -351,7 +351,7 @@ Returns:
 
 <a id="unreal.StereoLayerComponent.get_quad_size"></a>
 
-#### get_quad_size
+#### get\_quad\_size
 
 ```python
 def get_quad_size() -> Vector2D
@@ -365,7 +365,7 @@ Returns:
 
 <a id="unreal.StereoLayerComponent.get_priority"></a>
 
-#### get_priority
+#### get\_priority
 
 ```python
 def get_priority() -> int
@@ -379,7 +379,7 @@ Returns:
 
 <a id="unreal.StereoLayerComponent.get_left_texture"></a>
 
-#### get_left_texture
+#### get\_left\_texture
 
 ```python
 def get_left_texture() -> Texture

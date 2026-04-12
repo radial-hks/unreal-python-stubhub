@@ -143,7 +143,7 @@ see: UControlPointMeshComponent
 
 <a id="unreal.ControlPointMeshActor.control_point_mesh_component"></a>
 
-#### control_point_mesh_component
+#### control\_point\_mesh\_component
 
 ```python
 @property

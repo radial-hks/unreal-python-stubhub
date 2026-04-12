@@ -14,7 +14,7 @@ Subsystem for exposing editor functionality to scripts
 
 <a id="unreal.UnrealEditorSubsystem.set_level_viewport_camera_info"></a>
 
-#### set_level_viewport_camera_info
+#### set\_level\_viewport\_camera\_info
 
 ```python
 def set_level_viewport_camera_info(camera_location: Vector,
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.UnrealEditorSubsystem.get_level_viewport_camera_info"></a>
 
-#### get_level_viewport_camera_info
+#### get\_level\_viewport\_camera\_info
 
 ```python
 def get_level_viewport_camera_info() -> Optional[Tuple[Vector, Rotator]]
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.UnrealEditorSubsystem.get_game_world"></a>
 
-#### get_game_world
+#### get\_game\_world
 
 ```python
 def get_game_world() -> World
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.UnrealEditorSubsystem.get_editor_world"></a>
 
-#### get_editor_world
+#### get\_editor\_world
 
 ```python
 def get_editor_world() -> World

@@ -40,7 +40,7 @@ Remove superfluous control points along the spline, such as those that are co-lo
 
 <a id="unreal.PCGCleanSplineSettings.fuse_colocated_control_points"></a>
 
-#### fuse_colocated_control_points
+#### fuse\_colocated\_control\_points
 
 ```python
 @property
@@ -51,7 +51,7 @@ def fuse_colocated_control_points() -> bool
 
 <a id="unreal.PCGCleanSplineSettings.fuse_colocated_control_points"></a>
 
-#### fuse_colocated_control_points
+#### fuse\_colocated\_control\_points
 
 ```python
 @fuse_colocated_control_points.setter
@@ -60,7 +60,7 @@ def fuse_colocated_control_points(value: bool) -> None
 
 <a id="unreal.PCGCleanSplineSettings.colocation_distance_threshold"></a>
 
-#### colocation_distance_threshold
+#### colocation\_distance\_threshold
 
 ```python
 @property
@@ -71,7 +71,7 @@ def colocation_distance_threshold() -> float
 
 <a id="unreal.PCGCleanSplineSettings.colocation_distance_threshold"></a>
 
-#### colocation_distance_threshold
+#### colocation\_distance\_threshold
 
 ```python
 @colocation_distance_threshold.setter
@@ -80,7 +80,7 @@ def colocation_distance_threshold(value: float) -> None
 
 <a id="unreal.PCGCleanSplineSettings.use_spline_local_space"></a>
 
-#### use_spline_local_space
+#### use\_spline\_local\_space
 
 ```python
 @property
@@ -91,7 +91,7 @@ def use_spline_local_space() -> bool
 
 <a id="unreal.PCGCleanSplineSettings.use_spline_local_space"></a>
 
-#### use_spline_local_space
+#### use\_spline\_local\_space
 
 ```python
 @use_spline_local_space.setter
@@ -100,7 +100,7 @@ def use_spline_local_space(value: bool) -> None
 
 <a id="unreal.PCGCleanSplineSettings.fuse_mode"></a>
 
-#### fuse_mode
+#### fuse\_mode
 
 ```python
 @property
@@ -111,7 +111,7 @@ def fuse_mode() -> PCGControlPointFuseMode
 
 <a id="unreal.PCGCleanSplineSettings.fuse_mode"></a>
 
-#### fuse_mode
+#### fuse\_mode
 
 ```python
 @fuse_mode.setter
@@ -120,7 +120,7 @@ def fuse_mode(value: PCGControlPointFuseMode) -> None
 
 <a id="unreal.PCGCleanSplineSettings.remove_collinear_control_points"></a>
 
-#### remove_collinear_control_points
+#### remove\_collinear\_control\_points
 
 ```python
 @property
@@ -131,7 +131,7 @@ def remove_collinear_control_points() -> bool
 
 <a id="unreal.PCGCleanSplineSettings.remove_collinear_control_points"></a>
 
-#### remove_collinear_control_points
+#### remove\_collinear\_control\_points
 
 ```python
 @remove_collinear_control_points.setter
@@ -140,7 +140,7 @@ def remove_collinear_control_points(value: bool) -> None
 
 <a id="unreal.PCGCleanSplineSettings.collinear_angle_threshold"></a>
 
-#### collinear_angle_threshold
+#### collinear\_angle\_threshold
 
 ```python
 @property
@@ -151,7 +151,7 @@ def collinear_angle_threshold() -> float
 
 <a id="unreal.PCGCleanSplineSettings.collinear_angle_threshold"></a>
 
-#### collinear_angle_threshold
+#### collinear\_angle\_threshold
 
 ```python
 @collinear_angle_threshold.setter
@@ -160,7 +160,7 @@ def collinear_angle_threshold(value: float) -> None
 
 <a id="unreal.PCGCleanSplineSettings.use_radians"></a>
 
-#### use_radians
+#### use\_radians
 
 ```python
 @property
@@ -171,7 +171,7 @@ def use_radians() -> bool
 
 <a id="unreal.PCGCleanSplineSettings.use_radians"></a>
 
-#### use_radians
+#### use\_radians
 
 ```python
 @use_radians.setter

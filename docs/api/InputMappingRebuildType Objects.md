@@ -26,7 +26,7 @@ EInput Mapping Rebuild Type
 
 <a id="unreal.InputMappingRebuildType.REBUILD_WITH_FLUSH"></a>
 
-#### REBUILD_WITH_FLUSH
+#### REBUILD\_WITH\_FLUSH
 
 2: If you have made changes to the triggers/modifiers associated with a UInputAction that was previously mapped a flush is required to reset the tracked data for that action.
 

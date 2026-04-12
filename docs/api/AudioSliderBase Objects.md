@@ -74,7 +74,7 @@ def orientation() -> Orientation
 
 <a id="unreal.AudioSliderBase.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @property
@@ -85,7 +85,7 @@ def on_value_changed() -> OnFloatValueChangedEvent
 
 <a id="unreal.AudioSliderBase.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @on_value_changed.setter
@@ -94,7 +94,7 @@ def on_value_changed(value: OnFloatValueChangedEvent) -> None
 
 <a id="unreal.AudioSliderBase.set_widget_background_color"></a>
 
-#### set_widget_background_color
+#### set\_widget\_background\_color
 
 ```python
 def set_widget_background_color(value: LinearColor) -> None
@@ -108,7 +108,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_value_text_read_only"></a>
 
-#### set_value_text_read_only
+#### set\_value\_text\_read\_only
 
 ```python
 def set_value_text_read_only(is_read_only: bool) -> None
@@ -122,7 +122,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_units_text_read_only"></a>
 
-#### set_units_text_read_only
+#### set\_units\_text\_read\_only
 
 ```python
 def set_units_text_read_only(is_read_only: bool) -> None
@@ -136,7 +136,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_units_text"></a>
 
-#### set_units_text
+#### set\_units\_text
 
 ```python
 def set_units_text(units: Text) -> None
@@ -150,7 +150,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_text_label_background_color"></a>
 
-#### set_text_label_background_color
+#### set\_text\_label\_background\_color
 
 ```python
 def set_text_label_background_color(color: SlateColor) -> None
@@ -164,7 +164,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_slider_thumb_color"></a>
 
-#### set_slider_thumb_color
+#### set\_slider\_thumb\_color
 
 ```python
 def set_slider_thumb_color(value: LinearColor) -> None
@@ -178,7 +178,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_slider_bar_color"></a>
 
-#### set_slider_bar_color
+#### set\_slider\_bar\_color
 
 ```python
 def set_slider_bar_color(value: LinearColor) -> None
@@ -192,7 +192,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_slider_background_color"></a>
 
-#### set_slider_background_color
+#### set\_slider\_background\_color
 
 ```python
 def set_slider_background_color(value: LinearColor) -> None
@@ -206,7 +206,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_show_units_text"></a>
 
-#### set_show_units_text
+#### set\_show\_units\_text
 
 ```python
 def set_show_units_text(show_units_text: bool) -> None
@@ -220,7 +220,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.set_show_label_only_on_hover"></a>
 
-#### set_show_label_only_on_hover
+#### set\_show\_label\_only\_on\_hover
 
 ```python
 def set_show_label_only_on_hover(show_label_only_on_hover: bool) -> None
@@ -234,7 +234,7 @@ Args:
 
 <a id="unreal.AudioSliderBase.get_slider_value"></a>
 
-#### get_slider_value
+#### get\_slider\_value
 
 ```python
 def get_slider_value(output_value: float) -> float
@@ -251,7 +251,7 @@ Returns:
 
 <a id="unreal.AudioSliderBase.get_output_value"></a>
 
-#### get_output_value
+#### get\_output\_value
 
 ```python
 def get_output_value(slider_value: float) -> float
@@ -268,7 +268,7 @@ Returns:
 
 <a id="unreal.AudioSliderBase.get_lin_value"></a>
 
-#### get_lin_value
+#### get\_lin\_value
 
 ```python
 def get_lin_value(output_value: float) -> float

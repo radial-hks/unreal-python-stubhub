@@ -23,7 +23,7 @@ Abc Compression Settings
 
 <a id="unreal.AbcCompressionSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -38,7 +38,7 @@ def __init__(
 
 <a id="unreal.AbcCompressionSettings.merge_meshes"></a>
 
-#### merge_meshes
+#### merge\_meshes
 
 ```python
 @property
@@ -49,7 +49,7 @@ def merge_meshes() -> bool
 
 <a id="unreal.AbcCompressionSettings.merge_meshes"></a>
 
-#### merge_meshes
+#### merge\_meshes
 
 ```python
 @merge_meshes.setter
@@ -58,7 +58,7 @@ def merge_meshes(value: bool) -> None
 
 <a id="unreal.AbcCompressionSettings.bake_matrix_animation"></a>
 
-#### bake_matrix_animation
+#### bake\_matrix\_animation
 
 ```python
 @property
@@ -69,7 +69,7 @@ def bake_matrix_animation() -> bool
 
 <a id="unreal.AbcCompressionSettings.bake_matrix_animation"></a>
 
-#### bake_matrix_animation
+#### bake\_matrix\_animation
 
 ```python
 @bake_matrix_animation.setter
@@ -78,7 +78,7 @@ def bake_matrix_animation(value: bool) -> None
 
 <a id="unreal.AbcCompressionSettings.base_calculation_type"></a>
 
-#### base_calculation_type
+#### base\_calculation\_type
 
 ```python
 @property
@@ -89,7 +89,7 @@ def base_calculation_type() -> BaseCalculationType
 
 <a id="unreal.AbcCompressionSettings.base_calculation_type"></a>
 
-#### base_calculation_type
+#### base\_calculation\_type
 
 ```python
 @base_calculation_type.setter
@@ -98,7 +98,7 @@ def base_calculation_type(value: BaseCalculationType) -> None
 
 <a id="unreal.AbcCompressionSettings.percentage_of_total_bases"></a>
 
-#### percentage_of_total_bases
+#### percentage\_of\_total\_bases
 
 ```python
 @property
@@ -109,7 +109,7 @@ def percentage_of_total_bases() -> float
 
 <a id="unreal.AbcCompressionSettings.percentage_of_total_bases"></a>
 
-#### percentage_of_total_bases
+#### percentage\_of\_total\_bases
 
 ```python
 @percentage_of_total_bases.setter
@@ -118,7 +118,7 @@ def percentage_of_total_bases(value: float) -> None
 
 <a id="unreal.AbcCompressionSettings.max_number_of_bases"></a>
 
-#### max_number_of_bases
+#### max\_number\_of\_bases
 
 ```python
 @property
@@ -129,7 +129,7 @@ def max_number_of_bases() -> int
 
 <a id="unreal.AbcCompressionSettings.max_number_of_bases"></a>
 
-#### max_number_of_bases
+#### max\_number\_of\_bases
 
 ```python
 @max_number_of_bases.setter
@@ -138,7 +138,7 @@ def max_number_of_bases(value: int) -> None
 
 <a id="unreal.AbcCompressionSettings.minimum_number_of_vertex_influence_percentage"></a>
 
-#### minimum_number_of_vertex_influence_percentage
+#### minimum\_number\_of\_vertex\_influence\_percentage
 
 ```python
 @property
@@ -149,7 +149,7 @@ def minimum_number_of_vertex_influence_percentage() -> float
 
 <a id="unreal.AbcCompressionSettings.minimum_number_of_vertex_influence_percentage"></a>
 
-#### minimum_number_of_vertex_influence_percentage
+#### minimum\_number\_of\_vertex\_influence\_percentage
 
 ```python
 @minimum_number_of_vertex_influence_percentage.setter

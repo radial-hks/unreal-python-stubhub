@@ -19,7 +19,7 @@ Rig VMByte Code Statistics
 
 <a id="unreal.RigVMByteCodeStatistics.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(instruction_count: int = 0, data_bytes: int = 0) -> None
@@ -27,7 +27,7 @@ def __init__(instruction_count: int = 0, data_bytes: int = 0) -> None
 
 <a id="unreal.RigVMByteCodeStatistics.instruction_count"></a>
 
-#### instruction_count
+#### instruction\_count
 
 ```python
 @property
@@ -38,7 +38,7 @@ def instruction_count() -> int
 
 <a id="unreal.RigVMByteCodeStatistics.data_bytes"></a>
 
-#### data_bytes
+#### data\_bytes
 
 ```python
 @property

@@ -14,13 +14,13 @@ Enum that describes the type of mesh to bind to
 
 <a id="unreal.GroomBindingMeshType.SKELETAL_MESH"></a>
 
-#### SKELETAL_MESH
+#### SKELETAL\_MESH
 
 0
 
 <a id="unreal.GroomBindingMeshType.GEOMETRY_CACHE"></a>
 
-#### GEOMETRY_CACHE
+#### GEOMETRY\_CACHE
 
 1
 

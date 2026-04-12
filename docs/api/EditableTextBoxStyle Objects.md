@@ -29,7 +29,7 @@ Represents the appearance of an SEditableTextBox
 
 <a id="unreal.EditableTextBoxStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -213,7 +213,7 @@ def __init__(
 
 <a id="unreal.EditableTextBoxStyle.background_image_normal"></a>
 
-#### background_image_normal
+#### background\_image\_normal
 
 ```python
 @property
@@ -224,7 +224,7 @@ def background_image_normal() -> SlateBrush
 
 <a id="unreal.EditableTextBoxStyle.background_image_normal"></a>
 
-#### background_image_normal
+#### background\_image\_normal
 
 ```python
 @background_image_normal.setter
@@ -233,7 +233,7 @@ def background_image_normal(value: SlateBrush) -> None
 
 <a id="unreal.EditableTextBoxStyle.background_image_hovered"></a>
 
-#### background_image_hovered
+#### background\_image\_hovered
 
 ```python
 @property
@@ -244,7 +244,7 @@ def background_image_hovered() -> SlateBrush
 
 <a id="unreal.EditableTextBoxStyle.background_image_hovered"></a>
 
-#### background_image_hovered
+#### background\_image\_hovered
 
 ```python
 @background_image_hovered.setter
@@ -253,7 +253,7 @@ def background_image_hovered(value: SlateBrush) -> None
 
 <a id="unreal.EditableTextBoxStyle.background_image_focused"></a>
 
-#### background_image_focused
+#### background\_image\_focused
 
 ```python
 @property
@@ -264,7 +264,7 @@ def background_image_focused() -> SlateBrush
 
 <a id="unreal.EditableTextBoxStyle.background_image_focused"></a>
 
-#### background_image_focused
+#### background\_image\_focused
 
 ```python
 @background_image_focused.setter
@@ -273,7 +273,7 @@ def background_image_focused(value: SlateBrush) -> None
 
 <a id="unreal.EditableTextBoxStyle.background_image_read_only"></a>
 
-#### background_image_read_only
+#### background\_image\_read\_only
 
 ```python
 @property
@@ -284,7 +284,7 @@ def background_image_read_only() -> SlateBrush
 
 <a id="unreal.EditableTextBoxStyle.background_image_read_only"></a>
 
-#### background_image_read_only
+#### background\_image\_read\_only
 
 ```python
 @background_image_read_only.setter
@@ -313,7 +313,7 @@ def padding(value: Margin) -> None
 
 <a id="unreal.EditableTextBoxStyle.text_style"></a>
 
-#### text_style
+#### text\_style
 
 ```python
 @property
@@ -324,7 +324,7 @@ def text_style() -> TextBlockStyle
 
 <a id="unreal.EditableTextBoxStyle.text_style"></a>
 
-#### text_style
+#### text\_style
 
 ```python
 @text_style.setter
@@ -333,7 +333,7 @@ def text_style(value: TextBlockStyle) -> None
 
 <a id="unreal.EditableTextBoxStyle.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @property
@@ -344,7 +344,7 @@ def foreground_color() -> SlateColor
 
 <a id="unreal.EditableTextBoxStyle.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @foreground_color.setter
@@ -353,7 +353,7 @@ def foreground_color(value: SlateColor) -> None
 
 <a id="unreal.EditableTextBoxStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @property
@@ -364,7 +364,7 @@ def background_color() -> SlateColor
 
 <a id="unreal.EditableTextBoxStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @background_color.setter
@@ -373,7 +373,7 @@ def background_color(value: SlateColor) -> None
 
 <a id="unreal.EditableTextBoxStyle.read_only_foreground_color"></a>
 
-#### read_only_foreground_color
+#### read\_only\_foreground\_color
 
 ```python
 @property
@@ -384,7 +384,7 @@ def read_only_foreground_color() -> SlateColor
 
 <a id="unreal.EditableTextBoxStyle.read_only_foreground_color"></a>
 
-#### read_only_foreground_color
+#### read\_only\_foreground\_color
 
 ```python
 @read_only_foreground_color.setter
@@ -393,7 +393,7 @@ def read_only_foreground_color(value: SlateColor) -> None
 
 <a id="unreal.EditableTextBoxStyle.focused_foreground_color"></a>
 
-#### focused_foreground_color
+#### focused\_foreground\_color
 
 ```python
 @property
@@ -404,7 +404,7 @@ def focused_foreground_color() -> SlateColor
 
 <a id="unreal.EditableTextBoxStyle.focused_foreground_color"></a>
 
-#### focused_foreground_color
+#### focused\_foreground\_color
 
 ```python
 @focused_foreground_color.setter
@@ -413,7 +413,7 @@ def focused_foreground_color(value: SlateColor) -> None
 
 <a id="unreal.EditableTextBoxStyle.h_scroll_bar_padding"></a>
 
-#### h_scroll_bar_padding
+#### h\_scroll\_bar\_padding
 
 ```python
 @property
@@ -424,7 +424,7 @@ def h_scroll_bar_padding() -> Margin
 
 <a id="unreal.EditableTextBoxStyle.h_scroll_bar_padding"></a>
 
-#### h_scroll_bar_padding
+#### h\_scroll\_bar\_padding
 
 ```python
 @h_scroll_bar_padding.setter
@@ -433,7 +433,7 @@ def h_scroll_bar_padding(value: Margin) -> None
 
 <a id="unreal.EditableTextBoxStyle.v_scroll_bar_padding"></a>
 
-#### v_scroll_bar_padding
+#### v\_scroll\_bar\_padding
 
 ```python
 @property
@@ -444,7 +444,7 @@ def v_scroll_bar_padding() -> Margin
 
 <a id="unreal.EditableTextBoxStyle.v_scroll_bar_padding"></a>
 
-#### v_scroll_bar_padding
+#### v\_scroll\_bar\_padding
 
 ```python
 @v_scroll_bar_padding.setter
@@ -453,7 +453,7 @@ def v_scroll_bar_padding(value: Margin) -> None
 
 <a id="unreal.EditableTextBoxStyle.scroll_bar_style"></a>
 
-#### scroll_bar_style
+#### scroll\_bar\_style
 
 ```python
 @property
@@ -464,7 +464,7 @@ def scroll_bar_style() -> ScrollBarStyle
 
 <a id="unreal.EditableTextBoxStyle.scroll_bar_style"></a>
 
-#### scroll_bar_style
+#### scroll\_bar\_style
 
 ```python
 @scroll_bar_style.setter

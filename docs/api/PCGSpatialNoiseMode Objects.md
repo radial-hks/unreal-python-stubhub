@@ -32,13 +32,13 @@ PCGSpatial Noise Mode
 
 <a id="unreal.PCGSpatialNoiseMode.FRACTIONAL_BROWNIAN2D"></a>
 
-#### FRACTIONAL_BROWNIAN2D
+#### FRACTIONAL\_BROWNIAN2D
 
 3: Based on fractional brownian motion.
 
 <a id="unreal.PCGSpatialNoiseMode.EDGE_MASK2D"></a>
 
-#### EDGE_MASK2D
+#### EDGE\_MASK2D
 
 4: Used to create masks to blend out edges.
 

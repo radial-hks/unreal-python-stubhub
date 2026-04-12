@@ -155,7 +155,7 @@ def sequence() -> LevelSequenceActor
 
 <a id="unreal.LevelSequenceMediaController.media_component"></a>
 
-#### media_component
+#### media\_component
 
 ```python
 @property
@@ -166,7 +166,7 @@ def media_component() -> MediaComponent
 
 <a id="unreal.LevelSequenceMediaController.server_start_time_seconds"></a>
 
-#### server_start_time_seconds
+#### server\_start\_time\_seconds
 
 ```python
 @property
@@ -177,7 +177,7 @@ def server_start_time_seconds() -> float
 
 <a id="unreal.LevelSequenceMediaController.synchronize_to_server"></a>
 
-#### synchronize_to_server
+#### synchronize\_to\_server
 
 ```python
 def synchronize_to_server(desync_threshold_seconds: float = 2.000000) -> None
@@ -202,7 +202,7 @@ Play
 
 <a id="unreal.LevelSequenceMediaController.get_sequence"></a>
 
-#### get_sequence
+#### get\_sequence
 
 ```python
 def get_sequence() -> LevelSequenceActor
@@ -216,7 +216,7 @@ Returns:
 
 <a id="unreal.LevelSequenceMediaController.get_media_component"></a>
 
-#### get_media_component
+#### get\_media\_component
 
 ```python
 def get_media_component() -> MediaComponent

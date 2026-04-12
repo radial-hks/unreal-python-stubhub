@@ -149,7 +149,7 @@ see: UStaticMesh
 
 <a id="unreal.StaticMeshActor.static_mesh_component"></a>
 
-#### static_mesh_component
+#### static\_mesh\_component
 
 ```python
 @property
@@ -160,7 +160,7 @@ def static_mesh_component() -> StaticMeshComponent
 
 <a id="unreal.StaticMeshActor.set_mobility"></a>
 
-#### set_mobility
+#### set\_mobility
 
 ```python
 def set_mobility(mobility: ComponentMobility) -> None

@@ -14,13 +14,13 @@ ENiagara Device Profile Redirect Mode
 
 <a id="unreal.NiagaraDeviceProfileRedirectMode.C_VAR"></a>
 
-#### C_VAR
+#### C\_VAR
 
 0: Replace Device Profile Reference with a CVar Condition.
 
 <a id="unreal.NiagaraDeviceProfileRedirectMode.DEVICE_PROFILE"></a>
 
-#### DEVICE_PROFILE
+#### DEVICE\_PROFILE
 
 1: Replace Device Profile Reference with a different Device Profile.
 

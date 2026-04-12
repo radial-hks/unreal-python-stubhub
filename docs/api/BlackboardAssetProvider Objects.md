@@ -13,7 +13,7 @@ Blackboard Asset Provider
 
 <a id="unreal.BlackboardAssetProvider.get_blackboard_asset"></a>
 
-#### get_blackboard_asset
+#### get\_blackboard\_asset
 
 ```python
 def get_blackboard_asset() -> BlackboardData

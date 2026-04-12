@@ -14,43 +14,43 @@ EDatasmith Import Lightmap Max
 
 <a id="unreal.DatasmithImportLightmapMax.LIGHTMAP_64"></a>
 
-#### LIGHTMAP_64
+#### LIGHTMAP\_64
 
 0
 
 <a id="unreal.DatasmithImportLightmapMax.LIGHTMAP_128"></a>
 
-#### LIGHTMAP_128
+#### LIGHTMAP\_128
 
 1
 
 <a id="unreal.DatasmithImportLightmapMax.LIGHTMAP_256"></a>
 
-#### LIGHTMAP_256
+#### LIGHTMAP\_256
 
 2
 
 <a id="unreal.DatasmithImportLightmapMax.LIGHTMAP_512"></a>
 
-#### LIGHTMAP_512
+#### LIGHTMAP\_512
 
 3
 
 <a id="unreal.DatasmithImportLightmapMax.LIGHTMAP_1024"></a>
 
-#### LIGHTMAP_1024
+#### LIGHTMAP\_1024
 
 4
 
 <a id="unreal.DatasmithImportLightmapMax.LIGHTMAP_2048"></a>
 
-#### LIGHTMAP_2048
+#### LIGHTMAP\_2048
 
 5
 
 <a id="unreal.DatasmithImportLightmapMax.LIGHTMAP_4096"></a>
 
-#### LIGHTMAP_4096
+#### LIGHTMAP\_4096
 
 6
 

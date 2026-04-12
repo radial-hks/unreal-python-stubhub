@@ -247,7 +247,7 @@ UPoseableMeshComponent that allows bone transforms to be driven by blueprint.
 
 <a id="unreal.PoseableMeshComponent.set_bone_transform_by_name"></a>
 
-#### set_bone_transform_by_name
+#### set\_bone\_transform\_by\_name
 
 ```python
 def set_bone_transform_by_name(bone_name: Name, transform: Transform,
@@ -264,7 +264,7 @@ Args:
 
 <a id="unreal.PoseableMeshComponent.set_bone_scale_by_name"></a>
 
-#### set_bone_scale_by_name
+#### set\_bone\_scale\_by\_name
 
 ```python
 def set_bone_scale_by_name(bone_name: Name, scale3d: Vector,
@@ -281,7 +281,7 @@ Args:
 
 <a id="unreal.PoseableMeshComponent.set_bone_rotation_by_name"></a>
 
-#### set_bone_rotation_by_name
+#### set\_bone\_rotation\_by\_name
 
 ```python
 def set_bone_rotation_by_name(bone_name: Name, rotation: Rotator,
@@ -298,7 +298,7 @@ Args:
 
 <a id="unreal.PoseableMeshComponent.set_bone_location_by_name"></a>
 
-#### set_bone_location_by_name
+#### set\_bone\_location\_by\_name
 
 ```python
 def set_bone_location_by_name(bone_name: Name, location: Vector,
@@ -315,7 +315,7 @@ Args:
 
 <a id="unreal.PoseableMeshComponent.reset_bone_transform_by_name"></a>
 
-#### reset_bone_transform_by_name
+#### reset\_bone\_transform\_by\_name
 
 ```python
 def reset_bone_transform_by_name(bone_name: Name) -> None
@@ -329,7 +329,7 @@ Args:
 
 <a id="unreal.PoseableMeshComponent.get_bone_transform_by_name"></a>
 
-#### get_bone_transform_by_name
+#### get\_bone\_transform\_by\_name
 
 ```python
 def get_bone_transform_by_name(bone_name: Name,
@@ -348,7 +348,7 @@ Returns:
 
 <a id="unreal.PoseableMeshComponent.get_bone_scale_by_name"></a>
 
-#### get_bone_scale_by_name
+#### get\_bone\_scale\_by\_name
 
 ```python
 def get_bone_scale_by_name(bone_name: Name, bone_space: BoneSpaces) -> Vector
@@ -366,7 +366,7 @@ Returns:
 
 <a id="unreal.PoseableMeshComponent.get_bone_rotation_by_name"></a>
 
-#### get_bone_rotation_by_name
+#### get\_bone\_rotation\_by\_name
 
 ```python
 def get_bone_rotation_by_name(bone_name: Name,
@@ -385,7 +385,7 @@ Returns:
 
 <a id="unreal.PoseableMeshComponent.get_bone_location_by_name"></a>
 
-#### get_bone_location_by_name
+#### get\_bone\_location\_by\_name
 
 ```python
 def get_bone_location_by_name(bone_name: Name,
@@ -404,7 +404,7 @@ Returns:
 
 <a id="unreal.PoseableMeshComponent.copy_pose_from_skeletal_component"></a>
 
-#### copy_pose_from_skeletal_component
+#### copy\_pose\_from\_skeletal\_component
 
 ```python
 def copy_pose_from_skeletal_component(

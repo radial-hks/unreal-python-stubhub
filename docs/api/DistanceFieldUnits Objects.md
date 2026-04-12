@@ -14,7 +14,7 @@ EDistance Field Units
 
 <a id="unreal.DistanceFieldUnits.NUMBER_OF_VOXELS"></a>
 
-#### NUMBER_OF_VOXELS
+#### NUMBER\_OF\_VOXELS
 
 0: Express distance as a number of voxels
 

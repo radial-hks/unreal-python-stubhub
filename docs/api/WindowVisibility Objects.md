@@ -19,7 +19,7 @@ EWindow Visibility
 
 <a id="unreal.WindowVisibility.SELF_HIT_TEST_INVISIBLE"></a>
 
-#### SELF_HIT_TEST_INVISIBLE
+#### SELF\_HIT\_TEST\_INVISIBLE
 
 1: The window visibility is SelfHitTestInvisible
 

@@ -13,7 +13,7 @@ Test Typed Element Interface C
 
 <a id="unreal.TestTypedElementInterfaceC.get_is_tested"></a>
 
-#### get_is_tested
+#### get\_is\_tested
 
 ```python
 def get_is_tested(element_handle: ScriptTypedElementHandle) -> bool

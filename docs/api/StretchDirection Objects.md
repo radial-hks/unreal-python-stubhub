@@ -19,13 +19,13 @@ EStretch Direction
 
 <a id="unreal.StretchDirection.DOWN_ONLY"></a>
 
-#### DOWN_ONLY
+#### DOWN\_ONLY
 
 1: Will only make the content smaller, will never scale it larger than the content's desired size.
 
 <a id="unreal.StretchDirection.UP_ONLY"></a>
 
-#### UP_ONLY
+#### UP\_ONLY
 
 2: Will only make the content larger, will never scale it smaller than the content's desired size.
 

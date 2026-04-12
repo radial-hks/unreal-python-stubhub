@@ -20,7 +20,7 @@ Env Query Instance Blueprint Wrapper
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.query_id"></a>
 
-#### query_id
+#### query\_id
 
 ```python
 @property
@@ -31,7 +31,7 @@ def query_id() -> int
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.item_type"></a>
 
-#### item_type
+#### item\_type
 
 ```python
 @property
@@ -42,7 +42,7 @@ def item_type() -> Class
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.option_index"></a>
 
-#### option_index
+#### option\_index
 
 ```python
 @property
@@ -53,7 +53,7 @@ def option_index() -> int
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.on_query_finished_event"></a>
 
-#### on_query_finished_event
+#### on\_query\_finished\_event
 
 ```python
 @property
@@ -64,7 +64,7 @@ def on_query_finished_event() -> EQSQueryDoneSignature
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.on_query_finished_event"></a>
 
-#### on_query_finished_event
+#### on\_query\_finished\_event
 
 ```python
 @on_query_finished_event.setter
@@ -73,7 +73,7 @@ def on_query_finished_event(value: EQSQueryDoneSignature) -> None
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.set_named_param"></a>
 
-#### set_named_param
+#### set\_named\_param
 
 ```python
 def set_named_param(param_name: Name, value: float) -> None
@@ -88,7 +88,7 @@ Args:
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.get_results_as_locations"></a>
 
-#### get_results_as_locations
+#### get\_results\_as\_locations
 
 ```python
 def get_results_as_locations() -> Array[Vector]
@@ -103,7 +103,7 @@ Returns:
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.get_results_as_actors"></a>
 
-#### get_results_as_actors
+#### get\_results\_as\_actors
 
 ```python
 def get_results_as_actors() -> Array[Actor]
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.get_query_results_as_locations"></a>
 
-#### get_query_results_as_locations
+#### get\_query\_results\_as\_locations
 
 ```python
 def get_query_results_as_locations() -> Optional[Array[Vector]]
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.get_query_results_as_actors"></a>
 
-#### get_query_results_as_actors
+#### get\_query\_results\_as\_actors
 
 ```python
 def get_query_results_as_actors() -> Optional[Array[Actor]]
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.EnvQueryInstanceBlueprintWrapper.get_item_score"></a>
 
-#### get_item_score
+#### get\_item\_score
 
 ```python
 def get_item_score(item_index: int) -> float

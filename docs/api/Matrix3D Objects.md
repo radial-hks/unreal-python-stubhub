@@ -21,7 +21,7 @@ these types from USD.
 
 <a id="unreal.Matrix3D.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(row0: Vector = [0.000000, 0.000000, 0.000000],
@@ -89,4 +89,4 @@ def row2() -> Vector
 def row2(value: Vector) -> None
 ```
 
-<a id="unreal.LiveLinkTransformControllerData"></a>
+<a id="unreal.RigVMExternalVariableDef"></a>

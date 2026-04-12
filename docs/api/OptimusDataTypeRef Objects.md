@@ -19,7 +19,7 @@ A reference object for an Optimus data type to use in UObjects and other UStruct
 
 <a id="unreal.OptimusDataTypeRef.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

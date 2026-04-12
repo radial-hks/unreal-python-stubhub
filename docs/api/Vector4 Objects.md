@@ -21,7 +21,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Vector4.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: float = 0.000000,
@@ -112,7 +112,7 @@ def w(value: float) -> None
 
 <a id="unreal.Vector4.length_squared3"></a>
 
-#### length_squared3
+#### length\_squared3
 
 ```python
 def length_squared3() -> float
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.Vector4.length_squared"></a>
 
-#### length_squared
+#### length\_squared
 
 ```python
 def length_squared() -> float
@@ -185,7 +185,7 @@ Args:
 
 <a id="unreal.Vector4.normal_unsafe3"></a>
 
-#### normal_unsafe3
+#### normal\_unsafe3
 
 ```python
 def normal_unsafe3() -> Vector4
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.Vector4.mirror_by_vector3"></a>
 
-#### mirror_by_vector3
+#### mirror\_by\_vector3
 
 ```python
 def mirror_by_vector3(surface_normal: Vector4) -> Vector4
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.Vector4.is_zero"></a>
 
-#### is_zero
+#### is\_zero
 
 ```python
 def is_zero() -> bool
@@ -278,7 +278,7 @@ Returns:
 
 <a id="unreal.Vector4.is_unit3"></a>
 
-#### is_unit3
+#### is\_unit3
 
 ```python
 def is_unit3(squared_lenth_tolerance: float = 0.000100) -> bool
@@ -295,7 +295,7 @@ Returns:
 
 <a id="unreal.Vector4.is_normal3"></a>
 
-#### is_normal3
+#### is\_normal3
 
 ```python
 def is_normal3() -> bool
@@ -309,7 +309,7 @@ Returns:
 
 <a id="unreal.Vector4.is_nearly_zero3"></a>
 
-#### is_nearly_zero3
+#### is\_nearly\_zero3
 
 ```python
 def is_nearly_zero3(tolerance: float = 0.000100) -> bool
@@ -326,7 +326,7 @@ Returns:
 
 <a id="unreal.Vector4.is_nan"></a>
 
-#### is_nan
+#### is\_nan
 
 ```python
 def is_nan() -> bool
@@ -422,7 +422,7 @@ Returns:
 
 <a id="unreal.Vector4.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 def not_equal(b: Vector4) -> bool
@@ -439,7 +439,7 @@ Returns:
 
 <a id="unreal.Vector4.is_not_near_equal"></a>
 
-#### is_not_near_equal
+#### is\_not\_near\_equal
 
 ```python
 def is_not_near_equal(b: Vector4, error_tolerance: float = 0.000100) -> bool
@@ -491,7 +491,7 @@ Returns:
 
 <a id="unreal.Vector4.is_near_equal"></a>
 
-#### is_near_equal
+#### is\_near\_equal
 
 ```python
 def is_near_equal(b: Vector4, error_tolerance: float = 0.000100) -> bool
@@ -588,7 +588,7 @@ Returns:
 
 <a id="unreal.Vector4.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -600,7 +600,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.Vector4.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool
@@ -612,7 +612,7 @@ def __ne__(other: object) -> bool
 
 <a id="unreal.Vector4.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: Vector4) -> None
@@ -624,7 +624,7 @@ def __add__(other: Vector4) -> None
 
 <a id="unreal.Vector4.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: Vector4) -> None
@@ -636,7 +636,7 @@ def __iadd__(other: Vector4) -> None
 
 <a id="unreal.Vector4.__sub__"></a>
 
-#### __sub__
+#### \_\_sub\_\_
 
 ```python
 def __sub__(other: Vector4) -> None
@@ -648,7 +648,7 @@ def __sub__(other: Vector4) -> None
 
 <a id="unreal.Vector4.__isub__"></a>
 
-#### __isub__
+#### \_\_isub\_\_
 
 ```python
 def __isub__(other: Vector4) -> None
@@ -660,7 +660,7 @@ def __isub__(other: Vector4) -> None
 
 <a id="unreal.Vector4.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: Vector4) -> None
@@ -672,7 +672,7 @@ def __mul__(other: Vector4) -> None
 
 <a id="unreal.Vector4.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: Vector4) -> None
@@ -684,7 +684,7 @@ def __imul__(other: Vector4) -> None
 
 <a id="unreal.Vector4.__truediv__"></a>
 
-#### __truediv__
+#### \_\_truediv\_\_
 
 ```python
 def __truediv__(other: Vector4) -> None
@@ -696,7 +696,7 @@ def __truediv__(other: Vector4) -> None
 
 <a id="unreal.Vector4.__or__"></a>
 
-#### __or__
+#### \_\_or\_\_
 
 ```python
 def __or__(other: Vector4) -> None
@@ -708,7 +708,7 @@ def __or__(other: Vector4) -> None
 
 <a id="unreal.Vector4.__neg__"></a>
 
-#### __neg__
+#### \_\_neg\_\_
 
 ```python
 def __neg__() -> None

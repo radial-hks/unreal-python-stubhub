@@ -14,7 +14,7 @@ A management struct containing all modules in the rig
 
 <a id="unreal.ModularRigModel.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

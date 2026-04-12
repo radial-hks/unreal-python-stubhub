@@ -26,7 +26,7 @@ Settings that identify the names of custom attributes that represent the individ
 
 <a id="unreal.TimecodeCustomAttributeNameSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

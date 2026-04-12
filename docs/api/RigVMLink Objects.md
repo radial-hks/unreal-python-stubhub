@@ -17,7 +17,7 @@ method.
 
 <a id="unreal.RigVMLink.get_target_pin"></a>
 
-#### get_target_pin
+#### get\_target\_pin
 
 ```python
 def get_target_pin() -> RigVMPin
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.RigVMLink.get_target_node"></a>
 
-#### get_target_node
+#### get\_target\_node
 
 ```python
 def get_target_node() -> RigVMNode
@@ -45,7 +45,7 @@ Returns:
 
 <a id="unreal.RigVMLink.get_source_pin"></a>
 
-#### get_source_pin
+#### get\_source\_pin
 
 ```python
 def get_source_pin() -> RigVMPin
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.RigVMLink.get_source_node"></a>
 
-#### get_source_node
+#### get\_source\_node
 
 ```python
 def get_source_node() -> RigVMNode
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.RigVMLink.get_pin_path_representation"></a>
 
-#### get_pin_path_representation
+#### get\_pin\_path\_representation
 
 ```python
 def get_pin_path_representation() -> str
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.RigVMLink.get_opposite_pin"></a>
 
-#### get_opposite_pin
+#### get\_opposite\_pin
 
 ```python
 def get_opposite_pin(pin: RigVMPin) -> RigVMPin
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.RigVMLink.get_link_index"></a>
 
-#### get_link_index
+#### get\_link\_index
 
 ```python
 def get_link_index() -> int
@@ -120,7 +120,7 @@ Returns:
 
 <a id="unreal.RigVMLink.get_graph_depth"></a>
 
-#### get_graph_depth
+#### get\_graph\_depth
 
 ```python
 def get_graph_depth() -> int
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.RigVMLink.get_graph"></a>
 
-#### get_graph
+#### get\_graph
 
 ```python
 def get_graph() -> RigVMGraph

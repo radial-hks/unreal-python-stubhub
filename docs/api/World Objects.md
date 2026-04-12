@@ -23,7 +23,7 @@ In the editor many Worlds exist: The level being edited, each PIE instance, each
 
 <a id="unreal.World.get_world_settings"></a>
 
-#### get_world_settings
+#### get\_world\_settings
 
 ```python
 def get_world_settings() -> WorldSettings
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.World.get_data_layer_manager"></a>
 
-#### get_data_layer_manager
+#### get\_data\_layer\_manager
 
 ```python
 def get_data_layer_manager() -> DataLayerManager

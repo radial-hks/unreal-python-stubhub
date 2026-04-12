@@ -17,7 +17,7 @@ Attribute type supporting the legacy TVariant<FTransform> attributes
 
 <a id="unreal.TransformAnimationAttribute.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

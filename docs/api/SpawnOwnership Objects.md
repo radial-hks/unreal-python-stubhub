@@ -13,13 +13,13 @@ ESpawn Ownership
 
 <a id="unreal.SpawnOwnership.INNER_SEQUENCE"></a>
 
-#### INNER_SEQUENCE
+#### INNER\_SEQUENCE
 
 0: The object's lifetime is managed by the sequence that spawned it
 
 <a id="unreal.SpawnOwnership.ROOT_SEQUENCE"></a>
 
-#### ROOT_SEQUENCE
+#### ROOT\_SEQUENCE
 
 1: The object's lifetime is managed by the outermost sequence
 

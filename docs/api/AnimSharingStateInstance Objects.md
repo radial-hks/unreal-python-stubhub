@@ -30,7 +30,7 @@ Anim Sharing State Instance
 
 <a id="unreal.AnimSharingStateInstance.animation_to_play"></a>
 
-#### animation_to_play
+#### animation\_to\_play
 
 ```python
 @property
@@ -41,7 +41,7 @@ def animation_to_play() -> AnimSequence
 
 <a id="unreal.AnimSharingStateInstance.permutation_time_offset"></a>
 
-#### permutation_time_offset
+#### permutation\_time\_offset
 
 ```python
 @property
@@ -52,7 +52,7 @@ def permutation_time_offset() -> float
 
 <a id="unreal.AnimSharingStateInstance.play_rate"></a>
 
-#### play_rate
+#### play\_rate
 
 ```python
 @property
@@ -63,7 +63,7 @@ def play_rate() -> float
 
 <a id="unreal.AnimSharingStateInstance.state_bool"></a>
 
-#### state_bool
+#### state\_bool
 
 ```python
 @property
@@ -74,7 +74,7 @@ def state_bool() -> bool
 
 <a id="unreal.AnimSharingStateInstance.get_instanced_actors"></a>
 
-#### get_instanced_actors
+#### get\_instanced\_actors
 
 ```python
 def get_instanced_actors() -> Array[Actor]

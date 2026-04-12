@@ -23,7 +23,7 @@ Spherical Pose Reader Debug Settings
 
 <a id="unreal.SphericalPoseReaderDebugSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(draw_debug: bool = False,
@@ -36,7 +36,7 @@ def __init__(draw_debug: bool = False,
 
 <a id="unreal.SphericalPoseReaderDebugSettings.draw_debug"></a>
 
-#### draw_debug
+#### draw\_debug
 
 ```python
 @property
@@ -47,7 +47,7 @@ def draw_debug() -> bool
 
 <a id="unreal.SphericalPoseReaderDebugSettings.draw_debug"></a>
 
-#### draw_debug
+#### draw\_debug
 
 ```python
 @draw_debug.setter
@@ -76,7 +76,7 @@ def draw2d(value: bool) -> None
 
 <a id="unreal.SphericalPoseReaderDebugSettings.draw_local_axes"></a>
 
-#### draw_local_axes
+#### draw\_local\_axes
 
 ```python
 @property
@@ -87,7 +87,7 @@ def draw_local_axes() -> bool
 
 <a id="unreal.SphericalPoseReaderDebugSettings.draw_local_axes"></a>
 
-#### draw_local_axes
+#### draw\_local\_axes
 
 ```python
 @draw_local_axes.setter
@@ -96,7 +96,7 @@ def draw_local_axes(value: bool) -> None
 
 <a id="unreal.SphericalPoseReaderDebugSettings.debug_scale"></a>
 
-#### debug_scale
+#### debug\_scale
 
 ```python
 @property
@@ -107,7 +107,7 @@ def debug_scale() -> float
 
 <a id="unreal.SphericalPoseReaderDebugSettings.debug_scale"></a>
 
-#### debug_scale
+#### debug\_scale
 
 ```python
 @debug_scale.setter
@@ -116,7 +116,7 @@ def debug_scale(value: float) -> None
 
 <a id="unreal.SphericalPoseReaderDebugSettings.debug_segments"></a>
 
-#### debug_segments
+#### debug\_segments
 
 ```python
 @property
@@ -127,7 +127,7 @@ def debug_segments() -> int
 
 <a id="unreal.SphericalPoseReaderDebugSettings.debug_segments"></a>
 
-#### debug_segments
+#### debug\_segments
 
 ```python
 @debug_segments.setter
@@ -136,7 +136,7 @@ def debug_segments(value: int) -> None
 
 <a id="unreal.SphericalPoseReaderDebugSettings.debug_thickness"></a>
 
-#### debug_thickness
+#### debug\_thickness
 
 ```python
 @property
@@ -147,7 +147,7 @@ def debug_thickness() -> float
 
 <a id="unreal.SphericalPoseReaderDebugSettings.debug_thickness"></a>
 
-#### debug_thickness
+#### debug\_thickness
 
 ```python
 @debug_thickness.setter

@@ -213,7 +213,7 @@ Actor containing all script accessible world properties.
 
 <a id="unreal.WorldSettings.enable_world_bounds_checks"></a>
 
-#### enable_world_bounds_checks
+#### enable\_world\_bounds\_checks
 
 ```python
 @property
@@ -224,7 +224,7 @@ def enable_world_bounds_checks() -> bool
 
 <a id="unreal.WorldSettings.enable_navigation_system"></a>
 
-#### enable_navigation_system
+#### enable\_navigation\_system
 
 ```python
 @property
@@ -235,7 +235,7 @@ def enable_navigation_system() -> bool
 
 <a id="unreal.WorldSettings.enable_ai_system"></a>
 
-#### enable_ai_system
+#### enable\_ai\_system
 
 ```python
 @property
@@ -246,7 +246,7 @@ def enable_ai_system() -> bool
 
 <a id="unreal.WorldSettings.enable_world_composition"></a>
 
-#### enable_world_composition
+#### enable\_world\_composition
 
 ```python
 @property
@@ -258,7 +258,7 @@ Level has to be saved and all sub-levels removed before enabling this option.
 
 <a id="unreal.WorldSettings.use_client_side_level_streaming_volumes"></a>
 
-#### use_client_side_level_streaming_volumes
+#### use\_client\_side\_level\_streaming\_volumes
 
 ```python
 @property
@@ -270,7 +270,7 @@ Expected usage scenario: server has all streaming levels always loaded, clients 
 
 <a id="unreal.WorldSettings.enable_world_origin_rebasing"></a>
 
-#### enable_world_origin_rebasing
+#### enable\_world\_origin\_rebasing
 
 ```python
 @property
@@ -281,7 +281,7 @@ def enable_world_origin_rebasing() -> bool
 
 <a id="unreal.WorldSettings.global_gravity_set"></a>
 
-#### global_gravity_set
+#### global\_gravity\_set
 
 ```python
 @property
@@ -292,7 +292,7 @@ def global_gravity_set() -> bool
 
 <a id="unreal.WorldSettings.ai_system_class"></a>
 
-#### ai_system_class
+#### ai\_system\_class
 
 ```python
 @property
@@ -303,7 +303,7 @@ def ai_system_class() -> Class
 
 <a id="unreal.WorldSettings.navigation_system_config"></a>
 
-#### navigation_system_config
+#### navigation\_system\_config
 
 ```python
 @property
@@ -316,7 +316,7 @@ def navigation_system_config() -> NavigationSystemConfig
 
 <a id="unreal.WorldSettings.world_to_meters"></a>
 
-#### world_to_meters
+#### world\_to\_meters
 
 ```python
 @property
@@ -327,7 +327,7 @@ def world_to_meters() -> float
 
 <a id="unreal.WorldSettings.kill_z"></a>
 
-#### kill_z
+#### kill\_z
 
 ```python
 @property
@@ -338,7 +338,7 @@ def kill_z() -> float
 
 <a id="unreal.WorldSettings.kill_z_damage_type"></a>
 
-#### kill_z_damage_type
+#### kill\_z\_damage\_type
 
 ```python
 @property
@@ -349,7 +349,7 @@ def kill_z_damage_type() -> Class
 
 <a id="unreal.WorldSettings.global_gravity_z"></a>
 
-#### global_gravity_z
+#### global\_gravity\_z
 
 ```python
 @property
@@ -360,7 +360,7 @@ def global_gravity_z() -> float
 
 <a id="unreal.WorldSettings.default_physics_volume_class"></a>
 
-#### default_physics_volume_class
+#### default\_physics\_volume\_class
 
 ```python
 @property
@@ -371,7 +371,7 @@ def default_physics_volume_class() -> Class
 
 <a id="unreal.WorldSettings.physics_collision_handler_class"></a>
 
-#### physics_collision_handler_class
+#### physics\_collision\_handler\_class
 
 ```python
 @property
@@ -382,7 +382,7 @@ def physics_collision_handler_class() -> Class
 
 <a id="unreal.WorldSettings.default_game_mode"></a>
 
-#### default_game_mode
+#### default\_game\_mode
 
 ```python
 @property
@@ -393,7 +393,7 @@ def default_game_mode() -> Class
 
 <a id="unreal.WorldSettings.default_game_type"></a>
 
-#### default_game_type
+#### default\_game\_type
 
 ```python
 @property
@@ -404,7 +404,7 @@ deprecated: 'default_game_type' was renamed to 'default_game_mode'.
 
 <a id="unreal.WorldSettings.default_color_scale"></a>
 
-#### default_color_scale
+#### default\_color\_scale
 
 ```python
 @property
@@ -415,7 +415,7 @@ def default_color_scale() -> Vector
 
 <a id="unreal.WorldSettings.lightmass_settings"></a>
 
-#### lightmass_settings
+#### lightmass\_settings
 
 ```python
 @property
@@ -426,7 +426,7 @@ def lightmass_settings() -> LightmassWorldInfoSettings
 
 <a id="unreal.WorldSettings.lightmass_settings"></a>
 
-#### lightmass_settings
+#### lightmass\_settings
 
 ```python
 @lightmass_settings.setter
@@ -435,7 +435,7 @@ def lightmass_settings(value: LightmassWorldInfoSettings) -> None
 
 <a id="unreal.WorldSettings.volumetric_lightmap_loading_range"></a>
 
-#### volumetric_lightmap_loading_range
+#### volumetric\_lightmap\_loading\_range
 
 ```python
 @property
@@ -446,7 +446,7 @@ def volumetric_lightmap_loading_range() -> float
 
 <a id="unreal.WorldSettings.volumetric_lightmap_loading_range"></a>
 
-#### volumetric_lightmap_loading_range
+#### volumetric\_lightmap\_loading\_range
 
 ```python
 @volumetric_lightmap_loading_range.setter
@@ -455,7 +455,7 @@ def volumetric_lightmap_loading_range(value: float) -> None
 
 <a id="unreal.WorldSettings.enable_large_worlds"></a>
 
-#### enable_large_worlds
+#### enable\_large\_worlds
 
 ```python
 @property
@@ -467,7 +467,7 @@ deprecated: As of UE 5.1 all worlds are large. Set UE_USE_UE4_WORLD_MAX in Engin
 
 <a id="unreal.WorldSettings.enable_large_worlds"></a>
 
-#### enable_large_worlds
+#### enable\_large\_worlds
 
 ```python
 @enable_large_worlds.setter
@@ -476,7 +476,7 @@ def enable_large_worlds(value: bool) -> None
 
 <a id="unreal.WorldSettings.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -493,7 +493,7 @@ Returns:
 
 <a id="unreal.WorldSettings.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -510,7 +510,7 @@ Returns:
 
 <a id="unreal.WorldSettings.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

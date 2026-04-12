@@ -66,7 +66,7 @@ No children can be manually added in the designer - all are auto-generated based
 
 <a id="unreal.DynamicEntryBox.entry_widget_class"></a>
 
-#### entry_widget_class
+#### entry\_widget\_class
 
 ```python
 @property
@@ -92,7 +92,7 @@ Args:
 
 <a id="unreal.DynamicEntryBox.remove_entry"></a>
 
-#### remove_entry
+#### remove\_entry
 
 ```python
 def remove_entry(entry_widget: UserWidget) -> None
@@ -106,7 +106,7 @@ Args:
 
 <a id="unreal.DynamicEntryBox.bp_create_entry_of_class"></a>
 
-#### bp_create_entry_of_class
+#### bp\_create\_entry\_of\_class
 
 ```python
 def bp_create_entry_of_class(entry_class: Class) -> UserWidget
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.DynamicEntryBox.bp_create_entry"></a>
 
-#### bp_create_entry
+#### bp\_create\_entry
 
 ```python
 def bp_create_entry() -> UserWidget

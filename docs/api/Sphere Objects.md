@@ -19,7 +19,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Sphere.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(center: Vector = [0.000000, 0.000000, 0.000000],

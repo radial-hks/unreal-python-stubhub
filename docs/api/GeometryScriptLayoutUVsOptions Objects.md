@@ -26,7 +26,7 @@ Geometry Script Layout UVs Options
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -44,7 +44,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.layout_type"></a>
 
-#### layout_type
+#### layout\_type
 
 ```python
 @property
@@ -55,7 +55,7 @@ def layout_type() -> GeometryScriptUVLayoutType
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.layout_type"></a>
 
-#### layout_type
+#### layout\_type
 
 ```python
 @layout_type.setter
@@ -64,7 +64,7 @@ def layout_type(value: GeometryScriptUVLayoutType) -> None
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.texture_resolution"></a>
 
-#### texture_resolution
+#### texture\_resolution
 
 ```python
 @property
@@ -75,7 +75,7 @@ def texture_resolution() -> int
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.texture_resolution"></a>
 
-#### texture_resolution
+#### texture\_resolution
 
 ```python
 @texture_resolution.setter
@@ -124,7 +124,7 @@ def translation(value: Vector2D) -> None
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.preserve_scale"></a>
 
-#### preserve_scale
+#### preserve\_scale
 
 ```python
 @property
@@ -135,7 +135,7 @@ def preserve_scale() -> bool
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.preserve_scale"></a>
 
-#### preserve_scale
+#### preserve\_scale
 
 ```python
 @preserve_scale.setter
@@ -144,7 +144,7 @@ def preserve_scale(value: bool) -> None
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.preserve_rotation"></a>
 
-#### preserve_rotation
+#### preserve\_rotation
 
 ```python
 @property
@@ -155,7 +155,7 @@ def preserve_rotation() -> bool
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.preserve_rotation"></a>
 
-#### preserve_rotation
+#### preserve\_rotation
 
 ```python
 @preserve_rotation.setter
@@ -164,7 +164,7 @@ def preserve_rotation(value: bool) -> None
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.allow_flips"></a>
 
-#### allow_flips
+#### allow\_flips
 
 ```python
 @property
@@ -175,7 +175,7 @@ def allow_flips() -> bool
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.allow_flips"></a>
 
-#### allow_flips
+#### allow\_flips
 
 ```python
 @allow_flips.setter
@@ -184,7 +184,7 @@ def allow_flips(value: bool) -> None
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.enable_udim_layout"></a>
 
-#### enable_udim_layout
+#### enable\_udim\_layout
 
 ```python
 @property
@@ -195,7 +195,7 @@ def enable_udim_layout() -> bool
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.enable_udim_layout"></a>
 
-#### enable_udim_layout
+#### enable\_udim\_layout
 
 ```python
 @enable_udim_layout.setter
@@ -204,7 +204,7 @@ def enable_udim_layout(value: bool) -> None
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.udim_resolutions"></a>
 
-#### udim_resolutions
+#### udim\_resolutions
 
 ```python
 @property
@@ -215,7 +215,7 @@ def udim_resolutions() -> Map[int, int]
 
 <a id="unreal.GeometryScriptLayoutUVsOptions.udim_resolutions"></a>
 
-#### udim_resolutions
+#### udim\_resolutions
 
 ```python
 @udim_resolutions.setter

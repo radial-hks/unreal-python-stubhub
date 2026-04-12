@@ -14,55 +14,55 @@ ESynth LFOPatch Type
 
 <a id="unreal.SynthLFOPatchType.PATCH_TO_NONE"></a>
 
-#### PATCH_TO_NONE
+#### PATCH\_TO\_NONE
 
 0
 
 <a id="unreal.SynthLFOPatchType.PATCH_TO_GAIN"></a>
 
-#### PATCH_TO_GAIN
+#### PATCH\_TO\_GAIN
 
 1
 
 <a id="unreal.SynthLFOPatchType.PATCH_TO_OSC_FREQ"></a>
 
-#### PATCH_TO_OSC_FREQ
+#### PATCH\_TO\_OSC\_FREQ
 
 2
 
 <a id="unreal.SynthLFOPatchType.PATCH_TO_FILTER_FREQ"></a>
 
-#### PATCH_TO_FILTER_FREQ
+#### PATCH\_TO\_FILTER\_FREQ
 
 3
 
 <a id="unreal.SynthLFOPatchType.PATCH_TO_FILTER_Q"></a>
 
-#### PATCH_TO_FILTER_Q
+#### PATCH\_TO\_FILTER\_Q
 
 4
 
 <a id="unreal.SynthLFOPatchType.PATCH_TO_OSC_PULSE_WIDTH"></a>
 
-#### PATCH_TO_OSC_PULSE_WIDTH
+#### PATCH\_TO\_OSC\_PULSE\_WIDTH
 
 5
 
 <a id="unreal.SynthLFOPatchType.PATCH_TO_OSC_PAN"></a>
 
-#### PATCH_TO_OSC_PAN
+#### PATCH\_TO\_OSC\_PAN
 
 6
 
 <a id="unreal.SynthLFOPatchType.PATCH_LFO1_TO_LFO2_FREQUENCY"></a>
 
-#### PATCH_LFO1_TO_LFO2_FREQUENCY
+#### PATCH\_LFO1\_TO\_LFO2\_FREQUENCY
 
 7
 
 <a id="unreal.SynthLFOPatchType.PATCH_LFO1_TO_LFO2_GAIN"></a>
 
-#### PATCH_LFO1_TO_LFO2_GAIN
+#### PATCH\_LFO1\_TO\_LFO2\_GAIN
 
 8
 

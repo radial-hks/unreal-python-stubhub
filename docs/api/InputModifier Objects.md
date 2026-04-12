@@ -14,7 +14,7 @@ Base class for building modifiers.
 
 <a id="unreal.InputModifier.modify_raw"></a>
 
-#### modify_raw
+#### modify\_raw
 
 ```python
 def modify_raw(player_input: EnhancedPlayerInput,
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.InputModifier.get_visualization_color"></a>
 
-#### get_visualization_color
+#### get\_visualization\_color
 
 ```python
 def get_visualization_color(sample_value: InputActionValue,

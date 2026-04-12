@@ -18,10 +18,10 @@ Optimus Value Container Struct
 
 <a id="unreal.OptimusValueContainerStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.PoseSearchBone"></a>
+<a id="unreal.AnimNode_ControlRigBase"></a>

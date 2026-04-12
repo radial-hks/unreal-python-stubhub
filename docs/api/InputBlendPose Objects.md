@@ -17,7 +17,7 @@ Input Blend Pose
 
 <a id="unreal.InputBlendPose.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

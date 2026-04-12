@@ -19,7 +19,7 @@ Type referenced by a row in the mirror data table
 
 <a id="unreal.MirrorRowType.ANIMATION_NOTIFY"></a>
 
-#### ANIMATION_NOTIFY
+#### ANIMATION\_NOTIFY
 
 1
 
@@ -31,7 +31,7 @@ Type referenced by a row in the mirror data table
 
 <a id="unreal.MirrorRowType.SYNC_MARKER"></a>
 
-#### SYNC_MARKER
+#### SYNC\_MARKER
 
 3
 

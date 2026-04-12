@@ -22,7 +22,7 @@ Movie Scene Object Property Track
 
 <a id="unreal.MovieSceneObjectPropertyTrack.set_object_property_class"></a>
 
-#### set_object_property_class
+#### set\_object\_property\_class
 
 ```python
 def set_object_property_class(property_class: Class) -> None
@@ -36,7 +36,7 @@ Args:
 
 <a id="unreal.MovieSceneObjectPropertyTrack.get_object_property_class"></a>
 
-#### get_object_property_class
+#### get\_object\_property\_class
 
 ```python
 def get_object_property_class() -> Class

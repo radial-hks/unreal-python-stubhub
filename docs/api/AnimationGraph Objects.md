@@ -17,7 +17,7 @@ Animation Graph
 
 <a id="unreal.AnimationGraph.get_graph_nodes_of_class"></a>
 
-#### get_graph_nodes_of_class
+#### get\_graph\_nodes\_of\_class
 
 ```python
 def get_graph_nodes_of_class(

@@ -18,7 +18,7 @@ a final section entry in the merged skeletal mesh
 
 <a id="unreal.SkelMeshMergeSectionMapping.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(section_i_ds: Array[int] = []) -> None
@@ -26,7 +26,7 @@ def __init__(section_i_ds: Array[int] = []) -> None
 
 <a id="unreal.SkelMeshMergeSectionMapping.section_i_ds"></a>
 
-#### section_i_ds
+#### section\_i\_ds
 
 ```python
 @property
@@ -37,7 +37,7 @@ def section_i_ds() -> Array[int]
 
 <a id="unreal.SkelMeshMergeSectionMapping.section_i_ds"></a>
 
-#### section_i_ds
+#### section\_i\_ds
 
 ```python
 @section_i_ds.setter

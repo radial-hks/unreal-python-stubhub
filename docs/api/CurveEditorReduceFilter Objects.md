@@ -39,7 +39,7 @@ def tolerance(value: float) -> None
 
 <a id="unreal.CurveEditorReduceFilter.try_remove_user_set_tangent_keys"></a>
 
-#### try_remove_user_set_tangent_keys
+#### try\_remove\_user\_set\_tangent\_keys
 
 ```python
 @property
@@ -50,7 +50,7 @@ def try_remove_user_set_tangent_keys() -> bool
 
 <a id="unreal.CurveEditorReduceFilter.try_remove_user_set_tangent_keys"></a>
 
-#### try_remove_user_set_tangent_keys
+#### try\_remove\_user\_set\_tangent\_keys
 
 ```python
 @try_remove_user_set_tangent_keys.setter
@@ -59,7 +59,7 @@ def try_remove_user_set_tangent_keys(value: bool) -> None
 
 <a id="unreal.CurveEditorReduceFilter.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @property
@@ -70,7 +70,7 @@ def sample_rate() -> FrameRate
 
 <a id="unreal.CurveEditorReduceFilter.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @sample_rate.setter

@@ -22,7 +22,7 @@ Represents the appearance of an Audio Material Envelope
 
 <a id="unreal.AudioMaterialEnvelopeStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -36,7 +36,7 @@ def __init__(
 
 <a id="unreal.AudioMaterialEnvelopeStyle.curve_color"></a>
 
-#### curve_color
+#### curve\_color
 
 ```python
 @property
@@ -47,7 +47,7 @@ def curve_color() -> LinearColor
 
 <a id="unreal.AudioMaterialEnvelopeStyle.curve_color"></a>
 
-#### curve_color
+#### curve\_color
 
 ```python
 @curve_color.setter
@@ -56,7 +56,7 @@ def curve_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialEnvelopeStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @property
@@ -67,7 +67,7 @@ def background_color() -> LinearColor
 
 <a id="unreal.AudioMaterialEnvelopeStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @background_color.setter
@@ -76,7 +76,7 @@ def background_color(value: LinearColor) -> None
 
 <a id="unreal.AudioMaterialEnvelopeStyle.outline_color"></a>
 
-#### outline_color
+#### outline\_color
 
 ```python
 @property
@@ -87,7 +87,7 @@ def outline_color() -> LinearColor
 
 <a id="unreal.AudioMaterialEnvelopeStyle.outline_color"></a>
 
-#### outline_color
+#### outline\_color
 
 ```python
 @outline_color.setter

@@ -78,7 +78,7 @@ Texture 2D
 
 <a id="unreal.Texture2D.address_x"></a>
 
-#### address_x
+#### address\_x
 
 ```python
 @property
@@ -89,7 +89,7 @@ def address_x() -> TextureAddress
 
 <a id="unreal.Texture2D.address_x"></a>
 
-#### address_x
+#### address\_x
 
 ```python
 @address_x.setter
@@ -98,7 +98,7 @@ def address_x(value: TextureAddress) -> None
 
 <a id="unreal.Texture2D.address_y"></a>
 
-#### address_y
+#### address\_y
 
 ```python
 @property
@@ -109,7 +109,7 @@ def address_y() -> TextureAddress
 
 <a id="unreal.Texture2D.address_y"></a>
 
-#### address_y
+#### address\_y
 
 ```python
 @address_y.setter
@@ -118,7 +118,7 @@ def address_y(value: TextureAddress) -> None
 
 <a id="unreal.Texture2D.blueprint_get_size_y"></a>
 
-#### blueprint_get_size_y
+#### blueprint\_get\_size\_y
 
 ```python
 def blueprint_get_size_y() -> int
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.Texture2D.blueprint_get_size_x"></a>
 
-#### blueprint_get_size_x
+#### blueprint\_get\_size\_x
 
 ```python
 def blueprint_get_size_x() -> int
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.Texture2D.blueprint_get_cpu_copy"></a>
 
-#### blueprint_get_cpu_copy
+#### blueprint\_get\_cpu\_copy
 
 ```python
 def blueprint_get_cpu_copy() -> SharedImageConstRefBlueprint

@@ -126,7 +126,7 @@ Foliage Type
 
 <a id="unreal.FoliageType.z_offset"></a>
 
-#### z_offset
+#### z\_offset
 
 ```python
 @property
@@ -137,7 +137,7 @@ def z_offset() -> FloatInterval
 
 <a id="unreal.FoliageType.z_offset"></a>
 
-#### z_offset
+#### z\_offset
 
 ```python
 @z_offset.setter
@@ -146,7 +146,7 @@ def z_offset(value: FloatInterval) -> None
 
 <a id="unreal.FoliageType.align_to_normal"></a>
 
-#### align_to_normal
+#### align\_to\_normal
 
 ```python
 @property
@@ -158,7 +158,7 @@ If AlignToNormal is enabled and RandomYaw is disabled, the instance will be rota
 
 <a id="unreal.FoliageType.align_to_normal"></a>
 
-#### align_to_normal
+#### align\_to\_normal
 
 ```python
 @align_to_normal.setter
@@ -167,7 +167,7 @@ def align_to_normal(value: bool) -> None
 
 <a id="unreal.FoliageType.average_normal"></a>
 
-#### average_normal
+#### average\_normal
 
 ```python
 @property
@@ -178,7 +178,7 @@ def average_normal() -> bool
 
 <a id="unreal.FoliageType.average_normal"></a>
 
-#### average_normal
+#### average\_normal
 
 ```python
 @average_normal.setter
@@ -187,7 +187,7 @@ def average_normal(value: bool) -> None
 
 <a id="unreal.FoliageType.average_normal_single_component"></a>
 
-#### average_normal_single_component
+#### average\_normal\_single\_component
 
 ```python
 @property
@@ -198,7 +198,7 @@ def average_normal_single_component() -> bool
 
 <a id="unreal.FoliageType.average_normal_single_component"></a>
 
-#### average_normal_single_component
+#### average\_normal\_single\_component
 
 ```python
 @average_normal_single_component.setter
@@ -207,7 +207,7 @@ def average_normal_single_component(value: bool) -> None
 
 <a id="unreal.FoliageType.align_max_angle"></a>
 
-#### align_max_angle
+#### align\_max\_angle
 
 ```python
 @property
@@ -218,7 +218,7 @@ def align_max_angle() -> float
 
 <a id="unreal.FoliageType.align_max_angle"></a>
 
-#### align_max_angle
+#### align\_max\_angle
 
 ```python
 @align_max_angle.setter
@@ -227,7 +227,7 @@ def align_max_angle(value: float) -> None
 
 <a id="unreal.FoliageType.random_yaw"></a>
 
-#### random_yaw
+#### random\_yaw
 
 ```python
 @property
@@ -238,7 +238,7 @@ def random_yaw() -> bool
 
 <a id="unreal.FoliageType.random_yaw"></a>
 
-#### random_yaw
+#### random\_yaw
 
 ```python
 @random_yaw.setter
@@ -247,7 +247,7 @@ def random_yaw(value: bool) -> None
 
 <a id="unreal.FoliageType.random_pitch_angle"></a>
 
-#### random_pitch_angle
+#### random\_pitch\_angle
 
 ```python
 @property
@@ -258,7 +258,7 @@ def random_pitch_angle() -> float
 
 <a id="unreal.FoliageType.random_pitch_angle"></a>
 
-#### random_pitch_angle
+#### random\_pitch\_angle
 
 ```python
 @random_pitch_angle.setter
@@ -267,7 +267,7 @@ def random_pitch_angle(value: float) -> None
 
 <a id="unreal.FoliageType.ground_slope_angle"></a>
 
-#### ground_slope_angle
+#### ground\_slope\_angle
 
 ```python
 @property
@@ -278,7 +278,7 @@ def ground_slope_angle() -> FloatInterval
 
 <a id="unreal.FoliageType.ground_slope_angle"></a>
 
-#### ground_slope_angle
+#### ground\_slope\_angle
 
 ```python
 @ground_slope_angle.setter
@@ -307,7 +307,7 @@ def height(value: FloatInterval) -> None
 
 <a id="unreal.FoliageType.landscape_layers"></a>
 
-#### landscape_layers
+#### landscape\_layers
 
 ```python
 @property
@@ -318,7 +318,7 @@ def landscape_layers() -> Array[Name]
 
 <a id="unreal.FoliageType.landscape_layers"></a>
 
-#### landscape_layers
+#### landscape\_layers
 
 ```python
 @landscape_layers.setter
@@ -327,7 +327,7 @@ def landscape_layers(value: Array[Name]) -> None
 
 <a id="unreal.FoliageType.minimum_layer_weight"></a>
 
-#### minimum_layer_weight
+#### minimum\_layer\_weight
 
 ```python
 @property
@@ -338,7 +338,7 @@ def minimum_layer_weight() -> float
 
 <a id="unreal.FoliageType.minimum_layer_weight"></a>
 
-#### minimum_layer_weight
+#### minimum\_layer\_weight
 
 ```python
 @minimum_layer_weight.setter
@@ -347,7 +347,7 @@ def minimum_layer_weight(value: float) -> None
 
 <a id="unreal.FoliageType.exclusion_landscape_layers"></a>
 
-#### exclusion_landscape_layers
+#### exclusion\_landscape\_layers
 
 ```python
 @property
@@ -358,7 +358,7 @@ def exclusion_landscape_layers() -> Array[Name]
 
 <a id="unreal.FoliageType.exclusion_landscape_layers"></a>
 
-#### exclusion_landscape_layers
+#### exclusion\_landscape\_layers
 
 ```python
 @exclusion_landscape_layers.setter
@@ -367,7 +367,7 @@ def exclusion_landscape_layers(value: Array[Name]) -> None
 
 <a id="unreal.FoliageType.minimum_exclusion_layer_weight"></a>
 
-#### minimum_exclusion_layer_weight
+#### minimum\_exclusion\_layer\_weight
 
 ```python
 @property
@@ -378,7 +378,7 @@ def minimum_exclusion_layer_weight() -> float
 
 <a id="unreal.FoliageType.minimum_exclusion_layer_weight"></a>
 
-#### minimum_exclusion_layer_weight
+#### minimum\_exclusion\_layer\_weight
 
 ```python
 @minimum_exclusion_layer_weight.setter
@@ -387,7 +387,7 @@ def minimum_exclusion_layer_weight(value: float) -> None
 
 <a id="unreal.FoliageType.collision_with_world"></a>
 
-#### collision_with_world
+#### collision\_with\_world
 
 ```python
 @property
@@ -398,7 +398,7 @@ def collision_with_world() -> bool
 
 <a id="unreal.FoliageType.collision_with_world"></a>
 
-#### collision_with_world
+#### collision\_with\_world
 
 ```python
 @collision_with_world.setter
@@ -407,7 +407,7 @@ def collision_with_world(value: bool) -> None
 
 <a id="unreal.FoliageType.collision_scale"></a>
 
-#### collision_scale
+#### collision\_scale
 
 ```python
 @property
@@ -418,7 +418,7 @@ def collision_scale() -> Vector
 
 <a id="unreal.FoliageType.collision_scale"></a>
 
-#### collision_scale
+#### collision\_scale
 
 ```python
 @collision_scale.setter
@@ -427,7 +427,7 @@ def collision_scale(value: Vector) -> None
 
 <a id="unreal.FoliageType.average_normal_sample_count"></a>
 
-#### average_normal_sample_count
+#### average\_normal\_sample\_count
 
 ```python
 @property
@@ -438,7 +438,7 @@ def average_normal_sample_count() -> int
 
 <a id="unreal.FoliageType.average_normal_sample_count"></a>
 
-#### average_normal_sample_count
+#### average\_normal\_sample\_count
 
 ```python
 @average_normal_sample_count.setter
@@ -458,7 +458,7 @@ def mobility() -> ComponentMobility
 
 <a id="unreal.FoliageType.cast_shadow"></a>
 
-#### cast_shadow
+#### cast\_shadow
 
 ```python
 @property
@@ -469,7 +469,7 @@ def cast_shadow() -> bool
 
 <a id="unreal.FoliageType.affect_dynamic_indirect_lighting"></a>
 
-#### affect_dynamic_indirect_lighting
+#### affect\_dynamic\_indirect\_lighting
 
 ```python
 @property
@@ -480,7 +480,7 @@ def affect_dynamic_indirect_lighting() -> bool
 
 <a id="unreal.FoliageType.affect_distance_field_lighting"></a>
 
-#### affect_distance_field_lighting
+#### affect\_distance\_field\_lighting
 
 ```python
 @property
@@ -491,7 +491,7 @@ def affect_distance_field_lighting() -> bool
 
 <a id="unreal.FoliageType.cast_dynamic_shadow"></a>
 
-#### cast_dynamic_shadow
+#### cast\_dynamic\_shadow
 
 ```python
 @property
@@ -502,7 +502,7 @@ def cast_dynamic_shadow() -> bool
 
 <a id="unreal.FoliageType.cast_static_shadow"></a>
 
-#### cast_static_shadow
+#### cast\_static\_shadow
 
 ```python
 @property
@@ -513,7 +513,7 @@ def cast_static_shadow() -> bool
 
 <a id="unreal.FoliageType.cast_contact_shadow"></a>
 
-#### cast_contact_shadow
+#### cast\_contact\_shadow
 
 ```python
 @property
@@ -524,7 +524,7 @@ def cast_contact_shadow() -> bool
 
 <a id="unreal.FoliageType.cast_shadow_as_two_sided"></a>
 
-#### cast_shadow_as_two_sided
+#### cast\_shadow\_as\_two\_sided
 
 ```python
 @property
@@ -535,7 +535,7 @@ def cast_shadow_as_two_sided() -> bool
 
 <a id="unreal.FoliageType.receives_decals"></a>
 
-#### receives_decals
+#### receives\_decals
 
 ```python
 @property
@@ -546,7 +546,7 @@ def receives_decals() -> bool
 
 <a id="unreal.FoliageType.override_light_map_res"></a>
 
-#### override_light_map_res
+#### override\_light\_map\_res
 
 ```python
 @property
@@ -557,7 +557,7 @@ def override_light_map_res() -> bool
 
 <a id="unreal.FoliageType.shadow_cache_invalidation_behavior"></a>
 
-#### shadow_cache_invalidation_behavior
+#### shadow\_cache\_invalidation\_behavior
 
 ```python
 @property
@@ -568,7 +568,7 @@ def shadow_cache_invalidation_behavior() -> ShadowCacheInvalidationBehavior
 
 <a id="unreal.FoliageType.overridden_light_map_res"></a>
 
-#### overridden_light_map_res
+#### overridden\_light\_map\_res
 
 ```python
 @property
@@ -579,7 +579,7 @@ def overridden_light_map_res() -> int
 
 <a id="unreal.FoliageType.lightmap_type"></a>
 
-#### lightmap_type
+#### lightmap\_type
 
 ```python
 @property
@@ -590,7 +590,7 @@ def lightmap_type() -> LightmapType
 
 <a id="unreal.FoliageType.use_as_occluder"></a>
 
-#### use_as_occluder
+#### use\_as\_occluder
 
 ```python
 @property
@@ -602,7 +602,7 @@ it to correctly receive DBuffer decals. Enabling this setting may have a negativ
 
 <a id="unreal.FoliageType.visible_in_ray_tracing"></a>
 
-#### visible_in_ray_tracing
+#### visible\_in\_ray\_tracing
 
 ```python
 @property
@@ -613,7 +613,7 @@ def visible_in_ray_tracing() -> bool
 
 <a id="unreal.FoliageType.evaluate_world_position_offset"></a>
 
-#### evaluate_world_position_offset
+#### evaluate\_world\_position\_offset
 
 ```python
 @property
@@ -624,7 +624,7 @@ def evaluate_world_position_offset() -> bool
 
 <a id="unreal.FoliageType.world_position_offset_disable_distance"></a>
 
-#### world_position_offset_disable_distance
+#### world\_position\_offset\_disable\_distance
 
 ```python
 @property
@@ -635,7 +635,7 @@ def world_position_offset_disable_distance() -> int
 
 <a id="unreal.FoliageType.lighting_channels"></a>
 
-#### lighting_channels
+#### lighting\_channels
 
 ```python
 @property
@@ -647,7 +647,7 @@ These channels only apply to opaque materials, direct lighting, and dynamic ligh
 
 <a id="unreal.FoliageType.render_custom_depth"></a>
 
-#### render_custom_depth
+#### render\_custom\_depth
 
 ```python
 @property
@@ -658,7 +658,7 @@ def render_custom_depth() -> bool
 
 <a id="unreal.FoliageType.custom_depth_stencil_write_mask"></a>
 
-#### custom_depth_stencil_write_mask
+#### custom\_depth\_stencil\_write\_mask
 
 ```python
 @property
@@ -669,7 +669,7 @@ def custom_depth_stencil_write_mask() -> RendererStencilMask
 
 <a id="unreal.FoliageType.custom_depth_stencil_value"></a>
 
-#### custom_depth_stencil_value
+#### custom\_depth\_stencil\_value
 
 ```python
 @property
@@ -680,7 +680,7 @@ def custom_depth_stencil_value() -> int
 
 <a id="unreal.FoliageType.translucency_sort_priority"></a>
 
-#### translucency_sort_priority
+#### translucency\_sort\_priority
 
 ```python
 @property
@@ -697,7 +697,7 @@ It is especially problematic on dynamic gameplay effects.
 
 <a id="unreal.FoliageType.runtime_virtual_textures"></a>
 
-#### runtime_virtual_textures
+#### runtime\_virtual\_textures
 
 ```python
 @property
@@ -709,7 +709,7 @@ The mesh material also needs to be set up to output to a virtual texture.
 
 <a id="unreal.FoliageType.runtime_virtual_textures"></a>
 
-#### runtime_virtual_textures
+#### runtime\_virtual\_textures
 
 ```python
 @runtime_virtual_textures.setter
@@ -718,7 +718,7 @@ def runtime_virtual_textures(value: Array[RuntimeVirtualTexture]) -> None
 
 <a id="unreal.FoliageType.virtual_texture_cull_mips"></a>
 
-#### virtual_texture_cull_mips
+#### virtual\_texture\_cull\_mips
 
 ```python
 @property
@@ -731,7 +731,7 @@ This culling method doesn't take into account primitive size or virtual texture 
 
 <a id="unreal.FoliageType.virtual_texture_render_pass_type"></a>
 
-#### virtual_texture_render_pass_type
+#### virtual\_texture\_render\_pass\_type
 
 ```python
 @property
@@ -742,7 +742,7 @@ def virtual_texture_render_pass_type() -> RuntimeVirtualTextureMainPassType
 
 <a id="unreal.FoliageType.include_in_hlod"></a>
 
-#### include_in_hlod
+#### include\_in\_hlod
 
 ```python
 @property
@@ -753,7 +753,7 @@ def include_in_hlod() -> bool
 
 <a id="unreal.FoliageType.include_in_hlod"></a>
 
-#### include_in_hlod
+#### include\_in\_hlod
 
 ```python
 @include_in_hlod.setter

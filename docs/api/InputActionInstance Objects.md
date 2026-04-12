@@ -25,7 +25,7 @@ Generated from UInputAction templates above
 
 <a id="unreal.InputActionInstance.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(source_action: InputAction = None,
@@ -39,7 +39,7 @@ def __init__(source_action: InputAction = None,
 
 <a id="unreal.InputActionInstance.source_action"></a>
 
-#### source_action
+#### source\_action
 
 ```python
 @property
@@ -50,7 +50,7 @@ def source_action() -> InputAction
 
 <a id="unreal.InputActionInstance.trigger_event"></a>
 
-#### trigger_event
+#### trigger\_event
 
 ```python
 @property
@@ -61,7 +61,7 @@ def trigger_event() -> TriggerEvent
 
 <a id="unreal.InputActionInstance.last_triggered_world_time"></a>
 
-#### last_triggered_world_time
+#### last\_triggered\_world\_time
 
 ```python
 @property
@@ -94,7 +94,7 @@ def modifiers() -> Array[InputModifier]
 
 <a id="unreal.InputActionInstance.elapsed_processed_time"></a>
 
-#### elapsed_processed_time
+#### elapsed\_processed\_time
 
 ```python
 @property
@@ -105,7 +105,7 @@ def elapsed_processed_time() -> float
 
 <a id="unreal.InputActionInstance.elapsed_triggered_time"></a>
 
-#### elapsed_triggered_time
+#### elapsed\_triggered\_time
 
 ```python
 @property

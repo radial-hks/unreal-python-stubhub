@@ -145,7 +145,7 @@ and its size will be a multiple of the grid size.
 
 <a id="unreal.PCGPartitionActor.get_original_component"></a>
 
-#### get_original_component
+#### get\_original\_component
 
 ```python
 def get_original_component(local_component: PCGComponent) -> PCGComponent
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.PCGPartitionActor.get_local_component"></a>
 
-#### get_local_component
+#### get\_local\_component
 
 ```python
 def get_local_component(original_component: PCGComponent) -> PCGComponent

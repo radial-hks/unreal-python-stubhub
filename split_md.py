@@ -34,6 +34,6 @@ def split_markdown_by_h2(input_path, output_dir):
     print(f"分割完成！文件输出到: {output_dir}")
 
 # 示例调用
-input_markdown = 'api.md'  # 原Markdown路径
+input_markdown = 'docs/raw/api.md'  # 原Markdown路径
 output_folder = 'docs/api'  # 输出文件夹
 split_markdown_by_h2(input_markdown, output_folder)

@@ -19,7 +19,7 @@ uses internal data in order to be able to capture exception properties, like mat
 
 <a id="unreal.CapturableProperty.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(display_name: str = "") -> None
@@ -27,7 +27,7 @@ def __init__(display_name: str = "") -> None
 
 <a id="unreal.CapturableProperty.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property

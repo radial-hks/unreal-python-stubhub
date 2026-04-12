@@ -21,7 +21,7 @@ PCGTest My Color Struct
 
 <a id="unreal.PCGTestMyColorStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(b: float = 0.000000,

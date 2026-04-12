@@ -13,19 +13,19 @@ Additional information about a selection event
 
 <a id="unreal.SelectInfo.ON_KEY_PRESS"></a>
 
-#### ON_KEY_PRESS
+#### ON\_KEY\_PRESS
 
 0: User selected via a key press
 
 <a id="unreal.SelectInfo.ON_NAVIGATION"></a>
 
-#### ON_NAVIGATION
+#### ON\_NAVIGATION
 
 1: User selected by navigating to the item
 
 <a id="unreal.SelectInfo.ON_MOUSE_CLICK"></a>
 
-#### ON_MOUSE_CLICK
+#### ON\_MOUSE\_CLICK
 
 2: User selected by clicking on the item
 

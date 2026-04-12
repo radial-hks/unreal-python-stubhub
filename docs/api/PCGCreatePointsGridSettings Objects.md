@@ -43,7 +43,7 @@ Creates a 2D or 3D grid of points.
 
 <a id="unreal.PCGCreatePointsGridSettings.grid_extents"></a>
 
-#### grid_extents
+#### grid\_extents
 
 ```python
 @property
@@ -54,7 +54,7 @@ def grid_extents() -> Vector
 
 <a id="unreal.PCGCreatePointsGridSettings.grid_extents"></a>
 
-#### grid_extents
+#### grid\_extents
 
 ```python
 @grid_extents.setter
@@ -63,7 +63,7 @@ def grid_extents(value: Vector) -> None
 
 <a id="unreal.PCGCreatePointsGridSettings.cell_size"></a>
 
-#### cell_size
+#### cell\_size
 
 ```python
 @property
@@ -74,7 +74,7 @@ def cell_size() -> Vector
 
 <a id="unreal.PCGCreatePointsGridSettings.cell_size"></a>
 
-#### cell_size
+#### cell\_size
 
 ```python
 @cell_size.setter
@@ -83,7 +83,7 @@ def cell_size(value: Vector) -> None
 
 <a id="unreal.PCGCreatePointsGridSettings.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @property
@@ -97,7 +97,7 @@ represent a binary box function with the size of the point's bounds.
 
 <a id="unreal.PCGCreatePointsGridSettings.point_steepness"></a>
 
-#### point_steepness
+#### point\_steepness
 
 ```python
 @point_steepness.setter
@@ -106,7 +106,7 @@ def point_steepness(value: float) -> None
 
 <a id="unreal.PCGCreatePointsGridSettings.coordinate_space"></a>
 
-#### coordinate_space
+#### coordinate\_space
 
 ```python
 @property
@@ -117,7 +117,7 @@ def coordinate_space() -> PCGCoordinateSpace
 
 <a id="unreal.PCGCreatePointsGridSettings.coordinate_space"></a>
 
-#### coordinate_space
+#### coordinate\_space
 
 ```python
 @coordinate_space.setter
@@ -126,7 +126,7 @@ def coordinate_space(value: PCGCoordinateSpace) -> None
 
 <a id="unreal.PCGCreatePointsGridSettings.set_points_bounds"></a>
 
-#### set_points_bounds
+#### set\_points\_bounds
 
 ```python
 @property
@@ -137,7 +137,7 @@ def set_points_bounds() -> bool
 
 <a id="unreal.PCGCreatePointsGridSettings.set_points_bounds"></a>
 
-#### set_points_bounds
+#### set\_points\_bounds
 
 ```python
 @set_points_bounds.setter
@@ -146,7 +146,7 @@ def set_points_bounds(value: bool) -> None
 
 <a id="unreal.PCGCreatePointsGridSettings.cull_points_outside_volume"></a>
 
-#### cull_points_outside_volume
+#### cull\_points\_outside\_volume
 
 ```python
 @property
@@ -157,7 +157,7 @@ def cull_points_outside_volume() -> bool
 
 <a id="unreal.PCGCreatePointsGridSettings.cull_points_outside_volume"></a>
 
-#### cull_points_outside_volume
+#### cull\_points\_outside\_volume
 
 ```python
 @cull_points_outside_volume.setter
@@ -166,7 +166,7 @@ def cull_points_outside_volume(value: bool) -> None
 
 <a id="unreal.PCGCreatePointsGridSettings.point_position"></a>
 
-#### point_position
+#### point\_position
 
 ```python
 @property
@@ -177,7 +177,7 @@ def point_position() -> PCGPointPosition
 
 <a id="unreal.PCGCreatePointsGridSettings.point_position"></a>
 
-#### point_position
+#### point\_position
 
 ```python
 @point_position.setter

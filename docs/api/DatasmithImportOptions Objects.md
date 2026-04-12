@@ -22,7 +22,7 @@ Datasmith Import Options
 
 <a id="unreal.DatasmithImportOptions.base_options"></a>
 
-#### base_options
+#### base\_options
 
 ```python
 @property
@@ -33,7 +33,7 @@ def base_options() -> DatasmithImportBaseOptions
 
 <a id="unreal.DatasmithImportOptions.base_options"></a>
 
-#### base_options
+#### base\_options
 
 ```python
 @base_options.setter
@@ -42,7 +42,7 @@ def base_options(value: DatasmithImportBaseOptions) -> None
 
 <a id="unreal.DatasmithImportOptions.reimport_options"></a>
 
-#### reimport_options
+#### reimport\_options
 
 ```python
 @property
@@ -53,7 +53,7 @@ def reimport_options() -> DatasmithReimportOptions
 
 <a id="unreal.DatasmithImportOptions.reimport_options"></a>
 
-#### reimport_options
+#### reimport\_options
 
 ```python
 @reimport_options.setter
@@ -62,7 +62,7 @@ def reimport_options(value: DatasmithReimportOptions) -> None
 
 <a id="unreal.DatasmithImportOptions.file_name"></a>
 
-#### file_name
+#### file\_name
 
 ```python
 @property
@@ -73,7 +73,7 @@ def file_name() -> str
 
 <a id="unreal.DatasmithImportOptions.file_name"></a>
 
-#### file_name
+#### file\_name
 
 ```python
 @file_name.setter
@@ -82,7 +82,7 @@ def file_name(value: str) -> None
 
 <a id="unreal.DatasmithImportOptions.file_path"></a>
 
-#### file_path
+#### file\_path
 
 ```python
 @property
@@ -93,7 +93,7 @@ def file_path() -> str
 
 <a id="unreal.DatasmithImportOptions.file_path"></a>
 
-#### file_path
+#### file\_path
 
 ```python
 @file_path.setter
@@ -102,7 +102,7 @@ def file_path(value: str) -> None
 
 <a id="unreal.DatasmithImportOptions.source_uri"></a>
 
-#### source_uri
+#### source\_uri
 
 ```python
 @property
@@ -113,7 +113,7 @@ def source_uri() -> str
 
 <a id="unreal.DatasmithImportOptions.source_uri"></a>
 
-#### source_uri
+#### source\_uri
 
 ```python
 @source_uri.setter

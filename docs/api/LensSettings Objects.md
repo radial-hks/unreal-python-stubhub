@@ -19,7 +19,7 @@ Lens Settings
 
 <a id="unreal.LensSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bloom: LensBloomSettings = [[
@@ -84,7 +84,7 @@ def imperfections(value: LensImperfectionSettings) -> None
 
 <a id="unreal.LensSettings.chromatic_aberration"></a>
 
-#### chromatic_aberration
+#### chromatic\_aberration
 
 ```python
 @property
@@ -95,7 +95,7 @@ def chromatic_aberration() -> float
 
 <a id="unreal.LensSettings.chromatic_aberration"></a>
 
-#### chromatic_aberration
+#### chromatic\_aberration
 
 ```python
 @chromatic_aberration.setter

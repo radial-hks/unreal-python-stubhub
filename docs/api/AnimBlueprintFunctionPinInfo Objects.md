@@ -18,7 +18,7 @@ Required info for reconstructing a manually specified pin
 
 <a id="unreal.AnimBlueprintFunctionPinInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

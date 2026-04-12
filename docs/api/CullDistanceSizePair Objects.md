@@ -18,7 +18,7 @@ Helper structure containing size and cull distance pair.
 
 <a id="unreal.CullDistanceSizePair.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(size: float = 0.000000, cull_distance: float = 0.000000) -> None
@@ -37,7 +37,7 @@ def size() -> float
 
 <a id="unreal.CullDistanceSizePair.cull_distance"></a>
 
-#### cull_distance
+#### cull\_distance
 
 ```python
 @property

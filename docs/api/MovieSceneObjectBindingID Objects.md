@@ -24,7 +24,7 @@ Fixed bindings will break if the sequence is evaluated inside a different root s
 
 <a id="unreal.MovieSceneObjectBindingID.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -91,7 +91,7 @@ def speed(value: float) -> None
 
 <a id="unreal.WindDirectionalSourceComponent.min_gust_amount"></a>
 
-#### min_gust_amount
+#### min\_gust\_amount
 
 ```python
 @property
@@ -102,7 +102,7 @@ def min_gust_amount() -> float
 
 <a id="unreal.WindDirectionalSourceComponent.max_gust_amount"></a>
 
-#### max_gust_amount
+#### max\_gust\_amount
 
 ```python
 @property
@@ -133,7 +133,7 @@ def radius(value: float) -> None
 
 <a id="unreal.WindDirectionalSourceComponent.point_wind"></a>
 
-#### point_wind
+#### point\_wind
 
 ```python
 @property
@@ -144,7 +144,7 @@ def point_wind() -> bool
 
 <a id="unreal.WindDirectionalSourceComponent.set_wind_type"></a>
 
-#### set_wind_type
+#### set\_wind\_type
 
 ```python
 def set_wind_type(new_type: WindSourceType) -> None
@@ -158,7 +158,7 @@ Args:
 
 <a id="unreal.WindDirectionalSourceComponent.set_strength"></a>
 
-#### set_strength
+#### set\_strength
 
 ```python
 def set_strength(new_strength: float) -> None
@@ -172,7 +172,7 @@ Args:
 
 <a id="unreal.WindDirectionalSourceComponent.set_speed"></a>
 
-#### set_speed
+#### set\_speed
 
 ```python
 def set_speed(new_speed: float) -> None
@@ -186,7 +186,7 @@ Args:
 
 <a id="unreal.WindDirectionalSourceComponent.set_radius"></a>
 
-#### set_radius
+#### set\_radius
 
 ```python
 def set_radius(new_radius: float) -> None
@@ -200,7 +200,7 @@ Args:
 
 <a id="unreal.WindDirectionalSourceComponent.set_minimum_gust_amount"></a>
 
-#### set_minimum_gust_amount
+#### set\_minimum\_gust\_amount
 
 ```python
 def set_minimum_gust_amount(new_min_gust: float) -> None
@@ -214,7 +214,7 @@ Args:
 
 <a id="unreal.WindDirectionalSourceComponent.set_maximum_gust_amount"></a>
 
-#### set_maximum_gust_amount
+#### set\_maximum\_gust\_amount
 
 ```python
 def set_maximum_gust_amount(new_max_gust: float) -> None

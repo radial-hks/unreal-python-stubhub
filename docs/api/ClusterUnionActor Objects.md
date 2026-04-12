@@ -142,7 +142,7 @@ A lightweight actor that can be used to own a cluster union component.
 
 <a id="unreal.ClusterUnionActor.cluster_union"></a>
 
-#### cluster_union
+#### cluster\_union
 
 ```python
 @property

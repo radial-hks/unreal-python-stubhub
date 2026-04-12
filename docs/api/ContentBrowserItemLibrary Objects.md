@@ -13,7 +13,7 @@ TODO: Script API exposure
 
 <a id="unreal.ContentBrowserItemLibrary.is_folder"></a>
 
-#### is_folder
+#### is\_folder
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItemLibrary.is_file"></a>
 
-#### is_file
+#### is\_file
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItemLibrary.get_virtual_path"></a>
 
-#### get_virtual_path
+#### get\_virtual\_path
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItemLibrary.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 @classmethod

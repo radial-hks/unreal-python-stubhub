@@ -31,13 +31,13 @@ Enum describing the audio component play state
 
 <a id="unreal.AudioComponentPlayState.FADING_IN"></a>
 
-#### FADING_IN
+#### FADING\_IN
 
 3: If the sound is playing and fading in
 
 <a id="unreal.AudioComponentPlayState.FADING_OUT"></a>
 
-#### FADING_OUT
+#### FADING\_OUT
 
 4: If the sound is playing and fading out
 

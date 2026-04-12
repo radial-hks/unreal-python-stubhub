@@ -19,7 +19,7 @@ Base for the appearance of an Audio Material Slates
 
 <a id="unreal.AudioMaterialWidgetStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(material: MaterialInterface = None,
@@ -48,7 +48,7 @@ def material(value: MaterialInterface) -> None
 
 <a id="unreal.AudioMaterialWidgetStyle.desired_size"></a>
 
-#### desired_size
+#### desired\_size
 
 ```python
 @property
@@ -59,7 +59,7 @@ def desired_size() -> Vector2f
 
 <a id="unreal.AudioMaterialWidgetStyle.desired_size"></a>
 
-#### desired_size
+#### desired\_size
 
 ```python
 @desired_size.setter

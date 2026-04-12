@@ -22,7 +22,7 @@ Movie Scene Primitive Material Track
 
 <a id="unreal.MovieScenePrimitiveMaterialTrack.set_material_info"></a>
 
-#### set_material_info
+#### set\_material\_info
 
 ```python
 def set_material_info(material_info: ComponentMaterialInfo) -> None
@@ -36,7 +36,7 @@ Args:
 
 <a id="unreal.MovieScenePrimitiveMaterialTrack.set_material_index"></a>
 
-#### set_material_index
+#### set\_material\_index
 
 ```python
 def set_material_index(material_index: int) -> None
@@ -51,7 +51,7 @@ Args:
 
 <a id="unreal.MovieScenePrimitiveMaterialTrack.get_material_info"></a>
 
-#### get_material_info
+#### get\_material\_info
 
 ```python
 def get_material_info() -> ComponentMaterialInfo
@@ -66,7 +66,7 @@ Returns:
 
 <a id="unreal.MovieScenePrimitiveMaterialTrack.get_material_index"></a>
 
-#### get_material_index
+#### get\_material\_index
 
 ```python
 def get_material_index() -> int

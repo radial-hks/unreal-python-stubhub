@@ -14,61 +14,61 @@ the drag operation.
 
 <a id="unreal.DragPivot.MOUSE_DOWN"></a>
 
-#### MOUSE_DOWN
+#### MOUSE\_DOWN
 
 0
 
 <a id="unreal.DragPivot.TOP_LEFT"></a>
 
-#### TOP_LEFT
+#### TOP\_LEFT
 
 1
 
 <a id="unreal.DragPivot.TOP_CENTER"></a>
 
-#### TOP_CENTER
+#### TOP\_CENTER
 
 2
 
 <a id="unreal.DragPivot.TOP_RIGHT"></a>
 
-#### TOP_RIGHT
+#### TOP\_RIGHT
 
 3
 
 <a id="unreal.DragPivot.CENTER_LEFT"></a>
 
-#### CENTER_LEFT
+#### CENTER\_LEFT
 
 4
 
 <a id="unreal.DragPivot.CENTER_CENTER"></a>
 
-#### CENTER_CENTER
+#### CENTER\_CENTER
 
 5
 
 <a id="unreal.DragPivot.CENTER_RIGHT"></a>
 
-#### CENTER_RIGHT
+#### CENTER\_RIGHT
 
 6
 
 <a id="unreal.DragPivot.BOTTOM_LEFT"></a>
 
-#### BOTTOM_LEFT
+#### BOTTOM\_LEFT
 
 7
 
 <a id="unreal.DragPivot.BOTTOM_CENTER"></a>
 
-#### BOTTOM_CENTER
+#### BOTTOM\_CENTER
 
 8
 
 <a id="unreal.DragPivot.BOTTOM_RIGHT"></a>
 
-#### BOTTOM_RIGHT
+#### BOTTOM\_RIGHT
 
 9
 

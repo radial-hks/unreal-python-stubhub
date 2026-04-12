@@ -18,7 +18,7 @@ Handle to a particular row in a table.
 
 <a id="unreal.CurveTableRowHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(curve_table: CurveTable = None, row_name: Name = "None") -> None
@@ -26,7 +26,7 @@ def __init__(curve_table: CurveTable = None, row_name: Name = "None") -> None
 
 <a id="unreal.CurveTableRowHandle.curve_table"></a>
 
-#### curve_table
+#### curve\_table
 
 ```python
 @property
@@ -37,7 +37,7 @@ def curve_table() -> CurveTable
 
 <a id="unreal.CurveTableRowHandle.curve_table"></a>
 
-#### curve_table
+#### curve\_table
 
 ```python
 @curve_table.setter
@@ -46,7 +46,7 @@ def curve_table(value: CurveTable) -> None
 
 <a id="unreal.CurveTableRowHandle.row_name"></a>
 
-#### row_name
+#### row\_name
 
 ```python
 @property
@@ -57,7 +57,7 @@ def row_name() -> Name
 
 <a id="unreal.CurveTableRowHandle.row_name"></a>
 
-#### row_name
+#### row\_name
 
 ```python
 @row_name.setter

@@ -18,7 +18,7 @@ Editor Utility Subsystem
 
 <a id="unreal.EditorUtilitySubsystem.on_begin_pie"></a>
 
-#### on_begin_pie
+#### on\_begin\_pie
 
 ```python
 @property
@@ -29,7 +29,7 @@ def on_begin_pie() -> OnEditorUtilityPIEEvent
 
 <a id="unreal.EditorUtilitySubsystem.on_begin_pie"></a>
 
-#### on_begin_pie
+#### on\_begin\_pie
 
 ```python
 @on_begin_pie.setter
@@ -38,7 +38,7 @@ def on_begin_pie(value: OnEditorUtilityPIEEvent) -> None
 
 <a id="unreal.EditorUtilitySubsystem.on_end_pie"></a>
 
-#### on_end_pie
+#### on\_end\_pie
 
 ```python
 @property
@@ -49,7 +49,7 @@ def on_end_pie() -> OnEditorUtilityPIEEvent
 
 <a id="unreal.EditorUtilitySubsystem.on_end_pie"></a>
 
-#### on_end_pie
+#### on\_end\_pie
 
 ```python
 @on_end_pie.setter
@@ -58,7 +58,7 @@ def on_end_pie(value: OnEditorUtilityPIEEvent) -> None
 
 <a id="unreal.EditorUtilitySubsystem.unregister_tab_by_id"></a>
 
-#### unregister_tab_by_id
+#### unregister\_tab\_by\_id
 
 ```python
 def unregister_tab_by_id(tab_id: Name) -> bool
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.try_run_class"></a>
 
-#### try_run_class
+#### try\_run\_class
 
 ```python
 def try_run_class(object_class: Class) -> bool
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.try_run"></a>
 
-#### try_run
+#### try\_run
 
 ```python
 def try_run(asset: Object) -> bool
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.spawn_registered_tab_by_id"></a>
 
-#### spawn_registered_tab_by_id
+#### spawn\_registered\_tab\_by\_id
 
 ```python
 def spawn_registered_tab_by_id(new_tab_id: Name) -> bool
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.spawn_and_register_tab_with_id_generated_class"></a>
 
-#### spawn_and_register_tab_with_id_generated_class
+#### spawn\_and\_register\_tab\_with\_id\_generated\_class
 
 ```python
 def spawn_and_register_tab_with_id_generated_class(
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.spawn_and_register_tab_with_id"></a>
 
-#### spawn_and_register_tab_with_id
+#### spawn\_and\_register\_tab\_with\_id
 
 ```python
 def spawn_and_register_tab_with_id(blueprint: EditorUtilityWidgetBlueprint,
@@ -165,7 +165,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.spawn_and_register_tab_generated_class"></a>
 
-#### spawn_and_register_tab_generated_class
+#### spawn\_and\_register\_tab\_generated\_class
 
 ```python
 def spawn_and_register_tab_generated_class(
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.spawn_and_register_tab_and_get_id_generated_class"></a>
 
-#### spawn_and_register_tab_and_get_id_generated_class
+#### spawn\_and\_register\_tab\_and\_get\_id\_generated\_class
 
 ```python
 def spawn_and_register_tab_and_get_id_generated_class(
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.spawn_and_register_tab_and_get_id"></a>
 
-#### spawn_and_register_tab_and_get_id
+#### spawn\_and\_register\_tab\_and\_get\_id
 
 ```python
 def spawn_and_register_tab_and_get_id(
@@ -226,7 +226,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.spawn_and_register_tab"></a>
 
-#### spawn_and_register_tab
+#### spawn\_and\_register\_tab
 
 ```python
 def spawn_and_register_tab(
@@ -244,7 +244,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.release_instance_of_asset"></a>
 
-#### release_instance_of_asset
+#### release\_instance\_of\_asset
 
 ```python
 def release_instance_of_asset(asset: Object) -> None
@@ -258,7 +258,7 @@ Args:
 
 <a id="unreal.EditorUtilitySubsystem.register_tab_and_get_id_generated_class"></a>
 
-#### register_tab_and_get_id_generated_class
+#### register\_tab\_and\_get\_id\_generated\_class
 
 ```python
 def register_tab_and_get_id_generated_class(
@@ -278,7 +278,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.register_tab_and_get_id"></a>
 
-#### register_tab_and_get_id
+#### register\_tab\_and\_get\_id
 
 ```python
 def register_tab_and_get_id(blueprint: EditorUtilityWidgetBlueprint) -> Name
@@ -297,7 +297,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.register_and_execute_task"></a>
 
-#### register_and_execute_task
+#### register\_and\_execute\_task
 
 ```python
 def register_and_execute_task(
@@ -314,7 +314,7 @@ Args:
 
 <a id="unreal.EditorUtilitySubsystem.find_utility_widget_from_blueprint"></a>
 
-#### find_utility_widget_from_blueprint
+#### find\_utility\_widget\_from\_blueprint
 
 ```python
 def find_utility_widget_from_blueprint(
@@ -332,7 +332,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.does_tab_exist"></a>
 
-#### does_tab_exist
+#### does\_tab\_exist
 
 ```python
 def does_tab_exist(new_tab_id: Name) -> bool
@@ -349,7 +349,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.close_tab_by_id"></a>
 
-#### close_tab_by_id
+#### close\_tab\_by\_id
 
 ```python
 def close_tab_by_id(new_tab_id: Name) -> bool
@@ -366,7 +366,7 @@ Returns:
 
 <a id="unreal.EditorUtilitySubsystem.can_run"></a>
 
-#### can_run
+#### can\_run
 
 ```python
 def can_run(asset: Object) -> bool

@@ -21,7 +21,7 @@ Hair Shadow Settings
 
 <a id="unreal.HairShadowSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(hair_shadow_density: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(hair_shadow_density: float = 0.000000,
 
 <a id="unreal.HairShadowSettings.hair_shadow_density"></a>
 
-#### hair_shadow_density
+#### hair\_shadow\_density
 
 ```python
 @property
@@ -43,7 +43,7 @@ def hair_shadow_density() -> float
 
 <a id="unreal.HairShadowSettings.hair_shadow_density"></a>
 
-#### hair_shadow_density
+#### hair\_shadow\_density
 
 ```python
 @hair_shadow_density.setter
@@ -52,7 +52,7 @@ def hair_shadow_density(value: float) -> None
 
 <a id="unreal.HairShadowSettings.hair_raytracing_radius_scale"></a>
 
-#### hair_raytracing_radius_scale
+#### hair\_raytracing\_radius\_scale
 
 ```python
 @property
@@ -63,7 +63,7 @@ def hair_raytracing_radius_scale() -> float
 
 <a id="unreal.HairShadowSettings.hair_raytracing_radius_scale"></a>
 
-#### hair_raytracing_radius_scale
+#### hair\_raytracing\_radius\_scale
 
 ```python
 @hair_raytracing_radius_scale.setter
@@ -72,7 +72,7 @@ def hair_raytracing_radius_scale(value: float) -> None
 
 <a id="unreal.HairShadowSettings.use_hair_raytracing_geometry"></a>
 
-#### use_hair_raytracing_geometry
+#### use\_hair\_raytracing\_geometry
 
 ```python
 @property
@@ -83,7 +83,7 @@ def use_hair_raytracing_geometry() -> bool
 
 <a id="unreal.HairShadowSettings.use_hair_raytracing_geometry"></a>
 
-#### use_hair_raytracing_geometry
+#### use\_hair\_raytracing\_geometry
 
 ```python
 @use_hair_raytracing_geometry.setter

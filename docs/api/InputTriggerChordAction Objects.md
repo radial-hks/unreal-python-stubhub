@@ -23,7 +23,7 @@ Applies a chord action that must be triggering for this trigger's action to trig
 
 <a id="unreal.InputTriggerChordAction.chord_action"></a>
 
-#### chord_action
+#### chord\_action
 
 ```python
 @property
@@ -34,7 +34,7 @@ def chord_action() -> InputAction
 
 <a id="unreal.InputTriggerChordAction.chord_action"></a>
 
-#### chord_action
+#### chord\_action
 
 ```python
 @chord_action.setter

@@ -18,7 +18,7 @@ Previewable Widget Variant
 
 <a id="unreal.PreviewableWidgetVariant.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(object_path: SoftObjectPath = [""]) -> None
@@ -26,7 +26,7 @@ def __init__(object_path: SoftObjectPath = [""]) -> None
 
 <a id="unreal.PreviewableWidgetVariant.object_path"></a>
 
-#### object_path
+#### object\_path
 
 ```python
 @property
@@ -35,4 +35,4 @@ def object_path() -> SoftObjectPath
 
 (SoftObjectPath):  [Read-Only]
 
-<a id="unreal.PCGLoadAlembicBPData"></a>
+<a id="unreal.CollectionAttributeKey"></a>

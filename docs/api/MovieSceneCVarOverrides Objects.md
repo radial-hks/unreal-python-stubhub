@@ -17,7 +17,7 @@ Movie Scene CVar Overrides
 
 <a id="unreal.MovieSceneCVarOverrides.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

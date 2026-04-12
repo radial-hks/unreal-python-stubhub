@@ -33,7 +33,7 @@ Movie scene animation embedded within an actor.
 
 <a id="unreal.ActorSequenceComponent.sequence_player"></a>
 
-#### sequence_player
+#### sequence\_player
 
 ```python
 @property
@@ -44,7 +44,7 @@ def sequence_player() -> ActorSequencePlayer
 
 <a id="unreal.ActorSequenceComponent.stop_sequence"></a>
 
-#### stop_sequence
+#### stop\_sequence
 
 ```python
 def stop_sequence() -> None
@@ -55,7 +55,7 @@ Calls the Stop function on the SequencePlayer if its valid.
 
 <a id="unreal.ActorSequenceComponent.play_sequence"></a>
 
-#### play_sequence
+#### play\_sequence
 
 ```python
 def play_sequence() -> None
@@ -66,7 +66,7 @@ Calls the Play function on the SequencePlayer if its valid.
 
 <a id="unreal.ActorSequenceComponent.pause_sequence"></a>
 
-#### pause_sequence
+#### pause\_sequence
 
 ```python
 def pause_sequence() -> None

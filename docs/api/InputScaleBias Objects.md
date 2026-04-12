@@ -18,7 +18,7 @@ Input modifier with scaling and biasing
 
 <a id="unreal.InputScaleBias.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(scale: float = 0.000000, bias: float = 0.000000) -> None

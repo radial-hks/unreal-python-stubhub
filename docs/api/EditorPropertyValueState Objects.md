@@ -25,13 +25,13 @@ States a property value queried by IsEditorPropertyOverridden can be in
 
 <a id="unreal.EditorPropertyValueState.NOT_FOUND"></a>
 
-#### NOT_FOUND
+#### NOT\_FOUND
 
 2: The property was not found on the object or its archetype; its state is unknown
 
 <a id="unreal.EditorPropertyValueState.ACCESS_DENIED"></a>
 
-#### ACCESS_DENIED
+#### ACCESS\_DENIED
 
 3: The property could not be accessed to query its state; its state is unknown
 

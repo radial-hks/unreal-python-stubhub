@@ -8,7 +8,7 @@ deprecated: 'InteractiveToolPresetDefintion' was renamed to 'InteractiveToolPres
 
 <a id="unreal.InteractiveToolPresetDefintion.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

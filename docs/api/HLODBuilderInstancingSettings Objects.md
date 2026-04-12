@@ -19,7 +19,7 @@ HLODBuilder Instancing Settings
 
 <a id="unreal.HLODBuilderInstancingSettings.disallow_nanite"></a>
 
-#### disallow_nanite
+#### disallow\_nanite
 
 ```python
 @property
@@ -31,7 +31,7 @@ Necessary if you want to use the last LOD & the mesh is Nanite enabled, as force
 
 <a id="unreal.HLODBuilderInstancingSettings.disallow_nanite"></a>
 
-#### disallow_nanite
+#### disallow\_nanite
 
 ```python
 @disallow_nanite.setter

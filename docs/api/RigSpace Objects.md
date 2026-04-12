@@ -24,7 +24,7 @@ Rig Space
 
 <a id="unreal.RigSpace.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -44,7 +44,7 @@ def __init__(
 
 <a id="unreal.RigSpace.space_type"></a>
 
-#### space_type
+#### space\_type
 
 ```python
 @property
@@ -55,7 +55,7 @@ def space_type() -> RigSpaceType
 
 <a id="unreal.RigSpace.parent_name"></a>
 
-#### parent_name
+#### parent\_name
 
 ```python
 @property
@@ -66,7 +66,7 @@ def parent_name() -> Name
 
 <a id="unreal.RigSpace.parent_index"></a>
 
-#### parent_index
+#### parent\_index
 
 ```python
 @property
@@ -77,7 +77,7 @@ def parent_index() -> int
 
 <a id="unreal.RigSpace.initial_transform"></a>
 
-#### initial_transform
+#### initial\_transform
 
 ```python
 @property
@@ -88,7 +88,7 @@ def initial_transform() -> Transform
 
 <a id="unreal.RigSpace.local_transform"></a>
 
-#### local_transform
+#### local\_transform
 
 ```python
 @property

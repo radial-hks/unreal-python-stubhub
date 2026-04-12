@@ -21,4 +21,4 @@ Implements a movie scene track for media playback.
 - ``track_row_display_names`` (Array[Text]):  [Read-Write] The track display name per row.
 - ``track_tint`` (Color):  [Read-Write] This track's tint color
 
-<a id="unreal.MediaPlayerEditorMediaContext"></a>
+<a id="unreal.MediaPlate"></a>

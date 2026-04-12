@@ -14,7 +14,7 @@ Landmass Blueprint Function Library
 
 <a id="unreal.LandmassBlueprintFunctionLibrary.world_extents_to_canvas_coordinates"></a>
 
-#### world_extents_to_canvas_coordinates
+#### world\_extents\_to\_canvas\_coordinates
 
 ```python
 @classmethod
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.LandmassBlueprintFunctionLibrary.get_cursor_world_ray"></a>
 
-#### get_cursor_world_ray
+#### get\_cursor\_world\_ray
 
 ```python
 @classmethod
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.LandmassBlueprintFunctionLibrary.force_update_texture"></a>
 
-#### force_update_texture
+#### force\_update\_texture
 
 ```python
 @classmethod
@@ -79,7 +79,7 @@ Args:
 
 <a id="unreal.LandmassBlueprintFunctionLibrary.combine_world_extents"></a>
 
-#### combine_world_extents
+#### combine\_world\_extents
 
 ```python
 @classmethod

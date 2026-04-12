@@ -31,7 +31,7 @@ A camera shake that uses oscillations to move the camera.
 
 <a id="unreal.WaveOscillatorCameraShakePattern.location_amplitude_multiplier"></a>
 
-#### location_amplitude_multiplier
+#### location\_amplitude\_multiplier
 
 ```python
 @property
@@ -42,7 +42,7 @@ def location_amplitude_multiplier() -> float
 
 <a id="unreal.WaveOscillatorCameraShakePattern.location_amplitude_multiplier"></a>
 
-#### location_amplitude_multiplier
+#### location\_amplitude\_multiplier
 
 ```python
 @location_amplitude_multiplier.setter
@@ -51,7 +51,7 @@ def location_amplitude_multiplier(value: float) -> None
 
 <a id="unreal.WaveOscillatorCameraShakePattern.location_frequency_multiplier"></a>
 
-#### location_frequency_multiplier
+#### location\_frequency\_multiplier
 
 ```python
 @property
@@ -62,7 +62,7 @@ def location_frequency_multiplier() -> float
 
 <a id="unreal.WaveOscillatorCameraShakePattern.location_frequency_multiplier"></a>
 
-#### location_frequency_multiplier
+#### location\_frequency\_multiplier
 
 ```python
 @location_frequency_multiplier.setter
@@ -131,7 +131,7 @@ def z(value: WaveOscillator) -> None
 
 <a id="unreal.WaveOscillatorCameraShakePattern.rotation_amplitude_multiplier"></a>
 
-#### rotation_amplitude_multiplier
+#### rotation\_amplitude\_multiplier
 
 ```python
 @property
@@ -142,7 +142,7 @@ def rotation_amplitude_multiplier() -> float
 
 <a id="unreal.WaveOscillatorCameraShakePattern.rotation_amplitude_multiplier"></a>
 
-#### rotation_amplitude_multiplier
+#### rotation\_amplitude\_multiplier
 
 ```python
 @rotation_amplitude_multiplier.setter
@@ -151,7 +151,7 @@ def rotation_amplitude_multiplier(value: float) -> None
 
 <a id="unreal.WaveOscillatorCameraShakePattern.rotation_frequency_multiplier"></a>
 
-#### rotation_frequency_multiplier
+#### rotation\_frequency\_multiplier
 
 ```python
 @property
@@ -162,7 +162,7 @@ def rotation_frequency_multiplier() -> float
 
 <a id="unreal.WaveOscillatorCameraShakePattern.rotation_frequency_multiplier"></a>
 
-#### rotation_frequency_multiplier
+#### rotation\_frequency\_multiplier
 
 ```python
 @rotation_frequency_multiplier.setter

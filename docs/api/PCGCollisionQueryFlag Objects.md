@@ -26,13 +26,13 @@ EPCGCollision Query Flag
 
 <a id="unreal.PCGCollisionQueryFlag.SIMPLE_FIRST"></a>
 
-#### SIMPLE_FIRST
+#### SIMPLE\_FIRST
 
 2
 
 <a id="unreal.PCGCollisionQueryFlag.COMPLEX_FIRST"></a>
 
-#### COMPLEX_FIRST
+#### COMPLEX\_FIRST
 
 3
 

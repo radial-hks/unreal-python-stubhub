@@ -20,7 +20,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Input/index.html
 
 <a id="unreal.PlayerInput.get_outer_a_player_controller"></a>
 
-#### get_outer_a_player_controller
+#### get\_outer\_a\_player\_controller
 
 ```python
 def get_outer_a_player_controller() -> PlayerController

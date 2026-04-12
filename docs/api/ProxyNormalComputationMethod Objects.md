@@ -13,19 +13,19 @@ EProxy Normal Computation Method
 
 <a id="unreal.ProxyNormalComputationMethod.ANGLE_WEIGHTED"></a>
 
-#### ANGLE_WEIGHTED
+#### ANGLE\_WEIGHTED
 
 0
 
 <a id="unreal.ProxyNormalComputationMethod.AREA_WEIGHTED"></a>
 
-#### AREA_WEIGHTED
+#### AREA\_WEIGHTED
 
 1
 
 <a id="unreal.ProxyNormalComputationMethod.EQUAL_WEIGHTED"></a>
 
-#### EQUAL_WEIGHTED
+#### EQUAL\_WEIGHTED
 
 2
 

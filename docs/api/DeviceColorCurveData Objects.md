@@ -19,7 +19,7 @@ Data required for setting the Input Device Color
 
 <a id="unreal.DeviceColorCurveData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enable: bool = False,
@@ -49,7 +49,7 @@ def enable(value: bool) -> None
 
 <a id="unreal.DeviceColorCurveData.reset_after_completion"></a>
 
-#### reset_after_completion
+#### reset\_after\_completion
 
 ```python
 @property
@@ -60,7 +60,7 @@ def reset_after_completion() -> bool
 
 <a id="unreal.DeviceColorCurveData.reset_after_completion"></a>
 
-#### reset_after_completion
+#### reset\_after\_completion
 
 ```python
 @reset_after_completion.setter
@@ -69,7 +69,7 @@ def reset_after_completion(value: bool) -> None
 
 <a id="unreal.DeviceColorCurveData.device_color_curve"></a>
 
-#### device_color_curve
+#### device\_color\_curve
 
 ```python
 @property
@@ -80,7 +80,7 @@ def device_color_curve() -> CurveLinearColor
 
 <a id="unreal.DeviceColorCurveData.device_color_curve"></a>
 
-#### device_color_curve
+#### device\_color\_curve
 
 ```python
 @device_color_curve.setter

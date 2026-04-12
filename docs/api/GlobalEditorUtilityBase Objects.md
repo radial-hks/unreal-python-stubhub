@@ -20,7 +20,7 @@ Global Editor Utility Base
 
 <a id="unreal.GlobalEditorUtilityBase.help_text"></a>
 
-#### help_text
+#### help\_text
 
 ```python
 @property
@@ -31,7 +31,7 @@ def help_text() -> str
 
 <a id="unreal.GlobalEditorUtilityBase.help_text"></a>
 
-#### help_text
+#### help\_text
 
 ```python
 @help_text.setter
@@ -40,7 +40,7 @@ def help_text(value: str) -> None
 
 <a id="unreal.GlobalEditorUtilityBase.auto_run_default_action"></a>
 
-#### auto_run_default_action
+#### auto\_run\_default\_action
 
 ```python
 @property
@@ -51,7 +51,7 @@ def auto_run_default_action() -> bool
 
 <a id="unreal.GlobalEditorUtilityBase.on_each_selected_actor"></a>
 
-#### on_each_selected_actor
+#### on\_each\_selected\_actor
 
 ```python
 @property
@@ -62,7 +62,7 @@ def on_each_selected_actor() -> ForEachActorIteratorSignature
 
 <a id="unreal.GlobalEditorUtilityBase.on_each_selected_actor"></a>
 
-#### on_each_selected_actor
+#### on\_each\_selected\_actor
 
 ```python
 @on_each_selected_actor.setter
@@ -71,7 +71,7 @@ def on_each_selected_actor(value: ForEachActorIteratorSignature) -> None
 
 <a id="unreal.GlobalEditorUtilityBase.on_each_selected_asset"></a>
 
-#### on_each_selected_asset
+#### on\_each\_selected\_asset
 
 ```python
 @property
@@ -82,7 +82,7 @@ def on_each_selected_asset() -> ForEachAssetIteratorSignature
 
 <a id="unreal.GlobalEditorUtilityBase.on_each_selected_asset"></a>
 
-#### on_each_selected_asset
+#### on\_each\_selected\_asset
 
 ```python
 @on_each_selected_asset.setter
@@ -91,7 +91,7 @@ def on_each_selected_asset(value: ForEachAssetIteratorSignature) -> None
 
 <a id="unreal.GlobalEditorUtilityBase.set_actor_selection_state"></a>
 
-#### set_actor_selection_state
+#### set\_actor\_selection\_state
 
 ```python
 def set_actor_selection_state(actor: Actor, should_be_selected: bool) -> None
@@ -106,7 +106,7 @@ Args:
 
 <a id="unreal.GlobalEditorUtilityBase.select_nothing"></a>
 
-#### select_nothing
+#### select\_nothing
 
 ```python
 def select_nothing() -> None
@@ -117,7 +117,7 @@ Selects nothing in the editor (another way to clear the selection)
 
 <a id="unreal.GlobalEditorUtilityBase.rename_asset"></a>
 
-#### rename_asset
+#### rename\_asset
 
 ```python
 def rename_asset(asset: Object, new_name: str) -> None
@@ -132,7 +132,7 @@ Args:
 
 <a id="unreal.GlobalEditorUtilityBase.on_default_action_clicked"></a>
 
-#### on_default_action_clicked
+#### on\_default\_action\_clicked
 
 ```python
 def on_default_action_clicked() -> None
@@ -143,7 +143,7 @@ The default action called when the blutility is invoked if bAutoRunDefaultAction
 
 <a id="unreal.GlobalEditorUtilityBase.get_selection_set"></a>
 
-#### get_selection_set
+#### get\_selection\_set
 
 ```python
 def get_selection_set() -> Array[Actor]
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.GlobalEditorUtilityBase.get_selection_bounds"></a>
 
-#### get_selection_bounds
+#### get\_selection\_bounds
 
 ```python
 def get_selection_bounds() -> Tuple[Vector, Vector, float]
@@ -177,7 +177,7 @@ Returns:
 
 <a id="unreal.GlobalEditorUtilityBase.get_selected_assets"></a>
 
-#### get_selected_assets
+#### get\_selected\_assets
 
 ```python
 def get_selected_assets() -> Array[Object]
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.GlobalEditorUtilityBase.get_editor_user_settings"></a>
 
-#### get_editor_user_settings
+#### get\_editor\_user\_settings
 
 ```python
 def get_editor_user_settings() -> EditorPerProjectUserSettings
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.GlobalEditorUtilityBase.get_actor_reference"></a>
 
-#### get_actor_reference
+#### get\_actor\_reference
 
 ```python
 def get_actor_reference(path_to_actor: str) -> Actor
@@ -222,7 +222,7 @@ Returns:
 
 <a id="unreal.GlobalEditorUtilityBase.for_each_selected_asset"></a>
 
-#### for_each_selected_asset
+#### for\_each\_selected\_asset
 
 ```python
 def for_each_selected_asset() -> None
@@ -233,7 +233,7 @@ Calls OnEachSelectedAsset for each selected asset
 
 <a id="unreal.GlobalEditorUtilityBase.for_each_selected_actor"></a>
 
-#### for_each_selected_actor
+#### for\_each\_selected\_actor
 
 ```python
 def for_each_selected_actor() -> None
@@ -244,7 +244,7 @@ Calls OnEachSelectedActor for each selected actor
 
 <a id="unreal.GlobalEditorUtilityBase.clear_actor_selection_set"></a>
 
-#### clear_actor_selection_set
+#### clear\_actor\_selection\_set
 
 ```python
 def clear_actor_selection_set() -> None

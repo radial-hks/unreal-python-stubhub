@@ -26,7 +26,7 @@ Geometry Script Create New Static Mesh Asset Options
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enable_recompute_normals: bool = False,
@@ -46,7 +46,7 @@ def __init__(enable_recompute_normals: bool = False,
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.enable_recompute_normals"></a>
 
-#### enable_recompute_normals
+#### enable\_recompute\_normals
 
 ```python
 @property
@@ -57,7 +57,7 @@ def enable_recompute_normals() -> bool
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.enable_recompute_normals"></a>
 
-#### enable_recompute_normals
+#### enable\_recompute\_normals
 
 ```python
 @enable_recompute_normals.setter
@@ -66,7 +66,7 @@ def enable_recompute_normals(value: bool) -> None
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.enable_recompute_tangents"></a>
 
-#### enable_recompute_tangents
+#### enable\_recompute\_tangents
 
 ```python
 @property
@@ -77,7 +77,7 @@ def enable_recompute_tangents() -> bool
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.enable_recompute_tangents"></a>
 
-#### enable_recompute_tangents
+#### enable\_recompute\_tangents
 
 ```python
 @enable_recompute_tangents.setter
@@ -86,7 +86,7 @@ def enable_recompute_tangents(value: bool) -> None
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.enable_nanite"></a>
 
-#### enable_nanite
+#### enable\_nanite
 
 ```python
 @property
@@ -97,7 +97,7 @@ def enable_nanite() -> bool
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.enable_nanite"></a>
 
-#### enable_nanite
+#### enable\_nanite
 
 ```python
 @enable_nanite.setter
@@ -106,7 +106,7 @@ def enable_nanite(value: bool) -> None
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.nanite_settings"></a>
 
-#### nanite_settings
+#### nanite\_settings
 
 ```python
 @property
@@ -117,7 +117,7 @@ def nanite_settings() -> MeshNaniteSettings
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.nanite_settings"></a>
 
-#### nanite_settings
+#### nanite\_settings
 
 ```python
 @nanite_settings.setter
@@ -126,7 +126,7 @@ def nanite_settings(value: MeshNaniteSettings) -> None
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.nanite_proxy_triangle_percent"></a>
 
-#### nanite_proxy_triangle_percent
+#### nanite\_proxy\_triangle\_percent
 
 ```python
 @property
@@ -137,7 +137,7 @@ def nanite_proxy_triangle_percent() -> float
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.nanite_proxy_triangle_percent"></a>
 
-#### nanite_proxy_triangle_percent
+#### nanite\_proxy\_triangle\_percent
 
 ```python
 @nanite_proxy_triangle_percent.setter
@@ -146,7 +146,7 @@ def nanite_proxy_triangle_percent(value: float) -> None
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.enable_collision"></a>
 
-#### enable_collision
+#### enable\_collision
 
 ```python
 @property
@@ -157,7 +157,7 @@ def enable_collision() -> bool
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.enable_collision"></a>
 
-#### enable_collision
+#### enable\_collision
 
 ```python
 @enable_collision.setter
@@ -166,7 +166,7 @@ def enable_collision(value: bool) -> None
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.collision_mode"></a>
 
-#### collision_mode
+#### collision\_mode
 
 ```python
 @property
@@ -177,7 +177,7 @@ def collision_mode() -> CollisionTraceFlag
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.collision_mode"></a>
 
-#### collision_mode
+#### collision\_mode
 
 ```python
 @collision_mode.setter
@@ -186,7 +186,7 @@ def collision_mode(value: CollisionTraceFlag) -> None
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.use_original_vertex_order"></a>
 
-#### use_original_vertex_order
+#### use\_original\_vertex\_order
 
 ```python
 @property
@@ -198,7 +198,7 @@ the non-manifold structure when re-created.
 
 <a id="unreal.GeometryScriptCreateNewStaticMeshAssetOptions.use_original_vertex_order"></a>
 
-#### use_original_vertex_order
+#### use\_original\_vertex\_order
 
 ```python
 @use_original_vertex_order.setter

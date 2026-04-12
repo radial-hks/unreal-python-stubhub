@@ -154,7 +154,7 @@ This class is supported by APlayerCameraManager (via ICameraLensEffectInterface)
 
 <a id="unreal.NiagaraLensEffectBase.get_primary_particle_component"></a>
 
-#### get_primary_particle_component
+#### get\_primary\_particle\_component
 
 ```python
 def get_primary_particle_component() -> FXSystemComponent
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.NiagaraLensEffectBase.get_particle_components"></a>
 
-#### get_particle_components
+#### get\_particle\_components
 
 ```python
 def get_particle_components() -> Array[FXSystemComponent]

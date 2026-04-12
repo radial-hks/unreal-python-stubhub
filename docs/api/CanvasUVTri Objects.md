@@ -25,7 +25,7 @@ Simple 2d triangle with UVs
 
 <a id="unreal.CanvasUVTri.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -43,7 +43,7 @@ def __init__(
 
 <a id="unreal.CanvasUVTri.v0_pos"></a>
 
-#### v0_pos
+#### v0\_pos
 
 ```python
 @property
@@ -54,7 +54,7 @@ def v0_pos() -> Vector2D
 
 <a id="unreal.CanvasUVTri.v0_pos"></a>
 
-#### v0_pos
+#### v0\_pos
 
 ```python
 @v0_pos.setter
@@ -63,7 +63,7 @@ def v0_pos(value: Vector2D) -> None
 
 <a id="unreal.CanvasUVTri.v0_uv"></a>
 
-#### v0_uv
+#### v0\_uv
 
 ```python
 @property
@@ -74,7 +74,7 @@ def v0_uv() -> Vector2D
 
 <a id="unreal.CanvasUVTri.v0_uv"></a>
 
-#### v0_uv
+#### v0\_uv
 
 ```python
 @v0_uv.setter
@@ -83,7 +83,7 @@ def v0_uv(value: Vector2D) -> None
 
 <a id="unreal.CanvasUVTri.v0_color"></a>
 
-#### v0_color
+#### v0\_color
 
 ```python
 @property
@@ -94,7 +94,7 @@ def v0_color() -> LinearColor
 
 <a id="unreal.CanvasUVTri.v0_color"></a>
 
-#### v0_color
+#### v0\_color
 
 ```python
 @v0_color.setter
@@ -103,7 +103,7 @@ def v0_color(value: LinearColor) -> None
 
 <a id="unreal.CanvasUVTri.v1_pos"></a>
 
-#### v1_pos
+#### v1\_pos
 
 ```python
 @property
@@ -114,7 +114,7 @@ def v1_pos() -> Vector2D
 
 <a id="unreal.CanvasUVTri.v1_pos"></a>
 
-#### v1_pos
+#### v1\_pos
 
 ```python
 @v1_pos.setter
@@ -123,7 +123,7 @@ def v1_pos(value: Vector2D) -> None
 
 <a id="unreal.CanvasUVTri.v1_uv"></a>
 
-#### v1_uv
+#### v1\_uv
 
 ```python
 @property
@@ -134,7 +134,7 @@ def v1_uv() -> Vector2D
 
 <a id="unreal.CanvasUVTri.v1_uv"></a>
 
-#### v1_uv
+#### v1\_uv
 
 ```python
 @v1_uv.setter
@@ -143,7 +143,7 @@ def v1_uv(value: Vector2D) -> None
 
 <a id="unreal.CanvasUVTri.v1_color"></a>
 
-#### v1_color
+#### v1\_color
 
 ```python
 @property
@@ -154,7 +154,7 @@ def v1_color() -> LinearColor
 
 <a id="unreal.CanvasUVTri.v1_color"></a>
 
-#### v1_color
+#### v1\_color
 
 ```python
 @v1_color.setter
@@ -163,7 +163,7 @@ def v1_color(value: LinearColor) -> None
 
 <a id="unreal.CanvasUVTri.v2_pos"></a>
 
-#### v2_pos
+#### v2\_pos
 
 ```python
 @property
@@ -174,7 +174,7 @@ def v2_pos() -> Vector2D
 
 <a id="unreal.CanvasUVTri.v2_pos"></a>
 
-#### v2_pos
+#### v2\_pos
 
 ```python
 @v2_pos.setter
@@ -183,7 +183,7 @@ def v2_pos(value: Vector2D) -> None
 
 <a id="unreal.CanvasUVTri.v2_uv"></a>
 
-#### v2_uv
+#### v2\_uv
 
 ```python
 @property
@@ -194,7 +194,7 @@ def v2_uv() -> Vector2D
 
 <a id="unreal.CanvasUVTri.v2_uv"></a>
 
-#### v2_uv
+#### v2\_uv
 
 ```python
 @v2_uv.setter
@@ -203,7 +203,7 @@ def v2_uv(value: Vector2D) -> None
 
 <a id="unreal.CanvasUVTri.v2_color"></a>
 
-#### v2_color
+#### v2\_color
 
 ```python
 @property
@@ -214,7 +214,7 @@ def v2_color() -> LinearColor
 
 <a id="unreal.CanvasUVTri.v2_color"></a>
 
-#### v2_color
+#### v2\_color
 
 ```python
 @v2_color.setter

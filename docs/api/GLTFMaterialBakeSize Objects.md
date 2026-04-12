@@ -20,7 +20,7 @@ GLTFMaterial Bake Size
 
 <a id="unreal.GLTFMaterialBakeSize.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: int = 0, y: int = 0, auto_detect: bool = False) -> None
@@ -68,7 +68,7 @@ def y(value: int) -> None
 
 <a id="unreal.GLTFMaterialBakeSize.auto_detect"></a>
 
-#### auto_detect
+#### auto\_detect
 
 ```python
 @property
@@ -79,7 +79,7 @@ def auto_detect() -> bool
 
 <a id="unreal.GLTFMaterialBakeSize.auto_detect"></a>
 
-#### auto_detect
+#### auto\_detect
 
 ```python
 @auto_detect.setter

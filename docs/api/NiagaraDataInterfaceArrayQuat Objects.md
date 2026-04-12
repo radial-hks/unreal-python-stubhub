@@ -20,7 +20,7 @@ Niagara Data Interface Array Quat
 
 <a id="unreal.NiagaraDataInterfaceArrayQuat.quat_data"></a>
 
-#### quat_data
+#### quat\_data
 
 ```python
 @property
@@ -31,7 +31,7 @@ def quat_data() -> Array[Quat]
 
 <a id="unreal.NiagaraDataInterfaceArrayQuat.quat_data"></a>
 
-#### quat_data
+#### quat\_data
 
 ```python
 @quat_data.setter

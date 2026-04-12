@@ -14,7 +14,7 @@ Rig Child Of Primary Connection Rule
 
 <a id="unreal.RigChildOfPrimaryConnectionRule.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

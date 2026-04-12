@@ -14,19 +14,19 @@ EGeometry Script Sample Spacing
 
 <a id="unreal.GeometryScriptSampleSpacing.UNIFORM_DISTANCE"></a>
 
-#### UNIFORM_DISTANCE
+#### UNIFORM\_DISTANCE
 
 0
 
 <a id="unreal.GeometryScriptSampleSpacing.UNIFORM_TIME"></a>
 
-#### UNIFORM_TIME
+#### UNIFORM\_TIME
 
 1
 
 <a id="unreal.GeometryScriptSampleSpacing.ERROR_TOLERANCE"></a>
 
-#### ERROR_TOLERANCE
+#### ERROR\_TOLERANCE
 
 2
 

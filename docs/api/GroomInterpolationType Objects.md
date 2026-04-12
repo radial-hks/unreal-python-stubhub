@@ -20,19 +20,19 @@ List of interpolation type
 
 <a id="unreal.GroomInterpolationType.RIGID_TRANSFORM"></a>
 
-#### RIGID_TRANSFORM
+#### RIGID\_TRANSFORM
 
 2
 
 <a id="unreal.GroomInterpolationType.OFFSET_TRANSFORM"></a>
 
-#### OFFSET_TRANSFORM
+#### OFFSET\_TRANSFORM
 
 4
 
 <a id="unreal.GroomInterpolationType.SMOOTH_TRANSFORM"></a>
 
-#### SMOOTH_TRANSFORM
+#### SMOOTH\_TRANSFORM
 
 8
 

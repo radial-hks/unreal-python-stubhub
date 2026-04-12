@@ -20,7 +20,7 @@ Niagara Data Interface Array Matrix
 
 <a id="unreal.NiagaraDataInterfaceArrayMatrix.matrix_data"></a>
 
-#### matrix_data
+#### matrix\_data
 
 ```python
 @property
@@ -31,7 +31,7 @@ def matrix_data() -> Array[Matrix]
 
 <a id="unreal.NiagaraDataInterfaceArrayMatrix.matrix_data"></a>
 
-#### matrix_data
+#### matrix\_data
 
 ```python
 @matrix_data.setter

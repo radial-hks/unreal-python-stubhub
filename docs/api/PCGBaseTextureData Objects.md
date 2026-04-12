@@ -37,7 +37,7 @@ PCGBase Texture Data
 
 <a id="unreal.PCGBaseTextureData.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -49,7 +49,7 @@ deprecated: Property 'DensityFunction' is deprecated.
 
 <a id="unreal.PCGBaseTextureData.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter
@@ -58,7 +58,7 @@ def density_function(value: PCGTextureDensityFunction) -> None
 
 <a id="unreal.PCGBaseTextureData.use_density_source_channel"></a>
 
-#### use_density_source_channel
+#### use\_density\_source\_channel
 
 ```python
 @property
@@ -69,7 +69,7 @@ def use_density_source_channel() -> bool
 
 <a id="unreal.PCGBaseTextureData.use_density_source_channel"></a>
 
-#### use_density_source_channel
+#### use\_density\_source\_channel
 
 ```python
 @use_density_source_channel.setter
@@ -78,7 +78,7 @@ def use_density_source_channel(value: bool) -> None
 
 <a id="unreal.PCGBaseTextureData.color_channel"></a>
 
-#### color_channel
+#### color\_channel
 
 ```python
 @property
@@ -89,7 +89,7 @@ def color_channel() -> PCGTextureColorChannel
 
 <a id="unreal.PCGBaseTextureData.color_channel"></a>
 
-#### color_channel
+#### color\_channel
 
 ```python
 @color_channel.setter
@@ -118,7 +118,7 @@ def filter(value: PCGTextureFilter) -> None
 
 <a id="unreal.PCGBaseTextureData.texel_size"></a>
 
-#### texel_size
+#### texel\_size
 
 ```python
 @property
@@ -129,7 +129,7 @@ def texel_size() -> float
 
 <a id="unreal.PCGBaseTextureData.texel_size"></a>
 
-#### texel_size
+#### texel\_size
 
 ```python
 @texel_size.setter
@@ -138,7 +138,7 @@ def texel_size(value: float) -> None
 
 <a id="unreal.PCGBaseTextureData.use_advanced_tiling"></a>
 
-#### use_advanced_tiling
+#### use\_advanced\_tiling
 
 ```python
 @property
@@ -149,7 +149,7 @@ def use_advanced_tiling() -> bool
 
 <a id="unreal.PCGBaseTextureData.use_advanced_tiling"></a>
 
-#### use_advanced_tiling
+#### use\_advanced\_tiling
 
 ```python
 @use_advanced_tiling.setter
@@ -178,7 +178,7 @@ def tiling(value: Vector2D) -> None
 
 <a id="unreal.PCGBaseTextureData.center_offset"></a>
 
-#### center_offset
+#### center\_offset
 
 ```python
 @property
@@ -189,7 +189,7 @@ def center_offset() -> Vector2D
 
 <a id="unreal.PCGBaseTextureData.center_offset"></a>
 
-#### center_offset
+#### center\_offset
 
 ```python
 @center_offset.setter
@@ -218,7 +218,7 @@ def rotation(value: float) -> None
 
 <a id="unreal.PCGBaseTextureData.use_tile_bounds"></a>
 
-#### use_tile_bounds
+#### use\_tile\_bounds
 
 ```python
 @property
@@ -229,7 +229,7 @@ def use_tile_bounds() -> bool
 
 <a id="unreal.PCGBaseTextureData.use_tile_bounds"></a>
 
-#### use_tile_bounds
+#### use\_tile\_bounds
 
 ```python
 @use_tile_bounds.setter
@@ -238,7 +238,7 @@ def use_tile_bounds(value: bool) -> None
 
 <a id="unreal.PCGBaseTextureData.tile_bounds"></a>
 
-#### tile_bounds
+#### tile\_bounds
 
 ```python
 @property
@@ -249,7 +249,7 @@ def tile_bounds() -> Box2D
 
 <a id="unreal.PCGBaseTextureData.tile_bounds"></a>
 
-#### tile_bounds
+#### tile\_bounds
 
 ```python
 @tile_bounds.setter

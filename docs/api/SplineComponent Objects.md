@@ -231,7 +231,7 @@ def duration(value: float) -> None
 
 <a id="unreal.SplineComponent.stationary_endpoints"></a>
 
-#### stationary_endpoints
+#### stationary\_endpoints
 
 ```python
 @property
@@ -242,7 +242,7 @@ def stationary_endpoints() -> bool
 
 <a id="unreal.SplineComponent.stationary_endpoints"></a>
 
-#### stationary_endpoints
+#### stationary\_endpoints
 
 ```python
 @stationary_endpoints.setter
@@ -251,7 +251,7 @@ def stationary_endpoints(value: bool) -> None
 
 <a id="unreal.SplineComponent.input_spline_points_to_construction_script"></a>
 
-#### input_spline_points_to_construction_script
+#### input\_spline\_points\_to\_construction\_script
 
 ```python
 @property
@@ -263,7 +263,7 @@ If false, they will not be visible to it, and it will not be able to influence t
 
 <a id="unreal.SplineComponent.input_spline_points_to_construction_script"></a>
 
-#### input_spline_points_to_construction_script
+#### input\_spline\_points\_to\_construction\_script
 
 ```python
 @input_spline_points_to_construction_script.setter
@@ -272,7 +272,7 @@ def input_spline_points_to_construction_script(value: bool) -> None
 
 <a id="unreal.SplineComponent.draw_debug"></a>
 
-#### draw_debug
+#### draw\_debug
 
 ```python
 @property
@@ -283,7 +283,7 @@ def draw_debug() -> bool
 
 <a id="unreal.SplineComponent.draw_debug"></a>
 
-#### draw_debug
+#### draw\_debug
 
 ```python
 @draw_debug.setter
@@ -292,7 +292,7 @@ def draw_debug(value: bool) -> None
 
 <a id="unreal.SplineComponent.b_always_render_in_editor"></a>
 
-#### b_always_render_in_editor
+#### b\_always\_render\_in\_editor
 
 ```python
 @property
@@ -303,7 +303,7 @@ deprecated: 'b_always_render_in_editor' was renamed to 'draw_debug'.
 
 <a id="unreal.SplineComponent.b_always_render_in_editor"></a>
 
-#### b_always_render_in_editor
+#### b\_always\_render\_in\_editor
 
 ```python
 @b_always_render_in_editor.setter
@@ -312,7 +312,7 @@ def b_always_render_in_editor(value: bool) -> None
 
 <a id="unreal.SplineComponent.default_up_vector"></a>
 
-#### default_up_vector
+#### default\_up\_vector
 
 ```python
 @property
@@ -323,7 +323,7 @@ def default_up_vector() -> Vector
 
 <a id="unreal.SplineComponent.default_up_vector"></a>
 
-#### default_up_vector
+#### default\_up\_vector
 
 ```python
 @default_up_vector.setter
@@ -332,7 +332,7 @@ def default_up_vector(value: Vector) -> None
 
 <a id="unreal.SplineComponent.update_spline"></a>
 
-#### update_spline
+#### update\_spline
 
 ```python
 def update_spline() -> None
@@ -343,7 +343,7 @@ Update the spline tangents and SplineReparamTable
 
 <a id="unreal.SplineComponent.set_world_location_at_spline_point"></a>
 
-#### set_world_location_at_spline_point
+#### set\_world\_location\_at\_spline\_point
 
 ```python
 def set_world_location_at_spline_point(point_index: int,
@@ -360,7 +360,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_up_vector_at_spline_point"></a>
 
-#### set_up_vector_at_spline_point
+#### set\_up\_vector\_at\_spline\_point
 
 ```python
 def set_up_vector_at_spline_point(point_index: int,
@@ -380,7 +380,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_unselected_spline_segment_color"></a>
 
-#### set_unselected_spline_segment_color
+#### set\_unselected\_spline\_segment\_color
 
 ```python
 def set_unselected_spline_segment_color(segment_color: LinearColor) -> None
@@ -394,7 +394,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_tangents_at_spline_point"></a>
 
-#### set_tangents_at_spline_point
+#### set\_tangents\_at\_spline\_point
 
 ```python
 def set_tangents_at_spline_point(point_index: int,
@@ -416,7 +416,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_tangent_color"></a>
 
-#### set_tangent_color
+#### set\_tangent\_color
 
 ```python
 def set_tangent_color(tangent_color: LinearColor) -> None
@@ -430,7 +430,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_tangent_at_spline_point"></a>
 
-#### set_tangent_at_spline_point
+#### set\_tangent\_at\_spline\_point
 
 ```python
 def set_tangent_at_spline_point(point_index: int,
@@ -450,7 +450,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_spline_world_points"></a>
 
-#### set_spline_world_points
+#### set\_spline\_world\_points
 
 ```python
 def set_spline_world_points(points: Array[Vector]) -> None
@@ -465,7 +465,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_spline_point_type"></a>
 
-#### set_spline_point_type
+#### set\_spline\_point\_type
 
 ```python
 def set_spline_point_type(point_index: int,
@@ -483,7 +483,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_spline_points"></a>
 
-#### set_spline_points
+#### set\_spline\_points
 
 ```python
 def set_spline_points(points: Array[Vector],
@@ -501,7 +501,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_spline_local_points"></a>
 
-#### set_spline_local_points
+#### set\_spline\_local\_points
 
 ```python
 def set_spline_local_points(points: Array[Vector]) -> None
@@ -516,7 +516,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_selected_spline_segment_color"></a>
 
-#### set_selected_spline_segment_color
+#### set\_selected\_spline\_segment\_color
 
 ```python
 def set_selected_spline_segment_color(segment_color: LinearColor) -> None
@@ -530,7 +530,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_scale_at_spline_point"></a>
 
-#### set_scale_at_spline_point
+#### set\_scale\_at\_spline\_point
 
 ```python
 def set_scale_at_spline_point(point_index: int,
@@ -548,7 +548,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_rotation_at_spline_point"></a>
 
-#### set_rotation_at_spline_point
+#### set\_rotation\_at\_spline\_point
 
 ```python
 def set_rotation_at_spline_point(point_index: int,
@@ -568,7 +568,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_override_construction_script"></a>
 
-#### set_override_construction_script
+#### set\_override\_construction\_script
 
 ```python
 def set_override_construction_script(override: bool) -> None
@@ -582,7 +582,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_location_at_spline_point"></a>
 
-#### set_location_at_spline_point
+#### set\_location\_at\_spline\_point
 
 ```python
 def set_location_at_spline_point(point_index: int,
@@ -602,7 +602,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_draw_debug"></a>
 
-#### set_draw_debug
+#### set\_draw\_debug
 
 ```python
 def set_draw_debug(show: bool) -> None
@@ -616,7 +616,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_default_up_vector"></a>
 
-#### set_default_up_vector
+#### set\_default\_up\_vector
 
 ```python
 def set_default_up_vector(up_vector: Vector,
@@ -632,7 +632,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_closed_loop_at_position"></a>
 
-#### set_closed_loop_at_position
+#### set\_closed\_loop\_at\_position
 
 ```python
 def set_closed_loop_at_position(closed_loop: bool,
@@ -650,7 +650,7 @@ Args:
 
 <a id="unreal.SplineComponent.set_closed_loop"></a>
 
-#### set_closed_loop
+#### set\_closed\_loop
 
 ```python
 def set_closed_loop(closed_loop: bool, update_spline: bool = True) -> None
@@ -665,7 +665,7 @@ Args:
 
 <a id="unreal.SplineComponent.remove_spline_point"></a>
 
-#### remove_spline_point
+#### remove\_spline\_point
 
 ```python
 def remove_spline_point(index: int, update_spline: bool = True) -> None
@@ -680,7 +680,7 @@ Args:
 
 <a id="unreal.SplineComponent.is_closed_loop"></a>
 
-#### is_closed_loop
+#### is\_closed\_loop
 
 ```python
 def is_closed_loop() -> bool
@@ -694,7 +694,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_world_tangent_at_distance_along_spline"></a>
 
-#### get_world_tangent_at_distance_along_spline
+#### get\_world\_tangent\_at\_distance\_along\_spline
 
 ```python
 def get_world_tangent_at_distance_along_spline(distance: float) -> Vector
@@ -712,7 +712,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_world_rotation_at_time"></a>
 
-#### get_world_rotation_at_time
+#### get\_world\_rotation\_at\_time
 
 ```python
 def get_world_rotation_at_time(time: float,
@@ -732,7 +732,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_world_rotation_at_distance_along_spline"></a>
 
-#### get_world_rotation_at_distance_along_spline
+#### get\_world\_rotation\_at\_distance\_along\_spline
 
 ```python
 def get_world_rotation_at_distance_along_spline(distance: float) -> Rotator
@@ -750,7 +750,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_world_location_at_time"></a>
 
-#### get_world_location_at_time
+#### get\_world\_location\_at\_time
 
 ```python
 def get_world_location_at_time(time: float,
@@ -770,7 +770,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_world_location_at_spline_point"></a>
 
-#### get_world_location_at_spline_point
+#### get\_world\_location\_at\_spline\_point
 
 ```python
 def get_world_location_at_spline_point(point_index: int) -> Vector
@@ -788,7 +788,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_world_location_at_distance_along_spline"></a>
 
-#### get_world_location_at_distance_along_spline
+#### get\_world\_location\_at\_distance\_along\_spline
 
 ```python
 def get_world_location_at_distance_along_spline(distance: float) -> Vector
@@ -806,7 +806,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_world_direction_at_time"></a>
 
-#### get_world_direction_at_time
+#### get\_world\_direction\_at\_time
 
 ```python
 def get_world_direction_at_time(time: float,
@@ -826,7 +826,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_world_direction_at_distance_along_spline"></a>
 
-#### get_world_direction_at_distance_along_spline
+#### get\_world\_direction\_at\_distance\_along\_spline
 
 ```python
 def get_world_direction_at_distance_along_spline(distance: float) -> Vector
@@ -844,7 +844,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_vector_property_at_spline_point"></a>
 
-#### get_vector_property_at_spline_point
+#### get\_vector\_property\_at\_spline\_point
 
 ```python
 def get_vector_property_at_spline_point(index: int,
@@ -863,7 +863,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_vector_property_at_spline_input_key"></a>
 
-#### get_vector_property_at_spline_input_key
+#### get\_vector\_property\_at\_spline\_input\_key
 
 ```python
 def get_vector_property_at_spline_input_key(key: float,
@@ -882,7 +882,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_up_vector_at_time"></a>
 
-#### get_up_vector_at_time
+#### get\_up\_vector\_at\_time
 
 ```python
 def get_up_vector_at_time(time: float,
@@ -903,7 +903,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_up_vector_at_spline_point"></a>
 
-#### get_up_vector_at_spline_point
+#### get\_up\_vector\_at\_spline\_point
 
 ```python
 def get_up_vector_at_spline_point(
@@ -922,7 +922,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_up_vector_at_spline_input_key"></a>
 
-#### get_up_vector_at_spline_input_key
+#### get\_up\_vector\_at\_spline\_input\_key
 
 ```python
 def get_up_vector_at_spline_input_key(
@@ -941,7 +941,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_up_vector_at_distance_along_spline"></a>
 
-#### get_up_vector_at_distance_along_spline
+#### get\_up\_vector\_at\_distance\_along\_spline
 
 ```python
 def get_up_vector_at_distance_along_spline(
@@ -960,7 +960,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_transform_at_time"></a>
 
-#### get_transform_at_time
+#### get\_transform\_at\_time
 
 ```python
 def get_transform_at_time(time: float,
@@ -983,7 +983,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_transform_at_spline_point"></a>
 
-#### get_transform_at_spline_point
+#### get\_transform\_at\_spline\_point
 
 ```python
 def get_transform_at_spline_point(point_index: int,
@@ -1004,7 +1004,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_transform_at_spline_input_key"></a>
 
-#### get_transform_at_spline_input_key
+#### get\_transform\_at\_spline\_input\_key
 
 ```python
 def get_transform_at_spline_input_key(key: float,
@@ -1025,7 +1025,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_transform_at_distance_along_spline"></a>
 
-#### get_transform_at_distance_along_spline
+#### get\_transform\_at\_distance\_along\_spline
 
 ```python
 def get_transform_at_distance_along_spline(
@@ -1047,7 +1047,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_time_at_distance_along_spline"></a>
 
-#### get_time_at_distance_along_spline
+#### get\_time\_at\_distance\_along\_spline
 
 ```python
 def get_time_at_distance_along_spline(distance: float) -> float
@@ -1064,7 +1064,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_tangent_at_time"></a>
 
-#### get_tangent_at_time
+#### get\_tangent\_at\_time
 
 ```python
 def get_tangent_at_time(time: float,
@@ -1085,7 +1085,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_tangent_at_spline_point"></a>
 
-#### get_tangent_at_spline_point
+#### get\_tangent\_at\_spline\_point
 
 ```python
 def get_tangent_at_spline_point(
@@ -1104,7 +1104,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_tangent_at_spline_input_key"></a>
 
-#### get_tangent_at_spline_input_key
+#### get\_tangent\_at\_spline\_input\_key
 
 ```python
 def get_tangent_at_spline_input_key(
@@ -1123,7 +1123,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_tangent_at_distance_along_spline"></a>
 
-#### get_tangent_at_distance_along_spline
+#### get\_tangent\_at\_distance\_along\_spline
 
 ```python
 def get_tangent_at_distance_along_spline(
@@ -1142,7 +1142,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_spline_point_type"></a>
 
-#### get_spline_point_type
+#### get\_spline\_point\_type
 
 ```python
 def get_spline_point_type(point_index: int) -> SplinePointType
@@ -1159,7 +1159,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_spline_point_at"></a>
 
-#### get_spline_point_at
+#### get\_spline\_point\_at
 
 ```python
 def get_spline_point_at(
@@ -1179,7 +1179,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_spline_length"></a>
 
-#### get_spline_length
+#### get\_spline\_length
 
 ```python
 def get_spline_length() -> float
@@ -1193,7 +1193,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_scale_at_time"></a>
 
-#### get_scale_at_time
+#### get\_scale\_at\_time
 
 ```python
 def get_scale_at_time(time: float,
@@ -1212,7 +1212,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_scale_at_spline_point"></a>
 
-#### get_scale_at_spline_point
+#### get\_scale\_at\_spline\_point
 
 ```python
 def get_scale_at_spline_point(point_index: int) -> Vector
@@ -1229,7 +1229,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_scale_at_spline_input_key"></a>
 
-#### get_scale_at_spline_input_key
+#### get\_scale\_at\_spline\_input\_key
 
 ```python
 def get_scale_at_spline_input_key(key: float) -> Vector
@@ -1246,7 +1246,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_scale_at_distance_along_spline"></a>
 
-#### get_scale_at_distance_along_spline
+#### get\_scale\_at\_distance\_along\_spline
 
 ```python
 def get_scale_at_distance_along_spline(distance: float) -> Vector
@@ -1263,7 +1263,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_rotation_at_time"></a>
 
-#### get_rotation_at_time
+#### get\_rotation\_at\_time
 
 ```python
 def get_rotation_at_time(time: float,
@@ -1284,7 +1284,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_rotation_at_spline_point"></a>
 
-#### get_rotation_at_spline_point
+#### get\_rotation\_at\_spline\_point
 
 ```python
 def get_rotation_at_spline_point(
@@ -1303,7 +1303,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_rotation_at_spline_input_key"></a>
 
-#### get_rotation_at_spline_input_key
+#### get\_rotation\_at\_spline\_input\_key
 
 ```python
 def get_rotation_at_spline_input_key(
@@ -1322,7 +1322,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_rotation_at_distance_along_spline"></a>
 
-#### get_rotation_at_distance_along_spline
+#### get\_rotation\_at\_distance\_along\_spline
 
 ```python
 def get_rotation_at_distance_along_spline(
@@ -1341,7 +1341,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_roll_at_time"></a>
 
-#### get_roll_at_time
+#### get\_roll\_at\_time
 
 ```python
 def get_roll_at_time(time: float,
@@ -1362,7 +1362,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_roll_at_spline_point"></a>
 
-#### get_roll_at_spline_point
+#### get\_roll\_at\_spline\_point
 
 ```python
 def get_roll_at_spline_point(point_index: int,
@@ -1381,7 +1381,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_roll_at_spline_input_key"></a>
 
-#### get_roll_at_spline_input_key
+#### get\_roll\_at\_spline\_input\_key
 
 ```python
 def get_roll_at_spline_input_key(
@@ -1400,7 +1400,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_roll_at_distance_along_spline"></a>
 
-#### get_roll_at_distance_along_spline
+#### get\_roll\_at\_distance\_along\_spline
 
 ```python
 def get_roll_at_distance_along_spline(
@@ -1419,7 +1419,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_right_vector_at_time"></a>
 
-#### get_right_vector_at_time
+#### get\_right\_vector\_at\_time
 
 ```python
 def get_right_vector_at_time(time: float,
@@ -1440,7 +1440,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_right_vector_at_spline_point"></a>
 
-#### get_right_vector_at_spline_point
+#### get\_right\_vector\_at\_spline\_point
 
 ```python
 def get_right_vector_at_spline_point(
@@ -1459,7 +1459,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_right_vector_at_spline_input_key"></a>
 
-#### get_right_vector_at_spline_input_key
+#### get\_right\_vector\_at\_spline\_input\_key
 
 ```python
 def get_right_vector_at_spline_input_key(
@@ -1478,7 +1478,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_right_vector_at_distance_along_spline"></a>
 
-#### get_right_vector_at_distance_along_spline
+#### get\_right\_vector\_at\_distance\_along\_spline
 
 ```python
 def get_right_vector_at_distance_along_spline(
@@ -1497,7 +1497,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_number_of_spline_segments"></a>
 
-#### get_number_of_spline_segments
+#### get\_number\_of\_spline\_segments
 
 ```python
 def get_number_of_spline_segments() -> int
@@ -1511,7 +1511,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_number_of_spline_points"></a>
 
-#### get_number_of_spline_points
+#### get\_number\_of\_spline\_points
 
 ```python
 def get_number_of_spline_points() -> int
@@ -1525,7 +1525,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_num_spline_points"></a>
 
-#### get_num_spline_points
+#### get\_num\_spline\_points
 
 ```python
 def get_num_spline_points() -> int
@@ -1535,7 +1535,7 @@ deprecated: 'get_num_spline_points' was renamed to 'get_number_of_spline_points'
 
 <a id="unreal.SplineComponent.get_location_at_time"></a>
 
-#### get_location_at_time
+#### get\_location\_at\_time
 
 ```python
 def get_location_at_time(time: float,
@@ -1556,7 +1556,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_location_at_spline_point"></a>
 
-#### get_location_at_spline_point
+#### get\_location\_at\_spline\_point
 
 ```python
 def get_location_at_spline_point(
@@ -1575,7 +1575,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_location_at_spline_input_key"></a>
 
-#### get_location_at_spline_input_key
+#### get\_location\_at\_spline\_input\_key
 
 ```python
 def get_location_at_spline_input_key(
@@ -1594,7 +1594,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_location_at_distance_along_spline"></a>
 
-#### get_location_at_distance_along_spline
+#### get\_location\_at\_distance\_along\_spline
 
 ```python
 def get_location_at_distance_along_spline(
@@ -1613,7 +1613,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_location_and_tangent_at_spline_point"></a>
 
-#### get_location_and_tangent_at_spline_point
+#### get\_location\_and\_tangent\_at\_spline\_point
 
 ```python
 def get_location_and_tangent_at_spline_point(
@@ -1637,7 +1637,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_local_location_and_tangent_at_spline_point"></a>
 
-#### get_local_location_and_tangent_at_spline_point
+#### get\_local\_location\_and\_tangent\_at\_spline\_point
 
 ```python
 def get_local_location_and_tangent_at_spline_point(
@@ -1660,7 +1660,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_leave_tangent_at_spline_point"></a>
 
-#### get_leave_tangent_at_spline_point
+#### get\_leave\_tangent\_at\_spline\_point
 
 ```python
 def get_leave_tangent_at_spline_point(
@@ -1679,7 +1679,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_input_key_value_at_spline_point"></a>
 
-#### get_input_key_value_at_spline_point
+#### get\_input\_key\_value\_at\_spline\_point
 
 ```python
 def get_input_key_value_at_spline_point(point_index: int) -> float
@@ -1696,7 +1696,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_input_key_value_at_distance_along_spline"></a>
 
-#### get_input_key_value_at_distance_along_spline
+#### get\_input\_key\_value\_at\_distance\_along\_spline
 
 ```python
 def get_input_key_value_at_distance_along_spline(distance: float) -> float
@@ -1714,7 +1714,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_input_key_at_distance_along_spline"></a>
 
-#### get_input_key_at_distance_along_spline
+#### get\_input\_key\_at\_distance\_along\_spline
 
 ```python
 def get_input_key_at_distance_along_spline(distance: float) -> float
@@ -1733,7 +1733,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_float_property_at_spline_point"></a>
 
-#### get_float_property_at_spline_point
+#### get\_float\_property\_at\_spline\_point
 
 ```python
 def get_float_property_at_spline_point(index: int,
@@ -1752,7 +1752,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_float_property_at_spline_input_key"></a>
 
-#### get_float_property_at_spline_input_key
+#### get\_float\_property\_at\_spline\_input\_key
 
 ```python
 def get_float_property_at_spline_input_key(key: float,
@@ -1771,7 +1771,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_distance_along_spline_at_spline_point"></a>
 
-#### get_distance_along_spline_at_spline_point
+#### get\_distance\_along\_spline\_at\_spline\_point
 
 ```python
 def get_distance_along_spline_at_spline_point(point_index: int) -> float
@@ -1788,7 +1788,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_distance_along_spline_at_spline_input_key"></a>
 
-#### get_distance_along_spline_at_spline_input_key
+#### get\_distance\_along\_spline\_at\_spline\_input\_key
 
 ```python
 def get_distance_along_spline_at_spline_input_key(key: float) -> float
@@ -1805,7 +1805,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_distance_along_spline_at_location"></a>
 
-#### get_distance_along_spline_at_location
+#### get\_distance\_along\_spline\_at\_location
 
 ```python
 def get_distance_along_spline_at_location(
@@ -1824,7 +1824,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_direction_at_time"></a>
 
-#### get_direction_at_time
+#### get\_direction\_at\_time
 
 ```python
 def get_direction_at_time(time: float,
@@ -1845,7 +1845,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_direction_at_spline_point"></a>
 
-#### get_direction_at_spline_point
+#### get\_direction\_at\_spline\_point
 
 ```python
 def get_direction_at_spline_point(
@@ -1864,7 +1864,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_direction_at_spline_input_key"></a>
 
-#### get_direction_at_spline_input_key
+#### get\_direction\_at\_spline\_input\_key
 
 ```python
 def get_direction_at_spline_input_key(
@@ -1883,7 +1883,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_direction_at_distance_along_spline"></a>
 
-#### get_direction_at_distance_along_spline
+#### get\_direction\_at\_distance\_along\_spline
 
 ```python
 def get_direction_at_distance_along_spline(
@@ -1902,7 +1902,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_default_up_vector"></a>
 
-#### get_default_up_vector
+#### get\_default\_up\_vector
 
 ```python
 def get_default_up_vector(coordinate_space: SplineCoordinateSpace) -> Vector
@@ -1919,7 +1919,7 @@ Returns:
 
 <a id="unreal.SplineComponent.get_arrive_tangent_at_spline_point"></a>
 
-#### get_arrive_tangent_at_spline_point
+#### get\_arrive\_tangent\_at\_spline\_point
 
 ```python
 def get_arrive_tangent_at_spline_point(
@@ -1938,7 +1938,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_up_vector_closest_to_world_location"></a>
 
-#### find_up_vector_closest_to_world_location
+#### find\_up\_vector\_closest\_to\_world\_location
 
 ```python
 def find_up_vector_closest_to_world_location(
@@ -1958,7 +1958,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_transform_closest_to_world_location"></a>
 
-#### find_transform_closest_to_world_location
+#### find\_transform\_closest\_to\_world\_location
 
 ```python
 def find_transform_closest_to_world_location(
@@ -1980,7 +1980,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_tangent_closest_to_world_location"></a>
 
-#### find_tangent_closest_to_world_location
+#### find\_tangent\_closest\_to\_world\_location
 
 ```python
 def find_tangent_closest_to_world_location(
@@ -2000,7 +2000,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_scale_closest_to_world_location"></a>
 
-#### find_scale_closest_to_world_location
+#### find\_scale\_closest\_to\_world\_location
 
 ```python
 def find_scale_closest_to_world_location(world_location: Vector) -> Vector
@@ -2017,7 +2017,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_rotation_closest_to_world_location"></a>
 
-#### find_rotation_closest_to_world_location
+#### find\_rotation\_closest\_to\_world\_location
 
 ```python
 def find_rotation_closest_to_world_location(
@@ -2037,7 +2037,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_roll_closest_to_world_location"></a>
 
-#### find_roll_closest_to_world_location
+#### find\_roll\_closest\_to\_world\_location
 
 ```python
 def find_roll_closest_to_world_location(
@@ -2057,7 +2057,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_right_vector_closest_to_world_location"></a>
 
-#### find_right_vector_closest_to_world_location
+#### find\_right\_vector\_closest\_to\_world\_location
 
 ```python
 def find_right_vector_closest_to_world_location(
@@ -2077,7 +2077,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_location_closest_to_world_location"></a>
 
-#### find_location_closest_to_world_location
+#### find\_location\_closest\_to\_world\_location
 
 ```python
 def find_location_closest_to_world_location(
@@ -2097,7 +2097,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_input_key_closest_to_world_location"></a>
 
-#### find_input_key_closest_to_world_location
+#### find\_input\_key\_closest\_to\_world\_location
 
 ```python
 def find_input_key_closest_to_world_location(world_location: Vector) -> float
@@ -2114,7 +2114,7 @@ Returns:
 
 <a id="unreal.SplineComponent.find_direction_closest_to_world_location"></a>
 
-#### find_direction_closest_to_world_location
+#### find\_direction\_closest\_to\_world\_location
 
 ```python
 def find_direction_closest_to_world_location(
@@ -2134,7 +2134,7 @@ Returns:
 
 <a id="unreal.SplineComponent.divide_spline_into_polyline_recursive_with_distances"></a>
 
-#### divide_spline_into_polyline_recursive_with_distances
+#### divide\_spline\_into\_polyline\_recursive\_with\_distances
 
 ```python
 def divide_spline_into_polyline_recursive_with_distances(
@@ -2162,7 +2162,7 @@ Returns:
 
 <a id="unreal.SplineComponent.divide_spline_into_polyline_recursive"></a>
 
-#### divide_spline_into_polyline_recursive
+#### divide\_spline\_into\_polyline\_recursive
 
 ```python
 def divide_spline_into_polyline_recursive(
@@ -2187,7 +2187,7 @@ Returns:
 
 <a id="unreal.SplineComponent.convert_spline_to_poly_line_with_distances"></a>
 
-#### convert_spline_to_poly_line_with_distances
+#### convert\_spline\_to\_poly\_line\_with\_distances
 
 ```python
 def convert_spline_to_poly_line_with_distances(
@@ -2212,7 +2212,7 @@ Returns:
 
 <a id="unreal.SplineComponent.convert_spline_to_polyline_in_time_range"></a>
 
-#### convert_spline_to_polyline_in_time_range
+#### convert\_spline\_to\_polyline\_in\_time\_range
 
 ```python
 def convert_spline_to_polyline_in_time_range(
@@ -2245,7 +2245,7 @@ Returns:
 
 <a id="unreal.SplineComponent.convert_spline_to_polyline_in_distance_range"></a>
 
-#### convert_spline_to_polyline_in_distance_range
+#### convert\_spline\_to\_polyline\_in\_distance\_range
 
 ```python
 def convert_spline_to_polyline_in_distance_range(
@@ -2276,7 +2276,7 @@ Returns:
 
 <a id="unreal.SplineComponent.convert_spline_to_poly_line"></a>
 
-#### convert_spline_to_poly_line
+#### convert\_spline\_to\_poly\_line
 
 ```python
 def convert_spline_to_poly_line(
@@ -2298,7 +2298,7 @@ Returns:
 
 <a id="unreal.SplineComponent.convert_spline_segment_to_poly_line"></a>
 
-#### convert_spline_segment_to_poly_line
+#### convert\_spline\_segment\_to\_poly\_line
 
 ```python
 def convert_spline_segment_to_poly_line(
@@ -2321,7 +2321,7 @@ Returns:
 
 <a id="unreal.SplineComponent.clear_spline_points"></a>
 
-#### clear_spline_points
+#### clear\_spline\_points
 
 ```python
 def clear_spline_points(update_spline: bool = True) -> None
@@ -2335,7 +2335,7 @@ Args:
 
 <a id="unreal.SplineComponent.add_spline_world_point"></a>
 
-#### add_spline_world_point
+#### add\_spline\_world\_point
 
 ```python
 def add_spline_world_point(position: Vector) -> None
@@ -2350,7 +2350,7 @@ Args:
 
 <a id="unreal.SplineComponent.add_spline_point_at_index"></a>
 
-#### add_spline_point_at_index
+#### add\_spline\_point\_at\_index
 
 ```python
 def add_spline_point_at_index(position: Vector,
@@ -2370,7 +2370,7 @@ Args:
 
 <a id="unreal.SplineComponent.add_spline_point"></a>
 
-#### add_spline_point
+#### add\_spline\_point
 
 ```python
 def add_spline_point(position: Vector,
@@ -2388,7 +2388,7 @@ Args:
 
 <a id="unreal.SplineComponent.add_spline_local_point"></a>
 
-#### add_spline_local_point
+#### add\_spline\_local\_point
 
 ```python
 def add_spline_local_point(position: Vector) -> None
@@ -2403,7 +2403,7 @@ Args:
 
 <a id="unreal.SplineComponent.add_points"></a>
 
-#### add_points
+#### add\_points
 
 ```python
 def add_points(points: Array[SplinePoint], update_spline: bool = True) -> None
@@ -2418,7 +2418,7 @@ Args:
 
 <a id="unreal.SplineComponent.add_point"></a>
 
-#### add_point
+#### add\_point
 
 ```python
 def add_point(point: SplinePoint, update_spline: bool = True) -> None

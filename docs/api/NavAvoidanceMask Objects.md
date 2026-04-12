@@ -48,7 +48,7 @@ Nav Avoidance Mask
 
 <a id="unreal.NavAvoidanceMask.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(group0: bool = False,

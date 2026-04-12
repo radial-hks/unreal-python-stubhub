@@ -43,7 +43,7 @@ ESlate Gesture
 
 <a id="unreal.SlateGesture.LONG_PRESS"></a>
 
-#### LONG_PRESS
+#### LONG\_PRESS
 
 5
 

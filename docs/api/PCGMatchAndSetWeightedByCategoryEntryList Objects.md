@@ -20,7 +20,7 @@ PCGMatch and Set Weighted by Category Entry List
 
 <a id="unreal.PCGMatchAndSetWeightedByCategoryEntryList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -39,7 +39,7 @@ def __init__(
 
 <a id="unreal.PCGMatchAndSetWeightedByCategoryEntryList.category_value"></a>
 
-#### category_value
+#### category\_value
 
 ```python
 @property
@@ -50,7 +50,7 @@ def category_value() -> PCGMetadataTypesConstantStruct
 
 <a id="unreal.PCGMatchAndSetWeightedByCategoryEntryList.category_value"></a>
 
-#### category_value
+#### category\_value
 
 ```python
 @category_value.setter
@@ -59,7 +59,7 @@ def category_value(value: PCGMetadataTypesConstantStruct) -> None
 
 <a id="unreal.PCGMatchAndSetWeightedByCategoryEntryList.is_default"></a>
 
-#### is_default
+#### is\_default
 
 ```python
 @property
@@ -70,7 +70,7 @@ def is_default() -> bool
 
 <a id="unreal.PCGMatchAndSetWeightedByCategoryEntryList.is_default"></a>
 
-#### is_default
+#### is\_default
 
 ```python
 @is_default.setter
@@ -79,7 +79,7 @@ def is_default(value: bool) -> None
 
 <a id="unreal.PCGMatchAndSetWeightedByCategoryEntryList.weighted_entries"></a>
 
-#### weighted_entries
+#### weighted\_entries
 
 ```python
 @property
@@ -90,7 +90,7 @@ def weighted_entries() -> Array[PCGMatchAndSetWeightedEntry]
 
 <a id="unreal.PCGMatchAndSetWeightedByCategoryEntryList.weighted_entries"></a>
 
-#### weighted_entries
+#### weighted\_entries
 
 ```python
 @weighted_entries.setter

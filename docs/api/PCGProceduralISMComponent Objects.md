@@ -241,7 +241,7 @@ Experimental instanced primitive that is not backed by CPU instance data. Instan
 
 <a id="unreal.PCGProceduralISMComponent.instance_start_cull_distance"></a>
 
-#### instance_start_cull_distance
+#### instance\_start\_cull\_distance
 
 ```python
 @property
@@ -252,7 +252,7 @@ def instance_start_cull_distance() -> int
 
 <a id="unreal.PCGProceduralISMComponent.instance_end_cull_distance"></a>
 
-#### instance_end_cull_distance
+#### instance\_end\_cull\_distance
 
 ```python
 @property
@@ -263,7 +263,7 @@ def instance_end_cull_distance() -> int
 
 <a id="unreal.PCGProceduralISMComponent.set_num_instances"></a>
 
-#### set_num_instances
+#### set\_num\_instances
 
 ```python
 def set_num_instances(num_instances: int) -> None
@@ -277,7 +277,7 @@ Args:
 
 <a id="unreal.PCGProceduralISMComponent.set_num_custom_data_floats"></a>
 
-#### set_num_custom_data_floats
+#### set\_num\_custom\_data\_floats
 
 ```python
 def set_num_custom_data_floats(num_custom_data_floats: int) -> None
@@ -291,7 +291,7 @@ Args:
 
 <a id="unreal.PCGProceduralISMComponent.set_local_bounds"></a>
 
-#### set_local_bounds
+#### set\_local\_bounds
 
 ```python
 def set_local_bounds(local_bounds: Box) -> None
@@ -305,7 +305,7 @@ Args:
 
 <a id="unreal.PCGProceduralISMComponent.set_cull_distances"></a>
 
-#### set_cull_distances
+#### set\_cull\_distances
 
 ```python
 def set_cull_distances(start_cull_distance: int,
@@ -321,7 +321,7 @@ Args:
 
 <a id="unreal.PCGProceduralISMComponent.get_num_instances"></a>
 
-#### get_num_instances
+#### get\_num\_instances
 
 ```python
 def get_num_instances() -> int
@@ -335,7 +335,7 @@ Returns:
 
 <a id="unreal.PCGProceduralISMComponent.get_num_custom_data_floats"></a>
 
-#### get_num_custom_data_floats
+#### get\_num\_custom\_data\_floats
 
 ```python
 def get_num_custom_data_floats() -> int
@@ -349,7 +349,7 @@ Returns:
 
 <a id="unreal.PCGProceduralISMComponent.get_cull_distances"></a>
 
-#### get_cull_distances
+#### get\_cull\_distances
 
 ```python
 def get_cull_distances() -> Tuple[int, int]
@@ -367,7 +367,7 @@ Returns:
 
 <a id="unreal.PCGProceduralISMComponent.clear_instances"></a>
 
-#### clear_instances
+#### clear\_instances
 
 ```python
 def clear_instances() -> None

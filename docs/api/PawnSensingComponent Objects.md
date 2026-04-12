@@ -42,7 +42,7 @@ Pawn Sensing Component
 
 <a id="unreal.PawnSensingComponent.hearing_threshold"></a>
 
-#### hearing_threshold
+#### hearing\_threshold
 
 ```python
 @property
@@ -53,7 +53,7 @@ def hearing_threshold() -> float
 
 <a id="unreal.PawnSensingComponent.hearing_threshold"></a>
 
-#### hearing_threshold
+#### hearing\_threshold
 
 ```python
 @hearing_threshold.setter
@@ -62,7 +62,7 @@ def hearing_threshold(value: float) -> None
 
 <a id="unreal.PawnSensingComponent.los_hearing_threshold"></a>
 
-#### los_hearing_threshold
+#### los\_hearing\_threshold
 
 ```python
 @property
@@ -73,7 +73,7 @@ def los_hearing_threshold() -> float
 
 <a id="unreal.PawnSensingComponent.los_hearing_threshold"></a>
 
-#### los_hearing_threshold
+#### los\_hearing\_threshold
 
 ```python
 @los_hearing_threshold.setter
@@ -82,7 +82,7 @@ def los_hearing_threshold(value: float) -> None
 
 <a id="unreal.PawnSensingComponent.sight_radius"></a>
 
-#### sight_radius
+#### sight\_radius
 
 ```python
 @property
@@ -93,7 +93,7 @@ def sight_radius() -> float
 
 <a id="unreal.PawnSensingComponent.sight_radius"></a>
 
-#### sight_radius
+#### sight\_radius
 
 ```python
 @sight_radius.setter
@@ -102,7 +102,7 @@ def sight_radius(value: float) -> None
 
 <a id="unreal.PawnSensingComponent.sensing_interval"></a>
 
-#### sensing_interval
+#### sensing\_interval
 
 ```python
 @property
@@ -113,7 +113,7 @@ def sensing_interval() -> float
 
 <a id="unreal.PawnSensingComponent.sight_counter_interval"></a>
 
-#### sight_counter_interval
+#### sight\_counter\_interval
 
 ```python
 @property
@@ -124,7 +124,7 @@ deprecated: 'sight_counter_interval' was renamed to 'sensing_interval'.
 
 <a id="unreal.PawnSensingComponent.hearing_max_sound_age"></a>
 
-#### hearing_max_sound_age
+#### hearing\_max\_sound\_age
 
 ```python
 @property
@@ -135,7 +135,7 @@ def hearing_max_sound_age() -> float
 
 <a id="unreal.PawnSensingComponent.hearing_max_sound_age"></a>
 
-#### hearing_max_sound_age
+#### hearing\_max\_sound\_age
 
 ```python
 @hearing_max_sound_age.setter
@@ -144,7 +144,7 @@ def hearing_max_sound_age(value: float) -> None
 
 <a id="unreal.PawnSensingComponent.enable_sensing_updates"></a>
 
-#### enable_sensing_updates
+#### enable\_sensing\_updates
 
 ```python
 @property
@@ -155,7 +155,7 @@ def enable_sensing_updates() -> bool
 
 <a id="unreal.PawnSensingComponent.only_sense_players"></a>
 
-#### only_sense_players
+#### only\_sense\_players
 
 ```python
 @property
@@ -166,7 +166,7 @@ def only_sense_players() -> bool
 
 <a id="unreal.PawnSensingComponent.only_sense_players"></a>
 
-#### only_sense_players
+#### only\_sense\_players
 
 ```python
 @only_sense_players.setter
@@ -175,7 +175,7 @@ def only_sense_players(value: bool) -> None
 
 <a id="unreal.PawnSensingComponent.see_pawns"></a>
 
-#### see_pawns
+#### see\_pawns
 
 ```python
 @property
@@ -186,7 +186,7 @@ def see_pawns() -> bool
 
 <a id="unreal.PawnSensingComponent.see_pawns"></a>
 
-#### see_pawns
+#### see\_pawns
 
 ```python
 @see_pawns.setter
@@ -195,7 +195,7 @@ def see_pawns(value: bool) -> None
 
 <a id="unreal.PawnSensingComponent.b_wants_see_player_notify"></a>
 
-#### b_wants_see_player_notify
+#### b\_wants\_see\_player\_notify
 
 ```python
 @property
@@ -206,7 +206,7 @@ deprecated: 'b_wants_see_player_notify' was renamed to 'see_pawns'.
 
 <a id="unreal.PawnSensingComponent.b_wants_see_player_notify"></a>
 
-#### b_wants_see_player_notify
+#### b\_wants\_see\_player\_notify
 
 ```python
 @b_wants_see_player_notify.setter
@@ -215,7 +215,7 @@ def b_wants_see_player_notify(value: bool) -> None
 
 <a id="unreal.PawnSensingComponent.hear_noises"></a>
 
-#### hear_noises
+#### hear\_noises
 
 ```python
 @property
@@ -227,7 +227,7 @@ IMPORTANT NOTE: If we can see pawns (bSeePawns is true), and the pawn is visible
 
 <a id="unreal.PawnSensingComponent.hear_noises"></a>
 
-#### hear_noises
+#### hear\_noises
 
 ```python
 @hear_noises.setter
@@ -236,7 +236,7 @@ def hear_noises(value: bool) -> None
 
 <a id="unreal.PawnSensingComponent.on_see_pawn"></a>
 
-#### on_see_pawn
+#### on\_see\_pawn
 
 ```python
 @property
@@ -247,7 +247,7 @@ def on_see_pawn() -> SeePawnDelegate
 
 <a id="unreal.PawnSensingComponent.on_see_pawn"></a>
 
-#### on_see_pawn
+#### on\_see\_pawn
 
 ```python
 @on_see_pawn.setter
@@ -256,7 +256,7 @@ def on_see_pawn(value: SeePawnDelegate) -> None
 
 <a id="unreal.PawnSensingComponent.on_hear_noise"></a>
 
-#### on_hear_noise
+#### on\_hear\_noise
 
 ```python
 @property
@@ -267,7 +267,7 @@ def on_hear_noise() -> HearNoiseDelegate
 
 <a id="unreal.PawnSensingComponent.on_hear_noise"></a>
 
-#### on_hear_noise
+#### on\_hear\_noise
 
 ```python
 @on_hear_noise.setter
@@ -276,7 +276,7 @@ def on_hear_noise(value: HearNoiseDelegate) -> None
 
 <a id="unreal.PawnSensingComponent.peripheral_vision_angle"></a>
 
-#### peripheral_vision_angle
+#### peripheral\_vision\_angle
 
 ```python
 @property
@@ -287,7 +287,7 @@ def peripheral_vision_angle() -> float
 
 <a id="unreal.PawnSensingComponent.set_sensing_updates_enabled"></a>
 
-#### set_sensing_updates_enabled
+#### set\_sensing\_updates\_enabled
 
 ```python
 def set_sensing_updates_enabled(enabled: bool) -> None
@@ -301,7 +301,7 @@ Args:
 
 <a id="unreal.PawnSensingComponent.set_sensing_interval"></a>
 
-#### set_sensing_interval
+#### set\_sensing\_interval
 
 ```python
 def set_sensing_interval(new_sensing_interval: float) -> None
@@ -317,7 +317,7 @@ Args:
 
 <a id="unreal.PawnSensingComponent.set_peripheral_vision_angle"></a>
 
-#### set_peripheral_vision_angle
+#### set\_peripheral\_vision\_angle
 
 ```python
 def set_peripheral_vision_angle(new_peripheral_vision_angle: float) -> None
@@ -331,7 +331,7 @@ Args:
 
 <a id="unreal.PawnSensingComponent.get_peripheral_vision_cosine"></a>
 
-#### get_peripheral_vision_cosine
+#### get\_peripheral\_vision\_cosine
 
 ```python
 def get_peripheral_vision_cosine() -> float
@@ -345,7 +345,7 @@ Returns:
 
 <a id="unreal.PawnSensingComponent.get_peripheral_vision_angle"></a>
 
-#### get_peripheral_vision_angle
+#### get\_peripheral\_vision\_angle
 
 ```python
 def get_peripheral_vision_angle() -> float

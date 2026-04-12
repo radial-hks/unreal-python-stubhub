@@ -8,7 +8,7 @@ deprecated: 'RigVMGraphFunctionLayout' was renamed to 'RigVMNodeLayout'.
 
 <a id="unreal.RigVMGraphFunctionLayout.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(categories: Array[RigVMPinCategory] = [],

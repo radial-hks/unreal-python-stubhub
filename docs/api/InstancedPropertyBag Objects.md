@@ -17,10 +17,10 @@ Instanced Property Bag
 
 <a id="unreal.InstancedPropertyBag.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.AvaTagId"></a>
+<a id="unreal.EarthDebugHudTextOptions"></a>

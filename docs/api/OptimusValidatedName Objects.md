@@ -19,7 +19,7 @@ When using this as a UPROPERTY, the UI will use a property customization that va
 
 <a id="unreal.OptimusValidatedName.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

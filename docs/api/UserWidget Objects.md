@@ -62,7 +62,7 @@ A widget that enables UI extensibility through WidgetBlueprint.
 
 <a id="unreal.UserWidget.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @property
@@ -73,7 +73,7 @@ def color_and_opacity() -> LinearColor
 
 <a id="unreal.UserWidget.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @color_and_opacity.setter
@@ -82,7 +82,7 @@ def color_and_opacity(value: LinearColor) -> None
 
 <a id="unreal.UserWidget.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @property
@@ -94,7 +94,7 @@ that is marked as inherit will use this color.
 
 <a id="unreal.UserWidget.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @foreground_color.setter
@@ -103,7 +103,7 @@ def foreground_color(value: SlateColor) -> None
 
 <a id="unreal.UserWidget.on_visibility_changed"></a>
 
-#### on_visibility_changed
+#### on\_visibility\_changed
 
 ```python
 @property
@@ -114,7 +114,7 @@ def on_visibility_changed() -> OnVisibilityChangedEvent
 
 <a id="unreal.UserWidget.on_visibility_changed"></a>
 
-#### on_visibility_changed
+#### on\_visibility\_changed
 
 ```python
 @on_visibility_changed.setter
@@ -163,7 +163,7 @@ def priority(value: int) -> None
 
 <a id="unreal.UserWidget.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @property
@@ -174,7 +174,7 @@ def is_focusable() -> bool
 
 <a id="unreal.UserWidget.is_focusable"></a>
 
-#### is_focusable
+#### is\_focusable
 
 ```python
 @is_focusable.setter
@@ -183,7 +183,7 @@ def is_focusable(value: bool) -> None
 
 <a id="unreal.UserWidget.stop_action"></a>
 
-#### stop_action
+#### stop\_action
 
 ```python
 @property
@@ -194,7 +194,7 @@ def stop_action() -> bool
 
 <a id="unreal.UserWidget.stop_action"></a>
 
-#### stop_action
+#### stop\_action
 
 ```python
 @stop_action.setter
@@ -203,7 +203,7 @@ def stop_action(value: bool) -> None
 
 <a id="unreal.UserWidget.tick_frequency"></a>
 
-#### tick_frequency
+#### tick\_frequency
 
 ```python
 @property
@@ -215,7 +215,7 @@ Uncheck this for performance reasons only
 
 <a id="unreal.UserWidget.unregister_input_component"></a>
 
-#### unregister_input_component
+#### unregister\_input\_component
 
 ```python
 def unregister_input_component() -> None
@@ -228,7 +228,7 @@ UnregisterInputComponent to pause, and RegisterInputComponent to resume listenin
 
 <a id="unreal.UserWidget.unbind_from_animation_started"></a>
 
-#### unbind_from_animation_started
+#### unbind\_from\_animation\_started
 
 ```python
 def unbind_from_animation_started(
@@ -245,7 +245,7 @@ Args:
 
 <a id="unreal.UserWidget.unbind_from_animation_finished"></a>
 
-#### unbind_from_animation_finished
+#### unbind\_from\_animation\_finished
 
 ```python
 def unbind_from_animation_finished(
@@ -262,7 +262,7 @@ Args:
 
 <a id="unreal.UserWidget.unbind_all_from_animation_started"></a>
 
-#### unbind_all_from_animation_started
+#### unbind\_all\_from\_animation\_started
 
 ```python
 def unbind_all_from_animation_started(animation: WidgetAnimation) -> None
@@ -276,7 +276,7 @@ Args:
 
 <a id="unreal.UserWidget.unbind_all_from_animation_finished"></a>
 
-#### unbind_all_from_animation_finished
+#### unbind\_all\_from\_animation\_finished
 
 ```python
 def unbind_all_from_animation_finished(animation: WidgetAnimation) -> None
@@ -305,7 +305,7 @@ Args:
 
 <a id="unreal.UserWidget.stop_listening_for_input_action"></a>
 
-#### stop_listening_for_input_action
+#### stop\_listening\_for\_input\_action
 
 ```python
 def stop_listening_for_input_action(action_name: Name,
@@ -321,7 +321,7 @@ Args:
 
 <a id="unreal.UserWidget.stop_listening_for_all_input_actions"></a>
 
-#### stop_listening_for_all_input_actions
+#### stop\_listening\_for\_all\_input\_actions
 
 ```python
 def stop_listening_for_all_input_actions() -> None
@@ -332,7 +332,7 @@ Stops listening to all input actions, and unregisters the input component with t
 
 <a id="unreal.UserWidget.stop_animations_and_latent_actions"></a>
 
-#### stop_animations_and_latent_actions
+#### stop\_animations\_and\_latent\_actions
 
 ```python
 def stop_animations_and_latent_actions() -> None
@@ -343,7 +343,7 @@ Cancels any pending Delays or timer callbacks for this widget, and stops all act
 
 <a id="unreal.UserWidget.stop_animation"></a>
 
-#### stop_animation
+#### stop\_animation
 
 ```python
 def stop_animation(animation: WidgetAnimation) -> None
@@ -357,7 +357,7 @@ Args:
 
 <a id="unreal.UserWidget.stop_all_animations"></a>
 
-#### stop_all_animations
+#### stop\_all\_animations
 
 ```python
 def stop_all_animations() -> None
@@ -368,7 +368,7 @@ Stop All actively running animations.
 
 <a id="unreal.UserWidget.set_position_in_viewport"></a>
 
-#### set_position_in_viewport
+#### set\_position\_in\_viewport
 
 ```python
 def set_position_in_viewport(position: Vector2D,
@@ -384,7 +384,7 @@ Args:
 
 <a id="unreal.UserWidget.set_playback_speed"></a>
 
-#### set_playback_speed
+#### set\_playback\_speed
 
 ```python
 def set_playback_speed(animation: WidgetAnimation,
@@ -400,7 +400,7 @@ Args:
 
 <a id="unreal.UserWidget.set_padding"></a>
 
-#### set_padding
+#### set\_padding
 
 ```python
 def set_padding(padding: Margin) -> None
@@ -414,7 +414,7 @@ Args:
 
 <a id="unreal.UserWidget.set_owning_player"></a>
 
-#### set_owning_player
+#### set\_owning\_player
 
 ```python
 def set_owning_player(local_player_controller: PlayerController) -> None
@@ -428,7 +428,7 @@ Args:
 
 <a id="unreal.UserWidget.set_num_loops_to_play"></a>
 
-#### set_num_loops_to_play
+#### set\_num\_loops\_to\_play
 
 ```python
 def set_num_loops_to_play(animation: WidgetAnimation,
@@ -444,7 +444,7 @@ Args:
 
 <a id="unreal.UserWidget.set_input_action_priority"></a>
 
-#### set_input_action_priority
+#### set\_input\_action\_priority
 
 ```python
 def set_input_action_priority(new_priority: int) -> None
@@ -458,7 +458,7 @@ Args:
 
 <a id="unreal.UserWidget.set_input_action_blocking"></a>
 
-#### set_input_action_blocking
+#### set\_input\_action\_blocking
 
 ```python
 def set_input_action_blocking(should_block: bool) -> None
@@ -472,7 +472,7 @@ Args:
 
 <a id="unreal.UserWidget.set_foreground_color"></a>
 
-#### set_foreground_color
+#### set\_foreground\_color
 
 ```python
 def set_foreground_color(foreground_color: SlateColor) -> None
@@ -487,7 +487,7 @@ Args:
 
 <a id="unreal.UserWidget.set_desired_size_in_viewport"></a>
 
-#### set_desired_size_in_viewport
+#### set\_desired\_size\_in\_viewport
 
 ```python
 def set_desired_size_in_viewport(size: Vector2D) -> None
@@ -501,7 +501,7 @@ Args:
 
 <a id="unreal.UserWidget.set_color_and_opacity"></a>
 
-#### set_color_and_opacity
+#### set\_color\_and\_opacity
 
 ```python
 def set_color_and_opacity(color_and_opacity: LinearColor) -> None
@@ -515,7 +515,7 @@ Args:
 
 <a id="unreal.UserWidget.set_animation_current_time"></a>
 
-#### set_animation_current_time
+#### set\_animation\_current\_time
 
 ```python
 def set_animation_current_time(animation: WidgetAnimation,
@@ -531,7 +531,7 @@ Args:
 
 <a id="unreal.UserWidget.set_anchors_in_viewport"></a>
 
-#### set_anchors_in_viewport
+#### set\_anchors\_in\_viewport
 
 ```python
 def set_anchors_in_viewport(anchors: Anchors) -> None
@@ -545,7 +545,7 @@ Args:
 
 <a id="unreal.UserWidget.set_alignment_in_viewport"></a>
 
-#### set_alignment_in_viewport
+#### set\_alignment\_in\_viewport
 
 ```python
 def set_alignment_in_viewport(alignment: Vector2D) -> None
@@ -559,7 +559,7 @@ Args:
 
 <a id="unreal.UserWidget.reverse_animation"></a>
 
-#### reverse_animation
+#### reverse\_animation
 
 ```python
 def reverse_animation(animation: WidgetAnimation) -> None
@@ -573,7 +573,7 @@ Args:
 
 <a id="unreal.UserWidget.remove_from_viewport"></a>
 
-#### remove_from_viewport
+#### remove\_from\_viewport
 
 ```python
 def remove_from_viewport() -> None
@@ -585,7 +585,7 @@ deprecated: Use RemoveFromParent instead
 
 <a id="unreal.UserWidget.remove_extensions"></a>
 
-#### remove_extensions
+#### remove\_extensions
 
 ```python
 def remove_extensions(extension_type: Class) -> None
@@ -599,7 +599,7 @@ Args:
 
 <a id="unreal.UserWidget.remove_extension"></a>
 
-#### remove_extension
+#### remove\_extension
 
 ```python
 def remove_extension(extension: UserWidgetExtension) -> None
@@ -613,7 +613,7 @@ Args:
 
 <a id="unreal.UserWidget.register_input_component"></a>
 
-#### register_input_component
+#### register\_input\_component
 
 ```python
 def register_input_component() -> None
@@ -626,7 +626,7 @@ UnregisterInputComponent to pause, and RegisterInputComponent to resume listenin
 
 <a id="unreal.UserWidget.queue_stop_animation"></a>
 
-#### queue_stop_animation
+#### queue\_stop\_animation
 
 ```python
 def queue_stop_animation(animation: WidgetAnimation) -> None
@@ -640,7 +640,7 @@ Args:
 
 <a id="unreal.UserWidget.queue_stop_all_animations"></a>
 
-#### queue_stop_all_animations
+#### queue\_stop\_all\_animations
 
 ```python
 def queue_stop_all_animations() -> None
@@ -651,7 +651,7 @@ Stop All actively running animations.
 
 <a id="unreal.UserWidget.queue_play_animation_time_range"></a>
 
-#### queue_play_animation_time_range
+#### queue\_play\_animation\_time\_range
 
 ```python
 def queue_play_animation_time_range(
@@ -678,7 +678,7 @@ Args:
 
 <a id="unreal.UserWidget.queue_play_animation_reverse"></a>
 
-#### queue_play_animation_reverse
+#### queue\_play\_animation\_reverse
 
 ```python
 def queue_play_animation_reverse(animation: WidgetAnimation,
@@ -698,7 +698,7 @@ Args:
 
 <a id="unreal.UserWidget.queue_play_animation_forward"></a>
 
-#### queue_play_animation_forward
+#### queue\_play\_animation\_forward
 
 ```python
 def queue_play_animation_forward(animation: WidgetAnimation,
@@ -718,7 +718,7 @@ Args:
 
 <a id="unreal.UserWidget.queue_play_animation"></a>
 
-#### queue_play_animation
+#### queue\_play\_animation
 
 ```python
 def queue_play_animation(
@@ -743,7 +743,7 @@ Args:
 
 <a id="unreal.UserWidget.queue_pause_animation"></a>
 
-#### queue_pause_animation
+#### queue\_pause\_animation
 
 ```python
 def queue_pause_animation(animation: WidgetAnimation) -> float
@@ -760,7 +760,7 @@ Returns:
 
 <a id="unreal.UserWidget.pre_construct"></a>
 
-#### pre_construct
+#### pre\_construct
 
 ```python
 def pre_construct(is_design_time: bool) -> None
@@ -783,7 +783,7 @@ Args:
 
 <a id="unreal.UserWidget.play_sound"></a>
 
-#### play_sound
+#### play\_sound
 
 ```python
 def play_sound(sound_to_play: SoundBase) -> None
@@ -798,7 +798,7 @@ Args:
 
 <a id="unreal.UserWidget.play_animation_time_range"></a>
 
-#### play_animation_time_range
+#### play\_animation\_time\_range
 
 ```python
 def play_animation_time_range(
@@ -828,7 +828,7 @@ Returns:
 
 <a id="unreal.UserWidget.play_animation_to"></a>
 
-#### play_animation_to
+#### play\_animation\_to
 
 ```python
 def play_animation_to(
@@ -845,7 +845,7 @@ deprecated: 'play_animation_to' was renamed to 'play_animation_time_range'.
 
 <a id="unreal.UserWidget.play_animation_reverse"></a>
 
-#### play_animation_reverse
+#### play\_animation\_reverse
 
 ```python
 def play_animation_reverse(animation: WidgetAnimation,
@@ -868,7 +868,7 @@ Returns:
 
 <a id="unreal.UserWidget.play_animation_forward"></a>
 
-#### play_animation_forward
+#### play\_animation\_forward
 
 ```python
 def play_animation_forward(animation: WidgetAnimation,
@@ -891,7 +891,7 @@ Returns:
 
 <a id="unreal.UserWidget.play_animation"></a>
 
-#### play_animation
+#### play\_animation
 
 ```python
 def play_animation(
@@ -919,7 +919,7 @@ Returns:
 
 <a id="unreal.UserWidget.play_animation_at_time"></a>
 
-#### play_animation_at_time
+#### play\_animation\_at\_time
 
 ```python
 def play_animation_at_time(
@@ -935,7 +935,7 @@ deprecated: 'play_animation_at_time' was renamed to 'play_animation'.
 
 <a id="unreal.UserWidget.pause_animation"></a>
 
-#### pause_animation
+#### pause\_animation
 
 ```python
 def pause_animation(animation: WidgetAnimation) -> float
@@ -952,7 +952,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_touch_started"></a>
 
-#### on_touch_started
+#### on\_touch\_started
 
 ```python
 def on_touch_started(my_geometry: Geometry,
@@ -971,7 +971,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_touch_moved"></a>
 
-#### on_touch_moved
+#### on\_touch\_moved
 
 ```python
 def on_touch_moved(my_geometry: Geometry,
@@ -990,7 +990,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_touch_gesture"></a>
 
-#### on_touch_gesture
+#### on\_touch\_gesture
 
 ```python
 def on_touch_gesture(my_geometry: Geometry,
@@ -1009,7 +1009,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_touch_force_changed"></a>
 
-#### on_touch_force_changed
+#### on\_touch\_force\_changed
 
 ```python
 def on_touch_force_changed(my_geometry: Geometry,
@@ -1028,7 +1028,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_touch_ended"></a>
 
-#### on_touch_ended
+#### on\_touch\_ended
 
 ```python
 def on_touch_ended(my_geometry: Geometry,
@@ -1047,7 +1047,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_removed_from_focus_path"></a>
 
-#### on_removed_from_focus_path
+#### on\_removed\_from\_focus\_path
 
 ```python
 def on_removed_from_focus_path(focus_event: FocusEvent) -> None
@@ -1062,7 +1062,7 @@ Args:
 
 <a id="unreal.UserWidget.on_preview_mouse_button_down"></a>
 
-#### on_preview_mouse_button_down
+#### on\_preview\_mouse\_button\_down
 
 ```python
 def on_preview_mouse_button_down(my_geometry: Geometry,
@@ -1085,7 +1085,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_preview_key_down"></a>
 
-#### on_preview_key_down
+#### on\_preview\_key\_down
 
 ```python
 def on_preview_key_down(my_geometry: Geometry,
@@ -1108,7 +1108,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_paint"></a>
 
-#### on_paint
+#### on\_paint
 
 ```python
 def on_paint(context: PaintContext) -> PaintContext
@@ -1127,7 +1127,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_mouse_wheel"></a>
 
-#### on_mouse_wheel
+#### on\_mouse\_wheel
 
 ```python
 def on_mouse_wheel(my_geometry: Geometry,
@@ -1146,7 +1146,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_mouse_move"></a>
 
-#### on_mouse_move
+#### on\_mouse\_move
 
 ```python
 def on_mouse_move(my_geometry: Geometry,
@@ -1165,7 +1165,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_mouse_leave"></a>
 
-#### on_mouse_leave
+#### on\_mouse\_leave
 
 ```python
 def on_mouse_leave(mouse_event: PointerEvent) -> None
@@ -1179,7 +1179,7 @@ Args:
 
 <a id="unreal.UserWidget.on_mouse_enter"></a>
 
-#### on_mouse_enter
+#### on\_mouse\_enter
 
 ```python
 def on_mouse_enter(my_geometry: Geometry, mouse_event: PointerEvent) -> None
@@ -1194,7 +1194,7 @@ Args:
 
 <a id="unreal.UserWidget.on_mouse_capture_lost"></a>
 
-#### on_mouse_capture_lost
+#### on\_mouse\_capture\_lost
 
 ```python
 def on_mouse_capture_lost() -> None
@@ -1205,7 +1205,7 @@ Called when mouse capture is lost if it was owned by this widget.
 
 <a id="unreal.UserWidget.on_mouse_button_up"></a>
 
-#### on_mouse_button_up
+#### on\_mouse\_button\_up
 
 ```python
 def on_mouse_button_up(my_geometry: Geometry,
@@ -1224,7 +1224,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_mouse_button_down"></a>
 
-#### on_mouse_button_down
+#### on\_mouse\_button\_down
 
 ```python
 def on_mouse_button_down(my_geometry: Geometry,
@@ -1243,7 +1243,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_mouse_button_double_click"></a>
 
-#### on_mouse_button_double_click
+#### on\_mouse\_button\_double\_click
 
 ```python
 def on_mouse_button_double_click(my_geometry: Geometry,
@@ -1262,7 +1262,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_motion_detected"></a>
 
-#### on_motion_detected
+#### on\_motion\_detected
 
 ```python
 def on_motion_detected(my_geometry: Geometry,
@@ -1282,7 +1282,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_key_up"></a>
 
-#### on_key_up
+#### on\_key\_up
 
 ```python
 def on_key_up(my_geometry: Geometry, key_event: KeyEvent) -> EventReply
@@ -1300,7 +1300,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_key_down"></a>
 
-#### on_key_down
+#### on\_key\_down
 
 ```python
 def on_key_down(my_geometry: Geometry, key_event: KeyEvent) -> EventReply
@@ -1318,7 +1318,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_key_char"></a>
 
-#### on_key_char
+#### on\_key\_char
 
 ```python
 def on_key_char(my_geometry: Geometry,
@@ -1337,7 +1337,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_initialized"></a>
 
-#### on_initialized
+#### on\_initialized
 
 ```python
 def on_initialized() -> None
@@ -1350,7 +1350,7 @@ If you have one-time things to establish up-front (like binding callbacks to eve
 
 <a id="unreal.UserWidget.on_focus_received"></a>
 
-#### on_focus_received
+#### on\_focus\_received
 
 ```python
 def on_focus_received(my_geometry: Geometry,
@@ -1369,7 +1369,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_focus_lost"></a>
 
-#### on_focus_lost
+#### on\_focus\_lost
 
 ```python
 def on_focus_lost(focus_event: FocusEvent) -> None
@@ -1383,7 +1383,7 @@ Args:
 
 <a id="unreal.UserWidget.on_drop"></a>
 
-#### on_drop
+#### on\_drop
 
 ```python
 def on_drop(my_geometry: Geometry, pointer_event: PointerEvent,
@@ -1403,7 +1403,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_drag_over"></a>
 
-#### on_drag_over
+#### on\_drag\_over
 
 ```python
 def on_drag_over(my_geometry: Geometry, pointer_event: PointerEvent,
@@ -1423,7 +1423,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_drag_leave"></a>
 
-#### on_drag_leave
+#### on\_drag\_leave
 
 ```python
 def on_drag_leave(pointer_event: PointerEvent,
@@ -1439,7 +1439,7 @@ Args:
 
 <a id="unreal.UserWidget.on_drag_enter"></a>
 
-#### on_drag_enter
+#### on\_drag\_enter
 
 ```python
 def on_drag_enter(my_geometry: Geometry, pointer_event: PointerEvent,
@@ -1456,7 +1456,7 @@ Args:
 
 <a id="unreal.UserWidget.on_drag_detected"></a>
 
-#### on_drag_detected
+#### on\_drag\_detected
 
 ```python
 def on_drag_detected(my_geometry: Geometry,
@@ -1477,7 +1477,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_drag_cancelled"></a>
 
-#### on_drag_cancelled
+#### on\_drag\_cancelled
 
 ```python
 def on_drag_cancelled(pointer_event: PointerEvent,
@@ -1494,7 +1494,7 @@ Args:
 
 <a id="unreal.UserWidget.on_animation_started"></a>
 
-#### on_animation_started
+#### on\_animation\_started
 
 ```python
 def on_animation_started(animation: WidgetAnimation) -> None
@@ -1508,7 +1508,7 @@ Args:
 
 <a id="unreal.UserWidget.on_animation_finished"></a>
 
-#### on_animation_finished
+#### on\_animation\_finished
 
 ```python
 def on_animation_finished(animation: WidgetAnimation) -> None
@@ -1522,7 +1522,7 @@ Args:
 
 <a id="unreal.UserWidget.on_analog_value_changed"></a>
 
-#### on_analog_value_changed
+#### on\_analog\_value\_changed
 
 ```python
 def on_analog_value_changed(
@@ -1542,7 +1542,7 @@ Returns:
 
 <a id="unreal.UserWidget.on_added_to_focus_path"></a>
 
-#### on_added_to_focus_path
+#### on\_added\_to\_focus\_path
 
 ```python
 def on_added_to_focus_path(focus_event: FocusEvent) -> None
@@ -1557,7 +1557,7 @@ Args:
 
 <a id="unreal.UserWidget.listen_for_input_action"></a>
 
-#### listen_for_input_action
+#### listen\_for\_input\_action
 
 ```python
 def listen_for_input_action(action_name: Name, event_type: InputEventType,
@@ -1576,7 +1576,7 @@ Args:
 
 <a id="unreal.UserWidget.is_playing_animation"></a>
 
-#### is_playing_animation
+#### is\_playing\_animation
 
 ```python
 def is_playing_animation() -> bool
@@ -1590,7 +1590,7 @@ Returns:
 
 <a id="unreal.UserWidget.is_listening_for_input_action"></a>
 
-#### is_listening_for_input_action
+#### is\_listening\_for\_input\_action
 
 ```python
 def is_listening_for_input_action(action_name: Name) -> bool
@@ -1607,7 +1607,7 @@ Returns:
 
 <a id="unreal.UserWidget.is_interactable"></a>
 
-#### is_interactable
+#### is\_interactable
 
 ```python
 def is_interactable() -> bool
@@ -1621,7 +1621,7 @@ Returns:
 
 <a id="unreal.UserWidget.is_any_animation_playing"></a>
 
-#### is_any_animation_playing
+#### is\_any\_animation\_playing
 
 ```python
 def is_any_animation_playing() -> bool
@@ -1635,7 +1635,7 @@ Returns:
 
 <a id="unreal.UserWidget.is_animation_playing_forward"></a>
 
-#### is_animation_playing_forward
+#### is\_animation\_playing\_forward
 
 ```python
 def is_animation_playing_forward(animation: WidgetAnimation) -> bool
@@ -1652,7 +1652,7 @@ Returns:
 
 <a id="unreal.UserWidget.is_animation_playing"></a>
 
-#### is_animation_playing
+#### is\_animation\_playing
 
 ```python
 def is_animation_playing(animation: WidgetAnimation) -> bool
@@ -1669,7 +1669,7 @@ Returns:
 
 <a id="unreal.UserWidget.get_owning_player_pawn"></a>
 
-#### get_owning_player_pawn
+#### get\_owning\_player\_pawn
 
 ```python
 def get_owning_player_pawn() -> Pawn
@@ -1683,7 +1683,7 @@ Returns:
 
 <a id="unreal.UserWidget.get_owning_player_camera_manager"></a>
 
-#### get_owning_player_camera_manager
+#### get\_owning\_player\_camera\_manager
 
 ```python
 def get_owning_player_camera_manager() -> PlayerCameraManager
@@ -1697,7 +1697,7 @@ Returns:
 
 <a id="unreal.UserWidget.get_is_visible"></a>
 
-#### get_is_visible
+#### get\_is\_visible
 
 ```python
 def get_is_visible() -> bool
@@ -1712,7 +1712,7 @@ Returns:
 
 <a id="unreal.UserWidget.get_extensions"></a>
 
-#### get_extensions
+#### get\_extensions
 
 ```python
 def get_extensions(extension_type: Class) -> Array[UserWidgetExtension]
@@ -1729,7 +1729,7 @@ Returns:
 
 <a id="unreal.UserWidget.get_extension"></a>
 
-#### get_extension
+#### get\_extension
 
 ```python
 def get_extension(extension_type: Class) -> UserWidgetExtension
@@ -1746,7 +1746,7 @@ Returns:
 
 <a id="unreal.UserWidget.get_animation_current_time"></a>
 
-#### get_animation_current_time
+#### get\_animation\_current\_time
 
 ```python
 def get_animation_current_time(animation: WidgetAnimation) -> float
@@ -1763,7 +1763,7 @@ Returns:
 
 <a id="unreal.UserWidget.get_anchors_in_viewport"></a>
 
-#### get_anchors_in_viewport
+#### get\_anchors\_in\_viewport
 
 ```python
 def get_anchors_in_viewport() -> Anchors
@@ -1777,7 +1777,7 @@ Returns:
 
 <a id="unreal.UserWidget.get_alignment_in_viewport"></a>
 
-#### get_alignment_in_viewport
+#### get\_alignment\_in\_viewport
 
 ```python
 def get_alignment_in_viewport() -> Vector2D
@@ -1791,7 +1791,7 @@ Returns:
 
 <a id="unreal.UserWidget.flush_animations"></a>
 
-#### flush_animations
+#### flush\_animations
 
 ```python
 def flush_animations() -> None
@@ -1827,7 +1827,7 @@ If you need a true called-once-when-created event, use OnInitialized.
 
 <a id="unreal.UserWidget.cancel_latent_actions"></a>
 
-#### cancel_latent_actions
+#### cancel\_latent\_actions
 
 ```python
 def cancel_latent_actions() -> None
@@ -1838,7 +1838,7 @@ Cancels any pending Delays or timer callbacks for this widget.
 
 <a id="unreal.UserWidget.bind_to_animation_started"></a>
 
-#### bind_to_animation_started
+#### bind\_to\_animation\_started
 
 ```python
 def bind_to_animation_started(animation: WidgetAnimation,
@@ -1854,7 +1854,7 @@ Args:
 
 <a id="unreal.UserWidget.bind_to_animation_finished"></a>
 
-#### bind_to_animation_finished
+#### bind\_to\_animation\_finished
 
 ```python
 def bind_to_animation_finished(animation: WidgetAnimation,
@@ -1870,7 +1870,7 @@ Args:
 
 <a id="unreal.UserWidget.bind_to_animation_event"></a>
 
-#### bind_to_animation_event
+#### bind\_to\_animation\_event
 
 ```python
 def bind_to_animation_event(animation: WidgetAnimation,
@@ -1890,7 +1890,7 @@ Args:
 
 <a id="unreal.UserWidget.add_to_viewport"></a>
 
-#### add_to_viewport
+#### add\_to\_viewport
 
 ```python
 def add_to_viewport(z_order: int = 0) -> None
@@ -1905,7 +1905,7 @@ Args:
 
 <a id="unreal.UserWidget.add_to_player_screen"></a>
 
-#### add_to_player_screen
+#### add\_to\_player\_screen
 
 ```python
 def add_to_player_screen(z_order: int = 0) -> bool
@@ -1923,7 +1923,7 @@ Returns:
 
 <a id="unreal.UserWidget.add_extension"></a>
 
-#### add_extension
+#### add\_extension
 
 ```python
 def add_extension(extension_type: Class) -> UserWidgetExtension

@@ -19,7 +19,7 @@ Rig Local and Global Transform
 
 <a id="unreal.RigLocalAndGlobalTransform.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(local: RigComputedTransform = [],
@@ -39,7 +39,7 @@ def local() -> RigComputedTransform
 
 <a id="unreal.RigLocalAndGlobalTransform.global_"></a>
 
-#### global_
+#### global\_
 
 ```python
 @property

@@ -14,13 +14,13 @@ EPCGControl Point Fuse Mode
 
 <a id="unreal.PCGControlPointFuseMode.KEEP_FIRST"></a>
 
-#### KEEP_FIRST
+#### KEEP\_FIRST
 
 0: Keep the first of two control points.
 
 <a id="unreal.PCGControlPointFuseMode.KEEP_SECOND"></a>
 
-#### KEEP_SECOND
+#### KEEP\_SECOND
 
 1: Keep the second of two control points.
 

@@ -8,7 +8,7 @@ deprecated: 'AttenuationSettings' was renamed to 'SoundAttenuationSettings'.
 
 <a id="unreal.AttenuationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

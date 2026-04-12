@@ -20,13 +20,13 @@ EUsd Edit in Instance Behavior
 
 <a id="unreal.UsdEditInInstanceBehavior.REMOVE_INSTANCEABLE"></a>
 
-#### REMOVE_INSTANCEABLE
+#### REMOVE\_INSTANCEABLE
 
 1
 
 <a id="unreal.UsdEditInInstanceBehavior.SHOW_PROMPT"></a>
 
-#### SHOW_PROMPT
+#### SHOW\_PROMPT
 
 2
 

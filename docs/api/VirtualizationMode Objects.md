@@ -21,7 +21,7 @@ for a given sound.
 
 <a id="unreal.VirtualizationMode.PLAY_WHEN_SILENT"></a>
 
-#### PLAY_WHEN_SILENT
+#### PLAY\_WHEN\_SILENT
 
 1: Sound continues to play when silent and not virtualize, continuing to use a voice. If
 sound is looping and stopped due to concurrency or channel limit/priority, sound will

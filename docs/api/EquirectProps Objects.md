@@ -23,7 +23,7 @@ Properties for equirect layers
 
 <a id="unreal.EquirectProps.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(left_uv_rect: Box2D = [[0.000000, 0.000000], [0.000000, 0.000000],
@@ -39,7 +39,7 @@ def __init__(left_uv_rect: Box2D = [[0.000000, 0.000000], [0.000000, 0.000000],
 
 <a id="unreal.EquirectProps.left_uv_rect"></a>
 
-#### left_uv_rect
+#### left\_uv\_rect
 
 ```python
 @property
@@ -50,7 +50,7 @@ def left_uv_rect() -> Box2D
 
 <a id="unreal.EquirectProps.right_uv_rect"></a>
 
-#### right_uv_rect
+#### right\_uv\_rect
 
 ```python
 @property
@@ -61,7 +61,7 @@ def right_uv_rect() -> Box2D
 
 <a id="unreal.EquirectProps.left_scale"></a>
 
-#### left_scale
+#### left\_scale
 
 ```python
 @property
@@ -72,7 +72,7 @@ def left_scale() -> Vector2D
 
 <a id="unreal.EquirectProps.right_scale"></a>
 
-#### right_scale
+#### right\_scale
 
 ```python
 @property
@@ -83,7 +83,7 @@ def right_scale() -> Vector2D
 
 <a id="unreal.EquirectProps.left_bias"></a>
 
-#### left_bias
+#### left\_bias
 
 ```python
 @property
@@ -94,7 +94,7 @@ def left_bias() -> Vector2D
 
 <a id="unreal.EquirectProps.right_bias"></a>
 
-#### right_bias
+#### right\_bias
 
 ```python
 @property

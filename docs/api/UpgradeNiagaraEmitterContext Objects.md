@@ -20,7 +20,7 @@ Wrapper class for passing results back from the version upgrade python script.
 
 <a id="unreal.UpgradeNiagaraEmitterContext.cancelled_by_python_error"></a>
 
-#### cancelled_by_python_error
+#### cancelled\_by\_python\_error
 
 ```python
 @property
@@ -31,7 +31,7 @@ def cancelled_by_python_error() -> bool
 
 <a id="unreal.UpgradeNiagaraEmitterContext.cancelled_by_python_error"></a>
 
-#### cancelled_by_python_error
+#### cancelled\_by\_python\_error
 
 ```python
 @cancelled_by_python_error.setter
@@ -40,7 +40,7 @@ def cancelled_by_python_error(value: bool) -> None
 
 <a id="unreal.UpgradeNiagaraEmitterContext.old_emitter"></a>
 
-#### old_emitter
+#### old\_emitter
 
 ```python
 @property
@@ -51,7 +51,7 @@ def old_emitter() -> NiagaraPythonEmitter
 
 <a id="unreal.UpgradeNiagaraEmitterContext.old_emitter"></a>
 
-#### old_emitter
+#### old\_emitter
 
 ```python
 @old_emitter.setter
@@ -60,7 +60,7 @@ def old_emitter(value: NiagaraPythonEmitter) -> None
 
 <a id="unreal.UpgradeNiagaraEmitterContext.new_emitter"></a>
 
-#### new_emitter
+#### new\_emitter
 
 ```python
 @property
@@ -71,7 +71,7 @@ def new_emitter() -> NiagaraPythonEmitter
 
 <a id="unreal.UpgradeNiagaraEmitterContext.new_emitter"></a>
 
-#### new_emitter
+#### new\_emitter
 
 ```python
 @new_emitter.setter

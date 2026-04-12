@@ -21,7 +21,7 @@ Contains info for input vertex of a Metasound class.
 
 <a id="unreal.MetasoundFrontendClassInput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

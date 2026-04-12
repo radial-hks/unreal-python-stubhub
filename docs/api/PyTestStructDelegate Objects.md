@@ -18,7 +18,7 @@ This class along with UPyTestVectorDelegate verify that 2 UObjects with the same
 
 <a id="unreal.PyTestStructDelegate.on_name_collision_test_delegate"></a>
 
-#### on_name_collision_test_delegate
+#### on\_name\_collision\_test\_delegate
 
 ```python
 @property
@@ -29,7 +29,7 @@ def on_name_collision_test_delegate() -> OnNameCollisionDelegate
 
 <a id="unreal.PyTestStructDelegate.on_name_collision_test_delegate"></a>
 
-#### on_name_collision_test_delegate
+#### on\_name\_collision\_test\_delegate
 
 ```python
 @on_name_collision_test_delegate.setter

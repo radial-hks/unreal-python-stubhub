@@ -26,7 +26,7 @@ see: UPaperTileMap, UPaperTileMapComponent
 
 <a id="unreal.PaperTileSet.tile_size"></a>
 
-#### tile_size
+#### tile\_size
 
 ```python
 @property
@@ -37,7 +37,7 @@ def tile_size() -> IntPoint
 
 <a id="unreal.PaperTileSet.tile_sheet"></a>
 
-#### tile_sheet
+#### tile\_sheet
 
 ```python
 @property
@@ -48,7 +48,7 @@ def tile_sheet() -> Texture2D
 
 <a id="unreal.PaperTileSet.border_margin"></a>
 
-#### border_margin
+#### border\_margin
 
 ```python
 @property
@@ -59,7 +59,7 @@ def border_margin() -> IntMargin
 
 <a id="unreal.PaperTileSet.per_tile_spacing"></a>
 
-#### per_tile_spacing
+#### per\_tile\_spacing
 
 ```python
 @property
@@ -70,7 +70,7 @@ def per_tile_spacing() -> IntPoint
 
 <a id="unreal.PaperTileSet.drawing_offset"></a>
 
-#### drawing_offset
+#### drawing\_offset
 
 ```python
 @property

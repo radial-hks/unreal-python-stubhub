@@ -48,7 +48,7 @@ Note: These are instanced per player (via FInputActionInstance)
 
 <a id="unreal.InputAction.action_description"></a>
 
-#### action_description
+#### action\_description
 
 ```python
 @property
@@ -59,7 +59,7 @@ def action_description() -> Text
 
 <a id="unreal.InputAction.trigger_when_paused"></a>
 
-#### trigger_when_paused
+#### trigger\_when\_paused
 
 ```python
 @property
@@ -70,7 +70,7 @@ def trigger_when_paused() -> bool
 
 <a id="unreal.InputAction.consume_input"></a>
 
-#### consume_input
+#### consume\_input
 
 ```python
 @property
@@ -81,7 +81,7 @@ def consume_input() -> bool
 
 <a id="unreal.InputAction.consume_input"></a>
 
-#### consume_input
+#### consume\_input
 
 ```python
 @consume_input.setter
@@ -90,7 +90,7 @@ def consume_input(value: bool) -> None
 
 <a id="unreal.InputAction.consumes_action_and_axis_mappings"></a>
 
-#### consumes_action_and_axis_mappings
+#### consumes\_action\_and\_axis\_mappings
 
 ```python
 @property
@@ -103,7 +103,7 @@ mapping from firing delegates.
 
 <a id="unreal.InputAction.consumes_action_and_axis_mappings"></a>
 
-#### consumes_action_and_axis_mappings
+#### consumes\_action\_and\_axis\_mappings
 
 ```python
 @consumes_action_and_axis_mappings.setter
@@ -112,7 +112,7 @@ def consumes_action_and_axis_mappings(value: bool) -> None
 
 <a id="unreal.InputAction.reserve_all_mappings"></a>
 
-#### reserve_all_mappings
+#### reserve\_all\_mappings
 
 ```python
 @property
@@ -123,7 +123,7 @@ def reserve_all_mappings() -> bool
 
 <a id="unreal.InputAction.trigger_events_that_consume_legacy_keys"></a>
 
-#### trigger_events_that_consume_legacy_keys
+#### trigger\_events\_that\_consume\_legacy\_keys
 
 ```python
 @property
@@ -134,7 +134,7 @@ def trigger_events_that_consume_legacy_keys() -> int
 
 <a id="unreal.InputAction.trigger_events_that_consume_legacy_keys"></a>
 
-#### trigger_events_that_consume_legacy_keys
+#### trigger\_events\_that\_consume\_legacy\_keys
 
 ```python
 @trigger_events_that_consume_legacy_keys.setter
@@ -143,7 +143,7 @@ def trigger_events_that_consume_legacy_keys(value: int) -> None
 
 <a id="unreal.InputAction.value_type"></a>
 
-#### value_type
+#### value\_type
 
 ```python
 @property
@@ -154,7 +154,7 @@ def value_type() -> InputActionValueType
 
 <a id="unreal.InputAction.accumulation_behavior"></a>
 
-#### accumulation_behavior
+#### accumulation\_behavior
 
 ```python
 @property
@@ -215,7 +215,7 @@ def modifiers(value: Array[InputModifier]) -> None
 
 <a id="unreal.InputAction.player_mappable_key_settings"></a>
 
-#### player_mappable_key_settings
+#### player\_mappable\_key\_settings
 
 ```python
 @property
@@ -226,7 +226,7 @@ def player_mappable_key_settings() -> PlayerMappableKeySettings
 
 <a id="unreal.InputAction.player_mappable_key_settings"></a>
 
-#### player_mappable_key_settings
+#### player\_mappable\_key\_settings
 
 ```python
 @player_mappable_key_settings.setter

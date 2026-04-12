@@ -14,7 +14,7 @@ A set of spheres used to represent a volume
 
 <a id="unreal.GeometryScriptSphereCovering.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

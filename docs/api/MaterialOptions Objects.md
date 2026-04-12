@@ -42,7 +42,7 @@ def properties(value: Array[PropertyEntry]) -> None
 
 <a id="unreal.MaterialOptions.texture_size"></a>
 
-#### texture_size
+#### texture\_size
 
 ```python
 @property
@@ -53,7 +53,7 @@ def texture_size() -> IntPoint
 
 <a id="unreal.MaterialOptions.texture_size"></a>
 
-#### texture_size
+#### texture\_size
 
 ```python
 @texture_size.setter
@@ -62,7 +62,7 @@ def texture_size(value: IntPoint) -> None
 
 <a id="unreal.MaterialOptions.lod_indices"></a>
 
-#### lod_indices
+#### lod\_indices
 
 ```python
 @property
@@ -73,7 +73,7 @@ def lod_indices() -> Array[int]
 
 <a id="unreal.MaterialOptions.lod_indices"></a>
 
-#### lod_indices
+#### lod\_indices
 
 ```python
 @lod_indices.setter
@@ -82,7 +82,7 @@ def lod_indices(value: Array[int]) -> None
 
 <a id="unreal.MaterialOptions.use_mesh_data"></a>
 
-#### use_mesh_data
+#### use\_mesh\_data
 
 ```python
 @property
@@ -93,7 +93,7 @@ def use_mesh_data() -> bool
 
 <a id="unreal.MaterialOptions.use_mesh_data"></a>
 
-#### use_mesh_data
+#### use\_mesh\_data
 
 ```python
 @use_mesh_data.setter
@@ -102,7 +102,7 @@ def use_mesh_data(value: bool) -> None
 
 <a id="unreal.MaterialOptions.use_specific_uv_index"></a>
 
-#### use_specific_uv_index
+#### use\_specific\_uv\_index
 
 ```python
 @property
@@ -113,7 +113,7 @@ def use_specific_uv_index() -> bool
 
 <a id="unreal.MaterialOptions.use_specific_uv_index"></a>
 
-#### use_specific_uv_index
+#### use\_specific\_uv\_index
 
 ```python
 @use_specific_uv_index.setter
@@ -122,7 +122,7 @@ def use_specific_uv_index(value: bool) -> None
 
 <a id="unreal.MaterialOptions.texture_coordinate_index"></a>
 
-#### texture_coordinate_index
+#### texture\_coordinate\_index
 
 ```python
 @property
@@ -133,7 +133,7 @@ def texture_coordinate_index() -> int
 
 <a id="unreal.MaterialOptions.texture_coordinate_index"></a>
 
-#### texture_coordinate_index
+#### texture\_coordinate\_index
 
 ```python
 @texture_coordinate_index.setter

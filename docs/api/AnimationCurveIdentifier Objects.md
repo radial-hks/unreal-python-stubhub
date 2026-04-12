@@ -14,7 +14,7 @@ Wrapping the unique type and smart-name for use within the AnimDataController AP
 
 <a id="unreal.AnimationCurveIdentifier.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.AnimationCurveIdentifier.set_curve_identifier"></a>
 
-#### set_curve_identifier
+#### set\_curve\_identifier
 
 ```python
 def set_curve_identifier(name: Name, curve_type: RawCurveTrackTypes) -> None
@@ -37,7 +37,7 @@ Args:
 
 <a id="unreal.AnimationCurveIdentifier.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifier.get_type"></a>
 
-#### get_type
+#### get\_type
 
 ```python
 def get_type() -> RawCurveTrackTypes
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifier.get_transform_child_curve_identifier"></a>
 
-#### get_transform_child_curve_identifier
+#### get\_transform\_child\_curve\_identifier
 
 ```python
 def get_transform_child_curve_identifier(channel: TransformCurveChannel,
@@ -84,7 +84,7 @@ Returns:
 
 <a id="unreal.AnimationCurveIdentifier.get_name"></a>
 
-#### get_name
+#### get\_name
 
 ```python
 def get_name() -> Name

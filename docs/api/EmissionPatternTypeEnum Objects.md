@@ -13,13 +13,13 @@ EEmission Pattern Type Enum
 
 <a id="unreal.EmissionPatternTypeEnum.CHAOS_EMISSION_PATTERN_FIRST_FRAME"></a>
 
-#### CHAOS_EMISSION_PATTERN_FIRST_FRAME
+#### CHAOS\_EMISSION\_PATTERN\_FIRST\_FRAME
 
 0
 
 <a id="unreal.EmissionPatternTypeEnum.CHAOS_EMISSION_PATTERN_ON_DEMAND"></a>
 
-#### CHAOS_EMISSION_PATTERN_ON_DEMAND
+#### CHAOS\_EMISSION\_PATTERN\_ON\_DEMAND
 
 1
 

@@ -21,7 +21,7 @@ have an associated 2D screen position.
 
 <a id="unreal.InputDeviceRay.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(world_ray: Ray = [[0.000000, 0.000000, 0.000000],
@@ -32,7 +32,7 @@ def __init__(world_ray: Ray = [[0.000000, 0.000000, 0.000000],
 
 <a id="unreal.InputDeviceRay.world_ray"></a>
 
-#### world_ray
+#### world\_ray
 
 ```python
 @property
@@ -43,7 +43,7 @@ def world_ray() -> Ray
 
 <a id="unreal.InputDeviceRay.world_ray"></a>
 
-#### world_ray
+#### world\_ray
 
 ```python
 @world_ray.setter
@@ -72,7 +72,7 @@ def has2d(value: bool) -> None
 
 <a id="unreal.InputDeviceRay.screen_position"></a>
 
-#### screen_position
+#### screen\_position
 
 ```python
 @property
@@ -83,7 +83,7 @@ def screen_position() -> Vector2D
 
 <a id="unreal.InputDeviceRay.screen_position"></a>
 
-#### screen_position
+#### screen\_position
 
 ```python
 @screen_position.setter

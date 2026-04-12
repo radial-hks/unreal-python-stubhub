@@ -18,7 +18,7 @@ Defined as a struct rather than an int so a property type customization can be b
 
 <a id="unreal.MovieSceneSequenceLoopCount.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: int = 0) -> None

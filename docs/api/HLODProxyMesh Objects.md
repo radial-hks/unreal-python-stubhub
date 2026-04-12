@@ -18,7 +18,7 @@ A mesh proxy entry
 
 <a id="unreal.HLODProxyMesh.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

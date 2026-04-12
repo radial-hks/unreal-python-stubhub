@@ -36,7 +36,7 @@ def settings() -> LoudnessNRTSettings
 
 <a id="unreal.LoudnessNRT.get_normalized_loudness_at_time"></a>
 
-#### get_normalized_loudness_at_time
+#### get\_normalized\_loudness\_at\_time
 
 ```python
 def get_normalized_loudness_at_time(seconds: float) -> float
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.LoudnessNRT.get_normalized_channel_loudness_at_time"></a>
 
-#### get_normalized_channel_loudness_at_time
+#### get\_normalized\_channel\_loudness\_at\_time
 
 ```python
 def get_normalized_channel_loudness_at_time(seconds: float,
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.LoudnessNRT.get_loudness_at_time"></a>
 
-#### get_loudness_at_time
+#### get\_loudness\_at\_time
 
 ```python
 def get_loudness_at_time(seconds: float) -> float
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.LoudnessNRT.get_channel_loudness_at_time"></a>
 
-#### get_channel_loudness_at_time
+#### get\_channel\_loudness\_at\_time
 
 ```python
 def get_channel_loudness_at_time(seconds: float, channel: int) -> float

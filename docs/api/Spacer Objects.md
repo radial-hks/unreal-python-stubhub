@@ -72,7 +72,7 @@ def size(value: Vector2D) -> None
 
 <a id="unreal.Spacer.set_size"></a>
 
-#### set_size
+#### set\_size
 
 ```python
 def set_size(size: Vector2D) -> None

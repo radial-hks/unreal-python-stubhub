@@ -18,7 +18,7 @@ Structure encapsulating animated curve data. Currently only contains Float and T
 
 <a id="unreal.AnimationCurveData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(float_curves: Array[FloatCurve] = [],
@@ -27,7 +27,7 @@ def __init__(float_curves: Array[FloatCurve] = [],
 
 <a id="unreal.AnimationCurveData.float_curves"></a>
 
-#### float_curves
+#### float\_curves
 
 ```python
 @property
@@ -38,7 +38,7 @@ def float_curves() -> Array[FloatCurve]
 
 <a id="unreal.AnimationCurveData.transform_curves"></a>
 
-#### transform_curves
+#### transform\_curves
 
 ```python
 @property

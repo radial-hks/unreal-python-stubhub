@@ -68,7 +68,7 @@ Struct that holds the relevant properties that can help decide if instances of d
 
 <a id="unreal.ISMComponentDescriptorBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

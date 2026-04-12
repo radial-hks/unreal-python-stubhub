@@ -18,7 +18,7 @@ A pose in component space (i.e. each transform is relative to the component's tr
 
 <a id="unreal.ComponentSpacePose.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(transforms: Array[Transform] = [],

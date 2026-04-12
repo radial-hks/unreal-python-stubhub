@@ -20,13 +20,13 @@ EEditor Scripting String Match Type
 
 <a id="unreal.EditorScriptingStringMatchType.MATCHES_WILDCARD"></a>
 
-#### MATCHES_WILDCARD
+#### MATCHES\_WILDCARD
 
 1
 
 <a id="unreal.EditorScriptingStringMatchType.EXACT_MATCH"></a>
 
-#### EXACT_MATCH
+#### EXACT\_MATCH
 
 2
 

@@ -22,7 +22,7 @@ Options when adding a new subobject
 
 <a id="unreal.AddNewSubobjectParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(parent_handle: SubobjectDataHandle = [],
@@ -34,7 +34,7 @@ def __init__(parent_handle: SubobjectDataHandle = [],
 
 <a id="unreal.AddNewSubobjectParams.parent_handle"></a>
 
-#### parent_handle
+#### parent\_handle
 
 ```python
 @property
@@ -45,7 +45,7 @@ def parent_handle() -> SubobjectDataHandle
 
 <a id="unreal.AddNewSubobjectParams.parent_handle"></a>
 
-#### parent_handle
+#### parent\_handle
 
 ```python
 @parent_handle.setter
@@ -54,7 +54,7 @@ def parent_handle(value: SubobjectDataHandle) -> None
 
 <a id="unreal.AddNewSubobjectParams.new_class"></a>
 
-#### new_class
+#### new\_class
 
 ```python
 @property
@@ -65,7 +65,7 @@ def new_class() -> Class
 
 <a id="unreal.AddNewSubobjectParams.new_class"></a>
 
-#### new_class
+#### new\_class
 
 ```python
 @new_class.setter
@@ -74,7 +74,7 @@ def new_class(value: Class) -> None
 
 <a id="unreal.AddNewSubobjectParams.blueprint_context"></a>
 
-#### blueprint_context
+#### blueprint\_context
 
 ```python
 @property
@@ -86,7 +86,7 @@ this subobject is being added to an instance.
 
 <a id="unreal.AddNewSubobjectParams.blueprint_context"></a>
 
-#### blueprint_context
+#### blueprint\_context
 
 ```python
 @blueprint_context.setter
@@ -95,7 +95,7 @@ def blueprint_context(value: Blueprint) -> None
 
 <a id="unreal.AddNewSubobjectParams.skip_mark_blueprint_modified"></a>
 
-#### skip_mark_blueprint_modified
+#### skip\_mark\_blueprint\_modified
 
 ```python
 @property
@@ -106,7 +106,7 @@ def skip_mark_blueprint_modified() -> bool
 
 <a id="unreal.AddNewSubobjectParams.skip_mark_blueprint_modified"></a>
 
-#### skip_mark_blueprint_modified
+#### skip\_mark\_blueprint\_modified
 
 ```python
 @skip_mark_blueprint_modified.setter
@@ -115,7 +115,7 @@ def skip_mark_blueprint_modified(value: bool) -> None
 
 <a id="unreal.AddNewSubobjectParams.conform_transform_to_parent"></a>
 
-#### conform_transform_to_parent
+#### conform\_transform\_to\_parent
 
 ```python
 @property
@@ -126,7 +126,7 @@ def conform_transform_to_parent() -> bool
 
 <a id="unreal.AddNewSubobjectParams.conform_transform_to_parent"></a>
 
-#### conform_transform_to_parent
+#### conform\_transform\_to\_parent
 
 ```python
 @conform_transform_to_parent.setter

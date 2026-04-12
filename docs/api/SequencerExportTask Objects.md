@@ -29,7 +29,7 @@ Contains data for a group of assets to import
 
 <a id="unreal.SequencerExportTask.sequencer_context"></a>
 
-#### sequencer_context
+#### sequencer\_context
 
 ```python
 @property
@@ -40,7 +40,7 @@ def sequencer_context() -> Object
 
 <a id="unreal.SequencerExportTask.sequencer_context"></a>
 
-#### sequencer_context
+#### sequencer\_context
 
 ```python
 @sequencer_context.setter

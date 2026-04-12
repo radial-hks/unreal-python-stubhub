@@ -34,7 +34,7 @@ It will store all our values, and will display nicely depending on the type chos
 
 <a id="unreal.PCGMetadataTypesConstantStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: PCGMetadataTypes = PCGMetadataTypes.FLOAT,
@@ -79,7 +79,7 @@ def type(value: PCGMetadataTypes) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.float_value"></a>
 
-#### float_value
+#### float\_value
 
 ```python
 @property
@@ -90,7 +90,7 @@ def float_value() -> float
 
 <a id="unreal.PCGMetadataTypesConstantStruct.float_value"></a>
 
-#### float_value
+#### float\_value
 
 ```python
 @float_value.setter
@@ -99,7 +99,7 @@ def float_value(value: float) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.int32_value"></a>
 
-#### int32_value
+#### int32\_value
 
 ```python
 @property
@@ -110,7 +110,7 @@ def int32_value() -> int
 
 <a id="unreal.PCGMetadataTypesConstantStruct.int32_value"></a>
 
-#### int32_value
+#### int32\_value
 
 ```python
 @int32_value.setter
@@ -119,7 +119,7 @@ def int32_value(value: int) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.double_value"></a>
 
-#### double_value
+#### double\_value
 
 ```python
 @property
@@ -130,7 +130,7 @@ def double_value() -> float
 
 <a id="unreal.PCGMetadataTypesConstantStruct.double_value"></a>
 
-#### double_value
+#### double\_value
 
 ```python
 @double_value.setter
@@ -139,7 +139,7 @@ def double_value(value: float) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.int_value"></a>
 
-#### int_value
+#### int\_value
 
 ```python
 @property
@@ -150,7 +150,7 @@ def int_value() -> int
 
 <a id="unreal.PCGMetadataTypesConstantStruct.int_value"></a>
 
-#### int_value
+#### int\_value
 
 ```python
 @int_value.setter
@@ -159,7 +159,7 @@ def int_value(value: int) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.vector2_value"></a>
 
-#### vector2_value
+#### vector2\_value
 
 ```python
 @property
@@ -170,7 +170,7 @@ def vector2_value() -> Vector2D
 
 <a id="unreal.PCGMetadataTypesConstantStruct.vector2_value"></a>
 
-#### vector2_value
+#### vector2\_value
 
 ```python
 @vector2_value.setter
@@ -179,7 +179,7 @@ def vector2_value(value: Vector2D) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.vector_value"></a>
 
-#### vector_value
+#### vector\_value
 
 ```python
 @property
@@ -190,7 +190,7 @@ def vector_value() -> Vector
 
 <a id="unreal.PCGMetadataTypesConstantStruct.vector_value"></a>
 
-#### vector_value
+#### vector\_value
 
 ```python
 @vector_value.setter
@@ -199,7 +199,7 @@ def vector_value(value: Vector) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.vector4_value"></a>
 
-#### vector4_value
+#### vector4\_value
 
 ```python
 @property
@@ -210,7 +210,7 @@ def vector4_value() -> Vector4
 
 <a id="unreal.PCGMetadataTypesConstantStruct.vector4_value"></a>
 
-#### vector4_value
+#### vector4\_value
 
 ```python
 @vector4_value.setter
@@ -219,7 +219,7 @@ def vector4_value(value: Vector4) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.quat_value"></a>
 
-#### quat_value
+#### quat\_value
 
 ```python
 @property
@@ -230,7 +230,7 @@ def quat_value() -> Quat
 
 <a id="unreal.PCGMetadataTypesConstantStruct.quat_value"></a>
 
-#### quat_value
+#### quat\_value
 
 ```python
 @quat_value.setter
@@ -239,7 +239,7 @@ def quat_value(value: Quat) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.transform_value"></a>
 
-#### transform_value
+#### transform\_value
 
 ```python
 @property
@@ -250,7 +250,7 @@ def transform_value() -> Transform
 
 <a id="unreal.PCGMetadataTypesConstantStruct.transform_value"></a>
 
-#### transform_value
+#### transform\_value
 
 ```python
 @transform_value.setter
@@ -259,7 +259,7 @@ def transform_value(value: Transform) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.string_value"></a>
 
-#### string_value
+#### string\_value
 
 ```python
 @property
@@ -270,7 +270,7 @@ def string_value() -> str
 
 <a id="unreal.PCGMetadataTypesConstantStruct.string_value"></a>
 
-#### string_value
+#### string\_value
 
 ```python
 @string_value.setter
@@ -279,7 +279,7 @@ def string_value(value: str) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.bool_value"></a>
 
-#### bool_value
+#### bool\_value
 
 ```python
 @property
@@ -290,7 +290,7 @@ def bool_value() -> bool
 
 <a id="unreal.PCGMetadataTypesConstantStruct.bool_value"></a>
 
-#### bool_value
+#### bool\_value
 
 ```python
 @bool_value.setter
@@ -299,7 +299,7 @@ def bool_value(value: bool) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.rotator_value"></a>
 
-#### rotator_value
+#### rotator\_value
 
 ```python
 @property
@@ -310,7 +310,7 @@ def rotator_value() -> Rotator
 
 <a id="unreal.PCGMetadataTypesConstantStruct.rotator_value"></a>
 
-#### rotator_value
+#### rotator\_value
 
 ```python
 @rotator_value.setter
@@ -319,7 +319,7 @@ def rotator_value(value: Rotator) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.name_value"></a>
 
-#### name_value
+#### name\_value
 
 ```python
 @property
@@ -330,7 +330,7 @@ def name_value() -> Name
 
 <a id="unreal.PCGMetadataTypesConstantStruct.name_value"></a>
 
-#### name_value
+#### name\_value
 
 ```python
 @name_value.setter
@@ -339,7 +339,7 @@ def name_value(value: Name) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.soft_class_path_value"></a>
 
-#### soft_class_path_value
+#### soft\_class\_path\_value
 
 ```python
 @property
@@ -350,7 +350,7 @@ def soft_class_path_value() -> SoftClassPath
 
 <a id="unreal.PCGMetadataTypesConstantStruct.soft_class_path_value"></a>
 
-#### soft_class_path_value
+#### soft\_class\_path\_value
 
 ```python
 @soft_class_path_value.setter
@@ -359,7 +359,7 @@ def soft_class_path_value(value: SoftClassPath) -> None
 
 <a id="unreal.PCGMetadataTypesConstantStruct.soft_object_path_value"></a>
 
-#### soft_object_path_value
+#### soft\_object\_path\_value
 
 ```python
 @property
@@ -370,7 +370,7 @@ def soft_object_path_value() -> SoftObjectPath
 
 <a id="unreal.PCGMetadataTypesConstantStruct.soft_object_path_value"></a>
 
-#### soft_object_path_value
+#### soft\_object\_path\_value
 
 ```python
 @soft_object_path_value.setter

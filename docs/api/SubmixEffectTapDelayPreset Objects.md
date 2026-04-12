@@ -39,7 +39,7 @@ def settings(value: SubmixEffectTapDelaySettings) -> None
 
 <a id="unreal.SubmixEffectTapDelayPreset.set_tap"></a>
 
-#### set_tap
+#### set\_tap
 
 ```python
 def set_tap(tap_id: int, tap_info: TapDelayInfo) -> None
@@ -54,7 +54,7 @@ Args:
 
 <a id="unreal.SubmixEffectTapDelayPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectTapDelaySettings) -> None
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.SubmixEffectTapDelayPreset.set_interpolation_time"></a>
 
-#### set_interpolation_time
+#### set\_interpolation\_time
 
 ```python
 def set_interpolation_time(time: float) -> None
@@ -82,7 +82,7 @@ Args:
 
 <a id="unreal.SubmixEffectTapDelayPreset.remove_tap"></a>
 
-#### remove_tap
+#### remove\_tap
 
 ```python
 def remove_tap(tap_id: int) -> None
@@ -96,7 +96,7 @@ Args:
 
 <a id="unreal.SubmixEffectTapDelayPreset.get_tap_ids"></a>
 
-#### get_tap_ids
+#### get\_tap\_ids
 
 ```python
 def get_tap_ids() -> Array[int]
@@ -112,7 +112,7 @@ Returns:
 
 <a id="unreal.SubmixEffectTapDelayPreset.get_tap"></a>
 
-#### get_tap
+#### get\_tap
 
 ```python
 def get_tap(tap_id: int) -> TapDelayInfo
@@ -131,7 +131,7 @@ Returns:
 
 <a id="unreal.SubmixEffectTapDelayPreset.get_max_delay_in_milliseconds"></a>
 
-#### get_max_delay_in_milliseconds
+#### get\_max\_delay\_in\_milliseconds
 
 ```python
 def get_max_delay_in_milliseconds() -> float
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.SubmixEffectTapDelayPreset.add_tap"></a>
 
-#### add_tap
+#### add\_tap
 
 ```python
 def add_tap() -> int

@@ -19,7 +19,7 @@ Curve table composed of a stack of other curve tables.
 
 <a id="unreal.CompositeCurveTable.parent_tables"></a>
 
-#### parent_tables
+#### parent\_tables
 
 ```python
 @property

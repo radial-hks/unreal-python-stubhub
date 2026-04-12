@@ -13,13 +13,13 @@ EAudio Recording Export Type
 
 <a id="unreal.AudioRecordingExportType.SOUND_WAVE"></a>
 
-#### SOUND_WAVE
+#### SOUND\_WAVE
 
 0: Exports a USoundWave.
 
 <a id="unreal.AudioRecordingExportType.WAV_FILE"></a>
 
-#### WAV_FILE
+#### WAV\_FILE
 
 1: Exports a WAV file.
 

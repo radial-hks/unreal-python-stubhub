@@ -64,7 +64,7 @@ Lightmass World Info Settings
 
 <a id="unreal.LightmassWorldInfoSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -97,7 +97,7 @@ def __init__(
 
 <a id="unreal.LightmassWorldInfoSettings.static_lighting_level_scale"></a>
 
-#### static_lighting_level_scale
+#### static\_lighting\_level\_scale
 
 ```python
 @property
@@ -112,7 +112,7 @@ For large levels it can drastically reduce build times to set this to 2 or 4.
 
 <a id="unreal.LightmassWorldInfoSettings.static_lighting_level_scale"></a>
 
-#### static_lighting_level_scale
+#### static\_lighting\_level\_scale
 
 ```python
 @static_lighting_level_scale.setter
@@ -121,7 +121,7 @@ def static_lighting_level_scale(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.num_indirect_lighting_bounces"></a>
 
-#### num_indirect_lighting_bounces
+#### num\_indirect\_lighting\_bounces
 
 ```python
 @property
@@ -135,7 +135,7 @@ Successive bounces don't really affect build times, but have a much lower visual
 
 <a id="unreal.LightmassWorldInfoSettings.num_indirect_lighting_bounces"></a>
 
-#### num_indirect_lighting_bounces
+#### num\_indirect\_lighting\_bounces
 
 ```python
 @num_indirect_lighting_bounces.setter
@@ -144,7 +144,7 @@ def num_indirect_lighting_bounces(value: int) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.num_sky_lighting_bounces"></a>
 
-#### num_sky_lighting_bounces
+#### num\_sky\_lighting\_bounces
 
 ```python
 @property
@@ -156,7 +156,7 @@ Lightmass uses a non-distributable radiosity method for skylight bounces whose c
 
 <a id="unreal.LightmassWorldInfoSettings.num_sky_lighting_bounces"></a>
 
-#### num_sky_lighting_bounces
+#### num\_sky\_lighting\_bounces
 
 ```python
 @num_sky_lighting_bounces.setter
@@ -165,7 +165,7 @@ def num_sky_lighting_bounces(value: int) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.indirect_lighting_quality"></a>
 
-#### indirect_lighting_quality
+#### indirect\_lighting\_quality
 
 ```python
 @property
@@ -179,7 +179,7 @@ Note that this can't affect compression artifacts, UV seams or other texture bas
 
 <a id="unreal.LightmassWorldInfoSettings.indirect_lighting_quality"></a>
 
-#### indirect_lighting_quality
+#### indirect\_lighting\_quality
 
 ```python
 @indirect_lighting_quality.setter
@@ -188,7 +188,7 @@ def indirect_lighting_quality(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.indirect_lighting_smoothness"></a>
 
-#### indirect_lighting_smoothness
+#### indirect\_lighting\_smoothness
 
 ```python
 @property
@@ -201,7 +201,7 @@ Higher values like 3 smooth out the indirect lighting more, but at the cost of i
 
 <a id="unreal.LightmassWorldInfoSettings.indirect_lighting_smoothness"></a>
 
-#### indirect_lighting_smoothness
+#### indirect\_lighting\_smoothness
 
 ```python
 @indirect_lighting_smoothness.setter
@@ -210,7 +210,7 @@ def indirect_lighting_smoothness(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.environment_color"></a>
 
-#### environment_color
+#### environment\_color
 
 ```python
 @property
@@ -222,7 +222,7 @@ This light source currently does not get bounced as indirect lighting and causes
 
 <a id="unreal.LightmassWorldInfoSettings.environment_color"></a>
 
-#### environment_color
+#### environment\_color
 
 ```python
 @environment_color.setter
@@ -231,7 +231,7 @@ def environment_color(value: Color) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.environment_intensity"></a>
 
-#### environment_intensity
+#### environment\_intensity
 
 ```python
 @property
@@ -242,7 +242,7 @@ def environment_intensity() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.environment_intensity"></a>
 
-#### environment_intensity
+#### environment\_intensity
 
 ```python
 @environment_intensity.setter
@@ -251,7 +251,7 @@ def environment_intensity(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.diffuse_boost"></a>
 
-#### diffuse_boost
+#### diffuse\_boost
 
 ```python
 @property
@@ -262,7 +262,7 @@ def diffuse_boost() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.diffuse_boost"></a>
 
-#### diffuse_boost
+#### diffuse\_boost
 
 ```python
 @diffuse_boost.setter
@@ -271,7 +271,7 @@ def diffuse_boost(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.volume_lighting_method"></a>
 
-#### volume_lighting_method
+#### volume\_lighting\_method
 
 ```python
 @property
@@ -282,7 +282,7 @@ def volume_lighting_method() -> VolumeLightingMethod
 
 <a id="unreal.LightmassWorldInfoSettings.volume_lighting_method"></a>
 
-#### volume_lighting_method
+#### volume\_lighting\_method
 
 ```python
 @volume_lighting_method.setter
@@ -291,7 +291,7 @@ def volume_lighting_method(value: VolumeLightingMethod) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.use_ambient_occlusion"></a>
 
-#### use_ambient_occlusion
+#### use\_ambient\_occlusion
 
 ```python
 @property
@@ -302,7 +302,7 @@ def use_ambient_occlusion() -> bool
 
 <a id="unreal.LightmassWorldInfoSettings.use_ambient_occlusion"></a>
 
-#### use_ambient_occlusion
+#### use\_ambient\_occlusion
 
 ```python
 @use_ambient_occlusion.setter
@@ -311,7 +311,7 @@ def use_ambient_occlusion(value: bool) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.generate_ambient_occlusion_material_mask"></a>
 
-#### generate_ambient_occlusion_material_mask
+#### generate\_ambient\_occlusion\_material\_mask
 
 ```python
 @property
@@ -325,7 +325,7 @@ Be sure to set DirectIlluminationOcclusionFraction and IndirectIlluminationOcclu
 
 <a id="unreal.LightmassWorldInfoSettings.generate_ambient_occlusion_material_mask"></a>
 
-#### generate_ambient_occlusion_material_mask
+#### generate\_ambient\_occlusion\_material\_mask
 
 ```python
 @generate_ambient_occlusion_material_mask.setter
@@ -334,7 +334,7 @@ def generate_ambient_occlusion_material_mask(value: bool) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.visualize_material_diffuse"></a>
 
-#### visualize_material_diffuse
+#### visualize\_material\_diffuse
 
 ```python
 @property
@@ -345,7 +345,7 @@ def visualize_material_diffuse() -> bool
 
 <a id="unreal.LightmassWorldInfoSettings.visualize_material_diffuse"></a>
 
-#### visualize_material_diffuse
+#### visualize\_material\_diffuse
 
 ```python
 @visualize_material_diffuse.setter
@@ -354,7 +354,7 @@ def visualize_material_diffuse(value: bool) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.visualize_ambient_occlusion"></a>
 
-#### visualize_ambient_occlusion
+#### visualize\_ambient\_occlusion
 
 ```python
 @property
@@ -365,7 +365,7 @@ def visualize_ambient_occlusion() -> bool
 
 <a id="unreal.LightmassWorldInfoSettings.visualize_ambient_occlusion"></a>
 
-#### visualize_ambient_occlusion
+#### visualize\_ambient\_occlusion
 
 ```python
 @visualize_ambient_occlusion.setter
@@ -374,7 +374,7 @@ def visualize_ambient_occlusion(value: bool) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.compress_lightmaps"></a>
 
-#### compress_lightmaps
+#### compress\_lightmaps
 
 ```python
 @property
@@ -386,7 +386,7 @@ Use caution when disabling this.
 
 <a id="unreal.LightmassWorldInfoSettings.compress_lightmaps"></a>
 
-#### compress_lightmaps
+#### compress\_lightmaps
 
 ```python
 @compress_lightmaps.setter
@@ -395,7 +395,7 @@ def compress_lightmaps(value: bool) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.volumetric_lightmap_detail_cell_size"></a>
 
-#### volumetric_lightmap_detail_cell_size
+#### volumetric\_lightmap\_detail\_cell\_size
 
 ```python
 @property
@@ -408,7 +408,7 @@ Halving the DetailCellSize can increase memory by up to a factor of 8x.
 
 <a id="unreal.LightmassWorldInfoSettings.volumetric_lightmap_detail_cell_size"></a>
 
-#### volumetric_lightmap_detail_cell_size
+#### volumetric\_lightmap\_detail\_cell\_size
 
 ```python
 @volumetric_lightmap_detail_cell_size.setter
@@ -417,7 +417,7 @@ def volumetric_lightmap_detail_cell_size(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.volumetric_lightmap_maximum_brick_memory_mb"></a>
 
-#### volumetric_lightmap_maximum_brick_memory_mb
+#### volumetric\_lightmap\_maximum\_brick\_memory\_mb
 
 ```python
 @property
@@ -428,7 +428,7 @@ def volumetric_lightmap_maximum_brick_memory_mb() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.volumetric_lightmap_maximum_brick_memory_mb"></a>
 
-#### volumetric_lightmap_maximum_brick_memory_mb
+#### volumetric\_lightmap\_maximum\_brick\_memory\_mb
 
 ```python
 @volumetric_lightmap_maximum_brick_memory_mb.setter
@@ -437,7 +437,7 @@ def volumetric_lightmap_maximum_brick_memory_mb(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.volumetric_lightmap_loading_cell_size"></a>
 
-#### volumetric_lightmap_loading_cell_size
+#### volumetric\_lightmap\_loading\_cell\_size
 
 ```python
 @property
@@ -448,7 +448,7 @@ def volumetric_lightmap_loading_cell_size() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.volumetric_lightmap_loading_cell_size"></a>
 
-#### volumetric_lightmap_loading_cell_size
+#### volumetric\_lightmap\_loading\_cell\_size
 
 ```python
 @volumetric_lightmap_loading_cell_size.setter
@@ -457,7 +457,7 @@ def volumetric_lightmap_loading_cell_size(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.volumetric_lightmap_spherical_harmonic_smoothing"></a>
 
-#### volumetric_lightmap_spherical_harmonic_smoothing
+#### volumetric\_lightmap\_spherical\_harmonic\_smoothing
 
 ```python
 @property
@@ -471,7 +471,7 @@ Smoothing can reduce this artifact.  Smoothing is only applied when the ringing 
 
 <a id="unreal.LightmassWorldInfoSettings.volumetric_lightmap_spherical_harmonic_smoothing"></a>
 
-#### volumetric_lightmap_spherical_harmonic_smoothing
+#### volumetric\_lightmap\_spherical\_harmonic\_smoothing
 
 ```python
 @volumetric_lightmap_spherical_harmonic_smoothing.setter
@@ -480,7 +480,7 @@ def volumetric_lightmap_spherical_harmonic_smoothing(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.volume_light_sample_placement_scale"></a>
 
-#### volume_light_sample_placement_scale
+#### volume\_light\_sample\_placement\_scale
 
 ```python
 @property
@@ -492,7 +492,7 @@ Using larger scales results in less sample memory usage and reduces Indirect Lig
 
 <a id="unreal.LightmassWorldInfoSettings.volume_light_sample_placement_scale"></a>
 
-#### volume_light_sample_placement_scale
+#### volume\_light\_sample\_placement\_scale
 
 ```python
 @volume_light_sample_placement_scale.setter
@@ -501,7 +501,7 @@ def volume_light_sample_placement_scale(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.direct_illumination_occlusion_fraction"></a>
 
-#### direct_illumination_occlusion_fraction
+#### direct\_illumination\_occlusion\_fraction
 
 ```python
 @property
@@ -512,7 +512,7 @@ def direct_illumination_occlusion_fraction() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.direct_illumination_occlusion_fraction"></a>
 
-#### direct_illumination_occlusion_fraction
+#### direct\_illumination\_occlusion\_fraction
 
 ```python
 @direct_illumination_occlusion_fraction.setter
@@ -521,7 +521,7 @@ def direct_illumination_occlusion_fraction(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.indirect_illumination_occlusion_fraction"></a>
 
-#### indirect_illumination_occlusion_fraction
+#### indirect\_illumination\_occlusion\_fraction
 
 ```python
 @property
@@ -532,7 +532,7 @@ def indirect_illumination_occlusion_fraction() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.indirect_illumination_occlusion_fraction"></a>
 
-#### indirect_illumination_occlusion_fraction
+#### indirect\_illumination\_occlusion\_fraction
 
 ```python
 @indirect_illumination_occlusion_fraction.setter
@@ -541,7 +541,7 @@ def indirect_illumination_occlusion_fraction(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.occlusion_exponent"></a>
 
-#### occlusion_exponent
+#### occlusion\_exponent
 
 ```python
 @property
@@ -552,7 +552,7 @@ def occlusion_exponent() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.occlusion_exponent"></a>
 
-#### occlusion_exponent
+#### occlusion\_exponent
 
 ```python
 @occlusion_exponent.setter
@@ -561,7 +561,7 @@ def occlusion_exponent(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.fully_occluded_samples_fraction"></a>
 
-#### fully_occluded_samples_fraction
+#### fully\_occluded\_samples\_fraction
 
 ```python
 @property
@@ -572,7 +572,7 @@ def fully_occluded_samples_fraction() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.fully_occluded_samples_fraction"></a>
 
-#### fully_occluded_samples_fraction
+#### fully\_occluded\_samples\_fraction
 
 ```python
 @fully_occluded_samples_fraction.setter
@@ -581,7 +581,7 @@ def fully_occluded_samples_fraction(value: float) -> None
 
 <a id="unreal.LightmassWorldInfoSettings.max_occlusion_distance"></a>
 
-#### max_occlusion_distance
+#### max\_occlusion\_distance
 
 ```python
 @property
@@ -592,7 +592,7 @@ def max_occlusion_distance() -> float
 
 <a id="unreal.LightmassWorldInfoSettings.max_occlusion_distance"></a>
 
-#### max_occlusion_distance
+#### max\_occlusion\_distance
 
 ```python
 @max_occlusion_distance.setter

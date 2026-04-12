@@ -20,7 +20,7 @@ Name of a Metasound class
 
 <a id="unreal.MetasoundFrontendClassName.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(namespace: Name = "None",

@@ -14,7 +14,7 @@ Live Link Inner Test Internal
 
 <a id="unreal.LiveLinkInnerTestInternal.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -48,7 +48,7 @@ Network Physics Settings Predictive Interpolation
 
 <a id="unreal.NetworkPhysicsSettingsPredictiveInterpolation.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

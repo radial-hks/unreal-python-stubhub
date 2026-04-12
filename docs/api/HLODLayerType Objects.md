@@ -19,19 +19,19 @@ EHLODLayer Type
 
 <a id="unreal.HLODLayerType.MESH_MERGE"></a>
 
-#### MESH_MERGE
+#### MESH\_MERGE
 
 1
 
 <a id="unreal.HLODLayerType.MESH_SIMPLIFY"></a>
 
-#### MESH_SIMPLIFY
+#### MESH\_SIMPLIFY
 
 2
 
 <a id="unreal.HLODLayerType.MESH_APPROXIMATE"></a>
 
-#### MESH_APPROXIMATE
+#### MESH\_APPROXIMATE
 
 3
 
@@ -41,4 +41,4 @@ EHLODLayer Type
 
 4
 
-<a id="unreal.ChaosCacheInterpolationMode"></a>
+<a id="unreal.ProcMeshSliceCapOption"></a>

@@ -38,7 +38,7 @@ Applies the specified tags on the output data.
 
 <a id="unreal.PCGAddTagSettings.tags_to_add"></a>
 
-#### tags_to_add
+#### tags\_to\_add
 
 ```python
 @property
@@ -49,7 +49,7 @@ def tags_to_add() -> str
 
 <a id="unreal.PCGAddTagSettings.tags_to_add"></a>
 
-#### tags_to_add
+#### tags\_to\_add
 
 ```python
 @tags_to_add.setter
@@ -98,7 +98,7 @@ def suffix(value: str) -> None
 
 <a id="unreal.PCGAddTagSettings.ignore_tag_value_parsing"></a>
 
-#### ignore_tag_value_parsing
+#### ignore\_tag\_value\_parsing
 
 ```python
 @property
@@ -109,7 +109,7 @@ def ignore_tag_value_parsing() -> bool
 
 <a id="unreal.PCGAddTagSettings.ignore_tag_value_parsing"></a>
 
-#### ignore_tag_value_parsing
+#### ignore\_tag\_value\_parsing
 
 ```python
 @ignore_tag_value_parsing.setter

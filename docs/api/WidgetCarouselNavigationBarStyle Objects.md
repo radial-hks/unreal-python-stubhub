@@ -20,7 +20,7 @@ Widget Carousel Navigation Bar Style
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -178,7 +178,7 @@ def __init__(
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.highlight_brush"></a>
 
-#### highlight_brush
+#### highlight\_brush
 
 ```python
 @property
@@ -189,7 +189,7 @@ def highlight_brush() -> SlateBrush
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.highlight_brush"></a>
 
-#### highlight_brush
+#### highlight\_brush
 
 ```python
 @highlight_brush.setter
@@ -198,7 +198,7 @@ def highlight_brush(value: SlateBrush) -> None
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.left_button_style"></a>
 
-#### left_button_style
+#### left\_button\_style
 
 ```python
 @property
@@ -209,7 +209,7 @@ def left_button_style() -> ButtonStyle
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.left_button_style"></a>
 
-#### left_button_style
+#### left\_button\_style
 
 ```python
 @left_button_style.setter
@@ -218,7 +218,7 @@ def left_button_style(value: ButtonStyle) -> None
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.center_button_style"></a>
 
-#### center_button_style
+#### center\_button\_style
 
 ```python
 @property
@@ -229,7 +229,7 @@ def center_button_style() -> ButtonStyle
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.center_button_style"></a>
 
-#### center_button_style
+#### center\_button\_style
 
 ```python
 @center_button_style.setter
@@ -238,7 +238,7 @@ def center_button_style(value: ButtonStyle) -> None
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.right_button_style"></a>
 
-#### right_button_style
+#### right\_button\_style
 
 ```python
 @property
@@ -249,7 +249,7 @@ def right_button_style() -> ButtonStyle
 
 <a id="unreal.WidgetCarouselNavigationBarStyle.right_button_style"></a>
 
-#### right_button_style
+#### right\_button\_style
 
 ```python
 @right_button_style.setter

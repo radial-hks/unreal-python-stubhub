@@ -19,7 +19,7 @@ The values in the parameter collection instance can be set from Blueprint or C++
 
 <a id="unreal.NiagaraParameterCollectionInstance.set_vector_parameter"></a>
 
-#### set_vector_parameter
+#### set\_vector\_parameter
 
 ```python
 def set_vector_parameter(variable_name: str, value: Vector) -> None
@@ -34,7 +34,7 @@ Args:
 
 <a id="unreal.NiagaraParameterCollectionInstance.set_vector4_parameter"></a>
 
-#### set_vector4_parameter
+#### set\_vector4\_parameter
 
 ```python
 def set_vector4_parameter(variable_name: str, value: Vector4) -> None
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.NiagaraParameterCollectionInstance.set_vector2d_parameter"></a>
 
-#### set_vector2d_parameter
+#### set\_vector2d\_parameter
 
 ```python
 def set_vector2d_parameter(variable_name: str, value: Vector2D) -> None
@@ -64,7 +64,7 @@ Args:
 
 <a id="unreal.NiagaraParameterCollectionInstance.set_quat_parameter"></a>
 
-#### set_quat_parameter
+#### set\_quat\_parameter
 
 ```python
 def set_quat_parameter(variable_name: str, value: Quat) -> None
@@ -79,7 +79,7 @@ Args:
 
 <a id="unreal.NiagaraParameterCollectionInstance.set_int_parameter"></a>
 
-#### set_int_parameter
+#### set\_int\_parameter
 
 ```python
 def set_int_parameter(variable_name: str, value: int) -> None
@@ -94,7 +94,7 @@ Args:
 
 <a id="unreal.NiagaraParameterCollectionInstance.set_float_parameter"></a>
 
-#### set_float_parameter
+#### set\_float\_parameter
 
 ```python
 def set_float_parameter(variable_name: str, value: float) -> None
@@ -109,7 +109,7 @@ Args:
 
 <a id="unreal.NiagaraParameterCollectionInstance.set_color_parameter"></a>
 
-#### set_color_parameter
+#### set\_color\_parameter
 
 ```python
 def set_color_parameter(variable_name: str, value: LinearColor) -> None
@@ -124,7 +124,7 @@ Args:
 
 <a id="unreal.NiagaraParameterCollectionInstance.set_bool_parameter"></a>
 
-#### set_bool_parameter
+#### set\_bool\_parameter
 
 ```python
 def set_bool_parameter(variable_name: str, value: bool) -> None
@@ -139,7 +139,7 @@ Args:
 
 <a id="unreal.NiagaraParameterCollectionInstance.get_vector_parameter"></a>
 
-#### get_vector_parameter
+#### get\_vector\_parameter
 
 ```python
 def get_vector_parameter(variable_name: str) -> Vector
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.NiagaraParameterCollectionInstance.get_vector4_parameter"></a>
 
-#### get_vector4_parameter
+#### get\_vector4\_parameter
 
 ```python
 def get_vector4_parameter(variable_name: str) -> Vector4
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.NiagaraParameterCollectionInstance.get_vector2d_parameter"></a>
 
-#### get_vector2d_parameter
+#### get\_vector2d\_parameter
 
 ```python
 def get_vector2d_parameter(variable_name: str) -> Vector2D
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.NiagaraParameterCollectionInstance.get_quat_parameter"></a>
 
-#### get_quat_parameter
+#### get\_quat\_parameter
 
 ```python
 def get_quat_parameter(variable_name: str) -> Quat
@@ -207,7 +207,7 @@ Returns:
 
 <a id="unreal.NiagaraParameterCollectionInstance.get_int_parameter"></a>
 
-#### get_int_parameter
+#### get\_int\_parameter
 
 ```python
 def get_int_parameter(variable_name: str) -> int
@@ -224,7 +224,7 @@ Returns:
 
 <a id="unreal.NiagaraParameterCollectionInstance.get_float_parameter"></a>
 
-#### get_float_parameter
+#### get\_float\_parameter
 
 ```python
 def get_float_parameter(variable_name: str) -> float
@@ -241,7 +241,7 @@ Returns:
 
 <a id="unreal.NiagaraParameterCollectionInstance.get_color_parameter"></a>
 
-#### get_color_parameter
+#### get\_color\_parameter
 
 ```python
 def get_color_parameter(variable_name: str) -> LinearColor
@@ -258,7 +258,7 @@ Returns:
 
 <a id="unreal.NiagaraParameterCollectionInstance.get_bool_parameter"></a>
 
-#### get_bool_parameter
+#### get\_bool\_parameter
 
 ```python
 def get_bool_parameter(variable_name: str) -> bool

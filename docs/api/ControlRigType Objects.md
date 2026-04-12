@@ -14,20 +14,20 @@ EControl Rig Type
 
 <a id="unreal.ControlRigType.INDEPENDENT_RIG"></a>
 
-#### INDEPENDENT_RIG
+#### INDEPENDENT\_RIG
 
 0
 
 <a id="unreal.ControlRigType.RIG_MODULE"></a>
 
-#### RIG_MODULE
+#### RIG\_MODULE
 
 1
 
 <a id="unreal.ControlRigType.MODULAR_RIG"></a>
 
-#### MODULAR_RIG
+#### MODULAR\_RIG
 
 2
 
-<a id="unreal.RetargetTranslationMode"></a>
+<a id="unreal.OscillatorWaveform"></a>

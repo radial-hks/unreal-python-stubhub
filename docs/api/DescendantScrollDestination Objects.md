@@ -13,7 +13,7 @@ Where to scroll the descendant to
 
 <a id="unreal.DescendantScrollDestination.INTO_VIEW"></a>
 
-#### INTO_VIEW
+#### INTO\_VIEW
 
 0: Scroll the widget into view using the least amount of energy possible.  So if the new item
 is above the visible set, it will stop as soon as it's in view at the top.  If it's below the
@@ -21,7 +21,7 @@ visible set, it stop it comes into view at the bottom.
 
 <a id="unreal.DescendantScrollDestination.TOP_OR_LEFT"></a>
 
-#### TOP_OR_LEFT
+#### TOP\_OR\_LEFT
 
 1: Always scroll the widget so it appears at the top/Left of the scrollable area.
 
@@ -35,7 +35,7 @@ slack.
 
 <a id="unreal.DescendantScrollDestination.BOTTOM_OR_RIGHT"></a>
 
-#### BOTTOM_OR_RIGHT
+#### BOTTOM\_OR\_RIGHT
 
 3: Always scroll the widget so it appears at the bottom/Right of the scrollable area.
 

@@ -18,7 +18,7 @@ Helper structure, used to associate GameModes with shortcut names.
 
 <a id="unreal.GameModeName.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

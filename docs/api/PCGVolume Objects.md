@@ -148,7 +148,7 @@ PCGVolume
 
 <a id="unreal.PCGVolume.pcg_component"></a>
 
-#### pcg_component
+#### pcg\_component
 
 ```python
 @property
@@ -159,7 +159,7 @@ def pcg_component() -> PCGComponent
 
 <a id="unreal.PCGVolume.pcg_component"></a>
 
-#### pcg_component
+#### pcg\_component
 
 ```python
 @pcg_component.setter

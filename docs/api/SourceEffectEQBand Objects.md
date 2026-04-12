@@ -21,7 +21,7 @@ Source Effect EQBand
 
 <a id="unreal.SourceEffectEQBand.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(frequency: float = 0.000000,
@@ -72,7 +72,7 @@ def bandwidth(value: float) -> None
 
 <a id="unreal.SourceEffectEQBand.gain_db"></a>
 
-#### gain_db
+#### gain\_db
 
 ```python
 @property
@@ -83,7 +83,7 @@ def gain_db() -> float
 
 <a id="unreal.SourceEffectEQBand.gain_db"></a>
 
-#### gain_db
+#### gain\_db
 
 ```python
 @gain_db.setter

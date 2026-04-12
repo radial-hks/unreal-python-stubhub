@@ -29,7 +29,7 @@ Foot Definition
 
 <a id="unreal.FootDefinition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(reference_bone_name: Name = "None") -> None
@@ -37,7 +37,7 @@ def __init__(reference_bone_name: Name = "None") -> None
 
 <a id="unreal.FootDefinition.reference_bone_name"></a>
 
-#### reference_bone_name
+#### reference\_bone\_name
 
 ```python
 @property

@@ -19,7 +19,7 @@ note: This is a mirror of TInterval<float>, defined in Interval.h
 
 <a id="unreal.FloatInterval.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min: float = 0.000000, max: float = 0.000000) -> None

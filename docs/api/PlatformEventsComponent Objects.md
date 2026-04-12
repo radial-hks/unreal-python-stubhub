@@ -31,7 +31,7 @@ Component to handle receiving notifications from the OS about platform events.
 
 <a id="unreal.PlatformEventsComponent.platform_changed_to_laptop_mode_delegate"></a>
 
-#### platform_changed_to_laptop_mode_delegate
+#### platform\_changed\_to\_laptop\_mode\_delegate
 
 ```python
 @property
@@ -42,7 +42,7 @@ def platform_changed_to_laptop_mode_delegate() -> PlatformEventDelegate
 
 <a id="unreal.PlatformEventsComponent.platform_changed_to_laptop_mode_delegate"></a>
 
-#### platform_changed_to_laptop_mode_delegate
+#### platform\_changed\_to\_laptop\_mode\_delegate
 
 ```python
 @platform_changed_to_laptop_mode_delegate.setter
@@ -52,7 +52,7 @@ def platform_changed_to_laptop_mode_delegate(
 
 <a id="unreal.PlatformEventsComponent.platform_changed_to_tablet_mode_delegate"></a>
 
-#### platform_changed_to_tablet_mode_delegate
+#### platform\_changed\_to\_tablet\_mode\_delegate
 
 ```python
 @property
@@ -63,7 +63,7 @@ def platform_changed_to_tablet_mode_delegate() -> PlatformEventDelegate
 
 <a id="unreal.PlatformEventsComponent.platform_changed_to_tablet_mode_delegate"></a>
 
-#### platform_changed_to_tablet_mode_delegate
+#### platform\_changed\_to\_tablet\_mode\_delegate
 
 ```python
 @platform_changed_to_tablet_mode_delegate.setter
@@ -73,7 +73,7 @@ def platform_changed_to_tablet_mode_delegate(
 
 <a id="unreal.PlatformEventsComponent.supports_convertible_laptops"></a>
 
-#### supports_convertible_laptops
+#### supports\_convertible\_laptops
 
 ```python
 def supports_convertible_laptops() -> bool
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.PlatformEventsComponent.is_in_tablet_mode"></a>
 
-#### is_in_tablet_mode
+#### is\_in\_tablet\_mode
 
 ```python
 def is_in_tablet_mode() -> bool
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.PlatformEventsComponent.is_in_laptop_mode"></a>
 
-#### is_in_laptop_mode
+#### is\_in\_laptop\_mode
 
 ```python
 def is_in_laptop_mode() -> bool

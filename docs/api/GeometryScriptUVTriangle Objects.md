@@ -20,7 +20,7 @@ Geometry Script UVTriangle
 
 <a id="unreal.GeometryScriptUVTriangle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(uv0: Vector2D = [0.000000, 0.000000],

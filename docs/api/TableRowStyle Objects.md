@@ -35,7 +35,7 @@ Represents the appearance of an STableRow
 
 <a id="unreal.TableRowStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -217,7 +217,7 @@ def __init__(
 
 <a id="unreal.TableRowStyle.selector_focused_brush"></a>
 
-#### selector_focused_brush
+#### selector\_focused\_brush
 
 ```python
 @property
@@ -228,7 +228,7 @@ def selector_focused_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.selector_focused_brush"></a>
 
-#### selector_focused_brush
+#### selector\_focused\_brush
 
 ```python
 @selector_focused_brush.setter
@@ -237,7 +237,7 @@ def selector_focused_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.active_hovered_brush"></a>
 
-#### active_hovered_brush
+#### active\_hovered\_brush
 
 ```python
 @property
@@ -248,7 +248,7 @@ def active_hovered_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.active_hovered_brush"></a>
 
-#### active_hovered_brush
+#### active\_hovered\_brush
 
 ```python
 @active_hovered_brush.setter
@@ -257,7 +257,7 @@ def active_hovered_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.active_brush"></a>
 
-#### active_brush
+#### active\_brush
 
 ```python
 @property
@@ -268,7 +268,7 @@ def active_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.active_brush"></a>
 
-#### active_brush
+#### active\_brush
 
 ```python
 @active_brush.setter
@@ -277,7 +277,7 @@ def active_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.inactive_hovered_brush"></a>
 
-#### inactive_hovered_brush
+#### inactive\_hovered\_brush
 
 ```python
 @property
@@ -288,7 +288,7 @@ def inactive_hovered_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.inactive_hovered_brush"></a>
 
-#### inactive_hovered_brush
+#### inactive\_hovered\_brush
 
 ```python
 @inactive_hovered_brush.setter
@@ -297,7 +297,7 @@ def inactive_hovered_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.inactive_brush"></a>
 
-#### inactive_brush
+#### inactive\_brush
 
 ```python
 @property
@@ -308,7 +308,7 @@ def inactive_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.inactive_brush"></a>
 
-#### inactive_brush
+#### inactive\_brush
 
 ```python
 @inactive_brush.setter
@@ -317,7 +317,7 @@ def inactive_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.use_parent_row_brush"></a>
 
-#### use_parent_row_brush
+#### use\_parent\_row\_brush
 
 ```python
 @property
@@ -328,7 +328,7 @@ def use_parent_row_brush() -> bool
 
 <a id="unreal.TableRowStyle.use_parent_row_brush"></a>
 
-#### use_parent_row_brush
+#### use\_parent\_row\_brush
 
 ```python
 @use_parent_row_brush.setter
@@ -337,7 +337,7 @@ def use_parent_row_brush(value: bool) -> None
 
 <a id="unreal.TableRowStyle.parent_row_background_brush"></a>
 
-#### parent_row_background_brush
+#### parent\_row\_background\_brush
 
 ```python
 @property
@@ -348,7 +348,7 @@ def parent_row_background_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.parent_row_background_brush"></a>
 
-#### parent_row_background_brush
+#### parent\_row\_background\_brush
 
 ```python
 @parent_row_background_brush.setter
@@ -357,7 +357,7 @@ def parent_row_background_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.parent_row_background_hovered_brush"></a>
 
-#### parent_row_background_hovered_brush
+#### parent\_row\_background\_hovered\_brush
 
 ```python
 @property
@@ -368,7 +368,7 @@ def parent_row_background_hovered_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.parent_row_background_hovered_brush"></a>
 
-#### parent_row_background_hovered_brush
+#### parent\_row\_background\_hovered\_brush
 
 ```python
 @parent_row_background_hovered_brush.setter
@@ -377,7 +377,7 @@ def parent_row_background_hovered_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.even_row_background_hovered_brush"></a>
 
-#### even_row_background_hovered_brush
+#### even\_row\_background\_hovered\_brush
 
 ```python
 @property
@@ -388,7 +388,7 @@ def even_row_background_hovered_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.even_row_background_hovered_brush"></a>
 
-#### even_row_background_hovered_brush
+#### even\_row\_background\_hovered\_brush
 
 ```python
 @even_row_background_hovered_brush.setter
@@ -397,7 +397,7 @@ def even_row_background_hovered_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.even_row_background_brush"></a>
 
-#### even_row_background_brush
+#### even\_row\_background\_brush
 
 ```python
 @property
@@ -408,7 +408,7 @@ def even_row_background_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.even_row_background_brush"></a>
 
-#### even_row_background_brush
+#### even\_row\_background\_brush
 
 ```python
 @even_row_background_brush.setter
@@ -417,7 +417,7 @@ def even_row_background_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.odd_row_background_hovered_brush"></a>
 
-#### odd_row_background_hovered_brush
+#### odd\_row\_background\_hovered\_brush
 
 ```python
 @property
@@ -428,7 +428,7 @@ def odd_row_background_hovered_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.odd_row_background_hovered_brush"></a>
 
-#### odd_row_background_hovered_brush
+#### odd\_row\_background\_hovered\_brush
 
 ```python
 @odd_row_background_hovered_brush.setter
@@ -437,7 +437,7 @@ def odd_row_background_hovered_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.odd_row_background_brush"></a>
 
-#### odd_row_background_brush
+#### odd\_row\_background\_brush
 
 ```python
 @property
@@ -448,7 +448,7 @@ def odd_row_background_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.odd_row_background_brush"></a>
 
-#### odd_row_background_brush
+#### odd\_row\_background\_brush
 
 ```python
 @odd_row_background_brush.setter
@@ -457,7 +457,7 @@ def odd_row_background_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.text_color"></a>
 
-#### text_color
+#### text\_color
 
 ```python
 @property
@@ -468,7 +468,7 @@ def text_color() -> SlateColor
 
 <a id="unreal.TableRowStyle.text_color"></a>
 
-#### text_color
+#### text\_color
 
 ```python
 @text_color.setter
@@ -477,7 +477,7 @@ def text_color(value: SlateColor) -> None
 
 <a id="unreal.TableRowStyle.selected_text_color"></a>
 
-#### selected_text_color
+#### selected\_text\_color
 
 ```python
 @property
@@ -488,7 +488,7 @@ def selected_text_color() -> SlateColor
 
 <a id="unreal.TableRowStyle.selected_text_color"></a>
 
-#### selected_text_color
+#### selected\_text\_color
 
 ```python
 @selected_text_color.setter
@@ -497,7 +497,7 @@ def selected_text_color(value: SlateColor) -> None
 
 <a id="unreal.TableRowStyle.drop_indicator_above"></a>
 
-#### drop_indicator_above
+#### drop\_indicator\_above
 
 ```python
 @property
@@ -508,7 +508,7 @@ def drop_indicator_above() -> SlateBrush
 
 <a id="unreal.TableRowStyle.drop_indicator_above"></a>
 
-#### drop_indicator_above
+#### drop\_indicator\_above
 
 ```python
 @drop_indicator_above.setter
@@ -517,7 +517,7 @@ def drop_indicator_above(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.drop_indicator_onto"></a>
 
-#### drop_indicator_onto
+#### drop\_indicator\_onto
 
 ```python
 @property
@@ -528,7 +528,7 @@ def drop_indicator_onto() -> SlateBrush
 
 <a id="unreal.TableRowStyle.drop_indicator_onto"></a>
 
-#### drop_indicator_onto
+#### drop\_indicator\_onto
 
 ```python
 @drop_indicator_onto.setter
@@ -537,7 +537,7 @@ def drop_indicator_onto(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.drop_indicator_below"></a>
 
-#### drop_indicator_below
+#### drop\_indicator\_below
 
 ```python
 @property
@@ -548,7 +548,7 @@ def drop_indicator_below() -> SlateBrush
 
 <a id="unreal.TableRowStyle.drop_indicator_below"></a>
 
-#### drop_indicator_below
+#### drop\_indicator\_below
 
 ```python
 @drop_indicator_below.setter
@@ -557,7 +557,7 @@ def drop_indicator_below(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.active_highlighted_brush"></a>
 
-#### active_highlighted_brush
+#### active\_highlighted\_brush
 
 ```python
 @property
@@ -568,7 +568,7 @@ def active_highlighted_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.active_highlighted_brush"></a>
 
-#### active_highlighted_brush
+#### active\_highlighted\_brush
 
 ```python
 @active_highlighted_brush.setter
@@ -577,7 +577,7 @@ def active_highlighted_brush(value: SlateBrush) -> None
 
 <a id="unreal.TableRowStyle.inactive_highlighted_brush"></a>
 
-#### inactive_highlighted_brush
+#### inactive\_highlighted\_brush
 
 ```python
 @property
@@ -588,7 +588,7 @@ def inactive_highlighted_brush() -> SlateBrush
 
 <a id="unreal.TableRowStyle.inactive_highlighted_brush"></a>
 
-#### inactive_highlighted_brush
+#### inactive\_highlighted\_brush
 
 ```python
 @inactive_highlighted_brush.setter

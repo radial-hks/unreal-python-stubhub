@@ -14,7 +14,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\CoreUObject\Publ
 
 <a id="unreal.Object.acquire_editor_element_handle"></a>
 
-#### acquire_editor_element_handle
+#### acquire\_editor\_element\_handle
 
 ```python
 def acquire_editor_element_handle(
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.Object.reset_editor_property"></a>
 
-#### reset_editor_property
+#### reset\_editor\_property
 
 ```python
 def reset_editor_property(
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.Object.is_editor_property_overridden"></a>
 
-#### is_editor_property_overridden
+#### is\_editor\_property\_overridden
 
 ```python
 def is_editor_property_overridden(
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.Object.get_interpolated_pcg_landscape_layer_weights"></a>
 
-#### get_interpolated_pcg_landscape_layer_weights
+#### get\_interpolated\_pcg\_landscape\_layer\_weights
 
 ```python
 def get_interpolated_pcg_landscape_layer_weights(

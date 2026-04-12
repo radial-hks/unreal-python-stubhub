@@ -33,7 +33,7 @@ UInputTriggerHold
 
 <a id="unreal.InputTriggerHold.hold_time_threshold"></a>
 
-#### hold_time_threshold
+#### hold\_time\_threshold
 
 ```python
 @property
@@ -44,7 +44,7 @@ def hold_time_threshold() -> float
 
 <a id="unreal.InputTriggerHold.hold_time_threshold"></a>
 
-#### hold_time_threshold
+#### hold\_time\_threshold
 
 ```python
 @hold_time_threshold.setter
@@ -53,7 +53,7 @@ def hold_time_threshold(value: float) -> None
 
 <a id="unreal.InputTriggerHold.is_one_shot"></a>
 
-#### is_one_shot
+#### is\_one\_shot
 
 ```python
 @property
@@ -64,7 +64,7 @@ def is_one_shot() -> bool
 
 <a id="unreal.InputTriggerHold.is_one_shot"></a>
 
-#### is_one_shot
+#### is\_one\_shot
 
 ```python
 @is_one_shot.setter

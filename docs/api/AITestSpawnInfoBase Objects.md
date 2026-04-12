@@ -22,7 +22,7 @@ Base struct defining where & when to spawn. Used within a FAITestSpawnSetBase cl
 
 <a id="unreal.AITestSpawnInfoBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(spawn_location: Actor = None,
@@ -33,7 +33,7 @@ def __init__(spawn_location: Actor = None,
 
 <a id="unreal.AITestSpawnInfoBase.spawn_location"></a>
 
-#### spawn_location
+#### spawn\_location
 
 ```python
 @property
@@ -44,7 +44,7 @@ def spawn_location() -> Actor
 
 <a id="unreal.AITestSpawnInfoBase.spawn_location"></a>
 
-#### spawn_location
+#### spawn\_location
 
 ```python
 @spawn_location.setter
@@ -53,7 +53,7 @@ def spawn_location(value: Actor) -> None
 
 <a id="unreal.AITestSpawnInfoBase.number_to_spawn"></a>
 
-#### number_to_spawn
+#### number\_to\_spawn
 
 ```python
 @property
@@ -64,7 +64,7 @@ def number_to_spawn() -> int
 
 <a id="unreal.AITestSpawnInfoBase.number_to_spawn"></a>
 
-#### number_to_spawn
+#### number\_to\_spawn
 
 ```python
 @number_to_spawn.setter
@@ -73,7 +73,7 @@ def number_to_spawn(value: int) -> None
 
 <a id="unreal.AITestSpawnInfoBase.spawn_delay"></a>
 
-#### spawn_delay
+#### spawn\_delay
 
 ```python
 @property
@@ -84,7 +84,7 @@ def spawn_delay() -> float
 
 <a id="unreal.AITestSpawnInfoBase.spawn_delay"></a>
 
-#### spawn_delay
+#### spawn\_delay
 
 ```python
 @spawn_delay.setter
@@ -93,7 +93,7 @@ def spawn_delay(value: float) -> None
 
 <a id="unreal.AITestSpawnInfoBase.pre_spawn_delay"></a>
 
-#### pre_spawn_delay
+#### pre\_spawn\_delay
 
 ```python
 @property
@@ -104,7 +104,7 @@ def pre_spawn_delay() -> float
 
 <a id="unreal.AITestSpawnInfoBase.pre_spawn_delay"></a>
 
-#### pre_spawn_delay
+#### pre\_spawn\_delay
 
 ```python
 @pre_spawn_delay.setter

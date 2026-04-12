@@ -17,7 +17,7 @@ Link To Set of Anim Sequences that we may belinked to.
 
 <a id="unreal.LevelSequenceAnimSequenceLink.anim_sequence_links"></a>
 
-#### anim_sequence_links
+#### anim\_sequence\_links
 
 ```python
 @property
@@ -28,7 +28,7 @@ def anim_sequence_links() -> Array[LevelSequenceAnimSequenceLinkItem]
 
 <a id="unreal.LevelSequenceAnimSequenceLink.anim_sequence_links"></a>
 
-#### anim_sequence_links
+#### anim\_sequence\_links
 
 ```python
 @anim_sequence_links.setter

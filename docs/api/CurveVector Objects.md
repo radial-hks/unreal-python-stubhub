@@ -17,7 +17,7 @@ Curve Vector
 
 <a id="unreal.CurveVector.get_vector_value"></a>
 
-#### get_vector_value
+#### get\_vector\_value
 
 ```python
 def get_vector_value(time: float) -> Vector

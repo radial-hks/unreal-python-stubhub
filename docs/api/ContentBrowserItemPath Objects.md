@@ -15,7 +15,7 @@ Path conversion each time Set is called
 
 <a id="unreal.ContentBrowserItemPath.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -26,7 +26,7 @@ def __init__(
 
 <a id="unreal.ContentBrowserItemPath.set_path"></a>
 
-#### set_path
+#### set\_path
 
 ```python
 def set_path(path: Name, path_type: ContentBrowserPathType) -> None
@@ -41,7 +41,7 @@ Args:
 
 <a id="unreal.ContentBrowserItemPath.get_virtual_path"></a>
 
-#### get_virtual_path
+#### get\_virtual\_path
 
 ```python
 def get_virtual_path() -> Name
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.ContentBrowserItemPath.get_internal_path"></a>
 
-#### get_internal_path
+#### get\_internal\_path
 
 ```python
 def get_internal_path() -> Name

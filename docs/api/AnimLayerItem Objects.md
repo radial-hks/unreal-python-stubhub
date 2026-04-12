@@ -18,7 +18,7 @@ individual layer items that make up the layer
 
 <a id="unreal.AnimLayerItem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(section_items: Array[AnimLayerSectionItem] = []) -> None
@@ -26,7 +26,7 @@ def __init__(section_items: Array[AnimLayerSectionItem] = []) -> None
 
 <a id="unreal.AnimLayerItem.section_items"></a>
 
-#### section_items
+#### section\_items
 
 ```python
 @property
@@ -37,7 +37,7 @@ def section_items() -> Array[AnimLayerSectionItem]
 
 <a id="unreal.AnimLayerItem.section_items"></a>
 
-#### section_items
+#### section\_items
 
 ```python
 @section_items.setter

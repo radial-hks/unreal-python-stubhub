@@ -19,7 +19,7 @@ Sound Wave Spectral Data Per Sound
 
 <a id="unreal.SoundWaveSpectralDataPerSound.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(spectral_data: Array[SoundWaveSpectralData] = [],
@@ -29,7 +29,7 @@ def __init__(spectral_data: Array[SoundWaveSpectralData] = [],
 
 <a id="unreal.SoundWaveSpectralDataPerSound.spectral_data"></a>
 
-#### spectral_data
+#### spectral\_data
 
 ```python
 @property
@@ -40,7 +40,7 @@ def spectral_data() -> Array[SoundWaveSpectralData]
 
 <a id="unreal.SoundWaveSpectralDataPerSound.spectral_data"></a>
 
-#### spectral_data
+#### spectral\_data
 
 ```python
 @spectral_data.setter
@@ -49,7 +49,7 @@ def spectral_data(value: Array[SoundWaveSpectralData]) -> None
 
 <a id="unreal.SoundWaveSpectralDataPerSound.playback_time"></a>
 
-#### playback_time
+#### playback\_time
 
 ```python
 @property
@@ -60,7 +60,7 @@ def playback_time() -> float
 
 <a id="unreal.SoundWaveSpectralDataPerSound.playback_time"></a>
 
-#### playback_time
+#### playback\_time
 
 ```python
 @playback_time.setter
@@ -69,7 +69,7 @@ def playback_time(value: float) -> None
 
 <a id="unreal.SoundWaveSpectralDataPerSound.sound_wave"></a>
 
-#### sound_wave
+#### sound\_wave
 
 ```python
 @property
@@ -80,7 +80,7 @@ def sound_wave() -> SoundWave
 
 <a id="unreal.SoundWaveSpectralDataPerSound.sound_wave"></a>
 
-#### sound_wave
+#### sound\_wave
 
 ```python
 @sound_wave.setter

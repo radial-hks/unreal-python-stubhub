@@ -19,7 +19,7 @@ Color Override Modes
 
 <a id="unreal.DynamicMeshComponentColorOverrideMode.VERTEX_COLORS"></a>
 
-#### VERTEX_COLORS
+#### VERTEX\_COLORS
 
 1: Vertex Colors are displayed
 

@@ -18,7 +18,7 @@ Player Mappable Key Slot
 
 <a id="unreal.PlayerMappableKeySlotData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(slot_number: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(slot_number: int = 0) -> None
 
 <a id="unreal.PlayerMappableKeySlotData.slot_number"></a>
 
-#### slot_number
+#### slot\_number
 
 ```python
 @property
@@ -37,7 +37,7 @@ def slot_number() -> int
 
 <a id="unreal.PlayerMappableKeySlotData.slot_number"></a>
 
-#### slot_number
+#### slot\_number
 
 ```python
 @slot_number.setter

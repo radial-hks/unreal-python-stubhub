@@ -8,7 +8,7 @@ Type for all Unreal exposed struct instances
 
 <a id="unreal.StructBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None
@@ -16,7 +16,7 @@ def __init__(*args: Any, **kwargs: Any) -> None
 
 <a id="unreal.StructBase._post_init"></a>
 
-#### _post_init
+#### \_post\_init
 
 ```python
 def _post_init() -> None
@@ -38,7 +38,7 @@ cast(cls: Type[_T], object: Union[object, Mapping[str, object], Iterable[object]
 
 <a id="unreal.StructBase.static_struct"></a>
 
-#### static_struct
+#### static\_struct
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ static_struct(cls) -> ScriptStruct -- get the Unreal struct of this type
 
 <a id="unreal.StructBase.__copy__"></a>
 
-#### __copy__
+#### \_\_copy\_\_
 
 ```python
 def __copy__() -> Any
@@ -79,7 +79,7 @@ assign(self, other: object) -> None -- assign the value of this Unreal struct to
 
 <a id="unreal.StructBase.to_tuple"></a>
 
-#### to_tuple
+#### to\_tuple
 
 ```python
 def to_tuple() -> Tuple[object, ...]
@@ -89,7 +89,7 @@ to_tuple(self) -> Tuple[object, ...] -- break this Unreal struct into a tuple of
 
 <a id="unreal.StructBase.get_editor_property"></a>
 
-#### get_editor_property
+#### get\_editor\_property
 
 ```python
 def get_editor_property(name: Union[Name, str]) -> object
@@ -99,7 +99,7 @@ get_editor_property(self, name: Union[Name, str]) -> object -- get the value of 
 
 <a id="unreal.StructBase.set_editor_property"></a>
 
-#### set_editor_property
+#### set\_editor\_property
 
 ```python
 def set_editor_property(
@@ -114,7 +114,7 @@ set_editor_property(self, name: Union[Name, str], value: object, notify_mode: Pr
 
 <a id="unreal.StructBase.set_editor_properties"></a>
 
-#### set_editor_properties
+#### set\_editor\_properties
 
 ```python
 def set_editor_properties(properties: Mapping[str, object]) -> None
@@ -124,7 +124,7 @@ set_editor_properties(self, properties: Mapping[str, object]) -> None -- set the
 
 <a id="unreal.StructBase.export_text"></a>
 
-#### export_text
+#### export\_text
 
 ```python
 def export_text() -> str
@@ -134,7 +134,7 @@ export_text(self) -> str -- exports the content of the Unreal struct of this typ
 
 <a id="unreal.StructBase.import_text"></a>
 
-#### import_text
+#### import\_text
 
 ```python
 def import_text(content: str) -> bool

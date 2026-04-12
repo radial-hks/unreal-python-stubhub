@@ -14,7 +14,7 @@ Wrapper for an emitter stack.
 
 <a id="unreal.NiagaraPythonEmitter.set_properties"></a>
 
-#### set_properties
+#### set\_properties
 
 ```python
 def set_properties(data: VersionedNiagaraEmitterData) -> None
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.NiagaraPythonEmitter.has_module"></a>
 
-#### has_module
+#### has\_module
 
 ```python
 def has_module(module_name: str) -> bool
@@ -45,7 +45,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonEmitter.get_properties"></a>
 
-#### get_properties
+#### get\_properties
 
 ```python
 def get_properties() -> VersionedNiagaraEmitterData
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonEmitter.get_object"></a>
 
-#### get_object
+#### get\_object
 
 ```python
 def get_object() -> NiagaraEmitter
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonEmitter.get_modules"></a>
 
-#### get_modules
+#### get\_modules
 
 ```python
 def get_modules() -> Array[NiagaraPythonModule]
@@ -87,7 +87,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonEmitter.get_module"></a>
 
-#### get_module
+#### get\_module
 
 ```python
 def get_module(module_name: str) -> NiagaraPythonModule

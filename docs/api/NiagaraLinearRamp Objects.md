@@ -22,10 +22,10 @@ TODO: Replace with Curve that can baked down for fast eval and has good inline U
 
 <a id="unreal.NiagaraLinearRamp.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.MediaIODevice"></a>
+<a id="unreal.MetasoundFrontendVertex"></a>

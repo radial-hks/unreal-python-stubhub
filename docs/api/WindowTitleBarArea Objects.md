@@ -51,7 +51,7 @@ A panel for defining a region of the UI that should allow users to drag the wind
 
 <a id="unreal.WindowTitleBarArea.window_buttons_enabled"></a>
 
-#### window_buttons_enabled
+#### window\_buttons\_enabled
 
 ```python
 @property
@@ -62,7 +62,7 @@ def window_buttons_enabled() -> bool
 
 <a id="unreal.WindowTitleBarArea.window_buttons_enabled"></a>
 
-#### window_buttons_enabled
+#### window\_buttons\_enabled
 
 ```python
 @window_buttons_enabled.setter
@@ -71,7 +71,7 @@ def window_buttons_enabled(value: bool) -> None
 
 <a id="unreal.WindowTitleBarArea.double_click_toggles_fullscreen"></a>
 
-#### double_click_toggles_fullscreen
+#### double\_click\_toggles\_fullscreen
 
 ```python
 @property
@@ -82,7 +82,7 @@ def double_click_toggles_fullscreen() -> bool
 
 <a id="unreal.WindowTitleBarArea.double_click_toggles_fullscreen"></a>
 
-#### double_click_toggles_fullscreen
+#### double\_click\_toggles\_fullscreen
 
 ```python
 @double_click_toggles_fullscreen.setter
@@ -91,7 +91,7 @@ def double_click_toggles_fullscreen(value: bool) -> None
 
 <a id="unreal.WindowTitleBarArea.set_vertical_alignment"></a>
 
-#### set_vertical_alignment
+#### set\_vertical\_alignment
 
 ```python
 def set_vertical_alignment(vertical_alignment: VerticalAlignment) -> None
@@ -105,7 +105,7 @@ Args:
 
 <a id="unreal.WindowTitleBarArea.set_padding"></a>
 
-#### set_padding
+#### set\_padding
 
 ```python
 def set_padding(padding: Margin) -> None
@@ -119,7 +119,7 @@ Args:
 
 <a id="unreal.WindowTitleBarArea.set_horizontal_alignment"></a>
 
-#### set_horizontal_alignment
+#### set\_horizontal\_alignment
 
 ```python
 def set_horizontal_alignment(

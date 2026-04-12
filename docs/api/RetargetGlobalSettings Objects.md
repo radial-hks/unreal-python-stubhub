@@ -45,7 +45,7 @@ Retarget Global Settings
 
 <a id="unreal.RetargetGlobalSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enable_root: bool = False,
@@ -64,7 +64,7 @@ def __init__(enable_root: bool = False,
 
 <a id="unreal.RetargetGlobalSettings.enable_root"></a>
 
-#### enable_root
+#### enable\_root
 
 ```python
 @property
@@ -76,7 +76,7 @@ Note: the retargeting order is: Root > FK > IK > Post
 
 <a id="unreal.RetargetGlobalSettings.enable_root"></a>
 
-#### enable_root
+#### enable\_root
 
 ```python
 @enable_root.setter
@@ -85,7 +85,7 @@ def enable_root(value: bool) -> None
 
 <a id="unreal.RetargetGlobalSettings.enable_fk"></a>
 
-#### enable_fk
+#### enable\_fk
 
 ```python
 @property
@@ -97,7 +97,7 @@ Note: the retargeting order is: Root > FK > IK > Post
 
 <a id="unreal.RetargetGlobalSettings.enable_fk"></a>
 
-#### enable_fk
+#### enable\_fk
 
 ```python
 @enable_fk.setter
@@ -106,7 +106,7 @@ def enable_fk(value: bool) -> None
 
 <a id="unreal.RetargetGlobalSettings.enable_ik"></a>
 
-#### enable_ik
+#### enable\_ik
 
 ```python
 @property
@@ -118,7 +118,7 @@ Note: the retargeting order is: Root > FK > IK > Post
 
 <a id="unreal.RetargetGlobalSettings.enable_ik"></a>
 
-#### enable_ik
+#### enable\_ik
 
 ```python
 @enable_ik.setter
@@ -127,7 +127,7 @@ def enable_ik(value: bool) -> None
 
 <a id="unreal.RetargetGlobalSettings.enable_post"></a>
 
-#### enable_post
+#### enable\_post
 
 ```python
 @property
@@ -139,7 +139,7 @@ Note: the retargeting order is: Root > FK > IK > Post
 
 <a id="unreal.RetargetGlobalSettings.enable_post"></a>
 
-#### enable_post
+#### enable\_post
 
 ```python
 @enable_post.setter
@@ -170,7 +170,7 @@ def warping(value: bool) -> None
 
 <a id="unreal.RetargetGlobalSettings.direction_source"></a>
 
-#### direction_source
+#### direction\_source
 
 ```python
 @property
@@ -187,7 +187,7 @@ Root Bone: uses the rotation of the root bone of the skeleton. This is most robu
 
 <a id="unreal.RetargetGlobalSettings.direction_source"></a>
 
-#### direction_source
+#### direction\_source
 
 ```python
 @direction_source.setter
@@ -196,7 +196,7 @@ def direction_source(value: WarpingDirectionSource) -> None
 
 <a id="unreal.RetargetGlobalSettings.forward_direction"></a>
 
-#### forward_direction
+#### forward\_direction
 
 ```python
 @property
@@ -207,7 +207,7 @@ def forward_direction() -> BasicAxis
 
 <a id="unreal.RetargetGlobalSettings.forward_direction"></a>
 
-#### forward_direction
+#### forward\_direction
 
 ```python
 @forward_direction.setter
@@ -216,7 +216,7 @@ def forward_direction(value: BasicAxis) -> None
 
 <a id="unreal.RetargetGlobalSettings.direction_chain"></a>
 
-#### direction_chain
+#### direction\_chain
 
 ```python
 @property
@@ -228,7 +228,7 @@ Typically this would be the chain that contains the Spine bones.
 
 <a id="unreal.RetargetGlobalSettings.direction_chain"></a>
 
-#### direction_chain
+#### direction\_chain
 
 ```python
 @direction_chain.setter
@@ -237,7 +237,7 @@ def direction_chain(value: Name) -> None
 
 <a id="unreal.RetargetGlobalSettings.warp_forwards"></a>
 
-#### warp_forwards
+#### warp\_forwards
 
 ```python
 @property
@@ -249,7 +249,7 @@ Values below 1 will create smaller, squashed strides. Values greater than 1 will
 
 <a id="unreal.RetargetGlobalSettings.warp_forwards"></a>
 
-#### warp_forwards
+#### warp\_forwards
 
 ```python
 @warp_forwards.setter
@@ -258,7 +258,7 @@ def warp_forwards(value: float) -> None
 
 <a id="unreal.RetargetGlobalSettings.sideways_offset"></a>
 
-#### sideways_offset
+#### sideways\_offset
 
 ```python
 @property
@@ -270,7 +270,7 @@ Values less than zero will move the goals towards the center-line of the charact
 
 <a id="unreal.RetargetGlobalSettings.sideways_offset"></a>
 
-#### sideways_offset
+#### sideways\_offset
 
 ```python
 @sideways_offset.setter
@@ -279,7 +279,7 @@ def sideways_offset(value: float) -> None
 
 <a id="unreal.RetargetGlobalSettings.warp_splay"></a>
 
-#### warp_splay
+#### warp\_splay
 
 ```python
 @property
@@ -292,7 +292,7 @@ Values greater than 1 push the goals apart.
 
 <a id="unreal.RetargetGlobalSettings.warp_splay"></a>
 
-#### warp_splay
+#### warp\_splay
 
 ```python
 @warp_splay.setter

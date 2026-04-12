@@ -18,7 +18,7 @@ Curve Renamed Payload
 
 <a id="unreal.CurveRenamedPayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(identifier: AnimationCurveIdentifier = [],
@@ -27,7 +27,7 @@ def __init__(identifier: AnimationCurveIdentifier = [],
 
 <a id="unreal.CurveRenamedPayload.new_identifier"></a>
 
-#### new_identifier
+#### new\_identifier
 
 ```python
 @property

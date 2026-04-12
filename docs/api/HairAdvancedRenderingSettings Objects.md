@@ -19,7 +19,7 @@ Hair Advanced Rendering Settings
 
 <a id="unreal.HairAdvancedRenderingSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(use_stable_rasterization: bool = False,
@@ -28,7 +28,7 @@ def __init__(use_stable_rasterization: bool = False,
 
 <a id="unreal.HairAdvancedRenderingSettings.use_stable_rasterization"></a>
 
-#### use_stable_rasterization
+#### use\_stable\_rasterization
 
 ```python
 @property
@@ -39,7 +39,7 @@ def use_stable_rasterization() -> bool
 
 <a id="unreal.HairAdvancedRenderingSettings.scatter_scene_lighting"></a>
 
-#### scatter_scene_lighting
+#### scatter\_scene\_lighting
 
 ```python
 @property

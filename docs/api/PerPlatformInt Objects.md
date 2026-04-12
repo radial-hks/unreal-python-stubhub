@@ -18,7 +18,7 @@ FPerPlatformInt - int32 property with per-platform overrides
 
 <a id="unreal.PerPlatformInt.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(default: int = 0) -> None

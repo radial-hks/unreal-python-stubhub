@@ -18,7 +18,7 @@ Rig Physics Settings
 
 <a id="unreal.RigPhysicsSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mass: float = 0.000000) -> None

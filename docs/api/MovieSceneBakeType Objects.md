@@ -19,19 +19,19 @@ Bake options for animated properties of exported objects
 
 <a id="unreal.MovieSceneBakeType.BAKE_CHANNELS"></a>
 
-#### BAKE_CHANNELS
+#### BAKE\_CHANNELS
 
 1
 
 <a id="unreal.MovieSceneBakeType.BAKE_TRANSFORMS"></a>
 
-#### BAKE_TRANSFORMS
+#### BAKE\_TRANSFORMS
 
 2
 
 <a id="unreal.MovieSceneBakeType.BAKE_ALL"></a>
 
-#### BAKE_ALL
+#### BAKE\_ALL
 
 3
 

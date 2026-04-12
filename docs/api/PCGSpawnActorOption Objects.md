@@ -14,19 +14,19 @@ EPCGSpawn Actor Option
 
 <a id="unreal.PCGSpawnActorOption.COLLAPSE_ACTORS"></a>
 
-#### COLLAPSE_ACTORS
+#### COLLAPSE\_ACTORS
 
 0
 
 <a id="unreal.PCGSpawnActorOption.MERGE_PCG_ONLY"></a>
 
-#### MERGE_PCG_ONLY
+#### MERGE\_PCG\_ONLY
 
 1
 
 <a id="unreal.PCGSpawnActorOption.NO_MERGING"></a>
 
-#### NO_MERGING
+#### NO\_MERGING
 
 2
 

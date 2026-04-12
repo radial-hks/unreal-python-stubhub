@@ -29,7 +29,7 @@ Scene factory implementation:
 
 <a id="unreal.InterchangeFactoryBase.get_factory_class"></a>
 
-#### get_factory_class
+#### get\_factory\_class
 
 ```python
 def get_factory_class() -> Class

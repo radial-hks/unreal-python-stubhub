@@ -31,7 +31,7 @@ PCGUnit Test Dummy Component
 
 <a id="unreal.PCGUnitTestDummyComponent.int_property"></a>
 
-#### int_property
+#### int\_property
 
 ```python
 @property

@@ -25,7 +25,7 @@ Datasmith Import Base Options
 
 <a id="unreal.DatasmithImportBaseOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -45,7 +45,7 @@ def __init__(
 
 <a id="unreal.DatasmithImportBaseOptions.scene_handling"></a>
 
-#### scene_handling
+#### scene\_handling
 
 ```python
 @property
@@ -56,7 +56,7 @@ def scene_handling() -> DatasmithImportScene
 
 <a id="unreal.DatasmithImportBaseOptions.scene_handling"></a>
 
-#### scene_handling
+#### scene\_handling
 
 ```python
 @scene_handling.setter
@@ -65,7 +65,7 @@ def scene_handling(value: DatasmithImportScene) -> None
 
 <a id="unreal.DatasmithImportBaseOptions.include_geometry"></a>
 
-#### include_geometry
+#### include\_geometry
 
 ```python
 @property
@@ -76,7 +76,7 @@ def include_geometry() -> bool
 
 <a id="unreal.DatasmithImportBaseOptions.include_geometry"></a>
 
-#### include_geometry
+#### include\_geometry
 
 ```python
 @include_geometry.setter
@@ -85,7 +85,7 @@ def include_geometry(value: bool) -> None
 
 <a id="unreal.DatasmithImportBaseOptions.include_material"></a>
 
-#### include_material
+#### include\_material
 
 ```python
 @property
@@ -96,7 +96,7 @@ def include_material() -> bool
 
 <a id="unreal.DatasmithImportBaseOptions.include_material"></a>
 
-#### include_material
+#### include\_material
 
 ```python
 @include_material.setter
@@ -105,7 +105,7 @@ def include_material(value: bool) -> None
 
 <a id="unreal.DatasmithImportBaseOptions.include_light"></a>
 
-#### include_light
+#### include\_light
 
 ```python
 @property
@@ -116,7 +116,7 @@ def include_light() -> bool
 
 <a id="unreal.DatasmithImportBaseOptions.include_light"></a>
 
-#### include_light
+#### include\_light
 
 ```python
 @include_light.setter
@@ -125,7 +125,7 @@ def include_light(value: bool) -> None
 
 <a id="unreal.DatasmithImportBaseOptions.include_camera"></a>
 
-#### include_camera
+#### include\_camera
 
 ```python
 @property
@@ -136,7 +136,7 @@ def include_camera() -> bool
 
 <a id="unreal.DatasmithImportBaseOptions.include_camera"></a>
 
-#### include_camera
+#### include\_camera
 
 ```python
 @include_camera.setter
@@ -145,7 +145,7 @@ def include_camera(value: bool) -> None
 
 <a id="unreal.DatasmithImportBaseOptions.include_animation"></a>
 
-#### include_animation
+#### include\_animation
 
 ```python
 @property
@@ -156,7 +156,7 @@ def include_animation() -> bool
 
 <a id="unreal.DatasmithImportBaseOptions.include_animation"></a>
 
-#### include_animation
+#### include\_animation
 
 ```python
 @include_animation.setter
@@ -165,7 +165,7 @@ def include_animation(value: bool) -> None
 
 <a id="unreal.DatasmithImportBaseOptions.asset_options"></a>
 
-#### asset_options
+#### asset\_options
 
 ```python
 @property
@@ -176,7 +176,7 @@ def asset_options() -> DatasmithAssetImportOptions
 
 <a id="unreal.DatasmithImportBaseOptions.asset_options"></a>
 
-#### asset_options
+#### asset\_options
 
 ```python
 @asset_options.setter
@@ -185,7 +185,7 @@ def asset_options(value: DatasmithAssetImportOptions) -> None
 
 <a id="unreal.DatasmithImportBaseOptions.static_mesh_options"></a>
 
-#### static_mesh_options
+#### static\_mesh\_options
 
 ```python
 @property
@@ -196,7 +196,7 @@ def static_mesh_options() -> DatasmithStaticMeshImportOptions
 
 <a id="unreal.DatasmithImportBaseOptions.static_mesh_options"></a>
 
-#### static_mesh_options
+#### static\_mesh\_options
 
 ```python
 @static_mesh_options.setter

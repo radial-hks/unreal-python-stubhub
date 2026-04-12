@@ -29,7 +29,7 @@ Generates animation notifies and/or sync markers for any specified bone(s)
 
 <a id="unreal.FootstepAnimEventsModifier.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @property
@@ -40,7 +40,7 @@ def sample_rate() -> int
 
 <a id="unreal.FootstepAnimEventsModifier.ground_threshold"></a>
 
-#### ground_threshold
+#### ground\_threshold
 
 ```python
 @property
@@ -51,7 +51,7 @@ def ground_threshold() -> float
 
 <a id="unreal.FootstepAnimEventsModifier.speed_threshold"></a>
 
-#### speed_threshold
+#### speed\_threshold
 
 ```python
 @property
@@ -65,7 +65,7 @@ the speed will be very close to zero, thus for most cases this value won't need 
 
 <a id="unreal.FootstepAnimEventsModifier.foot_definitions"></a>
 
-#### foot_definitions
+#### foot\_definitions
 
 ```python
 @property
@@ -76,7 +76,7 @@ def foot_definitions() -> Array[FootDefinition]
 
 <a id="unreal.FootstepAnimEventsModifier.should_remove_pre_existing_notifies_or_sync_markers"></a>
 
-#### should_remove_pre_existing_notifies_or_sync_markers
+#### should\_remove\_pre\_existing\_notifies\_or\_sync\_markers
 
 ```python
 @property

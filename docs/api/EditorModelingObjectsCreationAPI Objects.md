@@ -25,4 +25,4 @@ Several client-provided callbacks can be used to customize functionality (eg in 
 - **Module**: ModelingComponentsEditorOnly
 - **File**: EditorModelingObjectsCreationAPI.h
 
-<a id="unreal.GeometryScript_EditorDynamicMeshUtil"></a>
+<a id="unreal.RamaColorPicker"></a>

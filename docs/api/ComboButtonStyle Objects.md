@@ -27,7 +27,7 @@ Represents the appearance of an SComboButton
 
 <a id="unreal.ComboButtonStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -113,7 +113,7 @@ def __init__(
 
 <a id="unreal.ComboButtonStyle.button_style"></a>
 
-#### button_style
+#### button\_style
 
 ```python
 @property
@@ -124,7 +124,7 @@ def button_style() -> ButtonStyle
 
 <a id="unreal.ComboButtonStyle.button_style"></a>
 
-#### button_style
+#### button\_style
 
 ```python
 @button_style.setter
@@ -133,7 +133,7 @@ def button_style(value: ButtonStyle) -> None
 
 <a id="unreal.ComboButtonStyle.down_arrow_image"></a>
 
-#### down_arrow_image
+#### down\_arrow\_image
 
 ```python
 @property
@@ -144,7 +144,7 @@ def down_arrow_image() -> SlateBrush
 
 <a id="unreal.ComboButtonStyle.down_arrow_image"></a>
 
-#### down_arrow_image
+#### down\_arrow\_image
 
 ```python
 @down_arrow_image.setter
@@ -153,7 +153,7 @@ def down_arrow_image(value: SlateBrush) -> None
 
 <a id="unreal.ComboButtonStyle.shadow_offset"></a>
 
-#### shadow_offset
+#### shadow\_offset
 
 ```python
 @property
@@ -165,7 +165,7 @@ An offset of 0 implies no shadow.
 
 <a id="unreal.ComboButtonStyle.shadow_offset"></a>
 
-#### shadow_offset
+#### shadow\_offset
 
 ```python
 @shadow_offset.setter
@@ -174,7 +174,7 @@ def shadow_offset(value: DeprecateSlateVector2D) -> None
 
 <a id="unreal.ComboButtonStyle.shadow_color_and_opacity"></a>
 
-#### shadow_color_and_opacity
+#### shadow\_color\_and\_opacity
 
 ```python
 @property
@@ -186,7 +186,7 @@ Only active if ShadowOffset is not (0,0).
 
 <a id="unreal.ComboButtonStyle.shadow_color_and_opacity"></a>
 
-#### shadow_color_and_opacity
+#### shadow\_color\_and\_opacity
 
 ```python
 @shadow_color_and_opacity.setter
@@ -195,7 +195,7 @@ def shadow_color_and_opacity(value: LinearColor) -> None
 
 <a id="unreal.ComboButtonStyle.menu_border_brush"></a>
 
-#### menu_border_brush
+#### menu\_border\_brush
 
 ```python
 @property
@@ -206,7 +206,7 @@ def menu_border_brush() -> SlateBrush
 
 <a id="unreal.ComboButtonStyle.menu_border_brush"></a>
 
-#### menu_border_brush
+#### menu\_border\_brush
 
 ```python
 @menu_border_brush.setter
@@ -215,7 +215,7 @@ def menu_border_brush(value: SlateBrush) -> None
 
 <a id="unreal.ComboButtonStyle.menu_border_padding"></a>
 
-#### menu_border_padding
+#### menu\_border\_padding
 
 ```python
 @property
@@ -226,7 +226,7 @@ def menu_border_padding() -> Margin
 
 <a id="unreal.ComboButtonStyle.menu_border_padding"></a>
 
-#### menu_border_padding
+#### menu\_border\_padding
 
 ```python
 @menu_border_padding.setter
@@ -235,7 +235,7 @@ def menu_border_padding(value: Margin) -> None
 
 <a id="unreal.ComboButtonStyle.content_padding"></a>
 
-#### content_padding
+#### content\_padding
 
 ```python
 @property
@@ -246,7 +246,7 @@ def content_padding() -> Margin
 
 <a id="unreal.ComboButtonStyle.content_padding"></a>
 
-#### content_padding
+#### content\_padding
 
 ```python
 @content_padding.setter
@@ -255,7 +255,7 @@ def content_padding(value: Margin) -> None
 
 <a id="unreal.ComboButtonStyle.down_arrow_padding"></a>
 
-#### down_arrow_padding
+#### down\_arrow\_padding
 
 ```python
 @property
@@ -266,7 +266,7 @@ def down_arrow_padding() -> Margin
 
 <a id="unreal.ComboButtonStyle.down_arrow_padding"></a>
 
-#### down_arrow_padding
+#### down\_arrow\_padding
 
 ```python
 @down_arrow_padding.setter
@@ -275,7 +275,7 @@ def down_arrow_padding(value: Margin) -> None
 
 <a id="unreal.ComboButtonStyle.down_arrow_align"></a>
 
-#### down_arrow_align
+#### down\_arrow\_align
 
 ```python
 @property
@@ -286,7 +286,7 @@ def down_arrow_align() -> VerticalAlignment
 
 <a id="unreal.ComboButtonStyle.down_arrow_align"></a>
 
-#### down_arrow_align
+#### down\_arrow\_align
 
 ```python
 @down_arrow_align.setter

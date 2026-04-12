@@ -19,7 +19,7 @@ EPhysics Replication Mode
 
 <a id="unreal.PhysicsReplicationMode.PREDICTIVE_INTERPOLATION"></a>
 
-#### PREDICTIVE_INTERPOLATION
+#### PREDICTIVE\_INTERPOLATION
 
 1: Work In Progress. Physics replication performing velocity interpolation.
 Recommendation: Set on actors with a local role of ENetRole::ROLE_SimulatedProxy.

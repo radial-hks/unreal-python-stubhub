@@ -14,7 +14,7 @@ Subsystem for exposing skeletal mesh functionality to scripts
 
 <a id="unreal.SkeletalMeshEditorSubsystem.set_section_visible_in_ray_tracing"></a>
 
-#### set_section_visible_in_ray_tracing
+#### set\_section\_visible\_in\_ray\_tracing
 
 ```python
 def set_section_visible_in_ray_tracing(skeletal_mesh: SkeletalMesh,
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.set_section_recompute_tangents_vertex_mask_channel"></a>
 
-#### set_section_recompute_tangents_vertex_mask_channel
+#### set\_section\_recompute\_tangents\_vertex\_mask\_channel
 
 ```python
 def set_section_recompute_tangents_vertex_mask_channel(
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.set_section_recompute_tangent"></a>
 
-#### set_section_recompute_tangent
+#### set\_section\_recompute\_tangent
 
 ```python
 def set_section_recompute_tangent(skeletal_mesh: SkeletalMesh, lod_index: int,
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.set_section_cast_shadow"></a>
 
-#### set_section_cast_shadow
+#### set\_section\_cast\_shadow
 
 ```python
 def set_section_cast_shadow(skeletal_mesh: SkeletalMesh, lod_index: int,
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.set_lod_build_settings"></a>
 
-#### set_lod_build_settings
+#### set\_lod\_build\_settings
 
 ```python
 @classmethod
@@ -119,7 +119,7 @@ Args:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.rename_socket"></a>
 
-#### rename_socket
+#### rename\_socket
 
 ```python
 @classmethod
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.reimport_all_custom_lo_ds"></a>
 
-#### reimport_all_custom_lo_ds
+#### reimport\_all\_custom\_lo\_ds
 
 ```python
 @classmethod
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.regenerate_lod"></a>
 
-#### regenerate_lod
+#### regenerate\_lod
 
 ```python
 @classmethod
@@ -183,7 +183,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.is_physics_asset_compatible"></a>
 
-#### is_physics_asset_compatible
+#### is\_physics\_asset\_compatible
 
 ```python
 @classmethod
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.import_lod"></a>
 
-#### import_lod
+#### import\_lod
 
 ```python
 @classmethod
@@ -224,7 +224,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_section_visible_in_ray_tracing"></a>
 
-#### get_section_visible_in_ray_tracing
+#### get\_section\_visible\_in\_ray\_tracing
 
 ```python
 def get_section_visible_in_ray_tracing(skeletal_mesh: SkeletalMesh,
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_section_recompute_tangents_vertex_mask_channel"></a>
 
-#### get_section_recompute_tangents_vertex_mask_channel
+#### get\_section\_recompute\_tangents\_vertex\_mask\_channel
 
 ```python
 def get_section_recompute_tangents_vertex_mask_channel(
@@ -270,7 +270,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_section_recompute_tangent"></a>
 
-#### get_section_recompute_tangent
+#### get\_section\_recompute\_tangent
 
 ```python
 def get_section_recompute_tangent(skeletal_mesh: SkeletalMesh, lod_index: int,
@@ -292,7 +292,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_section_cast_shadow"></a>
 
-#### get_section_cast_shadow
+#### get\_section\_cast\_shadow
 
 ```python
 def get_section_cast_shadow(skeletal_mesh: SkeletalMesh, lod_index: int,
@@ -314,7 +314,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_num_verts"></a>
 
-#### get_num_verts
+#### get\_num\_verts
 
 ```python
 def get_num_verts(skeletal_mesh: SkeletalMesh, lod_index: int) -> int
@@ -332,7 +332,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_num_sections"></a>
 
-#### get_num_sections
+#### get\_num\_sections
 
 ```python
 def get_num_sections(skeletal_mesh: SkeletalMesh, lod_index: int) -> int
@@ -350,7 +350,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_lod_material_slot"></a>
 
-#### get_lod_material_slot
+#### get\_lod\_material\_slot
 
 ```python
 def get_lod_material_slot(skeletal_mesh: SkeletalMesh, lod_index: int,
@@ -370,7 +370,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_lod_count"></a>
 
-#### get_lod_count
+#### get\_lod\_count
 
 ```python
 @classmethod
@@ -388,7 +388,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.get_lod_build_settings"></a>
 
-#### get_lod_build_settings
+#### get\_lod\_build\_settings
 
 ```python
 @classmethod
@@ -410,7 +410,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.create_physics_asset"></a>
 
-#### create_physics_asset
+#### create\_physics\_asset
 
 ```python
 @classmethod
@@ -428,7 +428,7 @@ Returns:
 
 <a id="unreal.SkeletalMeshEditorSubsystem.assign_physics_asset"></a>
 
-#### assign_physics_asset
+#### assign\_physics\_asset
 
 ```python
 @classmethod

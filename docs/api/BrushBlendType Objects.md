@@ -14,7 +14,7 @@ The blend mode changes how the brush material is applied to the terrain.
 
 <a id="unreal.BrushBlendType.ALPHA_BLEND"></a>
 
-#### ALPHA_BLEND
+#### ALPHA\_BLEND
 
 0: Alpha Blend will affect the heightmap both upwards and downwards.
 

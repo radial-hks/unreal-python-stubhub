@@ -22,7 +22,7 @@ Tool Menu Section
 
 <a id="unreal.ToolMenuSection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -97,7 +97,7 @@ def blocks(value: Array[ToolMenuEntry]) -> None
 
 <a id="unreal.ToolMenuSection.insert_position"></a>
 
-#### insert_position
+#### insert\_position
 
 ```python
 @property
@@ -108,7 +108,7 @@ def insert_position() -> ToolMenuInsert
 
 <a id="unreal.ToolMenuSection.insert_position"></a>
 
-#### insert_position
+#### insert\_position
 
 ```python
 @insert_position.setter
@@ -137,7 +137,7 @@ def context(value: ToolMenuContext) -> None
 
 <a id="unreal.ToolMenuSection.tool_menu_section_dynamic"></a>
 
-#### tool_menu_section_dynamic
+#### tool\_menu\_section\_dynamic
 
 ```python
 @property
@@ -148,7 +148,7 @@ def tool_menu_section_dynamic() -> ToolMenuSectionDynamic
 
 <a id="unreal.ToolMenuSection.tool_menu_section_dynamic"></a>
 
-#### tool_menu_section_dynamic
+#### tool\_menu\_section\_dynamic
 
 ```python
 @tool_menu_section_dynamic.setter
@@ -157,7 +157,7 @@ def tool_menu_section_dynamic(value: ToolMenuSectionDynamic) -> None
 
 <a id="unreal.ToolMenuSection.set_label"></a>
 
-#### set_label
+#### set\_label
 
 ```python
 def set_label(label: Text) -> None
@@ -171,7 +171,7 @@ Args:
 
 <a id="unreal.ToolMenuSection.get_label"></a>
 
-#### get_label
+#### get\_label
 
 ```python
 def get_label() -> Text
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.ToolMenuSection.add_entry_object"></a>
 
-#### add_entry_object
+#### add\_entry\_object
 
 ```python
 def add_entry_object(object: ToolMenuEntryScript) -> None
@@ -199,7 +199,7 @@ Args:
 
 <a id="unreal.ToolMenuSection.add_entry"></a>
 
-#### add_entry
+#### add\_entry
 
 ```python
 def add_entry(args: ToolMenuEntry) -> None

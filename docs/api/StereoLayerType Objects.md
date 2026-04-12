@@ -13,19 +13,19 @@ Used by IStereoLayer
 
 <a id="unreal.StereoLayerType.SLT_WORLD_LOCKED"></a>
 
-#### SLT_WORLD_LOCKED
+#### SLT\_WORLD\_LOCKED
 
 0: Location within the world
 
 <a id="unreal.StereoLayerType.SLT_TRACKER_LOCKED"></a>
 
-#### SLT_TRACKER_LOCKED
+#### SLT\_TRACKER\_LOCKED
 
 1: Location within the HMD tracking space
 
 <a id="unreal.StereoLayerType.SLT_FACE_LOCKED"></a>
 
-#### SLT_FACE_LOCKED
+#### SLT\_FACE\_LOCKED
 
 2: Location within the view space
 

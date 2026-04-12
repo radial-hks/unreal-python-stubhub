@@ -28,7 +28,7 @@ A CVar section is responsible for applying a user-supplied value to the specifie
 
 <a id="unreal.MovieSceneCVarSection.set_from_string"></a>
 
-#### set_from_string
+#### set\_from\_string
 
 ```python
 def set_from_string(string: str) -> None
@@ -42,7 +42,7 @@ Args:
 
 <a id="unreal.MovieSceneCVarSection.get_string"></a>
 
-#### get_string
+#### get\_string
 
 ```python
 def get_string() -> str

@@ -19,7 +19,7 @@ UObject wrapper for FNavigationPath
 
 <a id="unreal.NavigationPath.path_updated_notifier"></a>
 
-#### path_updated_notifier
+#### path\_updated\_notifier
 
 ```python
 @property
@@ -30,7 +30,7 @@ def path_updated_notifier() -> OnNavigationPathUpdated
 
 <a id="unreal.NavigationPath.path_updated_notifier"></a>
 
-#### path_updated_notifier
+#### path\_updated\_notifier
 
 ```python
 @path_updated_notifier.setter
@@ -39,7 +39,7 @@ def path_updated_notifier(value: OnNavigationPathUpdated) -> None
 
 <a id="unreal.NavigationPath.path_points"></a>
 
-#### path_points
+#### path\_points
 
 ```python
 @property
@@ -50,7 +50,7 @@ def path_points() -> Array[Vector]
 
 <a id="unreal.NavigationPath.recalculate_on_invalidation"></a>
 
-#### recalculate_on_invalidation
+#### recalculate\_on\_invalidation
 
 ```python
 @property
@@ -61,7 +61,7 @@ def recalculate_on_invalidation() -> NavigationOptionFlag
 
 <a id="unreal.NavigationPath.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.NavigationPath.is_string_pulled"></a>
 
-#### is_string_pulled
+#### is\_string\_pulled
 
 ```python
 def is_string_pulled() -> bool
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.NavigationPath.is_partial"></a>
 
-#### is_partial
+#### is\_partial
 
 ```python
 def is_partial() -> bool
@@ -103,7 +103,7 @@ Returns:
 
 <a id="unreal.NavigationPath.get_path_length"></a>
 
-#### get_path_length
+#### get\_path\_length
 
 ```python
 def get_path_length() -> float
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.NavigationPath.get_path_lenght"></a>
 
-#### get_path_lenght
+#### get\_path\_lenght
 
 ```python
 def get_path_lenght() -> float
@@ -127,7 +127,7 @@ deprecated: 'get_path_lenght' was renamed to 'get_path_length'.
 
 <a id="unreal.NavigationPath.get_path_cost"></a>
 
-#### get_path_cost
+#### get\_path\_cost
 
 ```python
 def get_path_cost() -> float
@@ -141,7 +141,7 @@ Returns:
 
 <a id="unreal.NavigationPath.get_debug_string"></a>
 
-#### get_debug_string
+#### get\_debug\_string
 
 ```python
 def get_debug_string() -> str
@@ -155,7 +155,7 @@ Returns:
 
 <a id="unreal.NavigationPath.enable_recalculation_on_invalidation"></a>
 
-#### enable_recalculation_on_invalidation
+#### enable\_recalculation\_on\_invalidation
 
 ```python
 def enable_recalculation_on_invalidation(
@@ -170,7 +170,7 @@ Args:
 
 <a id="unreal.NavigationPath.enable_debug_drawing"></a>
 
-#### enable_debug_drawing
+#### enable\_debug\_drawing
 
 ```python
 def enable_debug_drawing(

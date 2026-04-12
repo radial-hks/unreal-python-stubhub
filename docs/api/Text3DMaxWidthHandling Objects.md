@@ -20,8 +20,8 @@ EText 3DMax Width Handling
 
 <a id="unreal.Text3DMaxWidthHandling.WRAP_AND_SCALE"></a>
 
-#### WRAP_AND_SCALE
+#### WRAP\_AND\_SCALE
 
 1: First wraps the text (if possible) and then scales to meet the max width
 
-<a id="unreal.AvaAutoSizeFitMode"></a>
+<a id="unreal.CollectionShareType"></a>

@@ -14,7 +14,7 @@ A list of general polygons, which may have holes.
 
 <a id="unreal.GeometryScriptGeneralPolygonList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.GeometryScriptGeneralPolygonList.polygons_union"></a>
 
-#### polygons_union
+#### polygons\_union
 
 ```python
 def polygons_union(
@@ -41,7 +41,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.polygons_offsets"></a>
 
-#### polygons_offsets
+#### polygons\_offsets
 
 ```python
 def polygons_offsets(
@@ -68,7 +68,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.polygons_offset"></a>
 
-#### polygons_offset
+#### polygons\_offset
 
 ```python
 def polygons_offset(
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.polygons_morphology_open"></a>
 
-#### polygons_morphology_open
+#### polygons\_morphology\_open
 
 ```python
 def polygons_morphology_open(
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.polygons_morphology_close"></a>
 
-#### polygons_morphology_close
+#### polygons\_morphology\_close
 
 ```python
 def polygons_morphology_close(
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.polygons_intersection"></a>
 
-#### polygons_intersection
+#### polygons\_intersection
 
 ```python
 def polygons_intersection(
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.polygons_exclusive_or"></a>
 
-#### polygons_exclusive_or
+#### polygons\_exclusive\_or
 
 ```python
 def polygons_exclusive_or(
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.polygons_difference"></a>
 
-#### polygons_difference
+#### polygons\_difference
 
 ```python
 def polygons_difference(
@@ -200,7 +200,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_simple_polygon"></a>
 
-#### get_simple_polygon
+#### get\_simple\_polygon
 
 ```python
 def get_simple_polygon(
@@ -223,7 +223,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_vertices"></a>
 
-#### get_polygon_vertices
+#### get\_polygon\_vertices
 
 ```python
 def get_polygon_vertices(polygon_index: int,
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_vertex_count"></a>
 
-#### get_polygon_vertex_count
+#### get\_polygon\_vertex\_count
 
 ```python
 def get_polygon_vertex_count(polygon_index: int,
@@ -269,7 +269,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_vertex"></a>
 
-#### get_polygon_vertex
+#### get\_polygon\_vertex
 
 ```python
 def get_polygon_vertex(vertex_index: int,
@@ -293,7 +293,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_list_bounds"></a>
 
-#### get_polygon_list_bounds
+#### get\_polygon\_list\_bounds
 
 ```python
 def get_polygon_list_bounds() -> Box2D
@@ -307,7 +307,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_list_area"></a>
 
-#### get_polygon_list_area
+#### get\_polygon\_list\_area
 
 ```python
 def get_polygon_list_area() -> float
@@ -321,7 +321,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_hole_count"></a>
 
-#### get_polygon_hole_count
+#### get\_polygon\_hole\_count
 
 ```python
 def get_polygon_hole_count(polygon_index: int) -> Tuple[int, bool]
@@ -340,7 +340,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_count"></a>
 
-#### get_polygon_count
+#### get\_polygon\_count
 
 ```python
 def get_polygon_count() -> int
@@ -354,7 +354,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_bounds"></a>
 
-#### get_polygon_bounds
+#### get\_polygon\_bounds
 
 ```python
 def get_polygon_bounds(polygon_index: int) -> Tuple[Box2D, bool]
@@ -373,7 +373,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.get_polygon_area"></a>
 
-#### get_polygon_area
+#### get\_polygon\_area
 
 ```python
 def get_polygon_area(polygon_index: int) -> Tuple[float, bool]
@@ -392,7 +392,7 @@ Returns:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.append_polygon_list"></a>
 
-#### append_polygon_list
+#### append\_polygon\_list
 
 ```python
 def append_polygon_list(
@@ -407,7 +407,7 @@ Args:
 
 <a id="unreal.GeometryScriptGeneralPolygonList.add_polygon_to_list"></a>
 
-#### add_polygon_to_list
+#### add\_polygon\_to\_list
 
 ```python
 def add_polygon_to_list(outer_polygon: GeometryScriptSimplePolygon,

@@ -13,13 +13,13 @@ EInitial Velocity Type Enum
 
 <a id="unreal.InitialVelocityTypeEnum.CHAOS_INITIAL_VELOCITY_USER_DEFINED"></a>
 
-#### CHAOS_INITIAL_VELOCITY_USER_DEFINED
+#### CHAOS\_INITIAL\_VELOCITY\_USER\_DEFINED
 
 0: Chaos_Initial_Velocity_Animation UMETA(DisplayName = "Animation"),
 
 <a id="unreal.InitialVelocityTypeEnum.CHAOS_INITIAL_VELOCITY_NONE"></a>
 
-#### CHAOS_INITIAL_VELOCITY_NONE
+#### CHAOS\_INITIAL\_VELOCITY\_NONE
 
 1: Chaos_Initial_Velocity_Field UMETA(DisplayName = "Field"),
 

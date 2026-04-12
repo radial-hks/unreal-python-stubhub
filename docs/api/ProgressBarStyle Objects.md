@@ -21,7 +21,7 @@ Represents the appearance of an SProgressBar
 
 <a id="unreal.ProgressBarStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(background_image: SlateBrush = [
@@ -61,7 +61,7 @@ def __init__(background_image: SlateBrush = [
 
 <a id="unreal.ProgressBarStyle.background_image"></a>
 
-#### background_image
+#### background\_image
 
 ```python
 @property
@@ -72,7 +72,7 @@ def background_image() -> SlateBrush
 
 <a id="unreal.ProgressBarStyle.background_image"></a>
 
-#### background_image
+#### background\_image
 
 ```python
 @background_image.setter
@@ -81,7 +81,7 @@ def background_image(value: SlateBrush) -> None
 
 <a id="unreal.ProgressBarStyle.fill_image"></a>
 
-#### fill_image
+#### fill\_image
 
 ```python
 @property
@@ -92,7 +92,7 @@ def fill_image() -> SlateBrush
 
 <a id="unreal.ProgressBarStyle.fill_image"></a>
 
-#### fill_image
+#### fill\_image
 
 ```python
 @fill_image.setter
@@ -101,7 +101,7 @@ def fill_image(value: SlateBrush) -> None
 
 <a id="unreal.ProgressBarStyle.marquee_image"></a>
 
-#### marquee_image
+#### marquee\_image
 
 ```python
 @property
@@ -112,7 +112,7 @@ def marquee_image() -> SlateBrush
 
 <a id="unreal.ProgressBarStyle.marquee_image"></a>
 
-#### marquee_image
+#### marquee\_image
 
 ```python
 @marquee_image.setter
@@ -121,7 +121,7 @@ def marquee_image(value: SlateBrush) -> None
 
 <a id="unreal.ProgressBarStyle.enable_fill_animation"></a>
 
-#### enable_fill_animation
+#### enable\_fill\_animation
 
 ```python
 @property
@@ -133,7 +133,7 @@ This requires a pattern in your material or texture to give the appearance of mo
 
 <a id="unreal.ProgressBarStyle.enable_fill_animation"></a>
 
-#### enable_fill_animation
+#### enable\_fill\_animation
 
 ```python
 @enable_fill_animation.setter

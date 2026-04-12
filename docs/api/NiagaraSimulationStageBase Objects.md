@@ -16,4 +16,4 @@ A base class for niagara simulation stages.  This class should be derived to add
 
 - ``simulation_stage_name`` (Name):  [Read-Write]
 
-<a id="unreal.DEditorParameterValue"></a>
+<a id="unreal.MagicGISLayerViewModel"></a>

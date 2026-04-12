@@ -13,7 +13,7 @@ Visual Logger Kismet Library
 
 <a id="unreal.VisualLoggerLibrary.redirect_vislog"></a>
 
-#### redirect_vislog
+#### redirect\_vislog
 
 ```python
 @classmethod
@@ -30,7 +30,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_text"></a>
 
-#### log_text
+#### log\_text
 
 ```python
 @classmethod
@@ -52,7 +52,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_sphere"></a>
 
-#### log_sphere
+#### log\_sphere
 
 ```python
 @classmethod
@@ -84,7 +84,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_segment"></a>
 
-#### log_segment
+#### log\_segment
 
 ```python
 @classmethod
@@ -116,7 +116,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_oriented_box"></a>
 
-#### log_oriented_box
+#### log\_oriented\_box
 
 ```python
 @classmethod
@@ -148,7 +148,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_location"></a>
 
-#### log_location
+#### log\_location
 
 ```python
 @classmethod
@@ -178,7 +178,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_cylinder"></a>
 
-#### log_cylinder
+#### log\_cylinder
 
 ```python
 @classmethod
@@ -212,7 +212,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_cone"></a>
 
-#### log_cone
+#### log\_cone
 
 ```python
 @classmethod
@@ -248,7 +248,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_circle"></a>
 
-#### log_circle
+#### log\_circle
 
 ```python
 @classmethod
@@ -282,7 +282,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_capsule"></a>
 
-#### log_capsule
+#### log\_capsule
 
 ```python
 @classmethod
@@ -318,7 +318,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_box"></a>
 
-#### log_box
+#### log\_box
 
 ```python
 @classmethod
@@ -348,7 +348,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.log_arrow"></a>
 
-#### log_arrow
+#### log\_arrow
 
 ```python
 @classmethod
@@ -378,7 +378,7 @@ Args:
 
 <a id="unreal.VisualLoggerLibrary.enable_recording"></a>
 
-#### enable_recording
+#### enable\_recording
 
 ```python
 @classmethod

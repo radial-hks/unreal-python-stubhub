@@ -22,7 +22,7 @@ UAsset used to represent Imported Impulse Responses
 
 <a id="unreal.AudioImpulseResponse.normalization_volume_db"></a>
 
-#### normalization_volume_db
+#### normalization\_volume\_db
 
 ```python
 @property
@@ -33,7 +33,7 @@ def normalization_volume_db() -> float
 
 <a id="unreal.AudioImpulseResponse.true_stereo"></a>
 
-#### true_stereo
+#### true\_stereo
 
 ```python
 @property
@@ -44,7 +44,7 @@ def true_stereo() -> bool
 
 <a id="unreal.AudioImpulseResponse.ir_data"></a>
 
-#### ir_data
+#### ir\_data
 
 ```python
 @property
@@ -56,7 +56,7 @@ deprecated: Property 'IRData' is deprecated.
 
 <a id="unreal.AudioImpulseResponse.ir_data"></a>
 
-#### ir_data
+#### ir\_data
 
 ```python
 @ir_data.setter

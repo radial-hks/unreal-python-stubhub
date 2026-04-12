@@ -14,7 +14,7 @@ Rig Struct Scope
 
 <a id="unreal.RigStructScope.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

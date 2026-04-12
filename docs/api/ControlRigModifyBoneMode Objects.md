@@ -14,26 +14,26 @@ EControl Rig Modify Bone Mode
 
 <a id="unreal.ControlRigModifyBoneMode.OVERRIDE_LOCAL"></a>
 
-#### OVERRIDE_LOCAL
+#### OVERRIDE\_LOCAL
 
 0: Override existing local transform
 
 <a id="unreal.ControlRigModifyBoneMode.OVERRIDE_GLOBAL"></a>
 
-#### OVERRIDE_GLOBAL
+#### OVERRIDE\_GLOBAL
 
 1: Override existing global transform
 
 <a id="unreal.ControlRigModifyBoneMode.ADDITIVE_LOCAL"></a>
 
-#### ADDITIVE_LOCAL
+#### ADDITIVE\_LOCAL
 
 2: Additive to existing local transform.
 Input transform is added within the bone's space.
 
 <a id="unreal.ControlRigModifyBoneMode.ADDITIVE_GLOBAL"></a>
 
-#### ADDITIVE_GLOBAL
+#### ADDITIVE\_GLOBAL
 
 3: Additive to existing global transform.
 Input transform is added as a global offset in the root of the hierarchy.

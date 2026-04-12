@@ -19,7 +19,7 @@ included as menu options when right-clicking on a group of actors in the level e
 
 <a id="unreal.ActorActionUtility.get_supported_classes"></a>
 
-#### get_supported_classes
+#### get\_supported\_classes
 
 ```python
 def get_supported_classes() -> Array[Class]
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.ActorActionUtility.get_supported_class"></a>
 
-#### get_supported_class
+#### get\_supported\_class
 
 ```python
 def get_supported_class() -> Class

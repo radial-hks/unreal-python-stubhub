@@ -38,31 +38,31 @@ deprecated: 'PCGMedadataVectorOperation' was renamed to 'PCGMetadataVectorOperat
 
 <a id="unreal.PCGMedadataVectorOperation.ROTATE_AROUND_AXIS"></a>
 
-#### ROTATE_AROUND_AXIS
+#### ROTATE\_AROUND\_AXIS
 
 6
 
 <a id="unreal.PCGMedadataVectorOperation.TRANSFORM_DIRECTION"></a>
 
-#### TRANSFORM_DIRECTION
+#### TRANSFORM\_DIRECTION
 
 101
 
 <a id="unreal.PCGMedadataVectorOperation.TRANSFORM_LOCATION"></a>
 
-#### TRANSFORM_LOCATION
+#### TRANSFORM\_LOCATION
 
 102
 
 <a id="unreal.PCGMedadataVectorOperation.INVERSE_TRANSFORM_DIRECTION"></a>
 
-#### INVERSE_TRANSFORM_DIRECTION
+#### INVERSE\_TRANSFORM\_DIRECTION
 
 103
 
 <a id="unreal.PCGMedadataVectorOperation.INVERSE_TRANSFORM_LOCATION"></a>
 
-#### INVERSE_TRANSFORM_LOCATION
+#### INVERSE\_TRANSFORM\_LOCATION
 
 104
 

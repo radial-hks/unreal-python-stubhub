@@ -20,7 +20,7 @@ ENiagara Compile Error Severity
 
 <a id="unreal.NiagaraCompileErrorSeverity.LOG_ONLY"></a>
 
-#### LOG_ONLY
+#### LOG\_ONLY
 
 1
 

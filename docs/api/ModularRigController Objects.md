@@ -14,7 +14,7 @@ Modular Rig Controller
 
 <a id="unreal.ModularRigController.un_bind_module_variable"></a>
 
-#### un_bind_module_variable
+#### un\_bind\_module\_variable
 
 ```python
 def un_bind_module_variable(module_path: str,
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.ModularRigController.swap_modules_of_class"></a>
 
-#### swap_modules_of_class
+#### swap\_modules\_of\_class
 
 ```python
 def swap_modules_of_class(old_class: Class,
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.ModularRigController.swap_module_class"></a>
 
-#### swap_module_class
+#### swap\_module\_class
 
 ```python
 def swap_module_class(module_path: str,
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.ModularRigController.set_module_short_name"></a>
 
-#### set_module_short_name
+#### set\_module\_short\_name
 
 ```python
 def set_module_short_name(module_path: str,
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.ModularRigController.set_module_selection"></a>
 
-#### set_module_selection
+#### set\_module\_selection
 
 ```python
 def set_module_selection(module_paths: Array[str]) -> bool
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.ModularRigController.set_config_value_in_module"></a>
 
-#### set_config_value_in_module
+#### set\_config\_value\_in\_module
 
 ```python
 def set_config_value_in_module(module_path: str,
@@ -138,7 +138,7 @@ Returns:
 
 <a id="unreal.ModularRigController.select_module"></a>
 
-#### select_module
+#### select\_module
 
 ```python
 def select_module(module_path: str, selected: bool = True) -> bool
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.ModularRigController.reparent_module"></a>
 
-#### reparent_module
+#### reparent\_module
 
 ```python
 def reparent_module(module_path: str,
@@ -177,7 +177,7 @@ Returns:
 
 <a id="unreal.ModularRigController.rename_module"></a>
 
-#### rename_module
+#### rename\_module
 
 ```python
 def rename_module(module_path: str,
@@ -198,7 +198,7 @@ Returns:
 
 <a id="unreal.ModularRigController.mirror_module"></a>
 
-#### mirror_module
+#### mirror\_module
 
 ```python
 def mirror_module(module_path: str,
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.ModularRigController.get_selected_modules"></a>
 
-#### get_selected_modules
+#### get\_selected\_modules
 
 ```python
 def get_selected_modules() -> Array[str]
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.ModularRigController.disconnect_cyclic_connectors"></a>
 
-#### disconnect_cyclic_connectors
+#### disconnect\_cyclic\_connectors
 
 ```python
 def disconnect_cyclic_connectors(
@@ -251,7 +251,7 @@ Returns:
 
 <a id="unreal.ModularRigController.disconnect_connector"></a>
 
-#### disconnect_connector
+#### disconnect\_connector
 
 ```python
 def disconnect_connector(connector_key: RigElementKey,
@@ -272,7 +272,7 @@ Returns:
 
 <a id="unreal.ModularRigController.deselect_module"></a>
 
-#### deselect_module
+#### deselect\_module
 
 ```python
 def deselect_module(module_path: str) -> bool
@@ -289,7 +289,7 @@ Returns:
 
 <a id="unreal.ModularRigController.delete_module"></a>
 
-#### delete_module
+#### delete\_module
 
 ```python
 def delete_module(module_path: str, setup_undo: bool = True) -> bool
@@ -307,7 +307,7 @@ Returns:
 
 <a id="unreal.ModularRigController.connect_connector_to_element"></a>
 
-#### connect_connector_to_element
+#### connect\_connector\_to\_element
 
 ```python
 def connect_connector_to_element(connector_key: RigElementKey,
@@ -332,7 +332,7 @@ Returns:
 
 <a id="unreal.ModularRigController.can_connect_connector_to_element"></a>
 
-#### can_connect_connector_to_element
+#### can\_connect\_connector\_to\_element
 
 ```python
 def can_connect_connector_to_element(
@@ -354,7 +354,7 @@ Returns:
 
 <a id="unreal.ModularRigController.bind_module_variable"></a>
 
-#### bind_module_variable
+#### bind\_module\_variable
 
 ```python
 def bind_module_variable(module_path: str,
@@ -377,7 +377,7 @@ Returns:
 
 <a id="unreal.ModularRigController.auto_connect_secondary_connectors"></a>
 
-#### auto_connect_secondary_connectors
+#### auto\_connect\_secondary\_connectors
 
 ```python
 def auto_connect_secondary_connectors(connector_keys: Array[RigElementKey],
@@ -398,7 +398,7 @@ Returns:
 
 <a id="unreal.ModularRigController.auto_connect_modules"></a>
 
-#### auto_connect_modules
+#### auto\_connect\_modules
 
 ```python
 def auto_connect_modules(module_paths: Array[str],
@@ -419,7 +419,7 @@ Returns:
 
 <a id="unreal.ModularRigController.add_module"></a>
 
-#### add_module
+#### add\_module
 
 ```python
 def add_module(module_name: Name,

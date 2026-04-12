@@ -37,7 +37,7 @@ def settings(value: SubmixEffectReverbSettings) -> None
 
 <a id="unreal.SubmixEffectReverbPreset.set_settings_with_reverb_effect"></a>
 
-#### set_settings_with_reverb_effect
+#### set\_settings\_with\_reverb\_effect
 
 ```python
 def set_settings_with_reverb_effect(reverb_effect: ReverbEffect,
@@ -55,7 +55,7 @@ Args:
 
 <a id="unreal.SubmixEffectReverbPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectReverbSettings) -> None

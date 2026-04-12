@@ -19,7 +19,7 @@ Modular Synth Preset Bank Entry
 
 <a id="unreal.ModularSynthPresetBankEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -44,7 +44,7 @@ def __init__(
 
 <a id="unreal.ModularSynthPresetBankEntry.preset_name"></a>
 
-#### preset_name
+#### preset\_name
 
 ```python
 @property
@@ -55,7 +55,7 @@ def preset_name() -> str
 
 <a id="unreal.ModularSynthPresetBankEntry.preset_name"></a>
 
-#### preset_name
+#### preset\_name
 
 ```python
 @preset_name.setter

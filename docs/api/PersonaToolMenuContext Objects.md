@@ -13,7 +13,7 @@ Persona Tool Menu Context
 
 <a id="unreal.PersonaToolMenuContext.get_skeleton"></a>
 
-#### get_skeleton
+#### get\_skeleton
 
 ```python
 def get_skeleton() -> Skeleton
@@ -27,7 +27,7 @@ Returns:
 
 <a id="unreal.PersonaToolMenuContext.get_preview_mesh_component"></a>
 
-#### get_preview_mesh_component
+#### get\_preview\_mesh\_component
 
 ```python
 def get_preview_mesh_component() -> DebugSkelMeshComponent
@@ -41,7 +41,7 @@ Returns:
 
 <a id="unreal.PersonaToolMenuContext.get_mesh"></a>
 
-#### get_mesh
+#### get\_mesh
 
 ```python
 def get_mesh() -> SkeletalMesh
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.PersonaToolMenuContext.get_anim_blueprint"></a>
 
-#### get_anim_blueprint
+#### get\_anim\_blueprint
 
 ```python
 def get_anim_blueprint() -> AnimBlueprint
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.PersonaToolMenuContext.get_animation_asset"></a>
 
-#### get_animation_asset
+#### get\_animation\_asset
 
 ```python
 def get_animation_asset() -> AnimationAsset

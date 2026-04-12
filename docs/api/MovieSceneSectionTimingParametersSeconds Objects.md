@@ -32,7 +32,7 @@ InputTime (relative to section start)
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(play_rate: MovieSceneTimeWarpVariant = [1.000000],
@@ -46,7 +46,7 @@ def __init__(play_rate: MovieSceneTimeWarpVariant = [1.000000],
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.play_rate"></a>
 
-#### play_rate
+#### play\_rate
 
 ```python
 @property
@@ -57,7 +57,7 @@ def play_rate() -> MovieSceneTimeWarpVariant
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.play_rate"></a>
 
-#### play_rate
+#### play\_rate
 
 ```python
 @play_rate.setter
@@ -66,7 +66,7 @@ def play_rate(value: MovieSceneTimeWarpVariant) -> None
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.inner_start_offset"></a>
 
-#### inner_start_offset
+#### inner\_start\_offset
 
 ```python
 @property
@@ -77,7 +77,7 @@ def inner_start_offset() -> float
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.inner_start_offset"></a>
 
-#### inner_start_offset
+#### inner\_start\_offset
 
 ```python
 @inner_start_offset.setter
@@ -86,7 +86,7 @@ def inner_start_offset(value: float) -> None
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.inner_end_offset"></a>
 
-#### inner_end_offset
+#### inner\_end\_offset
 
 ```python
 @property
@@ -97,7 +97,7 @@ def inner_end_offset() -> float
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.inner_end_offset"></a>
 
-#### inner_end_offset
+#### inner\_end\_offset
 
 ```python
 @inner_end_offset.setter
@@ -106,7 +106,7 @@ def inner_end_offset(value: float) -> None
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.first_loop_start_offset"></a>
 
-#### first_loop_start_offset
+#### first\_loop\_start\_offset
 
 ```python
 @property
@@ -117,7 +117,7 @@ def first_loop_start_offset() -> float
 
 <a id="unreal.MovieSceneSectionTimingParametersSeconds.first_loop_start_offset"></a>
 
-#### first_loop_start_offset
+#### first\_loop\_start\_offset
 
 ```python
 @first_loop_start_offset.setter

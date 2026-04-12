@@ -13,7 +13,7 @@ A library of the most common animation blueprint functions.
 
 <a id="unreal.AnimGraphLibrary.two_bone_ik"></a>
 
-#### two_bone_ik
+#### two\_bone\_ik
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.k2_start_profiling_timer"></a>
 
-#### k2_start_profiling_timer
+#### k2\_start\_profiling\_timer
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ This function starts measuring the time for a profiling bracket
 
 <a id="unreal.AnimGraphLibrary.make_vector_from_perlin_noise"></a>
 
-#### make_vector_from_perlin_noise
+#### make\_vector\_from\_perlin\_noise
 
 ```python
 @classmethod
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.make_float_from_perlin_noise"></a>
 
-#### make_float_from_perlin_noise
+#### make\_float\_from\_perlin\_noise
 
 ```python
 @classmethod
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.look_at"></a>
 
-#### look_at
+#### look\_at
 
 ```python
 @classmethod
@@ -147,7 +147,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.k2_end_profiling_timer"></a>
 
-#### k2_end_profiling_timer
+#### k2\_end\_profiling\_timer
 
 ```python
 @classmethod
@@ -169,7 +169,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.distance_between_sockets"></a>
 
-#### distance_between_sockets
+#### distance\_between\_sockets
 
 ```python
 @classmethod
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.direction_between_sockets"></a>
 
-#### direction_between_sockets
+#### direction\_between\_sockets
 
 ```python
 @classmethod
@@ -228,7 +228,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.calculate_velocity_from_sockets"></a>
 
-#### calculate_velocity_from_sockets
+#### calculate\_velocity\_from\_sockets
 
 ```python
 @classmethod
@@ -275,7 +275,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.calculate_velocity_from_position_history"></a>
 
-#### calculate_velocity_from_position_history
+#### calculate\_velocity\_from\_position\_history
 
 ```python
 @classmethod
@@ -308,7 +308,7 @@ Returns:
 
 <a id="unreal.AnimGraphLibrary.calculate_direction"></a>
 
-#### calculate_direction
+#### calculate\_direction
 
 ```python
 @classmethod

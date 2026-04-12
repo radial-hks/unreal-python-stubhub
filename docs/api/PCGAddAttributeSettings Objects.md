@@ -39,7 +39,7 @@ Can also add all the attributes coming from the other Attribute Set.
 
 <a id="unreal.PCGAddAttributeSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -50,7 +50,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAddAttributeSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter
@@ -59,7 +59,7 @@ def input_source(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGAddAttributeSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @property
@@ -70,7 +70,7 @@ def output_target() -> PCGAttributePropertyOutputSelector
 
 <a id="unreal.PCGAddAttributeSettings.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @output_target.setter
@@ -79,7 +79,7 @@ def output_target(value: PCGAttributePropertyOutputSelector) -> None
 
 <a id="unreal.PCGAddAttributeSettings.attribute_types"></a>
 
-#### attribute_types
+#### attribute\_types
 
 ```python
 @property
@@ -90,7 +90,7 @@ def attribute_types() -> PCGMetadataTypesConstantStruct
 
 <a id="unreal.PCGAddAttributeSettings.attribute_types"></a>
 
-#### attribute_types
+#### attribute\_types
 
 ```python
 @attribute_types.setter
@@ -99,7 +99,7 @@ def attribute_types(value: PCGMetadataTypesConstantStruct) -> None
 
 <a id="unreal.PCGAddAttributeSettings.copy_all_attributes"></a>
 
-#### copy_all_attributes
+#### copy\_all\_attributes
 
 ```python
 @property
@@ -110,7 +110,7 @@ def copy_all_attributes() -> bool
 
 <a id="unreal.PCGAddAttributeSettings.copy_all_attributes"></a>
 
-#### copy_all_attributes
+#### copy\_all\_attributes
 
 ```python
 @copy_all_attributes.setter

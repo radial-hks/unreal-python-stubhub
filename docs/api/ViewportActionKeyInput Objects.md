@@ -18,7 +18,7 @@ Represents a generic action
 
 <a id="unreal.ViewportActionKeyInput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(action_type: Name = "None",
@@ -27,7 +27,7 @@ def __init__(action_type: Name = "None",
 
 <a id="unreal.ViewportActionKeyInput.action_type"></a>
 
-#### action_type
+#### action\_type
 
 ```python
 @property

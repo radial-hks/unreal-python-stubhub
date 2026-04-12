@@ -13,7 +13,7 @@ Interchange Manager
 
 <a id="unreal.InterchangeManager.scripted_import_scene_async"></a>
 
-#### scripted_import_scene_async
+#### scripted\_import\_scene\_async
 
 ```python
 def scripted_import_scene_async(
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.InterchangeManager.scripted_import_asset_async"></a>
 
-#### scripted_import_asset_async
+#### scripted\_import\_asset\_async
 
 ```python
 def scripted_import_asset_async(
@@ -57,7 +57,7 @@ Returns:
 
 <a id="unreal.InterchangeManager.import_scene"></a>
 
-#### import_scene
+#### import\_scene
 
 ```python
 def import_scene(content_path: str, source_data: InterchangeSourceData,
@@ -79,7 +79,7 @@ Returns:
 
 <a id="unreal.InterchangeManager.import_asset"></a>
 
-#### import_asset
+#### import\_asset
 
 ```python
 def import_asset(
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.InterchangeManager.get_registered_factory_class"></a>
 
-#### get_registered_factory_class
+#### get\_registered\_factory\_class
 
 ```python
 def get_registered_factory_class(class_to_make: Class) -> Class
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.InterchangeManager.get_interchange_manager_scripted"></a>
 
-#### get_interchange_manager_scripted
+#### get\_interchange\_manager\_scripted
 
 ```python
 @classmethod
@@ -139,7 +139,7 @@ Returns:
 
 <a id="unreal.InterchangeManager.export_scene"></a>
 
-#### export_scene
+#### export\_scene
 
 ```python
 def export_scene(world: Object, is_automated: bool = False) -> bool
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.InterchangeManager.export_asset"></a>
 
-#### export_asset
+#### export\_asset
 
 ```python
 def export_asset(asset: Object, is_automated: bool = False) -> bool
@@ -175,7 +175,7 @@ Returns:
 
 <a id="unreal.InterchangeManager.create_source_data"></a>
 
-#### create_source_data
+#### create\_source\_data
 
 ```python
 @classmethod

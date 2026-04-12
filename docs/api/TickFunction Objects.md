@@ -26,7 +26,7 @@ Abstract Base class for all tick functions.
 
 <a id="unreal.TickFunction.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

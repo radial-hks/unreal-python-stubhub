@@ -13,7 +13,7 @@ Default dynamic binding resolver library, with several basic resolver functions.
 
 <a id="unreal.BuiltInDynamicBindingResolverLibrary.resolve_to_player_pawn"></a>
 
-#### resolve_to_player_pawn
+#### resolve\_to\_player\_pawn
 
 ```python
 @classmethod

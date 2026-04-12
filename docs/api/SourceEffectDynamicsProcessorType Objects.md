@@ -38,7 +38,7 @@ ESource Effect Dynamics Processor Type
 
 <a id="unreal.SourceEffectDynamicsProcessorType.UPWARDS_COMPRESSOR"></a>
 
-#### UPWARDS_COMPRESSOR
+#### UPWARDS\_COMPRESSOR
 
 4
 

@@ -170,7 +170,7 @@ def mobility() -> ComponentMobility
 
 <a id="unreal.DatasmithAreaLightActor.light_type"></a>
 
-#### light_type
+#### light\_type
 
 ```python
 @property
@@ -181,7 +181,7 @@ def light_type() -> DatasmithAreaLightActorType
 
 <a id="unreal.DatasmithAreaLightActor.light_type"></a>
 
-#### light_type
+#### light\_type
 
 ```python
 @light_type.setter
@@ -190,7 +190,7 @@ def light_type(value: DatasmithAreaLightActorType) -> None
 
 <a id="unreal.DatasmithAreaLightActor.light_shape"></a>
 
-#### light_shape
+#### light\_shape
 
 ```python
 @property
@@ -201,7 +201,7 @@ def light_shape() -> DatasmithAreaLightActorShape
 
 <a id="unreal.DatasmithAreaLightActor.light_shape"></a>
 
-#### light_shape
+#### light\_shape
 
 ```python
 @light_shape.setter
@@ -250,7 +250,7 @@ def intensity(value: float) -> None
 
 <a id="unreal.DatasmithAreaLightActor.intensity_units"></a>
 
-#### intensity_units
+#### intensity\_units
 
 ```python
 @property
@@ -261,7 +261,7 @@ def intensity_units() -> LightUnits
 
 <a id="unreal.DatasmithAreaLightActor.intensity_units"></a>
 
-#### intensity_units
+#### intensity\_units
 
 ```python
 @intensity_units.setter
@@ -310,7 +310,7 @@ def temperature(value: float) -> None
 
 <a id="unreal.DatasmithAreaLightActor.ies_texture"></a>
 
-#### ies_texture
+#### ies\_texture
 
 ```python
 @property
@@ -321,7 +321,7 @@ def ies_texture() -> TextureLightProfile
 
 <a id="unreal.DatasmithAreaLightActor.ies_texture"></a>
 
-#### ies_texture
+#### ies\_texture
 
 ```python
 @ies_texture.setter
@@ -330,7 +330,7 @@ def ies_texture(value: TextureLightProfile) -> None
 
 <a id="unreal.DatasmithAreaLightActor.use_ies_brightness"></a>
 
-#### use_ies_brightness
+#### use\_ies\_brightness
 
 ```python
 @property
@@ -341,7 +341,7 @@ def use_ies_brightness() -> bool
 
 <a id="unreal.DatasmithAreaLightActor.use_ies_brightness"></a>
 
-#### use_ies_brightness
+#### use\_ies\_brightness
 
 ```python
 @use_ies_brightness.setter
@@ -350,7 +350,7 @@ def use_ies_brightness(value: bool) -> None
 
 <a id="unreal.DatasmithAreaLightActor.ies_brightness_scale"></a>
 
-#### ies_brightness_scale
+#### ies\_brightness\_scale
 
 ```python
 @property
@@ -361,7 +361,7 @@ def ies_brightness_scale() -> float
 
 <a id="unreal.DatasmithAreaLightActor.ies_brightness_scale"></a>
 
-#### ies_brightness_scale
+#### ies\_brightness\_scale
 
 ```python
 @ies_brightness_scale.setter
@@ -390,7 +390,7 @@ def rotation(value: Rotator) -> None
 
 <a id="unreal.DatasmithAreaLightActor.source_radius"></a>
 
-#### source_radius
+#### source\_radius
 
 ```python
 @property
@@ -401,7 +401,7 @@ def source_radius() -> float
 
 <a id="unreal.DatasmithAreaLightActor.source_radius"></a>
 
-#### source_radius
+#### source\_radius
 
 ```python
 @source_radius.setter
@@ -410,7 +410,7 @@ def source_radius(value: float) -> None
 
 <a id="unreal.DatasmithAreaLightActor.source_length"></a>
 
-#### source_length
+#### source\_length
 
 ```python
 @property
@@ -421,7 +421,7 @@ def source_length() -> float
 
 <a id="unreal.DatasmithAreaLightActor.source_length"></a>
 
-#### source_length
+#### source\_length
 
 ```python
 @source_length.setter
@@ -430,7 +430,7 @@ def source_length(value: float) -> None
 
 <a id="unreal.DatasmithAreaLightActor.attenuation_radius"></a>
 
-#### attenuation_radius
+#### attenuation\_radius
 
 ```python
 @property
@@ -441,7 +441,7 @@ def attenuation_radius() -> float
 
 <a id="unreal.DatasmithAreaLightActor.attenuation_radius"></a>
 
-#### attenuation_radius
+#### attenuation\_radius
 
 ```python
 @attenuation_radius.setter
@@ -450,7 +450,7 @@ def attenuation_radius(value: float) -> None
 
 <a id="unreal.DatasmithAreaLightActor.spotlight_inner_angle"></a>
 
-#### spotlight_inner_angle
+#### spotlight\_inner\_angle
 
 ```python
 @property
@@ -461,7 +461,7 @@ def spotlight_inner_angle() -> float
 
 <a id="unreal.DatasmithAreaLightActor.spotlight_inner_angle"></a>
 
-#### spotlight_inner_angle
+#### spotlight\_inner\_angle
 
 ```python
 @spotlight_inner_angle.setter
@@ -470,7 +470,7 @@ def spotlight_inner_angle(value: float) -> None
 
 <a id="unreal.DatasmithAreaLightActor.spotlight_outer_angle"></a>
 
-#### spotlight_outer_angle
+#### spotlight\_outer\_angle
 
 ```python
 @property
@@ -481,7 +481,7 @@ def spotlight_outer_angle() -> float
 
 <a id="unreal.DatasmithAreaLightActor.spotlight_outer_angle"></a>
 
-#### spotlight_outer_angle
+#### spotlight\_outer\_angle
 
 ```python
 @spotlight_outer_angle.setter

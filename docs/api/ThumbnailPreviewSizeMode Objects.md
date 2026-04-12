@@ -13,13 +13,13 @@ EThumbnail Preview Size Mode
 
 <a id="unreal.ThumbnailPreviewSizeMode.MATCH_DESIGNER_MODE"></a>
 
-#### MATCH_DESIGNER_MODE
+#### MATCH\_DESIGNER\_MODE
 
 0
 
 <a id="unreal.ThumbnailPreviewSizeMode.FILL_SCREEN"></a>
 
-#### FILL_SCREEN
+#### FILL\_SCREEN
 
 1
 

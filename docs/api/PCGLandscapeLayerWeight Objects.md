@@ -19,7 +19,7 @@ PCGLandscape Layer Weight
 
 <a id="unreal.PCGLandscapeLayerWeight.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None", weight: float = 0.000000) -> None

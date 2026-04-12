@@ -50,13 +50,13 @@ deprecated: 'PCGMedadataTrigOperation' was renamed to 'PCGMetadataTrigOperation'
 
 <a id="unreal.PCGMedadataTrigOperation.DEG_TO_RAD"></a>
 
-#### DEG_TO_RAD
+#### DEG\_TO\_RAD
 
 7
 
 <a id="unreal.PCGMedadataTrigOperation.RAD_TO_DEG"></a>
 
-#### RAD_TO_DEG
+#### RAD\_TO\_DEG
 
 8
 

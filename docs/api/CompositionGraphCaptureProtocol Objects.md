@@ -22,7 +22,7 @@ Composition Graph Capture Protocol
 
 <a id="unreal.CompositionGraphCaptureProtocol.include_render_passes"></a>
 
-#### include_render_passes
+#### include\_render\_passes
 
 ```python
 @property
@@ -33,7 +33,7 @@ def include_render_passes() -> CompositionGraphCapturePasses
 
 <a id="unreal.CompositionGraphCaptureProtocol.include_render_passes"></a>
 
-#### include_render_passes
+#### include\_render\_passes
 
 ```python
 @include_render_passes.setter
@@ -42,7 +42,7 @@ def include_render_passes(value: CompositionGraphCapturePasses) -> None
 
 <a id="unreal.CompositionGraphCaptureProtocol.capture_frames_in_hdr"></a>
 
-#### capture_frames_in_hdr
+#### capture\_frames\_in\_hdr
 
 ```python
 @property
@@ -53,7 +53,7 @@ def capture_frames_in_hdr() -> bool
 
 <a id="unreal.CompositionGraphCaptureProtocol.capture_frames_in_hdr"></a>
 
-#### capture_frames_in_hdr
+#### capture\_frames\_in\_hdr
 
 ```python
 @capture_frames_in_hdr.setter
@@ -62,7 +62,7 @@ def capture_frames_in_hdr(value: bool) -> None
 
 <a id="unreal.CompositionGraphCaptureProtocol.hdr_compression_quality"></a>
 
-#### hdr_compression_quality
+#### hdr\_compression\_quality
 
 ```python
 @property
@@ -73,7 +73,7 @@ def hdr_compression_quality() -> int
 
 <a id="unreal.CompositionGraphCaptureProtocol.hdr_compression_quality"></a>
 
-#### hdr_compression_quality
+#### hdr\_compression\_quality
 
 ```python
 @hdr_compression_quality.setter
@@ -82,7 +82,7 @@ def hdr_compression_quality(value: int) -> None
 
 <a id="unreal.CompositionGraphCaptureProtocol.capture_gamut"></a>
 
-#### capture_gamut
+#### capture\_gamut
 
 ```python
 @property
@@ -93,7 +93,7 @@ def capture_gamut() -> HDRCaptureGamut
 
 <a id="unreal.CompositionGraphCaptureProtocol.capture_gamut"></a>
 
-#### capture_gamut
+#### capture\_gamut
 
 ```python
 @capture_gamut.setter
@@ -102,7 +102,7 @@ def capture_gamut(value: HDRCaptureGamut) -> None
 
 <a id="unreal.CompositionGraphCaptureProtocol.post_processing_material"></a>
 
-#### post_processing_material
+#### post\_processing\_material
 
 ```python
 @property
@@ -113,7 +113,7 @@ def post_processing_material() -> SoftObjectPath
 
 <a id="unreal.CompositionGraphCaptureProtocol.post_processing_material"></a>
 
-#### post_processing_material
+#### post\_processing\_material
 
 ```python
 @post_processing_material.setter
@@ -122,7 +122,7 @@ def post_processing_material(value: SoftObjectPath) -> None
 
 <a id="unreal.CompositionGraphCaptureProtocol.disable_screen_percentage"></a>
 
-#### disable_screen_percentage
+#### disable\_screen\_percentage
 
 ```python
 @property
@@ -133,7 +133,7 @@ def disable_screen_percentage() -> bool
 
 <a id="unreal.CompositionGraphCaptureProtocol.disable_screen_percentage"></a>
 
-#### disable_screen_percentage
+#### disable\_screen\_percentage
 
 ```python
 @disable_screen_percentage.setter

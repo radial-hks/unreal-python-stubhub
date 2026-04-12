@@ -13,19 +13,19 @@ EMesh Approximation Base Capping Type
 
 <a id="unreal.MeshApproximationBaseCappingType.NO_BASE_CAPPING"></a>
 
-#### NO_BASE_CAPPING
+#### NO\_BASE\_CAPPING
 
 0
 
 <a id="unreal.MeshApproximationBaseCappingType.CONVEX_POLYGON"></a>
 
-#### CONVEX_POLYGON
+#### CONVEX\_POLYGON
 
 1
 
 <a id="unreal.MeshApproximationBaseCappingType.CONVEX_SOLID"></a>
 
-#### CONVEX_SOLID
+#### CONVEX\_SOLID
 
 2
 

@@ -21,7 +21,7 @@ Rig VMFour Point Bezier
 
 <a id="unreal.RigVMFourPointBezier.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

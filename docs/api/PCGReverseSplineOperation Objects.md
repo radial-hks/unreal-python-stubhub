@@ -20,13 +20,13 @@ EPCGReverse Spline Operation
 
 <a id="unreal.PCGReverseSplineOperation.FORCE_CLOCKWISE"></a>
 
-#### FORCE_CLOCKWISE
+#### FORCE\_CLOCKWISE
 
 1: Will reverse the spline points if they are counter clockwise.
 
 <a id="unreal.PCGReverseSplineOperation.FORCE_COUNTER_CLOCKWISE"></a>
 
-#### FORCE_COUNTER_CLOCKWISE
+#### FORCE\_COUNTER\_CLOCKWISE
 
 2: Will reverse the spline points if they are clockwise.
 

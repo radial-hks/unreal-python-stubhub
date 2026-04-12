@@ -14,7 +14,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\CoreUObject\Publ
 
 <a id="unreal.SoftObjectPath.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(path_string: str = "") -> None

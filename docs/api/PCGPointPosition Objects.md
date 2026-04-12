@@ -14,13 +14,13 @@ EPCGPoint Position
 
 <a id="unreal.PCGPointPosition.CELL_CENTER"></a>
 
-#### CELL_CENTER
+#### CELL\_CENTER
 
 0
 
 <a id="unreal.PCGPointPosition.CELL_CORNERS"></a>
 
-#### CELL_CORNERS
+#### CELL\_CORNERS
 
 1
 

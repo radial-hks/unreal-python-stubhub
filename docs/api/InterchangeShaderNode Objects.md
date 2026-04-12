@@ -14,7 +14,7 @@ A shader node is a named set of inputs and outputs. It can be connected to other
 
 <a id="unreal.InterchangeShaderNode.set_custom_shader_type"></a>
 
-#### set_custom_shader_type
+#### set\_custom\_shader\_type
 
 ```python
 def set_custom_shader_type(attribute_value: str) -> bool
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderNode.get_custom_shader_type"></a>
 
-#### get_custom_shader_type
+#### get\_custom\_shader\_type
 
 ```python
 def get_custom_shader_type() -> Optional[str]
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderNode.add_string_input"></a>
 
-#### add_string_input
+#### add\_string\_input
 
 ```python
 def add_string_input(input_name: str,
@@ -71,7 +71,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderNode.add_linear_color_input"></a>
 
-#### add_linear_color_input
+#### add\_linear\_color\_input
 
 ```python
 def add_linear_color_input(input_name: str,
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.InterchangeShaderNode.add_float_input"></a>
 
-#### add_float_input
+#### add\_float\_input
 
 ```python
 def add_float_input(input_name: str,

@@ -23,7 +23,7 @@ PCGSubdivision Module Attribute Names
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(symbol_attribute_name: Name = "None",
@@ -36,7 +36,7 @@ def __init__(symbol_attribute_name: Name = "None",
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.symbol_attribute_name"></a>
 
-#### symbol_attribute_name
+#### symbol\_attribute\_name
 
 ```python
 @property
@@ -47,7 +47,7 @@ def symbol_attribute_name() -> Name
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.symbol_attribute_name"></a>
 
-#### symbol_attribute_name
+#### symbol\_attribute\_name
 
 ```python
 @symbol_attribute_name.setter
@@ -56,7 +56,7 @@ def symbol_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.size_attribute_name"></a>
 
-#### size_attribute_name
+#### size\_attribute\_name
 
 ```python
 @property
@@ -67,7 +67,7 @@ def size_attribute_name() -> Name
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.size_attribute_name"></a>
 
-#### size_attribute_name
+#### size\_attribute\_name
 
 ```python
 @size_attribute_name.setter
@@ -76,7 +76,7 @@ def size_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.provide_scalable"></a>
 
-#### provide_scalable
+#### provide\_scalable
 
 ```python
 @property
@@ -87,7 +87,7 @@ def provide_scalable() -> bool
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.provide_scalable"></a>
 
-#### provide_scalable
+#### provide\_scalable
 
 ```python
 @provide_scalable.setter
@@ -96,7 +96,7 @@ def provide_scalable(value: bool) -> None
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.scalable_attribute_name"></a>
 
-#### scalable_attribute_name
+#### scalable\_attribute\_name
 
 ```python
 @property
@@ -107,7 +107,7 @@ def scalable_attribute_name() -> Name
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.scalable_attribute_name"></a>
 
-#### scalable_attribute_name
+#### scalable\_attribute\_name
 
 ```python
 @scalable_attribute_name.setter
@@ -116,7 +116,7 @@ def scalable_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.provide_debug_color"></a>
 
-#### provide_debug_color
+#### provide\_debug\_color
 
 ```python
 @property
@@ -127,7 +127,7 @@ def provide_debug_color() -> bool
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.provide_debug_color"></a>
 
-#### provide_debug_color
+#### provide\_debug\_color
 
 ```python
 @provide_debug_color.setter
@@ -136,7 +136,7 @@ def provide_debug_color(value: bool) -> None
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.debug_color_attribute_name"></a>
 
-#### debug_color_attribute_name
+#### debug\_color\_attribute\_name
 
 ```python
 @property
@@ -147,7 +147,7 @@ def debug_color_attribute_name() -> Name
 
 <a id="unreal.PCGSubdivisionModuleAttributeNames.debug_color_attribute_name"></a>
 
-#### debug_color_attribute_name
+#### debug\_color\_attribute\_name
 
 ```python
 @debug_color_attribute_name.setter

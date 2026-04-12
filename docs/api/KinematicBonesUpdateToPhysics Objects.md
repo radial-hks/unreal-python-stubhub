@@ -15,13 +15,13 @@ This enum defines how you'd like to update bones to physics world.
 
 <a id="unreal.KinematicBonesUpdateToPhysics.SKIP_SIMULATING_BONES"></a>
 
-#### SKIP_SIMULATING_BONES
+#### SKIP\_SIMULATING\_BONES
 
 0: Update any bones that are not simulating.
 
 <a id="unreal.KinematicBonesUpdateToPhysics.SKIP_ALL_BONES"></a>
 
-#### SKIP_ALL_BONES
+#### SKIP\_ALL\_BONES
 
 1: Skip physics update from kinematic changes.
 

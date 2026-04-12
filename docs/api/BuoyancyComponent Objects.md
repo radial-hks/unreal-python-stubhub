@@ -56,7 +56,7 @@ def pontoons(value: Array[SphericalPontoon]) -> None
 
 <a id="unreal.BuoyancyComponent.on_entered_water_delegate"></a>
 
-#### on_entered_water_delegate
+#### on\_entered\_water\_delegate
 
 ```python
 @property
@@ -67,7 +67,7 @@ def on_entered_water_delegate() -> OnPontoonEnteredWater
 
 <a id="unreal.BuoyancyComponent.on_entered_water_delegate"></a>
 
-#### on_entered_water_delegate
+#### on\_entered\_water\_delegate
 
 ```python
 @on_entered_water_delegate.setter
@@ -76,7 +76,7 @@ def on_entered_water_delegate(value: OnPontoonEnteredWater) -> None
 
 <a id="unreal.BuoyancyComponent.on_exited_water_delegate"></a>
 
-#### on_exited_water_delegate
+#### on\_exited\_water\_delegate
 
 ```python
 @property
@@ -87,7 +87,7 @@ def on_exited_water_delegate() -> OnPontoonExitedWater
 
 <a id="unreal.BuoyancyComponent.on_exited_water_delegate"></a>
 
-#### on_exited_water_delegate
+#### on\_exited\_water\_delegate
 
 ```python
 @on_exited_water_delegate.setter
@@ -96,7 +96,7 @@ def on_exited_water_delegate(value: OnPontoonExitedWater) -> None
 
 <a id="unreal.BuoyancyComponent.buoyancy_data"></a>
 
-#### buoyancy_data
+#### buoyancy\_data
 
 ```python
 @property
@@ -107,7 +107,7 @@ def buoyancy_data() -> BuoyancyData
 
 <a id="unreal.BuoyancyComponent.on_pontoon_exited_water"></a>
 
-#### on_pontoon_exited_water
+#### on\_pontoon\_exited\_water
 
 ```python
 def on_pontoon_exited_water(pontoon: SphericalPontoon) -> None
@@ -121,7 +121,7 @@ Args:
 
 <a id="unreal.BuoyancyComponent.on_pontoon_entered_water"></a>
 
-#### on_pontoon_entered_water
+#### on\_pontoon\_entered\_water
 
 ```python
 def on_pontoon_entered_water(pontoon: SphericalPontoon) -> None
@@ -135,7 +135,7 @@ Args:
 
 <a id="unreal.BuoyancyComponent.is_overlapping_water_body"></a>
 
-#### is_overlapping_water_body
+#### is\_overlapping\_water\_body
 
 ```python
 def is_overlapping_water_body() -> bool
@@ -149,7 +149,7 @@ Returns:
 
 <a id="unreal.BuoyancyComponent.is_in_water_body"></a>
 
-#### is_in_water_body
+#### is\_in\_water\_body
 
 ```python
 def is_in_water_body() -> bool
@@ -163,7 +163,7 @@ Returns:
 
 <a id="unreal.BuoyancyComponent.get_last_water_surface_info"></a>
 
-#### get_last_water_surface_info
+#### get\_last\_water\_surface\_info
 
 ```python
 def get_last_water_surface_info(
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.BuoyancyComponent.get_current_water_body_components"></a>
 
-#### get_current_water_body_components
+#### get\_current\_water\_body\_components
 
 ```python
 def get_current_water_body_components() -> Array[WaterBodyComponent]

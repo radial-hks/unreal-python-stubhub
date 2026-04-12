@@ -19,13 +19,13 @@ EReflected and Refracted Ray Traced Shadows
 
 <a id="unreal.ReflectedAndRefractedRayTracedShadows.HARD_SHADOWS"></a>
 
-#### HARD_SHADOWS
+#### HARD\_SHADOWS
 
 1
 
 <a id="unreal.ReflectedAndRefractedRayTracedShadows.AREA_SHADOWS"></a>
 
-#### AREA_SHADOWS
+#### AREA\_SHADOWS
 
 2
 

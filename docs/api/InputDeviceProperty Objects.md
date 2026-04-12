@@ -30,7 +30,7 @@ example.
 
 <a id="unreal.InputDeviceProperty.property_duration"></a>
 
-#### property_duration
+#### property\_duration
 
 ```python
 @property
@@ -45,7 +45,7 @@ before being removed by the Input Device Subsystem.
 
 <a id="unreal.InputDeviceProperty.reset_device_property"></a>
 
-#### reset_device_property
+#### reset\_device\_property
 
 ```python
 def reset_device_property(platform_user: PlatformUserId,
@@ -63,7 +63,7 @@ Args:
 
 <a id="unreal.InputDeviceProperty.evaluate_device_property"></a>
 
-#### evaluate_device_property
+#### evaluate\_device\_property
 
 ```python
 def evaluate_device_property(platform_user: PlatformUserId,

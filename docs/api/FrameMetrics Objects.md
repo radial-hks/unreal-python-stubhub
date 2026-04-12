@@ -20,7 +20,7 @@ Metrics that correspond to a particular frame
 
 <a id="unreal.FrameMetrics.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(total_elapsed_time: float = 0.000000,
@@ -31,7 +31,7 @@ def __init__(total_elapsed_time: float = 0.000000,
 
 <a id="unreal.FrameMetrics.total_elapsed_time"></a>
 
-#### total_elapsed_time
+#### total\_elapsed\_time
 
 ```python
 @property
@@ -42,7 +42,7 @@ def total_elapsed_time() -> float
 
 <a id="unreal.FrameMetrics.frame_delta"></a>
 
-#### frame_delta
+#### frame\_delta
 
 ```python
 @property
@@ -53,7 +53,7 @@ def frame_delta() -> float
 
 <a id="unreal.FrameMetrics.frame_number"></a>
 
-#### frame_number
+#### frame\_number
 
 ```python
 @property
@@ -64,7 +64,7 @@ def frame_number() -> int
 
 <a id="unreal.FrameMetrics.num_dropped_frames"></a>
 
-#### num_dropped_frames
+#### num\_dropped\_frames
 
 ```python
 @property

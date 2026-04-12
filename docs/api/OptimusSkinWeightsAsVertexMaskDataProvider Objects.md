@@ -18,7 +18,7 @@ Compute Framework Data Provider for reading skeletal mesh.
 
 <a id="unreal.OptimusSkinWeightsAsVertexMaskDataProvider.skeletal_mesh"></a>
 
-#### skeletal_mesh
+#### skeletal\_mesh
 
 ```python
 @property
@@ -29,7 +29,7 @@ def skeletal_mesh() -> SkeletalMeshComponent
 
 <a id="unreal.OptimusSkinWeightsAsVertexMaskDataProvider.skeletal_mesh"></a>
 
-#### skeletal_mesh
+#### skeletal\_mesh
 
 ```python
 @skeletal_mesh.setter

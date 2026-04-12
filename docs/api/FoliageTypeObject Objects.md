@@ -17,7 +17,7 @@ A wrapper struct used to allow the use of either FoliageType assets or FoliageTy
 
 <a id="unreal.FoliageTypeObject.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

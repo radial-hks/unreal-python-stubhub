@@ -19,7 +19,7 @@ Lens Imperfection Settings
 
 <a id="unreal.LensImperfectionSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -31,7 +31,7 @@ def __init__(
 
 <a id="unreal.LensImperfectionSettings.dirt_mask"></a>
 
-#### dirt_mask
+#### dirt\_mask
 
 ```python
 @property
@@ -42,7 +42,7 @@ def dirt_mask() -> Texture
 
 <a id="unreal.LensImperfectionSettings.dirt_mask"></a>
 
-#### dirt_mask
+#### dirt\_mask
 
 ```python
 @dirt_mask.setter
@@ -51,7 +51,7 @@ def dirt_mask(value: Texture) -> None
 
 <a id="unreal.LensImperfectionSettings.dirt_mask_intensity"></a>
 
-#### dirt_mask_intensity
+#### dirt\_mask\_intensity
 
 ```python
 @property
@@ -62,7 +62,7 @@ def dirt_mask_intensity() -> float
 
 <a id="unreal.LensImperfectionSettings.dirt_mask_intensity"></a>
 
-#### dirt_mask_intensity
+#### dirt\_mask\_intensity
 
 ```python
 @dirt_mask_intensity.setter
@@ -71,7 +71,7 @@ def dirt_mask_intensity(value: float) -> None
 
 <a id="unreal.LensImperfectionSettings.dirt_mask_tint"></a>
 
-#### dirt_mask_tint
+#### dirt\_mask\_tint
 
 ```python
 @property
@@ -82,7 +82,7 @@ def dirt_mask_tint() -> LinearColor
 
 <a id="unreal.LensImperfectionSettings.dirt_mask_tint"></a>
 
-#### dirt_mask_tint
+#### dirt\_mask\_tint
 
 ```python
 @dirt_mask_tint.setter

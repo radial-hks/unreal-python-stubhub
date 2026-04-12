@@ -37,7 +37,7 @@ PCGOuter Intersection Settings
 
 <a id="unreal.PCGOuterIntersectionSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @property
@@ -48,7 +48,7 @@ def density_function() -> PCGIntersectionDensityFunction
 
 <a id="unreal.PCGOuterIntersectionSettings.density_function"></a>
 
-#### density_function
+#### density\_function
 
 ```python
 @density_function.setter
@@ -57,7 +57,7 @@ def density_function(value: PCGIntersectionDensityFunction) -> None
 
 <a id="unreal.PCGOuterIntersectionSettings.ignore_pins_with_no_input"></a>
 
-#### ignore_pins_with_no_input
+#### ignore\_pins\_with\_no\_input
 
 ```python
 @property
@@ -69,7 +69,7 @@ calculation, which would otherwise result in an empty result.
 
 <a id="unreal.PCGOuterIntersectionSettings.ignore_pins_with_no_input"></a>
 
-#### ignore_pins_with_no_input
+#### ignore\_pins\_with\_no\_input
 
 ```python
 @ignore_pins_with_no_input.setter
@@ -78,7 +78,7 @@ def ignore_pins_with_no_input(value: bool) -> None
 
 <a id="unreal.PCGOuterIntersectionSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @property
@@ -89,7 +89,7 @@ def keep_zero_density_points() -> bool
 
 <a id="unreal.PCGOuterIntersectionSettings.keep_zero_density_points"></a>
 
-#### keep_zero_density_points
+#### keep\_zero\_density\_points
 
 ```python
 @keep_zero_density_points.setter

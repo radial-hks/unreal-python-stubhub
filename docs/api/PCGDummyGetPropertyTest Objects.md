@@ -19,7 +19,7 @@ PCGDummy Get Property Test
 
 <a id="unreal.PCGDummyGetPropertyTest.int64_property"></a>
 
-#### int64_property
+#### int64\_property
 
 ```python
 @property
@@ -30,7 +30,7 @@ def int64_property() -> int
 
 <a id="unreal.PCGDummyGetPropertyTest.double_property"></a>
 
-#### double_property
+#### double\_property
 
 ```python
 @property

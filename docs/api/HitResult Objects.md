@@ -13,7 +13,7 @@ Structure containing information about one hit of a trace, such as point of impa
 
 <a id="unreal.HitResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(blocking_hit: bool = False,

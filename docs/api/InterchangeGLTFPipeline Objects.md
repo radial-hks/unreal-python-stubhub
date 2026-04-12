@@ -18,7 +18,7 @@ Interchange GLTFPipeline
 
 <a id="unreal.InterchangeGLTFPipeline.pipeline_display_name"></a>
 
-#### pipeline_display_name
+#### pipeline\_display\_name
 
 ```python
 @property
@@ -29,7 +29,7 @@ def pipeline_display_name() -> str
 
 <a id="unreal.InterchangeGLTFPipeline.pipeline_display_name"></a>
 
-#### pipeline_display_name
+#### pipeline\_display\_name
 
 ```python
 @pipeline_display_name.setter

@@ -18,7 +18,7 @@ Gameplay Task Resource
 
 <a id="unreal.GameplayTaskResource.manual_resource_id"></a>
 
-#### manual_resource_id
+#### manual\_resource\_id
 
 ```python
 @property

@@ -19,7 +19,7 @@ Geometry Script Selective Tessellate Options
 
 <a id="unreal.GeometryScriptSelectiveTessellateOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptSelectiveTessellateOptions.enable_multithreading"></a>
 
-#### enable_multithreading
+#### enable\_multithreading
 
 ```python
 @property
@@ -43,7 +43,7 @@ def enable_multithreading() -> bool
 
 <a id="unreal.GeometryScriptSelectiveTessellateOptions.enable_multithreading"></a>
 
-#### enable_multithreading
+#### enable\_multithreading
 
 ```python
 @enable_multithreading.setter
@@ -52,7 +52,7 @@ def enable_multithreading(value: bool) -> None
 
 <a id="unreal.GeometryScriptSelectiveTessellateOptions.empty_behavior"></a>
 
-#### empty_behavior
+#### empty\_behavior
 
 ```python
 @property
@@ -63,7 +63,7 @@ def empty_behavior() -> GeometryScriptEmptySelectionBehavior
 
 <a id="unreal.GeometryScriptSelectiveTessellateOptions.empty_behavior"></a>
 
-#### empty_behavior
+#### empty\_behavior
 
 ```python
 @empty_behavior.setter

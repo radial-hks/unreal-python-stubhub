@@ -13,13 +13,13 @@ Options for what PoseDriver should be driving
 
 <a id="unreal.PoseDriverOutput.DRIVE_POSES"></a>
 
-#### DRIVE_POSES
+#### DRIVE\_POSES
 
 0: Use target's DrivenName to drive poses from the assigned PoseAsset
 
 <a id="unreal.PoseDriverOutput.DRIVE_CURVES"></a>
 
-#### DRIVE_CURVES
+#### DRIVE\_CURVES
 
 1: Use the target's DrivenName to drive curves
 

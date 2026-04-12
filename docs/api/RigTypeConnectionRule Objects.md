@@ -18,7 +18,7 @@ Rig Type Connection Rule
 
 <a id="unreal.RigTypeConnectionRule.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(element_type: RigElementType = RigElementType.NONE) -> None
@@ -26,7 +26,7 @@ def __init__(element_type: RigElementType = RigElementType.NONE) -> None
 
 <a id="unreal.RigTypeConnectionRule.element_type"></a>
 
-#### element_type
+#### element\_type
 
 ```python
 @property
@@ -37,7 +37,7 @@ def element_type() -> RigElementType
 
 <a id="unreal.RigTypeConnectionRule.element_type"></a>
 
-#### element_type
+#### element\_type
 
 ```python
 @element_type.setter

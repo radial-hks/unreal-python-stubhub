@@ -16,7 +16,7 @@ used to set input parameters as well as retrieve output parameters.
 
 <a id="unreal.RigVMParameter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

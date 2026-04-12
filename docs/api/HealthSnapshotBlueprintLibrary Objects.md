@@ -13,7 +13,7 @@ Health Snapshot Blueprint Library
 
 <a id="unreal.HealthSnapshotBlueprintLibrary.stop_performance_snapshots"></a>
 
-#### stop_performance_snapshots
+#### stop\_performance\_snapshots
 
 ```python
 @classmethod
@@ -25,7 +25,7 @@ Stops capturing FPS charts only if StartHealthSnapshotChart has first been calle
 
 <a id="unreal.HealthSnapshotBlueprintLibrary.start_performance_snapshots"></a>
 
-#### start_performance_snapshots
+#### start\_performance\_snapshots
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Begins capturing FPS charts that can be used to include performance data in a He
 
 <a id="unreal.HealthSnapshotBlueprintLibrary.log_performance_snapshot"></a>
 
-#### log_performance_snapshot
+#### log\_performance\_snapshot
 
 ```python
 @classmethod

@@ -30,7 +30,7 @@ Physical Animation Component
 
 <a id="unreal.PhysicalAnimationComponent.strength_multiplyer"></a>
 
-#### strength_multiplyer
+#### strength\_multiplyer
 
 ```python
 @property
@@ -41,7 +41,7 @@ def strength_multiplyer() -> float
 
 <a id="unreal.PhysicalAnimationComponent.set_strength_multiplyer"></a>
 
-#### set_strength_multiplyer
+#### set\_strength\_multiplyer
 
 ```python
 def set_strength_multiplyer(strength_multiplyer: float) -> None
@@ -55,7 +55,7 @@ Args:
 
 <a id="unreal.PhysicalAnimationComponent.set_skeletal_mesh_component"></a>
 
-#### set_skeletal_mesh_component
+#### set\_skeletal\_mesh\_component
 
 ```python
 def set_skeletal_mesh_component(
@@ -70,7 +70,7 @@ Args:
 
 <a id="unreal.PhysicalAnimationComponent.get_body_target_transform"></a>
 
-#### get_body_target_transform
+#### get\_body\_target\_transform
 
 ```python
 def get_body_target_transform(body_name: Name) -> Transform
@@ -87,7 +87,7 @@ Returns:
 
 <a id="unreal.PhysicalAnimationComponent.apply_physical_animation_settings_below"></a>
 
-#### apply_physical_animation_settings_below
+#### apply\_physical\_animation\_settings\_below
 
 ```python
 def apply_physical_animation_settings_below(
@@ -106,7 +106,7 @@ Args:
 
 <a id="unreal.PhysicalAnimationComponent.apply_physical_animation_settings"></a>
 
-#### apply_physical_animation_settings
+#### apply\_physical\_animation\_settings
 
 ```python
 def apply_physical_animation_settings(
@@ -123,7 +123,7 @@ Args:
 
 <a id="unreal.PhysicalAnimationComponent.apply_physical_animation_profile_below"></a>
 
-#### apply_physical_animation_profile_below
+#### apply\_physical\_animation\_profile\_below
 
 ```python
 def apply_physical_animation_profile_below(

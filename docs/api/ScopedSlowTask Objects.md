@@ -8,7 +8,7 @@ Type used to create and managed a scoped slow task in Python
 
 <a id="unreal.ScopedSlowTask.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(work: float,
@@ -18,7 +18,7 @@ def __init__(work: float,
 
 <a id="unreal.ScopedSlowTask.__enter__"></a>
 
-#### __enter__
+#### \_\_enter\_\_
 
 ```python
 def __enter__() -> ScopedSlowTask
@@ -28,7 +28,7 @@ __enter__(self) -> ScopedSlowTask -- begin this slow task
 
 <a id="unreal.ScopedSlowTask.__exit__"></a>
 
-#### __exit__
+#### \_\_exit\_\_
 
 ```python
 def __exit__(type: Optional[Type[BaseException]],
@@ -40,7 +40,7 @@ __exit__(self, type: Optional[Type[BaseException]], value: Optional[BaseExceptio
 
 <a id="unreal.ScopedSlowTask.make_dialog_delayed"></a>
 
-#### make_dialog_delayed
+#### make\_dialog\_delayed
 
 ```python
 def make_dialog_delayed(delay: float,
@@ -52,7 +52,7 @@ make_dialog_delayed(self, delay: float, can_cancel: bool = False, allow_in_pie: 
 
 <a id="unreal.ScopedSlowTask.make_dialog"></a>
 
-#### make_dialog
+#### make\_dialog
 
 ```python
 def make_dialog(can_cancel: bool = False, allow_in_pie: bool = False) -> None
@@ -62,7 +62,7 @@ make_dialog(self, can_cancel: bool = False, allow_in_pie: bool = False) -> None 
 
 <a id="unreal.ScopedSlowTask.enter_progress_frame"></a>
 
-#### enter_progress_frame
+#### enter\_progress\_frame
 
 ```python
 def enter_progress_frame(work: float = 1.0,
@@ -73,7 +73,7 @@ enter_progress_frame(self, work: float = 1.0, desc: Union[Text, str] = "") -> No
 
 <a id="unreal.ScopedSlowTask.should_cancel"></a>
 
-#### should_cancel
+#### should\_cancel
 
 ```python
 def should_cancel() -> bool

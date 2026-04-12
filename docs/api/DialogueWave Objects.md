@@ -33,7 +33,7 @@ def mature() -> bool
 
 <a id="unreal.DialogueWave.override_subtitle_override"></a>
 
-#### override_subtitle_override
+#### override\_subtitle\_override
 
 ```python
 @property
@@ -44,7 +44,7 @@ def override_subtitle_override() -> bool
 
 <a id="unreal.DialogueWave.spoken_text"></a>
 
-#### spoken_text
+#### spoken\_text
 
 ```python
 @property
@@ -55,7 +55,7 @@ def spoken_text() -> str
 
 <a id="unreal.DialogueWave.subtitle_override"></a>
 
-#### subtitle_override
+#### subtitle\_override
 
 ```python
 @property

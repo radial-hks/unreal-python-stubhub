@@ -14,7 +14,7 @@ Takes Core Blueprint Library
 
 <a id="unreal.TakesCoreBlueprintLibrary.set_on_take_recorder_take_number_changed"></a>
 
-#### set_on_take_recorder_take_number_changed
+#### set\_on\_take\_recorder\_take\_number\_changed
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.TakesCoreBlueprintLibrary.set_on_take_recorder_slate_changed"></a>
 
-#### set_on_take_recorder_slate_changed
+#### set\_on\_take\_recorder\_slate\_changed
 
 ```python
 @classmethod
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.TakesCoreBlueprintLibrary.find_takes"></a>
 
-#### find_takes
+#### find\_takes
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.TakesCoreBlueprintLibrary.compute_next_take_number"></a>
 
-#### compute_next_take_number
+#### compute\_next\_take\_number
 
 ```python
 @classmethod

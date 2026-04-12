@@ -19,31 +19,31 @@ EDOFMode
 
 <a id="unreal.DOFMode.SIX_DOF"></a>
 
-#### SIX_DOF
+#### SIX\_DOF
 
 1: Specifies which axis to freeze rotation and movement along.
 
 <a id="unreal.DOFMode.YZ_PLANE"></a>
 
-#### YZ_PLANE
+#### YZ\_PLANE
 
 2: Allows 2D movement along the Y-Z plane.
 
 <a id="unreal.DOFMode.XZ_PLANE"></a>
 
-#### XZ_PLANE
+#### XZ\_PLANE
 
 3: Allows 2D movement along the X-Z plane.
 
 <a id="unreal.DOFMode.XY_PLANE"></a>
 
-#### XY_PLANE
+#### XY\_PLANE
 
 4: Allows 2D movement along the X-Y plane.
 
 <a id="unreal.DOFMode.CUSTOM_PLANE"></a>
 
-#### CUSTOM_PLANE
+#### CUSTOM\_PLANE
 
 5: Allows 2D movement along the plane of a given normal
 

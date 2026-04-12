@@ -88,7 +88,7 @@ deprecated: 'brightness' was renamed to 'intensity'.
 
 <a id="unreal.LightComponentBase.light_color"></a>
 
-#### light_color
+#### light\_color
 
 ```python
 @property
@@ -100,7 +100,7 @@ Note that this can change the light's effective intensity.
 
 <a id="unreal.LightComponentBase.affects_world"></a>
 
-#### affects_world
+#### affects\_world
 
 ```python
 @property
@@ -113,7 +113,7 @@ Setting this to false has the same effect as deleting the light, so it is useful
 
 <a id="unreal.LightComponentBase.cast_shadows"></a>
 
-#### cast_shadows
+#### cast\_shadows
 
 ```python
 @property
@@ -124,7 +124,7 @@ def cast_shadows() -> bool
 
 <a id="unreal.LightComponentBase.cast_static_shadows"></a>
 
-#### cast_static_shadows
+#### cast\_static\_shadows
 
 ```python
 @property
@@ -135,7 +135,7 @@ def cast_static_shadows() -> bool
 
 <a id="unreal.LightComponentBase.cast_dynamic_shadows"></a>
 
-#### cast_dynamic_shadows
+#### cast\_dynamic\_shadows
 
 ```python
 @property
@@ -146,7 +146,7 @@ def cast_dynamic_shadows() -> bool
 
 <a id="unreal.LightComponentBase.affect_translucent_lighting"></a>
 
-#### affect_translucent_lighting
+#### affect\_translucent\_lighting
 
 ```python
 @property
@@ -168,7 +168,7 @@ def transmission() -> bool
 
 <a id="unreal.LightComponentBase.cast_volumetric_shadow"></a>
 
-#### cast_volumetric_shadow
+#### cast\_volumetric\_shadow
 
 ```python
 @property
@@ -179,7 +179,7 @@ def cast_volumetric_shadow() -> bool
 
 <a id="unreal.LightComponentBase.cast_deep_shadow"></a>
 
-#### cast_deep_shadow
+#### cast\_deep\_shadow
 
 ```python
 @property
@@ -190,7 +190,7 @@ def cast_deep_shadow() -> bool
 
 <a id="unreal.LightComponentBase.cast_raytraced_shadow"></a>
 
-#### cast_raytraced_shadow
+#### cast\_raytraced\_shadow
 
 ```python
 @property
@@ -201,7 +201,7 @@ def cast_raytraced_shadow() -> CastRayTracedShadow
 
 <a id="unreal.LightComponentBase.affect_reflection"></a>
 
-#### affect_reflection
+#### affect\_reflection
 
 ```python
 @property
@@ -212,7 +212,7 @@ def affect_reflection() -> bool
 
 <a id="unreal.LightComponentBase.affect_global_illumination"></a>
 
-#### affect_global_illumination
+#### affect\_global\_illumination
 
 ```python
 @property
@@ -223,7 +223,7 @@ def affect_global_illumination() -> bool
 
 <a id="unreal.LightComponentBase.deep_shadow_layer_distribution"></a>
 
-#### deep_shadow_layer_distribution
+#### deep\_shadow\_layer\_distribution
 
 ```python
 @property
@@ -234,7 +234,7 @@ def deep_shadow_layer_distribution() -> float
 
 <a id="unreal.LightComponentBase.indirect_lighting_intensity"></a>
 
-#### indirect_lighting_intensity
+#### indirect\_lighting\_intensity
 
 ```python
 @property
@@ -246,7 +246,7 @@ A value of 0 disables any GI from this light. Default is 1.
 
 <a id="unreal.LightComponentBase.volumetric_scattering_intensity"></a>
 
-#### volumetric_scattering_intensity
+#### volumetric\_scattering\_intensity
 
 ```python
 @property
@@ -257,7 +257,7 @@ def volumetric_scattering_intensity() -> float
 
 <a id="unreal.LightComponentBase.samples_per_pixel"></a>
 
-#### samples_per_pixel
+#### samples\_per\_pixel
 
 ```python
 @property
@@ -268,7 +268,7 @@ def samples_per_pixel() -> int
 
 <a id="unreal.LightComponentBase.set_samples_per_pixel"></a>
 
-#### set_samples_per_pixel
+#### set\_samples\_per\_pixel
 
 ```python
 def set_samples_per_pixel(new_value: int) -> None
@@ -282,7 +282,7 @@ Args:
 
 <a id="unreal.LightComponentBase.set_cast_volumetric_shadow"></a>
 
-#### set_cast_volumetric_shadow
+#### set\_cast\_volumetric\_shadow
 
 ```python
 def set_cast_volumetric_shadow(new_value: bool) -> None
@@ -296,7 +296,7 @@ Args:
 
 <a id="unreal.LightComponentBase.set_cast_shadows"></a>
 
-#### set_cast_shadows
+#### set\_cast\_shadows
 
 ```python
 def set_cast_shadows(new_value: bool) -> None
@@ -310,7 +310,7 @@ Args:
 
 <a id="unreal.LightComponentBase.set_cast_raytraced_shadows"></a>
 
-#### set_cast_raytraced_shadows
+#### set\_cast\_raytraced\_shadows
 
 ```python
 def set_cast_raytraced_shadows(new_value: CastRayTracedShadow) -> None
@@ -324,7 +324,7 @@ Args:
 
 <a id="unreal.LightComponentBase.set_cast_raytraced_shadow"></a>
 
-#### set_cast_raytraced_shadow
+#### set\_cast\_raytraced\_shadow
 
 ```python
 def set_cast_raytraced_shadow(new_value: bool) -> None
@@ -339,7 +339,7 @@ Args:
 
 <a id="unreal.LightComponentBase.set_cast_deep_shadow"></a>
 
-#### set_cast_deep_shadow
+#### set\_cast\_deep\_shadow
 
 ```python
 def set_cast_deep_shadow(new_value: bool) -> None
@@ -353,7 +353,7 @@ Args:
 
 <a id="unreal.LightComponentBase.set_affect_reflection"></a>
 
-#### set_affect_reflection
+#### set\_affect\_reflection
 
 ```python
 def set_affect_reflection(new_value: bool) -> None
@@ -367,7 +367,7 @@ Args:
 
 <a id="unreal.LightComponentBase.set_affect_global_illumination"></a>
 
-#### set_affect_global_illumination
+#### set\_affect\_global\_illumination
 
 ```python
 def set_affect_global_illumination(new_value: bool) -> None
@@ -381,7 +381,7 @@ Args:
 
 <a id="unreal.LightComponentBase.get_light_color"></a>
 
-#### get_light_color
+#### get\_light\_color
 
 ```python
 def get_light_color() -> LinearColor

@@ -31,13 +31,13 @@ EAttenuation Distance Model
 
 <a id="unreal.AttenuationDistanceModel.LOG_REVERSE"></a>
 
-#### LOG_REVERSE
+#### LOG\_REVERSE
 
 3
 
 <a id="unreal.AttenuationDistanceModel.NATURAL_SOUND"></a>
 
-#### NATURAL_SOUND
+#### NATURAL\_SOUND
 
 4
 

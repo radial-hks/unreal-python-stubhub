@@ -24,7 +24,7 @@ Convolution Bloom Settings
 
 <a id="unreal.ConvolutionBloomSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(texture: Texture2D = None,
@@ -59,7 +59,7 @@ def texture(value: Texture2D) -> None
 
 <a id="unreal.ConvolutionBloomSettings.scatter_dispersion"></a>
 
-#### scatter_dispersion
+#### scatter\_dispersion
 
 ```python
 @property
@@ -70,7 +70,7 @@ def scatter_dispersion() -> float
 
 <a id="unreal.ConvolutionBloomSettings.scatter_dispersion"></a>
 
-#### scatter_dispersion
+#### scatter\_dispersion
 
 ```python
 @scatter_dispersion.setter
@@ -99,7 +99,7 @@ def size(value: float) -> None
 
 <a id="unreal.ConvolutionBloomSettings.center_uv"></a>
 
-#### center_uv
+#### center\_uv
 
 ```python
 @property
@@ -110,7 +110,7 @@ def center_uv() -> Vector2D
 
 <a id="unreal.ConvolutionBloomSettings.center_uv"></a>
 
-#### center_uv
+#### center\_uv
 
 ```python
 @center_uv.setter
@@ -119,7 +119,7 @@ def center_uv(value: Vector2D) -> None
 
 <a id="unreal.ConvolutionBloomSettings.pre_filter_min"></a>
 
-#### pre_filter_min
+#### pre\_filter\_min
 
 ```python
 @property
@@ -130,7 +130,7 @@ def pre_filter_min() -> float
 
 <a id="unreal.ConvolutionBloomSettings.pre_filter_min"></a>
 
-#### pre_filter_min
+#### pre\_filter\_min
 
 ```python
 @pre_filter_min.setter
@@ -139,7 +139,7 @@ def pre_filter_min(value: float) -> None
 
 <a id="unreal.ConvolutionBloomSettings.pre_filter_max"></a>
 
-#### pre_filter_max
+#### pre\_filter\_max
 
 ```python
 @property
@@ -150,7 +150,7 @@ def pre_filter_max() -> float
 
 <a id="unreal.ConvolutionBloomSettings.pre_filter_max"></a>
 
-#### pre_filter_max
+#### pre\_filter\_max
 
 ```python
 @pre_filter_max.setter
@@ -159,7 +159,7 @@ def pre_filter_max(value: float) -> None
 
 <a id="unreal.ConvolutionBloomSettings.pre_filter_mult"></a>
 
-#### pre_filter_mult
+#### pre\_filter\_mult
 
 ```python
 @property
@@ -170,7 +170,7 @@ def pre_filter_mult() -> float
 
 <a id="unreal.ConvolutionBloomSettings.pre_filter_mult"></a>
 
-#### pre_filter_mult
+#### pre\_filter\_mult
 
 ```python
 @pre_filter_mult.setter
@@ -179,7 +179,7 @@ def pre_filter_mult(value: float) -> None
 
 <a id="unreal.ConvolutionBloomSettings.buffer_scale"></a>
 
-#### buffer_scale
+#### buffer\_scale
 
 ```python
 @property
@@ -190,7 +190,7 @@ def buffer_scale() -> float
 
 <a id="unreal.ConvolutionBloomSettings.buffer_scale"></a>
 
-#### buffer_scale
+#### buffer\_scale
 
 ```python
 @buffer_scale.setter

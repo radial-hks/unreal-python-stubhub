@@ -13,7 +13,7 @@ AIBlueprint Helper Library
 
 <a id="unreal.AIHelperLibrary.unlock_ai_resources_with_animation"></a>
 
-#### unlock_ai_resources_with_animation
+#### unlock\_ai\_resources\_with\_animation
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.AIHelperLibrary.spawn_ai_from_class"></a>
 
-#### spawn_ai_from_class
+#### spawn\_ai\_from\_class
 
 ```python
 @classmethod
@@ -64,7 +64,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.simple_move_to_location"></a>
 
-#### simple_move_to_location
+#### simple\_move\_to\_location
 
 ```python
 @classmethod
@@ -80,7 +80,7 @@ Args:
 
 <a id="unreal.AIHelperLibrary.simple_move_to_actor"></a>
 
-#### simple_move_to_actor
+#### simple\_move\_to\_actor
 
 ```python
 @classmethod
@@ -96,7 +96,7 @@ Args:
 
 <a id="unreal.AIHelperLibrary.send_ai_message"></a>
 
-#### send_ai_message
+#### send\_ai\_message
 
 ```python
 @classmethod
@@ -118,7 +118,7 @@ Args:
 
 <a id="unreal.AIHelperLibrary.lock_ai_resources_with_animation"></a>
 
-#### lock_ai_resources_with_animation
+#### lock\_ai\_resources\_with\_animation
 
 ```python
 @classmethod
@@ -137,7 +137,7 @@ Args:
 
 <a id="unreal.AIHelperLibrary.is_valid_ai_rotation"></a>
 
-#### is_valid_ai_rotation
+#### is\_valid\_ai\_rotation
 
 ```python
 @classmethod
@@ -155,7 +155,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.is_valid_ai_location"></a>
 
-#### is_valid_ai_location
+#### is\_valid\_ai\_location
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.is_valid_ai_direction"></a>
 
-#### is_valid_ai_direction
+#### is\_valid\_ai\_direction
 
 ```python
 @classmethod
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.get_next_nav_link_index"></a>
 
-#### get_next_nav_link_index
+#### get\_next\_nav\_link\_index
 
 ```python
 @classmethod
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.get_current_path_points"></a>
 
-#### get_current_path_points
+#### get\_current\_path\_points
 
 ```python
 @classmethod
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.get_current_path_index"></a>
 
-#### get_current_path_index
+#### get\_current\_path\_index
 
 ```python
 @classmethod
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.get_current_path"></a>
 
-#### get_current_path
+#### get\_current\_path
 
 ```python
 @classmethod
@@ -266,7 +266,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.get_blackboard"></a>
 
-#### get_blackboard
+#### get\_blackboard
 
 ```python
 @classmethod
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.AIHelperLibrary.get_ai_controller"></a>
 
-#### get_ai_controller
+#### get\_ai\_controller
 
 ```python
 @classmethod

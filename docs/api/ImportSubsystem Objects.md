@@ -22,7 +22,7 @@ Contains utility functions and callbacks for hooking into importing.
 
 <a id="unreal.ImportSubsystem.on_asset_pre_import"></a>
 
-#### on_asset_pre_import
+#### on\_asset\_pre\_import
 
 ```python
 @property
@@ -33,7 +33,7 @@ def on_asset_pre_import() -> OnAssetPreImport_Dyn
 
 <a id="unreal.ImportSubsystem.on_asset_pre_import"></a>
 
-#### on_asset_pre_import
+#### on\_asset\_pre\_import
 
 ```python
 @on_asset_pre_import.setter
@@ -42,7 +42,7 @@ def on_asset_pre_import(value: OnAssetPreImport_Dyn) -> None
 
 <a id="unreal.ImportSubsystem.on_asset_post_import"></a>
 
-#### on_asset_post_import
+#### on\_asset\_post\_import
 
 ```python
 @property
@@ -53,7 +53,7 @@ def on_asset_post_import() -> OnAssetPostImport_Dyn
 
 <a id="unreal.ImportSubsystem.on_asset_post_import"></a>
 
-#### on_asset_post_import
+#### on\_asset\_post\_import
 
 ```python
 @on_asset_post_import.setter
@@ -62,7 +62,7 @@ def on_asset_post_import(value: OnAssetPostImport_Dyn) -> None
 
 <a id="unreal.ImportSubsystem.on_asset_reimport"></a>
 
-#### on_asset_reimport
+#### on\_asset\_reimport
 
 ```python
 @property
@@ -73,7 +73,7 @@ def on_asset_reimport() -> OnAssetReimport_Dyn
 
 <a id="unreal.ImportSubsystem.on_asset_reimport"></a>
 
-#### on_asset_reimport
+#### on\_asset\_reimport
 
 ```python
 @on_asset_reimport.setter
@@ -82,7 +82,7 @@ def on_asset_reimport(value: OnAssetReimport_Dyn) -> None
 
 <a id="unreal.ImportSubsystem.on_asset_post_lod_import"></a>
 
-#### on_asset_post_lod_import
+#### on\_asset\_post\_lod\_import
 
 ```python
 @property
@@ -93,7 +93,7 @@ def on_asset_post_lod_import() -> OnAssetPostLODImport_Dyn
 
 <a id="unreal.ImportSubsystem.on_asset_post_lod_import"></a>
 
-#### on_asset_post_lod_import
+#### on\_asset\_post\_lod\_import
 
 ```python
 @on_asset_post_lod_import.setter

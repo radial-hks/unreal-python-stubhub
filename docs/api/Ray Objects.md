@@ -19,7 +19,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Ray.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(origin: Vector = [0.000000, 0.000000, 0.000000],
@@ -68,7 +68,7 @@ def direction(value: Vector) -> None
 
 <a id="unreal.Ray.get_transformed_ray"></a>
 
-#### get_transformed_ray
+#### get\_transformed\_ray
 
 ```python
 def get_transformed_ray(transform: Transform, invert: bool = False) -> Ray
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_start_end"></a>
 
-#### get_ray_start_end
+#### get\_ray\_start\_end
 
 ```python
 def get_ray_start_end(start_distance: float = 0.000000,
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_sphere_intersection"></a>
 
-#### get_ray_sphere_intersection
+#### get\_ray\_sphere\_intersection
 
 ```python
 def get_ray_sphere_intersection(
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_segment_closest_point"></a>
 
-#### get_ray_segment_closest_point
+#### get\_ray\_segment\_closest\_point
 
 ```python
 def get_ray_segment_closest_point(
@@ -163,7 +163,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_point_distance"></a>
 
-#### get_ray_point_distance
+#### get\_ray\_point\_distance
 
 ```python
 def get_ray_point_distance(point: Vector) -> float
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_point"></a>
 
-#### get_ray_point
+#### get\_ray\_point
 
 ```python
 def get_ray_point(distance: float) -> Vector
@@ -197,7 +197,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_plane_intersection"></a>
 
-#### get_ray_plane_intersection
+#### get\_ray\_plane\_intersection
 
 ```python
 def get_ray_plane_intersection(plane: Plane) -> Optional[float]
@@ -216,7 +216,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_parameter"></a>
 
-#### get_ray_parameter
+#### get\_ray\_parameter
 
 ```python
 def get_ray_parameter(point: Vector) -> float
@@ -233,7 +233,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_line_closest_point"></a>
 
-#### get_ray_line_closest_point
+#### get\_ray\_line\_closest\_point
 
 ```python
 def get_ray_line_closest_point(
@@ -262,7 +262,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_closest_point"></a>
 
-#### get_ray_closest_point
+#### get\_ray\_closest\_point
 
 ```python
 def get_ray_closest_point(point: Vector) -> Vector
@@ -279,7 +279,7 @@ Returns:
 
 <a id="unreal.Ray.get_ray_box_intersection"></a>
 
-#### get_ray_box_intersection
+#### get\_ray\_box\_intersection
 
 ```python
 def get_ray_box_intersection(box: Box) -> Optional[float]

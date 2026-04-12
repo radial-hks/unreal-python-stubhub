@@ -18,7 +18,7 @@ Geometry Script XAtlas Options
 
 <a id="unreal.GeometryScriptXAtlasOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(max_iterations: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(max_iterations: int = 0) -> None
 
 <a id="unreal.GeometryScriptXAtlasOptions.max_iterations"></a>
 
-#### max_iterations
+#### max\_iterations
 
 ```python
 @property
@@ -37,7 +37,7 @@ def max_iterations() -> int
 
 <a id="unreal.GeometryScriptXAtlasOptions.max_iterations"></a>
 
-#### max_iterations
+#### max\_iterations
 
 ```python
 @max_iterations.setter

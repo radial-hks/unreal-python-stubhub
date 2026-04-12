@@ -18,7 +18,7 @@ Geometry Script Polygons Triangulation Options
 
 <a id="unreal.GeometryScriptPolygonsTriangulationOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(still_append_on_triangulation_error: bool = False) -> None
@@ -26,7 +26,7 @@ def __init__(still_append_on_triangulation_error: bool = False) -> None
 
 <a id="unreal.GeometryScriptPolygonsTriangulationOptions.still_append_on_triangulation_error"></a>
 
-#### still_append_on_triangulation_error
+#### still\_append\_on\_triangulation\_error
 
 ```python
 @property
@@ -37,7 +37,7 @@ def still_append_on_triangulation_error() -> bool
 
 <a id="unreal.GeometryScriptPolygonsTriangulationOptions.still_append_on_triangulation_error"></a>
 
-#### still_append_on_triangulation_error
+#### still\_append\_on\_triangulation\_error
 
 ```python
 @still_append_on_triangulation_error.setter

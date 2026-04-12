@@ -14,13 +14,13 @@ Enum that describes type of asset to import
 
 <a id="unreal.AlembicImportType.STATIC_MESH"></a>
 
-#### STATIC_MESH
+#### STATIC\_MESH
 
 0: Imports only the first frame as one or multiple static meshes
 
 <a id="unreal.AlembicImportType.GEOMETRY_CACHE"></a>
 
-#### GEOMETRY_CACHE
+#### GEOMETRY\_CACHE
 
 1: Imports the Alembic file as flipbook and matrix animated objects
 

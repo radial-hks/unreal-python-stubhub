@@ -19,7 +19,7 @@ Geometry Script Prune Bone Weights Options
 
 <a id="unreal.GeometryScriptPruneBoneWeightsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -31,7 +31,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptPruneBoneWeightsOptions.reassignment_type"></a>
 
-#### reassignment_type
+#### reassignment\_type
 
 ```python
 @property
@@ -42,7 +42,7 @@ def reassignment_type() -> GeometryScriptPruneBoneWeightsAssignmentType
 
 <a id="unreal.GeometryScriptPruneBoneWeightsOptions.reassignment_type"></a>
 
-#### reassignment_type
+#### reassignment\_type
 
 ```python
 @reassignment_type.setter
@@ -52,7 +52,7 @@ def reassignment_type(
 
 <a id="unreal.GeometryScriptPruneBoneWeightsOptions.ignored_invalid_bones"></a>
 
-#### ignored_invalid_bones
+#### ignored\_invalid\_bones
 
 ```python
 @property
@@ -63,7 +63,7 @@ def ignored_invalid_bones() -> bool
 
 <a id="unreal.GeometryScriptPruneBoneWeightsOptions.ignored_invalid_bones"></a>
 
-#### ignored_invalid_bones
+#### ignored\_invalid\_bones
 
 ```python
 @ignored_invalid_bones.setter

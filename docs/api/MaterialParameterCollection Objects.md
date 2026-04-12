@@ -19,7 +19,7 @@ Any number of materials can reference these parameters and get new values when t
 
 <a id="unreal.MaterialParameterCollection.get_vector_parameter_names"></a>
 
-#### get_vector_parameter_names
+#### get\_vector\_parameter\_names
 
 ```python
 def get_vector_parameter_names() -> Array[Name]
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.MaterialParameterCollection.get_vector_parameter_default_value"></a>
 
-#### get_vector_parameter_default_value
+#### get\_vector\_parameter\_default\_value
 
 ```python
 def get_vector_parameter_default_value(
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.MaterialParameterCollection.get_scalar_parameter_names"></a>
 
-#### get_scalar_parameter_names
+#### get\_scalar\_parameter\_names
 
 ```python
 def get_scalar_parameter_names() -> Array[Name]
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.MaterialParameterCollection.get_scalar_parameter_default_value"></a>
 
-#### get_scalar_parameter_default_value
+#### get\_scalar\_parameter\_default\_value
 
 ```python
 def get_scalar_parameter_default_value(

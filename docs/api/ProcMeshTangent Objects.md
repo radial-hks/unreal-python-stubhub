@@ -20,7 +20,7 @@ The Y tangent is computed from the cross product of the vertex normal (Tangent Z
 
 <a id="unreal.ProcMeshTangent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tangent_x: Vector = [0.000000, 0.000000, 0.000000],
@@ -29,7 +29,7 @@ def __init__(tangent_x: Vector = [0.000000, 0.000000, 0.000000],
 
 <a id="unreal.ProcMeshTangent.tangent_x"></a>
 
-#### tangent_x
+#### tangent\_x
 
 ```python
 @property
@@ -40,7 +40,7 @@ def tangent_x() -> Vector
 
 <a id="unreal.ProcMeshTangent.tangent_x"></a>
 
-#### tangent_x
+#### tangent\_x
 
 ```python
 @tangent_x.setter
@@ -49,7 +49,7 @@ def tangent_x(value: Vector) -> None
 
 <a id="unreal.ProcMeshTangent.flip_tangent_y"></a>
 
-#### flip_tangent_y
+#### flip\_tangent\_y
 
 ```python
 @property
@@ -60,7 +60,7 @@ def flip_tangent_y() -> bool
 
 <a id="unreal.ProcMeshTangent.flip_tangent_y"></a>
 
-#### flip_tangent_y
+#### flip\_tangent\_y
 
 ```python
 @flip_tangent_y.setter

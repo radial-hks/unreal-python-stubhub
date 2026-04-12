@@ -13,7 +13,7 @@ Base class for raw (baked out) Distribution type
 
 <a id="unreal.RawDistribution.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

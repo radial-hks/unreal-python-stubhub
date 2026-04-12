@@ -18,7 +18,7 @@ Animation Track Added Payload
 
 <a id="unreal.AnimationTrackAddedPayload.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None", track_index: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(name: Name = "None", track_index: int = 0) -> None
 
 <a id="unreal.AnimationTrackAddedPayload.track_index"></a>
 
-#### track_index
+#### track\_index
 
 ```python
 @property

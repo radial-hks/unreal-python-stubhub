@@ -20,7 +20,7 @@ Anim Detail Proxy Rotation
 
 <a id="unreal.AnimDetailProxyRotation.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(rx: float = 0.000000,

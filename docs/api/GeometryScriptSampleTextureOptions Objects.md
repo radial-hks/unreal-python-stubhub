@@ -21,7 +21,7 @@ Geometry Script Sample Texture Options
 
 <a id="unreal.GeometryScriptSampleTextureOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -35,7 +35,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptSampleTextureOptions.sampling_method"></a>
 
-#### sampling_method
+#### sampling\_method
 
 ```python
 @property
@@ -46,7 +46,7 @@ def sampling_method() -> GeometryScriptPixelSamplingMethod
 
 <a id="unreal.GeometryScriptSampleTextureOptions.sampling_method"></a>
 
-#### sampling_method
+#### sampling\_method
 
 ```python
 @sampling_method.setter
@@ -75,7 +75,7 @@ def wrap(value: bool) -> None
 
 <a id="unreal.GeometryScriptSampleTextureOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @property
@@ -86,7 +86,7 @@ def uv_scale() -> Vector2D
 
 <a id="unreal.GeometryScriptSampleTextureOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @uv_scale.setter
@@ -95,7 +95,7 @@ def uv_scale(value: Vector2D) -> None
 
 <a id="unreal.GeometryScriptSampleTextureOptions.uv_offset"></a>
 
-#### uv_offset
+#### uv\_offset
 
 ```python
 @property
@@ -106,7 +106,7 @@ def uv_offset() -> Vector2D
 
 <a id="unreal.GeometryScriptSampleTextureOptions.uv_offset"></a>
 
-#### uv_offset
+#### uv\_offset
 
 ```python
 @uv_offset.setter

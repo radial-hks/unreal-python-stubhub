@@ -18,7 +18,7 @@ Movie Scene Scripting Integer Channel
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.set_interpolate_linear_keys"></a>
 
-#### set_interpolate_linear_keys
+#### set\_interpolate\_linear\_keys
 
 ```python
 def set_interpolate_linear_keys(interpolate_linear_keys: bool) -> None
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.set_default"></a>
 
-#### set_default
+#### set\_default
 
 ```python
 def set_default(default_value: int) -> None
@@ -47,7 +47,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.remove_key"></a>
 
-#### remove_key
+#### remove\_key
 
 ```python
 def remove_key(key: MovieSceneScriptingKey) -> None
@@ -61,7 +61,7 @@ Args:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.remove_default"></a>
 
-#### remove_default
+#### remove\_default
 
 ```python
 def remove_default() -> None
@@ -72,7 +72,7 @@ Remove this channel's default value causing the channel to have no effect where 
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.has_default"></a>
 
-#### has_default
+#### has\_default
 
 ```python
 def has_default() -> bool
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.get_num_keys"></a>
 
-#### get_num_keys
+#### get\_num\_keys
 
 ```python
 def get_num_keys() -> int
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.get_keys_by_index"></a>
 
-#### get_keys_by_index
+#### get\_keys\_by\_index
 
 ```python
 def get_keys_by_index(indices: Array[int]) -> Array[MovieSceneScriptingKey]
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.get_keys"></a>
 
-#### get_keys
+#### get\_keys
 
 ```python
 def get_keys() -> Array[MovieSceneScriptingKey]
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.get_interpolate_linear_keys"></a>
 
-#### get_interpolate_linear_keys
+#### get\_interpolate\_linear\_keys
 
 ```python
 def get_interpolate_linear_keys() -> bool
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.get_default"></a>
 
-#### get_default
+#### get\_default
 
 ```python
 def get_default() -> int
@@ -161,7 +161,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.evaluate_keys"></a>
 
-#### evaluate_keys
+#### evaluate\_keys
 
 ```python
 def evaluate_keys(range: SequencerScriptingRange,
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.MovieSceneScriptingIntegerChannel.add_key"></a>
 
-#### add_key
+#### add\_key
 
 ```python
 def add_key(

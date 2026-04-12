@@ -8,7 +8,7 @@ deprecated: 'LuminanceMode' was renamed to 'MaterialXLuminanceMode'.
 
 <a id="unreal.LuminanceMode.ACE_SCG"></a>
 
-#### ACE_SCG
+#### ACE\_SCG
 
 0
 

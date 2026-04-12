@@ -14,7 +14,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Misc
 
 <a id="unreal.Timespan.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(days: int = 0,
@@ -32,13 +32,13 @@ def __init__(days: int = 0,
 
 <a id="unreal.Timespan.MIN_VALUE"></a>
 
-#### MIN_VALUE
+#### MIN\_VALUE
 
 (Timespan): Returns the minimum time span value
 
 <a id="unreal.Timespan.MAX_VALUE"></a>
 
-#### MAX_VALUE
+#### MAX\_VALUE
 
 (Timespan): Returns the maximum time span value
 

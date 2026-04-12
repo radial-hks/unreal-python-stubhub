@@ -18,7 +18,7 @@ Blueprintable class used to handle generated links as custom links.
 
 <a id="unreal.GeneratedNavLinksProxy.on_smart_link_reached"></a>
 
-#### on_smart_link_reached
+#### on\_smart\_link\_reached
 
 ```python
 @property
@@ -29,7 +29,7 @@ def on_smart_link_reached() -> LinkReachedSignature
 
 <a id="unreal.GeneratedNavLinksProxy.on_smart_link_reached"></a>
 
-#### on_smart_link_reached
+#### on\_smart\_link\_reached
 
 ```python
 @on_smart_link_reached.setter
@@ -38,7 +38,7 @@ def on_smart_link_reached(value: LinkReachedSignature) -> None
 
 <a id="unreal.GeneratedNavLinksProxy.receive_smart_link_reached"></a>
 
-#### receive_smart_link_reached
+#### receive\_smart\_link\_reached
 
 ```python
 def receive_smart_link_reached(agent: Actor, destination: Vector) -> None

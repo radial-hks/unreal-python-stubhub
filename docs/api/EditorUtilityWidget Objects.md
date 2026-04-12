@@ -66,7 +66,7 @@ Editor Utility Widget
 
 <a id="unreal.EditorUtilityWidget.tab_display_name"></a>
 
-#### tab_display_name
+#### tab\_display\_name
 
 ```python
 @property
@@ -77,7 +77,7 @@ def tab_display_name() -> Text
 
 <a id="unreal.EditorUtilityWidget.tab_display_name"></a>
 
-#### tab_display_name
+#### tab\_display\_name
 
 ```python
 @tab_display_name.setter
@@ -86,7 +86,7 @@ def tab_display_name(value: Text) -> None
 
 <a id="unreal.EditorUtilityWidget.help_text"></a>
 
-#### help_text
+#### help\_text
 
 ```python
 @property
@@ -97,7 +97,7 @@ def help_text() -> str
 
 <a id="unreal.EditorUtilityWidget.help_text"></a>
 
-#### help_text
+#### help\_text
 
 ```python
 @help_text.setter
@@ -106,7 +106,7 @@ def help_text(value: str) -> None
 
 <a id="unreal.EditorUtilityWidget.auto_run_default_action"></a>
 
-#### auto_run_default_action
+#### auto\_run\_default\_action
 
 ```python
 @property
@@ -128,7 +128,7 @@ The default action called when the widget is invoked if bAutoRunDefaultAction=tr
 
 <a id="unreal.EditorUtilityWidget.on_default_action_clicked"></a>
 
-#### on_default_action_clicked
+#### on\_default\_action\_clicked
 
 ```python
 def on_default_action_clicked() -> None

@@ -21,7 +21,7 @@ This is the data which is not shared between fogs when multiple fogs are set up 
 
 <a id="unreal.ExponentialHeightFogData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(fog_density: float = 0.000000,
@@ -31,7 +31,7 @@ def __init__(fog_density: float = 0.000000,
 
 <a id="unreal.ExponentialHeightFogData.fog_density"></a>
 
-#### fog_density
+#### fog\_density
 
 ```python
 @property
@@ -42,7 +42,7 @@ def fog_density() -> float
 
 <a id="unreal.ExponentialHeightFogData.fog_height_falloff"></a>
 
-#### fog_height_falloff
+#### fog\_height\_falloff
 
 ```python
 @property
@@ -54,7 +54,7 @@ Smaller values make the visible transition larger.
 
 <a id="unreal.ExponentialHeightFogData.fog_height_offset"></a>
 
-#### fog_height_offset
+#### fog\_height\_offset
 
 ```python
 @property

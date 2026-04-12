@@ -15,7 +15,7 @@ instance and can pass it along to the audio system's SetObjectParameter function
 
 <a id="unreal.MetasoundParameterPack.set_trigger"></a>
 
-#### set_trigger
+#### set\_trigger
 
 ```python
 def set_trigger(parameter_name: Name,
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.set_string"></a>
 
-#### set_string
+#### set\_string
 
 ```python
 def set_string(parameter_name: Name,
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.set_int"></a>
 
-#### set_int
+#### set\_int
 
 ```python
 def set_int(parameter_name: Name,
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.set_float"></a>
 
-#### set_float
+#### set\_float
 
 ```python
 def set_float(parameter_name: Name,
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.set_bool"></a>
 
-#### set_bool
+#### set\_bool
 
 ```python
 def set_bool(parameter_name: Name,
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.make_metasound_parameter_pack"></a>
 
-#### make_metasound_parameter_pack
+#### make\_metasound\_parameter\_pack
 
 ```python
 @classmethod
@@ -133,7 +133,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.has_trigger"></a>
 
-#### has_trigger
+#### has\_trigger
 
 ```python
 def has_trigger(parameter_name: Name) -> bool
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.has_string"></a>
 
-#### has_string
+#### has\_string
 
 ```python
 def has_string(parameter_name: Name) -> bool
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.has_int"></a>
 
-#### has_int
+#### has\_int
 
 ```python
 def has_int(parameter_name: Name) -> bool
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.has_float"></a>
 
-#### has_float
+#### has\_float
 
 ```python
 def has_float(parameter_name: Name) -> bool
@@ -201,7 +201,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.has_bool"></a>
 
-#### has_bool
+#### has\_bool
 
 ```python
 def has_bool(parameter_name: Name) -> bool
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.get_trigger"></a>
 
-#### get_trigger
+#### get\_trigger
 
 ```python
 def get_trigger(parameter_name: Name) -> Optional[SetParamResult]
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.get_string"></a>
 
-#### get_string
+#### get\_string
 
 ```python
 def get_string(parameter_name: Name) -> Tuple[str, SetParamResult]
@@ -256,7 +256,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.get_int"></a>
 
-#### get_int
+#### get\_int
 
 ```python
 def get_int(parameter_name: Name) -> Tuple[int, SetParamResult]
@@ -275,7 +275,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.get_float"></a>
 
-#### get_float
+#### get\_float
 
 ```python
 def get_float(parameter_name: Name) -> Tuple[float, SetParamResult]
@@ -294,7 +294,7 @@ Returns:
 
 <a id="unreal.MetasoundParameterPack.get_bool"></a>
 
-#### get_bool
+#### get\_bool
 
 ```python
 def get_bool(parameter_name: Name) -> Optional[SetParamResult]

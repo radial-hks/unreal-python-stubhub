@@ -14,7 +14,7 @@ Py Test Other Interface
 
 <a id="unreal.PyTestOtherInterface.func_interface_other"></a>
 
-#### func_interface_other
+#### func\_interface\_other
 
 ```python
 def func_interface_other(value: int) -> int

@@ -23,7 +23,7 @@ These mappings should match a FInputDeviceScope that is used by an IInputDevice
 
 <a id="unreal.HardwareDeviceIdentifier.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(input_class_name: Name = "None",
@@ -35,7 +35,7 @@ def __init__(input_class_name: Name = "None",
 
 <a id="unreal.HardwareDeviceIdentifier.input_class_name"></a>
 
-#### input_class_name
+#### input\_class\_name
 
 ```python
 @property
@@ -47,7 +47,7 @@ This should correspond with a FInputDeviceScope that is used by an IInputDevice
 
 <a id="unreal.HardwareDeviceIdentifier.hardware_device_identifier"></a>
 
-#### hardware_device_identifier
+#### hardware\_device\_identifier
 
 ```python
 @property
@@ -59,7 +59,7 @@ This should correspond with a FInputDeviceScope that is used by an IInputDevice
 
 <a id="unreal.HardwareDeviceIdentifier.primary_device_type"></a>
 
-#### primary_device_type
+#### primary\_device\_type
 
 ```python
 @property
@@ -70,7 +70,7 @@ def primary_device_type() -> HardwareDevicePrimaryType
 
 <a id="unreal.HardwareDeviceIdentifier.supported_features_mask"></a>
 
-#### supported_features_mask
+#### supported\_features\_mask
 
 ```python
 @property

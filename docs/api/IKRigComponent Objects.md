@@ -30,7 +30,7 @@ IKRig Component
 
 <a id="unreal.IKRigComponent.set_ik_rig_goal_transform"></a>
 
-#### set_ik_rig_goal_transform
+#### set\_ik\_rig\_goal\_transform
 
 ```python
 def set_ik_rig_goal_transform(goal_name: Name, transform: Transform,
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.IKRigComponent.set_ik_rig_goal_position_and_rotation"></a>
 
-#### set_ik_rig_goal_position_and_rotation
+#### set\_ik\_rig\_goal\_position\_and\_rotation
 
 ```python
 def set_ik_rig_goal_position_and_rotation(goal_name: Name, position: Vector,
@@ -70,7 +70,7 @@ Args:
 
 <a id="unreal.IKRigComponent.set_ik_rig_goal"></a>
 
-#### set_ik_rig_goal
+#### set\_ik\_rig\_goal
 
 ```python
 def set_ik_rig_goal(goal: IKRigGoal) -> None
@@ -84,7 +84,7 @@ Args:
 
 <a id="unreal.IKRigComponent.clear_all_goals"></a>
 
-#### clear_all_goals
+#### clear\_all\_goals
 
 ```python
 def clear_all_goals() -> None
@@ -95,7 +95,7 @@ Remove all stored goals in this component.
 
 <a id="unreal.IKRigComponent.add_ik_goals"></a>
 
-#### add_ik_goals
+#### add\_ik\_goals
 
 ```python
 def add_ik_goals() -> Map[Name, IKRigGoal]

@@ -19,7 +19,7 @@ contains a local cache of the max channel count for the currently selected audio
 
 <a id="unreal.AudioInputDeviceChannelProperty.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(audio_input_device_channel: int = 0) -> None
@@ -27,7 +27,7 @@ def __init__(audio_input_device_channel: int = 0) -> None
 
 <a id="unreal.AudioInputDeviceChannelProperty.audio_input_device_channel"></a>
 
-#### audio_input_device_channel
+#### audio\_input\_device\_channel
 
 ```python
 @property
@@ -38,7 +38,7 @@ def audio_input_device_channel() -> int
 
 <a id="unreal.AudioInputDeviceChannelProperty.audio_input_device_channel"></a>
 
-#### audio_input_device_channel
+#### audio\_input\_device\_channel
 
 ```python
 @audio_input_device_channel.setter

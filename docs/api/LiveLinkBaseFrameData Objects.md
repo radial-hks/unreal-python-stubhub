@@ -20,7 +20,7 @@ note: subclass can't contains reference to UObject
 
 <a id="unreal.LiveLinkBaseFrameData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(meta_data: LiveLinkMetaData = [{}, [[0], [24, 1], 0.000000]],
@@ -29,7 +29,7 @@ def __init__(meta_data: LiveLinkMetaData = [{}, [[0], [24, 1], 0.000000]],
 
 <a id="unreal.LiveLinkBaseFrameData.meta_data"></a>
 
-#### meta_data
+#### meta\_data
 
 ```python
 @property
@@ -40,7 +40,7 @@ def meta_data() -> LiveLinkMetaData
 
 <a id="unreal.LiveLinkBaseFrameData.meta_data"></a>
 
-#### meta_data
+#### meta\_data
 
 ```python
 @meta_data.setter
@@ -49,7 +49,7 @@ def meta_data(value: LiveLinkMetaData) -> None
 
 <a id="unreal.LiveLinkBaseFrameData.property_values"></a>
 
-#### property_values
+#### property\_values
 
 ```python
 @property
@@ -60,7 +60,7 @@ def property_values() -> Array[float]
 
 <a id="unreal.LiveLinkBaseFrameData.property_values"></a>
 
-#### property_values
+#### property\_values
 
 ```python
 @property_values.setter

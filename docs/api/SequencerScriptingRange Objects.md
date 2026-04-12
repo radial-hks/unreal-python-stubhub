@@ -21,7 +21,7 @@ Sequencer Scripting Range
 
 <a id="unreal.SequencerScriptingRange.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(has_start_value: bool = False,
@@ -32,7 +32,7 @@ def __init__(has_start_value: bool = False,
 
 <a id="unreal.SequencerScriptingRange.has_start_value"></a>
 
-#### has_start_value
+#### has\_start\_value
 
 ```python
 @property
@@ -43,7 +43,7 @@ def has_start_value() -> bool
 
 <a id="unreal.SequencerScriptingRange.has_start_value"></a>
 
-#### has_start_value
+#### has\_start\_value
 
 ```python
 @has_start_value.setter
@@ -52,7 +52,7 @@ def has_start_value(value: bool) -> None
 
 <a id="unreal.SequencerScriptingRange.has_end_value"></a>
 
-#### has_end_value
+#### has\_end\_value
 
 ```python
 @property
@@ -63,7 +63,7 @@ def has_end_value() -> bool
 
 <a id="unreal.SequencerScriptingRange.has_end_value"></a>
 
-#### has_end_value
+#### has\_end\_value
 
 ```python
 @has_end_value.setter
@@ -72,7 +72,7 @@ def has_end_value(value: bool) -> None
 
 <a id="unreal.SequencerScriptingRange.inclusive_start"></a>
 
-#### inclusive_start
+#### inclusive\_start
 
 ```python
 @property
@@ -83,7 +83,7 @@ def inclusive_start() -> int
 
 <a id="unreal.SequencerScriptingRange.inclusive_start"></a>
 
-#### inclusive_start
+#### inclusive\_start
 
 ```python
 @inclusive_start.setter
@@ -92,7 +92,7 @@ def inclusive_start(value: int) -> None
 
 <a id="unreal.SequencerScriptingRange.exclusive_end"></a>
 
-#### exclusive_end
+#### exclusive\_end
 
 ```python
 @property
@@ -103,7 +103,7 @@ def exclusive_end() -> int
 
 <a id="unreal.SequencerScriptingRange.exclusive_end"></a>
 
-#### exclusive_end
+#### exclusive\_end
 
 ```python
 @exclusive_end.setter
@@ -112,7 +112,7 @@ def exclusive_end(value: int) -> None
 
 <a id="unreal.SequencerScriptingRange.set_start_seconds"></a>
 
-#### set_start_seconds
+#### set\_start\_seconds
 
 ```python
 def set_start_seconds(start: float) -> None
@@ -126,7 +126,7 @@ Args:
 
 <a id="unreal.SequencerScriptingRange.set_start_frame"></a>
 
-#### set_start_frame
+#### set\_start\_frame
 
 ```python
 def set_start_frame(start: int) -> None
@@ -140,7 +140,7 @@ Args:
 
 <a id="unreal.SequencerScriptingRange.set_end_seconds"></a>
 
-#### set_end_seconds
+#### set\_end\_seconds
 
 ```python
 def set_end_seconds(end: float) -> None
@@ -154,7 +154,7 @@ Args:
 
 <a id="unreal.SequencerScriptingRange.set_end_frame"></a>
 
-#### set_end_frame
+#### set\_end\_frame
 
 ```python
 def set_end_frame(end: int) -> None
@@ -168,7 +168,7 @@ Args:
 
 <a id="unreal.SequencerScriptingRange.remove_start"></a>
 
-#### remove_start
+#### remove\_start
 
 ```python
 def remove_start() -> None
@@ -179,7 +179,7 @@ Remove the start from this range, making it infinite
 
 <a id="unreal.SequencerScriptingRange.remove_end"></a>
 
-#### remove_end
+#### remove\_end
 
 ```python
 def remove_end() -> None
@@ -190,7 +190,7 @@ Remove the end from this range, making it infinite
 
 <a id="unreal.SequencerScriptingRange.has_start"></a>
 
-#### has_start
+#### has\_start
 
 ```python
 def has_start() -> bool
@@ -204,7 +204,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRange.has_end"></a>
 
-#### has_end
+#### has\_end
 
 ```python
 def has_end() -> bool
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRange.get_start_seconds"></a>
 
-#### get_start_seconds
+#### get\_start\_seconds
 
 ```python
 def get_start_seconds() -> float
@@ -232,7 +232,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRange.get_start_frame"></a>
 
-#### get_start_frame
+#### get\_start\_frame
 
 ```python
 def get_start_frame() -> int
@@ -246,7 +246,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRange.get_end_seconds"></a>
 
-#### get_end_seconds
+#### get\_end\_seconds
 
 ```python
 def get_end_seconds() -> float
@@ -260,7 +260,7 @@ Returns:
 
 <a id="unreal.SequencerScriptingRange.get_end_frame"></a>
 
-#### get_end_frame
+#### get\_end\_frame
 
 ```python
 def get_end_frame() -> int

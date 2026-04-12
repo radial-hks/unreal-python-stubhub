@@ -13,31 +13,31 @@ Types of MultiBoxes
 
 <a id="unreal.MultiBoxType.MENU_BAR"></a>
 
-#### MENU_BAR
+#### MENU\_BAR
 
 0: Horizontal menu bar
 
 <a id="unreal.MultiBoxType.TOOL_BAR"></a>
 
-#### TOOL_BAR
+#### TOOL\_BAR
 
 1: Horizontal tool bar
 
 <a id="unreal.MultiBoxType.VERTICAL_TOOL_BAR"></a>
 
-#### VERTICAL_TOOL_BAR
+#### VERTICAL\_TOOL\_BAR
 
 2: Vertical tool bar
 
 <a id="unreal.MultiBoxType.SLIM_HORIZONTAL_TOOL_BAR"></a>
 
-#### SLIM_HORIZONTAL_TOOL_BAR
+#### SLIM\_HORIZONTAL\_TOOL\_BAR
 
 3: Toolbar which is a slim version of the toolbar that aligns an icon and a text element horizontally
 
 <a id="unreal.MultiBoxType.UNIFORM_TOOL_BAR"></a>
 
-#### UNIFORM_TOOL_BAR
+#### UNIFORM\_TOOL\_BAR
 
 4: A toolbar that tries to arrange all toolbar items uniformly (supports only horizontal toolbars for now)
 
@@ -49,13 +49,13 @@ Types of MultiBoxes
 
 <a id="unreal.MultiBoxType.BUTTON_ROW"></a>
 
-#### BUTTON_ROW
+#### BUTTON\_ROW
 
 6: Buttons arranged in rows, with a maximum number of buttons per row, like a toolbar but can have multiple rows
 
 <a id="unreal.MultiBoxType.SLIM_HORIZONTAL_UNIFORM_TOOL_BAR"></a>
 
-#### SLIM_HORIZONTAL_UNIFORM_TOOL_BAR
+#### SLIM\_HORIZONTAL\_UNIFORM\_TOOL\_BAR
 
 7: A toolbar with horizontally-oriented buttons that tries to arrange all toolbar items uniformly
 

@@ -14,14 +14,14 @@ where to copy the height of the root from
 
 <a id="unreal.RootMotionHeightSource.COPY_HEIGHT_FROM_SOURCE"></a>
 
-#### COPY_HEIGHT_FROM_SOURCE
+#### COPY\_HEIGHT\_FROM\_SOURCE
 
 0
 
 <a id="unreal.RootMotionHeightSource.SNAP_TO_GROUND"></a>
 
-#### SNAP_TO_GROUND
+#### SNAP\_TO\_GROUND
 
 1
 
-<a id="unreal.PoseSearchInterruptMode"></a>
+<a id="unreal.PCGPointProperties"></a>

@@ -14,7 +14,7 @@ Interchange Light Node
 
 <a id="unreal.InterchangeLightNode.set_custom_use_ies_brightness"></a>
 
-#### set_custom_use_ies_brightness
+#### set\_custom\_use\_ies\_brightness
 
 ```python
 def set_custom_use_ies_brightness(attribute_value: bool,
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.set_custom_rotation"></a>
 
-#### set_custom_rotation
+#### set\_custom\_rotation
 
 ```python
 def set_custom_rotation(attribute_value: Rotator,
@@ -52,7 +52,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.set_custom_intensity_units"></a>
 
-#### set_custom_intensity_units
+#### set\_custom\_intensity\_units
 
 ```python
 def set_custom_intensity_units(attribute_value: InterchangeLightUnits) -> bool
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.set_custom_ies_texture"></a>
 
-#### set_custom_ies_texture
+#### set\_custom\_ies\_texture
 
 ```python
 def set_custom_ies_texture(attribute_value: str) -> bool
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.set_custom_ies_brightness_scale"></a>
 
-#### set_custom_ies_brightness_scale
+#### set\_custom\_ies\_brightness\_scale
 
 ```python
 def set_custom_ies_brightness_scale(attribute_value: float,
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.set_custom_attenuation_radius"></a>
 
-#### set_custom_attenuation_radius
+#### set\_custom\_attenuation\_radius
 
 ```python
 def set_custom_attenuation_radius(attribute_value: float) -> bool
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.get_custom_use_ies_brightness"></a>
 
-#### get_custom_use_ies_brightness
+#### get\_custom\_use\_ies\_brightness
 
 ```python
 def get_custom_use_ies_brightness() -> Optional[bool]
@@ -138,7 +138,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.get_custom_rotation"></a>
 
-#### get_custom_rotation
+#### get\_custom\_rotation
 
 ```python
 def get_custom_rotation() -> Optional[Rotator]
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.get_custom_intensity_units"></a>
 
-#### get_custom_intensity_units
+#### get\_custom\_intensity\_units
 
 ```python
 def get_custom_intensity_units() -> Optional[InterchangeLightUnits]
@@ -170,7 +170,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.get_custom_ies_texture"></a>
 
-#### get_custom_ies_texture
+#### get\_custom\_ies\_texture
 
 ```python
 def get_custom_ies_texture() -> Optional[str]
@@ -186,7 +186,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.get_custom_ies_brightness_scale"></a>
 
-#### get_custom_ies_brightness_scale
+#### get\_custom\_ies\_brightness\_scale
 
 ```python
 def get_custom_ies_brightness_scale() -> Optional[float]
@@ -202,7 +202,7 @@ Returns:
 
 <a id="unreal.InterchangeLightNode.get_custom_attenuation_radius"></a>
 
-#### get_custom_attenuation_radius
+#### get\_custom\_attenuation\_radius
 
 ```python
 def get_custom_attenuation_radius() -> Optional[float]

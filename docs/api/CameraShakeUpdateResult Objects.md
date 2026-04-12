@@ -8,7 +8,7 @@ deprecated: 'CameraShakeUpdateResult' was renamed to 'CameraShakePatternUpdateRe
 
 <a id="unreal.CameraShakeUpdateResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

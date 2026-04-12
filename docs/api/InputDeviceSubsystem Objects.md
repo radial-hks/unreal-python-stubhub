@@ -18,7 +18,7 @@ on any Platform User.
 
 <a id="unreal.InputDeviceSubsystem.on_input_hardware_device_changed"></a>
 
-#### on_input_hardware_device_changed
+#### on\_input\_hardware\_device\_changed
 
 ```python
 @property
@@ -29,7 +29,7 @@ def on_input_hardware_device_changed() -> HardwareInputDeviceChanged
 
 <a id="unreal.InputDeviceSubsystem.on_input_hardware_device_changed"></a>
 
-#### on_input_hardware_device_changed
+#### on\_input\_hardware\_device\_changed
 
 ```python
 @on_input_hardware_device_changed.setter
@@ -39,7 +39,7 @@ def on_input_hardware_device_changed(
 
 <a id="unreal.InputDeviceSubsystem.remove_device_property_handles"></a>
 
-#### remove_device_property_handles
+#### remove\_device\_property\_handles
 
 ```python
 def remove_device_property_handles(
@@ -54,7 +54,7 @@ Args:
 
 <a id="unreal.InputDeviceSubsystem.remove_device_property_by_handle"></a>
 
-#### remove_device_property_by_handle
+#### remove\_device\_property\_by\_handle
 
 ```python
 def remove_device_property_by_handle(
@@ -69,7 +69,7 @@ Args:
 
 <a id="unreal.InputDeviceSubsystem.remove_all_device_properties"></a>
 
-#### remove_all_device_properties
+#### remove\_all\_device\_properties
 
 ```python
 def remove_all_device_properties() -> None
@@ -80,7 +80,7 @@ Removes all the current Input Device Properties that are active, regardless of t
 
 <a id="unreal.InputDeviceSubsystem.is_property_active"></a>
 
-#### is_property_active
+#### is\_property\_active
 
 ```python
 def is_property_active(handle: InputDevicePropertyHandle) -> bool
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.InputDeviceSubsystem.get_most_recently_used_input_device_id"></a>
 
-#### get_most_recently_used_input_device_id
+#### get\_most\_recently\_used\_input\_device\_id
 
 ```python
 def get_most_recently_used_input_device_id(
@@ -117,7 +117,7 @@ Returns:
 
 <a id="unreal.InputDeviceSubsystem.get_most_recently_used_hardware_device"></a>
 
-#### get_most_recently_used_hardware_device
+#### get\_most\_recently\_used\_hardware\_device
 
 ```python
 def get_most_recently_used_hardware_device(
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.InputDeviceSubsystem.get_input_device_hardware_identifier"></a>
 
-#### get_input_device_hardware_identifier
+#### get\_input\_device\_hardware\_identifier
 
 ```python
 def get_input_device_hardware_identifier(
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.InputDeviceSubsystem.get_active_device_property"></a>
 
-#### get_active_device_property
+#### get\_active\_device\_property
 
 ```python
 def get_active_device_property(
@@ -171,7 +171,7 @@ Returns:
 
 <a id="unreal.InputDeviceSubsystem.activate_device_property_of_class"></a>
 
-#### activate_device_property_of_class
+#### activate\_device\_property\_of\_class
 
 ```python
 def activate_device_property_of_class(

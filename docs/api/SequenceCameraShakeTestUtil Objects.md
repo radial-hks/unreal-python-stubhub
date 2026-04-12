@@ -14,7 +14,7 @@ Sequence Camera Shake Test Util
 
 <a id="unreal.SequenceCameraShakeTestUtil.get_post_process_blend_cache"></a>
 
-#### get_post_process_blend_cache
+#### get\_post\_process\_blend\_cache
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.SequenceCameraShakeTestUtil.get_last_frame_camera_cache_pov"></a>
 
-#### get_last_frame_camera_cache_pov
+#### get\_last\_frame\_camera\_cache\_pov
 
 ```python
 @classmethod
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.SequenceCameraShakeTestUtil.get_camera_cache_pov"></a>
 
-#### get_camera_cache_pov
+#### get\_camera\_cache\_pov
 
 ```python
 @classmethod

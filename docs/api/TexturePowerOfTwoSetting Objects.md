@@ -19,32 +19,32 @@ Options for texture padding mode.
 
 <a id="unreal.TexturePowerOfTwoSetting.PAD_TO_POWER_OF_TWO"></a>
 
-#### PAD_TO_POWER_OF_TWO
+#### PAD\_TO\_POWER\_OF\_TWO
 
 1: Pad the texture to the nearest power of two size.
 
 <a id="unreal.TexturePowerOfTwoSetting.PAD_TO_SQUARE_POWER_OF_TWO"></a>
 
-#### PAD_TO_SQUARE_POWER_OF_TWO
+#### PAD\_TO\_SQUARE\_POWER\_OF\_TWO
 
 2: Pad the texture to the nearest square power of two size.
 
 <a id="unreal.TexturePowerOfTwoSetting.STRETCH_TO_POWER_OF_TWO"></a>
 
-#### STRETCH_TO_POWER_OF_TWO
+#### STRETCH\_TO\_POWER\_OF\_TWO
 
 3: Stretch the texture to the nearest power of two size.
 
 <a id="unreal.TexturePowerOfTwoSetting.STRETCH_TO_SQUARE_POWER_OF_TWO"></a>
 
-#### STRETCH_TO_SQUARE_POWER_OF_TWO
+#### STRETCH\_TO\_SQUARE\_POWER\_OF\_TWO
 
 4: Stretch the texture to the nearest square power of two size.
 
 <a id="unreal.TexturePowerOfTwoSetting.RESIZE_TO_SPECIFIC_RESOLUTION"></a>
 
-#### RESIZE_TO_SPECIFIC_RESOLUTION
+#### RESIZE\_TO\_SPECIFIC\_RESOLUTION
 
 5: Resize the texture to specific user defined resolution.
 
-<a id="unreal.TextureMipGenSettings"></a>
+<a id="unreal.TextureMipLoadOptions"></a>

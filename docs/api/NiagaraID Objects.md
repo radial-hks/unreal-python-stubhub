@@ -21,7 +21,7 @@ Niagara ID
 
 <a id="unreal.NiagaraID.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(index: int = 0, acquire_tag: int = 0) -> None
@@ -50,7 +50,7 @@ def index(value: int) -> None
 
 <a id="unreal.NiagaraID.acquire_tag"></a>
 
-#### acquire_tag
+#### acquire\_tag
 
 ```python
 @property
@@ -62,7 +62,7 @@ Allows us to differentiate between particles when one dies and another reuses it
 
 <a id="unreal.NiagaraID.acquire_tag"></a>
 
-#### acquire_tag
+#### acquire\_tag
 
 ```python
 @acquire_tag.setter

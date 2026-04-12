@@ -18,7 +18,7 @@ Meta Sound Asset Directory
 
 <a id="unreal.MetaSoundAssetDirectory.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(directory: DirectoryPath = [""]) -> None

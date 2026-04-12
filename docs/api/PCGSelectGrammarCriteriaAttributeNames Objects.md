@@ -22,7 +22,7 @@ Used for directly mapping custom attribute names to a criteria attribute set.
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key_attribute_name: Name = "None",
@@ -34,7 +34,7 @@ def __init__(key_attribute_name: Name = "None",
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.key_attribute_name"></a>
 
-#### key_attribute_name
+#### key\_attribute\_name
 
 ```python
 @property
@@ -45,7 +45,7 @@ def key_attribute_name() -> Name
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.key_attribute_name"></a>
 
-#### key_attribute_name
+#### key\_attribute\_name
 
 ```python
 @key_attribute_name.setter
@@ -54,7 +54,7 @@ def key_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.comparator_attribute_name"></a>
 
-#### comparator_attribute_name
+#### comparator\_attribute\_name
 
 ```python
 @property
@@ -65,7 +65,7 @@ def comparator_attribute_name() -> Name
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.comparator_attribute_name"></a>
 
-#### comparator_attribute_name
+#### comparator\_attribute\_name
 
 ```python
 @comparator_attribute_name.setter
@@ -74,7 +74,7 @@ def comparator_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.first_value_attribute_name"></a>
 
-#### first_value_attribute_name
+#### first\_value\_attribute\_name
 
 ```python
 @property
@@ -85,7 +85,7 @@ def first_value_attribute_name() -> Name
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.first_value_attribute_name"></a>
 
-#### first_value_attribute_name
+#### first\_value\_attribute\_name
 
 ```python
 @first_value_attribute_name.setter
@@ -94,7 +94,7 @@ def first_value_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.second_value_attribute_name"></a>
 
-#### second_value_attribute_name
+#### second\_value\_attribute\_name
 
 ```python
 @property
@@ -105,7 +105,7 @@ def second_value_attribute_name() -> Name
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.second_value_attribute_name"></a>
 
-#### second_value_attribute_name
+#### second\_value\_attribute\_name
 
 ```python
 @second_value_attribute_name.setter
@@ -114,7 +114,7 @@ def second_value_attribute_name(value: Name) -> None
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.grammar_attribute_name"></a>
 
-#### grammar_attribute_name
+#### grammar\_attribute\_name
 
 ```python
 @property
@@ -125,7 +125,7 @@ def grammar_attribute_name() -> Name
 
 <a id="unreal.PCGSelectGrammarCriteriaAttributeNames.grammar_attribute_name"></a>
 
-#### grammar_attribute_name
+#### grammar\_attribute\_name
 
 ```python
 @grammar_attribute_name.setter

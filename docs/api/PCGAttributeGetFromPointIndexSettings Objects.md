@@ -40,7 +40,7 @@ The Index can be overridden by a second Params input.
 
 <a id="unreal.PCGAttributeGetFromPointIndexSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -51,7 +51,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGAttributeGetFromPointIndexSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter
@@ -80,7 +80,7 @@ def index(value: int) -> None
 
 <a id="unreal.PCGAttributeGetFromPointIndexSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @property
@@ -91,7 +91,7 @@ def output_attribute_name() -> Name
 
 <a id="unreal.PCGAttributeGetFromPointIndexSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @output_attribute_name.setter

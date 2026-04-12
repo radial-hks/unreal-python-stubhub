@@ -15,7 +15,7 @@ array operations such as SetNum, GetAtIndex etc.
 
 <a id="unreal.RigVMArrayNode.get_op_code"></a>
 
-#### get_op_code
+#### get\_op\_code
 
 ```python
 def get_op_code() -> RigVMOpCode
@@ -29,7 +29,7 @@ Returns:
 
 <a id="unreal.RigVMArrayNode.get_cpp_type_object"></a>
 
-#### get_cpp_type_object
+#### get\_cpp\_type\_object
 
 ```python
 def get_cpp_type_object() -> Object
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.RigVMArrayNode.get_cpp_type"></a>
 
-#### get_cpp_type
+#### get\_cpp\_type
 
 ```python
 def get_cpp_type() -> str

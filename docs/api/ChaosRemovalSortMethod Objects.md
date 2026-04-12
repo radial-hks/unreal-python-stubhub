@@ -13,19 +13,19 @@ Enumeration defining how to sort removal results
 
 <a id="unreal.ChaosRemovalSortMethod.SORT_NONE"></a>
 
-#### SORT_NONE
+#### SORT\_NONE
 
 0
 
 <a id="unreal.ChaosRemovalSortMethod.SORT_BY_HIGHEST_MASS"></a>
 
-#### SORT_BY_HIGHEST_MASS
+#### SORT\_BY\_HIGHEST\_MASS
 
 1
 
 <a id="unreal.ChaosRemovalSortMethod.SORT_BY_NEAREST_FIRST"></a>
 
-#### SORT_BY_NEAREST_FIRST
+#### SORT\_BY\_NEAREST\_FIRST
 
 2
 

@@ -19,7 +19,7 @@ Control Rig Component Mapped Bone
 
 <a id="unreal.ControlRigComponentMappedBone.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(source: Name = "None", target: Name = "None") -> None

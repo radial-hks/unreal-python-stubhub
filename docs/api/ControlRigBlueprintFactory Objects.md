@@ -27,7 +27,7 @@ Control Rig Blueprint Factory
 
 <a id="unreal.ControlRigBlueprintFactory.create_new_control_rig_asset"></a>
 
-#### create_new_control_rig_asset
+#### create\_new\_control\_rig\_asset
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.ControlRigBlueprintFactory.create_control_rig_from_skeletal_mesh_or_skeleton"></a>
 
-#### create_control_rig_from_skeletal_mesh_or_skeleton
+#### create\_control\_rig\_from\_skeletal\_mesh\_or\_skeleton
 
 ```python
 @classmethod

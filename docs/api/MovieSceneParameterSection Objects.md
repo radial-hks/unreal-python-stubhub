@@ -26,7 +26,7 @@ A single movie scene section which can contain data for multiple named parameter
 
 <a id="unreal.MovieSceneParameterSection.remove_vector_parameter"></a>
 
-#### remove_vector_parameter
+#### remove\_vector\_parameter
 
 ```python
 def remove_vector_parameter(parameter_name: Name) -> bool
@@ -43,7 +43,7 @@ Returns:
 
 <a id="unreal.MovieSceneParameterSection.remove_vector2d_parameter"></a>
 
-#### remove_vector2d_parameter
+#### remove\_vector2d\_parameter
 
 ```python
 def remove_vector2d_parameter(parameter_name: Name) -> bool
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.MovieSceneParameterSection.remove_transform_parameter"></a>
 
-#### remove_transform_parameter
+#### remove\_transform\_parameter
 
 ```python
 def remove_transform_parameter(parameter_name: Name) -> bool
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.MovieSceneParameterSection.remove_scalar_parameter"></a>
 
-#### remove_scalar_parameter
+#### remove\_scalar\_parameter
 
 ```python
 def remove_scalar_parameter(parameter_name: Name) -> bool
@@ -94,7 +94,7 @@ Returns:
 
 <a id="unreal.MovieSceneParameterSection.remove_color_parameter"></a>
 
-#### remove_color_parameter
+#### remove\_color\_parameter
 
 ```python
 def remove_color_parameter(parameter_name: Name) -> bool
@@ -111,7 +111,7 @@ Returns:
 
 <a id="unreal.MovieSceneParameterSection.remove_bool_parameter"></a>
 
-#### remove_bool_parameter
+#### remove\_bool\_parameter
 
 ```python
 def remove_bool_parameter(parameter_name: Name) -> bool
@@ -128,7 +128,7 @@ Returns:
 
 <a id="unreal.MovieSceneParameterSection.get_parameter_names"></a>
 
-#### get_parameter_names
+#### get\_parameter\_names
 
 ```python
 def get_parameter_names() -> Set[Name]
@@ -144,7 +144,7 @@ Returns:
 
 <a id="unreal.MovieSceneParameterSection.add_vector_parameter_key"></a>
 
-#### add_vector_parameter_key
+#### add\_vector\_parameter\_key
 
 ```python
 def add_vector_parameter_key(parameter_name: Name, time: FrameNumber,
@@ -161,7 +161,7 @@ Args:
 
 <a id="unreal.MovieSceneParameterSection.add_vector2d_parameter_key"></a>
 
-#### add_vector2d_parameter_key
+#### add\_vector2d\_parameter\_key
 
 ```python
 def add_vector2d_parameter_key(parameter_name: Name, time: FrameNumber,
@@ -178,7 +178,7 @@ Args:
 
 <a id="unreal.MovieSceneParameterSection.add_transform_parameter_key"></a>
 
-#### add_transform_parameter_key
+#### add\_transform\_parameter\_key
 
 ```python
 def add_transform_parameter_key(parameter_name: Name, time: FrameNumber,
@@ -195,7 +195,7 @@ Args:
 
 <a id="unreal.MovieSceneParameterSection.add_scalar_parameter_key"></a>
 
-#### add_scalar_parameter_key
+#### add\_scalar\_parameter\_key
 
 ```python
 def add_scalar_parameter_key(parameter_name: Name, time: FrameNumber,
@@ -212,7 +212,7 @@ Args:
 
 <a id="unreal.MovieSceneParameterSection.add_color_parameter_key"></a>
 
-#### add_color_parameter_key
+#### add\_color\_parameter\_key
 
 ```python
 def add_color_parameter_key(parameter_name: Name, time: FrameNumber,
@@ -229,7 +229,7 @@ Args:
 
 <a id="unreal.MovieSceneParameterSection.add_bool_parameter_key"></a>
 
-#### add_bool_parameter_key
+#### add\_bool\_parameter\_key
 
 ```python
 def add_bool_parameter_key(parameter_name: Name, time: FrameNumber,

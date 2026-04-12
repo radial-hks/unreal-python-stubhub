@@ -17,7 +17,7 @@ to the runtime result of the Graph / Function.
 
 <a id="unreal.RigVMCommentNode.get_comment_text"></a>
 
-#### get_comment_text
+#### get\_comment\_text
 
 ```python
 def get_comment_text() -> str
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.RigVMCommentNode.get_comment_font_size"></a>
 
-#### get_comment_font_size
+#### get\_comment\_font\_size
 
 ```python
 def get_comment_font_size() -> int
@@ -45,7 +45,7 @@ Returns:
 
 <a id="unreal.RigVMCommentNode.get_comment_color_bubble"></a>
 
-#### get_comment_color_bubble
+#### get\_comment\_color\_bubble
 
 ```python
 def get_comment_color_bubble() -> bool
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.RigVMCommentNode.get_comment_bubble_visible"></a>
 
-#### get_comment_bubble_visible
+#### get\_comment\_bubble\_visible
 
 ```python
 def get_comment_bubble_visible() -> bool

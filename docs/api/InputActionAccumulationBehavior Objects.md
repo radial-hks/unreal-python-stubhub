@@ -15,7 +15,7 @@ multiple mappings to the same Input Action. The default behavior is to accept hi
 
 <a id="unreal.InputActionAccumulationBehavior.TAKE_HIGHEST_ABSOLUTE_VALUE"></a>
 
-#### TAKE_HIGHEST_ABSOLUTE_VALUE
+#### TAKE\_HIGHEST\_ABSOLUTE\_VALUE
 
 0: Take the value from the mapping with the highest Absolute Value.
 

@@ -18,7 +18,7 @@ Movie Scene Scripting Channel
 
 <a id="unreal.MovieSceneScriptingChannel.channel_name"></a>
 
-#### channel_name
+#### channel\_name
 
 ```python
 @property

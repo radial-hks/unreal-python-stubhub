@@ -32,20 +32,20 @@ DO NOT modify the order or values of these enums - the code relies on the order 
 
 <a id="unreal.LiveLinkAxis.X_NEG"></a>
 
-#### X_NEG
+#### X\_NEG
 
 3
 
 <a id="unreal.LiveLinkAxis.Y_NEG"></a>
 
-#### Y_NEG
+#### Y\_NEG
 
 4
 
 <a id="unreal.LiveLinkAxis.Z_NEG"></a>
 
-#### Z_NEG
+#### Z\_NEG
 
 5
 
-<a id="unreal.AttributeBasedRootMotionMode"></a>
+<a id="unreal.WdpVegetationSamplerType"></a>

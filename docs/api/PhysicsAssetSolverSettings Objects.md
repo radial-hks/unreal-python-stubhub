@@ -38,7 +38,7 @@ note: These settings have no effect when the Physics Asset is used in a world si
 
 <a id="unreal.PhysicsAssetSolverSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(position_iterations: int = 0,
@@ -53,7 +53,7 @@ def __init__(position_iterations: int = 0,
 
 <a id="unreal.PhysicsAssetSolverSettings.position_iterations"></a>
 
-#### position_iterations
+#### position\_iterations
 
 ```python
 @property
@@ -65,7 +65,7 @@ Increasing this will improve simulation stability, but increase the cost.
 
 <a id="unreal.PhysicsAssetSolverSettings.position_iterations"></a>
 
-#### position_iterations
+#### position\_iterations
 
 ```python
 @position_iterations.setter
@@ -74,7 +74,7 @@ def position_iterations(value: int) -> None
 
 <a id="unreal.PhysicsAssetSolverSettings.velocity_iterations"></a>
 
-#### velocity_iterations
+#### velocity\_iterations
 
 ```python
 @property
@@ -86,7 +86,7 @@ This should usually be 1, but could be 0 if you don't care about friction and re
 
 <a id="unreal.PhysicsAssetSolverSettings.velocity_iterations"></a>
 
-#### velocity_iterations
+#### velocity\_iterations
 
 ```python
 @velocity_iterations.setter
@@ -95,7 +95,7 @@ def velocity_iterations(value: int) -> None
 
 <a id="unreal.PhysicsAssetSolverSettings.projection_iterations"></a>
 
-#### projection_iterations
+#### projection\_iterations
 
 ```python
 @property
@@ -110,7 +110,7 @@ This should be left as 1 in almost all cases.
 
 <a id="unreal.PhysicsAssetSolverSettings.projection_iterations"></a>
 
-#### projection_iterations
+#### projection\_iterations
 
 ```python
 @projection_iterations.setter
@@ -119,7 +119,7 @@ def projection_iterations(value: int) -> None
 
 <a id="unreal.PhysicsAssetSolverSettings.cull_distance"></a>
 
-#### cull_distance
+#### cull\_distance
 
 ```python
 @property
@@ -131,7 +131,7 @@ movement in your simulation, but small enough so that we don't have to speculati
 
 <a id="unreal.PhysicsAssetSolverSettings.cull_distance"></a>
 
-#### cull_distance
+#### cull\_distance
 
 ```python
 @cull_distance.setter
@@ -140,7 +140,7 @@ def cull_distance(value: float) -> None
 
 <a id="unreal.PhysicsAssetSolverSettings.max_depenetration_velocity"></a>
 
-#### max_depenetration_velocity
+#### max\_depenetration\_velocity
 
 ```python
 @property
@@ -151,7 +151,7 @@ def max_depenetration_velocity() -> float
 
 <a id="unreal.PhysicsAssetSolverSettings.max_depenetration_velocity"></a>
 
-#### max_depenetration_velocity
+#### max\_depenetration\_velocity
 
 ```python
 @max_depenetration_velocity.setter
@@ -160,7 +160,7 @@ def max_depenetration_velocity(value: float) -> None
 
 <a id="unreal.PhysicsAssetSolverSettings.fixed_time_step"></a>
 
-#### fixed_time_step
+#### fixed\_time\_step
 
 ```python
 @property
@@ -173,7 +173,7 @@ which increases the cost.
 
 <a id="unreal.PhysicsAssetSolverSettings.fixed_time_step"></a>
 
-#### fixed_time_step
+#### fixed\_time\_step
 
 ```python
 @fixed_time_step.setter
@@ -182,7 +182,7 @@ def fixed_time_step(value: float) -> None
 
 <a id="unreal.PhysicsAssetSolverSettings.use_linear_joint_solver"></a>
 
-#### use_linear_joint_solver
+#### use\_linear\_joint\_solver
 
 ```python
 @property
@@ -196,7 +196,7 @@ possible, only using the non-linear solver as a last resort.
 
 <a id="unreal.PhysicsAssetSolverSettings.use_linear_joint_solver"></a>
 
-#### use_linear_joint_solver
+#### use\_linear\_joint\_solver
 
 ```python
 @use_linear_joint_solver.setter
@@ -205,7 +205,7 @@ def use_linear_joint_solver(value: bool) -> None
 
 <a id="unreal.PhysicsAssetSolverSettings.use_manifolds"></a>
 
-#### use_manifolds
+#### use\_manifolds
 
 ```python
 @property
@@ -217,7 +217,7 @@ When disabled, a single-point contact is generated in each solver iteration whic
 
 <a id="unreal.PhysicsAssetSolverSettings.use_manifolds"></a>
 
-#### use_manifolds
+#### use\_manifolds
 
 ```python
 @use_manifolds.setter

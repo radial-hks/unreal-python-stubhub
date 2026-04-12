@@ -14,7 +14,7 @@ Audio Capture Blueprint Library
 
 <a id="unreal.AudioCaptureLibrary.get_available_audio_input_devices"></a>
 
-#### get_available_audio_input_devices
+#### get\_available\_audio\_input\_devices
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.AudioCaptureLibrary.conv_audio_input_device_info_to_string"></a>
 
-#### conv_audio_input_device_info_to_string
+#### conv\_audio\_input\_device\_info\_to\_string
 
 ```python
 @classmethod

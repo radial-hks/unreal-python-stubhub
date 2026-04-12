@@ -20,7 +20,7 @@ Data Layer Asset
 
 <a id="unreal.DataLayerAsset.is_server_only"></a>
 
-#### is_server_only
+#### is\_server\_only
 
 ```python
 def is_server_only() -> bool
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.DataLayerAsset.is_runtime"></a>
 
-#### is_runtime
+#### is\_runtime
 
 ```python
 def is_runtime() -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.DataLayerAsset.is_client_only"></a>
 
-#### is_client_only
+#### is\_client\_only
 
 ```python
 def is_client_only() -> bool
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.DataLayerAsset.get_type"></a>
 
-#### get_type
+#### get\_type
 
 ```python
 def get_type() -> DataLayerType
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.DataLayerAsset.get_debug_color"></a>
 
-#### get_debug_color
+#### get\_debug\_color
 
 ```python
 def get_debug_color() -> Color

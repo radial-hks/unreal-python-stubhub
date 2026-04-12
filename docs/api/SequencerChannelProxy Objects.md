@@ -19,7 +19,7 @@ Sequencer Channel Proxy
 
 <a id="unreal.SequencerChannelProxy.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(channel_name: Name = "None",
@@ -28,7 +28,7 @@ def __init__(channel_name: Name = "None",
 
 <a id="unreal.SequencerChannelProxy.channel_name"></a>
 
-#### channel_name
+#### channel\_name
 
 ```python
 @property
@@ -39,7 +39,7 @@ def channel_name() -> Name
 
 <a id="unreal.SequencerChannelProxy.channel_name"></a>
 
-#### channel_name
+#### channel\_name
 
 ```python
 @channel_name.setter

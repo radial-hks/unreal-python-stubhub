@@ -49,7 +49,7 @@ Niagara Light Renderer Properties
 
 <a id="unreal.NiagaraLightRendererProperties.inverse_exposure_blend"></a>
 
-#### inverse_exposure_blend
+#### inverse\_exposure\_blend
 
 ```python
 @property

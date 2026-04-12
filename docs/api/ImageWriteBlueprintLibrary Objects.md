@@ -13,7 +13,7 @@ Function library containing utility methods for writing images on a global async
 
 <a id="unreal.ImageWriteBlueprintLibrary.export_to_disk"></a>
 
-#### export_to_disk
+#### export\_to\_disk
 
 ```python
 @classmethod

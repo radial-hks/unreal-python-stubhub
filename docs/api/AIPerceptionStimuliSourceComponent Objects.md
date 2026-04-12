@@ -31,7 +31,7 @@ Gives owning actor a way to auto-register as perception system's sense stimuli s
 
 <a id="unreal.AIPerceptionStimuliSourceComponent.auto_register_as_source"></a>
 
-#### auto_register_as_source
+#### auto\_register\_as\_source
 
 ```python
 @property
@@ -42,7 +42,7 @@ def auto_register_as_source() -> bool
 
 <a id="unreal.AIPerceptionStimuliSourceComponent.register_as_source_for_senses"></a>
 
-#### register_as_source_for_senses
+#### register\_as\_source\_for\_senses
 
 ```python
 @property
@@ -53,7 +53,7 @@ def register_as_source_for_senses() -> Array[Class]
 
 <a id="unreal.AIPerceptionStimuliSourceComponent.unregister_from_sense"></a>
 
-#### unregister_from_sense
+#### unregister\_from\_sense
 
 ```python
 def unregister_from_sense(sense_class: Class) -> None
@@ -67,7 +67,7 @@ Args:
 
 <a id="unreal.AIPerceptionStimuliSourceComponent.unregister_from_perception_system"></a>
 
-#### unregister_from_perception_system
+#### unregister\_from\_perception\_system
 
 ```python
 def unregister_from_perception_system() -> None
@@ -78,7 +78,7 @@ Unregister owning actor from being a source of sense stimuli
 
 <a id="unreal.AIPerceptionStimuliSourceComponent.register_with_perception_system"></a>
 
-#### register_with_perception_system
+#### register\_with\_perception\_system
 
 ```python
 def register_with_perception_system() -> None
@@ -90,7 +90,7 @@ Registers owning actor as source of stimuli for senses specified in RegisterAsSo
 
 <a id="unreal.AIPerceptionStimuliSourceComponent.register_for_sense"></a>
 
-#### register_for_sense
+#### register\_for\_sense
 
 ```python
 def register_for_sense(sense_class: Class) -> None

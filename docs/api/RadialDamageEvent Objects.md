@@ -13,7 +13,7 @@ Damage subclass that handles damage with a source location and falloff radius
 
 <a id="unreal.RadialDamageEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

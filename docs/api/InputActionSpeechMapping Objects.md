@@ -19,7 +19,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Input/index.html
 
 <a id="unreal.InputActionSpeechMapping.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

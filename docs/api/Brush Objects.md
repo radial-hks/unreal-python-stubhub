@@ -146,7 +146,7 @@ Brush
 
 <a id="unreal.Brush.brush_component"></a>
 
-#### brush_component
+#### brush\_component
 
 ```python
 @property

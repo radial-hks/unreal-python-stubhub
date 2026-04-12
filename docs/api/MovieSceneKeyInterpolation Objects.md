@@ -43,8 +43,8 @@ EMovie Scene Key Interpolation
 
 <a id="unreal.MovieSceneKeyInterpolation.SMART_AUTO"></a>
 
-#### SMART_AUTO
+#### SMART\_AUTO
 
 5: Smart Auto.
 
-<a id="unreal.MediaTextureVisibleMipsTiles"></a>
+<a id="unreal.AnimLayerType"></a>

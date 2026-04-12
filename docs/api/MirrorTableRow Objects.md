@@ -19,7 +19,7 @@ Base Mirror Table containing all data required by the animation mirroring system
 
 <a id="unreal.MirrorTableRow.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -40,7 +40,7 @@ def name() -> Name
 
 <a id="unreal.MirrorTableRow.mirrored_name"></a>
 
-#### mirrored_name
+#### mirrored\_name
 
 ```python
 @property
@@ -51,7 +51,7 @@ def mirrored_name() -> Name
 
 <a id="unreal.MirrorTableRow.mirror_entry_type"></a>
 
-#### mirror_entry_type
+#### mirror\_entry\_type
 
 ```python
 @property

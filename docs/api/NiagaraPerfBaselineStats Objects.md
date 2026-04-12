@@ -21,7 +21,7 @@ Niagara Perf Baseline Stats
 
 <a id="unreal.NiagaraPerfBaselineStats.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(per_instance_avg_gt: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(per_instance_avg_gt: float = 0.000000,
 
 <a id="unreal.NiagaraPerfBaselineStats.per_instance_avg_gt"></a>
 
-#### per_instance_avg_gt
+#### per\_instance\_avg\_gt
 
 ```python
 @property
@@ -43,7 +43,7 @@ def per_instance_avg_gt() -> float
 
 <a id="unreal.NiagaraPerfBaselineStats.per_instance_avg_gt"></a>
 
-#### per_instance_avg_gt
+#### per\_instance\_avg\_gt
 
 ```python
 @per_instance_avg_gt.setter
@@ -52,7 +52,7 @@ def per_instance_avg_gt(value: float) -> None
 
 <a id="unreal.NiagaraPerfBaselineStats.per_instance_avg_rt"></a>
 
-#### per_instance_avg_rt
+#### per\_instance\_avg\_rt
 
 ```python
 @property
@@ -63,7 +63,7 @@ def per_instance_avg_rt() -> float
 
 <a id="unreal.NiagaraPerfBaselineStats.per_instance_avg_rt"></a>
 
-#### per_instance_avg_rt
+#### per\_instance\_avg\_rt
 
 ```python
 @per_instance_avg_rt.setter
@@ -72,7 +72,7 @@ def per_instance_avg_rt(value: float) -> None
 
 <a id="unreal.NiagaraPerfBaselineStats.per_instance_max_gt"></a>
 
-#### per_instance_max_gt
+#### per\_instance\_max\_gt
 
 ```python
 @property
@@ -83,7 +83,7 @@ def per_instance_max_gt() -> float
 
 <a id="unreal.NiagaraPerfBaselineStats.per_instance_max_gt"></a>
 
-#### per_instance_max_gt
+#### per\_instance\_max\_gt
 
 ```python
 @per_instance_max_gt.setter
@@ -92,7 +92,7 @@ def per_instance_max_gt(value: float) -> None
 
 <a id="unreal.NiagaraPerfBaselineStats.per_instance_max_rt"></a>
 
-#### per_instance_max_rt
+#### per\_instance\_max\_rt
 
 ```python
 @property
@@ -103,7 +103,7 @@ def per_instance_max_rt() -> float
 
 <a id="unreal.NiagaraPerfBaselineStats.per_instance_max_rt"></a>
 
-#### per_instance_max_rt
+#### per\_instance\_max\_rt
 
 ```python
 @per_instance_max_rt.setter

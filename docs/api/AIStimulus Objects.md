@@ -23,7 +23,7 @@ AIStimulus
 
 <a id="unreal.AIStimulus.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(age: float = 0.000000,
@@ -57,7 +57,7 @@ def age(value: float) -> None
 
 <a id="unreal.AIStimulus.expiration_age"></a>
 
-#### expiration_age
+#### expiration\_age
 
 ```python
 @property
@@ -68,7 +68,7 @@ def expiration_age() -> float
 
 <a id="unreal.AIStimulus.expiration_age"></a>
 
-#### expiration_age
+#### expiration\_age
 
 ```python
 @expiration_age.setter
@@ -97,7 +97,7 @@ def strength(value: float) -> None
 
 <a id="unreal.AIStimulus.stimulus_location"></a>
 
-#### stimulus_location
+#### stimulus\_location
 
 ```python
 @property
@@ -108,7 +108,7 @@ def stimulus_location() -> Vector
 
 <a id="unreal.AIStimulus.stimulus_location"></a>
 
-#### stimulus_location
+#### stimulus\_location
 
 ```python
 @stimulus_location.setter
@@ -117,7 +117,7 @@ def stimulus_location(value: Vector) -> None
 
 <a id="unreal.AIStimulus.receiver_location"></a>
 
-#### receiver_location
+#### receiver\_location
 
 ```python
 @property
@@ -128,7 +128,7 @@ def receiver_location() -> Vector
 
 <a id="unreal.AIStimulus.receiver_location"></a>
 
-#### receiver_location
+#### receiver\_location
 
 ```python
 @receiver_location.setter
@@ -157,7 +157,7 @@ def tag(value: Name) -> None
 
 <a id="unreal.AIStimulus.successfully_sensed"></a>
 
-#### successfully_sensed
+#### successfully\_sensed
 
 ```python
 @property
@@ -168,7 +168,7 @@ def successfully_sensed() -> bool
 
 <a id="unreal.AIStimulus.successfully_sensed"></a>
 
-#### successfully_sensed
+#### successfully\_sensed
 
 ```python
 @successfully_sensed.setter

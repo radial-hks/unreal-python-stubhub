@@ -26,7 +26,7 @@ held down and bDown=true and bPressed=false.
 
 <a id="unreal.DeviceButtonState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(button: Key = [],
@@ -118,7 +118,7 @@ def released(value: bool) -> None
 
 <a id="unreal.DeviceButtonState.double_clicked"></a>
 
-#### double_clicked
+#### double\_clicked
 
 ```python
 @property
@@ -129,7 +129,7 @@ def double_clicked() -> bool
 
 <a id="unreal.DeviceButtonState.double_clicked"></a>
 
-#### double_clicked
+#### double\_clicked
 
 ```python
 @double_clicked.setter

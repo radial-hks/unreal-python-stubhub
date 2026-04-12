@@ -34,7 +34,7 @@ PCGDebug Settings
 
 <a id="unreal.PCGDebugSettings.target_actor"></a>
 
-#### target_actor
+#### target\_actor
 
 ```python
 @property
@@ -45,7 +45,7 @@ def target_actor() -> Actor
 
 <a id="unreal.PCGDebugSettings.target_actor"></a>
 
-#### target_actor
+#### target\_actor
 
 ```python
 @target_actor.setter

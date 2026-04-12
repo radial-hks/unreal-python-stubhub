@@ -154,7 +154,7 @@ see: FDebugTextInfo
 
 <a id="unreal.HUD.player_owner"></a>
 
-#### player_owner
+#### player\_owner
 
 ```python
 @property
@@ -165,7 +165,7 @@ def player_owner() -> PlayerController
 
 <a id="unreal.HUD.lost_focus_paused"></a>
 
-#### lost_focus_paused
+#### lost\_focus\_paused
 
 ```python
 @property
@@ -176,7 +176,7 @@ def lost_focus_paused() -> bool
 
 <a id="unreal.HUD.show_hud"></a>
 
-#### show_hud
+#### show\_hud
 
 ```python
 @property
@@ -187,7 +187,7 @@ def show_hud() -> bool
 
 <a id="unreal.HUD.show_hud"></a>
 
-#### show_hud
+#### show\_hud
 
 ```python
 @show_hud.setter
@@ -196,7 +196,7 @@ def show_hud(value: bool) -> None
 
 <a id="unreal.HUD.show_debug_info"></a>
 
-#### show_debug_info
+#### show\_debug\_info
 
 ```python
 @property
@@ -207,7 +207,7 @@ def show_debug_info() -> bool
 
 <a id="unreal.HUD.show_debug_info"></a>
 
-#### show_debug_info
+#### show\_debug\_info
 
 ```python
 @show_debug_info.setter
@@ -216,7 +216,7 @@ def show_debug_info(value: bool) -> None
 
 <a id="unreal.HUD.show_hit_box_debug_info"></a>
 
-#### show_hit_box_debug_info
+#### show\_hit\_box\_debug\_info
 
 ```python
 @property
@@ -227,7 +227,7 @@ def show_hit_box_debug_info() -> bool
 
 <a id="unreal.HUD.show_hit_box_debug_info"></a>
 
-#### show_hit_box_debug_info
+#### show\_hit\_box\_debug\_info
 
 ```python
 @show_hit_box_debug_info.setter
@@ -236,7 +236,7 @@ def show_hit_box_debug_info(value: bool) -> None
 
 <a id="unreal.HUD.show_overlays"></a>
 
-#### show_overlays
+#### show\_overlays
 
 ```python
 @property
@@ -247,7 +247,7 @@ def show_overlays() -> bool
 
 <a id="unreal.HUD.show_overlays"></a>
 
-#### show_overlays
+#### show\_overlays
 
 ```python
 @show_overlays.setter
@@ -256,7 +256,7 @@ def show_overlays(value: bool) -> None
 
 <a id="unreal.HUD.enable_debug_text_shadow"></a>
 
-#### enable_debug_text_shadow
+#### enable\_debug\_text\_shadow
 
 ```python
 @property
@@ -267,7 +267,7 @@ def enable_debug_text_shadow() -> bool
 
 <a id="unreal.HUD.enable_debug_text_shadow"></a>
 
-#### enable_debug_text_shadow
+#### enable\_debug\_text\_shadow
 
 ```python
 @enable_debug_text_shadow.setter
@@ -276,7 +276,7 @@ def enable_debug_text_shadow(value: bool) -> None
 
 <a id="unreal.HUD.receive_hit_box_release"></a>
 
-#### receive_hit_box_release
+#### receive\_hit\_box\_release
 
 ```python
 def receive_hit_box_release(box_name: Name) -> None
@@ -290,7 +290,7 @@ Args:
 
 <a id="unreal.HUD.receive_hit_box_end_cursor_over"></a>
 
-#### receive_hit_box_end_cursor_over
+#### receive\_hit\_box\_end\_cursor\_over
 
 ```python
 def receive_hit_box_end_cursor_over(box_name: Name) -> None
@@ -304,7 +304,7 @@ Args:
 
 <a id="unreal.HUD.receive_hit_box_click"></a>
 
-#### receive_hit_box_click
+#### receive\_hit\_box\_click
 
 ```python
 def receive_hit_box_click(box_name: Name) -> None
@@ -318,7 +318,7 @@ Args:
 
 <a id="unreal.HUD.receive_hit_box_begin_cursor_over"></a>
 
-#### receive_hit_box_begin_cursor_over
+#### receive\_hit\_box\_begin\_cursor\_over
 
 ```python
 def receive_hit_box_begin_cursor_over(box_name: Name) -> None
@@ -332,7 +332,7 @@ Args:
 
 <a id="unreal.HUD.receive_draw_hud"></a>
 
-#### receive_draw_hud
+#### receive\_draw\_hud
 
 ```python
 def receive_draw_hud(size_x: int, size_y: int) -> None
@@ -366,7 +366,7 @@ Returns:
 
 <a id="unreal.HUD.get_text_size"></a>
 
-#### get_text_size
+#### get\_text\_size
 
 ```python
 def get_text_size(text: str,
@@ -391,7 +391,7 @@ Returns:
 
 <a id="unreal.HUD.get_owning_player_controller"></a>
 
-#### get_owning_player_controller
+#### get\_owning\_player\_controller
 
 ```python
 def get_owning_player_controller() -> PlayerController
@@ -405,7 +405,7 @@ Returns:
 
 <a id="unreal.HUD.get_owning_pawn"></a>
 
-#### get_owning_pawn
+#### get\_owning\_pawn
 
 ```python
 def get_owning_pawn() -> Pawn
@@ -419,7 +419,7 @@ Returns:
 
 <a id="unreal.HUD.get_actors_in_selection_rectangle"></a>
 
-#### get_actors_in_selection_rectangle
+#### get\_actors\_in\_selection\_rectangle
 
 ```python
 def get_actors_in_selection_rectangle(
@@ -452,7 +452,7 @@ Returns:
 
 <a id="unreal.HUD.draw_texture_simple"></a>
 
-#### draw_texture_simple
+#### draw\_texture\_simple
 
 ```python
 def draw_texture_simple(texture: Texture,
@@ -474,7 +474,7 @@ Args:
 
 <a id="unreal.HUD.draw_texture"></a>
 
-#### draw_texture
+#### draw\_texture
 
 ```python
 def draw_texture(texture: Texture,
@@ -518,7 +518,7 @@ Args:
 
 <a id="unreal.HUD.draw_text"></a>
 
-#### draw_text
+#### draw\_text
 
 ```python
 def draw_text(text: str,
@@ -546,7 +546,7 @@ Args:
 
 <a id="unreal.HUD.draw_rect"></a>
 
-#### draw_rect
+#### draw\_rect
 
 ```python
 def draw_rect(rect_color: LinearColor = [
@@ -570,7 +570,7 @@ Args:
 
 <a id="unreal.HUD.draw_material_triangle"></a>
 
-#### draw_material_triangle
+#### draw\_material\_triangle
 
 ```python
 def draw_material_triangle(
@@ -604,7 +604,7 @@ Args:
 
 <a id="unreal.HUD.draw_material_simple"></a>
 
-#### draw_material_simple
+#### draw\_material\_simple
 
 ```python
 def draw_material_simple(material: MaterialInterface,
@@ -630,7 +630,7 @@ Args:
 
 <a id="unreal.HUD.draw_material"></a>
 
-#### draw_material
+#### draw\_material
 
 ```python
 def draw_material(material: MaterialInterface,
@@ -668,7 +668,7 @@ Args:
 
 <a id="unreal.HUD.draw_line"></a>
 
-#### draw_line
+#### draw\_line
 
 ```python
 def draw_line(start_screen_x: float,
@@ -716,7 +716,7 @@ Returns:
 
 <a id="unreal.HUD.add_hit_box"></a>
 
-#### add_hit_box
+#### add\_hit\_box
 
 ```python
 def add_hit_box(position: Vector2D,

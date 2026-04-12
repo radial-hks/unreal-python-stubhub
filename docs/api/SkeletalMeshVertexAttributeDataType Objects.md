@@ -19,13 +19,13 @@ ESkeletal Mesh Vertex Attribute Data Type
 
 <a id="unreal.SkeletalMeshVertexAttributeDataType.HALF_FLOAT"></a>
 
-#### HALF_FLOAT
+#### HALF\_FLOAT
 
 1: Store the vertex attribute values as a 16-bit floating point (half)
 
 <a id="unreal.SkeletalMeshVertexAttributeDataType.NU_INT8"></a>
 
-#### NU_INT8
+#### NU\_INT8
 
 2: Quantize and store the vertex attribute values as an unsigned normalized 8-bit integer. Values outside the [0.0 - 1.0] range are clamped.
 

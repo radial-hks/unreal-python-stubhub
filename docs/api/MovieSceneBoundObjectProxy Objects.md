@@ -13,7 +13,7 @@ Movie Scene Bound Object Proxy
 
 <a id="unreal.MovieSceneBoundObjectProxy.bp_get_bound_object_for_sequencer"></a>
 
-#### bp_get_bound_object_for_sequencer
+#### bp\_get\_bound\_object\_for\_sequencer
 
 ```python
 def bp_get_bound_object_for_sequencer(resolved_object: Object) -> Object

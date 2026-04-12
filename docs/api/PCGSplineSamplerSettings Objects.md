@@ -34,7 +34,7 @@ PCGSpline Sampler Settings
 
 <a id="unreal.PCGSplineSamplerSettings.sampler_params"></a>
 
-#### sampler_params
+#### sampler\_params
 
 ```python
 @property
@@ -45,7 +45,7 @@ def sampler_params() -> PCGSplineSamplerParams
 
 <a id="unreal.PCGSplineSamplerSettings.sampler_params"></a>
 
-#### sampler_params
+#### sampler\_params
 
 ```python
 @sampler_params.setter

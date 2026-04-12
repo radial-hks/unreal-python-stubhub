@@ -16,7 +16,7 @@ flexibility to pass in various concrete data types, settings, and more.
 
 <a id="unreal.PCGData.duplicate_data"></a>
 
-#### duplicate_data
+#### duplicate\_data
 
 ```python
 def duplicate_data(

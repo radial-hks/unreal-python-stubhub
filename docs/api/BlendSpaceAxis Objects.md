@@ -13,19 +13,19 @@ Interpolation data types.
 
 <a id="unreal.BlendSpaceAxis.BSA_NONE"></a>
 
-#### BSA_NONE
+#### BSA\_NONE
 
 0
 
 <a id="unreal.BlendSpaceAxis.BSA_X"></a>
 
-#### BSA_X
+#### BSA\_X
 
 1
 
 <a id="unreal.BlendSpaceAxis.BSA_Y"></a>
 
-#### BSA_Y
+#### BSA\_Y
 
 2
 

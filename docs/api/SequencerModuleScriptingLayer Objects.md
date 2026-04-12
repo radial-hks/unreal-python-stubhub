@@ -17,7 +17,7 @@ Sequencer Module Scripting Layer
 
 <a id="unreal.SequencerModuleScriptingLayer.get_outliner"></a>
 
-#### get_outliner
+#### get\_outliner
 
 ```python
 def get_outliner() -> SequencerModuleOutlinerScriptingObject

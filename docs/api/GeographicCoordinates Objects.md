@@ -20,7 +20,7 @@ Geographic Coordinates
 
 <a id="unreal.GeographicCoordinates.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(longitude: float = 0.000000,
@@ -88,4 +88,4 @@ def altitude() -> float
 def altitude(value: float) -> None
 ```
 
-<a id="unreal.MVVMBlueprintFunctionReference"></a>
+<a id="unreal.MassEnvQueryEntityInfoBlueprintWrapper"></a>

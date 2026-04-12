@@ -17,7 +17,7 @@ Gaussian Params
 
 <a id="unreal.GaussianParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(kernel_width: int = 0) -> None
@@ -25,7 +25,7 @@ def __init__(kernel_width: int = 0) -> None
 
 <a id="unreal.GaussianParams.kernel_width"></a>
 
-#### kernel_width
+#### kernel\_width
 
 ```python
 @property
@@ -36,7 +36,7 @@ def kernel_width() -> int
 
 <a id="unreal.GaussianParams.kernel_width"></a>
 
-#### kernel_width
+#### kernel\_width
 
 ```python
 @kernel_width.setter

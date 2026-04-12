@@ -20,7 +20,7 @@ The kind of collision that a Paper2D asset or component might participate in
 
 <a id="unreal.SpriteCollisionMode.USE3D_PHYSICS"></a>
 
-#### USE3D_PHYSICS
+#### USE3D\_PHYSICS
 
 2: Should this have 3D collision geometry and participate in the 3D physics world?
 

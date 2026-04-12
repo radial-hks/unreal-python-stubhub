@@ -34,7 +34,7 @@ def settings() -> ConstantQNRTSettings
 
 <a id="unreal.ConstantQNRT.get_normalized_channel_constant_q_at_time"></a>
 
-#### get_normalized_channel_constant_q_at_time
+#### get\_normalized\_channel\_constant\_q\_at\_time
 
 ```python
 def get_normalized_channel_constant_q_at_time(seconds: float,
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.ConstantQNRT.get_channel_constant_q_at_time"></a>
 
-#### get_channel_constant_q_at_time
+#### get\_channel\_constant\_q\_at\_time
 
 ```python
 def get_channel_constant_q_at_time(seconds: float,

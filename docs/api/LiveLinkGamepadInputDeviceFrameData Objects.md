@@ -51,7 +51,7 @@ Struct for dynamic (per-frame) Gampead Input Device data
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(meta_data: LiveLinkMetaData = [{}, [[0], [24, 1], 0.000000]],
@@ -92,7 +92,7 @@ def __init__(meta_data: LiveLinkMetaData = [{}, [[0], [24, 1], 0.000000]],
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_analog_x"></a>
 
-#### left_analog_x
+#### left\_analog\_x
 
 ```python
 @property
@@ -103,7 +103,7 @@ def left_analog_x() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_analog_x"></a>
 
-#### left_analog_x
+#### left\_analog\_x
 
 ```python
 @left_analog_x.setter
@@ -112,7 +112,7 @@ def left_analog_x(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_analog_y"></a>
 
-#### left_analog_y
+#### left\_analog\_y
 
 ```python
 @property
@@ -123,7 +123,7 @@ def left_analog_y() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_analog_y"></a>
 
-#### left_analog_y
+#### left\_analog\_y
 
 ```python
 @left_analog_y.setter
@@ -132,7 +132,7 @@ def left_analog_y(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_analog_x"></a>
 
-#### right_analog_x
+#### right\_analog\_x
 
 ```python
 @property
@@ -143,7 +143,7 @@ def right_analog_x() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_analog_x"></a>
 
-#### right_analog_x
+#### right\_analog\_x
 
 ```python
 @right_analog_x.setter
@@ -152,7 +152,7 @@ def right_analog_x(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_analog_y"></a>
 
-#### right_analog_y
+#### right\_analog\_y
 
 ```python
 @property
@@ -163,7 +163,7 @@ def right_analog_y() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_analog_y"></a>
 
-#### right_analog_y
+#### right\_analog\_y
 
 ```python
 @right_analog_y.setter
@@ -172,7 +172,7 @@ def right_analog_y(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_trigger_analog"></a>
 
-#### left_trigger_analog
+#### left\_trigger\_analog
 
 ```python
 @property
@@ -183,7 +183,7 @@ def left_trigger_analog() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_trigger_analog"></a>
 
-#### left_trigger_analog
+#### left\_trigger\_analog
 
 ```python
 @left_trigger_analog.setter
@@ -192,7 +192,7 @@ def left_trigger_analog(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_trigger_analog"></a>
 
-#### right_trigger_analog
+#### right\_trigger\_analog
 
 ```python
 @property
@@ -203,7 +203,7 @@ def right_trigger_analog() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_trigger_analog"></a>
 
-#### right_trigger_analog
+#### right\_trigger\_analog
 
 ```python
 @right_trigger_analog.setter
@@ -212,7 +212,7 @@ def right_trigger_analog(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_thumb"></a>
 
-#### left_thumb
+#### left\_thumb
 
 ```python
 @property
@@ -223,7 +223,7 @@ def left_thumb() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_thumb"></a>
 
-#### left_thumb
+#### left\_thumb
 
 ```python
 @left_thumb.setter
@@ -232,7 +232,7 @@ def left_thumb(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_thumb"></a>
 
-#### right_thumb
+#### right\_thumb
 
 ```python
 @property
@@ -243,7 +243,7 @@ def right_thumb() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_thumb"></a>
 
-#### right_thumb
+#### right\_thumb
 
 ```python
 @right_thumb.setter
@@ -252,7 +252,7 @@ def right_thumb(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.special_left"></a>
 
-#### special_left
+#### special\_left
 
 ```python
 @property
@@ -263,7 +263,7 @@ def special_left() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.special_left"></a>
 
-#### special_left
+#### special\_left
 
 ```python
 @special_left.setter
@@ -272,7 +272,7 @@ def special_left(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.special_left_x"></a>
 
-#### special_left_x
+#### special\_left\_x
 
 ```python
 @property
@@ -283,7 +283,7 @@ def special_left_x() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.special_left_x"></a>
 
-#### special_left_x
+#### special\_left\_x
 
 ```python
 @special_left_x.setter
@@ -292,7 +292,7 @@ def special_left_x(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.special_left_y"></a>
 
-#### special_left_y
+#### special\_left\_y
 
 ```python
 @property
@@ -303,7 +303,7 @@ def special_left_y() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.special_left_y"></a>
 
-#### special_left_y
+#### special\_left\_y
 
 ```python
 @special_left_y.setter
@@ -312,7 +312,7 @@ def special_left_y(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.special_right"></a>
 
-#### special_right
+#### special\_right
 
 ```python
 @property
@@ -323,7 +323,7 @@ def special_right() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.special_right"></a>
 
-#### special_right
+#### special\_right
 
 ```python
 @special_right.setter
@@ -332,7 +332,7 @@ def special_right(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.face_button_bottom"></a>
 
-#### face_button_bottom
+#### face\_button\_bottom
 
 ```python
 @property
@@ -343,7 +343,7 @@ def face_button_bottom() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.face_button_bottom"></a>
 
-#### face_button_bottom
+#### face\_button\_bottom
 
 ```python
 @face_button_bottom.setter
@@ -352,7 +352,7 @@ def face_button_bottom(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.face_button_right"></a>
 
-#### face_button_right
+#### face\_button\_right
 
 ```python
 @property
@@ -363,7 +363,7 @@ def face_button_right() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.face_button_right"></a>
 
-#### face_button_right
+#### face\_button\_right
 
 ```python
 @face_button_right.setter
@@ -372,7 +372,7 @@ def face_button_right(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.face_button_left"></a>
 
-#### face_button_left
+#### face\_button\_left
 
 ```python
 @property
@@ -383,7 +383,7 @@ def face_button_left() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.face_button_left"></a>
 
-#### face_button_left
+#### face\_button\_left
 
 ```python
 @face_button_left.setter
@@ -392,7 +392,7 @@ def face_button_left(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.face_button_top"></a>
 
-#### face_button_top
+#### face\_button\_top
 
 ```python
 @property
@@ -403,7 +403,7 @@ def face_button_top() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.face_button_top"></a>
 
-#### face_button_top
+#### face\_button\_top
 
 ```python
 @face_button_top.setter
@@ -412,7 +412,7 @@ def face_button_top(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_shoulder"></a>
 
-#### left_shoulder
+#### left\_shoulder
 
 ```python
 @property
@@ -423,7 +423,7 @@ def left_shoulder() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_shoulder"></a>
 
-#### left_shoulder
+#### left\_shoulder
 
 ```python
 @left_shoulder.setter
@@ -432,7 +432,7 @@ def left_shoulder(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_shoulder"></a>
 
-#### right_shoulder
+#### right\_shoulder
 
 ```python
 @property
@@ -443,7 +443,7 @@ def right_shoulder() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_shoulder"></a>
 
-#### right_shoulder
+#### right\_shoulder
 
 ```python
 @right_shoulder.setter
@@ -452,7 +452,7 @@ def right_shoulder(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_trigger_threshold"></a>
 
-#### left_trigger_threshold
+#### left\_trigger\_threshold
 
 ```python
 @property
@@ -463,7 +463,7 @@ def left_trigger_threshold() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_trigger_threshold"></a>
 
-#### left_trigger_threshold
+#### left\_trigger\_threshold
 
 ```python
 @left_trigger_threshold.setter
@@ -472,7 +472,7 @@ def left_trigger_threshold(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_trigger_threshold"></a>
 
-#### right_trigger_threshold
+#### right\_trigger\_threshold
 
 ```python
 @property
@@ -483,7 +483,7 @@ def right_trigger_threshold() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_trigger_threshold"></a>
 
-#### right_trigger_threshold
+#### right\_trigger\_threshold
 
 ```python
 @right_trigger_threshold.setter
@@ -492,7 +492,7 @@ def right_trigger_threshold(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.d_pad_up"></a>
 
-#### d_pad_up
+#### d\_pad\_up
 
 ```python
 @property
@@ -503,7 +503,7 @@ def d_pad_up() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.d_pad_up"></a>
 
-#### d_pad_up
+#### d\_pad\_up
 
 ```python
 @d_pad_up.setter
@@ -512,7 +512,7 @@ def d_pad_up(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.d_pad_down"></a>
 
-#### d_pad_down
+#### d\_pad\_down
 
 ```python
 @property
@@ -523,7 +523,7 @@ def d_pad_down() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.d_pad_down"></a>
 
-#### d_pad_down
+#### d\_pad\_down
 
 ```python
 @d_pad_down.setter
@@ -532,7 +532,7 @@ def d_pad_down(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.d_pad_right"></a>
 
-#### d_pad_right
+#### d\_pad\_right
 
 ```python
 @property
@@ -543,7 +543,7 @@ def d_pad_right() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.d_pad_right"></a>
 
-#### d_pad_right
+#### d\_pad\_right
 
 ```python
 @d_pad_right.setter
@@ -552,7 +552,7 @@ def d_pad_right(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.d_pad_left"></a>
 
-#### d_pad_left
+#### d\_pad\_left
 
 ```python
 @property
@@ -563,7 +563,7 @@ def d_pad_left() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.d_pad_left"></a>
 
-#### d_pad_left
+#### d\_pad\_left
 
 ```python
 @d_pad_left.setter
@@ -572,7 +572,7 @@ def d_pad_left(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_stick_up"></a>
 
-#### left_stick_up
+#### left\_stick\_up
 
 ```python
 @property
@@ -583,7 +583,7 @@ def left_stick_up() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_stick_up"></a>
 
-#### left_stick_up
+#### left\_stick\_up
 
 ```python
 @left_stick_up.setter
@@ -592,7 +592,7 @@ def left_stick_up(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_stick_down"></a>
 
-#### left_stick_down
+#### left\_stick\_down
 
 ```python
 @property
@@ -603,7 +603,7 @@ def left_stick_down() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_stick_down"></a>
 
-#### left_stick_down
+#### left\_stick\_down
 
 ```python
 @left_stick_down.setter
@@ -612,7 +612,7 @@ def left_stick_down(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_stick_right"></a>
 
-#### left_stick_right
+#### left\_stick\_right
 
 ```python
 @property
@@ -623,7 +623,7 @@ def left_stick_right() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_stick_right"></a>
 
-#### left_stick_right
+#### left\_stick\_right
 
 ```python
 @left_stick_right.setter
@@ -632,7 +632,7 @@ def left_stick_right(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_stick_left"></a>
 
-#### left_stick_left
+#### left\_stick\_left
 
 ```python
 @property
@@ -643,7 +643,7 @@ def left_stick_left() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.left_stick_left"></a>
 
-#### left_stick_left
+#### left\_stick\_left
 
 ```python
 @left_stick_left.setter
@@ -652,7 +652,7 @@ def left_stick_left(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_stick_up"></a>
 
-#### right_stick_up
+#### right\_stick\_up
 
 ```python
 @property
@@ -663,7 +663,7 @@ def right_stick_up() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_stick_up"></a>
 
-#### right_stick_up
+#### right\_stick\_up
 
 ```python
 @right_stick_up.setter
@@ -672,7 +672,7 @@ def right_stick_up(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_stick_down"></a>
 
-#### right_stick_down
+#### right\_stick\_down
 
 ```python
 @property
@@ -683,7 +683,7 @@ def right_stick_down() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_stick_down"></a>
 
-#### right_stick_down
+#### right\_stick\_down
 
 ```python
 @right_stick_down.setter
@@ -692,7 +692,7 @@ def right_stick_down(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_stick_right"></a>
 
-#### right_stick_right
+#### right\_stick\_right
 
 ```python
 @property
@@ -703,7 +703,7 @@ def right_stick_right() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_stick_right"></a>
 
-#### right_stick_right
+#### right\_stick\_right
 
 ```python
 @right_stick_right.setter
@@ -712,7 +712,7 @@ def right_stick_right(value: float) -> None
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_stick_left"></a>
 
-#### right_stick_left
+#### right\_stick\_left
 
 ```python
 @property
@@ -723,7 +723,7 @@ def right_stick_left() -> float
 
 <a id="unreal.LiveLinkGamepadInputDeviceFrameData.right_stick_left"></a>
 
-#### right_stick_left
+#### right\_stick\_left
 
 ```python
 @right_stick_left.setter

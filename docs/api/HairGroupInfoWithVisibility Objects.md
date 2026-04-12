@@ -25,7 +25,7 @@ Hair Group Info with Visibility
 
 <a id="unreal.HairGroupInfoWithVisibility.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

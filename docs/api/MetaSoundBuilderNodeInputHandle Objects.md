@@ -14,7 +14,7 @@ namespace Metasound::Engine
 
 <a id="unreal.MetaSoundBuilderNodeInputHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

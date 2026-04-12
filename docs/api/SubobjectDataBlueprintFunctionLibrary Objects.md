@@ -14,7 +14,7 @@ that will make it easier to use within blueprint contexts.
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_scene_component"></a>
 
-#### is_scene_component
+#### is\_scene\_component
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_root_component"></a>
 
-#### is_root_component
+#### is\_root\_component
 
 ```python
 @classmethod
@@ -68,7 +68,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_root_actor"></a>
 
-#### is_root_actor
+#### is\_root\_actor
 
 ```python
 @classmethod
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_native_component"></a>
 
-#### is_native_component
+#### is\_native\_component
 
 ```python
 @classmethod
@@ -104,7 +104,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_instanced_component"></a>
 
-#### is_instanced_component
+#### is\_instanced\_component
 
 ```python
 @classmethod
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_instanced_actor"></a>
 
-#### is_instanced_actor
+#### is\_instanced\_actor
 
 ```python
 @classmethod
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_inherited_component"></a>
 
-#### is_inherited_component
+#### is\_inherited\_component
 
 ```python
 @classmethod
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_handle_valid"></a>
 
-#### is_handle_valid
+#### is\_handle\_valid
 
 ```python
 @classmethod
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_default_scene_root"></a>
 
-#### is_default_scene_root
+#### is\_default\_scene\_root
 
 ```python
 @classmethod
@@ -194,7 +194,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_component"></a>
 
-#### is_component
+#### is\_component
 
 ```python
 @classmethod
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_child_actor"></a>
 
-#### is_child_actor
+#### is\_child\_actor
 
 ```python
 @classmethod
@@ -230,7 +230,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_attached_to"></a>
 
-#### is_attached_to
+#### is\_attached\_to
 
 ```python
 @classmethod
@@ -250,7 +250,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.is_actor"></a>
 
-#### is_actor
+#### is\_actor
 
 ```python
 @classmethod
@@ -268,7 +268,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.get_variable_name"></a>
 
-#### get_variable_name
+#### get\_variable\_name
 
 ```python
 @classmethod
@@ -286,7 +286,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.get_parent_handle"></a>
 
-#### get_parent_handle
+#### get\_parent\_handle
 
 ```python
 @classmethod
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.get_object_for_blueprint"></a>
 
-#### get_object_for_blueprint
+#### get\_object\_for\_blueprint
 
 ```python
 @classmethod
@@ -326,7 +326,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.get_object"></a>
 
-#### get_object
+#### get\_object
 
 ```python
 @classmethod
@@ -347,7 +347,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.get_handle"></a>
 
-#### get_handle
+#### get\_handle
 
 ```python
 @classmethod
@@ -367,7 +367,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 @classmethod
@@ -385,7 +385,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.get_data"></a>
 
-#### get_data
+#### get\_data
 
 ```python
 @classmethod
@@ -405,7 +405,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.get_blueprint"></a>
 
-#### get_blueprint
+#### get\_blueprint
 
 ```python
 @classmethod
@@ -423,7 +423,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.can_reparent"></a>
 
-#### can_reparent
+#### can\_reparent
 
 ```python
 @classmethod
@@ -441,7 +441,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.can_rename"></a>
 
-#### can_rename
+#### can\_rename
 
 ```python
 @classmethod
@@ -459,7 +459,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.can_edit"></a>
 
-#### can_edit
+#### can\_edit
 
 ```python
 @classmethod
@@ -477,7 +477,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.can_duplicate"></a>
 
-#### can_duplicate
+#### can\_duplicate
 
 ```python
 @classmethod
@@ -495,7 +495,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.can_delete"></a>
 
-#### can_delete
+#### can\_delete
 
 ```python
 @classmethod
@@ -513,7 +513,7 @@ Returns:
 
 <a id="unreal.SubobjectDataBlueprintFunctionLibrary.can_copy"></a>
 
-#### can_copy
+#### can\_copy
 
 ```python
 @classmethod

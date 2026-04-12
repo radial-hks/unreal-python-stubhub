@@ -20,7 +20,7 @@ note: This is implemented in either TransformVectorized.h or TransformNonVectori
 
 <a id="unreal.Transform.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(location: Vector = [0.000000, 0.000000, 0.000000],
@@ -90,7 +90,7 @@ def scale3d(value: Vector) -> None
 
 <a id="unreal.Transform.transform_rotation"></a>
 
-#### transform_rotation
+#### transform\_rotation
 
 ```python
 def transform_rotation(rotation: Rotator) -> Rotator
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.Transform.transform_location"></a>
 
-#### transform_location
+#### transform\_location
 
 ```python
 def transform_location(location: Vector) -> Vector
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.Transform.transform_direction"></a>
 
-#### transform_direction
+#### transform\_direction
 
 ```python
 def transform_direction(direction: Vector) -> Vector
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.Transform.interp_to"></a>
 
-#### interp_to
+#### interp\_to
 
 ```python
 def interp_to(target: Transform, delta_time: float,
@@ -201,7 +201,7 @@ Returns:
 
 <a id="unreal.Transform.is_near_equal"></a>
 
-#### is_near_equal
+#### is\_near\_equal
 
 ```python
 def is_near_equal(b: Transform,
@@ -224,7 +224,7 @@ Returns:
 
 <a id="unreal.Transform.make_relative"></a>
 
-#### make_relative
+#### make\_relative
 
 ```python
 def make_relative(relative_to: Transform) -> Transform
@@ -260,7 +260,7 @@ Returns:
 
 <a id="unreal.Transform.inverse_transform_rotation"></a>
 
-#### inverse_transform_rotation
+#### inverse\_transform\_rotation
 
 ```python
 def inverse_transform_rotation(rotation: Rotator) -> Rotator
@@ -278,7 +278,7 @@ Returns:
 
 <a id="unreal.Transform.inverse_transform_location"></a>
 
-#### inverse_transform_location
+#### inverse\_transform\_location
 
 ```python
 def inverse_transform_location(location: Vector) -> Vector
@@ -296,7 +296,7 @@ Returns:
 
 <a id="unreal.Transform.inverse_transform_direction"></a>
 
-#### inverse_transform_direction
+#### inverse\_transform\_direction
 
 ```python
 def inverse_transform_direction(direction: Vector) -> Vector
@@ -331,7 +331,7 @@ Returns:
 
 <a id="unreal.Transform.to_matrix"></a>
 
-#### to_matrix
+#### to\_matrix
 
 ```python
 def to_matrix() -> Matrix
@@ -368,7 +368,7 @@ Returns:
 
 <a id="unreal.Transform.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -380,7 +380,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.Transform.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: Transform) -> None
@@ -400,7 +400,7 @@ def __mul__(other: Transform) -> None
 
 <a id="unreal.Transform.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: Transform) -> None

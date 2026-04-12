@@ -14,10 +14,10 @@ On Brush Updated Delegate  Delegate Signature
 
 <a id="unreal.OnBrushUpdatedDelegate.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None
 ```
 
-<a id="unreal.LiveLinkTickSignature"></a>
+<a id="unreal.Text3DComponent_TextGenerated"></a>

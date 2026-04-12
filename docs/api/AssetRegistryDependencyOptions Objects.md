@@ -21,7 +21,7 @@ namespace UE::AssetRegistry
 
 <a id="unreal.AssetRegistryDependencyOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(include_soft_package_references: bool = False,
@@ -33,7 +33,7 @@ def __init__(include_soft_package_references: bool = False,
 
 <a id="unreal.AssetRegistryDependencyOptions.include_soft_package_references"></a>
 
-#### include_soft_package_references
+#### include\_soft\_package\_references
 
 ```python
 @property
@@ -44,7 +44,7 @@ def include_soft_package_references() -> bool
 
 <a id="unreal.AssetRegistryDependencyOptions.include_soft_package_references"></a>
 
-#### include_soft_package_references
+#### include\_soft\_package\_references
 
 ```python
 @include_soft_package_references.setter
@@ -53,7 +53,7 @@ def include_soft_package_references(value: bool) -> None
 
 <a id="unreal.AssetRegistryDependencyOptions.include_hard_package_references"></a>
 
-#### include_hard_package_references
+#### include\_hard\_package\_references
 
 ```python
 @property
@@ -64,7 +64,7 @@ def include_hard_package_references() -> bool
 
 <a id="unreal.AssetRegistryDependencyOptions.include_hard_package_references"></a>
 
-#### include_hard_package_references
+#### include\_hard\_package\_references
 
 ```python
 @include_hard_package_references.setter
@@ -73,7 +73,7 @@ def include_hard_package_references(value: bool) -> None
 
 <a id="unreal.AssetRegistryDependencyOptions.include_searchable_names"></a>
 
-#### include_searchable_names
+#### include\_searchable\_names
 
 ```python
 @property
@@ -84,7 +84,7 @@ def include_searchable_names() -> bool
 
 <a id="unreal.AssetRegistryDependencyOptions.include_searchable_names"></a>
 
-#### include_searchable_names
+#### include\_searchable\_names
 
 ```python
 @include_searchable_names.setter
@@ -93,7 +93,7 @@ def include_searchable_names(value: bool) -> None
 
 <a id="unreal.AssetRegistryDependencyOptions.include_soft_management_references"></a>
 
-#### include_soft_management_references
+#### include\_soft\_management\_references
 
 ```python
 @property
@@ -104,7 +104,7 @@ def include_soft_management_references() -> bool
 
 <a id="unreal.AssetRegistryDependencyOptions.include_soft_management_references"></a>
 
-#### include_soft_management_references
+#### include\_soft\_management\_references
 
 ```python
 @include_soft_management_references.setter
@@ -113,7 +113,7 @@ def include_soft_management_references(value: bool) -> None
 
 <a id="unreal.AssetRegistryDependencyOptions.include_hard_management_references"></a>
 
-#### include_hard_management_references
+#### include\_hard\_management\_references
 
 ```python
 @property
@@ -124,7 +124,7 @@ def include_hard_management_references() -> bool
 
 <a id="unreal.AssetRegistryDependencyOptions.include_hard_management_references"></a>
 
-#### include_hard_management_references
+#### include\_hard\_management\_references
 
 ```python
 @include_hard_management_references.setter

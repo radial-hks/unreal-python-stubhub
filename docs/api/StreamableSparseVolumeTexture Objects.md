@@ -35,7 +35,7 @@ Represents a streamable SparseVolumeTexture asset and serves as base class for U
 
 <a id="unreal.StreamableSparseVolumeTexture.address_x"></a>
 
-#### address_x
+#### address\_x
 
 ```python
 @property
@@ -46,7 +46,7 @@ def address_x() -> TextureAddress
 
 <a id="unreal.StreamableSparseVolumeTexture.address_x"></a>
 
-#### address_x
+#### address\_x
 
 ```python
 @address_x.setter
@@ -55,7 +55,7 @@ def address_x(value: TextureAddress) -> None
 
 <a id="unreal.StreamableSparseVolumeTexture.address_y"></a>
 
-#### address_y
+#### address\_y
 
 ```python
 @property
@@ -66,7 +66,7 @@ def address_y() -> TextureAddress
 
 <a id="unreal.StreamableSparseVolumeTexture.address_y"></a>
 
-#### address_y
+#### address\_y
 
 ```python
 @address_y.setter
@@ -75,7 +75,7 @@ def address_y(value: TextureAddress) -> None
 
 <a id="unreal.StreamableSparseVolumeTexture.address_z"></a>
 
-#### address_z
+#### address\_z
 
 ```python
 @property
@@ -86,7 +86,7 @@ def address_z() -> TextureAddress
 
 <a id="unreal.StreamableSparseVolumeTexture.address_z"></a>
 
-#### address_z
+#### address\_z
 
 ```python
 @address_z.setter
@@ -95,7 +95,7 @@ def address_z(value: TextureAddress) -> None
 
 <a id="unreal.StreamableSparseVolumeTexture.local_ddc_only"></a>
 
-#### local_ddc_only
+#### local\_ddc\_only
 
 ```python
 @property
@@ -106,7 +106,7 @@ def local_ddc_only() -> bool
 
 <a id="unreal.StreamableSparseVolumeTexture.local_ddc_only"></a>
 
-#### local_ddc_only
+#### local\_ddc\_only
 
 ```python
 @local_ddc_only.setter
@@ -115,7 +115,7 @@ def local_ddc_only(value: bool) -> None
 
 <a id="unreal.StreamableSparseVolumeTexture.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.StreamableSparseVolumeTexture.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -149,7 +149,7 @@ Returns:
 
 <a id="unreal.StreamableSparseVolumeTexture.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool

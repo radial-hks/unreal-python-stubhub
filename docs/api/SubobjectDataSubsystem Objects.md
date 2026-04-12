@@ -16,7 +16,7 @@ or something piped in from python or other scripting languages.
 
 <a id="unreal.SubobjectDataSubsystem.reparent_subobjects"></a>
 
-#### reparent_subobjects
+#### reparent\_subobjects
 
 ```python
 def reparent_subobjects(params: ReparentSubobjectParams,
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.reparent_subobject"></a>
 
-#### reparent_subobject
+#### reparent\_subobject
 
 ```python
 def reparent_subobject(params: ReparentSubobjectParams,
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.rename_subobject_member_variable"></a>
 
-#### rename_subobject_member_variable
+#### rename\_subobject\_member\_variable
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Args:
 
 <a id="unreal.SubobjectDataSubsystem.rename_subobject"></a>
 
-#### rename_subobject
+#### rename\_subobject
 
 ```python
 def rename_subobject(handle: SubobjectDataHandle, new_name: Text) -> bool
@@ -91,7 +91,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.paste_subobjects"></a>
 
-#### paste_subobjects
+#### paste\_subobjects
 
 ```python
 def paste_subobjects(paste_to_context: SubobjectDataHandle,
@@ -114,7 +114,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.make_new_scene_root"></a>
 
-#### make_new_scene_root
+#### make\_new\_scene\_root
 
 ```python
 def make_new_scene_root(context: SubobjectDataHandle,
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.k2_gather_subobject_data_for_instance"></a>
 
-#### k2_gather_subobject_data_for_instance
+#### k2\_gather\_subobject\_data\_for\_instance
 
 ```python
 def k2_gather_subobject_data_for_instance(
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.k2_gather_subobject_data_for_blueprint"></a>
 
-#### k2_gather_subobject_data_for_blueprint
+#### k2\_gather\_subobject\_data\_for\_blueprint
 
 ```python
 def k2_gather_subobject_data_for_blueprint(
@@ -177,7 +177,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.k2_find_subobject_data_from_handle"></a>
 
-#### k2_find_subobject_data_from_handle
+#### k2\_find\_subobject\_data\_from\_handle
 
 ```python
 def k2_find_subobject_data_from_handle(
@@ -198,7 +198,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.k2_delete_subobjects_from_instance"></a>
 
-#### k2_delete_subobjects_from_instance
+#### k2\_delete\_subobjects\_from\_instance
 
 ```python
 def k2_delete_subobjects_from_instance(
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.k2_delete_subobject_from_instance"></a>
 
-#### k2_delete_subobject_from_instance
+#### k2\_delete\_subobject\_from\_instance
 
 ```python
 def k2_delete_subobject_from_instance(
@@ -238,7 +238,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.is_valid_rename"></a>
 
-#### is_valid_rename
+#### is\_valid\_rename
 
 ```python
 def is_valid_rename(handle: SubobjectDataHandle,
@@ -261,7 +261,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.find_handle_for_object"></a>
 
-#### find_handle_for_object
+#### find\_handle\_for\_object
 
 ```python
 def find_handle_for_object(
@@ -283,7 +283,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.duplicate_subobjects"></a>
 
-#### duplicate_subobjects
+#### duplicate\_subobjects
 
 ```python
 def duplicate_subobjects(context: SubobjectDataHandle,
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.detach_subobject"></a>
 
-#### detach_subobject
+#### detach\_subobject
 
 ```python
 def detach_subobject(owner_handle: SubobjectDataHandle,
@@ -325,7 +325,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.delete_subobjects"></a>
 
-#### delete_subobjects
+#### delete\_subobjects
 
 ```python
 def delete_subobjects(context_handle: SubobjectDataHandle,
@@ -346,7 +346,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.delete_subobject"></a>
 
-#### delete_subobject
+#### delete\_subobject
 
 ```python
 def delete_subobject(context_handle: SubobjectDataHandle,
@@ -367,7 +367,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.create_new_cpp_component"></a>
 
-#### create_new_cpp_component
+#### create\_new\_cpp\_component
 
 ```python
 @classmethod
@@ -389,7 +389,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.create_new_bp_component"></a>
 
-#### create_new_bp_component
+#### create\_new\_bp\_component
 
 ```python
 @classmethod
@@ -411,7 +411,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.copy_subobjects"></a>
 
-#### copy_subobjects
+#### copy\_subobjects
 
 ```python
 def copy_subobjects(handles: Array[SubobjectDataHandle],
@@ -427,7 +427,7 @@ Args:
 
 <a id="unreal.SubobjectDataSubsystem.change_subobject_class"></a>
 
-#### change_subobject_class
+#### change\_subobject\_class
 
 ```python
 def change_subobject_class(handle: SubobjectDataHandle,
@@ -446,7 +446,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.can_paste_subobjects"></a>
 
-#### can_paste_subobjects
+#### can\_paste\_subobjects
 
 ```python
 def can_paste_subobjects(root_handle: SubobjectDataHandle,
@@ -465,7 +465,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.can_copy_subobjects"></a>
 
-#### can_copy_subobjects
+#### can\_copy\_subobjects
 
 ```python
 def can_copy_subobjects(handles: Array[SubobjectDataHandle]) -> bool
@@ -483,7 +483,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.attach_subobject"></a>
 
-#### attach_subobject
+#### attach\_subobject
 
 ```python
 def attach_subobject(owner_handle: SubobjectDataHandle,
@@ -503,7 +503,7 @@ Returns:
 
 <a id="unreal.SubobjectDataSubsystem.add_new_subobject"></a>
 
-#### add_new_subobject
+#### add\_new\_subobject
 
 ```python
 def add_new_subobject(

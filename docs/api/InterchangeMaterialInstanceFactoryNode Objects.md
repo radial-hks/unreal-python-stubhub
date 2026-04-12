@@ -15,7 +15,7 @@ Interchange Material Instance Factory Node
 
 <a id="unreal.InterchangeMaterialInstanceFactoryNode.set_custom_parent"></a>
 
-#### set_custom_parent
+#### set\_custom\_parent
 
 ```python
 def set_custom_parent(attribute_value: str) -> bool
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceFactoryNode.set_custom_instance_class_name"></a>
 
-#### set_custom_instance_class_name
+#### set\_custom\_instance\_class\_name
 
 ```python
 def set_custom_instance_class_name(attribute_value: str) -> bool
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceFactoryNode.get_custom_parent"></a>
 
-#### get_custom_parent
+#### get\_custom\_parent
 
 ```python
 def get_custom_parent() -> Optional[str]
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialInstanceFactoryNode.get_custom_instance_class_name"></a>
 
-#### get_custom_instance_class_name
+#### get\_custom\_instance\_class\_name
 
 ```python
 def get_custom_instance_class_name() -> Optional[str]

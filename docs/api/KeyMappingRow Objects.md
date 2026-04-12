@@ -21,7 +21,7 @@ this needs to be a struct (blueprint don't support nested containers).
 
 <a id="unreal.KeyMappingRow.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mappings: Set[PlayerKeyMapping] = []) -> None

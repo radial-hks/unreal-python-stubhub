@@ -22,7 +22,7 @@ This type is 16 bytes.
 
 <a id="unreal.UniversalObjectLocator.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(object: Object = None, context: Object = None) -> None
@@ -30,7 +30,7 @@ def __init__(object: Object = None, context: Object = None) -> None
 
 <a id="unreal.UniversalObjectLocator.to_string"></a>
 
-#### to_string
+#### to\_string
 
 ```python
 def to_string() -> str
@@ -44,7 +44,7 @@ Returns:
 
 <a id="unreal.UniversalObjectLocator.sync_unload"></a>
 
-#### sync_unload
+#### sync\_unload
 
 ```python
 def sync_unload(context: Object = None) -> None
@@ -58,7 +58,7 @@ Args:
 
 <a id="unreal.UniversalObjectLocator.sync_load"></a>
 
-#### sync_load
+#### sync\_load
 
 ```python
 def sync_load(context: Object = None) -> Object
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.UniversalObjectLocator.sync_find"></a>
 
-#### sync_find
+#### sync\_find
 
 ```python
 def sync_find(context: Object = None) -> Object
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.UniversalObjectLocator.is_empty"></a>
 
-#### is_empty
+#### is\_empty
 
 ```python
 def is_empty() -> bool

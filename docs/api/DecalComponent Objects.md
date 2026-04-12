@@ -58,7 +58,7 @@ see: UDecalActor
 
 <a id="unreal.DecalComponent.decal_material"></a>
 
-#### decal_material
+#### decal\_material
 
 ```python
 @property
@@ -69,7 +69,7 @@ def decal_material() -> MaterialInterface
 
 <a id="unreal.DecalComponent.sort_order"></a>
 
-#### sort_order
+#### sort\_order
 
 ```python
 @property
@@ -81,7 +81,7 @@ Setting many different sort orders on many different decals prevents sorting by 
 
 <a id="unreal.DecalComponent.fade_screen_size"></a>
 
-#### fade_screen_size
+#### fade\_screen\_size
 
 ```python
 @property
@@ -92,7 +92,7 @@ def fade_screen_size() -> float
 
 <a id="unreal.DecalComponent.fade_start_delay"></a>
 
-#### fade_start_delay
+#### fade\_start\_delay
 
 ```python
 @property
@@ -103,7 +103,7 @@ def fade_start_delay() -> float
 
 <a id="unreal.DecalComponent.fade_duration"></a>
 
-#### fade_duration
+#### fade\_duration
 
 ```python
 @property
@@ -114,7 +114,7 @@ def fade_duration() -> float
 
 <a id="unreal.DecalComponent.fade_in_duration"></a>
 
-#### fade_in_duration
+#### fade\_in\_duration
 
 ```python
 @property
@@ -125,7 +125,7 @@ def fade_in_duration() -> float
 
 <a id="unreal.DecalComponent.fade_in_start_delay"></a>
 
-#### fade_in_start_delay
+#### fade\_in\_start\_delay
 
 ```python
 @property
@@ -136,7 +136,7 @@ def fade_in_start_delay() -> float
 
 <a id="unreal.DecalComponent.destroy_owner_after_fade"></a>
 
-#### destroy_owner_after_fade
+#### destroy\_owner\_after\_fade
 
 ```python
 @property
@@ -147,7 +147,7 @@ def destroy_owner_after_fade() -> bool
 
 <a id="unreal.DecalComponent.decal_size"></a>
 
-#### decal_size
+#### decal\_size
 
 ```python
 @property
@@ -158,7 +158,7 @@ def decal_size() -> Vector
 
 <a id="unreal.DecalComponent.decal_color"></a>
 
-#### decal_color
+#### decal\_color
 
 ```python
 @property
@@ -169,7 +169,7 @@ def decal_color() -> LinearColor
 
 <a id="unreal.DecalComponent.set_sort_order"></a>
 
-#### set_sort_order
+#### set\_sort\_order
 
 ```python
 def set_sort_order(value: int) -> None
@@ -183,7 +183,7 @@ Args:
 
 <a id="unreal.DecalComponent.set_fade_screen_size"></a>
 
-#### set_fade_screen_size
+#### set\_fade\_screen\_size
 
 ```python
 def set_fade_screen_size(new_fade_screen_size: float) -> None
@@ -197,7 +197,7 @@ Args:
 
 <a id="unreal.DecalComponent.set_fade_out"></a>
 
-#### set_fade_out
+#### set\_fade\_out
 
 ```python
 def set_fade_out(start_delay: float,
@@ -217,7 +217,7 @@ Args:
 
 <a id="unreal.DecalComponent.set_fade_in"></a>
 
-#### set_fade_in
+#### set\_fade\_in
 
 ```python
 def set_fade_in(start_delay: float, duration: float) -> None
@@ -232,7 +232,7 @@ Args:
 
 <a id="unreal.DecalComponent.set_decal_material"></a>
 
-#### set_decal_material
+#### set\_decal\_material
 
 ```python
 def set_decal_material(new_decal_material: MaterialInterface) -> None
@@ -246,7 +246,7 @@ Args:
 
 <a id="unreal.DecalComponent.set_decal_color"></a>
 
-#### set_decal_color
+#### set\_decal\_color
 
 ```python
 def set_decal_color(color: LinearColor) -> None
@@ -260,7 +260,7 @@ Args:
 
 <a id="unreal.DecalComponent.get_fade_start_delay"></a>
 
-#### get_fade_start_delay
+#### get\_fade\_start\_delay
 
 ```python
 def get_fade_start_delay() -> float
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.DecalComponent.get_fade_in_start_delay"></a>
 
-#### get_fade_in_start_delay
+#### get\_fade\_in\_start\_delay
 
 ```python
 def get_fade_in_start_delay() -> float
@@ -288,7 +288,7 @@ Returns:
 
 <a id="unreal.DecalComponent.get_fade_in_duration"></a>
 
-#### get_fade_in_duration
+#### get\_fade\_in\_duration
 
 ```python
 def get_fade_in_duration() -> float
@@ -302,7 +302,7 @@ Returns:
 
 <a id="unreal.DecalComponent.get_fade_duration"></a>
 
-#### get_fade_duration
+#### get\_fade\_duration
 
 ```python
 def get_fade_duration() -> float
@@ -316,7 +316,7 @@ Returns:
 
 <a id="unreal.DecalComponent.get_decal_material"></a>
 
-#### get_decal_material
+#### get\_decal\_material
 
 ```python
 def get_decal_material() -> MaterialInterface
@@ -330,7 +330,7 @@ Returns:
 
 <a id="unreal.DecalComponent.create_dynamic_material_instance"></a>
 
-#### create_dynamic_material_instance
+#### create\_dynamic\_material\_instance
 
 ```python
 def create_dynamic_material_instance() -> MaterialInstanceDynamic
@@ -344,7 +344,7 @@ Returns:
 
 <a id="unreal.DecalComponent.create_mid_for_decal"></a>
 
-#### create_mid_for_decal
+#### create\_mid\_for\_decal
 
 ```python
 def create_mid_for_decal() -> MaterialInstanceDynamic

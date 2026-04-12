@@ -19,7 +19,7 @@ Describes response for a single collision response channel
 
 <a id="unreal.ResponseChannel.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

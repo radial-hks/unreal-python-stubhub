@@ -13,19 +13,19 @@ EVirtual Keyboard Dismiss Action
 
 <a id="unreal.VirtualKeyboardDismissAction.TEXT_CHANGE_ON_DISMISS"></a>
 
-#### TEXT_CHANGE_ON_DISMISS
+#### TEXT\_CHANGE\_ON\_DISMISS
 
 0: Sends a text changed message when the virtual keyboard is dismissed by the user.
 
 <a id="unreal.VirtualKeyboardDismissAction.TEXT_COMMIT_ON_ACCEPT"></a>
 
-#### TEXT_COMMIT_ON_ACCEPT
+#### TEXT\_COMMIT\_ON\_ACCEPT
 
 1: Send a text commit message if the user dismisses the keyboard by accepting text. Send a text changed message if the user cancels the virtual keyboard.
 
 <a id="unreal.VirtualKeyboardDismissAction.TEXT_COMMIT_ON_DISMISS"></a>
 
-#### TEXT_COMMIT_ON_DISMISS
+#### TEXT\_COMMIT\_ON\_DISMISS
 
 2: Send a text commit message when the virtual keyboard is dismissed by the user.
 

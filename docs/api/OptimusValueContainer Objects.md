@@ -12,4 +12,4 @@ Deprecated
 - **Module**: OptimusCore
 - **File**: OptimusValueContainer.h
 
-<a id="unreal.AnimSharingInstance"></a>
+<a id="unreal.CameraRigProxyAsset"></a>

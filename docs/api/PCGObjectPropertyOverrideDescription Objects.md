@@ -23,7 +23,7 @@ Represents the override source (to be read) and the object property (to be writt
 
 <a id="unreal.PCGObjectPropertyOverrideDescription.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

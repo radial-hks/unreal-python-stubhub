@@ -14,7 +14,7 @@ Audio Capture Function Library
 
 <a id="unreal.AudioCaptureFunctionLibrary.create_audio_capture"></a>
 
-#### create_audio_capture
+#### create\_audio\_capture
 
 ```python
 @classmethod

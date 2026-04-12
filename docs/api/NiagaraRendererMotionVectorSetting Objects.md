@@ -14,7 +14,7 @@ How a given Niagara renderer should handle motion vector generation.
 
 <a id="unreal.NiagaraRendererMotionVectorSetting.AUTO_DETECT"></a>
 
-#### AUTO_DETECT
+#### AUTO\_DETECT
 
 0: Determines the best method to employ when generating motion vectors (accurate vs. approximate) based on project and renderer settings
 

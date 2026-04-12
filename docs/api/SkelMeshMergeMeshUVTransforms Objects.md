@@ -17,7 +17,7 @@ Skel Mesh Merge Mesh UVTransforms
 
 <a id="unreal.SkelMeshMergeMeshUVTransforms.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(uv_transforms: Array[Transform] = []) -> None
@@ -25,7 +25,7 @@ def __init__(uv_transforms: Array[Transform] = []) -> None
 
 <a id="unreal.SkelMeshMergeMeshUVTransforms.uv_transforms"></a>
 
-#### uv_transforms
+#### uv\_transforms
 
 ```python
 @property
@@ -36,7 +36,7 @@ def uv_transforms() -> Array[Transform]
 
 <a id="unreal.SkelMeshMergeMeshUVTransforms.uv_transforms"></a>
 
-#### uv_transforms
+#### uv\_transforms
 
 ```python
 @uv_transforms.setter

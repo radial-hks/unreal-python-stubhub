@@ -149,7 +149,7 @@ Niagara Preview Grid
 
 <a id="unreal.NiagaraPreviewGrid.set_paused"></a>
 
-#### set_paused
+#### set\_paused
 
 ```python
 def set_paused(paused: bool) -> None
@@ -163,7 +163,7 @@ Args:
 
 <a id="unreal.NiagaraPreviewGrid.get_previews"></a>
 
-#### get_previews
+#### get\_previews
 
 ```python
 def get_previews() -> Array[NiagaraComponent]
@@ -179,7 +179,7 @@ Returns:
 
 <a id="unreal.NiagaraPreviewGrid.deactivate_previews"></a>
 
-#### deactivate_previews
+#### deactivate\_previews
 
 ```python
 def deactivate_previews() -> None
@@ -190,7 +190,7 @@ Deactivate Previews
 
 <a id="unreal.NiagaraPreviewGrid.activate_previews"></a>
 
-#### activate_previews
+#### activate\_previews
 
 ```python
 def activate_previews(reset: bool) -> None

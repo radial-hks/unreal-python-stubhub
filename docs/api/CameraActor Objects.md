@@ -144,7 +144,7 @@ A CameraActor is a camera viewpoint that can be placed in a level.
 
 <a id="unreal.CameraActor.camera_component"></a>
 
-#### camera_component
+#### camera\_component
 
 ```python
 @property
@@ -155,7 +155,7 @@ def camera_component() -> CameraComponent
 
 <a id="unreal.CameraActor.scene_component"></a>
 
-#### scene_component
+#### scene\_component
 
 ```python
 @property
@@ -166,7 +166,7 @@ def scene_component() -> SceneComponent
 
 <a id="unreal.CameraActor.get_auto_activate_player_index"></a>
 
-#### get_auto_activate_player_index
+#### get\_auto\_activate\_player\_index
 
 ```python
 def get_auto_activate_player_index() -> int
@@ -178,4 +178,4 @@ Returns index of the player for whom we auto-activate, or INDEX_NONE (-1) if dis
 Returns:
     int32:
 
-<a id="unreal.AvaViewportCameraActor"></a>
+<a id="unreal.CineCameraActor"></a>

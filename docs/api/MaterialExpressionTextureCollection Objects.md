@@ -20,7 +20,7 @@ Material Expression Texture Collection
 
 <a id="unreal.MaterialExpressionTextureCollection.texture_collection"></a>
 
-#### texture_collection
+#### texture\_collection
 
 ```python
 @property
@@ -31,7 +31,7 @@ def texture_collection() -> TextureCollection
 
 <a id="unreal.MaterialExpressionTextureCollection.texture_collection"></a>
 
-#### texture_collection
+#### texture\_collection
 
 ```python
 @texture_collection.setter

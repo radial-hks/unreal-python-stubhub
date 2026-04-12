@@ -22,7 +22,7 @@ Handles manipulation of float vectors in a movie scene
 
 <a id="unreal.MovieSceneFloatVectorTrack.set_num_channels_used"></a>
 
-#### set_num_channels_used
+#### set\_num\_channels\_used
 
 ```python
 def set_num_channels_used(num_channels_used: int) -> None
@@ -36,7 +36,7 @@ Args:
 
 <a id="unreal.MovieSceneFloatVectorTrack.get_num_channels_used"></a>
 
-#### get_num_channels_used
+#### get\_num\_channels\_used
 
 ```python
 def get_num_channels_used() -> int

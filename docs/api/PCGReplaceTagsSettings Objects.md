@@ -37,7 +37,7 @@ Replaces the tags on the input data.
 
 <a id="unreal.PCGReplaceTagsSettings.selected_tags"></a>
 
-#### selected_tags
+#### selected\_tags
 
 ```python
 @property
@@ -49,7 +49,7 @@ If no tags are replaced, then these tags will be removed.
 
 <a id="unreal.PCGReplaceTagsSettings.selected_tags"></a>
 
-#### selected_tags
+#### selected\_tags
 
 ```python
 @selected_tags.setter
@@ -58,7 +58,7 @@ def selected_tags(value: str) -> None
 
 <a id="unreal.PCGReplaceTagsSettings.replaced_tags"></a>
 
-#### replaced_tags
+#### replaced\_tags
 
 ```python
 @property
@@ -69,7 +69,7 @@ def replaced_tags() -> str
 
 <a id="unreal.PCGReplaceTagsSettings.replaced_tags"></a>
 
-#### replaced_tags
+#### replaced\_tags
 
 ```python
 @replaced_tags.setter

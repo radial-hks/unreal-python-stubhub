@@ -19,7 +19,7 @@ Container for the result of a projectile path trace (using PredictProjectilePath
 
 <a id="unreal.PredictProjectilePathResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -38,7 +38,7 @@ def __init__(
 
 <a id="unreal.PredictProjectilePathResult.path_data"></a>
 
-#### path_data
+#### path\_data
 
 ```python
 @property
@@ -49,7 +49,7 @@ def path_data() -> Array[PredictProjectilePathPointData]
 
 <a id="unreal.PredictProjectilePathResult.last_trace_destination"></a>
 
-#### last_trace_destination
+#### last\_trace\_destination
 
 ```python
 @property
@@ -60,7 +60,7 @@ def last_trace_destination() -> PredictProjectilePathPointData
 
 <a id="unreal.PredictProjectilePathResult.hit_result"></a>
 
-#### hit_result
+#### hit\_result
 
 ```python
 @property

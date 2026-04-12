@@ -14,7 +14,7 @@ A factory to generate a template and its dispatch functions
 
 <a id="unreal.RigVMDispatchFactory.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

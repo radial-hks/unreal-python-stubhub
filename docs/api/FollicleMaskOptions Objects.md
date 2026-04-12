@@ -19,7 +19,7 @@ Follicle Mask Options
 
 <a id="unreal.FollicleMaskOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(groom: GroomAsset = None,

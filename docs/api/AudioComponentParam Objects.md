@@ -29,7 +29,7 @@ Legacy struct used for storing named parameter for a given AudioComponent.
 
 <a id="unreal.AudioComponentParam.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(param_name: Name = "None",
@@ -49,7 +49,7 @@ def __init__(param_name: Name = "None",
 
 <a id="unreal.AudioComponentParam.sound_wave_param"></a>
 
-#### sound_wave_param
+#### sound\_wave\_param
 
 ```python
 @property
@@ -60,7 +60,7 @@ def sound_wave_param() -> SoundWave
 
 <a id="unreal.AudioComponentParam.sound_wave_param"></a>
 
-#### sound_wave_param
+#### sound\_wave\_param
 
 ```python
 @sound_wave_param.setter

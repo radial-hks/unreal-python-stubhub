@@ -21,7 +21,7 @@ Left-to-right text uses the KerningOnly method, and right-to-left text uses the 
 
 <a id="unreal.TextShapingMethod.KERNING_ONLY"></a>
 
-#### KERNING_ONLY
+#### KERNING\_ONLY
 
 1: Provides fake shaping using only kerning data.
 This can be faster than full shaping, but won't render complex right-to-left or bi-directional glyphs (such as Arabic) correctly.
@@ -29,7 +29,7 @@ This can be useful as an optimization when you know your text block will only sh
 
 <a id="unreal.TextShapingMethod.FULL_SHAPING"></a>
 
-#### FULL_SHAPING
+#### FULL\_SHAPING
 
 2: Provides full text shaping, allowing accurate rendering of complex right-to-left or bi-directional glyphs (such as Arabic).
 This mode will perform ligature replacement for all languages (such as the combined "fi" glyph in English).

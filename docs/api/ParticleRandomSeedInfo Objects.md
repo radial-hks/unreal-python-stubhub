@@ -28,7 +28,7 @@ Particle Random Seed Info
 
 <a id="unreal.ParticleRandomSeedInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

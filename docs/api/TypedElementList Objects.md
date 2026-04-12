@@ -17,7 +17,7 @@ The weak model for the handles come with an additional cost to the runtime perfo
 
 <a id="unreal.TypedElementList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.TypedElementList.is_valid_index"></a>
 
-#### is_valid_index
+#### is\_valid\_index
 
 ```python
 def is_valid_index(index: int) -> bool
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.TypedElementList.has_elements_of_type"></a>
 
-#### has_elements_of_type
+#### has\_elements\_of\_type
 
 ```python
 def has_elements_of_type(element_type_name: Name) -> bool
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.TypedElementList.has_elements"></a>
 
-#### has_elements
+#### has\_elements
 
 ```python
 def has_elements(base_interface_type: Class = None) -> bool
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.TypedElementList.get_element_interface"></a>
 
-#### get_element_interface
+#### get\_element\_interface
 
 ```python
 def get_element_interface(element_handle: ScriptTypedElementHandle,
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.TypedElementList.get_element_handles"></a>
 
-#### get_element_handles
+#### get\_element\_handles
 
 ```python
 def get_element_handles(
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.TypedElementList.get_element_handle_at"></a>
 
-#### get_element_handle_at
+#### get\_element\_handle\_at
 
 ```python
 def get_element_handle_at(index: int) -> ScriptTypedElementHandle
@@ -212,7 +212,7 @@ Args:
 
 <a id="unreal.TypedElementList.count_elements_of_type"></a>
 
-#### count_elements_of_type
+#### count\_elements\_of\_type
 
 ```python
 def count_elements_of_type(element_type_name: Name) -> int
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.TypedElementList.count_elements"></a>
 
-#### count_elements
+#### count\_elements
 
 ```python
 def count_elements(base_interface_type: Class = None) -> int
@@ -278,7 +278,7 @@ Returns:
 
 <a id="unreal.TypedElementList.append_list"></a>
 
-#### append_list
+#### append\_list
 
 ```python
 def append_list(other_element_list: TypedElementList) -> None

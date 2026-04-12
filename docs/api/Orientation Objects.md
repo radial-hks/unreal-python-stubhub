@@ -13,13 +13,13 @@ Enumerates widget orientations.
 
 <a id="unreal.Orientation.ORIENT_HORIZONTAL"></a>
 
-#### ORIENT_HORIZONTAL
+#### ORIENT\_HORIZONTAL
 
 0: Orient horizontally, i.e. left to right.
 
 <a id="unreal.Orientation.ORIENT_VERTICAL"></a>
 
-#### ORIENT_VERTICAL
+#### ORIENT\_VERTICAL
 
 1: Orient vertically, i.e. top to bottom.
 

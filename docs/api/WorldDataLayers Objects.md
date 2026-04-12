@@ -143,7 +143,7 @@ Actor containing data layers instances within a world.
 
 <a id="unreal.WorldDataLayers.world_data_layers"></a>
 
-#### world_data_layers
+#### world\_data\_layers
 
 ```python
 @property
@@ -155,7 +155,7 @@ deprecated: Convert Data layers to DataLayerInstances and DataLayerAssets using 
 
 <a id="unreal.WorldDataLayers.world_data_layers"></a>
 
-#### world_data_layers
+#### world\_data\_layers
 
 ```python
 @world_data_layers.setter

@@ -22,7 +22,7 @@ UAudioDeviceNotificationSubsystem
 
 <a id="unreal.AudioDeviceNotificationSubsystem.default_capture_device_changed"></a>
 
-#### default_capture_device_changed
+#### default\_capture\_device\_changed
 
 ```python
 @property
@@ -33,7 +33,7 @@ def default_capture_device_changed() -> OnAudioDefaultDeviceChanged
 
 <a id="unreal.AudioDeviceNotificationSubsystem.default_capture_device_changed"></a>
 
-#### default_capture_device_changed
+#### default\_capture\_device\_changed
 
 ```python
 @default_capture_device_changed.setter
@@ -42,7 +42,7 @@ def default_capture_device_changed(value: OnAudioDefaultDeviceChanged) -> None
 
 <a id="unreal.AudioDeviceNotificationSubsystem.default_render_device_changed"></a>
 
-#### default_render_device_changed
+#### default\_render\_device\_changed
 
 ```python
 @property
@@ -53,7 +53,7 @@ def default_render_device_changed() -> OnAudioDefaultDeviceChanged
 
 <a id="unreal.AudioDeviceNotificationSubsystem.default_render_device_changed"></a>
 
-#### default_render_device_changed
+#### default\_render\_device\_changed
 
 ```python
 @default_render_device_changed.setter
@@ -62,7 +62,7 @@ def default_render_device_changed(value: OnAudioDefaultDeviceChanged) -> None
 
 <a id="unreal.AudioDeviceNotificationSubsystem.device_added"></a>
 
-#### device_added
+#### device\_added
 
 ```python
 @property
@@ -73,7 +73,7 @@ def device_added() -> OnAudioDeviceChange
 
 <a id="unreal.AudioDeviceNotificationSubsystem.device_added"></a>
 
-#### device_added
+#### device\_added
 
 ```python
 @device_added.setter
@@ -82,7 +82,7 @@ def device_added(value: OnAudioDeviceChange) -> None
 
 <a id="unreal.AudioDeviceNotificationSubsystem.device_removed"></a>
 
-#### device_removed
+#### device\_removed
 
 ```python
 @property
@@ -93,7 +93,7 @@ def device_removed() -> OnAudioDeviceChange
 
 <a id="unreal.AudioDeviceNotificationSubsystem.device_removed"></a>
 
-#### device_removed
+#### device\_removed
 
 ```python
 @device_removed.setter
@@ -102,7 +102,7 @@ def device_removed(value: OnAudioDeviceChange) -> None
 
 <a id="unreal.AudioDeviceNotificationSubsystem.device_state_changed"></a>
 
-#### device_state_changed
+#### device\_state\_changed
 
 ```python
 @property
@@ -113,7 +113,7 @@ def device_state_changed() -> OnAudioDeviceStateChanged
 
 <a id="unreal.AudioDeviceNotificationSubsystem.device_state_changed"></a>
 
-#### device_state_changed
+#### device\_state\_changed
 
 ```python
 @device_state_changed.setter
@@ -122,7 +122,7 @@ def device_state_changed(value: OnAudioDeviceStateChanged) -> None
 
 <a id="unreal.AudioDeviceNotificationSubsystem.device_switched"></a>
 
-#### device_switched
+#### device\_switched
 
 ```python
 @property
@@ -133,7 +133,7 @@ def device_switched() -> OnAudioDeviceChange
 
 <a id="unreal.AudioDeviceNotificationSubsystem.device_switched"></a>
 
-#### device_switched
+#### device\_switched
 
 ```python
 @device_switched.setter

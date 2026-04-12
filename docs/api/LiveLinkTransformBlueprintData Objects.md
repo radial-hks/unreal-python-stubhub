@@ -18,7 +18,7 @@ Facility structure to handle transform data in blueprint
 
 <a id="unreal.LiveLinkTransformBlueprintData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -33,7 +33,7 @@ def __init__(
 
 <a id="unreal.LiveLinkTransformBlueprintData.static_data"></a>
 
-#### static_data
+#### static\_data
 
 ```python
 @property
@@ -44,7 +44,7 @@ def static_data() -> LiveLinkTransformStaticData
 
 <a id="unreal.LiveLinkTransformBlueprintData.static_data"></a>
 
-#### static_data
+#### static\_data
 
 ```python
 @static_data.setter
@@ -53,7 +53,7 @@ def static_data(value: LiveLinkTransformStaticData) -> None
 
 <a id="unreal.LiveLinkTransformBlueprintData.frame_data"></a>
 
-#### frame_data
+#### frame\_data
 
 ```python
 @property
@@ -64,7 +64,7 @@ def frame_data() -> LiveLinkTransformFrameData
 
 <a id="unreal.LiveLinkTransformBlueprintData.frame_data"></a>
 
-#### frame_data
+#### frame\_data
 
 ```python
 @frame_data.setter

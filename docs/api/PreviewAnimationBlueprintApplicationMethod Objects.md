@@ -13,13 +13,13 @@ The method by which a preview animation blueprint is applied
 
 <a id="unreal.PreviewAnimationBlueprintApplicationMethod.LINKED_LAYERS"></a>
 
-#### LINKED_LAYERS
+#### LINKED\_LAYERS
 
 0: Apply the preview animation blueprint using LinkAnimClassLayers
 
 <a id="unreal.PreviewAnimationBlueprintApplicationMethod.LINKED_ANIM_GRAPH"></a>
 
-#### LINKED_ANIM_GRAPH
+#### LINKED\_ANIM\_GRAPH
 
 1: Apply the preview animation blueprint using SetLinkedAnimGraphByTag
 

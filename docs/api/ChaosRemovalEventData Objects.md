@@ -19,7 +19,7 @@ A Removal event data structure.
 
 <a id="unreal.ChaosRemovalEventData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(location: Vector = [0.000000, 0.000000, 0.000000],
@@ -69,7 +69,7 @@ def mass(value: float) -> None
 
 <a id="unreal.ChaosRemovalEventData.particle_index"></a>
 
-#### particle_index
+#### particle\_index
 
 ```python
 @property
@@ -80,7 +80,7 @@ def particle_index() -> int
 
 <a id="unreal.ChaosRemovalEventData.particle_index"></a>
 
-#### particle_index
+#### particle\_index
 
 ```python
 @particle_index.setter

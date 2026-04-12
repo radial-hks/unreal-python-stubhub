@@ -19,7 +19,7 @@ Rig Physics Solver Description
 
 <a id="unreal.RigPhysicsSolverDescription.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(id: RigPhysicsSolverID = [[]], name: Name = "None") -> None

@@ -13,7 +13,7 @@ Blueprint library for altering and analyzing animation / skeletal data
 
 <a id="unreal.AnimationLibrary.set_variable_frame_stripping_settings"></a>
 
-#### set_variable_frame_stripping_settings
+#### set\_variable\_frame\_stripping\_settings
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_root_motion_lock_type"></a>
 
-#### set_root_motion_lock_type
+#### set\_root\_motion\_lock\_type
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_root_motion_enabled"></a>
 
-#### set_root_motion_enabled
+#### set\_root\_motion\_enabled
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_rate_scale"></a>
 
-#### set_rate_scale
+#### set\_rate\_scale
 
 ```python
 @classmethod
@@ -84,7 +84,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_is_root_motion_lock_forced"></a>
 
-#### set_is_root_motion_lock_forced
+#### set\_is\_root\_motion\_lock\_forced
 
 ```python
 @classmethod
@@ -101,7 +101,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_curve_compression_settings"></a>
 
-#### set_curve_compression_settings
+#### set\_curve\_compression\_settings
 
 ```python
 @classmethod
@@ -119,7 +119,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_bone_compression_settings"></a>
 
-#### set_bone_compression_settings
+#### set\_bone\_compression\_settings
 
 ```python
 @classmethod
@@ -137,7 +137,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_animation_interpolation_type"></a>
 
-#### set_animation_interpolation_type
+#### set\_animation\_interpolation\_type
 
 ```python
 @classmethod
@@ -155,7 +155,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_additive_base_pose_type"></a>
 
-#### set_additive_base_pose_type
+#### set\_additive\_base\_pose\_type
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.set_additive_animation_type"></a>
 
-#### set_additive_animation_type
+#### set\_additive\_animation\_type
 
 ```python
 @classmethod
@@ -191,7 +191,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.replace_anim_notify_states"></a>
 
-#### replace_anim_notify_states
+#### replace\_anim\_notify\_states
 
 ```python
 @classmethod
@@ -212,7 +212,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.replace_anim_notifies"></a>
 
-#### replace_anim_notifies
+#### replace\_anim\_notifies
 
 ```python
 @classmethod
@@ -232,7 +232,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_virtual_bones"></a>
 
-#### remove_virtual_bones
+#### remove\_virtual\_bones
 
 ```python
 @classmethod
@@ -249,7 +249,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_virtual_bone"></a>
 
-#### remove_virtual_bone
+#### remove\_virtual\_bone
 
 ```python
 @classmethod
@@ -266,7 +266,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_meta_data_of_class"></a>
 
-#### remove_meta_data_of_class
+#### remove\_meta\_data\_of\_class
 
 ```python
 @classmethod
@@ -283,7 +283,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_meta_data"></a>
 
-#### remove_meta_data
+#### remove\_meta\_data
 
 ```python
 @classmethod
@@ -300,7 +300,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_curve"></a>
 
-#### remove_curve
+#### remove\_curve
 
 ```python
 @classmethod
@@ -320,7 +320,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_bone_animation"></a>
 
-#### remove_bone_animation
+#### remove\_bone\_animation
 
 ```python
 @classmethod
@@ -342,7 +342,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_animation_sync_markers_by_track"></a>
 
-#### remove_animation_sync_markers_by_track
+#### remove\_animation\_sync\_markers\_by\_track
 
 ```python
 @classmethod
@@ -363,7 +363,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.remove_animation_sync_markers_by_name"></a>
 
-#### remove_animation_sync_markers_by_name
+#### remove\_animation\_sync\_markers\_by\_name
 
 ```python
 @classmethod
@@ -384,7 +384,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.remove_animation_notify_track"></a>
 
-#### remove_animation_notify_track
+#### remove\_animation\_notify\_track
 
 ```python
 @classmethod
@@ -402,7 +402,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_animation_notify_events_by_track"></a>
 
-#### remove_animation_notify_events_by_track
+#### remove\_animation\_notify\_events\_by\_track
 
 ```python
 @classmethod
@@ -423,7 +423,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.remove_animation_notify_events_by_name"></a>
 
-#### remove_animation_notify_events_by_name
+#### remove\_animation\_notify\_events\_by\_name
 
 ```python
 @classmethod
@@ -444,7 +444,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.remove_all_virtual_bones"></a>
 
-#### remove_all_virtual_bones
+#### remove\_all\_virtual\_bones
 
 ```python
 @classmethod
@@ -459,7 +459,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_all_meta_data"></a>
 
-#### remove_all_meta_data
+#### remove\_all\_meta\_data
 
 ```python
 @classmethod
@@ -474,7 +474,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_all_curve_data"></a>
 
-#### remove_all_curve_data
+#### remove\_all\_curve\_data
 
 ```python
 @classmethod
@@ -490,7 +490,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_all_bone_animation"></a>
 
-#### remove_all_bone_animation
+#### remove\_all\_bone\_animation
 
 ```python
 @classmethod
@@ -505,7 +505,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_all_animation_sync_markers"></a>
 
-#### remove_all_animation_sync_markers
+#### remove\_all\_animation\_sync\_markers
 
 ```python
 @classmethod
@@ -521,7 +521,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.remove_all_animation_notify_tracks"></a>
 
-#### remove_all_animation_notify_tracks
+#### remove\_all\_animation\_notify\_tracks
 
 ```python
 @classmethod
@@ -537,7 +537,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.is_valid_time"></a>
 
-#### is_valid_time
+#### is\_valid\_time
 
 ```python
 @classmethod
@@ -559,7 +559,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.is_valid_raw_animation_track_name"></a>
 
-#### is_valid_raw_animation_track_name
+#### is\_valid\_raw\_animation\_track\_name
 
 ```python
 @classmethod
@@ -580,7 +580,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.is_valid_anim_notify_track_name"></a>
 
-#### is_valid_anim_notify_track_name
+#### is\_valid\_anim\_notify\_track\_name
 
 ```python
 @classmethod
@@ -601,7 +601,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.is_valid_animation_sync_marker_name"></a>
 
-#### is_valid_animation_sync_marker_name
+#### is\_valid\_animation\_sync\_marker\_name
 
 ```python
 @classmethod
@@ -621,7 +621,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.is_root_motion_lock_forced"></a>
 
-#### is_root_motion_lock_forced
+#### is\_root\_motion\_lock\_forced
 
 ```python
 @classmethod
@@ -639,7 +639,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.is_root_motion_enabled"></a>
 
-#### is_root_motion_enabled
+#### is\_root\_motion\_enabled
 
 ```python
 @classmethod
@@ -657,7 +657,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_vector_keys"></a>
 
-#### get_vector_keys
+#### get\_vector\_keys
 
 ```python
 @classmethod
@@ -681,7 +681,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_variable_frame_stripping_settings"></a>
 
-#### get_variable_frame_stripping_settings
+#### get\_variable\_frame\_stripping\_settings
 
 ```python
 @classmethod
@@ -703,7 +703,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_unique_marker_names"></a>
 
-#### get_unique_marker_names
+#### get\_unique\_marker\_names
 
 ```python
 @classmethod
@@ -724,7 +724,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_transformation_keys"></a>
 
-#### get_transformation_keys
+#### get\_transformation\_keys
 
 ```python
 @classmethod
@@ -749,7 +749,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_time_at_frame"></a>
 
-#### get_time_at_frame
+#### get\_time\_at\_frame
 
 ```python
 @classmethod
@@ -771,7 +771,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_sequence_length"></a>
 
-#### get_sequence_length
+#### get\_sequence\_length
 
 ```python
 @classmethod
@@ -792,7 +792,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_root_motion_lock_type"></a>
 
-#### get_root_motion_lock_type
+#### get\_root\_motion\_lock\_type
 
 ```python
 @classmethod
@@ -813,7 +813,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_raw_track_scale_data"></a>
 
-#### get_raw_track_scale_data
+#### get\_raw\_track\_scale\_data
 
 ```python
 @classmethod
@@ -835,7 +835,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_raw_track_rotation_data"></a>
 
-#### get_raw_track_rotation_data
+#### get\_raw\_track\_rotation\_data
 
 ```python
 @classmethod
@@ -857,7 +857,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_raw_track_position_data"></a>
 
-#### get_raw_track_position_data
+#### get\_raw\_track\_position\_data
 
 ```python
 @classmethod
@@ -879,7 +879,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_raw_track_data"></a>
 
-#### get_raw_track_data
+#### get\_raw\_track\_data
 
 ```python
 @classmethod
@@ -906,7 +906,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_rate_scale"></a>
 
-#### get_rate_scale
+#### get\_rate\_scale
 
 ```python
 @classmethod
@@ -926,7 +926,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_num_keys"></a>
 
-#### get_num_keys
+#### get\_num\_keys
 
 ```python
 @classmethod
@@ -946,7 +946,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_num_frames"></a>
 
-#### get_num_frames
+#### get\_num\_frames
 
 ```python
 @classmethod
@@ -966,7 +966,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_nodes_of_class"></a>
 
-#### get_nodes_of_class
+#### get\_nodes\_of\_class
 
 ```python
 @classmethod
@@ -992,7 +992,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_montage_slot_names"></a>
 
-#### get_montage_slot_names
+#### get\_montage\_slot\_names
 
 ```python
 @classmethod
@@ -1012,7 +1012,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_meta_data_of_class"></a>
 
-#### get_meta_data_of_class
+#### get\_meta\_data\_of\_class
 
 ```python
 @classmethod
@@ -1034,7 +1034,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_meta_data"></a>
 
-#### get_meta_data
+#### get\_meta\_data
 
 ```python
 @classmethod
@@ -1054,7 +1054,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_frame_at_time"></a>
 
-#### get_frame_at_time
+#### get\_frame\_at\_time
 
 ```python
 @classmethod
@@ -1076,7 +1076,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_float_value_at_time"></a>
 
-#### get_float_value_at_time
+#### get\_float\_value\_at\_time
 
 ```python
 @classmethod
@@ -1097,7 +1097,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_float_keys"></a>
 
-#### get_float_keys
+#### get\_float\_keys
 
 ```python
 @classmethod
@@ -1121,7 +1121,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_curve_compression_settings"></a>
 
-#### get_curve_compression_settings
+#### get\_curve\_compression\_settings
 
 ```python
 @classmethod
@@ -1142,7 +1142,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_bone_poses_for_time"></a>
 
-#### get_bone_poses_for_time
+#### get\_bone\_poses\_for\_time
 
 ```python
 @classmethod
@@ -1172,7 +1172,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_bone_poses_for_frame"></a>
 
-#### get_bone_poses_for_frame
+#### get\_bone\_poses\_for\_frame
 
 ```python
 @classmethod
@@ -1202,7 +1202,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_bone_pose_for_time"></a>
 
-#### get_bone_pose_for_time
+#### get\_bone\_pose\_for\_time
 
 ```python
 @classmethod
@@ -1227,7 +1227,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_bone_pose_for_frame"></a>
 
-#### get_bone_pose_for_frame
+#### get\_bone\_pose\_for\_frame
 
 ```python
 @classmethod
@@ -1252,7 +1252,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_bone_compression_settings"></a>
 
-#### get_bone_compression_settings
+#### get\_bone\_compression\_settings
 
 ```python
 @classmethod
@@ -1273,7 +1273,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_anim_notify_event_trigger_time"></a>
 
-#### get_anim_notify_event_trigger_time
+#### get\_anim\_notify\_event\_trigger\_time
 
 ```python
 @classmethod
@@ -1292,7 +1292,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_anim_notify_event_duration"></a>
 
-#### get_anim_notify_event_duration
+#### get\_anim\_notify\_event\_duration
 
 ```python
 @classmethod
@@ -1311,7 +1311,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_track_names"></a>
 
-#### get_animation_track_names
+#### get\_animation\_track\_names
 
 ```python
 @classmethod
@@ -1332,7 +1332,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_sync_markers_for_track"></a>
 
-#### get_animation_sync_markers_for_track
+#### get\_animation\_sync\_markers\_for\_track
 
 ```python
 @classmethod
@@ -1355,7 +1355,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_sync_markers"></a>
 
-#### get_animation_sync_markers
+#### get\_animation\_sync\_markers
 
 ```python
 @classmethod
@@ -1376,7 +1376,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_notify_track_names"></a>
 
-#### get_animation_notify_track_names
+#### get\_animation\_notify\_track\_names
 
 ```python
 @classmethod
@@ -1397,7 +1397,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_notify_events_for_track"></a>
 
-#### get_animation_notify_events_for_track
+#### get\_animation\_notify\_events\_for\_track
 
 ```python
 @classmethod
@@ -1420,7 +1420,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_notify_events"></a>
 
-#### get_animation_notify_events
+#### get\_animation\_notify\_events
 
 ```python
 @classmethod
@@ -1442,7 +1442,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_notify_event_names"></a>
 
-#### get_animation_notify_event_names
+#### get\_animation\_notify\_event\_names
 
 ```python
 @classmethod
@@ -1463,7 +1463,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_interpolation_type"></a>
 
-#### get_animation_interpolation_type
+#### get\_animation\_interpolation\_type
 
 ```python
 @classmethod
@@ -1484,7 +1484,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_graphs"></a>
 
-#### get_animation_graphs
+#### get\_animation\_graphs
 
 ```python
 @classmethod
@@ -1505,7 +1505,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_animation_curve_names"></a>
 
-#### get_animation_curve_names
+#### get\_animation\_curve\_names
 
 ```python
 @classmethod
@@ -1527,7 +1527,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_additive_base_pose_type"></a>
 
-#### get_additive_base_pose_type
+#### get\_additive\_base\_pose\_type
 
 ```python
 @classmethod
@@ -1548,7 +1548,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.get_additive_animation_type"></a>
 
-#### get_additive_animation_type
+#### get\_additive\_animation\_type
 
 ```python
 @classmethod
@@ -1569,7 +1569,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.find_bone_path_to_root"></a>
 
-#### find_bone_path_to_root
+#### find\_bone\_path\_to\_root
 
 ```python
 @classmethod
@@ -1591,7 +1591,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.finalize_bone_animation"></a>
 
-#### finalize_bone_animation
+#### finalize\_bone\_animation
 
 ```python
 @classmethod
@@ -1607,7 +1607,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.extract_root_track_transform"></a>
 
-#### extract_root_track_transform
+#### extract\_root\_track\_transform
 
 ```python
 @classmethod
@@ -1628,7 +1628,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.evaluate_root_bone_timecode_subframe_attribute_at_time"></a>
 
-#### evaluate_root_bone_timecode_subframe_attribute_at_time
+#### evaluate\_root\_bone\_timecode\_subframe\_attribute\_at\_time
 
 ```python
 @classmethod
@@ -1659,7 +1659,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.evaluate_root_bone_timecode_attributes_at_time"></a>
 
-#### evaluate_root_bone_timecode_attributes_at_time
+#### evaluate\_root\_bone\_timecode\_attributes\_at\_time
 
 ```python
 @classmethod
@@ -1683,7 +1683,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.evaluate_bone_timecode_and_slate_attributes_at_time"></a>
 
-#### evaluate_bone_timecode_and_slate_attributes_at_time
+#### evaluate\_bone\_timecode\_and\_slate\_attributes\_at\_time
 
 ```python
 @classmethod
@@ -1710,7 +1710,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.does_curve_exist"></a>
 
-#### does_curve_exist
+#### does\_curve\_exist
 
 ```python
 @classmethod
@@ -1731,7 +1731,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.does_bone_name_exist"></a>
 
-#### does_bone_name_exist
+#### does\_bone\_name\_exist
 
 ```python
 @classmethod
@@ -1753,7 +1753,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.copy_anim_notifies_from_sequence"></a>
 
-#### copy_anim_notifies_from_sequence
+#### copy\_anim\_notifies\_from\_sequence
 
 ```python
 @classmethod
@@ -1774,7 +1774,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.copy_animation_curve_names_to_skeleton"></a>
 
-#### copy_animation_curve_names_to_skeleton
+#### copy\_animation\_curve\_names\_to\_skeleton
 
 ```python
 @classmethod
@@ -1796,7 +1796,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.contains_meta_data_of_class"></a>
 
-#### contains_meta_data_of_class
+#### contains\_meta\_data\_of\_class
 
 ```python
 @classmethod
@@ -1816,7 +1816,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.add_virtual_bone"></a>
 
-#### add_virtual_bone
+#### add\_virtual\_bone
 
 ```python
 @classmethod
@@ -1839,7 +1839,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.add_vector_curve_keys"></a>
 
-#### add_vector_curve_keys
+#### add\_vector\_curve\_keys
 
 ```python
 @classmethod
@@ -1859,7 +1859,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_vector_curve_key"></a>
 
-#### add_vector_curve_key
+#### add\_vector\_curve\_key
 
 ```python
 @classmethod
@@ -1879,7 +1879,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_transformation_curve_keys"></a>
 
-#### add_transformation_curve_keys
+#### add\_transformation\_curve\_keys
 
 ```python
 @classmethod
@@ -1900,7 +1900,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_transformation_curve_key"></a>
 
-#### add_transformation_curve_key
+#### add\_transformation\_curve\_key
 
 ```python
 @classmethod
@@ -1921,7 +1921,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_node_asset_override"></a>
 
-#### add_node_asset_override
+#### add\_node\_asset\_override
 
 ```python
 @classmethod
@@ -1943,7 +1943,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_meta_data_object"></a>
 
-#### add_meta_data_object
+#### add\_meta\_data\_object
 
 ```python
 @classmethod
@@ -1960,7 +1960,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_meta_data"></a>
 
-#### add_meta_data
+#### add\_meta\_data
 
 ```python
 @classmethod
@@ -1982,7 +1982,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.add_float_curve_keys"></a>
 
-#### add_float_curve_keys
+#### add\_float\_curve\_keys
 
 ```python
 @classmethod
@@ -2002,7 +2002,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_float_curve_key"></a>
 
-#### add_float_curve_key
+#### add\_float\_curve\_key
 
 ```python
 @classmethod
@@ -2021,7 +2021,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_curve"></a>
 
-#### add_curve
+#### add\_curve
 
 ```python
 @classmethod
@@ -2043,7 +2043,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_animation_sync_marker"></a>
 
-#### add_animation_sync_marker
+#### add\_animation\_sync\_marker
 
 ```python
 @classmethod
@@ -2063,7 +2063,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_animation_notify_track"></a>
 
-#### add_animation_notify_track
+#### add\_animation\_notify\_track
 
 ```python
 @classmethod
@@ -2085,7 +2085,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_animation_notify_state_event_object"></a>
 
-#### add_animation_notify_state_event_object
+#### add\_animation\_notify\_state\_event\_object
 
 ```python
 @classmethod
@@ -2107,7 +2107,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_animation_notify_state_event"></a>
 
-#### add_animation_notify_state_event
+#### add\_animation\_notify\_state\_event
 
 ```python
 @classmethod
@@ -2132,7 +2132,7 @@ Returns:
 
 <a id="unreal.AnimationLibrary.add_animation_notify_event_object"></a>
 
-#### add_animation_notify_event_object
+#### add\_animation\_notify\_event\_object
 
 ```python
 @classmethod
@@ -2152,7 +2152,7 @@ Args:
 
 <a id="unreal.AnimationLibrary.add_animation_notify_event"></a>
 
-#### add_animation_notify_event
+#### add\_animation\_notify\_event
 
 ```python
 @classmethod

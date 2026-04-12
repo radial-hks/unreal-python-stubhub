@@ -69,7 +69,7 @@ def resolution(value: int) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.trace_type"></a>
 
-#### trace_type
+#### trace\_type
 
 ```python
 @property
@@ -80,7 +80,7 @@ def trace_type() -> StrandsTexturesTraceType
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.trace_type"></a>
 
-#### trace_type
+#### trace\_type
 
 ```python
 @trace_type.setter
@@ -89,7 +89,7 @@ def trace_type(value: StrandsTexturesTraceType) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.trace_distance"></a>
 
-#### trace_distance
+#### trace\_distance
 
 ```python
 @property
@@ -100,7 +100,7 @@ def trace_distance() -> float
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.trace_distance"></a>
 
-#### trace_distance
+#### trace\_distance
 
 ```python
 @trace_distance.setter
@@ -109,7 +109,7 @@ def trace_distance(value: float) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.mesh_type"></a>
 
-#### mesh_type
+#### mesh\_type
 
 ```python
 @property
@@ -120,7 +120,7 @@ def mesh_type() -> StrandsTexturesMeshType
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.mesh_type"></a>
 
-#### mesh_type
+#### mesh\_type
 
 ```python
 @mesh_type.setter
@@ -129,7 +129,7 @@ def mesh_type(value: StrandsTexturesMeshType) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.static_mesh"></a>
 
-#### static_mesh
+#### static\_mesh
 
 ```python
 @property
@@ -140,7 +140,7 @@ def static_mesh() -> StaticMesh
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.static_mesh"></a>
 
-#### static_mesh
+#### static\_mesh
 
 ```python
 @static_mesh.setter
@@ -149,7 +149,7 @@ def static_mesh(value: StaticMesh) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.skeletal_mesh"></a>
 
-#### skeletal_mesh
+#### skeletal\_mesh
 
 ```python
 @property
@@ -160,7 +160,7 @@ def skeletal_mesh() -> SkeletalMesh
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.skeletal_mesh"></a>
 
-#### skeletal_mesh
+#### skeletal\_mesh
 
 ```python
 @skeletal_mesh.setter
@@ -169,7 +169,7 @@ def skeletal_mesh(value: SkeletalMesh) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.lod_index"></a>
 
-#### lod_index
+#### lod\_index
 
 ```python
 @property
@@ -180,7 +180,7 @@ def lod_index() -> int
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.lod_index"></a>
 
-#### lod_index
+#### lod\_index
 
 ```python
 @lod_index.setter
@@ -189,7 +189,7 @@ def lod_index(value: int) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.section_index"></a>
 
-#### section_index
+#### section\_index
 
 ```python
 @property
@@ -200,7 +200,7 @@ def section_index() -> int
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.section_index"></a>
 
-#### section_index
+#### section\_index
 
 ```python
 @section_index.setter
@@ -209,7 +209,7 @@ def section_index(value: int) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.uv_channel_index"></a>
 
-#### uv_channel_index
+#### uv\_channel\_index
 
 ```python
 @property
@@ -220,7 +220,7 @@ def uv_channel_index() -> int
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.uv_channel_index"></a>
 
-#### uv_channel_index
+#### uv\_channel\_index
 
 ```python
 @uv_channel_index.setter
@@ -229,7 +229,7 @@ def uv_channel_index(value: int) -> None
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.group_index"></a>
 
-#### group_index
+#### group\_index
 
 ```python
 @property
@@ -240,7 +240,7 @@ def group_index() -> Array[int]
 
 <a id="unreal.GroomCreateStrandsTexturesOptions.group_index"></a>
 
-#### group_index
+#### group\_index
 
 ```python
 @group_index.setter

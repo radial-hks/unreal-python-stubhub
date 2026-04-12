@@ -15,7 +15,7 @@ A library of synthesis related functions for use in Blueprints
 
 <a id="unreal.SynthesisUtilitiesBlueprintFunctionLibrary.get_log_frequency"></a>
 
-#### get_log_frequency
+#### get\_log\_frequency
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.SynthesisUtilitiesBlueprintFunctionLibrary.get_linear_frequency"></a>
 
-#### get_linear_frequency
+#### get\_linear\_frequency
 
 ```python
 @classmethod

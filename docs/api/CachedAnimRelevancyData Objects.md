@@ -18,7 +18,7 @@ Cached Anim Relevancy Data
 
 <a id="unreal.CachedAnimRelevancyData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(state_machine_name: Name = "None",
@@ -27,7 +27,7 @@ def __init__(state_machine_name: Name = "None",
 
 <a id="unreal.CachedAnimRelevancyData.state_machine_name"></a>
 
-#### state_machine_name
+#### state\_machine\_name
 
 ```python
 @property
@@ -38,7 +38,7 @@ def state_machine_name() -> Name
 
 <a id="unreal.CachedAnimRelevancyData.state_name"></a>
 
-#### state_name
+#### state\_name
 
 ```python
 @property

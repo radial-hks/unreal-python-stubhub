@@ -30,7 +30,7 @@ Pawn Actions Component
 
 <a id="unreal.PawnActionsComponent.controlled_pawn"></a>
 
-#### controlled_pawn
+#### controlled\_pawn
 
 ```python
 @property
@@ -41,7 +41,7 @@ def controlled_pawn() -> Pawn
 
 <a id="unreal.PawnActionsComponent.push_action"></a>
 
-#### push_action
+#### push\_action
 
 ```python
 def push_action(new_action: PawnAction,
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.PawnActionsComponent.perform_action"></a>
 
-#### perform_action
+#### perform\_action
 
 ```python
 @classmethod
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.PawnActionsComponent.force_abort_action"></a>
 
-#### force_abort_action
+#### force\_abort\_action
 
 ```python
 def force_abort_action(action_to_abort: PawnAction) -> PawnActionAbortState
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.PawnActionsComponent.abort_action"></a>
 
-#### abort_action
+#### abort\_action
 
 ```python
 def abort_action(action_to_abort: PawnAction) -> PawnActionAbortState

@@ -18,7 +18,7 @@ Represents the appearance of an FScrollBorderStyle
 
 <a id="unreal.ScrollBorderStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -47,7 +47,7 @@ def __init__(
 
 <a id="unreal.ScrollBorderStyle.top_shadow_brush"></a>
 
-#### top_shadow_brush
+#### top\_shadow\_brush
 
 ```python
 @property
@@ -58,7 +58,7 @@ def top_shadow_brush() -> SlateBrush
 
 <a id="unreal.ScrollBorderStyle.top_shadow_brush"></a>
 
-#### top_shadow_brush
+#### top\_shadow\_brush
 
 ```python
 @top_shadow_brush.setter
@@ -67,7 +67,7 @@ def top_shadow_brush(value: SlateBrush) -> None
 
 <a id="unreal.ScrollBorderStyle.bottom_shadow_brush"></a>
 
-#### bottom_shadow_brush
+#### bottom\_shadow\_brush
 
 ```python
 @property
@@ -78,7 +78,7 @@ def bottom_shadow_brush() -> SlateBrush
 
 <a id="unreal.ScrollBorderStyle.bottom_shadow_brush"></a>
 
-#### bottom_shadow_brush
+#### bottom\_shadow\_brush
 
 ```python
 @bottom_shadow_brush.setter

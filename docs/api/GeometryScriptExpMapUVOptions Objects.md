@@ -19,7 +19,7 @@ Geometry Script Exp Map UVOptions
 
 <a id="unreal.GeometryScriptExpMapUVOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(normal_smoothing_rounds: int = 0,
@@ -28,7 +28,7 @@ def __init__(normal_smoothing_rounds: int = 0,
 
 <a id="unreal.GeometryScriptExpMapUVOptions.normal_smoothing_rounds"></a>
 
-#### normal_smoothing_rounds
+#### normal\_smoothing\_rounds
 
 ```python
 @property
@@ -39,7 +39,7 @@ def normal_smoothing_rounds() -> int
 
 <a id="unreal.GeometryScriptExpMapUVOptions.normal_smoothing_rounds"></a>
 
-#### normal_smoothing_rounds
+#### normal\_smoothing\_rounds
 
 ```python
 @normal_smoothing_rounds.setter
@@ -48,7 +48,7 @@ def normal_smoothing_rounds(value: int) -> None
 
 <a id="unreal.GeometryScriptExpMapUVOptions.normal_smoothing_alpha"></a>
 
-#### normal_smoothing_alpha
+#### normal\_smoothing\_alpha
 
 ```python
 @property
@@ -59,7 +59,7 @@ def normal_smoothing_alpha() -> float
 
 <a id="unreal.GeometryScriptExpMapUVOptions.normal_smoothing_alpha"></a>
 
-#### normal_smoothing_alpha
+#### normal\_smoothing\_alpha
 
 ```python
 @normal_smoothing_alpha.setter

@@ -17,7 +17,7 @@ Structure for templated strings that are displayed in the editor with a allowed 
 
 <a id="unreal.TemplateString.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(template: str = "") -> None

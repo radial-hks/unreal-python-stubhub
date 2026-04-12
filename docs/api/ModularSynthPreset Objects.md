@@ -76,7 +76,7 @@ Modular Synth Preset
 
 <a id="unreal.ModularSynthPreset.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -144,7 +144,7 @@ def __init__(
 
 <a id="unreal.ModularSynthPreset.enable_polyphony"></a>
 
-#### enable_polyphony
+#### enable\_polyphony
 
 ```python
 @property
@@ -155,7 +155,7 @@ def enable_polyphony() -> bool
 
 <a id="unreal.ModularSynthPreset.enable_polyphony"></a>
 
-#### enable_polyphony
+#### enable\_polyphony
 
 ```python
 @enable_polyphony.setter
@@ -164,7 +164,7 @@ def enable_polyphony(value: bool) -> None
 
 <a id="unreal.ModularSynthPreset.osc1_type"></a>
 
-#### osc1_type
+#### osc1\_type
 
 ```python
 @property
@@ -175,7 +175,7 @@ def osc1_type() -> Synth1OscType
 
 <a id="unreal.ModularSynthPreset.osc1_type"></a>
 
-#### osc1_type
+#### osc1\_type
 
 ```python
 @osc1_type.setter
@@ -184,7 +184,7 @@ def osc1_type(value: Synth1OscType) -> None
 
 <a id="unreal.ModularSynthPreset.osc1_gain"></a>
 
-#### osc1_gain
+#### osc1\_gain
 
 ```python
 @property
@@ -195,7 +195,7 @@ def osc1_gain() -> float
 
 <a id="unreal.ModularSynthPreset.osc1_gain"></a>
 
-#### osc1_gain
+#### osc1\_gain
 
 ```python
 @osc1_gain.setter
@@ -204,7 +204,7 @@ def osc1_gain(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc1_octave"></a>
 
-#### osc1_octave
+#### osc1\_octave
 
 ```python
 @property
@@ -215,7 +215,7 @@ def osc1_octave() -> float
 
 <a id="unreal.ModularSynthPreset.osc1_octave"></a>
 
-#### osc1_octave
+#### osc1\_octave
 
 ```python
 @osc1_octave.setter
@@ -224,7 +224,7 @@ def osc1_octave(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc1_semitones"></a>
 
-#### osc1_semitones
+#### osc1\_semitones
 
 ```python
 @property
@@ -235,7 +235,7 @@ def osc1_semitones() -> float
 
 <a id="unreal.ModularSynthPreset.osc1_semitones"></a>
 
-#### osc1_semitones
+#### osc1\_semitones
 
 ```python
 @osc1_semitones.setter
@@ -244,7 +244,7 @@ def osc1_semitones(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc1_cents"></a>
 
-#### osc1_cents
+#### osc1\_cents
 
 ```python
 @property
@@ -255,7 +255,7 @@ def osc1_cents() -> float
 
 <a id="unreal.ModularSynthPreset.osc1_cents"></a>
 
-#### osc1_cents
+#### osc1\_cents
 
 ```python
 @osc1_cents.setter
@@ -264,7 +264,7 @@ def osc1_cents(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc1_pulse_width"></a>
 
-#### osc1_pulse_width
+#### osc1\_pulse\_width
 
 ```python
 @property
@@ -275,7 +275,7 @@ def osc1_pulse_width() -> float
 
 <a id="unreal.ModularSynthPreset.osc1_pulse_width"></a>
 
-#### osc1_pulse_width
+#### osc1\_pulse\_width
 
 ```python
 @osc1_pulse_width.setter
@@ -284,7 +284,7 @@ def osc1_pulse_width(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc2_type"></a>
 
-#### osc2_type
+#### osc2\_type
 
 ```python
 @property
@@ -295,7 +295,7 @@ def osc2_type() -> Synth1OscType
 
 <a id="unreal.ModularSynthPreset.osc2_type"></a>
 
-#### osc2_type
+#### osc2\_type
 
 ```python
 @osc2_type.setter
@@ -304,7 +304,7 @@ def osc2_type(value: Synth1OscType) -> None
 
 <a id="unreal.ModularSynthPreset.osc2_gain"></a>
 
-#### osc2_gain
+#### osc2\_gain
 
 ```python
 @property
@@ -315,7 +315,7 @@ def osc2_gain() -> float
 
 <a id="unreal.ModularSynthPreset.osc2_gain"></a>
 
-#### osc2_gain
+#### osc2\_gain
 
 ```python
 @osc2_gain.setter
@@ -324,7 +324,7 @@ def osc2_gain(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc2_octave"></a>
 
-#### osc2_octave
+#### osc2\_octave
 
 ```python
 @property
@@ -335,7 +335,7 @@ def osc2_octave() -> float
 
 <a id="unreal.ModularSynthPreset.osc2_octave"></a>
 
-#### osc2_octave
+#### osc2\_octave
 
 ```python
 @osc2_octave.setter
@@ -344,7 +344,7 @@ def osc2_octave(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc2_semitones"></a>
 
-#### osc2_semitones
+#### osc2\_semitones
 
 ```python
 @property
@@ -355,7 +355,7 @@ def osc2_semitones() -> float
 
 <a id="unreal.ModularSynthPreset.osc2_semitones"></a>
 
-#### osc2_semitones
+#### osc2\_semitones
 
 ```python
 @osc2_semitones.setter
@@ -364,7 +364,7 @@ def osc2_semitones(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc2_cents"></a>
 
-#### osc2_cents
+#### osc2\_cents
 
 ```python
 @property
@@ -375,7 +375,7 @@ def osc2_cents() -> float
 
 <a id="unreal.ModularSynthPreset.osc2_cents"></a>
 
-#### osc2_cents
+#### osc2\_cents
 
 ```python
 @osc2_cents.setter
@@ -384,7 +384,7 @@ def osc2_cents(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.osc2_pulse_width"></a>
 
-#### osc2_pulse_width
+#### osc2\_pulse\_width
 
 ```python
 @property
@@ -395,7 +395,7 @@ def osc2_pulse_width() -> float
 
 <a id="unreal.ModularSynthPreset.osc2_pulse_width"></a>
 
-#### osc2_pulse_width
+#### osc2\_pulse\_width
 
 ```python
 @osc2_pulse_width.setter
@@ -424,7 +424,7 @@ def portamento(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.enable_unison"></a>
 
-#### enable_unison
+#### enable\_unison
 
 ```python
 @property
@@ -435,7 +435,7 @@ def enable_unison() -> bool
 
 <a id="unreal.ModularSynthPreset.enable_unison"></a>
 
-#### enable_unison
+#### enable\_unison
 
 ```python
 @enable_unison.setter
@@ -444,7 +444,7 @@ def enable_unison(value: bool) -> None
 
 <a id="unreal.ModularSynthPreset.enable_oscillator_sync"></a>
 
-#### enable_oscillator_sync
+#### enable\_oscillator\_sync
 
 ```python
 @property
@@ -455,7 +455,7 @@ def enable_oscillator_sync() -> bool
 
 <a id="unreal.ModularSynthPreset.enable_oscillator_sync"></a>
 
-#### enable_oscillator_sync
+#### enable\_oscillator\_sync
 
 ```python
 @enable_oscillator_sync.setter
@@ -504,7 +504,7 @@ def pan(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.lfo1_frequency"></a>
 
-#### lfo1_frequency
+#### lfo1\_frequency
 
 ```python
 @property
@@ -515,7 +515,7 @@ def lfo1_frequency() -> float
 
 <a id="unreal.ModularSynthPreset.lfo1_frequency"></a>
 
-#### lfo1_frequency
+#### lfo1\_frequency
 
 ```python
 @lfo1_frequency.setter
@@ -524,7 +524,7 @@ def lfo1_frequency(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.lfo1_gain"></a>
 
-#### lfo1_gain
+#### lfo1\_gain
 
 ```python
 @property
@@ -535,7 +535,7 @@ def lfo1_gain() -> float
 
 <a id="unreal.ModularSynthPreset.lfo1_gain"></a>
 
-#### lfo1_gain
+#### lfo1\_gain
 
 ```python
 @lfo1_gain.setter
@@ -544,7 +544,7 @@ def lfo1_gain(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.lfo1_type"></a>
 
-#### lfo1_type
+#### lfo1\_type
 
 ```python
 @property
@@ -555,7 +555,7 @@ def lfo1_type() -> SynthLFOType
 
 <a id="unreal.ModularSynthPreset.lfo1_type"></a>
 
-#### lfo1_type
+#### lfo1\_type
 
 ```python
 @lfo1_type.setter
@@ -564,7 +564,7 @@ def lfo1_type(value: SynthLFOType) -> None
 
 <a id="unreal.ModularSynthPreset.lfo1_mode"></a>
 
-#### lfo1_mode
+#### lfo1\_mode
 
 ```python
 @property
@@ -575,7 +575,7 @@ def lfo1_mode() -> SynthLFOMode
 
 <a id="unreal.ModularSynthPreset.lfo1_mode"></a>
 
-#### lfo1_mode
+#### lfo1\_mode
 
 ```python
 @lfo1_mode.setter
@@ -584,7 +584,7 @@ def lfo1_mode(value: SynthLFOMode) -> None
 
 <a id="unreal.ModularSynthPreset.lfo1_patch_type"></a>
 
-#### lfo1_patch_type
+#### lfo1\_patch\_type
 
 ```python
 @property
@@ -595,7 +595,7 @@ def lfo1_patch_type() -> SynthLFOPatchType
 
 <a id="unreal.ModularSynthPreset.lfo1_patch_type"></a>
 
-#### lfo1_patch_type
+#### lfo1\_patch\_type
 
 ```python
 @lfo1_patch_type.setter
@@ -604,7 +604,7 @@ def lfo1_patch_type(value: SynthLFOPatchType) -> None
 
 <a id="unreal.ModularSynthPreset.lfo2_frequency"></a>
 
-#### lfo2_frequency
+#### lfo2\_frequency
 
 ```python
 @property
@@ -615,7 +615,7 @@ def lfo2_frequency() -> float
 
 <a id="unreal.ModularSynthPreset.lfo2_frequency"></a>
 
-#### lfo2_frequency
+#### lfo2\_frequency
 
 ```python
 @lfo2_frequency.setter
@@ -624,7 +624,7 @@ def lfo2_frequency(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.lfo2_gain"></a>
 
-#### lfo2_gain
+#### lfo2\_gain
 
 ```python
 @property
@@ -635,7 +635,7 @@ def lfo2_gain() -> float
 
 <a id="unreal.ModularSynthPreset.lfo2_gain"></a>
 
-#### lfo2_gain
+#### lfo2\_gain
 
 ```python
 @lfo2_gain.setter
@@ -644,7 +644,7 @@ def lfo2_gain(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.lfo2_type"></a>
 
-#### lfo2_type
+#### lfo2\_type
 
 ```python
 @property
@@ -655,7 +655,7 @@ def lfo2_type() -> SynthLFOType
 
 <a id="unreal.ModularSynthPreset.lfo2_type"></a>
 
-#### lfo2_type
+#### lfo2\_type
 
 ```python
 @lfo2_type.setter
@@ -664,7 +664,7 @@ def lfo2_type(value: SynthLFOType) -> None
 
 <a id="unreal.ModularSynthPreset.lfo2_mode"></a>
 
-#### lfo2_mode
+#### lfo2\_mode
 
 ```python
 @property
@@ -675,7 +675,7 @@ def lfo2_mode() -> SynthLFOMode
 
 <a id="unreal.ModularSynthPreset.lfo2_mode"></a>
 
-#### lfo2_mode
+#### lfo2\_mode
 
 ```python
 @lfo2_mode.setter
@@ -684,7 +684,7 @@ def lfo2_mode(value: SynthLFOMode) -> None
 
 <a id="unreal.ModularSynthPreset.lfo2_patch_type"></a>
 
-#### lfo2_patch_type
+#### lfo2\_patch\_type
 
 ```python
 @property
@@ -695,7 +695,7 @@ def lfo2_patch_type() -> SynthLFOPatchType
 
 <a id="unreal.ModularSynthPreset.lfo2_patch_type"></a>
 
-#### lfo2_patch_type
+#### lfo2\_patch\_type
 
 ```python
 @lfo2_patch_type.setter
@@ -704,7 +704,7 @@ def lfo2_patch_type(value: SynthLFOPatchType) -> None
 
 <a id="unreal.ModularSynthPreset.gain_db"></a>
 
-#### gain_db
+#### gain\_db
 
 ```python
 @property
@@ -715,7 +715,7 @@ def gain_db() -> float
 
 <a id="unreal.ModularSynthPreset.gain_db"></a>
 
-#### gain_db
+#### gain\_db
 
 ```python
 @gain_db.setter
@@ -724,7 +724,7 @@ def gain_db(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.attack_time"></a>
 
-#### attack_time
+#### attack\_time
 
 ```python
 @property
@@ -735,7 +735,7 @@ def attack_time() -> float
 
 <a id="unreal.ModularSynthPreset.attack_time"></a>
 
-#### attack_time
+#### attack\_time
 
 ```python
 @attack_time.setter
@@ -744,7 +744,7 @@ def attack_time(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.decay_time"></a>
 
-#### decay_time
+#### decay\_time
 
 ```python
 @property
@@ -755,7 +755,7 @@ def decay_time() -> float
 
 <a id="unreal.ModularSynthPreset.decay_time"></a>
 
-#### decay_time
+#### decay\_time
 
 ```python
 @decay_time.setter
@@ -764,7 +764,7 @@ def decay_time(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.sustain_gain"></a>
 
-#### sustain_gain
+#### sustain\_gain
 
 ```python
 @property
@@ -775,7 +775,7 @@ def sustain_gain() -> float
 
 <a id="unreal.ModularSynthPreset.sustain_gain"></a>
 
-#### sustain_gain
+#### sustain\_gain
 
 ```python
 @sustain_gain.setter
@@ -784,7 +784,7 @@ def sustain_gain(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.release_time"></a>
 
-#### release_time
+#### release\_time
 
 ```python
 @property
@@ -795,7 +795,7 @@ def release_time() -> float
 
 <a id="unreal.ModularSynthPreset.release_time"></a>
 
-#### release_time
+#### release\_time
 
 ```python
 @release_time.setter
@@ -804,7 +804,7 @@ def release_time(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.mod_env_patch_type"></a>
 
-#### mod_env_patch_type
+#### mod\_env\_patch\_type
 
 ```python
 @property
@@ -815,7 +815,7 @@ def mod_env_patch_type() -> SynthModEnvPatch
 
 <a id="unreal.ModularSynthPreset.mod_env_patch_type"></a>
 
-#### mod_env_patch_type
+#### mod\_env\_patch\_type
 
 ```python
 @mod_env_patch_type.setter
@@ -824,7 +824,7 @@ def mod_env_patch_type(value: SynthModEnvPatch) -> None
 
 <a id="unreal.ModularSynthPreset.mod_env_bias_patch_type"></a>
 
-#### mod_env_bias_patch_type
+#### mod\_env\_bias\_patch\_type
 
 ```python
 @property
@@ -835,7 +835,7 @@ def mod_env_bias_patch_type() -> SynthModEnvBiasPatch
 
 <a id="unreal.ModularSynthPreset.mod_env_bias_patch_type"></a>
 
-#### mod_env_bias_patch_type
+#### mod\_env\_bias\_patch\_type
 
 ```python
 @mod_env_bias_patch_type.setter
@@ -844,7 +844,7 @@ def mod_env_bias_patch_type(value: SynthModEnvBiasPatch) -> None
 
 <a id="unreal.ModularSynthPreset.invert_modulation_envelope"></a>
 
-#### invert_modulation_envelope
+#### invert\_modulation\_envelope
 
 ```python
 @property
@@ -855,7 +855,7 @@ def invert_modulation_envelope() -> bool
 
 <a id="unreal.ModularSynthPreset.invert_modulation_envelope"></a>
 
-#### invert_modulation_envelope
+#### invert\_modulation\_envelope
 
 ```python
 @invert_modulation_envelope.setter
@@ -864,7 +864,7 @@ def invert_modulation_envelope(value: bool) -> None
 
 <a id="unreal.ModularSynthPreset.invert_modulation_envelope_bias"></a>
 
-#### invert_modulation_envelope_bias
+#### invert\_modulation\_envelope\_bias
 
 ```python
 @property
@@ -875,7 +875,7 @@ def invert_modulation_envelope_bias() -> bool
 
 <a id="unreal.ModularSynthPreset.invert_modulation_envelope_bias"></a>
 
-#### invert_modulation_envelope_bias
+#### invert\_modulation\_envelope\_bias
 
 ```python
 @invert_modulation_envelope_bias.setter
@@ -884,7 +884,7 @@ def invert_modulation_envelope_bias(value: bool) -> None
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_depth"></a>
 
-#### modulation_envelope_depth
+#### modulation\_envelope\_depth
 
 ```python
 @property
@@ -895,7 +895,7 @@ def modulation_envelope_depth() -> float
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_depth"></a>
 
-#### modulation_envelope_depth
+#### modulation\_envelope\_depth
 
 ```python
 @modulation_envelope_depth.setter
@@ -904,7 +904,7 @@ def modulation_envelope_depth(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_attack_time"></a>
 
-#### modulation_envelope_attack_time
+#### modulation\_envelope\_attack\_time
 
 ```python
 @property
@@ -915,7 +915,7 @@ def modulation_envelope_attack_time() -> float
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_attack_time"></a>
 
-#### modulation_envelope_attack_time
+#### modulation\_envelope\_attack\_time
 
 ```python
 @modulation_envelope_attack_time.setter
@@ -924,7 +924,7 @@ def modulation_envelope_attack_time(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_decay_time"></a>
 
-#### modulation_envelope_decay_time
+#### modulation\_envelope\_decay\_time
 
 ```python
 @property
@@ -935,7 +935,7 @@ def modulation_envelope_decay_time() -> float
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_decay_time"></a>
 
-#### modulation_envelope_decay_time
+#### modulation\_envelope\_decay\_time
 
 ```python
 @modulation_envelope_decay_time.setter
@@ -944,7 +944,7 @@ def modulation_envelope_decay_time(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_sustain_gain"></a>
 
-#### modulation_envelope_sustain_gain
+#### modulation\_envelope\_sustain\_gain
 
 ```python
 @property
@@ -955,7 +955,7 @@ def modulation_envelope_sustain_gain() -> float
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_sustain_gain"></a>
 
-#### modulation_envelope_sustain_gain
+#### modulation\_envelope\_sustain\_gain
 
 ```python
 @modulation_envelope_sustain_gain.setter
@@ -964,7 +964,7 @@ def modulation_envelope_sustain_gain(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_release_time"></a>
 
-#### modulation_envelope_release_time
+#### modulation\_envelope\_release\_time
 
 ```python
 @property
@@ -975,7 +975,7 @@ def modulation_envelope_release_time() -> float
 
 <a id="unreal.ModularSynthPreset.modulation_envelope_release_time"></a>
 
-#### modulation_envelope_release_time
+#### modulation\_envelope\_release\_time
 
 ```python
 @modulation_envelope_release_time.setter
@@ -1024,7 +1024,7 @@ def retrigger(value: bool) -> None
 
 <a id="unreal.ModularSynthPreset.filter_frequency"></a>
 
-#### filter_frequency
+#### filter\_frequency
 
 ```python
 @property
@@ -1035,7 +1035,7 @@ def filter_frequency() -> float
 
 <a id="unreal.ModularSynthPreset.filter_frequency"></a>
 
-#### filter_frequency
+#### filter\_frequency
 
 ```python
 @filter_frequency.setter
@@ -1044,7 +1044,7 @@ def filter_frequency(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @property
@@ -1055,7 +1055,7 @@ def filter_q() -> float
 
 <a id="unreal.ModularSynthPreset.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @filter_q.setter
@@ -1064,7 +1064,7 @@ def filter_q(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @property
@@ -1075,7 +1075,7 @@ def filter_type() -> SynthFilterType
 
 <a id="unreal.ModularSynthPreset.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @filter_type.setter
@@ -1084,7 +1084,7 @@ def filter_type(value: SynthFilterType) -> None
 
 <a id="unreal.ModularSynthPreset.filter_algorithm"></a>
 
-#### filter_algorithm
+#### filter\_algorithm
 
 ```python
 @property
@@ -1095,7 +1095,7 @@ def filter_algorithm() -> SynthFilterAlgorithm
 
 <a id="unreal.ModularSynthPreset.filter_algorithm"></a>
 
-#### filter_algorithm
+#### filter\_algorithm
 
 ```python
 @filter_algorithm.setter
@@ -1104,7 +1104,7 @@ def filter_algorithm(value: SynthFilterAlgorithm) -> None
 
 <a id="unreal.ModularSynthPreset.stereo_delay_enabled"></a>
 
-#### stereo_delay_enabled
+#### stereo\_delay\_enabled
 
 ```python
 @property
@@ -1115,7 +1115,7 @@ def stereo_delay_enabled() -> bool
 
 <a id="unreal.ModularSynthPreset.stereo_delay_enabled"></a>
 
-#### stereo_delay_enabled
+#### stereo\_delay\_enabled
 
 ```python
 @stereo_delay_enabled.setter
@@ -1124,7 +1124,7 @@ def stereo_delay_enabled(value: bool) -> None
 
 <a id="unreal.ModularSynthPreset.stereo_delay_mode"></a>
 
-#### stereo_delay_mode
+#### stereo\_delay\_mode
 
 ```python
 @property
@@ -1135,7 +1135,7 @@ def stereo_delay_mode() -> SynthStereoDelayMode
 
 <a id="unreal.ModularSynthPreset.stereo_delay_mode"></a>
 
-#### stereo_delay_mode
+#### stereo\_delay\_mode
 
 ```python
 @stereo_delay_mode.setter
@@ -1144,7 +1144,7 @@ def stereo_delay_mode(value: SynthStereoDelayMode) -> None
 
 <a id="unreal.ModularSynthPreset.stereo_delay_time"></a>
 
-#### stereo_delay_time
+#### stereo\_delay\_time
 
 ```python
 @property
@@ -1155,7 +1155,7 @@ def stereo_delay_time() -> float
 
 <a id="unreal.ModularSynthPreset.stereo_delay_time"></a>
 
-#### stereo_delay_time
+#### stereo\_delay\_time
 
 ```python
 @stereo_delay_time.setter
@@ -1164,7 +1164,7 @@ def stereo_delay_time(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.stereo_delay_feedback"></a>
 
-#### stereo_delay_feedback
+#### stereo\_delay\_feedback
 
 ```python
 @property
@@ -1175,7 +1175,7 @@ def stereo_delay_feedback() -> float
 
 <a id="unreal.ModularSynthPreset.stereo_delay_feedback"></a>
 
-#### stereo_delay_feedback
+#### stereo\_delay\_feedback
 
 ```python
 @stereo_delay_feedback.setter
@@ -1184,7 +1184,7 @@ def stereo_delay_feedback(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.stereo_delay_wetlevel"></a>
 
-#### stereo_delay_wetlevel
+#### stereo\_delay\_wetlevel
 
 ```python
 @property
@@ -1195,7 +1195,7 @@ def stereo_delay_wetlevel() -> float
 
 <a id="unreal.ModularSynthPreset.stereo_delay_wetlevel"></a>
 
-#### stereo_delay_wetlevel
+#### stereo\_delay\_wetlevel
 
 ```python
 @stereo_delay_wetlevel.setter
@@ -1204,7 +1204,7 @@ def stereo_delay_wetlevel(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.stereo_delay_ratio"></a>
 
-#### stereo_delay_ratio
+#### stereo\_delay\_ratio
 
 ```python
 @property
@@ -1215,7 +1215,7 @@ def stereo_delay_ratio() -> float
 
 <a id="unreal.ModularSynthPreset.stereo_delay_ratio"></a>
 
-#### stereo_delay_ratio
+#### stereo\_delay\_ratio
 
 ```python
 @stereo_delay_ratio.setter
@@ -1224,7 +1224,7 @@ def stereo_delay_ratio(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.chorus_enabled"></a>
 
-#### chorus_enabled
+#### chorus\_enabled
 
 ```python
 @property
@@ -1235,7 +1235,7 @@ def chorus_enabled() -> bool
 
 <a id="unreal.ModularSynthPreset.chorus_enabled"></a>
 
-#### chorus_enabled
+#### chorus\_enabled
 
 ```python
 @chorus_enabled.setter
@@ -1244,7 +1244,7 @@ def chorus_enabled(value: bool) -> None
 
 <a id="unreal.ModularSynthPreset.chorus_depth"></a>
 
-#### chorus_depth
+#### chorus\_depth
 
 ```python
 @property
@@ -1255,7 +1255,7 @@ def chorus_depth() -> float
 
 <a id="unreal.ModularSynthPreset.chorus_depth"></a>
 
-#### chorus_depth
+#### chorus\_depth
 
 ```python
 @chorus_depth.setter
@@ -1264,7 +1264,7 @@ def chorus_depth(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.chorus_feedback"></a>
 
-#### chorus_feedback
+#### chorus\_feedback
 
 ```python
 @property
@@ -1275,7 +1275,7 @@ def chorus_feedback() -> float
 
 <a id="unreal.ModularSynthPreset.chorus_feedback"></a>
 
-#### chorus_feedback
+#### chorus\_feedback
 
 ```python
 @chorus_feedback.setter
@@ -1284,7 +1284,7 @@ def chorus_feedback(value: float) -> None
 
 <a id="unreal.ModularSynthPreset.chorus_frequency"></a>
 
-#### chorus_frequency
+#### chorus\_frequency
 
 ```python
 @property
@@ -1295,7 +1295,7 @@ def chorus_frequency() -> float
 
 <a id="unreal.ModularSynthPreset.chorus_frequency"></a>
 
-#### chorus_frequency
+#### chorus\_frequency
 
 ```python
 @chorus_frequency.setter

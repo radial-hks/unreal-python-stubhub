@@ -29,7 +29,7 @@ The actor may or may not be loaded.
 
 <a id="unreal.ActorDesc.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(guid: Guid = [],
@@ -60,7 +60,7 @@ def guid() -> Guid
 
 <a id="unreal.ActorDesc.native_class"></a>
 
-#### native_class
+#### native\_class
 
 ```python
 @property
@@ -71,7 +71,7 @@ def native_class() -> Class
 
 <a id="unreal.ActorDesc.class_"></a>
 
-#### class_
+#### class\_
 
 ```python
 @property
@@ -115,7 +115,7 @@ def bounds() -> Box
 
 <a id="unreal.ActorDesc.runtime_grid"></a>
 
-#### runtime_grid
+#### runtime\_grid
 
 ```python
 @property
@@ -126,7 +126,7 @@ def runtime_grid() -> Name
 
 <a id="unreal.ActorDesc.is_spatially_loaded"></a>
 
-#### is_spatially_loaded
+#### is\_spatially\_loaded
 
 ```python
 @property
@@ -137,7 +137,7 @@ def is_spatially_loaded() -> bool
 
 <a id="unreal.ActorDesc.actor_is_editor_only"></a>
 
-#### actor_is_editor_only
+#### actor\_is\_editor\_only
 
 ```python
 @property
@@ -148,7 +148,7 @@ def actor_is_editor_only() -> bool
 
 <a id="unreal.ActorDesc.actor_package"></a>
 
-#### actor_package
+#### actor\_package
 
 ```python
 @property
@@ -159,7 +159,7 @@ def actor_package() -> Name
 
 <a id="unreal.ActorDesc.actor_path"></a>
 
-#### actor_path
+#### actor\_path
 
 ```python
 @property
@@ -170,7 +170,7 @@ def actor_path() -> Name
 
 <a id="unreal.ActorDesc.data_layer_assets"></a>
 
-#### data_layer_assets
+#### data\_layer\_assets
 
 ```python
 @property

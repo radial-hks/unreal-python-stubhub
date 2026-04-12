@@ -21,7 +21,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Matrix.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -33,7 +33,7 @@ def __init__(
 
 <a id="unreal.Matrix.x_plane"></a>
 
-#### x_plane
+#### x\_plane
 
 ```python
 @property
@@ -44,7 +44,7 @@ def x_plane() -> Plane
 
 <a id="unreal.Matrix.x_plane"></a>
 
-#### x_plane
+#### x\_plane
 
 ```python
 @x_plane.setter
@@ -53,7 +53,7 @@ def x_plane(value: Plane) -> None
 
 <a id="unreal.Matrix.y_plane"></a>
 
-#### y_plane
+#### y\_plane
 
 ```python
 @property
@@ -64,7 +64,7 @@ def y_plane() -> Plane
 
 <a id="unreal.Matrix.y_plane"></a>
 
-#### y_plane
+#### y\_plane
 
 ```python
 @y_plane.setter
@@ -73,7 +73,7 @@ def y_plane(value: Plane) -> None
 
 <a id="unreal.Matrix.z_plane"></a>
 
-#### z_plane
+#### z\_plane
 
 ```python
 @property
@@ -84,7 +84,7 @@ def z_plane() -> Plane
 
 <a id="unreal.Matrix.z_plane"></a>
 
-#### z_plane
+#### z\_plane
 
 ```python
 @z_plane.setter
@@ -93,7 +93,7 @@ def z_plane(value: Plane) -> None
 
 <a id="unreal.Matrix.w_plane"></a>
 
-#### w_plane
+#### w\_plane
 
 ```python
 @property
@@ -104,7 +104,7 @@ def w_plane() -> Plane
 
 <a id="unreal.Matrix.w_plane"></a>
 
-#### w_plane
+#### w\_plane
 
 ```python
 @w_plane.setter
@@ -113,7 +113,7 @@ def w_plane(value: Plane) -> None
 
 <a id="unreal.Matrix.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 def not_equal(b: Matrix, tolerance: float = 0.000100) -> bool
@@ -148,7 +148,7 @@ Returns:
 
 <a id="unreal.Matrix.multiply_float"></a>
 
-#### multiply_float
+#### multiply\_float
 
 ```python
 def multiply_float(b: float) -> Matrix
@@ -166,7 +166,7 @@ Returns:
 
 <a id="unreal.Matrix.transform_vector4"></a>
 
-#### transform_vector4
+#### transform\_vector4
 
 ```python
 def transform_vector4(v: Vector4) -> Vector4
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.Matrix.transform_vector"></a>
 
-#### transform_vector
+#### transform\_vector
 
 ```python
 def transform_vector(v: Vector) -> Vector4
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.Matrix.transform_position"></a>
 
-#### transform_position
+#### transform\_position
 
 ```python
 def transform_position(v: Vector) -> Vector4
@@ -221,7 +221,7 @@ Returns:
 
 <a id="unreal.Matrix.to_quat"></a>
 
-#### to_quat
+#### to\_quat
 
 ```python
 def to_quat() -> Quat
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.Matrix.set_origin"></a>
 
-#### set_origin
+#### set\_origin
 
 ```python
 def set_origin(new_origin: Vector) -> None
@@ -252,7 +252,7 @@ Args:
 
 <a id="unreal.Matrix.set_column"></a>
 
-#### set_column
+#### set\_column
 
 ```python
 def set_column(column: MatrixColumns, value: Vector) -> None
@@ -267,7 +267,7 @@ Args:
 
 <a id="unreal.Matrix.set_axis"></a>
 
-#### set_axis
+#### set\_axis
 
 ```python
 def set_axis(axis: AxisType, axis_vector: Vector) -> None
@@ -283,7 +283,7 @@ Args:
 
 <a id="unreal.Matrix.scale_translation"></a>
 
-#### scale_translation
+#### scale\_translation
 
 ```python
 def scale_translation(scale3d: Vector) -> Matrix
@@ -301,7 +301,7 @@ Returns:
 
 <a id="unreal.Matrix.remove_translation"></a>
 
-#### remove_translation
+#### remove\_translation
 
 ```python
 def remove_translation() -> Matrix
@@ -316,7 +316,7 @@ Returns:
 
 <a id="unreal.Matrix.remove_scaling"></a>
 
-#### remove_scaling
+#### remove\_scaling
 
 ```python
 def remove_scaling(tolerance: float = 0.000000) -> None
@@ -350,7 +350,7 @@ Returns:
 
 <a id="unreal.Matrix.inverse_transform_vector"></a>
 
-#### inverse_transform_vector
+#### inverse\_transform\_vector
 
 ```python
 def inverse_transform_vector(v: Vector) -> Vector
@@ -369,7 +369,7 @@ Returns:
 
 <a id="unreal.Matrix.inverse_transform_position"></a>
 
-#### inverse_transform_position
+#### inverse\_transform\_position
 
 ```python
 def inverse_transform_position(v: Vector) -> Vector
@@ -387,7 +387,7 @@ Returns:
 
 <a id="unreal.Matrix.get_unit_axis"></a>
 
-#### get_unit_axis
+#### get\_unit\_axis
 
 ```python
 def get_unit_axis(axis: AxisType) -> Vector
@@ -405,7 +405,7 @@ Returns:
 
 <a id="unreal.Matrix.get_unit_axes"></a>
 
-#### get_unit_axes
+#### get\_unit\_axes
 
 ```python
 def get_unit_axes() -> Tuple[Vector, Vector, Vector]
@@ -426,7 +426,7 @@ Returns:
 
 <a id="unreal.Matrix.get_transposed"></a>
 
-#### get_transposed
+#### get\_transposed
 
 ```python
 def get_transposed() -> Matrix
@@ -440,7 +440,7 @@ Returns:
 
 <a id="unreal.Matrix.get_transpose_adjoint"></a>
 
-#### get_transpose_adjoint
+#### get\_transpose\_adjoint
 
 ```python
 def get_transpose_adjoint() -> Matrix
@@ -454,7 +454,7 @@ Returns:
 
 <a id="unreal.Matrix.get_scale_vector"></a>
 
-#### get_scale_vector
+#### get\_scale\_vector
 
 ```python
 def get_scale_vector(tolerance: float = 0.000000) -> Vector
@@ -472,7 +472,7 @@ Returns:
 
 <a id="unreal.Matrix.get_scaled_axis"></a>
 
-#### get_scaled_axis
+#### get\_scaled\_axis
 
 ```python
 def get_scaled_axis(axis: AxisType) -> Vector
@@ -490,7 +490,7 @@ Returns:
 
 <a id="unreal.Matrix.get_scaled_axes"></a>
 
-#### get_scaled_axes
+#### get\_scaled\_axes
 
 ```python
 def get_scaled_axes() -> Tuple[Vector, Vector, Vector]
@@ -511,7 +511,7 @@ Returns:
 
 <a id="unreal.Matrix.get_rot_determinant"></a>
 
-#### get_rot_determinant
+#### get\_rot\_determinant
 
 ```python
 def get_rot_determinant() -> float
@@ -525,7 +525,7 @@ Returns:
 
 <a id="unreal.Matrix.get_rotator"></a>
 
-#### get_rotator
+#### get\_rotator
 
 ```python
 def get_rotator() -> Rotator
@@ -540,7 +540,7 @@ Returns:
 
 <a id="unreal.Matrix.get_origin"></a>
 
-#### get_origin
+#### get\_origin
 
 ```python
 def get_origin() -> Vector
@@ -555,7 +555,7 @@ Returns:
 
 <a id="unreal.Matrix.get_maximum_axis_scale"></a>
 
-#### get_maximum_axis_scale
+#### get\_maximum\_axis\_scale
 
 ```python
 def get_maximum_axis_scale() -> float
@@ -569,7 +569,7 @@ Returns:
 
 <a id="unreal.Matrix.get_matrix_without_scale"></a>
 
-#### get_matrix_without_scale
+#### get\_matrix\_without\_scale
 
 ```python
 def get_matrix_without_scale(tolerance: float = 0.000000) -> Matrix
@@ -587,7 +587,7 @@ Returns:
 
 <a id="unreal.Matrix.get_inverse"></a>
 
-#### get_inverse
+#### get\_inverse
 
 ```python
 def get_inverse() -> Matrix
@@ -601,7 +601,7 @@ Returns:
 
 <a id="unreal.Matrix.get_frustum_top_plane"></a>
 
-#### get_frustum_top_plane
+#### get\_frustum\_top\_plane
 
 ```python
 def get_frustum_top_plane() -> Optional[Plane]
@@ -618,7 +618,7 @@ Returns:
 
 <a id="unreal.Matrix.get_frustum_right_plane"></a>
 
-#### get_frustum_right_plane
+#### get\_frustum\_right\_plane
 
 ```python
 def get_frustum_right_plane() -> Optional[Plane]
@@ -635,7 +635,7 @@ Returns:
 
 <a id="unreal.Matrix.get_frustum_near_plane"></a>
 
-#### get_frustum_near_plane
+#### get\_frustum\_near\_plane
 
 ```python
 def get_frustum_near_plane() -> Optional[Plane]
@@ -652,7 +652,7 @@ Returns:
 
 <a id="unreal.Matrix.get_frustum_left_plane"></a>
 
-#### get_frustum_left_plane
+#### get\_frustum\_left\_plane
 
 ```python
 def get_frustum_left_plane() -> Optional[Plane]
@@ -669,7 +669,7 @@ Returns:
 
 <a id="unreal.Matrix.get_frustum_far_plane"></a>
 
-#### get_frustum_far_plane
+#### get\_frustum\_far\_plane
 
 ```python
 def get_frustum_far_plane() -> Optional[Plane]
@@ -686,7 +686,7 @@ Returns:
 
 <a id="unreal.Matrix.get_frustum_bottom_plane"></a>
 
-#### get_frustum_bottom_plane
+#### get\_frustum\_bottom\_plane
 
 ```python
 def get_frustum_bottom_plane() -> Optional[Plane]
@@ -703,7 +703,7 @@ Returns:
 
 <a id="unreal.Matrix.get_determinant"></a>
 
-#### get_determinant
+#### get\_determinant
 
 ```python
 def get_determinant() -> float
@@ -717,7 +717,7 @@ Returns:
 
 <a id="unreal.Matrix.get_column"></a>
 
-#### get_column
+#### get\_column
 
 ```python
 def get_column(column: MatrixColumns) -> Vector
@@ -734,7 +734,7 @@ Returns:
 
 <a id="unreal.Matrix.contains_na_n"></a>
 
-#### contains_na_n
+#### contains\_na\_n
 
 ```python
 def contains_na_n() -> bool
@@ -748,7 +748,7 @@ Returns:
 
 <a id="unreal.Matrix.concatenate_translation"></a>
 
-#### concatenate_translation
+#### concatenate\_translation
 
 ```python
 def concatenate_translation(translation: Vector) -> Matrix
@@ -766,7 +766,7 @@ Returns:
 
 <a id="unreal.Matrix.apply_scale"></a>
 
-#### apply_scale
+#### apply\_scale
 
 ```python
 def apply_scale(scale: float) -> Matrix
@@ -849,7 +849,7 @@ Returns:
 
 <a id="unreal.Matrix.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -865,7 +865,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.Matrix.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool
@@ -880,7 +880,7 @@ def __ne__(other: object) -> bool
 
 <a id="unreal.Matrix.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: Matrix) -> None
@@ -895,7 +895,7 @@ def __add__(other: Matrix) -> None
 
 <a id="unreal.Matrix.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: Matrix) -> None
@@ -910,7 +910,7 @@ def __iadd__(other: Matrix) -> None
 
 <a id="unreal.Matrix.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: Matrix) -> None
@@ -927,7 +927,7 @@ def __mul__(other: Matrix) -> None
 
 <a id="unreal.Matrix.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: Matrix) -> None

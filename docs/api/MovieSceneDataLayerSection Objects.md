@@ -31,7 +31,7 @@ Movie Scene Data Layer Section
 
 <a id="unreal.MovieSceneDataLayerSection.set_preroll_state"></a>
 
-#### set_preroll_state
+#### set\_preroll\_state
 
 ```python
 def set_preroll_state(preroll_state: DataLayerRuntimeState) -> None
@@ -45,7 +45,7 @@ Args:
 
 <a id="unreal.MovieSceneDataLayerSection.set_flush_on_unload"></a>
 
-#### set_flush_on_unload
+#### set\_flush\_on\_unload
 
 ```python
 def set_flush_on_unload(flush_on_unload: bool) -> None
@@ -59,7 +59,7 @@ Args:
 
 <a id="unreal.MovieSceneDataLayerSection.set_flush_on_activated"></a>
 
-#### set_flush_on_activated
+#### set\_flush\_on\_activated
 
 ```python
 def set_flush_on_activated(flush_on_activated: bool) -> None
@@ -73,7 +73,7 @@ Args:
 
 <a id="unreal.MovieSceneDataLayerSection.set_desired_state"></a>
 
-#### set_desired_state
+#### set\_desired\_state
 
 ```python
 def set_desired_state(desired_state: DataLayerRuntimeState) -> None
@@ -87,7 +87,7 @@ Args:
 
 <a id="unreal.MovieSceneDataLayerSection.set_data_layer_assets"></a>
 
-#### set_data_layer_assets
+#### set\_data\_layer\_assets
 
 ```python
 def set_data_layer_assets(data_layer_assets: Array[DataLayerAsset]) -> None
@@ -101,7 +101,7 @@ Args:
 
 <a id="unreal.MovieSceneDataLayerSection.get_preroll_state"></a>
 
-#### get_preroll_state
+#### get\_preroll\_state
 
 ```python
 def get_preroll_state() -> DataLayerRuntimeState
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.MovieSceneDataLayerSection.get_flush_on_unload"></a>
 
-#### get_flush_on_unload
+#### get\_flush\_on\_unload
 
 ```python
 def get_flush_on_unload() -> bool
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.MovieSceneDataLayerSection.get_flush_on_activated"></a>
 
-#### get_flush_on_activated
+#### get\_flush\_on\_activated
 
 ```python
 def get_flush_on_activated() -> bool
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.MovieSceneDataLayerSection.get_desired_state"></a>
 
-#### get_desired_state
+#### get\_desired\_state
 
 ```python
 def get_desired_state() -> DataLayerRuntimeState
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.MovieSceneDataLayerSection.get_data_layer_assets"></a>
 
-#### get_data_layer_assets
+#### get\_data\_layer\_assets
 
 ```python
 def get_data_layer_assets() -> Array[DataLayerAsset]

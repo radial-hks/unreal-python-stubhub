@@ -13,13 +13,13 @@ EReflection Source Type
 
 <a id="unreal.ReflectionSourceType.CAPTURED_SCENE"></a>
 
-#### CAPTURED_SCENE
+#### CAPTURED\_SCENE
 
 0: Construct the reflection source from the captured scene
 
 <a id="unreal.ReflectionSourceType.SPECIFIED_CUBEMAP"></a>
 
-#### SPECIFIED_CUBEMAP
+#### SPECIFIED\_CUBEMAP
 
 1: Construct the reflection source from the specified cubemap.
 

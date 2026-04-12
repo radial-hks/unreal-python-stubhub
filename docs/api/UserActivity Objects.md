@@ -17,7 +17,7 @@ The description of a user activity
 
 <a id="unreal.UserActivity.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(action_name: str = "") -> None
@@ -25,7 +25,7 @@ def __init__(action_name: str = "") -> None
 
 <a id="unreal.UserActivity.action_name"></a>
 
-#### action_name
+#### action\_name
 
 ```python
 @property
@@ -36,7 +36,7 @@ def action_name() -> str
 
 <a id="unreal.UserActivity.action_name"></a>
 
-#### action_name
+#### action\_name
 
 ```python
 @action_name.setter

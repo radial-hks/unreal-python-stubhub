@@ -18,7 +18,7 @@ Resonance Audio Reverb Plugin Preset
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_room_rotation"></a>
 
-#### set_room_rotation
+#### set\_room\_rotation
 
 ```python
 def set_room_rotation(rotation: Quat) -> None
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_room_position"></a>
 
-#### set_room_position
+#### set\_room\_position
 
 ```python
 def set_room_position(position: Vector) -> None
@@ -46,7 +46,7 @@ Args:
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_room_materials"></a>
 
-#### set_room_materials
+#### set\_room\_materials
 
 ```python
 def set_room_materials(materials: Array[RaMaterialName]) -> None
@@ -60,7 +60,7 @@ Args:
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_room_dimensions"></a>
 
-#### set_room_dimensions
+#### set\_room\_dimensions
 
 ```python
 def set_room_dimensions(dimensions: Vector) -> None
@@ -74,7 +74,7 @@ Args:
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_reverb_time_modifier"></a>
 
-#### set_reverb_time_modifier
+#### set\_reverb\_time\_modifier
 
 ```python
 def set_reverb_time_modifier(reverb_time_modifier: float) -> None
@@ -89,7 +89,7 @@ Args:
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_reverb_gain"></a>
 
-#### set_reverb_gain
+#### set\_reverb\_gain
 
 ```python
 def set_reverb_gain(reverb_gain: float) -> None
@@ -103,7 +103,7 @@ Args:
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_reverb_brightness"></a>
 
-#### set_reverb_brightness
+#### set\_reverb\_brightness
 
 ```python
 def set_reverb_brightness(reverb_brightness: float) -> None
@@ -118,7 +118,7 @@ Args:
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_reflection_scalar"></a>
 
-#### set_reflection_scalar
+#### set\_reflection\_scalar
 
 ```python
 def set_reflection_scalar(reflection_scalar: float) -> None
@@ -132,7 +132,7 @@ Args:
 
 <a id="unreal.ResonanceAudioReverbPluginPreset.set_enable_room_effects"></a>
 
-#### set_enable_room_effects
+#### set\_enable\_room\_effects
 
 ```python
 def set_enable_room_effects(enable_room_effects: bool) -> None

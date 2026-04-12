@@ -81,7 +81,7 @@ class UMyUserWidget : public UUserWidget
 
 <a id="unreal.ListViewBase.bp_on_entry_generated"></a>
 
-#### bp_on_entry_generated
+#### bp\_on\_entry\_generated
 
 ```python
 @property
@@ -92,7 +92,7 @@ def bp_on_entry_generated() -> OnListEntryGeneratedDynamic
 
 <a id="unreal.ListViewBase.bp_on_entry_generated"></a>
 
-#### bp_on_entry_generated
+#### bp\_on\_entry\_generated
 
 ```python
 @bp_on_entry_generated.setter
@@ -101,7 +101,7 @@ def bp_on_entry_generated(value: OnListEntryGeneratedDynamic) -> None
 
 <a id="unreal.ListViewBase.entry_widget_class"></a>
 
-#### entry_widget_class
+#### entry\_widget\_class
 
 ```python
 @property
@@ -112,7 +112,7 @@ def entry_widget_class() -> Class
 
 <a id="unreal.ListViewBase.wheel_scroll_multiplier"></a>
 
-#### wheel_scroll_multiplier
+#### wheel\_scroll\_multiplier
 
 ```python
 @property
@@ -123,7 +123,7 @@ def wheel_scroll_multiplier() -> float
 
 <a id="unreal.ListViewBase.enable_scroll_animation"></a>
 
-#### enable_scroll_animation
+#### enable\_scroll\_animation
 
 ```python
 @property
@@ -134,7 +134,7 @@ def enable_scroll_animation() -> bool
 
 <a id="unreal.ListViewBase.scrolling_animation_interpolation_speed"></a>
 
-#### scrolling_animation_interpolation_speed
+#### scrolling\_animation\_interpolation\_speed
 
 ```python
 @property
@@ -145,7 +145,7 @@ def scrolling_animation_interpolation_speed() -> float
 
 <a id="unreal.ListViewBase.enable_touch_animated_scrolling"></a>
 
-#### enable_touch_animated_scrolling
+#### enable\_touch\_animated\_scrolling
 
 ```python
 @property
@@ -156,7 +156,7 @@ def enable_touch_animated_scrolling() -> bool
 
 <a id="unreal.ListViewBase.allow_dragging"></a>
 
-#### allow_dragging
+#### allow\_dragging
 
 ```python
 @property
@@ -167,7 +167,7 @@ def allow_dragging() -> bool
 
 <a id="unreal.ListViewBase.bp_on_entry_released"></a>
 
-#### bp_on_entry_released
+#### bp\_on\_entry\_released
 
 ```python
 @property
@@ -178,7 +178,7 @@ def bp_on_entry_released() -> OnListEntryReleasedDynamic
 
 <a id="unreal.ListViewBase.bp_on_entry_released"></a>
 
-#### bp_on_entry_released
+#### bp\_on\_entry\_released
 
 ```python
 @bp_on_entry_released.setter
@@ -187,7 +187,7 @@ def bp_on_entry_released(value: OnListEntryReleasedDynamic) -> None
 
 <a id="unreal.ListViewBase.set_wheel_scroll_multiplier"></a>
 
-#### set_wheel_scroll_multiplier
+#### set\_wheel\_scroll\_multiplier
 
 ```python
 def set_wheel_scroll_multiplier(new_wheel_scroll_multiplier: float) -> None
@@ -201,7 +201,7 @@ Args:
 
 <a id="unreal.ListViewBase.set_scroll_offset"></a>
 
-#### set_scroll_offset
+#### set\_scroll\_offset
 
 ```python
 def set_scroll_offset(scroll_offset: float) -> None
@@ -215,7 +215,7 @@ Args:
 
 <a id="unreal.ListViewBase.set_scrollbar_visibility"></a>
 
-#### set_scrollbar_visibility
+#### set\_scrollbar\_visibility
 
 ```python
 def set_scrollbar_visibility(visibility: SlateVisibility) -> None
@@ -229,7 +229,7 @@ Args:
 
 <a id="unreal.ListViewBase.set_is_pointer_scrolling_enabled"></a>
 
-#### set_is_pointer_scrolling_enabled
+#### set\_is\_pointer\_scrolling\_enabled
 
 ```python
 def set_is_pointer_scrolling_enabled(
@@ -244,7 +244,7 @@ Args:
 
 <a id="unreal.ListViewBase.set_is_gamepad_scrolling_enabled"></a>
 
-#### set_is_gamepad_scrolling_enabled
+#### set\_is\_gamepad\_scrolling\_enabled
 
 ```python
 def set_is_gamepad_scrolling_enabled(
@@ -259,7 +259,7 @@ Args:
 
 <a id="unreal.ListViewBase.scroll_to_top"></a>
 
-#### scroll_to_top
+#### scroll\_to\_top
 
 ```python
 def scroll_to_top() -> None
@@ -270,7 +270,7 @@ Scroll the entire list up to the first item
 
 <a id="unreal.ListViewBase.scroll_to_bottom"></a>
 
-#### scroll_to_bottom
+#### scroll\_to\_bottom
 
 ```python
 def scroll_to_bottom() -> None
@@ -281,7 +281,7 @@ Scroll the entire list down to the bottom-most item
 
 <a id="unreal.ListViewBase.request_refresh"></a>
 
-#### request_refresh
+#### request\_refresh
 
 ```python
 def request_refresh() -> None
@@ -298,7 +298,7 @@ This can be onerous to set up for simple cases, so it's also reasonable (though 
 
 <a id="unreal.ListViewBase.regenerate_all_entries"></a>
 
-#### regenerate_all_entries
+#### regenerate\_all\_entries
 
 ```python
 def regenerate_all_entries() -> None
@@ -310,7 +310,7 @@ In other words, entry widgets will not receive Destruct/Construct events. They w
 
 <a id="unreal.ListViewBase.get_scroll_offset"></a>
 
-#### get_scroll_offset
+#### get\_scroll\_offset
 
 ```python
 def get_scroll_offset() -> float
@@ -324,7 +324,7 @@ Returns:
 
 <a id="unreal.ListViewBase.get_displayed_entry_widgets"></a>
 
-#### get_displayed_entry_widgets
+#### get\_displayed\_entry\_widgets
 
 ```python
 def get_displayed_entry_widgets() -> Array[UserWidget]
@@ -338,7 +338,7 @@ Returns:
 
 <a id="unreal.ListViewBase.end_inertial_scrolling"></a>
 
-#### end_inertial_scrolling
+#### end\_inertial\_scrolling
 
 ```python
 def end_inertial_scrolling() -> None

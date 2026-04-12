@@ -20,13 +20,13 @@ This enum decides how a sprite particle will orient its "up" axis. Must keep the
 
 <a id="unreal.NiagaraSpriteAlignment.VELOCITY_ALIGNED"></a>
 
-#### VELOCITY_ALIGNED
+#### VELOCITY\_ALIGNED
 
 1: Imagine the particle texture having an arrow pointing up, this mode makes the arrow point in the direction of the Particles.Velocity attribute. FacingMode is ignored unless CustomFacingVector is set.
 
 <a id="unreal.NiagaraSpriteAlignment.CUSTOM_ALIGNMENT"></a>
 
-#### CUSTOM_ALIGNMENT
+#### CUSTOM\_ALIGNMENT
 
 2: Imagine the particle texture having an arrow pointing up, this mode makes the arrow point towards the axis defined by the "Particles.SpriteAlignment" attribute. FacingMode is ignored unless CustomFacingVector is set. If the "Particles.SpriteAlignment" attribute is missing, this falls back to Unaligned mode.
 

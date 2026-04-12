@@ -13,7 +13,7 @@ Typed Element Asset Data Interface
 
 <a id="unreal.TypedElementAssetDataInterface.get_asset_data"></a>
 
-#### get_asset_data
+#### get\_asset\_data
 
 ```python
 def get_asset_data(element_handle: ScriptTypedElementHandle) -> AssetData
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.TypedElementAssetDataInterface.get_all_referenced_asset_datas"></a>
 
-#### get_all_referenced_asset_datas
+#### get\_all\_referenced\_asset\_datas
 
 ```python
 def get_all_referenced_asset_datas(

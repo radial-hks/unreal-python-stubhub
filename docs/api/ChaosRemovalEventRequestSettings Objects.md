@@ -20,7 +20,7 @@ Chaos Removal Event Request Settings
 
 <a id="unreal.ChaosRemovalEventRequestSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -33,7 +33,7 @@ def __init__(
 
 <a id="unreal.ChaosRemovalEventRequestSettings.max_number_of_results"></a>
 
-#### max_number_of_results
+#### max\_number\_of\_results
 
 ```python
 @property
@@ -44,7 +44,7 @@ def max_number_of_results() -> int
 
 <a id="unreal.ChaosRemovalEventRequestSettings.max_number_of_results"></a>
 
-#### max_number_of_results
+#### max\_number\_of\_results
 
 ```python
 @max_number_of_results.setter
@@ -53,7 +53,7 @@ def max_number_of_results(value: int) -> None
 
 <a id="unreal.ChaosRemovalEventRequestSettings.min_mass"></a>
 
-#### min_mass
+#### min\_mass
 
 ```python
 @property
@@ -64,7 +64,7 @@ def min_mass() -> float
 
 <a id="unreal.ChaosRemovalEventRequestSettings.min_mass"></a>
 
-#### min_mass
+#### min\_mass
 
 ```python
 @min_mass.setter
@@ -73,7 +73,7 @@ def min_mass(value: float) -> None
 
 <a id="unreal.ChaosRemovalEventRequestSettings.max_distance"></a>
 
-#### max_distance
+#### max\_distance
 
 ```python
 @property
@@ -84,7 +84,7 @@ def max_distance() -> float
 
 <a id="unreal.ChaosRemovalEventRequestSettings.max_distance"></a>
 
-#### max_distance
+#### max\_distance
 
 ```python
 @max_distance.setter
@@ -93,7 +93,7 @@ def max_distance(value: float) -> None
 
 <a id="unreal.ChaosRemovalEventRequestSettings.sort_method"></a>
 
-#### sort_method
+#### sort\_method
 
 ```python
 @property
@@ -104,7 +104,7 @@ def sort_method() -> ChaosRemovalSortMethod
 
 <a id="unreal.ChaosRemovalEventRequestSettings.sort_method"></a>
 
-#### sort_method
+#### sort\_method
 
 ```python
 @sort_method.setter

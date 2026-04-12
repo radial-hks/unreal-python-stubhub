@@ -26,7 +26,7 @@ Creation parameters for AVREditorFloatingUI
 
 <a id="unreal.VREditorFloatingUICreationContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(widget_class: Class = None,
@@ -45,7 +45,7 @@ def __init__(widget_class: Class = None,
 
 <a id="unreal.VREditorFloatingUICreationContext.widget_class"></a>
 
-#### widget_class
+#### widget\_class
 
 ```python
 @property
@@ -56,7 +56,7 @@ def widget_class() -> Class
 
 <a id="unreal.VREditorFloatingUICreationContext.widget_class"></a>
 
-#### widget_class
+#### widget\_class
 
 ```python
 @widget_class.setter
@@ -65,7 +65,7 @@ def widget_class(value: Class) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.panel_id"></a>
 
-#### panel_id
+#### panel\_id
 
 ```python
 @property
@@ -76,7 +76,7 @@ def panel_id() -> Name
 
 <a id="unreal.VREditorFloatingUICreationContext.panel_id"></a>
 
-#### panel_id
+#### panel\_id
 
 ```python
 @panel_id.setter
@@ -85,7 +85,7 @@ def panel_id(value: Name) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.parent_actor"></a>
 
-#### parent_actor
+#### parent\_actor
 
 ```python
 @property
@@ -96,7 +96,7 @@ def parent_actor() -> Actor
 
 <a id="unreal.VREditorFloatingUICreationContext.parent_actor"></a>
 
-#### parent_actor
+#### parent\_actor
 
 ```python
 @parent_actor.setter
@@ -105,7 +105,7 @@ def parent_actor(value: Actor) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.panel_spawn_offset"></a>
 
-#### panel_spawn_offset
+#### panel\_spawn\_offset
 
 ```python
 @property
@@ -116,7 +116,7 @@ def panel_spawn_offset() -> Transform
 
 <a id="unreal.VREditorFloatingUICreationContext.panel_spawn_offset"></a>
 
-#### panel_spawn_offset
+#### panel\_spawn\_offset
 
 ```python
 @panel_spawn_offset.setter
@@ -125,7 +125,7 @@ def panel_spawn_offset(value: Transform) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.panel_size"></a>
 
-#### panel_size
+#### panel\_size
 
 ```python
 @property
@@ -136,7 +136,7 @@ def panel_size() -> Vector2D
 
 <a id="unreal.VREditorFloatingUICreationContext.panel_size"></a>
 
-#### panel_size
+#### panel\_size
 
 ```python
 @panel_size.setter
@@ -145,7 +145,7 @@ def panel_size(value: Vector2D) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.panel_mesh"></a>
 
-#### panel_mesh
+#### panel\_mesh
 
 ```python
 @property
@@ -156,7 +156,7 @@ def panel_mesh() -> StaticMesh
 
 <a id="unreal.VREditorFloatingUICreationContext.panel_mesh"></a>
 
-#### panel_mesh
+#### panel\_mesh
 
 ```python
 @panel_mesh.setter
@@ -165,7 +165,7 @@ def panel_mesh(value: StaticMesh) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.editor_ui_size"></a>
 
-#### editor_ui_size
+#### editor\_ui\_size
 
 ```python
 @property
@@ -176,7 +176,7 @@ def editor_ui_size() -> float
 
 <a id="unreal.VREditorFloatingUICreationContext.editor_ui_size"></a>
 
-#### editor_ui_size
+#### editor\_ui\_size
 
 ```python
 @editor_ui_size.setter
@@ -185,7 +185,7 @@ def editor_ui_size(value: float) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.hide_window_handles"></a>
 
-#### hide_window_handles
+#### hide\_window\_handles
 
 ```python
 @property
@@ -196,7 +196,7 @@ def hide_window_handles() -> bool
 
 <a id="unreal.VREditorFloatingUICreationContext.hide_window_handles"></a>
 
-#### hide_window_handles
+#### hide\_window\_handles
 
 ```python
 @hide_window_handles.setter
@@ -205,7 +205,7 @@ def hide_window_handles(value: bool) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.mask_out_widget_background"></a>
 
-#### mask_out_widget_background
+#### mask\_out\_widget\_background
 
 ```python
 @property
@@ -216,7 +216,7 @@ def mask_out_widget_background() -> bool
 
 <a id="unreal.VREditorFloatingUICreationContext.mask_out_widget_background"></a>
 
-#### mask_out_widget_background
+#### mask\_out\_widget\_background
 
 ```python
 @mask_out_widget_background.setter
@@ -225,7 +225,7 @@ def mask_out_widget_background(value: bool) -> None
 
 <a id="unreal.VREditorFloatingUICreationContext.no_close_button"></a>
 
-#### no_close_button
+#### no\_close\_button
 
 ```python
 @property
@@ -236,7 +236,7 @@ def no_close_button() -> bool
 
 <a id="unreal.VREditorFloatingUICreationContext.no_close_button"></a>
 
-#### no_close_button
+#### no\_close\_button
 
 ```python
 @no_close_button.setter

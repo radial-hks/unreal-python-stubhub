@@ -14,7 +14,7 @@ Blueprint Session Result
 
 <a id="unreal.BlueprintSessionResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

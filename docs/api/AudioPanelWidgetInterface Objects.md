@@ -13,7 +13,7 @@ Audio Panel Widget Interface
 
 <a id="unreal.AudioPanelWidgetInterface.get_icon_brush_name"></a>
 
-#### get_icon_brush_name
+#### get\_icon\_brush\_name
 
 ```python
 def get_icon_brush_name() -> Name
@@ -27,7 +27,7 @@ Returns:
 
 <a id="unreal.AudioPanelWidgetInterface.get_editor_name"></a>
 
-#### get_editor_name
+#### get\_editor\_name
 
 ```python
 def get_editor_name() -> Text

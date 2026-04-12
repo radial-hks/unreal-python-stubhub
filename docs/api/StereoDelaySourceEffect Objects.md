@@ -28,7 +28,7 @@ Right input mixes with left delay line output and feeds to left output.
 
 <a id="unreal.StereoDelaySourceEffect.PING_PONG"></a>
 
-#### PING_PONG
+#### PING\_PONG
 
 2: Left input mixes with left delay line output and feeds to right output.
 Right input mixes with right delay line output and feeds to left output.

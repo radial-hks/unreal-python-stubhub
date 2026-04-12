@@ -19,7 +19,7 @@ Brush Effect Smooth Blending
 
 <a id="unreal.BrushEffectSmoothBlending.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(inner_smooth_distance: float = 0.000000,
@@ -28,7 +28,7 @@ def __init__(inner_smooth_distance: float = 0.000000,
 
 <a id="unreal.BrushEffectSmoothBlending.inner_smooth_distance"></a>
 
-#### inner_smooth_distance
+#### inner\_smooth\_distance
 
 ```python
 @property
@@ -39,7 +39,7 @@ def inner_smooth_distance() -> float
 
 <a id="unreal.BrushEffectSmoothBlending.inner_smooth_distance"></a>
 
-#### inner_smooth_distance
+#### inner\_smooth\_distance
 
 ```python
 @inner_smooth_distance.setter
@@ -48,7 +48,7 @@ def inner_smooth_distance(value: float) -> None
 
 <a id="unreal.BrushEffectSmoothBlending.outer_smooth_distance"></a>
 
-#### outer_smooth_distance
+#### outer\_smooth\_distance
 
 ```python
 @property
@@ -59,7 +59,7 @@ def outer_smooth_distance() -> float
 
 <a id="unreal.BrushEffectSmoothBlending.outer_smooth_distance"></a>
 
-#### outer_smooth_distance
+#### outer\_smooth\_distance
 
 ```python
 @outer_smooth_distance.setter

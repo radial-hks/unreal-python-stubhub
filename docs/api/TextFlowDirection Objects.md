@@ -20,13 +20,13 @@ note: If you change this enum, make sure and update CVarDefaultTextFlowDirection
 
 <a id="unreal.TextFlowDirection.LEFT_TO_RIGHT"></a>
 
-#### LEFT_TO_RIGHT
+#### LEFT\_TO\_RIGHT
 
 1: Force text to be flowed left-to-right
 
 <a id="unreal.TextFlowDirection.RIGHT_TO_LEFT"></a>
 
-#### RIGHT_TO_LEFT
+#### RIGHT\_TO\_LEFT
 
 2: Force text to be flowed right-to-left
 

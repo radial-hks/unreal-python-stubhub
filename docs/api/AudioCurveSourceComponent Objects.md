@@ -116,7 +116,7 @@ An audio component that also provides curves to drive animation
 
 <a id="unreal.AudioCurveSourceComponent.curve_source_binding_name"></a>
 
-#### curve_source_binding_name
+#### curve\_source\_binding\_name
 
 ```python
 @property
@@ -128,7 +128,7 @@ Clients of this curve source will use this name to identify this source.
 
 <a id="unreal.AudioCurveSourceComponent.curve_source_binding_name"></a>
 
-#### curve_source_binding_name
+#### curve\_source\_binding\_name
 
 ```python
 @curve_source_binding_name.setter
@@ -137,7 +137,7 @@ def curve_source_binding_name(value: Name) -> None
 
 <a id="unreal.AudioCurveSourceComponent.curve_sync_offset"></a>
 
-#### curve_sync_offset
+#### curve\_sync\_offset
 
 ```python
 @property
@@ -148,7 +148,7 @@ def curve_sync_offset() -> float
 
 <a id="unreal.AudioCurveSourceComponent.curve_sync_offset"></a>
 
-#### curve_sync_offset
+#### curve\_sync\_offset
 
 ```python
 @curve_sync_offset.setter
@@ -157,7 +157,7 @@ def curve_sync_offset(value: float) -> None
 
 <a id="unreal.AudioCurveSourceComponent.get_curve_value"></a>
 
-#### get_curve_value
+#### get\_curve\_value
 
 ```python
 def get_curve_value(curve_name: Name) -> float
@@ -174,7 +174,7 @@ Returns:
 
 <a id="unreal.AudioCurveSourceComponent.get_curves"></a>
 
-#### get_curves
+#### get\_curves
 
 ```python
 def get_curves() -> Array[NamedCurveValue]
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.AudioCurveSourceComponent.get_binding_name"></a>
 
-#### get_binding_name
+#### get\_binding\_name
 
 ```python
 def get_binding_name() -> Name
@@ -203,4 +203,4 @@ Clients of this curve source will use this name to identify this source.
 Returns:
     Name:
 
-<a id="unreal.SparseVolumeTextureFactory"></a>
+<a id="unreal.InterchangeAnimationTrackSetNode"></a>

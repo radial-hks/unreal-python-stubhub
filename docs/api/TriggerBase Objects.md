@@ -143,7 +143,7 @@ An actor used to generate collision events (begin/end overlap) in the level.
 
 <a id="unreal.TriggerBase.collision_component"></a>
 
-#### collision_component
+#### collision\_component
 
 ```python
 @property
@@ -154,7 +154,7 @@ def collision_component() -> ShapeComponent
 
 <a id="unreal.TriggerBase.sprite_component"></a>
 
-#### sprite_component
+#### sprite\_component
 
 ```python
 @property

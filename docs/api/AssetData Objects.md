@@ -23,7 +23,7 @@ This struct is transient and should never be serialized
 
 <a id="unreal.AssetData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(package_name: Name = "None",
@@ -34,7 +34,7 @@ def __init__(package_name: Name = "None",
 
 <a id="unreal.AssetData.package_name"></a>
 
-#### package_name
+#### package\_name
 
 ```python
 @property
@@ -45,7 +45,7 @@ def package_name() -> Name
 
 <a id="unreal.AssetData.package_path"></a>
 
-#### package_path
+#### package\_path
 
 ```python
 @property
@@ -56,7 +56,7 @@ def package_path() -> Name
 
 <a id="unreal.AssetData.asset_name"></a>
 
-#### asset_name
+#### asset\_name
 
 ```python
 @property
@@ -67,7 +67,7 @@ def asset_name() -> Name
 
 <a id="unreal.AssetData.asset_class"></a>
 
-#### asset_class
+#### asset\_class
 
 ```python
 @property
@@ -79,7 +79,7 @@ deprecated: Short asset class name must be converted to full asset pathname. Use
 
 <a id="unreal.AssetData.asset_class_path"></a>
 
-#### asset_class_path
+#### asset\_class\_path
 
 ```python
 @property
@@ -90,7 +90,7 @@ def asset_class_path() -> TopLevelAssetPath
 
 <a id="unreal.AssetData.to_soft_object_path"></a>
 
-#### to_soft_object_path
+#### to\_soft\_object\_path
 
 ```python
 def to_soft_object_path() -> SoftObjectPath
@@ -104,7 +104,7 @@ Returns:
 
 <a id="unreal.AssetData.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.AssetData.is_u_asset"></a>
 
-#### is_u_asset
+#### is\_u\_asset
 
 ```python
 def is_u_asset() -> bool
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.AssetData.is_redirector"></a>
 
-#### is_redirector
+#### is\_redirector
 
 ```python
 def is_redirector() -> bool
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.AssetData.is_asset_loaded"></a>
 
-#### is_asset_loaded
+#### is\_asset\_loaded
 
 ```python
 def is_asset_loaded() -> bool
@@ -160,7 +160,7 @@ Returns:
 
 <a id="unreal.AssetData.get_tag_value"></a>
 
-#### get_tag_value
+#### get\_tag\_value
 
 ```python
 def get_tag_value(tag_name: Name) -> Optional[str]
@@ -179,7 +179,7 @@ Returns:
 
 <a id="unreal.AssetData.get_full_name"></a>
 
-#### get_full_name
+#### get\_full\_name
 
 ```python
 def get_full_name() -> str
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.AssetData.get_export_text_name"></a>
 
-#### get_export_text_name
+#### get\_export\_text\_name
 
 ```python
 def get_export_text_name() -> str
@@ -207,7 +207,7 @@ Returns:
 
 <a id="unreal.AssetData.get_class"></a>
 
-#### get_class
+#### get\_class
 
 ```python
 def get_class() -> Class
@@ -221,7 +221,7 @@ Returns:
 
 <a id="unreal.AssetData.get_asset"></a>
 
-#### get_asset
+#### get\_asset
 
 ```python
 def get_asset() -> Object
@@ -235,7 +235,7 @@ Returns:
 
 <a id="unreal.AssetData.find_asset_native_class"></a>
 
-#### find_asset_native_class
+#### find\_asset\_native\_class
 
 ```python
 def find_asset_native_class() -> Class

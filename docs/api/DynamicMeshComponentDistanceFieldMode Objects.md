@@ -13,13 +13,13 @@ Mesh Signed Distance Field (SDF) mode
 
 <a id="unreal.DynamicMeshComponentDistanceFieldMode.NO_DISTANCE_FIELD"></a>
 
-#### NO_DISTANCE_FIELD
+#### NO\_DISTANCE\_FIELD
 
 0: Do not compute a distance field
 
 <a id="unreal.DynamicMeshComponentDistanceFieldMode.ASYNC_CPU_DISTANCE_FIELD"></a>
 
-#### ASYNC_CPU_DISTANCE_FIELD
+#### ASYNC\_CPU\_DISTANCE\_FIELD
 
 1: Compute a distance field in a background thread
 

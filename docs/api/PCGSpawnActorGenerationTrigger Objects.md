@@ -20,19 +20,19 @@ EPCGSpawn Actor Generation Trigger
 
 <a id="unreal.PCGSpawnActorGenerationTrigger.FORCE_GENERATE"></a>
 
-#### FORCE_GENERATE
+#### FORCE\_GENERATE
 
 1: Generate if the component has "Generate On Load"
 
 <a id="unreal.PCGSpawnActorGenerationTrigger.DO_NOT_GENERATE_IN_EDITOR"></a>
 
-#### DO_NOT_GENERATE_IN_EDITOR
+#### DO\_NOT\_GENERATE\_IN\_EDITOR
 
 2: Generate in all cases
 
 <a id="unreal.PCGSpawnActorGenerationTrigger.DO_NOT_GENERATE"></a>
 
-#### DO_NOT_GENERATE
+#### DO\_NOT\_GENERATE
 
 3: Does not call generate in editor, but decays to Default otherwise
 

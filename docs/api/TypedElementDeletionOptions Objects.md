@@ -19,7 +19,7 @@ Typed Element Deletion Options
 
 <a id="unreal.TypedElementDeletionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(verify_deletion_can_happen: bool = False,
@@ -29,7 +29,7 @@ def __init__(verify_deletion_can_happen: bool = False,
 
 <a id="unreal.TypedElementDeletionOptions.verify_deletion_can_happen"></a>
 
-#### verify_deletion_can_happen
+#### verify\_deletion\_can\_happen
 
 ```python
 @property
@@ -40,7 +40,7 @@ def verify_deletion_can_happen() -> bool
 
 <a id="unreal.TypedElementDeletionOptions.verify_deletion_can_happen"></a>
 
-#### verify_deletion_can_happen
+#### verify\_deletion\_can\_happen
 
 ```python
 @verify_deletion_can_happen.setter
@@ -49,7 +49,7 @@ def verify_deletion_can_happen(value: bool) -> None
 
 <a id="unreal.TypedElementDeletionOptions.warn_about_references"></a>
 
-#### warn_about_references
+#### warn\_about\_references
 
 ```python
 @property
@@ -60,7 +60,7 @@ def warn_about_references() -> bool
 
 <a id="unreal.TypedElementDeletionOptions.warn_about_references"></a>
 
-#### warn_about_references
+#### warn\_about\_references
 
 ```python
 @warn_about_references.setter
@@ -69,7 +69,7 @@ def warn_about_references(value: bool) -> None
 
 <a id="unreal.TypedElementDeletionOptions.warn_about_soft_references"></a>
 
-#### warn_about_soft_references
+#### warn\_about\_soft\_references
 
 ```python
 @property
@@ -80,7 +80,7 @@ def warn_about_soft_references() -> bool
 
 <a id="unreal.TypedElementDeletionOptions.warn_about_soft_references"></a>
 
-#### warn_about_soft_references
+#### warn\_about\_soft\_references
 
 ```python
 @warn_about_soft_references.setter

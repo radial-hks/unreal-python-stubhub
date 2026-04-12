@@ -18,7 +18,7 @@ Geometry Script Spectral Conformal UVOptions
 
 <a id="unreal.GeometryScriptSpectralConformalUVOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(preserve_irregularity: bool = False) -> None
@@ -26,7 +26,7 @@ def __init__(preserve_irregularity: bool = False) -> None
 
 <a id="unreal.GeometryScriptSpectralConformalUVOptions.preserve_irregularity"></a>
 
-#### preserve_irregularity
+#### preserve\_irregularity
 
 ```python
 @property
@@ -37,7 +37,7 @@ def preserve_irregularity() -> bool
 
 <a id="unreal.GeometryScriptSpectralConformalUVOptions.preserve_irregularity"></a>
 
-#### preserve_irregularity
+#### preserve\_irregularity
 
 ```python
 @preserve_irregularity.setter

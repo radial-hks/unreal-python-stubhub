@@ -15,7 +15,7 @@ Interchange Material Function Factory Node
 
 <a id="unreal.InterchangeMaterialFunctionFactoryNode.get_object_class"></a>
 
-#### get_object_class
+#### get\_object\_class
 
 ```python
 def get_object_class() -> Class
@@ -29,7 +29,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialFunctionFactoryNode.get_input_connection"></a>
 
-#### get_input_connection
+#### get\_input\_connection
 
 ```python
 def get_input_connection(input_name: str) -> Optional[Tuple[str, str]]

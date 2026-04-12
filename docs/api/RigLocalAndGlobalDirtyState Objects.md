@@ -19,7 +19,7 @@ Rig Local and Global Dirty State
 
 <a id="unreal.RigLocalAndGlobalDirtyState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(global_: RigTransformDirtyState = [],
@@ -28,7 +28,7 @@ def __init__(global_: RigTransformDirtyState = [],
 
 <a id="unreal.RigLocalAndGlobalDirtyState.global_"></a>
 
-#### global_
+#### global\_
 
 ```python
 @property

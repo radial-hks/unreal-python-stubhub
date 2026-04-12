@@ -20,13 +20,13 @@ ERetarget Rotation Mode
 
 <a id="unreal.RetargetRotationMode.ONE_TO_ONE"></a>
 
-#### ONE_TO_ONE
+#### ONE\_TO\_ONE
 
 1
 
 <a id="unreal.RetargetRotationMode.ONE_TO_ONE_REVERSED"></a>
 
-#### ONE_TO_ONE_REVERSED
+#### ONE\_TO\_ONE\_REVERSED
 
 2
 

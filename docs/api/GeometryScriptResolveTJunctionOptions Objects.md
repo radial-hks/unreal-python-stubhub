@@ -18,7 +18,7 @@ Geometry Script Resolve TJunction Options
 
 <a id="unreal.GeometryScriptResolveTJunctionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tolerance: float = 0.000000) -> None

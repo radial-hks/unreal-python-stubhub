@@ -21,10 +21,10 @@ TODO: Should be made generic and moved to ScriptUtils.
 
 <a id="unreal.PCGOverrideInstancedPropertyBag.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.DMContentBrowserThumbnailSettings"></a>
+<a id="unreal.ImgMediaSourceCustomizationSequenceProxy"></a>

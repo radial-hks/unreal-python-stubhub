@@ -14,19 +14,19 @@ EDataflow Transfer Node Sample Scale
 
 <a id="unreal.DataflowTransferNodeSampleScale.DATAFLOW_TRANSFER_COMPONENT_EDGE"></a>
 
-#### DATAFLOW_TRANSFER_COMPONENT_EDGE
+#### DATAFLOW\_TRANSFER\_COMPONENT\_EDGE
 
 0: Bounding volume hierarchy cell size based on max edge length of each geometry group
 
 <a id="unreal.DataflowTransferNodeSampleScale.DATAFLOW_TRANSFER_ASSET_EDGE"></a>
 
-#### DATAFLOW_TRANSFER_ASSET_EDGE
+#### DATAFLOW\_TRANSFER\_ASSET\_EDGE
 
 1: Bounding volume hierarchy cell size based on max edge length of the whole asset
 
 <a id="unreal.DataflowTransferNodeSampleScale.DATAFLOW_TRANSFER_ASSET_BOUND"></a>
 
-#### DATAFLOW_TRANSFER_ASSET_BOUND
+#### DATAFLOW\_TRANSFER\_ASSET\_BOUND
 
 2: Bounding volume hierarchy cell size based on max length of the bounding box of the whole asset
 

@@ -19,7 +19,7 @@ Represents the appearance of an Audio Text Box
 
 <a id="unreal.AudioTextBoxStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -40,7 +40,7 @@ def __init__(
 
 <a id="unreal.AudioTextBoxStyle.background_image"></a>
 
-#### background_image
+#### background\_image
 
 ```python
 @property
@@ -51,7 +51,7 @@ def background_image() -> SlateBrush
 
 <a id="unreal.AudioTextBoxStyle.background_image"></a>
 
-#### background_image
+#### background\_image
 
 ```python
 @background_image.setter
@@ -60,7 +60,7 @@ def background_image(value: SlateBrush) -> None
 
 <a id="unreal.AudioTextBoxStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @property
@@ -71,7 +71,7 @@ def background_color() -> SlateColor
 
 <a id="unreal.AudioTextBoxStyle.background_color"></a>
 
-#### background_color
+#### background\_color
 
 ```python
 @background_color.setter

@@ -14,7 +14,7 @@ SamplingMode of a given bank or collection of WaveTables
 
 <a id="unreal.WaveTableSamplingMode.FIXED_SAMPLE_RATE"></a>
 
-#### FIXED_SAMPLE_RATE
+#### FIXED\_SAMPLE\_RATE
 
 0: Enforces fixed sample rate for all members in the bank/collection,
 enabling them to be of unique duration/number of samples. Good for
@@ -24,7 +24,7 @@ related audio to be played back at a shared speed (ex. traditional
 
 <a id="unreal.WaveTableSamplingMode.FIXED_RESOLUTION"></a>
 
-#### FIXED_RESOLUTION
+#### FIXED\_RESOLUTION
 
 1: Enforces resolution (i.e. size of all tables), uniformly resampling
 all tables in the collection to be the same length/number of samples

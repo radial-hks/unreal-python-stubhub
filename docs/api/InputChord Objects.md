@@ -21,7 +21,7 @@ An Input Chord is a key and the modifier keys that are to be held with it.
 
 <a id="unreal.InputChord.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: Key = [],

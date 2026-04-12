@@ -28,7 +28,7 @@ Navigation Link
 
 <a id="unreal.NavigationLink.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(direction: NavLinkDirection = NavLinkDirection.BOTH_WAYS,

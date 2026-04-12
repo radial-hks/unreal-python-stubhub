@@ -96,7 +96,7 @@ def value(value: float) -> None
 
 <a id="unreal.SpinBox.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @property
@@ -107,7 +107,7 @@ def widget_style() -> SpinBoxStyle
 
 <a id="unreal.SpinBox.widget_style"></a>
 
-#### widget_style
+#### widget\_style
 
 ```python
 @widget_style.setter
@@ -116,7 +116,7 @@ def widget_style(value: SpinBoxStyle) -> None
 
 <a id="unreal.SpinBox.min_fractional_digits"></a>
 
-#### min_fractional_digits
+#### min\_fractional\_digits
 
 ```python
 @property
@@ -127,7 +127,7 @@ def min_fractional_digits() -> int
 
 <a id="unreal.SpinBox.min_fractional_digits"></a>
 
-#### min_fractional_digits
+#### min\_fractional\_digits
 
 ```python
 @min_fractional_digits.setter
@@ -136,7 +136,7 @@ def min_fractional_digits(value: int) -> None
 
 <a id="unreal.SpinBox.max_fractional_digits"></a>
 
-#### max_fractional_digits
+#### max\_fractional\_digits
 
 ```python
 @property
@@ -147,7 +147,7 @@ def max_fractional_digits() -> int
 
 <a id="unreal.SpinBox.max_fractional_digits"></a>
 
-#### max_fractional_digits
+#### max\_fractional\_digits
 
 ```python
 @max_fractional_digits.setter
@@ -156,7 +156,7 @@ def max_fractional_digits(value: int) -> None
 
 <a id="unreal.SpinBox.always_uses_delta_snap"></a>
 
-#### always_uses_delta_snap
+#### always\_uses\_delta\_snap
 
 ```python
 @property
@@ -167,7 +167,7 @@ def always_uses_delta_snap() -> bool
 
 <a id="unreal.SpinBox.always_uses_delta_snap"></a>
 
-#### always_uses_delta_snap
+#### always\_uses\_delta\_snap
 
 ```python
 @always_uses_delta_snap.setter
@@ -176,7 +176,7 @@ def always_uses_delta_snap(value: bool) -> None
 
 <a id="unreal.SpinBox.enable_slider"></a>
 
-#### enable_slider
+#### enable\_slider
 
 ```python
 @property
@@ -187,7 +187,7 @@ def enable_slider() -> bool
 
 <a id="unreal.SpinBox.enable_slider"></a>
 
-#### enable_slider
+#### enable\_slider
 
 ```python
 @enable_slider.setter
@@ -216,7 +216,7 @@ def delta(value: float) -> None
 
 <a id="unreal.SpinBox.slider_exponent"></a>
 
-#### slider_exponent
+#### slider\_exponent
 
 ```python
 @property
@@ -227,7 +227,7 @@ def slider_exponent() -> float
 
 <a id="unreal.SpinBox.slider_exponent"></a>
 
-#### slider_exponent
+#### slider\_exponent
 
 ```python
 @slider_exponent.setter
@@ -276,7 +276,7 @@ def justification(value: TextJustify) -> None
 
 <a id="unreal.SpinBox.min_desired_width"></a>
 
-#### min_desired_width
+#### min\_desired\_width
 
 ```python
 @property
@@ -287,7 +287,7 @@ def min_desired_width() -> float
 
 <a id="unreal.SpinBox.min_desired_width"></a>
 
-#### min_desired_width
+#### min\_desired\_width
 
 ```python
 @min_desired_width.setter
@@ -296,7 +296,7 @@ def min_desired_width(value: float) -> None
 
 <a id="unreal.SpinBox.clear_keyboard_focus_on_commit"></a>
 
-#### clear_keyboard_focus_on_commit
+#### clear\_keyboard\_focus\_on\_commit
 
 ```python
 @property
@@ -307,7 +307,7 @@ def clear_keyboard_focus_on_commit() -> bool
 
 <a id="unreal.SpinBox.clear_keyboard_focus_on_commit"></a>
 
-#### clear_keyboard_focus_on_commit
+#### clear\_keyboard\_focus\_on\_commit
 
 ```python
 @clear_keyboard_focus_on_commit.setter
@@ -316,7 +316,7 @@ def clear_keyboard_focus_on_commit(value: bool) -> None
 
 <a id="unreal.SpinBox.select_all_text_on_commit"></a>
 
-#### select_all_text_on_commit
+#### select\_all\_text\_on\_commit
 
 ```python
 @property
@@ -327,7 +327,7 @@ def select_all_text_on_commit() -> bool
 
 <a id="unreal.SpinBox.select_all_text_on_commit"></a>
 
-#### select_all_text_on_commit
+#### select\_all\_text\_on\_commit
 
 ```python
 @select_all_text_on_commit.setter
@@ -336,7 +336,7 @@ def select_all_text_on_commit(value: bool) -> None
 
 <a id="unreal.SpinBox.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @property
@@ -347,7 +347,7 @@ def foreground_color() -> SlateColor
 
 <a id="unreal.SpinBox.foreground_color"></a>
 
-#### foreground_color
+#### foreground\_color
 
 ```python
 @foreground_color.setter
@@ -356,7 +356,7 @@ def foreground_color(value: SlateColor) -> None
 
 <a id="unreal.SpinBox.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @property
@@ -367,7 +367,7 @@ def on_value_changed() -> OnSpinBoxValueChangedEvent
 
 <a id="unreal.SpinBox.on_value_changed"></a>
 
-#### on_value_changed
+#### on\_value\_changed
 
 ```python
 @on_value_changed.setter
@@ -376,7 +376,7 @@ def on_value_changed(value: OnSpinBoxValueChangedEvent) -> None
 
 <a id="unreal.SpinBox.on_value_committed"></a>
 
-#### on_value_committed
+#### on\_value\_committed
 
 ```python
 @property
@@ -387,7 +387,7 @@ def on_value_committed() -> OnSpinBoxValueCommittedEvent
 
 <a id="unreal.SpinBox.on_value_committed"></a>
 
-#### on_value_committed
+#### on\_value\_committed
 
 ```python
 @on_value_committed.setter
@@ -396,7 +396,7 @@ def on_value_committed(value: OnSpinBoxValueCommittedEvent) -> None
 
 <a id="unreal.SpinBox.on_begin_slider_movement"></a>
 
-#### on_begin_slider_movement
+#### on\_begin\_slider\_movement
 
 ```python
 @property
@@ -407,7 +407,7 @@ def on_begin_slider_movement() -> OnSpinBoxBeginSliderMovement
 
 <a id="unreal.SpinBox.on_begin_slider_movement"></a>
 
-#### on_begin_slider_movement
+#### on\_begin\_slider\_movement
 
 ```python
 @on_begin_slider_movement.setter
@@ -416,7 +416,7 @@ def on_begin_slider_movement(value: OnSpinBoxBeginSliderMovement) -> None
 
 <a id="unreal.SpinBox.on_end_slider_movement"></a>
 
-#### on_end_slider_movement
+#### on\_end\_slider\_movement
 
 ```python
 @property
@@ -427,7 +427,7 @@ def on_end_slider_movement() -> OnSpinBoxValueChangedEvent
 
 <a id="unreal.SpinBox.on_end_slider_movement"></a>
 
-#### on_end_slider_movement
+#### on\_end\_slider\_movement
 
 ```python
 @on_end_slider_movement.setter
@@ -436,7 +436,7 @@ def on_end_slider_movement(value: OnSpinBoxValueChangedEvent) -> None
 
 <a id="unreal.SpinBox.min_value"></a>
 
-#### min_value
+#### min\_value
 
 ```python
 @property
@@ -447,7 +447,7 @@ def min_value() -> float
 
 <a id="unreal.SpinBox.min_value"></a>
 
-#### min_value
+#### min\_value
 
 ```python
 @min_value.setter
@@ -456,7 +456,7 @@ def min_value(value: float) -> None
 
 <a id="unreal.SpinBox.max_value"></a>
 
-#### max_value
+#### max\_value
 
 ```python
 @property
@@ -467,7 +467,7 @@ def max_value() -> float
 
 <a id="unreal.SpinBox.max_value"></a>
 
-#### max_value
+#### max\_value
 
 ```python
 @max_value.setter
@@ -476,7 +476,7 @@ def max_value(value: float) -> None
 
 <a id="unreal.SpinBox.min_slider_value"></a>
 
-#### min_slider_value
+#### min\_slider\_value
 
 ```python
 @property
@@ -487,7 +487,7 @@ def min_slider_value() -> float
 
 <a id="unreal.SpinBox.min_slider_value"></a>
 
-#### min_slider_value
+#### min\_slider\_value
 
 ```python
 @min_slider_value.setter
@@ -496,7 +496,7 @@ def min_slider_value(value: float) -> None
 
 <a id="unreal.SpinBox.max_slider_value"></a>
 
-#### max_slider_value
+#### max\_slider\_value
 
 ```python
 @property
@@ -507,7 +507,7 @@ def max_slider_value() -> float
 
 <a id="unreal.SpinBox.max_slider_value"></a>
 
-#### max_slider_value
+#### max\_slider\_value
 
 ```python
 @max_slider_value.setter
@@ -516,7 +516,7 @@ def max_slider_value(value: float) -> None
 
 <a id="unreal.SpinBox.set_value"></a>
 
-#### set_value
+#### set\_value
 
 ```python
 def set_value(new_value: float) -> None
@@ -530,7 +530,7 @@ Args:
 
 <a id="unreal.SpinBox.set_min_value"></a>
 
-#### set_min_value
+#### set\_min\_value
 
 ```python
 def set_min_value(new_value: float) -> None
@@ -544,7 +544,7 @@ Args:
 
 <a id="unreal.SpinBox.set_min_slider_value"></a>
 
-#### set_min_slider_value
+#### set\_min\_slider\_value
 
 ```python
 def set_min_slider_value(new_value: float) -> None
@@ -558,7 +558,7 @@ Args:
 
 <a id="unreal.SpinBox.set_max_value"></a>
 
-#### set_max_value
+#### set\_max\_value
 
 ```python
 def set_max_value(new_value: float) -> None
@@ -572,7 +572,7 @@ Args:
 
 <a id="unreal.SpinBox.set_max_slider_value"></a>
 
-#### set_max_slider_value
+#### set\_max\_slider\_value
 
 ```python
 def set_max_slider_value(new_value: float) -> None
@@ -586,7 +586,7 @@ Args:
 
 <a id="unreal.SpinBox.set_foreground_color"></a>
 
-#### set_foreground_color
+#### set\_foreground\_color
 
 ```python
 def set_foreground_color(foreground_color: SlateColor) -> None
@@ -600,7 +600,7 @@ Args:
 
 <a id="unreal.SpinBox.get_value"></a>
 
-#### get_value
+#### get\_value
 
 ```python
 def get_value() -> float
@@ -614,7 +614,7 @@ Returns:
 
 <a id="unreal.SpinBox.get_min_value"></a>
 
-#### get_min_value
+#### get\_min\_value
 
 ```python
 def get_min_value() -> float
@@ -628,7 +628,7 @@ Returns:
 
 <a id="unreal.SpinBox.get_min_slider_value"></a>
 
-#### get_min_slider_value
+#### get\_min\_slider\_value
 
 ```python
 def get_min_slider_value() -> float
@@ -642,7 +642,7 @@ Returns:
 
 <a id="unreal.SpinBox.get_max_value"></a>
 
-#### get_max_value
+#### get\_max\_value
 
 ```python
 def get_max_value() -> float
@@ -656,7 +656,7 @@ Returns:
 
 <a id="unreal.SpinBox.get_max_slider_value"></a>
 
-#### get_max_slider_value
+#### get\_max\_slider\_value
 
 ```python
 def get_max_slider_value() -> float
@@ -670,7 +670,7 @@ Returns:
 
 <a id="unreal.SpinBox.clear_min_value"></a>
 
-#### clear_min_value
+#### clear\_min\_value
 
 ```python
 def clear_min_value() -> None
@@ -681,7 +681,7 @@ Clear the minimum value that can be manually set in the spin box.
 
 <a id="unreal.SpinBox.clear_min_slider_value"></a>
 
-#### clear_min_slider_value
+#### clear\_min\_slider\_value
 
 ```python
 def clear_min_slider_value() -> None
@@ -692,7 +692,7 @@ Clear the minimum value that can be specified using the slider.
 
 <a id="unreal.SpinBox.clear_max_value"></a>
 
-#### clear_max_value
+#### clear\_max\_value
 
 ```python
 def clear_max_value() -> None
@@ -703,7 +703,7 @@ Clear the maximum value that can be manually set in the spin box.
 
 <a id="unreal.SpinBox.clear_max_slider_value"></a>
 
-#### clear_max_slider_value
+#### clear\_max\_slider\_value
 
 ```python
 def clear_max_slider_value() -> None

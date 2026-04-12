@@ -14,7 +14,7 @@ EOptimus Execution Domain Type
 
 <a id="unreal.OptimusExecutionDomainType.DOMAIN_NAME"></a>
 
-#### DOMAIN_NAME
+#### DOMAIN\_NAME
 
 0
 

@@ -14,13 +14,13 @@ EFix Tiny Geo Merge Type
 
 <a id="unreal.FixTinyGeoMergeType.MERGE_GEOMETRY"></a>
 
-#### MERGE_GEOMETRY
+#### MERGE\_GEOMETRY
 
 0
 
 <a id="unreal.FixTinyGeoMergeType.MERGE_CLUSTERS"></a>
 
-#### MERGE_CLUSTERS
+#### MERGE\_CLUSTERS
 
 1
 

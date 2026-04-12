@@ -40,7 +40,7 @@ Spawn a spline component from a spline data.
 
 <a id="unreal.PCGSpawnSplineSettings.spline_component"></a>
 
-#### spline_component
+#### spline\_component
 
 ```python
 @property
@@ -51,7 +51,7 @@ def spline_component() -> Class
 
 <a id="unreal.PCGSpawnSplineSettings.spline_component"></a>
 
-#### spline_component
+#### spline\_component
 
 ```python
 @spline_component.setter
@@ -60,7 +60,7 @@ def spline_component(value: Class) -> None
 
 <a id="unreal.PCGSpawnSplineSettings.spawn_component_from_attribute"></a>
 
-#### spawn_component_from_attribute
+#### spawn\_component\_from\_attribute
 
 ```python
 @property
@@ -71,7 +71,7 @@ def spawn_component_from_attribute() -> bool
 
 <a id="unreal.PCGSpawnSplineSettings.spawn_component_from_attribute"></a>
 
-#### spawn_component_from_attribute
+#### spawn\_component\_from\_attribute
 
 ```python
 @spawn_component_from_attribute.setter
@@ -80,7 +80,7 @@ def spawn_component_from_attribute(value: bool) -> None
 
 <a id="unreal.PCGSpawnSplineSettings.spawn_component_from_attribute_name"></a>
 
-#### spawn_component_from_attribute_name
+#### spawn\_component\_from\_attribute\_name
 
 ```python
 @property
@@ -91,7 +91,7 @@ def spawn_component_from_attribute_name() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGSpawnSplineSettings.spawn_component_from_attribute_name"></a>
 
-#### spawn_component_from_attribute_name
+#### spawn\_component\_from\_attribute\_name
 
 ```python
 @spawn_component_from_attribute_name.setter
@@ -101,7 +101,7 @@ def spawn_component_from_attribute_name(
 
 <a id="unreal.PCGSpawnSplineSettings.post_process_function_names"></a>
 
-#### post_process_function_names
+#### post\_process\_function\_names
 
 ```python
 @property
@@ -112,7 +112,7 @@ def post_process_function_names() -> Array[Name]
 
 <a id="unreal.PCGSpawnSplineSettings.post_process_function_names"></a>
 
-#### post_process_function_names
+#### post\_process\_function\_names
 
 ```python
 @post_process_function_names.setter
@@ -121,7 +121,7 @@ def post_process_function_names(value: Array[Name]) -> None
 
 <a id="unreal.PCGSpawnSplineSettings.property_override_descriptions"></a>
 
-#### property_override_descriptions
+#### property\_override\_descriptions
 
 ```python
 @property
@@ -133,7 +133,7 @@ def property_override_descriptions(
 
 <a id="unreal.PCGSpawnSplineSettings.property_override_descriptions"></a>
 
-#### property_override_descriptions
+#### property\_override\_descriptions
 
 ```python
 @property_override_descriptions.setter
@@ -143,7 +143,7 @@ def property_override_descriptions(
 
 <a id="unreal.PCGSpawnSplineSettings.output_spline_component_reference"></a>
 
-#### output_spline_component_reference
+#### output\_spline\_component\_reference
 
 ```python
 @property
@@ -154,7 +154,7 @@ def output_spline_component_reference() -> bool
 
 <a id="unreal.PCGSpawnSplineSettings.output_spline_component_reference"></a>
 
-#### output_spline_component_reference
+#### output\_spline\_component\_reference
 
 ```python
 @output_spline_component_reference.setter
@@ -163,7 +163,7 @@ def output_spline_component_reference(value: bool) -> None
 
 <a id="unreal.PCGSpawnSplineSettings.component_reference_attribute_name"></a>
 
-#### component_reference_attribute_name
+#### component\_reference\_attribute\_name
 
 ```python
 @property
@@ -174,7 +174,7 @@ def component_reference_attribute_name() -> Name
 
 <a id="unreal.PCGSpawnSplineSettings.component_reference_attribute_name"></a>
 
-#### component_reference_attribute_name
+#### component\_reference\_attribute\_name
 
 ```python
 @component_reference_attribute_name.setter

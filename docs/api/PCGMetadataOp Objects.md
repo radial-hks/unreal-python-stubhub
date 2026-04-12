@@ -50,13 +50,13 @@ EPCGMetadata Op
 
 <a id="unreal.PCGMetadataOp.SOURCE_VALUE"></a>
 
-#### SOURCE_VALUE
+#### SOURCE\_VALUE
 
 6: Pick the source (first) value.
 
 <a id="unreal.PCGMetadataOp.TARGET_VALUE"></a>
 
-#### TARGET_VALUE
+#### TARGET\_VALUE
 
 7: Pick the target (second) value.
 

@@ -14,19 +14,19 @@ EGeometry Script Repair Mesh Mode
 
 <a id="unreal.GeometryScriptRepairMeshMode.DELETE_ONLY"></a>
 
-#### DELETE_ONLY
+#### DELETE\_ONLY
 
 0
 
 <a id="unreal.GeometryScriptRepairMeshMode.REPAIR_OR_DELETE"></a>
 
-#### REPAIR_OR_DELETE
+#### REPAIR\_OR\_DELETE
 
 1
 
 <a id="unreal.GeometryScriptRepairMeshMode.REPAIR_OR_SKIP"></a>
 
-#### REPAIR_OR_SKIP
+#### REPAIR\_OR\_SKIP
 
 2
 

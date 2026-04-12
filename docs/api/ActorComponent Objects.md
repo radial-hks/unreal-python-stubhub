@@ -33,7 +33,7 @@ see: UPrimitiveComponent
 
 <a id="unreal.ActorComponent.component_tags"></a>
 
-#### component_tags
+#### component\_tags
 
 ```python
 @property
@@ -44,7 +44,7 @@ def component_tags() -> Array[Name]
 
 <a id="unreal.ActorComponent.component_tags"></a>
 
-#### component_tags
+#### component\_tags
 
 ```python
 @component_tags.setter
@@ -53,7 +53,7 @@ def component_tags(value: Array[Name]) -> None
 
 <a id="unreal.ActorComponent.replicate_using_registered_sub_object_list"></a>
 
-#### replicate_using_registered_sub_object_list
+#### replicate\_using\_registered\_sub\_object\_list
 
 ```python
 @property
@@ -76,7 +76,7 @@ def replicates() -> bool
 
 <a id="unreal.ActorComponent.auto_activate"></a>
 
-#### auto_activate
+#### auto\_activate
 
 ```python
 @property
@@ -87,7 +87,7 @@ def auto_activate() -> bool
 
 <a id="unreal.ActorComponent.is_editor_only"></a>
 
-#### is_editor_only
+#### is\_editor\_only
 
 ```python
 @property
@@ -98,7 +98,7 @@ def is_editor_only() -> bool
 
 <a id="unreal.ActorComponent.on_component_activated"></a>
 
-#### on_component_activated
+#### on\_component\_activated
 
 ```python
 @property
@@ -109,7 +109,7 @@ def on_component_activated() -> ActorComponentActivatedSignature
 
 <a id="unreal.ActorComponent.on_component_activated"></a>
 
-#### on_component_activated
+#### on\_component\_activated
 
 ```python
 @on_component_activated.setter
@@ -118,7 +118,7 @@ def on_component_activated(value: ActorComponentActivatedSignature) -> None
 
 <a id="unreal.ActorComponent.on_component_deactivated"></a>
 
-#### on_component_deactivated
+#### on\_component\_deactivated
 
 ```python
 @property
@@ -129,7 +129,7 @@ def on_component_deactivated() -> ActorComponentDeactivateSignature
 
 <a id="unreal.ActorComponent.on_component_deactivated"></a>
 
-#### on_component_deactivated
+#### on\_component\_deactivated
 
 ```python
 @on_component_deactivated.setter
@@ -138,7 +138,7 @@ def on_component_deactivated(value: ActorComponentDeactivateSignature) -> None
 
 <a id="unreal.ActorComponent.toggle_active"></a>
 
-#### toggle_active
+#### toggle\_active
 
 ```python
 def toggle_active() -> None
@@ -149,7 +149,7 @@ Toggles the active state of the component
 
 <a id="unreal.ActorComponent.set_tick_group"></a>
 
-#### set_tick_group
+#### set\_tick\_group
 
 ```python
 def set_tick_group(new_tick_group: TickingGroup) -> None
@@ -163,7 +163,7 @@ Args:
 
 <a id="unreal.ActorComponent.set_tickable_when_paused"></a>
 
-#### set_tickable_when_paused
+#### set\_tickable\_when\_paused
 
 ```python
 def set_tickable_when_paused(tickable_when_paused: bool) -> None
@@ -177,7 +177,7 @@ Args:
 
 <a id="unreal.ActorComponent.set_is_replicated"></a>
 
-#### set_is_replicated
+#### set\_is\_replicated
 
 ```python
 def set_is_replicated(should_replicate: bool) -> None
@@ -191,7 +191,7 @@ Args:
 
 <a id="unreal.ActorComponent.set_component_tick_interval_and_cooldown"></a>
 
-#### set_component_tick_interval_and_cooldown
+#### set\_component\_tick\_interval\_and\_cooldown
 
 ```python
 def set_component_tick_interval_and_cooldown(tick_interval: float) -> None
@@ -205,7 +205,7 @@ Args:
 
 <a id="unreal.ActorComponent.set_component_tick_interval"></a>
 
-#### set_component_tick_interval
+#### set\_component\_tick\_interval
 
 ```python
 def set_component_tick_interval(tick_interval: float) -> None
@@ -219,7 +219,7 @@ Args:
 
 <a id="unreal.ActorComponent.set_component_tick_enabled"></a>
 
-#### set_component_tick_enabled
+#### set\_component\_tick\_enabled
 
 ```python
 def set_component_tick_enabled(enabled: bool) -> None
@@ -233,7 +233,7 @@ Args:
 
 <a id="unreal.ActorComponent.set_auto_activate"></a>
 
-#### set_auto_activate
+#### set\_auto\_activate
 
 ```python
 def set_auto_activate(new_auto_activate: bool) -> None
@@ -247,7 +247,7 @@ Args:
 
 <a id="unreal.ActorComponent.set_active"></a>
 
-#### set_active
+#### set\_active
 
 ```python
 def set_active(new_active: bool, reset: bool = False) -> None
@@ -262,7 +262,7 @@ Args:
 
 <a id="unreal.ActorComponent.remove_tick_prerequisite_component"></a>
 
-#### remove_tick_prerequisite_component
+#### remove\_tick\_prerequisite\_component
 
 ```python
 def remove_tick_prerequisite_component(
@@ -277,7 +277,7 @@ Args:
 
 <a id="unreal.ActorComponent.remove_tick_prerequisite_actor"></a>
 
-#### remove_tick_prerequisite_actor
+#### remove\_tick\_prerequisite\_actor
 
 ```python
 def remove_tick_prerequisite_actor(prerequisite_actor: Actor) -> None
@@ -291,7 +291,7 @@ Args:
 
 <a id="unreal.ActorComponent.receive_tick"></a>
 
-#### receive_tick
+#### receive\_tick
 
 ```python
 def receive_tick(delta_seconds: float) -> None
@@ -305,7 +305,7 @@ Args:
 
 <a id="unreal.ActorComponent.receive_end_play"></a>
 
-#### receive_end_play
+#### receive\_end\_play
 
 ```python
 def receive_end_play(end_play_reason: EndPlayReason) -> None
@@ -319,7 +319,7 @@ Args:
 
 <a id="unreal.ActorComponent.receive_uninitialize_component"></a>
 
-#### receive_uninitialize_component
+#### receive\_uninitialize\_component
 
 ```python
 def receive_uninitialize_component(end_play_reason: EndPlayReason) -> None
@@ -329,7 +329,7 @@ deprecated: 'receive_uninitialize_component' was renamed to 'receive_end_play'.
 
 <a id="unreal.ActorComponent.receive_begin_play"></a>
 
-#### receive_begin_play
+#### receive\_begin\_play
 
 ```python
 def receive_begin_play() -> None
@@ -341,7 +341,7 @@ or when the component is dynamically created if the Actor has already BegunPlay.
 
 <a id="unreal.ActorComponent.receive_initialize_component"></a>
 
-#### receive_initialize_component
+#### receive\_initialize\_component
 
 ```python
 def receive_initialize_component() -> None
@@ -351,7 +351,7 @@ deprecated: 'receive_initialize_component' was renamed to 'receive_begin_play'.
 
 <a id="unreal.ActorComponent.receive_async_physics_tick"></a>
 
-#### receive_async_physics_tick
+#### receive\_async\_physics\_tick
 
 ```python
 def receive_async_physics_tick(delta_seconds: float,
@@ -367,7 +367,7 @@ Args:
 
 <a id="unreal.ActorComponent.destroy_component"></a>
 
-#### destroy_component
+#### destroy\_component
 
 ```python
 def destroy_component(object: Object) -> None
@@ -381,7 +381,7 @@ Args:
 
 <a id="unreal.ActorComponent.is_component_tick_enabled"></a>
 
-#### is_component_tick_enabled
+#### is\_component\_tick\_enabled
 
 ```python
 def is_component_tick_enabled() -> bool
@@ -395,7 +395,7 @@ Returns:
 
 <a id="unreal.ActorComponent.is_being_destroyed"></a>
 
-#### is_being_destroyed
+#### is\_being\_destroyed
 
 ```python
 def is_being_destroyed() -> bool
@@ -409,7 +409,7 @@ Returns:
 
 <a id="unreal.ActorComponent.is_active"></a>
 
-#### is_active
+#### is\_active
 
 ```python
 def is_active() -> bool
@@ -423,7 +423,7 @@ Returns:
 
 <a id="unreal.ActorComponent.get_owner"></a>
 
-#### get_owner
+#### get\_owner
 
 ```python
 def get_owner() -> Actor
@@ -437,7 +437,7 @@ Returns:
 
 <a id="unreal.ActorComponent.get_component_tick_interval"></a>
 
-#### get_component_tick_interval
+#### get\_component\_tick\_interval
 
 ```python
 def get_component_tick_interval() -> float
@@ -462,7 +462,7 @@ Deactivates the SceneComponent.
 
 <a id="unreal.ActorComponent.component_has_tag"></a>
 
-#### component_has_tag
+#### component\_has\_tag
 
 ```python
 def component_has_tag(tag: Name) -> bool
@@ -479,7 +479,7 @@ Returns:
 
 <a id="unreal.ActorComponent.add_tick_prerequisite_component"></a>
 
-#### add_tick_prerequisite_component
+#### add\_tick\_prerequisite\_component
 
 ```python
 def add_tick_prerequisite_component(
@@ -494,7 +494,7 @@ Args:
 
 <a id="unreal.ActorComponent.add_tick_prerequisite_actor"></a>
 
-#### add_tick_prerequisite_actor
+#### add\_tick\_prerequisite\_actor
 
 ```python
 def add_tick_prerequisite_actor(prerequisite_actor: Actor) -> None
@@ -522,7 +522,7 @@ Args:
 
 <a id="unreal.ActorComponent.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -539,7 +539,7 @@ Returns:
 
 <a id="unreal.ActorComponent.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -556,7 +556,7 @@ Returns:
 
 <a id="unreal.ActorComponent.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -573,7 +573,7 @@ Returns:
 
 <a id="unreal.ActorComponent.acquire_editor_element_handle"></a>
 
-#### acquire_editor_element_handle
+#### acquire\_editor\_element\_handle
 
 ```python
 def acquire_editor_element_handle(

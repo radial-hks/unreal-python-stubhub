@@ -32,13 +32,13 @@ deprecated: 'PCGMedadataRotatorOperation' was renamed to 'PCGMetadataRotatorOper
 
 <a id="unreal.PCGMedadataRotatorOperation.TRANSFORM_ROTATION"></a>
 
-#### TRANSFORM_ROTATION
+#### TRANSFORM\_ROTATION
 
 101
 
 <a id="unreal.PCGMedadataRotatorOperation.INVERSE_TRANSFORM_ROTATION"></a>
 
-#### INVERSE_TRANSFORM_ROTATION
+#### INVERSE\_TRANSFORM\_ROTATION
 
 102
 

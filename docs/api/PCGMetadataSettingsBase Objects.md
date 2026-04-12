@@ -58,7 +58,7 @@ If the node doesn't provide an output, check the logs to know why it failed.
 
 <a id="unreal.PCGMetadataSettingsBase.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @property
@@ -69,7 +69,7 @@ def output_target() -> PCGAttributePropertyOutputSelector
 
 <a id="unreal.PCGMetadataSettingsBase.output_target"></a>
 
-#### output_target
+#### output\_target
 
 ```python
 @output_target.setter
@@ -78,7 +78,7 @@ def output_target(value: PCGAttributePropertyOutputSelector) -> None
 
 <a id="unreal.PCGMetadataSettingsBase.output_data_from_pin"></a>
 
-#### output_data_from_pin
+#### output\_data\_from\_pin
 
 ```python
 @property
@@ -89,7 +89,7 @@ def output_data_from_pin() -> Name
 
 <a id="unreal.PCGMetadataSettingsBase.output_data_from_pin"></a>
 
-#### output_data_from_pin
+#### output\_data\_from\_pin
 
 ```python
 @output_data_from_pin.setter

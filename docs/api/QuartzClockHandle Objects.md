@@ -20,7 +20,7 @@ gameplay & VFX to Quartz events fired from the Audio Engine
 
 <a id="unreal.QuartzClockHandle.unsubscribe_from_time_division"></a>
 
-#### unsubscribe_from_time_division
+#### unsubscribe\_from\_time\_division
 
 ```python
 def unsubscribe_from_time_division(
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.unsubscribe_from_all_time_divisions"></a>
 
-#### unsubscribe_from_all_time_divisions
+#### unsubscribe\_from\_all\_time\_divisions
 
 ```python
 def unsubscribe_from_all_time_divisions(
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.subscribe_to_quantization_event"></a>
 
-#### subscribe_to_quantization_event
+#### subscribe\_to\_quantization\_event
 
 ```python
 def subscribe_to_quantization_event(
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.subscribe_to_all_quantization_events"></a>
 
-#### subscribe_to_all_quantization_events
+#### subscribe\_to\_all\_quantization\_events
 
 ```python
 def subscribe_to_all_quantization_events(
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.stop_clock"></a>
 
-#### stop_clock
+#### stop\_clock
 
 ```python
 def stop_clock(world_context_object: Object,
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.start_other_clock"></a>
 
-#### start_other_clock
+#### start\_other\_clock
 
 ```python
 def start_other_clock(world_context_object: Object, other_clock_name: Name,
@@ -148,7 +148,7 @@ Args:
 
 <a id="unreal.QuartzClockHandle.start_clock"></a>
 
-#### start_clock
+#### start\_clock
 
 ```python
 def start_clock(world_context_object: Object) -> QuartzClockHandle
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.set_ticks_per_second"></a>
 
-#### set_ticks_per_second
+#### set\_ticks\_per\_second
 
 ```python
 def set_ticks_per_second(
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.set_thirty_second_notes_per_minute"></a>
 
-#### set_thirty_second_notes_per_minute
+#### set\_thirty\_second\_notes\_per\_minute
 
 ```python
 def set_thirty_second_notes_per_minute(
@@ -220,7 +220,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.set_seconds_per_tick"></a>
 
-#### set_seconds_per_tick
+#### set\_seconds\_per\_tick
 
 ```python
 def set_seconds_per_tick(
@@ -246,7 +246,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.set_milliseconds_per_tick"></a>
 
-#### set_milliseconds_per_tick
+#### set\_milliseconds\_per\_tick
 
 ```python
 def set_milliseconds_per_tick(
@@ -272,7 +272,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.set_beats_per_minute"></a>
 
-#### set_beats_per_minute
+#### set\_beats\_per\_minute
 
 ```python
 def set_beats_per_minute(
@@ -298,7 +298,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.resume_clock"></a>
 
-#### resume_clock
+#### resume\_clock
 
 ```python
 def resume_clock(world_context_object: Object) -> QuartzClockHandle
@@ -317,7 +317,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.reset_transport_quantized"></a>
 
-#### reset_transport_quantized
+#### reset\_transport\_quantized
 
 ```python
 def reset_transport_quantized(
@@ -341,7 +341,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.reset_transport"></a>
 
-#### reset_transport
+#### reset\_transport
 
 ```python
 def reset_transport(world_context_object: Object,
@@ -357,7 +357,7 @@ Args:
 
 <a id="unreal.QuartzClockHandle.pause_clock"></a>
 
-#### pause_clock
+#### pause\_clock
 
 ```python
 def pause_clock(world_context_object: Object) -> QuartzClockHandle
@@ -376,7 +376,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.notify_on_quantization_boundary"></a>
 
-#### notify_on_quantization_boundary
+#### notify\_on\_quantization\_boundary
 
 ```python
 def notify_on_quantization_boundary(
@@ -397,7 +397,7 @@ Args:
 
 <a id="unreal.QuartzClockHandle.is_clock_running"></a>
 
-#### is_clock_running
+#### is\_clock\_running
 
 ```python
 def is_clock_running(world_context_object: Object) -> bool
@@ -414,7 +414,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_ticks_per_second"></a>
 
-#### get_ticks_per_second
+#### get\_ticks\_per\_second
 
 ```python
 def get_ticks_per_second(world_context_object: Object) -> float
@@ -431,7 +431,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_thirty_second_notes_per_minute"></a>
 
-#### get_thirty_second_notes_per_minute
+#### get\_thirty\_second\_notes\_per\_minute
 
 ```python
 def get_thirty_second_notes_per_minute(world_context_object: Object) -> float
@@ -448,7 +448,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_seconds_per_tick"></a>
 
-#### get_seconds_per_tick
+#### get\_seconds\_per\_tick
 
 ```python
 def get_seconds_per_tick(world_context_object: Object) -> float
@@ -465,7 +465,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_milliseconds_per_tick"></a>
 
-#### get_milliseconds_per_tick
+#### get\_milliseconds\_per\_tick
 
 ```python
 def get_milliseconds_per_tick(world_context_object: Object) -> float
@@ -482,7 +482,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_estimated_run_time"></a>
 
-#### get_estimated_run_time
+#### get\_estimated\_run\_time
 
 ```python
 def get_estimated_run_time(world_context_object: Object) -> float
@@ -499,7 +499,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_duration_of_quantization_type_in_seconds"></a>
 
-#### get_duration_of_quantization_type_in_seconds
+#### get\_duration\_of\_quantization\_type\_in\_seconds
 
 ```python
 def get_duration_of_quantization_type_in_seconds(
@@ -521,7 +521,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_current_timestamp"></a>
 
-#### get_current_timestamp
+#### get\_current\_timestamp
 
 ```python
 def get_current_timestamp(
@@ -539,7 +539,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_beats_per_minute"></a>
 
-#### get_beats_per_minute
+#### get\_beats\_per\_minute
 
 ```python
 def get_beats_per_minute(world_context_object: Object) -> float
@@ -556,7 +556,7 @@ Returns:
 
 <a id="unreal.QuartzClockHandle.get_beat_progress_percent"></a>
 
-#### get_beat_progress_percent
+#### get\_beat\_progress\_percent
 
 ```python
 def get_beat_progress_percent(

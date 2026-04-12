@@ -22,7 +22,7 @@ Single Animation Play Data
 
 <a id="unreal.SingleAnimationPlayData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(anim_to_play: AnimationAsset = None,
@@ -34,7 +34,7 @@ def __init__(anim_to_play: AnimationAsset = None,
 
 <a id="unreal.SingleAnimationPlayData.anim_to_play"></a>
 
-#### anim_to_play
+#### anim\_to\_play
 
 ```python
 @property
@@ -46,7 +46,7 @@ todo: in the future, we should make this one UObject and have detail customizati
 
 <a id="unreal.SingleAnimationPlayData.anim_to_play"></a>
 
-#### anim_to_play
+#### anim\_to\_play
 
 ```python
 @anim_to_play.setter
@@ -55,7 +55,7 @@ def anim_to_play(value: AnimationAsset) -> None
 
 <a id="unreal.SingleAnimationPlayData.saved_looping"></a>
 
-#### saved_looping
+#### saved\_looping
 
 ```python
 @property
@@ -66,7 +66,7 @@ def saved_looping() -> bool
 
 <a id="unreal.SingleAnimationPlayData.saved_looping"></a>
 
-#### saved_looping
+#### saved\_looping
 
 ```python
 @saved_looping.setter
@@ -75,7 +75,7 @@ def saved_looping(value: bool) -> None
 
 <a id="unreal.SingleAnimationPlayData.saved_playing"></a>
 
-#### saved_playing
+#### saved\_playing
 
 ```python
 @property
@@ -86,7 +86,7 @@ def saved_playing() -> bool
 
 <a id="unreal.SingleAnimationPlayData.saved_playing"></a>
 
-#### saved_playing
+#### saved\_playing
 
 ```python
 @saved_playing.setter
@@ -95,7 +95,7 @@ def saved_playing(value: bool) -> None
 
 <a id="unreal.SingleAnimationPlayData.saved_position"></a>
 
-#### saved_position
+#### saved\_position
 
 ```python
 @property
@@ -106,7 +106,7 @@ def saved_position() -> float
 
 <a id="unreal.SingleAnimationPlayData.saved_position"></a>
 
-#### saved_position
+#### saved\_position
 
 ```python
 @saved_position.setter
@@ -115,7 +115,7 @@ def saved_position(value: float) -> None
 
 <a id="unreal.SingleAnimationPlayData.saved_play_rate"></a>
 
-#### saved_play_rate
+#### saved\_play\_rate
 
 ```python
 @property
@@ -126,7 +126,7 @@ def saved_play_rate() -> float
 
 <a id="unreal.SingleAnimationPlayData.saved_play_rate"></a>
 
-#### saved_play_rate
+#### saved\_play\_rate
 
 ```python
 @saved_play_rate.setter

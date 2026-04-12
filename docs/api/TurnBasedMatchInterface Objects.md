@@ -14,7 +14,7 @@ Turn Based Match Interface
 
 <a id="unreal.TurnBasedMatchInterface.on_match_received_turn"></a>
 
-#### on_match_received_turn
+#### on\_match\_received\_turn
 
 ```python
 def on_match_received_turn(match: str, did_become_active: bool) -> None
@@ -29,7 +29,7 @@ Args:
 
 <a id="unreal.TurnBasedMatchInterface.on_match_ended"></a>
 
-#### on_match_ended
+#### on\_match\_ended
 
 ```python
 def on_match_ended(match: str) -> None

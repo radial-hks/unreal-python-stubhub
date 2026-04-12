@@ -24,7 +24,7 @@ Submix Effect Convolution Reverb Preset
 
 <a id="unreal.SubmixEffectConvolutionReverbPreset.impulse_response"></a>
 
-#### impulse_response
+#### impulse\_response
 
 ```python
 @property
@@ -35,7 +35,7 @@ def impulse_response() -> AudioImpulseResponse
 
 <a id="unreal.SubmixEffectConvolutionReverbPreset.impulse_response"></a>
 
-#### impulse_response
+#### impulse\_response
 
 ```python
 @impulse_response.setter
@@ -64,7 +64,7 @@ def settings(value: SubmixEffectConvolutionReverbSettings) -> None
 
 <a id="unreal.SubmixEffectConvolutionReverbPreset.block_size"></a>
 
-#### block_size
+#### block\_size
 
 ```python
 @property
@@ -78,7 +78,7 @@ values result in higher latency, and lower values result in lower latency.
 
 <a id="unreal.SubmixEffectConvolutionReverbPreset.enable_hardware_acceleration"></a>
 
-#### enable_hardware_acceleration
+#### enable\_hardware\_acceleration
 
 ```python
 @property
@@ -89,7 +89,7 @@ def enable_hardware_acceleration() -> bool
 
 <a id="unreal.SubmixEffectConvolutionReverbPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectConvolutionReverbSettings) -> None

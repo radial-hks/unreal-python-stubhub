@@ -19,7 +19,7 @@ Revision information for a single revision of a file in source control
 
 <a id="unreal.RevisionInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(revision: str = "",

@@ -180,7 +180,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Framework/Camera/
 
 <a id="unreal.PlayerCameraManager.transform_component"></a>
 
-#### transform_component
+#### transform\_component
 
 ```python
 @property
@@ -191,7 +191,7 @@ def transform_component() -> SceneComponent
 
 <a id="unreal.PlayerCameraManager.default_fov"></a>
 
-#### default_fov
+#### default\_fov
 
 ```python
 @property
@@ -202,7 +202,7 @@ def default_fov() -> float
 
 <a id="unreal.PlayerCameraManager.default_fov"></a>
 
-#### default_fov
+#### default\_fov
 
 ```python
 @default_fov.setter
@@ -211,7 +211,7 @@ def default_fov(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.default_ortho_width"></a>
 
-#### default_ortho_width
+#### default\_ortho\_width
 
 ```python
 @property
@@ -222,7 +222,7 @@ def default_ortho_width() -> float
 
 <a id="unreal.PlayerCameraManager.default_ortho_width"></a>
 
-#### default_ortho_width
+#### default\_ortho\_width
 
 ```python
 @default_ortho_width.setter
@@ -231,7 +231,7 @@ def default_ortho_width(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.default_aspect_ratio"></a>
 
-#### default_aspect_ratio
+#### default\_aspect\_ratio
 
 ```python
 @property
@@ -242,7 +242,7 @@ def default_aspect_ratio() -> float
 
 <a id="unreal.PlayerCameraManager.default_aspect_ratio"></a>
 
-#### default_aspect_ratio
+#### default\_aspect\_ratio
 
 ```python
 @default_aspect_ratio.setter
@@ -251,7 +251,7 @@ def default_aspect_ratio(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.default_modifiers"></a>
 
-#### default_modifiers
+#### default\_modifiers
 
 ```python
 @property
@@ -262,7 +262,7 @@ def default_modifiers() -> Array[Class]
 
 <a id="unreal.PlayerCameraManager.free_cam_distance"></a>
 
-#### free_cam_distance
+#### free\_cam\_distance
 
 ```python
 @property
@@ -273,7 +273,7 @@ def free_cam_distance() -> float
 
 <a id="unreal.PlayerCameraManager.free_cam_distance"></a>
 
-#### free_cam_distance
+#### free\_cam\_distance
 
 ```python
 @free_cam_distance.setter
@@ -282,7 +282,7 @@ def free_cam_distance(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.free_cam_offset"></a>
 
-#### free_cam_offset
+#### free\_cam\_offset
 
 ```python
 @property
@@ -293,7 +293,7 @@ def free_cam_offset() -> Vector
 
 <a id="unreal.PlayerCameraManager.free_cam_offset"></a>
 
-#### free_cam_offset
+#### free\_cam\_offset
 
 ```python
 @free_cam_offset.setter
@@ -302,7 +302,7 @@ def free_cam_offset(value: Vector) -> None
 
 <a id="unreal.PlayerCameraManager.view_target_offset"></a>
 
-#### view_target_offset
+#### view\_target\_offset
 
 ```python
 @property
@@ -313,7 +313,7 @@ def view_target_offset() -> Vector
 
 <a id="unreal.PlayerCameraManager.view_target_offset"></a>
 
-#### view_target_offset
+#### view\_target\_offset
 
 ```python
 @view_target_offset.setter
@@ -322,7 +322,7 @@ def view_target_offset(value: Vector) -> None
 
 <a id="unreal.PlayerCameraManager.on_audio_fade_change_event"></a>
 
-#### on_audio_fade_change_event
+#### on\_audio\_fade\_change\_event
 
 ```python
 @property
@@ -333,7 +333,7 @@ def on_audio_fade_change_event() -> OnAudioFadeChangeSignature
 
 <a id="unreal.PlayerCameraManager.on_audio_fade_change_event"></a>
 
-#### on_audio_fade_change_event
+#### on\_audio\_fade\_change\_event
 
 ```python
 @on_audio_fade_change_event.setter
@@ -342,7 +342,7 @@ def on_audio_fade_change_event(value: OnAudioFadeChangeSignature) -> None
 
 <a id="unreal.PlayerCameraManager.is_orthographic"></a>
 
-#### is_orthographic
+#### is\_orthographic
 
 ```python
 @property
@@ -353,7 +353,7 @@ def is_orthographic() -> bool
 
 <a id="unreal.PlayerCameraManager.is_orthographic"></a>
 
-#### is_orthographic
+#### is\_orthographic
 
 ```python
 @is_orthographic.setter
@@ -362,7 +362,7 @@ def is_orthographic(value: bool) -> None
 
 <a id="unreal.PlayerCameraManager.auto_calculate_ortho_planes"></a>
 
-#### auto_calculate_ortho_planes
+#### auto\_calculate\_ortho\_planes
 
 ```python
 @property
@@ -373,7 +373,7 @@ def auto_calculate_ortho_planes() -> bool
 
 <a id="unreal.PlayerCameraManager.auto_calculate_ortho_planes"></a>
 
-#### auto_calculate_ortho_planes
+#### auto\_calculate\_ortho\_planes
 
 ```python
 @auto_calculate_ortho_planes.setter
@@ -382,7 +382,7 @@ def auto_calculate_ortho_planes(value: bool) -> None
 
 <a id="unreal.PlayerCameraManager.auto_plane_shift"></a>
 
-#### auto_plane_shift
+#### auto\_plane\_shift
 
 ```python
 @property
@@ -393,7 +393,7 @@ def auto_plane_shift() -> float
 
 <a id="unreal.PlayerCameraManager.auto_plane_shift"></a>
 
-#### auto_plane_shift
+#### auto\_plane\_shift
 
 ```python
 @auto_plane_shift.setter
@@ -402,7 +402,7 @@ def auto_plane_shift(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.update_ortho_planes"></a>
 
-#### update_ortho_planes
+#### update\_ortho\_planes
 
 ```python
 @property
@@ -413,7 +413,7 @@ def update_ortho_planes() -> bool
 
 <a id="unreal.PlayerCameraManager.update_ortho_planes"></a>
 
-#### update_ortho_planes
+#### update\_ortho\_planes
 
 ```python
 @update_ortho_planes.setter
@@ -422,7 +422,7 @@ def update_ortho_planes(value: bool) -> None
 
 <a id="unreal.PlayerCameraManager.use_camera_height_as_view_target"></a>
 
-#### use_camera_height_as_view_target
+#### use\_camera\_height\_as\_view\_target
 
 ```python
 @property
@@ -433,7 +433,7 @@ def use_camera_height_as_view_target() -> bool
 
 <a id="unreal.PlayerCameraManager.use_camera_height_as_view_target"></a>
 
-#### use_camera_height_as_view_target
+#### use\_camera\_height\_as\_view\_target
 
 ```python
 @use_camera_height_as_view_target.setter
@@ -442,7 +442,7 @@ def use_camera_height_as_view_target(value: bool) -> None
 
 <a id="unreal.PlayerCameraManager.default_constrain_aspect_ratio"></a>
 
-#### default_constrain_aspect_ratio
+#### default\_constrain\_aspect\_ratio
 
 ```python
 @property
@@ -453,7 +453,7 @@ def default_constrain_aspect_ratio() -> bool
 
 <a id="unreal.PlayerCameraManager.default_constrain_aspect_ratio"></a>
 
-#### default_constrain_aspect_ratio
+#### default\_constrain\_aspect\_ratio
 
 ```python
 @default_constrain_aspect_ratio.setter
@@ -462,7 +462,7 @@ def default_constrain_aspect_ratio(value: bool) -> None
 
 <a id="unreal.PlayerCameraManager.client_simulating_view_target"></a>
 
-#### client_simulating_view_target
+#### client\_simulating\_view\_target
 
 ```python
 @property
@@ -473,7 +473,7 @@ def client_simulating_view_target() -> bool
 
 <a id="unreal.PlayerCameraManager.client_simulating_view_target"></a>
 
-#### client_simulating_view_target
+#### client\_simulating\_view\_target
 
 ```python
 @client_simulating_view_target.setter
@@ -482,7 +482,7 @@ def client_simulating_view_target(value: bool) -> None
 
 <a id="unreal.PlayerCameraManager.use_client_side_camera_updates"></a>
 
-#### use_client_side_camera_updates
+#### use\_client\_side\_camera\_updates
 
 ```python
 @property
@@ -493,7 +493,7 @@ def use_client_side_camera_updates() -> bool
 
 <a id="unreal.PlayerCameraManager.game_camera_cut_this_frame"></a>
 
-#### game_camera_cut_this_frame
+#### game\_camera\_cut\_this\_frame
 
 ```python
 @property
@@ -505,7 +505,7 @@ This flag affects various things in the renderer (such as whether to use the occ
 
 <a id="unreal.PlayerCameraManager.view_pitch_min"></a>
 
-#### view_pitch_min
+#### view\_pitch\_min
 
 ```python
 @property
@@ -516,7 +516,7 @@ def view_pitch_min() -> float
 
 <a id="unreal.PlayerCameraManager.view_pitch_min"></a>
 
-#### view_pitch_min
+#### view\_pitch\_min
 
 ```python
 @view_pitch_min.setter
@@ -525,7 +525,7 @@ def view_pitch_min(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.view_pitch_max"></a>
 
-#### view_pitch_max
+#### view\_pitch\_max
 
 ```python
 @property
@@ -536,7 +536,7 @@ def view_pitch_max() -> float
 
 <a id="unreal.PlayerCameraManager.view_pitch_max"></a>
 
-#### view_pitch_max
+#### view\_pitch\_max
 
 ```python
 @view_pitch_max.setter
@@ -545,7 +545,7 @@ def view_pitch_max(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.view_yaw_min"></a>
 
-#### view_yaw_min
+#### view\_yaw\_min
 
 ```python
 @property
@@ -556,7 +556,7 @@ def view_yaw_min() -> float
 
 <a id="unreal.PlayerCameraManager.view_yaw_min"></a>
 
-#### view_yaw_min
+#### view\_yaw\_min
 
 ```python
 @view_yaw_min.setter
@@ -565,7 +565,7 @@ def view_yaw_min(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.view_yaw_max"></a>
 
-#### view_yaw_max
+#### view\_yaw\_max
 
 ```python
 @property
@@ -576,7 +576,7 @@ def view_yaw_max() -> float
 
 <a id="unreal.PlayerCameraManager.view_yaw_max"></a>
 
-#### view_yaw_max
+#### view\_yaw\_max
 
 ```python
 @view_yaw_max.setter
@@ -585,7 +585,7 @@ def view_yaw_max(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.view_roll_min"></a>
 
-#### view_roll_min
+#### view\_roll\_min
 
 ```python
 @property
@@ -596,7 +596,7 @@ def view_roll_min() -> float
 
 <a id="unreal.PlayerCameraManager.view_roll_min"></a>
 
-#### view_roll_min
+#### view\_roll\_min
 
 ```python
 @view_roll_min.setter
@@ -605,7 +605,7 @@ def view_roll_min(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.view_roll_max"></a>
 
-#### view_roll_max
+#### view\_roll\_max
 
 ```python
 @property
@@ -616,7 +616,7 @@ def view_roll_max() -> float
 
 <a id="unreal.PlayerCameraManager.view_roll_max"></a>
 
-#### view_roll_max
+#### view\_roll\_max
 
 ```python
 @view_roll_max.setter
@@ -625,7 +625,7 @@ def view_roll_max(value: float) -> None
 
 <a id="unreal.PlayerCameraManager.stop_camera_shake"></a>
 
-#### stop_camera_shake
+#### stop\_camera\_shake
 
 ```python
 def stop_camera_shake(shake_instance: CameraShakeBase,
@@ -641,7 +641,7 @@ Args:
 
 <a id="unreal.PlayerCameraManager.stop_camera_fade"></a>
 
-#### stop_camera_fade
+#### stop\_camera\_fade
 
 ```python
 def stop_camera_fade() -> None
@@ -652,7 +652,7 @@ Stops camera fading.
 
 <a id="unreal.PlayerCameraManager.stop_all_instances_of_camera_shake_from_source"></a>
 
-#### stop_all_instances_of_camera_shake_from_source
+#### stop\_all\_instances\_of\_camera\_shake\_from\_source
 
 ```python
 def stop_all_instances_of_camera_shake_from_source(
@@ -671,7 +671,7 @@ Args:
 
 <a id="unreal.PlayerCameraManager.stop_all_instances_of_camera_shake"></a>
 
-#### stop_all_instances_of_camera_shake
+#### stop\_all\_instances\_of\_camera\_shake
 
 ```python
 def stop_all_instances_of_camera_shake(shake: Class,
@@ -687,7 +687,7 @@ Args:
 
 <a id="unreal.PlayerCameraManager.stop_all_camera_shakes_from_source"></a>
 
-#### stop_all_camera_shakes_from_source
+#### stop\_all\_camera\_shakes\_from\_source
 
 ```python
 def stop_all_camera_shakes_from_source(
@@ -704,7 +704,7 @@ Args:
 
 <a id="unreal.PlayerCameraManager.stop_all_camera_shakes"></a>
 
-#### stop_all_camera_shakes
+#### stop\_all\_camera\_shakes
 
 ```python
 def stop_all_camera_shakes(immediately: bool = True) -> None
@@ -718,7 +718,7 @@ Args:
 
 <a id="unreal.PlayerCameraManager.start_camera_shake_from_source"></a>
 
-#### start_camera_shake_from_source
+#### start\_camera\_shake\_from\_source
 
 ```python
 def start_camera_shake_from_source(
@@ -745,7 +745,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.play_camera_shake_from_source"></a>
 
-#### play_camera_shake_from_source
+#### play\_camera\_shake\_from\_source
 
 ```python
 def play_camera_shake_from_source(
@@ -761,7 +761,7 @@ deprecated: 'play_camera_shake_from_source' was renamed to 'start_camera_shake_f
 
 <a id="unreal.PlayerCameraManager.start_matinee_camera_shake_from_source"></a>
 
-#### start_matinee_camera_shake_from_source
+#### start\_matinee\_camera\_shake\_from\_source
 
 ```python
 def start_matinee_camera_shake_from_source(
@@ -777,7 +777,7 @@ deprecated: 'start_matinee_camera_shake_from_source' was renamed to 'start_camer
 
 <a id="unreal.PlayerCameraManager.start_camera_shake"></a>
 
-#### start_camera_shake
+#### start\_camera\_shake
 
 ```python
 def start_camera_shake(
@@ -802,7 +802,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.play_camera_shake"></a>
 
-#### play_camera_shake
+#### play\_camera\_shake
 
 ```python
 def play_camera_shake(
@@ -817,7 +817,7 @@ deprecated: 'play_camera_shake' was renamed to 'start_camera_shake'.
 
 <a id="unreal.PlayerCameraManager.start_matinee_camera_shake"></a>
 
-#### start_matinee_camera_shake
+#### start\_matinee\_camera\_shake
 
 ```python
 def start_matinee_camera_shake(
@@ -832,7 +832,7 @@ deprecated: 'start_matinee_camera_shake' was renamed to 'start_camera_shake'.
 
 <a id="unreal.PlayerCameraManager.start_camera_fade"></a>
 
-#### start_camera_fade
+#### start\_camera\_fade
 
 ```python
 def start_camera_fade(from_alpha: float,
@@ -856,7 +856,7 @@ Args:
 
 <a id="unreal.PlayerCameraManager.set_manual_camera_fade"></a>
 
-#### set_manual_camera_fade
+#### set\_manual\_camera\_fade
 
 ```python
 def set_manual_camera_fade(fade_amount: float, color: LinearColor,
@@ -874,7 +874,7 @@ Args:
 
 <a id="unreal.PlayerCameraManager.set_game_camera_cut_this_frame"></a>
 
-#### set_game_camera_cut_this_frame
+#### set\_game\_camera\_cut\_this\_frame
 
 ```python
 def set_game_camera_cut_this_frame() -> None
@@ -885,7 +885,7 @@ Sets the bGameCameraCutThisFrame flag to true (indicating we did a camera cut th
 
 <a id="unreal.PlayerCameraManager.remove_generic_camera_lens_effect"></a>
 
-#### remove_generic_camera_lens_effect
+#### remove\_generic\_camera\_lens\_effect
 
 ```python
 def remove_generic_camera_lens_effect(
@@ -900,7 +900,7 @@ Args:
 
 <a id="unreal.PlayerCameraManager.remove_camera_modifier"></a>
 
-#### remove_camera_modifier
+#### remove\_camera\_modifier
 
 ```python
 def remove_camera_modifier(modifier_to_remove: CameraModifier) -> bool
@@ -917,7 +917,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.photography_camera_modify"></a>
 
-#### photography_camera_modify
+#### photography\_camera\_modify
 
 ```python
 def photography_camera_modify(new_camera_location: Vector,
@@ -948,7 +948,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.on_photography_session_start"></a>
 
-#### on_photography_session_start
+#### on\_photography\_session\_start
 
 ```python
 def on_photography_session_start() -> None
@@ -960,7 +960,7 @@ r.Photography.AutoPause is 1).
 
 <a id="unreal.PlayerCameraManager.on_photography_session_end"></a>
 
-#### on_photography_session_end
+#### on\_photography\_session\_end
 
 ```python
 def on_photography_session_end() -> None
@@ -972,7 +972,7 @@ r.Photography.AutoPause is 1).
 
 <a id="unreal.PlayerCameraManager.on_photography_multi_part_capture_start"></a>
 
-#### on_photography_multi_part_capture_start
+#### on\_photography\_multi\_part\_capture\_start
 
 ```python
 def on_photography_multi_part_capture_start() -> None
@@ -987,7 +987,7 @@ r.Photography.AutoPostprocess is 1).
 
 <a id="unreal.PlayerCameraManager.on_photography_multi_part_capture_end"></a>
 
-#### on_photography_multi_part_capture_end
+#### on\_photography\_multi\_part\_capture\_end
 
 ```python
 def on_photography_multi_part_capture_end() -> None
@@ -1001,7 +1001,7 @@ OnPhotographyMultiPartCaptureStart.
 
 <a id="unreal.PlayerCameraManager.get_owning_player_controller"></a>
 
-#### get_owning_player_controller
+#### get\_owning\_player\_controller
 
 ```python
 def get_owning_player_controller() -> PlayerController
@@ -1015,7 +1015,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.get_fov_angle"></a>
 
-#### get_fov_angle
+#### get\_fov\_angle
 
 ```python
 def get_fov_angle() -> float
@@ -1029,7 +1029,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.get_camera_rotation"></a>
 
-#### get_camera_rotation
+#### get\_camera\_rotation
 
 ```python
 def get_camera_rotation() -> Rotator
@@ -1043,7 +1043,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.get_camera_location"></a>
 
-#### get_camera_location
+#### get\_camera\_location
 
 ```python
 def get_camera_location() -> Vector
@@ -1057,7 +1057,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.find_camera_modifier_by_class"></a>
 
-#### find_camera_modifier_by_class
+#### find\_camera\_modifier\_by\_class
 
 ```python
 def find_camera_modifier_by_class(modifier_class: Class) -> CameraModifier
@@ -1075,7 +1075,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.clear_camera_lens_effects"></a>
 
-#### clear_camera_lens_effects
+#### clear\_camera\_lens\_effects
 
 ```python
 def clear_camera_lens_effects() -> None
@@ -1086,7 +1086,7 @@ Removes all camera lens effects.
 
 <a id="unreal.PlayerCameraManager.blueprint_update_camera"></a>
 
-#### blueprint_update_camera
+#### blueprint\_update\_camera
 
 ```python
 def blueprint_update_camera(
@@ -1112,7 +1112,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.kismet_update_camera"></a>
 
-#### kismet_update_camera
+#### kismet\_update\_camera
 
 ```python
 def kismet_update_camera(
@@ -1123,7 +1123,7 @@ deprecated: 'kismet_update_camera' was renamed to 'blueprint_update_camera'.
 
 <a id="unreal.PlayerCameraManager.add_new_camera_modifier"></a>
 
-#### add_new_camera_modifier
+#### add\_new\_camera\_modifier
 
 ```python
 def add_new_camera_modifier(modifier_class: Class) -> CameraModifier
@@ -1140,7 +1140,7 @@ Returns:
 
 <a id="unreal.PlayerCameraManager.add_generic_camera_lens_effect"></a>
 
-#### add_generic_camera_lens_effect
+#### add\_generic\_camera\_lens\_effect
 
 ```python
 def add_generic_camera_lens_effect(

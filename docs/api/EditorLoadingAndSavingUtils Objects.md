@@ -16,7 +16,7 @@ However this should be used in place of FEditorFileUtils wherever possible as th
 
 <a id="unreal.EditorLoadingAndSavingUtils.unload_packages"></a>
 
-#### unload_packages
+#### unload\_packages
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.save_packages_with_dialog"></a>
 
-#### save_packages_with_dialog
+#### save\_packages\_with\_dialog
 
 ```python
 @classmethod
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.save_packages"></a>
 
-#### save_packages
+#### save\_packages
 
 ```python
 @classmethod
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.save_map"></a>
 
-#### save_map
+#### save\_map
 
 ```python
 @classmethod
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.save_dirty_packages_with_dialog"></a>
 
-#### save_dirty_packages_with_dialog
+#### save\_dirty\_packages\_with\_dialog
 
 ```python
 @classmethod
@@ -121,7 +121,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.save_dirty_packages"></a>
 
-#### save_dirty_packages
+#### save\_dirty\_packages
 
 ```python
 @classmethod
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.save_current_level"></a>
 
-#### save_current_level
+#### save\_current\_level
 
 ```python
 @classmethod
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.reload_packages"></a>
 
-#### reload_packages
+#### reload\_packages
 
 ```python
 @classmethod
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.new_map_from_template"></a>
 
-#### new_map_from_template
+#### new\_map\_from\_template
 
 ```python
 @classmethod
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.new_blank_map"></a>
 
-#### new_blank_map
+#### new\_blank\_map
 
 ```python
 @classmethod
@@ -223,7 +223,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.load_map_with_dialog"></a>
 
-#### load_map_with_dialog
+#### load\_map\_with\_dialog
 
 ```python
 @classmethod
@@ -239,7 +239,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.load_map"></a>
 
-#### load_map
+#### load\_map
 
 ```python
 @classmethod
@@ -257,7 +257,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.import_scene"></a>
 
-#### import_scene
+#### import\_scene
 
 ```python
 @classmethod
@@ -272,7 +272,7 @@ Args:
 
 <a id="unreal.EditorLoadingAndSavingUtils.get_dirty_map_packages"></a>
 
-#### get_dirty_map_packages
+#### get\_dirty\_map\_packages
 
 ```python
 @classmethod
@@ -289,7 +289,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.get_dirty_content_packages"></a>
 
-#### get_dirty_content_packages
+#### get\_dirty\_content\_packages
 
 ```python
 @classmethod
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.EditorLoadingAndSavingUtils.export_scene"></a>
 
-#### export_scene
+#### export\_scene
 
 ```python
 @classmethod

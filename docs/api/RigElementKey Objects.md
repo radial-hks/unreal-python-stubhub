@@ -19,7 +19,7 @@ Rig Element Key
 
 <a id="unreal.RigElementKey.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: RigElementType = RigElementType.NONE,

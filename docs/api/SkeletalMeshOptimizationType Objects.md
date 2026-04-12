@@ -13,19 +13,19 @@ Enum specifying the reduction type to use when simplifying skeletal meshes with 
 
 <a id="unreal.SkeletalMeshOptimizationType.SMOT_NUM_OF_TRIANGLES"></a>
 
-#### SMOT_NUM_OF_TRIANGLES
+#### SMOT\_NUM\_OF\_TRIANGLES
 
 0: Triangle requirement will be used for simplification.
 
 <a id="unreal.SkeletalMeshOptimizationType.SMOT_MAX_DEVIATION"></a>
 
-#### SMOT_MAX_DEVIATION
+#### SMOT\_MAX\_DEVIATION
 
 1: Accuracy requirement will be used for simplification.
 
 <a id="unreal.SkeletalMeshOptimizationType.SMOT_TRIANGLE_OR_DEVIATION"></a>
 
-#### SMOT_TRIANGLE_OR_DEVIATION
+#### SMOT\_TRIANGLE\_OR\_DEVIATION
 
 2: Simplification will continue until either Triangle or Accuracy requirement is met.
 

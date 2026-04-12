@@ -26,7 +26,7 @@ EPCGEditor Dirty Mode
 
 <a id="unreal.PCGEditorDirtyMode.LOAD_AS_PREVIEW"></a>
 
-#### LOAD_AS_PREVIEW
+#### LOAD\_AS\_PREVIEW
 
 2: Acts as the normal editing mode until the next load of the component, at which state it acts as-if-transient, namely that any further generation changes will not dirty the component.
 

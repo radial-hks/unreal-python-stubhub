@@ -71,7 +71,7 @@ see: APawn
 
 <a id="unreal.PawnMovementComponent.is_move_input_ignored"></a>
 
-#### is_move_input_ignored
+#### is\_move\_input\_ignored
 
 ```python
 def is_move_input_ignored() -> bool
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.PawnMovementComponent.get_pending_input_vector"></a>
 
-#### get_pending_input_vector
+#### get\_pending\_input\_vector
 
 ```python
 def get_pending_input_vector() -> Vector
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.PawnMovementComponent.get_input_vector"></a>
 
-#### get_input_vector
+#### get\_input\_vector
 
 ```python
 def get_input_vector() -> Vector
@@ -111,7 +111,7 @@ deprecated: 'get_input_vector' was renamed to 'get_pending_input_vector'.
 
 <a id="unreal.PawnMovementComponent.get_pawn_owner"></a>
 
-#### get_pawn_owner
+#### get\_pawn\_owner
 
 ```python
 def get_pawn_owner() -> Pawn
@@ -125,7 +125,7 @@ Returns:
 
 <a id="unreal.PawnMovementComponent.get_last_input_vector"></a>
 
-#### get_last_input_vector
+#### get\_last\_input\_vector
 
 ```python
 def get_last_input_vector() -> Vector
@@ -141,7 +141,7 @@ Returns:
 
 <a id="unreal.PawnMovementComponent.consume_input_vector"></a>
 
-#### consume_input_vector
+#### consume\_input\_vector
 
 ```python
 def consume_input_vector() -> Vector
@@ -158,7 +158,7 @@ Returns:
 
 <a id="unreal.PawnMovementComponent.add_input_vector"></a>
 
-#### add_input_vector
+#### add\_input\_vector
 
 ```python
 def add_input_vector(world_vector: Vector, force: bool = False) -> None

@@ -23,7 +23,7 @@ Modulator Continuous Params
 
 <a id="unreal.ModulatorContinuousParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(parameter_name: Name = "None") -> None
@@ -31,7 +31,7 @@ def __init__(parameter_name: Name = "None") -> None
 
 <a id="unreal.ModulatorContinuousParams.parameter_name"></a>
 
-#### parameter_name
+#### parameter\_name
 
 ```python
 @property

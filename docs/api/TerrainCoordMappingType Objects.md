@@ -13,25 +13,25 @@ ETerrain Coord Mapping Type
 
 <a id="unreal.TerrainCoordMappingType.TCMT_AUTO"></a>
 
-#### TCMT_AUTO
+#### TCMT\_AUTO
 
 0
 
 <a id="unreal.TerrainCoordMappingType.TCMT_XY"></a>
 
-#### TCMT_XY
+#### TCMT\_XY
 
 1
 
 <a id="unreal.TerrainCoordMappingType.TCMT_XZ"></a>
 
-#### TCMT_XZ
+#### TCMT\_XZ
 
 2
 
 <a id="unreal.TerrainCoordMappingType.TCMT_YZ"></a>
 
-#### TCMT_YZ
+#### TCMT\_YZ
 
 3
 

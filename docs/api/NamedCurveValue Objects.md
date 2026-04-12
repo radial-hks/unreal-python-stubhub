@@ -18,7 +18,7 @@ Name/value pair for retrieving curve values
 
 <a id="unreal.NamedCurveValue.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None", value: float = 0.000000) -> None

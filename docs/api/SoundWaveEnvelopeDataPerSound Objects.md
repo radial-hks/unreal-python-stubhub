@@ -19,7 +19,7 @@ Sound Wave Envelope Data Per Sound
 
 <a id="unreal.SoundWaveEnvelopeDataPerSound.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(envelope: float = 0.000000,
@@ -49,7 +49,7 @@ def envelope(value: float) -> None
 
 <a id="unreal.SoundWaveEnvelopeDataPerSound.playback_time"></a>
 
-#### playback_time
+#### playback\_time
 
 ```python
 @property
@@ -60,7 +60,7 @@ def playback_time() -> float
 
 <a id="unreal.SoundWaveEnvelopeDataPerSound.playback_time"></a>
 
-#### playback_time
+#### playback\_time
 
 ```python
 @playback_time.setter
@@ -69,7 +69,7 @@ def playback_time(value: float) -> None
 
 <a id="unreal.SoundWaveEnvelopeDataPerSound.sound_wave"></a>
 
-#### sound_wave
+#### sound\_wave
 
 ```python
 @property
@@ -80,7 +80,7 @@ def sound_wave() -> SoundWave
 
 <a id="unreal.SoundWaveEnvelopeDataPerSound.sound_wave"></a>
 
-#### sound_wave
+#### sound\_wave
 
 ```python
 @sound_wave.setter

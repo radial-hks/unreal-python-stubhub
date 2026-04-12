@@ -32,13 +32,13 @@ Declares supported MetaSound output audio formats
 
 <a id="unreal.MetaSoundOutputAudioFormat.FIVE_DOT_ONE"></a>
 
-#### FIVE_DOT_ONE
+#### FIVE\_DOT\_ONE
 
 3
 
 <a id="unreal.MetaSoundOutputAudioFormat.SEVEN_DOT_ONE"></a>
 
-#### SEVEN_DOT_ONE
+#### SEVEN\_DOT\_ONE
 
 4
 

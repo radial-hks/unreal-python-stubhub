@@ -13,13 +13,13 @@ Media Texture Output Format
 
 <a id="unreal.MediaTextureOutputFormat.MTOF_DEFAULT"></a>
 
-#### MTOF_DEFAULT
+#### MTOF\_DEFAULT
 
 0
 
 <a id="unreal.MediaTextureOutputFormat.MTOF_SRGB_LINOUT"></a>
 
-#### MTOF_SRGB_LINOUT
+#### MTOF\_SRGB\_LINOUT
 
 1
 

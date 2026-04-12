@@ -24,7 +24,7 @@ Geometry Script Revolve Options
 
 <a id="unreal.GeometryScriptRevolveOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(revolve_degrees: float = 0.000000,
@@ -38,7 +38,7 @@ def __init__(revolve_degrees: float = 0.000000,
 
 <a id="unreal.GeometryScriptRevolveOptions.revolve_degrees"></a>
 
-#### revolve_degrees
+#### revolve\_degrees
 
 ```python
 @property
@@ -49,7 +49,7 @@ def revolve_degrees() -> float
 
 <a id="unreal.GeometryScriptRevolveOptions.revolve_degrees"></a>
 
-#### revolve_degrees
+#### revolve\_degrees
 
 ```python
 @revolve_degrees.setter
@@ -58,7 +58,7 @@ def revolve_degrees(value: float) -> None
 
 <a id="unreal.GeometryScriptRevolveOptions.degree_offset"></a>
 
-#### degree_offset
+#### degree\_offset
 
 ```python
 @property
@@ -69,7 +69,7 @@ def degree_offset() -> float
 
 <a id="unreal.GeometryScriptRevolveOptions.degree_offset"></a>
 
-#### degree_offset
+#### degree\_offset
 
 ```python
 @degree_offset.setter
@@ -78,7 +78,7 @@ def degree_offset(value: float) -> None
 
 <a id="unreal.GeometryScriptRevolveOptions.reverse_direction"></a>
 
-#### reverse_direction
+#### reverse\_direction
 
 ```python
 @property
@@ -89,7 +89,7 @@ def reverse_direction() -> bool
 
 <a id="unreal.GeometryScriptRevolveOptions.reverse_direction"></a>
 
-#### reverse_direction
+#### reverse\_direction
 
 ```python
 @reverse_direction.setter
@@ -98,7 +98,7 @@ def reverse_direction(value: bool) -> None
 
 <a id="unreal.GeometryScriptRevolveOptions.hard_normals"></a>
 
-#### hard_normals
+#### hard\_normals
 
 ```python
 @property
@@ -109,7 +109,7 @@ def hard_normals() -> bool
 
 <a id="unreal.GeometryScriptRevolveOptions.hard_normals"></a>
 
-#### hard_normals
+#### hard\_normals
 
 ```python
 @hard_normals.setter
@@ -118,7 +118,7 @@ def hard_normals(value: bool) -> None
 
 <a id="unreal.GeometryScriptRevolveOptions.hard_normal_angle"></a>
 
-#### hard_normal_angle
+#### hard\_normal\_angle
 
 ```python
 @property
@@ -129,7 +129,7 @@ def hard_normal_angle() -> float
 
 <a id="unreal.GeometryScriptRevolveOptions.hard_normal_angle"></a>
 
-#### hard_normal_angle
+#### hard\_normal\_angle
 
 ```python
 @hard_normal_angle.setter
@@ -138,7 +138,7 @@ def hard_normal_angle(value: float) -> None
 
 <a id="unreal.GeometryScriptRevolveOptions.profile_at_midpoint"></a>
 
-#### profile_at_midpoint
+#### profile\_at\_midpoint
 
 ```python
 @property
@@ -149,7 +149,7 @@ def profile_at_midpoint() -> bool
 
 <a id="unreal.GeometryScriptRevolveOptions.profile_at_midpoint"></a>
 
-#### profile_at_midpoint
+#### profile\_at\_midpoint
 
 ```python
 @profile_at_midpoint.setter
@@ -158,7 +158,7 @@ def profile_at_midpoint(value: bool) -> None
 
 <a id="unreal.GeometryScriptRevolveOptions.fill_partial_revolve_endcaps"></a>
 
-#### fill_partial_revolve_endcaps
+#### fill\_partial\_revolve\_endcaps
 
 ```python
 @property
@@ -169,7 +169,7 @@ def fill_partial_revolve_endcaps() -> bool
 
 <a id="unreal.GeometryScriptRevolveOptions.fill_partial_revolve_endcaps"></a>
 
-#### fill_partial_revolve_endcaps
+#### fill\_partial\_revolve\_endcaps
 
 ```python
 @fill_partial_revolve_endcaps.setter

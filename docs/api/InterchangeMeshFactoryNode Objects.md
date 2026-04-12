@@ -14,7 +14,7 @@ namespace Interchange
 
 <a id="unreal.InterchangeMeshFactoryNode.set_slot_material_dependency_uid"></a>
 
-#### set_slot_material_dependency_uid
+#### set\_slot\_material\_dependency\_uid
 
 ```python
 def set_slot_material_dependency_uid(slot_name: str,
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_vertex_color_replace"></a>
 
-#### set_custom_vertex_color_replace
+#### set\_custom\_vertex\_color\_replace
 
 ```python
 def set_custom_vertex_color_replace(attribute_value: bool) -> bool
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_vertex_color_override"></a>
 
-#### set_custom_vertex_color_override
+#### set\_custom\_vertex\_color\_override
 
 ```python
 def set_custom_vertex_color_override(attribute_value: Color) -> bool
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_vertex_color_ignore"></a>
 
-#### set_custom_vertex_color_ignore
+#### set\_custom\_vertex\_color\_ignore
 
 ```python
 def set_custom_vertex_color_ignore(attribute_value: bool) -> bool
@@ -84,7 +84,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_use_mikk_t_space"></a>
 
-#### set_custom_use_mikk_t_space
+#### set\_custom\_use\_mikk\_t\_space
 
 ```python
 def set_custom_use_mikk_t_space(attribute_value: bool,
@@ -103,7 +103,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_use_high_precision_tangent_basis"></a>
 
-#### set_custom_use_high_precision_tangent_basis
+#### set\_custom\_use\_high\_precision\_tangent\_basis
 
 ```python
 def set_custom_use_high_precision_tangent_basis(attribute_value: bool,
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_use_full_precision_u_vs"></a>
 
-#### set_custom_use_full_precision_u_vs
+#### set\_custom\_use\_full\_precision\_u\_vs
 
 ```python
 def set_custom_use_full_precision_u_vs(attribute_value: bool,
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_use_backwards_compatible_f16_trunc_u_vs"></a>
 
-#### set_custom_use_backwards_compatible_f16_trunc_u_vs
+#### set\_custom\_use\_backwards\_compatible\_f16\_trunc\_u\_vs
 
 ```python
 def set_custom_use_backwards_compatible_f16_trunc_u_vs(
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_remove_degenerates"></a>
 
-#### set_custom_remove_degenerates
+#### set\_custom\_remove\_degenerates
 
 ```python
 def set_custom_remove_degenerates(attribute_value: bool,
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_recompute_tangents"></a>
 
-#### set_custom_recompute_tangents
+#### set\_custom\_recompute\_tangents
 
 ```python
 def set_custom_recompute_tangents(attribute_value: bool,
@@ -200,7 +200,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_recompute_normals"></a>
 
-#### set_custom_recompute_normals
+#### set\_custom\_recompute\_normals
 
 ```python
 def set_custom_recompute_normals(attribute_value: bool,
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_lod_group"></a>
 
-#### set_custom_lod_group
+#### set\_custom\_lod\_group
 
 ```python
 def set_custom_lod_group(attribute_value: Name,
@@ -238,7 +238,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_keep_sections_separate"></a>
 
-#### set_custom_keep_sections_separate
+#### set\_custom\_keep\_sections\_separate
 
 ```python
 def set_custom_keep_sections_separate(attribute_value: bool) -> bool
@@ -255,7 +255,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.set_custom_compute_weighted_normals"></a>
 
-#### set_custom_compute_weighted_normals
+#### set\_custom\_compute\_weighted\_normals
 
 ```python
 def set_custom_compute_weighted_normals(attribute_value: bool,
@@ -275,7 +275,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.reset_slot_material_dependencies"></a>
 
-#### reset_slot_material_dependencies
+#### reset\_slot\_material\_dependencies
 
 ```python
 def reset_slot_material_dependencies() -> bool
@@ -289,7 +289,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.remove_slot_material_dependency_uid"></a>
 
-#### remove_slot_material_dependency_uid
+#### remove\_slot\_material\_dependency\_uid
 
 ```python
 def remove_slot_material_dependency_uid(slot_name: str) -> bool
@@ -306,7 +306,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.remove_lod_data_unique_id"></a>
 
-#### remove_lod_data_unique_id
+#### remove\_lod\_data\_unique\_id
 
 ```python
 def remove_lod_data_unique_id(lod_data_unique_id: str) -> bool
@@ -323,7 +323,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_slot_material_dependency_uid"></a>
 
-#### get_slot_material_dependency_uid
+#### get\_slot\_material\_dependency\_uid
 
 ```python
 def get_slot_material_dependency_uid(slot_name: str) -> Optional[str]
@@ -342,7 +342,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_slot_material_dependencies"></a>
 
-#### get_slot_material_dependencies
+#### get\_slot\_material\_dependencies
 
 ```python
 def get_slot_material_dependencies() -> Map[str, str]
@@ -358,7 +358,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_lod_data_unique_ids"></a>
 
-#### get_lod_data_unique_ids
+#### get\_lod\_data\_unique\_ids
 
 ```python
 def get_lod_data_unique_ids() -> Array[str]
@@ -374,7 +374,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_lod_data_count"></a>
 
-#### get_lod_data_count
+#### get\_lod\_data\_count
 
 ```python
 def get_lod_data_count() -> int
@@ -388,7 +388,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_vertex_color_replace"></a>
 
-#### get_custom_vertex_color_replace
+#### get\_custom\_vertex\_color\_replace
 
 ```python
 def get_custom_vertex_color_replace() -> Optional[bool]
@@ -404,7 +404,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_vertex_color_override"></a>
 
-#### get_custom_vertex_color_override
+#### get\_custom\_vertex\_color\_override
 
 ```python
 def get_custom_vertex_color_override() -> Optional[Color]
@@ -420,7 +420,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_vertex_color_ignore"></a>
 
-#### get_custom_vertex_color_ignore
+#### get\_custom\_vertex\_color\_ignore
 
 ```python
 def get_custom_vertex_color_ignore() -> Optional[bool]
@@ -436,7 +436,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_use_mikk_t_space"></a>
 
-#### get_custom_use_mikk_t_space
+#### get\_custom\_use\_mikk\_t\_space
 
 ```python
 def get_custom_use_mikk_t_space() -> Optional[bool]
@@ -452,7 +452,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_use_high_precision_tangent_basis"></a>
 
-#### get_custom_use_high_precision_tangent_basis
+#### get\_custom\_use\_high\_precision\_tangent\_basis
 
 ```python
 def get_custom_use_high_precision_tangent_basis() -> Optional[bool]
@@ -468,7 +468,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_use_full_precision_u_vs"></a>
 
-#### get_custom_use_full_precision_u_vs
+#### get\_custom\_use\_full\_precision\_u\_vs
 
 ```python
 def get_custom_use_full_precision_u_vs() -> Optional[bool]
@@ -484,7 +484,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_use_backwards_compatible_f16_trunc_u_vs"></a>
 
-#### get_custom_use_backwards_compatible_f16_trunc_u_vs
+#### get\_custom\_use\_backwards\_compatible\_f16\_trunc\_u\_vs
 
 ```python
 def get_custom_use_backwards_compatible_f16_trunc_u_vs() -> Optional[bool]
@@ -500,7 +500,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_remove_degenerates"></a>
 
-#### get_custom_remove_degenerates
+#### get\_custom\_remove\_degenerates
 
 ```python
 def get_custom_remove_degenerates() -> Optional[bool]
@@ -516,7 +516,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_recompute_tangents"></a>
 
-#### get_custom_recompute_tangents
+#### get\_custom\_recompute\_tangents
 
 ```python
 def get_custom_recompute_tangents() -> Optional[bool]
@@ -532,7 +532,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_recompute_normals"></a>
 
-#### get_custom_recompute_normals
+#### get\_custom\_recompute\_normals
 
 ```python
 def get_custom_recompute_normals() -> Optional[bool]
@@ -548,7 +548,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_lod_group"></a>
 
-#### get_custom_lod_group
+#### get\_custom\_lod\_group
 
 ```python
 def get_custom_lod_group() -> Optional[Name]
@@ -564,7 +564,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_keep_sections_separate"></a>
 
-#### get_custom_keep_sections_separate
+#### get\_custom\_keep\_sections\_separate
 
 ```python
 def get_custom_keep_sections_separate() -> Optional[bool]
@@ -580,7 +580,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.get_custom_compute_weighted_normals"></a>
 
-#### get_custom_compute_weighted_normals
+#### get\_custom\_compute\_weighted\_normals
 
 ```python
 def get_custom_compute_weighted_normals() -> Optional[bool]
@@ -596,7 +596,7 @@ Returns:
 
 <a id="unreal.InterchangeMeshFactoryNode.add_lod_data_unique_id"></a>
 
-#### add_lod_data_unique_id
+#### add\_lod\_data\_unique\_id
 
 ```python
 def add_lod_data_unique_id(lod_data_unique_id: str) -> bool

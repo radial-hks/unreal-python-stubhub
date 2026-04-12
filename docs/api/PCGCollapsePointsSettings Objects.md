@@ -41,7 +41,7 @@ Collapses (decimates) points on a closest-point basis, allowing weighted average
 
 <a id="unreal.PCGCollapsePointsSettings.distance_threshold"></a>
 
-#### distance_threshold
+#### distance\_threshold
 
 ```python
 @property
@@ -52,7 +52,7 @@ def distance_threshold() -> float
 
 <a id="unreal.PCGCollapsePointsSettings.distance_threshold"></a>
 
-#### distance_threshold
+#### distance\_threshold
 
 ```python
 @distance_threshold.setter
@@ -81,7 +81,7 @@ def mode(value: PCGCollapseMode) -> None
 
 <a id="unreal.PCGCollapsePointsSettings.comparison_mode"></a>
 
-#### comparison_mode
+#### comparison\_mode
 
 ```python
 @property
@@ -92,7 +92,7 @@ def comparison_mode() -> PCGCollapseComparisonMode
 
 <a id="unreal.PCGCollapsePointsSettings.comparison_mode"></a>
 
-#### comparison_mode
+#### comparison\_mode
 
 ```python
 @comparison_mode.setter
@@ -101,7 +101,7 @@ def comparison_mode(value: PCGCollapseComparisonMode) -> None
 
 <a id="unreal.PCGCollapsePointsSettings.visit_order"></a>
 
-#### visit_order
+#### visit\_order
 
 ```python
 @property
@@ -112,7 +112,7 @@ def visit_order() -> PCGCollapseVisitOrder
 
 <a id="unreal.PCGCollapsePointsSettings.visit_order"></a>
 
-#### visit_order
+#### visit\_order
 
 ```python
 @visit_order.setter
@@ -121,7 +121,7 @@ def visit_order(value: PCGCollapseVisitOrder) -> None
 
 <a id="unreal.PCGCollapsePointsSettings.visit_order_attribute"></a>
 
-#### visit_order_attribute
+#### visit\_order\_attribute
 
 ```python
 @property
@@ -132,7 +132,7 @@ def visit_order_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGCollapsePointsSettings.visit_order_attribute"></a>
 
-#### visit_order_attribute
+#### visit\_order\_attribute
 
 ```python
 @visit_order_attribute.setter
@@ -141,7 +141,7 @@ def visit_order_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGCollapsePointsSettings.use_merge_weight_attribute"></a>
 
-#### use_merge_weight_attribute
+#### use\_merge\_weight\_attribute
 
 ```python
 @property
@@ -152,7 +152,7 @@ def use_merge_weight_attribute() -> bool
 
 <a id="unreal.PCGCollapsePointsSettings.use_merge_weight_attribute"></a>
 
-#### use_merge_weight_attribute
+#### use\_merge\_weight\_attribute
 
 ```python
 @use_merge_weight_attribute.setter
@@ -161,7 +161,7 @@ def use_merge_weight_attribute(value: bool) -> None
 
 <a id="unreal.PCGCollapsePointsSettings.merge_weight_attribute"></a>
 
-#### merge_weight_attribute
+#### merge\_weight\_attribute
 
 ```python
 @property
@@ -172,7 +172,7 @@ def merge_weight_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGCollapsePointsSettings.merge_weight_attribute"></a>
 
-#### merge_weight_attribute
+#### merge\_weight\_attribute
 
 ```python
 @merge_weight_attribute.setter
@@ -181,7 +181,7 @@ def merge_weight_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGCollapsePointsSettings.attributes_to_merge"></a>
 
-#### attributes_to_merge
+#### attributes\_to\_merge
 
 ```python
 @property
@@ -192,7 +192,7 @@ def attributes_to_merge() -> Array[PCGAttributePropertyOutputNoSourceSelector]
 
 <a id="unreal.PCGCollapsePointsSettings.attributes_to_merge"></a>
 
-#### attributes_to_merge
+#### attributes\_to\_merge
 
 ```python
 @attributes_to_merge.setter

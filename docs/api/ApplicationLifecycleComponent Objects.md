@@ -44,7 +44,7 @@ Component to handle receiving notifications from the OS about application state 
 
 <a id="unreal.ApplicationLifecycleComponent.application_will_deactivate_delegate"></a>
 
-#### application_will_deactivate_delegate
+#### application\_will\_deactivate\_delegate
 
 ```python
 @property
@@ -56,7 +56,7 @@ The game should be paused if possible, etc...
 
 <a id="unreal.ApplicationLifecycleComponent.application_will_deactivate_delegate"></a>
 
-#### application_will_deactivate_delegate
+#### application\_will\_deactivate\_delegate
 
 ```python
 @application_will_deactivate_delegate.setter
@@ -66,7 +66,7 @@ def application_will_deactivate_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_has_reactivated_delegate"></a>
 
-#### application_has_reactivated_delegate
+#### application\_has\_reactivated\_delegate
 
 ```python
 @property
@@ -77,7 +77,7 @@ def application_has_reactivated_delegate() -> ApplicationLifetimeDelegate
 
 <a id="unreal.ApplicationLifecycleComponent.application_has_reactivated_delegate"></a>
 
-#### application_has_reactivated_delegate
+#### application\_has\_reactivated\_delegate
 
 ```python
 @application_has_reactivated_delegate.setter
@@ -87,7 +87,7 @@ def application_has_reactivated_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_will_enter_background_delegate"></a>
 
-#### application_will_enter_background_delegate
+#### application\_will\_enter\_background\_delegate
 
 ```python
 @property
@@ -102,7 +102,7 @@ terminated from the background state without any further warning.
 
 <a id="unreal.ApplicationLifecycleComponent.application_will_enter_background_delegate"></a>
 
-#### application_will_enter_background_delegate
+#### application\_will\_enter\_background\_delegate
 
 ```python
 @application_will_enter_background_delegate.setter
@@ -112,7 +112,7 @@ def application_will_enter_background_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_has_entered_foreground_delegate"></a>
 
-#### application_has_entered_foreground_delegate
+#### application\_has\_entered\_foreground\_delegate
 
 ```python
 @property
@@ -124,7 +124,7 @@ def application_has_entered_foreground_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_has_entered_foreground_delegate"></a>
 
-#### application_has_entered_foreground_delegate
+#### application\_has\_entered\_foreground\_delegate
 
 ```python
 @application_has_entered_foreground_delegate.setter
@@ -134,7 +134,7 @@ def application_has_entered_foreground_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_will_terminate_delegate"></a>
 
-#### application_will_terminate_delegate
+#### application\_will\_terminate\_delegate
 
 ```python
 @property
@@ -147,7 +147,7 @@ save state when ApplicationWillEnterBackgroundDelegate is called instead.
 
 <a id="unreal.ApplicationLifecycleComponent.application_will_terminate_delegate"></a>
 
-#### application_will_terminate_delegate
+#### application\_will\_terminate\_delegate
 
 ```python
 @application_will_terminate_delegate.setter
@@ -157,7 +157,7 @@ def application_will_terminate_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_should_unload_resources_delegate"></a>
 
-#### application_should_unload_resources_delegate
+#### application\_should\_unload\_resources\_delegate
 
 ```python
 @property
@@ -169,7 +169,7 @@ def application_should_unload_resources_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_should_unload_resources_delegate"></a>
 
-#### application_should_unload_resources_delegate
+#### application\_should\_unload\_resources\_delegate
 
 ```python
 @application_should_unload_resources_delegate.setter
@@ -179,7 +179,7 @@ def application_should_unload_resources_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_received_startup_arguments_delegate"></a>
 
-#### application_received_startup_arguments_delegate
+#### application\_received\_startup\_arguments\_delegate
 
 ```python
 @property
@@ -191,7 +191,7 @@ def application_received_startup_arguments_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.application_received_startup_arguments_delegate"></a>
 
-#### application_received_startup_arguments_delegate
+#### application\_received\_startup\_arguments\_delegate
 
 ```python
 @application_received_startup_arguments_delegate.setter
@@ -201,7 +201,7 @@ def application_received_startup_arguments_delegate(
 
 <a id="unreal.ApplicationLifecycleComponent.on_temperature_change_delegate"></a>
 
-#### on_temperature_change_delegate
+#### on\_temperature\_change\_delegate
 
 ```python
 @property
@@ -212,7 +212,7 @@ def on_temperature_change_delegate() -> OnTemperatureChangeDelegate
 
 <a id="unreal.ApplicationLifecycleComponent.on_temperature_change_delegate"></a>
 
-#### on_temperature_change_delegate
+#### on\_temperature\_change\_delegate
 
 ```python
 @on_temperature_change_delegate.setter
@@ -221,7 +221,7 @@ def on_temperature_change_delegate(value: OnTemperatureChangeDelegate) -> None
 
 <a id="unreal.ApplicationLifecycleComponent.on_low_power_mode_delegate"></a>
 
-#### on_low_power_mode_delegate
+#### on\_low\_power\_mode\_delegate
 
 ```python
 @property
@@ -232,7 +232,7 @@ def on_low_power_mode_delegate() -> OnLowPowerModeDelegate
 
 <a id="unreal.ApplicationLifecycleComponent.on_low_power_mode_delegate"></a>
 
-#### on_low_power_mode_delegate
+#### on\_low\_power\_mode\_delegate
 
 ```python
 @on_low_power_mode_delegate.setter

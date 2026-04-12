@@ -14,13 +14,13 @@ ENiagara Module Dependency Type
 
 <a id="unreal.NiagaraModuleDependencyType.PRE_DEPENDENCY"></a>
 
-#### PRE_DEPENDENCY
+#### PRE\_DEPENDENCY
 
 0: The dependency belongs before the module.
 
 <a id="unreal.NiagaraModuleDependencyType.POST_DEPENDENCY"></a>
 
-#### POST_DEPENDENCY
+#### POST\_DEPENDENCY
 
 1: The dependency belongs after the module.
 

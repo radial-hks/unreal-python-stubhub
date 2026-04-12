@@ -26,7 +26,7 @@ Hair Collision Constraint
 
 <a id="unreal.HairCollisionConstraint.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -23,7 +23,7 @@ Stores info on the type of motor that will be used for a given bone
 
 <a id="unreal.PhysicalAnimationData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(is_local_simulation: bool = False,
@@ -37,7 +37,7 @@ def __init__(is_local_simulation: bool = False,
 
 <a id="unreal.PhysicalAnimationData.is_local_simulation"></a>
 
-#### is_local_simulation
+#### is\_local\_simulation
 
 ```python
 @property
@@ -48,7 +48,7 @@ def is_local_simulation() -> bool
 
 <a id="unreal.PhysicalAnimationData.is_local_simulation"></a>
 
-#### is_local_simulation
+#### is\_local\_simulation
 
 ```python
 @is_local_simulation.setter
@@ -57,7 +57,7 @@ def is_local_simulation(value: bool) -> None
 
 <a id="unreal.PhysicalAnimationData.orientation_strength"></a>
 
-#### orientation_strength
+#### orientation\_strength
 
 ```python
 @property
@@ -68,7 +68,7 @@ def orientation_strength() -> float
 
 <a id="unreal.PhysicalAnimationData.orientation_strength"></a>
 
-#### orientation_strength
+#### orientation\_strength
 
 ```python
 @orientation_strength.setter
@@ -77,7 +77,7 @@ def orientation_strength(value: float) -> None
 
 <a id="unreal.PhysicalAnimationData.angular_velocity_strength"></a>
 
-#### angular_velocity_strength
+#### angular\_velocity\_strength
 
 ```python
 @property
@@ -88,7 +88,7 @@ def angular_velocity_strength() -> float
 
 <a id="unreal.PhysicalAnimationData.angular_velocity_strength"></a>
 
-#### angular_velocity_strength
+#### angular\_velocity\_strength
 
 ```python
 @angular_velocity_strength.setter
@@ -97,7 +97,7 @@ def angular_velocity_strength(value: float) -> None
 
 <a id="unreal.PhysicalAnimationData.position_strength"></a>
 
-#### position_strength
+#### position\_strength
 
 ```python
 @property
@@ -108,7 +108,7 @@ def position_strength() -> float
 
 <a id="unreal.PhysicalAnimationData.position_strength"></a>
 
-#### position_strength
+#### position\_strength
 
 ```python
 @position_strength.setter
@@ -117,7 +117,7 @@ def position_strength(value: float) -> None
 
 <a id="unreal.PhysicalAnimationData.velocity_strength"></a>
 
-#### velocity_strength
+#### velocity\_strength
 
 ```python
 @property
@@ -128,7 +128,7 @@ def velocity_strength() -> float
 
 <a id="unreal.PhysicalAnimationData.velocity_strength"></a>
 
-#### velocity_strength
+#### velocity\_strength
 
 ```python
 @velocity_strength.setter
@@ -137,7 +137,7 @@ def velocity_strength(value: float) -> None
 
 <a id="unreal.PhysicalAnimationData.max_linear_force"></a>
 
-#### max_linear_force
+#### max\_linear\_force
 
 ```python
 @property
@@ -148,7 +148,7 @@ def max_linear_force() -> float
 
 <a id="unreal.PhysicalAnimationData.max_linear_force"></a>
 
-#### max_linear_force
+#### max\_linear\_force
 
 ```python
 @max_linear_force.setter
@@ -157,7 +157,7 @@ def max_linear_force(value: float) -> None
 
 <a id="unreal.PhysicalAnimationData.max_angular_force"></a>
 
-#### max_angular_force
+#### max\_angular\_force
 
 ```python
 @property
@@ -168,7 +168,7 @@ def max_angular_force() -> float
 
 <a id="unreal.PhysicalAnimationData.max_angular_force"></a>
 
-#### max_angular_force
+#### max\_angular\_force
 
 ```python
 @max_angular_force.setter

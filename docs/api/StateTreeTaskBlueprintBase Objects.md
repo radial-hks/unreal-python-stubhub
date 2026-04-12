@@ -29,7 +29,7 @@ class StateTreeTaskBlueprintBase(StateTreeNodeBlueprintBase)
 
 <a id="unreal.StateTreeTaskBlueprintBase.receive_tick"></a>
 
-#### receive_tick
+#### receive\_tick
 
 ```python
 def receive_tick(delta_time: float) -> StateTreeRunStatus
@@ -47,7 +47,7 @@ Returns:
 
 <a id="unreal.StateTreeTaskBlueprintBase.receive_state_completed"></a>
 
-#### receive_state_completed
+#### receive\_state\_completed
 
 ```python
 def receive_state_completed(
@@ -65,7 +65,7 @@ Args:
 
 <a id="unreal.StateTreeTaskBlueprintBase.receive_latent_tick"></a>
 
-#### receive_latent_tick
+#### receive\_latent\_tick
 
 ```python
 def receive_latent_tick(delta_time: float) -> None
@@ -86,7 +86,7 @@ Args:
 
 <a id="unreal.StateTreeTaskBlueprintBase.receive_latent_enter_state"></a>
 
-#### receive_latent_enter_state
+#### receive\_latent\_enter\_state
 
 ```python
 def receive_latent_enter_state(transition: StateTreeTransitionResult) -> None
@@ -104,7 +104,7 @@ Args:
 
 <a id="unreal.StateTreeTaskBlueprintBase.receive_exit_state"></a>
 
-#### receive_exit_state
+#### receive\_exit\_state
 
 ```python
 def receive_exit_state(transition: StateTreeTransitionResult) -> None
@@ -118,7 +118,7 @@ Args:
 
 <a id="unreal.StateTreeTaskBlueprintBase.receive_enter_state"></a>
 
-#### receive_enter_state
+#### receive\_enter\_state
 
 ```python
 def receive_enter_state(
@@ -137,7 +137,7 @@ Returns:
 
 <a id="unreal.StateTreeTaskBlueprintBase.finish_task"></a>
 
-#### finish_task
+#### finish\_task
 
 ```python
 def finish_task(succeeded: bool = True) -> None

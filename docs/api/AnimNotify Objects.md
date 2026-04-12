@@ -18,7 +18,7 @@ Anim Notify
 
 <a id="unreal.AnimNotify.notify_color"></a>
 
-#### notify_color
+#### notify\_color
 
 ```python
 @property
@@ -29,7 +29,7 @@ def notify_color() -> Color
 
 <a id="unreal.AnimNotify.should_fire_in_editor"></a>
 
-#### should_fire_in_editor
+#### should\_fire\_in\_editor
 
 ```python
 @property
@@ -40,7 +40,7 @@ def should_fire_in_editor() -> bool
 
 <a id="unreal.AnimNotify.received_notify"></a>
 
-#### received_notify
+#### received\_notify
 
 ```python
 def received_notify(mesh_comp: SkeletalMeshComponent,
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.AnimNotify.get_notify_name"></a>
 
-#### get_notify_name
+#### get\_notify\_name
 
 ```python
 def get_notify_name() -> str
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.AnimNotify.get_default_trigger_weight_threshold"></a>
 
-#### get_default_trigger_weight_threshold
+#### get\_default\_trigger\_weight\_threshold
 
 ```python
 def get_default_trigger_weight_threshold() -> float

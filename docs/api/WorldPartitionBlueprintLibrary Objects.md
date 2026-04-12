@@ -13,7 +13,7 @@ World Partition Blueprint Library
 
 <a id="unreal.WorldPartitionBlueprintLibrary.unpin_actors"></a>
 
-#### unpin_actors
+#### unpin\_actors
 
 ```python
 @classmethod
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.unload_actors"></a>
 
-#### unload_actors
+#### unload\_actors
 
 ```python
 @classmethod
@@ -43,7 +43,7 @@ Args:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.pin_actors"></a>
 
-#### pin_actors
+#### pin\_actors
 
 ```python
 @classmethod
@@ -58,7 +58,7 @@ Args:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.load_actors"></a>
 
-#### load_actors
+#### load\_actors
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Args:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.get_runtime_world_bounds"></a>
 
-#### get_runtime_world_bounds
+#### get\_runtime\_world\_bounds
 
 ```python
 @classmethod
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.get_intersecting_actor_descs"></a>
 
-#### get_intersecting_actor_descs
+#### get\_intersecting\_actor\_descs
 
 ```python
 @classmethod
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.get_editor_world_bounds"></a>
 
-#### get_editor_world_bounds
+#### get\_editor\_world\_bounds
 
 ```python
 @classmethod
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.get_data_layer_manager"></a>
 
-#### get_data_layer_manager
+#### get\_data\_layer\_manager
 
 ```python
 @classmethod
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.get_actor_descs_for_actors"></a>
 
-#### get_actor_descs_for_actors
+#### get\_actor\_descs\_for\_actors
 
 ```python
 @classmethod
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.WorldPartitionBlueprintLibrary.get_actor_descs"></a>
 
-#### get_actor_descs
+#### get\_actor\_descs
 
 ```python
 @classmethod

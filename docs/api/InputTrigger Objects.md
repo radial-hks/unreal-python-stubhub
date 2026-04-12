@@ -22,7 +22,7 @@ Transitions to Triggered state once the input meets or exceeds the actuation thr
 
 <a id="unreal.InputTrigger.actuation_threshold"></a>
 
-#### actuation_threshold
+#### actuation\_threshold
 
 ```python
 @property
@@ -33,7 +33,7 @@ def actuation_threshold() -> float
 
 <a id="unreal.InputTrigger.actuation_threshold"></a>
 
-#### actuation_threshold
+#### actuation\_threshold
 
 ```python
 @actuation_threshold.setter
@@ -42,7 +42,7 @@ def actuation_threshold(value: float) -> None
 
 <a id="unreal.InputTrigger.should_always_tick"></a>
 
-#### should_always_tick
+#### should\_always\_tick
 
 ```python
 @property
@@ -54,7 +54,7 @@ def should_always_tick() -> bool
 
 <a id="unreal.InputTrigger.last_value"></a>
 
-#### last_value
+#### last\_value
 
 ```python
 @property
@@ -65,7 +65,7 @@ def last_value() -> InputActionValue
 
 <a id="unreal.InputTrigger.update_state"></a>
 
-#### update_state
+#### update\_state
 
 ```python
 def update_state(player_input: EnhancedPlayerInput,
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.InputTrigger.is_actuated"></a>
 
-#### is_actuated
+#### is\_actuated
 
 ```python
 def is_actuated(for_value: InputActionValue) -> bool
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.InputTrigger.get_trigger_type"></a>
 
-#### get_trigger_type
+#### get\_trigger\_type
 
 ```python
 def get_trigger_type() -> TriggerType

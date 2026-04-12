@@ -34,7 +34,7 @@ Network Physics Settings Network Physics Component
 
 <a id="unreal.NetworkPhysicsSettingsNetworkPhysicsComponent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

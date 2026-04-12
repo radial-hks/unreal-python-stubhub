@@ -13,4 +13,4 @@ The memory layout is defined by the URigVMMemoryStorageGeneratorClass.
 - **Module**: RigVM
 - **File**: RigVMMemoryStorage.h
 
-<a id="unreal.CameraRigAsset"></a>
+<a id="unreal.SmartObjectBehaviorDefinition"></a>

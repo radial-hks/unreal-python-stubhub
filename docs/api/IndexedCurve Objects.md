@@ -14,7 +14,7 @@ todo: sequencer: Some heavy refactoring can be done here. Much more stuff can go
 
 <a id="unreal.IndexedCurve.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -13,7 +13,7 @@ Audio Link Blueprint Interface
 
 <a id="unreal.AudioLinkBlueprintInterface.stop_link"></a>
 
-#### stop_link
+#### stop\_link
 
 ```python
 def stop_link() -> None
@@ -24,7 +24,7 @@ Stop an audio component's sound, issue any delegates if needed
 
 <a id="unreal.AudioLinkBlueprintInterface.set_link_sound"></a>
 
-#### set_link_sound
+#### set\_link\_sound
 
 ```python
 def set_link_sound(new_sound: SoundBase) -> None
@@ -38,7 +38,7 @@ Args:
 
 <a id="unreal.AudioLinkBlueprintInterface.play_link"></a>
 
-#### play_link
+#### play\_link
 
 ```python
 def play_link(start_time: float = 0.000000) -> None
@@ -52,7 +52,7 @@ Args:
 
 <a id="unreal.AudioLinkBlueprintInterface.is_link_playing"></a>
 
-#### is_link_playing
+#### is\_link\_playing
 
 ```python
 def is_link_playing() -> bool

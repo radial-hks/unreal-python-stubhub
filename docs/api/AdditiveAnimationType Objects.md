@@ -13,19 +13,19 @@ Indicates whether an animation is additive, and what kind.
 
 <a id="unreal.AdditiveAnimationType.AAT_NONE"></a>
 
-#### AAT_NONE
+#### AAT\_NONE
 
 0: No additive.
 
 <a id="unreal.AdditiveAnimationType.AAT_LOCAL_SPACE_BASE"></a>
 
-#### AAT_LOCAL_SPACE_BASE
+#### AAT\_LOCAL\_SPACE\_BASE
 
 1: Create Additive from LocalSpace Base.
 
 <a id="unreal.AdditiveAnimationType.AAT_ROTATION_OFFSET_MESH_SPACE"></a>
 
-#### AAT_ROTATION_OFFSET_MESH_SPACE
+#### AAT\_ROTATION\_OFFSET\_MESH\_SPACE
 
 2: Create Additive from MeshSpace Rotation Only, Translation still will be LocalSpace.
 

@@ -38,7 +38,7 @@ Take Recorder Project Parameters
 
 <a id="unreal.TakeRecorderProjectParameters.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -55,7 +55,7 @@ def __init__(
 
 <a id="unreal.TakeRecorderProjectParameters.root_take_save_dir"></a>
 
-#### root_take_save_dir
+#### root\_take\_save\_dir
 
 ```python
 @property
@@ -66,7 +66,7 @@ def root_take_save_dir() -> DirectoryPath
 
 <a id="unreal.TakeRecorderProjectParameters.root_take_save_dir"></a>
 
-#### root_take_save_dir
+#### root\_take\_save\_dir
 
 ```python
 @root_take_save_dir.setter
@@ -75,7 +75,7 @@ def root_take_save_dir(value: DirectoryPath) -> None
 
 <a id="unreal.TakeRecorderProjectParameters.take_save_dir"></a>
 
-#### take_save_dir
+#### take\_save\_dir
 
 ```python
 @property
@@ -94,7 +94,7 @@ def take_save_dir() -> str
 
 <a id="unreal.TakeRecorderProjectParameters.take_save_dir"></a>
 
-#### take_save_dir
+#### take\_save\_dir
 
 ```python
 @take_save_dir.setter
@@ -103,7 +103,7 @@ def take_save_dir(value: str) -> None
 
 <a id="unreal.TakeRecorderProjectParameters.default_slate"></a>
 
-#### default_slate
+#### default\_slate
 
 ```python
 @property
@@ -114,7 +114,7 @@ def default_slate() -> str
 
 <a id="unreal.TakeRecorderProjectParameters.default_slate"></a>
 
-#### default_slate
+#### default\_slate
 
 ```python
 @default_slate.setter
@@ -123,7 +123,7 @@ def default_slate(value: str) -> None
 
 <a id="unreal.TakeRecorderProjectParameters.recording_clock_source"></a>
 
-#### recording_clock_source
+#### recording\_clock\_source
 
 ```python
 @property
@@ -134,7 +134,7 @@ def recording_clock_source() -> UpdateClockSource
 
 <a id="unreal.TakeRecorderProjectParameters.recording_clock_source"></a>
 
-#### recording_clock_source
+#### recording\_clock\_source
 
 ```python
 @recording_clock_source.setter
@@ -143,7 +143,7 @@ def recording_clock_source(value: UpdateClockSource) -> None
 
 <a id="unreal.TakeRecorderProjectParameters.start_at_current_timecode"></a>
 
-#### start_at_current_timecode
+#### start\_at\_current\_timecode
 
 ```python
 @property
@@ -154,7 +154,7 @@ def start_at_current_timecode() -> bool
 
 <a id="unreal.TakeRecorderProjectParameters.start_at_current_timecode"></a>
 
-#### start_at_current_timecode
+#### start\_at\_current\_timecode
 
 ```python
 @start_at_current_timecode.setter
@@ -163,7 +163,7 @@ def start_at_current_timecode(value: bool) -> None
 
 <a id="unreal.TakeRecorderProjectParameters.record_timecode"></a>
 
-#### record_timecode
+#### record\_timecode
 
 ```python
 @property
@@ -174,7 +174,7 @@ def record_timecode() -> bool
 
 <a id="unreal.TakeRecorderProjectParameters.record_timecode"></a>
 
-#### record_timecode
+#### record\_timecode
 
 ```python
 @record_timecode.setter
@@ -183,7 +183,7 @@ def record_timecode(value: bool) -> None
 
 <a id="unreal.TakeRecorderProjectParameters.record_sources_into_sub_sequences"></a>
 
-#### record_sources_into_sub_sequences
+#### record\_sources\_into\_sub\_sequences
 
 ```python
 @property
@@ -196,7 +196,7 @@ using the Sequencer Take ui. This can still be done via copying and pasting betw
 
 <a id="unreal.TakeRecorderProjectParameters.record_sources_into_sub_sequences"></a>
 
-#### record_sources_into_sub_sequences
+#### record\_sources\_into\_sub\_sequences
 
 ```python
 @record_sources_into_sub_sequences.setter
@@ -205,7 +205,7 @@ def record_sources_into_sub_sequences(value: bool) -> None
 
 <a id="unreal.TakeRecorderProjectParameters.record_to_possessable"></a>
 
-#### record_to_possessable
+#### record\_to\_possessable
 
 ```python
 @property
@@ -217,7 +217,7 @@ def record_to_possessable() -> bool
 
 <a id="unreal.TakeRecorderProjectParameters.record_to_possessable"></a>
 
-#### record_to_possessable
+#### record\_to\_possessable
 
 ```python
 @record_to_possessable.setter
@@ -226,7 +226,7 @@ def record_to_possessable(value: bool) -> None
 
 <a id="unreal.TakeRecorderProjectParameters.show_notifications"></a>
 
-#### show_notifications
+#### show\_notifications
 
 ```python
 @property
@@ -237,7 +237,7 @@ def show_notifications() -> bool
 
 <a id="unreal.TakeRecorderProjectParameters.show_notifications"></a>
 
-#### show_notifications
+#### show\_notifications
 
 ```python
 @show_notifications.setter

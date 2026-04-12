@@ -13,19 +13,19 @@ Tangent calculation modes
 
 <a id="unreal.DynamicMeshComponentTangentsMode.NO_TANGENTS"></a>
 
-#### NO_TANGENTS
+#### NO\_TANGENTS
 
 0: Tangents are not used/available, proceed accordingly (eg generate arbitrary orthogonal basis)
 
 <a id="unreal.DynamicMeshComponentTangentsMode.AUTO_CALCULATED"></a>
 
-#### AUTO_CALCULATED
+#### AUTO\_CALCULATED
 
 1: Tangents will be automatically calculated on demand. Note that mesh changes due to tangents calculation will *not* be broadcast via MeshChange events!
 
 <a id="unreal.DynamicMeshComponentTangentsMode.EXTERNALLY_PROVIDED"></a>
 
-#### EXTERNALLY_PROVIDED
+#### EXTERNALLY\_PROVIDED
 
 2: Tangents are externally provided via the FDynamicMesh3 AttributeSet
 

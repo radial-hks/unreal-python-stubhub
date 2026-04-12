@@ -19,8 +19,8 @@ Enum value to describe how you'd like to maintain offset
 
 <a id="unreal.ConstraintOffsetOption.OFFSET_REF_POSE"></a>
 
-#### OFFSET_REF_POSE
+#### OFFSET\_REF\_POSE
 
 1: no offset
 
-<a id="unreal.NiagaraDataInterfaceEmitterBindingMode"></a>
+<a id="unreal.EarthDebugHudFont"></a>

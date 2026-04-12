@@ -20,7 +20,7 @@ Geometry Script Debug Message
 
 <a id="unreal.GeometryScriptDebugMessage.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -33,7 +33,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptDebugMessage.message_type"></a>
 
-#### message_type
+#### message\_type
 
 ```python
 @property
@@ -44,7 +44,7 @@ def message_type() -> GeometryScriptDebugMessageType
 
 <a id="unreal.GeometryScriptDebugMessage.message_type"></a>
 
-#### message_type
+#### message\_type
 
 ```python
 @message_type.setter
@@ -53,7 +53,7 @@ def message_type(value: GeometryScriptDebugMessageType) -> None
 
 <a id="unreal.GeometryScriptDebugMessage.error_type"></a>
 
-#### error_type
+#### error\_type
 
 ```python
 @property
@@ -64,7 +64,7 @@ def error_type() -> GeometryScriptErrorType
 
 <a id="unreal.GeometryScriptDebugMessage.error_type"></a>
 
-#### error_type
+#### error\_type
 
 ```python
 @error_type.setter

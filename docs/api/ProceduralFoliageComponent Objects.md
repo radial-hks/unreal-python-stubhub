@@ -37,7 +37,7 @@ Procedural Foliage Component
 
 <a id="unreal.ProceduralFoliageComponent.foliage_spawner"></a>
 
-#### foliage_spawner
+#### foliage\_spawner
 
 ```python
 @property
@@ -48,7 +48,7 @@ def foliage_spawner() -> ProceduralFoliageSpawner
 
 <a id="unreal.ProceduralFoliageComponent.foliage_spawner"></a>
 
-#### foliage_spawner
+#### foliage\_spawner
 
 ```python
 @foliage_spawner.setter
@@ -57,7 +57,7 @@ def foliage_spawner(value: ProceduralFoliageSpawner) -> None
 
 <a id="unreal.ProceduralFoliageComponent.procedural_foliage"></a>
 
-#### procedural_foliage
+#### procedural\_foliage
 
 ```python
 @property
@@ -68,7 +68,7 @@ deprecated: 'procedural_foliage' was renamed to 'foliage_spawner'.
 
 <a id="unreal.ProceduralFoliageComponent.procedural_foliage"></a>
 
-#### procedural_foliage
+#### procedural\_foliage
 
 ```python
 @procedural_foliage.setter
@@ -77,7 +77,7 @@ def procedural_foliage(value: ProceduralFoliageSpawner) -> None
 
 <a id="unreal.ProceduralFoliageComponent.tile_overlap"></a>
 
-#### tile_overlap
+#### tile\_overlap
 
 ```python
 @property
@@ -88,7 +88,7 @@ def tile_overlap() -> float
 
 <a id="unreal.ProceduralFoliageComponent.tile_overlap"></a>
 
-#### tile_overlap
+#### tile\_overlap
 
 ```python
 @tile_overlap.setter
@@ -117,7 +117,7 @@ def overlap(value: float) -> None
 
 <a id="unreal.ProceduralFoliageComponent.allow_landscape"></a>
 
-#### allow_landscape
+#### allow\_landscape
 
 ```python
 @property
@@ -128,7 +128,7 @@ def allow_landscape() -> bool
 
 <a id="unreal.ProceduralFoliageComponent.allow_landscape"></a>
 
-#### allow_landscape
+#### allow\_landscape
 
 ```python
 @allow_landscape.setter
@@ -137,7 +137,7 @@ def allow_landscape(value: bool) -> None
 
 <a id="unreal.ProceduralFoliageComponent.allow_bsp"></a>
 
-#### allow_bsp
+#### allow\_bsp
 
 ```python
 @property
@@ -148,7 +148,7 @@ def allow_bsp() -> bool
 
 <a id="unreal.ProceduralFoliageComponent.allow_bsp"></a>
 
-#### allow_bsp
+#### allow\_bsp
 
 ```python
 @allow_bsp.setter
@@ -157,7 +157,7 @@ def allow_bsp(value: bool) -> None
 
 <a id="unreal.ProceduralFoliageComponent.allow_static_mesh"></a>
 
-#### allow_static_mesh
+#### allow\_static\_mesh
 
 ```python
 @property
@@ -168,7 +168,7 @@ def allow_static_mesh() -> bool
 
 <a id="unreal.ProceduralFoliageComponent.allow_static_mesh"></a>
 
-#### allow_static_mesh
+#### allow\_static\_mesh
 
 ```python
 @allow_static_mesh.setter
@@ -177,7 +177,7 @@ def allow_static_mesh(value: bool) -> None
 
 <a id="unreal.ProceduralFoliageComponent.allow_translucent"></a>
 
-#### allow_translucent
+#### allow\_translucent
 
 ```python
 @property
@@ -188,7 +188,7 @@ def allow_translucent() -> bool
 
 <a id="unreal.ProceduralFoliageComponent.allow_translucent"></a>
 
-#### allow_translucent
+#### allow\_translucent
 
 ```python
 @allow_translucent.setter
@@ -197,7 +197,7 @@ def allow_translucent(value: bool) -> None
 
 <a id="unreal.ProceduralFoliageComponent.allow_foliage"></a>
 
-#### allow_foliage
+#### allow\_foliage
 
 ```python
 @property
@@ -208,7 +208,7 @@ def allow_foliage() -> bool
 
 <a id="unreal.ProceduralFoliageComponent.allow_foliage"></a>
 
-#### allow_foliage
+#### allow\_foliage
 
 ```python
 @allow_foliage.setter
@@ -217,7 +217,7 @@ def allow_foliage(value: bool) -> None
 
 <a id="unreal.ProceduralFoliageComponent.show_debug_tiles"></a>
 
-#### show_debug_tiles
+#### show\_debug\_tiles
 
 ```python
 @property
@@ -228,7 +228,7 @@ def show_debug_tiles() -> bool
 
 <a id="unreal.ProceduralFoliageComponent.show_debug_tiles"></a>
 
-#### show_debug_tiles
+#### show\_debug\_tiles
 
 ```python
 @show_debug_tiles.setter

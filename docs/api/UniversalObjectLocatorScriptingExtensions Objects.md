@@ -13,7 +13,7 @@ Function library containing methods that should be hoisted onto FUniversalObject
 
 <a id="unreal.UniversalObjectLocatorScriptingExtensions.universal_object_locator_from_string"></a>
 
-#### universal_object_locator_from_string
+#### universal\_object\_locator\_from\_string
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.UniversalObjectLocatorScriptingExtensions.to_string"></a>
 
-#### to_string
+#### to\_string
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.UniversalObjectLocatorScriptingExtensions.sync_unload"></a>
 
-#### sync_unload
+#### sync\_unload
 
 ```python
 @classmethod
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.UniversalObjectLocatorScriptingExtensions.sync_load"></a>
 
-#### sync_load
+#### sync\_load
 
 ```python
 @classmethod
@@ -89,7 +89,7 @@ Returns:
 
 <a id="unreal.UniversalObjectLocatorScriptingExtensions.sync_find"></a>
 
-#### sync_find
+#### sync\_find
 
 ```python
 @classmethod
@@ -110,7 +110,7 @@ Returns:
 
 <a id="unreal.UniversalObjectLocatorScriptingExtensions.make_universal_object_locator"></a>
 
-#### make_universal_object_locator
+#### make\_universal\_object\_locator
 
 ```python
 @classmethod
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.UniversalObjectLocatorScriptingExtensions.is_empty"></a>
 
-#### is_empty
+#### is\_empty
 
 ```python
 @classmethod

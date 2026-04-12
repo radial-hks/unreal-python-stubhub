@@ -20,7 +20,7 @@ EText 3DBevel Type
 
 <a id="unreal.Text3DBevelType.HALF_CIRCLE"></a>
 
-#### HALF_CIRCLE
+#### HALF\_CIRCLE
 
 1
 
@@ -38,13 +38,13 @@ EText 3DBevel Type
 
 <a id="unreal.Text3DBevelType.ONE_STEP"></a>
 
-#### ONE_STEP
+#### ONE\_STEP
 
 4
 
 <a id="unreal.Text3DBevelType.TWO_STEPS"></a>
 
-#### TWO_STEPS
+#### TWO\_STEPS
 
 5
 
@@ -54,4 +54,4 @@ EText 3DBevel Type
 
 6
 
-<a id="unreal.Text3DMaxWidthHandling"></a>
+<a id="unreal.Text3DHorizontalTextAlignment"></a>

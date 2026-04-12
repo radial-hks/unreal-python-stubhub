@@ -142,7 +142,7 @@ Camera Shake Source Actor
 
 <a id="unreal.CameraShakeSourceActor.camera_shake_source_component"></a>
 
-#### camera_shake_source_component
+#### camera\_shake\_source\_component
 
 ```python
 @property

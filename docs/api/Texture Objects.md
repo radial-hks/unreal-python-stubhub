@@ -76,7 +76,7 @@ Texture
 
 <a id="unreal.Texture.adjust_brightness"></a>
 
-#### adjust_brightness
+#### adjust\_brightness
 
 ```python
 @property
@@ -87,7 +87,7 @@ def adjust_brightness() -> float
 
 <a id="unreal.Texture.adjust_brightness"></a>
 
-#### adjust_brightness
+#### adjust\_brightness
 
 ```python
 @adjust_brightness.setter
@@ -96,7 +96,7 @@ def adjust_brightness(value: float) -> None
 
 <a id="unreal.Texture.adjust_brightness_curve"></a>
 
-#### adjust_brightness_curve
+#### adjust\_brightness\_curve
 
 ```python
 @property
@@ -107,7 +107,7 @@ def adjust_brightness_curve() -> float
 
 <a id="unreal.Texture.adjust_brightness_curve"></a>
 
-#### adjust_brightness_curve
+#### adjust\_brightness\_curve
 
 ```python
 @adjust_brightness_curve.setter
@@ -116,7 +116,7 @@ def adjust_brightness_curve(value: float) -> None
 
 <a id="unreal.Texture.adjust_vibrance"></a>
 
-#### adjust_vibrance
+#### adjust\_vibrance
 
 ```python
 @property
@@ -127,7 +127,7 @@ def adjust_vibrance() -> float
 
 <a id="unreal.Texture.adjust_vibrance"></a>
 
-#### adjust_vibrance
+#### adjust\_vibrance
 
 ```python
 @adjust_vibrance.setter
@@ -136,7 +136,7 @@ def adjust_vibrance(value: float) -> None
 
 <a id="unreal.Texture.adjust_saturation"></a>
 
-#### adjust_saturation
+#### adjust\_saturation
 
 ```python
 @property
@@ -147,7 +147,7 @@ def adjust_saturation() -> float
 
 <a id="unreal.Texture.adjust_saturation"></a>
 
-#### adjust_saturation
+#### adjust\_saturation
 
 ```python
 @adjust_saturation.setter
@@ -156,7 +156,7 @@ def adjust_saturation(value: float) -> None
 
 <a id="unreal.Texture.adjust_rgb_curve"></a>
 
-#### adjust_rgb_curve
+#### adjust\_rgb\_curve
 
 ```python
 @property
@@ -167,7 +167,7 @@ def adjust_rgb_curve() -> float
 
 <a id="unreal.Texture.adjust_rgb_curve"></a>
 
-#### adjust_rgb_curve
+#### adjust\_rgb\_curve
 
 ```python
 @adjust_rgb_curve.setter
@@ -176,7 +176,7 @@ def adjust_rgb_curve(value: float) -> None
 
 <a id="unreal.Texture.adjust_hue"></a>
 
-#### adjust_hue
+#### adjust\_hue
 
 ```python
 @property
@@ -187,7 +187,7 @@ def adjust_hue() -> float
 
 <a id="unreal.Texture.adjust_hue"></a>
 
-#### adjust_hue
+#### adjust\_hue
 
 ```python
 @adjust_hue.setter
@@ -196,7 +196,7 @@ def adjust_hue(value: float) -> None
 
 <a id="unreal.Texture.adjust_min_alpha"></a>
 
-#### adjust_min_alpha
+#### adjust\_min\_alpha
 
 ```python
 @property
@@ -207,7 +207,7 @@ def adjust_min_alpha() -> float
 
 <a id="unreal.Texture.adjust_min_alpha"></a>
 
-#### adjust_min_alpha
+#### adjust\_min\_alpha
 
 ```python
 @adjust_min_alpha.setter
@@ -216,7 +216,7 @@ def adjust_min_alpha(value: float) -> None
 
 <a id="unreal.Texture.adjust_max_alpha"></a>
 
-#### adjust_max_alpha
+#### adjust\_max\_alpha
 
 ```python
 @property
@@ -227,7 +227,7 @@ def adjust_max_alpha() -> float
 
 <a id="unreal.Texture.adjust_max_alpha"></a>
 
-#### adjust_max_alpha
+#### adjust\_max\_alpha
 
 ```python
 @adjust_max_alpha.setter
@@ -236,7 +236,7 @@ def adjust_max_alpha(value: float) -> None
 
 <a id="unreal.Texture.compression_no_alpha"></a>
 
-#### compression_no_alpha
+#### compression\_no\_alpha
 
 ```python
 @property
@@ -247,7 +247,7 @@ def compression_no_alpha() -> bool
 
 <a id="unreal.Texture.compression_no_alpha"></a>
 
-#### compression_no_alpha
+#### compression\_no\_alpha
 
 ```python
 @compression_no_alpha.setter
@@ -256,7 +256,7 @@ def compression_no_alpha(value: bool) -> None
 
 <a id="unreal.Texture.compress_final"></a>
 
-#### compress_final
+#### compress\_final
 
 ```python
 @property
@@ -267,7 +267,7 @@ def compress_final() -> bool
 
 <a id="unreal.Texture.compress_final"></a>
 
-#### compress_final
+#### compress\_final
 
 ```python
 @compress_final.setter
@@ -276,7 +276,7 @@ def compress_final(value: bool) -> None
 
 <a id="unreal.Texture.defer_compression"></a>
 
-#### defer_compression
+#### defer\_compression
 
 ```python
 @property
@@ -287,7 +287,7 @@ def defer_compression() -> bool
 
 <a id="unreal.Texture.defer_compression"></a>
 
-#### defer_compression
+#### defer\_compression
 
 ```python
 @defer_compression.setter
@@ -296,7 +296,7 @@ def defer_compression(value: bool) -> None
 
 <a id="unreal.Texture.lossy_compression_amount"></a>
 
-#### lossy_compression_amount
+#### lossy\_compression\_amount
 
 ```python
 @property
@@ -309,7 +309,7 @@ def lossy_compression_amount() -> TextureLossyCompressionAmount
 
 <a id="unreal.Texture.lossy_compression_amount"></a>
 
-#### lossy_compression_amount
+#### lossy\_compression\_amount
 
 ```python
 @lossy_compression_amount.setter
@@ -318,7 +318,7 @@ def lossy_compression_amount(value: TextureLossyCompressionAmount) -> None
 
 <a id="unreal.Texture.oodle_texture_sdk_version"></a>
 
-#### oodle_texture_sdk_version
+#### oodle\_texture\_sdk\_version
 
 ```python
 @property
@@ -329,7 +329,7 @@ def oodle_texture_sdk_version() -> Name
 
 <a id="unreal.Texture.oodle_texture_sdk_version"></a>
 
-#### oodle_texture_sdk_version
+#### oodle\_texture\_sdk\_version
 
 ```python
 @oodle_texture_sdk_version.setter
@@ -338,7 +338,7 @@ def oodle_texture_sdk_version(value: Name) -> None
 
 <a id="unreal.Texture.max_texture_size"></a>
 
-#### max_texture_size
+#### max\_texture\_size
 
 ```python
 @property
@@ -349,7 +349,7 @@ def max_texture_size() -> int
 
 <a id="unreal.Texture.max_texture_size"></a>
 
-#### max_texture_size
+#### max\_texture\_size
 
 ```python
 @max_texture_size.setter
@@ -358,7 +358,7 @@ def max_texture_size(value: int) -> None
 
 <a id="unreal.Texture.compression_quality"></a>
 
-#### compression_quality
+#### compression\_quality
 
 ```python
 @property
@@ -369,7 +369,7 @@ def compression_quality() -> TextureCompressionQuality
 
 <a id="unreal.Texture.compression_quality"></a>
 
-#### compression_quality
+#### compression\_quality
 
 ```python
 @compression_quality.setter
@@ -378,7 +378,7 @@ def compression_quality(value: TextureCompressionQuality) -> None
 
 <a id="unreal.Texture.do_scale_mips_for_alpha_coverage"></a>
 
-#### do_scale_mips_for_alpha_coverage
+#### do\_scale\_mips\_for\_alpha\_coverage
 
 ```python
 @property
@@ -389,7 +389,7 @@ def do_scale_mips_for_alpha_coverage() -> bool
 
 <a id="unreal.Texture.do_scale_mips_for_alpha_coverage"></a>
 
-#### do_scale_mips_for_alpha_coverage
+#### do\_scale\_mips\_for\_alpha\_coverage
 
 ```python
 @do_scale_mips_for_alpha_coverage.setter
@@ -398,7 +398,7 @@ def do_scale_mips_for_alpha_coverage(value: bool) -> None
 
 <a id="unreal.Texture.alpha_coverage_thresholds"></a>
 
-#### alpha_coverage_thresholds
+#### alpha\_coverage\_thresholds
 
 ```python
 @property
@@ -409,7 +409,7 @@ def alpha_coverage_thresholds() -> Vector4
 
 <a id="unreal.Texture.alpha_coverage_thresholds"></a>
 
-#### alpha_coverage_thresholds
+#### alpha\_coverage\_thresholds
 
 ```python
 @alpha_coverage_thresholds.setter
@@ -418,7 +418,7 @@ def alpha_coverage_thresholds(value: Vector4) -> None
 
 <a id="unreal.Texture.use_new_mip_filter"></a>
 
-#### use_new_mip_filter
+#### use\_new\_mip\_filter
 
 ```python
 @property
@@ -429,7 +429,7 @@ def use_new_mip_filter() -> bool
 
 <a id="unreal.Texture.use_new_mip_filter"></a>
 
-#### use_new_mip_filter
+#### use\_new\_mip\_filter
 
 ```python
 @use_new_mip_filter.setter
@@ -438,7 +438,7 @@ def use_new_mip_filter(value: bool) -> None
 
 <a id="unreal.Texture.preserve_border"></a>
 
-#### preserve_border
+#### preserve\_border
 
 ```python
 @property
@@ -449,7 +449,7 @@ def preserve_border() -> bool
 
 <a id="unreal.Texture.preserve_border"></a>
 
-#### preserve_border
+#### preserve\_border
 
 ```python
 @preserve_border.setter
@@ -458,7 +458,7 @@ def preserve_border(value: bool) -> None
 
 <a id="unreal.Texture.flip_green_channel"></a>
 
-#### flip_green_channel
+#### flip\_green\_channel
 
 ```python
 @property
@@ -469,7 +469,7 @@ def flip_green_channel() -> bool
 
 <a id="unreal.Texture.flip_green_channel"></a>
 
-#### flip_green_channel
+#### flip\_green\_channel
 
 ```python
 @flip_green_channel.setter
@@ -478,7 +478,7 @@ def flip_green_channel(value: bool) -> None
 
 <a id="unreal.Texture.power_of_two_mode"></a>
 
-#### power_of_two_mode
+#### power\_of\_two\_mode
 
 ```python
 @property
@@ -489,7 +489,7 @@ def power_of_two_mode() -> TexturePowerOfTwoSetting
 
 <a id="unreal.Texture.power_of_two_mode"></a>
 
-#### power_of_two_mode
+#### power\_of\_two\_mode
 
 ```python
 @power_of_two_mode.setter
@@ -498,7 +498,7 @@ def power_of_two_mode(value: TexturePowerOfTwoSetting) -> None
 
 <a id="unreal.Texture.padding_color"></a>
 
-#### padding_color
+#### padding\_color
 
 ```python
 @property
@@ -509,7 +509,7 @@ def padding_color() -> Color
 
 <a id="unreal.Texture.padding_color"></a>
 
-#### padding_color
+#### padding\_color
 
 ```python
 @padding_color.setter
@@ -518,7 +518,7 @@ def padding_color(value: Color) -> None
 
 <a id="unreal.Texture.pad_with_border_color"></a>
 
-#### pad_with_border_color
+#### pad\_with\_border\_color
 
 ```python
 @property
@@ -529,7 +529,7 @@ def pad_with_border_color() -> bool
 
 <a id="unreal.Texture.pad_with_border_color"></a>
 
-#### pad_with_border_color
+#### pad\_with\_border\_color
 
 ```python
 @pad_with_border_color.setter
@@ -538,7 +538,7 @@ def pad_with_border_color(value: bool) -> None
 
 <a id="unreal.Texture.resize_during_build_x"></a>
 
-#### resize_during_build_x
+#### resize\_during\_build\_x
 
 ```python
 @property
@@ -549,7 +549,7 @@ def resize_during_build_x() -> int
 
 <a id="unreal.Texture.resize_during_build_x"></a>
 
-#### resize_during_build_x
+#### resize\_during\_build\_x
 
 ```python
 @resize_during_build_x.setter
@@ -558,7 +558,7 @@ def resize_during_build_x(value: int) -> None
 
 <a id="unreal.Texture.resize_during_build_y"></a>
 
-#### resize_during_build_y
+#### resize\_during\_build\_y
 
 ```python
 @property
@@ -569,7 +569,7 @@ def resize_during_build_y() -> int
 
 <a id="unreal.Texture.resize_during_build_y"></a>
 
-#### resize_during_build_y
+#### resize\_during\_build\_y
 
 ```python
 @resize_during_build_y.setter
@@ -578,7 +578,7 @@ def resize_during_build_y(value: int) -> None
 
 <a id="unreal.Texture.chroma_key_texture"></a>
 
-#### chroma_key_texture
+#### chroma\_key\_texture
 
 ```python
 @property
@@ -589,7 +589,7 @@ def chroma_key_texture() -> bool
 
 <a id="unreal.Texture.chroma_key_texture"></a>
 
-#### chroma_key_texture
+#### chroma\_key\_texture
 
 ```python
 @chroma_key_texture.setter
@@ -598,7 +598,7 @@ def chroma_key_texture(value: bool) -> None
 
 <a id="unreal.Texture.chroma_key_threshold"></a>
 
-#### chroma_key_threshold
+#### chroma\_key\_threshold
 
 ```python
 @property
@@ -609,7 +609,7 @@ def chroma_key_threshold() -> float
 
 <a id="unreal.Texture.chroma_key_threshold"></a>
 
-#### chroma_key_threshold
+#### chroma\_key\_threshold
 
 ```python
 @chroma_key_threshold.setter
@@ -618,7 +618,7 @@ def chroma_key_threshold(value: float) -> None
 
 <a id="unreal.Texture.chroma_key_color"></a>
 
-#### chroma_key_color
+#### chroma\_key\_color
 
 ```python
 @property
@@ -629,7 +629,7 @@ def chroma_key_color() -> Color
 
 <a id="unreal.Texture.chroma_key_color"></a>
 
-#### chroma_key_color
+#### chroma\_key\_color
 
 ```python
 @chroma_key_color.setter
@@ -638,7 +638,7 @@ def chroma_key_color(value: Color) -> None
 
 <a id="unreal.Texture.mip_gen_settings"></a>
 
-#### mip_gen_settings
+#### mip\_gen\_settings
 
 ```python
 @property
@@ -649,7 +649,7 @@ def mip_gen_settings() -> TextureMipGenSettings
 
 <a id="unreal.Texture.mip_gen_settings"></a>
 
-#### mip_gen_settings
+#### mip\_gen\_settings
 
 ```python
 @mip_gen_settings.setter
@@ -658,7 +658,7 @@ def mip_gen_settings(value: TextureMipGenSettings) -> None
 
 <a id="unreal.Texture.composite_texture"></a>
 
-#### composite_texture
+#### composite\_texture
 
 ```python
 @property
@@ -669,7 +669,7 @@ def composite_texture() -> Texture
 
 <a id="unreal.Texture.composite_texture"></a>
 
-#### composite_texture
+#### composite\_texture
 
 ```python
 @composite_texture.setter
@@ -678,7 +678,7 @@ def composite_texture(value: Texture) -> None
 
 <a id="unreal.Texture.composite_texture_mode"></a>
 
-#### composite_texture_mode
+#### composite\_texture\_mode
 
 ```python
 @property
@@ -689,7 +689,7 @@ def composite_texture_mode() -> CompositeTextureMode
 
 <a id="unreal.Texture.composite_texture_mode"></a>
 
-#### composite_texture_mode
+#### composite\_texture\_mode
 
 ```python
 @composite_texture_mode.setter
@@ -698,7 +698,7 @@ def composite_texture_mode(value: CompositeTextureMode) -> None
 
 <a id="unreal.Texture.composite_power"></a>
 
-#### composite_power
+#### composite\_power
 
 ```python
 @property
@@ -710,7 +710,7 @@ this is not a slider because the texture update would not be fast enough
 
 <a id="unreal.Texture.composite_power"></a>
 
-#### composite_power
+#### composite\_power
 
 ```python
 @composite_power.setter
@@ -719,7 +719,7 @@ def composite_power(value: float) -> None
 
 <a id="unreal.Texture.lod_bias"></a>
 
-#### lod_bias
+#### lod\_bias
 
 ```python
 @property
@@ -730,7 +730,7 @@ def lod_bias() -> int
 
 <a id="unreal.Texture.lod_bias"></a>
 
-#### lod_bias
+#### lod\_bias
 
 ```python
 @lod_bias.setter
@@ -739,7 +739,7 @@ def lod_bias(value: int) -> None
 
 <a id="unreal.Texture.compression_settings"></a>
 
-#### compression_settings
+#### compression\_settings
 
 ```python
 @property
@@ -750,7 +750,7 @@ def compression_settings() -> TextureCompressionSettings
 
 <a id="unreal.Texture.compression_settings"></a>
 
-#### compression_settings
+#### compression\_settings
 
 ```python
 @compression_settings.setter
@@ -779,7 +779,7 @@ def filter(value: TextureFilter) -> None
 
 <a id="unreal.Texture.mip_load_options"></a>
 
-#### mip_load_options
+#### mip\_load\_options
 
 ```python
 @property
@@ -790,7 +790,7 @@ def mip_load_options() -> TextureMipLoadOptions
 
 <a id="unreal.Texture.mip_load_options"></a>
 
-#### mip_load_options
+#### mip\_load\_options
 
 ```python
 @mip_load_options.setter
@@ -799,7 +799,7 @@ def mip_load_options(value: TextureMipLoadOptions) -> None
 
 <a id="unreal.Texture.cook_platform_tiling_settings"></a>
 
-#### cook_platform_tiling_settings
+#### cook\_platform\_tiling\_settings
 
 ```python
 @property
@@ -810,7 +810,7 @@ def cook_platform_tiling_settings() -> TextureCookPlatformTilingSettings
 
 <a id="unreal.Texture.cook_platform_tiling_settings"></a>
 
-#### cook_platform_tiling_settings
+#### cook\_platform\_tiling\_settings
 
 ```python
 @cook_platform_tiling_settings.setter
@@ -820,7 +820,7 @@ def cook_platform_tiling_settings(
 
 <a id="unreal.Texture.oodle_preserve_extremes"></a>
 
-#### oodle_preserve_extremes
+#### oodle\_preserve\_extremes
 
 ```python
 @property
@@ -831,7 +831,7 @@ def oodle_preserve_extremes() -> bool
 
 <a id="unreal.Texture.oodle_preserve_extremes"></a>
 
-#### oodle_preserve_extremes
+#### oodle\_preserve\_extremes
 
 ```python
 @oodle_preserve_extremes.setter
@@ -840,7 +840,7 @@ def oodle_preserve_extremes(value: bool) -> None
 
 <a id="unreal.Texture.lod_group"></a>
 
-#### lod_group
+#### lod\_group
 
 ```python
 @property
@@ -851,7 +851,7 @@ def lod_group() -> TextureGroup
 
 <a id="unreal.Texture.lod_group"></a>
 
-#### lod_group
+#### lod\_group
 
 ```python
 @lod_group.setter
@@ -901,7 +901,7 @@ def srgb(value: bool) -> None
 
 <a id="unreal.Texture.normalize_normals"></a>
 
-#### normalize_normals
+#### normalize\_normals
 
 ```python
 @property
@@ -912,7 +912,7 @@ def normalize_normals() -> bool
 
 <a id="unreal.Texture.normalize_normals"></a>
 
-#### normalize_normals
+#### normalize\_normals
 
 ```python
 @normalize_normals.setter
@@ -921,7 +921,7 @@ def normalize_normals(value: bool) -> None
 
 <a id="unreal.Texture.use_legacy_gamma"></a>
 
-#### use_legacy_gamma
+#### use\_legacy\_gamma
 
 ```python
 @property
@@ -932,7 +932,7 @@ def use_legacy_gamma() -> bool
 
 <a id="unreal.Texture.use_legacy_gamma"></a>
 
-#### use_legacy_gamma
+#### use\_legacy\_gamma
 
 ```python
 @use_legacy_gamma.setter
@@ -941,7 +941,7 @@ def use_legacy_gamma(value: bool) -> None
 
 <a id="unreal.Texture.source_color_settings"></a>
 
-#### source_color_settings
+#### source\_color\_settings
 
 ```python
 @property
@@ -952,7 +952,7 @@ def source_color_settings() -> TextureSourceColorSettings
 
 <a id="unreal.Texture.source_color_settings"></a>
 
-#### source_color_settings
+#### source\_color\_settings
 
 ```python
 @source_color_settings.setter
@@ -961,7 +961,7 @@ def source_color_settings(value: TextureSourceColorSettings) -> None
 
 <a id="unreal.Texture.virtual_texture_streaming"></a>
 
-#### virtual_texture_streaming
+#### virtual\_texture\_streaming
 
 ```python
 @property
@@ -972,7 +972,7 @@ def virtual_texture_streaming() -> bool
 
 <a id="unreal.Texture.compute_texture_source_channel_min_max"></a>
 
-#### compute_texture_source_channel_min_max
+#### compute\_texture\_source\_channel\_min\_max
 
 ```python
 def compute_texture_source_channel_min_max(
@@ -994,7 +994,7 @@ Returns:
 
 <a id="unreal.Texture.blueprint_get_texture_source_id_string"></a>
 
-#### blueprint_get_texture_source_id_string
+#### blueprint\_get\_texture\_source\_id\_string
 
 ```python
 def blueprint_get_texture_source_id_string() -> Optional[str]
@@ -1011,7 +1011,7 @@ Returns:
 
 <a id="unreal.Texture.blueprint_get_texture_source_disk_and_memory_size"></a>
 
-#### blueprint_get_texture_source_disk_and_memory_size
+#### blueprint\_get\_texture\_source\_disk\_and\_memory\_size
 
 ```python
 def blueprint_get_texture_source_disk_and_memory_size() -> Tuple[int, int]
@@ -1032,7 +1032,7 @@ Returns:
 
 <a id="unreal.Texture.blueprint_get_memory_size"></a>
 
-#### blueprint_get_memory_size
+#### blueprint\_get\_memory\_size
 
 ```python
 def blueprint_get_memory_size() -> int
@@ -1048,7 +1048,7 @@ Returns:
 
 <a id="unreal.Texture.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -1065,7 +1065,7 @@ Returns:
 
 <a id="unreal.Texture.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -1082,7 +1082,7 @@ Returns:
 
 <a id="unreal.Texture.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -1099,7 +1099,7 @@ Returns:
 
 <a id="unreal.Texture.export_to_disk"></a>
 
-#### export_to_disk
+#### export\_to\_disk
 
 ```python
 def export_to_disk(filename: str, options: ImageWriteOptions) -> None

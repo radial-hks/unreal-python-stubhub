@@ -14,7 +14,7 @@ The subsystem in charge of editor MetaSound functionality
 
 <a id="unreal.MetaSoundEditorSubsystem.set_node_location"></a>
 
-#### set_node_location
+#### set\_node\_location
 
 ```python
 def set_node_location(builder: MetaSoundBuilderBase, node: MetaSoundNodeHandle,
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.MetaSoundEditorSubsystem.set_focused_page"></a>
 
-#### set_focused_page
+#### set\_focused\_page
 
 ```python
 def set_focused_page(builder: MetaSoundBuilderBase, page_name: Name,
@@ -61,7 +61,7 @@ Returns:
 
 <a id="unreal.MetaSoundEditorSubsystem.find_or_create_graph_input_metadata"></a>
 
-#### find_or_create_graph_input_metadata
+#### find\_or\_create\_graph\_input\_metadata
 
 ```python
 def find_or_create_graph_input_metadata(
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.MetaSoundEditorSubsystem.find_or_begin_building"></a>
 
-#### find_or_begin_building
+#### find\_or\_begin\_building
 
 ```python
 def find_or_begin_building(
@@ -105,7 +105,7 @@ Returns:
 
 <a id="unreal.MetaSoundEditorSubsystem.build_to_asset"></a>
 
-#### build_to_asset
+#### build\_to\_asset
 
 ```python
 def build_to_asset(

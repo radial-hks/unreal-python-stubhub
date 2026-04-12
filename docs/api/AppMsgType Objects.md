@@ -19,43 +19,43 @@ Enumerates supported message dialog button types.
 
 <a id="unreal.AppMsgType.YES_NO"></a>
 
-#### YES_NO
+#### YES\_NO
 
 1
 
 <a id="unreal.AppMsgType.OK_CANCEL"></a>
 
-#### OK_CANCEL
+#### OK\_CANCEL
 
 2
 
 <a id="unreal.AppMsgType.YES_NO_CANCEL"></a>
 
-#### YES_NO_CANCEL
+#### YES\_NO\_CANCEL
 
 3
 
 <a id="unreal.AppMsgType.CANCEL_RETRY_CONTINUE"></a>
 
-#### CANCEL_RETRY_CONTINUE
+#### CANCEL\_RETRY\_CONTINUE
 
 4
 
 <a id="unreal.AppMsgType.YES_NO_YES_ALL_NO_ALL"></a>
 
-#### YES_NO_YES_ALL_NO_ALL
+#### YES\_NO\_YES\_ALL\_NO\_ALL
 
 5
 
 <a id="unreal.AppMsgType.YES_NO_YES_ALL_NO_ALL_CANCEL"></a>
 
-#### YES_NO_YES_ALL_NO_ALL_CANCEL
+#### YES\_NO\_YES\_ALL\_NO\_ALL\_CANCEL
 
 6
 
 <a id="unreal.AppMsgType.YES_NO_YES_ALL"></a>
 
-#### YES_NO_YES_ALL
+#### YES\_NO\_YES\_ALL
 
 7
 

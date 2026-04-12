@@ -26,7 +26,7 @@ Represents a single key mapping that is set by the player
 
 <a id="unreal.PlayerKeyMapping.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mapping_name: Name = "None",
@@ -44,7 +44,7 @@ def __init__(mapping_name: Name = "None",
 
 <a id="unreal.PlayerKeyMapping.mapping_name"></a>
 
-#### mapping_name
+#### mapping\_name
 
 ```python
 @property
@@ -55,7 +55,7 @@ def mapping_name() -> Name
 
 <a id="unreal.PlayerKeyMapping.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property
@@ -66,7 +66,7 @@ def display_name() -> Text
 
 <a id="unreal.PlayerKeyMapping.display_category"></a>
 
-#### display_category
+#### display\_category
 
 ```python
 @property
@@ -88,7 +88,7 @@ def slot() -> PlayerMappableKeySlot
 
 <a id="unreal.PlayerKeyMapping.is_dirty"></a>
 
-#### is_dirty
+#### is\_dirty
 
 ```python
 @property
@@ -99,7 +99,7 @@ def is_dirty() -> bool
 
 <a id="unreal.PlayerKeyMapping.default_key"></a>
 
-#### default_key
+#### default\_key
 
 ```python
 @property
@@ -110,7 +110,7 @@ def default_key() -> Key
 
 <a id="unreal.PlayerKeyMapping.current_key"></a>
 
-#### current_key
+#### current\_key
 
 ```python
 @property
@@ -121,7 +121,7 @@ def current_key() -> Key
 
 <a id="unreal.PlayerKeyMapping.hardware_device_id"></a>
 
-#### hardware_device_id
+#### hardware\_device\_id
 
 ```python
 @property
@@ -132,7 +132,7 @@ def hardware_device_id() -> HardwareDeviceIdentifier
 
 <a id="unreal.PlayerKeyMapping.associated_input_action"></a>
 
-#### associated_input_action
+#### associated\_input\_action
 
 ```python
 @property

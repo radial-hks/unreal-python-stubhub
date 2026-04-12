@@ -40,7 +40,7 @@ This getter allows to set manually the user parameter they want to get, and add 
 
 <a id="unreal.PCGGenericUserParameterGetSettings.property_path"></a>
 
-#### property_path
+#### property\_path
 
 ```python
 @property
@@ -51,7 +51,7 @@ def property_path() -> str
 
 <a id="unreal.PCGGenericUserParameterGetSettings.property_path"></a>
 
-#### property_path
+#### property\_path
 
 ```python
 @property_path.setter
@@ -60,7 +60,7 @@ def property_path(value: str) -> None
 
 <a id="unreal.PCGGenericUserParameterGetSettings.force_object_and_struct_extraction"></a>
 
-#### force_object_and_struct_extraction
+#### force\_object\_and\_struct\_extraction
 
 ```python
 @property
@@ -71,7 +71,7 @@ def force_object_and_struct_extraction() -> bool
 
 <a id="unreal.PCGGenericUserParameterGetSettings.force_object_and_struct_extraction"></a>
 
-#### force_object_and_struct_extraction
+#### force\_object\_and\_struct\_extraction
 
 ```python
 @force_object_and_struct_extraction.setter
@@ -80,7 +80,7 @@ def force_object_and_struct_extraction(value: bool) -> None
 
 <a id="unreal.PCGGenericUserParameterGetSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @property
@@ -91,7 +91,7 @@ def output_attribute_name() -> Name
 
 <a id="unreal.PCGGenericUserParameterGetSettings.output_attribute_name"></a>
 
-#### output_attribute_name
+#### output\_attribute\_name
 
 ```python
 @output_attribute_name.setter

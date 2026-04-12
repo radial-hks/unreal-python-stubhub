@@ -13,7 +13,7 @@ Interchange File Picker Base
 
 <a id="unreal.InterchangeFilePickerBase.scripted_file_picker_for_translator_type"></a>
 
-#### scripted_file_picker_for_translator_type
+#### scripted\_file\_picker\_for\_translator\_type
 
 ```python
 def scripted_file_picker_for_translator_type(
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.InterchangeFilePickerBase.scripted_file_picker_for_translator_asset_type"></a>
 
-#### scripted_file_picker_for_translator_asset_type
+#### scripted\_file\_picker\_for\_translator\_asset\_type
 
 ```python
 def scripted_file_picker_for_translator_asset_type(

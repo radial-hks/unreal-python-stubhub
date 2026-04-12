@@ -38,7 +38,7 @@ Mesh merging settings
 
 <a id="unreal.MeshMergingSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -75,7 +75,7 @@ def __init__(
 
 <a id="unreal.MeshMergingSettings.target_light_map_resolution"></a>
 
-#### target_light_map_resolution
+#### target\_light\_map\_resolution
 
 ```python
 @property
@@ -86,7 +86,7 @@ def target_light_map_resolution() -> int
 
 <a id="unreal.MeshMergingSettings.target_light_map_resolution"></a>
 
-#### target_light_map_resolution
+#### target\_light\_map\_resolution
 
 ```python
 @target_light_map_resolution.setter
@@ -95,7 +95,7 @@ def target_light_map_resolution(value: int) -> None
 
 <a id="unreal.MeshMergingSettings.material_settings"></a>
 
-#### material_settings
+#### material\_settings
 
 ```python
 @property
@@ -106,7 +106,7 @@ def material_settings() -> MaterialProxySettings
 
 <a id="unreal.MeshMergingSettings.material_settings"></a>
 
-#### material_settings
+#### material\_settings
 
 ```python
 @material_settings.setter
@@ -115,7 +115,7 @@ def material_settings(value: MaterialProxySettings) -> None
 
 <a id="unreal.MeshMergingSettings.lod_selection_type"></a>
 
-#### lod_selection_type
+#### lod\_selection\_type
 
 ```python
 @property
@@ -126,7 +126,7 @@ def lod_selection_type() -> MeshLODSelectionType
 
 <a id="unreal.MeshMergingSettings.lod_selection_type"></a>
 
-#### lod_selection_type
+#### lod\_selection\_type
 
 ```python
 @lod_selection_type.setter
@@ -135,7 +135,7 @@ def lod_selection_type(value: MeshLODSelectionType) -> None
 
 <a id="unreal.MeshMergingSettings.specific_lod"></a>
 
-#### specific_lod
+#### specific\_lod
 
 ```python
 @property
@@ -146,7 +146,7 @@ def specific_lod() -> int
 
 <a id="unreal.MeshMergingSettings.specific_lod"></a>
 
-#### specific_lod
+#### specific\_lod
 
 ```python
 @specific_lod.setter
@@ -155,7 +155,7 @@ def specific_lod(value: int) -> None
 
 <a id="unreal.MeshMergingSettings.generate_light_map_uv"></a>
 
-#### generate_light_map_uv
+#### generate\_light\_map\_uv
 
 ```python
 @property
@@ -166,7 +166,7 @@ def generate_light_map_uv() -> bool
 
 <a id="unreal.MeshMergingSettings.generate_light_map_uv"></a>
 
-#### generate_light_map_uv
+#### generate\_light\_map\_uv
 
 ```python
 @generate_light_map_uv.setter
@@ -175,7 +175,7 @@ def generate_light_map_uv(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.computed_light_map_resolution"></a>
 
-#### computed_light_map_resolution
+#### computed\_light\_map\_resolution
 
 ```python
 @property
@@ -186,7 +186,7 @@ def computed_light_map_resolution() -> bool
 
 <a id="unreal.MeshMergingSettings.computed_light_map_resolution"></a>
 
-#### computed_light_map_resolution
+#### computed\_light\_map\_resolution
 
 ```python
 @computed_light_map_resolution.setter
@@ -195,7 +195,7 @@ def computed_light_map_resolution(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.pivot_point_at_zero"></a>
 
-#### pivot_point_at_zero
+#### pivot\_point\_at\_zero
 
 ```python
 @property
@@ -206,7 +206,7 @@ def pivot_point_at_zero() -> bool
 
 <a id="unreal.MeshMergingSettings.pivot_point_at_zero"></a>
 
-#### pivot_point_at_zero
+#### pivot\_point\_at\_zero
 
 ```python
 @pivot_point_at_zero.setter
@@ -215,7 +215,7 @@ def pivot_point_at_zero(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.merge_physics_data"></a>
 
-#### merge_physics_data
+#### merge\_physics\_data
 
 ```python
 @property
@@ -226,7 +226,7 @@ def merge_physics_data() -> bool
 
 <a id="unreal.MeshMergingSettings.merge_physics_data"></a>
 
-#### merge_physics_data
+#### merge\_physics\_data
 
 ```python
 @merge_physics_data.setter
@@ -235,7 +235,7 @@ def merge_physics_data(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.merge_mesh_sockets"></a>
 
-#### merge_mesh_sockets
+#### merge\_mesh\_sockets
 
 ```python
 @property
@@ -246,7 +246,7 @@ def merge_mesh_sockets() -> bool
 
 <a id="unreal.MeshMergingSettings.merge_mesh_sockets"></a>
 
-#### merge_mesh_sockets
+#### merge\_mesh\_sockets
 
 ```python
 @merge_mesh_sockets.setter
@@ -255,7 +255,7 @@ def merge_mesh_sockets(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.merge_materials"></a>
 
-#### merge_materials
+#### merge\_materials
 
 ```python
 @property
@@ -266,7 +266,7 @@ def merge_materials() -> bool
 
 <a id="unreal.MeshMergingSettings.merge_materials"></a>
 
-#### merge_materials
+#### merge\_materials
 
 ```python
 @merge_materials.setter
@@ -275,7 +275,7 @@ def merge_materials(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.bake_vertex_data_to_mesh"></a>
 
-#### bake_vertex_data_to_mesh
+#### bake\_vertex\_data\_to\_mesh
 
 ```python
 @property
@@ -286,7 +286,7 @@ def bake_vertex_data_to_mesh() -> bool
 
 <a id="unreal.MeshMergingSettings.bake_vertex_data_to_mesh"></a>
 
-#### bake_vertex_data_to_mesh
+#### bake\_vertex\_data\_to\_mesh
 
 ```python
 @bake_vertex_data_to_mesh.setter
@@ -295,7 +295,7 @@ def bake_vertex_data_to_mesh(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.use_vertex_data_for_baking_material"></a>
 
-#### use_vertex_data_for_baking_material
+#### use\_vertex\_data\_for\_baking\_material
 
 ```python
 @property
@@ -306,7 +306,7 @@ def use_vertex_data_for_baking_material() -> bool
 
 <a id="unreal.MeshMergingSettings.use_vertex_data_for_baking_material"></a>
 
-#### use_vertex_data_for_baking_material
+#### use\_vertex\_data\_for\_baking\_material
 
 ```python
 @use_vertex_data_for_baking_material.setter
@@ -315,7 +315,7 @@ def use_vertex_data_for_baking_material(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.use_texture_binning"></a>
 
-#### use_texture_binning
+#### use\_texture\_binning
 
 ```python
 @property
@@ -326,7 +326,7 @@ def use_texture_binning() -> bool
 
 <a id="unreal.MeshMergingSettings.use_texture_binning"></a>
 
-#### use_texture_binning
+#### use\_texture\_binning
 
 ```python
 @use_texture_binning.setter
@@ -335,7 +335,7 @@ def use_texture_binning(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.use_landscape_culling"></a>
 
-#### use_landscape_culling
+#### use\_landscape\_culling
 
 ```python
 @property
@@ -346,7 +346,7 @@ def use_landscape_culling() -> bool
 
 <a id="unreal.MeshMergingSettings.use_landscape_culling"></a>
 
-#### use_landscape_culling
+#### use\_landscape\_culling
 
 ```python
 @use_landscape_culling.setter
@@ -355,7 +355,7 @@ def use_landscape_culling(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.include_imposters"></a>
 
-#### include_imposters
+#### include\_imposters
 
 ```python
 @property
@@ -366,7 +366,7 @@ def include_imposters() -> bool
 
 <a id="unreal.MeshMergingSettings.include_imposters"></a>
 
-#### include_imposters
+#### include\_imposters
 
 ```python
 @include_imposters.setter
@@ -375,7 +375,7 @@ def include_imposters(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.support_ray_tracing"></a>
 
-#### support_ray_tracing
+#### support\_ray\_tracing
 
 ```python
 @property
@@ -386,7 +386,7 @@ def support_ray_tracing() -> bool
 
 <a id="unreal.MeshMergingSettings.support_ray_tracing"></a>
 
-#### support_ray_tracing
+#### support\_ray\_tracing
 
 ```python
 @support_ray_tracing.setter
@@ -395,7 +395,7 @@ def support_ray_tracing(value: bool) -> None
 
 <a id="unreal.MeshMergingSettings.nanite_settings"></a>
 
-#### nanite_settings
+#### nanite\_settings
 
 ```python
 @property
@@ -406,7 +406,7 @@ def nanite_settings() -> MeshNaniteSettings
 
 <a id="unreal.MeshMergingSettings.nanite_settings"></a>
 
-#### nanite_settings
+#### nanite\_settings
 
 ```python
 @nanite_settings.setter

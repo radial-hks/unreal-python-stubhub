@@ -61,7 +61,7 @@ def debug(value: bool) -> None
 
 <a id="unreal.PCGSettingsInterface.debug_settings"></a>
 
-#### debug_settings
+#### debug\_settings
 
 ```python
 @property
@@ -72,7 +72,7 @@ def debug_settings() -> PCGDebugVisualizationSettings
 
 <a id="unreal.PCGSettingsInterface.debug_settings"></a>
 
-#### debug_settings
+#### debug\_settings
 
 ```python
 @debug_settings.setter
@@ -81,7 +81,7 @@ def debug_settings(value: PCGDebugVisualizationSettings) -> None
 
 <a id="unreal.PCGSettingsInterface.break_debugger"></a>
 
-#### break_debugger
+#### break\_debugger
 
 ```python
 @property
@@ -92,7 +92,7 @@ def break_debugger() -> bool
 
 <a id="unreal.PCGSettingsInterface.break_debugger"></a>
 
-#### break_debugger
+#### break\_debugger
 
 ```python
 @break_debugger.setter

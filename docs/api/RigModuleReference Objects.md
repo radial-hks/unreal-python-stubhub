@@ -19,7 +19,7 @@ Rig Module Reference
 
 <a id="unreal.RigModuleReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

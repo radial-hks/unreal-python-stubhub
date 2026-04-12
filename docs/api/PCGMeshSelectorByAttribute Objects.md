@@ -21,7 +21,7 @@ PCGMesh Selector by Attribute
 
 <a id="unreal.PCGMeshSelectorByAttribute.attribute_name"></a>
 
-#### attribute_name
+#### attribute\_name
 
 ```python
 @property
@@ -32,7 +32,7 @@ def attribute_name() -> Name
 
 <a id="unreal.PCGMeshSelectorByAttribute.attribute_name"></a>
 
-#### attribute_name
+#### attribute\_name
 
 ```python
 @attribute_name.setter
@@ -41,7 +41,7 @@ def attribute_name(value: Name) -> None
 
 <a id="unreal.PCGMeshSelectorByAttribute.use_attribute_material_overrides"></a>
 
-#### use_attribute_material_overrides
+#### use\_attribute\_material\_overrides
 
 ```python
 @property
@@ -52,7 +52,7 @@ def use_attribute_material_overrides() -> bool
 
 <a id="unreal.PCGMeshSelectorByAttribute.use_attribute_material_overrides"></a>
 
-#### use_attribute_material_overrides
+#### use\_attribute\_material\_overrides
 
 ```python
 @use_attribute_material_overrides.setter
@@ -61,7 +61,7 @@ def use_attribute_material_overrides(value: bool) -> None
 
 <a id="unreal.PCGMeshSelectorByAttribute.material_override_attributes"></a>
 
-#### material_override_attributes
+#### material\_override\_attributes
 
 ```python
 @property
@@ -72,7 +72,7 @@ def material_override_attributes() -> Array[Name]
 
 <a id="unreal.PCGMeshSelectorByAttribute.material_override_attributes"></a>
 
-#### material_override_attributes
+#### material\_override\_attributes
 
 ```python
 @material_override_attributes.setter

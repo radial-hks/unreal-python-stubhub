@@ -42,7 +42,7 @@ def texture(value: Texture) -> None
 
 <a id="unreal.MaterialExpressionTextureBase.sampler_type"></a>
 
-#### sampler_type
+#### sampler\_type
 
 ```python
 @property
@@ -53,7 +53,7 @@ def sampler_type() -> MaterialSamplerType
 
 <a id="unreal.MaterialExpressionTextureBase.sampler_type"></a>
 
-#### sampler_type
+#### sampler\_type
 
 ```python
 @sampler_type.setter

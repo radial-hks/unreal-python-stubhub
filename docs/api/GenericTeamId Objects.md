@@ -17,7 +17,7 @@ Generic Team Id
 
 <a id="unreal.GenericTeamId.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(team_id: int = 0) -> None
@@ -25,7 +25,7 @@ def __init__(team_id: int = 0) -> None
 
 <a id="unreal.GenericTeamId.team_id"></a>
 
-#### team_id
+#### team\_id
 
 ```python
 @property
@@ -36,7 +36,7 @@ def team_id() -> int
 
 <a id="unreal.GenericTeamId.team_id"></a>
 
-#### team_id
+#### team\_id
 
 ```python
 @team_id.setter

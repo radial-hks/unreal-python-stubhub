@@ -14,7 +14,7 @@ Meta Sound Builder Node Output Handle
 
 <a id="unreal.MetaSoundBuilderNodeOutputHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -29,7 +29,7 @@ IKFoot Pelvis Pull Down Solver
 
 <a id="unreal.IKFootPelvisPullDownSolver.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

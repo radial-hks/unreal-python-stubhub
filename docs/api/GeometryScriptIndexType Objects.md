@@ -43,13 +43,13 @@ equality but this is potentially confusing if users expect that different lists 
 
 <a id="unreal.GeometryScriptIndexType.MATERIAL_ID"></a>
 
-#### MATERIAL_ID
+#### MATERIAL\_ID
 
 4
 
 <a id="unreal.GeometryScriptIndexType.POLYGROUP_ID"></a>
 
-#### POLYGROUP_ID
+#### POLYGROUP\_ID
 
 5
 

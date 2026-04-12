@@ -19,7 +19,7 @@ Geometry Script Weld Edges Options
 
 <a id="unreal.GeometryScriptWeldEdgesOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tolerance: float = 0.000000,
@@ -48,7 +48,7 @@ def tolerance(value: float) -> None
 
 <a id="unreal.GeometryScriptWeldEdgesOptions.only_unique_pairs"></a>
 
-#### only_unique_pairs
+#### only\_unique\_pairs
 
 ```python
 @property
@@ -59,7 +59,7 @@ def only_unique_pairs() -> bool
 
 <a id="unreal.GeometryScriptWeldEdgesOptions.only_unique_pairs"></a>
 
-#### only_unique_pairs
+#### only\_unique\_pairs
 
 ```python
 @only_unique_pairs.setter

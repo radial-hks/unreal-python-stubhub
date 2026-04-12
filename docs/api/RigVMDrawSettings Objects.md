@@ -26,14 +26,14 @@ ERig VMDraw Settings
 
 <a id="unreal.RigVMDrawSettings.LINE_STRIP"></a>
 
-#### LINE_STRIP
+#### LINE\_STRIP
 
 2
 
 <a id="unreal.RigVMDrawSettings.DYNAMIC_MESH"></a>
 
-#### DYNAMIC_MESH
+#### DYNAMIC\_MESH
 
 3
 
-<a id="unreal.MediaIOTransportType"></a>
+<a id="unreal.CesiumEncodedMetadataType"></a>

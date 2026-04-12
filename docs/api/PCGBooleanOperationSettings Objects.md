@@ -37,7 +37,7 @@ Do a boolean operation between dynamic meshes.
 
 <a id="unreal.PCGBooleanOperationSettings.boolean_operation"></a>
 
-#### boolean_operation
+#### boolean\_operation
 
 ```python
 @property
@@ -48,7 +48,7 @@ def boolean_operation() -> GeometryScriptBooleanOperation
 
 <a id="unreal.PCGBooleanOperationSettings.boolean_operation"></a>
 
-#### boolean_operation
+#### boolean\_operation
 
 ```python
 @boolean_operation.setter
@@ -57,7 +57,7 @@ def boolean_operation(value: GeometryScriptBooleanOperation) -> None
 
 <a id="unreal.PCGBooleanOperationSettings.boolean_operation_options"></a>
 
-#### boolean_operation_options
+#### boolean\_operation\_options
 
 ```python
 @property
@@ -68,7 +68,7 @@ def boolean_operation_options() -> GeometryScriptMeshBooleanOptions
 
 <a id="unreal.PCGBooleanOperationSettings.boolean_operation_options"></a>
 
-#### boolean_operation_options
+#### boolean\_operation\_options
 
 ```python
 @boolean_operation_options.setter
@@ -77,7 +77,7 @@ def boolean_operation_options(value: GeometryScriptMeshBooleanOptions) -> None
 
 <a id="unreal.PCGBooleanOperationSettings.tag_inheritance_mode"></a>
 
-#### tag_inheritance_mode
+#### tag\_inheritance\_mode
 
 ```python
 @property
@@ -88,7 +88,7 @@ def tag_inheritance_mode() -> PCGBooleanOperationTagInheritanceMode
 
 <a id="unreal.PCGBooleanOperationSettings.tag_inheritance_mode"></a>
 
-#### tag_inheritance_mode
+#### tag\_inheritance\_mode
 
 ```python
 @tag_inheritance_mode.setter

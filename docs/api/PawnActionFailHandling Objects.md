@@ -13,13 +13,13 @@ EPawn Action Fail Handling
 
 <a id="unreal.PawnActionFailHandling.REQUIRE_SUCCESS"></a>
 
-#### REQUIRE_SUCCESS
+#### REQUIRE\_SUCCESS
 
 0
 
 <a id="unreal.PawnActionFailHandling.IGNORE_FAILURE"></a>
 
-#### IGNORE_FAILURE
+#### IGNORE\_FAILURE
 
 1
 

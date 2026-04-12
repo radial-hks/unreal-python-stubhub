@@ -150,7 +150,7 @@ A light component which emits light from a single point equally in all direction
 
 <a id="unreal.PointLightComponent.use_inverse_squared_falloff"></a>
 
-#### use_inverse_squared_falloff
+#### use\_inverse\_squared\_falloff
 
 ```python
 @property
@@ -164,7 +164,7 @@ When disabled, the light's Intensity is a brightness scale.
 
 <a id="unreal.PointLightComponent.light_falloff_exponent"></a>
 
-#### light_falloff_exponent
+#### light\_falloff\_exponent
 
 ```python
 @property
@@ -177,7 +177,7 @@ With large exponents, the light has contribution to only a small area of its inf
 
 <a id="unreal.PointLightComponent.source_radius"></a>
 
-#### source_radius
+#### source\_radius
 
 ```python
 @property
@@ -189,7 +189,7 @@ Note that light sources shapes which intersect shadow casting geometry can cause
 
 <a id="unreal.PointLightComponent.soft_source_radius"></a>
 
-#### soft_source_radius
+#### soft\_source\_radius
 
 ```python
 @property
@@ -201,7 +201,7 @@ Note that light sources shapes which intersect shadow casting geometry can cause
 
 <a id="unreal.PointLightComponent.source_length"></a>
 
-#### source_length
+#### source\_length
 
 ```python
 @property
@@ -213,7 +213,7 @@ Note that light sources shapes which intersect shadow casting geometry can cause
 
 <a id="unreal.PointLightComponent.set_use_inverse_squared_falloff"></a>
 
-#### set_use_inverse_squared_falloff
+#### set\_use\_inverse\_squared\_falloff
 
 ```python
 def set_use_inverse_squared_falloff(new_value: bool) -> None
@@ -227,7 +227,7 @@ Args:
 
 <a id="unreal.PointLightComponent.set_source_radius"></a>
 
-#### set_source_radius
+#### set\_source\_radius
 
 ```python
 def set_source_radius(new_value: float) -> None
@@ -241,7 +241,7 @@ Args:
 
 <a id="unreal.PointLightComponent.set_source_length"></a>
 
-#### set_source_length
+#### set\_source\_length
 
 ```python
 def set_source_length(new_value: float) -> None
@@ -255,7 +255,7 @@ Args:
 
 <a id="unreal.PointLightComponent.set_soft_source_radius"></a>
 
-#### set_soft_source_radius
+#### set\_soft\_source\_radius
 
 ```python
 def set_soft_source_radius(new_value: float) -> None
@@ -269,7 +269,7 @@ Args:
 
 <a id="unreal.PointLightComponent.set_light_falloff_exponent"></a>
 
-#### set_light_falloff_exponent
+#### set\_light\_falloff\_exponent
 
 ```python
 def set_light_falloff_exponent(new_light_falloff_exponent: float) -> None
@@ -283,7 +283,7 @@ Args:
 
 <a id="unreal.PointLightComponent.set_inverse_exposure_blend"></a>
 
-#### set_inverse_exposure_blend
+#### set\_inverse\_exposure\_blend
 
 ```python
 def set_inverse_exposure_blend(new_inverse_exposure_blend: float) -> None

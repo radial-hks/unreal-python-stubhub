@@ -13,13 +13,13 @@ EBrush Type
 
 <a id="unreal.BrushType.BRUSH_ADD"></a>
 
-#### BRUSH_ADD
+#### BRUSH\_ADD
 
 1: Add to world.
 
 <a id="unreal.BrushType.BRUSH_SUBTRACT"></a>
 
-#### BRUSH_SUBTRACT
+#### BRUSH\_SUBTRACT
 
 2: Subtract from world.
 

@@ -19,7 +19,7 @@ EWindow Title Bar Mode
 
 <a id="unreal.WindowTitleBarMode.VERTICAL_BOX"></a>
 
-#### VERTICAL_BOX
+#### VERTICAL\_BOX
 
 1
 

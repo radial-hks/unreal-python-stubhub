@@ -14,19 +14,19 @@ EDataflow Transfer Node Falloff
 
 <a id="unreal.DataflowTransferNodeFalloff.DATAFLOW_TRANSFER_SQUARED"></a>
 
-#### DATAFLOW_TRANSFER_SQUARED
+#### DATAFLOW\_TRANSFER\_SQUARED
 
 0: Squared falloff based on distance from triangle
 
 <a id="unreal.DataflowTransferNodeFalloff.DATAFLOW_TRANSFER_LINEAR"></a>
 
-#### DATAFLOW_TRANSFER_LINEAR
+#### DATAFLOW\_TRANSFER\_LINEAR
 
 1: Linear falloff based on distance from triangle
 
 <a id="unreal.DataflowTransferNodeFalloff.DATAFLOW_TRANSFER_NONE"></a>
 
-#### DATAFLOW_TRANSFER_NONE
+#### DATAFLOW\_TRANSFER\_NONE
 
 2: No distance falloff
 

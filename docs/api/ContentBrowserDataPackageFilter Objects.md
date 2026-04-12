@@ -23,7 +23,7 @@ note: This will typically limit your query to returning assets.
 
 <a id="unreal.ContentBrowserDataPackageFilter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(package_names_to_include: Array[Name] = [],
@@ -36,7 +36,7 @@ def __init__(package_names_to_include: Array[Name] = [],
 
 <a id="unreal.ContentBrowserDataPackageFilter.package_names_to_include"></a>
 
-#### package_names_to_include
+#### package\_names\_to\_include
 
 ```python
 @property
@@ -47,7 +47,7 @@ def package_names_to_include() -> Array[Name]
 
 <a id="unreal.ContentBrowserDataPackageFilter.package_names_to_include"></a>
 
-#### package_names_to_include
+#### package\_names\_to\_include
 
 ```python
 @package_names_to_include.setter
@@ -56,7 +56,7 @@ def package_names_to_include(value: Array[Name]) -> None
 
 <a id="unreal.ContentBrowserDataPackageFilter.package_names_to_exclude"></a>
 
-#### package_names_to_exclude
+#### package\_names\_to\_exclude
 
 ```python
 @property
@@ -67,7 +67,7 @@ def package_names_to_exclude() -> Array[Name]
 
 <a id="unreal.ContentBrowserDataPackageFilter.package_names_to_exclude"></a>
 
-#### package_names_to_exclude
+#### package\_names\_to\_exclude
 
 ```python
 @package_names_to_exclude.setter
@@ -76,7 +76,7 @@ def package_names_to_exclude(value: Array[Name]) -> None
 
 <a id="unreal.ContentBrowserDataPackageFilter.package_paths_to_include"></a>
 
-#### package_paths_to_include
+#### package\_paths\_to\_include
 
 ```python
 @property
@@ -87,7 +87,7 @@ def package_paths_to_include() -> Array[Name]
 
 <a id="unreal.ContentBrowserDataPackageFilter.package_paths_to_include"></a>
 
-#### package_paths_to_include
+#### package\_paths\_to\_include
 
 ```python
 @package_paths_to_include.setter
@@ -96,7 +96,7 @@ def package_paths_to_include(value: Array[Name]) -> None
 
 <a id="unreal.ContentBrowserDataPackageFilter.package_paths_to_exclude"></a>
 
-#### package_paths_to_exclude
+#### package\_paths\_to\_exclude
 
 ```python
 @property
@@ -107,7 +107,7 @@ def package_paths_to_exclude() -> Array[Name]
 
 <a id="unreal.ContentBrowserDataPackageFilter.package_paths_to_exclude"></a>
 
-#### package_paths_to_exclude
+#### package\_paths\_to\_exclude
 
 ```python
 @package_paths_to_exclude.setter
@@ -116,7 +116,7 @@ def package_paths_to_exclude(value: Array[Name]) -> None
 
 <a id="unreal.ContentBrowserDataPackageFilter.recursive_package_paths_to_include"></a>
 
-#### recursive_package_paths_to_include
+#### recursive\_package\_paths\_to\_include
 
 ```python
 @property
@@ -127,7 +127,7 @@ def recursive_package_paths_to_include() -> bool
 
 <a id="unreal.ContentBrowserDataPackageFilter.recursive_package_paths_to_include"></a>
 
-#### recursive_package_paths_to_include
+#### recursive\_package\_paths\_to\_include
 
 ```python
 @recursive_package_paths_to_include.setter
@@ -136,7 +136,7 @@ def recursive_package_paths_to_include(value: bool) -> None
 
 <a id="unreal.ContentBrowserDataPackageFilter.recursive_package_paths_to_exclude"></a>
 
-#### recursive_package_paths_to_exclude
+#### recursive\_package\_paths\_to\_exclude
 
 ```python
 @property
@@ -147,7 +147,7 @@ def recursive_package_paths_to_exclude() -> bool
 
 <a id="unreal.ContentBrowserDataPackageFilter.recursive_package_paths_to_exclude"></a>
 
-#### recursive_package_paths_to_exclude
+#### recursive\_package\_paths\_to\_exclude
 
 ```python
 @recursive_package_paths_to_exclude.setter

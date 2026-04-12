@@ -13,13 +13,13 @@ Specifies which shader generated offsets should included in the position (displa
 
 <a id="unreal.PositionIncludedOffsets.INCLUDE_OFFSETS"></a>
 
-#### INCLUDE_OFFSETS
+#### INCLUDE\_OFFSETS
 
 0: Position with all material shader offsets applied
 
 <a id="unreal.PositionIncludedOffsets.EXCLUDE_OFFSETS"></a>
 
-#### EXCLUDE_OFFSETS
+#### EXCLUDE\_OFFSETS
 
 1: Position with no material shader offsets applied
 

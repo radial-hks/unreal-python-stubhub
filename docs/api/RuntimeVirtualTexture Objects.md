@@ -30,7 +30,7 @@ Runtime virtual texture UObject
 
 <a id="unreal.RuntimeVirtualTexture.tile_count"></a>
 
-#### tile_count
+#### tile\_count
 
 ```python
 @property
@@ -42,7 +42,7 @@ This is applied to the largest axis in world space and the size for any shorter 
 
 <a id="unreal.RuntimeVirtualTexture.tile_size"></a>
 
-#### tile_size
+#### tile\_size
 
 ```python
 @property
@@ -53,7 +53,7 @@ def tile_size() -> int
 
 <a id="unreal.RuntimeVirtualTexture.tile_border_size"></a>
 
-#### tile_border_size
+#### tile\_border\_size
 
 ```python
 @property
@@ -64,7 +64,7 @@ def tile_border_size() -> int
 
 <a id="unreal.RuntimeVirtualTexture.material_type"></a>
 
-#### material_type
+#### material\_type
 
 ```python
 @property
@@ -75,7 +75,7 @@ def material_type() -> RuntimeVirtualTextureMaterialType
 
 <a id="unreal.RuntimeVirtualTexture.compress_textures"></a>
 
-#### compress_textures
+#### compress\_textures
 
 ```python
 @property
@@ -86,7 +86,7 @@ def compress_textures() -> bool
 
 <a id="unreal.RuntimeVirtualTexture.use_low_quality_compression"></a>
 
-#### use_low_quality_compression
+#### use\_low\_quality\_compression
 
 ```python
 @property
@@ -97,7 +97,7 @@ def use_low_quality_compression() -> bool
 
 <a id="unreal.RuntimeVirtualTexture.lod_group"></a>
 
-#### lod_group
+#### lod\_group
 
 ```python
 @property
@@ -108,7 +108,7 @@ def lod_group() -> TextureGroup
 
 <a id="unreal.RuntimeVirtualTexture.lod_group"></a>
 
-#### lod_group
+#### lod\_group
 
 ```python
 @lod_group.setter
@@ -117,7 +117,7 @@ def lod_group(value: TextureGroup) -> None
 
 <a id="unreal.RuntimeVirtualTexture.get_size"></a>
 
-#### get_size
+#### get\_size
 
 ```python
 def get_size() -> int
@@ -131,7 +131,7 @@ Returns:
 
 <a id="unreal.RuntimeVirtualTexture.get_page_table_size"></a>
 
-#### get_page_table_size
+#### get\_page\_table\_size
 
 ```python
 def get_page_table_size() -> int

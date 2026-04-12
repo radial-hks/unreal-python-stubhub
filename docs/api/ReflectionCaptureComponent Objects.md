@@ -50,7 +50,7 @@ class ReflectionCaptureComponent(SceneComponent)
 
 <a id="unreal.ReflectionCaptureComponent.reflection_source_type"></a>
 
-#### reflection_source_type
+#### reflection\_source\_type
 
 ```python
 @property
@@ -72,7 +72,7 @@ def cubemap() -> TextureCube
 
 <a id="unreal.ReflectionCaptureComponent.source_cubemap_angle"></a>
 
-#### source_cubemap_angle
+#### source\_cubemap\_angle
 
 ```python
 @property
@@ -94,7 +94,7 @@ def brightness() -> float
 
 <a id="unreal.ReflectionCaptureComponent.capture_offset"></a>
 
-#### capture_offset
+#### capture\_offset
 
 ```python
 @property
@@ -105,7 +105,7 @@ def capture_offset() -> Vector
 
 <a id="unreal.ReflectionCaptureComponent.capture_offset"></a>
 
-#### capture_offset
+#### capture\_offset
 
 ```python
 @capture_offset.setter

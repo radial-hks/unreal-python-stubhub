@@ -20,7 +20,7 @@ PCGWeighted by Category Entry List
 
 <a id="unreal.PCGWeightedByCategoryEntryList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.PCGWeightedByCategoryEntryList.category_entry"></a>
 
-#### category_entry
+#### category\_entry
 
 ```python
 @property
@@ -43,7 +43,7 @@ def category_entry() -> str
 
 <a id="unreal.PCGWeightedByCategoryEntryList.category_entry"></a>
 
-#### category_entry
+#### category\_entry
 
 ```python
 @category_entry.setter
@@ -52,7 +52,7 @@ def category_entry(value: str) -> None
 
 <a id="unreal.PCGWeightedByCategoryEntryList.is_default"></a>
 
-#### is_default
+#### is\_default
 
 ```python
 @property
@@ -63,7 +63,7 @@ def is_default() -> bool
 
 <a id="unreal.PCGWeightedByCategoryEntryList.is_default"></a>
 
-#### is_default
+#### is\_default
 
 ```python
 @is_default.setter
@@ -72,7 +72,7 @@ def is_default(value: bool) -> None
 
 <a id="unreal.PCGWeightedByCategoryEntryList.weighted_mesh_entries"></a>
 
-#### weighted_mesh_entries
+#### weighted\_mesh\_entries
 
 ```python
 @property
@@ -83,7 +83,7 @@ def weighted_mesh_entries() -> Array[PCGMeshSelectorWeightedEntry]
 
 <a id="unreal.PCGWeightedByCategoryEntryList.weighted_mesh_entries"></a>
 
-#### weighted_mesh_entries
+#### weighted\_mesh\_entries
 
 ```python
 @weighted_mesh_entries.setter

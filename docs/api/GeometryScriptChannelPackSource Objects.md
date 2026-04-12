@@ -21,7 +21,7 @@ Geometry Script Channel Pack Source
 
 <a id="unreal.GeometryScriptChannelPackSource.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(texture: Texture2D = None,
@@ -54,7 +54,7 @@ def texture(value: Texture2D) -> None
 
 <a id="unreal.GeometryScriptChannelPackSource.read_gamma_space"></a>
 
-#### read_gamma_space
+#### read\_gamma\_space
 
 ```python
 @property
@@ -65,7 +65,7 @@ def read_gamma_space() -> GeometryScriptReadGammaSpace
 
 <a id="unreal.GeometryScriptChannelPackSource.read_gamma_space"></a>
 
-#### read_gamma_space
+#### read\_gamma\_space
 
 ```python
 @read_gamma_space.setter
@@ -94,7 +94,7 @@ def channel(value: GeometryScriptRGBAChannel) -> None
 
 <a id="unreal.GeometryScriptChannelPackSource.default_value"></a>
 
-#### default_value
+#### default\_value
 
 ```python
 @property
@@ -105,7 +105,7 @@ def default_value() -> float
 
 <a id="unreal.GeometryScriptChannelPackSource.default_value"></a>
 
-#### default_value
+#### default\_value
 
 ```python
 @default_value.setter

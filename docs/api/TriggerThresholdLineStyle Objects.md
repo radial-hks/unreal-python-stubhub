@@ -18,7 +18,7 @@ Represents the appearance of a trigger threshold line
 
 <a id="unreal.TriggerThresholdLineStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -28,7 +28,7 @@ def __init__(
 
 <a id="unreal.TriggerThresholdLineStyle.line_color"></a>
 
-#### line_color
+#### line\_color
 
 ```python
 @property
@@ -39,7 +39,7 @@ def line_color() -> LinearColor
 
 <a id="unreal.TriggerThresholdLineStyle.line_color"></a>
 
-#### line_color
+#### line\_color
 
 ```python
 @line_color.setter

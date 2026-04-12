@@ -151,7 +151,7 @@ Allows applying selected AreaClass to navmesh, using Volume's shape
 
 <a id="unreal.NavModifierVolume.area_class"></a>
 
-#### area_class
+#### area\_class
 
 ```python
 @property
@@ -162,7 +162,7 @@ def area_class() -> Class
 
 <a id="unreal.NavModifierVolume.area_class_to_replace"></a>
 
-#### area_class_to_replace
+#### area\_class\_to\_replace
 
 ```python
 @property
@@ -173,7 +173,7 @@ def area_class_to_replace() -> Class
 
 <a id="unreal.NavModifierVolume.set_area_class_to_replace"></a>
 
-#### set_area_class_to_replace
+#### set\_area\_class\_to\_replace
 
 ```python
 def set_area_class_to_replace(new_area_class_to_replace: Class = None) -> None
@@ -187,7 +187,7 @@ Args:
 
 <a id="unreal.NavModifierVolume.set_area_class"></a>
 
-#### set_area_class
+#### set\_area\_class
 
 ```python
 def set_area_class(new_area_class: Class = None) -> None

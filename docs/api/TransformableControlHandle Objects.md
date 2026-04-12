@@ -20,7 +20,7 @@ UTransformableControlHandle
 
 <a id="unreal.TransformableControlHandle.control_rig"></a>
 
-#### control_rig
+#### control\_rig
 
 ```python
 @property
@@ -31,7 +31,7 @@ def control_rig() -> ControlRig
 
 <a id="unreal.TransformableControlHandle.control_name"></a>
 
-#### control_name
+#### control\_name
 
 ```python
 @property

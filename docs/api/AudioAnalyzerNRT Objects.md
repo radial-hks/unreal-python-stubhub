@@ -38,7 +38,7 @@ def sound() -> SoundWave
 
 <a id="unreal.AudioAnalyzerNRT.duration_in_seconds"></a>
 
-#### duration_in_seconds
+#### duration\_in\_seconds
 
 ```python
 @property

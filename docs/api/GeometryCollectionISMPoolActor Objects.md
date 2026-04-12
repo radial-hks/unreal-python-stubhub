@@ -143,7 +143,7 @@ Geometry Collection ISMPool Actor
 
 <a id="unreal.GeometryCollectionISMPoolActor.ism_pool_comp"></a>
 
-#### ism_pool_comp
+#### ism\_pool\_comp
 
 ```python
 @property
@@ -154,7 +154,7 @@ def ism_pool_comp() -> GeometryCollectionISMPoolComponent
 
 <a id="unreal.GeometryCollectionISMPoolActor.ism_pool_debug_draw_comp"></a>
 
-#### ism_pool_debug_draw_comp
+#### ism\_pool\_debug\_draw\_comp
 
 ```python
 @property

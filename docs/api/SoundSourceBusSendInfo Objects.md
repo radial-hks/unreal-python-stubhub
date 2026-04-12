@@ -27,7 +27,7 @@ Sound Source Bus Send Info
 
 <a id="unreal.SoundSourceBusSendInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min_send_level: float = 0.000000,
@@ -39,7 +39,7 @@ def __init__(min_send_level: float = 0.000000,
 
 <a id="unreal.SoundSourceBusSendInfo.min_send_level"></a>
 
-#### min_send_level
+#### min\_send\_level
 
 ```python
 @property
@@ -50,7 +50,7 @@ def min_send_level() -> float
 
 <a id="unreal.SoundSourceBusSendInfo.min_send_level"></a>
 
-#### min_send_level
+#### min\_send\_level
 
 ```python
 @min_send_level.setter
@@ -59,7 +59,7 @@ def min_send_level(value: float) -> None
 
 <a id="unreal.SoundSourceBusSendInfo.max_send_level"></a>
 
-#### max_send_level
+#### max\_send\_level
 
 ```python
 @property
@@ -70,7 +70,7 @@ def max_send_level() -> float
 
 <a id="unreal.SoundSourceBusSendInfo.max_send_level"></a>
 
-#### max_send_level
+#### max\_send\_level
 
 ```python
 @max_send_level.setter
@@ -79,7 +79,7 @@ def max_send_level(value: float) -> None
 
 <a id="unreal.SoundSourceBusSendInfo.min_send_distance"></a>
 
-#### min_send_distance
+#### min\_send\_distance
 
 ```python
 @property
@@ -90,7 +90,7 @@ def min_send_distance() -> float
 
 <a id="unreal.SoundSourceBusSendInfo.min_send_distance"></a>
 
-#### min_send_distance
+#### min\_send\_distance
 
 ```python
 @min_send_distance.setter
@@ -99,7 +99,7 @@ def min_send_distance(value: float) -> None
 
 <a id="unreal.SoundSourceBusSendInfo.max_send_distance"></a>
 
-#### max_send_distance
+#### max\_send\_distance
 
 ```python
 @property
@@ -110,7 +110,7 @@ def max_send_distance() -> float
 
 <a id="unreal.SoundSourceBusSendInfo.max_send_distance"></a>
 
-#### max_send_distance
+#### max\_send\_distance
 
 ```python
 @max_send_distance.setter
@@ -119,7 +119,7 @@ def max_send_distance(value: float) -> None
 
 <a id="unreal.SoundSourceBusSendInfo.custom_send_level_curve"></a>
 
-#### custom_send_level_curve
+#### custom\_send\_level\_curve
 
 ```python
 @property
@@ -130,7 +130,7 @@ def custom_send_level_curve() -> RuntimeFloatCurve
 
 <a id="unreal.SoundSourceBusSendInfo.custom_send_level_curve"></a>
 
-#### custom_send_level_curve
+#### custom\_send\_level\_curve
 
 ```python
 @custom_send_level_curve.setter

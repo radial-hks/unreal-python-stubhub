@@ -137,7 +137,7 @@ A light component which emits light from a single point equally in all direction
 
 <a id="unreal.LocalLightComponent.intensity_units"></a>
 
-#### intensity_units
+#### intensity\_units
 
 ```python
 @property
@@ -150,7 +150,7 @@ while the luminous power is measured in lumens.
 
 <a id="unreal.LocalLightComponent.inverse_exposure_blend"></a>
 
-#### inverse_exposure_blend
+#### inverse\_exposure\_blend
 
 ```python
 @property
@@ -163,7 +163,7 @@ This feature can cause issues with exposure particularly when used on the primar
 
 <a id="unreal.LocalLightComponent.attenuation_radius"></a>
 
-#### attenuation_radius
+#### attenuation\_radius
 
 ```python
 @property
@@ -175,7 +175,7 @@ This clamping of the light's influence is not physically correct but very import
 
 <a id="unreal.LocalLightComponent.set_intensity_units"></a>
 
-#### set_intensity_units
+#### set\_intensity\_units
 
 ```python
 def set_intensity_units(new_intensity_units: LightUnits) -> None
@@ -189,7 +189,7 @@ Args:
 
 <a id="unreal.LocalLightComponent.set_attenuation_radius"></a>
 
-#### set_attenuation_radius
+#### set\_attenuation\_radius
 
 ```python
 def set_attenuation_radius(new_radius: float) -> None
@@ -203,7 +203,7 @@ Args:
 
 <a id="unreal.LocalLightComponent.get_units_conversion_factor"></a>
 
-#### get_units_conversion_factor
+#### get\_units\_conversion\_factor
 
 ```python
 @classmethod

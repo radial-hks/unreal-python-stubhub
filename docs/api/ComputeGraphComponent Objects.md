@@ -32,7 +32,7 @@ This object binds the graph to its data providers, and queues the execution.
 
 <a id="unreal.ComputeGraphComponent.compute_graph"></a>
 
-#### compute_graph
+#### compute\_graph
 
 ```python
 @property
@@ -43,7 +43,7 @@ def compute_graph() -> ComputeGraph
 
 <a id="unreal.ComputeGraphComponent.compute_graph"></a>
 
-#### compute_graph
+#### compute\_graph
 
 ```python
 @compute_graph.setter
@@ -52,7 +52,7 @@ def compute_graph(value: ComputeGraph) -> None
 
 <a id="unreal.ComputeGraphComponent.queue_execute"></a>
 
-#### queue_execute
+#### queue\_execute
 
 ```python
 def queue_execute() -> None
@@ -63,7 +63,7 @@ Queue the graph for execution at the next render update.
 
 <a id="unreal.ComputeGraphComponent.destroy_data_providers"></a>
 
-#### destroy_data_providers
+#### destroy\_data\_providers
 
 ```python
 def destroy_data_providers() -> None
@@ -74,7 +74,7 @@ Destroy all associated DataProvider objects.
 
 <a id="unreal.ComputeGraphComponent.create_data_providers"></a>
 
-#### create_data_providers
+#### create\_data\_providers
 
 ```python
 def create_data_providers(binding_index: int, binding_object: Object) -> None

@@ -14,7 +14,7 @@ Niagara Clipboard Editor Scripting Utilities
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.try_set_local_value_as_int"></a>
 
-#### try_set_local_value_as_int
+#### try\_set\_local\_value\_as\_int
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.try_get_local_value_as_int"></a>
 
-#### try_get_local_value_as_int
+#### try\_get\_local\_value\_as\_int
 
 ```python
 @classmethod
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.try_get_local_value_as_float"></a>
 
-#### try_get_local_value_as_float
+#### try\_get\_local\_value\_as\_float
 
 ```python
 @classmethod
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.try_get_input_by_name"></a>
 
-#### try_get_input_by_name
+#### try\_get\_input\_by\_name
 
 ```python
 @classmethod
@@ -110,7 +110,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.get_type_name"></a>
 
-#### get_type_name
+#### get\_type\_name
 
 ```python
 @classmethod
@@ -128,7 +128,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_vec3_local_value_input"></a>
 
-#### create_vec3_local_value_input
+#### create\_vec3\_local\_value\_input
 
 ```python
 @classmethod
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_vec2_local_value_input"></a>
 
-#### create_vec2_local_value_input
+#### create\_vec2\_local\_value\_input
 
 ```python
 @classmethod
@@ -178,7 +178,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_struct_local_value_input"></a>
 
-#### create_struct_local_value_input
+#### create\_struct\_local\_value\_input
 
 ```python
 @classmethod
@@ -203,7 +203,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_linked_value_input"></a>
 
-#### create_linked_value_input
+#### create\_linked\_value\_input
 
 ```python
 @classmethod
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_int_local_value_input"></a>
 
-#### create_int_local_value_input
+#### create\_int\_local\_value\_input
 
 ```python
 @classmethod
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_float_local_value_input"></a>
 
-#### create_float_local_value_input
+#### create\_float\_local\_value\_input
 
 ```python
 @classmethod
@@ -279,7 +279,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_expression_value_input"></a>
 
-#### create_expression_value_input
+#### create\_expression\_value\_input
 
 ```python
 @classmethod
@@ -305,7 +305,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_enum_local_value_input"></a>
 
-#### create_enum_local_value_input
+#### create\_enum\_local\_value\_input
 
 ```python
 @classmethod
@@ -331,7 +331,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_dynamic_value_input"></a>
 
-#### create_dynamic_value_input
+#### create\_dynamic\_value\_input
 
 ```python
 @classmethod
@@ -359,7 +359,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_data_value_input"></a>
 
-#### create_data_value_input
+#### create\_data\_value\_input
 
 ```python
 @classmethod
@@ -384,7 +384,7 @@ Returns:
 
 <a id="unreal.NiagaraClipboardEditorScriptingUtilities.create_bool_local_value_input"></a>
 
-#### create_bool_local_value_input
+#### create\_bool\_local\_value\_input
 
 ```python
 @classmethod

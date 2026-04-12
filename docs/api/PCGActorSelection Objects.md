@@ -14,13 +14,13 @@ EPCGActor Selection
 
 <a id="unreal.PCGActorSelection.BY_TAG"></a>
 
-#### BY_TAG
+#### BY\_TAG
 
 0
 
 <a id="unreal.PCGActorSelection.BY_CLASS"></a>
 
-#### BY_CLASS
+#### BY\_CLASS
 
 2
 

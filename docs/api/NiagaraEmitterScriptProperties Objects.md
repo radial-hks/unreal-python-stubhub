@@ -14,7 +14,7 @@ Niagara Emitter Script Properties
 
 <a id="unreal.NiagaraEmitterScriptProperties.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

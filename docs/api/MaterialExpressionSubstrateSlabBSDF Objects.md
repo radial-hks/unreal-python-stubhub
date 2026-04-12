@@ -22,7 +22,7 @@ Material Expression Substrate Slab BSDF
 
 <a id="unreal.MaterialExpressionSubstrateSlabBSDF.subsurface_profile"></a>
 
-#### subsurface_profile
+#### subsurface\_profile
 
 ```python
 @property
@@ -33,7 +33,7 @@ def subsurface_profile() -> SubsurfaceProfile
 
 <a id="unreal.MaterialExpressionSubstrateSlabBSDF.specular_profile"></a>
 
-#### specular_profile
+#### specular\_profile
 
 ```python
 @property

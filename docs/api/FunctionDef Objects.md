@@ -8,7 +8,7 @@ Type used to define UFunction fields from Python
 
 <a id="unreal.FunctionDef.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(func: Any, meta: Optional[Dict[str, str]], ret: Optional[Any],

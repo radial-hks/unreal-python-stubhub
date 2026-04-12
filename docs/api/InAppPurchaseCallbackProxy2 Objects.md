@@ -19,7 +19,7 @@ In App Purchase Callback Proxy 2
 
 <a id="unreal.InAppPurchaseCallbackProxy2.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_success() -> InAppPurchaseResult2
 
 <a id="unreal.InAppPurchaseCallbackProxy2.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -39,7 +39,7 @@ def on_success(value: InAppPurchaseResult2) -> None
 
 <a id="unreal.InAppPurchaseCallbackProxy2.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_failure() -> InAppPurchaseResult2
 
 <a id="unreal.InAppPurchaseCallbackProxy2.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @on_failure.setter
@@ -59,7 +59,7 @@ def on_failure(value: InAppPurchaseResult2) -> None
 
 <a id="unreal.InAppPurchaseCallbackProxy2.create_proxy_object_for_in_app_purchase_unprocessed_purchases"></a>
 
-#### create_proxy_object_for_in_app_purchase_unprocessed_purchases
+#### create\_proxy\_object\_for\_in\_app\_purchase\_unprocessed\_purchases
 
 ```python
 @classmethod
@@ -80,7 +80,7 @@ Returns:
 
 <a id="unreal.InAppPurchaseCallbackProxy2.create_proxy_object_for_in_app_purchase_query_owned"></a>
 
-#### create_proxy_object_for_in_app_purchase_query_owned
+#### create\_proxy\_object\_for\_in\_app\_purchase\_query\_owned
 
 ```python
 @classmethod
@@ -101,7 +101,7 @@ Returns:
 
 <a id="unreal.InAppPurchaseCallbackProxy2.create_proxy_object_for_in_app_purchase"></a>
 
-#### create_proxy_object_for_in_app_purchase
+#### create\_proxy\_object\_for\_in\_app\_purchase
 
 ```python
 @classmethod

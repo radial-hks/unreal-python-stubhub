@@ -30,7 +30,7 @@ An instance of this class is returned by basic APIs such as UToolMenus::Register
 
 <a id="unreal.ToolMenu.menu_name"></a>
 
-#### menu_name
+#### menu\_name
 
 ```python
 @property
@@ -41,7 +41,7 @@ def menu_name() -> Name
 
 <a id="unreal.ToolMenu.menu_name"></a>
 
-#### menu_name
+#### menu\_name
 
 ```python
 @menu_name.setter
@@ -50,7 +50,7 @@ def menu_name(value: Name) -> None
 
 <a id="unreal.ToolMenu.menu_parent"></a>
 
-#### menu_parent
+#### menu\_parent
 
 ```python
 @property
@@ -61,7 +61,7 @@ def menu_parent() -> Name
 
 <a id="unreal.ToolMenu.menu_parent"></a>
 
-#### menu_parent
+#### menu\_parent
 
 ```python
 @menu_parent.setter
@@ -70,7 +70,7 @@ def menu_parent(value: Name) -> None
 
 <a id="unreal.ToolMenu.style_name"></a>
 
-#### style_name
+#### style\_name
 
 ```python
 @property
@@ -81,7 +81,7 @@ def style_name() -> Name
 
 <a id="unreal.ToolMenu.style_name"></a>
 
-#### style_name
+#### style\_name
 
 ```python
 @style_name.setter
@@ -90,7 +90,7 @@ def style_name(value: Name) -> None
 
 <a id="unreal.ToolMenu.tutorial_highlight_name"></a>
 
-#### tutorial_highlight_name
+#### tutorial\_highlight\_name
 
 ```python
 @property
@@ -101,7 +101,7 @@ def tutorial_highlight_name() -> Name
 
 <a id="unreal.ToolMenu.tutorial_highlight_name"></a>
 
-#### tutorial_highlight_name
+#### tutorial\_highlight\_name
 
 ```python
 @tutorial_highlight_name.setter
@@ -110,7 +110,7 @@ def tutorial_highlight_name(value: Name) -> None
 
 <a id="unreal.ToolMenu.menu_type"></a>
 
-#### menu_type
+#### menu\_type
 
 ```python
 @property
@@ -121,7 +121,7 @@ def menu_type() -> MultiBoxType
 
 <a id="unreal.ToolMenu.menu_type"></a>
 
-#### menu_type
+#### menu\_type
 
 ```python
 @menu_type.setter
@@ -130,7 +130,7 @@ def menu_type(value: MultiBoxType) -> None
 
 <a id="unreal.ToolMenu.should_close_window_after_menu_selection"></a>
 
-#### should_close_window_after_menu_selection
+#### should\_close\_window\_after\_menu\_selection
 
 ```python
 @property
@@ -141,7 +141,7 @@ def should_close_window_after_menu_selection() -> bool
 
 <a id="unreal.ToolMenu.should_close_window_after_menu_selection"></a>
 
-#### should_close_window_after_menu_selection
+#### should\_close\_window\_after\_menu\_selection
 
 ```python
 @should_close_window_after_menu_selection.setter
@@ -150,7 +150,7 @@ def should_close_window_after_menu_selection(value: bool) -> None
 
 <a id="unreal.ToolMenu.close_self_only"></a>
 
-#### close_self_only
+#### close\_self\_only
 
 ```python
 @property
@@ -161,7 +161,7 @@ def close_self_only() -> bool
 
 <a id="unreal.ToolMenu.close_self_only"></a>
 
-#### close_self_only
+#### close\_self\_only
 
 ```python
 @close_self_only.setter
@@ -190,7 +190,7 @@ def searchable(value: bool) -> None
 
 <a id="unreal.ToolMenu.tool_bar_is_focusable"></a>
 
-#### tool_bar_is_focusable
+#### tool\_bar\_is\_focusable
 
 ```python
 @property
@@ -201,7 +201,7 @@ def tool_bar_is_focusable() -> bool
 
 <a id="unreal.ToolMenu.tool_bar_is_focusable"></a>
 
-#### tool_bar_is_focusable
+#### tool\_bar\_is\_focusable
 
 ```python
 @tool_bar_is_focusable.setter
@@ -210,7 +210,7 @@ def tool_bar_is_focusable(value: bool) -> None
 
 <a id="unreal.ToolMenu.tool_bar_force_small_icons"></a>
 
-#### tool_bar_force_small_icons
+#### tool\_bar\_force\_small\_icons
 
 ```python
 @property
@@ -221,7 +221,7 @@ def tool_bar_force_small_icons() -> bool
 
 <a id="unreal.ToolMenu.tool_bar_force_small_icons"></a>
 
-#### tool_bar_force_small_icons
+#### tool\_bar\_force\_small\_icons
 
 ```python
 @tool_bar_force_small_icons.setter
@@ -230,7 +230,7 @@ def tool_bar_force_small_icons(value: bool) -> None
 
 <a id="unreal.ToolMenu.prevent_customization"></a>
 
-#### prevent_customization
+#### prevent\_customization
 
 ```python
 @property
@@ -241,7 +241,7 @@ def prevent_customization() -> bool
 
 <a id="unreal.ToolMenu.prevent_customization"></a>
 
-#### prevent_customization
+#### prevent\_customization
 
 ```python
 @prevent_customization.setter
@@ -250,7 +250,7 @@ def prevent_customization(value: bool) -> None
 
 <a id="unreal.ToolMenu.menu_owner"></a>
 
-#### menu_owner
+#### menu\_owner
 
 ```python
 @property
@@ -261,7 +261,7 @@ def menu_owner() -> ToolMenuOwner
 
 <a id="unreal.ToolMenu.menu_owner"></a>
 
-#### menu_owner
+#### menu\_owner
 
 ```python
 @menu_owner.setter
@@ -270,7 +270,7 @@ def menu_owner(value: ToolMenuOwner) -> None
 
 <a id="unreal.ToolMenu.init_menu"></a>
 
-#### init_menu
+#### init\_menu
 
 ```python
 def init_menu(owner: ToolMenuOwner,
@@ -290,7 +290,7 @@ Args:
 
 <a id="unreal.ToolMenu.add_sub_menu"></a>
 
-#### add_sub_menu
+#### add\_sub\_menu
 
 ```python
 def add_sub_menu(owner: Name,
@@ -315,7 +315,7 @@ Returns:
 
 <a id="unreal.ToolMenu.add_section"></a>
 
-#### add_section
+#### add\_section
 
 ```python
 def add_section(
@@ -336,7 +336,7 @@ Args:
 
 <a id="unreal.ToolMenu.add_menu_entry_object"></a>
 
-#### add_menu_entry_object
+#### add\_menu\_entry\_object
 
 ```python
 def add_menu_entry_object(object: ToolMenuEntryScript) -> None
@@ -350,7 +350,7 @@ Args:
 
 <a id="unreal.ToolMenu.add_menu_entry"></a>
 
-#### add_menu_entry
+#### add\_menu\_entry
 
 ```python
 def add_menu_entry(section_name: Name, args: ToolMenuEntry) -> None
@@ -365,7 +365,7 @@ Args:
 
 <a id="unreal.ToolMenu.add_dynamic_section"></a>
 
-#### add_dynamic_section
+#### add\_dynamic\_section
 
 ```python
 def add_dynamic_section(section_name: Name,

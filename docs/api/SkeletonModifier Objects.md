@@ -14,7 +14,7 @@ FSkeletalMeshSkeletonModifier
 
 <a id="unreal.SkeletonModifier.set_skeletal_mesh"></a>
 
-#### set_skeletal_mesh
+#### set\_skeletal\_mesh
 
 ```python
 def set_skeletal_mesh(skeletal_mesh: SkeletalMesh) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.set_bone_transform"></a>
 
-#### set_bone_transform
+#### set\_bone\_transform
 
 ```python
 def set_bone_transform(bone_name: Name, new_transform: Transform,
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.set_bones_transforms"></a>
 
-#### set_bones_transforms
+#### set\_bones\_transforms
 
 ```python
 def set_bones_transforms(bone_names: Array[Name],
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.rename_bones"></a>
 
-#### rename_bones
+#### rename\_bones
 
 ```python
 def rename_bones(old_bone_names: Array[Name],
@@ -91,7 +91,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.rename_bone"></a>
 
-#### rename_bone
+#### rename\_bone
 
 ```python
 def rename_bone(old_bone_name: Name, new_bone_name: Name) -> bool
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.remove_bones"></a>
 
-#### remove_bones
+#### remove\_bones
 
 ```python
 def remove_bones(bone_names: Array[Name], remove_children: bool) -> bool
@@ -127,7 +127,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.remove_bone"></a>
 
-#### remove_bone
+#### remove\_bone
 
 ```python
 def remove_bone(bone_name: Name, remove_children: bool) -> bool
@@ -145,7 +145,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.parent_bones"></a>
 
-#### parent_bones
+#### parent\_bones
 
 ```python
 def parent_bones(bone_names: Array[Name], parent_names: Array[Name]) -> bool
@@ -163,7 +163,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.parent_bone"></a>
 
-#### parent_bone
+#### parent\_bone
 
 ```python
 def parent_bone(bone_name: Name, parent_name: Name) -> bool
@@ -181,7 +181,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.orient_bones"></a>
 
-#### orient_bones
+#### orient\_bones
 
 ```python
 def orient_bones(
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.orient_bone"></a>
 
-#### orient_bone
+#### orient\_bone
 
 ```python
 def orient_bone(
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.mirror_bones"></a>
 
-#### mirror_bones
+#### mirror\_bones
 
 ```python
 def mirror_bones(
@@ -249,7 +249,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.mirror_bone"></a>
 
-#### mirror_bone
+#### mirror\_bone
 
 ```python
 def mirror_bone(
@@ -269,7 +269,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.get_parent_name"></a>
 
-#### get_parent_name
+#### get\_parent\_name
 
 ```python
 def get_parent_name(bone_name: Name) -> Name
@@ -286,7 +286,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.get_children_names"></a>
 
-#### get_children_names
+#### get\_children\_names
 
 ```python
 def get_children_names(bone_name: Name,
@@ -305,7 +305,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.get_bone_transform"></a>
 
-#### get_bone_transform
+#### get\_bone\_transform
 
 ```python
 def get_bone_transform(bone_name: Name, global_: bool = False) -> Transform
@@ -323,7 +323,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.get_all_bone_names"></a>
 
-#### get_all_bone_names
+#### get\_all\_bone\_names
 
 ```python
 def get_all_bone_names() -> Array[Name]
@@ -337,7 +337,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.commit_skeleton_to_skeletal_mesh"></a>
 
-#### commit_skeleton_to_skeletal_mesh
+#### commit\_skeleton\_to\_skeletal\_mesh
 
 ```python
 def commit_skeleton_to_skeletal_mesh() -> bool
@@ -351,7 +351,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.add_bones"></a>
 
-#### add_bones
+#### add\_bones
 
 ```python
 def add_bones(bones_name: Array[Name], parents_name: Array[Name],
@@ -371,7 +371,7 @@ Returns:
 
 <a id="unreal.SkeletonModifier.add_bone"></a>
 
-#### add_bone
+#### add\_bone
 
 ```python
 def add_bone(bone_name: Name, parent_name: Name, transform: Transform) -> bool

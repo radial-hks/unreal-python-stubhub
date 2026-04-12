@@ -18,7 +18,7 @@ The base mutable class for all RigVM enabled structs.
 
 <a id="unreal.RigVMStructMutable.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(execute_context: RigVMExecuteContext = []) -> None
@@ -26,7 +26,7 @@ def __init__(execute_context: RigVMExecuteContext = []) -> None
 
 <a id="unreal.RigVMStructMutable.execute_context"></a>
 
-#### execute_context
+#### execute\_context
 
 ```python
 @property
@@ -37,7 +37,7 @@ def execute_context() -> RigVMExecuteContext
 
 <a id="unreal.RigVMStructMutable.execute_context"></a>
 
-#### execute_context
+#### execute\_context
 
 ```python
 @execute_context.setter

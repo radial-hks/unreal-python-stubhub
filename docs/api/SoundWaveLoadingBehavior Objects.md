@@ -25,25 +25,25 @@ The order of priority is defined as:
 
 <a id="unreal.SoundWaveLoadingBehavior.RETAIN_ON_LOAD"></a>
 
-#### RETAIN_ON_LOAD
+#### RETAIN\_ON\_LOAD
 
 1: the first chunk of audio for this asset will be retained in the audio cache until a given USoundWave is either destroyed or USoundWave::ReleaseCompressedAudioData is called.
 
 <a id="unreal.SoundWaveLoadingBehavior.PRIME_ON_LOAD"></a>
 
-#### PRIME_ON_LOAD
+#### PRIME\_ON\_LOAD
 
 2: the first chunk of audio for this asset will be loaded into the cache from disk when this asset is loaded, but may be evicted to make room for other audio if it isn't played for a while.
 
 <a id="unreal.SoundWaveLoadingBehavior.LOAD_ON_DEMAND"></a>
 
-#### LOAD_ON_DEMAND
+#### LOAD\_ON\_DEMAND
 
 3: the first chunk of audio for this asset will not be loaded until this asset is played or primed.
 
 <a id="unreal.SoundWaveLoadingBehavior.FORCE_INLINE"></a>
 
-#### FORCE_INLINE
+#### FORCE\_INLINE
 
 4: Force all audio data for this audio asset to live outside of the cache and use the non-streaming decode pathways. Only usable if set on the USoundWave.
 

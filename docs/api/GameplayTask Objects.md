@@ -13,7 +13,7 @@ Gameplay Task
 
 <a id="unreal.GameplayTask.end_task"></a>
 
-#### end_task
+#### end\_task
 
 ```python
 def end_task() -> None

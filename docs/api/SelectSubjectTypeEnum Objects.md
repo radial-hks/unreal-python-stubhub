@@ -14,19 +14,19 @@ ESelect Subject Type Enum
 
 <a id="unreal.SelectSubjectTypeEnum.DATAFLOW_SELECT_SUBJECT_TYPE_VERTICES"></a>
 
-#### DATAFLOW_SELECT_SUBJECT_TYPE_VERTICES
+#### DATAFLOW\_SELECT\_SUBJECT\_TYPE\_VERTICES
 
 0: InBox must contain the vertices of the bone
 
 <a id="unreal.SelectSubjectTypeEnum.DATAFLOW_SELECT_SUBJECT_TYPE_BOUNDING_BOX"></a>
 
-#### DATAFLOW_SELECT_SUBJECT_TYPE_BOUNDING_BOX
+#### DATAFLOW\_SELECT\_SUBJECT\_TYPE\_BOUNDING\_BOX
 
 1: InBox must contain the BoundingBox of the bone
 
 <a id="unreal.SelectSubjectTypeEnum.DATAFLOW_SELECT_SUBJECT_TYPE_CENTROID"></a>
 
-#### DATAFLOW_SELECT_SUBJECT_TYPE_CENTROID
+#### DATAFLOW\_SELECT\_SUBJECT\_TYPE\_CENTROID
 
 2: InBox must contain the centroid of the bone
 

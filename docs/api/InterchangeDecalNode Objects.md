@@ -14,7 +14,7 @@ Interchange Decal Node
 
 <a id="unreal.InterchangeDecalNode.set_custom_sort_order"></a>
 
-#### set_custom_sort_order
+#### set\_custom\_sort\_order
 
 ```python
 def set_custom_sort_order(attribute_value: int) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalNode.set_custom_decal_size"></a>
 
-#### set_custom_decal_size
+#### set\_custom\_decal\_size
 
 ```python
 def set_custom_decal_size(attribute_value: Vector) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalNode.set_custom_decal_material_path_name"></a>
 
-#### set_custom_decal_material_path_name
+#### set\_custom\_decal\_material\_path\_name
 
 ```python
 def set_custom_decal_material_path_name(attribute_value: str) -> bool
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalNode.get_custom_sort_order"></a>
 
-#### get_custom_sort_order
+#### get\_custom\_sort\_order
 
 ```python
 def get_custom_sort_order() -> Optional[int]
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalNode.get_custom_decal_size"></a>
 
-#### get_custom_decal_size
+#### get\_custom\_decal\_size
 
 ```python
 def get_custom_decal_size() -> Optional[Vector]
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.InterchangeDecalNode.get_custom_decal_material_path_name"></a>
 
-#### get_custom_decal_material_path_name
+#### get\_custom\_decal\_material\_path\_name
 
 ```python
 def get_custom_decal_material_path_name() -> Optional[str]

@@ -16,7 +16,7 @@ See UToolMenus::UnregisterOwnerByName and FToolMenuOwnerScoped which relate to t
 
 <a id="unreal.ToolMenuOwner.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None") -> None

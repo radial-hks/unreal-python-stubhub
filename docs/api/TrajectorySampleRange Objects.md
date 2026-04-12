@@ -17,7 +17,7 @@ A container of ordered trajectory samples and associated sampling rate
 
 <a id="unreal.TrajectorySampleRange.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(samples: Array[TrajectorySample] = []) -> None

@@ -17,7 +17,7 @@ class InterchangeSourceData(Object)
 
 <a id="unreal.InterchangeSourceData.set_filename"></a>
 
-#### set_filename
+#### set\_filename
 
 ```python
 def set_filename(filename: str) -> bool
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.InterchangeSourceData.get_filename"></a>
 
-#### get_filename
+#### get\_filename
 
 ```python
 def get_filename() -> str

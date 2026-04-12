@@ -25,7 +25,7 @@ EGrass Scaling
 
 <a id="unreal.GrassScaling.LOCK_XY"></a>
 
-#### LOCK_XY
+#### LOCK\_XY
 
 2: X and Y will be the same random scale, Z will be another
 

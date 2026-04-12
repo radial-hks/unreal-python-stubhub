@@ -19,13 +19,13 @@ ENanite Fallback Target
 
 <a id="unreal.NaniteFallbackTarget.PERCENT_TRIANGLES"></a>
 
-#### PERCENT_TRIANGLES
+#### PERCENT\_TRIANGLES
 
 1: Percentage of triangles to keep from source mesh for fallback.
 
 <a id="unreal.NaniteFallbackTarget.RELATIVE_ERROR"></a>
 
-#### RELATIVE_ERROR
+#### RELATIVE\_ERROR
 
 2: Reduce until the specified error is reached relative to size of the mesh
 

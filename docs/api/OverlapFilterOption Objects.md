@@ -14,19 +14,19 @@ warning: If you change this, change GetCollisionChannelFromOverlapFilter() to ma
 
 <a id="unreal.OverlapFilterOption.OVERLAP_FILTER_ALL"></a>
 
-#### OVERLAP_FILTER_ALL
+#### OVERLAP\_FILTER\_ALL
 
 0: Returns both overlaps with both dynamic and static components
 
 <a id="unreal.OverlapFilterOption.OVERLAP_FILTER_DYNAMIC_ONLY"></a>
 
-#### OVERLAP_FILTER_DYNAMIC_ONLY
+#### OVERLAP\_FILTER\_DYNAMIC\_ONLY
 
 1: returns only overlaps with dynamic actors (far fewer results in practice, much more efficient)
 
 <a id="unreal.OverlapFilterOption.OVERLAP_FILTER_STATIC_ONLY"></a>
 
-#### OVERLAP_FILTER_STATIC_ONLY
+#### OVERLAP\_FILTER\_STATIC\_ONLY
 
 2: returns only overlaps with static actors (fewer results, more efficient)
 

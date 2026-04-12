@@ -19,7 +19,7 @@ EMaterial Scene Attribute Input Mode
 
 <a id="unreal.MaterialSceneAttributeInputMode.OFFSET_FRACTION"></a>
 
-#### OFFSET_FRACTION
+#### OFFSET\_FRACTION
 
 1
 

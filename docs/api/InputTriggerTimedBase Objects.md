@@ -31,7 +31,7 @@ Inheriting classes should provide the logic for Triggered transitions.
 
 <a id="unreal.InputTriggerTimedBase.held_duration"></a>
 
-#### held_duration
+#### held\_duration
 
 ```python
 @property
@@ -42,7 +42,7 @@ def held_duration() -> float
 
 <a id="unreal.InputTriggerTimedBase.held_duration"></a>
 
-#### held_duration
+#### held\_duration
 
 ```python
 @held_duration.setter
@@ -51,7 +51,7 @@ def held_duration(value: float) -> None
 
 <a id="unreal.InputTriggerTimedBase.affected_by_time_dilation"></a>
 
-#### affected_by_time_dilation
+#### affected\_by\_time\_dilation
 
 ```python
 @property
@@ -68,7 +68,7 @@ see: AWorldSettings::GetEffectiveTimeDilation
 
 <a id="unreal.InputTriggerTimedBase.affected_by_time_dilation"></a>
 
-#### affected_by_time_dilation
+#### affected\_by\_time\_dilation
 
 ```python
 @affected_by_time_dilation.setter

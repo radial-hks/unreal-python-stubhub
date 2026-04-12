@@ -20,7 +20,7 @@ Static Material
 
 <a id="unreal.StaticMaterial.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(material_interface: MaterialInterface = None,
@@ -30,7 +30,7 @@ def __init__(material_interface: MaterialInterface = None,
 
 <a id="unreal.StaticMaterial.material_interface"></a>
 
-#### material_interface
+#### material\_interface
 
 ```python
 @property
@@ -41,7 +41,7 @@ def material_interface() -> MaterialInterface
 
 <a id="unreal.StaticMaterial.material_interface"></a>
 
-#### material_interface
+#### material\_interface
 
 ```python
 @material_interface.setter
@@ -50,7 +50,7 @@ def material_interface(value: MaterialInterface) -> None
 
 <a id="unreal.StaticMaterial.material_slot_name"></a>
 
-#### material_slot_name
+#### material\_slot\_name
 
 ```python
 @property
@@ -61,7 +61,7 @@ def material_slot_name() -> Name
 
 <a id="unreal.StaticMaterial.material_slot_name"></a>
 
-#### material_slot_name
+#### material\_slot\_name
 
 ```python
 @material_slot_name.setter
@@ -70,7 +70,7 @@ def material_slot_name(value: Name) -> None
 
 <a id="unreal.StaticMaterial.uv_channel_data"></a>
 
-#### uv_channel_data
+#### uv\_channel\_data
 
 ```python
 @property

@@ -19,7 +19,7 @@ Physics Collision Handler
 
 <a id="unreal.PhysicsCollisionHandler.impact_threshold"></a>
 
-#### impact_threshold
+#### impact\_threshold
 
 ```python
 @property
@@ -30,7 +30,7 @@ def impact_threshold() -> float
 
 <a id="unreal.PhysicsCollisionHandler.impact_threshold"></a>
 
-#### impact_threshold
+#### impact\_threshold
 
 ```python
 @impact_threshold.setter
@@ -39,7 +39,7 @@ def impact_threshold(value: float) -> None
 
 <a id="unreal.PhysicsCollisionHandler.impact_re_fire_delay"></a>
 
-#### impact_re_fire_delay
+#### impact\_re\_fire\_delay
 
 ```python
 @property
@@ -50,7 +50,7 @@ def impact_re_fire_delay() -> float
 
 <a id="unreal.PhysicsCollisionHandler.impact_re_fire_delay"></a>
 
-#### impact_re_fire_delay
+#### impact\_re\_fire\_delay
 
 ```python
 @impact_re_fire_delay.setter
@@ -59,7 +59,7 @@ def impact_re_fire_delay(value: float) -> None
 
 <a id="unreal.PhysicsCollisionHandler.default_impact_sound"></a>
 
-#### default_impact_sound
+#### default\_impact\_sound
 
 ```python
 @property
@@ -70,7 +70,7 @@ def default_impact_sound() -> SoundBase
 
 <a id="unreal.PhysicsCollisionHandler.default_impact_sound"></a>
 
-#### default_impact_sound
+#### default\_impact\_sound
 
 ```python
 @default_impact_sound.setter

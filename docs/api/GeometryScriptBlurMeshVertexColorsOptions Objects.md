@@ -21,7 +21,7 @@ Geometry Script Blur Mesh Vertex Colors Options
 
 <a id="unreal.GeometryScriptBlurMeshVertexColorsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(red: bool = False,

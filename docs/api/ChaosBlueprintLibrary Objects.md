@@ -13,7 +13,7 @@ Chaos Blueprint Library
 
 <a id="unreal.ChaosBlueprintLibrary.get_event_relay_from_context"></a>
 
-#### get_event_relay_from_context
+#### get\_event\_relay\_from\_context
 
 ```python
 @classmethod

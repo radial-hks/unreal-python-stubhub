@@ -20,19 +20,19 @@ The different kinds of projection modes supported
 
 <a id="unreal.TileMapProjectionMode.ISOMETRIC_DIAMOND"></a>
 
-#### ISOMETRIC_DIAMOND
+#### ISOMETRIC\_DIAMOND
 
 1: Isometric tile layout (shaped like a diamond) */
 
 <a id="unreal.TileMapProjectionMode.ISOMETRIC_STAGGERED"></a>
 
-#### ISOMETRIC_STAGGERED
+#### ISOMETRIC\_STAGGERED
 
 2: Isometric tile layout (roughly in a square with alternating rows staggered).  Warning: Not fully supported yet.
 
 <a id="unreal.TileMapProjectionMode.HEXAGONAL_STAGGERED"></a>
 
-#### HEXAGONAL_STAGGERED
+#### HEXAGONAL\_STAGGERED
 
 3: Hexagonal tile layout (roughly in a square with alternating rows staggered).  Warning: Not fully supported yet.
 

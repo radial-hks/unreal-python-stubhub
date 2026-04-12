@@ -161,7 +161,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Framework/Controller/
 
 <a id="unreal.Controller.player_state"></a>
 
-#### player_state
+#### player\_state
 
 ```python
 @property
@@ -172,7 +172,7 @@ def player_state() -> PlayerState
 
 <a id="unreal.Controller.player_replication_info"></a>
 
-#### player_replication_info
+#### player\_replication\_info
 
 ```python
 @property
@@ -183,7 +183,7 @@ deprecated: 'player_replication_info' was renamed to 'player_state'.
 
 <a id="unreal.Controller.on_instigated_any_damage"></a>
 
-#### on_instigated_any_damage
+#### on\_instigated\_any\_damage
 
 ```python
 @property
@@ -194,7 +194,7 @@ def on_instigated_any_damage() -> InstigatedAnyDamageSignature
 
 <a id="unreal.Controller.on_instigated_any_damage"></a>
 
-#### on_instigated_any_damage
+#### on\_instigated\_any\_damage
 
 ```python
 @on_instigated_any_damage.setter
@@ -203,7 +203,7 @@ def on_instigated_any_damage(value: InstigatedAnyDamageSignature) -> None
 
 <a id="unreal.Controller.on_possessed_pawn_changed"></a>
 
-#### on_possessed_pawn_changed
+#### on\_possessed\_pawn\_changed
 
 ```python
 @property
@@ -214,7 +214,7 @@ def on_possessed_pawn_changed() -> OnPossessedPawnChanged
 
 <a id="unreal.Controller.on_possessed_pawn_changed"></a>
 
-#### on_possessed_pawn_changed
+#### on\_possessed\_pawn\_changed
 
 ```python
 @on_possessed_pawn_changed.setter
@@ -223,7 +223,7 @@ def on_possessed_pawn_changed(value: OnPossessedPawnChanged) -> None
 
 <a id="unreal.Controller.un_possess"></a>
 
-#### un_possess
+#### un\_possess
 
 ```python
 def un_possess() -> None
@@ -234,7 +234,7 @@ Called to unpossess our pawn for any reason that is not the pawn being destroyed
 
 <a id="unreal.Controller.stop_movement"></a>
 
-#### stop_movement
+#### stop\_movement
 
 ```python
 def stop_movement() -> None
@@ -245,7 +245,7 @@ Aborts the move the controller is currently performing
 
 <a id="unreal.Controller.set_initial_location_and_rotation"></a>
 
-#### set_initial_location_and_rotation
+#### set\_initial\_location\_and\_rotation
 
 ```python
 def set_initial_location_and_rotation(new_location: Vector,
@@ -261,7 +261,7 @@ Args:
 
 <a id="unreal.Controller.set_ignore_move_input"></a>
 
-#### set_ignore_move_input
+#### set\_ignore\_move\_input
 
 ```python
 def set_ignore_move_input(new_move_input: bool) -> None
@@ -275,7 +275,7 @@ Args:
 
 <a id="unreal.Controller.set_ignore_look_input"></a>
 
-#### set_ignore_look_input
+#### set\_ignore\_look\_input
 
 ```python
 def set_ignore_look_input(new_look_input: bool) -> None
@@ -289,7 +289,7 @@ Args:
 
 <a id="unreal.Controller.set_control_rotation"></a>
 
-#### set_control_rotation
+#### set\_control\_rotation
 
 ```python
 def set_control_rotation(new_rotation: Rotator) -> None
@@ -303,7 +303,7 @@ Args:
 
 <a id="unreal.Controller.reset_ignore_move_input"></a>
 
-#### reset_ignore_move_input
+#### reset\_ignore\_move\_input
 
 ```python
 def reset_ignore_move_input() -> None
@@ -314,7 +314,7 @@ Stops ignoring move input by resetting the ignore move input state.
 
 <a id="unreal.Controller.reset_ignore_look_input"></a>
 
-#### reset_ignore_look_input
+#### reset\_ignore\_look\_input
 
 ```python
 def reset_ignore_look_input() -> None
@@ -325,7 +325,7 @@ Stops ignoring look input by resetting the ignore look input state.
 
 <a id="unreal.Controller.reset_ignore_input_flags"></a>
 
-#### reset_ignore_input_flags
+#### reset\_ignore\_input\_flags
 
 ```python
 def reset_ignore_input_flags() -> None
@@ -336,7 +336,7 @@ Reset move and look input ignore flags.
 
 <a id="unreal.Controller.receive_un_possess"></a>
 
-#### receive_un_possess
+#### receive\_un\_possess
 
 ```python
 def receive_un_possess(unpossessed_pawn: Pawn) -> None
@@ -350,7 +350,7 @@ Args:
 
 <a id="unreal.Controller.on_un_possess"></a>
 
-#### on_un_possess
+#### on\_un\_possess
 
 ```python
 def on_un_possess(unpossessed_pawn: Pawn) -> None
@@ -360,7 +360,7 @@ deprecated: 'on_un_possess' was renamed to 'receive_un_possess'.
 
 <a id="unreal.Controller.receive_possess"></a>
 
-#### receive_possess
+#### receive\_possess
 
 ```python
 def receive_possess(possessed_pawn: Pawn) -> None
@@ -374,7 +374,7 @@ Args:
 
 <a id="unreal.Controller.on_possess"></a>
 
-#### on_possess
+#### on\_possess
 
 ```python
 def on_possess(possessed_pawn: Pawn) -> None
@@ -384,7 +384,7 @@ deprecated: 'on_possess' was renamed to 'receive_possess'.
 
 <a id="unreal.Controller.receive_instigated_any_damage"></a>
 
-#### receive_instigated_any_damage
+#### receive\_instigated\_any\_damage
 
 ```python
 def receive_instigated_any_damage(damage: float, damage_type: DamageType,
@@ -422,7 +422,7 @@ Args:
 
 <a id="unreal.Controller.line_of_sight_to"></a>
 
-#### line_of_sight_to
+#### line\_of\_sight\_to
 
 ```python
 def line_of_sight_to(other: Actor,
@@ -443,7 +443,7 @@ Returns:
 
 <a id="unreal.Controller.get_controlled_pawn"></a>
 
-#### get_controlled_pawn
+#### get\_controlled\_pawn
 
 ```python
 def get_controlled_pawn() -> Pawn
@@ -457,7 +457,7 @@ Returns:
 
 <a id="unreal.Controller.is_player_controller"></a>
 
-#### is_player_controller
+#### is\_player\_controller
 
 ```python
 def is_player_controller() -> bool
@@ -471,7 +471,7 @@ Returns:
 
 <a id="unreal.Controller.is_move_input_ignored"></a>
 
-#### is_move_input_ignored
+#### is\_move\_input\_ignored
 
 ```python
 def is_move_input_ignored() -> bool
@@ -485,7 +485,7 @@ Returns:
 
 <a id="unreal.Controller.is_look_input_ignored"></a>
 
-#### is_look_input_ignored
+#### is\_look\_input\_ignored
 
 ```python
 def is_look_input_ignored() -> bool
@@ -499,7 +499,7 @@ Returns:
 
 <a id="unreal.Controller.is_local_player_controller"></a>
 
-#### is_local_player_controller
+#### is\_local\_player\_controller
 
 ```python
 def is_local_player_controller() -> bool
@@ -513,7 +513,7 @@ Returns:
 
 <a id="unreal.Controller.is_local_controller"></a>
 
-#### is_local_controller
+#### is\_local\_controller
 
 ```python
 def is_local_controller() -> bool
@@ -527,7 +527,7 @@ Returns:
 
 <a id="unreal.Controller.get_view_target"></a>
 
-#### get_view_target
+#### get\_view\_target
 
 ```python
 def get_view_target() -> Actor
@@ -541,7 +541,7 @@ Returns:
 
 <a id="unreal.Controller.get_player_view_point"></a>
 
-#### get_player_view_point
+#### get\_player\_view\_point
 
 ```python
 def get_player_view_point() -> Tuple[Vector, Rotator]
@@ -563,7 +563,7 @@ Returns:
 
 <a id="unreal.Controller.get_desired_rotation"></a>
 
-#### get_desired_rotation
+#### get\_desired\_rotation
 
 ```python
 def get_desired_rotation() -> Rotator
@@ -577,7 +577,7 @@ Returns:
 
 <a id="unreal.Controller.get_control_rotation"></a>
 
-#### get_control_rotation
+#### get\_control\_rotation
 
 ```python
 def get_control_rotation() -> Rotator

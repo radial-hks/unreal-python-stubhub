@@ -23,7 +23,7 @@ based on sync markers
 
 <a id="unreal.MarkerSyncAnimPosition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(previous_marker_name: Name = "None",
@@ -33,7 +33,7 @@ def __init__(previous_marker_name: Name = "None",
 
 <a id="unreal.MarkerSyncAnimPosition.previous_marker_name"></a>
 
-#### previous_marker_name
+#### previous\_marker\_name
 
 ```python
 @property
@@ -44,7 +44,7 @@ def previous_marker_name() -> Name
 
 <a id="unreal.MarkerSyncAnimPosition.previous_marker_name"></a>
 
-#### previous_marker_name
+#### previous\_marker\_name
 
 ```python
 @previous_marker_name.setter
@@ -53,7 +53,7 @@ def previous_marker_name(value: Name) -> None
 
 <a id="unreal.MarkerSyncAnimPosition.next_marker_name"></a>
 
-#### next_marker_name
+#### next\_marker\_name
 
 ```python
 @property
@@ -64,7 +64,7 @@ def next_marker_name() -> Name
 
 <a id="unreal.MarkerSyncAnimPosition.next_marker_name"></a>
 
-#### next_marker_name
+#### next\_marker\_name
 
 ```python
 @next_marker_name.setter
@@ -73,7 +73,7 @@ def next_marker_name(value: Name) -> None
 
 <a id="unreal.MarkerSyncAnimPosition.position_between_markers"></a>
 
-#### position_between_markers
+#### position\_between\_markers
 
 ```python
 @property
@@ -87,7 +87,7 @@ def position_between_markers() -> float
 
 <a id="unreal.MarkerSyncAnimPosition.position_between_markers"></a>
 
-#### position_between_markers
+#### position\_between\_markers
 
 ```python
 @position_between_markers.setter

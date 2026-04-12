@@ -17,4 +17,4 @@ used to limit which StatTree assets can be selected per use case, i.e.:
 - **Module**: StateTreeModule
 - **File**: StateTreeSchema.h
 
-<a id="unreal.AvaTransitionTreeSchema"></a>
+<a id="unreal.StateTreeComponentSchema"></a>

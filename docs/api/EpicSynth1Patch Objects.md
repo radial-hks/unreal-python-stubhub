@@ -19,7 +19,7 @@ Epic Synth 1Patch
 
 <a id="unreal.EpicSynth1Patch.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(patch_source: Synth1PatchSource = Synth1PatchSource.LFO1,
@@ -28,7 +28,7 @@ def __init__(patch_source: Synth1PatchSource = Synth1PatchSource.LFO1,
 
 <a id="unreal.EpicSynth1Patch.patch_source"></a>
 
-#### patch_source
+#### patch\_source
 
 ```python
 @property
@@ -39,7 +39,7 @@ def patch_source() -> Synth1PatchSource
 
 <a id="unreal.EpicSynth1Patch.patch_source"></a>
 
-#### patch_source
+#### patch\_source
 
 ```python
 @patch_source.setter
@@ -48,7 +48,7 @@ def patch_source(value: Synth1PatchSource) -> None
 
 <a id="unreal.EpicSynth1Patch.patch_cables"></a>
 
-#### patch_cables
+#### patch\_cables
 
 ```python
 @property
@@ -59,7 +59,7 @@ def patch_cables() -> Array[Synth1PatchCable]
 
 <a id="unreal.EpicSynth1Patch.patch_cables"></a>
 
-#### patch_cables
+#### patch\_cables
 
 ```python
 @patch_cables.setter

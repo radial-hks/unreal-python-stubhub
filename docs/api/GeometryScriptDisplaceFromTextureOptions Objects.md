@@ -23,7 +23,7 @@ Geometry Script Displace from Texture Options
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -60,7 +60,7 @@ def magnitude(value: float) -> None
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @property
@@ -71,7 +71,7 @@ def uv_scale() -> Vector2D
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @uv_scale.setter
@@ -80,7 +80,7 @@ def uv_scale(value: Vector2D) -> None
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.uv_offset"></a>
 
-#### uv_offset
+#### uv\_offset
 
 ```python
 @property
@@ -91,7 +91,7 @@ def uv_offset() -> Vector2D
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.uv_offset"></a>
 
-#### uv_offset
+#### uv\_offset
 
 ```python
 @uv_offset.setter
@@ -120,7 +120,7 @@ def center(value: float) -> None
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.image_channel"></a>
 
-#### image_channel
+#### image\_channel
 
 ```python
 @property
@@ -131,7 +131,7 @@ def image_channel() -> int
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.image_channel"></a>
 
-#### image_channel
+#### image\_channel
 
 ```python
 @image_channel.setter
@@ -140,7 +140,7 @@ def image_channel(value: int) -> None
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.empty_behavior"></a>
 
-#### empty_behavior
+#### empty\_behavior
 
 ```python
 @property
@@ -151,7 +151,7 @@ def empty_behavior() -> GeometryScriptEmptySelectionBehavior
 
 <a id="unreal.GeometryScriptDisplaceFromTextureOptions.empty_behavior"></a>
 
-#### empty_behavior
+#### empty\_behavior
 
 ```python
 @empty_behavior.setter

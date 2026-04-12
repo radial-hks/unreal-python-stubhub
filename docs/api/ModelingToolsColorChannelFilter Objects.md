@@ -21,7 +21,7 @@ Modeling Tools Color Channel Filter
 
 <a id="unreal.ModelingToolsColorChannelFilter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

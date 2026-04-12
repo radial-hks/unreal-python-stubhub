@@ -25,7 +25,7 @@ Dynamics Band Settings
 
 <a id="unreal.DynamicsBandSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(crossover_top_frequency: float = 0.000000,
@@ -40,7 +40,7 @@ def __init__(crossover_top_frequency: float = 0.000000,
 
 <a id="unreal.DynamicsBandSettings.crossover_top_frequency"></a>
 
-#### crossover_top_frequency
+#### crossover\_top\_frequency
 
 ```python
 @property
@@ -51,7 +51,7 @@ def crossover_top_frequency() -> float
 
 <a id="unreal.DynamicsBandSettings.crossover_top_frequency"></a>
 
-#### crossover_top_frequency
+#### crossover\_top\_frequency
 
 ```python
 @crossover_top_frequency.setter
@@ -60,7 +60,7 @@ def crossover_top_frequency(value: float) -> None
 
 <a id="unreal.DynamicsBandSettings.attack_time_msec"></a>
 
-#### attack_time_msec
+#### attack\_time\_msec
 
 ```python
 @property
@@ -71,7 +71,7 @@ def attack_time_msec() -> float
 
 <a id="unreal.DynamicsBandSettings.attack_time_msec"></a>
 
-#### attack_time_msec
+#### attack\_time\_msec
 
 ```python
 @attack_time_msec.setter
@@ -80,7 +80,7 @@ def attack_time_msec(value: float) -> None
 
 <a id="unreal.DynamicsBandSettings.release_time_msec"></a>
 
-#### release_time_msec
+#### release\_time\_msec
 
 ```python
 @property
@@ -91,7 +91,7 @@ def release_time_msec() -> float
 
 <a id="unreal.DynamicsBandSettings.release_time_msec"></a>
 
-#### release_time_msec
+#### release\_time\_msec
 
 ```python
 @release_time_msec.setter
@@ -100,7 +100,7 @@ def release_time_msec(value: float) -> None
 
 <a id="unreal.DynamicsBandSettings.threshold_db"></a>
 
-#### threshold_db
+#### threshold\_db
 
 ```python
 @property
@@ -111,7 +111,7 @@ def threshold_db() -> float
 
 <a id="unreal.DynamicsBandSettings.threshold_db"></a>
 
-#### threshold_db
+#### threshold\_db
 
 ```python
 @threshold_db.setter
@@ -140,7 +140,7 @@ def ratio(value: float) -> None
 
 <a id="unreal.DynamicsBandSettings.knee_bandwidth_db"></a>
 
-#### knee_bandwidth_db
+#### knee\_bandwidth\_db
 
 ```python
 @property
@@ -151,7 +151,7 @@ def knee_bandwidth_db() -> float
 
 <a id="unreal.DynamicsBandSettings.knee_bandwidth_db"></a>
 
-#### knee_bandwidth_db
+#### knee\_bandwidth\_db
 
 ```python
 @knee_bandwidth_db.setter
@@ -160,7 +160,7 @@ def knee_bandwidth_db(value: float) -> None
 
 <a id="unreal.DynamicsBandSettings.input_gain_db"></a>
 
-#### input_gain_db
+#### input\_gain\_db
 
 ```python
 @property
@@ -171,7 +171,7 @@ def input_gain_db() -> float
 
 <a id="unreal.DynamicsBandSettings.input_gain_db"></a>
 
-#### input_gain_db
+#### input\_gain\_db
 
 ```python
 @input_gain_db.setter
@@ -180,7 +180,7 @@ def input_gain_db(value: float) -> None
 
 <a id="unreal.DynamicsBandSettings.output_gain_db"></a>
 
-#### output_gain_db
+#### output\_gain\_db
 
 ```python
 @property
@@ -191,7 +191,7 @@ def output_gain_db() -> float
 
 <a id="unreal.DynamicsBandSettings.output_gain_db"></a>
 
-#### output_gain_db
+#### output\_gain\_db
 
 ```python
 @output_gain_db.setter

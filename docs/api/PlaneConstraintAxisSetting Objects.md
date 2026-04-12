@@ -38,7 +38,7 @@ so that movement along the locked axis is not be possible.
 
 <a id="unreal.PlaneConstraintAxisSetting.USE_GLOBAL_PHYSICS_SETTING"></a>
 
-#### USE_GLOBAL_PHYSICS_SETTING
+#### USE\_GLOBAL\_PHYSICS\_SETTING
 
 4: Use the global physics project setting.
 

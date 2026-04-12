@@ -20,7 +20,7 @@ Geometry Script Copy Bones from Mesh Options
 
 <a id="unreal.GeometryScriptCopyBonesFromMeshOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptCopyBonesFromMeshOptions.reindex_weights"></a>
 
-#### reindex_weights
+#### reindex\_weights
 
 ```python
 @property
@@ -44,7 +44,7 @@ target skeleton to the source skeleton.
 
 <a id="unreal.GeometryScriptCopyBonesFromMeshOptions.reindex_weights"></a>
 
-#### reindex_weights
+#### reindex\_weights
 
 ```python
 @reindex_weights.setter
@@ -53,7 +53,7 @@ def reindex_weights(value: bool) -> None
 
 <a id="unreal.GeometryScriptCopyBonesFromMeshOptions.bones_to_copy_from_source"></a>
 
-#### bones_to_copy_from_source
+#### bones\_to\_copy\_from\_source
 
 ```python
 @property
@@ -64,7 +64,7 @@ def bones_to_copy_from_source() -> BonesToCopyFromSource
 
 <a id="unreal.GeometryScriptCopyBonesFromMeshOptions.bones_to_copy_from_source"></a>
 
-#### bones_to_copy_from_source
+#### bones\_to\_copy\_from\_source
 
 ```python
 @bones_to_copy_from_source.setter

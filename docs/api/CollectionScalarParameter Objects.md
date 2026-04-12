@@ -18,7 +18,7 @@ A scalar parameter
 
 <a id="unreal.CollectionScalarParameter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -19,13 +19,13 @@ Enum to describe what a level editor context menu should be built for
 
 <a id="unreal.LevelEditorMenuContext.SCENE_OUTLINER"></a>
 
-#### SCENE_OUTLINER
+#### SCENE\_OUTLINER
 
 1: This context menu is applicable to the Scene Outliner (disables click-position-based menu items)
 
 <a id="unreal.LevelEditorMenuContext.MAIN_MENU"></a>
 
-#### MAIN_MENU
+#### MAIN\_MENU
 
 2: This is the replica of the context menu that appears in the main menu bar (lists all entries)
 

@@ -14,13 +14,13 @@ EGeometry Script Grid Sizing Method
 
 <a id="unreal.GeometryScriptGridSizingMethod.GRID_CELL_SIZE"></a>
 
-#### GRID_CELL_SIZE
+#### GRID\_CELL\_SIZE
 
 0
 
 <a id="unreal.GeometryScriptGridSizingMethod.GRID_RESOLUTION"></a>
 
-#### GRID_RESOLUTION
+#### GRID\_RESOLUTION
 
 1
 

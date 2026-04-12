@@ -21,7 +21,7 @@ Material Expression Sky Atmosphere Light Illuminance on Ground
 
 <a id="unreal.MaterialExpressionSkyAtmosphereLightIlluminanceOnGround.light_index"></a>
 
-#### light_index
+#### light\_index
 
 ```python
 @property
@@ -32,7 +32,7 @@ def light_index() -> int
 
 <a id="unreal.MaterialExpressionSkyAtmosphereLightIlluminanceOnGround.light_index"></a>
 
-#### light_index
+#### light\_index
 
 ```python
 @light_index.setter

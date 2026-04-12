@@ -15,7 +15,7 @@ The editor should not be in play in editor mode.
 
 <a id="unreal.EditorStaticMeshLibrary.set_lods_with_notification"></a>
 
-#### set_lods_with_notification
+#### set\_lods\_with\_notification
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.set_lods"></a>
 
-#### set_lods
+#### set\_lods
 
 ```python
 @classmethod
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.set_lod_reduction_settings"></a>
 
-#### set_lod_reduction_settings
+#### set\_lod\_reduction\_settings
 
 ```python
 @classmethod
@@ -79,7 +79,7 @@ Args:
 
 <a id="unreal.EditorStaticMeshLibrary.set_lod_from_static_mesh"></a>
 
-#### set_lod_from_static_mesh
+#### set\_lod\_from\_static\_mesh
 
 ```python
 @classmethod
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.set_lod_build_settings"></a>
 
-#### set_lod_build_settings
+#### set\_lod\_build\_settings
 
 ```python
 @classmethod
@@ -125,7 +125,7 @@ Args:
 
 <a id="unreal.EditorStaticMeshLibrary.set_generate_lightmap_uv"></a>
 
-#### set_generate_lightmap_uv
+#### set\_generate\_lightmap\_uv
 
 ```python
 @classmethod
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.set_convex_decomposition_collisions_with_notification"></a>
 
-#### set_convex_decomposition_collisions_with_notification
+#### set\_convex\_decomposition\_collisions\_with\_notification
 
 ```python
 @classmethod
@@ -171,7 +171,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.set_convex_decomposition_collisions"></a>
 
-#### set_convex_decomposition_collisions
+#### set\_convex\_decomposition\_collisions
 
 ```python
 @classmethod
@@ -195,7 +195,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.set_allow_cpu_access"></a>
 
-#### set_allow_cpu_access
+#### set\_allow\_cpu\_access
 
 ```python
 @classmethod
@@ -213,7 +213,7 @@ Args:
 
 <a id="unreal.EditorStaticMeshLibrary.remove_uv_channel"></a>
 
-#### remove_uv_channel
+#### remove\_uv\_channel
 
 ```python
 @classmethod
@@ -235,7 +235,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.remove_lods"></a>
 
-#### remove_lods
+#### remove\_lods
 
 ```python
 @classmethod
@@ -254,7 +254,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.remove_collisions_with_notification"></a>
 
-#### remove_collisions_with_notification
+#### remove\_collisions\_with\_notification
 
 ```python
 @classmethod
@@ -275,7 +275,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.remove_collisions"></a>
 
-#### remove_collisions
+#### remove\_collisions
 
 ```python
 @classmethod
@@ -294,7 +294,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.reimport_all_custom_lo_ds"></a>
 
-#### reimport_all_custom_lo_ds
+#### reimport\_all\_custom\_lo\_ds
 
 ```python
 @classmethod
@@ -313,7 +313,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.is_section_collision_enabled"></a>
 
-#### is_section_collision_enabled
+#### is\_section\_collision\_enabled
 
 ```python
 @classmethod
@@ -335,7 +335,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.insert_uv_channel"></a>
 
-#### insert_uv_channel
+#### insert\_uv\_channel
 
 ```python
 @classmethod
@@ -357,7 +357,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.import_lod"></a>
 
-#### import_lod
+#### import\_lod
 
 ```python
 @classmethod
@@ -379,7 +379,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.has_vertex_colors"></a>
 
-#### has_vertex_colors
+#### has\_vertex\_colors
 
 ```python
 @classmethod
@@ -398,7 +398,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.has_instance_vertex_colors"></a>
 
-#### has_instance_vertex_colors
+#### has\_instance\_vertex\_colors
 
 ```python
 @classmethod
@@ -418,7 +418,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_simple_collision_count"></a>
 
-#### get_simple_collision_count
+#### get\_simple\_collision\_count
 
 ```python
 @classmethod
@@ -437,7 +437,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_num_uv_channels"></a>
 
-#### get_num_uv_channels
+#### get\_num\_uv\_channels
 
 ```python
 @classmethod
@@ -457,7 +457,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_number_verts"></a>
 
-#### get_number_verts
+#### get\_number\_verts
 
 ```python
 @classmethod
@@ -477,7 +477,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_number_materials"></a>
 
-#### get_number_materials
+#### get\_number\_materials
 
 ```python
 @classmethod
@@ -496,7 +496,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_lod_screen_sizes"></a>
 
-#### get_lod_screen_sizes
+#### get\_lod\_screen\_sizes
 
 ```python
 @classmethod
@@ -515,7 +515,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_lod_reduction_settings"></a>
 
-#### get_lod_reduction_settings
+#### get\_lod\_reduction\_settings
 
 ```python
 @classmethod
@@ -538,7 +538,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_lod_count"></a>
 
-#### get_lod_count
+#### get\_lod\_count
 
 ```python
 @classmethod
@@ -557,7 +557,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_lod_build_settings"></a>
 
-#### get_lod_build_settings
+#### get\_lod\_build\_settings
 
 ```python
 @classmethod
@@ -580,7 +580,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_convex_collision_count"></a>
 
-#### get_convex_collision_count
+#### get\_convex\_collision\_count
 
 ```python
 @classmethod
@@ -599,7 +599,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.get_collision_complexity"></a>
 
-#### get_collision_complexity
+#### get\_collision\_complexity
 
 ```python
 @classmethod
@@ -619,7 +619,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.generate_planar_uv_channel"></a>
 
-#### generate_planar_uv_channel
+#### generate\_planar\_uv\_channel
 
 ```python
 @classmethod
@@ -645,7 +645,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.generate_cylindrical_uv_channel"></a>
 
-#### generate_cylindrical_uv_channel
+#### generate\_cylindrical\_uv\_channel
 
 ```python
 @classmethod
@@ -672,7 +672,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.generate_box_uv_channel"></a>
 
-#### generate_box_uv_channel
+#### generate\_box\_uv\_channel
 
 ```python
 @classmethod
@@ -698,7 +698,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.enable_section_collision"></a>
 
-#### enable_section_collision
+#### enable\_section\_collision
 
 ```python
 @classmethod
@@ -719,7 +719,7 @@ Args:
 
 <a id="unreal.EditorStaticMeshLibrary.enable_section_cast_shadow"></a>
 
-#### enable_section_cast_shadow
+#### enable\_section\_cast\_shadow
 
 ```python
 @classmethod
@@ -739,7 +739,7 @@ Args:
 
 <a id="unreal.EditorStaticMeshLibrary.bulk_set_convex_decomposition_collisions_with_notification"></a>
 
-#### bulk_set_convex_decomposition_collisions_with_notification
+#### bulk\_set\_convex\_decomposition\_collisions\_with\_notification
 
 ```python
 @classmethod
@@ -764,7 +764,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.bulk_set_convex_decomposition_collisions"></a>
 
-#### bulk_set_convex_decomposition_collisions
+#### bulk\_set\_convex\_decomposition\_collisions
 
 ```python
 @classmethod
@@ -790,7 +790,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.add_uv_channel"></a>
 
-#### add_uv_channel
+#### add\_uv\_channel
 
 ```python
 @classmethod
@@ -810,7 +810,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.add_simple_collisions_with_notification"></a>
 
-#### add_simple_collisions_with_notification
+#### add\_simple\_collisions\_with\_notification
 
 ```python
 @classmethod
@@ -833,7 +833,7 @@ Returns:
 
 <a id="unreal.EditorStaticMeshLibrary.add_simple_collisions"></a>
 
-#### add_simple_collisions
+#### add\_simple\_collisions
 
 ```python
 @classmethod

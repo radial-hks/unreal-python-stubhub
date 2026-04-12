@@ -13,7 +13,7 @@ EFFTPeak Interpolation Method
 
 <a id="unreal.FFTPeakInterpolationMethod.NEAREST_NEIGHBOR"></a>
 
-#### NEAREST_NEIGHBOR
+#### NEAREST\_NEIGHBOR
 
 0
 
@@ -31,7 +31,7 @@ EFFTPeak Interpolation Method
 
 <a id="unreal.FFTPeakInterpolationMethod.CONSTANT_Q"></a>
 
-#### CONSTANT_Q
+#### CONSTANT\_Q
 
 3
 

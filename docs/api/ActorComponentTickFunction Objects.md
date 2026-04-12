@@ -26,7 +26,7 @@ Tick function that calls UActorComponent::ConditionalTick
 
 <a id="unreal.ActorComponentTickFunction.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

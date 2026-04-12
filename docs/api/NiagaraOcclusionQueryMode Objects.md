@@ -20,13 +20,13 @@ ENiagara Occlusion Query Mode
 
 <a id="unreal.NiagaraOcclusionQueryMode.ALWAYS_ENABLED"></a>
 
-#### ALWAYS_ENABLED
+#### ALWAYS\_ENABLED
 
 1: Occlusion queries will always be enabled for Niagara.
 
 <a id="unreal.NiagaraOcclusionQueryMode.ALWAYS_DISABLED"></a>
 
-#### ALWAYS_DISABLED
+#### ALWAYS\_DISABLED
 
 2: Occlusion queries will always be disabled for Niagara.
 

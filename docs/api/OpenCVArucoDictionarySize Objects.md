@@ -14,25 +14,25 @@ EOpen CVAruco Dictionary Size
 
 <a id="unreal.OpenCVArucoDictionarySize.DICT_SIZE50"></a>
 
-#### DICT_SIZE50
+#### DICT\_SIZE50
 
 0
 
 <a id="unreal.OpenCVArucoDictionarySize.DICT_SIZE100"></a>
 
-#### DICT_SIZE100
+#### DICT\_SIZE100
 
 1
 
 <a id="unreal.OpenCVArucoDictionarySize.DICT_SIZE250"></a>
 
-#### DICT_SIZE250
+#### DICT\_SIZE250
 
 2
 
 <a id="unreal.OpenCVArucoDictionarySize.DICT_SIZE1000"></a>
 
-#### DICT_SIZE1000
+#### DICT\_SIZE1000
 
 3
 

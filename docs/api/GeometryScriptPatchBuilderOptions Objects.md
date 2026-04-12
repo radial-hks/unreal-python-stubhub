@@ -27,7 +27,7 @@ Geometry Script Patch Builder Options
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -45,7 +45,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.initial_patch_count"></a>
 
-#### initial_patch_count
+#### initial\_patch\_count
 
 ```python
 @property
@@ -56,7 +56,7 @@ def initial_patch_count() -> int
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.initial_patch_count"></a>
 
-#### initial_patch_count
+#### initial\_patch\_count
 
 ```python
 @initial_patch_count.setter
@@ -65,7 +65,7 @@ def initial_patch_count(value: int) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.min_patch_size"></a>
 
-#### min_patch_size
+#### min\_patch\_size
 
 ```python
 @property
@@ -76,7 +76,7 @@ def min_patch_size() -> int
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.min_patch_size"></a>
 
-#### min_patch_size
+#### min\_patch\_size
 
 ```python
 @min_patch_size.setter
@@ -85,7 +85,7 @@ def min_patch_size(value: int) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.patch_curvature_alignment_weight"></a>
 
-#### patch_curvature_alignment_weight
+#### patch\_curvature\_alignment\_weight
 
 ```python
 @property
@@ -96,7 +96,7 @@ def patch_curvature_alignment_weight() -> float
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.patch_curvature_alignment_weight"></a>
 
-#### patch_curvature_alignment_weight
+#### patch\_curvature\_alignment\_weight
 
 ```python
 @patch_curvature_alignment_weight.setter
@@ -105,7 +105,7 @@ def patch_curvature_alignment_weight(value: float) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.patch_merging_metric_thresh"></a>
 
-#### patch_merging_metric_thresh
+#### patch\_merging\_metric\_thresh
 
 ```python
 @property
@@ -116,7 +116,7 @@ def patch_merging_metric_thresh() -> float
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.patch_merging_metric_thresh"></a>
 
-#### patch_merging_metric_thresh
+#### patch\_merging\_metric\_thresh
 
 ```python
 @patch_merging_metric_thresh.setter
@@ -125,7 +125,7 @@ def patch_merging_metric_thresh(value: float) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.patch_merging_angle_thresh"></a>
 
-#### patch_merging_angle_thresh
+#### patch\_merging\_angle\_thresh
 
 ```python
 @property
@@ -136,7 +136,7 @@ def patch_merging_angle_thresh() -> float
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.patch_merging_angle_thresh"></a>
 
-#### patch_merging_angle_thresh
+#### patch\_merging\_angle\_thresh
 
 ```python
 @patch_merging_angle_thresh.setter
@@ -145,7 +145,7 @@ def patch_merging_angle_thresh(value: float) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.exp_map_options"></a>
 
-#### exp_map_options
+#### exp\_map\_options
 
 ```python
 @property
@@ -156,7 +156,7 @@ def exp_map_options() -> GeometryScriptExpMapUVOptions
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.exp_map_options"></a>
 
-#### exp_map_options
+#### exp\_map\_options
 
 ```python
 @exp_map_options.setter
@@ -165,7 +165,7 @@ def exp_map_options(value: GeometryScriptExpMapUVOptions) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.respect_input_groups"></a>
 
-#### respect_input_groups
+#### respect\_input\_groups
 
 ```python
 @property
@@ -176,7 +176,7 @@ def respect_input_groups() -> bool
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.respect_input_groups"></a>
 
-#### respect_input_groups
+#### respect\_input\_groups
 
 ```python
 @respect_input_groups.setter
@@ -185,7 +185,7 @@ def respect_input_groups(value: bool) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.group_layer"></a>
 
-#### group_layer
+#### group\_layer
 
 ```python
 @property
@@ -196,7 +196,7 @@ def group_layer() -> GeometryScriptGroupLayer
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.group_layer"></a>
 
-#### group_layer
+#### group\_layer
 
 ```python
 @group_layer.setter
@@ -205,7 +205,7 @@ def group_layer(value: GeometryScriptGroupLayer) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.auto_pack"></a>
 
-#### auto_pack
+#### auto\_pack
 
 ```python
 @property
@@ -216,7 +216,7 @@ def auto_pack() -> bool
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.auto_pack"></a>
 
-#### auto_pack
+#### auto\_pack
 
 ```python
 @auto_pack.setter
@@ -225,7 +225,7 @@ def auto_pack(value: bool) -> None
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.packing_options"></a>
 
-#### packing_options
+#### packing\_options
 
 ```python
 @property
@@ -236,7 +236,7 @@ def packing_options() -> GeometryScriptRepackUVsOptions
 
 <a id="unreal.GeometryScriptPatchBuilderOptions.packing_options"></a>
 
-#### packing_options
+#### packing\_options
 
 ```python
 @packing_options.setter

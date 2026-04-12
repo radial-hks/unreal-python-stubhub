@@ -43,7 +43,7 @@ def settings(value: SynesthesiaSpectrumAnalysisSettings) -> None
 
 <a id="unreal.SynesthesiaSpectrumAnalyzer.on_spectrum_results"></a>
 
-#### on_spectrum_results
+#### on\_spectrum\_results
 
 ```python
 @property
@@ -54,7 +54,7 @@ def on_spectrum_results() -> OnSpectrumResults
 
 <a id="unreal.SynesthesiaSpectrumAnalyzer.on_spectrum_results"></a>
 
-#### on_spectrum_results
+#### on\_spectrum\_results
 
 ```python
 @on_spectrum_results.setter
@@ -63,7 +63,7 @@ def on_spectrum_results(value: OnSpectrumResults) -> None
 
 <a id="unreal.SynesthesiaSpectrumAnalyzer.on_latest_spectrum_results"></a>
 
-#### on_latest_spectrum_results
+#### on\_latest\_spectrum\_results
 
 ```python
 @property
@@ -74,7 +74,7 @@ def on_latest_spectrum_results() -> OnLatestSpectrumResults
 
 <a id="unreal.SynesthesiaSpectrumAnalyzer.on_latest_spectrum_results"></a>
 
-#### on_latest_spectrum_results
+#### on\_latest\_spectrum\_results
 
 ```python
 @on_latest_spectrum_results.setter
@@ -83,7 +83,7 @@ def on_latest_spectrum_results(value: OnLatestSpectrumResults) -> None
 
 <a id="unreal.SynesthesiaSpectrumAnalyzer.get_num_center_frequencies"></a>
 
-#### get_num_center_frequencies
+#### get\_num\_center\_frequencies
 
 ```python
 def get_num_center_frequencies() -> int
@@ -97,7 +97,7 @@ Returns:
 
 <a id="unreal.SynesthesiaSpectrumAnalyzer.get_center_frequencies"></a>
 
-#### get_center_frequencies
+#### get\_center\_frequencies
 
 ```python
 def get_center_frequencies(sample_rate: float) -> Array[float]

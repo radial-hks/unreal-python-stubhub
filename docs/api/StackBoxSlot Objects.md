@@ -60,7 +60,7 @@ def size(value: SlateChildSize) -> None
 
 <a id="unreal.StackBoxSlot.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @property
@@ -71,7 +71,7 @@ def horizontal_alignment() -> HorizontalAlignment
 
 <a id="unreal.StackBoxSlot.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @horizontal_alignment.setter
@@ -80,7 +80,7 @@ def horizontal_alignment(value: HorizontalAlignment) -> None
 
 <a id="unreal.StackBoxSlot.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @property
@@ -91,7 +91,7 @@ def vertical_alignment() -> VerticalAlignment
 
 <a id="unreal.StackBoxSlot.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @vertical_alignment.setter

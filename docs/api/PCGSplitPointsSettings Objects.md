@@ -35,7 +35,7 @@ Splits each point into two separate points, and sets bounds based on the positio
 
 <a id="unreal.PCGSplitPointsSettings.split_position"></a>
 
-#### split_position
+#### split\_position
 
 ```python
 @property
@@ -46,7 +46,7 @@ def split_position() -> float
 
 <a id="unreal.PCGSplitPointsSettings.split_position"></a>
 
-#### split_position
+#### split\_position
 
 ```python
 @split_position.setter
@@ -55,7 +55,7 @@ def split_position(value: float) -> None
 
 <a id="unreal.PCGSplitPointsSettings.split_axis"></a>
 
-#### split_axis
+#### split\_axis
 
 ```python
 @property
@@ -66,7 +66,7 @@ def split_axis() -> PCGSplitAxis
 
 <a id="unreal.PCGSplitPointsSettings.split_axis"></a>
 
-#### split_axis
+#### split\_axis
 
 ```python
 @split_axis.setter

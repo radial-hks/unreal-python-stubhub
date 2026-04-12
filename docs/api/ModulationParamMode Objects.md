@@ -13,19 +13,19 @@ Modulation Param Mode
 
 <a id="unreal.ModulationParamMode.MPM_NORMAL"></a>
 
-#### MPM_NORMAL
+#### MPM\_NORMAL
 
 0: Clamps input value to the range (MinInput, MaxInput) then maps to the range (MinOutput, MaxOutput)
 
 <a id="unreal.ModulationParamMode.MPM_ABS"></a>
 
-#### MPM_ABS
+#### MPM\_ABS
 
 1: Same as Normal except that the input value is treated as an absolute value
 
 <a id="unreal.ModulationParamMode.MPM_DIRECT"></a>
 
-#### MPM_DIRECT
+#### MPM\_DIRECT
 
 2: Use the input value directly without scaling or reference to Min or Max input or output values
 

@@ -20,7 +20,7 @@ ESelection by Attr Operation
 
 <a id="unreal.SelectionByAttrOperation.NOT_EQUAL"></a>
 
-#### NOT_EQUAL
+#### NOT\_EQUAL
 
 1: Select faces which attribute value not equal with specified value
 
@@ -32,7 +32,7 @@ ESelection by Attr Operation
 
 <a id="unreal.SelectionByAttrOperation.GREATER_OR_EQUAL"></a>
 
-#### GREATER_OR_EQUAL
+#### GREATER\_OR\_EQUAL
 
 3: Select faces which attribute value greater or equal than specified value
 
@@ -44,7 +44,7 @@ ESelection by Attr Operation
 
 <a id="unreal.SelectionByAttrOperation.SMALLER_OR_EQUAL"></a>
 
-#### SMALLER_OR_EQUAL
+#### SMALLER\_OR\_EQUAL
 
 5: Select faces which attribute value greater than specified value
 

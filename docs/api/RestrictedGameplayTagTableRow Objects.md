@@ -19,7 +19,7 @@ Simple struct for a table row in the restricted gameplay tag table and element i
 
 <a id="unreal.RestrictedGameplayTagTableRow.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tag: Name = "None",
@@ -29,7 +29,7 @@ def __init__(tag: Name = "None",
 
 <a id="unreal.RestrictedGameplayTagTableRow.allow_non_restricted_children"></a>
 
-#### allow_non_restricted_children
+#### allow\_non\_restricted\_children
 
 ```python
 @property

@@ -38,10 +38,10 @@ Note: these have an extensive details and graph pin customization for editing, s
 
 <a id="unreal.GameplayTagQuery.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tag_query: GameplayTagQuery = []) -> None
 ```
 
-<a id="unreal.TableRowBase"></a>
+<a id="unreal.GameplayTagTableRow"></a>

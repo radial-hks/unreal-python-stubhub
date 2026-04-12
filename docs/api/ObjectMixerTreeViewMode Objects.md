@@ -14,7 +14,7 @@ EObject Mixer Tree View Mode
 
 <a id="unreal.ObjectMixerTreeViewMode.NO_FOLDERS"></a>
 
-#### NO_FOLDERS
+#### NO\_FOLDERS
 
 0: Show all matching objects without folders
 

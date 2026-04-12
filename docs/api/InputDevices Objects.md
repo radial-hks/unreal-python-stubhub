@@ -38,25 +38,25 @@ These flags are used to indicate specific or sets of device types.
 
 <a id="unreal.InputDevices.OCULUS_TOUCH"></a>
 
-#### OCULUS_TOUCH
+#### OCULUS\_TOUCH
 
 8
 
 <a id="unreal.InputDevices.HTC_VIVE_WANDS"></a>
 
-#### HTC_VIVE_WANDS
+#### HTC\_VIVE\_WANDS
 
 16
 
 <a id="unreal.InputDevices.ANY_SPATIAL_DEVICE"></a>
 
-#### ANY_SPATIAL_DEVICE
+#### ANY\_SPATIAL\_DEVICE
 
 24
 
 <a id="unreal.InputDevices.TABLET_FINGERS"></a>
 
-#### TABLET_FINGERS
+#### TABLET\_FINGERS
 
 1024
 

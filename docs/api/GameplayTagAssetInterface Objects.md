@@ -13,7 +13,7 @@ Gameplay Tag Asset Interface
 
 <a id="unreal.GameplayTagAssetInterface.has_matching_gameplay_tag"></a>
 
-#### has_matching_gameplay_tag
+#### has\_matching\_gameplay\_tag
 
 ```python
 def has_matching_gameplay_tag(tag_to_check: GameplayTag) -> bool
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.GameplayTagAssetInterface.has_any_matching_gameplay_tags"></a>
 
-#### has_any_matching_gameplay_tags
+#### has\_any\_matching\_gameplay\_tags
 
 ```python
 def has_any_matching_gameplay_tags(
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.GameplayTagAssetInterface.has_all_matching_gameplay_tags"></a>
 
-#### has_all_matching_gameplay_tags
+#### has\_all\_matching\_gameplay\_tags
 
 ```python
 def has_all_matching_gameplay_tags(

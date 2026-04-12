@@ -22,7 +22,7 @@ Water Brush Effects
 
 <a id="unreal.WaterBrushEffects.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -63,7 +63,7 @@ def blurring(value: WaterBrushEffectBlurring) -> None
 
 <a id="unreal.WaterBrushEffects.curl_noise"></a>
 
-#### curl_noise
+#### curl\_noise
 
 ```python
 @property
@@ -74,7 +74,7 @@ def curl_noise() -> WaterBrushEffectCurlNoise
 
 <a id="unreal.WaterBrushEffects.curl_noise"></a>
 
-#### curl_noise
+#### curl\_noise
 
 ```python
 @curl_noise.setter
@@ -103,7 +103,7 @@ def displacement(value: WaterBrushEffectDisplacement) -> None
 
 <a id="unreal.WaterBrushEffects.smooth_blending"></a>
 
-#### smooth_blending
+#### smooth\_blending
 
 ```python
 @property
@@ -114,7 +114,7 @@ def smooth_blending() -> WaterBrushEffectSmoothBlending
 
 <a id="unreal.WaterBrushEffects.smooth_blending"></a>
 
-#### smooth_blending
+#### smooth\_blending
 
 ```python
 @smooth_blending.setter

@@ -13,7 +13,7 @@ Behavior Tree
 
 <a id="unreal.BehaviorTree.get_blackboard_asset"></a>
 
-#### get_blackboard_asset
+#### get\_blackboard\_asset
 
 ```python
 def get_blackboard_asset() -> BlackboardData

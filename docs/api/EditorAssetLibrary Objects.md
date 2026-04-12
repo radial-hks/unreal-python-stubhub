@@ -24,7 +24,7 @@ All operations can be slow. The editor should not be in play in editor mode. It 
 
 <a id="unreal.EditorAssetLibrary.sync_browser_to_objects"></a>
 
-#### sync_browser_to_objects
+#### sync\_browser\_to\_objects
 
 ```python
 @classmethod
@@ -40,7 +40,7 @@ Args:
 
 <a id="unreal.EditorAssetLibrary.set_metadata_tag"></a>
 
-#### set_metadata_tag
+#### set\_metadata\_tag
 
 ```python
 @classmethod
@@ -57,7 +57,7 @@ Args:
 
 <a id="unreal.EditorAssetLibrary.save_loaded_assets"></a>
 
-#### save_loaded_assets
+#### save\_loaded\_assets
 
 ```python
 @classmethod
@@ -78,7 +78,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.save_loaded_asset"></a>
 
-#### save_loaded_asset
+#### save\_loaded\_asset
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.save_directory"></a>
 
-#### save_directory
+#### save\_directory
 
 ```python
 @classmethod
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.save_asset"></a>
 
-#### save_asset
+#### save\_asset
 
 ```python
 @classmethod
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.rename_loaded_asset"></a>
 
-#### rename_loaded_asset
+#### rename\_loaded\_asset
 
 ```python
 @classmethod
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.rename_directory"></a>
 
-#### rename_directory
+#### rename\_directory
 
 ```python
 @classmethod
@@ -185,7 +185,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.rename_asset"></a>
 
-#### rename_asset
+#### rename\_asset
 
 ```python
 @classmethod
@@ -206,7 +206,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.remove_metadata_tag"></a>
 
-#### remove_metadata_tag
+#### remove\_metadata\_tag
 
 ```python
 @classmethod
@@ -222,7 +222,7 @@ Args:
 
 <a id="unreal.EditorAssetLibrary.make_directory"></a>
 
-#### make_directory
+#### make\_directory
 
 ```python
 @classmethod
@@ -240,7 +240,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.load_blueprint_class"></a>
 
-#### load_blueprint_class
+#### load\_blueprint\_class
 
 ```python
 @classmethod
@@ -258,7 +258,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.load_asset"></a>
 
-#### load_asset
+#### load\_asset
 
 ```python
 @classmethod
@@ -276,7 +276,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.list_assets"></a>
 
-#### list_assets
+#### list\_assets
 
 ```python
 @classmethod
@@ -299,7 +299,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.list_asset_by_tag_value"></a>
 
-#### list_asset_by_tag_value
+#### list\_asset\_by\_tag\_value
 
 ```python
 @classmethod
@@ -318,7 +318,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.get_tag_values"></a>
 
-#### get_tag_values
+#### get\_tag\_values
 
 ```python
 @classmethod
@@ -336,7 +336,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.get_project_root_asset_directory"></a>
 
-#### get_project_root_asset_directory
+#### get\_project\_root\_asset\_directory
 
 ```python
 @classmethod
@@ -353,7 +353,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.get_path_name_for_loaded_asset"></a>
 
-#### get_path_name_for_loaded_asset
+#### get\_path\_name\_for\_loaded\_asset
 
 ```python
 @classmethod
@@ -372,7 +372,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.get_package_for_object"></a>
 
-#### get_package_for_object
+#### get\_package\_for\_object
 
 ```python
 @classmethod
@@ -390,7 +390,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.get_metadata_tag_values"></a>
 
-#### get_metadata_tag_values
+#### get\_metadata\_tag\_values
 
 ```python
 @classmethod
@@ -408,7 +408,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.get_metadata_tag"></a>
 
-#### get_metadata_tag
+#### get\_metadata\_tag
 
 ```python
 @classmethod
@@ -427,7 +427,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.find_package_referencers_for_asset"></a>
 
-#### find_package_referencers_for_asset
+#### find\_package\_referencers\_for\_asset
 
 ```python
 @classmethod
@@ -453,7 +453,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.find_asset_data"></a>
 
-#### find_asset_data
+#### find\_asset\_data
 
 ```python
 @classmethod
@@ -471,7 +471,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.duplicate_loaded_asset"></a>
 
-#### duplicate_loaded_asset
+#### duplicate\_loaded\_asset
 
 ```python
 @classmethod
@@ -491,7 +491,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.duplicate_directory"></a>
 
-#### duplicate_directory
+#### duplicate\_directory
 
 ```python
 @classmethod
@@ -512,7 +512,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.duplicate_asset"></a>
 
-#### duplicate_asset
+#### duplicate\_asset
 
 ```python
 @classmethod
@@ -532,7 +532,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.does_directory_have_assets"></a>
 
-#### does_directory_have_assets
+#### does\_directory\_have\_assets
 
 ```python
 @classmethod
@@ -553,7 +553,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.does_directory_exist"></a>
 
-#### does_directory_exist
+#### does\_directory\_exist
 
 ```python
 @classmethod
@@ -571,7 +571,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.does_asset_exist"></a>
 
-#### does_asset_exist
+#### does\_asset\_exist
 
 ```python
 @classmethod
@@ -589,7 +589,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.do_assets_exist"></a>
 
-#### do_assets_exist
+#### do\_assets\_exist
 
 ```python
 @classmethod
@@ -607,7 +607,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.delete_loaded_assets"></a>
 
-#### delete_loaded_assets
+#### delete\_loaded\_assets
 
 ```python
 @classmethod
@@ -628,7 +628,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.delete_loaded_asset"></a>
 
-#### delete_loaded_asset
+#### delete\_loaded\_asset
 
 ```python
 @classmethod
@@ -649,7 +649,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.delete_directory"></a>
 
-#### delete_directory
+#### delete\_directory
 
 ```python
 @classmethod
@@ -671,7 +671,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.delete_asset"></a>
 
-#### delete_asset
+#### delete\_asset
 
 ```python
 @classmethod
@@ -692,7 +692,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.consolidate_assets"></a>
 
-#### consolidate_assets
+#### consolidate\_assets
 
 ```python
 @classmethod
@@ -717,7 +717,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.checkout_loaded_assets"></a>
 
-#### checkout_loaded_assets
+#### checkout\_loaded\_assets
 
 ```python
 @classmethod
@@ -735,7 +735,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.checkout_loaded_asset"></a>
 
-#### checkout_loaded_asset
+#### checkout\_loaded\_asset
 
 ```python
 @classmethod
@@ -753,7 +753,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.checkout_directory"></a>
 
-#### checkout_directory
+#### checkout\_directory
 
 ```python
 @classmethod
@@ -775,7 +775,7 @@ Returns:
 
 <a id="unreal.EditorAssetLibrary.checkout_asset"></a>
 
-#### checkout_asset
+#### checkout\_asset
 
 ```python
 @classmethod

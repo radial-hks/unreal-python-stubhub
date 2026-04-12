@@ -27,7 +27,7 @@ Describes a single metadata value collected from USD
 
 <a id="unreal.UsdMetadataValue.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type_name: str = "", stringified_value: str = "") -> None
@@ -35,7 +35,7 @@ def __init__(type_name: str = "", stringified_value: str = "") -> None
 
 <a id="unreal.UsdMetadataValue.type_name"></a>
 
-#### type_name
+#### type\_name
 
 ```python
 @property
@@ -50,7 +50,7 @@ that we *do* support (it's the typeName for list-editable attributes like "apiSc
 
 <a id="unreal.UsdMetadataValue.type_name"></a>
 
-#### type_name
+#### type\_name
 
 ```python
 @type_name.setter
@@ -59,7 +59,7 @@ def type_name(value: str) -> None
 
 <a id="unreal.UsdMetadataValue.stringified_value"></a>
 
-#### stringified_value
+#### stringified\_value
 
 ```python
 @property
@@ -74,7 +74,7 @@ Blueprint and Python
 
 <a id="unreal.UsdMetadataValue.stringified_value"></a>
 
-#### stringified_value
+#### stringified\_value
 
 ```python
 @stringified_value.setter

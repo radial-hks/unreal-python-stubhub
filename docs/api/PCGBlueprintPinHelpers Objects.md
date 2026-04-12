@@ -14,7 +14,7 @@ PCGBlueprint Pin Helpers
 
 <a id="unreal.PCGBlueprintPinHelpers.is_of_type"></a>
 
-#### is_of_type
+#### is\_of\_type
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintPinHelpers.is_exactly_same_type"></a>
 
-#### is_exactly_same_type
+#### is\_exactly\_same\_type
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.PCGBlueprintPinHelpers.get_corresponding_data_type"></a>
 
-#### get_corresponding_data_type
+#### get\_corresponding\_data\_type
 
 ```python
 @classmethod

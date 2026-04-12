@@ -18,10 +18,10 @@ Args:
 
 <a id="unreal.OnSpectrumResults.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None
 ```
 
-<a id="unreal.LocationServicesData_OnLocationChanged"></a>
+<a id="unreal.DataRegistryItemAcquiredBPCallback"></a>

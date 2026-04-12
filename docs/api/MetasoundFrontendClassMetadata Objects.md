@@ -26,7 +26,7 @@ Metasound Frontend Class Metadata
 
 <a id="unreal.MetasoundFrontendClassMetadata.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

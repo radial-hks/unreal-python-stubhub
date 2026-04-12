@@ -14,19 +14,19 @@ EBase Calculation Type
 
 <a id="unreal.BaseCalculationType.PERCENTAGE_BASED"></a>
 
-#### PERCENTAGE_BASED
+#### PERCENTAGE\_BASED
 
 1: Determines the number of bases that should be used with the given percentage
 
 <a id="unreal.BaseCalculationType.FIXED_NUMBER"></a>
 
-#### FIXED_NUMBER
+#### FIXED\_NUMBER
 
 2: Set a fixed number of bases to import
 
 <a id="unreal.BaseCalculationType.NO_COMPRESSION"></a>
 
-#### NO_COMPRESSION
+#### NO\_COMPRESSION
 
 3: One base per frame, uncompressed
 

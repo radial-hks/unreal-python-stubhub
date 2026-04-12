@@ -8,7 +8,7 @@ deprecated: 'RigGraphDisplaySettings' was renamed to 'RigVMEdGraphDisplaySetting
 
 <a id="unreal.RigGraphDisplaySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

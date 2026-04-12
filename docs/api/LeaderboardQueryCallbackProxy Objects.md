@@ -19,7 +19,7 @@ Leaderboard Query Callback Proxy
 
 <a id="unreal.LeaderboardQueryCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_success() -> LeaderboardQueryResult
 
 <a id="unreal.LeaderboardQueryCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -39,7 +39,7 @@ def on_success(value: LeaderboardQueryResult) -> None
 
 <a id="unreal.LeaderboardQueryCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_failure() -> LeaderboardQueryResult
 
 <a id="unreal.LeaderboardQueryCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @on_failure.setter

@@ -19,7 +19,7 @@ Information about a single tile in a tile set
 
 <a id="unreal.PaperTileMetadata.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(user_data_name: Name = "None") -> None
@@ -27,7 +27,7 @@ def __init__(user_data_name: Name = "None") -> None
 
 <a id="unreal.PaperTileMetadata.user_data_name"></a>
 
-#### user_data_name
+#### user\_data\_name
 
 ```python
 @property

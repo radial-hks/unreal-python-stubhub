@@ -18,7 +18,7 @@ A struct exposing size param related properties to UMG.
 
 <a id="unreal.SlateChildSize.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: float = 0.000000,
@@ -47,7 +47,7 @@ def value(value: float) -> None
 
 <a id="unreal.SlateChildSize.size_rule"></a>
 
-#### size_rule
+#### size\_rule
 
 ```python
 @property
@@ -58,7 +58,7 @@ def size_rule() -> SlateSizeRule
 
 <a id="unreal.SlateChildSize.size_rule"></a>
 
-#### size_rule
+#### size\_rule
 
 ```python
 @size_rule.setter

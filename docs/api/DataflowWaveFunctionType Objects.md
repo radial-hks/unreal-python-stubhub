@@ -14,25 +14,25 @@ EDataflow Wave Function Type
 
 <a id="unreal.DataflowWaveFunctionType.DATAFLOW_WAVE_FUNCTION_TYPE_COSINE"></a>
 
-#### DATAFLOW_WAVE_FUNCTION_TYPE_COSINE
+#### DATAFLOW\_WAVE\_FUNCTION\_TYPE\_COSINE
 
 0: Cosine wave that will move in time.
 
 <a id="unreal.DataflowWaveFunctionType.DATAFLOW_WAVE_FUNCTION_TYPE_GAUSSIAN"></a>
 
-#### DATAFLOW_WAVE_FUNCTION_TYPE_GAUSSIAN
+#### DATAFLOW\_WAVE\_FUNCTION\_TYPE\_GAUSSIAN
 
 1: Gaussian wave that will move in time.
 
 <a id="unreal.DataflowWaveFunctionType.DATAFLOW_WAVE_FUNCTION_TYPE_FALLOFF"></a>
 
-#### DATAFLOW_WAVE_FUNCTION_TYPE_FALLOFF
+#### DATAFLOW\_WAVE\_FUNCTION\_TYPE\_FALLOFF
 
 2: The radial falloff radius will move along temporal wave.
 
 <a id="unreal.DataflowWaveFunctionType.DATAFLOW_WAVE_FUNCTION_TYPE_DECAY"></a>
 
-#### DATAFLOW_WAVE_FUNCTION_TYPE_DECAY
+#### DATAFLOW\_WAVE\_FUNCTION\_TYPE\_DECAY
 
 3: The magnitude of the field will decay in time.
 

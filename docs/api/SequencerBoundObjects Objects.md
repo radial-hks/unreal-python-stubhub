@@ -19,7 +19,7 @@ Sequencer Bound Objects
 
 <a id="unreal.SequencerBoundObjects.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(binding_proxy: MovieSceneBindingProxy = [[], None],
@@ -28,7 +28,7 @@ def __init__(binding_proxy: MovieSceneBindingProxy = [[], None],
 
 <a id="unreal.SequencerBoundObjects.binding_proxy"></a>
 
-#### binding_proxy
+#### binding\_proxy
 
 ```python
 @property
@@ -39,7 +39,7 @@ def binding_proxy() -> MovieSceneBindingProxy
 
 <a id="unreal.SequencerBoundObjects.binding_proxy"></a>
 
-#### binding_proxy
+#### binding\_proxy
 
 ```python
 @binding_proxy.setter
@@ -48,7 +48,7 @@ def binding_proxy(value: MovieSceneBindingProxy) -> None
 
 <a id="unreal.SequencerBoundObjects.bound_objects"></a>
 
-#### bound_objects
+#### bound\_objects
 
 ```python
 @property
@@ -59,7 +59,7 @@ def bound_objects() -> Array[Object]
 
 <a id="unreal.SequencerBoundObjects.bound_objects"></a>
 
-#### bound_objects
+#### bound\_objects
 
 ```python
 @bound_objects.setter

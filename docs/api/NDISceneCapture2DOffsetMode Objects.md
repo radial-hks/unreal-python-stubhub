@@ -20,19 +20,19 @@ ENDIScene Capture 2DOffset Mode
 
 <a id="unreal.NDISceneCapture2DOffsetMode.RELATIVE_LOCAL"></a>
 
-#### RELATIVE_LOCAL
+#### RELATIVE\_LOCAL
 
 1: The offset is in the component local space.
 
 <a id="unreal.NDISceneCapture2DOffsetMode.RELATIVE_WORLD"></a>
 
-#### RELATIVE_WORLD
+#### RELATIVE\_WORLD
 
 2: The offset is in world space, i.e. added to the exising value directly.
 
 <a id="unreal.NDISceneCapture2DOffsetMode.ABSOLUTE_WORLD"></a>
 
-#### ABSOLUTE_WORLD
+#### ABSOLUTE\_WORLD
 
 3: The offset is applied directly, i.e. not added to the existing valud
 

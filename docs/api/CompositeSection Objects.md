@@ -27,7 +27,7 @@ This only contains composite section information. (vertical sequences)
 
 <a id="unreal.CompositeSection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

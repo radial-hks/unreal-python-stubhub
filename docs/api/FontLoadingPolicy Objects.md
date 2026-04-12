@@ -13,7 +13,7 @@ EFont Loading Policy
 
 <a id="unreal.FontLoadingPolicy.LAZY_LOAD"></a>
 
-#### LAZY_LOAD
+#### LAZY\_LOAD
 
 0: Lazy load the entire font into memory. This will consume more memory than Streaming, however there will be zero file-IO when rendering glyphs within the font, although the initial load may cause a hitch.
 

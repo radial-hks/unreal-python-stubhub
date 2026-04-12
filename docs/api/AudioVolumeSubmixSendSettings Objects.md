@@ -18,7 +18,7 @@ Struct to determine dynamic submix send data for use with audio volumes.
 
 <a id="unreal.AudioVolumeSubmixSendSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -29,7 +29,7 @@ def __init__(
 
 <a id="unreal.AudioVolumeSubmixSendSettings.listener_location_state"></a>
 
-#### listener_location_state
+#### listener\_location\_state
 
 ```python
 @property
@@ -40,7 +40,7 @@ def listener_location_state() -> AudioVolumeLocationState
 
 <a id="unreal.AudioVolumeSubmixSendSettings.listener_location_state"></a>
 
-#### listener_location_state
+#### listener\_location\_state
 
 ```python
 @listener_location_state.setter
@@ -49,7 +49,7 @@ def listener_location_state(value: AudioVolumeLocationState) -> None
 
 <a id="unreal.AudioVolumeSubmixSendSettings.submix_sends"></a>
 
-#### submix_sends
+#### submix\_sends
 
 ```python
 @property
@@ -60,7 +60,7 @@ def submix_sends() -> Array[SoundSubmixSendInfo]
 
 <a id="unreal.AudioVolumeSubmixSendSettings.submix_sends"></a>
 
-#### submix_sends
+#### submix\_sends
 
 ```python
 @submix_sends.setter

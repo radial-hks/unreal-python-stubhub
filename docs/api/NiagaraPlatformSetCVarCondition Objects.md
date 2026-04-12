@@ -29,7 +29,7 @@ Imposes a condition that a CVar must contain a set value or range of values for 
 
 <a id="unreal.NiagaraPlatformSetCVarCondition.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

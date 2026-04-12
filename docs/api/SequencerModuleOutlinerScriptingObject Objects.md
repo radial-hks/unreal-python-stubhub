@@ -17,7 +17,7 @@ Sequencer Module Outliner Scripting Object
 
 <a id="unreal.SequencerModuleOutlinerScriptingObject.get_previous_key"></a>
 
-#### get_previous_key
+#### get\_previous\_key
 
 ```python
 def get_previous_key(
@@ -40,7 +40,7 @@ Returns:
 
 <a id="unreal.SequencerModuleOutlinerScriptingObject.get_next_key"></a>
 
-#### get_next_key
+#### get\_next\_key
 
 ```python
 def get_next_key(

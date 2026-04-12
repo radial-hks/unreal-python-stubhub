@@ -21,7 +21,7 @@ A pose for a skeletal mesh
 
 <a id="unreal.PoseSnapshot.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(local_transforms: Array[Transform] = [],
@@ -33,7 +33,7 @@ def __init__(local_transforms: Array[Transform] = [],
 
 <a id="unreal.PoseSnapshot.local_transforms"></a>
 
-#### local_transforms
+#### local\_transforms
 
 ```python
 @property
@@ -44,7 +44,7 @@ def local_transforms() -> Array[Transform]
 
 <a id="unreal.PoseSnapshot.local_transforms"></a>
 
-#### local_transforms
+#### local\_transforms
 
 ```python
 @local_transforms.setter
@@ -53,7 +53,7 @@ def local_transforms(value: Array[Transform]) -> None
 
 <a id="unreal.PoseSnapshot.bone_names"></a>
 
-#### bone_names
+#### bone\_names
 
 ```python
 @property
@@ -64,7 +64,7 @@ def bone_names() -> Array[Name]
 
 <a id="unreal.PoseSnapshot.bone_names"></a>
 
-#### bone_names
+#### bone\_names
 
 ```python
 @bone_names.setter
@@ -73,7 +73,7 @@ def bone_names(value: Array[Name]) -> None
 
 <a id="unreal.PoseSnapshot.skeletal_mesh_name"></a>
 
-#### skeletal_mesh_name
+#### skeletal\_mesh\_name
 
 ```python
 @property
@@ -84,7 +84,7 @@ def skeletal_mesh_name() -> Name
 
 <a id="unreal.PoseSnapshot.skeletal_mesh_name"></a>
 
-#### skeletal_mesh_name
+#### skeletal\_mesh\_name
 
 ```python
 @skeletal_mesh_name.setter
@@ -93,7 +93,7 @@ def skeletal_mesh_name(value: Name) -> None
 
 <a id="unreal.PoseSnapshot.snapshot_name"></a>
 
-#### snapshot_name
+#### snapshot\_name
 
 ```python
 @property
@@ -104,7 +104,7 @@ def snapshot_name() -> Name
 
 <a id="unreal.PoseSnapshot.snapshot_name"></a>
 
-#### snapshot_name
+#### snapshot\_name
 
 ```python
 @snapshot_name.setter
@@ -113,7 +113,7 @@ def snapshot_name(value: Name) -> None
 
 <a id="unreal.PoseSnapshot.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @property
@@ -124,7 +124,7 @@ def is_valid() -> bool
 
 <a id="unreal.PoseSnapshot.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @is_valid.setter

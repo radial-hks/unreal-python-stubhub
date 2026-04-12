@@ -38,7 +38,7 @@ note: This implies that translation, rotation and scale will be affected by swit
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.orientation_axis_x"></a>
 
-#### orientation_axis_x
+#### orientation\_axis\_x
 
 ```python
 @property
@@ -50,7 +50,7 @@ deprecated: Use FrontAxis, RightAxis, UpAxis instead
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.orientation_axis_x"></a>
 
-#### orientation_axis_x
+#### orientation\_axis\_x
 
 ```python
 @orientation_axis_x.setter
@@ -59,7 +59,7 @@ def orientation_axis_x(value: LiveLinkAxis) -> None
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.axis_x"></a>
 
-#### axis_x
+#### axis\_x
 
 ```python
 @property
@@ -70,7 +70,7 @@ deprecated: 'axis_x' was renamed to 'orientation_axis_x'.
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.axis_x"></a>
 
-#### axis_x
+#### axis\_x
 
 ```python
 @axis_x.setter
@@ -79,7 +79,7 @@ def axis_x(value: LiveLinkAxis) -> None
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.orientation_axis_y"></a>
 
-#### orientation_axis_y
+#### orientation\_axis\_y
 
 ```python
 @property
@@ -91,7 +91,7 @@ deprecated: Use FrontAxis, RightAxis, UpAxis instead
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.orientation_axis_y"></a>
 
-#### orientation_axis_y
+#### orientation\_axis\_y
 
 ```python
 @orientation_axis_y.setter
@@ -100,7 +100,7 @@ def orientation_axis_y(value: LiveLinkAxis) -> None
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.axis_y"></a>
 
-#### axis_y
+#### axis\_y
 
 ```python
 @property
@@ -111,7 +111,7 @@ deprecated: 'axis_y' was renamed to 'orientation_axis_y'.
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.axis_y"></a>
 
-#### axis_y
+#### axis\_y
 
 ```python
 @axis_y.setter
@@ -120,7 +120,7 @@ def axis_y(value: LiveLinkAxis) -> None
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.orientation_axis_z"></a>
 
-#### orientation_axis_z
+#### orientation\_axis\_z
 
 ```python
 @property
@@ -132,7 +132,7 @@ deprecated: Use FrontAxis, RightAxis, UpAxis instead
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.orientation_axis_z"></a>
 
-#### orientation_axis_z
+#### orientation\_axis\_z
 
 ```python
 @orientation_axis_z.setter
@@ -141,7 +141,7 @@ def orientation_axis_z(value: LiveLinkAxis) -> None
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.axis_z"></a>
 
-#### axis_z
+#### axis\_z
 
 ```python
 @property
@@ -152,7 +152,7 @@ deprecated: 'axis_z' was renamed to 'orientation_axis_z'.
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.axis_z"></a>
 
-#### axis_z
+#### axis\_z
 
 ```python
 @axis_z.setter
@@ -161,7 +161,7 @@ def axis_z(value: LiveLinkAxis) -> None
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.translation_axis_x"></a>
 
-#### translation_axis_x
+#### translation\_axis\_x
 
 ```python
 @property
@@ -173,7 +173,7 @@ deprecated: Use FrontAxis, RightAxis, UpAxis instead
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.translation_axis_x"></a>
 
-#### translation_axis_x
+#### translation\_axis\_x
 
 ```python
 @translation_axis_x.setter
@@ -182,7 +182,7 @@ def translation_axis_x(value: LiveLinkAxis) -> None
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.translation_axis_y"></a>
 
-#### translation_axis_y
+#### translation\_axis\_y
 
 ```python
 @property
@@ -194,7 +194,7 @@ deprecated: Use FrontAxis, RightAxis, UpAxis instead
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.translation_axis_y"></a>
 
-#### translation_axis_y
+#### translation\_axis\_y
 
 ```python
 @translation_axis_y.setter
@@ -203,7 +203,7 @@ def translation_axis_y(value: LiveLinkAxis) -> None
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.translation_axis_z"></a>
 
-#### translation_axis_z
+#### translation\_axis\_z
 
 ```python
 @property
@@ -215,7 +215,7 @@ deprecated: Use FrontAxis, RightAxis, UpAxis instead
 
 <a id="unreal.LiveLinkTransformAxisSwitchPreProcessor.translation_axis_z"></a>
 
-#### translation_axis_z
+#### translation\_axis\_z
 
 ```python
 @translation_axis_z.setter

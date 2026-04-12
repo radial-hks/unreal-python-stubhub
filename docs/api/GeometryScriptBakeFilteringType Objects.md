@@ -14,7 +14,7 @@ EGeometry Script Bake Filtering Type
 
 <a id="unreal.GeometryScriptBakeFilteringType.B_SPLINE"></a>
 
-#### B_SPLINE
+#### B\_SPLINE
 
 0
 

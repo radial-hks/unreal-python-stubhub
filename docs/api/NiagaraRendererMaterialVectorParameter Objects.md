@@ -19,7 +19,7 @@ Niagara Renderer Material Vector Parameter
 
 <a id="unreal.NiagaraRendererMaterialVectorParameter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

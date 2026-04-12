@@ -14,19 +14,19 @@ Enumerates the options for importing all meshes as one type.
 
 <a id="unreal.InterchangeForceMeshType.IFMT_NONE"></a>
 
-#### IFMT_NONE
+#### IFMT\_NONE
 
 0: Import both static meshes and skeletal meshes from the source without converting them.
 
 <a id="unreal.InterchangeForceMeshType.IFMT_STATIC_MESH"></a>
 
-#### IFMT_STATIC_MESH
+#### IFMT\_STATIC\_MESH
 
 1: Import all meshes from the source as static meshes.
 
 <a id="unreal.InterchangeForceMeshType.IFMT_SKELETAL_MESH"></a>
 
-#### IFMT_SKELETAL_MESH
+#### IFMT\_SKELETAL\_MESH
 
 2: Import all meshes from the source as skeletal meshes.
 

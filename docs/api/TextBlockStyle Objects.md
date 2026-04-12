@@ -27,7 +27,7 @@ Represents the appearance of an STextBlock
 
 <a id="unreal.TextBlockStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -110,7 +110,7 @@ def font(value: SlateFontInfo) -> None
 
 <a id="unreal.TextBlockStyle.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @property
@@ -121,7 +121,7 @@ def color_and_opacity() -> SlateColor
 
 <a id="unreal.TextBlockStyle.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @color_and_opacity.setter
@@ -130,7 +130,7 @@ def color_and_opacity(value: SlateColor) -> None
 
 <a id="unreal.TextBlockStyle.shadow_offset"></a>
 
-#### shadow_offset
+#### shadow\_offset
 
 ```python
 @property
@@ -141,7 +141,7 @@ def shadow_offset() -> DeprecateSlateVector2D
 
 <a id="unreal.TextBlockStyle.shadow_offset"></a>
 
-#### shadow_offset
+#### shadow\_offset
 
 ```python
 @shadow_offset.setter
@@ -150,7 +150,7 @@ def shadow_offset(value: DeprecateSlateVector2D) -> None
 
 <a id="unreal.TextBlockStyle.shadow_color_and_opacity"></a>
 
-#### shadow_color_and_opacity
+#### shadow\_color\_and\_opacity
 
 ```python
 @property
@@ -161,7 +161,7 @@ def shadow_color_and_opacity() -> LinearColor
 
 <a id="unreal.TextBlockStyle.shadow_color_and_opacity"></a>
 
-#### shadow_color_and_opacity
+#### shadow\_color\_and\_opacity
 
 ```python
 @shadow_color_and_opacity.setter
@@ -170,7 +170,7 @@ def shadow_color_and_opacity(value: LinearColor) -> None
 
 <a id="unreal.TextBlockStyle.highlight_color"></a>
 
-#### highlight_color
+#### highlight\_color
 
 ```python
 @property
@@ -181,7 +181,7 @@ def highlight_color() -> SlateColor
 
 <a id="unreal.TextBlockStyle.highlight_color"></a>
 
-#### highlight_color
+#### highlight\_color
 
 ```python
 @highlight_color.setter
@@ -190,7 +190,7 @@ def highlight_color(value: SlateColor) -> None
 
 <a id="unreal.TextBlockStyle.highlight_shape"></a>
 
-#### highlight_shape
+#### highlight\_shape
 
 ```python
 @property
@@ -201,7 +201,7 @@ def highlight_shape() -> SlateBrush
 
 <a id="unreal.TextBlockStyle.highlight_shape"></a>
 
-#### highlight_shape
+#### highlight\_shape
 
 ```python
 @highlight_shape.setter
@@ -210,7 +210,7 @@ def highlight_shape(value: SlateBrush) -> None
 
 <a id="unreal.TextBlockStyle.strike_brush"></a>
 
-#### strike_brush
+#### strike\_brush
 
 ```python
 @property
@@ -221,7 +221,7 @@ def strike_brush() -> SlateBrush
 
 <a id="unreal.TextBlockStyle.strike_brush"></a>
 
-#### strike_brush
+#### strike\_brush
 
 ```python
 @strike_brush.setter
@@ -230,7 +230,7 @@ def strike_brush(value: SlateBrush) -> None
 
 <a id="unreal.TextBlockStyle.underline_brush"></a>
 
-#### underline_brush
+#### underline\_brush
 
 ```python
 @property
@@ -241,7 +241,7 @@ def underline_brush() -> SlateBrush
 
 <a id="unreal.TextBlockStyle.underline_brush"></a>
 
-#### underline_brush
+#### underline\_brush
 
 ```python
 @underline_brush.setter
@@ -250,7 +250,7 @@ def underline_brush(value: SlateBrush) -> None
 
 <a id="unreal.TextBlockStyle.transform_policy"></a>
 
-#### transform_policy
+#### transform\_policy
 
 ```python
 @property
@@ -261,7 +261,7 @@ def transform_policy() -> TextTransformPolicy
 
 <a id="unreal.TextBlockStyle.transform_policy"></a>
 
-#### transform_policy
+#### transform\_policy
 
 ```python
 @transform_policy.setter
@@ -270,7 +270,7 @@ def transform_policy(value: TextTransformPolicy) -> None
 
 <a id="unreal.TextBlockStyle.overflow_policy"></a>
 
-#### overflow_policy
+#### overflow\_policy
 
 ```python
 @property
@@ -281,7 +281,7 @@ def overflow_policy() -> TextOverflowPolicy
 
 <a id="unreal.TextBlockStyle.overflow_policy"></a>
 
-#### overflow_policy
+#### overflow\_policy
 
 ```python
 @overflow_policy.setter

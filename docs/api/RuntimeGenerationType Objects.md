@@ -19,7 +19,7 @@ Supported options for runtime navigation data generation
 
 <a id="unreal.RuntimeGenerationType.DYNAMIC_MODIFIERS_ONLY"></a>
 
-#### DYNAMIC_MODIFIERS_ONLY
+#### DYNAMIC\_MODIFIERS\_ONLY
 
 1: Supports only navigation modifiers updates
 

@@ -13,7 +13,7 @@ Asset Registry Helpers
 
 <a id="unreal.AssetRegistryHelpers.to_soft_object_path"></a>
 
-#### to_soft_object_path
+#### to\_soft\_object\_path
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.sort_by_predicate"></a>
 
-#### sort_by_predicate
+#### sort\_by\_predicate
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.sort_by_asset_name"></a>
 
-#### sort_by_asset_name
+#### sort\_by\_asset\_name
 
 ```python
 @classmethod
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.set_filter_tags_and_values"></a>
 
-#### set_filter_tags_and_values
+#### set\_filter\_tags\_and\_values
 
 ```python
 @classmethod
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @classmethod
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.is_u_asset"></a>
 
-#### is_u_asset
+#### is\_u\_asset
 
 ```python
 @classmethod
@@ -134,7 +134,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.is_redirector"></a>
 
-#### is_redirector
+#### is\_redirector
 
 ```python
 @classmethod
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.is_asset_loaded"></a>
 
-#### is_asset_loaded
+#### is\_asset\_loaded
 
 ```python
 @classmethod
@@ -170,7 +170,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.get_tag_value"></a>
 
-#### get_tag_value
+#### get\_tag\_value
 
 ```python
 @classmethod
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.get_full_name"></a>
 
-#### get_full_name
+#### get\_full\_name
 
 ```python
 @classmethod
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.get_export_text_name"></a>
 
-#### get_export_text_name
+#### get\_export\_text\_name
 
 ```python
 @classmethod
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.get_class"></a>
 
-#### get_class
+#### get\_class
 
 ```python
 @classmethod
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.get_blueprint_assets"></a>
 
-#### get_blueprint_assets
+#### get\_blueprint\_assets
 
 ```python
 @classmethod
@@ -265,7 +265,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.get_asset_registry"></a>
 
-#### get_asset_registry
+#### get\_asset\_registry
 
 ```python
 @classmethod
@@ -280,7 +280,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.get_asset"></a>
 
-#### get_asset
+#### get\_asset
 
 ```python
 @classmethod
@@ -298,7 +298,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.find_asset_native_class"></a>
 
-#### find_asset_native_class
+#### find\_asset\_native\_class
 
 ```python
 @classmethod
@@ -318,7 +318,7 @@ Returns:
 
 <a id="unreal.AssetRegistryHelpers.create_asset_data"></a>
 
-#### create_asset_data
+#### create\_asset\_data
 
 ```python
 @classmethod

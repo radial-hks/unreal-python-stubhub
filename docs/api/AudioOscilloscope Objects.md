@@ -66,7 +66,7 @@ Supports displaying waveforms from incoming audio samples.
 
 <a id="unreal.AudioOscilloscope.oscilloscope_style"></a>
 
-#### oscilloscope_style
+#### oscilloscope\_style
 
 ```python
 @property
@@ -77,7 +77,7 @@ def oscilloscope_style() -> AudioOscilloscopePanelStyle
 
 <a id="unreal.AudioOscilloscope.audio_bus"></a>
 
-#### audio_bus
+#### audio\_bus
 
 ```python
 @property
@@ -88,7 +88,7 @@ def audio_bus() -> AudioBus
 
 <a id="unreal.AudioOscilloscope.max_time_window_ms"></a>
 
-#### max_time_window_ms
+#### max\_time\_window\_ms
 
 ```python
 @property
@@ -99,7 +99,7 @@ def max_time_window_ms() -> float
 
 <a id="unreal.AudioOscilloscope.time_window_ms"></a>
 
-#### time_window_ms
+#### time\_window\_ms
 
 ```python
 @property
@@ -110,7 +110,7 @@ def time_window_ms() -> float
 
 <a id="unreal.AudioOscilloscope.analysis_period_ms"></a>
 
-#### analysis_period_ms
+#### analysis\_period\_ms
 
 ```python
 @property
@@ -121,7 +121,7 @@ def analysis_period_ms() -> float
 
 <a id="unreal.AudioOscilloscope.show_time_grid"></a>
 
-#### show_time_grid
+#### show\_time\_grid
 
 ```python
 @property
@@ -132,7 +132,7 @@ def show_time_grid() -> bool
 
 <a id="unreal.AudioOscilloscope.time_grid_labels_unit"></a>
 
-#### time_grid_labels_unit
+#### time\_grid\_labels\_unit
 
 ```python
 @property
@@ -143,7 +143,7 @@ def time_grid_labels_unit() -> XAxisLabelsUnit
 
 <a id="unreal.AudioOscilloscope.show_amplitude_grid"></a>
 
-#### show_amplitude_grid
+#### show\_amplitude\_grid
 
 ```python
 @property
@@ -154,7 +154,7 @@ def show_amplitude_grid() -> bool
 
 <a id="unreal.AudioOscilloscope.show_amplitude_labels"></a>
 
-#### show_amplitude_labels
+#### show\_amplitude\_labels
 
 ```python
 @property
@@ -165,7 +165,7 @@ def show_amplitude_labels() -> bool
 
 <a id="unreal.AudioOscilloscope.amplitude_grid_labels_unit"></a>
 
-#### amplitude_grid_labels_unit
+#### amplitude\_grid\_labels\_unit
 
 ```python
 @property
@@ -176,7 +176,7 @@ def amplitude_grid_labels_unit() -> YAxisLabelsUnit
 
 <a id="unreal.AudioOscilloscope.trigger_mode"></a>
 
-#### trigger_mode
+#### trigger\_mode
 
 ```python
 @property
@@ -187,7 +187,7 @@ def trigger_mode() -> AudioOscilloscopeTriggerMode
 
 <a id="unreal.AudioOscilloscope.trigger_threshold"></a>
 
-#### trigger_threshold
+#### trigger\_threshold
 
 ```python
 @property
@@ -198,7 +198,7 @@ def trigger_threshold() -> float
 
 <a id="unreal.AudioOscilloscope.panel_layout_type"></a>
 
-#### panel_layout_type
+#### panel\_layout\_type
 
 ```python
 @property
@@ -209,7 +209,7 @@ def panel_layout_type() -> AudioPanelLayoutType
 
 <a id="unreal.AudioOscilloscope.channel_to_analyze"></a>
 
-#### channel_to_analyze
+#### channel\_to\_analyze
 
 ```python
 @property
@@ -220,7 +220,7 @@ def channel_to_analyze() -> int
 
 <a id="unreal.AudioOscilloscope.stop_processing"></a>
 
-#### stop_processing
+#### stop\_processing
 
 ```python
 def stop_processing() -> None
@@ -231,7 +231,7 @@ Stops the oscilloscope processing.
 
 <a id="unreal.AudioOscilloscope.start_processing"></a>
 
-#### start_processing
+#### start\_processing
 
 ```python
 def start_processing() -> None

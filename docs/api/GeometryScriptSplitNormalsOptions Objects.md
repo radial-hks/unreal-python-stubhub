@@ -21,7 +21,7 @@ Geometry Script Split Normals Options
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(split_by_opening_angle: bool = False,
@@ -32,7 +32,7 @@ def __init__(split_by_opening_angle: bool = False,
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.split_by_opening_angle"></a>
 
-#### split_by_opening_angle
+#### split\_by\_opening\_angle
 
 ```python
 @property
@@ -43,7 +43,7 @@ def split_by_opening_angle() -> bool
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.split_by_opening_angle"></a>
 
-#### split_by_opening_angle
+#### split\_by\_opening\_angle
 
 ```python
 @split_by_opening_angle.setter
@@ -52,7 +52,7 @@ def split_by_opening_angle(value: bool) -> None
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.opening_angle_deg"></a>
 
-#### opening_angle_deg
+#### opening\_angle\_deg
 
 ```python
 @property
@@ -63,7 +63,7 @@ def opening_angle_deg() -> float
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.opening_angle_deg"></a>
 
-#### opening_angle_deg
+#### opening\_angle\_deg
 
 ```python
 @opening_angle_deg.setter
@@ -72,7 +72,7 @@ def opening_angle_deg(value: float) -> None
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.split_by_face_group"></a>
 
-#### split_by_face_group
+#### split\_by\_face\_group
 
 ```python
 @property
@@ -83,7 +83,7 @@ def split_by_face_group() -> bool
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.split_by_face_group"></a>
 
-#### split_by_face_group
+#### split\_by\_face\_group
 
 ```python
 @split_by_face_group.setter
@@ -92,7 +92,7 @@ def split_by_face_group(value: bool) -> None
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.group_layer"></a>
 
-#### group_layer
+#### group\_layer
 
 ```python
 @property
@@ -103,7 +103,7 @@ def group_layer() -> GeometryScriptGroupLayer
 
 <a id="unreal.GeometryScriptSplitNormalsOptions.group_layer"></a>
 
-#### group_layer
+#### group\_layer
 
 ```python
 @group_layer.setter

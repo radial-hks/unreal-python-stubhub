@@ -24,7 +24,7 @@ In a random order. If shuffle mode is enabled then each entry will be played onc
 
 <a id="unreal.RandomPlayerSequenceEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sequence: AnimSequenceBase = None,
@@ -57,7 +57,7 @@ def sequence(value: AnimSequenceBase) -> None
 
 <a id="unreal.RandomPlayerSequenceEntry.chance_to_play"></a>
 
-#### chance_to_play
+#### chance\_to\_play
 
 ```python
 @property
@@ -68,7 +68,7 @@ def chance_to_play() -> float
 
 <a id="unreal.RandomPlayerSequenceEntry.chance_to_play"></a>
 
-#### chance_to_play
+#### chance\_to\_play
 
 ```python
 @chance_to_play.setter
@@ -77,7 +77,7 @@ def chance_to_play(value: float) -> None
 
 <a id="unreal.RandomPlayerSequenceEntry.min_loop_count"></a>
 
-#### min_loop_count
+#### min\_loop\_count
 
 ```python
 @property
@@ -88,7 +88,7 @@ def min_loop_count() -> int
 
 <a id="unreal.RandomPlayerSequenceEntry.min_loop_count"></a>
 
-#### min_loop_count
+#### min\_loop\_count
 
 ```python
 @min_loop_count.setter
@@ -97,7 +97,7 @@ def min_loop_count(value: int) -> None
 
 <a id="unreal.RandomPlayerSequenceEntry.max_loop_count"></a>
 
-#### max_loop_count
+#### max\_loop\_count
 
 ```python
 @property
@@ -108,7 +108,7 @@ def max_loop_count() -> int
 
 <a id="unreal.RandomPlayerSequenceEntry.max_loop_count"></a>
 
-#### max_loop_count
+#### max\_loop\_count
 
 ```python
 @max_loop_count.setter
@@ -117,7 +117,7 @@ def max_loop_count(value: int) -> None
 
 <a id="unreal.RandomPlayerSequenceEntry.min_play_rate"></a>
 
-#### min_play_rate
+#### min\_play\_rate
 
 ```python
 @property
@@ -128,7 +128,7 @@ def min_play_rate() -> float
 
 <a id="unreal.RandomPlayerSequenceEntry.min_play_rate"></a>
 
-#### min_play_rate
+#### min\_play\_rate
 
 ```python
 @min_play_rate.setter
@@ -137,7 +137,7 @@ def min_play_rate(value: float) -> None
 
 <a id="unreal.RandomPlayerSequenceEntry.max_play_rate"></a>
 
-#### max_play_rate
+#### max\_play\_rate
 
 ```python
 @property
@@ -148,7 +148,7 @@ def max_play_rate() -> float
 
 <a id="unreal.RandomPlayerSequenceEntry.max_play_rate"></a>
 
-#### max_play_rate
+#### max\_play\_rate
 
 ```python
 @max_play_rate.setter

@@ -25,7 +25,7 @@ Running in PIE (play-in-editor) will generate one of these per PIE instance.
 
 <a id="unreal.GameInstance.on_pawn_controller_changed_delegates"></a>
 
-#### on_pawn_controller_changed_delegates
+#### on\_pawn\_controller\_changed\_delegates
 
 ```python
 @property
@@ -39,7 +39,7 @@ def on_pawn_controller_changed_delegates() -> OnPawnControllerChanged
 
 <a id="unreal.GameInstance.on_pawn_controller_changed_delegates"></a>
 
-#### on_pawn_controller_changed_delegates
+#### on\_pawn\_controller\_changed\_delegates
 
 ```python
 @on_pawn_controller_changed_delegates.setter
@@ -49,7 +49,7 @@ def on_pawn_controller_changed_delegates(
 
 <a id="unreal.GameInstance.on_input_device_connection_change"></a>
 
-#### on_input_device_connection_change
+#### on\_input\_device\_connection\_change
 
 ```python
 @property
@@ -60,7 +60,7 @@ def on_input_device_connection_change() -> OnUserInputDeviceConnectionChange
 
 <a id="unreal.GameInstance.on_input_device_connection_change"></a>
 
-#### on_input_device_connection_change
+#### on\_input\_device\_connection\_change
 
 ```python
 @on_input_device_connection_change.setter
@@ -70,7 +70,7 @@ def on_input_device_connection_change(
 
 <a id="unreal.GameInstance.on_user_input_device_pairing_change"></a>
 
-#### on_user_input_device_pairing_change
+#### on\_user\_input\_device\_pairing\_change
 
 ```python
 @property
@@ -81,7 +81,7 @@ def on_user_input_device_pairing_change() -> OnUserInputDevicePairingChange
 
 <a id="unreal.GameInstance.on_user_input_device_pairing_change"></a>
 
-#### on_user_input_device_pairing_change
+#### on\_user\_input\_device\_pairing\_change
 
 ```python
 @on_user_input_device_pairing_change.setter
@@ -91,7 +91,7 @@ def on_user_input_device_pairing_change(
 
 <a id="unreal.GameInstance.receive_shutdown"></a>
 
-#### receive_shutdown
+#### receive\_shutdown
 
 ```python
 def receive_shutdown() -> None
@@ -102,7 +102,7 @@ Opportunity for blueprints to handle the game instance being shutdown.
 
 <a id="unreal.GameInstance.receive_init"></a>
 
-#### receive_init
+#### receive\_init
 
 ```python
 def receive_init() -> None
@@ -113,7 +113,7 @@ Opportunity for blueprints to handle the game instance being initialized.
 
 <a id="unreal.GameInstance.handle_travel_error"></a>
 
-#### handle_travel_error
+#### handle\_travel\_error
 
 ```python
 def handle_travel_error(failure_type: TravelFailure) -> None
@@ -127,7 +127,7 @@ Args:
 
 <a id="unreal.GameInstance.handle_network_error"></a>
 
-#### handle_network_error
+#### handle\_network\_error
 
 ```python
 def handle_network_error(failure_type: NetworkFailure,

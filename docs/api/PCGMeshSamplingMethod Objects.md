@@ -14,20 +14,20 @@ EPCGMesh Sampling Method
 
 <a id="unreal.PCGMeshSamplingMethod.ONE_POINT_PER_TRIANGLE"></a>
 
-#### ONE_POINT_PER_TRIANGLE
+#### ONE\_POINT\_PER\_TRIANGLE
 
 0: Sample one point (at the center) of each triangle of the mesh.
 
 <a id="unreal.PCGMeshSamplingMethod.ONE_POINT_PER_VERTEX"></a>
 
-#### ONE_POINT_PER_VERTEX
+#### ONE\_POINT\_PER\_VERTEX
 
 1: Sample one point per vertex on the mesh.
 
 <a id="unreal.PCGMeshSamplingMethod.POISSON_SAMPLING"></a>
 
-#### POISSON_SAMPLING
+#### POISSON\_SAMPLING
 
 2: Use Poisson sampling to sample points on the mesh. Can be expensive and therefore it is not framebound.
 
-<a id="unreal.TextureRotationDirection"></a>
+<a id="unreal.EarthGizmoCoordAxisSpace"></a>

@@ -13,25 +13,25 @@ The network role of an actor on a local/remote network context
 
 <a id="unreal.NetRole.ROLE_NONE"></a>
 
-#### ROLE_NONE
+#### ROLE\_NONE
 
 0: No role at all.
 
 <a id="unreal.NetRole.ROLE_SIMULATED_PROXY"></a>
 
-#### ROLE_SIMULATED_PROXY
+#### ROLE\_SIMULATED\_PROXY
 
 1: Locally simulated proxy of this actor.
 
 <a id="unreal.NetRole.ROLE_AUTONOMOUS_PROXY"></a>
 
-#### ROLE_AUTONOMOUS_PROXY
+#### ROLE\_AUTONOMOUS\_PROXY
 
 2: Locally autonomous proxy of this actor.
 
 <a id="unreal.NetRole.ROLE_AUTHORITY"></a>
 
-#### ROLE_AUTHORITY
+#### ROLE\_AUTHORITY
 
 3: Authoritative control over the actor.
 

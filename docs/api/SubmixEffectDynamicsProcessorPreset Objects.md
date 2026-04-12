@@ -37,7 +37,7 @@ def settings(value: SubmixEffectDynamicsProcessorSettings) -> None
 
 <a id="unreal.SubmixEffectDynamicsProcessorPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectDynamicsProcessorSettings) -> None
@@ -51,7 +51,7 @@ Args:
 
 <a id="unreal.SubmixEffectDynamicsProcessorPreset.set_external_submix"></a>
 
-#### set_external_submix
+#### set\_external\_submix
 
 ```python
 def set_external_submix(submix: SoundSubmix) -> None
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.SubmixEffectDynamicsProcessorPreset.set_audio_bus"></a>
 
-#### set_audio_bus
+#### set\_audio\_bus
 
 ```python
 def set_audio_bus(audio_bus: AudioBus) -> None
@@ -81,7 +81,7 @@ Args:
 
 <a id="unreal.SubmixEffectDynamicsProcessorPreset.reset_key"></a>
 
-#### reset_key
+#### reset\_key
 
 ```python
 def reset_key() -> None

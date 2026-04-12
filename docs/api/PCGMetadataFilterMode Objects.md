@@ -14,13 +14,13 @@ EPCGMetadata Filter Mode
 
 <a id="unreal.PCGMetadataFilterMode.EXCLUDE_ATTRIBUTES"></a>
 
-#### EXCLUDE_ATTRIBUTES
+#### EXCLUDE\_ATTRIBUTES
 
 0: The listed attributes will be unchanged by the projection and will not be added from the target data.
 
 <a id="unreal.PCGMetadataFilterMode.INCLUDE_ATTRIBUTES"></a>
 
-#### INCLUDE_ATTRIBUTES
+#### INCLUDE\_ATTRIBUTES
 
 1: Only the listed attributes will be changed by the projection or added from the target data.
 

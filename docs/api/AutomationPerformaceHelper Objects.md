@@ -16,7 +16,7 @@ Triggering and ending of writing full stats to a file.
 
 <a id="unreal.AutomationPerformaceHelper.write_log_file"></a>
 
-#### write_log_file
+#### write\_log\_file
 
 ```python
 def write_log_file(capture_dir: str, capture_extension: str) -> None
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.AutomationPerformaceHelper.trigger_gpu_trace_if_record_falls_below_budget"></a>
 
-#### trigger_gpu_trace_if_record_falls_below_budget
+#### trigger\_gpu\_trace\_if\_record\_falls\_below\_budget
 
 ```python
 def trigger_gpu_trace_if_record_falls_below_budget() -> None
@@ -56,7 +56,7 @@ Args:
 
 <a id="unreal.AutomationPerformaceHelper.stop_cpu_profiling"></a>
 
-#### stop_cpu_profiling
+#### stop\_cpu\_profiling
 
 ```python
 def stop_cpu_profiling() -> None
@@ -67,7 +67,7 @@ Communicates with external profiler to end a CPU capture.
 
 <a id="unreal.AutomationPerformaceHelper.start_cpu_profiling"></a>
 
-#### start_cpu_profiling
+#### start\_cpu\_profiling
 
 ```python
 def start_cpu_profiling() -> None
@@ -92,7 +92,7 @@ Args:
 
 <a id="unreal.AutomationPerformaceHelper.on_begin_tests"></a>
 
-#### on_begin_tests
+#### on\_begin\_tests
 
 ```python
 def on_begin_tests() -> None
@@ -103,7 +103,7 @@ Does any init work across all tests..
 
 <a id="unreal.AutomationPerformaceHelper.on_all_tests_complete"></a>
 
-#### on_all_tests_complete
+#### on\_all\_tests\_complete
 
 ```python
 def on_all_tests_complete() -> None
@@ -114,7 +114,7 @@ Does any final work needed as all tests are complete.
 
 <a id="unreal.AutomationPerformaceHelper.is_recording"></a>
 
-#### is_recording
+#### is\_recording
 
 ```python
 def is_recording() -> bool
@@ -128,7 +128,7 @@ Returns:
 
 <a id="unreal.AutomationPerformaceHelper.is_current_record_within_render_thread_budget"></a>
 
-#### is_current_record_within_render_thread_budget
+#### is\_current\_record\_within\_render\_thread\_budget
 
 ```python
 def is_current_record_within_render_thread_budget() -> bool
@@ -142,7 +142,7 @@ Returns:
 
 <a id="unreal.AutomationPerformaceHelper.is_current_record_within_gpu_budget"></a>
 
-#### is_current_record_within_gpu_budget
+#### is\_current\_record\_within\_gpu\_budget
 
 ```python
 def is_current_record_within_gpu_budget() -> bool
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.AutomationPerformaceHelper.is_current_record_within_game_thread_budget"></a>
 
-#### is_current_record_within_game_thread_budget
+#### is\_current\_record\_within\_game\_thread\_budget
 
 ```python
 def is_current_record_within_game_thread_budget() -> bool
@@ -170,7 +170,7 @@ Returns:
 
 <a id="unreal.AutomationPerformaceHelper.end_stats_file"></a>
 
-#### end_stats_file
+#### end\_stats\_file
 
 ```python
 def end_stats_file() -> None
@@ -181,7 +181,7 @@ Ends recording stats to a file.
 
 <a id="unreal.AutomationPerformaceHelper.end_recording_baseline"></a>
 
-#### end_recording_baseline
+#### end\_recording\_baseline
 
 ```python
 def end_recording_baseline() -> None
@@ -192,7 +192,7 @@ Stops recording the baseline and moves to the main record.
 
 <a id="unreal.AutomationPerformaceHelper.end_recording"></a>
 
-#### end_recording
+#### end\_recording
 
 ```python
 def end_recording() -> None
@@ -203,7 +203,7 @@ Stops recording performance stats.
 
 <a id="unreal.AutomationPerformaceHelper.begin_stats_file"></a>
 
-#### begin_stats_file
+#### begin\_stats\_file
 
 ```python
 def begin_stats_file(record_name: str) -> None
@@ -217,7 +217,7 @@ Args:
 
 <a id="unreal.AutomationPerformaceHelper.begin_recording_baseline"></a>
 
-#### begin_recording_baseline
+#### begin\_recording\_baseline
 
 ```python
 def begin_recording_baseline(record_name: str) -> None
@@ -231,7 +231,7 @@ Args:
 
 <a id="unreal.AutomationPerformaceHelper.begin_recording"></a>
 
-#### begin_recording
+#### begin\_recording
 
 ```python
 def begin_recording(record_name: str, gpu_budget: float,

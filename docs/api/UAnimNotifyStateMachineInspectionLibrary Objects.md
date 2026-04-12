@@ -13,7 +13,7 @@ A library of commonly used functionality for Notifies related to state machines,
 
 <a id="unreal.UAnimNotifyStateMachineInspectionLibrary.is_triggered_by_state_machine"></a>
 
-#### is_triggered_by_state_machine
+#### is\_triggered\_by\_state\_machine
 
 ```python
 @classmethod
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.UAnimNotifyStateMachineInspectionLibrary.is_triggered_by_state_in_state_machine"></a>
 
-#### is_triggered_by_state_in_state_machine
+#### is\_triggered\_by\_state\_in\_state\_machine
 
 ```python
 @classmethod
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.UAnimNotifyStateMachineInspectionLibrary.is_triggered_by_state"></a>
 
-#### is_triggered_by_state
+#### is\_triggered\_by\_state
 
 ```python
 @classmethod

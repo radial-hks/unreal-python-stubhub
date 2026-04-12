@@ -22,13 +22,13 @@ Enumeration of available FFT sizes in audio frames.
 
 <a id="unreal.ConstantQFFTSizeEnum.XX_SMALL"></a>
 
-#### XX_SMALL
+#### XX\_SMALL
 
 1: 128
 
 <a id="unreal.ConstantQFFTSizeEnum.X_SMALL"></a>
 
-#### X_SMALL
+#### X\_SMALL
 
 2: 256
 
@@ -52,13 +52,13 @@ Enumeration of available FFT sizes in audio frames.
 
 <a id="unreal.ConstantQFFTSizeEnum.X_LARGE"></a>
 
-#### X_LARGE
+#### X\_LARGE
 
 6: 4096
 
 <a id="unreal.ConstantQFFTSizeEnum.XX_LARGE"></a>
 
-#### XX_LARGE
+#### XX\_LARGE
 
 7: 8192
 

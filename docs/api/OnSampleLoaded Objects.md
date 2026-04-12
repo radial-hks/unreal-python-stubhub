@@ -14,7 +14,7 @@ Called when a sample has finished loading into the sample player
 
 <a id="unreal.OnSampleLoaded.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

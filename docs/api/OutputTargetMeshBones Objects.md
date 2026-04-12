@@ -14,14 +14,14 @@ EOutput Target Mesh Bones
 
 <a id="unreal.OutputTargetMeshBones.SOURCE_BONES"></a>
 
-#### SOURCE_BONES
+#### SOURCE\_BONES
 
 0: When transferring weights, the SourceMesh bone attriubtes will be copied over to the TargetMesh, replacing any
 existing one, and transferred weights will be indexing the copied bone attributes.
 
 <a id="unreal.OutputTargetMeshBones.TARGET_BONES"></a>
 
-#### TARGET_BONES
+#### TARGET\_BONES
 
 1: When transferring weights, if the TargetMesh has bone attributes, then the transferred SourceMesh weights will be
 reindexed with respect to the TargetMesh bones. In cases where a transferred SourceMesh weight refers to a bone

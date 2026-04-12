@@ -20,13 +20,13 @@ EGeometry Script Bake Curvature Clamp Mode
 
 <a id="unreal.GeometryScriptBakeCurvatureClampMode.ONLY_POSITIVE"></a>
 
-#### ONLY_POSITIVE
+#### ONLY\_POSITIVE
 
 1: Clamp negative curvatures to zero
 
 <a id="unreal.GeometryScriptBakeCurvatureClampMode.ONLY_NEGATIVE"></a>
 
-#### ONLY_NEGATIVE
+#### ONLY\_NEGATIVE
 
 2: Clamp positive curvatures to zero
 

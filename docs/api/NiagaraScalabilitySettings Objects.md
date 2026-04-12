@@ -8,7 +8,7 @@ deprecated: 'NiagaraScalabilitySettings' was renamed to 'NiagaraSystemScalabilit
 
 <a id="unreal.NiagaraScalabilitySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -73,7 +73,7 @@ Cascade, a ParticleSystem can then be inserted into a level or created in script
 
 <a id="unreal.ParticleSystem.contains_emitter_type"></a>
 
-#### contains_emitter_type
+#### contains\_emitter\_type
 
 ```python
 def contains_emitter_type(type_data: Class) -> bool

@@ -8,7 +8,7 @@ deprecated: 'EditorScriptingMeshReductionOptions' was renamed to 'StaticMeshRedu
 
 <a id="unreal.EditorScriptingMeshReductionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

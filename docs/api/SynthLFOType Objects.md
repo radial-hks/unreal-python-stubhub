@@ -20,13 +20,13 @@ ESynth LFOType
 
 <a id="unreal.SynthLFOType.UP_SAW"></a>
 
-#### UP_SAW
+#### UP\_SAW
 
 1
 
 <a id="unreal.SynthLFOType.DOWN_SAW"></a>
 
-#### DOWN_SAW
+#### DOWN\_SAW
 
 2
 
@@ -50,7 +50,7 @@ ESynth LFOType
 
 <a id="unreal.SynthLFOType.RANDOM_SAMPLE_HOLD"></a>
 
-#### RANDOM_SAMPLE_HOLD
+#### RANDOM\_SAMPLE\_HOLD
 
 6
 

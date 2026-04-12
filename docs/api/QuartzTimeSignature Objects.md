@@ -19,7 +19,7 @@ Quartz Time Signature
 
 <a id="unreal.QuartzTimeSignature.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -32,7 +32,7 @@ def __init__(
 
 <a id="unreal.QuartzTimeSignature.num_beats"></a>
 
-#### num_beats
+#### num\_beats
 
 ```python
 @property
@@ -43,7 +43,7 @@ def num_beats() -> int
 
 <a id="unreal.QuartzTimeSignature.num_beats"></a>
 
-#### num_beats
+#### num\_beats
 
 ```python
 @num_beats.setter
@@ -52,7 +52,7 @@ def num_beats(value: int) -> None
 
 <a id="unreal.QuartzTimeSignature.beat_type"></a>
 
-#### beat_type
+#### beat\_type
 
 ```python
 @property
@@ -63,7 +63,7 @@ def beat_type() -> QuartzTimeSignatureQuantization
 
 <a id="unreal.QuartzTimeSignature.beat_type"></a>
 
-#### beat_type
+#### beat\_type
 
 ```python
 @beat_type.setter
@@ -72,7 +72,7 @@ def beat_type(value: QuartzTimeSignatureQuantization) -> None
 
 <a id="unreal.QuartzTimeSignature.optional_pulse_override"></a>
 
-#### optional_pulse_override
+#### optional\_pulse\_override
 
 ```python
 @property
@@ -83,7 +83,7 @@ def optional_pulse_override() -> Array[QuartzPulseOverrideStep]
 
 <a id="unreal.QuartzTimeSignature.optional_pulse_override"></a>
 
-#### optional_pulse_override
+#### optional\_pulse\_override
 
 ```python
 @optional_pulse_override.setter

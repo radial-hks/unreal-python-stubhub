@@ -21,7 +21,7 @@ Represents the appearance of an SEditableText
 
 <a id="unreal.EditableTextStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -93,7 +93,7 @@ def font(value: SlateFontInfo) -> None
 
 <a id="unreal.EditableTextStyle.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @property
@@ -104,7 +104,7 @@ def color_and_opacity() -> SlateColor
 
 <a id="unreal.EditableTextStyle.color_and_opacity"></a>
 
-#### color_and_opacity
+#### color\_and\_opacity
 
 ```python
 @color_and_opacity.setter
@@ -113,7 +113,7 @@ def color_and_opacity(value: SlateColor) -> None
 
 <a id="unreal.EditableTextStyle.background_image_selected"></a>
 
-#### background_image_selected
+#### background\_image\_selected
 
 ```python
 @property
@@ -124,7 +124,7 @@ def background_image_selected() -> SlateBrush
 
 <a id="unreal.EditableTextStyle.background_image_selected"></a>
 
-#### background_image_selected
+#### background\_image\_selected
 
 ```python
 @background_image_selected.setter
@@ -133,7 +133,7 @@ def background_image_selected(value: SlateBrush) -> None
 
 <a id="unreal.EditableTextStyle.background_image_composing"></a>
 
-#### background_image_composing
+#### background\_image\_composing
 
 ```python
 @property
@@ -144,7 +144,7 @@ def background_image_composing() -> SlateBrush
 
 <a id="unreal.EditableTextStyle.background_image_composing"></a>
 
-#### background_image_composing
+#### background\_image\_composing
 
 ```python
 @background_image_composing.setter
@@ -153,7 +153,7 @@ def background_image_composing(value: SlateBrush) -> None
 
 <a id="unreal.EditableTextStyle.caret_image"></a>
 
-#### caret_image
+#### caret\_image
 
 ```python
 @property
@@ -164,7 +164,7 @@ def caret_image() -> SlateBrush
 
 <a id="unreal.EditableTextStyle.caret_image"></a>
 
-#### caret_image
+#### caret\_image
 
 ```python
 @caret_image.setter

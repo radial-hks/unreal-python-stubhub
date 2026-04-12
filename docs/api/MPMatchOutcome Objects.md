@@ -44,7 +44,7 @@ EMPMatchOutcome represents all the possible outcomes for this player in a match
 
 <a id="unreal.MPMatchOutcome.TIME_EXPIRED"></a>
 
-#### TIME_EXPIRED
+#### TIME\_EXPIRED
 
 5
 

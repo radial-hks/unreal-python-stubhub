@@ -14,19 +14,19 @@ EPCGSelf Pruning Type
 
 <a id="unreal.PCGSelfPruningType.LARGE_TO_SMALL"></a>
 
-#### LARGE_TO_SMALL
+#### LARGE\_TO\_SMALL
 
 0
 
 <a id="unreal.PCGSelfPruningType.SMALL_TO_LARGE"></a>
 
-#### SMALL_TO_LARGE
+#### SMALL\_TO\_LARGE
 
 1
 
 <a id="unreal.PCGSelfPruningType.ALL_EQUAL"></a>
 
-#### ALL_EQUAL
+#### ALL\_EQUAL
 
 2
 
@@ -38,7 +38,7 @@ EPCGSelf Pruning Type
 
 <a id="unreal.PCGSelfPruningType.REMOVE_DUPLICATES"></a>
 
-#### REMOVE_DUPLICATES
+#### REMOVE\_DUPLICATES
 
 4
 

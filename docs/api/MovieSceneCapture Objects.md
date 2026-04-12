@@ -45,7 +45,7 @@ def settings(value: MovieSceneCaptureSettings) -> None
 
 <a id="unreal.MovieSceneCapture.use_separate_process"></a>
 
-#### use_separate_process
+#### use\_separate\_process
 
 ```python
 @property
@@ -56,7 +56,7 @@ def use_separate_process() -> bool
 
 <a id="unreal.MovieSceneCapture.use_separate_process"></a>
 
-#### use_separate_process
+#### use\_separate\_process
 
 ```python
 @use_separate_process.setter
@@ -65,7 +65,7 @@ def use_separate_process(value: bool) -> None
 
 <a id="unreal.MovieSceneCapture.close_editor_when_capture_starts"></a>
 
-#### close_editor_when_capture_starts
+#### close\_editor\_when\_capture\_starts
 
 ```python
 @property
@@ -76,7 +76,7 @@ def close_editor_when_capture_starts() -> bool
 
 <a id="unreal.MovieSceneCapture.close_editor_when_capture_starts"></a>
 
-#### close_editor_when_capture_starts
+#### close\_editor\_when\_capture\_starts
 
 ```python
 @close_editor_when_capture_starts.setter
@@ -85,7 +85,7 @@ def close_editor_when_capture_starts(value: bool) -> None
 
 <a id="unreal.MovieSceneCapture.additional_command_line_arguments"></a>
 
-#### additional_command_line_arguments
+#### additional\_command\_line\_arguments
 
 ```python
 @property
@@ -96,7 +96,7 @@ def additional_command_line_arguments() -> str
 
 <a id="unreal.MovieSceneCapture.additional_command_line_arguments"></a>
 
-#### additional_command_line_arguments
+#### additional\_command\_line\_arguments
 
 ```python
 @additional_command_line_arguments.setter
@@ -105,7 +105,7 @@ def additional_command_line_arguments(value: str) -> None
 
 <a id="unreal.MovieSceneCapture.inherited_command_line_arguments"></a>
 
-#### inherited_command_line_arguments
+#### inherited\_command\_line\_arguments
 
 ```python
 @property
@@ -116,7 +116,7 @@ def inherited_command_line_arguments() -> str
 
 <a id="unreal.MovieSceneCapture.inherited_command_line_arguments"></a>
 
-#### inherited_command_line_arguments
+#### inherited\_command\_line\_arguments
 
 ```python
 @inherited_command_line_arguments.setter
@@ -125,7 +125,7 @@ def inherited_command_line_arguments(value: str) -> None
 
 <a id="unreal.MovieSceneCapture.set_image_capture_protocol_type"></a>
 
-#### set_image_capture_protocol_type
+#### set\_image\_capture\_protocol\_type
 
 ```python
 def set_image_capture_protocol_type(protocol_type: Class) -> None
@@ -139,7 +139,7 @@ Args:
 
 <a id="unreal.MovieSceneCapture.set_audio_capture_protocol_type"></a>
 
-#### set_audio_capture_protocol_type
+#### set\_audio\_capture\_protocol\_type
 
 ```python
 def set_audio_capture_protocol_type(protocol_type: Class) -> None
@@ -153,7 +153,7 @@ Args:
 
 <a id="unreal.MovieSceneCapture.get_image_capture_protocol"></a>
 
-#### get_image_capture_protocol
+#### get\_image\_capture\_protocol
 
 ```python
 def get_image_capture_protocol() -> MovieSceneCaptureProtocolBase
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.MovieSceneCapture.get_audio_capture_protocol"></a>
 
-#### get_audio_capture_protocol
+#### get\_audio\_capture\_protocol
 
 ```python
 def get_audio_capture_protocol() -> MovieSceneCaptureProtocolBase

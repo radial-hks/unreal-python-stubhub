@@ -22,10 +22,10 @@ Niagara Sim Stage Execution Loop Editor Data
 
 <a id="unreal.NiagaraSimStageExecutionLoopEditorData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.CalibratedMapFormat"></a>
+<a id="unreal.TakeRecorderTrackSettings"></a>

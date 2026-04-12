@@ -20,7 +20,7 @@ Water Body Static Mesh Settings
 
 <a id="unreal.WaterBodyStaticMeshSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

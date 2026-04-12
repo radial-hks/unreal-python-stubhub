@@ -34,7 +34,7 @@ PCGWorld Ray Hit Settings
 
 <a id="unreal.PCGWorldRayHitSettings.query_params"></a>
 
-#### query_params
+#### query\_params
 
 ```python
 @property
@@ -45,7 +45,7 @@ def query_params() -> PCGWorldRayHitQueryParams
 
 <a id="unreal.PCGWorldRayHitSettings.query_params"></a>
 
-#### query_params
+#### query\_params
 
 ```python
 @query_params.setter

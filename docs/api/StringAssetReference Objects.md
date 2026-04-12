@@ -8,7 +8,7 @@ deprecated: 'StringAssetReference' was renamed to 'SoftObjectPath'.
 
 <a id="unreal.StringAssetReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(path_string: str = "") -> None

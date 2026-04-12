@@ -18,7 +18,7 @@ Timed Data Input Evaluation Data
 
 <a id="unreal.TimedDataInputEvaluationData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(distance_to_newest_sample_seconds: float = 0.000000,
@@ -27,7 +27,7 @@ def __init__(distance_to_newest_sample_seconds: float = 0.000000,
 
 <a id="unreal.TimedDataInputEvaluationData.distance_to_newest_sample_seconds"></a>
 
-#### distance_to_newest_sample_seconds
+#### distance\_to\_newest\_sample\_seconds
 
 ```python
 @property
@@ -38,7 +38,7 @@ def distance_to_newest_sample_seconds() -> float
 
 <a id="unreal.TimedDataInputEvaluationData.distance_to_newest_sample_seconds"></a>
 
-#### distance_to_newest_sample_seconds
+#### distance\_to\_newest\_sample\_seconds
 
 ```python
 @distance_to_newest_sample_seconds.setter
@@ -47,7 +47,7 @@ def distance_to_newest_sample_seconds(value: float) -> None
 
 <a id="unreal.TimedDataInputEvaluationData.distance_to_oldest_sample_seconds"></a>
 
-#### distance_to_oldest_sample_seconds
+#### distance\_to\_oldest\_sample\_seconds
 
 ```python
 @property
@@ -58,7 +58,7 @@ def distance_to_oldest_sample_seconds() -> float
 
 <a id="unreal.TimedDataInputEvaluationData.distance_to_oldest_sample_seconds"></a>
 
-#### distance_to_oldest_sample_seconds
+#### distance\_to\_oldest\_sample\_seconds
 
 ```python
 @distance_to_oldest_sample_seconds.setter

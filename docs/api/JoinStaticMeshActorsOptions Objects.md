@@ -19,7 +19,7 @@ Join Static Mesh Actors Options
 
 <a id="unreal.JoinStaticMeshActorsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(destroy_source_actors: bool = False,
@@ -29,7 +29,7 @@ def __init__(destroy_source_actors: bool = False,
 
 <a id="unreal.JoinStaticMeshActorsOptions.destroy_source_actors"></a>
 
-#### destroy_source_actors
+#### destroy\_source\_actors
 
 ```python
 @property
@@ -40,7 +40,7 @@ def destroy_source_actors() -> bool
 
 <a id="unreal.JoinStaticMeshActorsOptions.destroy_source_actors"></a>
 
-#### destroy_source_actors
+#### destroy\_source\_actors
 
 ```python
 @destroy_source_actors.setter
@@ -49,7 +49,7 @@ def destroy_source_actors(value: bool) -> None
 
 <a id="unreal.JoinStaticMeshActorsOptions.new_actor_label"></a>
 
-#### new_actor_label
+#### new\_actor\_label
 
 ```python
 @property
@@ -60,7 +60,7 @@ def new_actor_label() -> str
 
 <a id="unreal.JoinStaticMeshActorsOptions.new_actor_label"></a>
 
-#### new_actor_label
+#### new\_actor\_label
 
 ```python
 @new_actor_label.setter
@@ -69,7 +69,7 @@ def new_actor_label(value: str) -> None
 
 <a id="unreal.JoinStaticMeshActorsOptions.rename_components_from_source"></a>
 
-#### rename_components_from_source
+#### rename\_components\_from\_source
 
 ```python
 @property
@@ -80,7 +80,7 @@ def rename_components_from_source() -> bool
 
 <a id="unreal.JoinStaticMeshActorsOptions.rename_components_from_source"></a>
 
-#### rename_components_from_source
+#### rename\_components\_from\_source
 
 ```python
 @rename_components_from_source.setter

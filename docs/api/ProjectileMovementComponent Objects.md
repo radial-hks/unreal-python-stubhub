@@ -144,7 +144,7 @@ see: UMovementComponent
 
 <a id="unreal.ProjectileMovementComponent.initial_speed"></a>
 
-#### initial_speed
+#### initial\_speed
 
 ```python
 @property
@@ -155,7 +155,7 @@ def initial_speed() -> float
 
 <a id="unreal.ProjectileMovementComponent.initial_speed"></a>
 
-#### initial_speed
+#### initial\_speed
 
 ```python
 @initial_speed.setter
@@ -184,7 +184,7 @@ def speed(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.max_speed"></a>
 
-#### max_speed
+#### max\_speed
 
 ```python
 @property
@@ -195,7 +195,7 @@ def max_speed() -> float
 
 <a id="unreal.ProjectileMovementComponent.max_speed"></a>
 
-#### max_speed
+#### max\_speed
 
 ```python
 @max_speed.setter
@@ -204,7 +204,7 @@ def max_speed(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.rotation_follows_velocity"></a>
 
-#### rotation_follows_velocity
+#### rotation\_follows\_velocity
 
 ```python
 @property
@@ -215,7 +215,7 @@ def rotation_follows_velocity() -> bool
 
 <a id="unreal.ProjectileMovementComponent.rotation_follows_velocity"></a>
 
-#### rotation_follows_velocity
+#### rotation\_follows\_velocity
 
 ```python
 @rotation_follows_velocity.setter
@@ -224,7 +224,7 @@ def rotation_follows_velocity(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.rotation_remains_vertical"></a>
 
-#### rotation_remains_vertical
+#### rotation\_remains\_vertical
 
 ```python
 @property
@@ -235,7 +235,7 @@ def rotation_remains_vertical() -> bool
 
 <a id="unreal.ProjectileMovementComponent.rotation_remains_vertical"></a>
 
-#### rotation_remains_vertical
+#### rotation\_remains\_vertical
 
 ```python
 @rotation_remains_vertical.setter
@@ -244,7 +244,7 @@ def rotation_remains_vertical(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.should_bounce"></a>
 
-#### should_bounce
+#### should\_bounce
 
 ```python
 @property
@@ -255,7 +255,7 @@ def should_bounce() -> bool
 
 <a id="unreal.ProjectileMovementComponent.should_bounce"></a>
 
-#### should_bounce
+#### should\_bounce
 
 ```python
 @should_bounce.setter
@@ -264,7 +264,7 @@ def should_bounce(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.initial_velocity_in_local_space"></a>
 
-#### initial_velocity_in_local_space
+#### initial\_velocity\_in\_local\_space
 
 ```python
 @property
@@ -276,7 +276,7 @@ see: SetVelocityInLocalSpace()
 
 <a id="unreal.ProjectileMovementComponent.initial_velocity_in_local_space"></a>
 
-#### initial_velocity_in_local_space
+#### initial\_velocity\_in\_local\_space
 
 ```python
 @initial_velocity_in_local_space.setter
@@ -285,7 +285,7 @@ def initial_velocity_in_local_space(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.force_sub_stepping"></a>
 
-#### force_sub_stepping
+#### force\_sub\_stepping
 
 ```python
 @property
@@ -299,7 +299,7 @@ see: MaxSimulationTimeStep, MaxSimulationIterations
 
 <a id="unreal.ProjectileMovementComponent.force_sub_stepping"></a>
 
-#### force_sub_stepping
+#### force\_sub\_stepping
 
 ```python
 @force_sub_stepping.setter
@@ -308,7 +308,7 @@ def force_sub_stepping(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.simulation_enabled"></a>
 
-#### simulation_enabled
+#### simulation\_enabled
 
 ```python
 @property
@@ -319,7 +319,7 @@ def simulation_enabled() -> bool
 
 <a id="unreal.ProjectileMovementComponent.simulation_enabled"></a>
 
-#### simulation_enabled
+#### simulation\_enabled
 
 ```python
 @simulation_enabled.setter
@@ -328,7 +328,7 @@ def simulation_enabled(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.sweep_collision"></a>
 
-#### sweep_collision
+#### sweep\_collision
 
 ```python
 @property
@@ -340,7 +340,7 @@ If false, collision effectively teleports to the destination. Note that when thi
 
 <a id="unreal.ProjectileMovementComponent.sweep_collision"></a>
 
-#### sweep_collision
+#### sweep\_collision
 
 ```python
 @sweep_collision.setter
@@ -349,7 +349,7 @@ def sweep_collision(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.is_homing_projectile"></a>
 
-#### is_homing_projectile
+#### is\_homing\_projectile
 
 ```python
 @property
@@ -361,7 +361,7 @@ see: HomingTargetComponent, HomingAccelerationMagnitude
 
 <a id="unreal.ProjectileMovementComponent.is_homing_projectile"></a>
 
-#### is_homing_projectile
+#### is\_homing\_projectile
 
 ```python
 @is_homing_projectile.setter
@@ -370,7 +370,7 @@ def is_homing_projectile(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.bounce_angle_affects_friction"></a>
 
-#### bounce_angle_affects_friction
+#### bounce\_angle\_affects\_friction
 
 ```python
 @property
@@ -383,7 +383,7 @@ If false, a bounce will retain a proportion of tangential velocity equal to (1.0
 
 <a id="unreal.ProjectileMovementComponent.bounce_angle_affects_friction"></a>
 
-#### bounce_angle_affects_friction
+#### bounce\_angle\_affects\_friction
 
 ```python
 @bounce_angle_affects_friction.setter
@@ -392,7 +392,7 @@ def bounce_angle_affects_friction(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.is_sliding"></a>
 
-#### is_sliding
+#### is\_sliding
 
 ```python
 @property
@@ -403,7 +403,7 @@ def is_sliding() -> bool
 
 <a id="unreal.ProjectileMovementComponent.interp_movement"></a>
 
-#### interp_movement
+#### interp\_movement
 
 ```python
 @property
@@ -417,7 +417,7 @@ see: SetInterpolatedComponent(), MoveInterpolationTarget()
 
 <a id="unreal.ProjectileMovementComponent.interp_movement"></a>
 
-#### interp_movement
+#### interp\_movement
 
 ```python
 @interp_movement.setter
@@ -426,7 +426,7 @@ def interp_movement(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.interp_rotation"></a>
 
-#### interp_rotation
+#### interp\_rotation
 
 ```python
 @property
@@ -440,7 +440,7 @@ see: SetInterpolatedComponent(), MoveInterpolationTarget()
 
 <a id="unreal.ProjectileMovementComponent.interp_rotation"></a>
 
-#### interp_rotation
+#### interp\_rotation
 
 ```python
 @interp_rotation.setter
@@ -449,7 +449,7 @@ def interp_rotation(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation"></a>
 
-#### throttle_interpolation
+#### throttle\_interpolation
 
 ```python
 @property
@@ -461,7 +461,7 @@ see: ThrottleInterpolationSkipFramesNotRecent, ThrottleInterpolationSkipFramesRe
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation"></a>
 
-#### throttle_interpolation
+#### throttle\_interpolation
 
 ```python
 @throttle_interpolation.setter
@@ -470,7 +470,7 @@ def throttle_interpolation(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.simulation_use_scoped_movement"></a>
 
-#### simulation_use_scoped_movement
+#### simulation\_use\_scoped\_movement
 
 ```python
 @property
@@ -482,7 +482,7 @@ This also defers overlap updates and some impact events until after the simulati
 
 <a id="unreal.ProjectileMovementComponent.simulation_use_scoped_movement"></a>
 
-#### simulation_use_scoped_movement
+#### simulation\_use\_scoped\_movement
 
 ```python
 @simulation_use_scoped_movement.setter
@@ -491,7 +491,7 @@ def simulation_use_scoped_movement(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.interpolation_use_scoped_movement"></a>
 
-#### interpolation_use_scoped_movement
+#### interpolation\_use\_scoped\_movement
 
 ```python
 @property
@@ -503,7 +503,7 @@ This also defers overlap updates for the interpolated object until after the sim
 
 <a id="unreal.ProjectileMovementComponent.interpolation_use_scoped_movement"></a>
 
-#### interpolation_use_scoped_movement
+#### interpolation\_use\_scoped\_movement
 
 ```python
 @interpolation_use_scoped_movement.setter
@@ -512,7 +512,7 @@ def interpolation_use_scoped_movement(value: bool) -> None
 
 <a id="unreal.ProjectileMovementComponent.previous_hit_time"></a>
 
-#### previous_hit_time
+#### previous\_hit\_time
 
 ```python
 @property
@@ -523,7 +523,7 @@ def previous_hit_time() -> float
 
 <a id="unreal.ProjectileMovementComponent.previous_hit_normal"></a>
 
-#### previous_hit_normal
+#### previous\_hit\_normal
 
 ```python
 @property
@@ -534,7 +534,7 @@ def previous_hit_normal() -> Vector
 
 <a id="unreal.ProjectileMovementComponent.projectile_gravity_scale"></a>
 
-#### projectile_gravity_scale
+#### projectile\_gravity\_scale
 
 ```python
 @property
@@ -545,7 +545,7 @@ def projectile_gravity_scale() -> float
 
 <a id="unreal.ProjectileMovementComponent.projectile_gravity_scale"></a>
 
-#### projectile_gravity_scale
+#### projectile\_gravity\_scale
 
 ```python
 @projectile_gravity_scale.setter
@@ -599,7 +599,7 @@ def friction(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.bounce_velocity_stop_simulating_threshold"></a>
 
-#### bounce_velocity_stop_simulating_threshold
+#### bounce\_velocity\_stop\_simulating\_threshold
 
 ```python
 @property
@@ -612,7 +612,7 @@ see: StopSimulating(), OnProjectileStop
 
 <a id="unreal.ProjectileMovementComponent.bounce_velocity_stop_simulating_threshold"></a>
 
-#### bounce_velocity_stop_simulating_threshold
+#### bounce\_velocity\_stop\_simulating\_threshold
 
 ```python
 @bounce_velocity_stop_simulating_threshold.setter
@@ -621,7 +621,7 @@ def bounce_velocity_stop_simulating_threshold(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.min_friction_fraction"></a>
 
-#### min_friction_fraction
+#### min\_friction\_fraction
 
 ```python
 @property
@@ -633,7 +633,7 @@ Helps consistently slow objects sliding or rolling along surfaces or in valleys 
 
 <a id="unreal.ProjectileMovementComponent.min_friction_fraction"></a>
 
-#### min_friction_fraction
+#### min\_friction\_fraction
 
 ```python
 @min_friction_fraction.setter
@@ -642,7 +642,7 @@ def min_friction_fraction(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.on_projectile_bounce"></a>
 
-#### on_projectile_bounce
+#### on\_projectile\_bounce
 
 ```python
 @property
@@ -653,7 +653,7 @@ def on_projectile_bounce() -> OnProjectileBounceDelegate
 
 <a id="unreal.ProjectileMovementComponent.on_projectile_bounce"></a>
 
-#### on_projectile_bounce
+#### on\_projectile\_bounce
 
 ```python
 @on_projectile_bounce.setter
@@ -662,7 +662,7 @@ def on_projectile_bounce(value: OnProjectileBounceDelegate) -> None
 
 <a id="unreal.ProjectileMovementComponent.on_projectile_stop"></a>
 
-#### on_projectile_stop
+#### on\_projectile\_stop
 
 ```python
 @property
@@ -673,7 +673,7 @@ def on_projectile_stop() -> OnProjectileStopDelegate
 
 <a id="unreal.ProjectileMovementComponent.on_projectile_stop"></a>
 
-#### on_projectile_stop
+#### on\_projectile\_stop
 
 ```python
 @on_projectile_stop.setter
@@ -682,7 +682,7 @@ def on_projectile_stop(value: OnProjectileStopDelegate) -> None
 
 <a id="unreal.ProjectileMovementComponent.homing_acceleration_magnitude"></a>
 
-#### homing_acceleration_magnitude
+#### homing\_acceleration\_magnitude
 
 ```python
 @property
@@ -693,7 +693,7 @@ def homing_acceleration_magnitude() -> float
 
 <a id="unreal.ProjectileMovementComponent.homing_acceleration_magnitude"></a>
 
-#### homing_acceleration_magnitude
+#### homing\_acceleration\_magnitude
 
 ```python
 @homing_acceleration_magnitude.setter
@@ -702,7 +702,7 @@ def homing_acceleration_magnitude(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.homing_target_component"></a>
 
-#### homing_target_component
+#### homing\_target\_component
 
 ```python
 @property
@@ -714,7 +714,7 @@ see: bIsHomingProjectile
 
 <a id="unreal.ProjectileMovementComponent.max_simulation_time_step"></a>
 
-#### max_simulation_time_step
+#### max\_simulation\_time\_step
 
 ```python
 @property
@@ -729,7 +729,7 @@ see: MaxSimulationIterations, bForceSubStepping
 
 <a id="unreal.ProjectileMovementComponent.max_simulation_time_step"></a>
 
-#### max_simulation_time_step
+#### max\_simulation\_time\_step
 
 ```python
 @max_simulation_time_step.setter
@@ -738,7 +738,7 @@ def max_simulation_time_step(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.max_simulation_iterations"></a>
 
-#### max_simulation_iterations
+#### max\_simulation\_iterations
 
 ```python
 @property
@@ -753,7 +753,7 @@ see: MaxSimulationTimeStep, bForceSubStepping
 
 <a id="unreal.ProjectileMovementComponent.max_simulation_iterations"></a>
 
-#### max_simulation_iterations
+#### max\_simulation\_iterations
 
 ```python
 @max_simulation_iterations.setter
@@ -762,7 +762,7 @@ def max_simulation_iterations(value: int) -> None
 
 <a id="unreal.ProjectileMovementComponent.bounce_additional_iterations"></a>
 
-#### bounce_additional_iterations
+#### bounce\_additional\_iterations
 
 ```python
 @property
@@ -773,7 +773,7 @@ def bounce_additional_iterations() -> int
 
 <a id="unreal.ProjectileMovementComponent.bounce_additional_iterations"></a>
 
-#### bounce_additional_iterations
+#### bounce\_additional\_iterations
 
 ```python
 @bounce_additional_iterations.setter
@@ -782,7 +782,7 @@ def bounce_additional_iterations(value: int) -> None
 
 <a id="unreal.ProjectileMovementComponent.interp_location_time"></a>
 
-#### interp_location_time
+#### interp\_location\_time
 
 ```python
 @property
@@ -795,7 +795,7 @@ A value of zero is effectively instantaneous interpolation.
 
 <a id="unreal.ProjectileMovementComponent.interp_location_time"></a>
 
-#### interp_location_time
+#### interp\_location\_time
 
 ```python
 @interp_location_time.setter
@@ -804,7 +804,7 @@ def interp_location_time(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.interp_rotation_time"></a>
 
-#### interp_rotation_time
+#### interp\_rotation\_time
 
 ```python
 @property
@@ -817,7 +817,7 @@ A value of zero is effectively instantaneous interpolation.
 
 <a id="unreal.ProjectileMovementComponent.interp_rotation_time"></a>
 
-#### interp_rotation_time
+#### interp\_rotation\_time
 
 ```python
 @interp_rotation_time.setter
@@ -826,7 +826,7 @@ def interp_rotation_time(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.interp_location_max_lag_distance"></a>
 
-#### interp_location_max_lag_distance
+#### interp\_location\_max\_lag\_distance
 
 ```python
 @property
@@ -837,7 +837,7 @@ def interp_location_max_lag_distance() -> float
 
 <a id="unreal.ProjectileMovementComponent.interp_location_max_lag_distance"></a>
 
-#### interp_location_max_lag_distance
+#### interp\_location\_max\_lag\_distance
 
 ```python
 @interp_location_max_lag_distance.setter
@@ -846,7 +846,7 @@ def interp_location_max_lag_distance(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.interp_location_snap_to_target_distance"></a>
 
-#### interp_location_snap_to_target_distance
+#### interp\_location\_snap\_to\_target\_distance
 
 ```python
 @property
@@ -858,7 +858,7 @@ For instance if the target teleports this far beyond the interpolated component,
 
 <a id="unreal.ProjectileMovementComponent.interp_location_snap_to_target_distance"></a>
 
-#### interp_location_snap_to_target_distance
+#### interp\_location\_snap\_to\_target\_distance
 
 ```python
 @interp_location_snap_to_target_distance.setter
@@ -867,7 +867,7 @@ def interp_location_snap_to_target_distance(value: float) -> None
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation_threshold_not_rendered_short_time"></a>
 
-#### throttle_interpolation_threshold_not_rendered_short_time
+#### throttle\_interpolation\_threshold\_not\_rendered\_short\_time
 
 ```python
 @property
@@ -878,7 +878,7 @@ def throttle_interpolation_threshold_not_rendered_short_time() -> float
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation_threshold_not_rendered_short_time"></a>
 
-#### throttle_interpolation_threshold_not_rendered_short_time
+#### throttle\_interpolation\_threshold\_not\_rendered\_short\_time
 
 ```python
 @throttle_interpolation_threshold_not_rendered_short_time.setter
@@ -888,7 +888,7 @@ def throttle_interpolation_threshold_not_rendered_short_time(
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation_threshold_not_rendered_long_time"></a>
 
-#### throttle_interpolation_threshold_not_rendered_long_time
+#### throttle\_interpolation\_threshold\_not\_rendered\_long\_time
 
 ```python
 @property
@@ -899,7 +899,7 @@ def throttle_interpolation_threshold_not_rendered_long_time() -> float
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation_threshold_not_rendered_long_time"></a>
 
-#### throttle_interpolation_threshold_not_rendered_long_time
+#### throttle\_interpolation\_threshold\_not\_rendered\_long\_time
 
 ```python
 @throttle_interpolation_threshold_not_rendered_long_time.setter
@@ -909,7 +909,7 @@ def throttle_interpolation_threshold_not_rendered_long_time(
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation_skip_frames_recent"></a>
 
-#### throttle_interpolation_skip_frames_recent
+#### throttle\_interpolation\_skip\_frames\_recent
 
 ```python
 @property
@@ -920,7 +920,7 @@ def throttle_interpolation_skip_frames_recent() -> int
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation_skip_frames_recent"></a>
 
-#### throttle_interpolation_skip_frames_recent
+#### throttle\_interpolation\_skip\_frames\_recent
 
 ```python
 @throttle_interpolation_skip_frames_recent.setter
@@ -929,7 +929,7 @@ def throttle_interpolation_skip_frames_recent(value: int) -> None
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation_skip_frames_not_recent"></a>
 
-#### throttle_interpolation_skip_frames_not_recent
+#### throttle\_interpolation\_skip\_frames\_not\_recent
 
 ```python
 @property
@@ -940,7 +940,7 @@ def throttle_interpolation_skip_frames_not_recent() -> int
 
 <a id="unreal.ProjectileMovementComponent.throttle_interpolation_skip_frames_not_recent"></a>
 
-#### throttle_interpolation_skip_frames_not_recent
+#### throttle\_interpolation\_skip\_frames\_not\_recent
 
 ```python
 @throttle_interpolation_skip_frames_not_recent.setter
@@ -949,7 +949,7 @@ def throttle_interpolation_skip_frames_not_recent(value: int) -> None
 
 <a id="unreal.ProjectileMovementComponent.stop_simulating"></a>
 
-#### stop_simulating
+#### stop\_simulating
 
 ```python
 def stop_simulating(hit_result: HitResult) -> None
@@ -963,7 +963,7 @@ Args:
 
 <a id="unreal.ProjectileMovementComponent.stop_movement"></a>
 
-#### stop_movement
+#### stop\_movement
 
 ```python
 def stop_movement(hit_result: HitResult) -> None
@@ -973,7 +973,7 @@ deprecated: 'stop_movement' was renamed to 'stop_simulating'.
 
 <a id="unreal.ProjectileMovementComponent.set_velocity_in_local_space"></a>
 
-#### set_velocity_in_local_space
+#### set\_velocity\_in\_local\_space
 
 ```python
 def set_velocity_in_local_space(new_velocity: Vector) -> None
@@ -987,7 +987,7 @@ Args:
 
 <a id="unreal.ProjectileMovementComponent.set_interpolated_component"></a>
 
-#### set_interpolated_component
+#### set\_interpolated\_component
 
 ```python
 def set_interpolated_component(component: SceneComponent) -> None
@@ -1004,7 +1004,7 @@ Args:
 
 <a id="unreal.ProjectileMovementComponent.reset_interpolation"></a>
 
-#### reset_interpolation
+#### reset\_interpolation
 
 ```python
 def reset_interpolation() -> None
@@ -1015,7 +1015,7 @@ Resets interpolation so that interpolated component snaps back to the initial lo
 
 <a id="unreal.ProjectileMovementComponent.move_interpolation_target"></a>
 
-#### move_interpolation_target
+#### move\_interpolation\_target
 
 ```python
 def move_interpolation_target(new_location: Vector,
@@ -1032,7 +1032,7 @@ Args:
 
 <a id="unreal.ProjectileMovementComponent.limit_velocity"></a>
 
-#### limit_velocity
+#### limit\_velocity
 
 ```python
 def limit_velocity(new_velocity: Vector) -> Vector
@@ -1049,7 +1049,7 @@ Returns:
 
 <a id="unreal.ProjectileMovementComponent.is_velocity_under_simulation_threshold"></a>
 
-#### is_velocity_under_simulation_threshold
+#### is\_velocity\_under\_simulation\_threshold
 
 ```python
 def is_velocity_under_simulation_threshold() -> bool
@@ -1063,7 +1063,7 @@ Returns:
 
 <a id="unreal.ProjectileMovementComponent.is_interpolation_complete"></a>
 
-#### is_interpolation_complete
+#### is\_interpolation\_complete
 
 ```python
 def is_interpolation_complete() -> bool

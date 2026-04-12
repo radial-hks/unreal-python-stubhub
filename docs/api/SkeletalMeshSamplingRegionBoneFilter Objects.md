@@ -19,7 +19,7 @@ Filter to include or exclude bones and their associated triangles from a samplin
 
 <a id="unreal.SkeletalMeshSamplingRegionBoneFilter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

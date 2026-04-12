@@ -23,7 +23,7 @@ Rig Bone Element
 
 <a id="unreal.RigBoneElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: RigElementKey = [RigElementType.NONE, "None"],
@@ -36,7 +36,7 @@ def __init__(key: RigElementKey = [RigElementType.NONE, "None"],
 
 <a id="unreal.RigBoneElement.bone_type"></a>
 
-#### bone_type
+#### bone\_type
 
 ```python
 @property

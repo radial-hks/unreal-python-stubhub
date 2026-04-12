@@ -19,7 +19,7 @@ Alpha Blend class that supports different blend options as well as custom curves
 
 <a id="unreal.AlphaBlend.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -20,7 +20,7 @@ PCGMesh Selector Weighted Entry
 
 <a id="unreal.PCGMeshSelectorWeightedEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(weight: int = 0) -> None

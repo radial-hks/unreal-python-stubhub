@@ -26,25 +26,25 @@ EGeometry Script Polygon Fill Mode
 
 <a id="unreal.GeometryScriptPolygonFillMode.POSITIVE_WINDING"></a>
 
-#### POSITIVE_WINDING
+#### POSITIVE\_WINDING
 
 2: Fill where the 'winding number' is positive
 
 <a id="unreal.GeometryScriptPolygonFillMode.NON_ZERO_WINDING"></a>
 
-#### NON_ZERO_WINDING
+#### NON\_ZERO\_WINDING
 
 3: Fill where the 'winding number' is not zero
 
 <a id="unreal.GeometryScriptPolygonFillMode.NEGATIVE_WINDING"></a>
 
-#### NEGATIVE_WINDING
+#### NEGATIVE\_WINDING
 
 4: Fill where the 'winding number' is negative
 
 <a id="unreal.GeometryScriptPolygonFillMode.ODD_WINDING"></a>
 
-#### ODD_WINDING
+#### ODD\_WINDING
 
 5: Fill where the 'winding number' is an odd number
 

@@ -20,7 +20,7 @@ a library node from a separate function library graph.
 
 <a id="unreal.RigVMFunctionReferenceNode.referenced_node_ptr"></a>
 
-#### referenced_node_ptr
+#### referenced\_node\_ptr
 
 ```python
 @property
@@ -32,7 +32,7 @@ deprecated: Property 'ReferencedNodePtr' is deprecated.
 
 <a id="unreal.RigVMFunctionReferenceNode.referenced_node_ptr"></a>
 
-#### referenced_node_ptr
+#### referenced\_node\_ptr
 
 ```python
 @referenced_node_ptr.setter
@@ -41,7 +41,7 @@ def referenced_node_ptr(value: RigVMLibraryNode) -> None
 
 <a id="unreal.RigVMFunctionReferenceNode.get_referenced_function_header"></a>
 
-#### get_referenced_function_header
+#### get\_referenced\_function\_header
 
 ```python
 def get_referenced_function_header() -> RigVMGraphFunctionHeader

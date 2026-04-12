@@ -20,13 +20,13 @@ Describes space referential for operations that create data
 
 <a id="unreal.PCGCoordinateSpace.ORIGINAL_COMPONENT"></a>
 
-#### ORIGINAL_COMPONENT
+#### ORIGINAL\_COMPONENT
 
 1
 
 <a id="unreal.PCGCoordinateSpace.LOCAL_COMPONENT"></a>
 
-#### LOCAL_COMPONENT
+#### LOCAL\_COMPONENT
 
 2
 

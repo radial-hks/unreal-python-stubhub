@@ -31,7 +31,7 @@ note: This struct is mirrored in PolyglotTextData.h
 
 <a id="unreal.PolyglotTextData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -68,7 +68,7 @@ def category(value: LocalizedTextSourceCategory) -> None
 
 <a id="unreal.PolyglotTextData.native_culture"></a>
 
-#### native_culture
+#### native\_culture
 
 ```python
 @property
@@ -80,7 +80,7 @@ note: This may be empty, and if empty, will be inferred from the native culture 
 
 <a id="unreal.PolyglotTextData.native_culture"></a>
 
-#### native_culture
+#### native\_culture
 
 ```python
 @native_culture.setter
@@ -131,7 +131,7 @@ def key(value: str) -> None
 
 <a id="unreal.PolyglotTextData.native_string"></a>
 
-#### native_string
+#### native\_string
 
 ```python
 @property
@@ -143,7 +143,7 @@ note: This must not be empty (it should be the same as the originally authored t
 
 <a id="unreal.PolyglotTextData.native_string"></a>
 
-#### native_string
+#### native\_string
 
 ```python
 @native_string.setter
@@ -152,7 +152,7 @@ def native_string(value: str) -> None
 
 <a id="unreal.PolyglotTextData.localized_strings"></a>
 
-#### localized_strings
+#### localized\_strings
 
 ```python
 @property
@@ -164,7 +164,7 @@ note: The native culture may also have a translation in this map.
 
 <a id="unreal.PolyglotTextData.localized_strings"></a>
 
-#### localized_strings
+#### localized\_strings
 
 ```python
 @localized_strings.setter
@@ -173,7 +173,7 @@ def localized_strings(value: Map[str, str]) -> None
 
 <a id="unreal.PolyglotTextData.is_minimal_patch"></a>
 
-#### is_minimal_patch
+#### is\_minimal\_patch
 
 ```python
 @property
@@ -185,7 +185,7 @@ ignored (falling back to any LocRes data) rather than falling back to the native
 
 <a id="unreal.PolyglotTextData.is_minimal_patch"></a>
 
-#### is_minimal_patch
+#### is\_minimal\_patch
 
 ```python
 @is_minimal_patch.setter

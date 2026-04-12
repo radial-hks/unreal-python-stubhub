@@ -14,13 +14,13 @@ where to copy the motion of the root from
 
 <a id="unreal.RootMotionSource.COPY_FROM_SOURCE_ROOT"></a>
 
-#### COPY_FROM_SOURCE_ROOT
+#### COPY\_FROM\_SOURCE\_ROOT
 
 0
 
 <a id="unreal.RootMotionSource.GENERATE_FROM_TARGET_PELVIS"></a>
 
-#### GENERATE_FROM_TARGET_PELVIS
+#### GENERATE\_FROM\_TARGET\_PELVIS
 
 1
 

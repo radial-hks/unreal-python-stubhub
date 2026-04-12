@@ -13,7 +13,7 @@ Possible options for mirroring the brush image
 
 <a id="unreal.SlateBrushMirrorType.NO_MIRROR"></a>
 
-#### NO_MIRROR
+#### NO\_MIRROR
 
 0: Don't mirror anything, just draw the texture as it is.
 

@@ -14,7 +14,7 @@ Blueprint function library to convert geospatial coordinates to text
 
 <a id="unreal.GeoReferencingBFL.to_separate_texts"></a>
 
-#### to_separate_texts
+#### to\_separate\_texts
 
 ```python
 @classmethod
@@ -44,7 +44,7 @@ Returns:
 
 <a id="unreal.GeoReferencingBFL.to_full_text"></a>
 
-#### to_full_text
+#### to\_full\_text
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.GeoReferencingBFL.to_compact_text"></a>
 
-#### to_compact_text
+#### to\_compact\_text
 
 ```python
 @classmethod

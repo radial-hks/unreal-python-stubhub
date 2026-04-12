@@ -26,7 +26,7 @@ Material Expression Function Input
 
 <a id="unreal.MaterialExpressionFunctionInput.input_name"></a>
 
-#### input_name
+#### input\_name
 
 ```python
 @property
@@ -37,7 +37,7 @@ def input_name() -> Name
 
 <a id="unreal.MaterialExpressionFunctionInput.input_name"></a>
 
-#### input_name
+#### input\_name
 
 ```python
 @input_name.setter
@@ -46,7 +46,7 @@ def input_name(value: Name) -> None
 
 <a id="unreal.MaterialExpressionFunctionInput.input_type"></a>
 
-#### input_type
+#### input\_type
 
 ```python
 @property
@@ -58,7 +58,7 @@ Input code chunks will be cast to this type, and a compiler error will be emitte
 
 <a id="unreal.MaterialExpressionFunctionInput.input_type"></a>
 
-#### input_type
+#### input\_type
 
 ```python
 @input_type.setter
@@ -67,7 +67,7 @@ def input_type(value: FunctionInputType) -> None
 
 <a id="unreal.MaterialExpressionFunctionInput.preview_value"></a>
 
-#### preview_value
+#### preview\_value
 
 ```python
 @property
@@ -78,7 +78,7 @@ def preview_value() -> Vector4f
 
 <a id="unreal.MaterialExpressionFunctionInput.preview_value"></a>
 
-#### preview_value
+#### preview\_value
 
 ```python
 @preview_value.setter
@@ -87,7 +87,7 @@ def preview_value(value: Vector4f) -> None
 
 <a id="unreal.MaterialExpressionFunctionInput.use_preview_value_as_default"></a>
 
-#### use_preview_value_as_default
+#### use\_preview\_value\_as\_default
 
 ```python
 @property
@@ -98,7 +98,7 @@ def use_preview_value_as_default() -> bool
 
 <a id="unreal.MaterialExpressionFunctionInput.use_preview_value_as_default"></a>
 
-#### use_preview_value_as_default
+#### use\_preview\_value\_as\_default
 
 ```python
 @use_preview_value_as_default.setter
@@ -107,7 +107,7 @@ def use_preview_value_as_default(value: bool) -> None
 
 <a id="unreal.MaterialExpressionFunctionInput.sort_priority"></a>
 
-#### sort_priority
+#### sort\_priority
 
 ```python
 @property
@@ -118,7 +118,7 @@ def sort_priority() -> int
 
 <a id="unreal.MaterialExpressionFunctionInput.sort_priority"></a>
 
-#### sort_priority
+#### sort\_priority
 
 ```python
 @sort_priority.setter

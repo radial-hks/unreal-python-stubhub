@@ -21,7 +21,7 @@ Represents the appearance of an SSegmentedControl
 
 <a id="unreal.SegmentedControlStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -402,7 +402,7 @@ def __init__(
 
 <a id="unreal.SegmentedControlStyle.control_style"></a>
 
-#### control_style
+#### control\_style
 
 ```python
 @property
@@ -413,7 +413,7 @@ def control_style() -> CheckBoxStyle
 
 <a id="unreal.SegmentedControlStyle.control_style"></a>
 
-#### control_style
+#### control\_style
 
 ```python
 @control_style.setter
@@ -422,7 +422,7 @@ def control_style(value: CheckBoxStyle) -> None
 
 <a id="unreal.SegmentedControlStyle.first_control_style"></a>
 
-#### first_control_style
+#### first\_control\_style
 
 ```python
 @property
@@ -433,7 +433,7 @@ def first_control_style() -> CheckBoxStyle
 
 <a id="unreal.SegmentedControlStyle.first_control_style"></a>
 
-#### first_control_style
+#### first\_control\_style
 
 ```python
 @first_control_style.setter
@@ -442,7 +442,7 @@ def first_control_style(value: CheckBoxStyle) -> None
 
 <a id="unreal.SegmentedControlStyle.last_control_style"></a>
 
-#### last_control_style
+#### last\_control\_style
 
 ```python
 @property
@@ -453,7 +453,7 @@ def last_control_style() -> CheckBoxStyle
 
 <a id="unreal.SegmentedControlStyle.last_control_style"></a>
 
-#### last_control_style
+#### last\_control\_style
 
 ```python
 @last_control_style.setter
@@ -462,7 +462,7 @@ def last_control_style(value: CheckBoxStyle) -> None
 
 <a id="unreal.SegmentedControlStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @property
@@ -473,7 +473,7 @@ def background_brush() -> SlateBrush
 
 <a id="unreal.SegmentedControlStyle.background_brush"></a>
 
-#### background_brush
+#### background\_brush
 
 ```python
 @background_brush.setter
@@ -482,7 +482,7 @@ def background_brush(value: SlateBrush) -> None
 
 <a id="unreal.SegmentedControlStyle.uniform_padding"></a>
 
-#### uniform_padding
+#### uniform\_padding
 
 ```python
 @property
@@ -493,7 +493,7 @@ def uniform_padding() -> Margin
 
 <a id="unreal.SegmentedControlStyle.uniform_padding"></a>
 
-#### uniform_padding
+#### uniform\_padding
 
 ```python
 @uniform_padding.setter

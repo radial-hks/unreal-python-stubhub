@@ -35,7 +35,7 @@ UInputTriggerPulse
 
 <a id="unreal.InputTriggerPulse.trigger_on_start"></a>
 
-#### trigger_on_start
+#### trigger\_on\_start
 
 ```python
 @property
@@ -46,7 +46,7 @@ def trigger_on_start() -> bool
 
 <a id="unreal.InputTriggerPulse.trigger_on_start"></a>
 
-#### trigger_on_start
+#### trigger\_on\_start
 
 ```python
 @trigger_on_start.setter
@@ -75,7 +75,7 @@ def interval(value: float) -> None
 
 <a id="unreal.InputTriggerPulse.trigger_limit"></a>
 
-#### trigger_limit
+#### trigger\_limit
 
 ```python
 @property
@@ -86,7 +86,7 @@ def trigger_limit() -> int
 
 <a id="unreal.InputTriggerPulse.trigger_limit"></a>
 
-#### trigger_limit
+#### trigger\_limit
 
 ```python
 @trigger_limit.setter

@@ -14,13 +14,13 @@ EEnvelope Follower Peak Mode
 
 <a id="unreal.EnvelopeFollowerPeakMode.MEAN_SQUARED"></a>
 
-#### MEAN_SQUARED
+#### MEAN\_SQUARED
 
 0
 
 <a id="unreal.EnvelopeFollowerPeakMode.ROOT_MEAN_SQUARED"></a>
 
-#### ROOT_MEAN_SQUARED
+#### ROOT\_MEAN\_SQUARED
 
 1
 

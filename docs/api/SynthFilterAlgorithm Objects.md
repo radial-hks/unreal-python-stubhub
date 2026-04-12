@@ -14,13 +14,13 @@ ESynth Filter Algorithm
 
 <a id="unreal.SynthFilterAlgorithm.ONE_POLE"></a>
 
-#### ONE_POLE
+#### ONE\_POLE
 
 0
 
 <a id="unreal.SynthFilterAlgorithm.STATE_VARIABLE"></a>
 
-#### STATE_VARIABLE
+#### STATE\_VARIABLE
 
 1
 

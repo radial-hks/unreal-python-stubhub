@@ -19,7 +19,7 @@ EPriority Attenuation Method
 
 <a id="unreal.PriorityAttenuationMethod.CUSTOM_CURVE"></a>
 
-#### CUSTOM_CURVE
+#### CUSTOM\_CURVE
 
 1: A priority attenuation based on a supplied curve
 

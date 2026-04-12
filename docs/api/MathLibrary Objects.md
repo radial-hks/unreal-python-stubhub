@@ -13,7 +13,7 @@ Kismet Math Library
 
 <a id="unreal.MathLibrary.xor_int_int"></a>
 
-#### xor_int_int
+#### xor\_int\_int
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Returns:
 
 <a id="unreal.MathLibrary.xor_int64_int64"></a>
 
-#### xor_int64_int64
+#### xor\_int64\_int64
 
 ```python
 @classmethod
@@ -71,7 +71,7 @@ Returns:
 
 <a id="unreal.MathLibrary.weighted_moving_average_f_vector"></a>
 
-#### weighted_moving_average_f_vector
+#### weighted\_moving\_average\_f\_vector
 
 ```python
 @classmethod
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.MathLibrary.weighted_moving_average_f_rotator"></a>
 
-#### weighted_moving_average_f_rotator
+#### weighted\_moving\_average\_f\_rotator
 
 ```python
 @classmethod
@@ -115,7 +115,7 @@ Returns:
 
 <a id="unreal.MathLibrary.weighted_moving_average_float"></a>
 
-#### weighted_moving_average_float
+#### weighted\_moving\_average\_float
 
 ```python
 @classmethod
@@ -137,7 +137,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_size_xy_squared"></a>
 
-#### v_size_xy_squared
+#### v\_size\_xy\_squared
 
 ```python
 @classmethod
@@ -155,7 +155,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_size_xy"></a>
 
-#### v_size_xy
+#### v\_size\_xy
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_size_squared"></a>
 
-#### v_size_squared
+#### v\_size\_squared
 
 ```python
 @classmethod
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_size2d_squared"></a>
 
-#### v_size2d_squared
+#### v\_size2d\_squared
 
 ```python
 @classmethod
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_size2d"></a>
 
-#### v_size2d
+#### v\_size2d
 
 ```python
 @classmethod
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_size"></a>
 
-#### v_size
+#### v\_size
 
 ```python
 @classmethod
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_lerp"></a>
 
-#### v_lerp
+#### v\_lerp
 
 ```python
 @classmethod
@@ -265,7 +265,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_interp_to_constant"></a>
 
-#### v_interp_to_constant
+#### v\_interp\_to\_constant
 
 ```python
 @classmethod
@@ -287,7 +287,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_interp_to"></a>
 
-#### v_interp_to
+#### v\_interp\_to
 
 ```python
 @classmethod
@@ -309,7 +309,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_spring_interp"></a>
 
-#### vector_spring_interp
+#### vector\_spring\_interp
 
 ```python
 @classmethod
@@ -354,7 +354,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_unwind_euler"></a>
 
-#### vector_unwind_euler
+#### vector\_unwind\_euler
 
 ```python
 @classmethod
@@ -374,7 +374,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_unit_cartesian_to_spherical"></a>
 
-#### vector_unit_cartesian_to_spherical
+#### vector\_unit\_cartesian\_to\_spherical
 
 ```python
 @classmethod
@@ -392,7 +392,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_to_radians"></a>
 
-#### vector_to_radians
+#### vector\_to\_radians
 
 ```python
 @classmethod
@@ -410,7 +410,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_to_degrees"></a>
 
-#### vector_to_degrees
+#### vector\_to\_degrees
 
 ```python
 @classmethod
@@ -428,7 +428,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_snapped_to_grid"></a>
 
-#### vector_snapped_to_grid
+#### vector\_snapped\_to\_grid
 
 ```python
 @classmethod
@@ -447,7 +447,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_slerp_vector_to_direction"></a>
 
-#### vector_slerp_vector_to_direction
+#### vector\_slerp\_vector\_to\_direction
 
 ```python
 @classmethod
@@ -468,7 +468,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_slerp_normals"></a>
 
-#### vector_slerp_normals
+#### vector\_slerp\_normals
 
 ```python
 @classmethod
@@ -489,7 +489,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_set"></a>
 
-#### vector_set
+#### vector\_set
 
 ```python
 @classmethod
@@ -512,7 +512,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_reciprocal"></a>
 
-#### vector_reciprocal
+#### vector\_reciprocal
 
 ```python
 @classmethod
@@ -531,7 +531,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_project_on_to_normal"></a>
 
-#### vector_project_on_to_normal
+#### vector\_project\_on\_to\_normal
 
 ```python
 @classmethod
@@ -550,7 +550,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_normal_unsafe"></a>
 
-#### vector_normal_unsafe
+#### vector\_normal\_unsafe
 
 ```python
 @classmethod
@@ -568,7 +568,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_normalize"></a>
 
-#### vector_normalize
+#### vector\_normalize
 
 ```python
 @classmethod
@@ -589,7 +589,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_normal2d"></a>
 
-#### vector_normal2d
+#### vector\_normal2d
 
 ```python
 @classmethod
@@ -609,7 +609,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_mirror_by_plane"></a>
 
-#### vector_mirror_by_plane
+#### vector\_mirror\_by\_plane
 
 ```python
 @classmethod
@@ -628,7 +628,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_is_zero"></a>
 
-#### vector_is_zero
+#### vector\_is\_zero
 
 ```python
 @classmethod
@@ -646,7 +646,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_is_unit"></a>
 
-#### vector_is_unit
+#### vector\_is\_unit
 
 ```python
 @classmethod
@@ -667,7 +667,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_is_uniform"></a>
 
-#### vector_is_uniform
+#### vector\_is\_uniform
 
 ```python
 @classmethod
@@ -686,7 +686,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_is_normal"></a>
 
-#### vector_is_normal
+#### vector\_is\_normal
 
 ```python
 @classmethod
@@ -704,7 +704,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_is_nearly_zero"></a>
 
-#### vector_is_nearly_zero
+#### vector\_is\_nearly\_zero
 
 ```python
 @classmethod
@@ -723,7 +723,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_is_nan"></a>
 
-#### vector_is_nan
+#### vector\_is\_nan
 
 ```python
 @classmethod
@@ -741,7 +741,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_heading_angle"></a>
 
-#### vector_heading_angle
+#### vector\_heading\_angle
 
 ```python
 @classmethod
@@ -759,7 +759,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_get_sign_vector"></a>
 
-#### vector_get_sign_vector
+#### vector\_get\_sign\_vector
 
 ```python
 @classmethod
@@ -778,7 +778,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_get_projection"></a>
 
-#### vector_get_projection
+#### vector\_get\_projection
 
 ```python
 @classmethod
@@ -796,7 +796,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_get_abs_min"></a>
 
-#### vector_get_abs_min
+#### vector\_get\_abs\_min
 
 ```python
 @classmethod
@@ -814,7 +814,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_get_abs_max"></a>
 
-#### vector_get_abs_max
+#### vector\_get\_abs\_max
 
 ```python
 @classmethod
@@ -832,7 +832,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_get_abs"></a>
 
-#### vector_get_abs
+#### vector\_get\_abs
 
 ```python
 @classmethod
@@ -850,7 +850,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_distance_squared"></a>
 
-#### vector_distance_squared
+#### vector\_distance\_squared
 
 ```python
 @classmethod
@@ -869,7 +869,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_distance2d_squared"></a>
 
-#### vector_distance2d_squared
+#### vector\_distance2d\_squared
 
 ```python
 @classmethod
@@ -888,7 +888,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_distance2d"></a>
 
-#### vector_distance2d
+#### vector\_distance2d
 
 ```python
 @classmethod
@@ -907,7 +907,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_distance"></a>
 
-#### vector_distance
+#### vector\_distance
 
 ```python
 @classmethod
@@ -926,7 +926,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_cosine_angle2d"></a>
 
-#### vector_cosine_angle2d
+#### vector\_cosine\_angle2d
 
 ```python
 @classmethod
@@ -945,7 +945,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_component_min"></a>
 
-#### vector_component_min
+#### vector\_component\_min
 
 ```python
 @classmethod
@@ -964,7 +964,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_component_max"></a>
 
-#### vector_component_max
+#### vector\_component\_max
 
 ```python
 @classmethod
@@ -983,7 +983,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_clamp_size_max2d"></a>
 
-#### vector_clamp_size_max2d
+#### vector\_clamp\_size\_max2d
 
 ```python
 @classmethod
@@ -1002,7 +1002,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_clamp_size_max"></a>
 
-#### vector_clamp_size_max
+#### vector\_clamp\_size\_max
 
 ```python
 @classmethod
@@ -1021,7 +1021,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_clamp_size2d"></a>
 
-#### vector_clamp_size2d
+#### vector\_clamp\_size2d
 
 ```python
 @classmethod
@@ -1041,7 +1041,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_bounded_to_cube"></a>
 
-#### vector_bounded_to_cube
+#### vector\_bounded\_to\_cube
 
 ```python
 @classmethod
@@ -1060,7 +1060,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_bounded_to_box"></a>
 
-#### vector_bounded_to_box
+#### vector\_bounded\_to\_box
 
 ```python
 @classmethod
@@ -1081,7 +1081,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_assign"></a>
 
-#### vector_assign
+#### vector\_assign
 
 ```python
 @classmethod
@@ -1102,7 +1102,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector_add_bounded"></a>
 
-#### vector_add_bounded
+#### vector\_add\_bounded
 
 ```python
 @classmethod
@@ -1125,7 +1125,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_size_squared3"></a>
 
-#### vector4_size_squared3
+#### vector4\_size\_squared3
 
 ```python
 @classmethod
@@ -1143,7 +1143,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_size_squared"></a>
 
-#### vector4_size_squared
+#### vector4\_size\_squared
 
 ```python
 @classmethod
@@ -1161,7 +1161,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_size3"></a>
 
-#### vector4_size3
+#### vector4\_size3
 
 ```python
 @classmethod
@@ -1179,7 +1179,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_size"></a>
 
-#### vector4_size
+#### vector4\_size
 
 ```python
 @classmethod
@@ -1197,7 +1197,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_set"></a>
 
-#### vector4_set
+#### vector4\_set
 
 ```python
 @classmethod
@@ -1222,7 +1222,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_normal_unsafe3"></a>
 
-#### vector4_normal_unsafe3
+#### vector4\_normal\_unsafe3
 
 ```python
 @classmethod
@@ -1240,7 +1240,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_normalize3"></a>
 
-#### vector4_normalize3
+#### vector4\_normalize3
 
 ```python
 @classmethod
@@ -1263,7 +1263,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_normal3"></a>
 
-#### vector4_normal3
+#### vector4\_normal3
 
 ```python
 @classmethod
@@ -1283,7 +1283,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_negated"></a>
 
-#### vector4_negated
+#### vector4\_negated
 
 ```python
 @classmethod
@@ -1301,7 +1301,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_mirror_by_vector3"></a>
 
-#### vector4_mirror_by_vector3
+#### vector4\_mirror\_by\_vector3
 
 ```python
 @classmethod
@@ -1323,7 +1323,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_is_zero"></a>
 
-#### vector4_is_zero
+#### vector4\_is\_zero
 
 ```python
 @classmethod
@@ -1341,7 +1341,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_is_unit3"></a>
 
-#### vector4_is_unit3
+#### vector4\_is\_unit3
 
 ```python
 @classmethod
@@ -1362,7 +1362,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_is_normal3"></a>
 
-#### vector4_is_normal3
+#### vector4\_is\_normal3
 
 ```python
 @classmethod
@@ -1380,7 +1380,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_is_nearly_zero3"></a>
 
-#### vector4_is_nearly_zero3
+#### vector4\_is\_nearly\_zero3
 
 ```python
 @classmethod
@@ -1401,7 +1401,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_is_nan"></a>
 
-#### vector4_is_nan
+#### vector4\_is\_nan
 
 ```python
 @classmethod
@@ -1419,7 +1419,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_dot_product3"></a>
 
-#### vector4_dot_product3
+#### vector4\_dot\_product3
 
 ```python
 @classmethod
@@ -1438,7 +1438,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_dot_product"></a>
 
-#### vector4_dot_product
+#### vector4\_dot\_product
 
 ```python
 @classmethod
@@ -1457,7 +1457,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_cross_product3"></a>
 
-#### vector4_cross_product3
+#### vector4\_cross\_product3
 
 ```python
 @classmethod
@@ -1476,7 +1476,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector4_assign"></a>
 
-#### vector4_assign
+#### vector4\_assign
 
 ```python
 @classmethod
@@ -1497,7 +1497,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector2d_interp_to_constant"></a>
 
-#### vector2d_interp_to_constant
+#### vector2d\_interp\_to\_constant
 
 ```python
 @classmethod
@@ -1520,7 +1520,7 @@ Returns:
 
 <a id="unreal.MathLibrary.vector2d_interp_to"></a>
 
-#### vector2d_interp_to
+#### vector2d\_interp\_to
 
 ```python
 @classmethod
@@ -1542,7 +1542,7 @@ Returns:
 
 <a id="unreal.MathLibrary.utc_now"></a>
 
-#### utc_now
+#### utc\_now
 
 ```python
 @classmethod
@@ -1557,7 +1557,7 @@ Returns:
 
 <a id="unreal.MathLibrary.transform_vector4"></a>
 
-#### transform_vector4
+#### transform\_vector4
 
 ```python
 @classmethod
@@ -1576,7 +1576,7 @@ Returns:
 
 <a id="unreal.MathLibrary.transform_rotation"></a>
 
-#### transform_rotation
+#### transform\_rotation
 
 ```python
 @classmethod
@@ -1596,7 +1596,7 @@ Returns:
 
 <a id="unreal.MathLibrary.transform_location"></a>
 
-#### transform_location
+#### transform\_location
 
 ```python
 @classmethod
@@ -1616,7 +1616,7 @@ Returns:
 
 <a id="unreal.MathLibrary.transform_position"></a>
 
-#### transform_position
+#### transform\_position
 
 ```python
 @classmethod
@@ -1627,7 +1627,7 @@ deprecated: 'transform_position' was renamed to 'transform_location'.
 
 <a id="unreal.MathLibrary.transform_direction"></a>
 
-#### transform_direction
+#### transform\_direction
 
 ```python
 @classmethod
@@ -1647,7 +1647,7 @@ Returns:
 
 <a id="unreal.MathLibrary.transform_determinant"></a>
 
-#### transform_determinant
+#### transform\_determinant
 
 ```python
 @classmethod
@@ -1665,7 +1665,7 @@ Returns:
 
 <a id="unreal.MathLibrary.to_unix_timestamp_double"></a>
 
-#### to_unix_timestamp_double
+#### to\_unix\_timestamp\_double
 
 ```python
 @classmethod
@@ -1684,7 +1684,7 @@ Returns:
 
 <a id="unreal.MathLibrary.to_unix_timestamp"></a>
 
-#### to_unix_timestamp
+#### to\_unix\_timestamp
 
 ```python
 @classmethod
@@ -1703,7 +1703,7 @@ Returns:
 
 <a id="unreal.MathLibrary.to_sign2d"></a>
 
-#### to_sign2d
+#### to\_sign2d
 
 ```python
 @classmethod
@@ -1722,7 +1722,7 @@ Returns:
 
 <a id="unreal.MathLibrary.to_rounded2d"></a>
 
-#### to_rounded2d
+#### to\_rounded2d
 
 ```python
 @classmethod
@@ -1740,7 +1740,7 @@ Returns:
 
 <a id="unreal.MathLibrary.to_hex_linear_color"></a>
 
-#### to_hex_linear_color
+#### to\_hex\_linear\_color
 
 ```python
 @classmethod
@@ -1758,7 +1758,7 @@ Returns:
 
 <a id="unreal.MathLibrary.to_direction_and_length2d"></a>
 
-#### to_direction_and_length2d
+#### to\_direction\_and\_length2d
 
 ```python
 @classmethod
@@ -1795,7 +1795,7 @@ Returns:
 
 <a id="unreal.MathLibrary.t_lerp"></a>
 
-#### t_lerp
+#### t\_lerp
 
 ```python
 @classmethod
@@ -1822,7 +1822,7 @@ Returns:
 
 <a id="unreal.MathLibrary.t_interp_to"></a>
 
-#### t_interp_to
+#### t\_interp\_to
 
 ```python
 @classmethod
@@ -1844,7 +1844,7 @@ Returns:
 
 <a id="unreal.MathLibrary.timespan_ratio"></a>
 
-#### timespan_ratio
+#### timespan\_ratio
 
 ```python
 @classmethod
@@ -1863,7 +1863,7 @@ Returns:
 
 <a id="unreal.MathLibrary.timespan_from_string"></a>
 
-#### timespan_from_string
+#### timespan\_from\_string
 
 ```python
 @classmethod
@@ -1901,7 +1901,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_vector_vector"></a>
 
-#### subtract_vector_vector
+#### subtract\_vector\_vector
 
 ```python
 @classmethod
@@ -1920,7 +1920,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_vector_int"></a>
 
-#### subtract_vector_int
+#### subtract\_vector\_int
 
 ```python
 @classmethod
@@ -1939,7 +1939,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_vector_float"></a>
 
-#### subtract_vector_float
+#### subtract\_vector\_float
 
 ```python
 @classmethod
@@ -1958,7 +1958,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_vector4_vector4"></a>
 
-#### subtract_vector4_vector4
+#### subtract\_vector4\_vector4
 
 ```python
 @classmethod
@@ -1977,7 +1977,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_vector2d_vector2d"></a>
 
-#### subtract_vector2d_vector2d
+#### subtract\_vector2d\_vector2d
 
 ```python
 @classmethod
@@ -1996,7 +1996,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_vector2d_float"></a>
 
-#### subtract_vector2d_float
+#### subtract\_vector2d\_float
 
 ```python
 @classmethod
@@ -2015,7 +2015,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_timespan_timespan"></a>
 
-#### subtract_timespan_timespan
+#### subtract\_timespan\_timespan
 
 ```python
 @classmethod
@@ -2034,7 +2034,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_quat_quat"></a>
 
-#### subtract_quat_quat
+#### subtract\_quat\_quat
 
 ```python
 @classmethod
@@ -2053,7 +2053,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_linear_color_linear_color"></a>
 
-#### subtract_linear_color_linear_color
+#### subtract\_linear\_color\_linear\_color
 
 ```python
 @classmethod
@@ -2073,7 +2073,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_int_point_int_point"></a>
 
-#### subtract_int_point_int_point
+#### subtract\_int\_point\_int\_point
 
 ```python
 @classmethod
@@ -2092,7 +2092,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_int_point_int"></a>
 
-#### subtract_int_point_int
+#### subtract\_int\_point\_int
 
 ```python
 @classmethod
@@ -2111,7 +2111,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_int_int"></a>
 
-#### subtract_int_int
+#### subtract\_int\_int
 
 ```python
 @classmethod
@@ -2130,7 +2130,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_int64_int64"></a>
 
-#### subtract_int64_int64
+#### subtract\_int64\_int64
 
 ```python
 @classmethod
@@ -2149,7 +2149,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_double_double"></a>
 
-#### subtract_double_double
+#### subtract\_double\_double
 
 ```python
 @classmethod
@@ -2168,7 +2168,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_float_float"></a>
 
-#### subtract_float_float
+#### subtract\_float\_float
 
 ```python
 @classmethod
@@ -2179,7 +2179,7 @@ deprecated: 'subtract_float_float' was renamed to 'subtract_double_double'.
 
 <a id="unreal.MathLibrary.subtract_date_time_timespan"></a>
 
-#### subtract_date_time_timespan
+#### subtract\_date\_time\_timespan
 
 ```python
 @classmethod
@@ -2198,7 +2198,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_date_time_date_time"></a>
 
-#### subtract_date_time_date_time
+#### subtract\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -2217,7 +2217,7 @@ Returns:
 
 <a id="unreal.MathLibrary.subtract_byte_byte"></a>
 
-#### subtract_byte_byte
+#### subtract\_byte\_byte
 
 ```python
 @classmethod
@@ -2272,7 +2272,7 @@ Returns:
 
 <a id="unreal.MathLibrary.spherical2d_to_unit_cartesian"></a>
 
-#### spherical2d_to_unit_cartesian
+#### spherical2d\_to\_unit\_cartesian
 
 ```python
 @classmethod
@@ -2308,7 +2308,7 @@ Returns:
 
 <a id="unreal.MathLibrary.sign_of_integer64"></a>
 
-#### sign_of_integer64
+#### sign\_of\_integer64
 
 ```python
 @classmethod
@@ -2326,7 +2326,7 @@ Returns:
 
 <a id="unreal.MathLibrary.sign_of_integer"></a>
 
-#### sign_of_integer
+#### sign\_of\_integer
 
 ```python
 @classmethod
@@ -2344,7 +2344,7 @@ Returns:
 
 <a id="unreal.MathLibrary.sign_of_float"></a>
 
-#### sign_of_float
+#### sign\_of\_float
 
 ```python
 @classmethod
@@ -2362,7 +2362,7 @@ Returns:
 
 <a id="unreal.MathLibrary.set_vector_spring_state_velocity"></a>
 
-#### set_vector_spring_state_velocity
+#### set\_vector\_spring\_state\_velocity
 
 ```python
 @classmethod
@@ -2384,7 +2384,7 @@ Returns:
 
 <a id="unreal.MathLibrary.set_random_stream_seed"></a>
 
-#### set_random_stream_seed
+#### set\_random\_stream\_seed
 
 ```python
 @classmethod
@@ -2406,7 +2406,7 @@ Returns:
 
 <a id="unreal.MathLibrary.set_quaternion_spring_state_angular_velocity"></a>
 
-#### set_quaternion_spring_state_angular_velocity
+#### set\_quaternion\_spring\_state\_angular\_velocity
 
 ```python
 @classmethod
@@ -2429,7 +2429,7 @@ Returns:
 
 <a id="unreal.MathLibrary.set_float_spring_state_velocity"></a>
 
-#### set_float_spring_state_velocity
+#### set\_float\_spring\_state\_velocity
 
 ```python
 @classmethod
@@ -2473,7 +2473,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_vector"></a>
 
-#### select_vector
+#### select\_vector
 
 ```python
 @classmethod
@@ -2493,7 +2493,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_transform"></a>
 
-#### select_transform
+#### select\_transform
 
 ```python
 @classmethod
@@ -2514,7 +2514,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_text"></a>
 
-#### select_text
+#### select\_text
 
 ```python
 @classmethod
@@ -2534,7 +2534,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_string"></a>
 
-#### select_string
+#### select\_string
 
 ```python
 @classmethod
@@ -2554,7 +2554,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_rotator"></a>
 
-#### select_rotator
+#### select\_rotator
 
 ```python
 @classmethod
@@ -2574,7 +2574,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_object"></a>
 
-#### select_object
+#### select\_object
 
 ```python
 @classmethod
@@ -2594,7 +2594,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_name"></a>
 
-#### select_name
+#### select\_name
 
 ```python
 @classmethod
@@ -2614,7 +2614,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_int"></a>
 
-#### select_int
+#### select\_int
 
 ```python
 @classmethod
@@ -2634,7 +2634,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_float"></a>
 
-#### select_float
+#### select\_float
 
 ```python
 @classmethod
@@ -2654,7 +2654,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_color"></a>
 
-#### select_color
+#### select\_color
 
 ```python
 @classmethod
@@ -2675,7 +2675,7 @@ Returns:
 
 <a id="unreal.MathLibrary.select_class"></a>
 
-#### select_class
+#### select\_class
 
 ```python
 @classmethod
@@ -2695,7 +2695,7 @@ Returns:
 
 <a id="unreal.MathLibrary.seed_random_stream"></a>
 
-#### seed_random_stream
+#### seed\_random\_stream
 
 ```python
 @classmethod
@@ -2715,7 +2715,7 @@ Returns:
 
 <a id="unreal.MathLibrary.safe_divide"></a>
 
-#### safe_divide
+#### safe\_divide
 
 ```python
 @classmethod
@@ -2770,7 +2770,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rotator_from_axis_and_angle"></a>
 
-#### rotator_from_axis_and_angle
+#### rotator\_from\_axis\_and\_angle
 
 ```python
 @classmethod
@@ -2789,7 +2789,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rotate_angle_axis"></a>
 
-#### rotate_angle_axis
+#### rotate\_angle\_axis
 
 ```python
 @classmethod
@@ -2810,7 +2810,7 @@ Returns:
 
 <a id="unreal.MathLibrary.r_lerp"></a>
 
-#### r_lerp
+#### r\_lerp
 
 ```python
 @classmethod
@@ -2832,7 +2832,7 @@ Returns:
 
 <a id="unreal.MathLibrary.r_interp_to_constant"></a>
 
-#### r_interp_to_constant
+#### r\_interp\_to\_constant
 
 ```python
 @classmethod
@@ -2854,7 +2854,7 @@ Returns:
 
 <a id="unreal.MathLibrary.r_interp_to"></a>
 
-#### r_interp_to
+#### r\_interp\_to
 
 ```python
 @classmethod
@@ -2876,7 +2876,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rgb_to_hsv_vector"></a>
 
-#### rgb_to_hsv_vector
+#### rgb\_to\_hsv\_vector
 
 ```python
 @classmethod
@@ -2896,7 +2896,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rgb_to_hsv"></a>
 
-#### rgb_to_hsv
+#### rgb\_to\_hsv
 
 ```python
 @classmethod
@@ -2922,7 +2922,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rgb_linear_to_hsv"></a>
 
-#### rgb_linear_to_hsv
+#### rgb\_linear\_to\_hsv
 
 ```python
 @classmethod
@@ -2940,7 +2940,7 @@ Returns:
 
 <a id="unreal.MathLibrary.reset_vector_spring_state"></a>
 
-#### reset_vector_spring_state
+#### reset\_vector\_spring\_state
 
 ```python
 @classmethod
@@ -2961,7 +2961,7 @@ Returns:
 
 <a id="unreal.MathLibrary.reset_random_stream"></a>
 
-#### reset_random_stream
+#### reset\_random\_stream
 
 ```python
 @classmethod
@@ -2976,7 +2976,7 @@ Args:
 
 <a id="unreal.MathLibrary.reset_quaternion_spring_state"></a>
 
-#### reset_quaternion_spring_state
+#### reset\_quaternion\_spring\_state
 
 ```python
 @classmethod
@@ -2997,7 +2997,7 @@ Returns:
 
 <a id="unreal.MathLibrary.reset_float_spring_state"></a>
 
-#### reset_float_spring_state
+#### reset\_float\_spring\_state
 
 ```python
 @classmethod
@@ -3018,7 +3018,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_in_elliptical_cone_in_radians_from_stream"></a>
 
-#### random_unit_vector_in_elliptical_cone_in_radians_from_stream
+#### random\_unit\_vector\_in\_elliptical\_cone\_in\_radians\_from\_stream
 
 ```python
 @classmethod
@@ -3042,7 +3042,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_in_elliptical_cone_in_radians"></a>
 
-#### random_unit_vector_in_elliptical_cone_in_radians
+#### random\_unit\_vector\_in\_elliptical\_cone\_in\_radians
 
 ```python
 @classmethod
@@ -3065,7 +3065,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_in_elliptical_cone_in_degrees_from_stream"></a>
 
-#### random_unit_vector_in_elliptical_cone_in_degrees_from_stream
+#### random\_unit\_vector\_in\_elliptical\_cone\_in\_degrees\_from\_stream
 
 ```python
 @classmethod
@@ -3089,7 +3089,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_in_elliptical_cone_in_degrees"></a>
 
-#### random_unit_vector_in_elliptical_cone_in_degrees
+#### random\_unit\_vector\_in\_elliptical\_cone\_in\_degrees
 
 ```python
 @classmethod
@@ -3112,7 +3112,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_in_cone_with_yaw_and_pitch"></a>
 
-#### random_unit_vector_in_cone_with_yaw_and_pitch
+#### random\_unit\_vector\_in\_cone\_with\_yaw\_and\_pitch
 
 ```python
 @classmethod
@@ -3125,7 +3125,7 @@ deprecated: 'random_unit_vector_in_cone_with_yaw_and_pitch' was renamed to 'rand
 
 <a id="unreal.MathLibrary.random_unit_vector_in_cone_in_radians_from_stream"></a>
 
-#### random_unit_vector_in_cone_in_radians_from_stream
+#### random\_unit\_vector\_in\_cone\_in\_radians\_from\_stream
 
 ```python
 @classmethod
@@ -3147,7 +3147,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_in_cone_in_radians"></a>
 
-#### random_unit_vector_in_cone_in_radians
+#### random\_unit\_vector\_in\_cone\_in\_radians
 
 ```python
 @classmethod
@@ -3167,7 +3167,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_in_cone"></a>
 
-#### random_unit_vector_in_cone
+#### random\_unit\_vector\_in\_cone
 
 ```python
 @classmethod
@@ -3179,7 +3179,7 @@ deprecated: 'random_unit_vector_in_cone' was renamed to 'random_unit_vector_in_c
 
 <a id="unreal.MathLibrary.random_unit_vector_in_cone_in_degrees_from_stream"></a>
 
-#### random_unit_vector_in_cone_in_degrees_from_stream
+#### random\_unit\_vector\_in\_cone\_in\_degrees\_from\_stream
 
 ```python
 @classmethod
@@ -3201,7 +3201,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_in_cone_in_degrees"></a>
 
-#### random_unit_vector_in_cone_in_degrees
+#### random\_unit\_vector\_in\_cone\_in\_degrees
 
 ```python
 @classmethod
@@ -3221,7 +3221,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_unit_vector_from_stream"></a>
 
-#### random_unit_vector_from_stream
+#### random\_unit\_vector\_from\_stream
 
 ```python
 @classmethod
@@ -3239,7 +3239,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_rand_from_stream"></a>
 
-#### v_rand_from_stream
+#### v\_rand\_from\_stream
 
 ```python
 @classmethod
@@ -3250,7 +3250,7 @@ deprecated: 'v_rand_from_stream' was renamed to 'random_unit_vector_from_stream'
 
 <a id="unreal.MathLibrary.random_unit_vector"></a>
 
-#### random_unit_vector
+#### random\_unit\_vector
 
 ```python
 @classmethod
@@ -3265,7 +3265,7 @@ Returns:
 
 <a id="unreal.MathLibrary.v_rand"></a>
 
-#### v_rand
+#### v\_rand
 
 ```python
 @classmethod
@@ -3276,7 +3276,7 @@ deprecated: 'v_rand' was renamed to 'random_unit_vector'.
 
 <a id="unreal.MathLibrary.random_rotator_from_stream"></a>
 
-#### random_rotator_from_stream
+#### random\_rotator\_from\_stream
 
 ```python
 @classmethod
@@ -3296,7 +3296,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rot_rand_from_stream"></a>
 
-#### rot_rand_from_stream
+#### rot\_rand\_from\_stream
 
 ```python
 @classmethod
@@ -3307,7 +3307,7 @@ deprecated: 'rot_rand_from_stream' was renamed to 'random_rotator_from_stream'.
 
 <a id="unreal.MathLibrary.random_rotator"></a>
 
-#### random_rotator
+#### random\_rotator
 
 ```python
 @classmethod
@@ -3325,7 +3325,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rot_rand"></a>
 
-#### rot_rand
+#### rot\_rand
 
 ```python
 @classmethod
@@ -3336,7 +3336,7 @@ deprecated: 'rot_rand' was renamed to 'random_rotator'.
 
 <a id="unreal.MathLibrary.random_point_in_bounding_box_from_stream_box"></a>
 
-#### random_point_in_bounding_box_from_stream_box
+#### random\_point\_in\_bounding\_box\_from\_stream\_box
 
 ```python
 @classmethod
@@ -3356,7 +3356,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_point_in_bounding_box_from_stream"></a>
 
-#### random_point_in_bounding_box_from_stream
+#### random\_point\_in\_bounding\_box\_from\_stream
 
 ```python
 @classmethod
@@ -3378,7 +3378,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_point_in_bounding_box_box"></a>
 
-#### random_point_in_bounding_box_box
+#### random\_point\_in\_bounding\_box\_box
 
 ```python
 @classmethod
@@ -3396,7 +3396,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_point_in_bounding_box"></a>
 
-#### random_point_in_bounding_box
+#### random\_point\_in\_bounding\_box
 
 ```python
 @classmethod
@@ -3416,7 +3416,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_integer_in_range_from_stream"></a>
 
-#### random_integer_in_range_from_stream
+#### random\_integer\_in\_range\_from\_stream
 
 ```python
 @classmethod
@@ -3437,7 +3437,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rand_range_from_stream"></a>
 
-#### rand_range_from_stream
+#### rand\_range\_from\_stream
 
 ```python
 @classmethod
@@ -3449,7 +3449,7 @@ deprecated: 'rand_range_from_stream' was renamed to 'random_integer_in_range_fro
 
 <a id="unreal.MathLibrary.random_integer_in_range"></a>
 
-#### random_integer_in_range
+#### random\_integer\_in\_range
 
 ```python
 @classmethod
@@ -3468,7 +3468,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rand_range"></a>
 
-#### rand_range
+#### rand\_range
 
 ```python
 @classmethod
@@ -3479,7 +3479,7 @@ deprecated: 'rand_range' was renamed to 'random_integer_in_range'.
 
 <a id="unreal.MathLibrary.random_integer_from_stream"></a>
 
-#### random_integer_from_stream
+#### random\_integer\_from\_stream
 
 ```python
 @classmethod
@@ -3498,7 +3498,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rand_from_stream"></a>
 
-#### rand_from_stream
+#### rand\_from\_stream
 
 ```python
 @classmethod
@@ -3509,7 +3509,7 @@ deprecated: 'rand_from_stream' was renamed to 'random_integer_from_stream'.
 
 <a id="unreal.MathLibrary.random_integer64_in_range"></a>
 
-#### random_integer64_in_range
+#### random\_integer64\_in\_range
 
 ```python
 @classmethod
@@ -3528,7 +3528,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_integer64"></a>
 
-#### random_integer64
+#### random\_integer64
 
 ```python
 @classmethod
@@ -3546,7 +3546,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_integer"></a>
 
-#### random_integer
+#### random\_integer
 
 ```python
 @classmethod
@@ -3575,7 +3575,7 @@ deprecated: 'rand' was renamed to 'random_integer'.
 
 <a id="unreal.MathLibrary.random_float_in_range_from_stream"></a>
 
-#### random_float_in_range_from_stream
+#### random\_float\_in\_range\_from\_stream
 
 ```python
 @classmethod
@@ -3596,7 +3596,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_rand_range_from_stream"></a>
 
-#### f_rand_range_from_stream
+#### f\_rand\_range\_from\_stream
 
 ```python
 @classmethod
@@ -3608,7 +3608,7 @@ deprecated: 'f_rand_range_from_stream' was renamed to 'random_float_in_range_fro
 
 <a id="unreal.MathLibrary.random_float_in_range"></a>
 
-#### random_float_in_range
+#### random\_float\_in\_range
 
 ```python
 @classmethod
@@ -3627,7 +3627,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_rand_range"></a>
 
-#### f_rand_range
+#### f\_rand\_range
 
 ```python
 @classmethod
@@ -3638,7 +3638,7 @@ deprecated: 'f_rand_range' was renamed to 'random_float_in_range'.
 
 <a id="unreal.MathLibrary.random_float_from_stream"></a>
 
-#### random_float_from_stream
+#### random\_float\_from\_stream
 
 ```python
 @classmethod
@@ -3656,7 +3656,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_rand_from_stream"></a>
 
-#### f_rand_from_stream
+#### f\_rand\_from\_stream
 
 ```python
 @classmethod
@@ -3667,7 +3667,7 @@ deprecated: 'f_rand_from_stream' was renamed to 'random_float_from_stream'.
 
 <a id="unreal.MathLibrary.random_float"></a>
 
-#### random_float
+#### random\_float
 
 ```python
 @classmethod
@@ -3682,7 +3682,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_rand"></a>
 
-#### f_rand
+#### f\_rand
 
 ```python
 @classmethod
@@ -3693,7 +3693,7 @@ deprecated: 'f_rand' was renamed to 'random_float'.
 
 <a id="unreal.MathLibrary.random_bool_with_weight_from_stream"></a>
 
-#### random_bool_with_weight_from_stream
+#### random\_bool\_with\_weight\_from\_stream
 
 ```python
 @classmethod
@@ -3715,7 +3715,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_bool_with_weight"></a>
 
-#### random_bool_with_weight
+#### random\_bool\_with\_weight
 
 ```python
 @classmethod
@@ -3734,7 +3734,7 @@ Returns:
 
 <a id="unreal.MathLibrary.random_bool_from_stream"></a>
 
-#### random_bool_from_stream
+#### random\_bool\_from\_stream
 
 ```python
 @classmethod
@@ -3752,7 +3752,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rand_bool_from_stream"></a>
 
-#### rand_bool_from_stream
+#### rand\_bool\_from\_stream
 
 ```python
 @classmethod
@@ -3763,7 +3763,7 @@ deprecated: 'rand_bool_from_stream' was renamed to 'random_bool_from_stream'.
 
 <a id="unreal.MathLibrary.random_bool"></a>
 
-#### random_bool
+#### random\_bool
 
 ```python
 @classmethod
@@ -3778,7 +3778,7 @@ Returns:
 
 <a id="unreal.MathLibrary.rand_bool"></a>
 
-#### rand_bool
+#### rand\_bool
 
 ```python
 @classmethod
@@ -3789,7 +3789,7 @@ deprecated: 'rand_bool' was renamed to 'random_bool'.
 
 <a id="unreal.MathLibrary.radians_to_degrees"></a>
 
-#### radians_to_degrees
+#### radians\_to\_degrees
 
 ```python
 @classmethod
@@ -3807,7 +3807,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quaternion_spring_interp"></a>
 
-#### quaternion_spring_interp
+#### quaternion\_spring\_interp
 
 ```python
 @classmethod
@@ -3846,7 +3846,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_vector_up"></a>
 
-#### quat_vector_up
+#### quat\_vector\_up
 
 ```python
 @classmethod
@@ -3864,7 +3864,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_vector_right"></a>
 
-#### quat_vector_right
+#### quat\_vector\_right
 
 ```python
 @classmethod
@@ -3882,7 +3882,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_vector_forward"></a>
 
-#### quat_vector_forward
+#### quat\_vector\_forward
 
 ```python
 @classmethod
@@ -3900,7 +3900,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_unrotate_vector"></a>
 
-#### quat_unrotate_vector
+#### quat\_unrotate\_vector
 
 ```python
 @classmethod
@@ -3919,7 +3919,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_slerp"></a>
 
-#### quat_slerp
+#### quat\_slerp
 
 ```python
 @classmethod
@@ -3939,7 +3939,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_size_squared"></a>
 
-#### quat_size_squared
+#### quat\_size\_squared
 
 ```python
 @classmethod
@@ -3957,7 +3957,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_size"></a>
 
-#### quat_size
+#### quat\_size
 
 ```python
 @classmethod
@@ -3975,7 +3975,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_set_from_euler"></a>
 
-#### quat_set_from_euler
+#### quat\_set\_from\_euler
 
 ```python
 @classmethod
@@ -3996,7 +3996,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_set_components"></a>
 
-#### quat_set_components
+#### quat\_set\_components
 
 ```python
 @classmethod
@@ -4021,7 +4021,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_rotator"></a>
 
-#### quat_rotator
+#### quat\_rotator
 
 ```python
 @classmethod
@@ -4039,7 +4039,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_rotate_vector"></a>
 
-#### quat_rotate_vector
+#### quat\_rotate\_vector
 
 ```python
 @classmethod
@@ -4058,7 +4058,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_normalized"></a>
 
-#### quat_normalized
+#### quat\_normalized
 
 ```python
 @classmethod
@@ -4078,7 +4078,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_normalize"></a>
 
-#### quat_normalize
+#### quat\_normalize
 
 ```python
 @classmethod
@@ -4100,7 +4100,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_make_from_euler"></a>
 
-#### quat_make_from_euler
+#### quat\_make\_from\_euler
 
 ```python
 @classmethod
@@ -4118,7 +4118,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_log"></a>
 
-#### quat_log
+#### quat\_log
 
 ```python
 @classmethod
@@ -4136,7 +4136,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_is_normalized"></a>
 
-#### quat_is_normalized
+#### quat\_is\_normalized
 
 ```python
 @classmethod
@@ -4154,7 +4154,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_is_non_finite"></a>
 
-#### quat_is_non_finite
+#### quat\_is\_non\_finite
 
 ```python
 @classmethod
@@ -4172,7 +4172,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_is_identity"></a>
 
-#### quat_is_identity
+#### quat\_is\_identity
 
 ```python
 @classmethod
@@ -4192,7 +4192,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_is_finite"></a>
 
-#### quat_is_finite
+#### quat\_is\_finite
 
 ```python
 @classmethod
@@ -4210,7 +4210,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_inversed"></a>
 
-#### quat_inversed
+#### quat\_inversed
 
 ```python
 @classmethod
@@ -4228,7 +4228,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_get_rotation_axis"></a>
 
-#### quat_get_rotation_axis
+#### quat\_get\_rotation\_axis
 
 ```python
 @classmethod
@@ -4248,7 +4248,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_get_axis_z"></a>
 
-#### quat_get_axis_z
+#### quat\_get\_axis\_z
 
 ```python
 @classmethod
@@ -4266,7 +4266,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_get_axis_y"></a>
 
-#### quat_get_axis_y
+#### quat\_get\_axis\_y
 
 ```python
 @classmethod
@@ -4284,7 +4284,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_get_axis_x"></a>
 
-#### quat_get_axis_x
+#### quat\_get\_axis\_x
 
 ```python
 @classmethod
@@ -4302,7 +4302,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_get_angle"></a>
 
-#### quat_get_angle
+#### quat\_get\_angle
 
 ```python
 @classmethod
@@ -4320,7 +4320,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_find_between_vectors"></a>
 
-#### quat_find_between_vectors
+#### quat\_find\_between\_vectors
 
 ```python
 @classmethod
@@ -4339,7 +4339,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_find_between_normals"></a>
 
-#### quat_find_between_normals
+#### quat\_find\_between\_normals
 
 ```python
 @classmethod
@@ -4359,7 +4359,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_exp"></a>
 
-#### quat_exp
+#### quat\_exp
 
 ```python
 @classmethod
@@ -4379,7 +4379,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_euler"></a>
 
-#### quat_euler
+#### quat\_euler
 
 ```python
 @classmethod
@@ -4397,7 +4397,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_enforce_shortest_arc_with"></a>
 
-#### quat_enforce_shortest_arc_with
+#### quat\_enforce\_shortest\_arc\_with
 
 ```python
 @classmethod
@@ -4418,7 +4418,7 @@ Returns:
 
 <a id="unreal.MathLibrary.quat_angular_distance"></a>
 
-#### quat_angular_distance
+#### quat\_angular\_distance
 
 ```python
 @classmethod
@@ -4437,7 +4437,7 @@ Returns:
 
 <a id="unreal.MathLibrary.project_vector_on_to_vector"></a>
 
-#### project_vector_on_to_vector
+#### project\_vector\_on\_to\_vector
 
 ```python
 @classmethod
@@ -4457,7 +4457,7 @@ Returns:
 
 <a id="unreal.MathLibrary.project_on_to"></a>
 
-#### project_on_to
+#### project\_on\_to
 
 ```python
 @classmethod
@@ -4468,7 +4468,7 @@ deprecated: 'project_on_to' was renamed to 'project_vector_on_to_vector'.
 
 <a id="unreal.MathLibrary.project_vector_on_to_plane"></a>
 
-#### project_vector_on_to_plane
+#### project\_vector\_on\_to\_plane
 
 ```python
 @classmethod
@@ -4487,7 +4487,7 @@ Returns:
 
 <a id="unreal.MathLibrary.project_point_on_to_plane"></a>
 
-#### project_point_on_to_plane
+#### project\_point\_on\_to\_plane
 
 ```python
 @classmethod
@@ -4508,7 +4508,7 @@ Returns:
 
 <a id="unreal.MathLibrary.points_are_coplanar"></a>
 
-#### points_are_coplanar
+#### points\_are\_coplanar
 
 ```python
 @classmethod
@@ -4529,7 +4529,7 @@ Returns:
 
 <a id="unreal.MathLibrary.perlin_noise1d"></a>
 
-#### perlin_noise1d
+#### perlin\_noise1d
 
 ```python
 @classmethod
@@ -4547,7 +4547,7 @@ Returns:
 
 <a id="unreal.MathLibrary.percent_int_int"></a>
 
-#### percent_int_int
+#### percent\_int\_int
 
 ```python
 @classmethod
@@ -4566,7 +4566,7 @@ Returns:
 
 <a id="unreal.MathLibrary.percent_int64_int64"></a>
 
-#### percent_int64_int64
+#### percent\_int64\_int64
 
 ```python
 @classmethod
@@ -4585,7 +4585,7 @@ Returns:
 
 <a id="unreal.MathLibrary.percent_byte_byte"></a>
 
-#### percent_byte_byte
+#### percent\_byte\_byte
 
 ```python
 @classmethod
@@ -4604,7 +4604,7 @@ Returns:
 
 <a id="unreal.MathLibrary.or_int_int"></a>
 
-#### or_int_int
+#### or\_int\_int
 
 ```python
 @classmethod
@@ -4623,7 +4623,7 @@ Returns:
 
 <a id="unreal.MathLibrary.or_int64_int64"></a>
 
-#### or_int64_int64
+#### or\_int64\_int64
 
 ```python
 @classmethod
@@ -4657,7 +4657,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_exactly_vector_vector"></a>
 
-#### not_equal_exactly_vector_vector
+#### not\_equal\_exactly\_vector\_vector
 
 ```python
 @classmethod
@@ -4676,7 +4676,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_exactly_vector4_vector4"></a>
 
-#### not_equal_exactly_vector4_vector4
+#### not\_equal\_exactly\_vector4\_vector4
 
 ```python
 @classmethod
@@ -4695,7 +4695,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_exactly_vector2d_vector2d"></a>
 
-#### not_equal_exactly_vector2d_vector2d
+#### not\_equal\_exactly\_vector2d\_vector2d
 
 ```python
 @classmethod
@@ -4714,7 +4714,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_vector_vector"></a>
 
-#### not_equal_vector_vector
+#### not\_equal\_vector\_vector
 
 ```python
 @classmethod
@@ -4737,7 +4737,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_vector4_vector4"></a>
 
-#### not_equal_vector4_vector4
+#### not\_equal\_vector4\_vector4
 
 ```python
 @classmethod
@@ -4760,7 +4760,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_vector2d_vector2d"></a>
 
-#### not_equal_vector2d_vector2d
+#### not\_equal\_vector2d\_vector2d
 
 ```python
 @classmethod
@@ -4783,7 +4783,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_timespan_timespan"></a>
 
-#### not_equal_timespan_timespan
+#### not\_equal\_timespan\_timespan
 
 ```python
 @classmethod
@@ -4802,7 +4802,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_rotator_rotator"></a>
 
-#### not_equal_rotator_rotator
+#### not\_equal\_rotator\_rotator
 
 ```python
 @classmethod
@@ -4825,7 +4825,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_quat_quat"></a>
 
-#### not_equal_quat_quat
+#### not\_equal\_quat\_quat
 
 ```python
 @classmethod
@@ -4848,7 +4848,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_object_object"></a>
 
-#### not_equal_object_object
+#### not\_equal\_object\_object
 
 ```python
 @classmethod
@@ -4867,7 +4867,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_name_name"></a>
 
-#### not_equal_name_name
+#### not\_equal\_name\_name
 
 ```python
 @classmethod
@@ -4886,7 +4886,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_matrix_matrix"></a>
 
-#### not_equal_matrix_matrix
+#### not\_equal\_matrix\_matrix
 
 ```python
 @classmethod
@@ -4909,7 +4909,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_linear_color_linear_color"></a>
 
-#### not_equal_linear_color_linear_color
+#### not\_equal\_linear\_color\_linear\_color
 
 ```python
 @classmethod
@@ -4929,7 +4929,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_int_point_int_point"></a>
 
-#### not_equal_int_point_int_point
+#### not\_equal\_int\_point\_int\_point
 
 ```python
 @classmethod
@@ -4948,7 +4948,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_int_int"></a>
 
-#### not_equal_int_int
+#### not\_equal\_int\_int
 
 ```python
 @classmethod
@@ -4967,7 +4967,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_int64_int64"></a>
 
-#### not_equal_int64_int64
+#### not\_equal\_int64\_int64
 
 ```python
 @classmethod
@@ -4986,7 +4986,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_double_double"></a>
 
-#### not_equal_double_double
+#### not\_equal\_double\_double
 
 ```python
 @classmethod
@@ -5005,7 +5005,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_float_float"></a>
 
-#### not_equal_float_float
+#### not\_equal\_float\_float
 
 ```python
 @classmethod
@@ -5016,7 +5016,7 @@ deprecated: 'not_equal_float_float' was renamed to 'not_equal_double_double'.
 
 <a id="unreal.MathLibrary.not_equal_date_time_date_time"></a>
 
-#### not_equal_date_time_date_time
+#### not\_equal\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -5035,7 +5035,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_class_class"></a>
 
-#### not_equal_class_class
+#### not\_equal\_class\_class
 
 ```python
 @classmethod
@@ -5054,7 +5054,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_byte_byte"></a>
 
-#### not_equal_byte_byte
+#### not\_equal\_byte\_byte
 
 ```python
 @classmethod
@@ -5073,7 +5073,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_equal_bool_bool"></a>
 
-#### not_equal_bool_bool
+#### not\_equal\_bool\_bool
 
 ```python
 @classmethod
@@ -5092,7 +5092,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_pre_bool"></a>
 
-#### not_pre_bool
+#### not\_pre\_bool
 
 ```python
 @classmethod
@@ -5110,7 +5110,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_int64"></a>
 
-#### not_int64
+#### not\_int64
 
 ```python
 @classmethod
@@ -5128,7 +5128,7 @@ Returns:
 
 <a id="unreal.MathLibrary.not_int"></a>
 
-#### not_int
+#### not\_int
 
 ```python
 @classmethod
@@ -5146,7 +5146,7 @@ Returns:
 
 <a id="unreal.MathLibrary.normal_safe2d"></a>
 
-#### normal_safe2d
+#### normal\_safe2d
 
 ```python
 @classmethod
@@ -5166,7 +5166,7 @@ Returns:
 
 <a id="unreal.MathLibrary.normalize_to_range"></a>
 
-#### normalize_to_range
+#### normalize\_to\_range
 
 ```python
 @classmethod
@@ -5187,7 +5187,7 @@ Returns:
 
 <a id="unreal.MathLibrary.inverse_lerp"></a>
 
-#### inverse_lerp
+#### inverse\_lerp
 
 ```python
 @classmethod
@@ -5199,7 +5199,7 @@ deprecated: 'inverse_lerp' was renamed to 'normalize_to_range'.
 
 <a id="unreal.MathLibrary.normalized_delta_rotator"></a>
 
-#### normalized_delta_rotator
+#### normalized\_delta\_rotator
 
 ```python
 @classmethod
@@ -5218,7 +5218,7 @@ Returns:
 
 <a id="unreal.MathLibrary.normalize_axis"></a>
 
-#### normalize_axis
+#### normalize\_axis
 
 ```python
 @classmethod
@@ -5296,7 +5296,7 @@ Returns:
 
 <a id="unreal.MathLibrary.negate_vector"></a>
 
-#### negate_vector
+#### negate\_vector
 
 ```python
 @classmethod
@@ -5314,7 +5314,7 @@ Returns:
 
 <a id="unreal.MathLibrary.negate_rotator"></a>
 
-#### negate_rotator
+#### negate\_rotator
 
 ```python
 @classmethod
@@ -5350,7 +5350,7 @@ Returns:
 
 <a id="unreal.MathLibrary.nearly_equal_transform_transform"></a>
 
-#### nearly_equal_transform_transform
+#### nearly\_equal\_transform\_transform
 
 ```python
 @classmethod
@@ -5378,7 +5378,7 @@ Returns:
 
 <a id="unreal.MathLibrary.nearly_equal_float_float"></a>
 
-#### nearly_equal_float_float
+#### nearly\_equal\_float\_float
 
 ```python
 @classmethod
@@ -5401,7 +5401,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_multiply_float_float"></a>
 
-#### multiply_multiply_float_float
+#### multiply\_multiply\_float\_float
 
 ```python
 @classmethod
@@ -5420,7 +5420,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_by_pi"></a>
 
-#### multiply_by_pi
+#### multiply\_by\_pi
 
 ```python
 @classmethod
@@ -5438,7 +5438,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_vector_vector"></a>
 
-#### multiply_vector_vector
+#### multiply\_vector\_vector
 
 ```python
 @classmethod
@@ -5457,7 +5457,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_vector_int"></a>
 
-#### multiply_vector_int
+#### multiply\_vector\_int
 
 ```python
 @classmethod
@@ -5476,7 +5476,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_vector_float"></a>
 
-#### multiply_vector_float
+#### multiply\_vector\_float
 
 ```python
 @classmethod
@@ -5495,7 +5495,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_vector4_vector4"></a>
 
-#### multiply_vector4_vector4
+#### multiply\_vector4\_vector4
 
 ```python
 @classmethod
@@ -5514,7 +5514,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_vector2d_vector2d"></a>
 
-#### multiply_vector2d_vector2d
+#### multiply\_vector2d\_vector2d
 
 ```python
 @classmethod
@@ -5533,7 +5533,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_vector2d_float"></a>
 
-#### multiply_vector2d_float
+#### multiply\_vector2d\_float
 
 ```python
 @classmethod
@@ -5552,7 +5552,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_timespan_float"></a>
 
-#### multiply_timespan_float
+#### multiply\_timespan\_float
 
 ```python
 @classmethod
@@ -5571,7 +5571,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_rotator_int"></a>
 
-#### multiply_rotator_int
+#### multiply\_rotator\_int
 
 ```python
 @classmethod
@@ -5590,7 +5590,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_rotator_float"></a>
 
-#### multiply_rotator_float
+#### multiply\_rotator\_float
 
 ```python
 @classmethod
@@ -5609,7 +5609,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_quat_quat"></a>
 
-#### multiply_quat_quat
+#### multiply\_quat\_quat
 
 ```python
 @classmethod
@@ -5631,7 +5631,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_matrix_matrix"></a>
 
-#### multiply_matrix_matrix
+#### multiply\_matrix\_matrix
 
 ```python
 @classmethod
@@ -5650,7 +5650,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_matrix_float"></a>
 
-#### multiply_matrix_float
+#### multiply\_matrix\_float
 
 ```python
 @classmethod
@@ -5670,7 +5670,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_linear_color_linear_color"></a>
 
-#### multiply_linear_color_linear_color
+#### multiply\_linear\_color\_linear\_color
 
 ```python
 @classmethod
@@ -5690,7 +5690,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_linear_color_float"></a>
 
-#### multiply_linear_color_float
+#### multiply\_linear\_color\_float
 
 ```python
 @classmethod
@@ -5709,7 +5709,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_int_point_int_point"></a>
 
-#### multiply_int_point_int_point
+#### multiply\_int\_point\_int\_point
 
 ```python
 @classmethod
@@ -5728,7 +5728,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_int_point_int"></a>
 
-#### multiply_int_point_int
+#### multiply\_int\_point\_int
 
 ```python
 @classmethod
@@ -5747,7 +5747,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_int_int"></a>
 
-#### multiply_int_int
+#### multiply\_int\_int
 
 ```python
 @classmethod
@@ -5766,7 +5766,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_int_float"></a>
 
-#### multiply_int_float
+#### multiply\_int\_float
 
 ```python
 @classmethod
@@ -5785,7 +5785,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_int64_int64"></a>
 
-#### multiply_int64_int64
+#### multiply\_int64\_int64
 
 ```python
 @classmethod
@@ -5804,7 +5804,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_double_double"></a>
 
-#### multiply_double_double
+#### multiply\_double\_double
 
 ```python
 @classmethod
@@ -5823,7 +5823,7 @@ Returns:
 
 <a id="unreal.MathLibrary.multiply_float_float"></a>
 
-#### multiply_float_float
+#### multiply\_float\_float
 
 ```python
 @classmethod
@@ -5834,7 +5834,7 @@ deprecated: 'multiply_float_float' was renamed to 'multiply_double_double'.
 
 <a id="unreal.MathLibrary.multiply_byte_byte"></a>
 
-#### multiply_byte_byte
+#### multiply\_byte\_byte
 
 ```python
 @classmethod
@@ -5853,7 +5853,7 @@ Returns:
 
 <a id="unreal.MathLibrary.mirror_vector_by_normal"></a>
 
-#### mirror_vector_by_normal
+#### mirror\_vector\_by\_normal
 
 ```python
 @classmethod
@@ -5873,7 +5873,7 @@ Returns:
 
 <a id="unreal.MathLibrary.min_of_int_array"></a>
 
-#### min_of_int_array
+#### min\_of\_int\_array
 
 ```python
 @classmethod
@@ -5895,7 +5895,7 @@ Returns:
 
 <a id="unreal.MathLibrary.min_of_float_array"></a>
 
-#### min_of_float_array
+#### min\_of\_float\_array
 
 ```python
 @classmethod
@@ -5917,7 +5917,7 @@ Returns:
 
 <a id="unreal.MathLibrary.min_of_byte_array"></a>
 
-#### min_of_byte_array
+#### min\_of\_byte\_array
 
 ```python
 @classmethod
@@ -5939,7 +5939,7 @@ Returns:
 
 <a id="unreal.MathLibrary.min_int64"></a>
 
-#### min_int64
+#### min\_int64
 
 ```python
 @classmethod
@@ -5958,7 +5958,7 @@ Returns:
 
 <a id="unreal.MathLibrary.min_area_rectangle"></a>
 
-#### min_area_rectangle
+#### min\_area\_rectangle
 
 ```python
 @classmethod
@@ -5993,7 +5993,7 @@ Returns:
 
 <a id="unreal.MathLibrary.minimum_area_rectangle"></a>
 
-#### minimum_area_rectangle
+#### minimum\_area\_rectangle
 
 ```python
 @classmethod
@@ -6028,7 +6028,7 @@ Returns:
 
 <a id="unreal.MathLibrary.median_of_int_array"></a>
 
-#### median_of_int_array
+#### median\_of\_int\_array
 
 ```python
 @classmethod
@@ -6048,7 +6048,7 @@ Returns:
 
 <a id="unreal.MathLibrary.max_of_int_array"></a>
 
-#### max_of_int_array
+#### max\_of\_int\_array
 
 ```python
 @classmethod
@@ -6070,7 +6070,7 @@ Returns:
 
 <a id="unreal.MathLibrary.max_of_float_array"></a>
 
-#### max_of_float_array
+#### max\_of\_float\_array
 
 ```python
 @classmethod
@@ -6092,7 +6092,7 @@ Returns:
 
 <a id="unreal.MathLibrary.max_of_byte_array"></a>
 
-#### max_of_byte_array
+#### max\_of\_byte\_array
 
 ```python
 @classmethod
@@ -6114,7 +6114,7 @@ Returns:
 
 <a id="unreal.MathLibrary.max_int64"></a>
 
-#### max_int64
+#### max\_int64
 
 ```python
 @classmethod
@@ -6152,7 +6152,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_transform_vector4"></a>
 
-#### matrix_transform_vector4
+#### matrix\_transform\_vector4
 
 ```python
 @classmethod
@@ -6172,7 +6172,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_transform_vector"></a>
 
-#### matrix_transform_vector
+#### matrix\_transform\_vector
 
 ```python
 @classmethod
@@ -6193,7 +6193,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_transform_position"></a>
 
-#### matrix_transform_position
+#### matrix\_transform\_position
 
 ```python
 @classmethod
@@ -6213,7 +6213,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_to_quat"></a>
 
-#### matrix_to_quat
+#### matrix\_to\_quat
 
 ```python
 @classmethod
@@ -6233,7 +6233,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_set_origin"></a>
 
-#### matrix_set_origin
+#### matrix\_set\_origin
 
 ```python
 @classmethod
@@ -6255,7 +6255,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_set_column"></a>
 
-#### matrix_set_column
+#### matrix\_set\_column
 
 ```python
 @classmethod
@@ -6278,7 +6278,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_set_axis"></a>
 
-#### matrix_set_axis
+#### matrix\_set\_axis
 
 ```python
 @classmethod
@@ -6302,7 +6302,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_scale_translation"></a>
 
-#### matrix_scale_translation
+#### matrix\_scale\_translation
 
 ```python
 @classmethod
@@ -6322,7 +6322,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_remove_translation"></a>
 
-#### matrix_remove_translation
+#### matrix\_remove\_translation
 
 ```python
 @classmethod
@@ -6341,7 +6341,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_remove_scaling"></a>
 
-#### matrix_remove_scaling
+#### matrix\_remove\_scaling
 
 ```python
 @classmethod
@@ -6365,7 +6365,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_mirror"></a>
 
-#### matrix_mirror
+#### matrix\_mirror
 
 ```python
 @classmethod
@@ -6387,7 +6387,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_inverse_transform_vector"></a>
 
-#### matrix_inverse_transform_vector
+#### matrix\_inverse\_transform\_vector
 
 ```python
 @classmethod
@@ -6408,7 +6408,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_inverse_transform_position"></a>
 
-#### matrix_inverse_transform_position
+#### matrix\_inverse\_transform\_position
 
 ```python
 @classmethod
@@ -6428,7 +6428,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_unit_axis"></a>
 
-#### matrix_get_unit_axis
+#### matrix\_get\_unit\_axis
 
 ```python
 @classmethod
@@ -6448,7 +6448,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_unit_axes"></a>
 
-#### matrix_get_unit_axes
+#### matrix\_get\_unit\_axes
 
 ```python
 @classmethod
@@ -6473,7 +6473,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_transposed"></a>
 
-#### matrix_get_transposed
+#### matrix\_get\_transposed
 
 ```python
 @classmethod
@@ -6491,7 +6491,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_transpose_adjoint"></a>
 
-#### matrix_get_transpose_adjoint
+#### matrix\_get\_transpose\_adjoint
 
 ```python
 @classmethod
@@ -6509,7 +6509,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_scale_vector"></a>
 
-#### matrix_get_scale_vector
+#### matrix\_get\_scale\_vector
 
 ```python
 @classmethod
@@ -6531,7 +6531,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_scaled_axis"></a>
 
-#### matrix_get_scaled_axis
+#### matrix\_get\_scaled\_axis
 
 ```python
 @classmethod
@@ -6551,7 +6551,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_scaled_axes"></a>
 
-#### matrix_get_scaled_axes
+#### matrix\_get\_scaled\_axes
 
 ```python
 @classmethod
@@ -6576,7 +6576,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_rot_determinant"></a>
 
-#### matrix_get_rot_determinant
+#### matrix\_get\_rot\_determinant
 
 ```python
 @classmethod
@@ -6594,7 +6594,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_rotator"></a>
 
-#### matrix_get_rotator
+#### matrix\_get\_rotator
 
 ```python
 @classmethod
@@ -6613,7 +6613,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_origin"></a>
 
-#### matrix_get_origin
+#### matrix\_get\_origin
 
 ```python
 @classmethod
@@ -6632,7 +6632,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_maximum_axis_scale"></a>
 
-#### matrix_get_maximum_axis_scale
+#### matrix\_get\_maximum\_axis\_scale
 
 ```python
 @classmethod
@@ -6650,7 +6650,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_matrix_without_scale"></a>
 
-#### matrix_get_matrix_without_scale
+#### matrix\_get\_matrix\_without\_scale
 
 ```python
 @classmethod
@@ -6672,7 +6672,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_inverse"></a>
 
-#### matrix_get_inverse
+#### matrix\_get\_inverse
 
 ```python
 @classmethod
@@ -6690,7 +6690,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_frustum_top_plane"></a>
 
-#### matrix_get_frustum_top_plane
+#### matrix\_get\_frustum\_top\_plane
 
 ```python
 @classmethod
@@ -6711,7 +6711,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_frustum_right_plane"></a>
 
-#### matrix_get_frustum_right_plane
+#### matrix\_get\_frustum\_right\_plane
 
 ```python
 @classmethod
@@ -6732,7 +6732,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_frustum_near_plane"></a>
 
-#### matrix_get_frustum_near_plane
+#### matrix\_get\_frustum\_near\_plane
 
 ```python
 @classmethod
@@ -6753,7 +6753,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_frustum_left_plane"></a>
 
-#### matrix_get_frustum_left_plane
+#### matrix\_get\_frustum\_left\_plane
 
 ```python
 @classmethod
@@ -6774,7 +6774,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_frustum_far_plane"></a>
 
-#### matrix_get_frustum_far_plane
+#### matrix\_get\_frustum\_far\_plane
 
 ```python
 @classmethod
@@ -6795,7 +6795,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_frustum_bottom_plane"></a>
 
-#### matrix_get_frustum_bottom_plane
+#### matrix\_get\_frustum\_bottom\_plane
 
 ```python
 @classmethod
@@ -6816,7 +6816,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_determinant"></a>
 
-#### matrix_get_determinant
+#### matrix\_get\_determinant
 
 ```python
 @classmethod
@@ -6834,7 +6834,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_get_column"></a>
 
-#### matrix_get_column
+#### matrix\_get\_column
 
 ```python
 @classmethod
@@ -6853,7 +6853,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_contains_na_n"></a>
 
-#### matrix_contains_na_n
+#### matrix\_contains\_na\_n
 
 ```python
 @classmethod
@@ -6871,7 +6871,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_concatenate_translation"></a>
 
-#### matrix_concatenate_translation
+#### matrix\_concatenate\_translation
 
 ```python
 @classmethod
@@ -6892,7 +6892,7 @@ Returns:
 
 <a id="unreal.MathLibrary.matrix_apply_scale"></a>
 
-#### matrix_apply_scale
+#### matrix\_apply\_scale
 
 ```python
 @classmethod
@@ -6912,7 +6912,7 @@ Returns:
 
 <a id="unreal.MathLibrary.map_range_unclamped"></a>
 
-#### map_range_unclamped
+#### map\_range\_unclamped
 
 ```python
 @classmethod
@@ -6935,7 +6935,7 @@ Returns:
 
 <a id="unreal.MathLibrary.map_range"></a>
 
-#### map_range
+#### map\_range
 
 ```python
 @classmethod
@@ -6947,7 +6947,7 @@ deprecated: 'map_range' was renamed to 'map_range_unclamped'.
 
 <a id="unreal.MathLibrary.map_range_clamped"></a>
 
-#### map_range_clamped
+#### map\_range\_clamped
 
 ```python
 @classmethod
@@ -6970,7 +6970,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_zy"></a>
 
-#### make_rot_from_zy
+#### make\_rot\_from\_zy
 
 ```python
 @classmethod
@@ -6989,7 +6989,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_zx"></a>
 
-#### make_rot_from_zx
+#### make\_rot\_from\_zx
 
 ```python
 @classmethod
@@ -7008,7 +7008,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_z"></a>
 
-#### make_rot_from_z
+#### make\_rot\_from\_z
 
 ```python
 @classmethod
@@ -7026,7 +7026,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_yz"></a>
 
-#### make_rot_from_yz
+#### make\_rot\_from\_yz
 
 ```python
 @classmethod
@@ -7045,7 +7045,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_yx"></a>
 
-#### make_rot_from_yx
+#### make\_rot\_from\_yx
 
 ```python
 @classmethod
@@ -7064,7 +7064,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_y"></a>
 
-#### make_rot_from_y
+#### make\_rot\_from\_y
 
 ```python
 @classmethod
@@ -7082,7 +7082,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_xz"></a>
 
-#### make_rot_from_xz
+#### make\_rot\_from\_xz
 
 ```python
 @classmethod
@@ -7101,7 +7101,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_xy"></a>
 
-#### make_rot_from_xy
+#### make\_rot\_from\_xy
 
 ```python
 @classmethod
@@ -7120,7 +7120,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rot_from_x"></a>
 
-#### make_rot_from_x
+#### make\_rot\_from\_x
 
 ```python
 @classmethod
@@ -7138,7 +7138,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_rotation_from_axes"></a>
 
-#### make_rotation_from_axes
+#### make\_rotation\_from\_axes
 
 ```python
 @classmethod
@@ -7159,7 +7159,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_relative_transform"></a>
 
-#### make_relative_transform
+#### make\_relative\_transform
 
 ```python
 @classmethod
@@ -7182,7 +7182,7 @@ Returns:
 
 <a id="unreal.MathLibrary.convert_transform_to_relative"></a>
 
-#### convert_transform_to_relative
+#### convert\_transform\_to\_relative
 
 ```python
 @classmethod
@@ -7194,7 +7194,7 @@ deprecated: 'convert_transform_to_relative' was renamed to 'make_relative_transf
 
 <a id="unreal.MathLibrary.make_pulsating_value"></a>
 
-#### make_pulsating_value
+#### make\_pulsating\_value
 
 ```python
 @classmethod
@@ -7217,7 +7217,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_plane_from_point_and_normal"></a>
 
-#### make_plane_from_point_and_normal
+#### make\_plane\_from\_point\_and\_normal
 
 ```python
 @classmethod
@@ -7237,7 +7237,7 @@ Returns:
 
 <a id="unreal.MathLibrary.make_box_with_origin"></a>
 
-#### make_box_with_origin
+#### make\_box\_with\_origin
 
 ```python
 @classmethod
@@ -7293,7 +7293,7 @@ Returns:
 
 <a id="unreal.MathLibrary.line_plane_intersection_origin_normal"></a>
 
-#### line_plane_intersection_origin_normal
+#### line\_plane\_intersection\_origin\_normal
 
 ```python
 @classmethod
@@ -7320,7 +7320,7 @@ Returns:
 
 <a id="unreal.MathLibrary.line_plane_intersection"></a>
 
-#### line_plane_intersection
+#### line\_plane\_intersection
 
 ```python
 @classmethod
@@ -7345,7 +7345,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_lerp_using_hsv"></a>
 
-#### linear_color_lerp_using_hsv
+#### linear\_color\_lerp\_using\_hsv
 
 ```python
 @classmethod
@@ -7366,7 +7366,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_lerp"></a>
 
-#### linear_color_lerp
+#### linear\_color\_lerp
 
 ```python
 @classmethod
@@ -7387,7 +7387,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_to_rgbe"></a>
 
-#### linear_color_to_rgbe
+#### linear\_color\_to\_rgbe
 
 ```python
 @classmethod
@@ -7405,7 +7405,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_to_new_opacity"></a>
 
-#### linear_color_to_new_opacity
+#### linear\_color\_to\_new\_opacity
 
 ```python
 @classmethod
@@ -7425,7 +7425,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_set_temperature"></a>
 
-#### linear_color_set_temperature
+#### linear\_color\_set\_temperature
 
 ```python
 @classmethod
@@ -7447,7 +7447,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_set_rgba"></a>
 
-#### linear_color_set_rgba
+#### linear\_color\_set\_rgba
 
 ```python
 @classmethod
@@ -7476,7 +7476,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_set_random_hue"></a>
 
-#### linear_color_set_random_hue
+#### linear\_color\_set\_random\_hue
 
 ```python
 @classmethod
@@ -7496,7 +7496,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_set_from_srgb"></a>
 
-#### linear_color_set_from_srgb
+#### linear\_color\_set\_from\_srgb
 
 ```python
 @classmethod
@@ -7518,7 +7518,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_set_from_pow22"></a>
 
-#### linear_color_set_from_pow22
+#### linear\_color\_set\_from\_pow22
 
 ```python
 @classmethod
@@ -7540,7 +7540,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_set_from_hsv"></a>
 
-#### linear_color_set_from_hsv
+#### linear\_color\_set\_from\_hsv
 
 ```python
 @classmethod
@@ -7569,7 +7569,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_set"></a>
 
-#### linear_color_set
+#### linear\_color\_set
 
 ```python
 @classmethod
@@ -7591,7 +7591,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_quantize_round"></a>
 
-#### linear_color_quantize_round
+#### linear\_color\_quantize\_round
 
 ```python
 @classmethod
@@ -7609,7 +7609,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_quantize"></a>
 
-#### linear_color_quantize
+#### linear\_color\_quantize
 
 ```python
 @classmethod
@@ -7628,7 +7628,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_is_near_equal"></a>
 
-#### linear_color_is_near_equal
+#### linear\_color\_is\_near\_equal
 
 ```python
 @classmethod
@@ -7651,7 +7651,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_get_min"></a>
 
-#### linear_color_get_min
+#### linear\_color\_get\_min
 
 ```python
 @classmethod
@@ -7669,7 +7669,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_get_max"></a>
 
-#### linear_color_get_max
+#### linear\_color\_get\_max
 
 ```python
 @classmethod
@@ -7687,7 +7687,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_get_luminance"></a>
 
-#### linear_color_get_luminance
+#### linear\_color\_get\_luminance
 
 ```python
 @classmethod
@@ -7705,7 +7705,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_distance"></a>
 
-#### linear_color_distance
+#### linear\_color\_distance
 
 ```python
 @classmethod
@@ -7724,7 +7724,7 @@ Returns:
 
 <a id="unreal.MathLibrary.linear_color_desaturated"></a>
 
-#### linear_color_desaturated
+#### linear\_color\_desaturated
 
 ```python
 @classmethod
@@ -7744,7 +7744,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_less_vector_rotator"></a>
 
-#### less_less_vector_rotator
+#### less\_less\_vector\_rotator
 
 ```python
 @classmethod
@@ -7763,7 +7763,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_equal_timespan_timespan"></a>
 
-#### less_equal_timespan_timespan
+#### less\_equal\_timespan\_timespan
 
 ```python
 @classmethod
@@ -7782,7 +7782,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_equal_int_int"></a>
 
-#### less_equal_int_int
+#### less\_equal\_int\_int
 
 ```python
 @classmethod
@@ -7801,7 +7801,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_equal_int64_int64"></a>
 
-#### less_equal_int64_int64
+#### less\_equal\_int64\_int64
 
 ```python
 @classmethod
@@ -7820,7 +7820,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_equal_double_double"></a>
 
-#### less_equal_double_double
+#### less\_equal\_double\_double
 
 ```python
 @classmethod
@@ -7839,7 +7839,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_equal_float_float"></a>
 
-#### less_equal_float_float
+#### less\_equal\_float\_float
 
 ```python
 @classmethod
@@ -7850,7 +7850,7 @@ deprecated: 'less_equal_float_float' was renamed to 'less_equal_double_double'.
 
 <a id="unreal.MathLibrary.less_equal_date_time_date_time"></a>
 
-#### less_equal_date_time_date_time
+#### less\_equal\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -7869,7 +7869,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_equal_byte_byte"></a>
 
-#### less_equal_byte_byte
+#### less\_equal\_byte\_byte
 
 ```python
 @classmethod
@@ -7888,7 +7888,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_timespan_timespan"></a>
 
-#### less_timespan_timespan
+#### less\_timespan\_timespan
 
 ```python
 @classmethod
@@ -7907,7 +7907,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_int_int"></a>
 
-#### less_int_int
+#### less\_int\_int
 
 ```python
 @classmethod
@@ -7926,7 +7926,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_int64_int64"></a>
 
-#### less_int64_int64
+#### less\_int64\_int64
 
 ```python
 @classmethod
@@ -7945,7 +7945,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_double_double"></a>
 
-#### less_double_double
+#### less\_double\_double
 
 ```python
 @classmethod
@@ -7964,7 +7964,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_float_float"></a>
 
-#### less_float_float
+#### less\_float\_float
 
 ```python
 @classmethod
@@ -7975,7 +7975,7 @@ deprecated: 'less_float_float' was renamed to 'less_double_double'.
 
 <a id="unreal.MathLibrary.less_date_time_date_time"></a>
 
-#### less_date_time_date_time
+#### less\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -7994,7 +7994,7 @@ Returns:
 
 <a id="unreal.MathLibrary.less_byte_byte"></a>
 
-#### less_byte_byte
+#### less\_byte\_byte
 
 ```python
 @classmethod
@@ -8033,7 +8033,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_zero2d"></a>
 
-#### is_zero2d
+#### is\_zero2d
 
 ```python
 @classmethod
@@ -8051,7 +8051,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_point_in_box_with_transform_box"></a>
 
-#### is_point_in_box_with_transform_box
+#### is\_point\_in\_box\_with\_transform\_box
 
 ```python
 @classmethod
@@ -8073,7 +8073,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_point_in_box_with_transform"></a>
 
-#### is_point_in_box_with_transform
+#### is\_point\_in\_box\_with\_transform
 
 ```python
 @classmethod
@@ -8095,7 +8095,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_point_in_box_box"></a>
 
-#### is_point_in_box_box
+#### is\_point\_in\_box\_box
 
 ```python
 @classmethod
@@ -8114,7 +8114,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_point_in_box"></a>
 
-#### is_point_in_box
+#### is\_point\_in\_box
 
 ```python
 @classmethod
@@ -8135,7 +8135,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_nearly_zero2d"></a>
 
-#### is_nearly_zero2d
+#### is\_nearly\_zero2d
 
 ```python
 @classmethod
@@ -8154,7 +8154,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_morning"></a>
 
-#### is_morning
+#### is\_morning
 
 ```python
 @classmethod
@@ -8172,7 +8172,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_leap_year"></a>
 
-#### is_leap_year
+#### is\_leap\_year
 
 ```python
 @classmethod
@@ -8190,7 +8190,7 @@ Returns:
 
 <a id="unreal.MathLibrary.is_afternoon"></a>
 
-#### is_afternoon
+#### is\_afternoon
 
 ```python
 @classmethod
@@ -8208,7 +8208,7 @@ Returns:
 
 <a id="unreal.MathLibrary.invert_transform"></a>
 
-#### invert_transform
+#### invert\_transform
 
 ```python
 @classmethod
@@ -8228,7 +8228,7 @@ Returns:
 
 <a id="unreal.MathLibrary.inverse_transform_rotation"></a>
 
-#### inverse_transform_rotation
+#### inverse\_transform\_rotation
 
 ```python
 @classmethod
@@ -8249,7 +8249,7 @@ Returns:
 
 <a id="unreal.MathLibrary.inverse_transform_location"></a>
 
-#### inverse_transform_location
+#### inverse\_transform\_location
 
 ```python
 @classmethod
@@ -8269,7 +8269,7 @@ Returns:
 
 <a id="unreal.MathLibrary.inverse_transform_position"></a>
 
-#### inverse_transform_position
+#### inverse\_transform\_position
 
 ```python
 @classmethod
@@ -8280,7 +8280,7 @@ deprecated: 'inverse_transform_position' was renamed to 'inverse_transform_locat
 
 <a id="unreal.MathLibrary.inverse_transform_direction"></a>
 
-#### inverse_transform_direction
+#### inverse\_transform\_direction
 
 ```python
 @classmethod
@@ -8301,7 +8301,7 @@ Returns:
 
 <a id="unreal.MathLibrary.in_range_int_int"></a>
 
-#### in_range_int_int
+#### in\_range\_int\_int
 
 ```python
 @classmethod
@@ -8330,7 +8330,7 @@ Returns:
 
 <a id="unreal.MathLibrary.in_range_int64_int64"></a>
 
-#### in_range_int64_int64
+#### in\_range\_int64\_int64
 
 ```python
 @classmethod
@@ -8359,7 +8359,7 @@ Returns:
 
 <a id="unreal.MathLibrary.in_range_float_float"></a>
 
-#### in_range_float_float
+#### in\_range\_float\_float
 
 ```python
 @classmethod
@@ -8407,7 +8407,7 @@ Returns:
 
 <a id="unreal.MathLibrary.hsv_to_rgb_linear"></a>
 
-#### hsv_to_rgb_linear
+#### hsv\_to\_rgb\_linear
 
 ```python
 @classmethod
@@ -8425,7 +8425,7 @@ Returns:
 
 <a id="unreal.MathLibrary.hsv_to_rgb_vector"></a>
 
-#### hsv_to_rgb_vector
+#### hsv\_to\_rgb\_vector
 
 ```python
 @classmethod
@@ -8445,7 +8445,7 @@ Returns:
 
 <a id="unreal.MathLibrary.hsv_to_rgb"></a>
 
-#### hsv_to_rgb
+#### hsv\_to\_rgb
 
 ```python
 @classmethod
@@ -8470,7 +8470,7 @@ Returns:
 
 <a id="unreal.MathLibrary.grid_snap_float"></a>
 
-#### grid_snap_float
+#### grid\_snap\_float
 
 ```python
 @classmethod
@@ -8492,7 +8492,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_greater_vector_rotator"></a>
 
-#### greater_greater_vector_rotator
+#### greater\_greater\_vector\_rotator
 
 ```python
 @classmethod
@@ -8511,7 +8511,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_equal_timespan_timespan"></a>
 
-#### greater_equal_timespan_timespan
+#### greater\_equal\_timespan\_timespan
 
 ```python
 @classmethod
@@ -8530,7 +8530,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_equal_int_int"></a>
 
-#### greater_equal_int_int
+#### greater\_equal\_int\_int
 
 ```python
 @classmethod
@@ -8549,7 +8549,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_equal_int64_int64"></a>
 
-#### greater_equal_int64_int64
+#### greater\_equal\_int64\_int64
 
 ```python
 @classmethod
@@ -8568,7 +8568,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_equal_double_double"></a>
 
-#### greater_equal_double_double
+#### greater\_equal\_double\_double
 
 ```python
 @classmethod
@@ -8587,7 +8587,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_equal_float_float"></a>
 
-#### greater_equal_float_float
+#### greater\_equal\_float\_float
 
 ```python
 @classmethod
@@ -8598,7 +8598,7 @@ deprecated: 'greater_equal_float_float' was renamed to 'greater_equal_double_dou
 
 <a id="unreal.MathLibrary.greater_equal_date_time_date_time"></a>
 
-#### greater_equal_date_time_date_time
+#### greater\_equal\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -8617,7 +8617,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_equal_byte_byte"></a>
 
-#### greater_equal_byte_byte
+#### greater\_equal\_byte\_byte
 
 ```python
 @classmethod
@@ -8636,7 +8636,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_timespan_timespan"></a>
 
-#### greater_timespan_timespan
+#### greater\_timespan\_timespan
 
 ```python
 @classmethod
@@ -8655,7 +8655,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_int_int"></a>
 
-#### greater_int_int
+#### greater\_int\_int
 
 ```python
 @classmethod
@@ -8674,7 +8674,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_int64_int64"></a>
 
-#### greater_int64_int64
+#### greater\_int64\_int64
 
 ```python
 @classmethod
@@ -8693,7 +8693,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_double_double"></a>
 
-#### greater_double_double
+#### greater\_double\_double
 
 ```python
 @classmethod
@@ -8712,7 +8712,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_float_float"></a>
 
-#### greater_float_float
+#### greater\_float\_float
 
 ```python
 @classmethod
@@ -8723,7 +8723,7 @@ deprecated: 'greater_float_float' was renamed to 'greater_double_double'.
 
 <a id="unreal.MathLibrary.greater_date_time_date_time"></a>
 
-#### greater_date_time_date_time
+#### greater\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -8742,7 +8742,7 @@ Returns:
 
 <a id="unreal.MathLibrary.greater_byte_byte"></a>
 
-#### greater_byte_byte
+#### greater\_byte\_byte
 
 ```python
 @classmethod
@@ -8761,7 +8761,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_year"></a>
 
-#### get_year
+#### get\_year
 
 ```python
 @classmethod
@@ -8779,7 +8779,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_vector_array_average"></a>
 
-#### get_vector_array_average
+#### get\_vector\_array\_average
 
 ```python
 @classmethod
@@ -8797,7 +8797,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_up_vector"></a>
 
-#### get_up_vector
+#### get\_up\_vector
 
 ```python
 @classmethod
@@ -8815,7 +8815,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_total_seconds"></a>
 
-#### get_total_seconds
+#### get\_total\_seconds
 
 ```python
 @classmethod
@@ -8833,7 +8833,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_total_minutes"></a>
 
-#### get_total_minutes
+#### get\_total\_minutes
 
 ```python
 @classmethod
@@ -8851,7 +8851,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_total_milliseconds"></a>
 
-#### get_total_milliseconds
+#### get\_total\_milliseconds
 
 ```python
 @classmethod
@@ -8869,7 +8869,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_total_hours"></a>
 
-#### get_total_hours
+#### get\_total\_hours
 
 ```python
 @classmethod
@@ -8887,7 +8887,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_total_days"></a>
 
-#### get_total_days
+#### get\_total\_days
 
 ```python
 @classmethod
@@ -8905,7 +8905,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_time_of_day"></a>
 
-#### get_time_of_day
+#### get\_time\_of\_day
 
 ```python
 @classmethod
@@ -8923,7 +8923,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_tau"></a>
 
-#### get_tau
+#### get\_tau
 
 ```python
 @classmethod
@@ -8938,7 +8938,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_slope_degree_angles"></a>
 
-#### get_slope_degree_angles
+#### get\_slope\_degree\_angles
 
 ```python
 @classmethod
@@ -8965,7 +8965,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_seconds"></a>
 
-#### get_seconds
+#### get\_seconds
 
 ```python
 @classmethod
@@ -8983,7 +8983,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_second"></a>
 
-#### get_second
+#### get\_second
 
 ```python
 @classmethod
@@ -9001,7 +9001,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_runtime_float_curve_value"></a>
 
-#### get_runtime_float_curve_value
+#### get\_runtime\_float\_curve\_value
 
 ```python
 @classmethod
@@ -9025,7 +9025,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_rotated2d"></a>
 
-#### get_rotated2d
+#### get\_rotated2d
 
 ```python
 @classmethod
@@ -9044,7 +9044,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_right_vector"></a>
 
-#### get_right_vector
+#### get\_right\_vector
 
 ```python
 @classmethod
@@ -9062,7 +9062,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_reflection_vector"></a>
 
-#### get_reflection_vector
+#### get\_reflection\_vector
 
 ```python
 @classmethod
@@ -9083,7 +9083,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_point_distance_to_segment"></a>
 
-#### get_point_distance_to_segment
+#### get\_point\_distance\_to\_segment
 
 ```python
 @classmethod
@@ -9104,7 +9104,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_point_distance_to_line"></a>
 
-#### get_point_distance_to_line
+#### get\_point\_distance\_to\_line
 
 ```python
 @classmethod
@@ -9125,7 +9125,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_pi"></a>
 
-#### get_pi
+#### get\_pi
 
 ```python
 @classmethod
@@ -9140,7 +9140,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_month"></a>
 
-#### get_month
+#### get\_month
 
 ```python
 @classmethod
@@ -9158,7 +9158,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_minutes"></a>
 
-#### get_minutes
+#### get\_minutes
 
 ```python
 @classmethod
@@ -9176,7 +9176,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_minute"></a>
 
-#### get_minute
+#### get\_minute
 
 ```python
 @classmethod
@@ -9194,7 +9194,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_min_element"></a>
 
-#### get_min_element
+#### get\_min\_element
 
 ```python
 @classmethod
@@ -9212,7 +9212,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_min2d"></a>
 
-#### get_min2d
+#### get\_min2d
 
 ```python
 @classmethod
@@ -9230,7 +9230,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_milliseconds"></a>
 
-#### get_milliseconds
+#### get\_milliseconds
 
 ```python
 @classmethod
@@ -9248,7 +9248,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_millisecond"></a>
 
-#### get_millisecond
+#### get\_millisecond
 
 ```python
 @classmethod
@@ -9266,7 +9266,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_max_element"></a>
 
-#### get_max_element
+#### get\_max\_element
 
 ```python
 @classmethod
@@ -9284,7 +9284,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_max2d"></a>
 
-#### get_max2d
+#### get\_max2d
 
 ```python
 @classmethod
@@ -9302,7 +9302,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_hours"></a>
 
-#### get_hours
+#### get\_hours
 
 ```python
 @classmethod
@@ -9320,7 +9320,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_hour12"></a>
 
-#### get_hour12
+#### get\_hour12
 
 ```python
 @classmethod
@@ -9338,7 +9338,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_hour"></a>
 
-#### get_hour
+#### get\_hour
 
 ```python
 @classmethod
@@ -9356,7 +9356,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_forward_vector"></a>
 
-#### get_forward_vector
+#### get\_forward\_vector
 
 ```python
 @classmethod
@@ -9374,7 +9374,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_duration"></a>
 
-#### get_duration
+#### get\_duration
 
 ```python
 @classmethod
@@ -9392,7 +9392,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_direction_unit_vector"></a>
 
-#### get_direction_unit_vector
+#### get\_direction\_unit\_vector
 
 ```python
 @classmethod
@@ -9411,7 +9411,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_direction_vector"></a>
 
-#### get_direction_vector
+#### get\_direction\_vector
 
 ```python
 @classmethod
@@ -9422,7 +9422,7 @@ deprecated: 'get_direction_vector' was renamed to 'get_direction_unit_vector'.
 
 <a id="unreal.MathLibrary.get_days"></a>
 
-#### get_days
+#### get\_days
 
 ```python
 @classmethod
@@ -9440,7 +9440,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_day_of_year"></a>
 
-#### get_day_of_year
+#### get\_day\_of\_year
 
 ```python
 @classmethod
@@ -9458,7 +9458,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_day"></a>
 
-#### get_day
+#### get\_day
 
 ```python
 @classmethod
@@ -9476,7 +9476,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_date"></a>
 
-#### get_date
+#### get\_date
 
 ```python
 @classmethod
@@ -9494,7 +9494,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_box_volume"></a>
 
-#### get_box_volume
+#### get\_box\_volume
 
 ```python
 @classmethod
@@ -9512,7 +9512,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_box_size"></a>
 
-#### get_box_size
+#### get\_box\_size
 
 ```python
 @classmethod
@@ -9530,7 +9530,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_box_center"></a>
 
-#### get_box_center
+#### get\_box\_center
 
 ```python
 @classmethod
@@ -9548,7 +9548,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_axes"></a>
 
-#### get_axes
+#### get\_axes
 
 ```python
 @classmethod
@@ -9572,7 +9572,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_abs_max2d"></a>
 
-#### get_abs_max2d
+#### get\_abs\_max2d
 
 ```python
 @classmethod
@@ -9590,7 +9590,7 @@ Returns:
 
 <a id="unreal.MathLibrary.get_abs2d"></a>
 
-#### get_abs2d
+#### get\_abs2d
 
 ```python
 @classmethod
@@ -9608,7 +9608,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_wrap"></a>
 
-#### f_wrap
+#### f\_wrap
 
 ```python
 @classmethod
@@ -9631,7 +9631,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_trunc_vector"></a>
 
-#### f_trunc_vector
+#### f\_trunc\_vector
 
 ```python
 @classmethod
@@ -9649,7 +9649,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_trunc64"></a>
 
-#### f_trunc64
+#### f\_trunc64
 
 ```python
 @classmethod
@@ -9667,7 +9667,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_trunc"></a>
 
-#### f_trunc
+#### f\_trunc
 
 ```python
 @classmethod
@@ -9685,7 +9685,7 @@ Returns:
 
 <a id="unreal.MathLibrary.from_unix_timestamp"></a>
 
-#### from_unix_timestamp
+#### from\_unix\_timestamp
 
 ```python
 @classmethod
@@ -9704,7 +9704,7 @@ Returns:
 
 <a id="unreal.MathLibrary.from_seconds"></a>
 
-#### from_seconds
+#### from\_seconds
 
 ```python
 @classmethod
@@ -9722,7 +9722,7 @@ Returns:
 
 <a id="unreal.MathLibrary.from_minutes"></a>
 
-#### from_minutes
+#### from\_minutes
 
 ```python
 @classmethod
@@ -9740,7 +9740,7 @@ Returns:
 
 <a id="unreal.MathLibrary.from_milliseconds"></a>
 
-#### from_milliseconds
+#### from\_milliseconds
 
 ```python
 @classmethod
@@ -9758,7 +9758,7 @@ Returns:
 
 <a id="unreal.MathLibrary.from_hours"></a>
 
-#### from_hours
+#### from\_hours
 
 ```python
 @classmethod
@@ -9776,7 +9776,7 @@ Returns:
 
 <a id="unreal.MathLibrary.from_days"></a>
 
-#### from_days
+#### from\_days
 
 ```python
 @classmethod
@@ -9812,7 +9812,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_mod64"></a>
 
-#### f_mod64
+#### f\_mod64
 
 ```python
 @classmethod
@@ -9833,7 +9833,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_mod"></a>
 
-#### f_mod
+#### f\_mod
 
 ```python
 @classmethod
@@ -9854,7 +9854,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_min"></a>
 
-#### f_min
+#### f\_min
 
 ```python
 @classmethod
@@ -9873,7 +9873,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_max"></a>
 
-#### f_max
+#### f\_max
 
 ```python
 @classmethod
@@ -9892,7 +9892,7 @@ Returns:
 
 <a id="unreal.MathLibrary.float_spring_interp"></a>
 
-#### float_spring_interp
+#### float\_spring\_interp
 
 ```python
 @classmethod
@@ -9937,7 +9937,7 @@ Returns:
 
 <a id="unreal.MathLibrary.fixed_turn"></a>
 
-#### fixed_turn
+#### fixed\_turn
 
 ```python
 @classmethod
@@ -9958,7 +9958,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_interp_to_constant"></a>
 
-#### f_interp_to_constant
+#### f\_interp\_to\_constant
 
 ```python
 @classmethod
@@ -9980,7 +9980,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_interp_to"></a>
 
-#### f_interp_to
+#### f\_interp\_to
 
 ```python
 @classmethod
@@ -10002,7 +10002,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_interp_ease_in_out"></a>
 
-#### f_interp_ease_in_out
+#### f\_interp\_ease\_in\_out
 
 ```python
 @classmethod
@@ -10024,7 +10024,7 @@ Returns:
 
 <a id="unreal.MathLibrary.find_relative_look_at_rotation"></a>
 
-#### find_relative_look_at_rotation
+#### find\_relative\_look\_at\_rotation
 
 ```python
 @classmethod
@@ -10045,7 +10045,7 @@ Returns:
 
 <a id="unreal.MathLibrary.find_nearest_points_on_line_segments"></a>
 
-#### find_nearest_points_on_line_segments
+#### find\_nearest\_points\_on\_line\_segments
 
 ```python
 @classmethod
@@ -10072,7 +10072,7 @@ Returns:
 
 <a id="unreal.MathLibrary.find_look_at_rotation"></a>
 
-#### find_look_at_rotation
+#### find\_look\_at\_rotation
 
 ```python
 @classmethod
@@ -10091,7 +10091,7 @@ Returns:
 
 <a id="unreal.MathLibrary.find_closest_point_on_segment"></a>
 
-#### find_closest_point_on_segment
+#### find\_closest\_point\_on\_segment
 
 ```python
 @classmethod
@@ -10112,7 +10112,7 @@ Returns:
 
 <a id="unreal.MathLibrary.find_closest_point_on_line"></a>
 
-#### find_closest_point_on_line
+#### find\_closest\_point\_on\_line
 
 ```python
 @classmethod
@@ -10133,7 +10133,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_floor64"></a>
 
-#### f_floor64
+#### f\_floor64
 
 ```python
 @classmethod
@@ -10151,7 +10151,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_floor"></a>
 
-#### f_floor
+#### f\_floor
 
 ```python
 @classmethod
@@ -10169,7 +10169,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_clamp"></a>
 
-#### f_clamp
+#### f\_clamp
 
 ```python
 @classmethod
@@ -10192,7 +10192,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_ceil64"></a>
 
-#### f_ceil64
+#### f\_ceil64
 
 ```python
 @classmethod
@@ -10210,7 +10210,7 @@ Returns:
 
 <a id="unreal.MathLibrary.f_ceil"></a>
 
-#### f_ceil
+#### f\_ceil
 
 ```python
 @classmethod
@@ -10246,7 +10246,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_exactly_vector_vector"></a>
 
-#### equal_exactly_vector_vector
+#### equal\_exactly\_vector\_vector
 
 ```python
 @classmethod
@@ -10265,7 +10265,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_exactly_vector4_vector4"></a>
 
-#### equal_exactly_vector4_vector4
+#### equal\_exactly\_vector4\_vector4
 
 ```python
 @classmethod
@@ -10284,7 +10284,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_exactly_vector2d_vector2d"></a>
 
-#### equal_exactly_vector2d_vector2d
+#### equal\_exactly\_vector2d\_vector2d
 
 ```python
 @classmethod
@@ -10303,7 +10303,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_vector_vector"></a>
 
-#### equal_equal_vector_vector
+#### equal\_equal\_vector\_vector
 
 ```python
 @classmethod
@@ -10326,7 +10326,7 @@ Returns:
 
 <a id="unreal.MathLibrary.nearly_equal_vector_vector"></a>
 
-#### nearly_equal_vector_vector
+#### nearly\_equal\_vector\_vector
 
 ```python
 @classmethod
@@ -10340,7 +10340,7 @@ deprecated: 'nearly_equal_vector_vector' was renamed to 'equal_equal_vector_vect
 
 <a id="unreal.MathLibrary.equal_equal_vector4_vector4"></a>
 
-#### equal_equal_vector4_vector4
+#### equal\_equal\_vector4\_vector4
 
 ```python
 @classmethod
@@ -10363,7 +10363,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_vector2d_vector2d"></a>
 
-#### equal_equal_vector2d_vector2d
+#### equal\_equal\_vector2d\_vector2d
 
 ```python
 @classmethod
@@ -10386,7 +10386,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_transform_transform"></a>
 
-#### equal_equal_transform_transform
+#### equal\_equal\_transform\_transform
 
 ```python
 @classmethod
@@ -10405,7 +10405,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_timespan_timespan"></a>
 
-#### equal_equal_timespan_timespan
+#### equal\_equal\_timespan\_timespan
 
 ```python
 @classmethod
@@ -10424,7 +10424,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_rotator_rotator"></a>
 
-#### equal_equal_rotator_rotator
+#### equal\_equal\_rotator\_rotator
 
 ```python
 @classmethod
@@ -10447,7 +10447,7 @@ Returns:
 
 <a id="unreal.MathLibrary.nearly_equal_rotator_rotator"></a>
 
-#### nearly_equal_rotator_rotator
+#### nearly\_equal\_rotator\_rotator
 
 ```python
 @classmethod
@@ -10461,7 +10461,7 @@ deprecated: 'nearly_equal_rotator_rotator' was renamed to 'equal_equal_rotator_r
 
 <a id="unreal.MathLibrary.equal_equal_quat_quat"></a>
 
-#### equal_equal_quat_quat
+#### equal\_equal\_quat\_quat
 
 ```python
 @classmethod
@@ -10484,7 +10484,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_object_object"></a>
 
-#### equal_equal_object_object
+#### equal\_equal\_object\_object
 
 ```python
 @classmethod
@@ -10503,7 +10503,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_name_name"></a>
 
-#### equal_equal_name_name
+#### equal\_equal\_name\_name
 
 ```python
 @classmethod
@@ -10522,7 +10522,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_matrix_matrix"></a>
 
-#### equal_equal_matrix_matrix
+#### equal\_equal\_matrix\_matrix
 
 ```python
 @classmethod
@@ -10545,7 +10545,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_linear_color_linear_color"></a>
 
-#### equal_equal_linear_color_linear_color
+#### equal\_equal\_linear\_color\_linear\_color
 
 ```python
 @classmethod
@@ -10565,7 +10565,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_int_int"></a>
 
-#### equal_equal_int_int
+#### equal\_equal\_int\_int
 
 ```python
 @classmethod
@@ -10584,7 +10584,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_int64_int64"></a>
 
-#### equal_equal_int64_int64
+#### equal\_equal\_int64\_int64
 
 ```python
 @classmethod
@@ -10603,7 +10603,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_double_double"></a>
 
-#### equal_equal_double_double
+#### equal\_equal\_double\_double
 
 ```python
 @classmethod
@@ -10622,7 +10622,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_float_float"></a>
 
-#### equal_equal_float_float
+#### equal\_equal\_float\_float
 
 ```python
 @classmethod
@@ -10633,7 +10633,7 @@ deprecated: 'equal_equal_float_float' was renamed to 'equal_equal_double_double'
 
 <a id="unreal.MathLibrary.equal_equal_date_time_date_time"></a>
 
-#### equal_equal_date_time_date_time
+#### equal\_equal\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -10652,7 +10652,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_class_class"></a>
 
-#### equal_equal_class_class
+#### equal\_equal\_class\_class
 
 ```python
 @classmethod
@@ -10671,7 +10671,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_byte_byte"></a>
 
-#### equal_equal_byte_byte
+#### equal\_equal\_byte\_byte
 
 ```python
 @classmethod
@@ -10690,7 +10690,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_equal_bool_bool"></a>
 
-#### equal_equal_bool_bool
+#### equal\_equal\_bool\_bool
 
 ```python
 @classmethod
@@ -10709,7 +10709,7 @@ Returns:
 
 <a id="unreal.MathLibrary.equal_int_point_int_point"></a>
 
-#### equal_int_point_int_point
+#### equal\_int\_point\_int\_point
 
 ```python
 @classmethod
@@ -10728,7 +10728,7 @@ Returns:
 
 <a id="unreal.MathLibrary.dynamic_weighted_moving_average_f_vector"></a>
 
-#### dynamic_weighted_moving_average_f_vector
+#### dynamic\_weighted\_moving\_average\_f\_vector
 
 ```python
 @classmethod
@@ -10756,7 +10756,7 @@ Returns:
 
 <a id="unreal.MathLibrary.dynamic_weighted_moving_average_f_rotator"></a>
 
-#### dynamic_weighted_moving_average_f_rotator
+#### dynamic\_weighted\_moving\_average\_f\_rotator
 
 ```python
 @classmethod
@@ -10784,7 +10784,7 @@ Returns:
 
 <a id="unreal.MathLibrary.dynamic_weighted_moving_average_float"></a>
 
-#### dynamic_weighted_moving_average_float
+#### dynamic\_weighted\_moving\_average\_float
 
 ```python
 @classmethod
@@ -10812,7 +10812,7 @@ Returns:
 
 <a id="unreal.MathLibrary.dot_product2d"></a>
 
-#### dot_product2d
+#### dot\_product2d
 
 ```python
 @classmethod
@@ -10831,7 +10831,7 @@ Returns:
 
 <a id="unreal.MathLibrary.dot_vector_vector"></a>
 
-#### dot_vector_vector
+#### dot\_vector\_vector
 
 ```python
 @classmethod
@@ -10850,7 +10850,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_vector_vector"></a>
 
-#### divide_vector_vector
+#### divide\_vector\_vector
 
 ```python
 @classmethod
@@ -10871,7 +10871,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_vector_int"></a>
 
-#### divide_vector_int
+#### divide\_vector\_int
 
 ```python
 @classmethod
@@ -10890,7 +10890,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_vector_float"></a>
 
-#### divide_vector_float
+#### divide\_vector\_float
 
 ```python
 @classmethod
@@ -10909,7 +10909,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_vector4_vector4"></a>
 
-#### divide_vector4_vector4
+#### divide\_vector4\_vector4
 
 ```python
 @classmethod
@@ -10928,7 +10928,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_vector2d_vector2d"></a>
 
-#### divide_vector2d_vector2d
+#### divide\_vector2d\_vector2d
 
 ```python
 @classmethod
@@ -10947,7 +10947,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_vector2d_float"></a>
 
-#### divide_vector2d_float
+#### divide\_vector2d\_float
 
 ```python
 @classmethod
@@ -10966,7 +10966,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_timespan_float"></a>
 
-#### divide_timespan_float
+#### divide\_timespan\_float
 
 ```python
 @classmethod
@@ -10985,7 +10985,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_linear_color_linear_color"></a>
 
-#### divide_linear_color_linear_color
+#### divide\_linear\_color\_linear\_color
 
 ```python
 @classmethod
@@ -11005,7 +11005,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_int_point_int_point"></a>
 
-#### divide_int_point_int_point
+#### divide\_int\_point\_int\_point
 
 ```python
 @classmethod
@@ -11024,7 +11024,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_int_point_int"></a>
 
-#### divide_int_point_int
+#### divide\_int\_point\_int
 
 ```python
 @classmethod
@@ -11043,7 +11043,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_int_int"></a>
 
-#### divide_int_int
+#### divide\_int\_int
 
 ```python
 @classmethod
@@ -11062,7 +11062,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_int64_int64"></a>
 
-#### divide_int64_int64
+#### divide\_int64\_int64
 
 ```python
 @classmethod
@@ -11081,7 +11081,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_double_double"></a>
 
-#### divide_double_double
+#### divide\_double\_double
 
 ```python
 @classmethod
@@ -11100,7 +11100,7 @@ Returns:
 
 <a id="unreal.MathLibrary.divide_float_float"></a>
 
-#### divide_float_float
+#### divide\_float\_float
 
 ```python
 @classmethod
@@ -11111,7 +11111,7 @@ deprecated: 'divide_float_float' was renamed to 'divide_double_double'.
 
 <a id="unreal.MathLibrary.divide_byte_byte"></a>
 
-#### divide_byte_byte
+#### divide\_byte\_byte
 
 ```python
 @classmethod
@@ -11130,7 +11130,7 @@ Returns:
 
 <a id="unreal.MathLibrary.distance_squared2d"></a>
 
-#### distance_squared2d
+#### distance\_squared2d
 
 ```python
 @classmethod
@@ -11168,7 +11168,7 @@ Returns:
 
 <a id="unreal.MathLibrary.deg_tan"></a>
 
-#### deg_tan
+#### deg\_tan
 
 ```python
 @classmethod
@@ -11186,7 +11186,7 @@ Returns:
 
 <a id="unreal.MathLibrary.deg_sin"></a>
 
-#### deg_sin
+#### deg\_sin
 
 ```python
 @classmethod
@@ -11204,7 +11204,7 @@ Returns:
 
 <a id="unreal.MathLibrary.degrees_to_radians"></a>
 
-#### degrees_to_radians
+#### degrees\_to\_radians
 
 ```python
 @classmethod
@@ -11222,7 +11222,7 @@ Returns:
 
 <a id="unreal.MathLibrary.deg_cos"></a>
 
-#### deg_cos
+#### deg\_cos
 
 ```python
 @classmethod
@@ -11240,7 +11240,7 @@ Returns:
 
 <a id="unreal.MathLibrary.deg_atan2"></a>
 
-#### deg_atan2
+#### deg\_atan2
 
 ```python
 @classmethod
@@ -11259,7 +11259,7 @@ Returns:
 
 <a id="unreal.MathLibrary.deg_atan"></a>
 
-#### deg_atan
+#### deg\_atan
 
 ```python
 @classmethod
@@ -11277,7 +11277,7 @@ Returns:
 
 <a id="unreal.MathLibrary.deg_asin"></a>
 
-#### deg_asin
+#### deg\_asin
 
 ```python
 @classmethod
@@ -11295,7 +11295,7 @@ Returns:
 
 <a id="unreal.MathLibrary.deg_acos"></a>
 
-#### deg_acos
+#### deg\_acos
 
 ```python
 @classmethod
@@ -11313,7 +11313,7 @@ Returns:
 
 <a id="unreal.MathLibrary.days_in_year"></a>
 
-#### days_in_year
+#### days\_in\_year
 
 ```python
 @classmethod
@@ -11331,7 +11331,7 @@ Returns:
 
 <a id="unreal.MathLibrary.days_in_month"></a>
 
-#### days_in_month
+#### days\_in\_month
 
 ```python
 @classmethod
@@ -11350,7 +11350,7 @@ Returns:
 
 <a id="unreal.MathLibrary.date_time_min_value"></a>
 
-#### date_time_min_value
+#### date\_time\_min\_value
 
 ```python
 @classmethod
@@ -11365,7 +11365,7 @@ Returns:
 
 <a id="unreal.MathLibrary.date_time_max_value"></a>
 
-#### date_time_max_value
+#### date\_time\_max\_value
 
 ```python
 @classmethod
@@ -11380,7 +11380,7 @@ Returns:
 
 <a id="unreal.MathLibrary.date_time_from_string"></a>
 
-#### date_time_from_string
+#### date\_time\_from\_string
 
 ```python
 @classmethod
@@ -11400,7 +11400,7 @@ Returns:
 
 <a id="unreal.MathLibrary.date_time_from_iso_string"></a>
 
-#### date_time_from_iso_string
+#### date\_time\_from\_iso\_string
 
 ```python
 @classmethod
@@ -11420,7 +11420,7 @@ Returns:
 
 <a id="unreal.MathLibrary.cross_product2d"></a>
 
-#### cross_product2d
+#### cross\_product2d
 
 ```python
 @classmethod
@@ -11439,7 +11439,7 @@ Returns:
 
 <a id="unreal.MathLibrary.cross_vector_vector"></a>
 
-#### cross_vector_vector
+#### cross\_vector\_vector
 
 ```python
 @classmethod
@@ -11458,7 +11458,7 @@ Returns:
 
 <a id="unreal.MathLibrary.create_vector_from_yaw_pitch"></a>
 
-#### create_vector_from_yaw_pitch
+#### create\_vector\_from\_yaw\_pitch
 
 ```python
 @classmethod
@@ -11499,7 +11499,7 @@ Returns:
 
 <a id="unreal.MathLibrary.convert3d_to1d"></a>
 
-#### convert3d_to1d
+#### convert3d\_to1d
 
 ```python
 @classmethod
@@ -11519,7 +11519,7 @@ Returns:
 
 <a id="unreal.MathLibrary.convert2d_to1d"></a>
 
-#### convert2d_to1d
+#### convert2d\_to1d
 
 ```python
 @classmethod
@@ -11538,7 +11538,7 @@ Returns:
 
 <a id="unreal.MathLibrary.convert1d_to3d"></a>
 
-#### convert1d_to3d
+#### convert1d\_to3d
 
 ```python
 @classmethod
@@ -11558,7 +11558,7 @@ Returns:
 
 <a id="unreal.MathLibrary.convert1d_to2d"></a>
 
-#### convert1d_to2d
+#### convert1d\_to2d
 
 ```python
 @classmethod
@@ -11577,7 +11577,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector_to_vector2d"></a>
 
-#### conv_vector_to_vector2d
+#### conv\_vector\_to\_vector2d
 
 ```python
 @classmethod
@@ -11595,7 +11595,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector_to_transform"></a>
 
-#### conv_vector_to_transform
+#### conv\_vector\_to\_transform
 
 ```python
 @classmethod
@@ -11613,7 +11613,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector_to_rotator"></a>
 
-#### conv_vector_to_rotator
+#### conv\_vector\_to\_rotator
 
 ```python
 @classmethod
@@ -11632,7 +11632,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector_to_quaternion"></a>
 
-#### conv_vector_to_quaternion
+#### conv\_vector\_to\_quaternion
 
 ```python
 @classmethod
@@ -11652,7 +11652,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector_to_quaterion"></a>
 
-#### conv_vector_to_quaterion
+#### conv\_vector\_to\_quaterion
 
 ```python
 @classmethod
@@ -11663,7 +11663,7 @@ deprecated: 'conv_vector_to_quaterion' was renamed to 'conv_vector_to_quaternion
 
 <a id="unreal.MathLibrary.conv_vector_to_linear_color"></a>
 
-#### conv_vector_to_linear_color
+#### conv\_vector\_to\_linear\_color
 
 ```python
 @classmethod
@@ -11681,7 +11681,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector4_to_vector"></a>
 
-#### conv_vector4_to_vector
+#### conv\_vector4\_to\_vector
 
 ```python
 @classmethod
@@ -11699,7 +11699,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector4_to_rotator"></a>
 
-#### conv_vector4_to_rotator
+#### conv\_vector4\_to\_rotator
 
 ```python
 @classmethod
@@ -11718,7 +11718,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector4_to_quaternion"></a>
 
-#### conv_vector4_to_quaternion
+#### conv\_vector4\_to\_quaternion
 
 ```python
 @classmethod
@@ -11738,7 +11738,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector4_to_quaterion"></a>
 
-#### conv_vector4_to_quaterion
+#### conv\_vector4\_to\_quaterion
 
 ```python
 @classmethod
@@ -11749,7 +11749,7 @@ deprecated: 'conv_vector4_to_quaterion' was renamed to 'conv_vector4_to_quaterni
 
 <a id="unreal.MathLibrary.conv_vector2d_to_vector"></a>
 
-#### conv_vector2d_to_vector
+#### conv\_vector2d\_to\_vector
 
 ```python
 @classmethod
@@ -11770,7 +11770,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_vector2d_to_int_point"></a>
 
-#### conv_vector2d_to_int_point
+#### conv\_vector2d\_to\_int\_point
 
 ```python
 @classmethod
@@ -11788,7 +11788,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_transform_to_matrix"></a>
 
-#### conv_transform_to_matrix
+#### conv\_transform\_to\_matrix
 
 ```python
 @classmethod
@@ -11806,7 +11806,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_rotator_to_vector"></a>
 
-#### conv_rotator_to_vector
+#### conv\_rotator\_to\_vector
 
 ```python
 @classmethod
@@ -11824,7 +11824,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_rotator_to_transform"></a>
 
-#### conv_rotator_to_transform
+#### conv\_rotator\_to\_transform
 
 ```python
 @classmethod
@@ -11842,7 +11842,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_rotator_to_quaternion"></a>
 
-#### conv_rotator_to_quaternion
+#### conv\_rotator\_to\_quaternion
 
 ```python
 @classmethod
@@ -11860,7 +11860,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_matrix_to_transform"></a>
 
-#### conv_matrix_to_transform
+#### conv\_matrix\_to\_transform
 
 ```python
 @classmethod
@@ -11879,7 +11879,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_matrix_to_rotator"></a>
 
-#### conv_matrix_to_rotator
+#### conv\_matrix\_to\_rotator
 
 ```python
 @classmethod
@@ -11898,7 +11898,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_linear_color_to_vector"></a>
 
-#### conv_linear_color_to_vector
+#### conv\_linear\_color\_to\_vector
 
 ```python
 @classmethod
@@ -11916,7 +11916,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_linear_color_to_color"></a>
 
-#### conv_linear_color_to_color
+#### conv\_linear\_color\_to\_color
 
 ```python
 @classmethod
@@ -11937,7 +11937,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int_vector_to_vector"></a>
 
-#### conv_int_vector_to_vector
+#### conv\_int\_vector\_to\_vector
 
 ```python
 @classmethod
@@ -11955,7 +11955,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int_to_vector"></a>
 
-#### conv_int_to_vector
+#### conv\_int\_to\_vector
 
 ```python
 @classmethod
@@ -11973,7 +11973,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int_to_int_vector"></a>
 
-#### conv_int_to_int_vector
+#### conv\_int\_to\_int\_vector
 
 ```python
 @classmethod
@@ -11991,7 +11991,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int_to_int64"></a>
 
-#### conv_int_to_int64
+#### conv\_int\_to\_int64
 
 ```python
 @classmethod
@@ -12009,7 +12009,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int_to_double"></a>
 
-#### conv_int_to_double
+#### conv\_int\_to\_double
 
 ```python
 @classmethod
@@ -12027,7 +12027,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int_to_float"></a>
 
-#### conv_int_to_float
+#### conv\_int\_to\_float
 
 ```python
 @classmethod
@@ -12038,7 +12038,7 @@ deprecated: 'conv_int_to_float' was renamed to 'conv_int_to_double'.
 
 <a id="unreal.MathLibrary.conv_int_to_byte"></a>
 
-#### conv_int_to_byte
+#### conv\_int\_to\_byte
 
 ```python
 @classmethod
@@ -12056,7 +12056,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int_to_bool"></a>
 
-#### conv_int_to_bool
+#### conv\_int\_to\_bool
 
 ```python
 @classmethod
@@ -12074,7 +12074,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int_point_to_vector2d"></a>
 
-#### conv_int_point_to_vector2d
+#### conv\_int\_point\_to\_vector2d
 
 ```python
 @classmethod
@@ -12092,7 +12092,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int64_to_int"></a>
 
-#### conv_int64_to_int
+#### conv\_int64\_to\_int
 
 ```python
 @classmethod
@@ -12110,7 +12110,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int64_to_double"></a>
 
-#### conv_int64_to_double
+#### conv\_int64\_to\_double
 
 ```python
 @classmethod
@@ -12128,7 +12128,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_int64_to_byte"></a>
 
-#### conv_int64_to_byte
+#### conv\_int64\_to\_byte
 
 ```python
 @classmethod
@@ -12146,7 +12146,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_double_to_vector2d"></a>
 
-#### conv_double_to_vector2d
+#### conv\_double\_to\_vector2d
 
 ```python
 @classmethod
@@ -12164,7 +12164,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_double_to_vector"></a>
 
-#### conv_double_to_vector
+#### conv\_double\_to\_vector
 
 ```python
 @classmethod
@@ -12182,7 +12182,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_float_to_vector"></a>
 
-#### conv_float_to_vector
+#### conv\_float\_to\_vector
 
 ```python
 @classmethod
@@ -12193,7 +12193,7 @@ deprecated: 'conv_float_to_vector' was renamed to 'conv_double_to_vector'.
 
 <a id="unreal.MathLibrary.conv_double_to_linear_color"></a>
 
-#### conv_double_to_linear_color
+#### conv\_double\_to\_linear\_color
 
 ```python
 @classmethod
@@ -12211,7 +12211,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_float_to_linear_color"></a>
 
-#### conv_float_to_linear_color
+#### conv\_float\_to\_linear\_color
 
 ```python
 @classmethod
@@ -12222,7 +12222,7 @@ deprecated: 'conv_float_to_linear_color' was renamed to 'conv_double_to_linear_c
 
 <a id="unreal.MathLibrary.conv_double_to_int64"></a>
 
-#### conv_double_to_int64
+#### conv\_double\_to\_int64
 
 ```python
 @classmethod
@@ -12240,7 +12240,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_color_to_linear_color"></a>
 
-#### conv_color_to_linear_color
+#### conv\_color\_to\_linear\_color
 
 ```python
 @classmethod
@@ -12258,7 +12258,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_byte_to_int64"></a>
 
-#### conv_byte_to_int64
+#### conv\_byte\_to\_int64
 
 ```python
 @classmethod
@@ -12276,7 +12276,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_byte_to_int"></a>
 
-#### conv_byte_to_int
+#### conv\_byte\_to\_int
 
 ```python
 @classmethod
@@ -12294,7 +12294,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_byte_to_double"></a>
 
-#### conv_byte_to_double
+#### conv\_byte\_to\_double
 
 ```python
 @classmethod
@@ -12312,7 +12312,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_byte_to_float"></a>
 
-#### conv_byte_to_float
+#### conv\_byte\_to\_float
 
 ```python
 @classmethod
@@ -12323,7 +12323,7 @@ deprecated: 'conv_byte_to_float' was renamed to 'conv_byte_to_double'.
 
 <a id="unreal.MathLibrary.conv_bool_to_int"></a>
 
-#### conv_bool_to_int
+#### conv\_bool\_to\_int
 
 ```python
 @classmethod
@@ -12341,7 +12341,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_bool_to_double"></a>
 
-#### conv_bool_to_double
+#### conv\_bool\_to\_double
 
 ```python
 @classmethod
@@ -12359,7 +12359,7 @@ Returns:
 
 <a id="unreal.MathLibrary.conv_bool_to_float"></a>
 
-#### conv_bool_to_float
+#### conv\_bool\_to\_float
 
 ```python
 @classmethod
@@ -12370,7 +12370,7 @@ deprecated: 'conv_bool_to_float' was renamed to 'conv_bool_to_double'.
 
 <a id="unreal.MathLibrary.conv_bool_to_byte"></a>
 
-#### conv_bool_to_byte
+#### conv\_bool\_to\_byte
 
 ```python
 @classmethod
@@ -12388,7 +12388,7 @@ Returns:
 
 <a id="unreal.MathLibrary.compose_transforms"></a>
 
-#### compose_transforms
+#### compose\_transforms
 
 ```python
 @classmethod
@@ -12413,7 +12413,7 @@ Returns:
 
 <a id="unreal.MathLibrary.compose_rotators"></a>
 
-#### compose_rotators
+#### compose\_rotators
 
 ```python
 @classmethod
@@ -12432,7 +12432,7 @@ Returns:
 
 <a id="unreal.MathLibrary.class_is_child_of"></a>
 
-#### class_is_child_of
+#### class\_is\_child\_of
 
 ```python
 @classmethod
@@ -12451,7 +12451,7 @@ Returns:
 
 <a id="unreal.MathLibrary.clamp_vector_size"></a>
 
-#### clamp_vector_size
+#### clamp\_vector\_size
 
 ```python
 @classmethod
@@ -12471,7 +12471,7 @@ Returns:
 
 <a id="unreal.MathLibrary.clamp_int64"></a>
 
-#### clamp_int64
+#### clamp\_int64
 
 ```python
 @classmethod
@@ -12491,7 +12491,7 @@ Returns:
 
 <a id="unreal.MathLibrary.clamp_axis"></a>
 
-#### clamp_axis
+#### clamp\_axis
 
 ```python
 @classmethod
@@ -12509,7 +12509,7 @@ Returns:
 
 <a id="unreal.MathLibrary.clamp_axes2d"></a>
 
-#### clamp_axes2d
+#### clamp\_axes2d
 
 ```python
 @classmethod
@@ -12530,7 +12530,7 @@ Returns:
 
 <a id="unreal.MathLibrary.clamp_angle"></a>
 
-#### clamp_angle
+#### clamp\_angle
 
 ```python
 @classmethod
@@ -12571,7 +12571,7 @@ Returns:
 
 <a id="unreal.MathLibrary.c_interp_to"></a>
 
-#### c_interp_to
+#### c\_interp\_to
 
 ```python
 @classmethod
@@ -12593,7 +12593,7 @@ Returns:
 
 <a id="unreal.MathLibrary.break_rot_into_axes"></a>
 
-#### break_rot_into_axes
+#### break\_rot\_into\_axes
 
 ```python
 @classmethod
@@ -12617,7 +12617,7 @@ Returns:
 
 <a id="unreal.MathLibrary.break_color"></a>
 
-#### break_color
+#### break\_color
 
 ```python
 @classmethod
@@ -12643,7 +12643,7 @@ Returns:
 
 <a id="unreal.MathLibrary.box_overlap"></a>
 
-#### box_overlap
+#### box\_overlap
 
 ```python
 @classmethod
@@ -12662,7 +12662,7 @@ Returns:
 
 <a id="unreal.MathLibrary.box_is_point_inside"></a>
 
-#### box_is_point_inside
+#### box\_is\_point\_inside
 
 ```python
 @classmethod
@@ -12682,7 +12682,7 @@ Returns:
 
 <a id="unreal.MathLibrary.box_is_inside_or_on"></a>
 
-#### box_is_inside_or_on
+#### box\_is\_inside\_or\_on
 
 ```python
 @classmethod
@@ -12701,7 +12701,7 @@ Returns:
 
 <a id="unreal.MathLibrary.box_is_inside"></a>
 
-#### box_is_inside
+#### box\_is\_inside
 
 ```python
 @classmethod
@@ -12720,7 +12720,7 @@ Returns:
 
 <a id="unreal.MathLibrary.box_intersects"></a>
 
-#### box_intersects
+#### box\_intersects
 
 ```python
 @classmethod
@@ -12740,7 +12740,7 @@ Returns:
 
 <a id="unreal.MathLibrary.box_get_closest_point_to"></a>
 
-#### box_get_closest_point_to
+#### box\_get\_closest\_point\_to
 
 ```python
 @classmethod
@@ -12759,7 +12759,7 @@ Returns:
 
 <a id="unreal.MathLibrary.box_expand_by"></a>
 
-#### box_expand_by
+#### box\_expand\_by
 
 ```python
 @classmethod
@@ -12779,7 +12779,7 @@ Returns:
 
 <a id="unreal.MathLibrary.boolean_xor"></a>
 
-#### boolean_xor
+#### boolean\_xor
 
 ```python
 @classmethod
@@ -12798,7 +12798,7 @@ Returns:
 
 <a id="unreal.MathLibrary.boolean_or"></a>
 
-#### boolean_or
+#### boolean\_or
 
 ```python
 @classmethod
@@ -12817,7 +12817,7 @@ Returns:
 
 <a id="unreal.MathLibrary.boolean_nor"></a>
 
-#### boolean_nor
+#### boolean\_nor
 
 ```python
 @classmethod
@@ -12836,7 +12836,7 @@ Returns:
 
 <a id="unreal.MathLibrary.boolean_nand"></a>
 
-#### boolean_nand
+#### boolean\_nand
 
 ```python
 @classmethod
@@ -12855,7 +12855,7 @@ Returns:
 
 <a id="unreal.MathLibrary.boolean_and"></a>
 
-#### boolean_and
+#### boolean\_and
 
 ```python
 @classmethod
@@ -12874,7 +12874,7 @@ Returns:
 
 <a id="unreal.MathLibrary.b_min"></a>
 
-#### b_min
+#### b\_min
 
 ```python
 @classmethod
@@ -12893,7 +12893,7 @@ Returns:
 
 <a id="unreal.MathLibrary.b_max"></a>
 
-#### b_max
+#### b\_max
 
 ```python
 @classmethod
@@ -12912,7 +12912,7 @@ Returns:
 
 <a id="unreal.MathLibrary.average_of_int_array"></a>
 
-#### average_of_int_array
+#### average\_of\_int\_array
 
 ```python
 @classmethod
@@ -12987,7 +12987,7 @@ Returns:
 
 <a id="unreal.MathLibrary.and_int_int"></a>
 
-#### and_int_int
+#### and\_int\_int
 
 ```python
 @classmethod
@@ -13006,7 +13006,7 @@ Returns:
 
 <a id="unreal.MathLibrary.and_int64_int64"></a>
 
-#### and_int64_int64
+#### and\_int64\_int64
 
 ```python
 @classmethod
@@ -13025,7 +13025,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_vector_vector"></a>
 
-#### add_vector_vector
+#### add\_vector\_vector
 
 ```python
 @classmethod
@@ -13044,7 +13044,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_vector_int"></a>
 
-#### add_vector_int
+#### add\_vector\_int
 
 ```python
 @classmethod
@@ -13063,7 +13063,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_vector_float"></a>
 
-#### add_vector_float
+#### add\_vector\_float
 
 ```python
 @classmethod
@@ -13082,7 +13082,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_vector4_vector4"></a>
 
-#### add_vector4_vector4
+#### add\_vector4\_vector4
 
 ```python
 @classmethod
@@ -13101,7 +13101,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_vector2d_vector2d"></a>
 
-#### add_vector2d_vector2d
+#### add\_vector2d\_vector2d
 
 ```python
 @classmethod
@@ -13120,7 +13120,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_vector2d_float"></a>
 
-#### add_vector2d_float
+#### add\_vector2d\_float
 
 ```python
 @classmethod
@@ -13139,7 +13139,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_timespan_timespan"></a>
 
-#### add_timespan_timespan
+#### add\_timespan\_timespan
 
 ```python
 @classmethod
@@ -13158,7 +13158,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_quat_quat"></a>
 
-#### add_quat_quat
+#### add\_quat\_quat
 
 ```python
 @classmethod
@@ -13177,7 +13177,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_matrix_matrix"></a>
 
-#### add_matrix_matrix
+#### add\_matrix\_matrix
 
 ```python
 @classmethod
@@ -13196,7 +13196,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_linear_color_linear_color"></a>
 
-#### add_linear_color_linear_color
+#### add\_linear\_color\_linear\_color
 
 ```python
 @classmethod
@@ -13216,7 +13216,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_int_point_int_point"></a>
 
-#### add_int_point_int_point
+#### add\_int\_point\_int\_point
 
 ```python
 @classmethod
@@ -13235,7 +13235,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_int_point_int"></a>
 
-#### add_int_point_int
+#### add\_int\_point\_int
 
 ```python
 @classmethod
@@ -13254,7 +13254,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_int_int"></a>
 
-#### add_int_int
+#### add\_int\_int
 
 ```python
 @classmethod
@@ -13273,7 +13273,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_int64_int64"></a>
 
-#### add_int64_int64
+#### add\_int64\_int64
 
 ```python
 @classmethod
@@ -13292,7 +13292,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_double_double"></a>
 
-#### add_double_double
+#### add\_double\_double
 
 ```python
 @classmethod
@@ -13311,7 +13311,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_float_float"></a>
 
-#### add_float_float
+#### add\_float\_float
 
 ```python
 @classmethod
@@ -13322,7 +13322,7 @@ deprecated: 'add_float_float' was renamed to 'add_double_double'.
 
 <a id="unreal.MathLibrary.add_date_time_timespan"></a>
 
-#### add_date_time_timespan
+#### add\_date\_time\_timespan
 
 ```python
 @classmethod
@@ -13341,7 +13341,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_date_time_date_time"></a>
 
-#### add_date_time_date_time
+#### add\_date\_time\_date\_time
 
 ```python
 @classmethod
@@ -13360,7 +13360,7 @@ Returns:
 
 <a id="unreal.MathLibrary.add_byte_byte"></a>
 
-#### add_byte_byte
+#### add\_byte\_byte
 
 ```python
 @classmethod
@@ -13397,7 +13397,7 @@ Returns:
 
 <a id="unreal.MathLibrary.abs_int64"></a>
 
-#### abs_int64
+#### abs\_int64
 
 ```python
 @classmethod
@@ -13415,7 +13415,7 @@ Returns:
 
 <a id="unreal.MathLibrary.abs_int"></a>
 
-#### abs_int
+#### abs\_int
 
 ```python
 @classmethod

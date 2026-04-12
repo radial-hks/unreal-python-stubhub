@@ -13,7 +13,7 @@ A cheat manager extension can extend the main cheat manager in a modular way, be
 
 <a id="unreal.CheatManagerExtension.removed_from_cheat_manager"></a>
 
-#### removed_from_cheat_manager
+#### removed\_from\_cheat\_manager
 
 ```python
 def removed_from_cheat_manager() -> None
@@ -24,7 +24,7 @@ Removed from Cheat Manager
 
 <a id="unreal.CheatManagerExtension.get_player_controller"></a>
 
-#### get_player_controller
+#### get\_player\_controller
 
 ```python
 def get_player_controller() -> PlayerController
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.CheatManagerExtension.added_to_cheat_manager"></a>
 
-#### added_to_cheat_manager
+#### added\_to\_cheat\_manager
 
 ```python
 def added_to_cheat_manager() -> None

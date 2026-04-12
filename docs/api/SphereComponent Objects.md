@@ -197,7 +197,7 @@ A sphere generally used for simple collision. Bounds are rendered as lines in th
 
 <a id="unreal.SphereComponent.sphere_radius"></a>
 
-#### sphere_radius
+#### sphere\_radius
 
 ```python
 @property
@@ -208,7 +208,7 @@ def sphere_radius() -> float
 
 <a id="unreal.SphereComponent.set_sphere_radius"></a>
 
-#### set_sphere_radius
+#### set\_sphere\_radius
 
 ```python
 def set_sphere_radius(sphere_radius: float,
@@ -224,7 +224,7 @@ Args:
 
 <a id="unreal.SphereComponent.get_unscaled_sphere_radius"></a>
 
-#### get_unscaled_sphere_radius
+#### get\_unscaled\_sphere\_radius
 
 ```python
 def get_unscaled_sphere_radius() -> float
@@ -238,7 +238,7 @@ Returns:
 
 <a id="unreal.SphereComponent.get_shape_scale"></a>
 
-#### get_shape_scale
+#### get\_shape\_scale
 
 ```python
 def get_shape_scale() -> float
@@ -252,7 +252,7 @@ Returns:
 
 <a id="unreal.SphereComponent.get_scaled_sphere_radius"></a>
 
-#### get_scaled_sphere_radius
+#### get\_scaled\_sphere\_radius
 
 ```python
 def get_scaled_sphere_radius() -> float
@@ -264,4 +264,4 @@ x.get_scaled_sphere_radius() -> float
 Returns:
     float: the radius of the sphere, with component scale applied.
 
-<a id="unreal.AvaSphereComponent"></a>
+<a id="unreal.DrawSphereComponent"></a>

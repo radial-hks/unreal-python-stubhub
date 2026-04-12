@@ -13,7 +13,7 @@ Audio Mixer Blueprint Library
 
 <a id="unreal.AudioMixerLibrary.unregister_audio_bus_from_submix"></a>
 
-#### unregister_audio_bus_from_submix
+#### unregister\_audio\_bus\_from\_submix
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.trim_audio_cache"></a>
 
-#### trim_audio_cache
+#### trim\_audio\_cache
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.swap_audio_output_device"></a>
 
-#### swap_audio_output_device
+#### swap\_audio\_output\_device
 
 ```python
 @classmethod
@@ -69,7 +69,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.stop_recording_output"></a>
 
-#### stop_recording_output
+#### stop\_recording\_output
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.stop_audio_bus"></a>
 
-#### stop_audio_bus
+#### stop\_audio\_bus
 
 ```python
 @classmethod
@@ -116,7 +116,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.stop_analyzing_output"></a>
 
-#### stop_analyzing_output
+#### stop\_analyzing\_output
 
 ```python
 @classmethod
@@ -135,7 +135,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.start_recording_output"></a>
 
-#### start_recording_output
+#### start\_recording\_output
 
 ```python
 @classmethod
@@ -155,7 +155,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.start_audio_bus"></a>
 
-#### start_audio_bus
+#### start\_audio\_bus
 
 ```python
 @classmethod
@@ -172,7 +172,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.start_analyzing_output"></a>
 
-#### start_analyzing_output
+#### start\_analyzing\_output
 
 ```python
 @classmethod
@@ -203,7 +203,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.set_submix_effect_chain_override"></a>
 
-#### set_submix_effect_chain_override
+#### set\_submix\_effect\_chain\_override
 
 ```python
 @classmethod
@@ -224,7 +224,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.set_bypass_source_effect_chain_entry"></a>
 
-#### set_bypass_source_effect_chain_entry
+#### set\_bypass\_source\_effect\_chain\_entry
 
 ```python
 @classmethod
@@ -245,7 +245,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.resume_recording_output"></a>
 
-#### resume_recording_output
+#### resume\_recording\_output
 
 ```python
 @classmethod
@@ -263,7 +263,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.replace_submix_effect"></a>
 
-#### replace_submix_effect
+#### replace\_submix\_effect
 
 ```python
 @classmethod
@@ -284,7 +284,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.replace_sound_effect_submix"></a>
 
-#### replace_sound_effect_submix
+#### replace\_sound\_effect\_submix
 
 ```python
 @classmethod
@@ -306,7 +306,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.remove_submix_effect_preset_at_index"></a>
 
-#### remove_submix_effect_preset_at_index
+#### remove\_submix\_effect\_preset\_at\_index
 
 ```python
 @classmethod
@@ -326,7 +326,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.remove_submix_effect_preset"></a>
 
-#### remove_submix_effect_preset
+#### remove\_submix\_effect\_preset
 
 ```python
 @classmethod
@@ -346,7 +346,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.remove_submix_effect_at_index"></a>
 
-#### remove_submix_effect_at_index
+#### remove\_submix\_effect\_at\_index
 
 ```python
 @classmethod
@@ -365,7 +365,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.remove_submix_effect"></a>
 
-#### remove_submix_effect
+#### remove\_submix\_effect
 
 ```python
 @classmethod
@@ -384,7 +384,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.remove_source_effect_from_preset_chain"></a>
 
-#### remove_source_effect_from_preset_chain
+#### remove\_source\_effect\_from\_preset\_chain
 
 ```python
 @classmethod
@@ -403,7 +403,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.remove_master_submix_effect"></a>
 
-#### remove_master_submix_effect
+#### remove\_master\_submix\_effect
 
 ```python
 @classmethod
@@ -421,7 +421,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.register_audio_bus_to_submix"></a>
 
-#### register_audio_bus_to_submix
+#### register\_audio\_bus\_to\_submix
 
 ```python
 @classmethod
@@ -440,7 +440,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.prime_sound_for_playback"></a>
 
-#### prime_sound_for_playback
+#### prime\_sound\_for\_playback
 
 ```python
 @classmethod
@@ -457,7 +457,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.prime_sound_cue_for_playback"></a>
 
-#### prime_sound_cue_for_playback
+#### prime\_sound\_cue\_for\_playback
 
 ```python
 @classmethod
@@ -472,7 +472,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.pause_recording_output"></a>
 
-#### pause_recording_output
+#### pause\_recording\_output
 
 ```python
 @classmethod
@@ -490,7 +490,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.make_preset_spectral_analysis_band_settings"></a>
 
-#### make_preset_spectral_analysis_band_settings
+#### make\_preset\_spectral\_analysis\_band\_settings
 
 ```python
 @classmethod
@@ -517,7 +517,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.make_musical_spectral_analysis_band_settings"></a>
 
-#### make_musical_spectral_analysis_band_settings
+#### make\_musical\_spectral\_analysis\_band\_settings
 
 ```python
 @classmethod
@@ -546,7 +546,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.make_full_spectrum_spectral_analysis_band_settings"></a>
 
-#### make_full_spectrum_spectral_analysis_band_settings
+#### make\_full\_spectrum\_spectral\_analysis\_band\_settings
 
 ```python
 @classmethod
@@ -575,7 +575,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.is_audio_bus_active"></a>
 
-#### is_audio_bus_active
+#### is\_audio\_bus\_active
 
 ```python
 @classmethod
@@ -595,7 +595,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.get_phase_for_frequencies"></a>
 
-#### get_phase_for_frequencies
+#### get\_phase\_for\_frequencies
 
 ```python
 @classmethod
@@ -621,7 +621,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.get_number_of_entries_in_source_effect_chain"></a>
 
-#### get_number_of_entries_in_source_effect_chain
+#### get\_number\_of\_entries\_in\_source\_effect\_chain
 
 ```python
 @classmethod
@@ -642,7 +642,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.get_magnitude_for_frequencies"></a>
 
-#### get_magnitude_for_frequencies
+#### get\_magnitude\_for\_frequencies
 
 ```python
 @classmethod
@@ -668,7 +668,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.get_current_audio_output_device_name"></a>
 
-#### get_current_audio_output_device_name
+#### get\_current\_audio\_output\_device\_name
 
 ```python
 @classmethod
@@ -687,7 +687,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.get_available_audio_output_devices"></a>
 
-#### get_available_audio_output_devices
+#### get\_available\_audio\_output\_devices
 
 ```python
 @classmethod
@@ -705,7 +705,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.conv_audio_output_device_info_to_string"></a>
 
-#### conv_audio_output_device_info_to_string
+#### conv\_audio\_output\_device\_info\_to\_string
 
 ```python
 @classmethod
@@ -724,7 +724,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.clear_submix_effects"></a>
 
-#### clear_submix_effects
+#### clear\_submix\_effects
 
 ```python
 @classmethod
@@ -741,7 +741,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.clear_submix_effect_chain_override"></a>
 
-#### clear_submix_effect_chain_override
+#### clear\_submix\_effect\_chain\_override
 
 ```python
 @classmethod
@@ -760,7 +760,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.clear_master_submix_effects"></a>
 
-#### clear_master_submix_effects
+#### clear\_master\_submix\_effects
 
 ```python
 @classmethod
@@ -775,7 +775,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.add_submix_effect"></a>
 
-#### add_submix_effect
+#### add\_submix\_effect
 
 ```python
 @classmethod
@@ -797,7 +797,7 @@ Returns:
 
 <a id="unreal.AudioMixerLibrary.add_source_effect_to_preset_chain"></a>
 
-#### add_source_effect_to_preset_chain
+#### add\_source\_effect\_to\_preset\_chain
 
 ```python
 @classmethod
@@ -817,7 +817,7 @@ Args:
 
 <a id="unreal.AudioMixerLibrary.add_master_submix_effect"></a>
 
-#### add_master_submix_effect
+#### add\_master\_submix\_effect
 
 ```python
 @classmethod

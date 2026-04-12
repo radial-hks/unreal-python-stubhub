@@ -14,13 +14,13 @@ Shake start offset parameter
 
 <a id="unreal.InitialOscillatorOffset.EOO_OFFSET_RANDOM"></a>
 
-#### EOO_OFFSET_RANDOM
+#### EOO\_OFFSET\_RANDOM
 
 0: Start with random offset (default).
 
 <a id="unreal.InitialOscillatorOffset.EOO_OFFSET_ZERO"></a>
 
-#### EOO_OFFSET_ZERO
+#### EOO\_OFFSET\_ZERO
 
 1: Start with zero offset.
 

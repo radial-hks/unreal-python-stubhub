@@ -44,7 +44,7 @@ struct with all the settings we want in USubsurfaceProfile, separate to make it 
 
 <a id="unreal.SubsurfaceProfileStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -75,7 +75,7 @@ def __init__(
 
 <a id="unreal.SubsurfaceProfileStruct.surface_albedo"></a>
 
-#### surface_albedo
+#### surface\_albedo
 
 ```python
 @property
@@ -86,7 +86,7 @@ def surface_albedo() -> LinearColor
 
 <a id="unreal.SubsurfaceProfileStruct.mean_free_path_color"></a>
 
-#### mean_free_path_color
+#### mean\_free\_path\_color
 
 ```python
 @property
@@ -97,7 +97,7 @@ def mean_free_path_color() -> LinearColor
 
 <a id="unreal.SubsurfaceProfileStruct.mean_free_path_distance"></a>
 
-#### mean_free_path_distance
+#### mean\_free\_path\_distance
 
 ```python
 @property
@@ -108,7 +108,7 @@ def mean_free_path_distance() -> float
 
 <a id="unreal.SubsurfaceProfileStruct.world_unit_scale"></a>
 
-#### world_unit_scale
+#### world\_unit\_scale
 
 ```python
 @property
@@ -119,7 +119,7 @@ def world_unit_scale() -> float
 
 <a id="unreal.SubsurfaceProfileStruct.enable_burley"></a>
 
-#### enable_burley
+#### enable\_burley
 
 ```python
 @property
@@ -130,7 +130,7 @@ def enable_burley() -> bool
 
 <a id="unreal.SubsurfaceProfileStruct.enable_mean_free_path"></a>
 
-#### enable_mean_free_path
+#### enable\_mean\_free\_path
 
 ```python
 @property
@@ -154,7 +154,7 @@ and the SSS-filtered image. It introduces Non-PBR looks.
 
 <a id="unreal.SubsurfaceProfileStruct.scatter_radius"></a>
 
-#### scatter_radius
+#### scatter\_radius
 
 ```python
 @property
@@ -166,7 +166,7 @@ deprecated: Property 'ScatterRadius' is deprecated.
 
 <a id="unreal.SubsurfaceProfileStruct.subsurface_color"></a>
 
-#### subsurface_color
+#### subsurface\_color
 
 ```python
 @property
@@ -180,7 +180,7 @@ deprecated: Property 'SubsurfaceColor' is deprecated.
 
 <a id="unreal.SubsurfaceProfileStruct.falloff_color"></a>
 
-#### falloff_color
+#### falloff\_color
 
 ```python
 @property
@@ -194,7 +194,7 @@ deprecated: Property 'FalloffColor' is deprecated.
 
 <a id="unreal.SubsurfaceProfileStruct.boundary_color_bleed"></a>
 
-#### boundary_color_bleed
+#### boundary\_color\_bleed
 
 ```python
 @property
@@ -205,7 +205,7 @@ def boundary_color_bleed() -> LinearColor
 
 <a id="unreal.SubsurfaceProfileStruct.extinction_scale"></a>
 
-#### extinction_scale
+#### extinction\_scale
 
 ```python
 @property
@@ -216,7 +216,7 @@ def extinction_scale() -> float
 
 <a id="unreal.SubsurfaceProfileStruct.normal_scale"></a>
 
-#### normal_scale
+#### normal\_scale
 
 ```python
 @property
@@ -227,7 +227,7 @@ def normal_scale() -> float
 
 <a id="unreal.SubsurfaceProfileStruct.scattering_distribution"></a>
 
-#### scattering_distribution
+#### scattering\_distribution
 
 ```python
 @property
@@ -271,7 +271,7 @@ def roughness1() -> float
 
 <a id="unreal.SubsurfaceProfileStruct.lobe_mix"></a>
 
-#### lobe_mix
+#### lobe\_mix
 
 ```python
 @property
@@ -282,7 +282,7 @@ def lobe_mix() -> float
 
 <a id="unreal.SubsurfaceProfileStruct.transmission_tint_color"></a>
 
-#### transmission_tint_color
+#### transmission\_tint\_color
 
 ```python
 @property

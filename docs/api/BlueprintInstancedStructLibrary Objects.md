@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.BlueprintInstancedStructLibrary.not_equal_instanced_struct"></a>
 
-#### not_equal_instanced_struct
+#### not\_equal\_instanced\_struct
 
 ```python
 @classmethod
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.BlueprintInstancedStructLibrary.is_valid_instanced_struct"></a>
 
-#### is_valid_instanced_struct
+#### is\_valid\_instanced\_struct
 
 ```python
 @classmethod
@@ -74,7 +74,7 @@ Returns:
 
 <a id="unreal.BlueprintInstancedStructLibrary.is_instanced_struct_valid"></a>
 
-#### is_instanced_struct_valid
+#### is\_instanced\_struct\_valid
 
 ```python
 @classmethod
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.BlueprintInstancedStructLibrary.equal_equal_instanced_struct"></a>
 
-#### equal_equal_instanced_struct
+#### equal\_equal\_instanced\_struct
 
 ```python
 @classmethod

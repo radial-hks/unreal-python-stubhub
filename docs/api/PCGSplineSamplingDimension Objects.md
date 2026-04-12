@@ -14,31 +14,31 @@ EPCGSpline Sampling Dimension
 
 <a id="unreal.PCGSplineSamplingDimension.ON_SPLINE"></a>
 
-#### ON_SPLINE
+#### ON\_SPLINE
 
 0
 
 <a id="unreal.PCGSplineSamplingDimension.ON_HORIZONTAL"></a>
 
-#### ON_HORIZONTAL
+#### ON\_HORIZONTAL
 
 1
 
 <a id="unreal.PCGSplineSamplingDimension.ON_VERTICAL"></a>
 
-#### ON_VERTICAL
+#### ON\_VERTICAL
 
 2
 
 <a id="unreal.PCGSplineSamplingDimension.ON_VOLUME"></a>
 
-#### ON_VOLUME
+#### ON\_VOLUME
 
 3
 
 <a id="unreal.PCGSplineSamplingDimension.ON_INTERIOR"></a>
 
-#### ON_INTERIOR
+#### ON\_INTERIOR
 
 4
 

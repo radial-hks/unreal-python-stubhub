@@ -146,7 +146,7 @@ it is just a thin wrapper around a UPaperSpriteComponent that actually reference
 
 <a id="unreal.PaperSpriteActor.render_component"></a>
 
-#### render_component
+#### render\_component
 
 ```python
 @property

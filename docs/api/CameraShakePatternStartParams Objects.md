@@ -19,7 +19,7 @@ Parameters for starting a camera shake pattern.
 
 <a id="unreal.CameraShakePatternStartParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(is_restarting: bool = False,
@@ -29,7 +29,7 @@ def __init__(is_restarting: bool = False,
 
 <a id="unreal.CameraShakePatternStartParams.is_restarting"></a>
 
-#### is_restarting
+#### is\_restarting
 
 ```python
 @property
@@ -40,7 +40,7 @@ def is_restarting() -> bool
 
 <a id="unreal.CameraShakePatternStartParams.is_restarting"></a>
 
-#### is_restarting
+#### is\_restarting
 
 ```python
 @is_restarting.setter
@@ -49,7 +49,7 @@ def is_restarting(value: bool) -> None
 
 <a id="unreal.CameraShakePatternStartParams.override_duration"></a>
 
-#### override_duration
+#### override\_duration
 
 ```python
 @property
@@ -60,7 +60,7 @@ def override_duration() -> bool
 
 <a id="unreal.CameraShakePatternStartParams.override_duration"></a>
 
-#### override_duration
+#### override\_duration
 
 ```python
 @override_duration.setter
@@ -69,7 +69,7 @@ def override_duration(value: bool) -> None
 
 <a id="unreal.CameraShakePatternStartParams.duration_override"></a>
 
-#### duration_override
+#### duration\_override
 
 ```python
 @property
@@ -80,7 +80,7 @@ def duration_override() -> float
 
 <a id="unreal.CameraShakePatternStartParams.duration_override"></a>
 
-#### duration_override
+#### duration\_override
 
 ```python
 @duration_override.setter

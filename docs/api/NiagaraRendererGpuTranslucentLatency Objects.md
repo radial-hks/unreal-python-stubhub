@@ -14,7 +14,7 @@ ENiagara Renderer Gpu Translucent Latency
 
 <a id="unreal.NiagaraRendererGpuTranslucentLatency.PROJECT_DEFAULT"></a>
 
-#### PROJECT_DEFAULT
+#### PROJECT\_DEFAULT
 
 0: Uses the project default value.
 

@@ -20,7 +20,7 @@ Parameters for updating a camera shake pattern.
 
 <a id="unreal.CameraShakePatternUpdateParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -39,7 +39,7 @@ def __init__(
 
 <a id="unreal.CameraShakePatternUpdateParams.delta_time"></a>
 
-#### delta_time
+#### delta\_time
 
 ```python
 @property
@@ -50,7 +50,7 @@ def delta_time() -> float
 
 <a id="unreal.CameraShakePatternUpdateParams.delta_time"></a>
 
-#### delta_time
+#### delta\_time
 
 ```python
 @delta_time.setter
@@ -59,7 +59,7 @@ def delta_time(value: float) -> None
 
 <a id="unreal.CameraShakePatternUpdateParams.shake_scale"></a>
 
-#### shake_scale
+#### shake\_scale
 
 ```python
 @property
@@ -70,7 +70,7 @@ def shake_scale() -> float
 
 <a id="unreal.CameraShakePatternUpdateParams.shake_scale"></a>
 
-#### shake_scale
+#### shake\_scale
 
 ```python
 @shake_scale.setter
@@ -79,7 +79,7 @@ def shake_scale(value: float) -> None
 
 <a id="unreal.CameraShakePatternUpdateParams.dynamic_scale"></a>
 
-#### dynamic_scale
+#### dynamic\_scale
 
 ```python
 @property
@@ -90,7 +90,7 @@ def dynamic_scale() -> float
 
 <a id="unreal.CameraShakePatternUpdateParams.dynamic_scale"></a>
 
-#### dynamic_scale
+#### dynamic\_scale
 
 ```python
 @dynamic_scale.setter

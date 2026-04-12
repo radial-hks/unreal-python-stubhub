@@ -20,7 +20,7 @@ Control Rig Test Data Variable
 
 <a id="unreal.ControlRigTestDataVariable.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None",
@@ -41,7 +41,7 @@ def name() -> Name
 
 <a id="unreal.ControlRigTestDataVariable.cpp_type"></a>
 
-#### cpp_type
+#### cpp\_type
 
 ```python
 @property

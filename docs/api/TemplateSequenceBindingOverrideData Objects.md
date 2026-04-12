@@ -22,7 +22,7 @@ so we don't need it to store the object binding ID.
 
 <a id="unreal.TemplateSequenceBindingOverrideData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

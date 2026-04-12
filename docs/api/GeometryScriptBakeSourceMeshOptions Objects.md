@@ -20,7 +20,7 @@ Geometry Script Bake Source Mesh Options
 
 <a id="unreal.GeometryScriptBakeSourceMeshOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -33,7 +33,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptBakeSourceMeshOptions.source_normal_map"></a>
 
-#### source_normal_map
+#### source\_normal\_map
 
 ```python
 @property
@@ -44,7 +44,7 @@ def source_normal_map() -> Texture2D
 
 <a id="unreal.GeometryScriptBakeSourceMeshOptions.source_normal_map"></a>
 
-#### source_normal_map
+#### source\_normal\_map
 
 ```python
 @source_normal_map.setter
@@ -53,7 +53,7 @@ def source_normal_map(value: Texture2D) -> None
 
 <a id="unreal.GeometryScriptBakeSourceMeshOptions.source_normal_uv_layer"></a>
 
-#### source_normal_uv_layer
+#### source\_normal\_uv\_layer
 
 ```python
 @property
@@ -64,7 +64,7 @@ def source_normal_uv_layer() -> int
 
 <a id="unreal.GeometryScriptBakeSourceMeshOptions.source_normal_uv_layer"></a>
 
-#### source_normal_uv_layer
+#### source\_normal\_uv\_layer
 
 ```python
 @source_normal_uv_layer.setter
@@ -73,7 +73,7 @@ def source_normal_uv_layer(value: int) -> None
 
 <a id="unreal.GeometryScriptBakeSourceMeshOptions.source_normal_space"></a>
 
-#### source_normal_space
+#### source\_normal\_space
 
 ```python
 @property
@@ -84,7 +84,7 @@ def source_normal_space() -> GeometryScriptBakeNormalSpace
 
 <a id="unreal.GeometryScriptBakeSourceMeshOptions.source_normal_space"></a>
 
-#### source_normal_space
+#### source\_normal\_space
 
 ```python
 @source_normal_space.setter

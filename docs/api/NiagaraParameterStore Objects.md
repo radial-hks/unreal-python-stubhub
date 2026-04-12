@@ -19,7 +19,7 @@ Base storage class for Niagara parameter values.
 
 <a id="unreal.NiagaraParameterStore.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -27,7 +27,7 @@ def __init__() -> None
 
 <a id="unreal.NiagaraParameterStore.parameter_offsets"></a>
 
-#### parameter_offsets
+#### parameter\_offsets
 
 ```python
 @property
@@ -39,7 +39,7 @@ deprecated: Property 'ParameterOffsets' is deprecated.
 
 <a id="unreal.NiagaraParameterStore.parameter_offsets"></a>
 
-#### parameter_offsets
+#### parameter\_offsets
 
 ```python
 @parameter_offsets.setter

@@ -19,7 +19,7 @@ Find Sessions Callback Proxy
 
 <a id="unreal.FindSessionsCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_success() -> BlueprintFindSessionsResultDelegate
 
 <a id="unreal.FindSessionsCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -39,7 +39,7 @@ def on_success(value: BlueprintFindSessionsResultDelegate) -> None
 
 <a id="unreal.FindSessionsCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_failure() -> BlueprintFindSessionsResultDelegate
 
 <a id="unreal.FindSessionsCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @on_failure.setter
@@ -59,7 +59,7 @@ def on_failure(value: BlueprintFindSessionsResultDelegate) -> None
 
 <a id="unreal.FindSessionsCallbackProxy.get_server_name"></a>
 
-#### get_server_name
+#### get\_server\_name
 
 ```python
 @classmethod
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.FindSessionsCallbackProxy.get_ping_in_ms"></a>
 
-#### get_ping_in_ms
+#### get\_ping\_in\_ms
 
 ```python
 @classmethod
@@ -95,7 +95,7 @@ Returns:
 
 <a id="unreal.FindSessionsCallbackProxy.get_max_players"></a>
 
-#### get_max_players
+#### get\_max\_players
 
 ```python
 @classmethod
@@ -113,7 +113,7 @@ Returns:
 
 <a id="unreal.FindSessionsCallbackProxy.get_current_players"></a>
 
-#### get_current_players
+#### get\_current\_players
 
 ```python
 @classmethod

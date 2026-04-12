@@ -21,7 +21,7 @@ Data Layer
 
 <a id="unreal.DataLayer.is_visible"></a>
 
-#### is_visible
+#### is\_visible
 
 ```python
 def is_visible() -> bool
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.DataLayer.is_runtime"></a>
 
-#### is_runtime
+#### is\_runtime
 
 ```python
 def is_runtime() -> bool
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.DataLayer.is_initially_visible"></a>
 
-#### is_initially_visible
+#### is\_initially\_visible
 
 ```python
 def is_initially_visible() -> bool
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.DataLayer.is_initially_active"></a>
 
-#### is_initially_active
+#### is\_initially\_active
 
 ```python
 def is_initially_active() -> bool
@@ -78,7 +78,7 @@ Returns:
 
 <a id="unreal.DataLayer.is_effective_visible"></a>
 
-#### is_effective_visible
+#### is\_effective\_visible
 
 ```python
 def is_effective_visible() -> bool
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.DataLayer.is_dynamically_loaded"></a>
 
-#### is_dynamically_loaded
+#### is\_dynamically\_loaded
 
 ```python
 def is_dynamically_loaded() -> bool
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.DataLayer.get_initial_state"></a>
 
-#### get_initial_state
+#### get\_initial\_state
 
 ```python
 def get_initial_state() -> DataLayerStateType
@@ -122,7 +122,7 @@ Returns:
 
 <a id="unreal.DataLayer.get_initial_runtime_state"></a>
 
-#### get_initial_runtime_state
+#### get\_initial\_runtime\_state
 
 ```python
 def get_initial_runtime_state() -> DataLayerRuntimeState
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.DataLayer.get_debug_color"></a>
 
-#### get_debug_color
+#### get\_debug\_color
 
 ```python
 def get_debug_color() -> Color
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.DataLayer.get_data_layer_label"></a>
 
-#### get_data_layer_label
+#### get\_data\_layer\_label
 
 ```python
 def get_data_layer_label() -> Name

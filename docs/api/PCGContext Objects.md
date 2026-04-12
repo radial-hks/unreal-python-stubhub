@@ -14,7 +14,7 @@ PCGContext
 
 <a id="unreal.PCGContext.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -22,7 +22,7 @@ def __init__() -> None
 
 <a id="unreal.PCGContext.get_task_id"></a>
 
-#### get_task_id
+#### get\_task\_id
 
 ```python
 def get_task_id() -> int
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.PCGContext.get_target_actor"></a>
 
-#### get_target_actor
+#### get\_target\_actor
 
 ```python
 def get_target_actor(spatial_data: PCGSpatialData) -> Actor
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.PCGContext.get_settings"></a>
 
-#### get_settings
+#### get\_settings
 
 ```python
 def get_settings() -> PCGSettings
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.PCGContext.get_original_component"></a>
 
-#### get_original_component
+#### get\_original\_component
 
 ```python
 def get_original_component() -> PCGComponent
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.PCGContext.get_input_data"></a>
 
-#### get_input_data
+#### get\_input\_data
 
 ```python
 def get_input_data() -> PCGData
@@ -95,7 +95,7 @@ Returns:
 
 <a id="unreal.PCGContext.get_component"></a>
 
-#### get_component
+#### get\_component
 
 ```python
 def get_component() -> PCGComponent
@@ -109,7 +109,7 @@ Returns:
 
 <a id="unreal.PCGContext.get_actor_data"></a>
 
-#### get_actor_data
+#### get\_actor\_data
 
 ```python
 def get_actor_data() -> PCGData

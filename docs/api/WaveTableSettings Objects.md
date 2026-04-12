@@ -29,10 +29,10 @@ Wave Table Settings
 
 <a id="unreal.WaveTableSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.PCGKernelAttributeKey"></a>
+<a id="unreal.WorldConditionQueryDefinition"></a>

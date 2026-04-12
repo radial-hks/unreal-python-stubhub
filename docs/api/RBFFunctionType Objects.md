@@ -43,7 +43,7 @@ Function to use for each target falloff
 
 <a id="unreal.RBFFunctionType.DEFAULT_FUNCTION"></a>
 
-#### DEFAULT_FUNCTION
+#### DEFAULT\_FUNCTION
 
 5: Uses the setting of the parent container
 

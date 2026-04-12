@@ -21,7 +21,7 @@ returned by GetResult().
 
 <a id="unreal.AudioAnalyzer.stop_analyzing"></a>
 
-#### stop_analyzing
+#### stop\_analyzing
 
 ```python
 def stop_analyzing(world_context_object: Object = None) -> None
@@ -35,7 +35,7 @@ Args:
 
 <a id="unreal.AudioAnalyzer.start_analyzing"></a>
 
-#### start_analyzing
+#### start\_analyzing
 
 ```python
 def start_analyzing(world_context_object: Object,

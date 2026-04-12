@@ -17,7 +17,7 @@ Convenience class to get audio parameters set on an active sound's playback
 
 <a id="unreal.InitialActiveSoundParams.audio_params"></a>
 
-#### audio_params
+#### audio\_params
 
 ```python
 @property
@@ -28,7 +28,7 @@ def audio_params() -> Array[AudioParameter]
 
 <a id="unreal.InitialActiveSoundParams.audio_params"></a>
 
-#### audio_params
+#### audio\_params
 
 ```python
 @audio_params.setter

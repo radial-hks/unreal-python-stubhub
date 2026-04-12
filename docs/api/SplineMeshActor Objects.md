@@ -143,7 +143,7 @@ see: USplineMeshComponent
 
 <a id="unreal.SplineMeshActor.spline_mesh_component"></a>
 
-#### spline_mesh_component
+#### spline\_mesh\_component
 
 ```python
 @property

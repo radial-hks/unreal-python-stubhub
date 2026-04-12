@@ -17,7 +17,7 @@ Async Register and Execute Task
 
 <a id="unreal.AsyncRegisterAndExecuteTask.on_finished"></a>
 
-#### on_finished
+#### on\_finished
 
 ```python
 @property
@@ -28,7 +28,7 @@ def on_finished() -> OnEditorUtilityTaskDynamicDelegate
 
 <a id="unreal.AsyncRegisterAndExecuteTask.on_finished"></a>
 
-#### on_finished
+#### on\_finished
 
 ```python
 @on_finished.setter

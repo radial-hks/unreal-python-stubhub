@@ -21,7 +21,7 @@ Base implementation of MetaSound builder
 
 <a id="unreal.MetaSoundBuilderBase.class_name"></a>
 
-#### class_name
+#### class\_name
 
 ```python
 @property
@@ -33,7 +33,7 @@ deprecated: 5.5 - No longer used. ClassName should be queried from associated Fr
 
 <a id="unreal.MetaSoundBuilderBase.class_name"></a>
 
-#### class_name
+#### class\_name
 
 ```python
 @class_name.setter
@@ -42,7 +42,7 @@ def class_name(value: MetasoundFrontendClassName) -> None
 
 <a id="unreal.MetaSoundBuilderBase.is_attached"></a>
 
-#### is_attached
+#### is\_attached
 
 ```python
 @property
@@ -54,7 +54,7 @@ deprecated: 5.4 - All source builders now operate on an underlying document sour
 
 <a id="unreal.MetaSoundBuilderBase.is_attached"></a>
 
-#### is_attached
+#### is\_attached
 
 ```python
 @is_attached.setter
@@ -63,7 +63,7 @@ def is_attached(value: bool) -> None
 
 <a id="unreal.MetaSoundBuilderBase.set_node_input_default"></a>
 
-#### set_node_input_default
+#### set\_node\_input\_default
 
 ```python
 def set_node_input_default(
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.set_graph_output_name"></a>
 
-#### set_graph_output_name
+#### set\_graph\_output\_name
 
 ```python
 def set_graph_output_name(output_name: Name,
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.set_graph_output_data_type"></a>
 
-#### set_graph_output_data_type
+#### set\_graph\_output\_data\_type
 
 ```python
 def set_graph_output_data_type(output_name: Name,
@@ -129,7 +129,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.set_graph_output_access_type"></a>
 
-#### set_graph_output_access_type
+#### set\_graph\_output\_access\_type
 
 ```python
 def set_graph_output_access_type(
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.set_graph_input_name"></a>
 
-#### set_graph_input_name
+#### set\_graph\_input\_name
 
 ```python
 def set_graph_input_name(input_name: Name,
@@ -174,7 +174,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.set_graph_input_default"></a>
 
-#### set_graph_input_default
+#### set\_graph\_input\_default
 
 ```python
 def set_graph_input_default(
@@ -196,7 +196,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.set_graph_input_data_type"></a>
 
-#### set_graph_input_data_type
+#### set\_graph\_input\_data\_type
 
 ```python
 def set_graph_input_data_type(input_name: Name,
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.set_graph_input_access_type"></a>
 
-#### set_graph_input_access_type
+#### set\_graph\_input\_access\_type
 
 ```python
 def set_graph_input_access_type(
@@ -241,7 +241,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.remove_unused_dependencies"></a>
 
-#### remove_unused_dependencies
+#### remove\_unused\_dependencies
 
 ```python
 def remove_unused_dependencies() -> None
@@ -252,7 +252,7 @@ Removes dependencies in document that are no longer referenced by nodes
 
 <a id="unreal.MetaSoundBuilderBase.remove_node_input_default"></a>
 
-#### remove_node_input_default
+#### remove\_node\_input\_default
 
 ```python
 def remove_node_input_default(
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.remove_node"></a>
 
-#### remove_node
+#### remove\_node
 
 ```python
 def remove_node(
@@ -297,7 +297,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.remove_interface"></a>
 
-#### remove_interface
+#### remove\_interface
 
 ```python
 def remove_interface(interface_name: Name) -> MetaSoundBuilderResult
@@ -317,7 +317,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.remove_graph_output"></a>
 
-#### remove_graph_output
+#### remove\_graph\_output
 
 ```python
 def remove_graph_output(name: Name) -> MetaSoundBuilderResult
@@ -336,7 +336,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.remove_graph_input"></a>
 
-#### remove_graph_input
+#### remove\_graph\_input
 
 ```python
 def remove_graph_input(name: Name) -> MetaSoundBuilderResult
@@ -355,7 +355,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.nodes_are_connected"></a>
 
-#### nodes_are_connected
+#### nodes\_are\_connected
 
 ```python
 def nodes_are_connected(output_handle: MetaSoundBuilderNodeOutputHandle,
@@ -374,7 +374,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.node_output_is_connected"></a>
 
-#### node_output_is_connected
+#### node\_output\_is\_connected
 
 ```python
 def node_output_is_connected(
@@ -392,7 +392,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.node_input_is_connected"></a>
 
-#### node_input_is_connected
+#### node\_input\_is\_connected
 
 ```python
 def node_input_is_connected(
@@ -410,7 +410,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.is_preset"></a>
 
-#### is_preset
+#### is\_preset
 
 ```python
 def is_preset() -> bool
@@ -424,7 +424,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.interface_is_declared"></a>
 
-#### interface_is_declared
+#### interface\_is\_declared
 
 ```python
 def interface_is_declared(interface_name: Name) -> bool
@@ -441,7 +441,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.get_root_graph_class_name"></a>
 
-#### get_root_graph_class_name
+#### get\_root\_graph\_class\_name
 
 ```python
 def get_root_graph_class_name() -> MetasoundFrontendClassName
@@ -455,7 +455,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.get_referenced_preset_asset"></a>
 
-#### get_referenced_preset_asset
+#### get\_referenced\_preset\_asset
 
 ```python
 def get_referenced_preset_asset() -> Object
@@ -469,7 +469,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.get_node_output_is_constructor_pin"></a>
 
-#### get_node_output_is_constructor_pin
+#### get\_node\_output\_is\_constructor\_pin
 
 ```python
 def get_node_output_is_constructor_pin(
@@ -487,7 +487,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.get_node_output_data"></a>
 
-#### get_node_output_data
+#### get\_node\_output\_data
 
 ```python
 def get_node_output_data(
@@ -512,7 +512,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.get_node_input_is_constructor_pin"></a>
 
-#### get_node_input_is_constructor_pin
+#### get\_node\_input\_is\_constructor\_pin
 
 ```python
 def get_node_input_is_constructor_pin(
@@ -530,7 +530,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.get_node_input_default"></a>
 
-#### get_node_input_default
+#### get\_node\_input\_default
 
 ```python
 def get_node_input_default(
@@ -551,7 +551,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.get_node_input_data"></a>
 
-#### get_node_input_data
+#### get\_node\_input\_data
 
 ```python
 def get_node_input_data(
@@ -576,7 +576,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.get_node_input_class_default"></a>
 
-#### get_node_input_class_default
+#### get\_node\_input\_class\_default
 
 ```python
 def get_node_input_class_default(
@@ -597,7 +597,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_outputs_by_data_type"></a>
 
-#### find_node_outputs_by_data_type
+#### find\_node\_outputs\_by\_data\_type
 
 ```python
 def find_node_outputs_by_data_type(
@@ -619,7 +619,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_outputs"></a>
 
-#### find_node_outputs
+#### find\_node\_outputs
 
 ```python
 def find_node_outputs(
@@ -640,7 +640,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_output_parent"></a>
 
-#### find_node_output_parent
+#### find\_node\_output\_parent
 
 ```python
 def find_node_output_parent(
@@ -661,7 +661,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_output_by_name"></a>
 
-#### find_node_output_by_name
+#### find\_node\_output\_by\_name
 
 ```python
 def find_node_output_by_name(
@@ -683,7 +683,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_inputs_by_data_type"></a>
 
-#### find_node_inputs_by_data_type
+#### find\_node\_inputs\_by\_data\_type
 
 ```python
 def find_node_inputs_by_data_type(
@@ -705,7 +705,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_inputs"></a>
 
-#### find_node_inputs
+#### find\_node\_inputs
 
 ```python
 def find_node_inputs(
@@ -726,7 +726,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_input_parent"></a>
 
-#### find_node_input_parent
+#### find\_node\_input\_parent
 
 ```python
 def find_node_input_parent(
@@ -747,7 +747,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_input_by_name"></a>
 
-#### find_node_input_by_name
+#### find\_node\_input\_by\_name
 
 ```python
 def find_node_input_by_name(
@@ -769,7 +769,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_node_class_version"></a>
 
-#### find_node_class_version
+#### find\_node\_class\_version
 
 ```python
 def find_node_class_version(
@@ -790,7 +790,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_interface_output_nodes"></a>
 
-#### find_interface_output_nodes
+#### find\_interface\_output\_nodes
 
 ```python
 def find_interface_output_nodes(
@@ -811,7 +811,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_interface_input_nodes"></a>
 
-#### find_interface_input_nodes
+#### find\_interface\_input\_nodes
 
 ```python
 def find_interface_input_nodes(
@@ -832,7 +832,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_graph_output_node"></a>
 
-#### find_graph_output_node
+#### find\_graph\_output\_node
 
 ```python
 def find_graph_output_node(
@@ -853,7 +853,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.find_graph_input_node"></a>
 
-#### find_graph_input_node
+#### find\_graph\_input\_node
 
 ```python
 def find_graph_input_node(
@@ -874,7 +874,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.disconnect_nodes_by_interface_bindings"></a>
 
-#### disconnect_nodes_by_interface_bindings
+#### disconnect\_nodes\_by\_interface\_bindings
 
 ```python
 def disconnect_nodes_by_interface_bindings(
@@ -897,7 +897,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.disconnect_nodes"></a>
 
-#### disconnect_nodes
+#### disconnect\_nodes
 
 ```python
 def disconnect_nodes(
@@ -920,7 +920,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.disconnect_node_output"></a>
 
-#### disconnect_node_output
+#### disconnect\_node\_output
 
 ```python
 def disconnect_node_output(
@@ -941,7 +941,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.disconnect_node_input"></a>
 
-#### disconnect_node_input
+#### disconnect\_node\_input
 
 ```python
 def disconnect_node_input(
@@ -962,7 +962,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.convert_to_preset"></a>
 
-#### convert_to_preset
+#### convert\_to\_preset
 
 ```python
 def convert_to_preset(
@@ -983,7 +983,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.convert_from_preset"></a>
 
-#### convert_from_preset
+#### convert\_from\_preset
 
 ```python
 def convert_from_preset() -> MetaSoundBuilderResult
@@ -999,7 +999,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.contains_node_output"></a>
 
-#### contains_node_output
+#### contains\_node\_output
 
 ```python
 def contains_node_output(output: MetaSoundBuilderNodeOutputHandle) -> bool
@@ -1016,7 +1016,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.contains_node_input"></a>
 
-#### contains_node_input
+#### contains\_node\_input
 
 ```python
 def contains_node_input(input: MetaSoundBuilderNodeInputHandle) -> bool
@@ -1033,7 +1033,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.contains_node"></a>
 
-#### contains_node
+#### contains\_node
 
 ```python
 def contains_node(node: MetaSoundNodeHandle) -> bool
@@ -1050,7 +1050,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.connect_nodes_by_interface_bindings"></a>
 
-#### connect_nodes_by_interface_bindings
+#### connect\_nodes\_by\_interface\_bindings
 
 ```python
 def connect_nodes_by_interface_bindings(
@@ -1072,7 +1072,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.connect_nodes"></a>
 
-#### connect_nodes
+#### connect\_nodes
 
 ```python
 def connect_nodes(
@@ -1097,7 +1097,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.connect_node_output_to_graph_output"></a>
 
-#### connect_node_output_to_graph_output
+#### connect\_node\_output\_to\_graph\_output
 
 ```python
 def connect_node_output_to_graph_output(
@@ -1120,7 +1120,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.connect_node_outputs_to_matching_graph_interface_outputs"></a>
 
-#### connect_node_outputs_to_matching_graph_interface_outputs
+#### connect\_node\_outputs\_to\_matching\_graph\_interface\_outputs
 
 ```python
 def connect_node_outputs_to_matching_graph_interface_outputs(
@@ -1141,7 +1141,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.connect_node_input_to_graph_input"></a>
 
-#### connect_node_input_to_graph_input
+#### connect\_node\_input\_to\_graph\_input
 
 ```python
 def connect_node_input_to_graph_input(
@@ -1163,7 +1163,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.connect_node_inputs_to_matching_graph_interface_inputs"></a>
 
-#### connect_node_inputs_to_matching_graph_interface_inputs
+#### connect\_node\_inputs\_to\_matching\_graph\_interface\_inputs
 
 ```python
 def connect_node_inputs_to_matching_graph_interface_inputs(
@@ -1184,7 +1184,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.build_new_meta_sound"></a>
 
-#### build_new_meta_sound
+#### build\_new\_meta\_sound
 
 ```python
 def build_new_meta_sound(name_base: Name) -> MetaSoundDocumentInterface
@@ -1204,7 +1204,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.build_and_overwrite_meta_sound"></a>
 
-#### build_and_overwrite_meta_sound
+#### build\_and\_overwrite\_meta\_sound
 
 ```python
 def build_and_overwrite_meta_sound(
@@ -1244,7 +1244,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.add_node_by_class_name"></a>
 
-#### add_node_by_class_name
+#### add\_node\_by\_class\_name
 
 ```python
 def add_node_by_class_name(
@@ -1268,7 +1268,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.add_node"></a>
 
-#### add_node
+#### add\_node
 
 ```python
 def add_node(
@@ -1290,7 +1290,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.add_interface"></a>
 
-#### add_interface
+#### add\_interface
 
 ```python
 def add_interface(interface_name: Name) -> MetaSoundBuilderResult
@@ -1309,7 +1309,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.add_graph_output_node"></a>
 
-#### add_graph_output_node
+#### add\_graph\_output\_node
 
 ```python
 def add_graph_output_node(
@@ -1337,7 +1337,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderBase.add_graph_input_node"></a>
 
-#### add_graph_input_node
+#### add\_graph\_input\_node
 
 ```python
 def add_graph_input_node(

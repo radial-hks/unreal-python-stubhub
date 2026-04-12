@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto the test struct 
 
 <a id="unreal.PyTestStructLibrary.set_bool_mutable_via_ref"></a>
 
-#### set_bool_mutable_via_ref
+#### set\_bool\_mutable\_via\_ref
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.PyTestStructLibrary.set_bool_mutable"></a>
 
-#### set_bool_mutable
+#### set\_bool\_mutable
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.PyTestStructLibrary.legacy_is_bool_set"></a>
 
-#### legacy_is_bool_set
+#### legacy\_is\_bool\_set
 
 ```python
 @classmethod
@@ -68,7 +68,7 @@ Returns:
 
 <a id="unreal.PyTestStructLibrary.is_bool_set"></a>
 
-#### is_bool_set
+#### is\_bool\_set
 
 ```python
 @classmethod
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.PyTestStructLibrary.clear_bool_mutable_via_ref"></a>
 
-#### clear_bool_mutable_via_ref
+#### clear\_bool\_mutable\_via\_ref
 
 ```python
 @classmethod
@@ -106,7 +106,7 @@ Returns:
 
 <a id="unreal.PyTestStructLibrary.clear_bool_mutable"></a>
 
-#### clear_bool_mutable
+#### clear\_bool\_mutable
 
 ```python
 @classmethod
@@ -121,7 +121,7 @@ Args:
 
 <a id="unreal.PyTestStructLibrary.add_str"></a>
 
-#### add_str
+#### add\_str
 
 ```python
 @classmethod
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.PyTestStructLibrary.add_int"></a>
 
-#### add_int
+#### add\_int
 
 ```python
 @classmethod
@@ -159,7 +159,7 @@ Returns:
 
 <a id="unreal.PyTestStructLibrary.add_float"></a>
 
-#### add_float
+#### add\_float
 
 ```python
 @classmethod

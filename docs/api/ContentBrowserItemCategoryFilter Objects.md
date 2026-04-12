@@ -14,43 +14,43 @@ Generally matches EContentBrowserItemFlags::Category_MASK
 
 <a id="unreal.ContentBrowserItemCategoryFilter.INCLUDE_NONE"></a>
 
-#### INCLUDE_NONE
+#### INCLUDE\_NONE
 
 0
 
 <a id="unreal.ContentBrowserItemCategoryFilter.INCLUDE_ASSETS"></a>
 
-#### INCLUDE_ASSETS
+#### INCLUDE\_ASSETS
 
 1
 
 <a id="unreal.ContentBrowserItemCategoryFilter.INCLUDE_CLASSES"></a>
 
-#### INCLUDE_CLASSES
+#### INCLUDE\_CLASSES
 
 2
 
 <a id="unreal.ContentBrowserItemCategoryFilter.INCLUDE_COLLECTIONS"></a>
 
-#### INCLUDE_COLLECTIONS
+#### INCLUDE\_COLLECTIONS
 
 4
 
 <a id="unreal.ContentBrowserItemCategoryFilter.INCLUDE_REDIRECTORS"></a>
 
-#### INCLUDE_REDIRECTORS
+#### INCLUDE\_REDIRECTORS
 
 8
 
 <a id="unreal.ContentBrowserItemCategoryFilter.INCLUDE_MISC"></a>
 
-#### INCLUDE_MISC
+#### INCLUDE\_MISC
 
 16
 
 <a id="unreal.ContentBrowserItemCategoryFilter.INCLUDE_ALL"></a>
 
-#### INCLUDE_ALL
+#### INCLUDE\_ALL
 
 31
 

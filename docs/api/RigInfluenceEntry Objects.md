@@ -14,10 +14,10 @@ Rig Influence Entry
 
 <a id="unreal.RigInfluenceEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.RigVMExternalVariableDef"></a>
+<a id="unreal.UsdPrimPathList"></a>

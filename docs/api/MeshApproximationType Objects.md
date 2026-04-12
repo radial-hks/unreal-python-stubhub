@@ -13,13 +13,13 @@ EMesh Approximation Type
 
 <a id="unreal.MeshApproximationType.MESH_AND_MATERIALS"></a>
 
-#### MESH_AND_MATERIALS
+#### MESH\_AND\_MATERIALS
 
 0
 
 <a id="unreal.MeshApproximationType.MESH_SHAPE_ONLY"></a>
 
-#### MESH_SHAPE_ONLY
+#### MESH\_SHAPE\_ONLY
 
 1
 

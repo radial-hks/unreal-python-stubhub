@@ -24,7 +24,7 @@ Settings for a UOnsetNRT analyzer.
 
 <a id="unreal.OnsetNRTSettings.downmix_to_mono"></a>
 
-#### downmix_to_mono
+#### downmix\_to\_mono
 
 ```python
 @property
@@ -35,7 +35,7 @@ def downmix_to_mono() -> bool
 
 <a id="unreal.OnsetNRTSettings.granularity_in_seconds"></a>
 
-#### granularity_in_seconds
+#### granularity\_in\_seconds
 
 ```python
 @property
@@ -57,7 +57,7 @@ def sensitivity() -> float
 
 <a id="unreal.OnsetNRTSettings.minimum_frequency"></a>
 
-#### minimum_frequency
+#### minimum\_frequency
 
 ```python
 @property
@@ -68,7 +68,7 @@ def minimum_frequency() -> float
 
 <a id="unreal.OnsetNRTSettings.maximum_frequency"></a>
 
-#### maximum_frequency
+#### maximum\_frequency
 
 ```python
 @property

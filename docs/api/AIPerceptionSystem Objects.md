@@ -17,7 +17,7 @@ AI Subsystem managing AI Perception through registered AI Senses between Listene
 
 <a id="unreal.AIPerceptionSystem.report_perception_event"></a>
 
-#### report_perception_event
+#### report\_perception\_event
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Args:
 
 <a id="unreal.AIPerceptionSystem.report_event"></a>
 
-#### report_event
+#### report\_event
 
 ```python
 def report_event(perception_event: AISenseEvent) -> None
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.AIPerceptionSystem.register_perception_stimuli_source"></a>
 
-#### register_perception_stimuli_source
+#### register\_perception\_stimuli\_source
 
 ```python
 @classmethod
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.AIPerceptionSystem.get_sense_class_for_stimulus"></a>
 
-#### get_sense_class_for_stimulus
+#### get\_sense\_class\_for\_stimulus
 
 ```python
 @classmethod

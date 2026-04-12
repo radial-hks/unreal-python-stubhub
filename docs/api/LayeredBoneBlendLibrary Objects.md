@@ -13,7 +13,7 @@ Exposes operations to be performed on a layered bone blend anim node.
 
 <a id="unreal.LayeredBoneBlendLibrary.set_blend_mask"></a>
 
-#### set_blend_mask
+#### set\_blend\_mask
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.LayeredBoneBlendLibrary.get_num_poses"></a>
 
-#### get_num_poses
+#### get\_num\_poses
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.LayeredBoneBlendLibrary.convert_to_layered_bone_blend"></a>
 
-#### convert_to_layered_bone_blend
+#### convert\_to\_layered\_bone\_blend
 
 ```python
 @classmethod
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.LayeredBoneBlendLibrary.convert_to_layered_blend_per_bone_pure"></a>
 
-#### convert_to_layered_blend_per_bone_pure
+#### convert\_to\_layered\_blend\_per\_bone\_pure
 
 ```python
 @classmethod

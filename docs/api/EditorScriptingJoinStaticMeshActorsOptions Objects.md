@@ -8,7 +8,7 @@ deprecated: 'EditorScriptingJoinStaticMeshActorsOptions' was renamed to 'JoinSta
 
 <a id="unreal.EditorScriptingJoinStaticMeshActorsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(destroy_source_actors: bool = False,

@@ -13,37 +13,37 @@ EDynamicMeshChangeType is used by FDynamicMeshChangeInfo to indicate a "type" of
 
 <a id="unreal.DynamicMeshChangeType.GENERAL_EDIT"></a>
 
-#### GENERAL_EDIT
+#### GENERAL\_EDIT
 
 0
 
 <a id="unreal.DynamicMeshChangeType.MESH_CHANGE"></a>
 
-#### MESH_CHANGE
+#### MESH\_CHANGE
 
 1
 
 <a id="unreal.DynamicMeshChangeType.MESH_REPLACEMENT_CHANGE"></a>
 
-#### MESH_REPLACEMENT_CHANGE
+#### MESH\_REPLACEMENT\_CHANGE
 
 2
 
 <a id="unreal.DynamicMeshChangeType.MESH_VERTEX_CHANGE"></a>
 
-#### MESH_VERTEX_CHANGE
+#### MESH\_VERTEX\_CHANGE
 
 3
 
 <a id="unreal.DynamicMeshChangeType.DEFORMATION_EDIT"></a>
 
-#### DEFORMATION_EDIT
+#### DEFORMATION\_EDIT
 
 4
 
 <a id="unreal.DynamicMeshChangeType.ATTRIBUTE_EDIT"></a>
 
-#### ATTRIBUTE_EDIT
+#### ATTRIBUTE\_EDIT
 
 5
 

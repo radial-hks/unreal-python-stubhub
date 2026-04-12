@@ -31,7 +31,7 @@ Path Following Component
 
 <a id="unreal.PathFollowingComponent.movement_comp"></a>
 
-#### movement_comp
+#### movement\_comp
 
 ```python
 @property
@@ -43,7 +43,7 @@ deprecated: MovementComp is deprecated, please use NavMovementInterface and the 
 
 <a id="unreal.PathFollowingComponent.movement_comp"></a>
 
-#### movement_comp
+#### movement\_comp
 
 ```python
 @movement_comp.setter
@@ -52,7 +52,7 @@ def movement_comp(value: NavMovementComponent) -> None
 
 <a id="unreal.PathFollowingComponent.get_path_destination"></a>
 
-#### get_path_destination
+#### get\_path\_destination
 
 ```python
 def get_path_destination() -> Vector
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.PathFollowingComponent.get_path_action_type"></a>
 
-#### get_path_action_type
+#### get\_path\_action\_type
 
 ```python
 def get_path_action_type() -> PathFollowingAction

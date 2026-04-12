@@ -15,7 +15,7 @@ Likely to be replaced in the near future with a custom BP node and a helper stru
 
 <a id="unreal.NiagaraDataChannelReader.read_vector4"></a>
 
-#### read_vector4
+#### read\_vector4
 
 ```python
 def read_vector4(var_name: Name, index: int) -> Tuple[Vector4, bool]
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_vector2d"></a>
 
-#### read_vector2d
+#### read\_vector2d
 
 ```python
 def read_vector2d(var_name: Name, index: int) -> Tuple[Vector2D, bool]
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_vector"></a>
 
-#### read_vector
+#### read\_vector
 
 ```python
 def read_vector(var_name: Name, index: int) -> Tuple[Vector, bool]
@@ -75,7 +75,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_spawn_info"></a>
 
-#### read_spawn_info
+#### read\_spawn\_info
 
 ```python
 def read_spawn_info(var_name: Name,
@@ -96,7 +96,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_quat"></a>
 
-#### read_quat
+#### read\_quat
 
 ```python
 def read_quat(var_name: Name, index: int) -> Tuple[Quat, bool]
@@ -116,7 +116,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_position"></a>
 
-#### read_position
+#### read\_position
 
 ```python
 def read_position(var_name: Name, index: int) -> Tuple[Vector, bool]
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_linear_color"></a>
 
-#### read_linear_color
+#### read\_linear\_color
 
 ```python
 def read_linear_color(var_name: Name, index: int) -> Tuple[LinearColor, bool]
@@ -156,7 +156,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_int"></a>
 
-#### read_int
+#### read\_int
 
 ```python
 def read_int(var_name: Name, index: int) -> Tuple[int, bool]
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_id"></a>
 
-#### read_id
+#### read\_id
 
 ```python
 def read_id(var_name: Name, index: int) -> Tuple[NiagaraID, bool]
@@ -196,7 +196,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_float"></a>
 
-#### read_float
+#### read\_float
 
 ```python
 def read_float(var_name: Name, index: int) -> Tuple[float, bool]
@@ -216,7 +216,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_enum"></a>
 
-#### read_enum
+#### read\_enum
 
 ```python
 def read_enum(var_name: Name, index: int) -> Tuple[int, bool]
@@ -236,7 +236,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.read_bool"></a>
 
-#### read_bool
+#### read\_bool
 
 ```python
 def read_bool(var_name: Name, index: int) -> Optional[bool]
@@ -270,7 +270,7 @@ Returns:
 
 <a id="unreal.NiagaraDataChannelReader.init_access"></a>
 
-#### init_access
+#### init\_access
 
 ```python
 def init_access(search_params: NiagaraDataChannelSearchParameters,

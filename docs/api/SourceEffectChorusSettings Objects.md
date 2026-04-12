@@ -35,7 +35,7 @@ Source Effect Chorus Settings
 
 <a id="unreal.SourceEffectChorusSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -113,7 +113,7 @@ def feedback(value: float) -> None
 
 <a id="unreal.SourceEffectChorusSettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @property
@@ -125,7 +125,7 @@ deprecated: Property 'WetLevel' is deprecated.
 
 <a id="unreal.SourceEffectChorusSettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @wet_level.setter
@@ -134,7 +134,7 @@ def wet_level(value: float) -> None
 
 <a id="unreal.SourceEffectChorusSettings.dry_level"></a>
 
-#### dry_level
+#### dry\_level
 
 ```python
 @property
@@ -146,7 +146,7 @@ deprecated: Property 'DryLevel' is deprecated.
 
 <a id="unreal.SourceEffectChorusSettings.dry_level"></a>
 
-#### dry_level
+#### dry\_level
 
 ```python
 @dry_level.setter
@@ -176,7 +176,7 @@ def spread(value: float) -> None
 
 <a id="unreal.SourceEffectChorusSettings.depth_modulation"></a>
 
-#### depth_modulation
+#### depth\_modulation
 
 ```python
 @property
@@ -187,7 +187,7 @@ def depth_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SourceEffectChorusSettings.depth_modulation"></a>
 
-#### depth_modulation
+#### depth\_modulation
 
 ```python
 @depth_modulation.setter
@@ -196,7 +196,7 @@ def depth_modulation(value: SoundModulationDestinationSettings) -> None
 
 <a id="unreal.SourceEffectChorusSettings.frequency_modulation"></a>
 
-#### frequency_modulation
+#### frequency\_modulation
 
 ```python
 @property
@@ -207,7 +207,7 @@ def frequency_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SourceEffectChorusSettings.frequency_modulation"></a>
 
-#### frequency_modulation
+#### frequency\_modulation
 
 ```python
 @frequency_modulation.setter
@@ -216,7 +216,7 @@ def frequency_modulation(value: SoundModulationDestinationSettings) -> None
 
 <a id="unreal.SourceEffectChorusSettings.feedback_modulation"></a>
 
-#### feedback_modulation
+#### feedback\_modulation
 
 ```python
 @property
@@ -227,7 +227,7 @@ def feedback_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SourceEffectChorusSettings.feedback_modulation"></a>
 
-#### feedback_modulation
+#### feedback\_modulation
 
 ```python
 @feedback_modulation.setter
@@ -236,7 +236,7 @@ def feedback_modulation(value: SoundModulationDestinationSettings) -> None
 
 <a id="unreal.SourceEffectChorusSettings.wet_modulation"></a>
 
-#### wet_modulation
+#### wet\_modulation
 
 ```python
 @property
@@ -247,7 +247,7 @@ def wet_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SourceEffectChorusSettings.wet_modulation"></a>
 
-#### wet_modulation
+#### wet\_modulation
 
 ```python
 @wet_modulation.setter
@@ -256,7 +256,7 @@ def wet_modulation(value: SoundModulationDestinationSettings) -> None
 
 <a id="unreal.SourceEffectChorusSettings.dry_modulation"></a>
 
-#### dry_modulation
+#### dry\_modulation
 
 ```python
 @property
@@ -267,7 +267,7 @@ def dry_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SourceEffectChorusSettings.dry_modulation"></a>
 
-#### dry_modulation
+#### dry\_modulation
 
 ```python
 @dry_modulation.setter
@@ -276,7 +276,7 @@ def dry_modulation(value: SoundModulationDestinationSettings) -> None
 
 <a id="unreal.SourceEffectChorusSettings.spread_modulation"></a>
 
-#### spread_modulation
+#### spread\_modulation
 
 ```python
 @property
@@ -287,7 +287,7 @@ def spread_modulation() -> SoundModulationDestinationSettings
 
 <a id="unreal.SourceEffectChorusSettings.spread_modulation"></a>
 
-#### spread_modulation
+#### spread\_modulation
 
 ```python
 @spread_modulation.setter

@@ -35,7 +35,7 @@ see: USkeletalMesh
 
 <a id="unreal.PhysicsAsset.get_constraints"></a>
 
-#### get_constraints
+#### get\_constraints
 
 ```python
 def get_constraints(
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.PhysicsAsset.get_constraint_by_name"></a>
 
-#### get_constraint_by_name
+#### get\_constraint\_by\_name
 
 ```python
 def get_constraint_by_name(
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.PhysicsAsset.get_constraint_by_bone_names"></a>
 
-#### get_constraint_by_bone_names
+#### get\_constraint\_by\_bone\_names
 
 ```python
 def get_constraint_by_bone_names(

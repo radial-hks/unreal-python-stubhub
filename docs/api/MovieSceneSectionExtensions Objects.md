@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto UMovieSceneSecti
 
 <a id="unreal.MovieSceneSectionExtensions.set_start_frame_seconds"></a>
 
-#### set_start_frame_seconds
+#### set\_start\_frame\_seconds
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Args:
 
 <a id="unreal.MovieSceneSectionExtensions.set_start_frame_bounded"></a>
 
-#### set_start_frame_bounded
+#### set\_start\_frame\_bounded
 
 ```python
 @classmethod
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.MovieSceneSectionExtensions.set_start_frame"></a>
 
-#### set_start_frame
+#### set\_start\_frame
 
 ```python
 @classmethod
@@ -64,7 +64,7 @@ Args:
 
 <a id="unreal.MovieSceneSectionExtensions.set_range_seconds"></a>
 
-#### set_range_seconds
+#### set\_range\_seconds
 
 ```python
 @classmethod
@@ -82,7 +82,7 @@ Args:
 
 <a id="unreal.MovieSceneSectionExtensions.set_range"></a>
 
-#### set_range
+#### set\_range
 
 ```python
 @classmethod
@@ -100,7 +100,7 @@ Args:
 
 <a id="unreal.MovieSceneSectionExtensions.set_end_frame_seconds"></a>
 
-#### set_end_frame_seconds
+#### set\_end\_frame\_seconds
 
 ```python
 @classmethod
@@ -117,7 +117,7 @@ Args:
 
 <a id="unreal.MovieSceneSectionExtensions.set_end_frame_bounded"></a>
 
-#### set_end_frame_bounded
+#### set\_end\_frame\_bounded
 
 ```python
 @classmethod
@@ -134,7 +134,7 @@ Args:
 
 <a id="unreal.MovieSceneSectionExtensions.set_end_frame"></a>
 
-#### set_end_frame
+#### set\_end\_frame
 
 ```python
 @classmethod
@@ -150,7 +150,7 @@ Args:
 
 <a id="unreal.MovieSceneSectionExtensions.has_start_frame"></a>
 
-#### has_start_frame
+#### has\_start\_frame
 
 ```python
 @classmethod
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.has_end_frame"></a>
 
-#### has_end_frame
+#### has\_end\_frame
 
 ```python
 @classmethod
@@ -186,7 +186,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_start_frame_seconds"></a>
 
-#### get_start_frame_seconds
+#### get\_start\_frame\_seconds
 
 ```python
 @classmethod
@@ -204,7 +204,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_start_frame"></a>
 
-#### get_start_frame
+#### get\_start\_frame
 
 ```python
 @classmethod
@@ -222,7 +222,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_parent_sequence_frame"></a>
 
-#### get_parent_sequence_frame
+#### get\_parent\_sequence\_frame
 
 ```python
 @classmethod
@@ -243,7 +243,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_end_frame_seconds"></a>
 
-#### get_end_frame_seconds
+#### get\_end\_frame\_seconds
 
 ```python
 @classmethod
@@ -261,7 +261,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_end_frame"></a>
 
-#### get_end_frame
+#### get\_end\_frame
 
 ```python
 @classmethod
@@ -279,7 +279,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_channels_by_type"></a>
 
-#### get_channels_by_type
+#### get\_channels\_by\_type
 
 ```python
 @classmethod
@@ -301,7 +301,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_channel"></a>
 
-#### get_channel
+#### get\_channel
 
 ```python
 @classmethod
@@ -321,7 +321,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_auto_size_start_frame_seconds"></a>
 
-#### get_auto_size_start_frame_seconds
+#### get\_auto\_size\_start\_frame\_seconds
 
 ```python
 @classmethod
@@ -340,7 +340,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_auto_size_start_frame"></a>
 
-#### get_auto_size_start_frame
+#### get\_auto\_size\_start\_frame
 
 ```python
 @classmethod
@@ -358,7 +358,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_auto_size_has_start_frame"></a>
 
-#### get_auto_size_has_start_frame
+#### get\_auto\_size\_has\_start\_frame
 
 ```python
 @classmethod
@@ -376,7 +376,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_auto_size_has_end_frame"></a>
 
-#### get_auto_size_has_end_frame
+#### get\_auto\_size\_has\_end\_frame
 
 ```python
 @classmethod
@@ -394,7 +394,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_auto_size_end_frame_seconds"></a>
 
-#### get_auto_size_end_frame_seconds
+#### get\_auto\_size\_end\_frame\_seconds
 
 ```python
 @classmethod
@@ -412,7 +412,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_auto_size_end_frame"></a>
 
-#### get_auto_size_end_frame
+#### get\_auto\_size\_end\_frame
 
 ```python
 @classmethod
@@ -430,7 +430,7 @@ Returns:
 
 <a id="unreal.MovieSceneSectionExtensions.get_all_channels"></a>
 
-#### get_all_channels
+#### get\_all\_channels
 
 ```python
 @classmethod

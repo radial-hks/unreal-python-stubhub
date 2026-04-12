@@ -22,7 +22,7 @@ Material Expression Substrate Shading Models
 
 <a id="unreal.MaterialExpressionSubstrateShadingModels.subsurface_profile"></a>
 
-#### subsurface_profile
+#### subsurface\_profile
 
 ```python
 @property

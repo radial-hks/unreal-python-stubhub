@@ -15,7 +15,7 @@ see: UPaperTileMap, UPaperTileMapComponent
 
 <a id="unreal.TileMapLibrary.make_tile"></a>
 
-#### make_tile
+#### make\_tile
 
 ```python
 @classmethod
@@ -38,7 +38,7 @@ Returns:
 
 <a id="unreal.TileMapLibrary.get_tile_user_data"></a>
 
-#### get_tile_user_data
+#### get\_tile\_user\_data
 
 ```python
 @classmethod
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.TileMapLibrary.get_tile_transform"></a>
 
-#### get_tile_transform
+#### get\_tile\_transform
 
 ```python
 @classmethod
@@ -74,7 +74,7 @@ Returns:
 
 <a id="unreal.TileMapLibrary.break_tile"></a>
 
-#### break_tile
+#### break\_tile
 
 ```python
 @classmethod
@@ -102,4 +102,4 @@ Returns:
 
     flip_d (bool):
 
-<a id="unreal.EnvironmentQueryFactory"></a>
+<a id="unreal.BaseMaterialTranslation"></a>

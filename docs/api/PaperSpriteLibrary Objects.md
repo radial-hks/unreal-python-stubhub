@@ -14,7 +14,7 @@ Paper Sprite Blueprint Library
 
 <a id="unreal.PaperSpriteLibrary.make_brush_from_sprite"></a>
 
-#### make_brush_from_sprite
+#### make\_brush\_from\_sprite
 
 ```python
 @classmethod

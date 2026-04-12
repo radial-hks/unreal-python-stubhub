@@ -142,7 +142,7 @@ A sound actor that can be placed in a level
 
 <a id="unreal.AmbientSound.audio_component"></a>
 
-#### audio_component
+#### audio\_component
 
 ```python
 @property
@@ -180,7 +180,7 @@ Args:
 
 <a id="unreal.AmbientSound.fade_out"></a>
 
-#### fade_out
+#### fade\_out
 
 ```python
 def fade_out(fade_out_duration: float, fade_volume_level: float) -> None
@@ -196,7 +196,7 @@ Args:
 
 <a id="unreal.AmbientSound.fade_in"></a>
 
-#### fade_in
+#### fade\_in
 
 ```python
 def fade_in(fade_in_duration: float,
@@ -213,7 +213,7 @@ Args:
 
 <a id="unreal.AmbientSound.adjust_volume"></a>
 
-#### adjust_volume
+#### adjust\_volume
 
 ```python
 def adjust_volume(adjust_volume_duration: float,

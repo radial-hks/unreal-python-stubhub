@@ -40,7 +40,7 @@ def resolution(value: int) -> None
 
 <a id="unreal.GroomCreateFollicleMaskOptions.root_radius"></a>
 
-#### root_radius
+#### root\_radius
 
 ```python
 @property
@@ -51,7 +51,7 @@ def root_radius() -> int
 
 <a id="unreal.GroomCreateFollicleMaskOptions.root_radius"></a>
 
-#### root_radius
+#### root\_radius
 
 ```python
 @root_radius.setter

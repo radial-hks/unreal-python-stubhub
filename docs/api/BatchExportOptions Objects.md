@@ -22,7 +22,7 @@ settings object used in details view of the batch retarget window
 
 <a id="unreal.BatchExportOptions.include_referenced_assets"></a>
 
-#### include_referenced_assets
+#### include\_referenced\_assets
 
 ```python
 @property
@@ -33,7 +33,7 @@ def include_referenced_assets() -> bool
 
 <a id="unreal.BatchExportOptions.include_referenced_assets"></a>
 
-#### include_referenced_assets
+#### include\_referenced\_assets
 
 ```python
 @include_referenced_assets.setter
@@ -42,7 +42,7 @@ def include_referenced_assets(value: bool) -> None
 
 <a id="unreal.BatchExportOptions.retain_additive_flags"></a>
 
-#### retain_additive_flags
+#### retain\_additive\_flags
 
 ```python
 @property
@@ -54,7 +54,7 @@ Setting this flag to true will ensure that the resulting animation sequences wil
 
 <a id="unreal.BatchExportOptions.retain_additive_flags"></a>
 
-#### retain_additive_flags
+#### retain\_additive\_flags
 
 ```python
 @retain_additive_flags.setter

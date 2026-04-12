@@ -15,10 +15,10 @@ Eventually, the SourceUri should be directly added to FAssetImportInfo and repla
 
 <a id="unreal.DatasmithImportInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.GroomCacheInfo"></a>
+<a id="unreal.NiagaraPlatformSetRedirect"></a>

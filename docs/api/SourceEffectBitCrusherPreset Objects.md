@@ -29,7 +29,7 @@ def settings() -> SourceEffectBitCrusherSettings
 
 <a id="unreal.SourceEffectBitCrusherPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectBitCrusherBaseSettings) -> None
@@ -43,7 +43,7 @@ Args:
 
 <a id="unreal.SourceEffectBitCrusherPreset.set_sample_rate_modulators"></a>
 
-#### set_sample_rate_modulators
+#### set\_sample\_rate\_modulators
 
 ```python
 def set_sample_rate_modulators(modulators: Set[SoundModulatorBase]) -> None
@@ -57,7 +57,7 @@ Args:
 
 <a id="unreal.SourceEffectBitCrusherPreset.set_sample_rate_modulator"></a>
 
-#### set_sample_rate_modulator
+#### set\_sample\_rate\_modulator
 
 ```python
 def set_sample_rate_modulator(modulator: SoundModulatorBase) -> None
@@ -71,7 +71,7 @@ Args:
 
 <a id="unreal.SourceEffectBitCrusherPreset.set_sample_rate"></a>
 
-#### set_sample_rate
+#### set\_sample\_rate
 
 ```python
 def set_sample_rate(sample_rate: float) -> None
@@ -85,7 +85,7 @@ Args:
 
 <a id="unreal.SourceEffectBitCrusherPreset.set_modulation_settings"></a>
 
-#### set_modulation_settings
+#### set\_modulation\_settings
 
 ```python
 def set_modulation_settings(
@@ -100,7 +100,7 @@ Args:
 
 <a id="unreal.SourceEffectBitCrusherPreset.set_bits"></a>
 
-#### set_bits
+#### set\_bits
 
 ```python
 def set_bits(bits: float) -> None
@@ -114,7 +114,7 @@ Args:
 
 <a id="unreal.SourceEffectBitCrusherPreset.set_bit_modulators"></a>
 
-#### set_bit_modulators
+#### set\_bit\_modulators
 
 ```python
 def set_bit_modulators(modulators: Set[SoundModulatorBase]) -> None
@@ -128,7 +128,7 @@ Args:
 
 <a id="unreal.SourceEffectBitCrusherPreset.set_bit_modulator"></a>
 
-#### set_bit_modulator
+#### set\_bit\_modulator
 
 ```python
 def set_bit_modulator(modulator: SoundModulatorBase) -> None

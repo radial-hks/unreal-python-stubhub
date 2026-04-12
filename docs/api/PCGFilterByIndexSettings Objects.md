@@ -36,7 +36,7 @@ Filters a data collection based on a user defined index range expression.
 
 <a id="unreal.PCGFilterByIndexSettings.invert_filter"></a>
 
-#### invert_filter
+#### invert\_filter
 
 ```python
 @property
@@ -47,7 +47,7 @@ def invert_filter() -> bool
 
 <a id="unreal.PCGFilterByIndexSettings.invert_filter"></a>
 
-#### invert_filter
+#### invert\_filter
 
 ```python
 @invert_filter.setter
@@ -56,7 +56,7 @@ def invert_filter(value: bool) -> None
 
 <a id="unreal.PCGFilterByIndexSettings.selected_indices"></a>
 
-#### selected_indices
+#### selected\_indices
 
 ```python
 @property
@@ -68,7 +68,7 @@ For example, on an array of size 10: '0,2,4:5,7:-1' will include indices: 0,2,4,
 
 <a id="unreal.PCGFilterByIndexSettings.selected_indices"></a>
 
-#### selected_indices
+#### selected\_indices
 
 ```python
 @selected_indices.setter

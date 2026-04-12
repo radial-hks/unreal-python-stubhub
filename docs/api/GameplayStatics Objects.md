@@ -13,7 +13,7 @@ Static class with useful gameplay utility functions that can be called from both
 
 <a id="unreal.GameplayStatics.un_retain_all_sounds_in_sound_class"></a>
 
-#### un_retain_all_sounds_in_sound_class
+#### un\_retain\_all\_sounds\_in\_sound\_class
 
 ```python
 @classmethod
@@ -28,7 +28,7 @@ Args:
 
 <a id="unreal.GameplayStatics.unload_stream_level_by_soft_object_ptr"></a>
 
-#### unload_stream_level_by_soft_object_ptr
+#### unload\_stream\_level\_by\_soft\_object\_ptr
 
 ```python
 @classmethod
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.GameplayStatics.unload_stream_level"></a>
 
-#### unload_stream_level
+#### unload\_stream\_level
 
 ```python
 @classmethod
@@ -68,7 +68,7 @@ Args:
 
 <a id="unreal.GameplayStatics.transform_world_to_first_person"></a>
 
-#### transform_world_to_first_person
+#### transform\_world\_to\_first\_person
 
 ```python
 @classmethod
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.suggest_projectile_velocity_moving_target"></a>
 
-#### suggest_projectile_velocity_moving_target
+#### suggest\_projectile\_velocity\_moving\_target
 
 ```python
 @classmethod
@@ -132,7 +132,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.suggest_projectile_velocity_custom_arc"></a>
 
-#### suggest_projectile_velocity_custom_arc
+#### suggest\_projectile\_velocity\_custom\_arc
 
 ```python
 @classmethod
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_sound_attached"></a>
 
-#### spawn_sound_attached
+#### spawn\_sound\_attached
 
 ```python
 @classmethod
@@ -209,7 +209,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.play_sound_attached"></a>
 
-#### play_sound_attached
+#### play\_sound\_attached
 
 ```python
 @classmethod
@@ -234,7 +234,7 @@ deprecated: 'play_sound_attached' was renamed to 'spawn_sound_attached'.
 
 <a id="unreal.GameplayStatics.spawn_sound_at_location"></a>
 
-#### spawn_sound_at_location
+#### spawn\_sound\_at\_location
 
 ```python
 @classmethod
@@ -271,7 +271,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_sound2d"></a>
 
-#### spawn_sound2d
+#### spawn\_sound2d
 
 ```python
 @classmethod
@@ -308,7 +308,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_force_feedback_attached"></a>
 
-#### spawn_force_feedback_attached
+#### spawn\_force\_feedback\_attached
 
 ```python
 @classmethod
@@ -350,7 +350,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_force_feedback_at_location"></a>
 
-#### spawn_force_feedback_at_location
+#### spawn\_force\_feedback\_at\_location
 
 ```python
 @classmethod
@@ -386,7 +386,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_emitter_attached"></a>
 
-#### spawn_emitter_attached
+#### spawn\_emitter\_attached
 
 ```python
 @classmethod
@@ -424,7 +424,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_emitter_at_location"></a>
 
-#### spawn_emitter_at_location
+#### spawn\_emitter\_at\_location
 
 ```python
 @classmethod
@@ -458,7 +458,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_dialogue_attached"></a>
 
-#### spawn_dialogue_attached
+#### spawn\_dialogue\_attached
 
 ```python
 @classmethod
@@ -505,7 +505,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.play_dialogue_attached"></a>
 
-#### play_dialogue_attached
+#### play\_dialogue\_attached
 
 ```python
 @classmethod
@@ -530,7 +530,7 @@ deprecated: 'play_dialogue_attached' was renamed to 'spawn_dialogue_attached'.
 
 <a id="unreal.GameplayStatics.spawn_dialogue_at_location"></a>
 
-#### spawn_dialogue_at_location
+#### spawn\_dialogue\_at\_location
 
 ```python
 @classmethod
@@ -571,7 +571,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_dialogue2d"></a>
 
-#### spawn_dialogue2d
+#### spawn\_dialogue2d
 
 ```python
 @classmethod
@@ -606,7 +606,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_decal_attached"></a>
 
-#### spawn_decal_attached
+#### spawn\_decal\_attached
 
 ```python
 @classmethod
@@ -640,7 +640,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.spawn_decal_at_location"></a>
 
-#### spawn_decal_at_location
+#### spawn\_decal\_at\_location
 
 ```python
 @classmethod
@@ -671,7 +671,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.set_world_origin_location"></a>
 
-#### set_world_origin_location
+#### set\_world\_origin\_location
 
 ```python
 @classmethod
@@ -688,7 +688,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_viewport_mouse_capture_mode"></a>
 
-#### set_viewport_mouse_capture_mode
+#### set\_viewport\_mouse\_capture\_mode
 
 ```python
 @classmethod
@@ -706,7 +706,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_subtitles_enabled"></a>
 
-#### set_subtitles_enabled
+#### set\_subtitles\_enabled
 
 ```python
 @classmethod
@@ -721,7 +721,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_sound_mix_class_override"></a>
 
-#### set_sound_mix_class_override
+#### set\_sound\_mix\_class\_override
 
 ```python
 @classmethod
@@ -750,7 +750,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_sound_class_distance_scale"></a>
 
-#### set_sound_class_distance_scale
+#### set\_sound\_class\_distance\_scale
 
 ```python
 @classmethod
@@ -776,7 +776,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_player_platform_user_id"></a>
 
-#### set_player_platform_user_id
+#### set\_player\_platform\_user\_id
 
 ```python
 @classmethod
@@ -793,7 +793,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_player_controller_id"></a>
 
-#### set_player_controller_id
+#### set\_player\_controller\_id
 
 ```python
 @classmethod
@@ -810,7 +810,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_max_audio_channels_scaled"></a>
 
-#### set_max_audio_channels_scaled
+#### set\_max\_audio\_channels\_scaled
 
 ```python
 @classmethod
@@ -828,7 +828,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_global_time_dilation"></a>
 
-#### set_global_time_dilation
+#### set\_global\_time\_dilation
 
 ```python
 @classmethod
@@ -845,7 +845,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_time_dilation"></a>
 
-#### set_time_dilation
+#### set\_time\_dilation
 
 ```python
 @classmethod
@@ -857,7 +857,7 @@ deprecated: 'set_time_dilation' was renamed to 'set_global_time_dilation'.
 
 <a id="unreal.GameplayStatics.set_global_pitch_modulation"></a>
 
-#### set_global_pitch_modulation
+#### set\_global\_pitch\_modulation
 
 ```python
 @classmethod
@@ -879,7 +879,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_global_listener_focus_parameters"></a>
 
-#### set_global_listener_focus_parameters
+#### set\_global\_listener\_focus\_parameters
 
 ```python
 @classmethod
@@ -916,7 +916,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_game_paused"></a>
 
-#### set_game_paused
+#### set\_game\_paused
 
 ```python
 @classmethod
@@ -935,7 +935,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.set_force_disable_splitscreen"></a>
 
-#### set_force_disable_splitscreen
+#### set\_force\_disable\_splitscreen
 
 ```python
 @classmethod
@@ -952,7 +952,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_enable_world_rendering"></a>
 
-#### set_enable_world_rendering
+#### set\_enable\_world\_rendering
 
 ```python
 @classmethod
@@ -969,7 +969,7 @@ Args:
 
 <a id="unreal.GameplayStatics.set_base_sound_mix"></a>
 
-#### set_base_sound_mix
+#### set\_base\_sound\_mix
 
 ```python
 @classmethod
@@ -986,7 +986,7 @@ Args:
 
 <a id="unreal.GameplayStatics.k2_set_sound_mode"></a>
 
-#### k2_set_sound_mode
+#### k2\_set\_sound\_mode
 
 ```python
 @classmethod
@@ -998,7 +998,7 @@ deprecated: 'k2_set_sound_mode' was renamed to 'set_base_sound_mix'.
 
 <a id="unreal.GameplayStatics.set_active_spatial_plugin_by_name"></a>
 
-#### set_active_spatial_plugin_by_name
+#### set\_active\_spatial\_plugin\_by\_name
 
 ```python
 @classmethod
@@ -1018,7 +1018,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.save_game_to_slot"></a>
 
-#### save_game_to_slot
+#### save\_game\_to\_slot
 
 ```python
 @classmethod
@@ -1040,7 +1040,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.remove_player"></a>
 
-#### remove_player
+#### remove\_player
 
 ```python
 @classmethod
@@ -1056,7 +1056,7 @@ Args:
 
 <a id="unreal.GameplayStatics.rebase_zero_origin_onto_local"></a>
 
-#### rebase_zero_origin_onto_local
+#### rebase\_zero\_origin\_onto\_local
 
 ```python
 @classmethod
@@ -1076,7 +1076,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.rebase_local_origin_onto_zero"></a>
 
-#### rebase_local_origin_onto_zero
+#### rebase\_local\_origin\_onto\_zero
 
 ```python
 @classmethod
@@ -1096,7 +1096,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.push_sound_mix_modifier"></a>
 
-#### push_sound_mix_modifier
+#### push\_sound\_mix\_modifier
 
 ```python
 @classmethod
@@ -1113,7 +1113,7 @@ Args:
 
 <a id="unreal.GameplayStatics.push_sound_mode"></a>
 
-#### push_sound_mode
+#### push\_sound\_mode
 
 ```python
 @classmethod
@@ -1125,7 +1125,7 @@ deprecated: 'push_sound_mode' was renamed to 'push_sound_mix_modifier'.
 
 <a id="unreal.GameplayStatics.project_world_to_screen"></a>
 
-#### project_world_to_screen
+#### project\_world\_to\_screen
 
 ```python
 @classmethod
@@ -1151,7 +1151,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.prime_sound"></a>
 
-#### prime_sound
+#### prime\_sound
 
 ```python
 @classmethod
@@ -1166,7 +1166,7 @@ Args:
 
 <a id="unreal.GameplayStatics.prime_all_sounds_in_sound_class"></a>
 
-#### prime_all_sounds_in_sound_class
+#### prime\_all\_sounds\_in\_sound\_class
 
 ```python
 @classmethod
@@ -1181,7 +1181,7 @@ Args:
 
 <a id="unreal.GameplayStatics.pop_sound_mix_modifier"></a>
 
-#### pop_sound_mix_modifier
+#### pop\_sound\_mix\_modifier
 
 ```python
 @classmethod
@@ -1198,7 +1198,7 @@ Args:
 
 <a id="unreal.GameplayStatics.pop_sound_mode"></a>
 
-#### pop_sound_mode
+#### pop\_sound\_mode
 
 ```python
 @classmethod
@@ -1210,7 +1210,7 @@ deprecated: 'pop_sound_mode' was renamed to 'pop_sound_mix_modifier'.
 
 <a id="unreal.GameplayStatics.play_world_camera_shake"></a>
 
-#### play_world_camera_shake
+#### play\_world\_camera\_shake
 
 ```python
 @classmethod
@@ -1239,7 +1239,7 @@ Args:
 
 <a id="unreal.GameplayStatics.play_sound_at_location"></a>
 
-#### play_sound_at_location
+#### play\_sound\_at\_location
 
 ```python
 @classmethod
@@ -1277,7 +1277,7 @@ Args:
 
 <a id="unreal.GameplayStatics.play_sound2d"></a>
 
-#### play_sound2d
+#### play\_sound2d
 
 ```python
 @classmethod
@@ -1310,7 +1310,7 @@ Args:
 
 <a id="unreal.GameplayStatics.play_dialogue_at_location"></a>
 
-#### play_dialogue_at_location
+#### play\_dialogue\_at\_location
 
 ```python
 @classmethod
@@ -1344,7 +1344,7 @@ Args:
 
 <a id="unreal.GameplayStatics.play_dialogue2d"></a>
 
-#### play_dialogue2d
+#### play\_dialogue2d
 
 ```python
 @classmethod
@@ -1373,7 +1373,7 @@ Args:
 
 <a id="unreal.GameplayStatics.parse_option"></a>
 
-#### parse_option
+#### parse\_option
 
 ```python
 @classmethod
@@ -1392,7 +1392,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.open_level_by_soft_object_ptr"></a>
 
-#### open_level_by_soft_object_ptr
+#### open\_level\_by\_soft\_object\_ptr
 
 ```python
 @classmethod
@@ -1414,7 +1414,7 @@ Args:
 
 <a id="unreal.GameplayStatics.open_level"></a>
 
-#### open_level
+#### open\_level
 
 ```python
 @classmethod
@@ -1436,7 +1436,7 @@ Args:
 
 <a id="unreal.GameplayStatics.object_is_a"></a>
 
-#### object_is_a
+#### object\_is\_a
 
 ```python
 @classmethod
@@ -1455,7 +1455,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.load_stream_level_by_soft_object_ptr"></a>
 
-#### load_stream_level_by_soft_object_ptr
+#### load\_stream\_level\_by\_soft\_object\_ptr
 
 ```python
 @classmethod
@@ -1477,7 +1477,7 @@ Args:
 
 <a id="unreal.GameplayStatics.load_stream_level"></a>
 
-#### load_stream_level
+#### load\_stream\_level
 
 ```python
 @classmethod
@@ -1499,7 +1499,7 @@ Args:
 
 <a id="unreal.GameplayStatics.load_game_from_slot"></a>
 
-#### load_game_from_slot
+#### load\_game\_from\_slot
 
 ```python
 @classmethod
@@ -1518,7 +1518,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.is_splitscreen_force_disabled"></a>
 
-#### is_splitscreen_force_disabled
+#### is\_splitscreen\_force\_disabled
 
 ```python
 @classmethod
@@ -1536,7 +1536,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.is_game_paused"></a>
 
-#### is_game_paused
+#### is\_game\_paused
 
 ```python
 @classmethod
@@ -1554,7 +1554,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.is_any_local_player_camera_within_range"></a>
 
-#### is_any_local_player_camera_within_range
+#### is\_any\_local\_player\_camera\_within\_range
 
 ```python
 @classmethod
@@ -1577,7 +1577,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.has_option"></a>
 
-#### has_option
+#### has\_option
 
 ```python
 @classmethod
@@ -1596,7 +1596,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.has_launch_option"></a>
 
-#### has_launch_option
+#### has\_launch\_option
 
 ```python
 @classmethod
@@ -1614,7 +1614,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.grass_overlapping_sphere_count"></a>
 
-#### grass_overlapping_sphere_count
+#### grass\_overlapping\_sphere\_count
 
 ```python
 @classmethod
@@ -1638,7 +1638,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_world_origin_location"></a>
 
-#### get_world_origin_location
+#### get\_world\_origin\_location
 
 ```python
 @classmethod
@@ -1656,7 +1656,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_world_delta_seconds"></a>
 
-#### get_world_delta_seconds
+#### get\_world\_delta\_seconds
 
 ```python
 @classmethod
@@ -1674,7 +1674,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_view_projection_matrix"></a>
 
-#### get_view_projection_matrix
+#### get\_view\_projection\_matrix
 
 ```python
 @classmethod
@@ -1699,7 +1699,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_viewport_mouse_capture_mode"></a>
 
-#### get_viewport_mouse_capture_mode
+#### get\_viewport\_mouse\_capture\_mode
 
 ```python
 @classmethod
@@ -1718,7 +1718,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_unpaused_time_seconds"></a>
 
-#### get_unpaused_time_seconds
+#### get\_unpaused\_time\_seconds
 
 ```python
 @classmethod
@@ -1736,7 +1736,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_time_seconds"></a>
 
-#### get_time_seconds
+#### get\_time\_seconds
 
 ```python
 @classmethod
@@ -1754,7 +1754,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_surface_type"></a>
 
-#### get_surface_type
+#### get\_surface\_type
 
 ```python
 @classmethod
@@ -1773,7 +1773,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_streaming_level"></a>
 
-#### get_streaming_level
+#### get\_streaming\_level
 
 ```python
 @classmethod
@@ -1793,7 +1793,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_real_time_seconds"></a>
 
-#### get_real_time_seconds
+#### get\_real\_time\_seconds
 
 ```python
 @classmethod
@@ -1811,7 +1811,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_state_from_unique_net_id"></a>
 
-#### get_player_state_from_unique_net_id
+#### get\_player\_state\_from\_unique\_net\_id
 
 ```python
 @classmethod
@@ -1833,7 +1833,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_state"></a>
 
-#### get_player_state
+#### get\_player\_state
 
 ```python
 @classmethod
@@ -1855,7 +1855,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_pawn"></a>
 
-#### get_player_pawn
+#### get\_player\_pawn
 
 ```python
 @classmethod
@@ -1876,7 +1876,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_controller_id"></a>
 
-#### get_player_controller_id
+#### get\_player\_controller\_id
 
 ```python
 @classmethod
@@ -1894,7 +1894,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_controller_from_platform_user"></a>
 
-#### get_player_controller_from_platform_user
+#### get\_player\_controller\_from\_platform\_user
 
 ```python
 @classmethod
@@ -1915,7 +1915,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_controller_from_id"></a>
 
-#### get_player_controller_from_id
+#### get\_player\_controller\_from\_id
 
 ```python
 @classmethod
@@ -1935,7 +1935,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_controller"></a>
 
-#### get_player_controller
+#### get\_player\_controller
 
 ```python
 @classmethod
@@ -1957,7 +1957,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_character"></a>
 
-#### get_player_character
+#### get\_player\_character
 
 ```python
 @classmethod
@@ -1978,7 +1978,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_camera_manager"></a>
 
-#### get_player_camera_manager
+#### get\_player\_camera\_manager
 
 ```python
 @classmethod
@@ -1999,7 +1999,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_player_camera"></a>
 
-#### get_player_camera
+#### get\_player\_camera
 
 ```python
 @classmethod
@@ -2011,7 +2011,7 @@ deprecated: 'get_player_camera' was renamed to 'get_player_camera_manager'.
 
 <a id="unreal.GameplayStatics.get_platform_name"></a>
 
-#### get_platform_name
+#### get\_platform\_name
 
 ```python
 @classmethod
@@ -2027,7 +2027,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_object_class"></a>
 
-#### get_object_class
+#### get\_object\_class
 
 ```python
 @classmethod
@@ -2045,7 +2045,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_num_player_states"></a>
 
-#### get_num_player_states
+#### get\_num\_player\_states
 
 ```python
 @classmethod
@@ -2064,7 +2064,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_num_player_controllers"></a>
 
-#### get_num_player_controllers
+#### get\_num\_player\_controllers
 
 ```python
 @classmethod
@@ -2083,7 +2083,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_num_local_player_controllers"></a>
 
-#### get_num_local_player_controllers
+#### get\_num\_local\_player\_controllers
 
 ```python
 @classmethod
@@ -2102,7 +2102,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_max_audio_channel_count"></a>
 
-#### get_max_audio_channel_count
+#### get\_max\_audio\_channel\_count
 
 ```python
 @classmethod
@@ -2120,7 +2120,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_key_value"></a>
 
-#### get_key_value
+#### get\_key\_value
 
 ```python
 @classmethod
@@ -2142,7 +2142,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_int_option"></a>
 
-#### get_int_option
+#### get\_int\_option
 
 ```python
 @classmethod
@@ -2162,7 +2162,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_global_time_dilation"></a>
 
-#### get_global_time_dilation
+#### get\_global\_time\_dilation
 
 ```python
 @classmethod
@@ -2180,7 +2180,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_game_state"></a>
 
-#### get_game_state
+#### get\_game\_state
 
 ```python
 @classmethod
@@ -2198,7 +2198,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_game_replication_info"></a>
 
-#### get_game_replication_info
+#### get\_game\_replication\_info
 
 ```python
 @classmethod
@@ -2210,7 +2210,7 @@ deprecated: 'get_game_replication_info' was renamed to 'get_game_state'.
 
 <a id="unreal.GameplayStatics.get_game_mode"></a>
 
-#### get_game_mode
+#### get\_game\_mode
 
 ```python
 @classmethod
@@ -2228,7 +2228,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_game_info"></a>
 
-#### get_game_info
+#### get\_game\_info
 
 ```python
 @classmethod
@@ -2239,7 +2239,7 @@ deprecated: 'get_game_info' was renamed to 'get_game_mode'.
 
 <a id="unreal.GameplayStatics.get_game_instance"></a>
 
-#### get_game_instance
+#### get\_game\_instance
 
 ```python
 @classmethod
@@ -2257,7 +2257,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_enable_world_rendering"></a>
 
-#### get_enable_world_rendering
+#### get\_enable\_world\_rendering
 
 ```python
 @classmethod
@@ -2275,7 +2275,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_current_reverb_effect"></a>
 
-#### get_current_reverb_effect
+#### get\_current\_reverb\_effect
 
 ```python
 @classmethod
@@ -2294,7 +2294,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_current_level_name"></a>
 
-#### get_current_level_name
+#### get\_current\_level\_name
 
 ```python
 @classmethod
@@ -2315,7 +2315,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_closest_listener_location"></a>
 
-#### get_closest_listener_location
+#### get\_closest\_listener\_location
 
 ```python
 @classmethod
@@ -2342,7 +2342,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_available_spatial_plugin_names"></a>
 
-#### get_available_spatial_plugin_names
+#### get\_available\_spatial\_plugin\_names
 
 ```python
 @classmethod
@@ -2361,7 +2361,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_audio_time_seconds"></a>
 
-#### get_audio_time_seconds
+#### get\_audio\_time\_seconds
 
 ```python
 @classmethod
@@ -2379,7 +2379,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_all_actors_with_tag"></a>
 
-#### get_all_actors_with_tag
+#### get\_all\_actors\_with\_tag
 
 ```python
 @classmethod
@@ -2402,7 +2402,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_all_actors_with_interface"></a>
 
-#### get_all_actors_with_interface
+#### get\_all\_actors\_with\_interface
 
 ```python
 @classmethod
@@ -2425,7 +2425,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_all_actors_of_class_with_tag"></a>
 
-#### get_all_actors_of_class_with_tag
+#### get\_all\_actors\_of\_class\_with\_tag
 
 ```python
 @classmethod
@@ -2450,7 +2450,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_all_actors_of_class"></a>
 
-#### get_all_actors_of_class
+#### get\_all\_actors\_of\_class
 
 ```python
 @classmethod
@@ -2473,7 +2473,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_actor_of_class"></a>
 
-#### get_actor_of_class
+#### get\_actor\_of\_class
 
 ```python
 @classmethod
@@ -2493,7 +2493,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_actor_array_bounds"></a>
 
-#### get_actor_array_bounds
+#### get\_actor\_array\_bounds
 
 ```python
 @classmethod
@@ -2518,7 +2518,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_actor_array_average_location"></a>
 
-#### get_actor_array_average_location
+#### get\_actor\_array\_average\_location
 
 ```python
 @classmethod
@@ -2536,7 +2536,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_active_spatial_plugin_name"></a>
 
-#### get_active_spatial_plugin_name
+#### get\_active\_spatial\_plugin\_name
 
 ```python
 @classmethod
@@ -2554,7 +2554,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.get_accurate_real_time"></a>
 
-#### get_accurate_real_time
+#### get\_accurate\_real\_time
 
 ```python
 @classmethod
@@ -2573,7 +2573,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.flush_level_streaming"></a>
 
-#### flush_level_streaming
+#### flush\_level\_streaming
 
 ```python
 @classmethod
@@ -2588,7 +2588,7 @@ Args:
 
 <a id="unreal.GameplayStatics.find_nearest_actor"></a>
 
-#### find_nearest_actor
+#### find\_nearest\_actor
 
 ```python
 @classmethod
@@ -2610,7 +2610,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.find_collision_uv"></a>
 
-#### find_collision_uv
+#### find\_collision\_uv
 
 ```python
 @classmethod
@@ -2632,7 +2632,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.enable_live_streaming"></a>
 
-#### enable_live_streaming
+#### enable\_live\_streaming
 
 ```python
 @classmethod
@@ -2647,7 +2647,7 @@ Args:
 
 <a id="unreal.GameplayStatics.does_save_game_exist"></a>
 
-#### does_save_game_exist
+#### does\_save\_game\_exist
 
 ```python
 @classmethod
@@ -2666,7 +2666,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.deproject_screen_to_world"></a>
 
-#### deproject_screen_to_world
+#### deproject\_screen\_to\_world
 
 ```python
 @classmethod
@@ -2691,7 +2691,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.deproject_scene_capture_to_world"></a>
 
-#### deproject_scene_capture_to_world
+#### deproject\_scene\_capture\_to\_world
 
 ```python
 @classmethod
@@ -2716,7 +2716,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.deproject_scene_capture_component_to_world"></a>
 
-#### deproject_scene_capture_component_to_world
+#### deproject\_scene\_capture\_component\_to\_world
 
 ```python
 @classmethod
@@ -2741,7 +2741,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.delete_game_in_slot"></a>
 
-#### delete_game_in_slot
+#### delete\_game\_in\_slot
 
 ```python
 @classmethod
@@ -2760,7 +2760,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.deactivate_reverb_effect"></a>
 
-#### deactivate_reverb_effect
+#### deactivate\_reverb\_effect
 
 ```python
 @classmethod
@@ -2777,7 +2777,7 @@ Args:
 
 <a id="unreal.GameplayStatics.create_sound2d"></a>
 
-#### create_sound2d
+#### create\_sound2d
 
 ```python
 @classmethod
@@ -2811,7 +2811,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.create_save_game_object"></a>
 
-#### create_save_game_object
+#### create\_save\_game\_object
 
 ```python
 @classmethod
@@ -2829,7 +2829,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.create_player_from_platform_user"></a>
 
-#### create_player_from_platform_user
+#### create\_player\_from\_platform\_user
 
 ```python
 @classmethod
@@ -2853,7 +2853,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.create_player"></a>
 
-#### create_player
+#### create\_player
 
 ```python
 @classmethod
@@ -2876,7 +2876,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.clear_sound_mix_modifiers"></a>
 
-#### clear_sound_mix_modifiers
+#### clear\_sound\_mix\_modifiers
 
 ```python
 @classmethod
@@ -2891,7 +2891,7 @@ Args:
 
 <a id="unreal.GameplayStatics.clear_sound_mode"></a>
 
-#### clear_sound_mode
+#### clear\_sound\_mode
 
 ```python
 @classmethod
@@ -2902,7 +2902,7 @@ deprecated: 'clear_sound_mode' was renamed to 'clear_sound_mix_modifiers'.
 
 <a id="unreal.GameplayStatics.clear_sound_mix_class_override"></a>
 
-#### clear_sound_mix_class_override
+#### clear\_sound\_mix\_class\_override
 
 ```python
 @classmethod
@@ -2924,7 +2924,7 @@ Args:
 
 <a id="unreal.GameplayStatics.cancel_async_loading"></a>
 
-#### cancel_async_loading
+#### cancel\_async\_loading
 
 ```python
 @classmethod
@@ -2936,7 +2936,7 @@ Cancels all currently queued streaming packages
 
 <a id="unreal.GameplayStatics.blueprint_suggest_projectile_velocity"></a>
 
-#### blueprint_suggest_projectile_velocity
+#### blueprint\_suggest\_projectile\_velocity
 
 ```python
 @classmethod
@@ -2976,7 +2976,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.blueprint_predict_projectile_path_by_trace_channel"></a>
 
-#### blueprint_predict_projectile_path_by_trace_channel
+#### blueprint\_predict\_projectile\_path\_by\_trace\_channel
 
 ```python
 @classmethod
@@ -3028,7 +3028,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.blueprint_predict_projectile_path_by_object_type"></a>
 
-#### blueprint_predict_projectile_path_by_object_type
+#### blueprint\_predict\_projectile\_path\_by\_object\_type
 
 ```python
 @classmethod
@@ -3080,7 +3080,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.predict_projectile_path"></a>
 
-#### predict_projectile_path
+#### predict\_projectile\_path
 
 ```python
 @classmethod
@@ -3106,7 +3106,7 @@ deprecated: 'predict_projectile_path' was renamed to 'blueprint_predict_projecti
 
 <a id="unreal.GameplayStatics.blueprint_predict_projectile_path_advanced"></a>
 
-#### blueprint_predict_projectile_path_advanced
+#### blueprint\_predict\_projectile\_path\_advanced
 
 ```python
 @classmethod
@@ -3131,7 +3131,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.are_subtitles_enabled"></a>
 
-#### are_subtitles_enabled
+#### are\_subtitles\_enabled
 
 ```python
 @classmethod
@@ -3146,7 +3146,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.are_any_listeners_within_range"></a>
 
-#### are_any_listeners_within_range
+#### are\_any\_listeners\_within\_range
 
 ```python
 @classmethod
@@ -3169,7 +3169,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.apply_radial_damage_with_falloff"></a>
 
-#### apply_radial_damage_with_falloff
+#### apply\_radial\_damage\_with\_falloff
 
 ```python
 @classmethod
@@ -3213,7 +3213,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.apply_radial_damage"></a>
 
-#### apply_radial_damage
+#### apply\_radial\_damage
 
 ```python
 @classmethod
@@ -3253,7 +3253,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.apply_point_damage"></a>
 
-#### apply_point_damage
+#### apply\_point\_damage
 
 ```python
 @classmethod
@@ -3280,7 +3280,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.apply_damage"></a>
 
-#### apply_damage
+#### apply\_damage
 
 ```python
 @classmethod
@@ -3304,7 +3304,7 @@ Returns:
 
 <a id="unreal.GameplayStatics.announce_accessible_string"></a>
 
-#### announce_accessible_string
+#### announce\_accessible\_string
 
 ```python
 @classmethod
@@ -3323,7 +3323,7 @@ Args:
 
 <a id="unreal.GameplayStatics.activate_reverb_effect"></a>
 
-#### activate_reverb_effect
+#### activate\_reverb\_effect
 
 ```python
 @classmethod

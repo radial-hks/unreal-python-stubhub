@@ -14,7 +14,7 @@ Function library containing methods that should be hoisted onto UMovieSceneTrack
 
 <a id="unreal.MovieSceneTrackExtensions.set_track_row_display_name"></a>
 
-#### set_track_row_display_name
+#### set\_track\_row\_display\_name
 
 ```python
 @classmethod
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.MovieSceneTrackExtensions.set_sorting_order"></a>
 
-#### set_sorting_order
+#### set\_sorting\_order
 
 ```python
 @classmethod
@@ -48,7 +48,7 @@ Args:
 
 <a id="unreal.MovieSceneTrackExtensions.set_section_to_key"></a>
 
-#### set_section_to_key
+#### set\_section\_to\_key
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Args:
 
 <a id="unreal.MovieSceneTrackExtensions.set_display_name"></a>
 
-#### set_display_name
+#### set\_display\_name
 
 ```python
 @classmethod
@@ -83,7 +83,7 @@ Args:
 
 <a id="unreal.MovieSceneTrackExtensions.set_color_tint"></a>
 
-#### set_color_tint
+#### set\_color\_tint
 
 ```python
 @classmethod
@@ -99,7 +99,7 @@ Args:
 
 <a id="unreal.MovieSceneTrackExtensions.remove_section"></a>
 
-#### remove_section
+#### remove\_section
 
 ```python
 @classmethod
@@ -116,7 +116,7 @@ Args:
 
 <a id="unreal.MovieSceneTrackExtensions.get_track_row_display_name"></a>
 
-#### get_track_row_display_name
+#### get\_track\_row\_display\_name
 
 ```python
 @classmethod
@@ -136,7 +136,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrackExtensions.get_sorting_order"></a>
 
-#### get_sorting_order
+#### get\_sorting\_order
 
 ```python
 @classmethod
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrackExtensions.get_section_to_key"></a>
 
-#### get_section_to_key
+#### get\_section\_to\_key
 
 ```python
 @classmethod
@@ -172,7 +172,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrackExtensions.get_sections"></a>
 
-#### get_sections
+#### get\_sections
 
 ```python
 @classmethod
@@ -190,7 +190,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrackExtensions.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 @classmethod
@@ -208,7 +208,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrackExtensions.get_color_tint"></a>
 
-#### get_color_tint
+#### get\_color\_tint
 
 ```python
 @classmethod
@@ -226,7 +226,7 @@ Returns:
 
 <a id="unreal.MovieSceneTrackExtensions.add_section"></a>
 
-#### add_section
+#### add\_section
 
 ```python
 @classmethod

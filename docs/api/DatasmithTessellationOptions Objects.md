@@ -23,7 +23,7 @@ Datasmith Tessellation Options
 
 <a id="unreal.DatasmithTessellationOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(chord_tolerance: float = 0.000000,
@@ -38,7 +38,7 @@ def __init__(chord_tolerance: float = 0.000000,
 
 <a id="unreal.DatasmithTessellationOptions.chord_tolerance"></a>
 
-#### chord_tolerance
+#### chord\_tolerance
 
 ```python
 @property
@@ -49,7 +49,7 @@ def chord_tolerance() -> float
 
 <a id="unreal.DatasmithTessellationOptions.chord_tolerance"></a>
 
-#### chord_tolerance
+#### chord\_tolerance
 
 ```python
 @chord_tolerance.setter
@@ -58,7 +58,7 @@ def chord_tolerance(value: float) -> None
 
 <a id="unreal.DatasmithTessellationOptions.max_edge_length"></a>
 
-#### max_edge_length
+#### max\_edge\_length
 
 ```python
 @property
@@ -69,7 +69,7 @@ def max_edge_length() -> float
 
 <a id="unreal.DatasmithTessellationOptions.max_edge_length"></a>
 
-#### max_edge_length
+#### max\_edge\_length
 
 ```python
 @max_edge_length.setter
@@ -78,7 +78,7 @@ def max_edge_length(value: float) -> None
 
 <a id="unreal.DatasmithTessellationOptions.normal_tolerance"></a>
 
-#### normal_tolerance
+#### normal\_tolerance
 
 ```python
 @property
@@ -89,7 +89,7 @@ def normal_tolerance() -> float
 
 <a id="unreal.DatasmithTessellationOptions.normal_tolerance"></a>
 
-#### normal_tolerance
+#### normal\_tolerance
 
 ```python
 @normal_tolerance.setter
@@ -98,7 +98,7 @@ def normal_tolerance(value: float) -> None
 
 <a id="unreal.DatasmithTessellationOptions.stitching_technique"></a>
 
-#### stitching_technique
+#### stitching\_technique
 
 ```python
 @property
@@ -109,7 +109,7 @@ def stitching_technique() -> DatasmithCADStitchingTechnique
 
 <a id="unreal.DatasmithTessellationOptions.stitching_technique"></a>
 
-#### stitching_technique
+#### stitching\_technique
 
 ```python
 @stitching_technique.setter
@@ -118,7 +118,7 @@ def stitching_technique(value: DatasmithCADStitchingTechnique) -> None
 
 <a id="unreal.DatasmithTessellationOptions.geometric_tolerance"></a>
 
-#### geometric_tolerance
+#### geometric\_tolerance
 
 ```python
 @property
@@ -129,7 +129,7 @@ def geometric_tolerance() -> float
 
 <a id="unreal.DatasmithTessellationOptions.geometric_tolerance"></a>
 
-#### geometric_tolerance
+#### geometric\_tolerance
 
 ```python
 @geometric_tolerance.setter
@@ -138,7 +138,7 @@ def geometric_tolerance(value: float) -> None
 
 <a id="unreal.DatasmithTessellationOptions.stitching_tolerance"></a>
 
-#### stitching_tolerance
+#### stitching\_tolerance
 
 ```python
 @property
@@ -149,7 +149,7 @@ def stitching_tolerance() -> float
 
 <a id="unreal.DatasmithTessellationOptions.stitching_tolerance"></a>
 
-#### stitching_tolerance
+#### stitching\_tolerance
 
 ```python
 @stitching_tolerance.setter

@@ -20,7 +20,7 @@ TODO: Split this in "concrete" vs "api" class (needed for views)
 
 <a id="unreal.PCGPointData.set_points"></a>
 
-#### set_points
+#### set\_points
 
 ```python
 def set_points(points: Array[PCGPoint]) -> None
@@ -34,7 +34,7 @@ Args:
 
 <a id="unreal.PCGPointData.is_empty"></a>
 
-#### is_empty
+#### is\_empty
 
 ```python
 def is_empty() -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.PCGPointData.get_points_copy"></a>
 
-#### get_points_copy
+#### get\_points\_copy
 
 ```python
 def get_points_copy() -> Array[PCGPoint]
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.PCGPointData.get_points"></a>
 
-#### get_points
+#### get\_points
 
 ```python
 def get_points() -> Array[PCGPoint]
@@ -76,7 +76,7 @@ Returns:
 
 <a id="unreal.PCGPointData.get_point"></a>
 
-#### get_point
+#### get\_point
 
 ```python
 def get_point(index: int) -> PCGPoint
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.PCGPointData.get_num_points"></a>
 
-#### get_num_points
+#### get\_num\_points
 
 ```python
 def get_num_points() -> int
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.PCGPointData.copy_points_from"></a>
 
-#### copy_points_from
+#### copy\_points\_from
 
 ```python
 def copy_points_from(data: PCGPointData, data_indices: Array[int]) -> None

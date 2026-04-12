@@ -34,7 +34,7 @@ Remove duplicates for given attributes
 
 <a id="unreal.PCGAttributeRemoveDuplicatesSettings.attribute_selectors"></a>
 
-#### attribute_selectors
+#### attribute\_selectors
 
 ```python
 @property
@@ -45,7 +45,7 @@ def attribute_selectors() -> Array[PCGAttributePropertyInputSelector]
 
 <a id="unreal.PCGAttributeRemoveDuplicatesSettings.attribute_selectors"></a>
 
-#### attribute_selectors
+#### attribute\_selectors
 
 ```python
 @attribute_selectors.setter

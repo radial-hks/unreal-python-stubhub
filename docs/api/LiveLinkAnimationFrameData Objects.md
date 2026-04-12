@@ -20,7 +20,7 @@ Dynamic data for Animation purposes.
 
 <a id="unreal.LiveLinkAnimationFrameData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(meta_data: LiveLinkMetaData = [{}, [[0], [24, 1], 0.000000]],

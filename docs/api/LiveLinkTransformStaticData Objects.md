@@ -20,7 +20,7 @@ Static data for Transform data.
 
 <a id="unreal.LiveLinkTransformStaticData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(property_names: Array[Name] = [],
@@ -31,7 +31,7 @@ def __init__(property_names: Array[Name] = [],
 
 <a id="unreal.LiveLinkTransformStaticData.is_location_supported"></a>
 
-#### is_location_supported
+#### is\_location\_supported
 
 ```python
 @property
@@ -42,7 +42,7 @@ def is_location_supported() -> bool
 
 <a id="unreal.LiveLinkTransformStaticData.is_location_supported"></a>
 
-#### is_location_supported
+#### is\_location\_supported
 
 ```python
 @is_location_supported.setter
@@ -51,7 +51,7 @@ def is_location_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkTransformStaticData.is_rotation_supported"></a>
 
-#### is_rotation_supported
+#### is\_rotation\_supported
 
 ```python
 @property
@@ -62,7 +62,7 @@ def is_rotation_supported() -> bool
 
 <a id="unreal.LiveLinkTransformStaticData.is_rotation_supported"></a>
 
-#### is_rotation_supported
+#### is\_rotation\_supported
 
 ```python
 @is_rotation_supported.setter
@@ -71,7 +71,7 @@ def is_rotation_supported(value: bool) -> None
 
 <a id="unreal.LiveLinkTransformStaticData.is_scale_supported"></a>
 
-#### is_scale_supported
+#### is\_scale\_supported
 
 ```python
 @property
@@ -82,7 +82,7 @@ def is_scale_supported() -> bool
 
 <a id="unreal.LiveLinkTransformStaticData.is_scale_supported"></a>
 
-#### is_scale_supported
+#### is\_scale\_supported
 
 ```python
 @is_scale_supported.setter

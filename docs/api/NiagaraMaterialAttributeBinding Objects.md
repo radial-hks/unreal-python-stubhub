@@ -20,7 +20,7 @@ Niagara Material Attribute Binding
 
 <a id="unreal.NiagaraMaterialAttributeBinding.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

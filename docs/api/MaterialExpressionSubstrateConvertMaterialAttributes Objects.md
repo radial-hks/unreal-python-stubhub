@@ -22,7 +22,7 @@ Material Expression Substrate Convert Material Attributes
 
 <a id="unreal.MaterialExpressionSubstrateConvertMaterialAttributes.subsurface_profile"></a>
 
-#### subsurface_profile
+#### subsurface\_profile
 
 ```python
 @property

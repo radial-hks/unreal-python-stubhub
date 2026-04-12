@@ -23,7 +23,7 @@ Editor Dialog Library Object Details View Options
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(show_object_name: bool = False,
@@ -36,7 +36,7 @@ def __init__(show_object_name: bool = False,
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.show_object_name"></a>
 
-#### show_object_name
+#### show\_object\_name
 
 ```python
 @property
@@ -47,7 +47,7 @@ def show_object_name() -> bool
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.show_object_name"></a>
 
-#### show_object_name
+#### show\_object\_name
 
 ```python
 @show_object_name.setter
@@ -56,7 +56,7 @@ def show_object_name(value: bool) -> None
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.allow_search"></a>
 
-#### allow_search
+#### allow\_search
 
 ```python
 @property
@@ -67,7 +67,7 @@ def allow_search() -> bool
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.allow_search"></a>
 
-#### allow_search
+#### allow\_search
 
 ```python
 @allow_search.setter
@@ -76,7 +76,7 @@ def allow_search(value: bool) -> None
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.allow_resizing"></a>
 
-#### allow_resizing
+#### allow\_resizing
 
 ```python
 @property
@@ -87,7 +87,7 @@ def allow_resizing() -> bool
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.allow_resizing"></a>
 
-#### allow_resizing
+#### allow\_resizing
 
 ```python
 @allow_resizing.setter
@@ -96,7 +96,7 @@ def allow_resizing(value: bool) -> None
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.min_width"></a>
 
-#### min_width
+#### min\_width
 
 ```python
 @property
@@ -107,7 +107,7 @@ def min_width() -> int
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.min_width"></a>
 
-#### min_width
+#### min\_width
 
 ```python
 @min_width.setter
@@ -116,7 +116,7 @@ def min_width(value: int) -> None
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.min_height"></a>
 
-#### min_height
+#### min\_height
 
 ```python
 @property
@@ -127,7 +127,7 @@ def min_height() -> int
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.min_height"></a>
 
-#### min_height
+#### min\_height
 
 ```python
 @min_height.setter
@@ -136,7 +136,7 @@ def min_height(value: int) -> None
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.value_column_width_ratio"></a>
 
-#### value_column_width_ratio
+#### value\_column\_width\_ratio
 
 ```python
 @property
@@ -147,7 +147,7 @@ def value_column_width_ratio() -> float
 
 <a id="unreal.EditorDialogLibraryObjectDetailsViewOptions.value_column_width_ratio"></a>
 
-#### value_column_width_ratio
+#### value\_column\_width\_ratio
 
 ```python
 @value_column_width_ratio.setter

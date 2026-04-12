@@ -14,7 +14,7 @@ Rig Module Execution Element
 
 <a id="unreal.RigModuleExecutionElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

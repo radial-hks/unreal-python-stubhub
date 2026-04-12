@@ -19,7 +19,7 @@ Material Expression
 
 <a id="unreal.MaterialExpression.material_expression_editor_x"></a>
 
-#### material_expression_editor_x
+#### material\_expression\_editor\_x
 
 ```python
 @property
@@ -30,7 +30,7 @@ def material_expression_editor_x() -> int
 
 <a id="unreal.MaterialExpression.material_expression_editor_x"></a>
 
-#### material_expression_editor_x
+#### material\_expression\_editor\_x
 
 ```python
 @material_expression_editor_x.setter
@@ -39,7 +39,7 @@ def material_expression_editor_x(value: int) -> None
 
 <a id="unreal.MaterialExpression.material_expression_editor_y"></a>
 
-#### material_expression_editor_y
+#### material\_expression\_editor\_y
 
 ```python
 @property
@@ -50,7 +50,7 @@ def material_expression_editor_y() -> int
 
 <a id="unreal.MaterialExpression.material_expression_editor_y"></a>
 
-#### material_expression_editor_y
+#### material\_expression\_editor\_y
 
 ```python
 @material_expression_editor_y.setter

@@ -25,7 +25,7 @@ Describes playback modes for UMG sequences.
 
 <a id="unreal.UMGSequencePlayMode.PING_PONG"></a>
 
-#### PING_PONG
+#### PING\_PONG
 
 2: Animation plays from the beginning to the end and then from the end to the beginning.
 

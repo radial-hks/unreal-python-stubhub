@@ -8,7 +8,7 @@ Type for all Unreal exposed map instances
 
 <a id="unreal.Map.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: type, value: type) -> None
@@ -16,7 +16,7 @@ def __init__(key: type, value: type) -> None
 
 <a id="unreal.Map.__setitem__"></a>
 
-#### __setitem__
+#### \_\_setitem\_\_
 
 ```python
 def __setitem__(key: _KeyType, value: _ValueType) -> None
@@ -24,7 +24,7 @@ def __setitem__(key: _KeyType, value: _ValueType) -> None
 
 <a id="unreal.Map.__getitem__"></a>
 
-#### __getitem__
+#### \_\_getitem\_\_
 
 ```python
 def __getitem__(key: _KeyType) -> _ValueType
@@ -32,7 +32,7 @@ def __getitem__(key: _KeyType) -> _ValueType
 
 <a id="unreal.Map.__class_getitem__"></a>
 
-#### __class_getitem__
+#### \_\_class\_getitem\_\_
 
 ```python
 @classmethod
@@ -55,7 +55,7 @@ cast(cls, key: Type[_KeyType], value: Type[_ValueType], obj: object) -> Map[_Key
 
 <a id="unreal.Map.__copy__"></a>
 
-#### __copy__
+#### \_\_copy\_\_
 
 ```python
 def __copy__() -> Map[_KeyType, _ValueType]

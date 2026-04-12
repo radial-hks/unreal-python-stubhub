@@ -37,7 +37,7 @@ ESubmix Effect Dynamics Processor Type
 
 <a id="unreal.SubmixEffectDynamicsProcessorType.UPWARDS_COMPRESSOR"></a>
 
-#### UPWARDS_COMPRESSOR
+#### UPWARDS\_COMPRESSOR
 
 4
 

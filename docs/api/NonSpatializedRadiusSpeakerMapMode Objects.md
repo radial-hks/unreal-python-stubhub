@@ -13,7 +13,7 @@ Defines how to speaker map the sound when using the non-spatialized radius featu
 
 <a id="unreal.NonSpatializedRadiusSpeakerMapMode.OMNI_DIRECTIONAL"></a>
 
-#### OMNI_DIRECTIONAL
+#### OMNI\_DIRECTIONAL
 
 0: Will blend the 3D sound to an omni-directional sound (equal output mapping in all directions)
 

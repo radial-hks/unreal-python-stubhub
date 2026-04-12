@@ -17,7 +17,7 @@ A Tag Container holds a collection of FGameplayTags, tags are included explicitl
 
 <a id="unreal.GameplayTagContainer.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(gameplay_tags: Array[GameplayTag] = []) -> None
@@ -25,7 +25,7 @@ def __init__(gameplay_tags: Array[GameplayTag] = []) -> None
 
 <a id="unreal.GameplayTagContainer.gameplay_tags"></a>
 
-#### gameplay_tags
+#### gameplay\_tags
 
 ```python
 @property

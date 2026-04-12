@@ -14,26 +14,26 @@ ETake Recorder Panel Mode
 
 <a id="unreal.TakeRecorderPanelMode.NEW_RECORDING"></a>
 
-#### NEW_RECORDING
+#### NEW\_RECORDING
 
 0: The panel is setting up a new recording
 
 <a id="unreal.TakeRecorderPanelMode.RECORDING_INTO"></a>
 
-#### RECORDING_INTO
+#### RECORDING\_INTO
 
 1: The panel is setting up recording into an existing level sequence
 
 <a id="unreal.TakeRecorderPanelMode.EDITING_PRESET"></a>
 
-#### EDITING_PRESET
+#### EDITING\_PRESET
 
 2: The panel is editing a Take Preset asset
 
 <a id="unreal.TakeRecorderPanelMode.REVIEWING_RECORDING"></a>
 
-#### REVIEWING_RECORDING
+#### REVIEWING\_RECORDING
 
 3: The panel is reviewing a previously recorded take
 
-<a id="unreal.RigVMOpCode"></a>
+<a id="unreal.PythonCommandExecutionMode"></a>

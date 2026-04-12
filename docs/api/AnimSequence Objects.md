@@ -63,7 +63,7 @@ Anim Sequence
 
 <a id="unreal.AnimSequence.update_retarget_source_asset_data"></a>
 
-#### update_retarget_source_asset_data
+#### update\_retarget\_source\_asset\_data
 
 ```python
 def update_retarget_source_asset_data() -> None
@@ -75,7 +75,7 @@ Warning : This function calls LoadSynchronous at the retarget source asset soft 
 
 <a id="unreal.AnimSequence.set_retarget_source_asset"></a>
 
-#### set_retarget_source_asset
+#### set\_retarget\_source\_asset
 
 ```python
 def set_retarget_source_asset(retarget_source_asset: SkeletalMesh) -> None
@@ -89,7 +89,7 @@ Args:
 
 <a id="unreal.AnimSequence.remove_custom_attribute"></a>
 
-#### remove_custom_attribute
+#### remove\_custom\_attribute
 
 ```python
 def remove_custom_attribute(bone_name: Name, attribute_name: Name) -> None
@@ -105,7 +105,7 @@ Args:
 
 <a id="unreal.AnimSequence.remove_all_custom_attributes_for_bone"></a>
 
-#### remove_all_custom_attributes_for_bone
+#### remove\_all\_custom\_attributes\_for\_bone
 
 ```python
 def remove_all_custom_attributes_for_bone(bone_name: Name) -> None
@@ -120,7 +120,7 @@ Args:
 
 <a id="unreal.AnimSequence.remove_all_custom_attributes"></a>
 
-#### remove_all_custom_attributes
+#### remove\_all\_custom\_attributes
 
 ```python
 def remove_all_custom_attributes() -> None
@@ -132,7 +132,7 @@ deprecated: RemoveAllCustomAttributes has been deprecated, use UAnimDataControll
 
 <a id="unreal.AnimSequence.get_retarget_source_asset"></a>
 
-#### get_retarget_source_asset
+#### get\_retarget\_source\_asset
 
 ```python
 def get_retarget_source_asset() -> SkeletalMesh
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.AnimSequence.clear_retarget_source_asset"></a>
 
-#### clear_retarget_source_asset
+#### clear\_retarget\_source\_asset
 
 ```python
 def clear_retarget_source_asset() -> None
@@ -157,7 +157,7 @@ Resets the retarget source asset
 
 <a id="unreal.AnimSequence.add_bone_string_custom_attribute"></a>
 
-#### add_bone_string_custom_attribute
+#### add\_bone\_string\_custom\_attribute
 
 ```python
 def add_bone_string_custom_attribute(bone_name: Name, attribute_name: Name,
@@ -177,7 +177,7 @@ Args:
 
 <a id="unreal.AnimSequence.add_bone_integer_custom_attribute"></a>
 
-#### add_bone_integer_custom_attribute
+#### add\_bone\_integer\_custom\_attribute
 
 ```python
 def add_bone_integer_custom_attribute(bone_name: Name, attribute_name: Name,
@@ -197,7 +197,7 @@ Args:
 
 <a id="unreal.AnimSequence.add_bone_float_custom_attribute"></a>
 
-#### add_bone_float_custom_attribute
+#### add\_bone\_float\_custom\_attribute
 
 ```python
 def add_bone_float_custom_attribute(bone_name: Name, attribute_name: Name,

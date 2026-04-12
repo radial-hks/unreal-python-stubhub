@@ -15,7 +15,7 @@ note: Keep any function comments up to date with those in GenericPlatformInputDe
 
 <a id="unreal.InputDeviceLibrary.not_equal_platform_user_id"></a>
 
-#### not_equal_platform_user_id
+#### not\_equal\_platform\_user\_id
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.not_equal_input_device_id"></a>
 
-#### not_equal_input_device_id
+#### not\_equal\_input\_device\_id
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.is_valid_platform_id"></a>
 
-#### is_valid_platform_id
+#### is\_valid\_platform\_id
 
 ```python
 @classmethod
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.is_valid_input_device"></a>
 
-#### is_valid_input_device
+#### is\_valid\_input\_device
 
 ```python
 @classmethod
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.is_unpaired_user_id"></a>
 
-#### is_unpaired_user_id
+#### is\_unpaired\_user\_id
 
 ```python
 @classmethod
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.is_input_device_mapped_to_unpaired_user"></a>
 
-#### is_input_device_mapped_to_unpaired_user
+#### is\_input\_device\_mapped\_to\_unpaired\_user
 
 ```python
 @classmethod
@@ -127,7 +127,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.is_device_property_handle_valid"></a>
 
-#### is_device_property_handle_valid
+#### is\_device\_property\_handle\_valid
 
 ```python
 @classmethod
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_user_for_unpaired_input_devices"></a>
 
-#### get_user_for_unpaired_input_devices
+#### get\_user\_for\_unpaired\_input\_devices
 
 ```python
 @classmethod
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_user_for_input_device"></a>
 
-#### get_user_for_input_device
+#### get\_user\_for\_input\_device
 
 ```python
 @classmethod
@@ -180,7 +180,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_primary_platform_user"></a>
 
-#### get_primary_platform_user
+#### get\_primary\_platform\_user
 
 ```python
 @classmethod
@@ -198,7 +198,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_primary_input_device_for_user"></a>
 
-#### get_primary_input_device_for_user
+#### get\_primary\_input\_device\_for\_user
 
 ```python
 @classmethod
@@ -217,7 +217,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_player_controller_from_platform_user"></a>
 
-#### get_player_controller_from_platform_user
+#### get\_player\_controller\_from\_platform\_user
 
 ```python
 @classmethod
@@ -236,7 +236,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_player_controller_from_input_device"></a>
 
-#### get_player_controller_from_input_device
+#### get\_player\_controller\_from\_input\_device
 
 ```python
 @classmethod
@@ -255,7 +255,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_input_device_connection_state"></a>
 
-#### get_input_device_connection_state
+#### get\_input\_device\_connection\_state
 
 ```python
 @classmethod
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_default_input_device"></a>
 
-#### get_default_input_device
+#### get\_default\_input\_device
 
 ```python
 @classmethod
@@ -289,7 +289,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_all_input_devices_for_user"></a>
 
-#### get_all_input_devices_for_user
+#### get\_all\_input\_devices\_for\_user
 
 ```python
 @classmethod
@@ -310,7 +310,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_all_input_devices"></a>
 
-#### get_all_input_devices
+#### get\_all\_input\_devices
 
 ```python
 @classmethod
@@ -327,7 +327,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_all_connected_input_devices"></a>
 
-#### get_all_connected_input_devices
+#### get\_all\_connected\_input\_devices
 
 ```python
 @classmethod
@@ -344,7 +344,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.get_all_active_users"></a>
 
-#### get_all_active_users
+#### get\_all\_active\_users
 
 ```python
 @classmethod
@@ -361,7 +361,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.equal_equal_platform_user_id"></a>
 
-#### equal_equal_platform_user_id
+#### equal\_equal\_platform\_user\_id
 
 ```python
 @classmethod
@@ -381,7 +381,7 @@ Returns:
 
 <a id="unreal.InputDeviceLibrary.equal_equal_input_device_id"></a>
 
-#### equal_equal_input_device_id
+#### equal\_equal\_input\_device\_id
 
 ```python
 @classmethod

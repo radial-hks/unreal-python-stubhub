@@ -20,7 +20,7 @@ Submix Effect Stereo to Quad Settings
 
 <a id="unreal.SubmixEffectStereoToQuadSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(flip_channels: bool = False,
@@ -29,7 +29,7 @@ def __init__(flip_channels: bool = False,
 
 <a id="unreal.SubmixEffectStereoToQuadSettings.flip_channels"></a>
 
-#### flip_channels
+#### flip\_channels
 
 ```python
 @property
@@ -41,7 +41,7 @@ This can be useful to have a stereo field when hearing audio to the left and rig
 
 <a id="unreal.SubmixEffectStereoToQuadSettings.flip_channels"></a>
 
-#### flip_channels
+#### flip\_channels
 
 ```python
 @flip_channels.setter
@@ -50,7 +50,7 @@ def flip_channels(value: bool) -> None
 
 <a id="unreal.SubmixEffectStereoToQuadSettings.rear_channel_gain"></a>
 
-#### rear_channel_gain
+#### rear\_channel\_gain
 
 ```python
 @property
@@ -61,7 +61,7 @@ def rear_channel_gain() -> float
 
 <a id="unreal.SubmixEffectStereoToQuadSettings.rear_channel_gain"></a>
 
-#### rear_channel_gain
+#### rear\_channel\_gain
 
 ```python
 @rear_channel_gain.setter

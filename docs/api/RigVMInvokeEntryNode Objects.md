@@ -15,7 +15,7 @@ the currently running entry.
 
 <a id="unreal.RigVMInvokeEntryNode.get_entry_name"></a>
 
-#### get_entry_name
+#### get\_entry\_name
 
 ```python
 def get_entry_name() -> Name

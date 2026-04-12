@@ -14,7 +14,7 @@ Interchange Material Expression Factory Node
 
 <a id="unreal.InterchangeMaterialExpressionFactoryNode.set_custom_expression_class_name"></a>
 
-#### set_custom_expression_class_name
+#### set\_custom\_expression\_class\_name
 
 ```python
 def set_custom_expression_class_name(attribute_value: str) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangeMaterialExpressionFactoryNode.get_custom_expression_class_name"></a>
 
-#### get_custom_expression_class_name
+#### get\_custom\_expression\_class\_name
 
 ```python
 def get_custom_expression_class_name() -> Optional[str]

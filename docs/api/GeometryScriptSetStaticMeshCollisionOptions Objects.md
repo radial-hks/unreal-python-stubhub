@@ -19,7 +19,7 @@ Geometry Script Set Static Mesh Collision Options
 
 <a id="unreal.GeometryScriptSetStaticMeshCollisionOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(mark_as_customized: bool = False) -> None
@@ -27,7 +27,7 @@ def __init__(mark_as_customized: bool = False) -> None
 
 <a id="unreal.GeometryScriptSetStaticMeshCollisionOptions.mark_as_customized"></a>
 
-#### mark_as_customized
+#### mark\_as\_customized
 
 ```python
 @property
@@ -39,7 +39,7 @@ If false, Static Mesh collision will not be un-marked as Customized; its state w
 
 <a id="unreal.GeometryScriptSetStaticMeshCollisionOptions.mark_as_customized"></a>
 
-#### mark_as_customized
+#### mark\_as\_customized
 
 ```python
 @mark_as_customized.setter

@@ -39,7 +39,7 @@ Create a Rotator from 1, 2 or 3 axis.
 
 <a id="unreal.PCGMetadataMakeRotatorSettings.input_source1"></a>
 
-#### input_source1
+#### input\_source1
 
 ```python
 @property
@@ -50,7 +50,7 @@ def input_source1() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMakeRotatorSettings.input_source1"></a>
 
-#### input_source1
+#### input\_source1
 
 ```python
 @input_source1.setter
@@ -59,7 +59,7 @@ def input_source1(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataMakeRotatorSettings.input_source2"></a>
 
-#### input_source2
+#### input\_source2
 
 ```python
 @property
@@ -70,7 +70,7 @@ def input_source2() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMakeRotatorSettings.input_source2"></a>
 
-#### input_source2
+#### input\_source2
 
 ```python
 @input_source2.setter
@@ -79,7 +79,7 @@ def input_source2(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataMakeRotatorSettings.input_source3"></a>
 
-#### input_source3
+#### input\_source3
 
 ```python
 @property
@@ -90,7 +90,7 @@ def input_source3() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMakeRotatorSettings.input_source3"></a>
 
-#### input_source3
+#### input\_source3
 
 ```python
 @input_source3.setter

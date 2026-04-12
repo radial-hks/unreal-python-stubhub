@@ -20,7 +20,7 @@ Structure for recording float values and displaying them as an Histogram through
 
 <a id="unreal.DebugFloatHistory.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(max_samples: int = 0,
@@ -31,7 +31,7 @@ def __init__(max_samples: int = 0,
 
 <a id="unreal.DebugFloatHistory.max_samples"></a>
 
-#### max_samples
+#### max\_samples
 
 ```python
 @property
@@ -42,7 +42,7 @@ def max_samples() -> int
 
 <a id="unreal.DebugFloatHistory.max_samples"></a>
 
-#### max_samples
+#### max\_samples
 
 ```python
 @max_samples.setter
@@ -51,7 +51,7 @@ def max_samples(value: int) -> None
 
 <a id="unreal.DebugFloatHistory.min_value"></a>
 
-#### min_value
+#### min\_value
 
 ```python
 @property
@@ -62,7 +62,7 @@ def min_value() -> float
 
 <a id="unreal.DebugFloatHistory.min_value"></a>
 
-#### min_value
+#### min\_value
 
 ```python
 @min_value.setter
@@ -71,7 +71,7 @@ def min_value(value: float) -> None
 
 <a id="unreal.DebugFloatHistory.max_value"></a>
 
-#### max_value
+#### max\_value
 
 ```python
 @property
@@ -82,7 +82,7 @@ def max_value() -> float
 
 <a id="unreal.DebugFloatHistory.max_value"></a>
 
-#### max_value
+#### max\_value
 
 ```python
 @max_value.setter
@@ -91,7 +91,7 @@ def max_value(value: float) -> None
 
 <a id="unreal.DebugFloatHistory.auto_adjust_min_max"></a>
 
-#### auto_adjust_min_max
+#### auto\_adjust\_min\_max
 
 ```python
 @property
@@ -102,7 +102,7 @@ def auto_adjust_min_max() -> bool
 
 <a id="unreal.DebugFloatHistory.auto_adjust_min_max"></a>
 
-#### auto_adjust_min_max
+#### auto\_adjust\_min\_max
 
 ```python
 @auto_adjust_min_max.setter

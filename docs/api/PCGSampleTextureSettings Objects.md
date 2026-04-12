@@ -38,7 +38,7 @@ Samples color of texture at each point.
 
 <a id="unreal.PCGSampleTextureSettings.texture_mapping_method"></a>
 
-#### texture_mapping_method
+#### texture\_mapping\_method
 
 ```python
 @property
@@ -49,7 +49,7 @@ def texture_mapping_method() -> PCGTextureMappingMethod
 
 <a id="unreal.PCGSampleTextureSettings.texture_mapping_method"></a>
 
-#### texture_mapping_method
+#### texture\_mapping\_method
 
 ```python
 @texture_mapping_method.setter
@@ -58,7 +58,7 @@ def texture_mapping_method(value: PCGTextureMappingMethod) -> None
 
 <a id="unreal.PCGSampleTextureSettings.uv_coordinates_attribute"></a>
 
-#### uv_coordinates_attribute
+#### uv\_coordinates\_attribute
 
 ```python
 @property
@@ -69,7 +69,7 @@ def uv_coordinates_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGSampleTextureSettings.uv_coordinates_attribute"></a>
 
-#### uv_coordinates_attribute
+#### uv\_coordinates\_attribute
 
 ```python
 @uv_coordinates_attribute.setter
@@ -78,7 +78,7 @@ def uv_coordinates_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGSampleTextureSettings.tiling_mode"></a>
 
-#### tiling_mode
+#### tiling\_mode
 
 ```python
 @property
@@ -89,7 +89,7 @@ def tiling_mode() -> PCGTextureAddressMode
 
 <a id="unreal.PCGSampleTextureSettings.tiling_mode"></a>
 
-#### tiling_mode
+#### tiling\_mode
 
 ```python
 @tiling_mode.setter
@@ -98,7 +98,7 @@ def tiling_mode(value: PCGTextureAddressMode) -> None
 
 <a id="unreal.PCGSampleTextureSettings.density_merge_function"></a>
 
-#### density_merge_function
+#### density\_merge\_function
 
 ```python
 @property
@@ -109,7 +109,7 @@ def density_merge_function() -> PCGDensityMergeOperation
 
 <a id="unreal.PCGSampleTextureSettings.density_merge_function"></a>
 
-#### density_merge_function
+#### density\_merge\_function
 
 ```python
 @density_merge_function.setter
@@ -118,7 +118,7 @@ def density_merge_function(value: PCGDensityMergeOperation) -> None
 
 <a id="unreal.PCGSampleTextureSettings.clamp_output_density"></a>
 
-#### clamp_output_density
+#### clamp\_output\_density
 
 ```python
 @property
@@ -129,7 +129,7 @@ def clamp_output_density() -> bool
 
 <a id="unreal.PCGSampleTextureSettings.clamp_output_density"></a>
 
-#### clamp_output_density
+#### clamp\_output\_density
 
 ```python
 @clamp_output_density.setter

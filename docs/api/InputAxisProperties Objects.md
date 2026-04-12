@@ -20,7 +20,7 @@ Configurable properties for control axes, used to transform raw input into game 
 
 <a id="unreal.InputAxisProperties.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

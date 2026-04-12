@@ -29,7 +29,7 @@ def settings() -> SourceEffectRingModulationSettings
 
 <a id="unreal.SourceEffectRingModulationPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectRingModulationSettings) -> None

@@ -21,7 +21,7 @@ Source Effect Individual Filter Settings
 
 <a id="unreal.SourceEffectIndividualFilterSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -35,7 +35,7 @@ def __init__(
 
 <a id="unreal.SourceEffectIndividualFilterSettings.filter_circuit"></a>
 
-#### filter_circuit
+#### filter\_circuit
 
 ```python
 @property
@@ -46,7 +46,7 @@ def filter_circuit() -> SourceEffectMotionFilterCircuit
 
 <a id="unreal.SourceEffectIndividualFilterSettings.filter_circuit"></a>
 
-#### filter_circuit
+#### filter\_circuit
 
 ```python
 @filter_circuit.setter
@@ -55,7 +55,7 @@ def filter_circuit(value: SourceEffectMotionFilterCircuit) -> None
 
 <a id="unreal.SourceEffectIndividualFilterSettings.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @property
@@ -66,7 +66,7 @@ def filter_type() -> SourceEffectMotionFilterType
 
 <a id="unreal.SourceEffectIndividualFilterSettings.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @filter_type.setter
@@ -75,7 +75,7 @@ def filter_type(value: SourceEffectMotionFilterType) -> None
 
 <a id="unreal.SourceEffectIndividualFilterSettings.cutoff_frequency"></a>
 
-#### cutoff_frequency
+#### cutoff\_frequency
 
 ```python
 @property
@@ -86,7 +86,7 @@ def cutoff_frequency() -> float
 
 <a id="unreal.SourceEffectIndividualFilterSettings.cutoff_frequency"></a>
 
-#### cutoff_frequency
+#### cutoff\_frequency
 
 ```python
 @cutoff_frequency.setter
@@ -95,7 +95,7 @@ def cutoff_frequency(value: float) -> None
 
 <a id="unreal.SourceEffectIndividualFilterSettings.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @property
@@ -106,7 +106,7 @@ def filter_q() -> float
 
 <a id="unreal.SourceEffectIndividualFilterSettings.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @filter_q.setter

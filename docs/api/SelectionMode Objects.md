@@ -25,7 +25,7 @@ ESelection Mode
 
 <a id="unreal.SelectionMode.SINGLE_TOGGLE"></a>
 
-#### SINGLE_TOGGLE
+#### SINGLE\_TOGGLE
 
 2: A single item can be selected at once, or no item may be selected.  You can click the item to toggle selection on and off.
 

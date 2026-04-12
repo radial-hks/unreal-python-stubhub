@@ -13,7 +13,7 @@ Supported methods for focusing the camera.
 
 <a id="unreal.CameraFocusMethod.DO_NOT_OVERRIDE"></a>
 
-#### DO_NOT_OVERRIDE
+#### DO\_NOT\_OVERRIDE
 
 0: Don't override, ie. allow post process volume settings to persist.
 

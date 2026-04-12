@@ -25,7 +25,7 @@ UModelingObjectsCreationAPI::CreateMaterialObject().
 
 <a id="unreal.CreateMaterialObjectParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

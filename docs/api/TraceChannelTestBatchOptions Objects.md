@@ -23,7 +23,7 @@ Trace Channel Test Batch Options
 
 <a id="unreal.TraceChannelTestBatchOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(line_trace: bool = False,
@@ -37,7 +37,7 @@ def __init__(line_trace: bool = False,
 
 <a id="unreal.TraceChannelTestBatchOptions.line_trace"></a>
 
-#### line_trace
+#### line\_trace
 
 ```python
 @property
@@ -48,7 +48,7 @@ def line_trace() -> bool
 
 <a id="unreal.TraceChannelTestBatchOptions.line_trace"></a>
 
-#### line_trace
+#### line\_trace
 
 ```python
 @line_trace.setter
@@ -57,7 +57,7 @@ def line_trace(value: bool) -> None
 
 <a id="unreal.TraceChannelTestBatchOptions.sphere_trace"></a>
 
-#### sphere_trace
+#### sphere\_trace
 
 ```python
 @property
@@ -68,7 +68,7 @@ def sphere_trace() -> bool
 
 <a id="unreal.TraceChannelTestBatchOptions.sphere_trace"></a>
 
-#### sphere_trace
+#### sphere\_trace
 
 ```python
 @sphere_trace.setter
@@ -77,7 +77,7 @@ def sphere_trace(value: bool) -> None
 
 <a id="unreal.TraceChannelTestBatchOptions.capsule_trace"></a>
 
-#### capsule_trace
+#### capsule\_trace
 
 ```python
 @property
@@ -88,7 +88,7 @@ def capsule_trace() -> bool
 
 <a id="unreal.TraceChannelTestBatchOptions.capsule_trace"></a>
 
-#### capsule_trace
+#### capsule\_trace
 
 ```python
 @capsule_trace.setter
@@ -97,7 +97,7 @@ def capsule_trace(value: bool) -> None
 
 <a id="unreal.TraceChannelTestBatchOptions.box_trace"></a>
 
-#### box_trace
+#### box\_trace
 
 ```python
 @property
@@ -108,7 +108,7 @@ def box_trace() -> bool
 
 <a id="unreal.TraceChannelTestBatchOptions.box_trace"></a>
 
-#### box_trace
+#### box\_trace
 
 ```python
 @box_trace.setter
@@ -117,7 +117,7 @@ def box_trace(value: bool) -> None
 
 <a id="unreal.TraceChannelTestBatchOptions.channel_trace"></a>
 
-#### channel_trace
+#### channel\_trace
 
 ```python
 @property
@@ -128,7 +128,7 @@ def channel_trace() -> bool
 
 <a id="unreal.TraceChannelTestBatchOptions.channel_trace"></a>
 
-#### channel_trace
+#### channel\_trace
 
 ```python
 @channel_trace.setter
@@ -137,7 +137,7 @@ def channel_trace(value: bool) -> None
 
 <a id="unreal.TraceChannelTestBatchOptions.objects_trace"></a>
 
-#### objects_trace
+#### objects\_trace
 
 ```python
 @property
@@ -148,7 +148,7 @@ def objects_trace() -> bool
 
 <a id="unreal.TraceChannelTestBatchOptions.objects_trace"></a>
 
-#### objects_trace
+#### objects\_trace
 
 ```python
 @objects_trace.setter
@@ -157,7 +157,7 @@ def objects_trace(value: bool) -> None
 
 <a id="unreal.TraceChannelTestBatchOptions.profile_trace"></a>
 
-#### profile_trace
+#### profile\_trace
 
 ```python
 @property
@@ -168,7 +168,7 @@ def profile_trace() -> bool
 
 <a id="unreal.TraceChannelTestBatchOptions.profile_trace"></a>
 
-#### profile_trace
+#### profile\_trace
 
 ```python
 @profile_trace.setter

@@ -62,7 +62,7 @@ see: https://docs.unrealengine.com/latest/INT/Gameplay/Input/index.html
 
 <a id="unreal.InputSettings.enable_input_device_subsystem"></a>
 
-#### enable_input_device_subsystem
+#### enable\_input\_device\_subsystem
 
 ```python
 @property
@@ -74,7 +74,7 @@ deprecated: bEnableInputDeviceSubsystem is deprecated, ths input device subsyste
 
 <a id="unreal.InputSettings.enable_input_device_subsystem"></a>
 
-#### enable_input_device_subsystem
+#### enable\_input\_device\_subsystem
 
 ```python
 @enable_input_device_subsystem.setter
@@ -83,7 +83,7 @@ def enable_input_device_subsystem(value: bool) -> None
 
 <a id="unreal.InputSettings.save_key_mappings"></a>
 
-#### save_key_mappings
+#### save\_key\_mappings
 
 ```python
 def save_key_mappings() -> None
@@ -94,7 +94,7 @@ Flush the current mapping values to the config file
 
 <a id="unreal.InputSettings.remove_axis_mapping"></a>
 
-#### remove_axis_mapping
+#### remove\_axis\_mapping
 
 ```python
 def remove_axis_mapping(key_mapping: InputAxisKeyMapping,
@@ -110,7 +110,7 @@ Args:
 
 <a id="unreal.InputSettings.remove_action_mapping"></a>
 
-#### remove_action_mapping
+#### remove\_action\_mapping
 
 ```python
 def remove_action_mapping(key_mapping: InputActionKeyMapping,
@@ -126,7 +126,7 @@ Args:
 
 <a id="unreal.InputSettings.get_input_settings"></a>
 
-#### get_input_settings
+#### get\_input\_settings
 
 ```python
 @classmethod
@@ -141,7 +141,7 @@ Returns:
 
 <a id="unreal.InputSettings.get_axis_names"></a>
 
-#### get_axis_names
+#### get\_axis\_names
 
 ```python
 def get_axis_names() -> Array[Name]
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.InputSettings.get_axis_mapping_by_name"></a>
 
-#### get_axis_mapping_by_name
+#### get\_axis\_mapping\_by\_name
 
 ```python
 def get_axis_mapping_by_name(axis_name: Name) -> Array[InputAxisKeyMapping]
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.InputSettings.get_action_names"></a>
 
-#### get_action_names
+#### get\_action\_names
 
 ```python
 def get_action_names() -> Array[Name]
@@ -192,7 +192,7 @@ Returns:
 
 <a id="unreal.InputSettings.get_action_mapping_by_name"></a>
 
-#### get_action_mapping_by_name
+#### get\_action\_mapping\_by\_name
 
 ```python
 def get_action_mapping_by_name(
@@ -212,7 +212,7 @@ Returns:
 
 <a id="unreal.InputSettings.force_rebuild_keymaps"></a>
 
-#### force_rebuild_keymaps
+#### force\_rebuild\_keymaps
 
 ```python
 def force_rebuild_keymaps() -> None
@@ -223,7 +223,7 @@ When changes are made to the default mappings, push those changes out to PlayerI
 
 <a id="unreal.InputSettings.add_axis_mapping"></a>
 
-#### add_axis_mapping
+#### add\_axis\_mapping
 
 ```python
 def add_axis_mapping(key_mapping: InputAxisKeyMapping,
@@ -239,7 +239,7 @@ Args:
 
 <a id="unreal.InputSettings.add_action_mapping"></a>
 
-#### add_action_mapping
+#### add\_action\_mapping
 
 ```python
 def add_action_mapping(key_mapping: InputActionKeyMapping,

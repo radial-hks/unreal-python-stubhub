@@ -14,7 +14,7 @@ Detection method used for placing a notify / marker in the track
 
 <a id="unreal.DetectionTechnique.PASS_THROUGH_REFERENCE_BONE"></a>
 
-#### PASS_THROUGH_REFERENCE_BONE
+#### PASS\_THROUGH\_REFERENCE\_BONE
 
 0: Create anim event when foot bone passes through a given reference bone.
 
@@ -23,7 +23,7 @@ used to determine if the foot bone has crossed the reference bone.
 
 <a id="unreal.DetectionTechnique.FOOT_BONE_REACHES_GROUND"></a>
 
-#### FOOT_BONE_REACHES_GROUND
+#### FOOT\_BONE\_REACHES\_GROUND
 
 1: Create anim event when foot bone reaches the ground level within a given threshold.
 
@@ -32,7 +32,7 @@ WITHIN the ground threshold.
 
 <a id="unreal.DetectionTechnique.FOOT_BONE_SPEED"></a>
 
-#### FOOT_BONE_SPEED
+#### FOOT\_BONE\_SPEED
 
 2: Create anim event when foot bone translation speed is below a given threshold and nearly zero.
 

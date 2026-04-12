@@ -13,7 +13,7 @@ Widget Layout Library
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_wrap_box_slot"></a>
 
-#### slot_as_wrap_box_slot
+#### slot\_as\_wrap\_box\_slot
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_widget_switcher_slot"></a>
 
-#### slot_as_widget_switcher_slot
+#### slot\_as\_widget\_switcher\_slot
 
 ```python
 @classmethod
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_vertical_box_slot"></a>
 
-#### slot_as_vertical_box_slot
+#### slot\_as\_vertical\_box\_slot
 
 ```python
 @classmethod
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_uniform_grid_slot"></a>
 
-#### slot_as_uniform_grid_slot
+#### slot\_as\_uniform\_grid\_slot
 
 ```python
 @classmethod
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_size_box_slot"></a>
 
-#### slot_as_size_box_slot
+#### slot\_as\_size\_box\_slot
 
 ```python
 @classmethod
@@ -103,7 +103,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_scroll_box_slot"></a>
 
-#### slot_as_scroll_box_slot
+#### slot\_as\_scroll\_box\_slot
 
 ```python
 @classmethod
@@ -121,7 +121,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_scale_box_slot"></a>
 
-#### slot_as_scale_box_slot
+#### slot\_as\_scale\_box\_slot
 
 ```python
 @classmethod
@@ -139,7 +139,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_safe_box_slot"></a>
 
-#### slot_as_safe_box_slot
+#### slot\_as\_safe\_box\_slot
 
 ```python
 @classmethod
@@ -157,7 +157,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_overlay_slot"></a>
 
-#### slot_as_overlay_slot
+#### slot\_as\_overlay\_slot
 
 ```python
 @classmethod
@@ -175,7 +175,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_horizontal_box_slot"></a>
 
-#### slot_as_horizontal_box_slot
+#### slot\_as\_horizontal\_box\_slot
 
 ```python
 @classmethod
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_grid_slot"></a>
 
-#### slot_as_grid_slot
+#### slot\_as\_grid\_slot
 
 ```python
 @classmethod
@@ -211,7 +211,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_canvas_slot"></a>
 
-#### slot_as_canvas_slot
+#### slot\_as\_canvas\_slot
 
 ```python
 @classmethod
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.slot_as_border_slot"></a>
 
-#### slot_as_border_slot
+#### slot\_as\_border\_slot
 
 ```python
 @classmethod
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.remove_all_widgets"></a>
 
-#### remove_all_widgets
+#### remove\_all\_widgets
 
 ```python
 @classmethod
@@ -262,7 +262,7 @@ Args:
 
 <a id="unreal.WidgetLayoutLibrary.project_world_location_to_widget_position"></a>
 
-#### project_world_location_to_widget_position
+#### project\_world\_location\_to\_widget\_position
 
 ```python
 @classmethod
@@ -287,7 +287,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.get_viewport_widget_geometry"></a>
 
-#### get_viewport_widget_geometry
+#### get\_viewport\_widget\_geometry
 
 ```python
 @classmethod
@@ -308,7 +308,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.get_viewport_size"></a>
 
-#### get_viewport_size
+#### get\_viewport\_size
 
 ```python
 @classmethod
@@ -326,7 +326,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.get_viewport_scale"></a>
 
-#### get_viewport_scale
+#### get\_viewport\_scale
 
 ```python
 @classmethod
@@ -344,7 +344,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.get_player_screen_widget_geometry"></a>
 
-#### get_player_screen_widget_geometry
+#### get\_player\_screen\_widget\_geometry
 
 ```python
 @classmethod
@@ -365,7 +365,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.get_mouse_position_scaled_by_dpi"></a>
 
-#### get_mouse_position_scaled_by_dpi
+#### get\_mouse\_position\_scaled\_by\_dpi
 
 ```python
 @classmethod
@@ -392,7 +392,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.get_mouse_position_on_viewport"></a>
 
-#### get_mouse_position_on_viewport
+#### get\_mouse\_position\_on\_viewport
 
 ```python
 @classmethod
@@ -411,7 +411,7 @@ Returns:
 
 <a id="unreal.WidgetLayoutLibrary.get_mouse_position_on_platform"></a>
 
-#### get_mouse_position_on_platform
+#### get\_mouse\_position\_on\_platform
 
 ```python
 @classmethod

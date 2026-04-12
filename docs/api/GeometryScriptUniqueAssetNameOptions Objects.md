@@ -18,7 +18,7 @@ Geometry Script Unique Asset Name Options
 
 <a id="unreal.GeometryScriptUniqueAssetNameOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(unique_id_digits: int = 0) -> None
@@ -26,7 +26,7 @@ def __init__(unique_id_digits: int = 0) -> None
 
 <a id="unreal.GeometryScriptUniqueAssetNameOptions.unique_id_digits"></a>
 
-#### unique_id_digits
+#### unique\_id\_digits
 
 ```python
 @property
@@ -37,7 +37,7 @@ def unique_id_digits() -> int
 
 <a id="unreal.GeometryScriptUniqueAssetNameOptions.unique_id_digits"></a>
 
-#### unique_id_digits
+#### unique\_id\_digits
 
 ```python
 @unique_id_digits.setter

@@ -13,7 +13,7 @@ Asset Editor Toolkit Menu Context
 
 <a id="unreal.AssetEditorToolkitMenuContext.get_editing_objects"></a>
 
-#### get_editing_objects
+#### get\_editing\_objects
 
 ```python
 def get_editing_objects() -> Array[Object]

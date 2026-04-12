@@ -13,7 +13,7 @@ Anim Notify Event Reference
 
 <a id="unreal.AnimNotifyEventReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -21,7 +21,7 @@ def __init__() -> None
 
 <a id="unreal.AnimNotifyEventReference.notify_state_reached_end"></a>
 
-#### notify_state_reached_end
+#### notify\_state\_reached\_end
 
 ```python
 def notify_state_reached_end() -> bool
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.AnimNotifyEventReference.is_blending_out"></a>
 
-#### is_blending_out
+#### is\_blending\_out
 
 ```python
 def is_blending_out() -> bool
@@ -49,7 +49,7 @@ Returns:
 
 <a id="unreal.AnimNotifyEventReference.get_current_animation_time_ratio"></a>
 
-#### get_current_animation_time_ratio
+#### get\_current\_animation\_time\_ratio
 
 ```python
 def get_current_animation_time_ratio() -> float
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.AnimNotifyEventReference.get_current_animation_time"></a>
 
-#### get_current_animation_time
+#### get\_current\_animation\_time
 
 ```python
 def get_current_animation_time() -> float
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.AnimNotifyEventReference.get_current_animation_notify_state_time_ratio"></a>
 
-#### get_current_animation_notify_state_time_ratio
+#### get\_current\_animation\_notify\_state\_time\_ratio
 
 ```python
 def get_current_animation_notify_state_time_ratio() -> float
@@ -91,7 +91,7 @@ Returns:
 
 <a id="unreal.AnimNotifyEventReference.get_current_animation_notify_state_time"></a>
 
-#### get_current_animation_notify_state_time
+#### get\_current\_animation\_notify\_state\_time
 
 ```python
 def get_current_animation_notify_state_time() -> float

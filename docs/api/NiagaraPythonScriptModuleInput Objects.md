@@ -14,7 +14,7 @@ Wrapper for setting the value on a parameter of a UNiagaraScript, applied throug
 
 <a id="unreal.NiagaraPythonScriptModuleInput.is_set"></a>
 
-#### is_set
+#### is\_set
 
 ```python
 def is_set() -> bool
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.is_local_value"></a>
 
-#### is_local_value
+#### is\_local\_value
 
 ```python
 def is_local_value() -> bool
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.is_linked_value"></a>
 
-#### is_linked_value
+#### is\_linked\_value
 
 ```python
 def is_linked_value() -> bool
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_vec4"></a>
 
-#### as_vec4
+#### as\_vec4
 
 ```python
 def as_vec4() -> Vector4
@@ -70,7 +70,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_vec3"></a>
 
-#### as_vec3
+#### as\_vec3
 
 ```python
 def as_vec3() -> Vector
@@ -84,7 +84,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_vec2"></a>
 
-#### as_vec2
+#### as\_vec2
 
 ```python
 def as_vec2() -> Vector2D
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_quat"></a>
 
-#### as_quat
+#### as\_quat
 
 ```python
 def as_quat() -> Quat
@@ -112,7 +112,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_linked_value"></a>
 
-#### as_linked_value
+#### as\_linked\_value
 
 ```python
 def as_linked_value() -> str
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_int"></a>
 
-#### as_int
+#### as\_int
 
 ```python
 def as_int() -> int
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_float"></a>
 
-#### as_float
+#### as\_float
 
 ```python
 def as_float() -> float
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_enum"></a>
 
-#### as_enum
+#### as\_enum
 
 ```python
 def as_enum() -> str
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_color"></a>
 
-#### as_color
+#### as\_color
 
 ```python
 def as_color() -> LinearColor
@@ -182,7 +182,7 @@ Returns:
 
 <a id="unreal.NiagaraPythonScriptModuleInput.as_bool"></a>
 
-#### as_bool
+#### as\_bool
 
 ```python
 def as_bool() -> bool

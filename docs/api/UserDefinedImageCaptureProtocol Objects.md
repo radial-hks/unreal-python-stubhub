@@ -40,7 +40,7 @@ def format(value: DesiredImageFormat) -> None
 
 <a id="unreal.UserDefinedImageCaptureProtocol.enable_compression"></a>
 
-#### enable_compression
+#### enable\_compression
 
 ```python
 @property
@@ -51,7 +51,7 @@ def enable_compression() -> bool
 
 <a id="unreal.UserDefinedImageCaptureProtocol.enable_compression"></a>
 
-#### enable_compression
+#### enable\_compression
 
 ```python
 @enable_compression.setter
@@ -60,7 +60,7 @@ def enable_compression(value: bool) -> None
 
 <a id="unreal.UserDefinedImageCaptureProtocol.compression_quality"></a>
 
-#### compression_quality
+#### compression\_quality
 
 ```python
 @property
@@ -71,7 +71,7 @@ def compression_quality() -> int
 
 <a id="unreal.UserDefinedImageCaptureProtocol.compression_quality"></a>
 
-#### compression_quality
+#### compression\_quality
 
 ```python
 @compression_quality.setter
@@ -80,7 +80,7 @@ def compression_quality(value: int) -> None
 
 <a id="unreal.UserDefinedImageCaptureProtocol.write_image_to_disk"></a>
 
-#### write_image_to_disk
+#### write\_image\_to\_disk
 
 ```python
 def write_image_to_disk(pixel_data: CapturedPixels,
@@ -102,7 +102,7 @@ Args:
 
 <a id="unreal.UserDefinedImageCaptureProtocol.generate_filename_for_current_frame"></a>
 
-#### generate_filename_for_current_frame
+#### generate\_filename\_for\_current\_frame
 
 ```python
 def generate_filename_for_current_frame() -> str
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.UserDefinedImageCaptureProtocol.generate_filename_for_buffer"></a>
 
-#### generate_filename_for_buffer
+#### generate\_filename\_for\_buffer
 
 ```python
 def generate_filename_for_buffer(buffer: Texture,

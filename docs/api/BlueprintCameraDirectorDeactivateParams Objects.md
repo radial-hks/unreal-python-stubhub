@@ -18,7 +18,7 @@ Parameter struct for deactivating the Blueprint camera director evaluator.
 
 <a id="unreal.BlueprintCameraDirectorDeactivateParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(evaluation_context_owner: Object = None) -> None
@@ -26,7 +26,7 @@ def __init__(evaluation_context_owner: Object = None) -> None
 
 <a id="unreal.BlueprintCameraDirectorDeactivateParams.evaluation_context_owner"></a>
 
-#### evaluation_context_owner
+#### evaluation\_context\_owner
 
 ```python
 @property
@@ -37,7 +37,7 @@ def evaluation_context_owner() -> Object
 
 <a id="unreal.BlueprintCameraDirectorDeactivateParams.evaluation_context_owner"></a>
 
-#### evaluation_context_owner
+#### evaluation\_context\_owner
 
 ```python
 @evaluation_context_owner.setter

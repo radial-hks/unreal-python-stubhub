@@ -20,7 +20,7 @@ Rig Connector State
 
 <a id="unreal.RigConnectorState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -52,7 +52,7 @@ def name(value: Name) -> None
 
 <a id="unreal.RigConnectorState.resolved_target"></a>
 
-#### resolved_target
+#### resolved\_target
 
 ```python
 @property
@@ -63,7 +63,7 @@ def resolved_target() -> RigElementKey
 
 <a id="unreal.RigConnectorState.resolved_target"></a>
 
-#### resolved_target
+#### resolved\_target
 
 ```python
 @resolved_target.setter

@@ -14,19 +14,19 @@ EParticle Allocation Mode
 
 <a id="unreal.ParticleAllocationMode.AUTOMATIC_ESTIMATE"></a>
 
-#### AUTOMATIC_ESTIMATE
+#### AUTOMATIC\_ESTIMATE
 
 0: This mode tries to estimate the max particle count at runtime by using previous simulations as reference.
 
 <a id="unreal.ParticleAllocationMode.MANUAL_ESTIMATE"></a>
 
-#### MANUAL_ESTIMATE
+#### MANUAL\_ESTIMATE
 
 1: This mode is useful if the particle count can vary wildly at runtime (e.g. due to user parameters) and a lot of reallocations happen.
 
 <a id="unreal.ParticleAllocationMode.FIXED_COUNT"></a>
 
-#### FIXED_COUNT
+#### FIXED\_COUNT
 
 2: This mode defines an upper limit on the number of particles that will be simulated.  Useful for rejection sampling where we expect many spawned particles to get killed.
 

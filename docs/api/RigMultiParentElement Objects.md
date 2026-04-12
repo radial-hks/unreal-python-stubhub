@@ -22,7 +22,7 @@ Rig Multi Parent Element
 
 <a id="unreal.RigMultiParentElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(key: RigElementKey = [RigElementType.NONE, "None"],

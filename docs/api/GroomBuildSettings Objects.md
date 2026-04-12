@@ -23,7 +23,7 @@ Groom Build Settings
 
 <a id="unreal.GroomBuildSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(override_guides: bool = False,
@@ -38,7 +38,7 @@ def __init__(override_guides: bool = False,
 
 <a id="unreal.GroomBuildSettings.override_guides"></a>
 
-#### override_guides
+#### override\_guides
 
 ```python
 @property
@@ -49,7 +49,7 @@ def override_guides() -> bool
 
 <a id="unreal.GroomBuildSettings.override_guides"></a>
 
-#### override_guides
+#### override\_guides
 
 ```python
 @override_guides.setter
@@ -58,7 +58,7 @@ def override_guides(value: bool) -> None
 
 <a id="unreal.GroomBuildSettings.hair_to_guide_density"></a>
 
-#### hair_to_guide_density
+#### hair\_to\_guide\_density
 
 ```python
 @property
@@ -69,7 +69,7 @@ def hair_to_guide_density() -> float
 
 <a id="unreal.GroomBuildSettings.hair_to_guide_density"></a>
 
-#### hair_to_guide_density
+#### hair\_to\_guide\_density
 
 ```python
 @hair_to_guide_density.setter
@@ -78,7 +78,7 @@ def hair_to_guide_density(value: float) -> None
 
 <a id="unreal.GroomBuildSettings.interpolation_quality"></a>
 
-#### interpolation_quality
+#### interpolation\_quality
 
 ```python
 @property
@@ -89,7 +89,7 @@ def interpolation_quality() -> GroomInterpolationQuality
 
 <a id="unreal.GroomBuildSettings.interpolation_quality"></a>
 
-#### interpolation_quality
+#### interpolation\_quality
 
 ```python
 @interpolation_quality.setter
@@ -98,7 +98,7 @@ def interpolation_quality(value: GroomInterpolationQuality) -> None
 
 <a id="unreal.GroomBuildSettings.interpolation_distance"></a>
 
-#### interpolation_distance
+#### interpolation\_distance
 
 ```python
 @property
@@ -109,7 +109,7 @@ def interpolation_distance() -> GroomInterpolationWeight
 
 <a id="unreal.GroomBuildSettings.interpolation_distance"></a>
 
-#### interpolation_distance
+#### interpolation\_distance
 
 ```python
 @interpolation_distance.setter
@@ -118,7 +118,7 @@ def interpolation_distance(value: GroomInterpolationWeight) -> None
 
 <a id="unreal.GroomBuildSettings.randomize_guide"></a>
 
-#### randomize_guide
+#### randomize\_guide
 
 ```python
 @property
@@ -129,7 +129,7 @@ def randomize_guide() -> bool
 
 <a id="unreal.GroomBuildSettings.randomize_guide"></a>
 
-#### randomize_guide
+#### randomize\_guide
 
 ```python
 @randomize_guide.setter
@@ -138,7 +138,7 @@ def randomize_guide(value: bool) -> None
 
 <a id="unreal.GroomBuildSettings.use_unique_guide"></a>
 
-#### use_unique_guide
+#### use\_unique\_guide
 
 ```python
 @property
@@ -149,7 +149,7 @@ def use_unique_guide() -> bool
 
 <a id="unreal.GroomBuildSettings.use_unique_guide"></a>
 
-#### use_unique_guide
+#### use\_unique\_guide
 
 ```python
 @use_unique_guide.setter

@@ -147,7 +147,7 @@ A AConcertClientDesktopPresenceActor is a child of AConcertClientPresenceActor t
 
 <a id="unreal.ConcertClientDesktopPresenceActor.desktop_mesh_component"></a>
 
-#### desktop_mesh_component
+#### desktop\_mesh\_component
 
 ```python
 @property
@@ -158,7 +158,7 @@ def desktop_mesh_component() -> StaticMeshComponent
 
 <a id="unreal.ConcertClientDesktopPresenceActor.laser_pointer"></a>
 
-#### laser_pointer
+#### laser\_pointer
 
 ```python
 @property

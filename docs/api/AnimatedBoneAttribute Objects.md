@@ -18,7 +18,7 @@ Structure encapsulating animated (bone) attribute data.
 
 <a id="unreal.AnimatedBoneAttribute.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(identifier: AnimationAttributeIdentifier = [

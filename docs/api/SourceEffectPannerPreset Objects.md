@@ -29,7 +29,7 @@ def settings() -> SourceEffectPannerSettings
 
 <a id="unreal.SourceEffectPannerPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectPannerSettings) -> None

@@ -20,7 +20,7 @@ ESynth LFOMode
 
 <a id="unreal.SynthLFOMode.ONE_SHOT"></a>
 
-#### ONE_SHOT
+#### ONE\_SHOT
 
 1
 

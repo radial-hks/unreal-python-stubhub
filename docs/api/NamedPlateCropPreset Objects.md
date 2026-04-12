@@ -18,7 +18,7 @@ A named bundle of crop settings used to implement crop presets.
 
 <a id="unreal.NamedPlateCropPreset.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: str = "",
@@ -47,7 +47,7 @@ def name(value: str) -> None
 
 <a id="unreal.NamedPlateCropPreset.crop_settings"></a>
 
-#### crop_settings
+#### crop\_settings
 
 ```python
 @property
@@ -58,7 +58,7 @@ def crop_settings() -> PlateCropSettings
 
 <a id="unreal.NamedPlateCropPreset.crop_settings"></a>
 
-#### crop_settings
+#### crop\_settings
 
 ```python
 @crop_settings.setter

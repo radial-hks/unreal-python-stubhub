@@ -19,7 +19,7 @@ Determines how a primitive interacts with first person rendering.
 
 <a id="unreal.FirstPersonPrimitiveType.FIRST_PERSON"></a>
 
-#### FIRST_PERSON
+#### FIRST\_PERSON
 
 1: Primitive is rendered as first person and affected by first person properties on the camera.
 

@@ -19,7 +19,7 @@ Rig Current and Initial Dirty State
 
 <a id="unreal.RigCurrentAndInitialDirtyState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(current: RigLocalAndGlobalDirtyState = [[], []],

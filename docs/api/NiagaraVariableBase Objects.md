@@ -21,7 +21,7 @@ Niagara Variable Base
 
 <a id="unreal.NiagaraVariableBase.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -29,7 +29,7 @@ def __init__() -> None
 
 <a id="unreal.NiagaraVariableBase.type_def"></a>
 
-#### type_def
+#### type\_def
 
 ```python
 @property
@@ -41,7 +41,7 @@ deprecated: Property 'TypeDef' is deprecated.
 
 <a id="unreal.NiagaraVariableBase.type_def"></a>
 
-#### type_def
+#### type\_def
 
 ```python
 @type_def.setter

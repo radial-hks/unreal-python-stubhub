@@ -26,7 +26,7 @@ class MovieSceneConditionScope(EnumBase)
 
 <a id="unreal.MovieSceneConditionScope.OWNER_OBJECT"></a>
 
-#### OWNER_OBJECT
+#### OWNER\_OBJECT
 
 2: Condition may have different results for each different outer object owner (i.e. track, section) in the Sequence.
 

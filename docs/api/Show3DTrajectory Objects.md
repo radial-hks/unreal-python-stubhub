@@ -13,19 +13,19 @@ Visibility options for 3d trajectory.
 
 <a id="unreal.Show3DTrajectory.EST_ONLY_WHEN_SELECTED"></a>
 
-#### EST_ONLY_WHEN_SELECTED
+#### EST\_ONLY\_WHEN\_SELECTED
 
 0
 
 <a id="unreal.Show3DTrajectory.EST_ALWAYS"></a>
 
-#### EST_ALWAYS
+#### EST\_ALWAYS
 
 1
 
 <a id="unreal.Show3DTrajectory.EST_NEVER"></a>
 
-#### EST_NEVER
+#### EST\_NEVER
 
 2
 

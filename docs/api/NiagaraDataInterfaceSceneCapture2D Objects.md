@@ -33,7 +33,7 @@ Data Interface which can control or read from a scene capture component.
 
 <a id="unreal.NiagaraDataInterfaceSceneCapture2D.set_scene_capture2d_managed_show_only_actors"></a>
 
-#### set_scene_capture2d_managed_show_only_actors
+#### set\_scene\_capture2d\_managed\_show\_only\_actors
 
 ```python
 @classmethod

@@ -188,7 +188,7 @@ A light component that has parallel rays. Will provide a uniform lighting across
 
 <a id="unreal.DirectionalLightComponent.shadow_cascade_bias_distribution"></a>
 
-#### shadow_cascade_bias_distribution
+#### shadow\_cascade\_bias\_distribution
 
 ```python
 @property
@@ -201,7 +201,7 @@ A value of 0 scales shadow bias uniformly accross all cacascade.
 
 <a id="unreal.DirectionalLightComponent.enable_light_shaft_occlusion"></a>
 
-#### enable_light_shaft_occlusion
+#### enable\_light\_shaft\_occlusion
 
 ```python
 @property
@@ -212,7 +212,7 @@ def enable_light_shaft_occlusion() -> bool
 
 <a id="unreal.DirectionalLightComponent.occlusion_mask_darkness"></a>
 
-#### occlusion_mask_darkness
+#### occlusion\_mask\_darkness
 
 ```python
 @property
@@ -223,7 +223,7 @@ def occlusion_mask_darkness() -> float
 
 <a id="unreal.DirectionalLightComponent.occlusion_depth_range"></a>
 
-#### occlusion_depth_range
+#### occlusion\_depth\_range
 
 ```python
 @property
@@ -234,7 +234,7 @@ def occlusion_depth_range() -> float
 
 <a id="unreal.DirectionalLightComponent.light_shaft_override_direction"></a>
 
-#### light_shaft_override_direction
+#### light\_shaft\_override\_direction
 
 ```python
 @property
@@ -246,7 +246,7 @@ This will only be used when non-zero.  It does not have to be normalized.
 
 <a id="unreal.DirectionalLightComponent.dynamic_shadow_distance_movable_light"></a>
 
-#### dynamic_shadow_distance_movable_light
+#### dynamic\_shadow\_distance\_movable\_light
 
 ```python
 @property
@@ -258,7 +258,7 @@ A value of 0 disables the dynamic shadow.
 
 <a id="unreal.DirectionalLightComponent.movable_whole_scene_dynamic_shadow_radius"></a>
 
-#### movable_whole_scene_dynamic_shadow_radius
+#### movable\_whole\_scene\_dynamic\_shadow\_radius
 
 ```python
 @property
@@ -269,7 +269,7 @@ deprecated: 'movable_whole_scene_dynamic_shadow_radius' was renamed to 'dynamic_
 
 <a id="unreal.DirectionalLightComponent.dynamic_shadow_distance_stationary_light"></a>
 
-#### dynamic_shadow_distance_stationary_light
+#### dynamic\_shadow\_distance\_stationary\_light
 
 ```python
 @property
@@ -281,7 +281,7 @@ A value of 0 disables the dynamic shadow.
 
 <a id="unreal.DirectionalLightComponent.stationary_whole_scene_dynamic_shadow_radius"></a>
 
-#### stationary_whole_scene_dynamic_shadow_radius
+#### stationary\_whole\_scene\_dynamic\_shadow\_radius
 
 ```python
 @property
@@ -292,7 +292,7 @@ deprecated: 'stationary_whole_scene_dynamic_shadow_radius' was renamed to 'dynam
 
 <a id="unreal.DirectionalLightComponent.dynamic_shadow_cascades"></a>
 
-#### dynamic_shadow_cascades
+#### dynamic\_shadow\_cascades
 
 ```python
 @property
@@ -304,7 +304,7 @@ More cascades result in better shadow resolution, but adds significant rendering
 
 <a id="unreal.DirectionalLightComponent.cascade_distribution_exponent"></a>
 
-#### cascade_distribution_exponent
+#### cascade\_distribution\_exponent
 
 ```python
 @property
@@ -316,7 +316,7 @@ An exponent of 1 means that cascade transitions will happen at a distance propor
 
 <a id="unreal.DirectionalLightComponent.cascade_transition_fraction"></a>
 
-#### cascade_transition_fraction
+#### cascade\_transition\_fraction
 
 ```python
 @property
@@ -333,7 +333,7 @@ An increased fade region size causes an increase in shadow rendering cost.
 
 <a id="unreal.DirectionalLightComponent.shadow_distance_fadeout_fraction"></a>
 
-#### shadow_distance_fadeout_fraction
+#### shadow\_distance\_fadeout\_fraction
 
 ```python
 @property
@@ -345,7 +345,7 @@ This is specified as a fraction of DynamicShadowDistance.
 
 <a id="unreal.DirectionalLightComponent.use_inset_shadows_for_movable_objects"></a>
 
-#### use_inset_shadows_for_movable_objects
+#### use\_inset\_shadows\_for\_movable\_objects
 
 ```python
 @property
@@ -359,7 +359,7 @@ Disabling this can reduce shadowing cost significantly with many movable objects
 
 <a id="unreal.DirectionalLightComponent.far_shadow_cascade_count"></a>
 
-#### far_shadow_cascade_count
+#### far\_shadow\_cascade\_count
 
 ```python
 @property
@@ -370,7 +370,7 @@ def far_shadow_cascade_count() -> int
 
 <a id="unreal.DirectionalLightComponent.far_shadow_distance"></a>
 
-#### far_shadow_distance
+#### far\_shadow\_distance
 
 ```python
 @property
@@ -381,7 +381,7 @@ def far_shadow_distance() -> float
 
 <a id="unreal.DirectionalLightComponent.distance_field_shadow_distance"></a>
 
-#### distance_field_shadow_distance
+#### distance\_field\_shadow\_distance
 
 ```python
 @property
@@ -392,7 +392,7 @@ def distance_field_shadow_distance() -> float
 
 <a id="unreal.DirectionalLightComponent.forward_shading_priority"></a>
 
-#### forward_shading_priority
+#### forward\_shading\_priority
 
 ```python
 @property
@@ -404,7 +404,7 @@ When two lights have equal priorities, the selection will be based on their over
 
 <a id="unreal.DirectionalLightComponent.light_source_angle"></a>
 
-#### light_source_angle
+#### light\_source\_angle
 
 ```python
 @property
@@ -416,7 +416,7 @@ Defaults to 0.5357 which is the angle for our sun.
 
 <a id="unreal.DirectionalLightComponent.light_source_soft_angle"></a>
 
-#### light_source_soft_angle
+#### light\_source\_soft\_angle
 
 ```python
 @property
@@ -427,7 +427,7 @@ def light_source_soft_angle() -> float
 
 <a id="unreal.DirectionalLightComponent.shadow_source_angle_factor"></a>
 
-#### shadow_source_angle_factor
+#### shadow\_source\_angle\_factor
 
 ```python
 @property
@@ -439,7 +439,7 @@ Defaults to 1.0 to coincide with light source angle.
 
 <a id="unreal.DirectionalLightComponent.trace_distance"></a>
 
-#### trace_distance
+#### trace\_distance
 
 ```python
 @property
@@ -450,7 +450,7 @@ def trace_distance() -> float
 
 <a id="unreal.DirectionalLightComponent.atmosphere_sun_light"></a>
 
-#### atmosphere_sun_light
+#### atmosphere\_sun\_light
 
 ```python
 @property
@@ -461,7 +461,7 @@ def atmosphere_sun_light() -> bool
 
 <a id="unreal.DirectionalLightComponent.atmosphere_sun_light_index"></a>
 
-#### atmosphere_sun_light_index
+#### atmosphere\_sun\_light\_index
 
 ```python
 @property
@@ -472,7 +472,7 @@ def atmosphere_sun_light_index() -> int
 
 <a id="unreal.DirectionalLightComponent.atmosphere_sun_disk_color_scale"></a>
 
-#### atmosphere_sun_disk_color_scale
+#### atmosphere\_sun\_disk\_color\_scale
 
 ```python
 @property
@@ -483,7 +483,7 @@ def atmosphere_sun_disk_color_scale() -> LinearColor
 
 <a id="unreal.DirectionalLightComponent.per_pixel_atmosphere_transmittance"></a>
 
-#### per_pixel_atmosphere_transmittance
+#### per\_pixel\_atmosphere\_transmittance
 
 ```python
 @property
@@ -494,7 +494,7 @@ def per_pixel_atmosphere_transmittance() -> bool
 
 <a id="unreal.DirectionalLightComponent.cast_shadows_on_clouds"></a>
 
-#### cast_shadows_on_clouds
+#### cast\_shadows\_on\_clouds
 
 ```python
 @property
@@ -505,7 +505,7 @@ def cast_shadows_on_clouds() -> bool
 
 <a id="unreal.DirectionalLightComponent.cast_shadows_on_atmosphere"></a>
 
-#### cast_shadows_on_atmosphere
+#### cast\_shadows\_on\_atmosphere
 
 ```python
 @property
@@ -516,7 +516,7 @@ def cast_shadows_on_atmosphere() -> bool
 
 <a id="unreal.DirectionalLightComponent.cast_cloud_shadows"></a>
 
-#### cast_cloud_shadows
+#### cast\_cloud\_shadows
 
 ```python
 @property
@@ -527,7 +527,7 @@ def cast_cloud_shadows() -> bool
 
 <a id="unreal.DirectionalLightComponent.cloud_shadow_strength"></a>
 
-#### cloud_shadow_strength
+#### cloud\_shadow\_strength
 
 ```python
 @property
@@ -538,7 +538,7 @@ def cloud_shadow_strength() -> float
 
 <a id="unreal.DirectionalLightComponent.cloud_shadow_on_atmosphere_strength"></a>
 
-#### cloud_shadow_on_atmosphere_strength
+#### cloud\_shadow\_on\_atmosphere\_strength
 
 ```python
 @property
@@ -549,7 +549,7 @@ def cloud_shadow_on_atmosphere_strength() -> float
 
 <a id="unreal.DirectionalLightComponent.cloud_shadow_on_surface_strength"></a>
 
-#### cloud_shadow_on_surface_strength
+#### cloud\_shadow\_on\_surface\_strength
 
 ```python
 @property
@@ -560,7 +560,7 @@ def cloud_shadow_on_surface_strength() -> float
 
 <a id="unreal.DirectionalLightComponent.cloud_shadow_depth_bias"></a>
 
-#### cloud_shadow_depth_bias
+#### cloud\_shadow\_depth\_bias
 
 ```python
 @property
@@ -571,7 +571,7 @@ def cloud_shadow_depth_bias() -> float
 
 <a id="unreal.DirectionalLightComponent.cloud_shadow_extent"></a>
 
-#### cloud_shadow_extent
+#### cloud\_shadow\_extent
 
 ```python
 @property
@@ -582,7 +582,7 @@ def cloud_shadow_extent() -> float
 
 <a id="unreal.DirectionalLightComponent.cloud_shadow_map_resolution_scale"></a>
 
-#### cloud_shadow_map_resolution_scale
+#### cloud\_shadow\_map\_resolution\_scale
 
 ```python
 @property
@@ -593,7 +593,7 @@ def cloud_shadow_map_resolution_scale() -> float
 
 <a id="unreal.DirectionalLightComponent.cloud_shadow_ray_sample_count_scale"></a>
 
-#### cloud_shadow_ray_sample_count_scale
+#### cloud\_shadow\_ray\_sample\_count\_scale
 
 ```python
 @property
@@ -605,7 +605,7 @@ The sample count resolution is still clamped according to scalability setting to
 
 <a id="unreal.DirectionalLightComponent.cloud_scattered_luminance_scale"></a>
 
-#### cloud_scattered_luminance_scale
+#### cloud\_scattered\_luminance\_scale
 
 ```python
 @property
@@ -616,7 +616,7 @@ def cloud_scattered_luminance_scale() -> LinearColor
 
 <a id="unreal.DirectionalLightComponent.cast_modulated_shadows"></a>
 
-#### cast_modulated_shadows
+#### cast\_modulated\_shadows
 
 ```python
 @property
@@ -627,7 +627,7 @@ def cast_modulated_shadows() -> bool
 
 <a id="unreal.DirectionalLightComponent.modulated_shadow_color"></a>
 
-#### modulated_shadow_color
+#### modulated\_shadow\_color
 
 ```python
 @property
@@ -638,7 +638,7 @@ def modulated_shadow_color() -> Color
 
 <a id="unreal.DirectionalLightComponent.shadow_amount"></a>
 
-#### shadow_amount
+#### shadow\_amount
 
 ```python
 @property
@@ -649,7 +649,7 @@ def shadow_amount() -> float
 
 <a id="unreal.DirectionalLightComponent.set_shadow_source_angle_factor"></a>
 
-#### set_shadow_source_angle_factor
+#### set\_shadow\_source\_angle\_factor
 
 ```python
 def set_shadow_source_angle_factor(new_value: float) -> None
@@ -663,7 +663,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_shadow_distance_fadeout_fraction"></a>
 
-#### set_shadow_distance_fadeout_fraction
+#### set\_shadow\_distance\_fadeout\_fraction
 
 ```python
 def set_shadow_distance_fadeout_fraction(new_value: float) -> None
@@ -677,7 +677,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_shadow_cascade_bias_distribution"></a>
 
-#### set_shadow_cascade_bias_distribution
+#### set\_shadow\_cascade\_bias\_distribution
 
 ```python
 def set_shadow_cascade_bias_distribution(new_value: float) -> None
@@ -691,7 +691,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_shadow_amount"></a>
 
-#### set_shadow_amount
+#### set\_shadow\_amount
 
 ```python
 def set_shadow_amount(new_value: float) -> None
@@ -705,7 +705,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_occlusion_mask_darkness"></a>
 
-#### set_occlusion_mask_darkness
+#### set\_occlusion\_mask\_darkness
 
 ```python
 def set_occlusion_mask_darkness(new_value: float) -> None
@@ -719,7 +719,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_occlusion_depth_range"></a>
 
-#### set_occlusion_depth_range
+#### set\_occlusion\_depth\_range
 
 ```python
 def set_occlusion_depth_range(new_value: float) -> None
@@ -733,7 +733,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_light_source_soft_angle"></a>
 
-#### set_light_source_soft_angle
+#### set\_light\_source\_soft\_angle
 
 ```python
 def set_light_source_soft_angle(new_value: float) -> None
@@ -747,7 +747,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_light_source_angle"></a>
 
-#### set_light_source_angle
+#### set\_light\_source\_angle
 
 ```python
 def set_light_source_angle(new_value: float) -> None
@@ -761,7 +761,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_light_shaft_override_direction"></a>
 
-#### set_light_shaft_override_direction
+#### set\_light\_shaft\_override\_direction
 
 ```python
 def set_light_shaft_override_direction(new_value: Vector) -> None
@@ -775,7 +775,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_forward_shading_priority"></a>
 
-#### set_forward_shading_priority
+#### set\_forward\_shading\_priority
 
 ```python
 def set_forward_shading_priority(new_value: int) -> None
@@ -789,7 +789,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_enable_light_shaft_occlusion"></a>
 
-#### set_enable_light_shaft_occlusion
+#### set\_enable\_light\_shaft\_occlusion
 
 ```python
 def set_enable_light_shaft_occlusion(new_value: bool) -> None
@@ -803,7 +803,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_dynamic_shadow_distance_stationary_light"></a>
 
-#### set_dynamic_shadow_distance_stationary_light
+#### set\_dynamic\_shadow\_distance\_stationary\_light
 
 ```python
 def set_dynamic_shadow_distance_stationary_light(new_value: float) -> None
@@ -817,7 +817,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_dynamic_shadow_distance_movable_light"></a>
 
-#### set_dynamic_shadow_distance_movable_light
+#### set\_dynamic\_shadow\_distance\_movable\_light
 
 ```python
 def set_dynamic_shadow_distance_movable_light(new_value: float) -> None
@@ -831,7 +831,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_dynamic_shadow_cascades"></a>
 
-#### set_dynamic_shadow_cascades
+#### set\_dynamic\_shadow\_cascades
 
 ```python
 def set_dynamic_shadow_cascades(new_value: int) -> None
@@ -845,7 +845,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_cascade_transition_fraction"></a>
 
-#### set_cascade_transition_fraction
+#### set\_cascade\_transition\_fraction
 
 ```python
 def set_cascade_transition_fraction(new_value: float) -> None
@@ -859,7 +859,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_cascade_distribution_exponent"></a>
 
-#### set_cascade_distribution_exponent
+#### set\_cascade\_distribution\_exponent
 
 ```python
 def set_cascade_distribution_exponent(new_value: float) -> None
@@ -873,7 +873,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_atmosphere_sun_light_index"></a>
 
-#### set_atmosphere_sun_light_index
+#### set\_atmosphere\_sun\_light\_index
 
 ```python
 def set_atmosphere_sun_light_index(new_value: int) -> None
@@ -887,7 +887,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_atmosphere_sun_light"></a>
 
-#### set_atmosphere_sun_light
+#### set\_atmosphere\_sun\_light
 
 ```python
 def set_atmosphere_sun_light(new_value: bool) -> None
@@ -901,7 +901,7 @@ Args:
 
 <a id="unreal.DirectionalLightComponent.set_atmosphere_sun_disk_color_scale"></a>
 
-#### set_atmosphere_sun_disk_color_scale
+#### set\_atmosphere\_sun\_disk\_color\_scale
 
 ```python
 def set_atmosphere_sun_disk_color_scale(new_value: LinearColor) -> None

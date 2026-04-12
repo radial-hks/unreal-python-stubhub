@@ -14,7 +14,7 @@ The subsystem in charge of tracking MetaSound builders
 
 <a id="unreal.MetaSoundBuilderSubsystem.unregister_source_builder"></a>
 
-#### unregister_source_builder
+#### unregister\_source\_builder
 
 ```python
 def unregister_source_builder(builder_name: Name) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.unregister_patch_builder"></a>
 
-#### unregister_patch_builder
+#### unregister\_patch\_builder
 
 ```python
 def unregister_patch_builder(builder_name: Name) -> bool
@@ -48,7 +48,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.unregister_builder"></a>
 
-#### unregister_builder
+#### unregister\_builder
 
 ```python
 def unregister_builder(builder_name: Name) -> bool
@@ -65,7 +65,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.set_target_page"></a>
 
-#### set_target_page
+#### set\_target\_page
 
 ```python
 def set_target_page(page_name: Name) -> bool
@@ -85,7 +85,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.register_source_builder"></a>
 
-#### register_source_builder
+#### register\_source\_builder
 
 ```python
 def register_source_builder(builder_name: Name,
@@ -101,7 +101,7 @@ Args:
 
 <a id="unreal.MetaSoundBuilderSubsystem.register_patch_builder"></a>
 
-#### register_patch_builder
+#### register\_patch\_builder
 
 ```python
 def register_patch_builder(builder_name: Name,
@@ -117,7 +117,7 @@ Args:
 
 <a id="unreal.MetaSoundBuilderSubsystem.register_builder"></a>
 
-#### register_builder
+#### register\_builder
 
 ```python
 def register_builder(builder_name: Name,
@@ -133,7 +133,7 @@ Args:
 
 <a id="unreal.MetaSoundBuilderSubsystem.is_interface_registered"></a>
 
-#### is_interface_registered
+#### is\_interface\_registered
 
 ```python
 def is_interface_registered(interface_name: Name) -> bool
@@ -150,7 +150,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.find_source_builder"></a>
 
-#### find_source_builder
+#### find\_source\_builder
 
 ```python
 def find_source_builder(builder_name: Name) -> MetaSoundSourceBuilder
@@ -167,7 +167,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.find_patch_builder"></a>
 
-#### find_patch_builder
+#### find\_patch\_builder
 
 ```python
 def find_patch_builder(builder_name: Name) -> MetaSoundPatchBuilder
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.find_builder_of_document"></a>
 
-#### find_builder_of_document
+#### find\_builder\_of\_document
 
 ```python
 def find_builder_of_document(
@@ -202,7 +202,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.find_builder"></a>
 
-#### find_builder
+#### find\_builder
 
 ```python
 def find_builder(builder_name: Name) -> MetaSoundBuilderBase
@@ -219,7 +219,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_string_meta_sound_literal"></a>
 
-#### create_string_meta_sound_literal
+#### create\_string\_meta\_sound\_literal
 
 ```python
 def create_string_meta_sound_literal(
@@ -239,7 +239,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_string_array_meta_sound_literal"></a>
 
-#### create_string_array_meta_sound_literal
+#### create\_string\_array\_meta\_sound\_literal
 
 ```python
 def create_string_array_meta_sound_literal(
@@ -259,7 +259,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_source_preset_builder"></a>
 
-#### create_source_preset_builder
+#### create\_source\_preset\_builder
 
 ```python
 def create_source_preset_builder(
@@ -281,7 +281,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_source_builder"></a>
 
-#### create_source_builder
+#### create\_source\_builder
 
 ```python
 def create_source_builder(
@@ -315,7 +315,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_patch_preset_builder"></a>
 
-#### create_patch_preset_builder
+#### create\_patch\_preset\_builder
 
 ```python
 def create_patch_preset_builder(
@@ -337,7 +337,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_patch_builder"></a>
 
-#### create_patch_builder
+#### create\_patch\_builder
 
 ```python
 def create_patch_builder(
@@ -358,7 +358,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_object_meta_sound_literal"></a>
 
-#### create_object_meta_sound_literal
+#### create\_object\_meta\_sound\_literal
 
 ```python
 def create_object_meta_sound_literal(
@@ -376,7 +376,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_object_array_meta_sound_literal"></a>
 
-#### create_object_array_meta_sound_literal
+#### create\_object\_array\_meta\_sound\_literal
 
 ```python
 def create_object_array_meta_sound_literal(
@@ -394,7 +394,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_meta_sound_literal_from_param"></a>
 
-#### create_meta_sound_literal_from_param
+#### create\_meta\_sound\_literal\_from\_param
 
 ```python
 def create_meta_sound_literal_from_param(
@@ -412,7 +412,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_int_meta_sound_literal"></a>
 
-#### create_int_meta_sound_literal
+#### create\_int\_meta\_sound\_literal
 
 ```python
 def create_int_meta_sound_literal(
@@ -432,7 +432,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_int_array_meta_sound_literal"></a>
 
-#### create_int_array_meta_sound_literal
+#### create\_int\_array\_meta\_sound\_literal
 
 ```python
 def create_int_array_meta_sound_literal(
@@ -452,7 +452,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_float_meta_sound_literal"></a>
 
-#### create_float_meta_sound_literal
+#### create\_float\_meta\_sound\_literal
 
 ```python
 def create_float_meta_sound_literal(
@@ -472,7 +472,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_float_array_meta_sound_literal"></a>
 
-#### create_float_array_meta_sound_literal
+#### create\_float\_array\_meta\_sound\_literal
 
 ```python
 def create_float_array_meta_sound_literal(
@@ -492,7 +492,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_bool_meta_sound_literal"></a>
 
-#### create_bool_meta_sound_literal
+#### create\_bool\_meta\_sound\_literal
 
 ```python
 def create_bool_meta_sound_literal(
@@ -512,7 +512,7 @@ Returns:
 
 <a id="unreal.MetaSoundBuilderSubsystem.create_bool_array_meta_sound_literal"></a>
 
-#### create_bool_array_meta_sound_literal
+#### create\_bool\_array\_meta\_sound\_literal
 
 ```python
 def create_bool_array_meta_sound_literal(

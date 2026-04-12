@@ -13,13 +13,13 @@ EOccluded Geometry Filtering Policy
 
 <a id="unreal.OccludedGeometryFilteringPolicy.NO_OCCLUSION_FILTERING"></a>
 
-#### NO_OCCLUSION_FILTERING
+#### NO\_OCCLUSION\_FILTERING
 
 0
 
 <a id="unreal.OccludedGeometryFilteringPolicy.VISIBILITY_BASED_FILTERING"></a>
 
-#### VISIBILITY_BASED_FILTERING
+#### VISIBILITY\_BASED\_FILTERING
 
 1
 

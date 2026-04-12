@@ -20,7 +20,7 @@ Potential issue raised with a mapping request
 
 <a id="unreal.MappingQueryIssue.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(issue: MappingQueryIssueFlag = MappingQueryIssueFlag.NO_ISSUE,
@@ -41,7 +41,7 @@ def issue() -> MappingQueryIssueFlag
 
 <a id="unreal.MappingQueryIssue.blocking_context"></a>
 
-#### blocking_context
+#### blocking\_context
 
 ```python
 @property
@@ -52,7 +52,7 @@ def blocking_context() -> InputMappingContext
 
 <a id="unreal.MappingQueryIssue.blocking_action"></a>
 
-#### blocking_action
+#### blocking\_action
 
 ```python
 @property

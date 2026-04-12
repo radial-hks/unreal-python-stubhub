@@ -57,7 +57,7 @@ Expandable Area
 
 <a id="unreal.ExpandableArea.border_brush"></a>
 
-#### border_brush
+#### border\_brush
 
 ```python
 @property
@@ -68,7 +68,7 @@ def border_brush() -> SlateBrush
 
 <a id="unreal.ExpandableArea.border_brush"></a>
 
-#### border_brush
+#### border\_brush
 
 ```python
 @border_brush.setter
@@ -77,7 +77,7 @@ def border_brush(value: SlateBrush) -> None
 
 <a id="unreal.ExpandableArea.border_color"></a>
 
-#### border_color
+#### border\_color
 
 ```python
 @property
@@ -88,7 +88,7 @@ def border_color() -> SlateColor
 
 <a id="unreal.ExpandableArea.border_color"></a>
 
-#### border_color
+#### border\_color
 
 ```python
 @border_color.setter
@@ -97,7 +97,7 @@ def border_color(value: SlateColor) -> None
 
 <a id="unreal.ExpandableArea.is_expanded"></a>
 
-#### is_expanded
+#### is\_expanded
 
 ```python
 @property
@@ -108,7 +108,7 @@ def is_expanded() -> bool
 
 <a id="unreal.ExpandableArea.is_expanded"></a>
 
-#### is_expanded
+#### is\_expanded
 
 ```python
 @is_expanded.setter
@@ -117,7 +117,7 @@ def is_expanded(value: bool) -> None
 
 <a id="unreal.ExpandableArea.max_height"></a>
 
-#### max_height
+#### max\_height
 
 ```python
 @property
@@ -128,7 +128,7 @@ def max_height() -> float
 
 <a id="unreal.ExpandableArea.max_height"></a>
 
-#### max_height
+#### max\_height
 
 ```python
 @max_height.setter
@@ -137,7 +137,7 @@ def max_height(value: float) -> None
 
 <a id="unreal.ExpandableArea.header_padding"></a>
 
-#### header_padding
+#### header\_padding
 
 ```python
 @property
@@ -148,7 +148,7 @@ def header_padding() -> Margin
 
 <a id="unreal.ExpandableArea.header_padding"></a>
 
-#### header_padding
+#### header\_padding
 
 ```python
 @header_padding.setter
@@ -157,7 +157,7 @@ def header_padding(value: Margin) -> None
 
 <a id="unreal.ExpandableArea.area_padding"></a>
 
-#### area_padding
+#### area\_padding
 
 ```python
 @property
@@ -168,7 +168,7 @@ def area_padding() -> Margin
 
 <a id="unreal.ExpandableArea.area_padding"></a>
 
-#### area_padding
+#### area\_padding
 
 ```python
 @area_padding.setter
@@ -177,7 +177,7 @@ def area_padding(value: Margin) -> None
 
 <a id="unreal.ExpandableArea.on_expansion_changed"></a>
 
-#### on_expansion_changed
+#### on\_expansion\_changed
 
 ```python
 @property
@@ -188,7 +188,7 @@ def on_expansion_changed() -> OnExpandableAreaExpansionChanged
 
 <a id="unreal.ExpandableArea.on_expansion_changed"></a>
 
-#### on_expansion_changed
+#### on\_expansion\_changed
 
 ```python
 @on_expansion_changed.setter
@@ -197,7 +197,7 @@ def on_expansion_changed(value: OnExpandableAreaExpansionChanged) -> None
 
 <a id="unreal.ExpandableArea.set_is_expanded_animated"></a>
 
-#### set_is_expanded_animated
+#### set\_is\_expanded\_animated
 
 ```python
 def set_is_expanded_animated(is_expanded: bool) -> None
@@ -211,7 +211,7 @@ Args:
 
 <a id="unreal.ExpandableArea.set_is_expanded"></a>
 
-#### set_is_expanded
+#### set\_is\_expanded
 
 ```python
 def set_is_expanded(is_expanded: bool) -> None
@@ -225,7 +225,7 @@ Args:
 
 <a id="unreal.ExpandableArea.get_is_expanded"></a>
 
-#### get_is_expanded
+#### get\_is\_expanded
 
 ```python
 def get_is_expanded() -> bool

@@ -19,7 +19,7 @@ Trace Query Test Names
 
 <a id="unreal.TraceQueryTestNames.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component_name: Name = "None",
@@ -29,7 +29,7 @@ def __init__(component_name: Name = "None",
 
 <a id="unreal.TraceQueryTestNames.component_name"></a>
 
-#### component_name
+#### component\_name
 
 ```python
 @property
@@ -40,7 +40,7 @@ def component_name() -> Name
 
 <a id="unreal.TraceQueryTestNames.component_name"></a>
 
-#### component_name
+#### component\_name
 
 ```python
 @component_name.setter
@@ -49,7 +49,7 @@ def component_name(value: Name) -> None
 
 <a id="unreal.TraceQueryTestNames.physical_material_name"></a>
 
-#### physical_material_name
+#### physical\_material\_name
 
 ```python
 @property
@@ -60,7 +60,7 @@ def physical_material_name() -> Name
 
 <a id="unreal.TraceQueryTestNames.physical_material_name"></a>
 
-#### physical_material_name
+#### physical\_material\_name
 
 ```python
 @physical_material_name.setter
@@ -69,7 +69,7 @@ def physical_material_name(value: Name) -> None
 
 <a id="unreal.TraceQueryTestNames.actor_name"></a>
 
-#### actor_name
+#### actor\_name
 
 ```python
 @property
@@ -80,7 +80,7 @@ def actor_name() -> Name
 
 <a id="unreal.TraceQueryTestNames.actor_name"></a>
 
-#### actor_name
+#### actor\_name
 
 ```python
 @actor_name.setter

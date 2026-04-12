@@ -18,7 +18,7 @@ on the given player controller.
 
 <a id="unreal.ActivateCameraRigFunctions.activate_persistent_visual_camera_rig"></a>
 
-#### activate_persistent_visual_camera_rig
+#### activate\_persistent\_visual\_camera\_rig
 
 ```python
 @classmethod
@@ -37,7 +37,7 @@ Args:
 
 <a id="unreal.ActivateCameraRigFunctions.activate_visual_camera_rig"></a>
 
-#### activate_visual_camera_rig
+#### activate\_visual\_camera\_rig
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ deprecated: 'activate_visual_camera_rig' was renamed to 'activate_persistent_vis
 
 <a id="unreal.ActivateCameraRigFunctions.activate_persistent_global_camera_rig"></a>
 
-#### activate_persistent_global_camera_rig
+#### activate\_persistent\_global\_camera\_rig
 
 ```python
 @classmethod
@@ -69,7 +69,7 @@ Args:
 
 <a id="unreal.ActivateCameraRigFunctions.activate_global_camera_rig"></a>
 
-#### activate_global_camera_rig
+#### activate\_global\_camera\_rig
 
 ```python
 @classmethod
@@ -82,7 +82,7 @@ deprecated: 'activate_global_camera_rig' was renamed to 'activate_persistent_glo
 
 <a id="unreal.ActivateCameraRigFunctions.activate_persistent_base_camera_rig"></a>
 
-#### activate_persistent_base_camera_rig
+#### activate\_persistent\_base\_camera\_rig
 
 ```python
 @classmethod
@@ -101,7 +101,7 @@ Args:
 
 <a id="unreal.ActivateCameraRigFunctions.activate_base_camera_rig"></a>
 
-#### activate_base_camera_rig
+#### activate\_base\_camera\_rig
 
 ```python
 @classmethod

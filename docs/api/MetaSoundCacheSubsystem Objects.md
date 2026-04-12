@@ -14,7 +14,7 @@ UMetaSoundCacheSubsystem
 
 <a id="unreal.MetaSoundCacheSubsystem.touch_or_precache_meta_sound"></a>
 
-#### touch_or_precache_meta_sound
+#### touch\_or\_precache\_meta\_sound
 
 ```python
 def touch_or_precache_meta_sound(meta_sound: MetaSoundSource,
@@ -32,7 +32,7 @@ Args:
 
 <a id="unreal.MetaSoundCacheSubsystem.remove_cached_operators_for_meta_sound"></a>
 
-#### remove_cached_operators_for_meta_sound
+#### remove\_cached\_operators\_for\_meta\_sound
 
 ```python
 def remove_cached_operators_for_meta_sound(
@@ -47,7 +47,7 @@ Args:
 
 <a id="unreal.MetaSoundCacheSubsystem.precache_meta_sound"></a>
 
-#### precache_meta_sound
+#### precache\_meta\_sound
 
 ```python
 def precache_meta_sound(meta_sound: MetaSoundSource,

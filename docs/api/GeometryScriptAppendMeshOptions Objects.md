@@ -18,7 +18,7 @@ Control how details like mesh attributes are handled when one mesh is appended t
 
 <a id="unreal.GeometryScriptAppendMeshOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -30,7 +30,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptAppendMeshOptions.combine_mode"></a>
 
-#### combine_mode
+#### combine\_mode
 
 ```python
 @property
@@ -41,7 +41,7 @@ def combine_mode() -> GeometryScriptCombineAttributesMode
 
 <a id="unreal.GeometryScriptAppendMeshOptions.combine_mode"></a>
 
-#### combine_mode
+#### combine\_mode
 
 ```python
 @combine_mode.setter

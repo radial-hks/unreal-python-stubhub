@@ -18,7 +18,7 @@ Geometry Script Channel Pack Result
 
 <a id="unreal.GeometryScriptChannelPackResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(output: Texture2D = None) -> None

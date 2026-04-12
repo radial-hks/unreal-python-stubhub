@@ -14,7 +14,7 @@ Niagara Sim Cache Function Library
 
 <a id="unreal.NiagaraSimCacheFunctionLibrary.create_niagara_sim_cache"></a>
 
-#### create_niagara_sim_cache
+#### create\_niagara\_sim\_cache
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.NiagaraSimCacheFunctionLibrary.capture_niagara_sim_cache_immediate"></a>
 
-#### capture_niagara_sim_cache_immediate
+#### capture\_niagara\_sim\_cache\_immediate
 
 ```python
 @classmethod

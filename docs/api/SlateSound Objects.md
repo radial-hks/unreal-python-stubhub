@@ -18,7 +18,7 @@ An intermediary to make UBaseSound available for Slate to play sounds
 
 <a id="unreal.SlateSound.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(resource_object: Object = None) -> None
@@ -26,7 +26,7 @@ def __init__(resource_object: Object = None) -> None
 
 <a id="unreal.SlateSound.resource_object"></a>
 
-#### resource_object
+#### resource\_object
 
 ```python
 @property
@@ -38,7 +38,7 @@ Edited via FSlateSoundStructCustomization to ensure you can only set USoundBase 
 
 <a id="unreal.SlateSound.resource_object"></a>
 
-#### resource_object
+#### resource\_object
 
 ```python
 @resource_object.setter

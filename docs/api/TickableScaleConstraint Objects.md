@@ -24,7 +24,7 @@ UTickableScaleConstraint
 
 <a id="unreal.TickableScaleConstraint.offset_scale"></a>
 
-#### offset_scale
+#### offset\_scale
 
 ```python
 @property
@@ -35,7 +35,7 @@ def offset_scale() -> Vector
 
 <a id="unreal.TickableScaleConstraint.offset_scale"></a>
 
-#### offset_scale
+#### offset\_scale
 
 ```python
 @offset_scale.setter
@@ -44,7 +44,7 @@ def offset_scale(value: Vector) -> None
 
 <a id="unreal.TickableScaleConstraint.axis_filter"></a>
 
-#### axis_filter
+#### axis\_filter
 
 ```python
 @property
@@ -55,7 +55,7 @@ def axis_filter() -> FilterOptionPerAxis
 
 <a id="unreal.TickableScaleConstraint.axis_filter"></a>
 
-#### axis_filter
+#### axis\_filter
 
 ```python
 @axis_filter.setter

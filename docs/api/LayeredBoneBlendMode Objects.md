@@ -13,13 +13,13 @@ ELayered Bone Blend Mode
 
 <a id="unreal.LayeredBoneBlendMode.BRANCH_FILTER"></a>
 
-#### BRANCH_FILTER
+#### BRANCH\_FILTER
 
 0
 
 <a id="unreal.LayeredBoneBlendMode.BLEND_MASK"></a>
 
-#### BLEND_MASK
+#### BLEND\_MASK
 
 1
 

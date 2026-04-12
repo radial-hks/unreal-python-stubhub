@@ -25,7 +25,7 @@ Datasmith Scene
 
 <a id="unreal.DatasmithScene.has_asset_user_data_of_class"></a>
 
-#### has_asset_user_data_of_class
+#### has\_asset\_user\_data\_of\_class
 
 ```python
 def has_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.DatasmithScene.get_asset_user_data_of_class"></a>
 
-#### get_asset_user_data_of_class
+#### get\_asset\_user\_data\_of\_class
 
 ```python
 def get_asset_user_data_of_class(user_data_class: Class) -> AssetUserData
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.DatasmithScene.add_asset_user_data_of_class"></a>
 
-#### add_asset_user_data_of_class
+#### add\_asset\_user\_data\_of\_class
 
 ```python
 def add_asset_user_data_of_class(user_data_class: Class) -> bool
@@ -74,4 +74,4 @@ Args:
 Returns:
     bool: Whether or not an instance of InUserDataClass was succesfully added
 
-<a id="unreal.GeometryCacheCodecBase"></a>
+<a id="unreal.NiagaraDataChannel"></a>

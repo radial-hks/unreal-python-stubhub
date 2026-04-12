@@ -14,19 +14,19 @@ ETake Recorder State
 
 <a id="unreal.TakeRecorderState.COUNTING_DOWN"></a>
 
-#### COUNTING_DOWN
+#### COUNTING\_DOWN
 
 0
 
 <a id="unreal.TakeRecorderState.PRE_RECORD"></a>
 
-#### PRE_RECORD
+#### PRE\_RECORD
 
 1
 
 <a id="unreal.TakeRecorderState.TICKING_AFTER_PRE"></a>
 
-#### TICKING_AFTER_PRE
+#### TICKING\_AFTER\_PRE
 
 2
 

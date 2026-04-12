@@ -14,19 +14,19 @@ Defines which Player Mappable Key Setting to use for a Action Key Mapping.
 
 <a id="unreal.PlayerMappableKeySettingBehaviors.INHERIT_SETTINGS_FROM_ACTION"></a>
 
-#### INHERIT_SETTINGS_FROM_ACTION
+#### INHERIT\_SETTINGS\_FROM\_ACTION
 
 0: Use the Settings specified in the Input Action.
 
 <a id="unreal.PlayerMappableKeySettingBehaviors.OVERRIDE_SETTINGS"></a>
 
-#### OVERRIDE_SETTINGS
+#### OVERRIDE\_SETTINGS
 
 1: Use the Settings specified in the Action Key Mapping overriding the ones specified in the Input action.
 
 <a id="unreal.PlayerMappableKeySettingBehaviors.IGNORE_SETTINGS"></a>
 
-#### IGNORE_SETTINGS
+#### IGNORE\_SETTINGS
 
 2: Don't use any Settings even if one is specified in the Input Action.
 

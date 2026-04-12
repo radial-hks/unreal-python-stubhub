@@ -36,7 +36,7 @@ Note: If a new field is added to this struct, think to update GroomComponentDest
 
 <a id="unreal.HairGroupDesc.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(hair_width: float = 0.000000,
@@ -62,7 +62,7 @@ def __init__(hair_width: float = 0.000000,
 
 <a id="unreal.HairGroupDesc.hair_width"></a>
 
-#### hair_width
+#### hair\_width
 
 ```python
 @property
@@ -73,7 +73,7 @@ def hair_width() -> float
 
 <a id="unreal.HairGroupDesc.hair_width"></a>
 
-#### hair_width
+#### hair\_width
 
 ```python
 @hair_width.setter
@@ -82,7 +82,7 @@ def hair_width(value: float) -> None
 
 <a id="unreal.HairGroupDesc.hair_width_override"></a>
 
-#### hair_width_override
+#### hair\_width\_override
 
 ```python
 @property
@@ -93,7 +93,7 @@ def hair_width_override() -> bool
 
 <a id="unreal.HairGroupDesc.hair_width_override"></a>
 
-#### hair_width_override
+#### hair\_width\_override
 
 ```python
 @hair_width_override.setter
@@ -102,7 +102,7 @@ def hair_width_override(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.hair_root_scale"></a>
 
-#### hair_root_scale
+#### hair\_root\_scale
 
 ```python
 @property
@@ -113,7 +113,7 @@ def hair_root_scale() -> float
 
 <a id="unreal.HairGroupDesc.hair_root_scale"></a>
 
-#### hair_root_scale
+#### hair\_root\_scale
 
 ```python
 @hair_root_scale.setter
@@ -122,7 +122,7 @@ def hair_root_scale(value: float) -> None
 
 <a id="unreal.HairGroupDesc.hair_root_scale_override"></a>
 
-#### hair_root_scale_override
+#### hair\_root\_scale\_override
 
 ```python
 @property
@@ -133,7 +133,7 @@ def hair_root_scale_override() -> bool
 
 <a id="unreal.HairGroupDesc.hair_root_scale_override"></a>
 
-#### hair_root_scale_override
+#### hair\_root\_scale\_override
 
 ```python
 @hair_root_scale_override.setter
@@ -142,7 +142,7 @@ def hair_root_scale_override(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.hair_tip_scale"></a>
 
-#### hair_tip_scale
+#### hair\_tip\_scale
 
 ```python
 @property
@@ -153,7 +153,7 @@ def hair_tip_scale() -> float
 
 <a id="unreal.HairGroupDesc.hair_tip_scale"></a>
 
-#### hair_tip_scale
+#### hair\_tip\_scale
 
 ```python
 @hair_tip_scale.setter
@@ -162,7 +162,7 @@ def hair_tip_scale(value: float) -> None
 
 <a id="unreal.HairGroupDesc.hair_tip_scale_override"></a>
 
-#### hair_tip_scale_override
+#### hair\_tip\_scale\_override
 
 ```python
 @property
@@ -173,7 +173,7 @@ def hair_tip_scale_override() -> bool
 
 <a id="unreal.HairGroupDesc.hair_tip_scale_override"></a>
 
-#### hair_tip_scale_override
+#### hair\_tip\_scale\_override
 
 ```python
 @hair_tip_scale_override.setter
@@ -182,7 +182,7 @@ def hair_tip_scale_override(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.hair_shadow_density"></a>
 
-#### hair_shadow_density
+#### hair\_shadow\_density
 
 ```python
 @property
@@ -193,7 +193,7 @@ def hair_shadow_density() -> float
 
 <a id="unreal.HairGroupDesc.hair_shadow_density"></a>
 
-#### hair_shadow_density
+#### hair\_shadow\_density
 
 ```python
 @hair_shadow_density.setter
@@ -202,7 +202,7 @@ def hair_shadow_density(value: float) -> None
 
 <a id="unreal.HairGroupDesc.hair_shadow_density_override"></a>
 
-#### hair_shadow_density_override
+#### hair\_shadow\_density\_override
 
 ```python
 @property
@@ -213,7 +213,7 @@ def hair_shadow_density_override() -> bool
 
 <a id="unreal.HairGroupDesc.hair_shadow_density_override"></a>
 
-#### hair_shadow_density_override
+#### hair\_shadow\_density\_override
 
 ```python
 @hair_shadow_density_override.setter
@@ -222,7 +222,7 @@ def hair_shadow_density_override(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.hair_raytracing_radius_scale"></a>
 
-#### hair_raytracing_radius_scale
+#### hair\_raytracing\_radius\_scale
 
 ```python
 @property
@@ -233,7 +233,7 @@ def hair_raytracing_radius_scale() -> float
 
 <a id="unreal.HairGroupDesc.hair_raytracing_radius_scale"></a>
 
-#### hair_raytracing_radius_scale
+#### hair\_raytracing\_radius\_scale
 
 ```python
 @hair_raytracing_radius_scale.setter
@@ -242,7 +242,7 @@ def hair_raytracing_radius_scale(value: float) -> None
 
 <a id="unreal.HairGroupDesc.hair_raytracing_radius_scale_override"></a>
 
-#### hair_raytracing_radius_scale_override
+#### hair\_raytracing\_radius\_scale\_override
 
 ```python
 @property
@@ -253,7 +253,7 @@ def hair_raytracing_radius_scale_override() -> bool
 
 <a id="unreal.HairGroupDesc.hair_raytracing_radius_scale_override"></a>
 
-#### hair_raytracing_radius_scale_override
+#### hair\_raytracing\_radius\_scale\_override
 
 ```python
 @hair_raytracing_radius_scale_override.setter
@@ -262,7 +262,7 @@ def hair_raytracing_radius_scale_override(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.use_hair_raytracing_geometry"></a>
 
-#### use_hair_raytracing_geometry
+#### use\_hair\_raytracing\_geometry
 
 ```python
 @property
@@ -273,7 +273,7 @@ def use_hair_raytracing_geometry() -> bool
 
 <a id="unreal.HairGroupDesc.use_hair_raytracing_geometry"></a>
 
-#### use_hair_raytracing_geometry
+#### use\_hair\_raytracing\_geometry
 
 ```python
 @use_hair_raytracing_geometry.setter
@@ -282,7 +282,7 @@ def use_hair_raytracing_geometry(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.use_hair_raytracing_geometry_override"></a>
 
-#### use_hair_raytracing_geometry_override
+#### use\_hair\_raytracing\_geometry\_override
 
 ```python
 @property
@@ -293,7 +293,7 @@ def use_hair_raytracing_geometry_override() -> bool
 
 <a id="unreal.HairGroupDesc.use_hair_raytracing_geometry_override"></a>
 
-#### use_hair_raytracing_geometry_override
+#### use\_hair\_raytracing\_geometry\_override
 
 ```python
 @use_hair_raytracing_geometry_override.setter
@@ -302,7 +302,7 @@ def use_hair_raytracing_geometry_override(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.lod_bias"></a>
 
-#### lod_bias
+#### lod\_bias
 
 ```python
 @property
@@ -313,7 +313,7 @@ def lod_bias() -> float
 
 <a id="unreal.HairGroupDesc.lod_bias"></a>
 
-#### lod_bias
+#### lod\_bias
 
 ```python
 @lod_bias.setter
@@ -322,7 +322,7 @@ def lod_bias(value: float) -> None
 
 <a id="unreal.HairGroupDesc.use_stable_rasterization"></a>
 
-#### use_stable_rasterization
+#### use\_stable\_rasterization
 
 ```python
 @property
@@ -333,7 +333,7 @@ def use_stable_rasterization() -> bool
 
 <a id="unreal.HairGroupDesc.use_stable_rasterization_override"></a>
 
-#### use_stable_rasterization_override
+#### use\_stable\_rasterization\_override
 
 ```python
 @property
@@ -344,7 +344,7 @@ def use_stable_rasterization_override() -> bool
 
 <a id="unreal.HairGroupDesc.use_stable_rasterization_override"></a>
 
-#### use_stable_rasterization_override
+#### use\_stable\_rasterization\_override
 
 ```python
 @use_stable_rasterization_override.setter
@@ -353,7 +353,7 @@ def use_stable_rasterization_override(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.scatter_scene_lighting"></a>
 
-#### scatter_scene_lighting
+#### scatter\_scene\_lighting
 
 ```python
 @property
@@ -364,7 +364,7 @@ def scatter_scene_lighting() -> bool
 
 <a id="unreal.HairGroupDesc.scatter_scene_lighting_override"></a>
 
-#### scatter_scene_lighting_override
+#### scatter\_scene\_lighting\_override
 
 ```python
 @property
@@ -375,7 +375,7 @@ def scatter_scene_lighting_override() -> bool
 
 <a id="unreal.HairGroupDesc.scatter_scene_lighting_override"></a>
 
-#### scatter_scene_lighting_override
+#### scatter\_scene\_lighting\_override
 
 ```python
 @scatter_scene_lighting_override.setter
@@ -384,7 +384,7 @@ def scatter_scene_lighting_override(value: bool) -> None
 
 <a id="unreal.HairGroupDesc.hair_length_scale"></a>
 
-#### hair_length_scale
+#### hair\_length\_scale
 
 ```python
 @property
@@ -395,7 +395,7 @@ def hair_length_scale() -> float
 
 <a id="unreal.HairGroupDesc.hair_length_scale"></a>
 
-#### hair_length_scale
+#### hair\_length\_scale
 
 ```python
 @hair_length_scale.setter
@@ -404,7 +404,7 @@ def hair_length_scale(value: float) -> None
 
 <a id="unreal.HairGroupDesc.hair_length_scale_override"></a>
 
-#### hair_length_scale_override
+#### hair\_length\_scale\_override
 
 ```python
 @property
@@ -415,7 +415,7 @@ def hair_length_scale_override() -> bool
 
 <a id="unreal.HairGroupDesc.hair_length_scale_override"></a>
 
-#### hair_length_scale_override
+#### hair\_length\_scale\_override
 
 ```python
 @hair_length_scale_override.setter

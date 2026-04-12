@@ -28,7 +28,7 @@ We assign these to UGeometryCaches generated from USD
 
 <a id="unreal.UsdGeometryCacheAssetUserData.layer_start_offset_seconds"></a>
 
-#### layer_start_offset_seconds
+#### layer\_start\_offset\_seconds
 
 ```python
 @property
@@ -39,7 +39,7 @@ def layer_start_offset_seconds() -> float
 
 <a id="unreal.UsdGeometryCacheAssetUserData.layer_start_offset_seconds"></a>
 
-#### layer_start_offset_seconds
+#### layer\_start\_offset\_seconds
 
 ```python
 @layer_start_offset_seconds.setter

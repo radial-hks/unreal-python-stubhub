@@ -32,7 +32,7 @@ class BaseAttenuationSettings(StructBase)
 
 <a id="unreal.BaseAttenuationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -52,7 +52,7 @@ def __init__(
 
 <a id="unreal.BaseAttenuationSettings.distance_algorithm"></a>
 
-#### distance_algorithm
+#### distance\_algorithm
 
 ```python
 @property
@@ -63,7 +63,7 @@ def distance_algorithm() -> AttenuationDistanceModel
 
 <a id="unreal.BaseAttenuationSettings.distance_algorithm"></a>
 
-#### distance_algorithm
+#### distance\_algorithm
 
 ```python
 @distance_algorithm.setter
@@ -72,7 +72,7 @@ def distance_algorithm(value: AttenuationDistanceModel) -> None
 
 <a id="unreal.BaseAttenuationSettings.attenuation_shape"></a>
 
-#### attenuation_shape
+#### attenuation\_shape
 
 ```python
 @property
@@ -83,7 +83,7 @@ def attenuation_shape() -> AttenuationShape
 
 <a id="unreal.BaseAttenuationSettings.attenuation_shape"></a>
 
-#### attenuation_shape
+#### attenuation\_shape
 
 ```python
 @attenuation_shape.setter
@@ -92,7 +92,7 @@ def attenuation_shape(value: AttenuationShape) -> None
 
 <a id="unreal.BaseAttenuationSettings.falloff_mode"></a>
 
-#### falloff_mode
+#### falloff\_mode
 
 ```python
 @property
@@ -105,7 +105,7 @@ def falloff_mode() -> NaturalSoundFalloffMode
 
 <a id="unreal.BaseAttenuationSettings.falloff_mode"></a>
 
-#### falloff_mode
+#### falloff\_mode
 
 ```python
 @falloff_mode.setter
@@ -114,7 +114,7 @@ def falloff_mode(value: NaturalSoundFalloffMode) -> None
 
 <a id="unreal.BaseAttenuationSettings.d_b_attenuation_at_max"></a>
 
-#### d_b_attenuation_at_max
+#### d\_b\_attenuation\_at\_max
 
 ```python
 @property
@@ -125,7 +125,7 @@ def d_b_attenuation_at_max() -> float
 
 <a id="unreal.BaseAttenuationSettings.d_b_attenuation_at_max"></a>
 
-#### d_b_attenuation_at_max
+#### d\_b\_attenuation\_at\_max
 
 ```python
 @d_b_attenuation_at_max.setter
@@ -134,7 +134,7 @@ def d_b_attenuation_at_max(value: float) -> None
 
 <a id="unreal.BaseAttenuationSettings.attenuation_shape_extents"></a>
 
-#### attenuation_shape_extents
+#### attenuation\_shape\_extents
 
 ```python
 @property
@@ -149,7 +149,7 @@ def attenuation_shape_extents() -> Vector
 
 <a id="unreal.BaseAttenuationSettings.attenuation_shape_extents"></a>
 
-#### attenuation_shape_extents
+#### attenuation\_shape\_extents
 
 ```python
 @attenuation_shape_extents.setter
@@ -158,7 +158,7 @@ def attenuation_shape_extents(value: Vector) -> None
 
 <a id="unreal.BaseAttenuationSettings.cone_offset"></a>
 
-#### cone_offset
+#### cone\_offset
 
 ```python
 @property
@@ -169,7 +169,7 @@ def cone_offset() -> float
 
 <a id="unreal.BaseAttenuationSettings.cone_offset"></a>
 
-#### cone_offset
+#### cone\_offset
 
 ```python
 @cone_offset.setter
@@ -178,7 +178,7 @@ def cone_offset(value: float) -> None
 
 <a id="unreal.BaseAttenuationSettings.falloff_distance"></a>
 
-#### falloff_distance
+#### falloff\_distance
 
 ```python
 @property
@@ -189,7 +189,7 @@ def falloff_distance() -> float
 
 <a id="unreal.BaseAttenuationSettings.falloff_distance"></a>
 
-#### falloff_distance
+#### falloff\_distance
 
 ```python
 @falloff_distance.setter
@@ -198,7 +198,7 @@ def falloff_distance(value: float) -> None
 
 <a id="unreal.BaseAttenuationSettings.cone_sphere_radius"></a>
 
-#### cone_sphere_radius
+#### cone\_sphere\_radius
 
 ```python
 @property
@@ -209,7 +209,7 @@ def cone_sphere_radius() -> float
 
 <a id="unreal.BaseAttenuationSettings.cone_sphere_radius"></a>
 
-#### cone_sphere_radius
+#### cone\_sphere\_radius
 
 ```python
 @cone_sphere_radius.setter
@@ -218,7 +218,7 @@ def cone_sphere_radius(value: float) -> None
 
 <a id="unreal.BaseAttenuationSettings.cone_sphere_falloff_distance"></a>
 
-#### cone_sphere_falloff_distance
+#### cone\_sphere\_falloff\_distance
 
 ```python
 @property
@@ -229,7 +229,7 @@ def cone_sphere_falloff_distance() -> float
 
 <a id="unreal.BaseAttenuationSettings.cone_sphere_falloff_distance"></a>
 
-#### cone_sphere_falloff_distance
+#### cone\_sphere\_falloff\_distance
 
 ```python
 @cone_sphere_falloff_distance.setter
@@ -238,7 +238,7 @@ def cone_sphere_falloff_distance(value: float) -> None
 
 <a id="unreal.BaseAttenuationSettings.custom_attenuation_curve"></a>
 
-#### custom_attenuation_curve
+#### custom\_attenuation\_curve
 
 ```python
 @property
@@ -249,7 +249,7 @@ def custom_attenuation_curve() -> RuntimeFloatCurve
 
 <a id="unreal.BaseAttenuationSettings.custom_attenuation_curve"></a>
 
-#### custom_attenuation_curve
+#### custom\_attenuation\_curve
 
 ```python
 @custom_attenuation_curve.setter

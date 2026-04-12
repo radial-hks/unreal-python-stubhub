@@ -14,13 +14,13 @@ EDistance Field Compute Mode
 
 <a id="unreal.DistanceFieldComputeMode.NARROW_BAND"></a>
 
-#### NARROW_BAND
+#### NARROW\_BAND
 
 0: Compute distances in a narrow band around the input. Outside of this band, field will have large, correctly-signed values.
 
 <a id="unreal.DistanceFieldComputeMode.FULL_GRID"></a>
 
-#### FULL_GRID
+#### FULL\_GRID
 
 1: Compute distances in the full grid
 

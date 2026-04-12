@@ -21,7 +21,7 @@ Rig VMGraph Function Identifier
 
 <a id="unreal.RigVMGraphFunctionIdentifier.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(host_object: SoftObjectPath = [""]) -> None
@@ -29,7 +29,7 @@ def __init__(host_object: SoftObjectPath = [""]) -> None
 
 <a id="unreal.RigVMGraphFunctionIdentifier.library_node"></a>
 
-#### library_node
+#### library\_node
 
 ```python
 @property
@@ -41,7 +41,7 @@ deprecated: Property 'LibraryNode' is deprecated.
 
 <a id="unreal.RigVMGraphFunctionIdentifier.library_node"></a>
 
-#### library_node
+#### library\_node
 
 ```python
 @library_node.setter
@@ -50,7 +50,7 @@ def library_node(value: SoftObjectPath) -> None
 
 <a id="unreal.RigVMGraphFunctionIdentifier.host_object"></a>
 
-#### host_object
+#### host\_object
 
 ```python
 @property

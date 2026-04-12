@@ -25,7 +25,7 @@ XRHand Tracking State
 
 <a id="unreal.XRHandTrackingState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(valid: bool = False,
@@ -52,7 +52,7 @@ def valid() -> bool
 
 <a id="unreal.XRHandTrackingState.device_name"></a>
 
-#### device_name
+#### device\_name
 
 ```python
 @property
@@ -63,7 +63,7 @@ def device_name() -> Name
 
 <a id="unreal.XRHandTrackingState.application_instance_id"></a>
 
-#### application_instance_id
+#### application\_instance\_id
 
 ```python
 @property
@@ -74,7 +74,7 @@ def application_instance_id() -> Guid
 
 <a id="unreal.XRHandTrackingState.xr_space_type"></a>
 
-#### xr_space_type
+#### xr\_space\_type
 
 ```python
 @property
@@ -96,7 +96,7 @@ def hand() -> ControllerHand
 
 <a id="unreal.XRHandTrackingState.tracking_status"></a>
 
-#### tracking_status
+#### tracking\_status
 
 ```python
 @property
@@ -107,7 +107,7 @@ def tracking_status() -> TrackingStatus
 
 <a id="unreal.XRHandTrackingState.hand_key_locations"></a>
 
-#### hand_key_locations
+#### hand\_key\_locations
 
 ```python
 @property
@@ -118,7 +118,7 @@ def hand_key_locations() -> Array[Vector]
 
 <a id="unreal.XRHandTrackingState.hand_key_rotations"></a>
 
-#### hand_key_rotations
+#### hand\_key\_rotations
 
 ```python
 @property
@@ -129,7 +129,7 @@ def hand_key_rotations() -> Array[Quat]
 
 <a id="unreal.XRHandTrackingState.hand_key_radii"></a>
 
-#### hand_key_radii
+#### hand\_key\_radii
 
 ```python
 @property

@@ -8,7 +8,7 @@ deprecated: 'StateTreeConditionItem' was renamed to 'StateTreeEditorNode'.
 
 <a id="unreal.StateTreeConditionItem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

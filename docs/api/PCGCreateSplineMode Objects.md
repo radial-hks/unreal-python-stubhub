@@ -14,13 +14,13 @@ EPCGCreate Spline Mode
 
 <a id="unreal.PCGCreateSplineMode.CREATE_DATA_ONLY"></a>
 
-#### CREATE_DATA_ONLY
+#### CREATE\_DATA\_ONLY
 
 0
 
 <a id="unreal.PCGCreateSplineMode.CREATE_COMPONENT"></a>
 
-#### CREATE_COMPONENT
+#### CREATE\_COMPONENT
 
 1
 

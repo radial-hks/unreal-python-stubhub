@@ -20,7 +20,7 @@ note: The full C++ class is located here: Engine\Source\Runtime\Core\Public\Math
 
 <a id="unreal.Vector.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(x: float = 0.000000,
@@ -90,7 +90,7 @@ def z(value: float) -> None
 
 <a id="unreal.Vector.length2d_squared"></a>
 
-#### length2d_squared
+#### length2d\_squared
 
 ```python
 def length2d_squared() -> float
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.Vector.length_squared"></a>
 
-#### length_squared
+#### length\_squared
 
 ```python
 def length_squared() -> float
@@ -146,7 +146,7 @@ Returns:
 
 <a id="unreal.Vector.lerp_to"></a>
 
-#### lerp_to
+#### lerp\_to
 
 ```python
 def lerp_to(b: Vector, alpha: float) -> Vector
@@ -164,7 +164,7 @@ Returns:
 
 <a id="unreal.Vector.interp_to_constant"></a>
 
-#### interp_to_constant
+#### interp\_to\_constant
 
 ```python
 def interp_to_constant(target: Vector, delta_time: float,
@@ -184,7 +184,7 @@ Returns:
 
 <a id="unreal.Vector.interp_to"></a>
 
-#### interp_to
+#### interp\_to
 
 ```python
 def interp_to(target: Vector, delta_time: float,
@@ -204,7 +204,7 @@ Returns:
 
 <a id="unreal.Vector.interp_spring_to"></a>
 
-#### interp_spring_to
+#### interp\_spring\_to
 
 ```python
 def interp_spring_to(
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.Vector.unwind_euler"></a>
 
-#### unwind_euler
+#### unwind\_euler
 
 ```python
 def unwind_euler() -> None
@@ -256,7 +256,7 @@ When this vector contains Euler angles (degrees), ensure that angles are between
 
 <a id="unreal.Vector.unit_cartesian_to_spherical"></a>
 
-#### unit_cartesian_to_spherical
+#### unit\_cartesian\_to\_spherical
 
 ```python
 def unit_cartesian_to_spherical() -> Vector2D
@@ -270,7 +270,7 @@ Returns:
 
 <a id="unreal.Vector.to_radians"></a>
 
-#### to_radians
+#### to\_radians
 
 ```python
 def to_radians() -> Vector
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.Vector.to_degrees"></a>
 
-#### to_degrees
+#### to\_degrees
 
 ```python
 def to_degrees() -> Vector
@@ -298,7 +298,7 @@ Returns:
 
 <a id="unreal.Vector.snapped_to_grid"></a>
 
-#### snapped_to_grid
+#### snapped\_to\_grid
 
 ```python
 def snapped_to_grid(grid_size: float) -> Vector
@@ -315,7 +315,7 @@ Returns:
 
 <a id="unreal.Vector.slerp_vectors"></a>
 
-#### slerp_vectors
+#### slerp\_vectors
 
 ```python
 def slerp_vectors(direction: Vector, alpha: float) -> Vector
@@ -333,7 +333,7 @@ Returns:
 
 <a id="unreal.Vector.slerp_normals"></a>
 
-#### slerp_normals
+#### slerp\_normals
 
 ```python
 def slerp_normals(normal_b: Vector, alpha: float) -> Vector
@@ -382,7 +382,7 @@ Returns:
 
 <a id="unreal.Vector.project_on_to_normal"></a>
 
-#### project_on_to_normal
+#### project\_on\_to\_normal
 
 ```python
 def project_on_to_normal(normal: Vector) -> Vector
@@ -399,7 +399,7 @@ Returns:
 
 <a id="unreal.Vector.normal_unsafe"></a>
 
-#### normal_unsafe
+#### normal\_unsafe
 
 ```python
 def normal_unsafe() -> Vector
@@ -445,7 +445,7 @@ Returns:
 
 <a id="unreal.Vector.mirror_by_plane"></a>
 
-#### mirror_by_plane
+#### mirror\_by\_plane
 
 ```python
 def mirror_by_plane(plane: Plane) -> Vector
@@ -462,7 +462,7 @@ Returns:
 
 <a id="unreal.Vector.is_zero"></a>
 
-#### is_zero
+#### is\_zero
 
 ```python
 def is_zero() -> bool
@@ -476,7 +476,7 @@ Returns:
 
 <a id="unreal.Vector.is_unit"></a>
 
-#### is_unit
+#### is\_unit
 
 ```python
 def is_unit(squared_lenth_tolerance: float = 0.000100) -> bool
@@ -493,7 +493,7 @@ Returns:
 
 <a id="unreal.Vector.is_uniform"></a>
 
-#### is_uniform
+#### is\_uniform
 
 ```python
 def is_uniform(tolerance: float = 0.000100) -> bool
@@ -510,7 +510,7 @@ Returns:
 
 <a id="unreal.Vector.is_normal"></a>
 
-#### is_normal
+#### is\_normal
 
 ```python
 def is_normal() -> bool
@@ -524,7 +524,7 @@ Returns:
 
 <a id="unreal.Vector.is_nearly_zero"></a>
 
-#### is_nearly_zero
+#### is\_nearly\_zero
 
 ```python
 def is_nearly_zero(tolerance: float = 0.000100) -> bool
@@ -541,7 +541,7 @@ Returns:
 
 <a id="unreal.Vector.is_nan"></a>
 
-#### is_nan
+#### is\_nan
 
 ```python
 def is_nan() -> bool
@@ -555,7 +555,7 @@ Returns:
 
 <a id="unreal.Vector.heading_angle"></a>
 
-#### heading_angle
+#### heading\_angle
 
 ```python
 def heading_angle() -> float
@@ -569,7 +569,7 @@ Returns:
 
 <a id="unreal.Vector.get_sign_vector"></a>
 
-#### get_sign_vector
+#### get\_sign\_vector
 
 ```python
 def get_sign_vector() -> Vector
@@ -584,7 +584,7 @@ Returns:
 
 <a id="unreal.Vector.get_projection"></a>
 
-#### get_projection
+#### get\_projection
 
 ```python
 def get_projection() -> Vector
@@ -598,7 +598,7 @@ Returns:
 
 <a id="unreal.Vector.get_abs_min"></a>
 
-#### get_abs_min
+#### get\_abs\_min
 
 ```python
 def get_abs_min() -> float
@@ -612,7 +612,7 @@ Returns:
 
 <a id="unreal.Vector.get_abs_max"></a>
 
-#### get_abs_max
+#### get\_abs\_max
 
 ```python
 def get_abs_max() -> float
@@ -626,7 +626,7 @@ Returns:
 
 <a id="unreal.Vector.get_abs"></a>
 
-#### get_abs
+#### get\_abs
 
 ```python
 def get_abs() -> Vector
@@ -640,7 +640,7 @@ Returns:
 
 <a id="unreal.Vector.distance_squared"></a>
 
-#### distance_squared
+#### distance\_squared
 
 ```python
 def distance_squared(v2: Vector) -> float
@@ -657,7 +657,7 @@ Returns:
 
 <a id="unreal.Vector.distance2d_squared"></a>
 
-#### distance2d_squared
+#### distance2d\_squared
 
 ```python
 def distance2d_squared(v2: Vector) -> float
@@ -708,7 +708,7 @@ Returns:
 
 <a id="unreal.Vector.cosine_angle2d"></a>
 
-#### cosine_angle2d
+#### cosine\_angle2d
 
 ```python
 def cosine_angle2d(b: Vector) -> float
@@ -725,7 +725,7 @@ Returns:
 
 <a id="unreal.Vector.get_min"></a>
 
-#### get_min
+#### get\_min
 
 ```python
 def get_min(b: Vector) -> Vector
@@ -742,7 +742,7 @@ Returns:
 
 <a id="unreal.Vector.get_max"></a>
 
-#### get_max
+#### get\_max
 
 ```python
 def get_max(b: Vector) -> Vector
@@ -759,7 +759,7 @@ Returns:
 
 <a id="unreal.Vector.clamped_size_max2d"></a>
 
-#### clamped_size_max2d
+#### clamped\_size\_max2d
 
 ```python
 def clamped_size_max2d(max: float) -> Vector
@@ -776,7 +776,7 @@ Returns:
 
 <a id="unreal.Vector.clamped_size_max"></a>
 
-#### clamped_size_max
+#### clamped\_size\_max
 
 ```python
 def clamped_size_max(max: float) -> Vector
@@ -793,7 +793,7 @@ Returns:
 
 <a id="unreal.Vector.clamped_size2d"></a>
 
-#### clamped_size2d
+#### clamped\_size2d
 
 ```python
 def clamped_size2d(min: float, max: float) -> Vector
@@ -811,7 +811,7 @@ Returns:
 
 <a id="unreal.Vector.bounded_to_cube"></a>
 
-#### bounded_to_cube
+#### bounded\_to\_cube
 
 ```python
 def bounded_to_cube(radius: float) -> Vector
@@ -828,7 +828,7 @@ Returns:
 
 <a id="unreal.Vector.bounded_to_box"></a>
 
-#### bounded_to_box
+#### bounded\_to\_box
 
 ```python
 def bounded_to_box(box_min: Vector, box_max: Vector) -> Vector
@@ -860,7 +860,7 @@ Args:
 
 <a id="unreal.Vector.add_bounded"></a>
 
-#### add_bounded
+#### add\_bounded
 
 ```python
 def add_bounded(add_vect: Vector, radius: float) -> None
@@ -892,7 +892,7 @@ Returns:
 
 <a id="unreal.Vector.subtract_int"></a>
 
-#### subtract_int
+#### subtract\_int
 
 ```python
 def subtract_int(b: int) -> Vector
@@ -909,7 +909,7 @@ Returns:
 
 <a id="unreal.Vector.subtract_float"></a>
 
-#### subtract_float
+#### subtract\_float
 
 ```python
 def subtract_float(b: float) -> Vector
@@ -926,7 +926,7 @@ Returns:
 
 <a id="unreal.Vector.rotator_from_axis_and_angle"></a>
 
-#### rotator_from_axis_and_angle
+#### rotator\_from\_axis\_and\_angle
 
 ```python
 def rotator_from_axis_and_angle(angle: float) -> Rotator
@@ -943,7 +943,7 @@ Returns:
 
 <a id="unreal.Vector.rotate_angle_axis"></a>
 
-#### rotate_angle_axis
+#### rotate\_angle\_axis
 
 ```python
 def rotate_angle_axis(angle_deg: float, axis: Vector) -> Vector
@@ -961,7 +961,7 @@ Returns:
 
 <a id="unreal.Vector.random_point_in_box_extents"></a>
 
-#### random_point_in_box_extents
+#### random\_point\_in\_box\_extents
 
 ```python
 def random_point_in_box_extents(half_size: Vector) -> Vector
@@ -978,7 +978,7 @@ Returns:
 
 <a id="unreal.Vector.find_quat_between_vectors"></a>
 
-#### find_quat_between_vectors
+#### find\_quat\_between\_vectors
 
 ```python
 def find_quat_between_vectors(end: Vector) -> Quat
@@ -995,7 +995,7 @@ Returns:
 
 <a id="unreal.Vector.find_quat_between_normals"></a>
 
-#### find_quat_between_normals
+#### find\_quat\_between\_normals
 
 ```python
 def find_quat_between_normals(end_normal: Vector) -> Quat
@@ -1012,7 +1012,7 @@ Returns:
 
 <a id="unreal.Vector.project_on_to"></a>
 
-#### project_on_to
+#### project\_on\_to
 
 ```python
 def project_on_to(target: Vector) -> Vector
@@ -1030,7 +1030,7 @@ Returns:
 
 <a id="unreal.Vector.project_on_to_plane"></a>
 
-#### project_on_to_plane
+#### project\_on\_to\_plane
 
 ```python
 def project_on_to_plane(plane_normal: Vector) -> Vector
@@ -1047,7 +1047,7 @@ Returns:
 
 <a id="unreal.Vector.project_point_on_to_plane"></a>
 
-#### project_point_on_to_plane
+#### project\_point\_on\_to\_plane
 
 ```python
 def project_point_on_to_plane(plane_base: Vector,
@@ -1066,7 +1066,7 @@ Returns:
 
 <a id="unreal.Vector.not_equal"></a>
 
-#### not_equal
+#### not\_equal
 
 ```python
 def not_equal(b: Vector) -> bool
@@ -1083,7 +1083,7 @@ Returns:
 
 <a id="unreal.Vector.is_not_near_equal"></a>
 
-#### is_not_near_equal
+#### is\_not\_near\_equal
 
 ```python
 def is_not_near_equal(b: Vector, error_tolerance: float = 0.000100) -> bool
@@ -1150,7 +1150,7 @@ Returns:
 
 <a id="unreal.Vector.multiply_int"></a>
 
-#### multiply_int
+#### multiply\_int
 
 ```python
 def multiply_int(b: int) -> Vector
@@ -1167,7 +1167,7 @@ Returns:
 
 <a id="unreal.Vector.multiply_float"></a>
 
-#### multiply_float
+#### multiply\_float
 
 ```python
 def multiply_float(b: float) -> Vector
@@ -1218,7 +1218,7 @@ Returns:
 
 <a id="unreal.Vector.mirror_by_vector"></a>
 
-#### mirror_by_vector
+#### mirror\_by\_vector
 
 ```python
 def mirror_by_vector(surface_normal: Vector) -> Vector
@@ -1236,7 +1236,7 @@ Returns:
 
 <a id="unreal.Vector.get_min_element"></a>
 
-#### get_min_element
+#### get\_min\_element
 
 ```python
 def get_min_element() -> float
@@ -1250,7 +1250,7 @@ Returns:
 
 <a id="unreal.Vector.get_max_element"></a>
 
-#### get_max_element
+#### get\_max\_element
 
 ```python
 def get_max_element() -> float
@@ -1264,7 +1264,7 @@ Returns:
 
 <a id="unreal.Vector.direction_unit_to"></a>
 
-#### direction_unit_to
+#### direction\_unit\_to
 
 ```python
 def direction_unit_to(to: Vector) -> Vector
@@ -1312,7 +1312,7 @@ Returns:
 
 <a id="unreal.Vector.is_near_equal"></a>
 
-#### is_near_equal
+#### is\_near\_equal
 
 ```python
 def is_near_equal(b: Vector, error_tolerance: float = 0.000100) -> bool
@@ -1364,7 +1364,7 @@ Returns:
 
 <a id="unreal.Vector.divide_int"></a>
 
-#### divide_int
+#### divide\_int
 
 ```python
 def divide_int(b: int = 1) -> Vector
@@ -1381,7 +1381,7 @@ Returns:
 
 <a id="unreal.Vector.divide_float"></a>
 
-#### divide_float
+#### divide\_float
 
 ```python
 def divide_float(b: float = 1.000000) -> Vector
@@ -1474,7 +1474,7 @@ Returns:
 
 <a id="unreal.Vector.linear_color"></a>
 
-#### linear_color
+#### linear\_color
 
 ```python
 def linear_color() -> LinearColor
@@ -1488,7 +1488,7 @@ Returns:
 
 <a id="unreal.Vector.clamped_size"></a>
 
-#### clamped_size
+#### clamped\_size
 
 ```python
 def clamped_size(min: float, max: float) -> Vector
@@ -1523,7 +1523,7 @@ Returns:
 
 <a id="unreal.Vector.add_int"></a>
 
-#### add_int
+#### add\_int
 
 ```python
 def add_int(b: int) -> Vector
@@ -1540,7 +1540,7 @@ Returns:
 
 <a id="unreal.Vector.add_float"></a>
 
-#### add_float
+#### add\_float
 
 ```python
 def add_float(b: float) -> Vector
@@ -1555,9 +1555,45 @@ Args:
 Returns:
     Vector:
 
+<a id="unreal.Vector.s_lerp_not_normalized"></a>
+
+#### s\_lerp\_not\_normalized
+
+```python
+def s_lerp_not_normalized(b: Vector, alpha: float) -> Vector
+```
+
+x.s_lerp_not_normalized(b, alpha) -> Vector
+Slerp Vector Direction and Lerp Vector Length
+
+Args:
+    b (Vector): 
+    alpha (double): 
+
+Returns:
+    Vector:
+
+<a id="unreal.Vector.s_lerp_normalized"></a>
+
+#### s\_lerp\_normalized
+
+```python
+def s_lerp_normalized(normal_b: Vector, alpha: float) -> Vector
+```
+
+x.s_lerp_normalized(normal_b, alpha) -> Vector
+Slerp Direction Normalized
+
+Args:
+    normal_b (Vector): 
+    alpha (double): 
+
+Returns:
+    Vector:
+
 <a id="unreal.Vector.__eq__"></a>
 
-#### __eq__
+#### \_\_eq\_\_
 
 ```python
 def __eq__(other: object) -> bool
@@ -1569,7 +1605,7 @@ def __eq__(other: object) -> bool
 
 <a id="unreal.Vector.__ne__"></a>
 
-#### __ne__
+#### \_\_ne\_\_
 
 ```python
 def __ne__(other: object) -> bool
@@ -1581,7 +1617,7 @@ def __ne__(other: object) -> bool
 
 <a id="unreal.Vector.__add__"></a>
 
-#### __add__
+#### \_\_add\_\_
 
 ```python
 def __add__(other: Vector) -> None
@@ -1593,7 +1629,7 @@ def __add__(other: Vector) -> None
 
 <a id="unreal.Vector.__iadd__"></a>
 
-#### __iadd__
+#### \_\_iadd\_\_
 
 ```python
 def __iadd__(other: Vector) -> None
@@ -1605,7 +1641,7 @@ def __iadd__(other: Vector) -> None
 
 <a id="unreal.Vector.__sub__"></a>
 
-#### __sub__
+#### \_\_sub\_\_
 
 ```python
 def __sub__(other: Vector) -> None
@@ -1617,7 +1653,7 @@ def __sub__(other: Vector) -> None
 
 <a id="unreal.Vector.__isub__"></a>
 
-#### __isub__
+#### \_\_isub\_\_
 
 ```python
 def __isub__(other: Vector) -> None
@@ -1629,7 +1665,7 @@ def __isub__(other: Vector) -> None
 
 <a id="unreal.Vector.__mul__"></a>
 
-#### __mul__
+#### \_\_mul\_\_
 
 ```python
 def __mul__(other: Vector) -> None
@@ -1642,7 +1678,7 @@ def __mul__(other: Vector) -> None
 
 <a id="unreal.Vector.__imul__"></a>
 
-#### __imul__
+#### \_\_imul\_\_
 
 ```python
 def __imul__(other: Vector) -> None
@@ -1655,7 +1691,7 @@ def __imul__(other: Vector) -> None
 
 <a id="unreal.Vector.__truediv__"></a>
 
-#### __truediv__
+#### \_\_truediv\_\_
 
 ```python
 def __truediv__(other: Vector) -> None
@@ -1668,7 +1704,7 @@ def __truediv__(other: Vector) -> None
 
 <a id="unreal.Vector.__or__"></a>
 
-#### __or__
+#### \_\_or\_\_
 
 ```python
 def __or__(other: Vector) -> None
@@ -1680,7 +1716,7 @@ def __or__(other: Vector) -> None
 
 <a id="unreal.Vector.__xor__"></a>
 
-#### __xor__
+#### \_\_xor\_\_
 
 ```python
 def __xor__(other: Vector) -> None
@@ -1692,7 +1728,7 @@ def __xor__(other: Vector) -> None
 
 <a id="unreal.Vector.__neg__"></a>
 
-#### __neg__
+#### \_\_neg\_\_
 
 ```python
 def __neg__() -> None

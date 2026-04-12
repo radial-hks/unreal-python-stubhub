@@ -50,7 +50,7 @@ def magnitude(value: int) -> None
 
 <a id="unreal.UniformInteger.set_uniform_integer"></a>
 
-#### set_uniform_integer
+#### set\_uniform\_integer
 
 ```python
 def set_uniform_integer(magnitude: int = 0) -> UniformInteger

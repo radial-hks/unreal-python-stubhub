@@ -14,19 +14,19 @@ Size of each strands
 
 <a id="unreal.StrandsTexturesTraceType.TRACE_INSIDE"></a>
 
-#### TRACE_INSIDE
+#### TRACE\_INSIDE
 
 0
 
 <a id="unreal.StrandsTexturesTraceType.TRACE_OUSIDE"></a>
 
-#### TRACE_OUSIDE
+#### TRACE\_OUSIDE
 
 1
 
 <a id="unreal.StrandsTexturesTraceType.TRACE_BIDIRECTIONAL"></a>
 
-#### TRACE_BIDIRECTIONAL
+#### TRACE\_BIDIRECTIONAL
 
 2
 

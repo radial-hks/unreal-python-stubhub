@@ -18,7 +18,7 @@ This defines one asset mapping
 
 <a id="unreal.AssetMapping.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

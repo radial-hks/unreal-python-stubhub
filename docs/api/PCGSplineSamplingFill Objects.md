@@ -20,7 +20,7 @@ EPCGSpline Sampling Fill
 
 <a id="unreal.PCGSplineSamplingFill.EDGES_ONLY"></a>
 
-#### EDGES_ONLY
+#### EDGES\_ONLY
 
 1
 

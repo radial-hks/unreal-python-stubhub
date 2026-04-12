@@ -24,7 +24,7 @@ A camera modifier that plays camera animation sequences.
 
 <a id="unreal.CameraAnimationCameraModifier.stop_camera_animation"></a>
 
-#### stop_camera_animation
+#### stop\_camera\_animation
 
 ```python
 def stop_camera_animation(handle: CameraAnimationHandle,
@@ -40,7 +40,7 @@ Args:
 
 <a id="unreal.CameraAnimationCameraModifier.stop_all_camera_animations_of"></a>
 
-#### stop_all_camera_animations_of
+#### stop\_all\_camera\_animations\_of
 
 ```python
 def stop_all_camera_animations_of(sequence: CameraAnimationSequence,
@@ -56,7 +56,7 @@ Args:
 
 <a id="unreal.CameraAnimationCameraModifier.stop_all_camera_animations"></a>
 
-#### stop_all_camera_animations
+#### stop\_all\_camera\_animations
 
 ```python
 def stop_all_camera_animations(immediate: bool = False) -> None
@@ -70,7 +70,7 @@ Args:
 
 <a id="unreal.CameraAnimationCameraModifier.play_camera_animation"></a>
 
-#### play_camera_animation
+#### play\_camera\_animation
 
 ```python
 def play_camera_animation(
@@ -90,7 +90,7 @@ Returns:
 
 <a id="unreal.CameraAnimationCameraModifier.is_camera_animation_active"></a>
 
-#### is_camera_animation_active
+#### is\_camera\_animation\_active
 
 ```python
 def is_camera_animation_active(handle: CameraAnimationHandle) -> bool
@@ -107,7 +107,7 @@ Returns:
 
 <a id="unreal.CameraAnimationCameraModifier.get_camera_animation_camera_modifier_from_player_controller"></a>
 
-#### get_camera_animation_camera_modifier_from_player_controller
+#### get\_camera\_animation\_camera\_modifier\_from\_player\_controller
 
 ```python
 @classmethod
@@ -127,7 +127,7 @@ Returns:
 
 <a id="unreal.CameraAnimationCameraModifier.get_camera_animation_camera_modifier_from_id"></a>
 
-#### get_camera_animation_camera_modifier_from_id
+#### get\_camera\_animation\_camera\_modifier\_from\_id
 
 ```python
 @classmethod
@@ -148,7 +148,7 @@ Returns:
 
 <a id="unreal.CameraAnimationCameraModifier.get_camera_animation_camera_modifier"></a>
 
-#### get_camera_animation_camera_modifier
+#### get\_camera\_animation\_camera\_modifier
 
 ```python
 @classmethod

@@ -18,7 +18,7 @@ UInputDeviceTriggerEffect
 
 <a id="unreal.DeviceTriggerBaseData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(affected_triggers: InputDeviceTriggerMask = InputDeviceTriggerMask
@@ -28,7 +28,7 @@ def __init__(affected_triggers: InputDeviceTriggerMask = InputDeviceTriggerMask
 
 <a id="unreal.DeviceTriggerBaseData.affected_triggers"></a>
 
-#### affected_triggers
+#### affected\_triggers
 
 ```python
 @property
@@ -39,7 +39,7 @@ def affected_triggers() -> InputDeviceTriggerMask
 
 <a id="unreal.DeviceTriggerBaseData.affected_triggers"></a>
 
-#### affected_triggers
+#### affected\_triggers
 
 ```python
 @affected_triggers.setter
@@ -48,7 +48,7 @@ def affected_triggers(value: InputDeviceTriggerMask) -> None
 
 <a id="unreal.DeviceTriggerBaseData.reset_upon_completion"></a>
 
-#### reset_upon_completion
+#### reset\_upon\_completion
 
 ```python
 @property
@@ -59,7 +59,7 @@ def reset_upon_completion() -> bool
 
 <a id="unreal.DeviceTriggerBaseData.reset_upon_completion"></a>
 
-#### reset_upon_completion
+#### reset\_upon\_completion
 
 ```python
 @reset_upon_completion.setter

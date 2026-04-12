@@ -8,7 +8,7 @@ Type for iterating Unreal Object instances
 
 <a id="unreal.ObjectIterator.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: Union[Class, type] = ...) -> None
@@ -16,7 +16,7 @@ def __init__(type: Union[Class, type] = ...) -> None
 
 <a id="unreal.ObjectIterator.__iter__"></a>
 
-#### __iter__
+#### \_\_iter\_\_
 
 ```python
 def __iter__() -> Iterator[Any]

@@ -19,7 +19,7 @@ Geometry Script Calculate Normals Options
 
 <a id="unreal.GeometryScriptCalculateNormalsOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(angle_weighted: bool = False,
@@ -28,7 +28,7 @@ def __init__(angle_weighted: bool = False,
 
 <a id="unreal.GeometryScriptCalculateNormalsOptions.angle_weighted"></a>
 
-#### angle_weighted
+#### angle\_weighted
 
 ```python
 @property
@@ -39,7 +39,7 @@ def angle_weighted() -> bool
 
 <a id="unreal.GeometryScriptCalculateNormalsOptions.angle_weighted"></a>
 
-#### angle_weighted
+#### angle\_weighted
 
 ```python
 @angle_weighted.setter
@@ -48,7 +48,7 @@ def angle_weighted(value: bool) -> None
 
 <a id="unreal.GeometryScriptCalculateNormalsOptions.area_weighted"></a>
 
-#### area_weighted
+#### area\_weighted
 
 ```python
 @property
@@ -59,7 +59,7 @@ def area_weighted() -> bool
 
 <a id="unreal.GeometryScriptCalculateNormalsOptions.area_weighted"></a>
 
-#### area_weighted
+#### area\_weighted
 
 ```python
 @area_weighted.setter

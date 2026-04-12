@@ -27,7 +27,7 @@ Submix Effect Stereo Delay Settings
 
 <a id="unreal.SubmixEffectStereoDelaySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -45,7 +45,7 @@ def __init__(
 
 <a id="unreal.SubmixEffectStereoDelaySettings.delay_mode"></a>
 
-#### delay_mode
+#### delay\_mode
 
 ```python
 @property
@@ -56,7 +56,7 @@ def delay_mode() -> StereoDelaySourceEffect
 
 <a id="unreal.SubmixEffectStereoDelaySettings.delay_mode"></a>
 
-#### delay_mode
+#### delay\_mode
 
 ```python
 @delay_mode.setter
@@ -65,7 +65,7 @@ def delay_mode(value: StereoDelaySourceEffect) -> None
 
 <a id="unreal.SubmixEffectStereoDelaySettings.delay_time_msec"></a>
 
-#### delay_time_msec
+#### delay\_time\_msec
 
 ```python
 @property
@@ -76,7 +76,7 @@ def delay_time_msec() -> float
 
 <a id="unreal.SubmixEffectStereoDelaySettings.delay_time_msec"></a>
 
-#### delay_time_msec
+#### delay\_time\_msec
 
 ```python
 @delay_time_msec.setter
@@ -105,7 +105,7 @@ def feedback(value: float) -> None
 
 <a id="unreal.SubmixEffectStereoDelaySettings.delay_ratio"></a>
 
-#### delay_ratio
+#### delay\_ratio
 
 ```python
 @property
@@ -116,7 +116,7 @@ def delay_ratio() -> float
 
 <a id="unreal.SubmixEffectStereoDelaySettings.delay_ratio"></a>
 
-#### delay_ratio
+#### delay\_ratio
 
 ```python
 @delay_ratio.setter
@@ -125,7 +125,7 @@ def delay_ratio(value: float) -> None
 
 <a id="unreal.SubmixEffectStereoDelaySettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @property
@@ -136,7 +136,7 @@ def wet_level() -> float
 
 <a id="unreal.SubmixEffectStereoDelaySettings.wet_level"></a>
 
-#### wet_level
+#### wet\_level
 
 ```python
 @wet_level.setter
@@ -145,7 +145,7 @@ def wet_level(value: float) -> None
 
 <a id="unreal.SubmixEffectStereoDelaySettings.dry_level"></a>
 
-#### dry_level
+#### dry\_level
 
 ```python
 @property
@@ -156,7 +156,7 @@ def dry_level() -> float
 
 <a id="unreal.SubmixEffectStereoDelaySettings.dry_level"></a>
 
-#### dry_level
+#### dry\_level
 
 ```python
 @dry_level.setter
@@ -165,7 +165,7 @@ def dry_level(value: float) -> None
 
 <a id="unreal.SubmixEffectStereoDelaySettings.filter_enabled"></a>
 
-#### filter_enabled
+#### filter\_enabled
 
 ```python
 @property
@@ -176,7 +176,7 @@ def filter_enabled() -> bool
 
 <a id="unreal.SubmixEffectStereoDelaySettings.filter_enabled"></a>
 
-#### filter_enabled
+#### filter\_enabled
 
 ```python
 @filter_enabled.setter
@@ -185,7 +185,7 @@ def filter_enabled(value: bool) -> None
 
 <a id="unreal.SubmixEffectStereoDelaySettings.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @property
@@ -196,7 +196,7 @@ def filter_type() -> StereoDelayFiltertype
 
 <a id="unreal.SubmixEffectStereoDelaySettings.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @filter_type.setter
@@ -205,7 +205,7 @@ def filter_type(value: StereoDelayFiltertype) -> None
 
 <a id="unreal.SubmixEffectStereoDelaySettings.filter_frequency"></a>
 
-#### filter_frequency
+#### filter\_frequency
 
 ```python
 @property
@@ -216,7 +216,7 @@ def filter_frequency() -> float
 
 <a id="unreal.SubmixEffectStereoDelaySettings.filter_frequency"></a>
 
-#### filter_frequency
+#### filter\_frequency
 
 ```python
 @filter_frequency.setter
@@ -225,7 +225,7 @@ def filter_frequency(value: float) -> None
 
 <a id="unreal.SubmixEffectStereoDelaySettings.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @property
@@ -236,7 +236,7 @@ def filter_q() -> float
 
 <a id="unreal.SubmixEffectStereoDelaySettings.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @filter_q.setter

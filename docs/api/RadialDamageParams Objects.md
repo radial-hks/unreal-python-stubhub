@@ -21,7 +21,7 @@ Parameters used to compute radial damage
 
 <a id="unreal.RadialDamageParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(base_damage: float = 0.000000,
@@ -33,7 +33,7 @@ def __init__(base_damage: float = 0.000000,
 
 <a id="unreal.RadialDamageParams.base_damage"></a>
 
-#### base_damage
+#### base\_damage
 
 ```python
 @property
@@ -44,7 +44,7 @@ def base_damage() -> float
 
 <a id="unreal.RadialDamageParams.base_damage"></a>
 
-#### base_damage
+#### base\_damage
 
 ```python
 @base_damage.setter
@@ -53,7 +53,7 @@ def base_damage(value: float) -> None
 
 <a id="unreal.RadialDamageParams.minimum_damage"></a>
 
-#### minimum_damage
+#### minimum\_damage
 
 ```python
 @property
@@ -64,7 +64,7 @@ def minimum_damage() -> float
 
 <a id="unreal.RadialDamageParams.minimum_damage"></a>
 
-#### minimum_damage
+#### minimum\_damage
 
 ```python
 @minimum_damage.setter
@@ -73,7 +73,7 @@ def minimum_damage(value: float) -> None
 
 <a id="unreal.RadialDamageParams.inner_radius"></a>
 
-#### inner_radius
+#### inner\_radius
 
 ```python
 @property
@@ -84,7 +84,7 @@ def inner_radius() -> float
 
 <a id="unreal.RadialDamageParams.inner_radius"></a>
 
-#### inner_radius
+#### inner\_radius
 
 ```python
 @inner_radius.setter
@@ -93,7 +93,7 @@ def inner_radius(value: float) -> None
 
 <a id="unreal.RadialDamageParams.outer_radius"></a>
 
-#### outer_radius
+#### outer\_radius
 
 ```python
 @property
@@ -104,7 +104,7 @@ def outer_radius() -> float
 
 <a id="unreal.RadialDamageParams.outer_radius"></a>
 
-#### outer_radius
+#### outer\_radius
 
 ```python
 @outer_radius.setter
@@ -113,7 +113,7 @@ def outer_radius(value: float) -> None
 
 <a id="unreal.RadialDamageParams.damage_falloff"></a>
 
-#### damage_falloff
+#### damage\_falloff
 
 ```python
 @property
@@ -124,7 +124,7 @@ def damage_falloff() -> float
 
 <a id="unreal.RadialDamageParams.damage_falloff"></a>
 
-#### damage_falloff
+#### damage\_falloff
 
 ```python
 @damage_falloff.setter

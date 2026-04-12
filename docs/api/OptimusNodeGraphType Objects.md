@@ -26,7 +26,7 @@ The use type of a particular graph
 
 <a id="unreal.OptimusNodeGraphType.EXTERNAL_TRIGGER"></a>
 
-#### EXTERNAL_TRIGGER
+#### EXTERNAL\_TRIGGER
 
 2: Called on every tick
 
@@ -38,7 +38,7 @@ The use type of a particular graph
 
 <a id="unreal.OptimusNodeGraphType.SUB_GRAPH"></a>
 
-#### SUB_GRAPH
+#### SUB\_GRAPH
 
 4: Used to store function graphs
 

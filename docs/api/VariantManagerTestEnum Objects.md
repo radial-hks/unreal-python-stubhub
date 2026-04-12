@@ -14,20 +14,20 @@ EVariant Manager Test Enum
 
 <a id="unreal.VariantManagerTestEnum.FIRST_OPTION"></a>
 
-#### FIRST_OPTION
+#### FIRST\_OPTION
 
 1
 
 <a id="unreal.VariantManagerTestEnum.SECOND_OPTION"></a>
 
-#### SECOND_OPTION
+#### SECOND\_OPTION
 
 3
 
 <a id="unreal.VariantManagerTestEnum.THIRD_OPTION"></a>
 
-#### THIRD_OPTION
+#### THIRD\_OPTION
 
 45
 
-<a id="unreal.PCGAppendMeshesFromPointsMode"></a>
+<a id="unreal.AlembicImportType"></a>

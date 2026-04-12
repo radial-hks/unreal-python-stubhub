@@ -145,7 +145,7 @@ PCGWorld Actor
 
 <a id="unreal.PCGWorldActor.landscape_cache_object"></a>
 
-#### landscape_cache_object
+#### landscape\_cache\_object
 
 ```python
 @property
@@ -156,7 +156,7 @@ def landscape_cache_object() -> PCGLandscapeCache
 
 <a id="unreal.PCGWorldActor.treat_editor_viewport_as_generation_source"></a>
 
-#### treat_editor_viewport_as_generation_source
+#### treat\_editor\_viewport\_as\_generation\_source
 
 ```python
 @property
@@ -167,7 +167,7 @@ def treat_editor_viewport_as_generation_source() -> bool
 
 <a id="unreal.PCGWorldActor.treat_editor_viewport_as_generation_source"></a>
 
-#### treat_editor_viewport_as_generation_source
+#### treat\_editor\_viewport\_as\_generation\_source
 
 ```python
 @treat_editor_viewport_as_generation_source.setter

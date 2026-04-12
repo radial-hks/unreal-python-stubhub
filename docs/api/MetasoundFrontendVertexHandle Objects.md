@@ -14,7 +14,7 @@ Pair of guids used to address location of vertex within a FrontendDocument graph
 
 <a id="unreal.MetasoundFrontendVertexHandle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

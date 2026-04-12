@@ -146,7 +146,7 @@ it is just a thin wrapper around a UPaperFlipbookComponent that actually referen
 
 <a id="unreal.PaperFlipbookActor.render_component"></a>
 
-#### render_component
+#### render\_component
 
 ```python
 @property

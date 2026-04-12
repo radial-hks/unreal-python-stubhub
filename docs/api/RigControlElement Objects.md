@@ -24,7 +24,7 @@ Rig Control Element
 
 <a id="unreal.RigControlElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -60,7 +60,7 @@ def settings() -> RigControlSettings
 
 <a id="unreal.RigControlElement.preferred_euler_angles"></a>
 
-#### preferred_euler_angles
+#### preferred\_euler\_angles
 
 ```python
 @property

@@ -30,7 +30,7 @@ Solver Input
 
 <a id="unreal.SolverInput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -23,7 +23,7 @@ Base class for media sources that can be synchronized with the engine's timecode
 
 <a id="unreal.TimeSynchronizableMediaSource.use_time_synchronization"></a>
 
-#### use_time_synchronization
+#### use\_time\_synchronization
 
 ```python
 @property
@@ -36,7 +36,7 @@ The media player will try to play the corresponding frame, base on the frame's t
 
 <a id="unreal.TimeSynchronizableMediaSource.use_time_synchronization"></a>
 
-#### use_time_synchronization
+#### use\_time\_synchronization
 
 ```python
 @use_time_synchronization.setter

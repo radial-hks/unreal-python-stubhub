@@ -38,7 +38,7 @@ EOpen CVAruco Dictionary
 
 <a id="unreal.OpenCVArucoDictionary.DICT_ORIGINAL"></a>
 
-#### DICT_ORIGINAL
+#### DICT\_ORIGINAL
 
 4
 

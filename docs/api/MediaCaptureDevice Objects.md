@@ -18,7 +18,7 @@ Information about a capture device.
 
 <a id="unreal.MediaCaptureDevice.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(display_name: Text = "", url: str = "") -> None
@@ -26,7 +26,7 @@ def __init__(display_name: Text = "", url: str = "") -> None
 
 <a id="unreal.MediaCaptureDevice.display_name"></a>
 
-#### display_name
+#### display\_name
 
 ```python
 @property
@@ -46,4 +46,4 @@ def url() -> str
 
 (str):  [Read-Only] Media URL string for use with media players.
 
-<a id="unreal.ActorDataLayer"></a>
+<a id="unreal.LevelSequenceCameraSettings"></a>

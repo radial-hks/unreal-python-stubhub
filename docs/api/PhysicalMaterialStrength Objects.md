@@ -22,7 +22,7 @@ Defines the directional strengths of a physical material in term of force per su
 
 <a id="unreal.PhysicalMaterialStrength.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tensile_strength: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(tensile_strength: float = 0.000000,
 
 <a id="unreal.PhysicalMaterialStrength.tensile_strength"></a>
 
-#### tensile_strength
+#### tensile\_strength
 
 ```python
 @property
@@ -44,7 +44,7 @@ This amount of tension force per area the material can withstand before it fract
 
 <a id="unreal.PhysicalMaterialStrength.compression_strength"></a>
 
-#### compression_strength
+#### compression\_strength
 
 ```python
 @property
@@ -56,7 +56,7 @@ This amount of compression force per area the material can withstand before it f
 
 <a id="unreal.PhysicalMaterialStrength.shear_strength"></a>
 
-#### shear_strength
+#### shear\_strength
 
 ```python
 @property

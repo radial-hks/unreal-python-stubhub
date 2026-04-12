@@ -92,7 +92,7 @@ EState Tree Property Ref Type
 
 <a id="unreal.StateTreePropertyRefType.SOFT_OBJECT"></a>
 
-#### SOFT_OBJECT
+#### SOFT\_OBJECT
 
 13
 
@@ -104,7 +104,7 @@ EState Tree Property Ref Type
 
 <a id="unreal.StateTreePropertyRefType.SOFT_CLASS"></a>
 
-#### SOFT_CLASS
+#### SOFT\_CLASS
 
 15
 

@@ -13,7 +13,7 @@ Script-exposed functionality for wrapping native functionality and constructing 
 
 <a id="unreal.AnimationAttributeIdentifierExtensions.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 @classmethod
@@ -35,7 +35,7 @@ Returns:
 
 <a id="unreal.AnimationAttributeIdentifierExtensions.create_attribute_identifier"></a>
 
-#### create_attribute_identifier
+#### create\_attribute\_identifier
 
 ```python
 @classmethod

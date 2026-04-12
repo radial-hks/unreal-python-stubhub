@@ -22,7 +22,7 @@ Landmass Brush Effects List
 
 <a id="unreal.LandmassBrushEffectsList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -63,7 +63,7 @@ def blurring(value: BrushEffectBlurring) -> None
 
 <a id="unreal.LandmassBrushEffectsList.curl_noise"></a>
 
-#### curl_noise
+#### curl\_noise
 
 ```python
 @property
@@ -74,7 +74,7 @@ def curl_noise() -> BrushEffectCurlNoise
 
 <a id="unreal.LandmassBrushEffectsList.curl_noise"></a>
 
-#### curl_noise
+#### curl\_noise
 
 ```python
 @curl_noise.setter
@@ -103,7 +103,7 @@ def displacement(value: BrushEffectDisplacement) -> None
 
 <a id="unreal.LandmassBrushEffectsList.smooth_blending"></a>
 
-#### smooth_blending
+#### smooth\_blending
 
 ```python
 @property
@@ -114,7 +114,7 @@ def smooth_blending() -> BrushEffectSmoothBlending
 
 <a id="unreal.LandmassBrushEffectsList.smooth_blending"></a>
 
-#### smooth_blending
+#### smooth\_blending
 
 ```python
 @smooth_blending.setter

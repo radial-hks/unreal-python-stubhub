@@ -21,7 +21,7 @@ Options for reparenting subobjects
 
 <a id="unreal.ReparentSubobjectParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(new_parent_handle: SubobjectDataHandle = [],
@@ -31,7 +31,7 @@ def __init__(new_parent_handle: SubobjectDataHandle = [],
 
 <a id="unreal.ReparentSubobjectParams.new_parent_handle"></a>
 
-#### new_parent_handle
+#### new\_parent\_handle
 
 ```python
 @property
@@ -42,7 +42,7 @@ def new_parent_handle() -> SubobjectDataHandle
 
 <a id="unreal.ReparentSubobjectParams.new_parent_handle"></a>
 
-#### new_parent_handle
+#### new\_parent\_handle
 
 ```python
 @new_parent_handle.setter
@@ -51,7 +51,7 @@ def new_parent_handle(value: SubobjectDataHandle) -> None
 
 <a id="unreal.ReparentSubobjectParams.blueprint_context"></a>
 
-#### blueprint_context
+#### blueprint\_context
 
 ```python
 @property
@@ -63,7 +63,7 @@ this subobject is being added to an instance.
 
 <a id="unreal.ReparentSubobjectParams.blueprint_context"></a>
 
-#### blueprint_context
+#### blueprint\_context
 
 ```python
 @blueprint_context.setter
@@ -72,7 +72,7 @@ def blueprint_context(value: Blueprint) -> None
 
 <a id="unreal.ReparentSubobjectParams.actor_preview_context"></a>
 
-#### actor_preview_context
+#### actor\_preview\_context
 
 ```python
 @property
@@ -84,7 +84,7 @@ This must have a value if BlueprintContext is needed.
 
 <a id="unreal.ReparentSubobjectParams.actor_preview_context"></a>
 
-#### actor_preview_context
+#### actor\_preview\_context
 
 ```python
 @actor_preview_context.setter

@@ -19,7 +19,7 @@ A filter for a whole transform
 
 <a id="unreal.TransformFilter.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(translation_filter: FilterOptionPerAxis = [True, True, True],
@@ -29,7 +29,7 @@ def __init__(translation_filter: FilterOptionPerAxis = [True, True, True],
 
 <a id="unreal.TransformFilter.translation_filter"></a>
 
-#### translation_filter
+#### translation\_filter
 
 ```python
 @property
@@ -40,7 +40,7 @@ def translation_filter() -> FilterOptionPerAxis
 
 <a id="unreal.TransformFilter.translation_filter"></a>
 
-#### translation_filter
+#### translation\_filter
 
 ```python
 @translation_filter.setter
@@ -49,7 +49,7 @@ def translation_filter(value: FilterOptionPerAxis) -> None
 
 <a id="unreal.TransformFilter.rotation_filter"></a>
 
-#### rotation_filter
+#### rotation\_filter
 
 ```python
 @property
@@ -60,7 +60,7 @@ def rotation_filter() -> FilterOptionPerAxis
 
 <a id="unreal.TransformFilter.rotation_filter"></a>
 
-#### rotation_filter
+#### rotation\_filter
 
 ```python
 @rotation_filter.setter
@@ -69,7 +69,7 @@ def rotation_filter(value: FilterOptionPerAxis) -> None
 
 <a id="unreal.TransformFilter.scale_filter"></a>
 
-#### scale_filter
+#### scale\_filter
 
 ```python
 @property
@@ -80,7 +80,7 @@ def scale_filter() -> FilterOptionPerAxis
 
 <a id="unreal.TransformFilter.scale_filter"></a>
 
-#### scale_filter
+#### scale\_filter
 
 ```python
 @scale_filter.setter

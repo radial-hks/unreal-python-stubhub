@@ -85,7 +85,7 @@ def padding(value: Margin) -> None
 
 <a id="unreal.BackgroundBlur.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @property
@@ -96,7 +96,7 @@ def horizontal_alignment() -> HorizontalAlignment
 
 <a id="unreal.BackgroundBlur.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @horizontal_alignment.setter
@@ -105,7 +105,7 @@ def horizontal_alignment(value: HorizontalAlignment) -> None
 
 <a id="unreal.BackgroundBlur.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @property
@@ -116,7 +116,7 @@ def vertical_alignment() -> VerticalAlignment
 
 <a id="unreal.BackgroundBlur.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @vertical_alignment.setter
@@ -125,7 +125,7 @@ def vertical_alignment(value: VerticalAlignment) -> None
 
 <a id="unreal.BackgroundBlur.apply_alpha_to_blur"></a>
 
-#### apply_alpha_to_blur
+#### apply\_alpha\_to\_blur
 
 ```python
 @property
@@ -136,7 +136,7 @@ def apply_alpha_to_blur() -> bool
 
 <a id="unreal.BackgroundBlur.apply_alpha_to_blur"></a>
 
-#### apply_alpha_to_blur
+#### apply\_alpha\_to\_blur
 
 ```python
 @apply_alpha_to_blur.setter
@@ -145,7 +145,7 @@ def apply_alpha_to_blur(value: bool) -> None
 
 <a id="unreal.BackgroundBlur.blur_strength"></a>
 
-#### blur_strength
+#### blur\_strength
 
 ```python
 @property
@@ -156,7 +156,7 @@ def blur_strength() -> float
 
 <a id="unreal.BackgroundBlur.blur_strength"></a>
 
-#### blur_strength
+#### blur\_strength
 
 ```python
 @blur_strength.setter
@@ -165,7 +165,7 @@ def blur_strength(value: float) -> None
 
 <a id="unreal.BackgroundBlur.blur_radius"></a>
 
-#### blur_radius
+#### blur\_radius
 
 ```python
 @property
@@ -177,7 +177,7 @@ A larger value is more costly but allows for stronger blurs.
 
 <a id="unreal.BackgroundBlur.blur_radius"></a>
 
-#### blur_radius
+#### blur\_radius
 
 ```python
 @blur_radius.setter
@@ -186,7 +186,7 @@ def blur_radius(value: int) -> None
 
 <a id="unreal.BackgroundBlur.corner_radius"></a>
 
-#### corner_radius
+#### corner\_radius
 
 ```python
 @property
@@ -198,7 +198,7 @@ A larger value is more costly but allows for stronger blurs.
 
 <a id="unreal.BackgroundBlur.corner_radius"></a>
 
-#### corner_radius
+#### corner\_radius
 
 ```python
 @corner_radius.setter
@@ -207,7 +207,7 @@ def corner_radius(value: Vector4) -> None
 
 <a id="unreal.BackgroundBlur.low_quality_fallback_brush"></a>
 
-#### low_quality_fallback_brush
+#### low\_quality\_fallback\_brush
 
 ```python
 @property
@@ -220,7 +220,7 @@ This is usually done in the project's scalability settings
 
 <a id="unreal.BackgroundBlur.low_quality_fallback_brush"></a>
 
-#### low_quality_fallback_brush
+#### low\_quality\_fallback\_brush
 
 ```python
 @low_quality_fallback_brush.setter
@@ -229,7 +229,7 @@ def low_quality_fallback_brush(value: SlateBrush) -> None
 
 <a id="unreal.BackgroundBlur.set_vertical_alignment"></a>
 
-#### set_vertical_alignment
+#### set\_vertical\_alignment
 
 ```python
 def set_vertical_alignment(vertical_alignment: VerticalAlignment) -> None
@@ -243,7 +243,7 @@ Args:
 
 <a id="unreal.BackgroundBlur.set_padding"></a>
 
-#### set_padding
+#### set\_padding
 
 ```python
 def set_padding(padding: Margin) -> None
@@ -257,7 +257,7 @@ Args:
 
 <a id="unreal.BackgroundBlur.set_low_quality_fallback_brush"></a>
 
-#### set_low_quality_fallback_brush
+#### set\_low\_quality\_fallback\_brush
 
 ```python
 def set_low_quality_fallback_brush(brush: SlateBrush) -> None
@@ -271,7 +271,7 @@ Args:
 
 <a id="unreal.BackgroundBlur.set_horizontal_alignment"></a>
 
-#### set_horizontal_alignment
+#### set\_horizontal\_alignment
 
 ```python
 def set_horizontal_alignment(
@@ -286,7 +286,7 @@ Args:
 
 <a id="unreal.BackgroundBlur.set_corner_radius"></a>
 
-#### set_corner_radius
+#### set\_corner\_radius
 
 ```python
 def set_corner_radius(corner_radius: Vector4) -> None
@@ -300,7 +300,7 @@ Args:
 
 <a id="unreal.BackgroundBlur.set_blur_strength"></a>
 
-#### set_blur_strength
+#### set\_blur\_strength
 
 ```python
 def set_blur_strength(strength: float) -> None
@@ -314,7 +314,7 @@ Args:
 
 <a id="unreal.BackgroundBlur.set_blur_radius"></a>
 
-#### set_blur_radius
+#### set\_blur\_radius
 
 ```python
 def set_blur_radius(blur_radius: int) -> None
@@ -328,7 +328,7 @@ Args:
 
 <a id="unreal.BackgroundBlur.set_apply_alpha_to_blur"></a>
 
-#### set_apply_alpha_to_blur
+#### set\_apply\_alpha\_to\_blur
 
 ```python
 def set_apply_alpha_to_blur(apply_alpha_to_blur: bool) -> None

@@ -13,7 +13,7 @@ Whether a widget should be included in accessibility, and if so, how its text sh
 
 <a id="unreal.SlateAccessibleBehavior.NOT_ACCESSIBLE"></a>
 
-#### NOT_ACCESSIBLE
+#### NOT\_ACCESSIBLE
 
 0: Not accessible.
 
@@ -40,7 +40,7 @@ to return the same thing.
 
 <a id="unreal.SlateAccessibleBehavior.TOOL_TIP"></a>
 
-#### TOOL_TIP
+#### TOOL\_TIP
 
 4: Accessible, and use the tooltip's accessible text.
 

@@ -19,7 +19,7 @@ Find Turn Based Match Callback Proxy
 
 <a id="unreal.FindTurnBasedMatchCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_success() -> OnlineTurnBasedMatchResult
 
 <a id="unreal.FindTurnBasedMatchCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -39,7 +39,7 @@ def on_success(value: OnlineTurnBasedMatchResult) -> None
 
 <a id="unreal.FindTurnBasedMatchCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_failure() -> OnlineTurnBasedMatchResult
 
 <a id="unreal.FindTurnBasedMatchCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @on_failure.setter

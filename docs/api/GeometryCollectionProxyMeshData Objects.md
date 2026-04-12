@@ -17,7 +17,7 @@ Geometry Collection Proxy Mesh Data
 
 <a id="unreal.GeometryCollectionProxyMeshData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(proxy_meshes: Array[StaticMesh] = []) -> None
@@ -25,7 +25,7 @@ def __init__(proxy_meshes: Array[StaticMesh] = []) -> None
 
 <a id="unreal.GeometryCollectionProxyMeshData.proxy_meshes"></a>
 
-#### proxy_meshes
+#### proxy\_meshes
 
 ```python
 @property
@@ -36,7 +36,7 @@ def proxy_meshes() -> Array[StaticMesh]
 
 <a id="unreal.GeometryCollectionProxyMeshData.proxy_meshes"></a>
 
-#### proxy_meshes
+#### proxy\_meshes
 
 ```python
 @proxy_meshes.setter

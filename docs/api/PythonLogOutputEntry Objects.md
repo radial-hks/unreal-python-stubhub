@@ -19,7 +19,7 @@ Log output entry captured from Python.
 
 <a id="unreal.PythonLogOutputEntry.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(type: PythonLogOutputType = PythonLogOutputType.INFO,

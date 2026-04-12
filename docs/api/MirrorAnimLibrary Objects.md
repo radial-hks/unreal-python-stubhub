@@ -13,7 +13,7 @@ Exposes operations that can be run on a Mirror node via Anim Node Functions such
 
 <a id="unreal.MirrorAnimLibrary.set_mirror_transition_blend_time"></a>
 
-#### set_mirror_transition_blend_time
+#### set\_mirror\_transition\_blend\_time
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.MirrorAnimLibrary.set_mirror"></a>
 
-#### set_mirror
+#### set\_mirror
 
 ```python
 @classmethod
@@ -54,7 +54,7 @@ Returns:
 
 <a id="unreal.MirrorAnimLibrary.get_mirror_transition_blend_time"></a>
 
-#### get_mirror_transition_blend_time
+#### get\_mirror\_transition\_blend\_time
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.MirrorAnimLibrary.get_mirror_data_table"></a>
 
-#### get_mirror_data_table
+#### get\_mirror\_data\_table
 
 ```python
 @classmethod
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.MirrorAnimLibrary.get_mirror"></a>
 
-#### get_mirror
+#### get\_mirror
 
 ```python
 @classmethod
@@ -110,7 +110,7 @@ Returns:
 
 <a id="unreal.MirrorAnimLibrary.convert_to_mirror_node_pure"></a>
 
-#### convert_to_mirror_node_pure
+#### convert\_to\_mirror\_node\_pure
 
 ```python
 @classmethod
@@ -133,7 +133,7 @@ Returns:
 
 <a id="unreal.MirrorAnimLibrary.convert_to_mirror_node"></a>
 
-#### convert_to_mirror_node
+#### convert\_to\_mirror\_node
 
 ```python
 @classmethod

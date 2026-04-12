@@ -25,19 +25,19 @@ Bone translation retargeting mode.
 
 <a id="unreal.BoneTranslationRetargetingMode.ANIMATION_SCALED"></a>
 
-#### ANIMATION_SCALED
+#### ANIMATION\_SCALED
 
 2: Use Translation from animation, but scale length by Skeleton's proportions.
 
 <a id="unreal.BoneTranslationRetargetingMode.ANIMATION_RELATIVE"></a>
 
-#### ANIMATION_RELATIVE
+#### ANIMATION\_RELATIVE
 
 3: Use Translation from animation, but also play the difference from retargeting pose as an additive.
 
 <a id="unreal.BoneTranslationRetargetingMode.ORIENT_AND_SCALE"></a>
 
-#### ORIENT_AND_SCALE
+#### ORIENT\_AND\_SCALE
 
 4: Apply delta orientation and scale from ref pose
 

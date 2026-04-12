@@ -13,7 +13,7 @@ Filter flags for the EnumerateWebcamCaptureDevices BP function.
 
 <a id="unreal.MediaWebcamCaptureDeviceFilter.DEPTH_SENSOR"></a>
 
-#### DEPTH_SENSOR
+#### DEPTH\_SENSOR
 
 1: Depth sensor.
 

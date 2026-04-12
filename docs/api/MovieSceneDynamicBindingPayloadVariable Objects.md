@@ -17,7 +17,7 @@ Value definition for any type-agnostic variable (exported as text)
 
 <a id="unreal.MovieSceneDynamicBindingPayloadVariable.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -61,7 +61,7 @@ def operation(value: PCGMetadataMathsOperation) -> None
 
 <a id="unreal.PCGMetadataMathsSettings.force_rounding_op_to_int"></a>
 
-#### force_rounding_op_to_int
+#### force\_rounding\_op\_to\_int
 
 ```python
 @property
@@ -72,7 +72,7 @@ def force_rounding_op_to_int() -> bool
 
 <a id="unreal.PCGMetadataMathsSettings.force_rounding_op_to_int"></a>
 
-#### force_rounding_op_to_int
+#### force\_rounding\_op\_to\_int
 
 ```python
 @force_rounding_op_to_int.setter
@@ -81,7 +81,7 @@ def force_rounding_op_to_int(value: bool) -> None
 
 <a id="unreal.PCGMetadataMathsSettings.force_op_to_double"></a>
 
-#### force_op_to_double
+#### force\_op\_to\_double
 
 ```python
 @property
@@ -92,7 +92,7 @@ def force_op_to_double() -> bool
 
 <a id="unreal.PCGMetadataMathsSettings.force_op_to_double"></a>
 
-#### force_op_to_double
+#### force\_op\_to\_double
 
 ```python
 @force_op_to_double.setter
@@ -101,7 +101,7 @@ def force_op_to_double(value: bool) -> None
 
 <a id="unreal.PCGMetadataMathsSettings.input_source1"></a>
 
-#### input_source1
+#### input\_source1
 
 ```python
 @property
@@ -112,7 +112,7 @@ def input_source1() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMathsSettings.input_source1"></a>
 
-#### input_source1
+#### input\_source1
 
 ```python
 @input_source1.setter
@@ -121,7 +121,7 @@ def input_source1(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataMathsSettings.input_source2"></a>
 
-#### input_source2
+#### input\_source2
 
 ```python
 @property
@@ -132,7 +132,7 @@ def input_source2() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMathsSettings.input_source2"></a>
 
-#### input_source2
+#### input\_source2
 
 ```python
 @input_source2.setter
@@ -141,7 +141,7 @@ def input_source2(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGMetadataMathsSettings.input_source3"></a>
 
-#### input_source3
+#### input\_source3
 
 ```python
 @property
@@ -152,7 +152,7 @@ def input_source3() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataMathsSettings.input_source3"></a>
 
-#### input_source3
+#### input\_source3
 
 ```python
 @input_source3.setter

@@ -38,25 +38,25 @@ ETexture Rotation Direction
 
 <a id="unreal.TextureRotationDirection.LEFT_MIRRORED"></a>
 
-#### LEFT_MIRRORED
+#### LEFT\_MIRRORED
 
 4
 
 <a id="unreal.TextureRotationDirection.RIGHT_MIRRORED"></a>
 
-#### RIGHT_MIRRORED
+#### RIGHT\_MIRRORED
 
 5
 
 <a id="unreal.TextureRotationDirection.DOWN_MIRRORED"></a>
 
-#### DOWN_MIRRORED
+#### DOWN\_MIRRORED
 
 6
 
 <a id="unreal.TextureRotationDirection.UP_MIRRORED"></a>
 
-#### UP_MIRRORED
+#### UP\_MIRRORED
 
 7
 

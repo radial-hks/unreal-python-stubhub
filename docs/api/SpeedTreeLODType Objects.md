@@ -13,13 +13,13 @@ ESpeed Tree LODType
 
 <a id="unreal.SpeedTreeLODType.STLOD_POP"></a>
 
-#### STLOD_POP
+#### STLOD\_POP
 
 0
 
 <a id="unreal.SpeedTreeLODType.STLOD_SMOOTH"></a>
 
-#### STLOD_SMOOTH
+#### STLOD\_SMOOTH
 
 1
 

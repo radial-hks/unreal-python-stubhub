@@ -19,7 +19,7 @@ Source Effect Bit Crusher Base Settings
 
 <a id="unreal.SourceEffectBitCrusherBaseSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(sample_rate: float = 0.000000,
@@ -28,7 +28,7 @@ def __init__(sample_rate: float = 0.000000,
 
 <a id="unreal.SourceEffectBitCrusherBaseSettings.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @property
@@ -39,7 +39,7 @@ def sample_rate() -> float
 
 <a id="unreal.SourceEffectBitCrusherBaseSettings.sample_rate"></a>
 
-#### sample_rate
+#### sample\_rate
 
 ```python
 @sample_rate.setter
@@ -48,7 +48,7 @@ def sample_rate(value: float) -> None
 
 <a id="unreal.SourceEffectBitCrusherBaseSettings.asset_sample_rate"></a>
 
-#### asset_sample_rate
+#### asset\_sample\_rate
 
 ```python
 @property
@@ -59,7 +59,7 @@ deprecated: 'asset_sample_rate' was renamed to 'sample_rate'.
 
 <a id="unreal.SourceEffectBitCrusherBaseSettings.asset_sample_rate"></a>
 
-#### asset_sample_rate
+#### asset\_sample\_rate
 
 ```python
 @asset_sample_rate.setter
@@ -68,7 +68,7 @@ def asset_sample_rate(value: float) -> None
 
 <a id="unreal.SourceEffectBitCrusherBaseSettings.bit_depth"></a>
 
-#### bit_depth
+#### bit\_depth
 
 ```python
 @property
@@ -79,7 +79,7 @@ def bit_depth() -> float
 
 <a id="unreal.SourceEffectBitCrusherBaseSettings.bit_depth"></a>
 
-#### bit_depth
+#### bit\_depth
 
 ```python
 @bit_depth.setter

@@ -25,7 +25,7 @@ EAlpha Blend Option
 
 <a id="unreal.AlphaBlendOption.HERMITE_CUBIC"></a>
 
-#### HERMITE_CUBIC
+#### HERMITE\_CUBIC
 
 2: Hermite-Cubic
 
@@ -37,61 +37,61 @@ EAlpha Blend Option
 
 <a id="unreal.AlphaBlendOption.QUADRATIC_IN_OUT"></a>
 
-#### QUADRATIC_IN_OUT
+#### QUADRATIC\_IN\_OUT
 
 4: Quadratic in-out interpolation
 
 <a id="unreal.AlphaBlendOption.CUBIC_IN_OUT"></a>
 
-#### CUBIC_IN_OUT
+#### CUBIC\_IN\_OUT
 
 5: Cubic in-out interpolation
 
 <a id="unreal.AlphaBlendOption.QUARTIC_IN_OUT"></a>
 
-#### QUARTIC_IN_OUT
+#### QUARTIC\_IN\_OUT
 
 6: Quartic in-out interpolation
 
 <a id="unreal.AlphaBlendOption.QUINTIC_IN_OUT"></a>
 
-#### QUINTIC_IN_OUT
+#### QUINTIC\_IN\_OUT
 
 7: Quintic in-out interpolation
 
 <a id="unreal.AlphaBlendOption.CIRCULAR_IN"></a>
 
-#### CIRCULAR_IN
+#### CIRCULAR\_IN
 
 8: Circular-in interpolation
 
 <a id="unreal.AlphaBlendOption.CIRCULAR_OUT"></a>
 
-#### CIRCULAR_OUT
+#### CIRCULAR\_OUT
 
 9: Circular-out interpolation
 
 <a id="unreal.AlphaBlendOption.CIRCULAR_IN_OUT"></a>
 
-#### CIRCULAR_IN_OUT
+#### CIRCULAR\_IN\_OUT
 
 10: Circular in-out interpolation
 
 <a id="unreal.AlphaBlendOption.EXP_IN"></a>
 
-#### EXP_IN
+#### EXP\_IN
 
 11: Exponential-in interpolation
 
 <a id="unreal.AlphaBlendOption.EXP_OUT"></a>
 
-#### EXP_OUT
+#### EXP\_OUT
 
 12: Exponential-Out interpolation
 
 <a id="unreal.AlphaBlendOption.EXP_IN_OUT"></a>
 
-#### EXP_IN_OUT
+#### EXP\_IN\_OUT
 
 13: Exponential in-out interpolation
 

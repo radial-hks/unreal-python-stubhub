@@ -19,7 +19,7 @@ Logout Callback Proxy
 
 <a id="unreal.LogoutCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @property
@@ -30,7 +30,7 @@ def on_success() -> OnlineLogoutResult
 
 <a id="unreal.LogoutCallbackProxy.on_success"></a>
 
-#### on_success
+#### on\_success
 
 ```python
 @on_success.setter
@@ -39,7 +39,7 @@ def on_success(value: OnlineLogoutResult) -> None
 
 <a id="unreal.LogoutCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @property
@@ -50,7 +50,7 @@ def on_failure() -> OnlineLogoutResult
 
 <a id="unreal.LogoutCallbackProxy.on_failure"></a>
 
-#### on_failure
+#### on\_failure
 
 ```python
 @on_failure.setter

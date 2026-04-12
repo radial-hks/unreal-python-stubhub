@@ -20,7 +20,7 @@ the behavior of a camera.
 
 <a id="unreal.CameraRigAsset.has_matching_gameplay_tag"></a>
 
-#### has_matching_gameplay_tag
+#### has\_matching\_gameplay\_tag
 
 ```python
 def has_matching_gameplay_tag(tag_to_check: GameplayTag) -> bool
@@ -37,7 +37,7 @@ Returns:
 
 <a id="unreal.CameraRigAsset.has_any_matching_gameplay_tags"></a>
 
-#### has_any_matching_gameplay_tags
+#### has\_any\_matching\_gameplay\_tags
 
 ```python
 def has_any_matching_gameplay_tags(
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.CameraRigAsset.has_all_matching_gameplay_tags"></a>
 
-#### has_all_matching_gameplay_tags
+#### has\_all\_matching\_gameplay\_tags
 
 ```python
 def has_all_matching_gameplay_tags(
@@ -71,4 +71,4 @@ Args:
 Returns:
     bool: True if the asset has matches all of the gameplay tags, will be true if container is empty
 
-<a id="unreal.MVVMBlueprintViewConversionFunction"></a>
+<a id="unreal.UserWidgetExtension"></a>

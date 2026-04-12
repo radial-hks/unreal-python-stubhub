@@ -19,7 +19,7 @@ Interchange Editor Settings
 
 <a id="unreal.InterchangeEditorSettings.set_used_group_name"></a>
 
-#### set_used_group_name
+#### set\_used\_group\_name
 
 ```python
 def set_used_group_name(used_group_name: Name) -> None
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.InterchangeEditorSettings.get_used_group_name"></a>
 
-#### get_used_group_name
+#### get\_used\_group\_name
 
 ```python
 def get_used_group_name() -> Name

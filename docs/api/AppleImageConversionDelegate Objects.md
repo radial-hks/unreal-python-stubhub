@@ -17,10 +17,10 @@ Args:
 
 <a id="unreal.AppleImageConversionDelegate.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None
 ```
 
-<a id="unreal.AndroidPermissionDynamicDelegate"></a>
+<a id="unreal.OnAudioInputDevicesObtained"></a>

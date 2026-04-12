@@ -142,7 +142,7 @@ Reflection Capture
 
 <a id="unreal.ReflectionCapture.capture_component"></a>
 
-#### capture_component
+#### capture\_component
 
 ```python
 @property

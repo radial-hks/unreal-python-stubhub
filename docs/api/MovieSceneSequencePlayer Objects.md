@@ -21,7 +21,7 @@ Abstract class that provides consistent player behaviour for various animation p
 
 <a id="unreal.MovieSceneSequencePlayer.on_play"></a>
 
-#### on_play
+#### on\_play
 
 ```python
 @property
@@ -32,7 +32,7 @@ def on_play() -> OnMovieSceneSequencePlayerEvent
 
 <a id="unreal.MovieSceneSequencePlayer.on_play"></a>
 
-#### on_play
+#### on\_play
 
 ```python
 @on_play.setter
@@ -41,7 +41,7 @@ def on_play(value: OnMovieSceneSequencePlayerEvent) -> None
 
 <a id="unreal.MovieSceneSequencePlayer.on_play_reverse"></a>
 
-#### on_play_reverse
+#### on\_play\_reverse
 
 ```python
 @property
@@ -52,7 +52,7 @@ def on_play_reverse() -> OnMovieSceneSequencePlayerEvent
 
 <a id="unreal.MovieSceneSequencePlayer.on_play_reverse"></a>
 
-#### on_play_reverse
+#### on\_play\_reverse
 
 ```python
 @on_play_reverse.setter
@@ -61,7 +61,7 @@ def on_play_reverse(value: OnMovieSceneSequencePlayerEvent) -> None
 
 <a id="unreal.MovieSceneSequencePlayer.on_stop"></a>
 
-#### on_stop
+#### on\_stop
 
 ```python
 @property
@@ -72,7 +72,7 @@ def on_stop() -> OnMovieSceneSequencePlayerEvent
 
 <a id="unreal.MovieSceneSequencePlayer.on_stop"></a>
 
-#### on_stop
+#### on\_stop
 
 ```python
 @on_stop.setter
@@ -81,7 +81,7 @@ def on_stop(value: OnMovieSceneSequencePlayerEvent) -> None
 
 <a id="unreal.MovieSceneSequencePlayer.on_pause"></a>
 
-#### on_pause
+#### on\_pause
 
 ```python
 @property
@@ -92,7 +92,7 @@ def on_pause() -> OnMovieSceneSequencePlayerEvent
 
 <a id="unreal.MovieSceneSequencePlayer.on_pause"></a>
 
-#### on_pause
+#### on\_pause
 
 ```python
 @on_pause.setter
@@ -101,7 +101,7 @@ def on_pause(value: OnMovieSceneSequencePlayerEvent) -> None
 
 <a id="unreal.MovieSceneSequencePlayer.on_finished"></a>
 
-#### on_finished
+#### on\_finished
 
 ```python
 @property
@@ -112,7 +112,7 @@ def on_finished() -> OnMovieSceneSequencePlayerEvent
 
 <a id="unreal.MovieSceneSequencePlayer.on_finished"></a>
 
-#### on_finished
+#### on\_finished
 
 ```python
 @on_finished.setter
@@ -121,7 +121,7 @@ def on_finished(value: OnMovieSceneSequencePlayerEvent) -> None
 
 <a id="unreal.MovieSceneSequencePlayer.stop_at_current_time"></a>
 
-#### stop_at_current_time
+#### stop\_at\_current\_time
 
 ```python
 def stop_at_current_time() -> None
@@ -143,7 +143,7 @@ Stop playback and move the cursor to the end (or start, for reversed playback) o
 
 <a id="unreal.MovieSceneSequencePlayer.set_weight"></a>
 
-#### set_weight
+#### set\_weight
 
 ```python
 def set_weight(weight: float) -> None
@@ -159,7 +159,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.set_time_range"></a>
 
-#### set_time_range
+#### set\_time\_range
 
 ```python
 def set_time_range(start_time: float, duration: float) -> None
@@ -174,7 +174,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.set_play_rate"></a>
 
-#### set_play_rate
+#### set\_play\_rate
 
 ```python
 def set_play_rate(play_rate: float) -> None
@@ -188,7 +188,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.set_playback_position"></a>
 
-#### set_playback_position
+#### set\_playback\_position
 
 ```python
 def set_playback_position(
@@ -204,7 +204,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.set_hide_hud"></a>
 
-#### set_hide_hud
+#### set\_hide\_hud
 
 ```python
 def set_hide_hud(hide_hud: bool) -> None
@@ -218,7 +218,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.set_frame_rate"></a>
 
-#### set_frame_rate
+#### set\_frame\_rate
 
 ```python
 def set_frame_rate(frame_rate: FrameRate) -> None
@@ -232,7 +232,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.set_frame_range"></a>
 
-#### set_frame_range
+#### set\_frame\_range
 
 ```python
 def set_frame_range(start_frame: int,
@@ -250,7 +250,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.set_disable_camera_cuts"></a>
 
-#### set_disable_camera_cuts
+#### set\_disable\_camera\_cuts
 
 ```python
 def set_disable_camera_cuts(disable_camera_cuts: bool) -> None
@@ -264,7 +264,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.set_completion_mode_override"></a>
 
-#### set_completion_mode_override
+#### set\_completion\_mode\_override
 
 ```python
 def set_completion_mode_override(
@@ -290,7 +290,7 @@ Scrub playback.
 
 <a id="unreal.MovieSceneSequencePlayer.restore_state"></a>
 
-#### restore_state
+#### restore\_state
 
 ```python
 def restore_state() -> None
@@ -301,7 +301,7 @@ Restore any changes made by this player to their original state
 
 <a id="unreal.MovieSceneSequencePlayer.request_invalidate_binding"></a>
 
-#### request_invalidate_binding
+#### request\_invalidate\_binding
 
 ```python
 def request_invalidate_binding(
@@ -316,7 +316,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.remove_weight"></a>
 
-#### remove_weight
+#### remove\_weight
 
 ```python
 def remove_weight() -> None
@@ -327,7 +327,7 @@ Removes a previously assigned weight
 
 <a id="unreal.MovieSceneSequencePlayer.play_to"></a>
 
-#### play_to
+#### play\_to
 
 ```python
 def play_to(playback_params: MovieSceneSequencePlaybackParams,
@@ -345,7 +345,7 @@ Args:
 
 <a id="unreal.MovieSceneSequencePlayer.play_reverse"></a>
 
-#### play_reverse
+#### play\_reverse
 
 ```python
 def play_reverse() -> None
@@ -356,7 +356,7 @@ Reverse playback.
 
 <a id="unreal.MovieSceneSequencePlayer.play_looping"></a>
 
-#### play_looping
+#### play\_looping
 
 ```python
 def play_looping(num_loops: int = -1) -> None
@@ -392,7 +392,7 @@ Pause playback.
 
 <a id="unreal.MovieSceneSequencePlayer.is_reversed"></a>
 
-#### is_reversed
+#### is\_reversed
 
 ```python
 def is_reversed() -> bool
@@ -406,7 +406,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.is_playing"></a>
 
-#### is_playing
+#### is\_playing
 
 ```python
 def is_playing() -> bool
@@ -420,7 +420,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.is_paused"></a>
 
-#### is_paused
+#### is\_paused
 
 ```python
 def is_paused() -> bool
@@ -434,7 +434,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.go_to_end_and_stop"></a>
 
-#### go_to_end_and_stop
+#### go\_to\_end\_and\_stop
 
 ```python
 def go_to_end_and_stop() -> None
@@ -445,7 +445,7 @@ Go to end of the sequence and stop. Adheres to 'When Finished' section rules.
 
 <a id="unreal.MovieSceneSequencePlayer.get_start_time"></a>
 
-#### get_start_time
+#### get\_start\_time
 
 ```python
 def get_start_time() -> QualifiedTime
@@ -459,7 +459,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_sequence_name"></a>
 
-#### get_sequence_name
+#### get\_sequence\_name
 
 ```python
 def get_sequence_name(add_client_info: bool = False) -> str
@@ -476,7 +476,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_sequence"></a>
 
-#### get_sequence
+#### get\_sequence
 
 ```python
 def get_sequence() -> MovieSceneSequence
@@ -490,7 +490,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_play_rate"></a>
 
-#### get_play_rate
+#### get\_play\_rate
 
 ```python
 def get_play_rate() -> float
@@ -504,7 +504,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_object_bindings"></a>
 
-#### get_object_bindings
+#### get\_object\_bindings
 
 ```python
 def get_object_bindings(object: Object) -> Array[MovieSceneObjectBindingID]
@@ -521,7 +521,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_hide_hud"></a>
 
-#### get_hide_hud
+#### get\_hide\_hud
 
 ```python
 def get_hide_hud() -> bool
@@ -535,7 +535,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_frame_rate"></a>
 
-#### get_frame_rate
+#### get\_frame\_rate
 
 ```python
 def get_frame_rate() -> FrameRate
@@ -549,7 +549,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_frame_duration"></a>
 
-#### get_frame_duration
+#### get\_frame\_duration
 
 ```python
 def get_frame_duration() -> int
@@ -563,7 +563,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_end_time"></a>
 
-#### get_end_time
+#### get\_end\_time
 
 ```python
 def get_end_time() -> QualifiedTime
@@ -577,7 +577,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_duration"></a>
 
-#### get_duration
+#### get\_duration
 
 ```python
 def get_duration() -> QualifiedTime
@@ -591,7 +591,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_disable_camera_cuts"></a>
 
-#### get_disable_camera_cuts
+#### get\_disable\_camera\_cuts
 
 ```python
 def get_disable_camera_cuts() -> bool
@@ -605,7 +605,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_current_time"></a>
 
-#### get_current_time
+#### get\_current\_time
 
 ```python
 def get_current_time() -> QualifiedTime
@@ -619,7 +619,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_completion_mode_override"></a>
 
-#### get_completion_mode_override
+#### get\_completion\_mode\_override
 
 ```python
 def get_completion_mode_override() -> MovieSceneCompletionModeOverride
@@ -633,7 +633,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.get_bound_objects"></a>
 
-#### get_bound_objects
+#### get\_bound\_objects
 
 ```python
 def get_bound_objects(
@@ -651,7 +651,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequencePlayer.change_playback_direction"></a>
 
-#### change_playback_direction
+#### change\_playback\_direction
 
 ```python
 def change_playback_direction() -> None

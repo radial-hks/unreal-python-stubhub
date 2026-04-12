@@ -22,7 +22,7 @@ Platform audio input device info, in a Blueprint-readable format
 
 <a id="unreal.AudioInputDeviceInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(device_name: str = "",
@@ -34,7 +34,7 @@ def __init__(device_name: str = "",
 
 <a id="unreal.AudioInputDeviceInfo.device_name"></a>
 
-#### device_name
+#### device\_name
 
 ```python
 @property
@@ -45,7 +45,7 @@ def device_name() -> str
 
 <a id="unreal.AudioInputDeviceInfo.device_id"></a>
 
-#### device_id
+#### device\_id
 
 ```python
 @property
@@ -56,7 +56,7 @@ def device_id() -> str
 
 <a id="unreal.AudioInputDeviceInfo.input_channels"></a>
 
-#### input_channels
+#### input\_channels
 
 ```python
 @property
@@ -67,7 +67,7 @@ def input_channels() -> int
 
 <a id="unreal.AudioInputDeviceInfo.preferred_sample_rate"></a>
 
-#### preferred_sample_rate
+#### preferred\_sample\_rate
 
 ```python
 @property
@@ -78,7 +78,7 @@ def preferred_sample_rate() -> int
 
 <a id="unreal.AudioInputDeviceInfo.supports_hardware_aec"></a>
 
-#### supports_hardware_aec
+#### supports\_hardware\_aec
 
 ```python
 @property

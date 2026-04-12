@@ -56,7 +56,7 @@ container (unless you want absolute layout).
 
 <a id="unreal.CanvasPanel.add_child_to_canvas"></a>
 
-#### add_child_to_canvas
+#### add\_child\_to\_canvas
 
 ```python
 def add_child_to_canvas(content: Widget) -> CanvasPanelSlot

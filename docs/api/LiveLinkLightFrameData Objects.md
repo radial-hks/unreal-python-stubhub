@@ -29,7 +29,7 @@ Dynamic data for light.
 
 <a id="unreal.LiveLinkLightFrameData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(meta_data: LiveLinkMetaData = [{}, [[0], [24, 1], 0.000000]],
@@ -90,7 +90,7 @@ def intensity(value: float) -> None
 
 <a id="unreal.LiveLinkLightFrameData.light_color"></a>
 
-#### light_color
+#### light\_color
 
 ```python
 @property
@@ -101,7 +101,7 @@ def light_color() -> Color
 
 <a id="unreal.LiveLinkLightFrameData.light_color"></a>
 
-#### light_color
+#### light\_color
 
 ```python
 @light_color.setter
@@ -110,7 +110,7 @@ def light_color(value: Color) -> None
 
 <a id="unreal.LiveLinkLightFrameData.inner_cone_angle"></a>
 
-#### inner_cone_angle
+#### inner\_cone\_angle
 
 ```python
 @property
@@ -121,7 +121,7 @@ def inner_cone_angle() -> float
 
 <a id="unreal.LiveLinkLightFrameData.inner_cone_angle"></a>
 
-#### inner_cone_angle
+#### inner\_cone\_angle
 
 ```python
 @inner_cone_angle.setter
@@ -130,7 +130,7 @@ def inner_cone_angle(value: float) -> None
 
 <a id="unreal.LiveLinkLightFrameData.outer_cone_angle"></a>
 
-#### outer_cone_angle
+#### outer\_cone\_angle
 
 ```python
 @property
@@ -141,7 +141,7 @@ def outer_cone_angle() -> float
 
 <a id="unreal.LiveLinkLightFrameData.outer_cone_angle"></a>
 
-#### outer_cone_angle
+#### outer\_cone\_angle
 
 ```python
 @outer_cone_angle.setter
@@ -150,7 +150,7 @@ def outer_cone_angle(value: float) -> None
 
 <a id="unreal.LiveLinkLightFrameData.attenuation_radius"></a>
 
-#### attenuation_radius
+#### attenuation\_radius
 
 ```python
 @property
@@ -161,7 +161,7 @@ def attenuation_radius() -> float
 
 <a id="unreal.LiveLinkLightFrameData.attenuation_radius"></a>
 
-#### attenuation_radius
+#### attenuation\_radius
 
 ```python
 @attenuation_radius.setter
@@ -170,7 +170,7 @@ def attenuation_radius(value: float) -> None
 
 <a id="unreal.LiveLinkLightFrameData.source_radius"></a>
 
-#### source_radius
+#### source\_radius
 
 ```python
 @property
@@ -181,7 +181,7 @@ def source_radius() -> float
 
 <a id="unreal.LiveLinkLightFrameData.source_radius"></a>
 
-#### source_radius
+#### source\_radius
 
 ```python
 @source_radius.setter
@@ -190,7 +190,7 @@ def source_radius(value: float) -> None
 
 <a id="unreal.LiveLinkLightFrameData.soft_source_radius"></a>
 
-#### soft_source_radius
+#### soft\_source\_radius
 
 ```python
 @property
@@ -201,7 +201,7 @@ def soft_source_radius() -> float
 
 <a id="unreal.LiveLinkLightFrameData.soft_source_radius"></a>
 
-#### soft_source_radius
+#### soft\_source\_radius
 
 ```python
 @soft_source_radius.setter
@@ -210,7 +210,7 @@ def soft_source_radius(value: float) -> None
 
 <a id="unreal.LiveLinkLightFrameData.source_length"></a>
 
-#### source_length
+#### source\_length
 
 ```python
 @property
@@ -221,7 +221,7 @@ def source_length() -> float
 
 <a id="unreal.LiveLinkLightFrameData.source_length"></a>
 
-#### source_length
+#### source\_length
 
 ```python
 @source_length.setter

@@ -13,13 +13,13 @@ Describes rules for network replicating a vector efficiently
 
 <a id="unreal.RotatorQuantization.BYTE_COMPONENTS"></a>
 
-#### BYTE_COMPONENTS
+#### BYTE\_COMPONENTS
 
 0: The rotator will be compressed to 8 bits per component.
 
 <a id="unreal.RotatorQuantization.SHORT_COMPONENTS"></a>
 
-#### SHORT_COMPONENTS
+#### SHORT\_COMPONENTS
 
 1: The rotator will be compressed to 16 bits per component.
 

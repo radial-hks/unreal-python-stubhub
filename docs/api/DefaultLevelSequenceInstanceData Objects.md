@@ -18,7 +18,7 @@ Default instance data class that level sequences understand. Implements IMovieSc
 
 <a id="unreal.DefaultLevelSequenceInstanceData.transform_origin_actor"></a>
 
-#### transform_origin_actor
+#### transform\_origin\_actor
 
 ```python
 @property
@@ -29,7 +29,7 @@ def transform_origin_actor() -> Actor
 
 <a id="unreal.DefaultLevelSequenceInstanceData.transform_origin_actor"></a>
 
-#### transform_origin_actor
+#### transform\_origin\_actor
 
 ```python
 @transform_origin_actor.setter
@@ -38,7 +38,7 @@ def transform_origin_actor(value: Actor) -> None
 
 <a id="unreal.DefaultLevelSequenceInstanceData.transform_origin"></a>
 
-#### transform_origin
+#### transform\_origin
 
 ```python
 @property
@@ -49,7 +49,7 @@ def transform_origin() -> Transform
 
 <a id="unreal.DefaultLevelSequenceInstanceData.transform_origin"></a>
 
-#### transform_origin
+#### transform\_origin
 
 ```python
 @transform_origin.setter
@@ -58,7 +58,7 @@ def transform_origin(value: Transform) -> None
 
 <a id="unreal.DefaultLevelSequenceInstanceData.bp_get_transform_origin"></a>
 
-#### bp_get_transform_origin
+#### bp\_get\_transform\_origin
 
 ```python
 def bp_get_transform_origin() -> Transform

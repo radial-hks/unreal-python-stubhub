@@ -67,7 +67,7 @@ like Left Mouse, down and up, to simulate a mouse click.
 
 <a id="unreal.WidgetInteractionComponent.on_hovered_widget_changed"></a>
 
-#### on_hovered_widget_changed
+#### on\_hovered\_widget\_changed
 
 ```python
 @property
@@ -79,7 +79,7 @@ level - so it's unable to report anything about what UWidget is under the hit re
 
 <a id="unreal.WidgetInteractionComponent.on_hovered_widget_changed"></a>
 
-#### on_hovered_widget_changed
+#### on\_hovered\_widget\_changed
 
 ```python
 @on_hovered_widget_changed.setter
@@ -88,7 +88,7 @@ def on_hovered_widget_changed(value: OnHoveredWidgetChanged) -> None
 
 <a id="unreal.WidgetInteractionComponent.virtual_user_index"></a>
 
-#### virtual_user_index
+#### virtual\_user\_index
 
 ```python
 @property
@@ -101,7 +101,7 @@ controller or finger-tip should get a unique PointerIndex.
 
 <a id="unreal.WidgetInteractionComponent.virtual_user_index"></a>
 
-#### virtual_user_index
+#### virtual\_user\_index
 
 ```python
 @virtual_user_index.setter
@@ -110,7 +110,7 @@ def virtual_user_index(value: int) -> None
 
 <a id="unreal.WidgetInteractionComponent.pointer_index"></a>
 
-#### pointer_index
+#### pointer\_index
 
 ```python
 @property
@@ -121,7 +121,7 @@ def pointer_index() -> int
 
 <a id="unreal.WidgetInteractionComponent.pointer_index"></a>
 
-#### pointer_index
+#### pointer\_index
 
 ```python
 @pointer_index.setter
@@ -130,7 +130,7 @@ def pointer_index(value: int) -> None
 
 <a id="unreal.WidgetInteractionComponent.trace_channel"></a>
 
-#### trace_channel
+#### trace\_channel
 
 ```python
 @property
@@ -141,7 +141,7 @@ def trace_channel() -> CollisionChannel
 
 <a id="unreal.WidgetInteractionComponent.trace_channel"></a>
 
-#### trace_channel
+#### trace\_channel
 
 ```python
 @trace_channel.setter
@@ -150,7 +150,7 @@ def trace_channel(value: CollisionChannel) -> None
 
 <a id="unreal.WidgetInteractionComponent.interaction_distance"></a>
 
-#### interaction_distance
+#### interaction\_distance
 
 ```python
 @property
@@ -161,7 +161,7 @@ def interaction_distance() -> float
 
 <a id="unreal.WidgetInteractionComponent.interaction_distance"></a>
 
-#### interaction_distance
+#### interaction\_distance
 
 ```python
 @interaction_distance.setter
@@ -170,7 +170,7 @@ def interaction_distance(value: float) -> None
 
 <a id="unreal.WidgetInteractionComponent.interaction_source"></a>
 
-#### interaction_source
+#### interaction\_source
 
 ```python
 @property
@@ -183,7 +183,7 @@ location you wish.
 
 <a id="unreal.WidgetInteractionComponent.interaction_source"></a>
 
-#### interaction_source
+#### interaction\_source
 
 ```python
 @interaction_source.setter
@@ -192,7 +192,7 @@ def interaction_source(value: WidgetInteractionSource) -> None
 
 <a id="unreal.WidgetInteractionComponent.enable_hit_testing"></a>
 
-#### enable_hit_testing
+#### enable\_hit\_testing
 
 ```python
 @property
@@ -206,7 +206,7 @@ component.
 
 <a id="unreal.WidgetInteractionComponent.enable_hit_testing"></a>
 
-#### enable_hit_testing
+#### enable\_hit\_testing
 
 ```python
 @enable_hit_testing.setter
@@ -215,7 +215,7 @@ def enable_hit_testing(value: bool) -> None
 
 <a id="unreal.WidgetInteractionComponent.show_debug"></a>
 
-#### show_debug
+#### show\_debug
 
 ```python
 @property
@@ -226,7 +226,7 @@ def show_debug() -> bool
 
 <a id="unreal.WidgetInteractionComponent.show_debug"></a>
 
-#### show_debug
+#### show\_debug
 
 ```python
 @show_debug.setter
@@ -235,7 +235,7 @@ def show_debug(value: bool) -> None
 
 <a id="unreal.WidgetInteractionComponent.debug_sphere_line_thickness"></a>
 
-#### debug_sphere_line_thickness
+#### debug\_sphere\_line\_thickness
 
 ```python
 @property
@@ -246,7 +246,7 @@ def debug_sphere_line_thickness() -> float
 
 <a id="unreal.WidgetInteractionComponent.debug_sphere_line_thickness"></a>
 
-#### debug_sphere_line_thickness
+#### debug\_sphere\_line\_thickness
 
 ```python
 @debug_sphere_line_thickness.setter
@@ -255,7 +255,7 @@ def debug_sphere_line_thickness(value: float) -> None
 
 <a id="unreal.WidgetInteractionComponent.debug_line_thickness"></a>
 
-#### debug_line_thickness
+#### debug\_line\_thickness
 
 ```python
 @property
@@ -266,7 +266,7 @@ def debug_line_thickness() -> float
 
 <a id="unreal.WidgetInteractionComponent.debug_line_thickness"></a>
 
-#### debug_line_thickness
+#### debug\_line\_thickness
 
 ```python
 @debug_line_thickness.setter
@@ -275,7 +275,7 @@ def debug_line_thickness(value: float) -> None
 
 <a id="unreal.WidgetInteractionComponent.debug_color"></a>
 
-#### debug_color
+#### debug\_color
 
 ```python
 @property
@@ -286,7 +286,7 @@ def debug_color() -> LinearColor
 
 <a id="unreal.WidgetInteractionComponent.debug_color"></a>
 
-#### debug_color
+#### debug\_color
 
 ```python
 @debug_color.setter
@@ -295,7 +295,7 @@ def debug_color(value: LinearColor) -> None
 
 <a id="unreal.WidgetInteractionComponent.set_focus"></a>
 
-#### set_focus
+#### set\_focus
 
 ```python
 def set_focus(focus_widget: Widget) -> None
@@ -309,7 +309,7 @@ Args:
 
 <a id="unreal.WidgetInteractionComponent.set_custom_hit_result"></a>
 
-#### set_custom_hit_result
+#### set\_custom\_hit\_result
 
 ```python
 def set_custom_hit_result(hit_result: HitResult) -> None
@@ -323,7 +323,7 @@ Args:
 
 <a id="unreal.WidgetInteractionComponent.send_key_char"></a>
 
-#### send_key_char
+#### send\_key\_char
 
 ```python
 def send_key_char(characters: str, repeat: bool = False) -> bool
@@ -342,7 +342,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.scroll_wheel"></a>
 
-#### scroll_wheel
+#### scroll\_wheel
 
 ```python
 def scroll_wheel(scroll_delta: float) -> None
@@ -356,7 +356,7 @@ Args:
 
 <a id="unreal.WidgetInteractionComponent.release_pointer_key"></a>
 
-#### release_pointer_key
+#### release\_pointer\_key
 
 ```python
 def release_pointer_key(key: Key) -> None
@@ -372,7 +372,7 @@ Args:
 
 <a id="unreal.WidgetInteractionComponent.release_key"></a>
 
-#### release_key
+#### release\_key
 
 ```python
 def release_key(key: Key) -> bool
@@ -389,7 +389,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.press_pointer_key"></a>
 
-#### press_pointer_key
+#### press\_pointer\_key
 
 ```python
 def press_pointer_key(key: Key) -> None
@@ -405,7 +405,7 @@ Args:
 
 <a id="unreal.WidgetInteractionComponent.press_key"></a>
 
-#### press_key
+#### press\_key
 
 ```python
 def press_key(key: Key, repeat: bool = False) -> bool
@@ -425,7 +425,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.press_and_release_key"></a>
 
-#### press_and_release_key
+#### press\_and\_release\_key
 
 ```python
 def press_and_release_key(key: Key) -> bool
@@ -442,7 +442,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.is_over_interactable_widget"></a>
 
-#### is_over_interactable_widget
+#### is\_over\_interactable\_widget
 
 ```python
 def is_over_interactable_widget() -> bool
@@ -457,7 +457,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.is_over_hit_test_visible_widget"></a>
 
-#### is_over_hit_test_visible_widget
+#### is\_over\_hit\_test\_visible\_widget
 
 ```python
 def is_over_hit_test_visible_widget() -> bool
@@ -472,7 +472,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.is_over_focusable_widget"></a>
 
-#### is_over_focusable_widget
+#### is\_over\_focusable\_widget
 
 ```python
 def is_over_focusable_widget() -> bool
@@ -487,7 +487,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.get_last_hit_result"></a>
 
-#### get_last_hit_result
+#### get\_last\_hit\_result
 
 ```python
 def get_last_hit_result() -> HitResult
@@ -501,7 +501,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.get_hovered_widget_component"></a>
 
-#### get_hovered_widget_component
+#### get\_hovered\_widget\_component
 
 ```python
 def get_hovered_widget_component() -> WidgetComponent
@@ -515,7 +515,7 @@ Returns:
 
 <a id="unreal.WidgetInteractionComponent.get2d_hit_location"></a>
 
-#### get2d_hit_location
+#### get2d\_hit\_location
 
 ```python
 def get2d_hit_location() -> Vector2D

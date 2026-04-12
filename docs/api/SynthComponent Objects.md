@@ -66,7 +66,7 @@ Synth Component
 
 <a id="unreal.SynthComponent.allow_spatialization"></a>
 
-#### allow_spatialization
+#### allow\_spatialization
 
 ```python
 @property
@@ -77,7 +77,7 @@ def allow_spatialization() -> bool
 
 <a id="unreal.SynthComponent.allow_spatialization"></a>
 
-#### allow_spatialization
+#### allow\_spatialization
 
 ```python
 @allow_spatialization.setter
@@ -86,7 +86,7 @@ def allow_spatialization(value: bool) -> None
 
 <a id="unreal.SynthComponent.override_attenuation"></a>
 
-#### override_attenuation
+#### override\_attenuation
 
 ```python
 @property
@@ -97,7 +97,7 @@ def override_attenuation() -> bool
 
 <a id="unreal.SynthComponent.override_attenuation"></a>
 
-#### override_attenuation
+#### override\_attenuation
 
 ```python
 @override_attenuation.setter
@@ -106,7 +106,7 @@ def override_attenuation(value: bool) -> None
 
 <a id="unreal.SynthComponent.enable_bus_sends"></a>
 
-#### enable_bus_sends
+#### enable\_bus\_sends
 
 ```python
 @property
@@ -117,7 +117,7 @@ def enable_bus_sends() -> bool
 
 <a id="unreal.SynthComponent.enable_bus_sends"></a>
 
-#### enable_bus_sends
+#### enable\_bus\_sends
 
 ```python
 @enable_bus_sends.setter
@@ -126,7 +126,7 @@ def enable_bus_sends(value: bool) -> None
 
 <a id="unreal.SynthComponent.attenuation_settings"></a>
 
-#### attenuation_settings
+#### attenuation\_settings
 
 ```python
 @property
@@ -137,7 +137,7 @@ def attenuation_settings() -> SoundAttenuation
 
 <a id="unreal.SynthComponent.attenuation_settings"></a>
 
-#### attenuation_settings
+#### attenuation\_settings
 
 ```python
 @attenuation_settings.setter
@@ -146,7 +146,7 @@ def attenuation_settings(value: SoundAttenuation) -> None
 
 <a id="unreal.SynthComponent.attenuation_overrides"></a>
 
-#### attenuation_overrides
+#### attenuation\_overrides
 
 ```python
 @property
@@ -157,7 +157,7 @@ def attenuation_overrides() -> SoundAttenuationSettings
 
 <a id="unreal.SynthComponent.attenuation_overrides"></a>
 
-#### attenuation_overrides
+#### attenuation\_overrides
 
 ```python
 @attenuation_overrides.setter
@@ -166,7 +166,7 @@ def attenuation_overrides(value: SoundAttenuationSettings) -> None
 
 <a id="unreal.SynthComponent.concurrency_set"></a>
 
-#### concurrency_set
+#### concurrency\_set
 
 ```python
 @property
@@ -177,7 +177,7 @@ def concurrency_set() -> Set[SoundConcurrency]
 
 <a id="unreal.SynthComponent.concurrency_set"></a>
 
-#### concurrency_set
+#### concurrency\_set
 
 ```python
 @concurrency_set.setter
@@ -186,7 +186,7 @@ def concurrency_set(value: Set[SoundConcurrency]) -> None
 
 <a id="unreal.SynthComponent.modulation_routing"></a>
 
-#### modulation_routing
+#### modulation\_routing
 
 ```python
 @property
@@ -197,7 +197,7 @@ def modulation_routing() -> SoundModulationDefaultRoutingSettings
 
 <a id="unreal.SynthComponent.modulation_routing"></a>
 
-#### modulation_routing
+#### modulation\_routing
 
 ```python
 @modulation_routing.setter
@@ -206,7 +206,7 @@ def modulation_routing(value: SoundModulationDefaultRoutingSettings) -> None
 
 <a id="unreal.SynthComponent.sound_submix_sends"></a>
 
-#### sound_submix_sends
+#### sound\_submix\_sends
 
 ```python
 @property
@@ -217,7 +217,7 @@ def sound_submix_sends() -> Array[SoundSubmixSendInfo]
 
 <a id="unreal.SynthComponent.sound_submix_sends"></a>
 
-#### sound_submix_sends
+#### sound\_submix\_sends
 
 ```python
 @sound_submix_sends.setter
@@ -226,7 +226,7 @@ def sound_submix_sends(value: Array[SoundSubmixSendInfo]) -> None
 
 <a id="unreal.SynthComponent.bus_sends"></a>
 
-#### bus_sends
+#### bus\_sends
 
 ```python
 @property
@@ -237,7 +237,7 @@ def bus_sends() -> Array[SoundSourceBusSendInfo]
 
 <a id="unreal.SynthComponent.bus_sends"></a>
 
-#### bus_sends
+#### bus\_sends
 
 ```python
 @bus_sends.setter
@@ -246,7 +246,7 @@ def bus_sends(value: Array[SoundSourceBusSendInfo]) -> None
 
 <a id="unreal.SynthComponent.pre_effect_bus_sends"></a>
 
-#### pre_effect_bus_sends
+#### pre\_effect\_bus\_sends
 
 ```python
 @property
@@ -257,7 +257,7 @@ def pre_effect_bus_sends() -> Array[SoundSourceBusSendInfo]
 
 <a id="unreal.SynthComponent.pre_effect_bus_sends"></a>
 
-#### pre_effect_bus_sends
+#### pre\_effect\_bus\_sends
 
 ```python
 @pre_effect_bus_sends.setter
@@ -266,7 +266,7 @@ def pre_effect_bus_sends(value: Array[SoundSourceBusSendInfo]) -> None
 
 <a id="unreal.SynthComponent.is_ui_sound"></a>
 
-#### is_ui_sound
+#### is\_ui\_sound
 
 ```python
 @property
@@ -277,7 +277,7 @@ def is_ui_sound() -> bool
 
 <a id="unreal.SynthComponent.is_ui_sound"></a>
 
-#### is_ui_sound
+#### is\_ui\_sound
 
 ```python
 @is_ui_sound.setter
@@ -286,7 +286,7 @@ def is_ui_sound(value: bool) -> None
 
 <a id="unreal.SynthComponent.envelope_follower_attack_time"></a>
 
-#### envelope_follower_attack_time
+#### envelope\_follower\_attack\_time
 
 ```python
 @property
@@ -298,7 +298,7 @@ envelope value of sounds played with this audio component. Only used in audio mi
 
 <a id="unreal.SynthComponent.envelope_follower_attack_time"></a>
 
-#### envelope_follower_attack_time
+#### envelope\_follower\_attack\_time
 
 ```python
 @envelope_follower_attack_time.setter
@@ -307,7 +307,7 @@ def envelope_follower_attack_time(value: int) -> None
 
 <a id="unreal.SynthComponent.envelope_follower_release_time"></a>
 
-#### envelope_follower_release_time
+#### envelope\_follower\_release\_time
 
 ```python
 @property
@@ -319,7 +319,7 @@ envelope value of sounds played with this audio component. Only used in audio mi
 
 <a id="unreal.SynthComponent.envelope_follower_release_time"></a>
 
-#### envelope_follower_release_time
+#### envelope\_follower\_release\_time
 
 ```python
 @envelope_follower_release_time.setter
@@ -328,7 +328,7 @@ def envelope_follower_release_time(value: int) -> None
 
 <a id="unreal.SynthComponent.on_audio_envelope_value"></a>
 
-#### on_audio_envelope_value
+#### on\_audio\_envelope\_value
 
 ```python
 @property
@@ -339,7 +339,7 @@ def on_audio_envelope_value() -> OnSynthEnvelopeValue
 
 <a id="unreal.SynthComponent.on_audio_envelope_value"></a>
 
-#### on_audio_envelope_value
+#### on\_audio\_envelope\_value
 
 ```python
 @on_audio_envelope_value.setter
@@ -370,7 +370,7 @@ Starts the synth generating audio.
 
 <a id="unreal.SynthComponent.set_volume_multiplier"></a>
 
-#### set_volume_multiplier
+#### set\_volume\_multiplier
 
 ```python
 def set_volume_multiplier(volume_multiplier: float) -> None
@@ -384,7 +384,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_submix_send"></a>
 
-#### set_submix_send
+#### set\_submix\_send
 
 ```python
 def set_submix_send(submix: SoundSubmixBase, send_level: float) -> None
@@ -399,7 +399,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_source_bus_send_pre_effect"></a>
 
-#### set_source_bus_send_pre_effect
+#### set\_source\_bus\_send\_pre\_effect
 
 ```python
 def set_source_bus_send_pre_effect(sound_source_bus: SoundSourceBus,
@@ -415,7 +415,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_source_bus_send_post_effect"></a>
 
-#### set_source_bus_send_post_effect
+#### set\_source\_bus\_send\_post\_effect
 
 ```python
 def set_source_bus_send_post_effect(sound_source_bus: SoundSourceBus,
@@ -431,7 +431,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_output_to_bus_only"></a>
 
-#### set_output_to_bus_only
+#### set\_output\_to\_bus\_only
 
 ```python
 def set_output_to_bus_only(output_to_bus_only: bool) -> None
@@ -445,7 +445,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_modulation_routing"></a>
 
-#### set_modulation_routing
+#### set\_modulation\_routing
 
 ```python
 def set_modulation_routing(
@@ -464,7 +464,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_low_pass_filter_frequency"></a>
 
-#### set_low_pass_filter_frequency
+#### set\_low\_pass\_filter\_frequency
 
 ```python
 def set_low_pass_filter_frequency(low_pass_filter_frequency: float) -> None
@@ -478,7 +478,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_low_pass_filter_enabled"></a>
 
-#### set_low_pass_filter_enabled
+#### set\_low\_pass\_filter\_enabled
 
 ```python
 def set_low_pass_filter_enabled(low_pass_filter_enabled: bool) -> None
@@ -492,7 +492,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_audio_bus_send_pre_effect"></a>
 
-#### set_audio_bus_send_pre_effect
+#### set\_audio\_bus\_send\_pre\_effect
 
 ```python
 def set_audio_bus_send_pre_effect(audio_bus: AudioBus,
@@ -508,7 +508,7 @@ Args:
 
 <a id="unreal.SynthComponent.set_audio_bus_send_post_effect"></a>
 
-#### set_audio_bus_send_post_effect
+#### set\_audio\_bus\_send\_post\_effect
 
 ```python
 def set_audio_bus_send_post_effect(audio_bus: AudioBus,
@@ -524,7 +524,7 @@ Args:
 
 <a id="unreal.SynthComponent.is_playing"></a>
 
-#### is_playing
+#### is\_playing
 
 ```python
 def is_playing() -> bool
@@ -538,7 +538,7 @@ Returns:
 
 <a id="unreal.SynthComponent.get_modulators"></a>
 
-#### get_modulators
+#### get\_modulators
 
 ```python
 def get_modulators(
@@ -556,7 +556,7 @@ Returns:
 
 <a id="unreal.SynthComponent.fade_out"></a>
 
-#### fade_out
+#### fade\_out
 
 ```python
 def fade_out(fade_out_duration: float,
@@ -575,7 +575,7 @@ Args:
 
 <a id="unreal.SynthComponent.fade_in"></a>
 
-#### fade_in
+#### fade\_in
 
 ```python
 def fade_in(fade_in_duration: float,
@@ -596,7 +596,7 @@ Args:
 
 <a id="unreal.SynthComponent.adjust_volume"></a>
 
-#### adjust_volume
+#### adjust\_volume
 
 ```python
 def adjust_volume(

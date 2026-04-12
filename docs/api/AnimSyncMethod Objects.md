@@ -13,13 +13,13 @@ How an asset will synchronize with other assets
 
 <a id="unreal.AnimSyncMethod.DO_NOT_SYNC"></a>
 
-#### DO_NOT_SYNC
+#### DO\_NOT\_SYNC
 
 0: Don't sync ever
 
 <a id="unreal.AnimSyncMethod.SYNC_GROUP"></a>
 
-#### SYNC_GROUP
+#### SYNC\_GROUP
 
 1: Use a named sync group
 

@@ -18,7 +18,7 @@ VR Editor Mode. Extends editor viewports with functionality for VR controls and 
 
 <a id="unreal.VREditorMode.interactor_class"></a>
 
-#### interactor_class
+#### interactor\_class
 
 ```python
 @property
@@ -29,7 +29,7 @@ def interactor_class() -> Class
 
 <a id="unreal.VREditorMode.interactor_class"></a>
 
-#### interactor_class
+#### interactor\_class
 
 ```python
 @interactor_class.setter
@@ -38,7 +38,7 @@ def interactor_class(value: Class) -> None
 
 <a id="unreal.VREditorMode.teleporter_class"></a>
 
-#### teleporter_class
+#### teleporter\_class
 
 ```python
 @property
@@ -49,7 +49,7 @@ def teleporter_class() -> Class
 
 <a id="unreal.VREditorMode.teleporter_class"></a>
 
-#### teleporter_class
+#### teleporter\_class
 
 ```python
 @teleporter_class.setter
@@ -58,7 +58,7 @@ def teleporter_class(value: Class) -> None
 
 <a id="unreal.VREditorMode.set_game_view"></a>
 
-#### set_game_view
+#### set\_game\_view
 
 ```python
 def set_game_view(game_view: bool) -> None
@@ -72,7 +72,7 @@ Args:
 
 <a id="unreal.VREditorMode.is_in_game_view"></a>
 
-#### is_in_game_view
+#### is\_in\_game\_view
 
 ```python
 def is_in_game_view() -> bool
@@ -86,7 +86,7 @@ Returns:
 
 <a id="unreal.VREditorMode.get_world_scale_factor"></a>
 
-#### get_world_scale_factor
+#### get\_world\_scale\_factor
 
 ```python
 def get_world_scale_factor() -> float

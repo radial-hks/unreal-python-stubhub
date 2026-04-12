@@ -18,7 +18,7 @@ Struct for storing reorderable and hidden/visible outliner columns
 
 <a id="unreal.ColumnVisibilitySetting.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

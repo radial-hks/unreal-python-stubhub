@@ -22,7 +22,7 @@ Landmass Terrain Carving Settings
 
 <a id="unreal.LandmassTerrainCarvingSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(blend_mode: BrushBlendType = BrushBlendType.ALPHA_BLEND,
@@ -44,7 +44,7 @@ def __init__(blend_mode: BrushBlendType = BrushBlendType.ALPHA_BLEND,
 
 <a id="unreal.LandmassTerrainCarvingSettings.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @property
@@ -55,7 +55,7 @@ def blend_mode() -> BrushBlendType
 
 <a id="unreal.LandmassTerrainCarvingSettings.blend_mode"></a>
 
-#### blend_mode
+#### blend\_mode
 
 ```python
 @blend_mode.setter
@@ -64,7 +64,7 @@ def blend_mode(value: BrushBlendType) -> None
 
 <a id="unreal.LandmassTerrainCarvingSettings.invert_shape"></a>
 
-#### invert_shape
+#### invert\_shape
 
 ```python
 @property
@@ -75,7 +75,7 @@ def invert_shape() -> bool
 
 <a id="unreal.LandmassTerrainCarvingSettings.invert_shape"></a>
 
-#### invert_shape
+#### invert\_shape
 
 ```python
 @invert_shape.setter
@@ -84,7 +84,7 @@ def invert_shape(value: bool) -> None
 
 <a id="unreal.LandmassTerrainCarvingSettings.falloff_settings"></a>
 
-#### falloff_settings
+#### falloff\_settings
 
 ```python
 @property
@@ -95,7 +95,7 @@ def falloff_settings() -> LandmassFalloffSettings
 
 <a id="unreal.LandmassTerrainCarvingSettings.falloff_settings"></a>
 
-#### falloff_settings
+#### falloff\_settings
 
 ```python
 @falloff_settings.setter

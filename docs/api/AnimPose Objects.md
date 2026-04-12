@@ -13,7 +13,7 @@ Script friendly representation of an evaluated animation bone pose
 
 <a id="unreal.AnimPose.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -21,7 +21,7 @@ def __init__() -> None
 
 <a id="unreal.AnimPose.set_bone_pose"></a>
 
-#### set_bone_pose
+#### set\_bone\_pose
 
 ```python
 def set_bone_pose(transform: Transform,
@@ -39,7 +39,7 @@ Args:
 
 <a id="unreal.AnimPose.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_socket_pose"></a>
 
-#### get_socket_pose
+#### get\_socket\_pose
 
 ```python
 def get_socket_pose(socket_name: Name,
@@ -72,7 +72,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_socket_names"></a>
 
-#### get_socket_names
+#### get\_socket\_names
 
 ```python
 def get_socket_names() -> Array[Name]
@@ -88,7 +88,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_relative_transform"></a>
 
-#### get_relative_transform
+#### get\_relative\_transform
 
 ```python
 def get_relative_transform(
@@ -110,7 +110,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_relative_to_ref_pose_transform"></a>
 
-#### get_relative_to_ref_pose_transform
+#### get\_relative\_to\_ref\_pose\_transform
 
 ```python
 def get_relative_to_ref_pose_transform(
@@ -130,7 +130,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_ref_pose_relative_transform"></a>
 
-#### get_ref_pose_relative_transform
+#### get\_ref\_pose\_relative\_transform
 
 ```python
 def get_ref_pose_relative_transform(
@@ -152,7 +152,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_ref_bone_pose"></a>
 
-#### get_ref_bone_pose
+#### get\_ref\_bone\_pose
 
 ```python
 def get_ref_bone_pose(
@@ -172,7 +172,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_curve_weight"></a>
 
-#### get_curve_weight
+#### get\_curve\_weight
 
 ```python
 def get_curve_weight(curve_name: Name) -> float
@@ -189,7 +189,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_curve_names"></a>
 
-#### get_curve_names
+#### get\_curve\_names
 
 ```python
 def get_curve_names() -> Array[Name]
@@ -205,7 +205,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_bone_pose"></a>
 
-#### get_bone_pose
+#### get\_bone\_pose
 
 ```python
 def get_bone_pose(bone_name: Name,
@@ -224,7 +224,7 @@ Returns:
 
 <a id="unreal.AnimPose.get_bone_names"></a>
 
-#### get_bone_names
+#### get\_bone\_names
 
 ```python
 def get_bone_names() -> Array[Name]
@@ -240,7 +240,7 @@ Returns:
 
 <a id="unreal.AnimPose.evaluate_animation_blueprint_with_input_pose"></a>
 
-#### evaluate_animation_blueprint_with_input_pose
+#### evaluate\_animation\_blueprint\_with\_input\_pose
 
 ```python
 def evaluate_animation_blueprint_with_input_pose(

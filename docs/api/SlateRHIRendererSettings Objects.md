@@ -22,7 +22,7 @@ Settings used to control slate rendering
 
 <a id="unreal.SlateRHIRendererSettings.get_slate_post_setting"></a>
 
-#### get_slate_post_setting
+#### get\_slate\_post\_setting
 
 ```python
 def get_slate_post_setting(post_buffer_bit: SlatePostRT) -> SlatePostSettings
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.SlateRHIRendererSettings.get_mutable_slate_post_setting"></a>
 
-#### get_mutable_slate_post_setting
+#### get\_mutable\_slate\_post\_setting
 
 ```python
 def get_mutable_slate_post_setting(

@@ -19,13 +19,13 @@ Types of MultiBlocks
 
 <a id="unreal.MultiBlockType.BUTTON_ROW"></a>
 
-#### BUTTON_ROW
+#### BUTTON\_ROW
 
 1
 
 <a id="unreal.MultiBlockType.EDITABLE_TEXT"></a>
 
-#### EDITABLE_TEXT
+#### EDITABLE\_TEXT
 
 2
 
@@ -37,7 +37,7 @@ Types of MultiBlocks
 
 <a id="unreal.MultiBlockType.MENU_ENTRY"></a>
 
-#### MENU_ENTRY
+#### MENU\_ENTRY
 
 4
 
@@ -49,13 +49,13 @@ Types of MultiBlocks
 
 <a id="unreal.MultiBlockType.TOOL_BAR_BUTTON"></a>
 
-#### TOOL_BAR_BUTTON
+#### TOOL\_BAR\_BUTTON
 
 6
 
 <a id="unreal.MultiBlockType.TOOL_BAR_COMBO_BUTTON"></a>
 
-#### TOOL_BAR_COMBO_BUTTON
+#### TOOL\_BAR\_COMBO\_BUTTON
 
 7
 

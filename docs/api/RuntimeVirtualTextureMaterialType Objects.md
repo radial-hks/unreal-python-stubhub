@@ -15,7 +15,7 @@ This "fixed function" approach will probably break down if we end up needing to 
 
 <a id="unreal.RuntimeVirtualTextureMaterialType.BASE_COLOR"></a>
 
-#### BASE_COLOR
+#### BASE\_COLOR
 
 0
 
@@ -27,31 +27,31 @@ This "fixed function" approach will probably break down if we end up needing to 
 
 <a id="unreal.RuntimeVirtualTextureMaterialType.BASE_COLOR_NORMAL_ROUGHNESS"></a>
 
-#### BASE_COLOR_NORMAL_ROUGHNESS
+#### BASE\_COLOR\_NORMAL\_ROUGHNESS
 
 2: Local space Normal. Requires less memory than 'Base Color, Normal, Roughness, Specular'. Supports LQ compression.
 
 <a id="unreal.RuntimeVirtualTextureMaterialType.BASE_COLOR_NORMAL_SPECULAR"></a>
 
-#### BASE_COLOR_NORMAL_SPECULAR
+#### BASE\_COLOR\_NORMAL\_SPECULAR
 
 3
 
 <a id="unreal.RuntimeVirtualTextureMaterialType.BASE_COLOR_NORMAL_SPECULAR_Y_CO_CG"></a>
 
-#### BASE_COLOR_NORMAL_SPECULAR_Y_CO_CG
+#### BASE\_COLOR\_NORMAL\_SPECULAR\_Y\_CO\_CG
 
 4: Base Color is stored in YCoCg space. This requires more memory but may provide better quality.
 
 <a id="unreal.RuntimeVirtualTextureMaterialType.BASE_COLOR_NORMAL_SPECULAR_MASK_Y_CO_CG"></a>
 
-#### BASE_COLOR_NORMAL_SPECULAR_MASK_Y_CO_CG
+#### BASE\_COLOR\_NORMAL\_SPECULAR\_MASK\_Y\_CO\_CG
 
 5: Base Color is stored in YCoCg space. This requires more memory but may provide better quality.
 
 <a id="unreal.RuntimeVirtualTextureMaterialType.WORLD_HEIGHT"></a>
 
-#### WORLD_HEIGHT
+#### WORLD\_HEIGHT
 
 6
 

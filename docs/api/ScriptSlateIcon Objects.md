@@ -19,7 +19,7 @@ Script Slate Icon
 
 <a id="unreal.ScriptSlateIcon.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(style_set_name: Name = "None",
@@ -29,7 +29,7 @@ def __init__(style_set_name: Name = "None",
 
 <a id="unreal.ScriptSlateIcon.style_set_name"></a>
 
-#### style_set_name
+#### style\_set\_name
 
 ```python
 @property
@@ -40,7 +40,7 @@ def style_set_name() -> Name
 
 <a id="unreal.ScriptSlateIcon.style_set_name"></a>
 
-#### style_set_name
+#### style\_set\_name
 
 ```python
 @style_set_name.setter
@@ -49,7 +49,7 @@ def style_set_name(value: Name) -> None
 
 <a id="unreal.ScriptSlateIcon.style_name"></a>
 
-#### style_name
+#### style\_name
 
 ```python
 @property
@@ -60,7 +60,7 @@ def style_name() -> Name
 
 <a id="unreal.ScriptSlateIcon.style_name"></a>
 
-#### style_name
+#### style\_name
 
 ```python
 @style_name.setter
@@ -69,7 +69,7 @@ def style_name(value: Name) -> None
 
 <a id="unreal.ScriptSlateIcon.small_style_name"></a>
 
-#### small_style_name
+#### small\_style\_name
 
 ```python
 @property
@@ -80,7 +80,7 @@ def small_style_name() -> Name
 
 <a id="unreal.ScriptSlateIcon.small_style_name"></a>
 
-#### small_style_name
+#### small\_style\_name
 
 ```python
 @small_style_name.setter

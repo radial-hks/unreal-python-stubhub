@@ -13,7 +13,7 @@ Struct that is used to store an array of asset import data as an asset registry 
 
 <a id="unreal.AssetImportInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -14,7 +14,7 @@ Py Test Interface
 
 <a id="unreal.PyTestInterface.func_interface"></a>
 
-#### func_interface
+#### func\_interface
 
 ```python
 def func_interface(value: int) -> int

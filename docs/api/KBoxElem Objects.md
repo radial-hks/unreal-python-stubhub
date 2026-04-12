@@ -31,7 +31,7 @@ Box shape used for collision
 
 <a id="unreal.KBoxElem.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

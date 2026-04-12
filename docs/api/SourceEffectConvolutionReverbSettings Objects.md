@@ -20,7 +20,7 @@ Source Effect Convolution Reverb Settings
 
 <a id="unreal.SourceEffectConvolutionReverbSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(wet_volume_db: float = 0.000000,
@@ -30,7 +30,7 @@ def __init__(wet_volume_db: float = 0.000000,
 
 <a id="unreal.SourceEffectConvolutionReverbSettings.wet_volume_db"></a>
 
-#### wet_volume_db
+#### wet\_volume\_db
 
 ```python
 @property
@@ -41,7 +41,7 @@ def wet_volume_db() -> float
 
 <a id="unreal.SourceEffectConvolutionReverbSettings.wet_volume_db"></a>
 
-#### wet_volume_db
+#### wet\_volume\_db
 
 ```python
 @wet_volume_db.setter
@@ -50,7 +50,7 @@ def wet_volume_db(value: float) -> None
 
 <a id="unreal.SourceEffectConvolutionReverbSettings.dry_volume_db"></a>
 
-#### dry_volume_db
+#### dry\_volume\_db
 
 ```python
 @property
@@ -61,7 +61,7 @@ def dry_volume_db() -> float
 
 <a id="unreal.SourceEffectConvolutionReverbSettings.dry_volume_db"></a>
 
-#### dry_volume_db
+#### dry\_volume\_db
 
 ```python
 @dry_volume_db.setter

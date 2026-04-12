@@ -13,7 +13,7 @@ A function library of utilities for querying information about plugins.
 
 <a id="unreal.PluginBlueprintLibrary.is_plugin_mounted"></a>
 
-#### is_plugin_mounted
+#### is\_plugin\_mounted
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_version_name"></a>
 
-#### get_plugin_version_name
+#### get\_plugin\_version\_name
 
 ```python
 @classmethod
@@ -51,7 +51,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_version"></a>
 
-#### get_plugin_version
+#### get\_plugin\_version
 
 ```python
 @classmethod
@@ -71,7 +71,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_name_for_object_path"></a>
 
-#### get_plugin_name_for_object_path
+#### get\_plugin\_name\_for\_object\_path
 
 ```python
 @classmethod
@@ -92,7 +92,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_mounted_asset_path"></a>
 
-#### get_plugin_mounted_asset_path
+#### get\_plugin\_mounted\_asset\_path
 
 ```python
 @classmethod
@@ -112,7 +112,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_editor_custom_virtual_path"></a>
 
-#### get_plugin_editor_custom_virtual_path
+#### get\_plugin\_editor\_custom\_virtual\_path
 
 ```python
 @classmethod
@@ -133,7 +133,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_descriptor_file_path"></a>
 
-#### get_plugin_descriptor_file_path
+#### get\_plugin\_descriptor\_file\_path
 
 ```python
 @classmethod
@@ -153,7 +153,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_description"></a>
 
-#### get_plugin_description
+#### get\_plugin\_description
 
 ```python
 @classmethod
@@ -173,7 +173,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_content_dir"></a>
 
-#### get_plugin_content_dir
+#### get\_plugin\_content\_dir
 
 ```python
 @classmethod
@@ -193,7 +193,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_plugin_base_dir"></a>
 
-#### get_plugin_base_dir
+#### get\_plugin\_base\_dir
 
 ```python
 @classmethod
@@ -213,7 +213,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_enabled_plugin_names"></a>
 
-#### get_enabled_plugin_names
+#### get\_enabled\_plugin\_names
 
 ```python
 @classmethod
@@ -228,7 +228,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_additional_project_plugin_search_paths"></a>
 
-#### get_additional_project_plugin_search_paths
+#### get\_additional\_project\_plugin\_search\_paths
 
 ```python
 @classmethod
@@ -244,7 +244,7 @@ Returns:
 
 <a id="unreal.PluginBlueprintLibrary.get_additional_plugin_search_paths"></a>
 
-#### get_additional_plugin_search_paths
+#### get\_additional\_plugin\_search\_paths
 
 ```python
 @classmethod

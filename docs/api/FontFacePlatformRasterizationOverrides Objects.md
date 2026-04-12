@@ -19,7 +19,7 @@ Remapping of rasterization modes
 
 <a id="unreal.FontFacePlatformRasterizationOverrides.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

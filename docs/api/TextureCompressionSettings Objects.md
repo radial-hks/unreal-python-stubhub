@@ -14,92 +14,92 @@ TC_EncodedReflectionCapture is no longer used and could be deleted
 
 <a id="unreal.TextureCompressionSettings.TC_DEFAULT"></a>
 
-#### TC_DEFAULT
+#### TC\_DEFAULT
 
 0
 
 <a id="unreal.TextureCompressionSettings.TC_NORMALMAP"></a>
 
-#### TC_NORMALMAP
+#### TC\_NORMALMAP
 
 1
 
 <a id="unreal.TextureCompressionSettings.TC_MASKS"></a>
 
-#### TC_MASKS
+#### TC\_MASKS
 
 2
 
 <a id="unreal.TextureCompressionSettings.TC_GRAYSCALE"></a>
 
-#### TC_GRAYSCALE
+#### TC\_GRAYSCALE
 
 3
 
 <a id="unreal.TextureCompressionSettings.TC_DISPLACEMENTMAP"></a>
 
-#### TC_DISPLACEMENTMAP
+#### TC\_DISPLACEMENTMAP
 
 4
 
 <a id="unreal.TextureCompressionSettings.TC_VECTOR_DISPLACEMENTMAP"></a>
 
-#### TC_VECTOR_DISPLACEMENTMAP
+#### TC\_VECTOR\_DISPLACEMENTMAP
 
 5
 
 <a id="unreal.TextureCompressionSettings.TC_HDR"></a>
 
-#### TC_HDR
+#### TC\_HDR
 
 6
 
 <a id="unreal.TextureCompressionSettings.TC_EDITOR_ICON"></a>
 
-#### TC_EDITOR_ICON
+#### TC\_EDITOR\_ICON
 
 7
 
 <a id="unreal.TextureCompressionSettings.TC_ALPHA"></a>
 
-#### TC_ALPHA
+#### TC\_ALPHA
 
 8
 
 <a id="unreal.TextureCompressionSettings.TC_DISTANCE_FIELD_FONT"></a>
 
-#### TC_DISTANCE_FIELD_FONT
+#### TC\_DISTANCE\_FIELD\_FONT
 
 9
 
 <a id="unreal.TextureCompressionSettings.TC_HDR_COMPRESSED"></a>
 
-#### TC_HDR_COMPRESSED
+#### TC\_HDR\_COMPRESSED
 
 10
 
 <a id="unreal.TextureCompressionSettings.TC_BC7"></a>
 
-#### TC_BC7
+#### TC\_BC7
 
 11
 
 <a id="unreal.TextureCompressionSettings.TC_HALF_FLOAT"></a>
 
-#### TC_HALF_FLOAT
+#### TC\_HALF\_FLOAT
 
 12
 
 <a id="unreal.TextureCompressionSettings.TC_SINGLE_FLOAT"></a>
 
-#### TC_SINGLE_FLOAT
+#### TC\_SINGLE\_FLOAT
 
 15
 
 <a id="unreal.TextureCompressionSettings.TC_HDR_F32"></a>
 
-#### TC_HDR_F32
+#### TC\_HDR\_F32
 
 16
 
-<a id="unreal.TextureMipLoadOptions"></a>
+<a id="unreal.TextureGroup"></a>

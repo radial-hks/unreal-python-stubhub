@@ -13,7 +13,7 @@ A drawing canvas.
 
 <a id="unreal.Canvas.clipped_text_size"></a>
 
-#### clipped_text_size
+#### clipped\_text\_size
 
 ```python
 def clipped_text_size(render_font: Font,
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.Canvas.wrapped_text_size"></a>
 
-#### wrapped_text_size
+#### wrapped\_text\_size
 
 ```python
 def wrapped_text_size(render_font: Font, render_text: str) -> Vector2D
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.Canvas.draw_triangles"></a>
 
-#### draw_triangles
+#### draw\_triangles
 
 ```python
 def draw_triangles(render_texture: Texture,
@@ -85,7 +85,7 @@ Args:
 
 <a id="unreal.Canvas.draw_texture"></a>
 
-#### draw_texture
+#### draw\_texture
 
 ```python
 def draw_texture(render_texture: Texture,
@@ -117,7 +117,7 @@ Args:
 
 <a id="unreal.Canvas.draw_text"></a>
 
-#### draw_text
+#### draw\_text
 
 ```python
 def draw_text(
@@ -155,7 +155,7 @@ Args:
 
 <a id="unreal.Canvas.draw_polygon"></a>
 
-#### draw_polygon
+#### draw\_polygon
 
 ```python
 def draw_polygon(
@@ -179,7 +179,7 @@ Args:
 
 <a id="unreal.Canvas.draw_material_triangles"></a>
 
-#### draw_material_triangles
+#### draw\_material\_triangles
 
 ```python
 def draw_material_triangles(render_material: MaterialInterface,
@@ -195,7 +195,7 @@ Args:
 
 <a id="unreal.Canvas.draw_material"></a>
 
-#### draw_material
+#### draw\_material
 
 ```python
 def draw_material(render_material: MaterialInterface,
@@ -221,7 +221,7 @@ Args:
 
 <a id="unreal.Canvas.draw_line"></a>
 
-#### draw_line
+#### draw\_line
 
 ```python
 def draw_line(
@@ -243,7 +243,7 @@ Args:
 
 <a id="unreal.Canvas.draw_box"></a>
 
-#### draw_box
+#### draw\_box
 
 ```python
 def draw_box(
@@ -265,7 +265,7 @@ Args:
 
 <a id="unreal.Canvas.draw_border"></a>
 
-#### draw_border
+#### draw\_border
 
 ```python
 def draw_border(border_texture: Texture,

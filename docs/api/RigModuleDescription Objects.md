@@ -19,7 +19,7 @@ Rig Module Description
 
 <a id="unreal.RigModuleDescription.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

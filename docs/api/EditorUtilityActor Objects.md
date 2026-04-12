@@ -142,7 +142,7 @@ Editor Utility Actor
 
 <a id="unreal.EditorUtilityActor.receives_editor_input"></a>
 
-#### receives_editor_input
+#### receives\_editor\_input
 
 ```python
 @property
@@ -153,7 +153,7 @@ def receives_editor_input() -> bool
 
 <a id="unreal.EditorUtilityActor.receives_editor_input"></a>
 
-#### receives_editor_input
+#### receives\_editor\_input
 
 ```python
 @receives_editor_input.setter
@@ -173,7 +173,7 @@ Standard function to execute
 
 <a id="unreal.EditorUtilityActor.get_input_component"></a>
 
-#### get_input_component
+#### get\_input\_component
 
 ```python
 def get_input_component() -> InputComponent

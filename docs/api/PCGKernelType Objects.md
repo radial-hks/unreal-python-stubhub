@@ -14,13 +14,13 @@ Type of kernel allows us to make decisions about execution automatically, stream
 
 <a id="unreal.PCGKernelType.POINT_PROCESSOR"></a>
 
-#### POINT_PROCESSOR
+#### POINT\_PROCESSOR
 
 0: Kernel executes on each point in first input pin.
 
 <a id="unreal.PCGKernelType.POINT_GENERATOR"></a>
 
-#### POINT_GENERATOR
+#### POINT\_GENERATOR
 
 1: Kernel executes for fixed number of points, configurable on node.
 

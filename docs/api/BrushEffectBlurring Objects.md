@@ -19,7 +19,7 @@ Brush Effect Blurring
 
 <a id="unreal.BrushEffectBlurring.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(blur_shape: bool = False, radius: int = 0) -> None
@@ -27,7 +27,7 @@ def __init__(blur_shape: bool = False, radius: int = 0) -> None
 
 <a id="unreal.BrushEffectBlurring.blur_shape"></a>
 
-#### blur_shape
+#### blur\_shape
 
 ```python
 @property
@@ -38,7 +38,7 @@ def blur_shape() -> bool
 
 <a id="unreal.BrushEffectBlurring.blur_shape"></a>
 
-#### blur_shape
+#### blur\_shape
 
 ```python
 @blur_shape.setter

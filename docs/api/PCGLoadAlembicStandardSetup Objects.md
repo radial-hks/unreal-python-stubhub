@@ -20,7 +20,7 @@ EPCGLoad Alembic Standard Setup
 
 <a id="unreal.PCGLoadAlembicStandardSetup.CITY_SAMPLE"></a>
 
-#### CITY_SAMPLE
+#### CITY\_SAMPLE
 
 1: Uses the same setup as in the City Sample demo: right handed Y-up and the orient and scale mapping to the rotation and scale, respectively
 

@@ -21,7 +21,7 @@ Control Rig Component Mapped Component
 
 <a id="unreal.ControlRigComponentMappedComponent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -55,7 +55,7 @@ def component(value: SceneComponent) -> None
 
 <a id="unreal.ControlRigComponentMappedComponent.element_name"></a>
 
-#### element_name
+#### element\_name
 
 ```python
 @property
@@ -66,7 +66,7 @@ def element_name() -> Name
 
 <a id="unreal.ControlRigComponentMappedComponent.element_name"></a>
 
-#### element_name
+#### element\_name
 
 ```python
 @element_name.setter
@@ -75,7 +75,7 @@ def element_name(value: Name) -> None
 
 <a id="unreal.ControlRigComponentMappedComponent.element_type"></a>
 
-#### element_type
+#### element\_type
 
 ```python
 @property
@@ -86,7 +86,7 @@ def element_type() -> RigElementType
 
 <a id="unreal.ControlRigComponentMappedComponent.element_type"></a>
 
-#### element_type
+#### element\_type
 
 ```python
 @element_type.setter

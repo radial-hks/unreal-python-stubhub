@@ -18,7 +18,7 @@ Rig Element Key Collection
 
 <a id="unreal.RigElementKeyCollection.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(keys: Array[RigElementKey] = []) -> None

@@ -29,7 +29,7 @@ def settings() -> SourceEffectSimpleDelaySettings
 
 <a id="unreal.SourceEffectSimpleDelayPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SourceEffectSimpleDelaySettings) -> None

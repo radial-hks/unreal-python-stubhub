@@ -19,13 +19,13 @@ EEnv Query Hightlight Mode
 
 <a id="unreal.EnvQueryHightlightMode.BEST5_PCT"></a>
 
-#### BEST5_PCT
+#### BEST5\_PCT
 
 1
 
 <a id="unreal.EnvQueryHightlightMode.BEST25_PCT"></a>
 
-#### BEST25_PCT
+#### BEST25\_PCT
 
 2
 

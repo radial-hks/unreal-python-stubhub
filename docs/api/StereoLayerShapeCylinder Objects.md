@@ -30,7 +30,7 @@ def radius() -> float
 
 <a id="unreal.StereoLayerShapeCylinder.overlay_arc"></a>
 
-#### overlay_arc
+#### overlay\_arc
 
 ```python
 @property
@@ -52,7 +52,7 @@ def height() -> int
 
 <a id="unreal.StereoLayerShapeCylinder.set_radius"></a>
 
-#### set_radius
+#### set\_radius
 
 ```python
 def set_radius(radius: float) -> None
@@ -66,7 +66,7 @@ Args:
 
 <a id="unreal.StereoLayerShapeCylinder.set_overlay_arc"></a>
 
-#### set_overlay_arc
+#### set\_overlay\_arc
 
 ```python
 def set_overlay_arc(overlay_arc: float) -> None
@@ -80,7 +80,7 @@ Args:
 
 <a id="unreal.StereoLayerShapeCylinder.set_height"></a>
 
-#### set_height
+#### set\_height
 
 ```python
 def set_height(height: int) -> None

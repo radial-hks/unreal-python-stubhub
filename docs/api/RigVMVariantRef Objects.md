@@ -20,7 +20,7 @@ It is generated on demand.
 
 <a id="unreal.RigVMVariantRef.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(object_path: SoftObjectPath = [""],
@@ -29,7 +29,7 @@ def __init__(object_path: SoftObjectPath = [""],
 
 <a id="unreal.RigVMVariantRef.object_path"></a>
 
-#### object_path
+#### object\_path
 
 ```python
 @property

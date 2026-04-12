@@ -19,7 +19,7 @@ PCGKernel Attribute Key
 
 <a id="unreal.PCGKernelAttributeKey.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

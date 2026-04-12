@@ -13,7 +13,7 @@ SparseVolumeTexture base interface to communicate with material graph and shader
 
 <a id="unreal.SparseVolumeTexture.get_size_z"></a>
 
-#### get_size_z
+#### get\_size\_z
 
 ```python
 def get_size_z() -> int
@@ -27,7 +27,7 @@ Returns:
 
 <a id="unreal.SparseVolumeTexture.get_size_y"></a>
 
-#### get_size_y
+#### get\_size\_y
 
 ```python
 def get_size_y() -> int
@@ -41,7 +41,7 @@ Returns:
 
 <a id="unreal.SparseVolumeTexture.get_size_x"></a>
 
-#### get_size_x
+#### get\_size\_x
 
 ```python
 def get_size_x() -> int
@@ -55,7 +55,7 @@ Returns:
 
 <a id="unreal.SparseVolumeTexture.get_num_mip_levels"></a>
 
-#### get_num_mip_levels
+#### get\_num\_mip\_levels
 
 ```python
 def get_num_mip_levels() -> int
@@ -69,7 +69,7 @@ Returns:
 
 <a id="unreal.SparseVolumeTexture.get_num_frames"></a>
 
-#### get_num_frames
+#### get\_num\_frames
 
 ```python
 def get_num_frames() -> int
@@ -83,7 +83,7 @@ Returns:
 
 <a id="unreal.SparseVolumeTexture.get_frame_transform"></a>
 
-#### get_frame_transform
+#### get\_frame\_transform
 
 ```python
 def get_frame_transform() -> Transform

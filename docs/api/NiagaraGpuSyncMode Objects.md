@@ -20,19 +20,19 @@ ENiagara Gpu Sync Mode
 
 <a id="unreal.NiagaraGpuSyncMode.SYNC_CPU_TO_GPU"></a>
 
-#### SYNC_CPU_TO_GPU
+#### SYNC\_CPU\_TO\_GPU
 
 1: Cpu modifications will be pushed to the Gpu.
 
 <a id="unreal.NiagaraGpuSyncMode.SYNC_GPU_TO_CPU"></a>
 
-#### SYNC_GPU_TO_CPU
+#### SYNC\_GPU\_TO\_CPU
 
 2: Gpu will continuously push back to the Cpu, this will incur a performance penalty.
 
 <a id="unreal.NiagaraGpuSyncMode.SYNC_BOTH"></a>
 
-#### SYNC_BOTH
+#### SYNC\_BOTH
 
 3: Gpu will continuously push back to the Cpu and Cpu modifications will be pushed to the Gpu.
 

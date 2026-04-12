@@ -14,7 +14,7 @@ Interchange Physics Asset Factory Node
 
 <a id="unreal.InterchangePhysicsAssetFactoryNode.set_custom_skeletal_mesh_uid"></a>
 
-#### set_custom_skeletal_mesh_uid
+#### set\_custom\_skeletal\_mesh\_uid
 
 ```python
 def set_custom_skeletal_mesh_uid(attribute_value: str) -> bool
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicsAssetFactoryNode.initialize_physics_asset_node"></a>
 
-#### initialize_physics_asset_node
+#### initialize\_physics\_asset\_node
 
 ```python
 def initialize_physics_asset_node(unique_id: str, display_label: str,
@@ -49,7 +49,7 @@ Args:
 
 <a id="unreal.InterchangePhysicsAssetFactoryNode.get_object_class"></a>
 
-#### get_object_class
+#### get\_object\_class
 
 ```python
 def get_object_class() -> Class
@@ -63,7 +63,7 @@ Returns:
 
 <a id="unreal.InterchangePhysicsAssetFactoryNode.get_custom_skeletal_mesh_uid"></a>
 
-#### get_custom_skeletal_mesh_uid
+#### get\_custom\_skeletal\_mesh\_uid
 
 ```python
 def get_custom_skeletal_mesh_uid() -> Optional[str]

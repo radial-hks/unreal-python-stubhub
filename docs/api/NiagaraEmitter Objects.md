@@ -83,7 +83,7 @@ changes to the base asset are automatically picked up by child emitter assets an
 
 <a id="unreal.NiagaraEmitter.local_space"></a>
 
-#### local_space
+#### local\_space
 
 ```python
 @property
@@ -95,7 +95,7 @@ deprecated: Property 'bLocalSpace' is deprecated.
 
 <a id="unreal.NiagaraEmitter.local_space"></a>
 
-#### local_space
+#### local\_space
 
 ```python
 @local_space.setter
@@ -125,7 +125,7 @@ def determinism(value: bool) -> None
 
 <a id="unreal.NiagaraEmitter.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @property
@@ -137,7 +137,7 @@ deprecated: Property 'RandomSeed' is deprecated.
 
 <a id="unreal.NiagaraEmitter.random_seed"></a>
 
-#### random_seed
+#### random\_seed
 
 ```python
 @random_seed.setter
@@ -146,7 +146,7 @@ def random_seed(value: int) -> None
 
 <a id="unreal.NiagaraEmitter.allocation_mode"></a>
 
-#### allocation_mode
+#### allocation\_mode
 
 ```python
 @property
@@ -158,7 +158,7 @@ deprecated: Property 'AllocationMode' is deprecated.
 
 <a id="unreal.NiagaraEmitter.allocation_mode"></a>
 
-#### allocation_mode
+#### allocation\_mode
 
 ```python
 @allocation_mode.setter
@@ -167,7 +167,7 @@ def allocation_mode(value: ParticleAllocationMode) -> None
 
 <a id="unreal.NiagaraEmitter.pre_allocation_count"></a>
 
-#### pre_allocation_count
+#### pre\_allocation\_count
 
 ```python
 @property
@@ -179,7 +179,7 @@ deprecated: Property 'PreAllocationCount' is deprecated.
 
 <a id="unreal.NiagaraEmitter.pre_allocation_count"></a>
 
-#### pre_allocation_count
+#### pre\_allocation\_count
 
 ```python
 @pre_allocation_count.setter
@@ -188,7 +188,7 @@ def pre_allocation_count(value: int) -> None
 
 <a id="unreal.NiagaraEmitter.update_script_props"></a>
 
-#### update_script_props
+#### update\_script\_props
 
 ```python
 @property
@@ -200,7 +200,7 @@ deprecated: Property 'UpdateScriptProps' is deprecated.
 
 <a id="unreal.NiagaraEmitter.update_script_props"></a>
 
-#### update_script_props
+#### update\_script\_props
 
 ```python
 @update_script_props.setter
@@ -209,7 +209,7 @@ def update_script_props(value: NiagaraEmitterScriptProperties) -> None
 
 <a id="unreal.NiagaraEmitter.spawn_script_props"></a>
 
-#### spawn_script_props
+#### spawn\_script\_props
 
 ```python
 @property
@@ -221,7 +221,7 @@ deprecated: Property 'SpawnScriptProps' is deprecated.
 
 <a id="unreal.NiagaraEmitter.spawn_script_props"></a>
 
-#### spawn_script_props
+#### spawn\_script\_props
 
 ```python
 @spawn_script_props.setter
@@ -230,7 +230,7 @@ def spawn_script_props(value: NiagaraEmitterScriptProperties) -> None
 
 <a id="unreal.NiagaraEmitter.template_specification"></a>
 
-#### template_specification
+#### template\_specification
 
 ```python
 @property
@@ -242,7 +242,7 @@ deprecated: Property 'TemplateSpecification' is deprecated.
 
 <a id="unreal.NiagaraEmitter.template_specification"></a>
 
-#### template_specification
+#### template\_specification
 
 ```python
 @template_specification.setter
@@ -251,7 +251,7 @@ def template_specification(value: NiagaraScriptTemplateSpecification) -> None
 
 <a id="unreal.NiagaraEmitter.emitter_spawn_script_props"></a>
 
-#### emitter_spawn_script_props
+#### emitter\_spawn\_script\_props
 
 ```python
 @property
@@ -263,7 +263,7 @@ deprecated: Property 'EmitterSpawnScriptProps' is deprecated.
 
 <a id="unreal.NiagaraEmitter.emitter_spawn_script_props"></a>
 
-#### emitter_spawn_script_props
+#### emitter\_spawn\_script\_props
 
 ```python
 @emitter_spawn_script_props.setter
@@ -272,7 +272,7 @@ def emitter_spawn_script_props(value: NiagaraEmitterScriptProperties) -> None
 
 <a id="unreal.NiagaraEmitter.emitter_update_script_props"></a>
 
-#### emitter_update_script_props
+#### emitter\_update\_script\_props
 
 ```python
 @property
@@ -284,7 +284,7 @@ deprecated: Property 'EmitterUpdateScriptProps' is deprecated.
 
 <a id="unreal.NiagaraEmitter.emitter_update_script_props"></a>
 
-#### emitter_update_script_props
+#### emitter\_update\_script\_props
 
 ```python
 @emitter_update_script_props.setter
@@ -293,7 +293,7 @@ def emitter_update_script_props(value: NiagaraEmitterScriptProperties) -> None
 
 <a id="unreal.NiagaraEmitter.attributes_to_preserve"></a>
 
-#### attributes_to_preserve
+#### attributes\_to\_preserve
 
 ```python
 @property
@@ -305,7 +305,7 @@ deprecated: Property 'AttributesToPreserve' is deprecated.
 
 <a id="unreal.NiagaraEmitter.attributes_to_preserve"></a>
 
-#### attributes_to_preserve
+#### attributes\_to\_preserve
 
 ```python
 @attributes_to_preserve.setter
@@ -314,7 +314,7 @@ def attributes_to_preserve(value: Array[str]) -> None
 
 <a id="unreal.NiagaraEmitter.parent_scratch_pad_scripts"></a>
 
-#### parent_scratch_pad_scripts
+#### parent\_scratch\_pad\_scripts
 
 ```python
 @property
@@ -326,7 +326,7 @@ deprecated: Property 'ParentScratchPadScripts' is deprecated.
 
 <a id="unreal.NiagaraEmitter.parent_scratch_pad_scripts"></a>
 
-#### parent_scratch_pad_scripts
+#### parent\_scratch\_pad\_scripts
 
 ```python
 @parent_scratch_pad_scripts.setter
@@ -335,7 +335,7 @@ def parent_scratch_pad_scripts(value: Array[NiagaraScript]) -> None
 
 <a id="unreal.NiagaraEmitter.sim_target"></a>
 
-#### sim_target
+#### sim\_target
 
 ```python
 @property
@@ -347,7 +347,7 @@ deprecated: Property 'SimTarget' is deprecated.
 
 <a id="unreal.NiagaraEmitter.sim_target"></a>
 
-#### sim_target
+#### sim\_target
 
 ```python
 @sim_target.setter
@@ -377,7 +377,7 @@ def platforms(value: NiagaraPlatformSet) -> None
 
 <a id="unreal.NiagaraEmitter.scalability_overrides"></a>
 
-#### scalability_overrides
+#### scalability\_overrides
 
 ```python
 @property
@@ -389,7 +389,7 @@ deprecated: Property 'ScalabilityOverrides' is deprecated.
 
 <a id="unreal.NiagaraEmitter.scalability_overrides"></a>
 
-#### scalability_overrides
+#### scalability\_overrides
 
 ```python
 @scalability_overrides.setter
@@ -398,7 +398,7 @@ def scalability_overrides(value: NiagaraEmitterScalabilityOverrides) -> None
 
 <a id="unreal.NiagaraEmitter.interpolated_spawning"></a>
 
-#### interpolated_spawning
+#### interpolated\_spawning
 
 ```python
 @property
@@ -410,7 +410,7 @@ deprecated: Property 'bInterpolatedSpawning' is deprecated.
 
 <a id="unreal.NiagaraEmitter.interpolated_spawning"></a>
 
-#### interpolated_spawning
+#### interpolated\_spawning
 
 ```python
 @interpolated_spawning.setter
@@ -419,7 +419,7 @@ def interpolated_spawning(value: bool) -> None
 
 <a id="unreal.NiagaraEmitter.renderer_bindings"></a>
 
-#### renderer_bindings
+#### renderer\_bindings
 
 ```python
 @property
@@ -431,7 +431,7 @@ deprecated: Property 'RendererBindings' is deprecated.
 
 <a id="unreal.NiagaraEmitter.renderer_bindings"></a>
 
-#### renderer_bindings
+#### renderer\_bindings
 
 ```python
 @renderer_bindings.setter
@@ -440,7 +440,7 @@ def renderer_bindings(value: NiagaraParameterStore) -> None
 
 <a id="unreal.NiagaraEmitter.requires_persistent_i_ds"></a>
 
-#### requires_persistent_i_ds
+#### requires\_persistent\_i\_ds
 
 ```python
 @property
@@ -452,7 +452,7 @@ deprecated: Property 'bRequiresPersistentIDs' is deprecated.
 
 <a id="unreal.NiagaraEmitter.requires_persistent_i_ds"></a>
 
-#### requires_persistent_i_ds
+#### requires\_persistent\_i\_ds
 
 ```python
 @requires_persistent_i_ds.setter
@@ -461,7 +461,7 @@ def requires_persistent_i_ds(value: bool) -> None
 
 <a id="unreal.NiagaraEmitter.max_gpu_particles_spawn_per_frame"></a>
 
-#### max_gpu_particles_spawn_per_frame
+#### max\_gpu\_particles\_spawn\_per\_frame
 
 ```python
 @property
@@ -473,7 +473,7 @@ deprecated: Property 'MaxGPUParticlesSpawnPerFrame' is deprecated.
 
 <a id="unreal.NiagaraEmitter.max_gpu_particles_spawn_per_frame"></a>
 
-#### max_gpu_particles_spawn_per_frame
+#### max\_gpu\_particles\_spawn\_per\_frame
 
 ```python
 @max_gpu_particles_spawn_per_frame.setter
@@ -482,7 +482,7 @@ def max_gpu_particles_spawn_per_frame(value: int) -> None
 
 <a id="unreal.NiagaraEmitter.graph_source"></a>
 
-#### graph_source
+#### graph\_source
 
 ```python
 @property
@@ -494,7 +494,7 @@ deprecated: Property 'GraphSource' is deprecated.
 
 <a id="unreal.NiagaraEmitter.graph_source"></a>
 
-#### graph_source
+#### graph\_source
 
 ```python
 @graph_source.setter
@@ -503,7 +503,7 @@ def graph_source(value: NiagaraScriptSourceBase) -> None
 
 <a id="unreal.NiagaraEmitter.scratch_pad_scripts"></a>
 
-#### scratch_pad_scripts
+#### scratch\_pad\_scripts
 
 ```python
 @property
@@ -515,7 +515,7 @@ deprecated: Property 'ScratchPadScripts' is deprecated.
 
 <a id="unreal.NiagaraEmitter.scratch_pad_scripts"></a>
 
-#### scratch_pad_scripts
+#### scratch\_pad\_scripts
 
 ```python
 @scratch_pad_scripts.setter
@@ -524,7 +524,7 @@ def scratch_pad_scripts(value: Array[NiagaraScript]) -> None
 
 <a id="unreal.NiagaraEmitter.editor_data"></a>
 
-#### editor_data
+#### editor\_data
 
 ```python
 @property
@@ -536,7 +536,7 @@ deprecated: Property 'EditorData' is deprecated.
 
 <a id="unreal.NiagaraEmitter.editor_data"></a>
 
-#### editor_data
+#### editor\_data
 
 ```python
 @editor_data.setter
@@ -545,7 +545,7 @@ def editor_data(value: NiagaraEditorDataBase) -> None
 
 <a id="unreal.NiagaraEmitter.editor_parameters"></a>
 
-#### editor_parameters
+#### editor\_parameters
 
 ```python
 @property
@@ -557,7 +557,7 @@ deprecated: Property 'EditorParameters' is deprecated.
 
 <a id="unreal.NiagaraEmitter.editor_parameters"></a>
 
-#### editor_parameters
+#### editor\_parameters
 
 ```python
 @editor_parameters.setter
@@ -566,7 +566,7 @@ def editor_parameters(value: NiagaraEditorParametersAdapterBase) -> None
 
 <a id="unreal.NiagaraEmitter.renderer_properties"></a>
 
-#### renderer_properties
+#### renderer\_properties
 
 ```python
 @property
@@ -578,7 +578,7 @@ deprecated: Property 'RendererProperties' is deprecated.
 
 <a id="unreal.NiagaraEmitter.renderer_properties"></a>
 
-#### renderer_properties
+#### renderer\_properties
 
 ```python
 @renderer_properties.setter
@@ -587,7 +587,7 @@ def renderer_properties(value: Array[NiagaraRendererProperties]) -> None
 
 <a id="unreal.NiagaraEmitter.event_handler_script_props"></a>
 
-#### event_handler_script_props
+#### event\_handler\_script\_props
 
 ```python
 @property
@@ -599,7 +599,7 @@ deprecated: Property 'EventHandlerScriptProps' is deprecated.
 
 <a id="unreal.NiagaraEmitter.event_handler_script_props"></a>
 
-#### event_handler_script_props
+#### event\_handler\_script\_props
 
 ```python
 @event_handler_script_props.setter
@@ -609,7 +609,7 @@ def event_handler_script_props(
 
 <a id="unreal.NiagaraEmitter.simulation_stages"></a>
 
-#### simulation_stages
+#### simulation\_stages
 
 ```python
 @property
@@ -621,7 +621,7 @@ deprecated: Property 'SimulationStages' is deprecated.
 
 <a id="unreal.NiagaraEmitter.simulation_stages"></a>
 
-#### simulation_stages
+#### simulation\_stages
 
 ```python
 @simulation_stages.setter
@@ -630,7 +630,7 @@ def simulation_stages(value: Array[NiagaraSimulationStageBase]) -> None
 
 <a id="unreal.NiagaraEmitter.gpu_compute_script"></a>
 
-#### gpu_compute_script
+#### gpu\_compute\_script
 
 ```python
 @property
@@ -642,7 +642,7 @@ deprecated: Property 'GPUComputeScript' is deprecated.
 
 <a id="unreal.NiagaraEmitter.gpu_compute_script"></a>
 
-#### gpu_compute_script
+#### gpu\_compute\_script
 
 ```python
 @gpu_compute_script.setter
@@ -651,7 +651,7 @@ def gpu_compute_script(value: NiagaraScript) -> None
 
 <a id="unreal.NiagaraEmitter.shared_event_generator_ids"></a>
 
-#### shared_event_generator_ids
+#### shared\_event\_generator\_ids
 
 ```python
 @property
@@ -663,7 +663,7 @@ deprecated: Property 'SharedEventGeneratorIds' is deprecated.
 
 <a id="unreal.NiagaraEmitter.shared_event_generator_ids"></a>
 
-#### shared_event_generator_ids
+#### shared\_event\_generator\_ids
 
 ```python
 @shared_event_generator_ids.setter
@@ -693,7 +693,7 @@ def parent(value: NiagaraEmitter) -> None
 
 <a id="unreal.NiagaraEmitter.parent_at_last_merge"></a>
 
-#### parent_at_last_merge
+#### parent\_at\_last\_merge
 
 ```python
 @property
@@ -705,7 +705,7 @@ deprecated: Property 'ParentAtLastMerge' is deprecated.
 
 <a id="unreal.NiagaraEmitter.parent_at_last_merge"></a>
 
-#### parent_at_last_merge
+#### parent\_at\_last\_merge
 
 ```python
 @parent_at_last_merge.setter

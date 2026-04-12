@@ -143,7 +143,7 @@ Target Point
 
 <a id="unreal.TargetPoint.sprite_component"></a>
 
-#### sprite_component
+#### sprite\_component
 
 ```python
 @property
@@ -154,7 +154,7 @@ def sprite_component() -> BillboardComponent
 
 <a id="unreal.TargetPoint.arrow_component"></a>
 
-#### arrow_component
+#### arrow\_component
 
 ```python
 @property

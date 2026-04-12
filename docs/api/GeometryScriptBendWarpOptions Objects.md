@@ -20,7 +20,7 @@ Geometry Script Bend Warp Options
 
 <a id="unreal.GeometryScriptBendWarpOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(symmetric_extents: bool = False,
@@ -30,7 +30,7 @@ def __init__(symmetric_extents: bool = False,
 
 <a id="unreal.GeometryScriptBendWarpOptions.symmetric_extents"></a>
 
-#### symmetric_extents
+#### symmetric\_extents
 
 ```python
 @property
@@ -41,7 +41,7 @@ def symmetric_extents() -> bool
 
 <a id="unreal.GeometryScriptBendWarpOptions.symmetric_extents"></a>
 
-#### symmetric_extents
+#### symmetric\_extents
 
 ```python
 @symmetric_extents.setter
@@ -50,7 +50,7 @@ def symmetric_extents(value: bool) -> None
 
 <a id="unreal.GeometryScriptBendWarpOptions.lower_extent"></a>
 
-#### lower_extent
+#### lower\_extent
 
 ```python
 @property
@@ -61,7 +61,7 @@ def lower_extent() -> float
 
 <a id="unreal.GeometryScriptBendWarpOptions.lower_extent"></a>
 
-#### lower_extent
+#### lower\_extent
 
 ```python
 @lower_extent.setter

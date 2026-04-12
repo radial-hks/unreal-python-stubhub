@@ -21,7 +21,7 @@ Represents the appearance of an SComboBox
 
 <a id="unreal.ComboBoxStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -103,7 +103,7 @@ def __init__(
 
 <a id="unreal.ComboBoxStyle.combo_button_style"></a>
 
-#### combo_button_style
+#### combo\_button\_style
 
 ```python
 @property
@@ -114,7 +114,7 @@ def combo_button_style() -> ComboButtonStyle
 
 <a id="unreal.ComboBoxStyle.combo_button_style"></a>
 
-#### combo_button_style
+#### combo\_button\_style
 
 ```python
 @combo_button_style.setter
@@ -123,7 +123,7 @@ def combo_button_style(value: ComboButtonStyle) -> None
 
 <a id="unreal.ComboBoxStyle.pressed_slate_sound"></a>
 
-#### pressed_slate_sound
+#### pressed\_slate\_sound
 
 ```python
 @property
@@ -134,7 +134,7 @@ def pressed_slate_sound() -> SlateSound
 
 <a id="unreal.ComboBoxStyle.pressed_slate_sound"></a>
 
-#### pressed_slate_sound
+#### pressed\_slate\_sound
 
 ```python
 @pressed_slate_sound.setter
@@ -143,7 +143,7 @@ def pressed_slate_sound(value: SlateSound) -> None
 
 <a id="unreal.ComboBoxStyle.selection_change_slate_sound"></a>
 
-#### selection_change_slate_sound
+#### selection\_change\_slate\_sound
 
 ```python
 @property
@@ -154,7 +154,7 @@ def selection_change_slate_sound() -> SlateSound
 
 <a id="unreal.ComboBoxStyle.selection_change_slate_sound"></a>
 
-#### selection_change_slate_sound
+#### selection\_change\_slate\_sound
 
 ```python
 @selection_change_slate_sound.setter
@@ -163,7 +163,7 @@ def selection_change_slate_sound(value: SlateSound) -> None
 
 <a id="unreal.ComboBoxStyle.content_padding"></a>
 
-#### content_padding
+#### content\_padding
 
 ```python
 @property
@@ -174,7 +174,7 @@ def content_padding() -> Margin
 
 <a id="unreal.ComboBoxStyle.content_padding"></a>
 
-#### content_padding
+#### content\_padding
 
 ```python
 @content_padding.setter
@@ -183,7 +183,7 @@ def content_padding(value: Margin) -> None
 
 <a id="unreal.ComboBoxStyle.menu_row_padding"></a>
 
-#### menu_row_padding
+#### menu\_row\_padding
 
 ```python
 @property
@@ -194,7 +194,7 @@ def menu_row_padding() -> Margin
 
 <a id="unreal.ComboBoxStyle.menu_row_padding"></a>
 
-#### menu_row_padding
+#### menu\_row\_padding
 
 ```python
 @menu_row_padding.setter

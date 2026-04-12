@@ -13,7 +13,7 @@ Generic structure for returning most any kind of data from C++ to delegate funct
 
 <a id="unreal.PlatformInterfaceDelegateResult.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

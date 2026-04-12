@@ -13,7 +13,7 @@ UDIMTexture Function Library
 
 <a id="unreal.UDIMTextureFunctionLibrary.make_udim_virtual_texture_from_texture2_ds"></a>
 
-#### make_udim_virtual_texture_from_texture2_ds
+#### make\_udim\_virtual\_texture\_from\_texture2\_ds
 
 ```python
 @classmethod

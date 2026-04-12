@@ -18,7 +18,7 @@ A line of subtitle text and the time at which it should be displayed.
 
 <a id="unreal.SubtitleCue.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(text: Text = "", time: float = 0.000000) -> None

@@ -13,13 +13,13 @@ Used by FPostProcessSettings to determine Temperature calculation method.
 
 <a id="unreal.TemperatureMethod.TEMP_WHITE_BALANCE"></a>
 
-#### TEMP_WHITE_BALANCE
+#### TEMP\_WHITE\_BALANCE
 
 0
 
 <a id="unreal.TemperatureMethod.TEMP_COLOR_TEMPERATURE"></a>
 
-#### TEMP_COLOR_TEMPERATURE
+#### TEMP\_COLOR\_TEMPERATURE
 
 1
 

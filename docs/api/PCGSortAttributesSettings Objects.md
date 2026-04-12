@@ -35,7 +35,7 @@ PCGSort Attributes Settings
 
 <a id="unreal.PCGSortAttributesSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -46,7 +46,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGSortAttributesSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter
@@ -55,7 +55,7 @@ def input_source(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGSortAttributesSettings.sort_method"></a>
 
-#### sort_method
+#### sort\_method
 
 ```python
 @property
@@ -66,7 +66,7 @@ def sort_method() -> PCGSortMethod
 
 <a id="unreal.PCGSortAttributesSettings.sort_method"></a>
 
-#### sort_method
+#### sort\_method
 
 ```python
 @sort_method.setter

@@ -20,7 +20,7 @@ PCGComponent Selector Settings
 
 <a id="unreal.PCGComponentSelectorSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(component_selection: PCGComponentSelection = PCGComponentSelection
@@ -31,7 +31,7 @@ def __init__(component_selection: PCGComponentSelection = PCGComponentSelection
 
 <a id="unreal.PCGComponentSelectorSettings.component_selection"></a>
 
-#### component_selection
+#### component\_selection
 
 ```python
 @property
@@ -42,7 +42,7 @@ def component_selection() -> PCGComponentSelection
 
 <a id="unreal.PCGComponentSelectorSettings.component_selection"></a>
 
-#### component_selection
+#### component\_selection
 
 ```python
 @component_selection.setter
@@ -51,7 +51,7 @@ def component_selection(value: PCGComponentSelection) -> None
 
 <a id="unreal.PCGComponentSelectorSettings.component_selection_tag"></a>
 
-#### component_selection_tag
+#### component\_selection\_tag
 
 ```python
 @property
@@ -62,7 +62,7 @@ def component_selection_tag() -> Name
 
 <a id="unreal.PCGComponentSelectorSettings.component_selection_tag"></a>
 
-#### component_selection_tag
+#### component\_selection\_tag
 
 ```python
 @component_selection_tag.setter
@@ -71,7 +71,7 @@ def component_selection_tag(value: Name) -> None
 
 <a id="unreal.PCGComponentSelectorSettings.component_selection_class"></a>
 
-#### component_selection_class
+#### component\_selection\_class
 
 ```python
 @property
@@ -82,7 +82,7 @@ def component_selection_class() -> Class
 
 <a id="unreal.PCGComponentSelectorSettings.component_selection_class"></a>
 
-#### component_selection_class
+#### component\_selection\_class
 
 ```python
 @component_selection_class.setter

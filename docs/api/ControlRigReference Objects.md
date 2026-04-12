@@ -14,7 +14,7 @@ Control Rig Reference
 
 <a id="unreal.ControlRigReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

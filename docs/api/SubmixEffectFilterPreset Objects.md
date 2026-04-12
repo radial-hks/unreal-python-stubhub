@@ -39,7 +39,7 @@ def settings(value: SubmixEffectFilterSettings) -> None
 
 <a id="unreal.SubmixEffectFilterPreset.set_settings"></a>
 
-#### set_settings
+#### set\_settings
 
 ```python
 def set_settings(settings: SubmixEffectFilterSettings) -> None
@@ -53,7 +53,7 @@ Args:
 
 <a id="unreal.SubmixEffectFilterPreset.set_filter_type"></a>
 
-#### set_filter_type
+#### set\_filter\_type
 
 ```python
 def set_filter_type(type: SubmixFilterType) -> None
@@ -67,7 +67,7 @@ Args:
 
 <a id="unreal.SubmixEffectFilterPreset.set_filter_q_mod"></a>
 
-#### set_filter_q_mod
+#### set\_filter\_q\_mod
 
 ```python
 def set_filter_q_mod(q: float) -> None
@@ -81,7 +81,7 @@ Args:
 
 <a id="unreal.SubmixEffectFilterPreset.set_filter_q"></a>
 
-#### set_filter_q
+#### set\_filter\_q
 
 ```python
 def set_filter_q(q: float) -> None
@@ -95,7 +95,7 @@ Args:
 
 <a id="unreal.SubmixEffectFilterPreset.set_filter_cutoff_frequency_mod"></a>
 
-#### set_filter_cutoff_frequency_mod
+#### set\_filter\_cutoff\_frequency\_mod
 
 ```python
 def set_filter_cutoff_frequency_mod(frequency: float) -> None
@@ -109,7 +109,7 @@ Args:
 
 <a id="unreal.SubmixEffectFilterPreset.set_filter_cutoff_frequency"></a>
 
-#### set_filter_cutoff_frequency
+#### set\_filter\_cutoff\_frequency
 
 ```python
 def set_filter_cutoff_frequency(frequency: float) -> None
@@ -123,7 +123,7 @@ Args:
 
 <a id="unreal.SubmixEffectFilterPreset.set_filter_algorithm"></a>
 
-#### set_filter_algorithm
+#### set\_filter\_algorithm
 
 ```python
 def set_filter_algorithm(algorithm: SubmixFilterAlgorithm) -> None

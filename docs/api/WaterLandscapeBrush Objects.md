@@ -148,7 +148,7 @@ Water Landscape Brush
 
 <a id="unreal.WaterLandscapeBrush.set_water_body_cache"></a>
 
-#### set_water_body_cache
+#### set\_water\_body\_cache
 
 ```python
 def set_water_body_cache(water_body: WaterBody, cache: Object) -> None
@@ -164,7 +164,7 @@ Args:
 
 <a id="unreal.WaterLandscapeBrush.set_actor_cache"></a>
 
-#### set_actor_cache
+#### set\_actor\_cache
 
 ```python
 def set_actor_cache(actor: Actor, cache: Object) -> None
@@ -179,7 +179,7 @@ Args:
 
 <a id="unreal.WaterLandscapeBrush.get_water_body_islands"></a>
 
-#### get_water_body_islands
+#### get\_water\_body\_islands
 
 ```python
 def get_water_body_islands(
@@ -199,7 +199,7 @@ Returns:
 
 <a id="unreal.WaterLandscapeBrush.get_water_body_cache"></a>
 
-#### get_water_body_cache
+#### get\_water\_body\_cache
 
 ```python
 def get_water_body_cache(water_body: WaterBody, cache_class: Class) -> Object
@@ -218,7 +218,7 @@ Returns:
 
 <a id="unreal.WaterLandscapeBrush.get_water_bodies"></a>
 
-#### get_water_bodies
+#### get\_water\_bodies
 
 ```python
 def get_water_bodies(water_body_class: Class) -> Array[WaterBody]
@@ -237,7 +237,7 @@ Returns:
 
 <a id="unreal.WaterLandscapeBrush.get_actors_affecting_landscape"></a>
 
-#### get_actors_affecting_landscape
+#### get\_actors\_affecting\_landscape
 
 ```python
 def get_actors_affecting_landscape() -> Array[WaterBrushActorInterface]
@@ -253,7 +253,7 @@ Returns:
 
 <a id="unreal.WaterLandscapeBrush.get_actor_cache"></a>
 
-#### get_actor_cache
+#### get\_actor\_cache
 
 ```python
 def get_actor_cache(actor: Actor, cache_class: Class) -> Object
@@ -271,7 +271,7 @@ Returns:
 
 <a id="unreal.WaterLandscapeBrush.force_water_texture_update"></a>
 
-#### force_water_texture_update
+#### force\_water\_texture\_update
 
 ```python
 def force_water_texture_update() -> None
@@ -283,7 +283,7 @@ deprecated: This function is now useless, the WaterVelocityTexture is now regene
 
 <a id="unreal.WaterLandscapeBrush.clear_water_body_cache"></a>
 
-#### clear_water_body_cache
+#### clear\_water\_body\_cache
 
 ```python
 def clear_water_body_cache(water_body: WaterBody) -> None
@@ -298,7 +298,7 @@ Args:
 
 <a id="unreal.WaterLandscapeBrush.clear_actor_cache"></a>
 
-#### clear_actor_cache
+#### clear\_actor\_cache
 
 ```python
 def clear_actor_cache(actor: Actor) -> None
@@ -312,7 +312,7 @@ Args:
 
 <a id="unreal.WaterLandscapeBrush.blueprint_water_body_changed"></a>
 
-#### blueprint_water_body_changed
+#### blueprint\_water\_body\_changed
 
 ```python
 def blueprint_water_body_changed(actor: Actor) -> None
@@ -326,7 +326,7 @@ Args:
 
 <a id="unreal.WaterLandscapeBrush.blueprint_water_bodies_changed"></a>
 
-#### blueprint_water_bodies_changed
+#### blueprint\_water\_bodies\_changed
 
 ```python
 def blueprint_water_bodies_changed() -> None
@@ -337,7 +337,7 @@ Blueprint Water Bodies Changed
 
 <a id="unreal.WaterLandscapeBrush.blueprint_on_render_target_textures_updated"></a>
 
-#### blueprint_on_render_target_textures_updated
+#### blueprint\_on\_render\_target\_textures\_updated
 
 ```python
 def blueprint_on_render_target_textures_updated(
@@ -353,7 +353,7 @@ Args:
 
 <a id="unreal.WaterLandscapeBrush.blueprint_get_render_targets"></a>
 
-#### blueprint_get_render_targets
+#### blueprint\_get\_render\_targets
 
 ```python
 def blueprint_get_render_targets(

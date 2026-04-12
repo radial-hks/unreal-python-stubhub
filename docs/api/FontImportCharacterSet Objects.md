@@ -13,19 +13,19 @@ Font character set type for importing TrueType fonts.
 
 <a id="unreal.FontImportCharacterSet.FONT_ICS_DEFAULT"></a>
 
-#### FONT_ICS_DEFAULT
+#### FONT\_ICS\_DEFAULT
 
 0
 
 <a id="unreal.FontImportCharacterSet.FONT_ICS_ANSI"></a>
 
-#### FONT_ICS_ANSI
+#### FONT\_ICS\_ANSI
 
 1
 
 <a id="unreal.FontImportCharacterSet.FONT_ICS_SYMBOL"></a>
 
-#### FONT_ICS_SYMBOL
+#### FONT\_ICS\_SYMBOL
 
 2
 

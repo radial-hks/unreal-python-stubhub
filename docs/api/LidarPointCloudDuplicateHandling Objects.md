@@ -20,13 +20,13 @@ ELidar Point Cloud Duplicate Handling
 
 <a id="unreal.LidarPointCloudDuplicateHandling.SELECT_FIRST"></a>
 
-#### SELECT_FIRST
+#### SELECT\_FIRST
 
 1: Keeps the first point and skips any further duplicates
 
 <a id="unreal.LidarPointCloudDuplicateHandling.SELECT_BRIGHTER"></a>
 
-#### SELECT_BRIGHTER
+#### SELECT\_BRIGHTER
 
 2: Selects the brightest of the duplicates
 

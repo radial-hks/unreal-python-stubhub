@@ -13,7 +13,7 @@ Camera Lens Effect Interface Class Support Library
 
 <a id="unreal.CameraLensEffectInterfaceClassSupportLibrary.set_interface_class"></a>
 
-#### set_interface_class
+#### set\_interface\_class
 
 ```python
 @classmethod
@@ -39,7 +39,7 @@ Returns:
 
 <a id="unreal.CameraLensEffectInterfaceClassSupportLibrary.is_interface_valid"></a>
 
-#### is_interface_valid
+#### is\_interface\_valid
 
 ```python
 @classmethod
@@ -60,7 +60,7 @@ Returns:
 
 <a id="unreal.CameraLensEffectInterfaceClassSupportLibrary.is_interface_class_valid"></a>
 
-#### is_interface_class_valid
+#### is\_interface\_class\_valid
 
 ```python
 @classmethod
@@ -82,7 +82,7 @@ Returns:
 
 <a id="unreal.CameraLensEffectInterfaceClassSupportLibrary.get_interface_class"></a>
 
-#### get_interface_class
+#### get\_interface\_class
 
 ```python
 @classmethod

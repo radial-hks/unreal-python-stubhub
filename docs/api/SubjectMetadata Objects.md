@@ -19,7 +19,7 @@ Subject Metadata
 
 <a id="unreal.SubjectMetadata.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(string_metadata: Map[Name, str] = {},
@@ -29,7 +29,7 @@ def __init__(string_metadata: Map[Name, str] = {},
 
 <a id="unreal.SubjectMetadata.string_metadata"></a>
 
-#### string_metadata
+#### string\_metadata
 
 ```python
 @property
@@ -40,7 +40,7 @@ def string_metadata() -> Map[Name, str]
 
 <a id="unreal.SubjectMetadata.string_metadata"></a>
 
-#### string_metadata
+#### string\_metadata
 
 ```python
 @string_metadata.setter
@@ -49,7 +49,7 @@ def string_metadata(value: Map[Name, str]) -> None
 
 <a id="unreal.SubjectMetadata.scene_timecode"></a>
 
-#### scene_timecode
+#### scene\_timecode
 
 ```python
 @property
@@ -60,7 +60,7 @@ def scene_timecode() -> Timecode
 
 <a id="unreal.SubjectMetadata.scene_timecode"></a>
 
-#### scene_timecode
+#### scene\_timecode
 
 ```python
 @scene_timecode.setter
@@ -69,7 +69,7 @@ def scene_timecode(value: Timecode) -> None
 
 <a id="unreal.SubjectMetadata.scene_framerate"></a>
 
-#### scene_framerate
+#### scene\_framerate
 
 ```python
 @property
@@ -80,7 +80,7 @@ def scene_framerate() -> FrameRate
 
 <a id="unreal.SubjectMetadata.scene_framerate"></a>
 
-#### scene_framerate
+#### scene\_framerate
 
 ```python
 @scene_framerate.setter

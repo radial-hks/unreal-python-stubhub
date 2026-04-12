@@ -25,7 +25,7 @@ The different states of pixel snapping a widget can be in.
 
 <a id="unreal.WidgetPixelSnapping.SNAP_TO_PIXEL"></a>
 
-#### SNAP_TO_PIXEL
+#### SNAP\_TO\_PIXEL
 
 2: Draws the widget at the nearest pixel. Improves sharpness of widgets.
 

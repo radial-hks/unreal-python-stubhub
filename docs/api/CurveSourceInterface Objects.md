@@ -13,7 +13,7 @@ Curve Source Interface
 
 <a id="unreal.CurveSourceInterface.get_curve_value"></a>
 
-#### get_curve_value
+#### get\_curve\_value
 
 ```python
 def get_curve_value(curve_name: Name) -> float
@@ -30,7 +30,7 @@ Returns:
 
 <a id="unreal.CurveSourceInterface.get_curves"></a>
 
-#### get_curves
+#### get\_curves
 
 ```python
 def get_curves() -> Array[NamedCurveValue]
@@ -46,7 +46,7 @@ Returns:
 
 <a id="unreal.CurveSourceInterface.get_binding_name"></a>
 
-#### get_binding_name
+#### get\_binding\_name
 
 ```python
 def get_binding_name() -> Name

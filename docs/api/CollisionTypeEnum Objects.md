@@ -13,13 +13,13 @@ ECollision Type Enum
 
 <a id="unreal.CollisionTypeEnum.CHAOS_VOLUMETRIC"></a>
 
-#### CHAOS_VOLUMETRIC
+#### CHAOS\_VOLUMETRIC
 
 0
 
 <a id="unreal.CollisionTypeEnum.CHAOS_SURFACE_VOLUMETRIC"></a>
 
-#### CHAOS_SURFACE_VOLUMETRIC
+#### CHAOS\_SURFACE\_VOLUMETRIC
 
 1
 

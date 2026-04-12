@@ -21,7 +21,7 @@ Film Stock Settings
 
 <a id="unreal.FilmStockSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(slope: float = 0.000000,
@@ -93,7 +93,7 @@ def shoulder(value: float) -> None
 
 <a id="unreal.FilmStockSettings.black_clip"></a>
 
-#### black_clip
+#### black\_clip
 
 ```python
 @property
@@ -104,7 +104,7 @@ def black_clip() -> float
 
 <a id="unreal.FilmStockSettings.black_clip"></a>
 
-#### black_clip
+#### black\_clip
 
 ```python
 @black_clip.setter
@@ -113,7 +113,7 @@ def black_clip(value: float) -> None
 
 <a id="unreal.FilmStockSettings.white_clip"></a>
 
-#### white_clip
+#### white\_clip
 
 ```python
 @property
@@ -124,7 +124,7 @@ def white_clip() -> float
 
 <a id="unreal.FilmStockSettings.white_clip"></a>
 
-#### white_clip
+#### white\_clip
 
 ```python
 @white_clip.setter

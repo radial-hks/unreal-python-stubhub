@@ -28,7 +28,7 @@ def player() -> LevelSequencePlayer
 
 <a id="unreal.LevelSequenceDirector.on_created"></a>
 
-#### on_created
+#### on\_created
 
 ```python
 def on_created() -> None
@@ -39,7 +39,7 @@ Called when this director is created
 
 <a id="unreal.LevelSequenceDirector.get_sequence"></a>
 
-#### get_sequence
+#### get\_sequence
 
 ```python
 def get_sequence() -> MovieSceneSequence
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.LevelSequenceDirector.get_root_sequence_time"></a>
 
-#### get_root_sequence_time
+#### get\_root\_sequence\_time
 
 ```python
 def get_root_sequence_time() -> QualifiedTime
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.LevelSequenceDirector.get_current_time"></a>
 
-#### get_current_time
+#### get\_current\_time
 
 ```python
 def get_current_time() -> QualifiedTime
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.LevelSequenceDirector.get_bound_objects"></a>
 
-#### get_bound_objects
+#### get\_bound\_objects
 
 ```python
 def get_bound_objects(
@@ -100,7 +100,7 @@ Returns:
 
 <a id="unreal.LevelSequenceDirector.get_bound_object"></a>
 
-#### get_bound_object
+#### get\_bound\_object
 
 ```python
 def get_bound_object(object_binding: MovieSceneObjectBindingID) -> Object
@@ -118,7 +118,7 @@ Returns:
 
 <a id="unreal.LevelSequenceDirector.get_bound_actors"></a>
 
-#### get_bound_actors
+#### get\_bound\_actors
 
 ```python
 def get_bound_actors(
@@ -137,7 +137,7 @@ Returns:
 
 <a id="unreal.LevelSequenceDirector.get_bound_actor"></a>
 
-#### get_bound_actor
+#### get\_bound\_actor
 
 ```python
 def get_bound_actor(object_binding: MovieSceneObjectBindingID) -> Actor

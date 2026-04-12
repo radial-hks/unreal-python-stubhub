@@ -21,7 +21,7 @@ Geometry Script Mesh Extrude Options
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(extrude_distance: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(extrude_distance: float = 0.000000,
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.extrude_distance"></a>
 
-#### extrude_distance
+#### extrude\_distance
 
 ```python
 @property
@@ -43,7 +43,7 @@ def extrude_distance() -> float
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.extrude_distance"></a>
 
-#### extrude_distance
+#### extrude\_distance
 
 ```python
 @extrude_distance.setter
@@ -52,7 +52,7 @@ def extrude_distance(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.extrude_direction"></a>
 
-#### extrude_direction
+#### extrude\_direction
 
 ```python
 @property
@@ -63,7 +63,7 @@ def extrude_direction() -> Vector
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.extrude_direction"></a>
 
-#### extrude_direction
+#### extrude\_direction
 
 ```python
 @extrude_direction.setter
@@ -72,7 +72,7 @@ def extrude_direction(value: Vector) -> None
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @property
@@ -83,7 +83,7 @@ def uv_scale() -> float
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.uv_scale"></a>
 
-#### uv_scale
+#### uv\_scale
 
 ```python
 @uv_scale.setter
@@ -92,7 +92,7 @@ def uv_scale(value: float) -> None
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.solids_to_shells"></a>
 
-#### solids_to_shells
+#### solids\_to\_shells
 
 ```python
 @property
@@ -103,7 +103,7 @@ def solids_to_shells() -> bool
 
 <a id="unreal.GeometryScriptMeshExtrudeOptions.solids_to_shells"></a>
 
-#### solids_to_shells
+#### solids\_to\_shells
 
 ```python
 @solids_to_shells.setter

@@ -22,7 +22,7 @@ Collision Chaos Event
 
 <a id="unreal.CollisionChaosEvent.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -54,7 +54,7 @@ def location() -> Vector
 
 <a id="unreal.CollisionChaosEvent.accumulated_impulse"></a>
 
-#### accumulated_impulse
+#### accumulated\_impulse
 
 ```python
 @property
@@ -76,7 +76,7 @@ def normal() -> Vector
 
 <a id="unreal.CollisionChaosEvent.penetration_depth"></a>
 
-#### penetration_depth
+#### penetration\_depth
 
 ```python
 @property

@@ -20,7 +20,7 @@ Structure storing user facing properties, and is used to identify profiles at th
 
 <a id="unreal.SkinWeightProfileInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -13,7 +13,7 @@ Exposes operations to be performed on a rigid body anim node
 
 <a id="unreal.AnimNodeRigidBodyLibrary.set_override_physics_asset"></a>
 
-#### set_override_physics_asset
+#### set\_override\_physics\_asset
 
 ```python
 @classmethod
@@ -34,7 +34,7 @@ Returns:
 
 <a id="unreal.AnimNodeRigidBodyLibrary.convert_to_rigid_body_anim_node_pure"></a>
 
-#### convert_to_rigid_body_anim_node_pure
+#### convert\_to\_rigid\_body\_anim\_node\_pure
 
 ```python
 @classmethod
@@ -58,7 +58,7 @@ Returns:
 
 <a id="unreal.AnimNodeRigidBodyLibrary.convert_to_rigid_body_anim_node"></a>
 
-#### convert_to_rigid_body_anim_node
+#### convert\_to\_rigid\_body\_anim\_node
 
 ```python
 @classmethod

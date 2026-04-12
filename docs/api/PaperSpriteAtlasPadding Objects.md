@@ -14,13 +14,13 @@ EPaper Sprite Atlas Padding
 
 <a id="unreal.PaperSpriteAtlasPadding.DILATE_BORDER"></a>
 
-#### DILATE_BORDER
+#### DILATE\_BORDER
 
 0: Dilate the texture to pad the atlas.
 
 <a id="unreal.PaperSpriteAtlasPadding.PAD_WITH_ZERO"></a>
 
-#### PAD_WITH_ZERO
+#### PAD\_WITH\_ZERO
 
 1: Padding border filled with zeros.
 

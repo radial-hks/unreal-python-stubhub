@@ -21,7 +21,7 @@ Submix Effect Flexiverb Settings
 
 <a id="unreal.SubmixEffectFlexiverbSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(pre_delay: float = 0.000000,
@@ -32,7 +32,7 @@ def __init__(pre_delay: float = 0.000000,
 
 <a id="unreal.SubmixEffectFlexiverbSettings.pre_delay"></a>
 
-#### pre_delay
+#### pre\_delay
 
 ```python
 @property
@@ -43,7 +43,7 @@ def pre_delay() -> float
 
 <a id="unreal.SubmixEffectFlexiverbSettings.pre_delay"></a>
 
-#### pre_delay
+#### pre\_delay
 
 ```python
 @pre_delay.setter
@@ -52,7 +52,7 @@ def pre_delay(value: float) -> None
 
 <a id="unreal.SubmixEffectFlexiverbSettings.decay_time"></a>
 
-#### decay_time
+#### decay\_time
 
 ```python
 @property
@@ -63,7 +63,7 @@ def decay_time() -> float
 
 <a id="unreal.SubmixEffectFlexiverbSettings.decay_time"></a>
 
-#### decay_time
+#### decay\_time
 
 ```python
 @decay_time.setter
@@ -72,7 +72,7 @@ def decay_time(value: float) -> None
 
 <a id="unreal.SubmixEffectFlexiverbSettings.room_dampening"></a>
 
-#### room_dampening
+#### room\_dampening
 
 ```python
 @property
@@ -83,7 +83,7 @@ def room_dampening() -> float
 
 <a id="unreal.SubmixEffectFlexiverbSettings.room_dampening"></a>
 
-#### room_dampening
+#### room\_dampening
 
 ```python
 @room_dampening.setter

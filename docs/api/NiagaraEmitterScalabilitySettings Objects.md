@@ -20,7 +20,7 @@ Scalability settings for Niagara Emitters on a particular platform set.
 
 <a id="unreal.NiagaraEmitterScalabilitySettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -210,7 +210,7 @@ A component that hosts an animation ControlRig, manages control components and m
 
 <a id="unreal.ControlRigComponent.control_rig_class"></a>
 
-#### control_rig_class
+#### control\_rig\_class
 
 ```python
 @property
@@ -221,7 +221,7 @@ def control_rig_class() -> Class
 
 <a id="unreal.ControlRigComponent.control_rig_class"></a>
 
-#### control_rig_class
+#### control\_rig\_class
 
 ```python
 @control_rig_class.setter
@@ -230,7 +230,7 @@ def control_rig_class(value: Class) -> None
 
 <a id="unreal.ControlRigComponent.on_pre_initialize_delegate"></a>
 
-#### on_pre_initialize_delegate
+#### on\_pre\_initialize\_delegate
 
 ```python
 @property
@@ -241,7 +241,7 @@ def on_pre_initialize_delegate() -> ControlRigComponentDelegate
 
 <a id="unreal.ControlRigComponent.on_pre_initialize_delegate"></a>
 
-#### on_pre_initialize_delegate
+#### on\_pre\_initialize\_delegate
 
 ```python
 @on_pre_initialize_delegate.setter
@@ -250,7 +250,7 @@ def on_pre_initialize_delegate(value: ControlRigComponentDelegate) -> None
 
 <a id="unreal.ControlRigComponent.on_post_initialize_delegate"></a>
 
-#### on_post_initialize_delegate
+#### on\_post\_initialize\_delegate
 
 ```python
 @property
@@ -261,7 +261,7 @@ def on_post_initialize_delegate() -> ControlRigComponentDelegate
 
 <a id="unreal.ControlRigComponent.on_post_initialize_delegate"></a>
 
-#### on_post_initialize_delegate
+#### on\_post\_initialize\_delegate
 
 ```python
 @on_post_initialize_delegate.setter
@@ -270,7 +270,7 @@ def on_post_initialize_delegate(value: ControlRigComponentDelegate) -> None
 
 <a id="unreal.ControlRigComponent.on_pre_construction_delegate"></a>
 
-#### on_pre_construction_delegate
+#### on\_pre\_construction\_delegate
 
 ```python
 @property
@@ -281,7 +281,7 @@ def on_pre_construction_delegate() -> ControlRigComponentDelegate
 
 <a id="unreal.ControlRigComponent.on_pre_construction_delegate"></a>
 
-#### on_pre_construction_delegate
+#### on\_pre\_construction\_delegate
 
 ```python
 @on_pre_construction_delegate.setter
@@ -290,7 +290,7 @@ def on_pre_construction_delegate(value: ControlRigComponentDelegate) -> None
 
 <a id="unreal.ControlRigComponent.on_pre_setup_delegate"></a>
 
-#### on_pre_setup_delegate
+#### on\_pre\_setup\_delegate
 
 ```python
 @property
@@ -301,7 +301,7 @@ deprecated: 'on_pre_setup_delegate' was renamed to 'on_pre_construction_delegate
 
 <a id="unreal.ControlRigComponent.on_pre_setup_delegate"></a>
 
-#### on_pre_setup_delegate
+#### on\_pre\_setup\_delegate
 
 ```python
 @on_pre_setup_delegate.setter
@@ -310,7 +310,7 @@ def on_pre_setup_delegate(value: ControlRigComponentDelegate) -> None
 
 <a id="unreal.ControlRigComponent.on_post_construction_delegate"></a>
 
-#### on_post_construction_delegate
+#### on\_post\_construction\_delegate
 
 ```python
 @property
@@ -321,7 +321,7 @@ def on_post_construction_delegate() -> ControlRigComponentDelegate
 
 <a id="unreal.ControlRigComponent.on_post_construction_delegate"></a>
 
-#### on_post_construction_delegate
+#### on\_post\_construction\_delegate
 
 ```python
 @on_post_construction_delegate.setter
@@ -330,7 +330,7 @@ def on_post_construction_delegate(value: ControlRigComponentDelegate) -> None
 
 <a id="unreal.ControlRigComponent.on_post_setup_delegate"></a>
 
-#### on_post_setup_delegate
+#### on\_post\_setup\_delegate
 
 ```python
 @property
@@ -341,7 +341,7 @@ deprecated: 'on_post_setup_delegate' was renamed to 'on_post_construction_delega
 
 <a id="unreal.ControlRigComponent.on_post_setup_delegate"></a>
 
-#### on_post_setup_delegate
+#### on\_post\_setup\_delegate
 
 ```python
 @on_post_setup_delegate.setter
@@ -350,7 +350,7 @@ def on_post_setup_delegate(value: ControlRigComponentDelegate) -> None
 
 <a id="unreal.ControlRigComponent.on_pre_forwards_solve_delegate"></a>
 
-#### on_pre_forwards_solve_delegate
+#### on\_pre\_forwards\_solve\_delegate
 
 ```python
 @property
@@ -361,7 +361,7 @@ def on_pre_forwards_solve_delegate() -> ControlRigComponentDelegate
 
 <a id="unreal.ControlRigComponent.on_pre_forwards_solve_delegate"></a>
 
-#### on_pre_forwards_solve_delegate
+#### on\_pre\_forwards\_solve\_delegate
 
 ```python
 @on_pre_forwards_solve_delegate.setter
@@ -370,7 +370,7 @@ def on_pre_forwards_solve_delegate(value: ControlRigComponentDelegate) -> None
 
 <a id="unreal.ControlRigComponent.on_pre_update_delegate"></a>
 
-#### on_pre_update_delegate
+#### on\_pre\_update\_delegate
 
 ```python
 @property
@@ -381,7 +381,7 @@ deprecated: 'on_pre_update_delegate' was renamed to 'on_pre_forwards_solve_deleg
 
 <a id="unreal.ControlRigComponent.on_pre_update_delegate"></a>
 
-#### on_pre_update_delegate
+#### on\_pre\_update\_delegate
 
 ```python
 @on_pre_update_delegate.setter
@@ -390,7 +390,7 @@ def on_pre_update_delegate(value: ControlRigComponentDelegate) -> None
 
 <a id="unreal.ControlRigComponent.on_post_forwards_solve_delegate"></a>
 
-#### on_post_forwards_solve_delegate
+#### on\_post\_forwards\_solve\_delegate
 
 ```python
 @property
@@ -401,7 +401,7 @@ def on_post_forwards_solve_delegate() -> ControlRigComponentDelegate
 
 <a id="unreal.ControlRigComponent.on_post_forwards_solve_delegate"></a>
 
-#### on_post_forwards_solve_delegate
+#### on\_post\_forwards\_solve\_delegate
 
 ```python
 @on_post_forwards_solve_delegate.setter
@@ -411,7 +411,7 @@ def on_post_forwards_solve_delegate(
 
 <a id="unreal.ControlRigComponent.on_post_update_delegate"></a>
 
-#### on_post_update_delegate
+#### on\_post\_update\_delegate
 
 ```python
 @property
@@ -422,7 +422,7 @@ deprecated: 'on_post_update_delegate' was renamed to 'on_post_forwards_solve_del
 
 <a id="unreal.ControlRigComponent.on_post_update_delegate"></a>
 
-#### on_post_update_delegate
+#### on\_post\_update\_delegate
 
 ```python
 @on_post_update_delegate.setter
@@ -445,7 +445,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_object_binding"></a>
 
-#### set_object_binding
+#### set\_object\_binding
 
 ```python
 def set_object_binding(object_to_bind: Object) -> None
@@ -459,7 +459,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_mapped_elements"></a>
 
-#### set_mapped_elements
+#### set\_mapped\_elements
 
 ```python
 def set_mapped_elements(
@@ -474,7 +474,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_initial_space_transform"></a>
 
-#### set_initial_space_transform
+#### set\_initial\_space\_transform
 
 ```python
 def set_initial_space_transform(
@@ -494,7 +494,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_initial_bone_transform"></a>
 
-#### set_initial_bone_transform
+#### set\_initial\_bone\_transform
 
 ```python
 def set_initial_bone_transform(
@@ -515,7 +515,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_vector2d"></a>
 
-#### set_control_vector2d
+#### set\_control\_vector2d
 
 ```python
 def set_control_vector2d(control_name: Name, value: Vector2D) -> None
@@ -530,7 +530,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_transform"></a>
 
-#### set_control_transform
+#### set\_control\_transform
 
 ```python
 def set_control_transform(
@@ -550,7 +550,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_scale"></a>
 
-#### set_control_scale
+#### set\_control\_scale
 
 ```python
 def set_control_scale(
@@ -570,7 +570,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_rotator"></a>
 
-#### set_control_rotator
+#### set\_control\_rotator
 
 ```python
 def set_control_rotator(
@@ -590,7 +590,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_rig_class"></a>
 
-#### set_control_rig_class
+#### set\_control\_rig\_class
 
 ```python
 def set_control_rig_class(control_rig_class: Class) -> None
@@ -604,7 +604,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_position"></a>
 
-#### set_control_position
+#### set\_control\_position
 
 ```python
 def set_control_position(
@@ -624,7 +624,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_offset"></a>
 
-#### set_control_offset
+#### set\_control\_offset
 
 ```python
 def set_control_offset(
@@ -644,7 +644,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_int"></a>
 
-#### set_control_int
+#### set\_control\_int
 
 ```python
 def set_control_int(control_name: Name, value: int) -> None
@@ -659,7 +659,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_float"></a>
 
-#### set_control_float
+#### set\_control\_float
 
 ```python
 def set_control_float(control_name: Name, value: float) -> None
@@ -674,7 +674,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_control_bool"></a>
 
-#### set_control_bool
+#### set\_control\_bool
 
 ```python
 def set_control_bool(control_name: Name, value: bool) -> None
@@ -689,7 +689,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_bone_transform"></a>
 
-#### set_bone_transform
+#### set\_bone\_transform
 
 ```python
 def set_bone_transform(
@@ -712,7 +712,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.set_bone_initial_transforms_from_skeletal_mesh"></a>
 
-#### set_bone_initial_transforms_from_skeletal_mesh
+#### set\_bone\_initial\_transforms\_from\_skeletal\_mesh
 
 ```python
 def set_bone_initial_transforms_from_skeletal_mesh(
@@ -727,7 +727,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.on_pre_initialize"></a>
 
-#### on_pre_initialize
+#### on\_pre\_initialize
 
 ```python
 def on_pre_initialize(component: ControlRigComponent) -> None
@@ -741,7 +741,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.on_pre_forwards_solve"></a>
 
-#### on_pre_forwards_solve
+#### on\_pre\_forwards\_solve
 
 ```python
 def on_pre_forwards_solve(component: ControlRigComponent) -> None
@@ -755,7 +755,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.on_pre_construction"></a>
 
-#### on_pre_construction
+#### on\_pre\_construction
 
 ```python
 def on_pre_construction(component: ControlRigComponent) -> None
@@ -769,7 +769,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.on_post_initialize"></a>
 
-#### on_post_initialize
+#### on\_post\_initialize
 
 ```python
 def on_post_initialize(component: ControlRigComponent) -> None
@@ -783,7 +783,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.on_post_forwards_solve"></a>
 
-#### on_post_forwards_solve
+#### on\_post\_forwards\_solve
 
 ```python
 def on_post_forwards_solve(component: ControlRigComponent) -> None
@@ -797,7 +797,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.on_post_construction"></a>
 
-#### on_post_construction
+#### on\_post\_construction
 
 ```python
 def on_post_construction(component: ControlRigComponent) -> None
@@ -822,7 +822,7 @@ Initializes the rig's memory and calls the construction event
 
 <a id="unreal.ControlRigComponent.get_space_transform"></a>
 
-#### get_space_transform
+#### get\_space\_transform
 
 ```python
 def get_space_transform(
@@ -843,7 +843,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_initial_space_transform"></a>
 
-#### get_initial_space_transform
+#### get\_initial\_space\_transform
 
 ```python
 def get_initial_space_transform(
@@ -864,7 +864,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_initial_bone_transform"></a>
 
-#### get_initial_bone_transform
+#### get\_initial\_bone\_transform
 
 ```python
 def get_initial_bone_transform(
@@ -885,7 +885,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_element_names"></a>
 
-#### get_element_names
+#### get\_element\_names
 
 ```python
 def get_element_names(
@@ -903,7 +903,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_vector2d"></a>
 
-#### get_control_vector2d
+#### get\_control\_vector2d
 
 ```python
 def get_control_vector2d(control_name: Name) -> Vector2D
@@ -920,7 +920,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_transform"></a>
 
-#### get_control_transform
+#### get\_control\_transform
 
 ```python
 def get_control_transform(
@@ -941,7 +941,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_scale"></a>
 
-#### get_control_scale
+#### get\_control\_scale
 
 ```python
 def get_control_scale(
@@ -962,7 +962,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_rotator"></a>
 
-#### get_control_rotator
+#### get\_control\_rotator
 
 ```python
 def get_control_rotator(
@@ -983,7 +983,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_rig"></a>
 
-#### get_control_rig
+#### get\_control\_rig
 
 ```python
 def get_control_rig() -> ControlRig
@@ -997,7 +997,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_position"></a>
 
-#### get_control_position
+#### get\_control\_position
 
 ```python
 def get_control_position(
@@ -1018,7 +1018,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_offset"></a>
 
-#### get_control_offset
+#### get\_control\_offset
 
 ```python
 def get_control_offset(
@@ -1039,7 +1039,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_int"></a>
 
-#### get_control_int
+#### get\_control\_int
 
 ```python
 def get_control_int(control_name: Name) -> int
@@ -1056,7 +1056,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_float"></a>
 
-#### get_control_float
+#### get\_control\_float
 
 ```python
 def get_control_float(control_name: Name) -> float
@@ -1073,7 +1073,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_control_bool"></a>
 
-#### get_control_bool
+#### get\_control\_bool
 
 ```python
 def get_control_bool(control_name: Name) -> bool
@@ -1090,7 +1090,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_bone_transform"></a>
 
-#### get_bone_transform
+#### get\_bone\_transform
 
 ```python
 def get_bone_transform(
@@ -1111,7 +1111,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.get_absolute_time"></a>
 
-#### get_absolute_time
+#### get\_absolute\_time
 
 ```python
 def get_absolute_time() -> float
@@ -1125,7 +1125,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.does_element_exist"></a>
 
-#### does_element_exist
+#### does\_element\_exist
 
 ```python
 def does_element_exist(
@@ -1145,7 +1145,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.clear_mapped_elements"></a>
 
-#### clear_mapped_elements
+#### clear\_mapped\_elements
 
 ```python
 def clear_mapped_elements() -> None
@@ -1156,7 +1156,7 @@ Removes all mapped elements from the component
 
 <a id="unreal.ControlRigComponent.can_execute"></a>
 
-#### can_execute
+#### can\_execute
 
 ```python
 def can_execute() -> bool
@@ -1170,7 +1170,7 @@ Returns:
 
 <a id="unreal.ControlRigComponent.add_mapped_skeletal_mesh"></a>
 
-#### add_mapped_skeletal_mesh
+#### add\_mapped\_skeletal\_mesh
 
 ```python
 def add_mapped_skeletal_mesh(
@@ -1193,7 +1193,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.add_mapped_elements"></a>
 
-#### add_mapped_elements
+#### add\_mapped\_elements
 
 ```python
 def add_mapped_elements(
@@ -1208,7 +1208,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.add_mapped_components"></a>
 
-#### add_mapped_components
+#### add\_mapped\_components
 
 ```python
 def add_mapped_components(
@@ -1223,7 +1223,7 @@ Args:
 
 <a id="unreal.ControlRigComponent.add_mapped_complete_skeletal_mesh"></a>
 
-#### add_mapped_complete_skeletal_mesh
+#### add\_mapped\_complete\_skeletal\_mesh
 
 ```python
 def add_mapped_complete_skeletal_mesh(

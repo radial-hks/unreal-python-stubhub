@@ -20,13 +20,13 @@ EPCGPathfinding Cost Function Mode
 
 <a id="unreal.PCGPathfindingCostFunctionMode.FITNESS_SCORE"></a>
 
-#### FITNESS_SCORE
+#### FITNESS\_SCORE
 
 1: Pathfinding cost will be driven by a fitness score (0-1 range), with a maximum penalty applied at fitness = 0.
 
 <a id="unreal.PCGPathfindingCostFunctionMode.COST_MULTIPLIER"></a>
 
-#### COST_MULTIPLIER
+#### COST\_MULTIPLIER
 
 2: Pathfinding cost will be the distance multiplied by the provided factor. Note that multipliers below 1 will be clamped to 1.
 

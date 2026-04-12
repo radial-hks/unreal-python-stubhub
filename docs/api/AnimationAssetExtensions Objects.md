@@ -13,7 +13,7 @@ Animation Asset Extensions
 
 <a id="unreal.AnimationAssetExtensions.get_skeleton"></a>
 
-#### get_skeleton
+#### get\_skeleton
 
 ```python
 @classmethod

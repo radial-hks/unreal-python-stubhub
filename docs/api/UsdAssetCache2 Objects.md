@@ -27,7 +27,7 @@ Owns the assets generated and reused by USD Stages, allowing thread-safe retriev
 
 <a id="unreal.UsdAssetCache2.unreferenced_asset_storage_size_mb"></a>
 
-#### unreferenced_asset_storage_size_mb
+#### unreferenced\_asset\_storage\_size\_mb
 
 ```python
 @property
@@ -41,7 +41,7 @@ Set this to 0 to disable storing unreferenced assets.
 
 <a id="unreal.UsdAssetCache2.unreferenced_asset_storage_size_mb"></a>
 
-#### unreferenced_asset_storage_size_mb
+#### unreferenced\_asset\_storage\_size\_mb
 
 ```python
 @unreferenced_asset_storage_size_mb.setter
@@ -50,7 +50,7 @@ def unreferenced_asset_storage_size_mb(value: float) -> None
 
 <a id="unreal.UsdAssetCache2.persistent_asset_storage_size_mb"></a>
 
-#### persistent_asset_storage_size_mb
+#### persistent\_asset\_storage\_size\_mb
 
 ```python
 @property
@@ -65,7 +65,7 @@ without an asset cache asset assigned)
 
 <a id="unreal.UsdAssetCache2.persistent_asset_storage_size_mb"></a>
 
-#### persistent_asset_storage_size_mb
+#### persistent\_asset\_storage\_size\_mb
 
 ```python
 @persistent_asset_storage_size_mb.setter
@@ -74,7 +74,7 @@ def persistent_asset_storage_size_mb(value: float) -> None
 
 <a id="unreal.UsdAssetCache2.touch_asset"></a>
 
-#### touch_asset
+#### touch\_asset
 
 ```python
 def touch_asset(asset: Object, referencer: Object = None) -> bool
@@ -104,7 +104,7 @@ Discards all tracked assets across all storage types
 
 <a id="unreal.UsdAssetCache2.remove_asset_reference"></a>
 
-#### remove_asset_reference
+#### remove\_asset\_reference
 
 ```python
 def remove_asset_reference(asset: Object, referencer: Object = None) -> bool
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.remove_asset"></a>
 
-#### remove_asset
+#### remove\_asset
 
 ```python
 def remove_asset(hash: str) -> Object
@@ -144,7 +144,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.remove_all_asset_references"></a>
 
-#### remove_all_asset_references
+#### remove\_all\_asset\_references
 
 ```python
 def remove_all_asset_references(referencer: Object) -> bool
@@ -162,7 +162,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.refresh_storage"></a>
 
-#### refresh_storage
+#### refresh\_storage
 
 ```python
 def refresh_storage() -> None
@@ -174,7 +174,7 @@ the asset cache, after those operations are fully complete.
 
 <a id="unreal.UsdAssetCache2.is_asset_owned_by_cache"></a>
 
-#### is_asset_owned_by_cache
+#### is\_asset\_owned\_by\_cache
 
 ```python
 def is_asset_owned_by_cache(asset_path: str) -> bool
@@ -192,7 +192,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.get_num_assets"></a>
 
-#### get_num_assets
+#### get\_num\_assets
 
 ```python
 def get_num_assets() -> int
@@ -207,7 +207,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.get_hash_for_asset"></a>
 
-#### get_hash_for_asset
+#### get\_hash\_for\_asset
 
 ```python
 def get_hash_for_asset(asset: Object) -> str
@@ -225,7 +225,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.get_cached_asset"></a>
 
-#### get_cached_asset
+#### get\_cached\_asset
 
 ```python
 def get_cached_asset(hash: str) -> Object
@@ -244,7 +244,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.get_all_loaded_assets"></a>
 
-#### get_all_loaded_assets
+#### get\_all\_loaded\_assets
 
 ```python
 def get_all_loaded_assets() -> Array[Object]
@@ -259,7 +259,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.get_all_cached_asset_paths"></a>
 
-#### get_all_cached_asset_paths
+#### get\_all\_cached\_asset\_paths
 
 ```python
 def get_all_cached_asset_paths() -> Array[str]
@@ -274,7 +274,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.get_all_asset_hashes"></a>
 
-#### get_all_asset_hashes
+#### get\_all\_asset\_hashes
 
 ```python
 def get_all_asset_hashes() -> Array[str]
@@ -289,7 +289,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.can_remove_asset"></a>
 
-#### can_remove_asset
+#### can\_remove\_asset
 
 ```python
 def can_remove_asset(hash: str) -> bool
@@ -307,7 +307,7 @@ Returns:
 
 <a id="unreal.UsdAssetCache2.cache_asset"></a>
 
-#### cache_asset
+#### cache\_asset
 
 ```python
 def cache_asset(hash: str, asset: Object, referencer: Object = None) -> None
@@ -323,7 +323,7 @@ Args:
 
 <a id="unreal.UsdAssetCache2.add_asset_reference"></a>
 
-#### add_asset_reference
+#### add\_asset\_reference
 
 ```python
 def add_asset_reference(asset: Object, referencer: Object) -> bool

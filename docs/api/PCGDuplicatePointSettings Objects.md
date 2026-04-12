@@ -78,7 +78,7 @@ def direction(value: Vector) -> None
 
 <a id="unreal.PCGDuplicatePointSettings.direction_applied_in_relative_space"></a>
 
-#### direction_applied_in_relative_space
+#### direction\_applied\_in\_relative\_space
 
 ```python
 @property
@@ -89,7 +89,7 @@ def direction_applied_in_relative_space() -> bool
 
 <a id="unreal.PCGDuplicatePointSettings.direction_applied_in_relative_space"></a>
 
-#### direction_applied_in_relative_space
+#### direction\_applied\_in\_relative\_space
 
 ```python
 @direction_applied_in_relative_space.setter
@@ -98,7 +98,7 @@ def direction_applied_in_relative_space(value: bool) -> None
 
 <a id="unreal.PCGDuplicatePointSettings.output_source_point"></a>
 
-#### output_source_point
+#### output\_source\_point
 
 ```python
 @property
@@ -109,7 +109,7 @@ def output_source_point() -> bool
 
 <a id="unreal.PCGDuplicatePointSettings.output_source_point"></a>
 
-#### output_source_point
+#### output\_source\_point
 
 ```python
 @output_source_point.setter
@@ -118,7 +118,7 @@ def output_source_point(value: bool) -> None
 
 <a id="unreal.PCGDuplicatePointSettings.point_transform"></a>
 
-#### point_transform
+#### point\_transform
 
 ```python
 @property
@@ -129,7 +129,7 @@ def point_transform() -> Transform
 
 <a id="unreal.PCGDuplicatePointSettings.point_transform"></a>
 
-#### point_transform
+#### point\_transform
 
 ```python
 @point_transform.setter

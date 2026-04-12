@@ -35,7 +35,7 @@ PCGSanity Check Point Data Settings
 
 <a id="unreal.PCGSanityCheckPointDataSettings.min_point_count"></a>
 
-#### min_point_count
+#### min\_point\_count
 
 ```python
 @property
@@ -46,7 +46,7 @@ def min_point_count() -> int
 
 <a id="unreal.PCGSanityCheckPointDataSettings.min_point_count"></a>
 
-#### min_point_count
+#### min\_point\_count
 
 ```python
 @min_point_count.setter
@@ -55,7 +55,7 @@ def min_point_count(value: int) -> None
 
 <a id="unreal.PCGSanityCheckPointDataSettings.max_point_count"></a>
 
-#### max_point_count
+#### max\_point\_count
 
 ```python
 @property
@@ -66,7 +66,7 @@ def max_point_count() -> int
 
 <a id="unreal.PCGSanityCheckPointDataSettings.max_point_count"></a>
 
-#### max_point_count
+#### max\_point\_count
 
 ```python
 @max_point_count.setter

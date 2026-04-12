@@ -21,7 +21,7 @@ Input Combo Step Data
 
 <a id="unreal.InputComboStepData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(combo_step_action: InputAction = None,
@@ -31,7 +31,7 @@ def __init__(combo_step_action: InputAction = None,
 
 <a id="unreal.InputComboStepData.combo_step_action"></a>
 
-#### combo_step_action
+#### combo\_step\_action
 
 ```python
 @property
@@ -42,7 +42,7 @@ def combo_step_action() -> InputAction
 
 <a id="unreal.InputComboStepData.combo_step_action"></a>
 
-#### combo_step_action
+#### combo\_step\_action
 
 ```python
 @combo_step_action.setter
@@ -51,7 +51,7 @@ def combo_step_action(value: InputAction) -> None
 
 <a id="unreal.InputComboStepData.combo_step_completion_states"></a>
 
-#### combo_step_completion_states
+#### combo\_step\_completion\_states
 
 ```python
 @property
@@ -62,7 +62,7 @@ def combo_step_completion_states() -> int
 
 <a id="unreal.InputComboStepData.combo_step_completion_states"></a>
 
-#### combo_step_completion_states
+#### combo\_step\_completion\_states
 
 ```python
 @combo_step_completion_states.setter
@@ -71,7 +71,7 @@ def combo_step_completion_states(value: int) -> None
 
 <a id="unreal.InputComboStepData.time_to_press_key"></a>
 
-#### time_to_press_key
+#### time\_to\_press\_key
 
 ```python
 @property
@@ -83,7 +83,7 @@ Note: This can be safely ignored for the first action in the combo
 
 <a id="unreal.InputComboStepData.time_to_press_key"></a>
 
-#### time_to_press_key
+#### time\_to\_press\_key
 
 ```python
 @time_to_press_key.setter

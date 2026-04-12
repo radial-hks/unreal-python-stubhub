@@ -20,7 +20,7 @@ The Default Layer always exists, Extended layers may or may not exist.
 
 <a id="unreal.GeometryScriptGroupLayer.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(default_layer: bool = False,
@@ -29,7 +29,7 @@ def __init__(default_layer: bool = False,
 
 <a id="unreal.GeometryScriptGroupLayer.default_layer"></a>
 
-#### default_layer
+#### default\_layer
 
 ```python
 @property
@@ -40,7 +40,7 @@ def default_layer() -> bool
 
 <a id="unreal.GeometryScriptGroupLayer.default_layer"></a>
 
-#### default_layer
+#### default\_layer
 
 ```python
 @default_layer.setter
@@ -49,7 +49,7 @@ def default_layer(value: bool) -> None
 
 <a id="unreal.GeometryScriptGroupLayer.extended_layer_index"></a>
 
-#### extended_layer_index
+#### extended\_layer\_index
 
 ```python
 @property
@@ -60,7 +60,7 @@ def extended_layer_index() -> int
 
 <a id="unreal.GeometryScriptGroupLayer.extended_layer_index"></a>
 
-#### extended_layer_index
+#### extended\_layer\_index
 
 ```python
 @extended_layer_index.setter

@@ -13,7 +13,7 @@ A structure which captures the application's modifier key states (shift, alt, ct
 
 <a id="unreal.SlateModifierKeysState.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

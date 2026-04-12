@@ -20,7 +20,7 @@ Actor Perception Blueprint Info
 
 <a id="unreal.ActorPerceptionBlueprintInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(target: Actor = None,
@@ -51,7 +51,7 @@ def target(value: Actor) -> None
 
 <a id="unreal.ActorPerceptionBlueprintInfo.last_sensed_stimuli"></a>
 
-#### last_sensed_stimuli
+#### last\_sensed\_stimuli
 
 ```python
 @property
@@ -62,7 +62,7 @@ def last_sensed_stimuli() -> Array[AIStimulus]
 
 <a id="unreal.ActorPerceptionBlueprintInfo.last_sensed_stimuli"></a>
 
-#### last_sensed_stimuli
+#### last\_sensed\_stimuli
 
 ```python
 @last_sensed_stimuli.setter
@@ -71,7 +71,7 @@ def last_sensed_stimuli(value: Array[AIStimulus]) -> None
 
 <a id="unreal.ActorPerceptionBlueprintInfo.is_hostile"></a>
 
-#### is_hostile
+#### is\_hostile
 
 ```python
 @property
@@ -82,7 +82,7 @@ def is_hostile() -> bool
 
 <a id="unreal.ActorPerceptionBlueprintInfo.is_hostile"></a>
 
-#### is_hostile
+#### is\_hostile
 
 ```python
 @is_hostile.setter
@@ -91,7 +91,7 @@ def is_hostile(value: bool) -> None
 
 <a id="unreal.ActorPerceptionBlueprintInfo.is_friendly"></a>
 
-#### is_friendly
+#### is\_friendly
 
 ```python
 @property
@@ -102,7 +102,7 @@ def is_friendly() -> bool
 
 <a id="unreal.ActorPerceptionBlueprintInfo.is_friendly"></a>
 
-#### is_friendly
+#### is\_friendly
 
 ```python
 @is_friendly.setter

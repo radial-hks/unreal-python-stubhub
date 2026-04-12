@@ -22,7 +22,7 @@ Source Effect Filter Settings
 
 <a id="unreal.SourceEffectFilterSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -38,7 +38,7 @@ def __init__(
 
 <a id="unreal.SourceEffectFilterSettings.filter_circuit"></a>
 
-#### filter_circuit
+#### filter\_circuit
 
 ```python
 @property
@@ -49,7 +49,7 @@ def filter_circuit() -> SourceEffectFilterCircuit
 
 <a id="unreal.SourceEffectFilterSettings.filter_circuit"></a>
 
-#### filter_circuit
+#### filter\_circuit
 
 ```python
 @filter_circuit.setter
@@ -58,7 +58,7 @@ def filter_circuit(value: SourceEffectFilterCircuit) -> None
 
 <a id="unreal.SourceEffectFilterSettings.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @property
@@ -69,7 +69,7 @@ def filter_type() -> SourceEffectFilterType
 
 <a id="unreal.SourceEffectFilterSettings.filter_type"></a>
 
-#### filter_type
+#### filter\_type
 
 ```python
 @filter_type.setter
@@ -78,7 +78,7 @@ def filter_type(value: SourceEffectFilterType) -> None
 
 <a id="unreal.SourceEffectFilterSettings.cutoff_frequency"></a>
 
-#### cutoff_frequency
+#### cutoff\_frequency
 
 ```python
 @property
@@ -89,7 +89,7 @@ def cutoff_frequency() -> float
 
 <a id="unreal.SourceEffectFilterSettings.cutoff_frequency"></a>
 
-#### cutoff_frequency
+#### cutoff\_frequency
 
 ```python
 @cutoff_frequency.setter
@@ -98,7 +98,7 @@ def cutoff_frequency(value: float) -> None
 
 <a id="unreal.SourceEffectFilterSettings.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @property
@@ -109,7 +109,7 @@ def filter_q() -> float
 
 <a id="unreal.SourceEffectFilterSettings.filter_q"></a>
 
-#### filter_q
+#### filter\_q
 
 ```python
 @filter_q.setter
@@ -118,7 +118,7 @@ def filter_q(value: float) -> None
 
 <a id="unreal.SourceEffectFilterSettings.audio_bus_modulation"></a>
 
-#### audio_bus_modulation
+#### audio\_bus\_modulation
 
 ```python
 @property
@@ -130,7 +130,7 @@ def audio_bus_modulation(
 
 <a id="unreal.SourceEffectFilterSettings.audio_bus_modulation"></a>
 
-#### audio_bus_modulation
+#### audio\_bus\_modulation
 
 ```python
 @audio_bus_modulation.setter

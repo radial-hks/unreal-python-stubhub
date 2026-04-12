@@ -13,7 +13,7 @@ Editor Utility Task
 
 <a id="unreal.EditorUtilityTask.was_cancel_requested"></a>
 
-#### was_cancel_requested
+#### was\_cancel\_requested
 
 ```python
 def was_cancel_requested() -> bool
@@ -27,7 +27,7 @@ Returns:
 
 <a id="unreal.EditorUtilityTask.set_task_notification_text"></a>
 
-#### set_task_notification_text
+#### set\_task\_notification\_text
 
 ```python
 def set_task_notification_text(text: Text) -> None
@@ -41,7 +41,7 @@ Args:
 
 <a id="unreal.EditorUtilityTask.receive_cancel_requested"></a>
 
-#### receive_cancel_requested
+#### receive\_cancel\_requested
 
 ```python
 def receive_cancel_requested() -> None
@@ -52,7 +52,7 @@ Receive Cancel Requested
 
 <a id="unreal.EditorUtilityTask.receive_begin_execution"></a>
 
-#### receive_begin_execution
+#### receive\_begin\_execution
 
 ```python
 def receive_begin_execution() -> None
@@ -63,7 +63,7 @@ Receive Begin Execution
 
 <a id="unreal.EditorUtilityTask.get_task_title_override"></a>
 
-#### get_task_title_override
+#### get\_task\_title\_override
 
 ```python
 def get_task_title_override() -> Text
@@ -77,7 +77,7 @@ Returns:
 
 <a id="unreal.EditorUtilityTask.finish_executing_task"></a>
 
-#### finish_executing_task
+#### finish\_executing\_task
 
 ```python
 def finish_executing_task() -> None

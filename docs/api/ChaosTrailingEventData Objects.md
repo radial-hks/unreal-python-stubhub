@@ -21,7 +21,7 @@ A trailing event data structure.
 
 <a id="unreal.ChaosTrailingEventData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(location: Vector = [0.000000, 0.000000, 0.000000],
@@ -73,7 +73,7 @@ def velocity(value: Vector) -> None
 
 <a id="unreal.ChaosTrailingEventData.angular_velocity"></a>
 
-#### angular_velocity
+#### angular\_velocity
 
 ```python
 @property
@@ -84,7 +84,7 @@ def angular_velocity() -> Vector
 
 <a id="unreal.ChaosTrailingEventData.angular_velocity"></a>
 
-#### angular_velocity
+#### angular\_velocity
 
 ```python
 @angular_velocity.setter
@@ -113,7 +113,7 @@ def mass(value: float) -> None
 
 <a id="unreal.ChaosTrailingEventData.particle_index"></a>
 
-#### particle_index
+#### particle\_index
 
 ```python
 @property
@@ -124,7 +124,7 @@ def particle_index() -> int
 
 <a id="unreal.ChaosTrailingEventData.particle_index"></a>
 
-#### particle_index
+#### particle\_index
 
 ```python
 @particle_index.setter

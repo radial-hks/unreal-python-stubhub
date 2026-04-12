@@ -21,7 +21,7 @@ Geometry Script Convex Hull Approximation Options
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(fit_spheres: bool = False,
@@ -32,7 +32,7 @@ def __init__(fit_spheres: bool = False,
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.fit_spheres"></a>
 
-#### fit_spheres
+#### fit\_spheres
 
 ```python
 @property
@@ -43,7 +43,7 @@ def fit_spheres() -> bool
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.fit_spheres"></a>
 
-#### fit_spheres
+#### fit\_spheres
 
 ```python
 @fit_spheres.setter
@@ -52,7 +52,7 @@ def fit_spheres(value: bool) -> None
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.fit_boxes"></a>
 
-#### fit_boxes
+#### fit\_boxes
 
 ```python
 @property
@@ -63,7 +63,7 @@ def fit_boxes() -> bool
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.fit_boxes"></a>
 
-#### fit_boxes
+#### fit\_boxes
 
 ```python
 @fit_boxes.setter
@@ -72,7 +72,7 @@ def fit_boxes(value: bool) -> None
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.distance_threshold"></a>
 
-#### distance_threshold
+#### distance\_threshold
 
 ```python
 @property
@@ -83,7 +83,7 @@ def distance_threshold() -> float
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.distance_threshold"></a>
 
-#### distance_threshold
+#### distance\_threshold
 
 ```python
 @distance_threshold.setter
@@ -92,7 +92,7 @@ def distance_threshold(value: float) -> None
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.volume_diff_threshold_fraction"></a>
 
-#### volume_diff_threshold_fraction
+#### volume\_diff\_threshold\_fraction
 
 ```python
 @property
@@ -103,7 +103,7 @@ def volume_diff_threshold_fraction() -> float
 
 <a id="unreal.GeometryScriptConvexHullApproximationOptions.volume_diff_threshold_fraction"></a>
 
-#### volume_diff_threshold_fraction
+#### volume\_diff\_threshold\_fraction
 
 ```python
 @volume_diff_threshold_fraction.setter

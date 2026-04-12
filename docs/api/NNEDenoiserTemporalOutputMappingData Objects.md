@@ -21,7 +21,7 @@ Table row base for temporal denoiser output mapping
 
 <a id="unreal.NNEDenoiserTemporalOutputMappingData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

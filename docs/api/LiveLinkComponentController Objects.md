@@ -38,7 +38,7 @@ Live Link Component Controller
 
 <a id="unreal.LiveLinkComponentController.subject_representation"></a>
 
-#### subject_representation
+#### subject\_representation
 
 ```python
 @property
@@ -49,7 +49,7 @@ def subject_representation() -> LiveLinkSubjectRepresentation
 
 <a id="unreal.LiveLinkComponentController.subject_representation"></a>
 
-#### subject_representation
+#### subject\_representation
 
 ```python
 @subject_representation.setter
@@ -58,7 +58,7 @@ def subject_representation(value: LiveLinkSubjectRepresentation) -> None
 
 <a id="unreal.LiveLinkComponentController.controller_map"></a>
 
-#### controller_map
+#### controller\_map
 
 ```python
 @property
@@ -69,7 +69,7 @@ def controller_map() -> Map[Class, LiveLinkControllerBase]
 
 <a id="unreal.LiveLinkComponentController.on_live_link_updated"></a>
 
-#### on_live_link_updated
+#### on\_live\_link\_updated
 
 ```python
 @property
@@ -80,7 +80,7 @@ def on_live_link_updated() -> LiveLinkTickDelegate
 
 <a id="unreal.LiveLinkComponentController.on_live_link_updated"></a>
 
-#### on_live_link_updated
+#### on\_live\_link\_updated
 
 ```python
 @on_live_link_updated.setter
@@ -89,7 +89,7 @@ def on_live_link_updated(value: LiveLinkTickDelegate) -> None
 
 <a id="unreal.LiveLinkComponentController.on_controller_map_updated_delegate"></a>
 
-#### on_controller_map_updated_delegate
+#### on\_controller\_map\_updated\_delegate
 
 ```python
 @property
@@ -100,7 +100,7 @@ def on_controller_map_updated_delegate() -> OnControllerMapUpdatedDelegate
 
 <a id="unreal.LiveLinkComponentController.on_controller_map_updated_delegate"></a>
 
-#### on_controller_map_updated_delegate
+#### on\_controller\_map\_updated\_delegate
 
 ```python
 @on_controller_map_updated_delegate.setter
@@ -110,7 +110,7 @@ def on_controller_map_updated_delegate(
 
 <a id="unreal.LiveLinkComponentController.disable_evaluate_live_link_when_spawnable"></a>
 
-#### disable_evaluate_live_link_when_spawnable
+#### disable\_evaluate\_live\_link\_when\_spawnable
 
 ```python
 @property
@@ -121,7 +121,7 @@ def disable_evaluate_live_link_when_spawnable() -> bool
 
 <a id="unreal.LiveLinkComponentController.disable_evaluate_live_link_when_spawnable"></a>
 
-#### disable_evaluate_live_link_when_spawnable
+#### disable\_evaluate\_live\_link\_when\_spawnable
 
 ```python
 @disable_evaluate_live_link_when_spawnable.setter
@@ -130,7 +130,7 @@ def disable_evaluate_live_link_when_spawnable(value: bool) -> None
 
 <a id="unreal.LiveLinkComponentController.evaluate_live_link"></a>
 
-#### evaluate_live_link
+#### evaluate\_live\_link
 
 ```python
 @property
@@ -141,7 +141,7 @@ def evaluate_live_link() -> bool
 
 <a id="unreal.LiveLinkComponentController.evaluate_live_link"></a>
 
-#### evaluate_live_link
+#### evaluate\_live\_link
 
 ```python
 @evaluate_live_link.setter
@@ -150,7 +150,7 @@ def evaluate_live_link(value: bool) -> None
 
 <a id="unreal.LiveLinkComponentController.set_controlled_component"></a>
 
-#### set_controlled_component
+#### set\_controlled\_component
 
 ```python
 def set_controlled_component(role_class: Class,
@@ -166,7 +166,7 @@ Args:
 
 <a id="unreal.LiveLinkComponentController.get_controlled_component"></a>
 
-#### get_controlled_component
+#### get\_controlled\_component
 
 ```python
 def get_controlled_component(role_class: Class) -> ActorComponent

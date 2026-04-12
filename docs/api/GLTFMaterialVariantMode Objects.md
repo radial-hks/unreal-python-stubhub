@@ -26,7 +26,7 @@ EGLTFMaterial Variant Mode
 
 <a id="unreal.GLTFMaterialVariantMode.USE_MESH_DATA"></a>
 
-#### USE_MESH_DATA
+#### USE\_MESH\_DATA
 
 2: Export material variants and allow usage of the mesh data if a material input needs to be baked out with vertex data.
 

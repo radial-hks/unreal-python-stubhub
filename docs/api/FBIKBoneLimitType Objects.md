@@ -30,4 +30,4 @@ EFBIKBone Limit Type
 
 2: currently hard limit
 
-<a id="unreal.SpritePolygonMode"></a>
+<a id="unreal.GameplayEffectMagnitudeCalculation"></a>

@@ -143,7 +143,7 @@ Text 3DActor
 
 <a id="unreal.Text3DActor.text3d_component"></a>
 
-#### text3d_component
+#### text3d\_component
 
 ```python
 @property

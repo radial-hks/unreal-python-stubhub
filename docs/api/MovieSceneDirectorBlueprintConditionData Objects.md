@@ -19,7 +19,7 @@ Data for a director blueprint condition endpoint call.
 
 <a id="unreal.MovieSceneDirectorBlueprintConditionData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

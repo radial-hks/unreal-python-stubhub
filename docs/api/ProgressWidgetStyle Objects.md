@@ -17,7 +17,7 @@ Progress Widget Style
 
 <a id="unreal.ProgressWidgetStyle.progress_bar_style"></a>
 
-#### progress_bar_style
+#### progress\_bar\_style
 
 ```python
 @property
@@ -28,7 +28,7 @@ def progress_bar_style() -> ProgressBarStyle
 
 <a id="unreal.ProgressWidgetStyle.progress_bar_style"></a>
 
-#### progress_bar_style
+#### progress\_bar\_style
 
 ```python
 @progress_bar_style.setter

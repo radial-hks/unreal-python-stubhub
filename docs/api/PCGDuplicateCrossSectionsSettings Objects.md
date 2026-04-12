@@ -52,7 +52,7 @@ PCGDuplicate Cross Sections Settings
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.extrude_vector_as_attribute"></a>
 
-#### extrude_vector_as_attribute
+#### extrude\_vector\_as\_attribute
 
 ```python
 @property
@@ -63,7 +63,7 @@ def extrude_vector_as_attribute() -> bool
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.extrude_vector_as_attribute"></a>
 
-#### extrude_vector_as_attribute
+#### extrude\_vector\_as\_attribute
 
 ```python
 @extrude_vector_as_attribute.setter
@@ -72,7 +72,7 @@ def extrude_vector_as_attribute(value: bool) -> None
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.extrude_vector"></a>
 
-#### extrude_vector
+#### extrude\_vector
 
 ```python
 @property
@@ -83,7 +83,7 @@ def extrude_vector() -> Vector
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.extrude_vector"></a>
 
-#### extrude_vector
+#### extrude\_vector
 
 ```python
 @extrude_vector.setter
@@ -92,7 +92,7 @@ def extrude_vector(value: Vector) -> None
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.extrude_vector_attribute"></a>
 
-#### extrude_vector_attribute
+#### extrude\_vector\_attribute
 
 ```python
 @property
@@ -103,7 +103,7 @@ def extrude_vector_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.extrude_vector_attribute"></a>
 
-#### extrude_vector_attribute
+#### extrude\_vector\_attribute
 
 ```python
 @extrude_vector_attribute.setter
@@ -112,7 +112,7 @@ def extrude_vector_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.output_spline_index_attribute"></a>
 
-#### output_spline_index_attribute
+#### output\_spline\_index\_attribute
 
 ```python
 @property
@@ -123,7 +123,7 @@ def output_spline_index_attribute() -> bool
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.output_spline_index_attribute"></a>
 
-#### output_spline_index_attribute
+#### output\_spline\_index\_attribute
 
 ```python
 @output_spline_index_attribute.setter
@@ -132,7 +132,7 @@ def output_spline_index_attribute(value: bool) -> None
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.spline_index_attribute_name"></a>
 
-#### spline_index_attribute_name
+#### spline\_index\_attribute\_name
 
 ```python
 @property
@@ -143,7 +143,7 @@ def spline_index_attribute_name() -> Name
 
 <a id="unreal.PCGDuplicateCrossSectionsSettings.spline_index_attribute_name"></a>
 
-#### spline_index_attribute_name
+#### spline\_index\_attribute\_name
 
 ```python
 @spline_index_attribute_name.setter

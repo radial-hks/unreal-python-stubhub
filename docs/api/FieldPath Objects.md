@@ -8,7 +8,7 @@ Type for all Unreal exposed FieldPath instances
 
 <a id="unreal.FieldPath.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: Union[FieldPath, str] = "") -> None
@@ -27,7 +27,7 @@ cast(cls, obj: object) -> FieldPath -- cast the given object to this Unreal fiel
 
 <a id="unreal.FieldPath.__copy__"></a>
 
-#### __copy__
+#### \_\_copy\_\_
 
 ```python
 def __copy__() -> FieldPath
@@ -47,7 +47,7 @@ copy(self) -> FieldPath -- copy this Unreal field path
 
 <a id="unreal.FieldPath.is_valid"></a>
 
-#### is_valid
+#### is\_valid
 
 ```python
 def is_valid() -> bool
@@ -57,7 +57,7 @@ is_valid(self) -> bool -- whether this Unreal field path refers to an existing U
 
 <a id="unreal.register_slate_pre_tick_callback"></a>
 
-#### register_slate_pre_tick_callback
+#### register\_slate\_pre\_tick\_callback
 
 ```python
 def register_slate_pre_tick_callback(
@@ -68,7 +68,7 @@ x.register_slate_pre_tick_callback(callable: Union[Callable[[float], None], Dele
 
 <a id="unreal.unregister_slate_pre_tick_callback"></a>
 
-#### unregister_slate_pre_tick_callback
+#### unregister\_slate\_pre\_tick\_callback
 
 ```python
 def unregister_slate_pre_tick_callback(handle: object) -> None
@@ -78,7 +78,7 @@ x.unregister_slate_pre_tick_callback(handle: object) -> None -- unregister the g
 
 <a id="unreal.register_slate_post_tick_callback"></a>
 
-#### register_slate_post_tick_callback
+#### register\_slate\_post\_tick\_callback
 
 ```python
 def register_slate_post_tick_callback(
@@ -89,7 +89,7 @@ x.register_slate_post_tick_callback(callable: Union[Callable[[float], None], Del
 
 <a id="unreal.unregister_slate_post_tick_callback"></a>
 
-#### unregister_slate_post_tick_callback
+#### unregister\_slate\_post\_tick\_callback
 
 ```python
 def unregister_slate_post_tick_callback(handle: object) -> None
@@ -99,7 +99,7 @@ x.unregister_slate_post_tick_callback(handle: object) -> None -- unregister the 
 
 <a id="unreal.parent_external_window_to_slate"></a>
 
-#### parent_external_window_to_slate
+#### parent\_external\_window\_to\_slate
 
 ```python
 def parent_external_window_to_slate(
@@ -113,7 +113,7 @@ x.parent_external_window_to_slate(external_window_handle: object, parent_search_
 
 <a id="unreal.get_blueprint_generated_types"></a>
 
-#### get_blueprint_generated_types
+#### get\_blueprint\_generated\_types
 
 ```python
 def get_blueprint_generated_types(

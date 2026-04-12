@@ -47,7 +47,7 @@ ie. point X in the direction you want the thrust in.
 
 <a id="unreal.PhysicsThrusterComponent.thrust_strength"></a>
 
-#### thrust_strength
+#### thrust\_strength
 
 ```python
 @property
@@ -58,7 +58,7 @@ def thrust_strength() -> float
 
 <a id="unreal.PhysicsThrusterComponent.thrust_strength"></a>
 
-#### thrust_strength
+#### thrust\_strength
 
 ```python
 @thrust_strength.setter

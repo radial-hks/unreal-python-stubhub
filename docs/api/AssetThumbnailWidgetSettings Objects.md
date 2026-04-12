@@ -28,7 +28,7 @@ Copied mostly from FAssetThumbnailConfig
 
 <a id="unreal.AssetThumbnailWidgetSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -58,7 +58,7 @@ def __init__(
 
 <a id="unreal.AssetThumbnailWidgetSettings.force_generic_thumbnail"></a>
 
-#### force_generic_thumbnail
+#### force\_generic\_thumbnail
 
 ```python
 @property
@@ -69,7 +69,7 @@ def force_generic_thumbnail() -> bool
 
 <a id="unreal.AssetThumbnailWidgetSettings.force_generic_thumbnail"></a>
 
-#### force_generic_thumbnail
+#### force\_generic\_thumbnail
 
 ```python
 @force_generic_thumbnail.setter
@@ -78,7 +78,7 @@ def force_generic_thumbnail(value: bool) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.allow_hint_text"></a>
 
-#### allow_hint_text
+#### allow\_hint\_text
 
 ```python
 @property
@@ -89,7 +89,7 @@ def allow_hint_text() -> bool
 
 <a id="unreal.AssetThumbnailWidgetSettings.allow_hint_text"></a>
 
-#### allow_hint_text
+#### allow\_hint\_text
 
 ```python
 @allow_hint_text.setter
@@ -98,7 +98,7 @@ def allow_hint_text(value: bool) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.allow_real_time_on_hovered"></a>
 
-#### allow_real_time_on_hovered
+#### allow\_real\_time\_on\_hovered
 
 ```python
 @property
@@ -109,7 +109,7 @@ def allow_real_time_on_hovered() -> bool
 
 <a id="unreal.AssetThumbnailWidgetSettings.allow_real_time_on_hovered"></a>
 
-#### allow_real_time_on_hovered
+#### allow\_real\_time\_on\_hovered
 
 ```python
 @allow_real_time_on_hovered.setter
@@ -118,7 +118,7 @@ def allow_real_time_on_hovered(value: bool) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.allow_asset_specific_thumbnail_overlay"></a>
 
-#### allow_asset_specific_thumbnail_overlay
+#### allow\_asset\_specific\_thumbnail\_overlay
 
 ```python
 @property
@@ -129,7 +129,7 @@ def allow_asset_specific_thumbnail_overlay() -> bool
 
 <a id="unreal.AssetThumbnailWidgetSettings.allow_asset_specific_thumbnail_overlay"></a>
 
-#### allow_asset_specific_thumbnail_overlay
+#### allow\_asset\_specific\_thumbnail\_overlay
 
 ```python
 @allow_asset_specific_thumbnail_overlay.setter
@@ -138,7 +138,7 @@ def allow_asset_specific_thumbnail_overlay(value: bool) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.thumbnail_label"></a>
 
-#### thumbnail_label
+#### thumbnail\_label
 
 ```python
 @property
@@ -149,7 +149,7 @@ def thumbnail_label() -> ThumbnailLabelType_BlueprintType
 
 <a id="unreal.AssetThumbnailWidgetSettings.thumbnail_label"></a>
 
-#### thumbnail_label
+#### thumbnail\_label
 
 ```python
 @thumbnail_label.setter
@@ -158,7 +158,7 @@ def thumbnail_label(value: ThumbnailLabelType_BlueprintType) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.highlighted_text_delegate"></a>
 
-#### highlighted_text_delegate
+#### highlighted\_text\_delegate
 
 ```python
 @property
@@ -169,7 +169,7 @@ def highlighted_text_delegate() -> GetHighlightTextDelegate
 
 <a id="unreal.AssetThumbnailWidgetSettings.highlighted_text_delegate"></a>
 
-#### highlighted_text_delegate
+#### highlighted\_text\_delegate
 
 ```python
 @highlighted_text_delegate.setter
@@ -178,7 +178,7 @@ def highlighted_text_delegate(value: GetHighlightTextDelegate) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.hint_color_and_opacity"></a>
 
-#### hint_color_and_opacity
+#### hint\_color\_and\_opacity
 
 ```python
 @property
@@ -189,7 +189,7 @@ def hint_color_and_opacity() -> LinearColor
 
 <a id="unreal.AssetThumbnailWidgetSettings.hint_color_and_opacity"></a>
 
-#### hint_color_and_opacity
+#### hint\_color\_and\_opacity
 
 ```python
 @hint_color_and_opacity.setter
@@ -198,7 +198,7 @@ def hint_color_and_opacity(value: LinearColor) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.override_asset_type_color"></a>
 
-#### override_asset_type_color
+#### override\_asset\_type\_color
 
 ```python
 @property
@@ -209,7 +209,7 @@ def override_asset_type_color() -> bool
 
 <a id="unreal.AssetThumbnailWidgetSettings.override_asset_type_color"></a>
 
-#### override_asset_type_color
+#### override\_asset\_type\_color
 
 ```python
 @override_asset_type_color.setter
@@ -218,7 +218,7 @@ def override_asset_type_color(value: bool) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.asset_type_color_override"></a>
 
-#### asset_type_color_override
+#### asset\_type\_color\_override
 
 ```python
 @property
@@ -229,7 +229,7 @@ def asset_type_color_override() -> LinearColor
 
 <a id="unreal.AssetThumbnailWidgetSettings.asset_type_color_override"></a>
 
-#### asset_type_color_override
+#### asset\_type\_color\_override
 
 ```python
 @asset_type_color_override.setter
@@ -258,7 +258,7 @@ def padding(value: Margin) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.generic_thumbnail_size"></a>
 
-#### generic_thumbnail_size
+#### generic\_thumbnail\_size
 
 ```python
 @property
@@ -269,7 +269,7 @@ def generic_thumbnail_size() -> int
 
 <a id="unreal.AssetThumbnailWidgetSettings.generic_thumbnail_size"></a>
 
-#### generic_thumbnail_size
+#### generic\_thumbnail\_size
 
 ```python
 @generic_thumbnail_size.setter
@@ -278,7 +278,7 @@ def generic_thumbnail_size(value: int) -> None
 
 <a id="unreal.AssetThumbnailWidgetSettings.color_strip_orientation"></a>
 
-#### color_strip_orientation
+#### color\_strip\_orientation
 
 ```python
 @property
@@ -289,7 +289,7 @@ def color_strip_orientation() -> ThumbnailColorStripOrientation_BlueprintType
 
 <a id="unreal.AssetThumbnailWidgetSettings.color_strip_orientation"></a>
 
-#### color_strip_orientation
+#### color\_strip\_orientation
 
 ```python
 @color_strip_orientation.setter

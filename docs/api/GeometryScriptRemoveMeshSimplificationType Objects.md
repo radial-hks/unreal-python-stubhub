@@ -14,19 +14,19 @@ EGeometry Script Remove Mesh Simplification Type
 
 <a id="unreal.GeometryScriptRemoveMeshSimplificationType.STANDARD_QEM"></a>
 
-#### STANDARD_QEM
+#### STANDARD\_QEM
 
 0
 
 <a id="unreal.GeometryScriptRemoveMeshSimplificationType.VOLUME_PRESERVING"></a>
 
-#### VOLUME_PRESERVING
+#### VOLUME\_PRESERVING
 
 1
 
 <a id="unreal.GeometryScriptRemoveMeshSimplificationType.ATTRIBUTE_AWARE"></a>
 
-#### ATTRIBUTE_AWARE
+#### ATTRIBUTE\_AWARE
 
 2
 

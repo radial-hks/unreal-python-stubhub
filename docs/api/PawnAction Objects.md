@@ -27,7 +27,7 @@ Things to remember:
 
 <a id="unreal.PawnAction.allow_new_same_class_instance"></a>
 
-#### allow_new_same_class_instance
+#### allow\_new\_same\_class\_instance
 
 ```python
 @property
@@ -39,7 +39,7 @@ def allow_new_same_class_instance() -> bool
 
 <a id="unreal.PawnAction.replace_active_same_class_instance"></a>
 
-#### replace_active_same_class_instance
+#### replace\_active\_same\_class\_instance
 
 ```python
 @property
@@ -53,7 +53,7 @@ def replace_active_same_class_instance() -> bool
 
 <a id="unreal.PawnAction.replace_active_same_class_instance"></a>
 
-#### replace_active_same_class_instance
+#### replace\_active\_same\_class\_instance
 
 ```python
 @replace_active_same_class_instance.setter
@@ -62,7 +62,7 @@ def replace_active_same_class_instance(value: bool) -> None
 
 <a id="unreal.PawnAction.should_pause_movement"></a>
 
-#### should_pause_movement
+#### should\_pause\_movement
 
 ```python
 @property
@@ -75,7 +75,7 @@ note: should go away once AI resource locking comes on-line
 
 <a id="unreal.PawnAction.should_pause_movement"></a>
 
-#### should_pause_movement
+#### should\_pause\_movement
 
 ```python
 @should_pause_movement.setter
@@ -84,7 +84,7 @@ def should_pause_movement(value: bool) -> None
 
 <a id="unreal.PawnAction.always_notify_on_finished"></a>
 
-#### always_notify_on_finished
+#### always\_notify\_on\_finished
 
 ```python
 @property
@@ -95,7 +95,7 @@ def always_notify_on_finished() -> bool
 
 <a id="unreal.PawnAction.always_notify_on_finished"></a>
 
-#### always_notify_on_finished
+#### always\_notify\_on\_finished
 
 ```python
 @always_notify_on_finished.setter
@@ -104,7 +104,7 @@ def always_notify_on_finished(value: bool) -> None
 
 <a id="unreal.PawnAction.get_action_priority"></a>
 
-#### get_action_priority
+#### get\_action\_priority
 
 ```python
 def get_action_priority() -> AIRequestPriority
@@ -132,7 +132,7 @@ Args:
 
 <a id="unreal.PawnAction.create_action_instance"></a>
 
-#### create_action_instance
+#### create\_action\_instance
 
 ```python
 @classmethod

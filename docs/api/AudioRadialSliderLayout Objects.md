@@ -14,19 +14,19 @@ EAudio Radial Slider Layout
 
 <a id="unreal.AudioRadialSliderLayout.LAYOUT_LABEL_TOP"></a>
 
-#### LAYOUT_LABEL_TOP
+#### LAYOUT\_LABEL\_TOP
 
 0: Label above radial slider.
 
 <a id="unreal.AudioRadialSliderLayout.LAYOUT_LABEL_CENTER"></a>
 
-#### LAYOUT_LABEL_CENTER
+#### LAYOUT\_LABEL\_CENTER
 
 1: Label in the center of the radial slider.
 
 <a id="unreal.AudioRadialSliderLayout.LAYOUT_LABEL_BOTTOM"></a>
 
-#### LAYOUT_LABEL_BOTTOM
+#### LAYOUT\_LABEL\_BOTTOM
 
 2: Label below radial slider.
 

@@ -28,7 +28,7 @@ Control Rig Component Mapped Element
 
 <a id="unreal.ControlRigComponentMappedElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -49,7 +49,7 @@ def __init__(
 
 <a id="unreal.ControlRigComponentMappedElement.component_reference"></a>
 
-#### component_reference
+#### component\_reference
 
 ```python
 @property
@@ -60,7 +60,7 @@ def component_reference() -> SoftComponentReference
 
 <a id="unreal.ControlRigComponentMappedElement.component_reference"></a>
 
-#### component_reference
+#### component\_reference
 
 ```python
 @component_reference.setter
@@ -69,7 +69,7 @@ def component_reference(value: SoftComponentReference) -> None
 
 <a id="unreal.ControlRigComponentMappedElement.transform_index"></a>
 
-#### transform_index
+#### transform\_index
 
 ```python
 @property
@@ -81,7 +81,7 @@ with multiple transforms (for example the InstancedStaticMeshComponent)
 
 <a id="unreal.ControlRigComponentMappedElement.transform_index"></a>
 
-#### transform_index
+#### transform\_index
 
 ```python
 @transform_index.setter
@@ -90,7 +90,7 @@ def transform_index(value: int) -> None
 
 <a id="unreal.ControlRigComponentMappedElement.transform_name"></a>
 
-#### transform_name
+#### transform\_name
 
 ```python
 @property
@@ -102,7 +102,7 @@ that have sockets (for example the SkeletalMeshComponent)
 
 <a id="unreal.ControlRigComponentMappedElement.transform_name"></a>
 
-#### transform_name
+#### transform\_name
 
 ```python
 @transform_name.setter
@@ -111,7 +111,7 @@ def transform_name(value: Name) -> None
 
 <a id="unreal.ControlRigComponentMappedElement.element_type"></a>
 
-#### element_type
+#### element\_type
 
 ```python
 @property
@@ -122,7 +122,7 @@ def element_type() -> RigElementType
 
 <a id="unreal.ControlRigComponentMappedElement.element_type"></a>
 
-#### element_type
+#### element\_type
 
 ```python
 @element_type.setter
@@ -131,7 +131,7 @@ def element_type(value: RigElementType) -> None
 
 <a id="unreal.ControlRigComponentMappedElement.element_name"></a>
 
-#### element_name
+#### element\_name
 
 ```python
 @property
@@ -142,7 +142,7 @@ def element_name() -> Name
 
 <a id="unreal.ControlRigComponentMappedElement.element_name"></a>
 
-#### element_name
+#### element\_name
 
 ```python
 @element_name.setter

@@ -202,7 +202,7 @@ def elements() -> Array[MaterialSpriteElement]
 
 <a id="unreal.MaterialBillboardComponent.set_elements"></a>
 
-#### set_elements
+#### set\_elements
 
 ```python
 def set_elements(new_elements: Array[MaterialSpriteElement]) -> None
@@ -216,7 +216,7 @@ Args:
 
 <a id="unreal.MaterialBillboardComponent.add_element"></a>
 
-#### add_element
+#### add\_element
 
 ```python
 def add_element(material: MaterialInterface,

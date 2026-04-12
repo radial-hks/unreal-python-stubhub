@@ -13,7 +13,7 @@ Widget Animation Dynamic Events  Delegate Signature
 
 <a id="unreal.WidgetAnimationDynamicEvents.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(*args: Any, **kwargs: Any) -> None

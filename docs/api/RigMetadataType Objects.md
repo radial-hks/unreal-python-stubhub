@@ -20,7 +20,7 @@ class RigMetadataType(EnumBase)
 
 <a id="unreal.RigMetadataType.BOOL_ARRAY"></a>
 
-#### BOOL_ARRAY
+#### BOOL\_ARRAY
 
 1
 
@@ -32,7 +32,7 @@ class RigMetadataType(EnumBase)
 
 <a id="unreal.RigMetadataType.FLOAT_ARRAY"></a>
 
-#### FLOAT_ARRAY
+#### FLOAT\_ARRAY
 
 3
 
@@ -44,7 +44,7 @@ class RigMetadataType(EnumBase)
 
 <a id="unreal.RigMetadataType.INT32_ARRAY"></a>
 
-#### INT32_ARRAY
+#### INT32\_ARRAY
 
 5
 
@@ -56,7 +56,7 @@ class RigMetadataType(EnumBase)
 
 <a id="unreal.RigMetadataType.NAME_ARRAY"></a>
 
-#### NAME_ARRAY
+#### NAME\_ARRAY
 
 7
 
@@ -68,7 +68,7 @@ class RigMetadataType(EnumBase)
 
 <a id="unreal.RigMetadataType.VECTOR_ARRAY"></a>
 
-#### VECTOR_ARRAY
+#### VECTOR\_ARRAY
 
 9
 
@@ -80,7 +80,7 @@ class RigMetadataType(EnumBase)
 
 <a id="unreal.RigMetadataType.ROTATOR_ARRAY"></a>
 
-#### ROTATOR_ARRAY
+#### ROTATOR\_ARRAY
 
 11
 
@@ -92,7 +92,7 @@ class RigMetadataType(EnumBase)
 
 <a id="unreal.RigMetadataType.QUAT_ARRAY"></a>
 
-#### QUAT_ARRAY
+#### QUAT\_ARRAY
 
 13
 
@@ -104,31 +104,31 @@ class RigMetadataType(EnumBase)
 
 <a id="unreal.RigMetadataType.TRANSFORM_ARRAY"></a>
 
-#### TRANSFORM_ARRAY
+#### TRANSFORM\_ARRAY
 
 15
 
 <a id="unreal.RigMetadataType.LINEAR_COLOR"></a>
 
-#### LINEAR_COLOR
+#### LINEAR\_COLOR
 
 16
 
 <a id="unreal.RigMetadataType.LINEAR_COLOR_ARRAY"></a>
 
-#### LINEAR_COLOR_ARRAY
+#### LINEAR\_COLOR\_ARRAY
 
 17
 
 <a id="unreal.RigMetadataType.RIG_ELEMENT_KEY"></a>
 
-#### RIG_ELEMENT_KEY
+#### RIG\_ELEMENT\_KEY
 
 18
 
 <a id="unreal.RigMetadataType.RIG_ELEMENT_KEY_ARRAY"></a>
 
-#### RIG_ELEMENT_KEY_ARRAY
+#### RIG\_ELEMENT\_KEY\_ARRAY
 
 19
 

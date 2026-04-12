@@ -23,7 +23,7 @@ PCGMesh Instance List
 
 <a id="unreal.PCGMeshInstanceList.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(instances: Array[Transform] = [],
@@ -53,7 +53,7 @@ def instances(value: Array[Transform]) -> None
 
 <a id="unreal.PCGMeshInstanceList.point_data"></a>
 
-#### point_data
+#### point\_data
 
 ```python
 @property
@@ -64,7 +64,7 @@ def point_data() -> PCGPointData
 
 <a id="unreal.PCGMeshInstanceList.point_data"></a>
 
-#### point_data
+#### point\_data
 
 ```python
 @point_data.setter
@@ -73,7 +73,7 @@ def point_data(value: PCGPointData) -> None
 
 <a id="unreal.PCGMeshInstanceList.instances_indices"></a>
 
-#### instances_indices
+#### instances\_indices
 
 ```python
 @property
@@ -84,7 +84,7 @@ def instances_indices() -> Array[int]
 
 <a id="unreal.PCGMeshInstanceList.instances_indices"></a>
 
-#### instances_indices
+#### instances\_indices
 
 ```python
 @instances_indices.setter
@@ -93,7 +93,7 @@ def instances_indices(value: Array[int]) -> None
 
 <a id="unreal.PCGMeshInstanceList.instances_metadata_entry"></a>
 
-#### instances_metadata_entry
+#### instances\_metadata\_entry
 
 ```python
 @property
@@ -105,7 +105,7 @@ deprecated: Property 'InstancesMetadataEntry' is deprecated.
 
 <a id="unreal.PCGMeshInstanceList.instances_metadata_entry"></a>
 
-#### instances_metadata_entry
+#### instances\_metadata\_entry
 
 ```python
 @instances_metadata_entry.setter

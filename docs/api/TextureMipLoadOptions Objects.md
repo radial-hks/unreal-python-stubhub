@@ -19,14 +19,14 @@ ETexture Mip Load Options
 
 <a id="unreal.TextureMipLoadOptions.ALL_MIPS"></a>
 
-#### ALL_MIPS
+#### ALL\_MIPS
 
 1: Load all mips.
 
 <a id="unreal.TextureMipLoadOptions.ONLY_FIRST_MIP"></a>
 
-#### ONLY_FIRST_MIP
+#### ONLY\_FIRST\_MIP
 
 2: Load only the first mip.
 
-<a id="unreal.TextureCookPlatformTilingSettings"></a>
+<a id="unreal.TextureCompressionQuality"></a>

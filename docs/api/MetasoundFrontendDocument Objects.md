@@ -24,7 +24,7 @@ Metasound Frontend Document
 
 <a id="unreal.MetasoundFrontendDocument.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
@@ -32,7 +32,7 @@ def __init__() -> None
 
 <a id="unreal.MetasoundFrontendDocument.archetype_version"></a>
 
-#### archetype_version
+#### archetype\_version
 
 ```python
 @property
@@ -44,7 +44,7 @@ deprecated: 5.0 - ArchetypeVersion has been migrated to InterfaceVersions array.
 
 <a id="unreal.MetasoundFrontendDocument.archetype_version"></a>
 
-#### archetype_version
+#### archetype\_version
 
 ```python
 @archetype_version.setter
@@ -53,7 +53,7 @@ def archetype_version(value: MetasoundFrontendVersion) -> None
 
 <a id="unreal.MetasoundFrontendDocument.interface_versions"></a>
 
-#### interface_versions
+#### interface\_versions
 
 ```python
 @property
@@ -65,11 +65,11 @@ deprecated: 5.0 - InterfaceVersions has been migrated to Interfaces set.
 
 <a id="unreal.MetasoundFrontendDocument.interface_versions"></a>
 
-#### interface_versions
+#### interface\_versions
 
 ```python
 @interface_versions.setter
 def interface_versions(value: Array[MetasoundFrontendVersion]) -> None
 ```
 
-<a id="unreal.StateTreeStateParameters"></a>
+<a id="unreal.SmartObjectCollectionEntry"></a>

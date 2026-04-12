@@ -22,7 +22,7 @@ A URigVMPin is owned solely by a URigVMNode.
 
 <a id="unreal.RigVMPin.should_only_show_sub_pins"></a>
 
-#### should_only_show_sub_pins
+#### should\_only\_show\_sub\_pins
 
 ```python
 def should_only_show_sub_pins() -> bool
@@ -36,7 +36,7 @@ Returns:
 
 <a id="unreal.RigVMPin.should_hide_sub_pins"></a>
 
-#### should_hide_sub_pins
+#### should\_hide\_sub\_pins
 
 ```python
 def should_hide_sub_pins() -> bool
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.RigVMPin.requires_watch"></a>
 
-#### requires_watch
+#### requires\_watch
 
 ```python
 def requires_watch(check_exposed_pin_chain: bool = False) -> bool
@@ -67,7 +67,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_wild_card"></a>
 
-#### is_wild_card
+#### is\_wild\_card
 
 ```python
 def is_wild_card() -> bool
@@ -81,7 +81,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_valid_default_value"></a>
 
-#### is_valid_default_value
+#### is\_valid\_default\_value
 
 ```python
 def is_valid_default_value(default_value: str) -> bool
@@ -98,7 +98,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_u_object"></a>
 
-#### is_u_object
+#### is\_u\_object
 
 ```python
 def is_u_object() -> bool
@@ -112,7 +112,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_trait_pin"></a>
 
-#### is_trait_pin
+#### is\_trait\_pin
 
 ```python
 def is_trait_pin() -> bool
@@ -126,7 +126,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_struct_member"></a>
 
-#### is_struct_member
+#### is\_struct\_member
 
 ```python
 def is_struct_member() -> bool
@@ -140,7 +140,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_struct"></a>
 
-#### is_struct
+#### is\_struct
 
 ```python
 def is_struct() -> bool
@@ -154,7 +154,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_string_type"></a>
 
-#### is_string_type
+#### is\_string\_type
 
 ```python
 def is_string_type() -> bool
@@ -168,7 +168,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_root_pin"></a>
 
-#### is_root_pin
+#### is\_root\_pin
 
 ```python
 def is_root_pin() -> bool
@@ -182,7 +182,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_reference_counted_container"></a>
 
-#### is_reference_counted_container
+#### is\_reference\_counted\_container
 
 ```python
 def is_reference_counted_container() -> bool
@@ -196,7 +196,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_linked_to"></a>
 
-#### is_linked_to
+#### is\_linked\_to
 
 ```python
 def is_linked_to(pin: RigVMPin) -> bool
@@ -213,7 +213,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_lazy"></a>
 
-#### is_lazy
+#### is\_lazy
 
 ```python
 def is_lazy() -> bool
@@ -227,7 +227,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_interface"></a>
 
-#### is_interface
+#### is\_interface
 
 ```python
 def is_interface() -> bool
@@ -241,7 +241,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_fixed_size_array"></a>
 
-#### is_fixed_size_array
+#### is\_fixed\_size\_array
 
 ```python
 def is_fixed_size_array() -> bool
@@ -255,7 +255,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_expanded"></a>
 
-#### is_expanded
+#### is\_expanded
 
 ```python
 def is_expanded() -> bool
@@ -269,7 +269,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_execute_context"></a>
 
-#### is_execute_context
+#### is\_execute\_context
 
 ```python
 def is_execute_context() -> bool
@@ -283,7 +283,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_enum"></a>
 
-#### is_enum
+#### is\_enum
 
 ```python
 def is_enum() -> bool
@@ -297,7 +297,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_dynamic_array"></a>
 
-#### is_dynamic_array
+#### is\_dynamic\_array
 
 ```python
 def is_dynamic_array() -> bool
@@ -311,7 +311,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_defined_as_constant"></a>
 
-#### is_defined_as_constant
+#### is\_defined\_as\_constant
 
 ```python
 def is_defined_as_constant() -> bool
@@ -325,7 +325,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_array_element"></a>
 
-#### is_array_element
+#### is\_array\_element
 
 ```python
 def is_array_element() -> bool
@@ -339,7 +339,7 @@ Returns:
 
 <a id="unreal.RigVMPin.is_array"></a>
 
-#### is_array
+#### is\_array
 
 ```python
 def is_array() -> bool
@@ -353,7 +353,7 @@ Returns:
 
 <a id="unreal.RigVMPin.has_user_provided_default_value"></a>
 
-#### has_user_provided_default_value
+#### has\_user\_provided\_default\_value
 
 ```python
 def has_user_provided_default_value() -> bool
@@ -367,7 +367,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_tool_tip_text"></a>
 
-#### get_tool_tip_text
+#### get\_tool\_tip\_text
 
 ```python
 def get_tool_tip_text() -> Text
@@ -381,7 +381,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_target_links"></a>
 
-#### get_target_links
+#### get\_target\_links
 
 ```python
 def get_target_links(recursive: bool = False) -> Array[RigVMLink]
@@ -399,7 +399,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_sub_pins"></a>
 
-#### get_sub_pins
+#### get\_sub\_pins
 
 ```python
 def get_sub_pins() -> Array[RigVMPin]
@@ -413,7 +413,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_sub_pin_path"></a>
 
-#### get_sub_pin_path
+#### get\_sub\_pin\_path
 
 ```python
 def get_sub_pin_path(parent_pin: RigVMPin,
@@ -433,7 +433,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_source_links"></a>
 
-#### get_source_links
+#### get\_source\_links
 
 ```python
 def get_source_links(recursive: bool = False) -> Array[RigVMLink]
@@ -451,7 +451,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_segment_path"></a>
 
-#### get_segment_path
+#### get\_segment\_path
 
 ```python
 def get_segment_path(include_root_pin: bool = False) -> str
@@ -473,7 +473,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_script_struct"></a>
 
-#### get_script_struct
+#### get\_script\_struct
 
 ```python
 def get_script_struct() -> ScriptStruct
@@ -488,7 +488,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_root_pin"></a>
 
-#### get_root_pin
+#### get\_root\_pin
 
 ```python
 def get_root_pin() -> RigVMPin
@@ -504,7 +504,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_pin_path"></a>
 
-#### get_pin_path
+#### get\_pin\_path
 
 ```python
 def get_pin_path(use_node_path: bool = False) -> str
@@ -522,7 +522,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_pin_index"></a>
 
-#### get_pin_index
+#### get\_pin\_index
 
 ```python
 def get_pin_index() -> int
@@ -536,7 +536,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_pin_for_link"></a>
 
-#### get_pin_for_link
+#### get\_pin\_for\_link
 
 ```python
 def get_pin_for_link() -> RigVMPin
@@ -552,7 +552,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_parent_pin"></a>
 
-#### get_parent_pin
+#### get\_parent\_pin
 
 ```python
 def get_parent_pin() -> RigVMPin
@@ -567,7 +567,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_original_pin_from_injected_node"></a>
 
-#### get_original_pin_from_injected_node
+#### get\_original\_pin\_from\_injected\_node
 
 ```python
 def get_original_pin_from_injected_node() -> RigVMPin
@@ -583,7 +583,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_original_default_value"></a>
 
-#### get_original_default_value
+#### get\_original\_default\_value
 
 ```python
 def get_original_default_value() -> str
@@ -597,7 +597,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_node"></a>
 
-#### get_node
+#### get\_node
 
 ```python
 def get_node() -> RigVMNode
@@ -611,7 +611,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_meta_data"></a>
 
-#### get_meta_data
+#### get\_meta\_data
 
 ```python
 def get_meta_data(key: Name) -> str
@@ -628,7 +628,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_links"></a>
 
-#### get_links
+#### get\_links
 
 ```python
 def get_links() -> Array[RigVMLink]
@@ -642,7 +642,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_linked_target_pins"></a>
 
-#### get_linked_target_pins
+#### get\_linked\_target\_pins
 
 ```python
 def get_linked_target_pins(recursive: bool = False) -> Array[RigVMPin]
@@ -660,7 +660,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_linked_source_pins"></a>
 
-#### get_linked_source_pins
+#### get\_linked\_source\_pins
 
 ```python
 def get_linked_source_pins(recursive: bool = False) -> Array[RigVMPin]
@@ -678,7 +678,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_index_in_category"></a>
 
-#### get_index_in_category
+#### get\_index\_in\_category
 
 ```python
 def get_index_in_category() -> int
@@ -693,7 +693,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_graph"></a>
 
-#### get_graph
+#### get\_graph
 
 ```python
 def get_graph() -> RigVMGraph
@@ -707,7 +707,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_enum"></a>
 
-#### get_enum
+#### get\_enum
 
 ```python
 def get_enum() -> Enum
@@ -722,7 +722,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_display_name"></a>
 
-#### get_display_name
+#### get\_display\_name
 
 ```python
 def get_display_name() -> Name
@@ -736,7 +736,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_direction"></a>
 
-#### get_direction
+#### get\_direction
 
 ```python
 def get_direction() -> RigVMPinDirection
@@ -750,7 +750,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_default_value_type"></a>
 
-#### get_default_value_type
+#### get\_default\_value\_type
 
 ```python
 def get_default_value_type() -> RigVMPinDefaultValueType
@@ -764,7 +764,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_default_value"></a>
 
-#### get_default_value
+#### get\_default\_value
 
 ```python
 def get_default_value() -> str
@@ -782,7 +782,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_custom_widget_name"></a>
 
-#### get_custom_widget_name
+#### get\_custom\_widget\_name
 
 ```python
 def get_custom_widget_name() -> Name
@@ -797,7 +797,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_cpp_type_object"></a>
 
-#### get_cpp_type_object
+#### get\_cpp\_type\_object
 
 ```python
 def get_cpp_type_object() -> Object
@@ -812,7 +812,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_cpp_type"></a>
 
-#### get_cpp_type
+#### get\_cpp\_type
 
 ```python
 def get_cpp_type() -> str
@@ -826,7 +826,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_category"></a>
 
-#### get_category
+#### get\_category
 
 ```python
 def get_category() -> str
@@ -841,7 +841,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_array_size"></a>
 
-#### get_array_size
+#### get\_array\_size
 
 ```python
 def get_array_size() -> int
@@ -855,7 +855,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_array_element_cpp_type"></a>
 
-#### get_array_element_cpp_type
+#### get\_array\_element\_cpp\_type
 
 ```python
 def get_array_element_cpp_type() -> str
@@ -869,7 +869,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_all_sub_pins_recursively"></a>
 
-#### get_all_sub_pins_recursively
+#### get\_all\_sub\_pins\_recursively
 
 ```python
 def get_all_sub_pins_recursively() -> Array[RigVMPin]
@@ -883,7 +883,7 @@ Returns:
 
 <a id="unreal.RigVMPin.get_absolute_pin_index"></a>
 
-#### get_absolute_pin_index
+#### get\_absolute\_pin\_index
 
 ```python
 def get_absolute_pin_index() -> int
@@ -897,7 +897,7 @@ Returns:
 
 <a id="unreal.RigVMPin.find_sub_pin"></a>
 
-#### find_sub_pin
+#### find\_sub\_pin
 
 ```python
 def find_sub_pin(pin_path: str) -> RigVMPin
@@ -914,7 +914,7 @@ Returns:
 
 <a id="unreal.RigVMPin.find_link_for_pin"></a>
 
-#### find_link_for_pin
+#### find\_link\_for\_pin
 
 ```python
 def find_link_for_pin(other_pin: RigVMPin) -> RigVMLink
@@ -933,7 +933,7 @@ Returns:
 
 <a id="unreal.RigVMPin.contains_wild_card_sub_pin"></a>
 
-#### contains_wild_card_sub_pin
+#### contains\_wild\_card\_sub\_pin
 
 ```python
 def contains_wild_card_sub_pin() -> bool
@@ -947,7 +947,7 @@ Returns:
 
 <a id="unreal.RigVMPin.can_provide_default_value"></a>
 
-#### can_provide_default_value
+#### can\_provide\_default\_value
 
 ```python
 def can_provide_default_value() -> bool

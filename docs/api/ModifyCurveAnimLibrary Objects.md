@@ -13,7 +13,7 @@ Exposes operations that can be run on a Modify Curve Node via Anim Node Function
 
 <a id="unreal.ModifyCurveAnimLibrary.set_curve_map"></a>
 
-#### set_curve_map
+#### set\_curve\_map
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Returns:
 
 <a id="unreal.ModifyCurveAnimLibrary.set_apply_mode"></a>
 
-#### set_apply_mode
+#### set\_apply\_mode
 
 ```python
 @classmethod
@@ -53,7 +53,7 @@ Returns:
 
 <a id="unreal.ModifyCurveAnimLibrary.set_alpha"></a>
 
-#### set_alpha
+#### set\_alpha
 
 ```python
 @classmethod
@@ -73,7 +73,7 @@ Returns:
 
 <a id="unreal.ModifyCurveAnimLibrary.get_apply_mode"></a>
 
-#### get_apply_mode
+#### get\_apply\_mode
 
 ```python
 @classmethod
@@ -93,7 +93,7 @@ Returns:
 
 <a id="unreal.ModifyCurveAnimLibrary.get_alpha"></a>
 
-#### get_alpha
+#### get\_alpha
 
 ```python
 @classmethod
@@ -111,7 +111,7 @@ Returns:
 
 <a id="unreal.ModifyCurveAnimLibrary.convert_to_modify_curve_node_pure"></a>
 
-#### convert_to_modify_curve_node_pure
+#### convert\_to\_modify\_curve\_node\_pure
 
 ```python
 @classmethod
@@ -135,7 +135,7 @@ Returns:
 
 <a id="unreal.ModifyCurveAnimLibrary.convert_to_modify_curve_node"></a>
 
-#### convert_to_modify_curve_node
+#### convert\_to\_modify\_curve\_node
 
 ```python
 @classmethod

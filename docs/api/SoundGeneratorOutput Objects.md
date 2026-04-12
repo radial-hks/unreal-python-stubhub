@@ -19,7 +19,7 @@ NOTE: This is not widely supported and should be considered experimental.
 
 <a id="unreal.SoundGeneratorOutput.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(name: Name = "None") -> None

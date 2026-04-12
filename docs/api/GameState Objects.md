@@ -150,7 +150,7 @@ It is tied to functionality in GameMode.
 
 <a id="unreal.GameState.match_state"></a>
 
-#### match_state
+#### match\_state
 
 ```python
 @property
@@ -161,7 +161,7 @@ def match_state() -> Name
 
 <a id="unreal.GameState.previous_match_state"></a>
 
-#### previous_match_state
+#### previous\_match\_state
 
 ```python
 @property
@@ -172,7 +172,7 @@ def previous_match_state() -> Name
 
 <a id="unreal.GameState.elapsed_time"></a>
 
-#### elapsed_time
+#### elapsed\_time
 
 ```python
 @property

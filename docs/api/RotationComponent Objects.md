@@ -13,37 +13,37 @@ A rotational component. This is used for retargeting, for example.
 
 <a id="unreal.RotationComponent.EULER_X"></a>
 
-#### EULER_X
+#### EULER\_X
 
 0: Using the X component of the Euler rotation
 
 <a id="unreal.RotationComponent.EULER_Y"></a>
 
-#### EULER_Y
+#### EULER\_Y
 
 1: Using the Y component of the Euler rotation
 
 <a id="unreal.RotationComponent.EULER_Z"></a>
 
-#### EULER_Z
+#### EULER\_Z
 
 2: Using the Z component of the Euler rotation
 
 <a id="unreal.RotationComponent.QUATERNION_ANGLE"></a>
 
-#### QUATERNION_ANGLE
+#### QUATERNION\_ANGLE
 
 3: Using the angle of the quaternion
 
 <a id="unreal.RotationComponent.SWING_ANGLE"></a>
 
-#### SWING_ANGLE
+#### SWING\_ANGLE
 
 4: Using the angle of the swing quaternion
 
 <a id="unreal.RotationComponent.TWIST_ANGLE"></a>
 
-#### TWIST_ANGLE
+#### TWIST\_ANGLE
 
 5: Using the angle of the twist quaternion
 

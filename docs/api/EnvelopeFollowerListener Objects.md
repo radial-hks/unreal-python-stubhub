@@ -31,7 +31,7 @@ Envelope Follower Listener
 
 <a id="unreal.EnvelopeFollowerListener.on_envelope_follower_update"></a>
 
-#### on_envelope_follower_update
+#### on\_envelope\_follower\_update
 
 ```python
 @property
@@ -42,7 +42,7 @@ def on_envelope_follower_update() -> OnEnvelopeFollowerUpdate
 
 <a id="unreal.EnvelopeFollowerListener.on_envelope_follower_update"></a>
 
-#### on_envelope_follower_update
+#### on\_envelope\_follower\_update
 
 ```python
 @on_envelope_follower_update.setter

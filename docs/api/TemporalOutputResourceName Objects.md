@@ -18,4 +18,4 @@ An enum to represent resource names used for temporal denoiser output mapping
 
 0
 
-<a id="unreal.DetectionTechnique"></a>
+<a id="unreal.AssetName"></a>

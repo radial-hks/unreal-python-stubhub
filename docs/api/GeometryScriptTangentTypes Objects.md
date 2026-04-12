@@ -14,13 +14,13 @@ EGeometry Script Tangent Types
 
 <a id="unreal.GeometryScriptTangentTypes.FAST_MIKK_T"></a>
 
-#### FAST_MIKK_T
+#### FAST\_MIKK\_T
 
 0
 
 <a id="unreal.GeometryScriptTangentTypes.PER_TRIANGLE"></a>
 
-#### PER_TRIANGLE
+#### PER\_TRIANGLE
 
 1
 

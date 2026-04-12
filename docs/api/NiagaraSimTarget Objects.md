@@ -14,13 +14,13 @@ ENiagara Sim Target
 
 <a id="unreal.NiagaraSimTarget.CPU_SIM"></a>
 
-#### CPU_SIM
+#### CPU\_SIM
 
 0
 
 <a id="unreal.NiagaraSimTarget.GPU_COMPUTE_SIM"></a>
 
-#### GPU_COMPUTE_SIM
+#### GPU\_COMPUTE\_SIM
 
 1
 

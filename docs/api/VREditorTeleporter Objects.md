@@ -141,7 +141,7 @@ VR Editor teleport manager and the visual representation of the teleport
 
 <a id="unreal.VREditorTeleporter.teleport_done"></a>
 
-#### teleport_done
+#### teleport\_done
 
 ```python
 def teleport_done() -> None
@@ -152,7 +152,7 @@ Called when teleport is done for cleanup
 
 <a id="unreal.VREditorTeleporter.stop_aiming"></a>
 
-#### stop_aiming
+#### stop\_aiming
 
 ```python
 def stop_aiming() -> None
@@ -163,7 +163,7 @@ Cancel teleport aiming mode without doing the teleport
 
 <a id="unreal.VREditorTeleporter.start_teleport"></a>
 
-#### start_teleport
+#### start\_teleport
 
 ```python
 def start_teleport() -> None
@@ -174,7 +174,7 @@ Start teleporting, does a ray trace with the hand passed and calculates the loca
 
 <a id="unreal.VREditorTeleporter.start_aiming"></a>
 
-#### start_aiming
+#### start\_aiming
 
 ```python
 def start_aiming(interactor: ViewportInteractor) -> None
@@ -199,7 +199,7 @@ Shuts down the teleporter
 
 <a id="unreal.VREditorTeleporter.set_visibility"></a>
 
-#### set_visibility
+#### set\_visibility
 
 ```python
 def set_visibility(visible: bool) -> None
@@ -213,7 +213,7 @@ Args:
 
 <a id="unreal.VREditorTeleporter.set_color"></a>
 
-#### set_color
+#### set\_color
 
 ```python
 def set_color(color: LinearColor) -> None
@@ -227,7 +227,7 @@ Args:
 
 <a id="unreal.VREditorTeleporter.is_teleporting"></a>
 
-#### is_teleporting
+#### is\_teleporting
 
 ```python
 def is_teleporting() -> bool
@@ -241,7 +241,7 @@ Returns:
 
 <a id="unreal.VREditorTeleporter.is_aiming"></a>
 
-#### is_aiming
+#### is\_aiming
 
 ```python
 def is_aiming() -> bool
@@ -269,7 +269,7 @@ Args:
 
 <a id="unreal.VREditorTeleporter.get_vr_mode"></a>
 
-#### get_vr_mode
+#### get\_vr\_mode
 
 ```python
 def get_vr_mode() -> VREditorMode
@@ -283,7 +283,7 @@ Returns:
 
 <a id="unreal.VREditorTeleporter.get_slide_delta"></a>
 
-#### get_slide_delta
+#### get\_slide\_delta
 
 ```python
 def get_slide_delta(interactor: VREditorInteractor, axis: bool) -> float
@@ -301,7 +301,7 @@ Returns:
 
 <a id="unreal.VREditorTeleporter.get_interactor_trying_teleport"></a>
 
-#### get_interactor_trying_teleport
+#### get\_interactor\_trying\_teleport
 
 ```python
 def get_interactor_trying_teleport() -> ViewportInteractor
@@ -316,7 +316,7 @@ Returns:
 
 <a id="unreal.VREditorTeleporter.do_teleport"></a>
 
-#### do_teleport
+#### do\_teleport
 
 ```python
 def do_teleport() -> None

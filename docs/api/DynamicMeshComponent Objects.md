@@ -226,7 +226,7 @@ See comment sections below for details.
 
 <a id="unreal.DynamicMeshComponent.tangents_type"></a>
 
-#### tangents_type
+#### tangents\_type
 
 ```python
 @property
@@ -237,7 +237,7 @@ def tangents_type() -> DynamicMeshComponentTangentsMode
 
 <a id="unreal.DynamicMeshComponent.tangents_type"></a>
 
-#### tangents_type
+#### tangents\_type
 
 ```python
 @tangents_type.setter
@@ -246,7 +246,7 @@ def tangents_type(value: DynamicMeshComponentTangentsMode) -> None
 
 <a id="unreal.DynamicMeshComponent.collision_type"></a>
 
-#### collision_type
+#### collision\_type
 
 ```python
 @property
@@ -257,7 +257,7 @@ def collision_type() -> CollisionTraceFlag
 
 <a id="unreal.DynamicMeshComponent.collision_type"></a>
 
-#### collision_type
+#### collision\_type
 
 ```python
 @collision_type.setter
@@ -266,7 +266,7 @@ def collision_type(value: CollisionTraceFlag) -> None
 
 <a id="unreal.DynamicMeshComponent.use_async_cooking"></a>
 
-#### use_async_cooking
+#### use\_async\_cooking
 
 ```python
 @property
@@ -278,7 +278,7 @@ This should be used when collision geometry doesn't have to be immediately up to
 
 <a id="unreal.DynamicMeshComponent.enable_complex_collision"></a>
 
-#### enable_complex_collision
+#### enable\_complex\_collision
 
 ```python
 @property
@@ -290,7 +290,7 @@ This is independent of the CollisionType setting, ie, even if Complex collision 
 
 <a id="unreal.DynamicMeshComponent.enable_complex_collision"></a>
 
-#### enable_complex_collision
+#### enable\_complex\_collision
 
 ```python
 @enable_complex_collision.setter
@@ -299,7 +299,7 @@ def enable_complex_collision(value: bool) -> None
 
 <a id="unreal.DynamicMeshComponent.defer_collision_updates"></a>
 
-#### defer_collision_updates
+#### defer\_collision\_updates
 
 ```python
 @property
@@ -310,7 +310,7 @@ def defer_collision_updates() -> bool
 
 <a id="unreal.DynamicMeshComponent.defer_collision_updates"></a>
 
-#### defer_collision_updates
+#### defer\_collision\_updates
 
 ```python
 @defer_collision_updates.setter
@@ -319,7 +319,7 @@ def defer_collision_updates(value: bool) -> None
 
 <a id="unreal.DynamicMeshComponent.validate_material_slots"></a>
 
-#### validate_material_slots
+#### validate\_material\_slots
 
 ```python
 def validate_material_slots(create_if_missing: bool = True,
@@ -339,7 +339,7 @@ Returns:
 
 <a id="unreal.DynamicMeshComponent.update_collision"></a>
 
-#### update_collision
+#### update\_collision
 
 ```python
 def update_collision(only_if_pending: bool = True) -> None
@@ -353,7 +353,7 @@ Args:
 
 <a id="unreal.DynamicMeshComponent.set_tangents_type"></a>
 
-#### set_tangents_type
+#### set\_tangents\_type
 
 ```python
 def set_tangents_type(
@@ -368,7 +368,7 @@ Args:
 
 <a id="unreal.DynamicMeshComponent.set_dynamic_mesh"></a>
 
-#### set_dynamic_mesh
+#### set\_dynamic\_mesh
 
 ```python
 def set_dynamic_mesh(new_mesh: DynamicMesh) -> None
@@ -384,7 +384,7 @@ Args:
 
 <a id="unreal.DynamicMeshComponent.set_deferred_collision_updates_enabled"></a>
 
-#### set_deferred_collision_updates_enabled
+#### set\_deferred\_collision\_updates\_enabled
 
 ```python
 def set_deferred_collision_updates_enabled(enabled: bool,
@@ -401,7 +401,7 @@ Args:
 
 <a id="unreal.DynamicMeshComponent.set_complex_as_simple_collision_enabled"></a>
 
-#### set_complex_as_simple_collision_enabled
+#### set\_complex\_as\_simple\_collision\_enabled
 
 ```python
 def set_complex_as_simple_collision_enabled(enabled: bool,
@@ -419,7 +419,7 @@ Args:
 
 <a id="unreal.DynamicMeshComponent.set_allows_geometry_selection"></a>
 
-#### set_allows_geometry_selection
+#### set\_allows\_geometry\_selection
 
 ```python
 def set_allows_geometry_selection(allows_geometry_selection: bool) -> None
@@ -433,7 +433,7 @@ Args:
 
 <a id="unreal.DynamicMeshComponent.notify_mesh_vertex_attributes_modified"></a>
 
-#### notify_mesh_vertex_attributes_modified
+#### notify\_mesh\_vertex\_attributes\_modified
 
 ```python
 def notify_mesh_vertex_attributes_modified(positions: bool = True,
@@ -455,7 +455,7 @@ Args:
 
 <a id="unreal.DynamicMeshComponent.notify_mesh_modified"></a>
 
-#### notify_mesh_modified
+#### notify\_mesh\_modified
 
 ```python
 def notify_mesh_modified() -> None
@@ -472,7 +472,7 @@ Notify Vertex Attributes Updated can be used to do a faster update.
 
 <a id="unreal.DynamicMeshComponent.get_tangents_type"></a>
 
-#### get_tangents_type
+#### get\_tangents\_type
 
 ```python
 def get_tangents_type() -> DynamicMeshComponentTangentsMode
@@ -486,7 +486,7 @@ Returns:
 
 <a id="unreal.DynamicMeshComponent.enable_complex_as_simple_collision"></a>
 
-#### enable_complex_as_simple_collision
+#### enable\_complex\_as\_simple\_collision
 
 ```python
 def enable_complex_as_simple_collision() -> None
@@ -497,7 +497,7 @@ calls SetComplexAsSimpleCollisionEnabled(true, true)
 
 <a id="unreal.DynamicMeshComponent.configure_material_set"></a>
 
-#### configure_material_set
+#### configure\_material\_set
 
 ```python
 def configure_material_set(new_material_set: Array[MaterialInterface],
@@ -515,7 +515,7 @@ Args:
 
 <a id="unreal.DynamicMeshComponent.allows_geometry_selection"></a>
 
-#### allows_geometry_selection
+#### allows\_geometry\_selection
 
 ```python
 def allows_geometry_selection() -> bool

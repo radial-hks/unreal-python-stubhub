@@ -13,7 +13,7 @@ Movie Scene Capture Environment
 
 <a id="unreal.MovieSceneCaptureEnvironment.is_capture_in_progress"></a>
 
-#### is_capture_in_progress
+#### is\_capture\_in\_progress
 
 ```python
 @classmethod
@@ -29,7 +29,7 @@ Returns:
 
 <a id="unreal.MovieSceneCaptureEnvironment.get_capture_frame_number"></a>
 
-#### get_capture_frame_number
+#### get\_capture\_frame\_number
 
 ```python
 @classmethod
@@ -44,7 +44,7 @@ Returns:
 
 <a id="unreal.MovieSceneCaptureEnvironment.get_capture_elapsed_time"></a>
 
-#### get_capture_elapsed_time
+#### get\_capture\_elapsed\_time
 
 ```python
 @classmethod
@@ -59,7 +59,7 @@ Returns:
 
 <a id="unreal.MovieSceneCaptureEnvironment.find_image_capture_protocol"></a>
 
-#### find_image_capture_protocol
+#### find\_image\_capture\_protocol
 
 ```python
 @classmethod
@@ -74,7 +74,7 @@ Returns:
 
 <a id="unreal.MovieSceneCaptureEnvironment.find_audio_capture_protocol"></a>
 
-#### find_audio_capture_protocol
+#### find\_audio\_capture\_protocol
 
 ```python
 @classmethod

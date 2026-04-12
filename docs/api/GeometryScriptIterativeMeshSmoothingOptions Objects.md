@@ -20,7 +20,7 @@ Geometry Script Iterative Mesh Smoothing Options
 
 <a id="unreal.GeometryScriptIterativeMeshSmoothingOptions.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -34,7 +34,7 @@ def __init__(
 
 <a id="unreal.GeometryScriptIterativeMeshSmoothingOptions.num_iterations"></a>
 
-#### num_iterations
+#### num\_iterations
 
 ```python
 @property
@@ -45,7 +45,7 @@ def num_iterations() -> int
 
 <a id="unreal.GeometryScriptIterativeMeshSmoothingOptions.num_iterations"></a>
 
-#### num_iterations
+#### num\_iterations
 
 ```python
 @num_iterations.setter
@@ -74,7 +74,7 @@ def alpha(value: float) -> None
 
 <a id="unreal.GeometryScriptIterativeMeshSmoothingOptions.empty_behavior"></a>
 
-#### empty_behavior
+#### empty\_behavior
 
 ```python
 @property
@@ -85,7 +85,7 @@ def empty_behavior() -> GeometryScriptEmptySelectionBehavior
 
 <a id="unreal.GeometryScriptIterativeMeshSmoothingOptions.empty_behavior"></a>
 
-#### empty_behavior
+#### empty\_behavior
 
 ```python
 @empty_behavior.setter

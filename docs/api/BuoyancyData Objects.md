@@ -47,7 +47,7 @@ Buoyancy Data
 
 <a id="unreal.BuoyancyData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(pontoons: Array[SphericalPontoon] = [],
@@ -67,7 +67,7 @@ def pontoons() -> Array[SphericalPontoon]
 
 <a id="unreal.BuoyancyData.center_pontoons_on_com"></a>
 
-#### center_pontoons_on_com
+#### center\_pontoons\_on\_com
 
 ```python
 @property

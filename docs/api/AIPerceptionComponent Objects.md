@@ -50,7 +50,7 @@ and gathers registered stimuli. UpdatePerception is called when component gets n
 
 <a id="unreal.AIPerceptionComponent.on_perception_updated"></a>
 
-#### on_perception_updated
+#### on\_perception\_updated
 
 ```python
 @property
@@ -61,7 +61,7 @@ def on_perception_updated() -> PerceptionUpdatedDelegate
 
 <a id="unreal.AIPerceptionComponent.on_perception_updated"></a>
 
-#### on_perception_updated
+#### on\_perception\_updated
 
 ```python
 @on_perception_updated.setter
@@ -70,7 +70,7 @@ def on_perception_updated(value: PerceptionUpdatedDelegate) -> None
 
 <a id="unreal.AIPerceptionComponent.on_target_perception_forgotten"></a>
 
-#### on_target_perception_forgotten
+#### on\_target\_perception\_forgotten
 
 ```python
 @property
@@ -83,7 +83,7 @@ functionality requires the the actor forgetting must be enabled via AIPerception
 
 <a id="unreal.AIPerceptionComponent.on_target_perception_forgotten"></a>
 
-#### on_target_perception_forgotten
+#### on\_target\_perception\_forgotten
 
 ```python
 @on_target_perception_forgotten.setter
@@ -93,7 +93,7 @@ def on_target_perception_forgotten(
 
 <a id="unreal.AIPerceptionComponent.on_target_perception_updated"></a>
 
-#### on_target_perception_updated
+#### on\_target\_perception\_updated
 
 ```python
 @property
@@ -110,7 +110,7 @@ Use OnTargetPerceptionInfoUpdated providing a source id to handle those cases.
 
 <a id="unreal.AIPerceptionComponent.on_target_perception_updated"></a>
 
-#### on_target_perception_updated
+#### on\_target\_perception\_updated
 
 ```python
 @on_target_perception_updated.setter
@@ -120,7 +120,7 @@ def on_target_perception_updated(
 
 <a id="unreal.AIPerceptionComponent.on_target_perception_info_updated"></a>
 
-#### on_target_perception_info_updated
+#### on\_target\_perception\_info\_updated
 
 ```python
 @property
@@ -136,7 +136,7 @@ by the time a stimulus gets processed so it is better to use source id for bookk
 
 <a id="unreal.AIPerceptionComponent.on_target_perception_info_updated"></a>
 
-#### on_target_perception_info_updated
+#### on\_target\_perception\_info\_updated
 
 ```python
 @on_target_perception_info_updated.setter
@@ -146,7 +146,7 @@ def on_target_perception_info_updated(
 
 <a id="unreal.AIPerceptionComponent.set_sense_enabled"></a>
 
-#### set_sense_enabled
+#### set\_sense\_enabled
 
 ```python
 def set_sense_enabled(sense_class: Class, enable: bool) -> None
@@ -162,7 +162,7 @@ Args:
 
 <a id="unreal.AIPerceptionComponent.request_stimuli_listener_update"></a>
 
-#### request_stimuli_listener_update
+#### request\_stimuli\_listener\_update
 
 ```python
 def request_stimuli_listener_update() -> None
@@ -173,7 +173,7 @@ Notifies AIPerceptionSystem to update properties for this "stimuli listener"
 
 <a id="unreal.AIPerceptionComponent.is_sense_enabled"></a>
 
-#### is_sense_enabled
+#### is\_sense\_enabled
 
 ```python
 def is_sense_enabled(sense_class: Class) -> bool
@@ -191,7 +191,7 @@ Returns:
 
 <a id="unreal.AIPerceptionComponent.get_perceived_hostile_actors_by_sense"></a>
 
-#### get_perceived_hostile_actors_by_sense
+#### get\_perceived\_hostile\_actors\_by\_sense
 
 ```python
 def get_perceived_hostile_actors_by_sense(sense_to_use: Class) -> Array[Actor]
@@ -210,7 +210,7 @@ Returns:
 
 <a id="unreal.AIPerceptionComponent.get_perceived_hostile_actors"></a>
 
-#### get_perceived_hostile_actors
+#### get\_perceived\_hostile\_actors
 
 ```python
 def get_perceived_hostile_actors() -> Array[Actor]
@@ -226,7 +226,7 @@ Returns:
 
 <a id="unreal.AIPerceptionComponent.get_known_perceived_actors"></a>
 
-#### get_known_perceived_actors
+#### get\_known\_perceived\_actors
 
 ```python
 def get_known_perceived_actors(sense_to_use: Class) -> Array[Actor]
@@ -245,7 +245,7 @@ Returns:
 
 <a id="unreal.AIPerceptionComponent.get_currently_perceived_actors"></a>
 
-#### get_currently_perceived_actors
+#### get\_currently\_perceived\_actors
 
 ```python
 def get_currently_perceived_actors(sense_to_use: Class) -> Array[Actor]
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.AIPerceptionComponent.get_actors_perception"></a>
 
-#### get_actors_perception
+#### get\_actors\_perception
 
 ```python
 def get_actors_perception(
@@ -284,7 +284,7 @@ Returns:
 
 <a id="unreal.AIPerceptionComponent.forget_all"></a>
 
-#### forget_all
+#### forget\_all
 
 ```python
 def forget_all() -> None

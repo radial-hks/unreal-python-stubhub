@@ -17,7 +17,7 @@ Property Edit Test Text Struct
 
 <a id="unreal.PropertyEditTestTextStruct.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

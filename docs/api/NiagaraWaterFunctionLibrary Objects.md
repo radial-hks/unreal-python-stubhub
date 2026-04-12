@@ -14,7 +14,7 @@ Niagara Water Function Library
 
 <a id="unreal.NiagaraWaterFunctionLibrary.set_water_body_component"></a>
 
-#### set_water_body_component
+#### set\_water\_body\_component
 
 ```python
 @classmethod
@@ -33,7 +33,7 @@ Args:
 
 <a id="unreal.NiagaraWaterFunctionLibrary.set_water_body"></a>
 
-#### set_water_body
+#### set\_water\_body
 
 ```python
 @classmethod

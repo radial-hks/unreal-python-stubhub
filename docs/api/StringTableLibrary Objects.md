@@ -13,7 +13,7 @@ Kismet String Table Library
 
 <a id="unreal.StringTableLibrary.is_registered_table_id"></a>
 
-#### is_registered_table_id
+#### is\_registered\_table\_id
 
 ```python
 @classmethod
@@ -31,7 +31,7 @@ Returns:
 
 <a id="unreal.StringTableLibrary.is_registered_table_entry"></a>
 
-#### is_registered_table_entry
+#### is\_registered\_table\_entry
 
 ```python
 @classmethod
@@ -50,7 +50,7 @@ Returns:
 
 <a id="unreal.StringTableLibrary.get_table_namespace"></a>
 
-#### get_table_namespace
+#### get\_table\_namespace
 
 ```python
 @classmethod
@@ -68,7 +68,7 @@ Returns:
 
 <a id="unreal.StringTableLibrary.get_table_entry_source_string"></a>
 
-#### get_table_entry_source_string
+#### get\_table\_entry\_source\_string
 
 ```python
 @classmethod
@@ -87,7 +87,7 @@ Returns:
 
 <a id="unreal.StringTableLibrary.get_table_entry_meta_data"></a>
 
-#### get_table_entry_meta_data
+#### get\_table\_entry\_meta\_data
 
 ```python
 @classmethod
@@ -108,7 +108,7 @@ Returns:
 
 <a id="unreal.StringTableLibrary.get_registered_string_tables"></a>
 
-#### get_registered_string_tables
+#### get\_registered\_string\_tables
 
 ```python
 @classmethod
@@ -123,7 +123,7 @@ Returns:
 
 <a id="unreal.StringTableLibrary.get_meta_data_ids_from_string_table_entry"></a>
 
-#### get_meta_data_ids_from_string_table_entry
+#### get\_meta\_data\_ids\_from\_string\_table\_entry
 
 ```python
 @classmethod
@@ -143,7 +143,7 @@ Returns:
 
 <a id="unreal.StringTableLibrary.get_keys_from_string_table"></a>
 
-#### get_keys_from_string_table
+#### get\_keys\_from\_string\_table
 
 ```python
 @classmethod

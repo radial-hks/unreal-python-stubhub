@@ -20,7 +20,7 @@ Niagara Data Interface Array Color
 
 <a id="unreal.NiagaraDataInterfaceArrayColor.color_data"></a>
 
-#### color_data
+#### color\_data
 
 ```python
 @property
@@ -31,7 +31,7 @@ def color_data() -> Array[LinearColor]
 
 <a id="unreal.NiagaraDataInterfaceArrayColor.color_data"></a>
 
-#### color_data
+#### color\_data
 
 ```python
 @color_data.setter

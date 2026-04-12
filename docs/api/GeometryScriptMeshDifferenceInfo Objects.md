@@ -22,7 +22,7 @@ Geometry Script Mesh Difference Info
 
 <a id="unreal.GeometryScriptMeshDifferenceInfo.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -78,7 +78,7 @@ def detail(value: str) -> None
 
 <a id="unreal.GeometryScriptMeshDifferenceInfo.target_mesh_element_id"></a>
 
-#### target_mesh_element_id
+#### target\_mesh\_element\_id
 
 ```python
 @property
@@ -89,7 +89,7 @@ def target_mesh_element_id() -> int
 
 <a id="unreal.GeometryScriptMeshDifferenceInfo.target_mesh_element_id"></a>
 
-#### target_mesh_element_id
+#### target\_mesh\_element\_id
 
 ```python
 @target_mesh_element_id.setter
@@ -98,7 +98,7 @@ def target_mesh_element_id(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshDifferenceInfo.other_mesh_element_id"></a>
 
-#### other_mesh_element_id
+#### other\_mesh\_element\_id
 
 ```python
 @property
@@ -109,7 +109,7 @@ def other_mesh_element_id() -> int
 
 <a id="unreal.GeometryScriptMeshDifferenceInfo.other_mesh_element_id"></a>
 
-#### other_mesh_element_id
+#### other\_mesh\_element\_id
 
 ```python
 @other_mesh_element_id.setter
@@ -118,7 +118,7 @@ def other_mesh_element_id(value: int) -> None
 
 <a id="unreal.GeometryScriptMeshDifferenceInfo.element_id_type"></a>
 
-#### element_id_type
+#### element\_id\_type
 
 ```python
 @property
@@ -129,7 +129,7 @@ def element_id_type() -> GeometryScriptIndexType
 
 <a id="unreal.GeometryScriptMeshDifferenceInfo.element_id_type"></a>
 
-#### element_id_type
+#### element\_id\_type
 
 ```python
 @element_id_type.setter

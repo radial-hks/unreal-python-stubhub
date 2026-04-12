@@ -20,7 +20,7 @@ Struct to hold reference to a StateTree asset along with values to parameterized
 
 <a id="unreal.StateTreeReference.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

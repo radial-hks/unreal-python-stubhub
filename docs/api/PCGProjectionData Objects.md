@@ -45,7 +45,7 @@ def target() -> PCGSpatialData
 
 <a id="unreal.PCGProjectionData.projection_params"></a>
 
-#### projection_params
+#### projection\_params
 
 ```python
 @property

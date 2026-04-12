@@ -41,7 +41,7 @@ PCGLoop Settings
 
 <a id="unreal.PCGLoopSettings.use_graph_default_pin_usage"></a>
 
-#### use_graph_default_pin_usage
+#### use\_graph\_default\_pin\_usage
 
 ```python
 @property
@@ -52,7 +52,7 @@ def use_graph_default_pin_usage() -> bool
 
 <a id="unreal.PCGLoopSettings.use_graph_default_pin_usage"></a>
 
-#### use_graph_default_pin_usage
+#### use\_graph\_default\_pin\_usage
 
 ```python
 @use_graph_default_pin_usage.setter
@@ -61,7 +61,7 @@ def use_graph_default_pin_usage(value: bool) -> None
 
 <a id="unreal.PCGLoopSettings.loop_pins"></a>
 
-#### loop_pins
+#### loop\_pins
 
 ```python
 @property
@@ -73,7 +73,7 @@ If none are provided, the first connected pin will taken as the pin to loop on.
 
 <a id="unreal.PCGLoopSettings.loop_pins"></a>
 
-#### loop_pins
+#### loop\_pins
 
 ```python
 @loop_pins.setter
@@ -82,7 +82,7 @@ def loop_pins(value: str) -> None
 
 <a id="unreal.PCGLoopSettings.feedback_pins"></a>
 
-#### feedback_pins
+#### feedback\_pins
 
 ```python
 @property
@@ -94,7 +94,7 @@ These pins can have initial data, in which case only the first iteration will ge
 
 <a id="unreal.PCGLoopSettings.feedback_pins"></a>
 
-#### feedback_pins
+#### feedback\_pins
 
 ```python
 @feedback_pins.setter

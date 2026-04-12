@@ -36,7 +36,7 @@ Rig VMBlueprint
 
 <a id="unreal.RigVMBlueprint.vm_compile_settings"></a>
 
-#### vm_compile_settings
+#### vm\_compile\_settings
 
 ```python
 @property
@@ -47,7 +47,7 @@ def vm_compile_settings() -> RigVMCompileSettings
 
 <a id="unreal.RigVMBlueprint.vm_compile_settings"></a>
 
-#### vm_compile_settings
+#### vm\_compile\_settings
 
 ```python
 @vm_compile_settings.setter
@@ -56,7 +56,7 @@ def vm_compile_settings(value: RigVMCompileSettings) -> None
 
 <a id="unreal.RigVMBlueprint.suspend_notifications"></a>
 
-#### suspend_notifications
+#### suspend\_notifications
 
 ```python
 def suspend_notifications(suspend_notifs: bool) -> None
@@ -70,7 +70,7 @@ Args:
 
 <a id="unreal.RigVMBlueprint.split_asset_variant"></a>
 
-#### split_asset_variant
+#### split\_asset\_variant
 
 ```python
 def split_asset_variant() -> bool
@@ -84,7 +84,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.set_auto_vm_recompile"></a>
 
-#### set_auto_vm_recompile
+#### set\_auto\_vm\_recompile
 
 ```python
 def set_auto_vm_recompile(auto_recompile: bool) -> None
@@ -98,7 +98,7 @@ Args:
 
 <a id="unreal.RigVMBlueprint.request_rig_vm_init"></a>
 
-#### request_rig_vm_init
+#### request\_rig\_vm\_init
 
 ```python
 def request_rig_vm_init() -> None
@@ -109,7 +109,7 @@ Request Rig VMInit
 
 <a id="unreal.RigVMBlueprint.request_auto_vm_recompilation"></a>
 
-#### request_auto_vm_recompilation
+#### request\_auto\_vm\_recompilation
 
 ```python
 def request_auto_vm_recompilation() -> None
@@ -120,7 +120,7 @@ Request Auto VMRecompilation
 
 <a id="unreal.RigVMBlueprint.rename_member_variable"></a>
 
-#### rename_member_variable
+#### rename\_member\_variable
 
 ```python
 def rename_member_variable(old_name: Name, new_name: Name) -> bool
@@ -138,7 +138,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.remove_model"></a>
 
-#### remove_model
+#### remove\_model
 
 ```python
 def remove_model(name: str = "Rig Graph",
@@ -159,7 +159,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.remove_member_variable"></a>
 
-#### remove_member_variable
+#### remove\_member\_variable
 
 ```python
 def remove_member_variable(name: Name) -> bool
@@ -176,7 +176,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.recompile_vm_if_required"></a>
 
-#### recompile_vm_if_required
+#### recompile\_vm\_if\_required
 
 ```python
 def recompile_vm_if_required() -> None
@@ -187,7 +187,7 @@ Recompile VMIf Required
 
 <a id="unreal.RigVMBlueprint.recompile_vm"></a>
 
-#### recompile_vm
+#### recompile\_vm
 
 ```python
 def recompile_vm() -> None
@@ -198,7 +198,7 @@ Recompile VM
 
 <a id="unreal.RigVMBlueprint.join_asset_variant"></a>
 
-#### join_asset_variant
+#### join\_asset\_variant
 
 ```python
 def join_asset_variant(guid: Guid) -> bool
@@ -215,7 +215,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_rig_vm_host_class"></a>
 
-#### get_rig_vm_host_class
+#### get\_rig\_vm\_host\_class
 
 ```python
 def get_rig_vm_host_class() -> Class
@@ -229,7 +229,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_or_create_local_function_library"></a>
 
-#### get_or_create_local_function_library
+#### get\_or\_create\_local\_function\_library
 
 ```python
 def get_or_create_local_function_library(
@@ -247,7 +247,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_or_create_controller"></a>
 
-#### get_or_create_controller
+#### get\_or\_create\_controller
 
 ```python
 def get_or_create_controller(graph: RigVMGraph = None) -> RigVMController
@@ -264,7 +264,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_model"></a>
 
-#### get_model
+#### get\_model
 
 ```python
 def get_model(ed_graph: EdGraph = None) -> RigVMGraph
@@ -281,7 +281,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_member_variables"></a>
 
-#### get_member_variables
+#### get\_member\_variables
 
 ```python
 def get_member_variables() -> Array[RigVMGraphVariableDescription]
@@ -295,7 +295,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_matching_variants"></a>
 
-#### get_matching_variants
+#### get\_matching\_variants
 
 ```python
 def get_matching_variants() -> Array[RigVMVariantRef]
@@ -309,7 +309,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_local_function_library"></a>
 
-#### get_local_function_library
+#### get\_local\_function\_library
 
 ```python
 def get_local_function_library() -> RigVMFunctionLibrary
@@ -323,7 +323,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_focused_model"></a>
 
-#### get_focused_model
+#### get\_focused\_model
 
 ```python
 def get_focused_model() -> RigVMGraph
@@ -337,7 +337,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_default_model"></a>
 
-#### get_default_model
+#### get\_default\_model
 
 ```python
 def get_default_model() -> RigVMGraph
@@ -351,7 +351,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_debugged_rig_vm_host"></a>
 
-#### get_debugged_rig_vm_host
+#### get\_debugged\_rig\_vm\_host
 
 ```python
 def get_debugged_rig_vm_host() -> RigVMHost
@@ -365,7 +365,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_controller_by_name"></a>
 
-#### get_controller_by_name
+#### get\_controller\_by\_name
 
 ```python
 def get_controller_by_name(graph_name: str = "") -> RigVMController
@@ -382,7 +382,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_controller"></a>
 
-#### get_controller
+#### get\_controller
 
 ```python
 def get_controller(graph: RigVMGraph = None) -> RigVMController
@@ -399,7 +399,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_available_rig_vm_structs"></a>
 
-#### get_available_rig_vm_structs
+#### get\_available\_rig\_vm\_structs
 
 ```python
 def get_available_rig_vm_structs() -> Array[Struct]
@@ -413,7 +413,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_auto_vm_recompile"></a>
 
-#### get_auto_vm_recompile
+#### get\_auto\_vm\_recompile
 
 ```python
 def get_auto_vm_recompile() -> bool
@@ -427,7 +427,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_asset_variant"></a>
 
-#### get_asset_variant
+#### get\_asset\_variant
 
 ```python
 def get_asset_variant() -> RigVMVariant
@@ -441,7 +441,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.get_all_models"></a>
 
-#### get_all_models
+#### get\_all\_models
 
 ```python
 def get_all_models() -> Array[RigVMGraph]
@@ -455,7 +455,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.generate_python_commands"></a>
 
-#### generate_python_commands
+#### generate\_python\_commands
 
 ```python
 def generate_python_commands(new_blueprint_name: str) -> Array[str]
@@ -472,7 +472,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.create_rig_vm_host"></a>
 
-#### create_rig_vm_host
+#### create\_rig\_vm\_host
 
 ```python
 def create_rig_vm_host() -> RigVMHost
@@ -486,7 +486,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.change_member_variable_type"></a>
 
-#### change_member_variable_type
+#### change\_member\_variable\_type
 
 ```python
 def change_member_variable_type(name: Name,
@@ -511,7 +511,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.add_model"></a>
 
-#### add_model
+#### add\_model
 
 ```python
 def add_model(name: str = "Rig Graph",
@@ -532,7 +532,7 @@ Returns:
 
 <a id="unreal.RigVMBlueprint.add_member_variable"></a>
 
-#### add_member_variable
+#### add\_member\_variable
 
 ```python
 def add_member_variable(name: Name,

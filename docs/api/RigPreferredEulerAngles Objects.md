@@ -20,7 +20,7 @@ Rig Preferred Euler Angles
 
 <a id="unreal.RigPreferredEulerAngles.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(rotation_order: EulerRotationOrder = EulerRotationOrder.XYZ,
@@ -30,7 +30,7 @@ def __init__(rotation_order: EulerRotationOrder = EulerRotationOrder.XYZ,
 
 <a id="unreal.RigPreferredEulerAngles.rotation_order"></a>
 
-#### rotation_order
+#### rotation\_order
 
 ```python
 @property

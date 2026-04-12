@@ -20,7 +20,7 @@ Niagara Platform Set
 
 <a id="unreal.NiagaraPlatformSet.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

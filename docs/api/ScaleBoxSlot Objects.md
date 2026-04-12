@@ -18,7 +18,7 @@ The Slot for the UScaleBoxSlot, contains the widget displayed in a button's sing
 
 <a id="unreal.ScaleBoxSlot.horizontal_alignment"></a>
 
-#### horizontal_alignment
+#### horizontal\_alignment
 
 ```python
 @property
@@ -29,7 +29,7 @@ def horizontal_alignment() -> HorizontalAlignment
 
 <a id="unreal.ScaleBoxSlot.vertical_alignment"></a>
 
-#### vertical_alignment
+#### vertical\_alignment
 
 ```python
 @property
@@ -40,7 +40,7 @@ def vertical_alignment() -> VerticalAlignment
 
 <a id="unreal.ScaleBoxSlot.set_vertical_alignment"></a>
 
-#### set_vertical_alignment
+#### set\_vertical\_alignment
 
 ```python
 def set_vertical_alignment(vertical_alignment: VerticalAlignment) -> None
@@ -54,7 +54,7 @@ Args:
 
 <a id="unreal.ScaleBoxSlot.set_padding"></a>
 
-#### set_padding
+#### set\_padding
 
 ```python
 def set_padding(padding: Margin) -> None
@@ -69,7 +69,7 @@ Args:
 
 <a id="unreal.ScaleBoxSlot.set_horizontal_alignment"></a>
 
-#### set_horizontal_alignment
+#### set\_horizontal\_alignment
 
 ```python
 def set_horizontal_alignment(

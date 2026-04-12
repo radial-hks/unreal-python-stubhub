@@ -21,7 +21,7 @@ Paste bindings params
 
 <a id="unreal.MovieScenePasteBindingsParams.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(bindings: Array[MovieSceneBindingProxy] = [],
@@ -53,7 +53,7 @@ def bindings(value: Array[MovieSceneBindingProxy]) -> None
 
 <a id="unreal.MovieScenePasteBindingsParams.parent_folder"></a>
 
-#### parent_folder
+#### parent\_folder
 
 ```python
 @property
@@ -64,7 +64,7 @@ def parent_folder() -> MovieSceneFolder
 
 <a id="unreal.MovieScenePasteBindingsParams.parent_folder"></a>
 
-#### parent_folder
+#### parent\_folder
 
 ```python
 @parent_folder.setter
@@ -93,7 +93,7 @@ def folders(value: Array[MovieSceneFolder]) -> None
 
 <a id="unreal.MovieScenePasteBindingsParams.duplicate_existing_actors"></a>
 
-#### duplicate_existing_actors
+#### duplicate\_existing\_actors
 
 ```python
 @property
@@ -104,7 +104,7 @@ def duplicate_existing_actors() -> bool
 
 <a id="unreal.MovieScenePasteBindingsParams.duplicate_existing_actors"></a>
 
-#### duplicate_existing_actors
+#### duplicate\_existing\_actors
 
 ```python
 @duplicate_existing_actors.setter
@@ -113,7 +113,7 @@ def duplicate_existing_actors(value: bool) -> None
 
 <a id="unreal.MovieScenePasteBindingsParams.pasted_actors"></a>
 
-#### pasted_actors
+#### pasted\_actors
 
 ```python
 @property
@@ -124,7 +124,7 @@ def pasted_actors() -> Map[Name, Actor]
 
 <a id="unreal.MovieScenePasteBindingsParams.pasted_actors"></a>
 
-#### pasted_actors
+#### pasted\_actors
 
 ```python
 @pasted_actors.setter

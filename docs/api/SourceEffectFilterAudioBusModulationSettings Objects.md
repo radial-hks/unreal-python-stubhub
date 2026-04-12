@@ -26,7 +26,7 @@ Source Effect Filter Audio Bus Modulation Settings
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(audio_bus: AudioBus = None,
@@ -41,7 +41,7 @@ def __init__(audio_bus: AudioBus = None,
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.audio_bus"></a>
 
-#### audio_bus
+#### audio\_bus
 
 ```python
 @property
@@ -52,7 +52,7 @@ def audio_bus() -> AudioBus
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.audio_bus"></a>
 
-#### audio_bus
+#### audio\_bus
 
 ```python
 @audio_bus.setter
@@ -61,7 +61,7 @@ def audio_bus(value: AudioBus) -> None
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.envelope_follower_attack_time_msec"></a>
 
-#### envelope_follower_attack_time_msec
+#### envelope\_follower\_attack\_time\_msec
 
 ```python
 @property
@@ -72,7 +72,7 @@ def envelope_follower_attack_time_msec() -> int
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.envelope_follower_attack_time_msec"></a>
 
-#### envelope_follower_attack_time_msec
+#### envelope\_follower\_attack\_time\_msec
 
 ```python
 @envelope_follower_attack_time_msec.setter
@@ -81,7 +81,7 @@ def envelope_follower_attack_time_msec(value: int) -> None
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.envelope_follower_release_time_msec"></a>
 
-#### envelope_follower_release_time_msec
+#### envelope\_follower\_release\_time\_msec
 
 ```python
 @property
@@ -92,7 +92,7 @@ def envelope_follower_release_time_msec() -> int
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.envelope_follower_release_time_msec"></a>
 
-#### envelope_follower_release_time_msec
+#### envelope\_follower\_release\_time\_msec
 
 ```python
 @envelope_follower_release_time_msec.setter
@@ -101,7 +101,7 @@ def envelope_follower_release_time_msec(value: int) -> None
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.envelope_gain_multiplier"></a>
 
-#### envelope_gain_multiplier
+#### envelope\_gain\_multiplier
 
 ```python
 @property
@@ -112,7 +112,7 @@ def envelope_gain_multiplier() -> float
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.envelope_gain_multiplier"></a>
 
-#### envelope_gain_multiplier
+#### envelope\_gain\_multiplier
 
 ```python
 @envelope_gain_multiplier.setter
@@ -121,7 +121,7 @@ def envelope_gain_multiplier(value: float) -> None
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.min_frequency_modulation"></a>
 
-#### min_frequency_modulation
+#### min\_frequency\_modulation
 
 ```python
 @property
@@ -132,7 +132,7 @@ def min_frequency_modulation() -> float
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.min_frequency_modulation"></a>
 
-#### min_frequency_modulation
+#### min\_frequency\_modulation
 
 ```python
 @min_frequency_modulation.setter
@@ -141,7 +141,7 @@ def min_frequency_modulation(value: float) -> None
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.max_frequency_modulation"></a>
 
-#### max_frequency_modulation
+#### max\_frequency\_modulation
 
 ```python
 @property
@@ -152,7 +152,7 @@ def max_frequency_modulation() -> float
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.max_frequency_modulation"></a>
 
-#### max_frequency_modulation
+#### max\_frequency\_modulation
 
 ```python
 @max_frequency_modulation.setter
@@ -161,7 +161,7 @@ def max_frequency_modulation(value: float) -> None
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.min_resonance_modulation"></a>
 
-#### min_resonance_modulation
+#### min\_resonance\_modulation
 
 ```python
 @property
@@ -172,7 +172,7 @@ def min_resonance_modulation() -> float
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.min_resonance_modulation"></a>
 
-#### min_resonance_modulation
+#### min\_resonance\_modulation
 
 ```python
 @min_resonance_modulation.setter
@@ -181,7 +181,7 @@ def min_resonance_modulation(value: float) -> None
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.max_resonance_modulation"></a>
 
-#### max_resonance_modulation
+#### max\_resonance\_modulation
 
 ```python
 @property
@@ -192,7 +192,7 @@ def max_resonance_modulation() -> float
 
 <a id="unreal.SourceEffectFilterAudioBusModulationSettings.max_resonance_modulation"></a>
 
-#### max_resonance_modulation
+#### max\_resonance\_modulation
 
 ```python
 @max_resonance_modulation.setter

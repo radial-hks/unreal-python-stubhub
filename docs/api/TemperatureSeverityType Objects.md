@@ -44,7 +44,7 @@ Note if you change this, then you must change the one in CoreDelegates
 
 <a id="unreal.TemperatureSeverityType.NUM_SEVERITIES"></a>
 
-#### NUM_SEVERITIES
+#### NUM\_SEVERITIES
 
 5
 

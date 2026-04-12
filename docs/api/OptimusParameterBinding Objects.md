@@ -22,7 +22,7 @@ Optimus Parameter Binding
 
 <a id="unreal.OptimusParameterBinding.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

@@ -18,7 +18,7 @@ A named color
 
 <a id="unreal.NamedColor.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: Color = [0, 0, 0, 0], name: Name = "None") -> None

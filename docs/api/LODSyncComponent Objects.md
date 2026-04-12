@@ -42,7 +42,7 @@ This allows to find the highest LOD of all the parts, and sync to that LOD
 
 <a id="unreal.LODSyncComponent.num_lo_ds"></a>
 
-#### num_lo_ds
+#### num\_lo\_ds
 
 ```python
 @property
@@ -54,7 +54,7 @@ if not, it is a number of LODs (not the max index of LODs)
 
 <a id="unreal.LODSyncComponent.num_lo_ds"></a>
 
-#### num_lo_ds
+#### num\_lo\_ds
 
 ```python
 @num_lo_ds.setter
@@ -63,7 +63,7 @@ def num_lo_ds(value: int) -> None
 
 <a id="unreal.LODSyncComponent.forced_lod"></a>
 
-#### forced_lod
+#### forced\_lod
 
 ```python
 @property
@@ -74,7 +74,7 @@ def forced_lod() -> int
 
 <a id="unreal.LODSyncComponent.forced_lod"></a>
 
-#### forced_lod
+#### forced\_lod
 
 ```python
 @forced_lod.setter
@@ -83,7 +83,7 @@ def forced_lod(value: int) -> None
 
 <a id="unreal.LODSyncComponent.min_lod"></a>
 
-#### min_lod
+#### min\_lod
 
 ```python
 @property
@@ -94,7 +94,7 @@ def min_lod() -> int
 
 <a id="unreal.LODSyncComponent.min_lod"></a>
 
-#### min_lod
+#### min\_lod
 
 ```python
 @min_lod.setter
@@ -103,7 +103,7 @@ def min_lod(value: int) -> None
 
 <a id="unreal.LODSyncComponent.components_to_sync"></a>
 
-#### components_to_sync
+#### components\_to\_sync
 
 ```python
 @property
@@ -116,7 +116,7 @@ visible component will set the LOD for all other components. If no components ar
 
 <a id="unreal.LODSyncComponent.components_to_sync"></a>
 
-#### components_to_sync
+#### components\_to\_sync
 
 ```python
 @components_to_sync.setter
@@ -125,7 +125,7 @@ def components_to_sync(value: Array[ComponentSync]) -> None
 
 <a id="unreal.LODSyncComponent.custom_lod_mapping"></a>
 
-#### custom_lod_mapping
+#### custom\_lod\_mapping
 
 ```python
 @property
@@ -137,7 +137,7 @@ but if you want custom, add here.
 
 <a id="unreal.LODSyncComponent.custom_lod_mapping"></a>
 
-#### custom_lod_mapping
+#### custom\_lod\_mapping
 
 ```python
 @custom_lod_mapping.setter
@@ -146,7 +146,7 @@ def custom_lod_mapping(value: Map[Name, LODMappingData]) -> None
 
 <a id="unreal.LODSyncComponent.get_lod_sync_debug_text"></a>
 
-#### get_lod_sync_debug_text
+#### get\_lod\_sync\_debug\_text
 
 ```python
 def get_lod_sync_debug_text() -> str

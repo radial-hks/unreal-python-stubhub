@@ -25,7 +25,7 @@ EAudio Output Target
 
 <a id="unreal.AudioOutputTarget.CONTROLLER_FALLBACK_TO_SPEAKER"></a>
 
-#### CONTROLLER_FALLBACK_TO_SPEAKER
+#### CONTROLLER\_FALLBACK\_TO\_SPEAKER
 
 2: Sound plays on the controller if present. If not present, it plays from speakers.
 

@@ -26,7 +26,7 @@ Represents the appearance of an Audio Slider
 
 <a id="unreal.AudioSliderStyle.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(
@@ -119,7 +119,7 @@ def __init__(
 
 <a id="unreal.AudioSliderStyle.slider_style"></a>
 
-#### slider_style
+#### slider\_style
 
 ```python
 @property
@@ -130,7 +130,7 @@ def slider_style() -> SliderStyle
 
 <a id="unreal.AudioSliderStyle.slider_style"></a>
 
-#### slider_style
+#### slider\_style
 
 ```python
 @slider_style.setter
@@ -139,7 +139,7 @@ def slider_style(value: SliderStyle) -> None
 
 <a id="unreal.AudioSliderStyle.text_box_style"></a>
 
-#### text_box_style
+#### text\_box\_style
 
 ```python
 @property
@@ -150,7 +150,7 @@ def text_box_style() -> AudioTextBoxStyle
 
 <a id="unreal.AudioSliderStyle.text_box_style"></a>
 
-#### text_box_style
+#### text\_box\_style
 
 ```python
 @text_box_style.setter
@@ -159,7 +159,7 @@ def text_box_style(value: AudioTextBoxStyle) -> None
 
 <a id="unreal.AudioSliderStyle.widget_background_image"></a>
 
-#### widget_background_image
+#### widget\_background\_image
 
 ```python
 @property
@@ -170,7 +170,7 @@ def widget_background_image() -> SlateBrush
 
 <a id="unreal.AudioSliderStyle.widget_background_image"></a>
 
-#### widget_background_image
+#### widget\_background\_image
 
 ```python
 @widget_background_image.setter
@@ -179,7 +179,7 @@ def widget_background_image(value: SlateBrush) -> None
 
 <a id="unreal.AudioSliderStyle.slider_background_color"></a>
 
-#### slider_background_color
+#### slider\_background\_color
 
 ```python
 @property
@@ -190,7 +190,7 @@ def slider_background_color() -> SlateColor
 
 <a id="unreal.AudioSliderStyle.slider_background_color"></a>
 
-#### slider_background_color
+#### slider\_background\_color
 
 ```python
 @slider_background_color.setter
@@ -199,7 +199,7 @@ def slider_background_color(value: SlateColor) -> None
 
 <a id="unreal.AudioSliderStyle.slider_background_size"></a>
 
-#### slider_background_size
+#### slider\_background\_size
 
 ```python
 @property
@@ -210,7 +210,7 @@ def slider_background_size() -> Vector2D
 
 <a id="unreal.AudioSliderStyle.slider_background_size"></a>
 
-#### slider_background_size
+#### slider\_background\_size
 
 ```python
 @slider_background_size.setter
@@ -219,7 +219,7 @@ def slider_background_size(value: Vector2D) -> None
 
 <a id="unreal.AudioSliderStyle.label_padding"></a>
 
-#### label_padding
+#### label\_padding
 
 ```python
 @property
@@ -230,7 +230,7 @@ def label_padding() -> float
 
 <a id="unreal.AudioSliderStyle.label_padding"></a>
 
-#### label_padding
+#### label\_padding
 
 ```python
 @label_padding.setter
@@ -239,7 +239,7 @@ def label_padding(value: float) -> None
 
 <a id="unreal.AudioSliderStyle.slider_bar_color"></a>
 
-#### slider_bar_color
+#### slider\_bar\_color
 
 ```python
 @property
@@ -250,7 +250,7 @@ def slider_bar_color() -> SlateColor
 
 <a id="unreal.AudioSliderStyle.slider_bar_color"></a>
 
-#### slider_bar_color
+#### slider\_bar\_color
 
 ```python
 @slider_bar_color.setter
@@ -259,7 +259,7 @@ def slider_bar_color(value: SlateColor) -> None
 
 <a id="unreal.AudioSliderStyle.slider_thumb_color"></a>
 
-#### slider_thumb_color
+#### slider\_thumb\_color
 
 ```python
 @property
@@ -270,7 +270,7 @@ def slider_thumb_color() -> SlateColor
 
 <a id="unreal.AudioSliderStyle.slider_thumb_color"></a>
 
-#### slider_thumb_color
+#### slider\_thumb\_color
 
 ```python
 @slider_thumb_color.setter
@@ -279,7 +279,7 @@ def slider_thumb_color(value: SlateColor) -> None
 
 <a id="unreal.AudioSliderStyle.widget_background_color"></a>
 
-#### widget_background_color
+#### widget\_background\_color
 
 ```python
 @property
@@ -290,7 +290,7 @@ def widget_background_color() -> SlateColor
 
 <a id="unreal.AudioSliderStyle.widget_background_color"></a>
 
-#### widget_background_color
+#### widget\_background\_color
 
 ```python
 @widget_background_color.setter

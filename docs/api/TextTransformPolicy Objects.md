@@ -19,13 +19,13 @@ Text transformation policy that can be applied to the text before displaying it.
 
 <a id="unreal.TextTransformPolicy.TO_LOWER"></a>
 
-#### TO_LOWER
+#### TO\_LOWER
 
 1: Convert the text to lowercase for display
 
 <a id="unreal.TextTransformPolicy.TO_UPPER"></a>
 
-#### TO_UPPER
+#### TO\_UPPER
 
 2: Convert the text to uppercase for display
 

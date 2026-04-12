@@ -19,19 +19,19 @@ EMaterial Layer Link State
 
 <a id="unreal.MaterialLayerLinkState.LINKED_TO_PARENT"></a>
 
-#### LINKED_TO_PARENT
+#### LINKED\_TO\_PARENT
 
 1: Saved with previous engine version
 
 <a id="unreal.MaterialLayerLinkState.UNLINKED_FROM_PARENT"></a>
 
-#### UNLINKED_FROM_PARENT
+#### UNLINKED\_FROM\_PARENT
 
 2: Layer should mirror changes from parent material
 
 <a id="unreal.MaterialLayerLinkState.NOT_FROM_PARENT"></a>
 
-#### NOT_FROM_PARENT
+#### NOT\_FROM\_PARENT
 
 3: Layer is based on parent material, but should not mirror changes
 

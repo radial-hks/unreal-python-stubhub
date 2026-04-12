@@ -32,4 +32,4 @@ such as selective mipmap loading.
   When false the replication system will instead call the virtual ReplicateSubObjects() function where the subobjects need to be manually replicated.
 - ``replicates`` (bool):  [Read-Write] Is this component currently replicating? Should the network code consider it for replication? Owning Actor must be replicating first!
 
-<a id="unreal.ActorSequence"></a>
+<a id="unreal.AudioCurveSourceComponent"></a>

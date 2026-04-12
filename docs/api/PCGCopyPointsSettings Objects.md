@@ -40,7 +40,7 @@ PCGCopy Points Settings
 
 <a id="unreal.PCGCopyPointsSettings.rotation_inheritance"></a>
 
-#### rotation_inheritance
+#### rotation\_inheritance
 
 ```python
 @property
@@ -51,7 +51,7 @@ def rotation_inheritance() -> PCGCopyPointsInheritanceMode
 
 <a id="unreal.PCGCopyPointsSettings.rotation_inheritance"></a>
 
-#### rotation_inheritance
+#### rotation\_inheritance
 
 ```python
 @rotation_inheritance.setter
@@ -60,7 +60,7 @@ def rotation_inheritance(value: PCGCopyPointsInheritanceMode) -> None
 
 <a id="unreal.PCGCopyPointsSettings.scale_inheritance"></a>
 
-#### scale_inheritance
+#### scale\_inheritance
 
 ```python
 @property
@@ -71,7 +71,7 @@ def scale_inheritance() -> PCGCopyPointsInheritanceMode
 
 <a id="unreal.PCGCopyPointsSettings.scale_inheritance"></a>
 
-#### scale_inheritance
+#### scale\_inheritance
 
 ```python
 @scale_inheritance.setter
@@ -80,7 +80,7 @@ def scale_inheritance(value: PCGCopyPointsInheritanceMode) -> None
 
 <a id="unreal.PCGCopyPointsSettings.color_inheritance"></a>
 
-#### color_inheritance
+#### color\_inheritance
 
 ```python
 @property
@@ -91,7 +91,7 @@ def color_inheritance() -> PCGCopyPointsInheritanceMode
 
 <a id="unreal.PCGCopyPointsSettings.color_inheritance"></a>
 
-#### color_inheritance
+#### color\_inheritance
 
 ```python
 @color_inheritance.setter
@@ -100,7 +100,7 @@ def color_inheritance(value: PCGCopyPointsInheritanceMode) -> None
 
 <a id="unreal.PCGCopyPointsSettings.seed_inheritance"></a>
 
-#### seed_inheritance
+#### seed\_inheritance
 
 ```python
 @property
@@ -111,7 +111,7 @@ def seed_inheritance() -> PCGCopyPointsInheritanceMode
 
 <a id="unreal.PCGCopyPointsSettings.seed_inheritance"></a>
 
-#### seed_inheritance
+#### seed\_inheritance
 
 ```python
 @seed_inheritance.setter
@@ -120,7 +120,7 @@ def seed_inheritance(value: PCGCopyPointsInheritanceMode) -> None
 
 <a id="unreal.PCGCopyPointsSettings.attribute_inheritance"></a>
 
-#### attribute_inheritance
+#### attribute\_inheritance
 
 ```python
 @property
@@ -131,7 +131,7 @@ def attribute_inheritance() -> PCGCopyPointsMetadataInheritanceMode
 
 <a id="unreal.PCGCopyPointsSettings.attribute_inheritance"></a>
 
-#### attribute_inheritance
+#### attribute\_inheritance
 
 ```python
 @attribute_inheritance.setter
@@ -140,7 +140,7 @@ def attribute_inheritance(value: PCGCopyPointsMetadataInheritanceMode) -> None
 
 <a id="unreal.PCGCopyPointsSettings.tag_inheritance"></a>
 
-#### tag_inheritance
+#### tag\_inheritance
 
 ```python
 @property
@@ -151,7 +151,7 @@ def tag_inheritance() -> PCGCopyPointsTagInheritanceMode
 
 <a id="unreal.PCGCopyPointsSettings.tag_inheritance"></a>
 
-#### tag_inheritance
+#### tag\_inheritance
 
 ```python
 @tag_inheritance.setter
@@ -160,7 +160,7 @@ def tag_inheritance(value: PCGCopyPointsTagInheritanceMode) -> None
 
 <a id="unreal.PCGCopyPointsSettings.copy_each_source_on_every_target"></a>
 
-#### copy_each_source_on_every_target
+#### copy\_each\_source\_on\_every\_target
 
 ```python
 @property
@@ -171,7 +171,7 @@ def copy_each_source_on_every_target() -> bool
 
 <a id="unreal.PCGCopyPointsSettings.copy_each_source_on_every_target"></a>
 
-#### copy_each_source_on_every_target
+#### copy\_each\_source\_on\_every\_target
 
 ```python
 @copy_each_source_on_every_target.setter

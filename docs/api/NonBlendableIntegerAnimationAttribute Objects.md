@@ -17,7 +17,7 @@ Non Blendable Integer Animation Attribute
 
 <a id="unreal.NonBlendableIntegerAnimationAttribute.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: int = 0) -> None

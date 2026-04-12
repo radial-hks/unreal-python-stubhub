@@ -13,7 +13,7 @@ Abstract base class for movie scene animations (C++ version).
 
 <a id="unreal.MovieSceneSequence.get_earliest_timecode_source"></a>
 
-#### get_earliest_timecode_source
+#### get\_earliest\_timecode\_source
 
 ```python
 def get_earliest_timecode_source() -> MovieSceneTimecodeSource
@@ -27,7 +27,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_bindings_by_tag"></a>
 
-#### find_bindings_by_tag
+#### find\_bindings\_by\_tag
 
 ```python
 def find_bindings_by_tag(
@@ -45,7 +45,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_binding_by_tag"></a>
 
-#### find_binding_by_tag
+#### find\_binding\_by\_tag
 
 ```python
 def find_binding_by_tag(binding_name: Name) -> MovieSceneObjectBindingID
@@ -62,7 +62,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.sort_marked_frames"></a>
 
-#### sort_marked_frames
+#### sort\_marked\_frames
 
 ```python
 def sort_marked_frames() -> None
@@ -73,7 +73,7 @@ x.sort_marked_frames() -> None
 
 <a id="unreal.MovieSceneSequence.set_work_range_start"></a>
 
-#### set_work_range_start
+#### set\_work\_range\_start
 
 ```python
 def set_work_range_start(start_time_in_seconds: float) -> None
@@ -87,7 +87,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_work_range_end"></a>
 
-#### set_work_range_end
+#### set\_work\_range\_end
 
 ```python
 def set_work_range_end(end_time_in_seconds: float) -> None
@@ -101,7 +101,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_view_range_start"></a>
 
-#### set_view_range_start
+#### set\_view\_range\_start
 
 ```python
 def set_view_range_start(start_time_in_seconds: float) -> None
@@ -115,7 +115,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_view_range_end"></a>
 
-#### set_view_range_end
+#### set\_view\_range\_end
 
 ```python
 def set_view_range_end(end_time_in_seconds: float) -> None
@@ -129,7 +129,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_tick_resolution_directly"></a>
 
-#### set_tick_resolution_directly
+#### set\_tick\_resolution\_directly
 
 ```python
 def set_tick_resolution_directly(tick_resolution: FrameRate) -> None
@@ -143,7 +143,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_tick_resolution"></a>
 
-#### set_tick_resolution
+#### set\_tick\_resolution
 
 ```python
 def set_tick_resolution(tick_resolution: FrameRate) -> None
@@ -157,7 +157,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_read_only"></a>
 
-#### set_read_only
+#### set\_read\_only
 
 ```python
 def set_read_only(read_only: bool) -> None
@@ -174,7 +174,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_playback_start_seconds"></a>
 
-#### set_playback_start_seconds
+#### set\_playback\_start\_seconds
 
 ```python
 def set_playback_start_seconds(start_time: float) -> None
@@ -188,7 +188,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_playback_start"></a>
 
-#### set_playback_start
+#### set\_playback\_start
 
 ```python
 def set_playback_start(start_frame: int) -> None
@@ -202,7 +202,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_playback_range_locked"></a>
 
-#### set_playback_range_locked
+#### set\_playback\_range\_locked
 
 ```python
 def set_playback_range_locked(locked: bool) -> None
@@ -219,7 +219,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_playback_end_seconds"></a>
 
-#### set_playback_end_seconds
+#### set\_playback\_end\_seconds
 
 ```python
 def set_playback_end_seconds(end_time: float) -> None
@@ -233,7 +233,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_playback_end"></a>
 
-#### set_playback_end
+#### set\_playback\_end
 
 ```python
 def set_playback_end(end_frame: int) -> None
@@ -247,7 +247,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_marked_frames_locked"></a>
 
-#### set_marked_frames_locked
+#### set\_marked\_frames\_locked
 
 ```python
 def set_marked_frames_locked(locked: bool) -> None
@@ -264,7 +264,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_marked_frame_in_sequence"></a>
 
-#### set_marked_frame_in_sequence
+#### set\_marked\_frame\_in\_sequence
 
 ```python
 def set_marked_frame_in_sequence(
@@ -288,7 +288,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_marked_frame"></a>
 
-#### set_marked_frame
+#### set\_marked\_frame
 
 ```python
 def set_marked_frame(mark_index: int, frame_number: FrameNumber) -> None
@@ -304,7 +304,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_evaluation_type"></a>
 
-#### set_evaluation_type
+#### set\_evaluation\_type
 
 ```python
 def set_evaluation_type(evaluation_type: MovieSceneEvaluationType) -> None
@@ -318,7 +318,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_display_rate"></a>
 
-#### set_display_rate
+#### set\_display\_rate
 
 ```python
 def set_display_rate(display_rate: FrameRate) -> None
@@ -332,7 +332,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.set_clock_source"></a>
 
-#### set_clock_source
+#### set\_clock\_source
 
 ```python
 def set_clock_source(clock_source: UpdateClockSource) -> None
@@ -346,7 +346,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.resolve_binding_id"></a>
 
-#### resolve_binding_id
+#### resolve\_binding\_id
 
 ```python
 def resolve_binding_id(
@@ -365,7 +365,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.remove_track"></a>
 
-#### remove_track
+#### remove\_track
 
 ```python
 def remove_track(track: MovieSceneTrack) -> bool
@@ -382,7 +382,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.remove_root_folder_from_sequence"></a>
 
-#### remove_root_folder_from_sequence
+#### remove\_root\_folder\_from\_sequence
 
 ```python
 def remove_root_folder_from_sequence(folder: MovieSceneFolder) -> None
@@ -396,7 +396,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.make_range_seconds"></a>
 
-#### make_range_seconds
+#### make\_range\_seconds
 
 ```python
 def make_range_seconds(start_time: float,
@@ -415,7 +415,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.make_range"></a>
 
-#### make_range
+#### make\_range
 
 ```python
 def make_range(start_frame: int, duration: int) -> SequencerScriptingRange
@@ -433,7 +433,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.locate_bound_objects"></a>
 
-#### locate_bound_objects
+#### locate\_bound\_objects
 
 ```python
 def locate_bound_objects(binding: MovieSceneBindingProxy,
@@ -452,7 +452,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.is_read_only"></a>
 
-#### is_read_only
+#### is\_read\_only
 
 ```python
 def is_read_only() -> bool
@@ -468,7 +468,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.is_playback_range_locked"></a>
 
-#### is_playback_range_locked
+#### is\_playback\_range\_locked
 
 ```python
 def is_playback_range_locked() -> bool
@@ -484,7 +484,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_work_range_start"></a>
 
-#### get_work_range_start
+#### get\_work\_range\_start
 
 ```python
 def get_work_range_start() -> float
@@ -498,7 +498,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_work_range_end"></a>
 
-#### get_work_range_end
+#### get\_work\_range\_end
 
 ```python
 def get_work_range_end() -> float
@@ -512,7 +512,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_view_range_start"></a>
 
-#### get_view_range_start
+#### get\_view\_range\_start
 
 ```python
 def get_view_range_start() -> float
@@ -526,7 +526,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_view_range_end"></a>
 
-#### get_view_range_end
+#### get\_view\_range\_end
 
 ```python
 def get_view_range_end() -> float
@@ -540,7 +540,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_tracks"></a>
 
-#### get_tracks
+#### get\_tracks
 
 ```python
 def get_tracks() -> Array[MovieSceneTrack]
@@ -554,7 +554,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_tick_resolution"></a>
 
-#### get_tick_resolution
+#### get\_tick\_resolution
 
 ```python
 def get_tick_resolution() -> FrameRate
@@ -568,7 +568,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_spawnables"></a>
 
-#### get_spawnables
+#### get\_spawnables
 
 ```python
 def get_spawnables() -> Array[MovieSceneBindingProxy]
@@ -582,7 +582,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_root_folders_in_sequence"></a>
 
-#### get_root_folders_in_sequence
+#### get\_root\_folders\_in\_sequence
 
 ```python
 def get_root_folders_in_sequence() -> Array[MovieSceneFolder]
@@ -596,7 +596,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_possessables"></a>
 
-#### get_possessables
+#### get\_possessables
 
 ```python
 def get_possessables() -> Array[MovieSceneBindingProxy]
@@ -610,7 +610,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_portable_binding_id"></a>
 
-#### get_portable_binding_id
+#### get\_portable\_binding\_id
 
 ```python
 def get_portable_binding_id(
@@ -632,7 +632,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_playback_start_seconds"></a>
 
-#### get_playback_start_seconds
+#### get\_playback\_start\_seconds
 
 ```python
 def get_playback_start_seconds() -> float
@@ -646,7 +646,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_playback_start"></a>
 
-#### get_playback_start
+#### get\_playback\_start
 
 ```python
 def get_playback_start() -> int
@@ -660,7 +660,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_playback_range"></a>
 
-#### get_playback_range
+#### get\_playback\_range
 
 ```python
 def get_playback_range() -> SequencerScriptingRange
@@ -674,7 +674,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_playback_end_seconds"></a>
 
-#### get_playback_end_seconds
+#### get\_playback\_end\_seconds
 
 ```python
 def get_playback_end_seconds() -> float
@@ -688,7 +688,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_playback_end"></a>
 
-#### get_playback_end
+#### get\_playback\_end
 
 ```python
 def get_playback_end() -> int
@@ -702,7 +702,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_movie_scene"></a>
 
-#### get_movie_scene
+#### get\_movie\_scene
 
 ```python
 def get_movie_scene() -> MovieScene
@@ -716,7 +716,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_marked_frames_from_sequence"></a>
 
-#### get_marked_frames_from_sequence
+#### get\_marked\_frames\_from\_sequence
 
 ```python
 def get_marked_frames_from_sequence(
@@ -737,7 +737,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_marked_frames"></a>
 
-#### get_marked_frames
+#### get\_marked\_frames
 
 ```python
 def get_marked_frames() -> Array[MovieSceneMarkedFrame]
@@ -752,7 +752,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_evaluation_type"></a>
 
-#### get_evaluation_type
+#### get\_evaluation\_type
 
 ```python
 def get_evaluation_type() -> MovieSceneEvaluationType
@@ -766,7 +766,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_display_rate"></a>
 
-#### get_display_rate
+#### get\_display\_rate
 
 ```python
 def get_display_rate() -> FrameRate
@@ -780,7 +780,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_clock_source"></a>
 
-#### get_clock_source
+#### get\_clock\_source
 
 ```python
 def get_clock_source() -> UpdateClockSource
@@ -794,7 +794,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_bindings"></a>
 
-#### get_bindings
+#### get\_bindings
 
 ```python
 def get_bindings() -> Array[MovieSceneBindingProxy]
@@ -808,7 +808,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.get_binding_id"></a>
 
-#### get_binding_id
+#### get\_binding\_id
 
 ```python
 def get_binding_id(
@@ -827,7 +827,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_tracks_by_type"></a>
 
-#### find_tracks_by_type
+#### find\_tracks\_by\_type
 
 ```python
 def find_tracks_by_type(track_type: Class) -> Array[MovieSceneTrack]
@@ -844,7 +844,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_tracks_by_exact_type"></a>
 
-#### find_tracks_by_exact_type
+#### find\_tracks\_by\_exact\_type
 
 ```python
 def find_tracks_by_exact_type(track_type: Class) -> Array[MovieSceneTrack]
@@ -861,7 +861,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_next_marked_frame_in_sequence"></a>
 
-#### find_next_marked_frame_in_sequence
+#### find\_next\_marked\_frame\_in\_sequence
 
 ```python
 def find_next_marked_frame_in_sequence(
@@ -888,7 +888,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_next_marked_frame"></a>
 
-#### find_next_marked_frame
+#### find\_next\_marked\_frame
 
 ```python
 def find_next_marked_frame(frame_number: FrameNumber, forward: bool) -> int
@@ -907,7 +907,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_marked_frame_by_label"></a>
 
-#### find_marked_frame_by_label
+#### find\_marked\_frame\_by\_label
 
 ```python
 def find_marked_frame_by_label(label: str) -> int
@@ -927,7 +927,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_marked_frame_by_frame_number_in_sequence"></a>
 
-#### find_marked_frame_by_frame_number_in_sequence
+#### find\_marked\_frame\_by\_frame\_number\_in\_sequence
 
 ```python
 def find_marked_frame_by_frame_number_in_sequence(
@@ -951,7 +951,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_marked_frame_by_frame_number"></a>
 
-#### find_marked_frame_by_frame_number
+#### find\_marked\_frame\_by\_frame\_number
 
 ```python
 def find_marked_frame_by_frame_number(frame_number: FrameNumber) -> int
@@ -969,7 +969,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_binding_by_name"></a>
 
-#### find_binding_by_name
+#### find\_binding\_by\_name
 
 ```python
 def find_binding_by_name(name: str) -> MovieSceneBindingProxy
@@ -986,7 +986,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.find_binding_by_id"></a>
 
-#### find_binding_by_id
+#### find\_binding\_by\_id
 
 ```python
 def find_binding_by_id(binding_id: Guid) -> MovieSceneBindingProxy
@@ -1003,7 +1003,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.delete_marked_frames"></a>
 
-#### delete_marked_frames
+#### delete\_marked\_frames
 
 ```python
 def delete_marked_frames() -> None
@@ -1014,7 +1014,7 @@ x.delete_marked_frames() -> None
 
 <a id="unreal.MovieSceneSequence.delete_marked_frame"></a>
 
-#### delete_marked_frame
+#### delete\_marked\_frame
 
 ```python
 def delete_marked_frame(delete_index: int) -> None
@@ -1031,7 +1031,7 @@ Args:
 
 <a id="unreal.MovieSceneSequence.are_marked_frames_locked"></a>
 
-#### are_marked_frames_locked
+#### are\_marked\_frames\_locked
 
 ```python
 def are_marked_frames_locked() -> bool
@@ -1047,7 +1047,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.add_track"></a>
 
-#### add_track
+#### add\_track
 
 ```python
 def add_track(track_type: Class) -> MovieSceneTrack
@@ -1064,7 +1064,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.add_spawnable_from_instance"></a>
 
-#### add_spawnable_from_instance
+#### add\_spawnable\_from\_instance
 
 ```python
 def add_spawnable_from_instance(
@@ -1083,7 +1083,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.add_spawnable_from_class"></a>
 
-#### add_spawnable_from_class
+#### add\_spawnable\_from\_class
 
 ```python
 def add_spawnable_from_class(class_to_spawn: Class) -> MovieSceneBindingProxy
@@ -1101,7 +1101,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.add_root_folder_to_sequence"></a>
 
-#### add_root_folder_to_sequence
+#### add\_root\_folder\_to\_sequence
 
 ```python
 def add_root_folder_to_sequence(new_folder_name: str) -> MovieSceneFolder
@@ -1118,7 +1118,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.add_possessable"></a>
 
-#### add_possessable
+#### add\_possessable
 
 ```python
 def add_possessable(object_to_possess: Object) -> MovieSceneBindingProxy
@@ -1135,7 +1135,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.add_marked_frame_to_sequence"></a>
 
-#### add_marked_frame_to_sequence
+#### add\_marked\_frame\_to\_sequence
 
 ```python
 def add_marked_frame_to_sequence(
@@ -1160,7 +1160,7 @@ Returns:
 
 <a id="unreal.MovieSceneSequence.add_marked_frame"></a>
 
-#### add_marked_frame
+#### add\_marked\_frame
 
 ```python
 def add_marked_frame(marked_frame: MovieSceneMarkedFrame) -> int

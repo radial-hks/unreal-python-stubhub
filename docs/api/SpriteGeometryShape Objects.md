@@ -24,7 +24,7 @@ A single piece of geometry (e.g., a polygon which may be convex or concave, a bo
 
 <a id="unreal.SpriteGeometryShape.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None

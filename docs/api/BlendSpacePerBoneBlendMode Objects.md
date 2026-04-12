@@ -13,13 +13,13 @@ EBlend Space Per Bone Blend Mode
 
 <a id="unreal.BlendSpacePerBoneBlendMode.MANUAL_PER_BONE_OVERRIDE"></a>
 
-#### MANUAL_PER_BONE_OVERRIDE
+#### MANUAL\_PER\_BONE\_OVERRIDE
 
 0: Manually specify the bones and their smoothing interpolation times.
 
 <a id="unreal.BlendSpacePerBoneBlendMode.BLEND_PROFILE"></a>
 
-#### BLEND_PROFILE
+#### BLEND\_PROFILE
 
 1: Use a blend profile to specify the bone smoothing interpolation times.
 

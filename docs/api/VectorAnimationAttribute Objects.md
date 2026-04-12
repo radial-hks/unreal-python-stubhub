@@ -17,7 +17,7 @@ Vector Animation Attribute
 
 <a id="unreal.VectorAnimationAttribute.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(value: Vector = [0.000000, 0.000000, 0.000000]) -> None

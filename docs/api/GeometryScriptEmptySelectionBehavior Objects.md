@@ -14,13 +14,13 @@ Behavior of operations when a MeshSelection is empty
 
 <a id="unreal.GeometryScriptEmptySelectionBehavior.FULL_MESH_SELECTION"></a>
 
-#### FULL_MESH_SELECTION
+#### FULL\_MESH\_SELECTION
 
 0
 
 <a id="unreal.GeometryScriptEmptySelectionBehavior.EMPTY_SELECTION"></a>
 
-#### EMPTY_SELECTION
+#### EMPTY\_SELECTION
 
 1
 

@@ -24,7 +24,7 @@ Settings for a ULoudnessNRT analyzer.
 
 <a id="unreal.LoudnessNRTSettings.analysis_period"></a>
 
-#### analysis_period
+#### analysis\_period
 
 ```python
 @property
@@ -35,7 +35,7 @@ def analysis_period() -> float
 
 <a id="unreal.LoudnessNRTSettings.minimum_frequency"></a>
 
-#### minimum_frequency
+#### minimum\_frequency
 
 ```python
 @property
@@ -46,7 +46,7 @@ def minimum_frequency() -> float
 
 <a id="unreal.LoudnessNRTSettings.maximum_frequency"></a>
 
-#### maximum_frequency
+#### maximum\_frequency
 
 ```python
 @property
@@ -57,7 +57,7 @@ def maximum_frequency() -> float
 
 <a id="unreal.LoudnessNRTSettings.curve_type"></a>
 
-#### curve_type
+#### curve\_type
 
 ```python
 @property
@@ -68,7 +68,7 @@ def curve_type() -> LoudnessNRTCurveTypeEnum
 
 <a id="unreal.LoudnessNRTSettings.noise_floor_db"></a>
 
-#### noise_floor_db
+#### noise\_floor\_db
 
 ```python
 @property

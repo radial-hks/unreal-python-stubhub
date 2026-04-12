@@ -14,7 +14,7 @@ Rig VMEditor Menu Context
 
 <a id="unreal.RigVMEditorMenuContext.is_alt_down"></a>
 
-#### is_alt_down
+#### is\_alt\_down
 
 ```python
 def is_alt_down() -> bool
@@ -28,7 +28,7 @@ Returns:
 
 <a id="unreal.RigVMEditorMenuContext.get_rig_vm_host"></a>
 
-#### get_rig_vm_host
+#### get\_rig\_vm\_host
 
 ```python
 def get_rig_vm_host() -> RigVMHost
@@ -42,7 +42,7 @@ Returns:
 
 <a id="unreal.RigVMEditorMenuContext.get_rig_vm_blueprint"></a>
 
-#### get_rig_vm_blueprint
+#### get\_rig\_vm\_blueprint
 
 ```python
 def get_rig_vm_blueprint() -> RigVMBlueprint
@@ -56,7 +56,7 @@ Returns:
 
 <a id="unreal.RigVMEditorMenuContext.get_graph_menu_context"></a>
 
-#### get_graph_menu_context
+#### get\_graph\_menu\_context
 
 ```python
 def get_graph_menu_context() -> RigVMEditorGraphMenuContext

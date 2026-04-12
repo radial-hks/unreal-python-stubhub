@@ -43,7 +43,7 @@ Select a grammar by comparing an input attribute against a provided set criteria
 
 <a id="unreal.PCGSelectGrammarSettings.key_as_attribute"></a>
 
-#### key_as_attribute
+#### key\_as\_attribute
 
 ```python
 @property
@@ -54,7 +54,7 @@ def key_as_attribute() -> bool
 
 <a id="unreal.PCGSelectGrammarSettings.key_as_attribute"></a>
 
-#### key_as_attribute
+#### key\_as\_attribute
 
 ```python
 @key_as_attribute.setter
@@ -83,7 +83,7 @@ def key(value: Name) -> None
 
 <a id="unreal.PCGSelectGrammarSettings.key_attribute"></a>
 
-#### key_attribute
+#### key\_attribute
 
 ```python
 @property
@@ -94,7 +94,7 @@ def key_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGSelectGrammarSettings.key_attribute"></a>
 
-#### key_attribute
+#### key\_attribute
 
 ```python
 @key_attribute.setter
@@ -103,7 +103,7 @@ def key_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGSelectGrammarSettings.compared_value_attribute"></a>
 
-#### compared_value_attribute
+#### compared\_value\_attribute
 
 ```python
 @property
@@ -114,7 +114,7 @@ def compared_value_attribute() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGSelectGrammarSettings.compared_value_attribute"></a>
 
-#### compared_value_attribute
+#### compared\_value\_attribute
 
 ```python
 @compared_value_attribute.setter
@@ -123,7 +123,7 @@ def compared_value_attribute(value: PCGAttributePropertyInputSelector) -> None
 
 <a id="unreal.PCGSelectGrammarSettings.criteria_as_input"></a>
 
-#### criteria_as_input
+#### criteria\_as\_input
 
 ```python
 @property
@@ -134,7 +134,7 @@ def criteria_as_input() -> bool
 
 <a id="unreal.PCGSelectGrammarSettings.criteria_as_input"></a>
 
-#### criteria_as_input
+#### criteria\_as\_input
 
 ```python
 @criteria_as_input.setter
@@ -163,7 +163,7 @@ def criteria(value: Array[PCGSelectGrammarCriterion]) -> None
 
 <a id="unreal.PCGSelectGrammarSettings.copy_key_for_unselected_grammar"></a>
 
-#### copy_key_for_unselected_grammar
+#### copy\_key\_for\_unselected\_grammar
 
 ```python
 @property
@@ -174,7 +174,7 @@ def copy_key_for_unselected_grammar() -> bool
 
 <a id="unreal.PCGSelectGrammarSettings.copy_key_for_unselected_grammar"></a>
 
-#### copy_key_for_unselected_grammar
+#### copy\_key\_for\_unselected\_grammar
 
 ```python
 @copy_key_for_unselected_grammar.setter
@@ -183,7 +183,7 @@ def copy_key_for_unselected_grammar(value: bool) -> None
 
 <a id="unreal.PCGSelectGrammarSettings.remap_criteria_attribute_names"></a>
 
-#### remap_criteria_attribute_names
+#### remap\_criteria\_attribute\_names
 
 ```python
 @property
@@ -194,7 +194,7 @@ def remap_criteria_attribute_names() -> bool
 
 <a id="unreal.PCGSelectGrammarSettings.remap_criteria_attribute_names"></a>
 
-#### remap_criteria_attribute_names
+#### remap\_criteria\_attribute\_names
 
 ```python
 @remap_criteria_attribute_names.setter
@@ -203,7 +203,7 @@ def remap_criteria_attribute_names(value: bool) -> None
 
 <a id="unreal.PCGSelectGrammarSettings.criteria_attribute_names"></a>
 
-#### criteria_attribute_names
+#### criteria\_attribute\_names
 
 ```python
 @property
@@ -214,7 +214,7 @@ def criteria_attribute_names() -> PCGSelectGrammarCriteriaAttributeNames
 
 <a id="unreal.PCGSelectGrammarSettings.criteria_attribute_names"></a>
 
-#### criteria_attribute_names
+#### criteria\_attribute\_names
 
 ```python
 @criteria_attribute_names.setter
@@ -224,7 +224,7 @@ def criteria_attribute_names(
 
 <a id="unreal.PCGSelectGrammarSettings.output_grammar_attribute"></a>
 
-#### output_grammar_attribute
+#### output\_grammar\_attribute
 
 ```python
 @property
@@ -235,7 +235,7 @@ def output_grammar_attribute() -> PCGAttributePropertyOutputSelector
 
 <a id="unreal.PCGSelectGrammarSettings.output_grammar_attribute"></a>
 
-#### output_grammar_attribute
+#### output\_grammar\_attribute
 
 ```python
 @output_grammar_attribute.setter

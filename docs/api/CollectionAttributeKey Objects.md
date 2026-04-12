@@ -19,10 +19,10 @@ Collection Attribute Key
 
 <a id="unreal.CollectionAttributeKey.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.LocalizableMessage"></a>
+<a id="unreal.BrushDataTree"></a>

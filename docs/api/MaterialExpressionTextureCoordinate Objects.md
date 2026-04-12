@@ -25,7 +25,7 @@ Material Expression Texture Coordinate
 
 <a id="unreal.MaterialExpressionTextureCoordinate.coordinate_index"></a>
 
-#### coordinate_index
+#### coordinate\_index
 
 ```python
 @property
@@ -36,7 +36,7 @@ def coordinate_index() -> int
 
 <a id="unreal.MaterialExpressionTextureCoordinate.coordinate_index"></a>
 
-#### coordinate_index
+#### coordinate\_index
 
 ```python
 @coordinate_index.setter
@@ -45,7 +45,7 @@ def coordinate_index(value: int) -> None
 
 <a id="unreal.MaterialExpressionTextureCoordinate.u_tiling"></a>
 
-#### u_tiling
+#### u\_tiling
 
 ```python
 @property
@@ -56,7 +56,7 @@ def u_tiling() -> float
 
 <a id="unreal.MaterialExpressionTextureCoordinate.u_tiling"></a>
 
-#### u_tiling
+#### u\_tiling
 
 ```python
 @u_tiling.setter
@@ -65,7 +65,7 @@ def u_tiling(value: float) -> None
 
 <a id="unreal.MaterialExpressionTextureCoordinate.v_tiling"></a>
 
-#### v_tiling
+#### v\_tiling
 
 ```python
 @property
@@ -76,7 +76,7 @@ def v_tiling() -> float
 
 <a id="unreal.MaterialExpressionTextureCoordinate.v_tiling"></a>
 
-#### v_tiling
+#### v\_tiling
 
 ```python
 @v_tiling.setter

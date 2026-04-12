@@ -36,7 +36,7 @@ PCGMetadata Break Vector Settings
 
 <a id="unreal.PCGMetadataBreakVectorSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @property
@@ -47,7 +47,7 @@ def input_source() -> PCGAttributePropertyInputSelector
 
 <a id="unreal.PCGMetadataBreakVectorSettings.input_source"></a>
 
-#### input_source
+#### input\_source
 
 ```python
 @input_source.setter

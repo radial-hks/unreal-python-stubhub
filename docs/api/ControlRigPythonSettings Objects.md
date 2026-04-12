@@ -8,10 +8,10 @@ deprecated: 'ControlRigPythonSettings' was renamed to 'RigVMPythonSettings'.
 
 <a id="unreal.ControlRigPythonSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__() -> None
 ```
 
-<a id="unreal.PaperFlipbookKeyFrame"></a>
+<a id="unreal.PrimaryAssetTypeInfo"></a>

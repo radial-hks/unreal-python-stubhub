@@ -47,7 +47,7 @@ Holdout Composite Component
 
 <a id="unreal.HoldoutCompositeComponent.is_enabled"></a>
 
-#### is_enabled
+#### is\_enabled
 
 ```python
 @property
@@ -58,7 +58,7 @@ def is_enabled() -> bool
 
 <a id="unreal.HoldoutCompositeComponent.is_enabled"></a>
 
-#### is_enabled
+#### is\_enabled
 
 ```python
 @is_enabled.setter

@@ -36,7 +36,7 @@ Target Chain IKSettings
 
 <a id="unreal.TargetChainIKSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(enable_ik: bool = False,
@@ -52,7 +52,7 @@ def __init__(enable_ik: bool = False,
 
 <a id="unreal.TargetChainIKSettings.enable_ik"></a>
 
-#### enable_ik
+#### enable\_ik
 
 ```python
 @property
@@ -65,7 +65,7 @@ NOTE: If off, and this chain has an IK Goal, the IK will still be evaluated, but
 
 <a id="unreal.TargetChainIKSettings.enable_ik"></a>
 
-#### enable_ik
+#### enable\_ik
 
 ```python
 @enable_ik.setter
@@ -74,7 +74,7 @@ def enable_ik(value: bool) -> None
 
 <a id="unreal.TargetChainIKSettings.blend_to_source"></a>
 
-#### blend_to_source
+#### blend\_to\_source
 
 ```python
 @property
@@ -87,7 +87,7 @@ At 1 the goal is placed at the location of the source chain's end bone.
 
 <a id="unreal.TargetChainIKSettings.blend_to_source"></a>
 
-#### blend_to_source
+#### blend\_to\_source
 
 ```python
 @blend_to_source.setter
@@ -96,7 +96,7 @@ def blend_to_source(value: float) -> None
 
 <a id="unreal.TargetChainIKSettings.blend_to_source_weights"></a>
 
-#### blend_to_source_weights
+#### blend\_to\_source\_weights
 
 ```python
 @property
@@ -109,7 +109,7 @@ At 1 the goal is placed at the location of the source chain's end bone.
 
 <a id="unreal.TargetChainIKSettings.blend_to_source_weights"></a>
 
-#### blend_to_source_weights
+#### blend\_to\_source\_weights
 
 ```python
 @blend_to_source_weights.setter
@@ -118,7 +118,7 @@ def blend_to_source_weights(value: Vector) -> None
 
 <a id="unreal.TargetChainIKSettings.static_offset"></a>
 
-#### static_offset
+#### static\_offset
 
 ```python
 @property
@@ -129,7 +129,7 @@ def static_offset() -> Vector
 
 <a id="unreal.TargetChainIKSettings.static_offset"></a>
 
-#### static_offset
+#### static\_offset
 
 ```python
 @static_offset.setter
@@ -138,7 +138,7 @@ def static_offset(value: Vector) -> None
 
 <a id="unreal.TargetChainIKSettings.static_local_offset"></a>
 
-#### static_local_offset
+#### static\_local\_offset
 
 ```python
 @property
@@ -149,7 +149,7 @@ def static_local_offset() -> Vector
 
 <a id="unreal.TargetChainIKSettings.static_local_offset"></a>
 
-#### static_local_offset
+#### static\_local\_offset
 
 ```python
 @static_local_offset.setter
@@ -158,7 +158,7 @@ def static_local_offset(value: Vector) -> None
 
 <a id="unreal.TargetChainIKSettings.static_rotation_offset"></a>
 
-#### static_rotation_offset
+#### static\_rotation\_offset
 
 ```python
 @property
@@ -169,7 +169,7 @@ def static_rotation_offset() -> Rotator
 
 <a id="unreal.TargetChainIKSettings.static_rotation_offset"></a>
 
-#### static_rotation_offset
+#### static\_rotation\_offset
 
 ```python
 @static_rotation_offset.setter
@@ -178,7 +178,7 @@ def static_rotation_offset(value: Rotator) -> None
 
 <a id="unreal.TargetChainIKSettings.scale_vertical"></a>
 
-#### scale_vertical
+#### scale\_vertical
 
 ```python
 @property
@@ -189,7 +189,7 @@ def scale_vertical() -> float
 
 <a id="unreal.TargetChainIKSettings.scale_vertical"></a>
 
-#### scale_vertical
+#### scale\_vertical
 
 ```python
 @scale_vertical.setter
@@ -222,7 +222,7 @@ def extension(value: float) -> None
 
 <a id="unreal.TargetChainIKSettings.affected_by_ik_warping"></a>
 
-#### affected_by_ik_warping
+#### affected\_by\_ik\_warping
 
 ```python
 @property
@@ -233,7 +233,7 @@ def affected_by_ik_warping() -> bool
 
 <a id="unreal.TargetChainIKSettings.affected_by_ik_warping"></a>
 
-#### affected_by_ik_warping
+#### affected\_by\_ik\_warping
 
 ```python
 @affected_by_ik_warping.setter

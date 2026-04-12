@@ -19,7 +19,7 @@ A breaking event data structure.
 
 <a id="unreal.ChaosBreakingEventData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(location: Vector = [0.000000, 0.000000, 0.000000],

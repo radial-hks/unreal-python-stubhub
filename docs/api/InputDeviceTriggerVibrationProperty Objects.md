@@ -27,7 +27,7 @@ See the docs for more details on each platform.
 
 <a id="unreal.InputDeviceTriggerVibrationProperty.trigger_data"></a>
 
-#### trigger_data
+#### trigger\_data
 
 ```python
 @property
@@ -38,7 +38,7 @@ def trigger_data() -> DeviceTriggerTriggerVibrationData
 
 <a id="unreal.InputDeviceTriggerVibrationProperty.trigger_data"></a>
 
-#### trigger_data
+#### trigger\_data
 
 ```python
 @trigger_data.setter
@@ -47,7 +47,7 @@ def trigger_data(value: DeviceTriggerTriggerVibrationData) -> None
 
 <a id="unreal.InputDeviceTriggerVibrationProperty.device_override_data"></a>
 
-#### device_override_data
+#### device\_override\_data
 
 ```python
 @property
@@ -58,7 +58,7 @@ def device_override_data() -> Map[Name, DeviceTriggerTriggerVibrationData]
 
 <a id="unreal.InputDeviceTriggerVibrationProperty.device_override_data"></a>
 
-#### device_override_data
+#### device\_override\_data
 
 ```python
 @device_override_data.setter

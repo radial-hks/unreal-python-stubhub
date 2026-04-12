@@ -29,7 +29,7 @@ Nav Relevant Component
 
 <a id="unreal.NavRelevantComponent.set_navigation_relevancy"></a>
 
-#### set_navigation_relevancy
+#### set\_navigation\_relevancy
 
 ```python
 def set_navigation_relevancy(relevant: bool) -> None

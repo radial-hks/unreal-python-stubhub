@@ -21,7 +21,7 @@ Table row base for denoiser input mapping
 
 <a id="unreal.NNEDenoiserInputMappingData.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(tensor_index: int = 0,

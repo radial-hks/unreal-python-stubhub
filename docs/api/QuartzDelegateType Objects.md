@@ -13,13 +13,13 @@ An enumeration for specifying different TYPES of delegates
 
 <a id="unreal.QuartzDelegateType.METRONOME_TICK"></a>
 
-#### METRONOME_TICK
+#### METRONOME\_TICK
 
 0
 
 <a id="unreal.QuartzDelegateType.COMMAND_EVENT"></a>
 
-#### COMMAND_EVENT
+#### COMMAND\_EVENT
 
 1: uses EAudioMixerCommandQuantization to select subdivision
 

@@ -22,7 +22,7 @@ Material Sprite Element
 
 <a id="unreal.MaterialSpriteElement.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(material: MaterialInterface = None,
@@ -55,7 +55,7 @@ def material(value: MaterialInterface) -> None
 
 <a id="unreal.MaterialSpriteElement.distance_to_opacity_curve"></a>
 
-#### distance_to_opacity_curve
+#### distance\_to\_opacity\_curve
 
 ```python
 @property
@@ -66,7 +66,7 @@ def distance_to_opacity_curve() -> CurveFloat
 
 <a id="unreal.MaterialSpriteElement.distance_to_opacity_curve"></a>
 
-#### distance_to_opacity_curve
+#### distance\_to\_opacity\_curve
 
 ```python
 @distance_to_opacity_curve.setter
@@ -75,7 +75,7 @@ def distance_to_opacity_curve(value: CurveFloat) -> None
 
 <a id="unreal.MaterialSpriteElement.size_is_in_screen_space"></a>
 
-#### size_is_in_screen_space
+#### size\_is\_in\_screen\_space
 
 ```python
 @property
@@ -86,7 +86,7 @@ def size_is_in_screen_space() -> bool
 
 <a id="unreal.MaterialSpriteElement.size_is_in_screen_space"></a>
 
-#### size_is_in_screen_space
+#### size\_is\_in\_screen\_space
 
 ```python
 @size_is_in_screen_space.setter
@@ -95,7 +95,7 @@ def size_is_in_screen_space(value: bool) -> None
 
 <a id="unreal.MaterialSpriteElement.base_size_x"></a>
 
-#### base_size_x
+#### base\_size\_x
 
 ```python
 @property
@@ -106,7 +106,7 @@ def base_size_x() -> float
 
 <a id="unreal.MaterialSpriteElement.base_size_x"></a>
 
-#### base_size_x
+#### base\_size\_x
 
 ```python
 @base_size_x.setter
@@ -115,7 +115,7 @@ def base_size_x(value: float) -> None
 
 <a id="unreal.MaterialSpriteElement.base_size_y"></a>
 
-#### base_size_y
+#### base\_size\_y
 
 ```python
 @property
@@ -126,7 +126,7 @@ def base_size_y() -> float
 
 <a id="unreal.MaterialSpriteElement.base_size_y"></a>
 
-#### base_size_y
+#### base\_size\_y
 
 ```python
 @base_size_y.setter
@@ -135,7 +135,7 @@ def base_size_y(value: float) -> None
 
 <a id="unreal.MaterialSpriteElement.distance_to_size_curve"></a>
 
-#### distance_to_size_curve
+#### distance\_to\_size\_curve
 
 ```python
 @property
@@ -146,7 +146,7 @@ def distance_to_size_curve() -> CurveFloat
 
 <a id="unreal.MaterialSpriteElement.distance_to_size_curve"></a>
 
-#### distance_to_size_curve
+#### distance\_to\_size\_curve
 
 ```python
 @distance_to_size_curve.setter

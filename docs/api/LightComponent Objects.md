@@ -140,7 +140,7 @@ White (D65) is 6500K.
 
 <a id="unreal.LightComponent.use_temperature"></a>
 
-#### use_temperature
+#### use\_temperature
 
 ```python
 @property
@@ -151,7 +151,7 @@ def use_temperature() -> bool
 
 <a id="unreal.LightComponent.specular_scale"></a>
 
-#### specular_scale
+#### specular\_scale
 
 ```python
 @property
@@ -163,7 +163,7 @@ Can be used to artistically remove highlights mimicking polarizing filters or ph
 
 <a id="unreal.LightComponent.diffuse_scale"></a>
 
-#### diffuse_scale
+#### diffuse\_scale
 
 ```python
 @property
@@ -174,7 +174,7 @@ def diffuse_scale() -> float
 
 <a id="unreal.LightComponent.shadow_resolution_scale"></a>
 
-#### shadow_resolution_scale
+#### shadow\_resolution\_scale
 
 ```python
 @property
@@ -187,7 +187,7 @@ Note: shadowmap resolution is still clamped by 'r.Shadow.MaxResolution'
 
 <a id="unreal.LightComponent.shadow_bias"></a>
 
-#### shadow_bias
+#### shadow\_bias
 
 ```python
 @property
@@ -201,7 +201,7 @@ around 0.5 seems to be a good tradeoff. This also affects the soft transition of
 
 <a id="unreal.LightComponent.shadow_slope_bias"></a>
 
-#### shadow_slope_bias
+#### shadow\_slope\_bias
 
 ```python
 @property
@@ -216,7 +216,7 @@ around 0.5 seems to be a good tradeoff. This also affects the soft transition of
 
 <a id="unreal.LightComponent.shadow_sharpen"></a>
 
-#### shadow_sharpen
+#### shadow\_sharpen
 
 ```python
 @property
@@ -227,7 +227,7 @@ def shadow_sharpen() -> float
 
 <a id="unreal.LightComponent.contact_shadow_length"></a>
 
-#### contact_shadow_length
+#### contact\_shadow\_length
 
 ```python
 @property
@@ -238,7 +238,7 @@ def contact_shadow_length() -> float
 
 <a id="unreal.LightComponent.contact_shadow_length"></a>
 
-#### contact_shadow_length
+#### contact\_shadow\_length
 
 ```python
 @contact_shadow_length.setter
@@ -247,7 +247,7 @@ def contact_shadow_length(value: float) -> None
 
 <a id="unreal.LightComponent.contact_shadow_length_in_ws"></a>
 
-#### contact_shadow_length_in_ws
+#### contact\_shadow\_length\_in\_ws
 
 ```python
 @property
@@ -258,7 +258,7 @@ def contact_shadow_length_in_ws() -> bool
 
 <a id="unreal.LightComponent.contact_shadow_length_in_ws"></a>
 
-#### contact_shadow_length_in_ws
+#### contact\_shadow\_length\_in\_ws
 
 ```python
 @contact_shadow_length_in_ws.setter
@@ -267,7 +267,7 @@ def contact_shadow_length_in_ws(value: bool) -> None
 
 <a id="unreal.LightComponent.contact_shadow_casting_intensity"></a>
 
-#### contact_shadow_casting_intensity
+#### contact\_shadow\_casting\_intensity
 
 ```python
 @property
@@ -278,7 +278,7 @@ def contact_shadow_casting_intensity() -> float
 
 <a id="unreal.LightComponent.contact_shadow_casting_intensity"></a>
 
-#### contact_shadow_casting_intensity
+#### contact\_shadow\_casting\_intensity
 
 ```python
 @contact_shadow_casting_intensity.setter
@@ -287,7 +287,7 @@ def contact_shadow_casting_intensity(value: float) -> None
 
 <a id="unreal.LightComponent.contact_shadow_non_casting_intensity"></a>
 
-#### contact_shadow_non_casting_intensity
+#### contact\_shadow\_non\_casting\_intensity
 
 ```python
 @property
@@ -298,7 +298,7 @@ def contact_shadow_non_casting_intensity() -> float
 
 <a id="unreal.LightComponent.contact_shadow_non_casting_intensity"></a>
 
-#### contact_shadow_non_casting_intensity
+#### contact\_shadow\_non\_casting\_intensity
 
 ```python
 @contact_shadow_non_casting_intensity.setter
@@ -307,7 +307,7 @@ def contact_shadow_non_casting_intensity(value: float) -> None
 
 <a id="unreal.LightComponent.cast_translucent_shadows"></a>
 
-#### cast_translucent_shadows
+#### cast\_translucent\_shadows
 
 ```python
 @property
@@ -318,7 +318,7 @@ def cast_translucent_shadows() -> bool
 
 <a id="unreal.LightComponent.cast_shadows_from_cinematic_objects_only"></a>
 
-#### cast_shadows_from_cinematic_objects_only
+#### cast\_shadows\_from\_cinematic\_objects\_only
 
 ```python
 @property
@@ -331,7 +331,7 @@ Note: this only works with dynamic shadow maps, not with static shadowing or Ray
 
 <a id="unreal.LightComponent.force_cached_shadows_for_movable_primitives"></a>
 
-#### force_cached_shadows_for_movable_primitives
+#### force\_cached\_shadows\_for\_movable\_primitives
 
 ```python
 @property
@@ -342,7 +342,7 @@ def force_cached_shadows_for_movable_primitives() -> bool
 
 <a id="unreal.LightComponent.allow_mega_lights"></a>
 
-#### allow_mega_lights
+#### allow\_mega\_lights
 
 ```python
 @property
@@ -354,7 +354,7 @@ When disabled, the renderer will no longer use stochastic sampling to solve this
 
 <a id="unreal.LightComponent.mega_lights_shadow_method"></a>
 
-#### mega_lights_shadow_method
+#### mega\_lights\_shadow\_method
 
 ```python
 @property
@@ -367,7 +367,7 @@ VirtualShadowMap - Has a significant per light cost, but can cast shadows direct
 
 <a id="unreal.LightComponent.lighting_channels"></a>
 
-#### lighting_channels
+#### lighting\_channels
 
 ```python
 @property
@@ -380,7 +380,7 @@ Lighting channels are only supported on translucent materials using forward shad
 
 <a id="unreal.LightComponent.light_function_material"></a>
 
-#### light_function_material
+#### light\_function\_material
 
 ```python
 @property
@@ -393,7 +393,7 @@ Light functions are supported within VolumetricFog, but only for Directional, Po
 
 <a id="unreal.LightComponent.light_function_scale"></a>
 
-#### light_function_scale
+#### light\_function\_scale
 
 ```python
 @property
@@ -404,7 +404,7 @@ def light_function_scale() -> Vector
 
 <a id="unreal.LightComponent.ies_texture"></a>
 
-#### ies_texture
+#### ies\_texture
 
 ```python
 @property
@@ -415,7 +415,7 @@ def ies_texture() -> TextureLightProfile
 
 <a id="unreal.LightComponent.use_ies_brightness"></a>
 
-#### use_ies_brightness
+#### use\_ies\_brightness
 
 ```python
 @property
@@ -426,7 +426,7 @@ def use_ies_brightness() -> bool
 
 <a id="unreal.LightComponent.ies_brightness_scale"></a>
 
-#### ies_brightness_scale
+#### ies\_brightness\_scale
 
 ```python
 @property
@@ -437,7 +437,7 @@ def ies_brightness_scale() -> float
 
 <a id="unreal.LightComponent.light_function_fade_distance"></a>
 
-#### light_function_fade_distance
+#### light\_function\_fade\_distance
 
 ```python
 @property
@@ -449,7 +449,7 @@ This is useful for hiding aliasing from light functions applied in the distance.
 
 <a id="unreal.LightComponent.disabled_brightness"></a>
 
-#### disabled_brightness
+#### disabled\_brightness
 
 ```python
 @property
@@ -461,7 +461,7 @@ This should be set to the average brightness of the light function material's em
 
 <a id="unreal.LightComponent.enable_light_shaft_bloom"></a>
 
-#### enable_light_shaft_bloom
+#### enable\_light\_shaft\_bloom
 
 ```python
 @property
@@ -474,7 +474,7 @@ for point lights, the color on pixels closer than the light's SourceRadius will 
 
 <a id="unreal.LightComponent.bloom_scale"></a>
 
-#### bloom_scale
+#### bloom\_scale
 
 ```python
 @property
@@ -485,7 +485,7 @@ def bloom_scale() -> float
 
 <a id="unreal.LightComponent.bloom_threshold"></a>
 
-#### bloom_threshold
+#### bloom\_threshold
 
 ```python
 @property
@@ -496,7 +496,7 @@ def bloom_threshold() -> float
 
 <a id="unreal.LightComponent.bloom_max_brightness"></a>
 
-#### bloom_max_brightness
+#### bloom\_max\_brightness
 
 ```python
 @property
@@ -507,7 +507,7 @@ def bloom_max_brightness() -> float
 
 <a id="unreal.LightComponent.bloom_tint"></a>
 
-#### bloom_tint
+#### bloom\_tint
 
 ```python
 @property
@@ -518,7 +518,7 @@ def bloom_tint() -> Color
 
 <a id="unreal.LightComponent.use_ray_traced_distance_field_shadows"></a>
 
-#### use_ray_traced_distance_field_shadows
+#### use\_ray\_traced\_distance\_field\_shadows
 
 ```python
 @property
@@ -532,7 +532,7 @@ These shadows have a low per-object cost (and don't depend on triangle count) so
 
 <a id="unreal.LightComponent.ray_start_offset_depth_scale"></a>
 
-#### ray_start_offset_depth_scale
+#### ray\_start\_offset\_depth\_scale
 
 ```python
 @property
@@ -544,7 +544,7 @@ This can be useful to hide self-shadowing artifacts from low resolution distance
 
 <a id="unreal.LightComponent.set_volumetric_scattering_intensity"></a>
 
-#### set_volumetric_scattering_intensity
+#### set\_volumetric\_scattering\_intensity
 
 ```python
 def set_volumetric_scattering_intensity(new_intensity: float) -> None
@@ -558,7 +558,7 @@ Args:
 
 <a id="unreal.LightComponent.set_use_temperature"></a>
 
-#### set_use_temperature
+#### set\_use\_temperature
 
 ```python
 def set_use_temperature(new_value: bool) -> None
@@ -572,7 +572,7 @@ Args:
 
 <a id="unreal.LightComponent.set_use_ray_traced_distance_field_shadows"></a>
 
-#### set_use_ray_traced_distance_field_shadows
+#### set\_use\_ray\_traced\_distance\_field\_shadows
 
 ```python
 def set_use_ray_traced_distance_field_shadows(new_value: bool) -> None
@@ -586,7 +586,7 @@ Args:
 
 <a id="unreal.LightComponent.set_use_ies_brightness"></a>
 
-#### set_use_ies_brightness
+#### set\_use\_ies\_brightness
 
 ```python
 def set_use_ies_brightness(new_value: bool) -> None
@@ -600,7 +600,7 @@ Args:
 
 <a id="unreal.LightComponent.set_transmission"></a>
 
-#### set_transmission
+#### set\_transmission
 
 ```python
 def set_transmission(new_value: bool) -> None
@@ -614,7 +614,7 @@ Args:
 
 <a id="unreal.LightComponent.set_temperature"></a>
 
-#### set_temperature
+#### set\_temperature
 
 ```python
 def set_temperature(new_temperature: float) -> None
@@ -628,7 +628,7 @@ Args:
 
 <a id="unreal.LightComponent.set_specular_scale"></a>
 
-#### set_specular_scale
+#### set\_specular\_scale
 
 ```python
 def set_specular_scale(new_value: float) -> None
@@ -642,7 +642,7 @@ Args:
 
 <a id="unreal.LightComponent.set_shadow_slope_bias"></a>
 
-#### set_shadow_slope_bias
+#### set\_shadow\_slope\_bias
 
 ```python
 def set_shadow_slope_bias(new_value: float) -> None
@@ -656,7 +656,7 @@ Args:
 
 <a id="unreal.LightComponent.set_shadow_bias"></a>
 
-#### set_shadow_bias
+#### set\_shadow\_bias
 
 ```python
 def set_shadow_bias(new_value: float) -> None
@@ -670,7 +670,7 @@ Args:
 
 <a id="unreal.LightComponent.set_lighting_channels"></a>
 
-#### set_lighting_channels
+#### set\_lighting\_channels
 
 ```python
 def set_lighting_channels(channel0: bool, channel1: bool,
@@ -687,7 +687,7 @@ Args:
 
 <a id="unreal.LightComponent.set_light_function_scale"></a>
 
-#### set_light_function_scale
+#### set\_light\_function\_scale
 
 ```python
 def set_light_function_scale(new_light_function_scale: Vector) -> None
@@ -701,7 +701,7 @@ Args:
 
 <a id="unreal.LightComponent.set_light_function_material"></a>
 
-#### set_light_function_material
+#### set\_light\_function\_material
 
 ```python
 def set_light_function_material(
@@ -716,7 +716,7 @@ Args:
 
 <a id="unreal.LightComponent.set_light_function_fade_distance"></a>
 
-#### set_light_function_fade_distance
+#### set\_light\_function\_fade\_distance
 
 ```python
 def set_light_function_fade_distance(
@@ -731,7 +731,7 @@ Args:
 
 <a id="unreal.LightComponent.set_light_function_disabled_brightness"></a>
 
-#### set_light_function_disabled_brightness
+#### set\_light\_function\_disabled\_brightness
 
 ```python
 def set_light_function_disabled_brightness(new_value: float) -> None
@@ -745,7 +745,7 @@ Args:
 
 <a id="unreal.LightComponent.set_light_color"></a>
 
-#### set_light_color
+#### set\_light\_color
 
 ```python
 def set_light_color(new_light_color: LinearColor, srgb: bool = True) -> None
@@ -760,7 +760,7 @@ Args:
 
 <a id="unreal.LightComponent.set_intensity"></a>
 
-#### set_intensity
+#### set\_intensity
 
 ```python
 def set_intensity(new_intensity: float) -> None
@@ -774,7 +774,7 @@ Args:
 
 <a id="unreal.LightComponent.set_brightness"></a>
 
-#### set_brightness
+#### set\_brightness
 
 ```python
 def set_brightness(new_intensity: float) -> None
@@ -784,7 +784,7 @@ deprecated: 'set_brightness' was renamed to 'set_intensity'.
 
 <a id="unreal.LightComponent.set_indirect_lighting_intensity"></a>
 
-#### set_indirect_lighting_intensity
+#### set\_indirect\_lighting\_intensity
 
 ```python
 def set_indirect_lighting_intensity(new_intensity: float) -> None
@@ -798,7 +798,7 @@ Args:
 
 <a id="unreal.LightComponent.set_ies_texture"></a>
 
-#### set_ies_texture
+#### set\_ies\_texture
 
 ```python
 def set_ies_texture(new_value: TextureLightProfile) -> None
@@ -812,7 +812,7 @@ Args:
 
 <a id="unreal.LightComponent.set_ies_brightness_scale"></a>
 
-#### set_ies_brightness_scale
+#### set\_ies\_brightness\_scale
 
 ```python
 def set_ies_brightness_scale(new_value: float) -> None
@@ -826,7 +826,7 @@ Args:
 
 <a id="unreal.LightComponent.set_force_cached_shadows_for_movable_primitives"></a>
 
-#### set_force_cached_shadows_for_movable_primitives
+#### set\_force\_cached\_shadows\_for\_movable\_primitives
 
 ```python
 def set_force_cached_shadows_for_movable_primitives(new_value: bool) -> None
@@ -840,7 +840,7 @@ Args:
 
 <a id="unreal.LightComponent.set_enable_light_shaft_bloom"></a>
 
-#### set_enable_light_shaft_bloom
+#### set\_enable\_light\_shaft\_bloom
 
 ```python
 def set_enable_light_shaft_bloom(new_value: bool) -> None
@@ -854,7 +854,7 @@ Args:
 
 <a id="unreal.LightComponent.set_diffuse_scale"></a>
 
-#### set_diffuse_scale
+#### set\_diffuse\_scale
 
 ```python
 def set_diffuse_scale(new_value: float) -> None
@@ -868,7 +868,7 @@ Args:
 
 <a id="unreal.LightComponent.set_bloom_tint"></a>
 
-#### set_bloom_tint
+#### set\_bloom\_tint
 
 ```python
 def set_bloom_tint(new_value: Color) -> None
@@ -882,7 +882,7 @@ Args:
 
 <a id="unreal.LightComponent.set_bloom_threshold"></a>
 
-#### set_bloom_threshold
+#### set\_bloom\_threshold
 
 ```python
 def set_bloom_threshold(new_value: float) -> None
@@ -896,7 +896,7 @@ Args:
 
 <a id="unreal.LightComponent.set_bloom_scale"></a>
 
-#### set_bloom_scale
+#### set\_bloom\_scale
 
 ```python
 def set_bloom_scale(new_value: float) -> None
@@ -910,7 +910,7 @@ Args:
 
 <a id="unreal.LightComponent.set_bloom_max_brightness"></a>
 
-#### set_bloom_max_brightness
+#### set\_bloom\_max\_brightness
 
 ```python
 def set_bloom_max_brightness(new_value: float) -> None
@@ -924,7 +924,7 @@ Args:
 
 <a id="unreal.LightComponent.set_affect_translucent_lighting"></a>
 
-#### set_affect_translucent_lighting
+#### set\_affect\_translucent\_lighting
 
 ```python
 def set_affect_translucent_lighting(new_value: bool) -> None

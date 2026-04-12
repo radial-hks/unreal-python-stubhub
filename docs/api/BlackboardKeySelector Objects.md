@@ -23,7 +23,7 @@ helper struct for defining types of allowed blackboard entries
 
 <a id="unreal.BlackboardKeySelector.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(allowed_types: Array[BlackboardKeyType] = [],
@@ -35,7 +35,7 @@ def __init__(allowed_types: Array[BlackboardKeyType] = [],
 
 <a id="unreal.BlackboardKeySelector.allowed_types"></a>
 
-#### allowed_types
+#### allowed\_types
 
 ```python
 @property
@@ -47,7 +47,7 @@ EditAnywhere is required for FBlackboardSelectorDetails::CacheBlackboardData()
 
 <a id="unreal.BlackboardKeySelector.allowed_types"></a>
 
-#### allowed_types
+#### allowed\_types
 
 ```python
 @allowed_types.setter
@@ -56,7 +56,7 @@ def allowed_types(value: Array[BlackboardKeyType]) -> None
 
 <a id="unreal.BlackboardKeySelector.selected_key_name"></a>
 
-#### selected_key_name
+#### selected\_key\_name
 
 ```python
 @property
@@ -67,7 +67,7 @@ def selected_key_name() -> Name
 
 <a id="unreal.BlackboardKeySelector.selected_key_name"></a>
 
-#### selected_key_name
+#### selected\_key\_name
 
 ```python
 @selected_key_name.setter
@@ -76,7 +76,7 @@ def selected_key_name(value: Name) -> None
 
 <a id="unreal.BlackboardKeySelector.selected_key_type"></a>
 
-#### selected_key_type
+#### selected\_key\_type
 
 ```python
 @property
@@ -87,7 +87,7 @@ def selected_key_type() -> Class
 
 <a id="unreal.BlackboardKeySelector.selected_key_type"></a>
 
-#### selected_key_type
+#### selected\_key\_type
 
 ```python
 @selected_key_type.setter
@@ -96,7 +96,7 @@ def selected_key_type(value: Class) -> None
 
 <a id="unreal.BlackboardKeySelector.selected_key_id"></a>
 
-#### selected_key_id
+#### selected\_key\_id
 
 ```python
 @property
@@ -107,7 +107,7 @@ def selected_key_id() -> int
 
 <a id="unreal.BlackboardKeySelector.selected_key_id"></a>
 
-#### selected_key_id
+#### selected\_key\_id
 
 ```python
 @selected_key_id.setter
@@ -116,7 +116,7 @@ def selected_key_id(value: int) -> None
 
 <a id="unreal.BlackboardKeySelector.none_is_allowed_value"></a>
 
-#### none_is_allowed_value
+#### none\_is\_allowed\_value
 
 ```python
 @property
@@ -127,7 +127,7 @@ def none_is_allowed_value() -> bool
 
 <a id="unreal.BlackboardKeySelector.none_is_allowed_value"></a>
 
-#### none_is_allowed_value
+#### none\_is\_allowed\_value
 
 ```python
 @none_is_allowed_value.setter

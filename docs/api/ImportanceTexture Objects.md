@@ -14,7 +14,7 @@ Holds marginal PDF of the rows, as well as the PDF of each row
 
 <a id="unreal.ImportanceTexture.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(

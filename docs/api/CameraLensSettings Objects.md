@@ -23,7 +23,7 @@ class CameraLensSettings(StructBase)
 
 <a id="unreal.CameraLensSettings.__init__"></a>
 
-#### __init__
+#### \_\_init\_\_
 
 ```python
 def __init__(min_focal_length: float = 0.000000,
@@ -37,7 +37,7 @@ def __init__(min_focal_length: float = 0.000000,
 
 <a id="unreal.CameraLensSettings.min_focal_length"></a>
 
-#### min_focal_length
+#### min\_focal\_length
 
 ```python
 @property
@@ -48,7 +48,7 @@ def min_focal_length() -> float
 
 <a id="unreal.CameraLensSettings.min_focal_length"></a>
 
-#### min_focal_length
+#### min\_focal\_length
 
 ```python
 @min_focal_length.setter
@@ -57,7 +57,7 @@ def min_focal_length(value: float) -> None
 
 <a id="unreal.CameraLensSettings.max_focal_length"></a>
 
-#### max_focal_length
+#### max\_focal\_length
 
 ```python
 @property
@@ -68,7 +68,7 @@ def max_focal_length() -> float
 
 <a id="unreal.CameraLensSettings.max_focal_length"></a>
 
-#### max_focal_length
+#### max\_focal\_length
 
 ```python
 @max_focal_length.setter
@@ -77,7 +77,7 @@ def max_focal_length(value: float) -> None
 
 <a id="unreal.CameraLensSettings.min_f_stop"></a>
 
-#### min_f_stop
+#### min\_f\_stop
 
 ```python
 @property
@@ -88,7 +88,7 @@ def min_f_stop() -> float
 
 <a id="unreal.CameraLensSettings.min_f_stop"></a>
 
-#### min_f_stop
+#### min\_f\_stop
 
 ```python
 @min_f_stop.setter
@@ -97,7 +97,7 @@ def min_f_stop(value: float) -> None
 
 <a id="unreal.CameraLensSettings.max_f_stop"></a>
 
-#### max_f_stop
+#### max\_f\_stop
 
 ```python
 @property
@@ -108,7 +108,7 @@ def max_f_stop() -> float
 
 <a id="unreal.CameraLensSettings.max_f_stop"></a>
 
-#### max_f_stop
+#### max\_f\_stop
 
 ```python
 @max_f_stop.setter
@@ -117,7 +117,7 @@ def max_f_stop(value: float) -> None
 
 <a id="unreal.CameraLensSettings.minimum_focus_distance"></a>
 
-#### minimum_focus_distance
+#### minimum\_focus\_distance
 
 ```python
 @property
@@ -128,7 +128,7 @@ def minimum_focus_distance() -> float
 
 <a id="unreal.CameraLensSettings.minimum_focus_distance"></a>
 
-#### minimum_focus_distance
+#### minimum\_focus\_distance
 
 ```python
 @minimum_focus_distance.setter
@@ -137,7 +137,7 @@ def minimum_focus_distance(value: float) -> None
 
 <a id="unreal.CameraLensSettings.squeeze_factor"></a>
 
-#### squeeze_factor
+#### squeeze\_factor
 
 ```python
 @property
@@ -148,7 +148,7 @@ def squeeze_factor() -> float
 
 <a id="unreal.CameraLensSettings.squeeze_factor"></a>
 
-#### squeeze_factor
+#### squeeze\_factor
 
 ```python
 @squeeze_factor.setter
@@ -157,7 +157,7 @@ def squeeze_factor(value: float) -> None
 
 <a id="unreal.CameraLensSettings.diaphragm_blade_count"></a>
 
-#### diaphragm_blade_count
+#### diaphragm\_blade\_count
 
 ```python
 @property
@@ -168,7 +168,7 @@ def diaphragm_blade_count() -> int
 
 <a id="unreal.CameraLensSettings.diaphragm_blade_count"></a>
 
-#### diaphragm_blade_count
+#### diaphragm\_blade\_count
 
 ```python
 @diaphragm_blade_count.setter
