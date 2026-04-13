@@ -59,10 +59,71 @@ UnrealPythonAPI/unreal/    # Python API type stubs (input)
         ↓
     split_md.py            # Splits large Markdown files by class
         ↓
-    docs/api/              # 2000+ individual Markdown documents (output)
-        ↓
-    Context7 MCP Server    # Used by AI code generation tools for retrieval
+    docs/api/              # 15,000+ individual Markdown documents (output)
+      ├─→ Context7 MCP Server    # Used by AI code generation tools for retrieval
+      └─→ graphify               # Builds knowledge graph (26k nodes / 26k edges)
 ```
+
+## Knowledge Graph (graphify)
+
+This project uses [**graphify**](https://github.com/safishamsi/graphify) to build a knowledge graph from all API documentation under `docs/api/`, parsing 15,000+ individual Markdown files into structured graph data.
+
+### Graph Scale
+
+| Metric | Value |
+|--------|-------|
+| Nodes | 26,195 |
+| Edges | 26,368 |
+| Hyperedges (group relationships) | 2,589 |
+| Document chunks | ~700 |
+
+### Relationship Types
+
+The graph captures multiple API relationship types:
+- **implements** (4,997) — class implementation relationships
+- **references** (3,358) — cross-references between types
+- **semantically_similar_to** (1,912) — semantically similar APIs
+- **inherits_from** (489) — inheritance relationships
+- **has_property** (929) — property relationships
+- Plus calls, extends, uses, and other relationship types
+
+### God Nodes (Most Connected)
+
+Highest-degree core entities:
+- **StructBase** (289 connections) — data structure base class
+- **EnumBase** (163 connections) — enumeration base class
+- **Object** (105 connections) — UObject base class
+
+### Generated Files
+
+```
+docs/api/graphify-out/
+├── graph.html          # Interactive visualization (click nodes, search, filter)
+├── GRAPH_REPORT.md     # Overview report (god nodes, communities, key findings)
+├── graph.json          # Complete graph data (queryable)
+├── stats.json          # Graph statistics
+└── cache/              # SHA256 cache (skip processed files on incremental updates)
+```
+
+### How to Use
+
+Query API relationships directly in Claude Code or GitHub Copilot:
+
+```bash
+# Query information about a class
+graphify query "what classes inherit from Actor?"
+
+# Find the relationship path between two classes
+graphify path "Actor" "Pawn"
+
+# Explain a class and its connections
+graphify explain "WidgetComponent"
+
+# Use within an AI assistant (Claude Code / Copilot)
+/graphify query "show all animation-related classes"
+```
+
+> **Tip**: After installing graphify and running `graphify copilot install` or `graphify claude install`, your AI assistant will automatically read `GRAPH_REPORT.md` as context, navigating via the graph structure instead of searching files one by one.
 
 ## Project Rules
 

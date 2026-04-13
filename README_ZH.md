@@ -59,10 +59,71 @@ UnrealPythonAPI/unreal/    # Python API 类型存根（输入）
         ↓
     split_md.py            # 按类拆分大型 Markdown 文件
         ↓
-    docs/api/              # 2000+ 个独立 Markdown 文档（输出）
-        ↓
-    Context7 MCP Server    # 供 AI 代码生成工具检索使用
+    docs/api/              # 15,000+ 个独立 Markdown 文档（输出）
+      ├─→ Context7 MCP Server    # 供 AI 代码生成工具检索使用
+      └─→ graphify               # 构建知识图谱 (26k 节点 / 26k 关系)
 ```
+
+## 知识图谱 (graphify)
+
+本项目已使用 [**graphify**](https://github.com/safishamsi/graphify) 对 `docs/api/` 下的全部 API 文档构建了知识图谱，将 15,000+ 个独立的 Markdown 文件解析为结构化的图数据。
+
+### 图谱规模
+
+| 指标 | 数值 |
+|------|------|
+| 节点数 | 26,195 |
+| 关系边数 | 26,368 |
+| 超边（组关系） | 2,589 |
+| 文档运行 | ~700 个 chunk |
+
+### 关系类型
+
+图谱捕获了多种 API 关系：
+- **implements** (4,997) — 类的实现关系
+- **references** (3,358) — 类型之间的交叉引用
+- **semantically_similar_to** (1,912) — 语义相似的 API
+- **inherits_from** (489) — 继承关系
+- **has_property** (929) — 属性关系
+- 以及 calls、extends、uses 等其他关系类型
+
+### 核心节点 (God Nodes)
+
+连接度最高的核心实体：
+- **StructBase** (289 连接) — 数据结构基类
+- **EnumBase** (163 连接) — 枚举基类
+- **Object** (105 连接) — UObject 基类
+
+### 生成的文件
+
+```
+docs/api/graphify-out/
+├── graph.html          # 交互式可视化图谱（点击节点、搜索、过滤）
+├── GRAPH_REPORT.md     # 概览报告（核心节点、社区结构、关键发现）
+├── graph.json          # 完整图数据（可查询）
+├── stats.json          # 图谱统计信息
+└── cache/              # SHA256 缓存（增量更新时跳过已处理文件）
+```
+
+### 如何使用
+
+在 Claude Code 或 GitHub Copilot 中直接使用 graphify 命令查询 API 关系：
+
+```bash
+# 查询某个类的相关信息
+graphify query "what classes inherit from Actor?"
+
+# 查找两个类之间的关系路径
+graphify path "Actor" "Pawn"
+
+# 解释某个类的作用和关联
+graphify explain "WidgetComponent"
+
+# 在 AI 助手中使用（Claude Code / Copilot）
+/graphify query "动画系统相关的类有哪些"
+```
+
+> **提示**: 安装 graphify 并执行 `graphify copilot install` 或 `graphify claude install` 后，AI 助手会自动读取 `GRAPH_REPORT.md` 作为上下文，在回答问题前先通过图谱导航而非逐文件搜索。
 
 ## 项目规则
 
